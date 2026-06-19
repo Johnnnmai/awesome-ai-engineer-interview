@@ -1,29 +1,21 @@
-# Awesome AI Engineer Interview [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+*[English](README.md) · [中文](zh/README.md)*
 
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Stars](https://img.shields.io/github/stars/Johnnnmai/awesome-ai-engineer-interview?style=social)](https://github.com/Johnnnmai/awesome-ai-engineer-interview)
+<div align="center">
 
-> A curated, data-driven, bilingual (EN/中文) field guide to AI engineering roles, interviews, and career growth — covering LLM system design, GenAI fundamentals, behavioral questions, salary benchmarks, company-specific guides, and learning paths.
+<h1>Awesome AI Engineer Interview</h1>
 
-**[中文版 / Chinese Version](zh/README.md)**
+<p>A data-driven field guide to AI engineering roles, interviews, and career growth.<br>
+Built from <strong>2,445 real job descriptions</strong> and <strong>51 company interview processes</strong>.</p>
 
-Based on real data: **2,445+ job descriptions**, **51 company interview processes**, real interview experiences, and patterns synthesized from practitioner stories.
+<p>
+<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+<a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0"></a>
+<a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+</p>
 
-**What makes this different from other repos?**
+</div>
 
-- **Data-driven** — every insight comes from analyzing real job descriptions and interview data, not guesswork
-- **Bilingual** — full English + Chinese coverage ([中文版](zh/README.md))
-- **AI-native** — built around LLM, RAG, agents, and modern AI stacks (not retrofitted ML)
-- **Salary data** — real compensation benchmarks by company, level, and role
-- **Company guides** — Anthropic, OpenAI, Google DeepMind, Meta FAIR, NVIDIA, Databricks, Amazon AGI, and 44 more
-- **Real debriefs** — anonymized first-person interview experiences
-- **Difficulty-rated** — every question tagged Easy/Medium/Hard with time estimates
-- **Study plans** — structured 30/60/90-day plans for different backgrounds
-- **Learning paths** — transition guides from DE, DS, MLE, backend, frontend, and PM roles
-- **30+ playbooks** — role-specific interview prep books across tech, finance, and more ([full list](BOOKS.md))
-
----
+> Everything here is based on real data — actual job descriptions, real interview experiences, and patterns from practitioners. Not AI-generated filler.
 
 ## Contents
 
@@ -47,7 +39,6 @@ Based on real data: **2,445+ job descriptions**, **51 company interview processe
 - [Books & Courses](#books--courses)
 - [Awesome Resources](#awesome-resources)
 - [Communities & Forums](#communities--forums)
-- [Complete Interview Prep Library](#complete-interview-prep-library)
 - [Contributing](#contributing)
 
 ---
@@ -605,14 +596,6 @@ See **[awesome.md](awesome.md)** for the complete list.
 
 ---
 
-## Complete Interview Prep Library
-
-> The 0-to-1 Playbook series covers 30+ career paths beyond AI/ML — tech, finance, consulting, law, and academic admissions.
-
-[Full catalog](BOOKS.md) · [Browse online →](https://valenx.org/books/aie)
-
----
-
 ## Communities & Forums
 
 - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) - Reddit's ML research community. Papers, discussions, and career advice.
@@ -631,26 +614,17 @@ See **[awesome.md](awesome.md)** for the complete list.
 
 ## Contributing
 
-Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
+Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first. We especially welcome:
 
-### How to Contribute
-
-1. **Add a resource:** Fork this repo, add entry in appropriate section, submit PR
-2. **Submit an interview debrief:** Use the [debrief template](CONTRIBUTING.md#interview-debriefs), submit PR
-3. **Translate to Chinese:** Help expand the [zh/](zh/) directory
-4. **Fix a broken link:** Found a dead link? Open an issue or submit a fix
-
-### Quality Standards
-
-- Resources must be actively maintained (updated within 12 months)
-- Free resources are preferred; paid resources clearly marked
-- No affiliate or tracking links in community-curated sections
-- Interview debriefs must be anonymized (no real names, modified company details)
-
----
+- New resources and tools
+- [Interview debriefs](CONTRIBUTING.md#interview-debriefs) (anonymized first-person experiences)
+- Chinese translations for the [zh/](zh/) directory
+- Broken link fixes
 
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the contributors have waived all copyright and related rights to this work.
 
 This work is licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
