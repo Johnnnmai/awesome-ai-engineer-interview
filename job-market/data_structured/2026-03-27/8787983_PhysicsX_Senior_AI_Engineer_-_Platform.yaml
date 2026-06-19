@@ -1,0 +1,53 @@
+company:
+  name: PhysicsX
+  stage: Series A
+  focus: |-
+    AI-driven simulation software for engineering and
+    manufacturing across advanced industries
+position:
+  title: Senior AI Engineer - Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and scaling the Agentic
+      stack that powers AI agents transforming engineering
+      workflows. The engineer will implement production-grade
+      agent systems using LangGraph/LangChain, implement agent
+      observability, sandboxing, and deployment patterns - all
+      hands-on work deploying and managing AI agents.
+  responsibilities:
+  - Build and scale the Agentic stack within the engineering simulation platform
+  - Implement full-stack observability including deep tracing and cost tracking across
+    the agent lifecycle
+  - Build deployment patterns and tooling for auth, discoverability, and resource
+    management for deployed agents
+  - Implement secure sandboxing environments to isolate agents and enforce safety
+    policies
+  - Build systematic evaluation feedback loops for domain experts to annotate traces
+    and generate evaluation datasets
+  - Apply enterprise governance including identity and access controls (RBAC, OIDC)
+    for multi-tenant security
+  - Own delivery of key workstreams within the platform's critical infrastructure
+  use_cases:
+  - AI-driven multi-physics simulation for engineering and manufacturing
+  - Deep learning surrogates for solving massive engineering challenges in Aerospace
+    and Defense
+  - Simulation and design optimization for Semiconductor and Materials industries
+  - Automotive engineering design and manufacturing workflows
+  - Enabling engineers to build and deploy AI-powered simulation tools
+  skills:
+    genai: [LangGraph, LangChain, PydanticAI, MCP]
+    ml: []
+    web: []
+    databases: [Pinecone, Weaviate]
+    data: []
+    cloud: []
+    ops: [Temporal, LangSmith, Arize, OTel, Kubernetes, Docker, Terraform, Braintrust]
+    languages: [Python, Go, TypeScript]
+    domains: []
+    other: [OIDC, RBAC]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8787983'
+  extracted_at: '2026-03-27T13:48:58.900117'

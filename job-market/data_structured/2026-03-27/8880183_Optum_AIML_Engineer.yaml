@@ -1,0 +1,50 @@
+company:
+  name: Optum
+  stage: Public
+  focus: |-
+    Healthcare technology and services improving health outcomes
+    globally
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role primarily focuses on building, training, and
+      optimizing traditional ML and DL models for production, with
+      LLMs mentioned as secondary knowledge. Core responsibilities
+      center on standard machine learning workflows (data
+      cleaning, feature engineering, model training) rather than
+      LLM/agent development as the primary function.
+  responsibilities:
+  - Drive end-to-end ML and DL projects from conception to production deployment
+  - Perform data cleaning, feature engineering, and model evaluation following best
+    practices
+  - Build, train, and optimize machine learning models for production environments
+  - Develop solutions using Large Language Models for text and conversational applications
+  - Implement deep learning models using frameworks like TensorFlow and PyTorch
+  - Deploy scalable ML solutions using cloud platforms (AWS/GCP/Azure)
+  - Collaborate cross-functionally with teams to deliver data-driven solutions
+  - Apply RAG methodologies and AI agent techniques where applicable
+  use_cases:
+  - Healthcare data analysis and predictive modeling
+  - Text and conversational AI applications in healthcare context
+  - Production ML systems for health outcomes improvement
+  - Patient care optimization through data-driven insights
+  - Health equity and access improvement initiatives
+  skills:
+    genai: [Large Language Models, Retrieval-Augmented Generation (RAG), AI Agents]
+    ml: [scikit-learn, TensorFlow, PyTorch, Feature engineering, Model evaluation,
+      Deep learning]
+    web: []
+    databases: []
+    data: [pandas, NumPy]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8880183'
+  extracted_at: '2026-03-27T15:43:41.389712'

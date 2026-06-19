@@ -1,0 +1,57 @@
+company:
+  name: CAI (cai.io).
+  stage: Established
+  focus: |-
+    Global services firm providing technology solutions across
+    public and commercial sectors
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on traditional ML and deep learning for
+      engineering applications, with explicit emphasis on CNNs,
+      RNNs, LSTMs, and non-generative transformer architectures.
+      The position specifically excludes generative AI work and
+      concentrates on physics-informed neural networks, surrogate
+      modeling, and classical ML algorithms for product design and
+      manufacturing.
+  responsibilities:
+  - Develop and maintain high-performance AI/ML infrastructure (local and cloud-based)
+    to support AI hub projects and engineering users
+  - Build and deploy scalable machine learning pipelines using TensorFlow, PyTorch,
+    Keras, and other deep learning frameworks for production environments
+  - Implement classical machine learning algorithms including regression, classification,
+    clustering, dimensionality reduction, and ensemble methods
+  - Design and deploy deep learning architectures including CNNs, RNNs, LSTMs, autoencoders,
+    and transformers for non-generative tasks
+  - Apply inverse design principles to optimize engineering solutions using AI-driven
+    approaches
+  - Develop physics-informed neural networks (PINNs) and hybrid AI models integrating
+    engineering domain knowledge with ML
+  - Implement surrogate modeling techniques to accelerate engineering simulations
+    and enable real-time optimization
+  use_cases:
+  - Product design optimization
+  - Manufacturing process development
+  - Engineering simulation acceleration
+  - Predictive maintenance applications
+  - Real-time engineering optimization
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, Keras, scikit-learn, XGBoost, LightGBM, CatBoost, CNNs,
+      RNNs, LSTMs, GRUs, Autoencoders, Transformer architectures, Physics-informed
+        neural networks, Transfer learning, SHAP, LIME]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Computer vision, Time-series analysis]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8773726'
+  extracted_at: '2026-03-27T16:14:34.261593'

@@ -1,0 +1,54 @@
+company:
+  name: Red Hat
+  stage: Public
+  focus: |-
+    Enterprise open source software solutions (Linux, cloud,
+    Kubernetes)
+position:
+  title: Senior Software Engineer, AI/ML Backend Developer (Python, Linux)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and developing AI/ML platforms
+      and applications, implementing AI/ML algorithms, working
+      with agentic AI, and optimizing model inference runtimes
+      (vLLM, TGI). The position requires hands-on work with GenAI
+      frameworks (LangChain, LangGraph) and direct contribution to
+      ML infrastructure and deployment, not just supporting
+      others' AI work.
+  responsibilities:
+  - Design, architect, document, and lead development of AI/ML platform components
+    and agentic AI applications
+  - Implement and optimize cutting-edge AI/ML algorithms and production-quality code
+    using Python and possibly Go, C, C++, or Rust
+  - Utilize AI-assisted development tools (GitHub Copilot, Cursor, Claude Code) for
+    code generation and intelligent suggestions
+  - Participate in and contribute to upstream open-source communities such as Kubeflow,
+    vLLM, TGI, and PyTorch
+  - Build and deploy container-based applications to Red Hat OpenShift and public
+    clouds with CI/CD and MLOps best practices
+  - Collaborate with research scientists, data scientists, and product teams while
+    mentoring junior engineers
+  - Stay current with Generative AI advancements, conduct root cause analysis, and
+    solve complex problems
+  use_cases:
+  - Enterprise AI/ML platform development for Red Hat OpenShift AI
+  - Agentic AI applications for customer experience and business intelligence
+  - Model inference optimization and deployment at scale
+  - Integration of AI/ML technologies with enterprise open source solutions
+  skills:
+    genai: [LangChain, LangGraph, GitHub Copilot, Cursor, Claude Code]
+    ml: [PyTorch]
+    web: [REST APIs, HTTP]
+    databases: []
+    data: []
+    cloud: [Red Hat OpenShift, AWS, Google Cloud Platform, Azure]
+    ops: [Kubeflow, vLLM, TGI, Docker, Kubernetes, Jenkins, GitLab CI/CD, MLOps]
+    languages: [Python, Go, C, C++, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8014473'
+  extracted_at: '2026-03-03T11:19:33.684683'

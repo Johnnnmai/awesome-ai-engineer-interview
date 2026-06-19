@@ -1,0 +1,51 @@
+company:
+  name: S&P Global
+  stage: Public
+  focus: Financial intelligence and data analytics for global markets
+position:
+  title: Senior Java Developer (with Gen AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is primarily a senior Java developer role focused on
+      building the platform/framework that powers AI/ML solutions.
+      The core responsibilities are Java backend development,
+      microservices, and cloud infrastructure. While the team
+      works on an AI/ML-powered document extraction platform and
+      GenAI knowledge is listed, the role itself is about building
+      the surrounding platform and infrastructure, not directly
+      building, training, or deploying ML models.
+  responsibilities:
+  - Design, develop and maintain functionalities to create new solutions on the Foreseer
+    platform
+  - Write high quality code using industry best practices for a cloud-native distributed
+    framework
+  - Implement new features and iterations for document information extraction projects
+  - Implement security measures and compliance standards to protect sensitive data
+  - Maintain comprehensive documentation of platform, processes and procedures
+  - Support and foster a quality-first agile culture built on partnership and trust
+  - Ensure use of standards, governance and best practices for scalable solutions
+  - Learn and understand all aspects of the framework and project deliverables
+  use_cases:
+  - Information extraction from structured and semi-structured documents
+  - Web content data extraction
+  - Human-in-the-loop AI/ML platform for document processing
+  - Digital transformation solutions for enterprise data
+  - Auto-scalable cloud-native document intelligence platform
+  skills:
+    genai: [GenAI Platforms]
+    ml: [AI/ML Solutions Architecture]
+    web: [Spring Boot, Spring Framework, Spring JPA, Spring Security, RESTful Services,
+      Microservices, React, Vaadin]
+    databases: [Redis Search, RDBMS, NoSQL]
+    data: [ActiveMQ]
+    cloud: [AWS S3, AWS EKS, AWS EC2]
+    ops: [Docker/Containers, CI/CD, Azure DevOps, Git]
+    languages: [Java, J2EE, Python]
+    domains: []
+    other: [Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9095550'
+  extracted_at: '2026-04-22T12:39:14.001371'

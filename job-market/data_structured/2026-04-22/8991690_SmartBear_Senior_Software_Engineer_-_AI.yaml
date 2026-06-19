@@ -1,0 +1,44 @@
+company:
+  name: SmartBear
+  stage: Late-stage/Private (established company with 16M+ users and 32K organizations)
+  focus: |-
+    Software quality, test automation, API lifecycle management,
+    and observability
+position:
+  title: Senior Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying AI Agents and
+      LLM-powered agentic workflows for test management. The
+      engineer will work hands-on with LLMs, LangChain, agent
+      frameworks, and MCP-style integrations, which constitutes
+      building AI systems from the ground up.
+  responsibilities:
+  - Build and deploy AI Agents for test management workflows
+  - Develop LLM-based and MCP-style integrations
+  - Prototype and validate new AI use cases for QMetry Test Management
+  - Build and maintain backend APIs and product integrations
+  - Deliver high-quality, production-ready code
+  - Contribute to transforming QMetry's product to align with end-user requirements
+  use_cases:
+  - Automating and enhancing software testing processes with AI agents
+  - LLM-powered test management workflow automation
+  - Intelligent test management through agentic workflows
+  - MCP-style integrations for test management platform
+  skills:
+    genai: [LangChain, Agent frameworks, LLMs, MCP]
+    ml: []
+    web: [Flask, FastAPI, REST APIs]
+    databases: [NoSQL, Vector DB]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, GitHub]
+    languages: [Python, Node.js, JavaScript, TypeScript]
+    domains: []
+    other: [System design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8991690'
+  extracted_at: '2026-04-22T12:43:09.896272'

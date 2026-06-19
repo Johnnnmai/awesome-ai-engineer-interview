@@ -1,0 +1,59 @@
+company:
+  name: Riot Games
+  stage: Public
+  focus: |-
+    Video game developer and publisher (League of Legends,
+    VALORANT)
+position:
+  title: Principal Machine Learning Engineer (Personalization, Matchmaking, & Player
+    Experience AI) - Publishing Platform
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on building and deploying large-scale ML
+      systems for personalization, matchmaking, and
+      recommendations using traditional ML techniques (graph ML,
+      reinforcement learning, skill inference, multi-objective
+      optimization). While it involves real-time inference and
+      optimization, it centers on classical ML/DL approaches
+      rather than LLMs, GenAI, or agent-based systems.
+  responsibilities:
+  - Define and lead modeling architecture for personalization, matchmaking, social
+    graph recommendations, and player/community discovery
+  - Architect multi-model systems combining skill, preference, trust, and safety signals
+    for fair matchmaking
+  - Develop models for skill inference, player behavior prediction, trust & safety
+    signals, and multi-objective optimization
+  - Build and optimize real-time inference systems for personalized content, store
+    offers, and matchmaking at global scale
+  - Drive adoption of advanced modeling approaches including contextual bandits, reinforcement
+    learning, graph ML, and session-aware personalization
+  - Partner with Data Engineering and Product to shape data schemas, feature pipelines,
+    telemetry standards, and model observability
+  - Define Responsible AI standards and implement fairness audits, bias mitigation,
+    transparency, and safety mechanisms
+  - Set organization-wide standards for model optimization, multi-model orchestration,
+    and drift detection
+  use_cases:
+  - Player matchmaking systems that balance skill, fairness, and experience quality
+  - Personalized content and store offer recommendations for players
+  - Social graph recommendations for community and player discovery
+  - Trust and safety systems including toxicity detection and community health
+  - Real-time skill inference and player behavior prediction
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, JAX, Graph ML, Reinforcement Learning, Contextual Bandits,
+      Representation Learning, Multi-objective optimization]
+    web: []
+    databases: [Redis]
+    data: [Ray, Kafka, Flink]
+    cloud: [Vertex AI, SageMaker]
+    ops: [Real-time ML inference]
+    languages: []
+    domains: []
+    other: [A/B Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8520039'
+  extracted_at: '2026-03-27T16:02:06.893245'

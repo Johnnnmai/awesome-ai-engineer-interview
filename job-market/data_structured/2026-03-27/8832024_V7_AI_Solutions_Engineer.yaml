@@ -1,0 +1,48 @@
+company:
+  name: V7
+  stage: Series A/B (implied by "backed by leading investors" and growth stage)
+  focus: |-
+    No-code AI agent platform for document processing in legal,
+    finance, insurance, and accounting
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs including prompt
+      engineering, LLM API integration, building workflows with AI
+      agents, and implementing solutions using foundation models
+      like GPT, Claude, and Gemini. While it's customer-facing,
+      the role directly deploys and implements AI systems rather
+      than just supporting others who build AI.
+  responsibilities:
+  - Run technical discovery, design solutions, and lead POCs alongside Account Executives
+    to close deals
+  - Build and implement workflows within V7 Go combining prompt engineering, data
+    pipelines, and integrations
+  - Own customer onboarding to drive fast time-to-value
+  - Act as primary technical contact for accounts, handling complex technical challenges
+  - Manage up to 10 concurrent customer projects
+  - Feed customer insights back to product and engineering teams
+  use_cases:
+  - Document processing for finance, insurance, legal, and accounting teams
+  - Multi-modal data processing with verifiable outputs
+  - No-code AI agent deployment for enterprise workflows
+  - Compliance-focused AI solutions with transparent logic
+  skills:
+    genai: [LLM API integration, Prompt engineering, 'Foundation models (GPT, Claude,
+        Gemini)']
+    ml: [AI accuracy measurement]
+    web: []
+    databases: []
+    data: [Data pipelines]
+    cloud: [Cloud providers integration]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Solutions architecture]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8832024'
+  extracted_at: '2026-03-27T13:24:56.015095'

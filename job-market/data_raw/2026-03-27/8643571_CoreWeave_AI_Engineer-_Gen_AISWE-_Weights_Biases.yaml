@@ -1,0 +1,232 @@
+job_id: 8643571
+title: "AI Engineer- Gen AI/SWE- Weights & Biases"
+company: CoreWeave
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Agent Frameworks
+  - Ci/Cd
+  - Embeddings
+  - Genai
+  - Llm
+  - Python
+  - Rag
+  - Typescript
+  - Vector Dbs
+company_size: 1,450 Employees
+description: |
+  CoreWeave is The Essential Cloud for AI™. Built for pioneers
+  by pioneers, CoreWeave delivers a platform of technology,
+  tools, and teams that enables innovators to build and scale
+  AI with confidence. Trusted by leading AI labs, startups,
+  and global enterprises, CoreWeave combines superior
+  infrastructure performance with deep technical expertise to
+  accelerate breakthroughs and turn compute into capability.
+  Founded in 2017, CoreWeave became a publicly traded company
+  (Nasdaq: CRWV) in March 2025. Learn more at
+  www.coreweave.com.
+  
+  What You'll Do:
+  
+  The AI team is a hands-on applied AI group at Weights &
+  Biases that turns frontier research into teachable
+  workflows. We collaborate with leading enterprises and the
+  OSS community. We are the team that took W&B from a few
+  hundred users to millions of users and one of the most
+  beloved tools in the ML community. A senior applied role at
+  the research-to-product boundary. You will design,
+  implement, and evaluate LLM applications and agents with
+  cutting-edge techniques from the latest research, then
+  document and teach them to our community and customers. The
+  focus is application, not novel research: rapid prototyping,
+  careful evaluation, and production-grade reference
+  implementations with clear trade-offs. We prioritize
+  responsible, safe deployment and reproducibility.
+  
+  About the role:
+  
+  - Ship end-to-end GenAI workflows (prompting → RAG →
+    tools/agents → eval → serve) with reproducible repos, W&B
+    Reports, and dashboards others can run.
+  - Build agentic systems (tool use, function calling, multi-
+    step planners) with MCP servers/clients and secure
+    tool/resource integrations.
+  - Design evaluation harnesses (RAG/agent evals, golden sets,
+    regression tests, telemetry) and drive continuous
+    improvement via offline + online metrics.
+  - Build in public: Publish engineering artifacts (code, docs,
+    talks, tutorials) and engage with OSS and customer
+    engineers; turn repeated patterns into reusable templates.
+  - Partner with product/solutions to launch LLM-powered
+    features with clear latency/cost/SLO targets and
+    safety/guardrail checks.
+  - Run growth experiments to track the usage of the Weights &
+    Biases suite of products from the artifacts built.
+  
+  Who You Are:
+  
+  - Software engineering: 6+ years building production systems;
+    strong Python or TypeScript + system design, testing,
+    CI/CD, observability.
+  - GenAI apps: shipped LLM-powered features
+    (tools/agents/function calling), with measurable impact
+    (latency/cost/reliability).
+  - Agentic patterns: implemented planners/executors, tool
+    orchestration, sandboxing, and failure taxonomies;
+    familiarity with agent infra concerns.
+  - RAG: pragmatic mastery of chunking, embeddings,
+    vector/hybrid search, rerankers; experience with vector
+    DBs/search indices and retrieval policy design.
+  - Evaluation: designed LLM/RAG/agent evals (offline golden
+    sets, counterfactuals, user studies, guardrail tests);
+    stats literacy (variance, CIs, power).
+  - Serving & productization: comfortable with queueing,
+    caching, streaming, and cost controls; can debug latency
+    at model, retrieval, and network layers.
+  - Public signal: 2+ substantial OSS repos/blog
+    posts/talks/videos with adoption (stars, forks, downloads,
+    views) and reproducible artifacts.
+  
+  Preferred:
+  
+  - Experience building with AI SDKs / agent frameworks (e.g.,
+    TypeScript/Python SDKs, planning libraries) and shipping
+    developer-facing examples.
+  - Production agent security/sandboxing, red-teaming, and
+    policy/PII enforcement.
+  - Operated eval platforms or built judge models/heuristics;
+    experience leading metrics reviews with product/UX.
+  - Customer-facing enablement: templates or reference
+    implementations adopted by external teams at scale.
+  
+  Wondering if you’re a good fit? We believe in investing in
+  our people, and value candidates who can bring their own
+  diversified experiences to our teams – even if you aren't a
+  100% skill or experience match. Here are a few qualities
+  we’ve found compatible with our team. If some of this
+  describes you, we’d love to talk.
+  
+  - You love turning ambiguous product ideas into clean,
+    benchmarked, production-ready LLM/agent workflows others
+    can use today.
+  - You’re curious about the latest research from AI labs and
+    excited to apply it to real-world problems.
+  - You’re an expert in at least one of: RAG quality at scale,
+    agent/tool orchestration, or GenAI DX (SDKs, examples,
+    docs)—and you can demonstrate it with code and metrics.
+  
+  Why Us?
+  
+  We work hard, have fun, and move fast! We’re in an exciting
+  stage of hyper-growth that you will not want to miss out on.
+  We’re not afraid of a little chaos, and we’re constantly
+  learning. Our team cares deeply about how we build our
+  product and how we work together, which is represented
+  through our core values:
+  
+  - Be Curious at Your Core
+  - Act Like an Owner
+  - Empower Employees
+  - Deliver Best-in-Class Client Experiences
+  - Achieve More Together
+  
+  We support and encourage an entrepreneurial outlook and
+  independent thinking. We foster an environment that
+  encourages collaboration and provides the opportunity to
+  develop innovative solutions to complex problems. As we get
+  set for takeoff, the growth opportunities within the
+  organization are constantly expanding. You will be
+  surrounded by some of the best talent in the industry, who
+  will want to learn from you, too. Come join us!
+  
+  The base salary range for this role is $188,000 to $275,000.
+  The starting salary will be determined based on job-related
+  knowledge, skills, experience, and market location. We
+  strive for both market alignment and internal equity when
+  determining compensation. In addition to base salary, our
+  total rewards package includes a discretionary bonus, equity
+  awards, and a comprehensive benefits program (all based on
+  eligibility).
+  
+  What We Offer
+  
+  The range we’ve posted represents the typical compensation
+  range for this role. To determine actual compensation, we
+  review the market rate for each candidate which can include
+  a variety of factors. These include qualifications,
+  experience, interview performance, and location.
+  
+  In addition to a competitive salary, we offer a variety of
+  benefits to support your needs, including:
+  
+  - Medical, dental, and vision insurance - 100% paid for by
+    CoreWeave
+  - Company-paid Life Insurance
+  - Voluntary supplemental life insurance
+  - Short and long-term disability insurance
+  - Flexible Spending Account
+  - Health Savings Account
+  - Tuition Reimbursement
+  - Ability to Participate in Employee Stock Purchase Program
+    (ESPP)
+  - Mental Wellness Benefits through Spring Health
+  - Family-Forming support provided by Carrot
+  - Paid Parental Leave
+  - Flexible, full-service childcare support with Kinside
+  - 401(k) with a generous employer match
+  - Flexible PTO
+  - Catered lunch each day in our office and data center
+    locations
+  - A casual work environment
+  - A work culture focused on innovative disruption
+  
+  Our Workplace
+  
+  While we prioritize a hybrid work environment, remote work
+  may be considered for candidates located more than 30 miles
+  from an office, based on role requirements for specialized
+  skill sets. New hires will be invited to attend onboarding
+  at one of our hubs within their first month. Teams also
+  gather quarterly to support collaboration.
+  
+  California Consumer Privacy Act - California applicants only
+  
+  CoreWeave is an equal opportunity employer, committed to
+  fostering an inclusive and supportive workplace. All
+  qualified applicants and candidates will receive
+  consideration for employment without regard to race, color,
+  religion, sex, disability, age, sexual orientation, gender
+  identity, national origin, veteran status, or genetic
+  information.
+  
+  As part of this commitment and consistent with the Americans
+  with Disabilities Act (ADA), CoreWeave will ensure that
+  qualified applicants and candidates with disabilities are
+  provided reasonable accommodations for the hiring process,
+  unless such accommodation would cause an undue hardship. If
+  reasonable accommodation is needed, please contact:
+  careers@coreweave.com.
+  
+  Export Control Compliance
+  
+  This position requires access to export controlled
+  information.  To conform to U.S. Government export
+  regulations applicable to that information, applicant must
+  either be (A) a U.S. person, defined as a (i) U.S. citizen
+  or national, (ii) U.S. lawful permanent resident (green card
+  holder), (iii) refugee under 8 U.S.C. § 1157, or (iv) asylee
+  under 8 U.S.C. § 1158, (B) eligible to access the export
+  controlled information without a required export
+  authorization, or (C) eligible and reasonably likely to
+  obtain the required export authorization from the applicable
+  U.S. government agency.  CoreWeave may, for legitimate
+  business reasons, decline to pursue any export licensing
+  process.
+industries:
+  - Cloud
+  - Information Technology
+  - Machine Learning
+posted_date: 2026-03-03
+url: "https://builtin.com/job/ai-engineer-gen-ai-swe-weights-biases/8643571"
+source: Built In

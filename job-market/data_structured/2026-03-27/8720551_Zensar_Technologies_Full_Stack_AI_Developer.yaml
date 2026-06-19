@@ -1,0 +1,49 @@
+company:
+  name: Zensar Technologies
+  stage: null
+  focus: null
+position:
+  title: Full Stack AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI workflows,
+      agents, and multi-agent systems using LangGraph and
+      LangSmith. The developer will work directly with LLMs,
+      prompt engineering, and agent orchestration, which is core
+      AI/ML development work.
+  responsibilities:
+  - Integrate LLMs (GPT, Gemini) into applications and implement prompt engineering
+    strategies
+  - Build AI workflows and agents using LangGraph and LangSmith
+  - Design and implement multi-agent systems with agent orchestration
+  - Work with agent builder platforms and implement agent-to-agent communication
+  - Implement Model Context Protocol (MCP) and MCP Tools for AI systems
+  - Design and manage vector databases (PostgreSQL/PGVector) and embeddings
+  - Leverage Snowflake AI capabilities including Cortex AI and Snowpark ML
+  - Monitor and manage model drift in production systems
+  use_cases:
+  - AI agent development and orchestration
+  - Multi-agent system implementation
+  - LLM-powered application integration
+  - Vector-based semantic search and retrieval
+  - Enterprise AI workflows
+  - Snowflake-based AI/ML solutions
+  skills:
+    genai: [GPT, Gemini, prompt engineering, LangGraph, LangSmith, agent builder platforms,
+      multi-agent systems, agent orchestration, Model Context Protocol (MCP), MCP
+        Tools, A2A communication, Cortex AI]
+    ml: [embeddings, Snowpark ML]
+    web: []
+    databases: [PostgreSQL/PGVector, Snowflake SQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8720551'
+  extracted_at: '2026-03-27T13:18:58.161802'

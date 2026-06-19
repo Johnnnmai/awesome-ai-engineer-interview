@@ -1,0 +1,56 @@
+company:
+  name: Re:Build Manufacturing
+  stage: Late Stage / Spin-out (backed by parent company Re:Build Manufacturing)
+  focus: |-
+    AI-powered platform for hardware product development
+    coordination
+position:
+  title: Senior Backend Engineer - AI Product
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building agentic AI workflows
+      using LangChain and LangGraph, integrating LLM APIs
+      (Anthropic Claude, OpenRouter), and constructing the AI
+      infrastructure powering the platform. The engineer is hands-
+      on with LLM orchestration, agent workflows, and structured
+      data extraction from unstructured inputs — core AI-first
+      work.
+  responsibilities:
+  - Design and implement RESTful APIs with OpenAPI specs and auto-generated client
+    SDKs using SQLAlchemy and Postgres
+  - Develop ingestion pipelines using Celery and Redis that connect to existing team
+    tools and extract structured engineering artifacts from unstructured inputs
+  - Build and extend agentic AI workflows using LangChain, LangGraph, and related
+    frameworks for structured data extraction, risk detection, dependency analysis,
+    and proactive team coordination
+  - Integrate LLM APIs (Anthropic Claude, OpenRouter) with streaming (SSE), error
+    handling, and cost optimization
+  - Deploy and operate services on GCP (Cloud Run, Cloud SQL, Memorystore) with Terraform
+  - Write well-tested, maintainable code and participate in code reviews to establish
+    engineering best practices
+  use_cases:
+  - Transform unstructured inputs (call transcripts, emails, documents, datasheets)
+    into structured engineering artifacts (requirements, project plans, dependencies)
+  - Ambient AI agents for proactive cross-discipline coordination during hardware
+    development
+  - Real-time project intelligence serving hardware teams
+  - Risk detection and dependency analysis across hardware development programs
+  - Automated change request tracking and context relay across engineering teams
+  skills:
+    genai: [LangChain, LangGraph, Anthropic Claude API, OpenRouter, AI agent orchestration,
+      Cursor/Copilot/Claude (AI coding tools)]
+    ml: []
+    web: [FastAPI, REST APIs, OpenAPI, SSE (Server-Sent Events), OIDC/JWT]
+    databases: [PostgreSQL, SQLAlchemy, Redis]
+    data: [Celery, ETL]
+    cloud: ['GCP (Cloud Run, Cloud SQL, Memorystore)']
+    ops: [Terraform, Docker, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9032173'
+  extracted_at: '2026-04-22T12:40:23.511632'

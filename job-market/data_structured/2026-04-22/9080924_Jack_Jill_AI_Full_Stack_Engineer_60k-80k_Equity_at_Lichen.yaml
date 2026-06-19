@@ -1,0 +1,50 @@
+company:
+  name: Jack & Jill AI
+  stage: Early-stage (Pre-seed/Seed)
+  focus: |-
+    Agentic platform for AI discovery targeting enterprise
+    clients
+position:
+  title: Full Stack Engineer (£60k-£80k + Equity) at Lichen AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full stack engineering role at an AI company, but
+      the engineer is building the SaaS platform infrastructure
+      (backends, UI, deployment pipelines, security/compliance)
+      rather than building, training, or deploying AI/ML models
+      themselves. The AI/agent system already exists as a working
+      prototype; this role focuses on turning that prototype into
+      production-grade SaaS.
+  responsibilities:
+  - Transition a working prototype into a production-grade enterprise SaaS platform
+    with secure, scalable backend systems
+  - Build automated deployment pipelines and establish foundational engineering practices
+  - Lead end-to-end development of the user interface to make complex AI-generated
+    insights legible and actionable for non-technical users
+  - Implement enterprise-grade security and compliance standards including ISO 27001
+    and GDPR
+  - Design robust database structures and data pipelines
+  - Work directly with the founding team to ensure the platform is ready for global
+    enterprise customers
+  use_cases:
+  - Agentic AI platform for AI discovery in enterprise settings
+  - Making AI-generated insights actionable for non-technical business users
+  - Amplifying human insight through AI rather than replacing it
+  - Bridging an enterprise adoption gap for AI tools
+  skills:
+    genai: []
+    ml: []
+    web: [React, FastAPI]
+    databases: [Database design]
+    data: [Data pipelines]
+    cloud: [AWS]
+    ops: [CI/CD]
+    languages: [TypeScript, JavaScript, Python]
+    domains: []
+    other: [ISO 27001, GDPR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9080924'
+  extracted_at: '2026-04-22T12:47:11.633556'

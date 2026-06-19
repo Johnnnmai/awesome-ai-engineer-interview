@@ -1,0 +1,150 @@
+job_id: 8654311
+title: Senior Engineer, Applied AI - Detect
+company: Sage
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Aws Sagemaker
+  - Google Vertex Ai
+  - Python
+  - Typescript
+company_size: 95 Employees
+description: |
+  Sage is on a mission to improve care and quality of life for
+  older adults, starting with those residing in senior living
+  facilities. Falls are the leading cause of injury-related
+  death among adults over 65. And yet, fall prevention and
+  emergency response systems for older adults are archaic and
+  ineffective. At Sage we've built a more modern way of
+  understanding when older adults need help, including methods
+  for residents to alert caregivers when in need of help, and
+  corresponding software for caregivers to triage response.
+  Our company mission is to create a product that our client
+  counterparts love, and this role is a key part of that
+  objective.
+  
+  Sage is a small, tight team of ambitious, multi-disciplinary
+  entrepreneurs. We are a software-enabled, mission-driven
+  company, and are focused only on the problems that are
+  central to achieving that mission. At Sage, we work hard and
+  fast but also know that to build a truly important company,
+  we need to treat our work as a marathon, and not a sprint.
+  The journey matters.
+  
+  About this Role
+  
+  As a Senior Engineer on the Detect team working on applied
+  machine learning, you're a fullstack engineer who owns the
+  end-to-end lifecycle of the AI models that power our camera-
+  based detection system — from data collection and labeling
+  through prompting, training, evaluation, and production
+  deployment. Today, Detect uses frontier multi-modal vision
+  models to analyze video streams and detect falls in real
+  time. Your job is to make these external models dramatically
+  better and more capable.
+  
+  You'll take ownership of our ML experimentation platform and
+  infrastructure, maturing it into a robust system that
+  enables the team to rapidly iterate on model quality at
+  scale. You'll design repeatable fine-tuning pipelines that
+  allow models to continuously improve with new production
+  data, and expand the system's detection capabilities beyond
+  falls into new behavioral categories. This is a hands-on,
+  high-autonomy role where you'll directly impact the accuracy
+  of a life-saving system used every day by caregivers across
+  the country.
+  
+  Responsibilities
+  
+  - Improve detection accuracy and reduce false positives
+    through prompt engineering, model fine-tuning, and novel
+    inference strategies
+  - Work closely with the backend engineering team to integrate
+    model improvements into the real-time video processing
+    pipeline
+  - Own and evolve our ML experimentation platform, maturing
+    existing infrastructure into a production-grade system the
+    team relies on daily
+  - Build data pipelines for collecting, labeling, and preparing
+    production video and image data for model training
+  - Design repeatable fine-tuning and evaluation pipelines that
+    enable rapid experimentation and measure model performance
+    at scale
+  - Expand detection capabilities into new behavioral categories
+  
+  Minimum Qualifications
+  
+  - 5+ years of professional software engineering experience
+  - Experience training, fine-tuning, or improving external
+    ML/AI models in a production setting
+  - Strong understanding of model evaluation methodology and
+    experiment tracking
+  - Proficiency in Python or TypeScript
+  
+  Preferred Qualifications
+  
+  - Experience with cloud AI platforms (Google Vertex AI, AWS
+    SageMaker, or similar)
+  - Experience fine-tuning multi-modal models (VLMs) or large
+    language models (LLMs)
+  - Familiarity with Kotlin, Java, or similar JVM languages
+  - Full-stack capability with TypeScript/React for building
+    internal tool UIs
+  - Background in computer vision, video processing, or working
+    with image/video data at scale
+  - Experience building internal ML tooling (labeling,
+    experiment tracking, evaluation)
+  - Experience maturing early-stage internal tools into
+    production-grade systems
+  
+  Benefits and Pay
+  
+  Our headquarters are located in New York City's Union
+  Square. We believe in cross team collaboration. We think
+  good ideas can come from anyone, and we've designed our
+  processes to encourage participation from all. While we take
+  our mission seriously, we don't take ourselves too
+  seriously. We like to host offsites, outings, and team meals
+  where we can connect as people, not just as colleagues. We
+  offer office lunch and a fully stocked snack bar. While we
+  are an in office culture, we allow up to 2 remote days per
+  week.
+  
+  Our benefits package for employees includes competitive base
+  compensation along with stock options. The expected annual
+  salary range for this role is $180,000 - $210,000 USD,
+  depending upon the job level, which will depend on your
+  level of expertise, your experience, and your
+  qualifications. We also provide fully-paid health and dental
+  insurance coverage for all of our employees, along with
+  other health benefits including vision insurance, membership
+  to premium primary and urgent care, and online medical
+  health providers. We also have a take as you need time off
+  policy, in addition to 7 paid holidays and a company wide
+  winter break during the holidays.
+  
+  EEO Statement
+  
+  Sage is an equal opportunity employer that is committed to
+  diversity and inclusion in the workplace. We prohibit
+  discrimination and harassment of any kind based on race,
+  color, sex, religion, sexual orientation, national origin,
+  disability, genetic information, pregnancy, or any other
+  protected characteristic as outlined by federal, state, or
+  local laws.
+  
+  This policy applies to all employment practices within our
+  organization, including hiring, recruiting, promotion,
+  termination, layoff, recall, leave of absence, compensation,
+  benefits, training, and apprenticeship. Sage makes hiring
+  decisions based solely on qualifications, merit, and
+  business needs at the time.
+industries:
+  - Hardware
+  - Healthtech
+  - Software
+  - Analytics
+posted_date: 2026-03-04
+url: "https://builtin.com/job/senior-applied-machine-learning-engineer-detect/8654311"
+source: Built In

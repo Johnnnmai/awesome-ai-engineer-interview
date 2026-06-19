@@ -1,0 +1,47 @@
+company:
+  name: Jack & Jill AI
+  stage: Series A
+  focus: |-
+    AI-powered gamified EdTech platform for personalized
+    learning
+position:
+  title: Senior AI Engineer at Gizmo.ai
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI personalization
+      systems, leading prompt engineering strategies, and
+      implementing LLM integrations to create adaptive educational
+      content. The engineer will work hands-on with LLMs to build
+      and deploy AI systems, not just support infrastructure.
+  responsibilities:
+  - Architect and implement sophisticated AI personalization systems using TypeScript
+    and Python
+  - Lead prompt engineering strategies and LLM integrations to generate adaptive educational
+    content at scale
+  - Build and maintain technical foundation to scale platform from millions to billions
+    of users
+  - Create personalized learning experiences for 1.5M+ monthly active users
+  - Design and implement AI systems that make learning feel natural and engaging
+  use_cases:
+  - Personalized learning experiences for students
+  - Adaptive educational content generation
+  - Gamified learning through AI
+  - LLM-powered content personalization
+  - Scaling personalized education to global audience
+  skills:
+    genai: [LLMs, Prompt engineering]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8854055'
+  extracted_at: '2026-03-27T15:18:36.408545'

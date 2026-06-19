@@ -1,0 +1,56 @@
+company:
+  name: Pair Team
+  stage: Series B+
+  focus: |-
+    AI-enabled healthcare system for Medicaid, Medicare, and
+    public assistance programs
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building agentic AI systems that
+      participate in care delivery workflows. The engineer will
+      design agent reasoning, tool use, and memory systems,
+      working hands-on with production multi-agent architectures
+      using frameworks like LangGraph and Mastra. This is core AI
+      system building, not support infrastructure.
+  responsibilities:
+  - Lead the design and evolution of agentic systems that participate directly in
+    care delivery, coordinating care and engaging patients
+  - Define and build architectural patterns for agent reasoning, tool use, memory,
+    and human-in-the-loop collaboration
+  - Develop reusable platform capabilities and product-facing implementations balancing
+    architecture with rapid iteration
+  - Own complex problem spaces end-to-end from system design through observability,
+    evaluation, and continuous improvement
+  - Partner with product managers, operators, and domain experts to translate real-world
+    processes into reliable agent behavior
+  - Establish standards and best practices for agent evaluation, safety, and operational
+    reliability
+  - Mentor engineers and influence technical direction across teams building agent-driven
+    capabilities
+  use_cases:
+  - Care coordination for Medicaid and Medicare beneficiaries
+  - Patient engagement and communication through agentic workflows
+  - Automation of healthcare operations and administrative processes
+  - Whole-person care delivery integrating medical, behavioral, and social needs
+  - Safety net healthcare infrastructure connecting healthcare and social service
+    organizations
+  skills:
+    genai: [LangGraph, Mastra, Claude Agents SDK, OpenAI API, Anthropic API, MCP (Model
+        Context Protocol), Multi-agent systems, Agent evaluation frameworks]
+    ml: []
+    web: [Backend architecture]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Langfuse, LangSmith, Braintrust]
+    languages: [Python]
+    domains: [Healthcare domain knowledge]
+    other: [System design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8818852'
+  extracted_at: '2026-03-27T14:58:58.574285'

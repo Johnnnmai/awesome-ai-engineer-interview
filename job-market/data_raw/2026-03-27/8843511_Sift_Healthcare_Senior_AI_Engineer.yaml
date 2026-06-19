@@ -1,0 +1,132 @@
+job_id: 8843511
+title: Senior AI Engineer
+company: Sift Healthcare
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - Deep Learning
+  - Docker
+  - Genai
+  - Kubernetes
+  - Python
+  - PyTorch
+  - TensorFlow
+description: |
+  Sift Healthcare is seeking an AI Engineer to join our highly
+  collaborative, growing analytics group. This hire will work
+  closely with our data science, ML/DevOPs, and engineering
+  teams to enhance Sift’s machine learning and AI
+  infrastructure, techniques, and practices.
+  
+  Sift is transforming healthcare payments by equipping
+  healthcare organizations to fully leverage their payments
+  data to work smarter, protect their margins and accelerate
+  cash flow. Large health systems, leading HCIT vendors,
+  payers and outsourced revenue management agencies use Sift's
+  Payments Intelligence Platform, ML integrations and advanced
+  analytics to optimize payment outcomes and enable data-
+  driven decision-making within the revenue cycle.
+  
+  The AI Engineer is a key member of the Data Science team,
+  responsible for improving and enhancing Sift’s suite of
+  predictive models and operations that work to solve complex
+  healthcare payment problems. We are seeking a candidate with
+  5+ years of experience in an AI or deep learning role, with
+  an advanced degree (MS or higher) in a related field.
+  
+  A key attribute of the employee will be their ability to
+  test hypotheses and present findings to upper management,
+  both internally and externally, and help other team members
+  do the same. They must be collaborative and have strong
+  communication skills. The employee must develop a deep
+  understanding of the data Sift utilizes, provide advanced
+  analysis, and suggest how Sift Healthcare can improve
+  current AI and deep learning techniques and infrastructure.
+  The employee is expected to remain up to date with current
+  ML and GenAI trends.
+  
+  Experience working with PII/PHI/HIPAA data is required.
+  Experience working with healthcare data is required. A
+  Wisconsin resident is preferred for this role.
+  
+  RESPONSIBILITIES
+  
+  - Generative AI & LLMs, Monitoring and Observability:
+    Utilization and deployment of LLMs for clinical decision
+    support, and revenue-cycle automation. Implement
+    systematic LLM evaluation and monitoring, including task-
+    level metrics, LLM-as-a-judge scoring, and detection of
+    input, embedding, and output drift to ensure stable
+    production performance.
+  - Retrieval: Build and optimize RAG pipelines, including
+    document ingestion, chunking, embeddings, and retrieval.
+    Implement evaluation and monitoring frameworks to assess
+    retrieval and generation quality and detect drift in data,
+    embeddings, and outputs.
+  - Deep Learning: Research, develop, and optimize deep learning
+    models for healthcare revenue-cycle applications, from
+    experimentation and training through evaluation and
+    assisting with deployment. Leverage embedding
+    architectures such as TitanV2 and ClinicalBERT variants,
+    along with other transformer-based models, to understand
+    clinical documentation, denials, and payer communications.
+  - Unsupervised & deep clustering: Design deep clustering
+    pipelines, leveraging techniques such as HDBSCAN for
+    scalable density-based clustering and IDEC (Improved Deep
+    Embedded Clustering) for joint representation learning and
+    clustering.
+  - Best practices & compliance: Uphold rigorous code quality
+    standards, conduct peer reviews, adhere to Git workflows,
+    and ensure HIPAA-compliant handling of PII/PHI data.
+  - Cross-functional collaboration: Partner with Data
+    Scientists, ML & Dev Ops, Engineers, and Product teams to
+    integrate deep learning capabilities into our platform and
+    drive data-driven features.
+  
+  QUALIFICATIONS
+  
+  - Educational background: Bachelor’s or Master’s in Computer
+    Science, Engineering, or related field; advanced degree
+    strongly preferred.
+  - Hands-on Deep Learning and GenAI experience: 5+ years
+    building and deploying GenAI or deep learning models
+    (TensorFlow, PyTorch) in production settings.
+  - LLM & NLP expertise: Practical experience with transformer
+    architectures, prompt engineering, and retrieval-augmented
+    generation workflows.
+  - ML Ops proficiency: Familiarity with containerization
+    (Docker), orchestration (Kubernetes), and CI/CD pipelines.
+  - Healthcare data knowledge: Working understanding of claims,
+    clinical documentation, and HIPAA requirements for PII/PHI
+    data.
+  - Coding skills: Strong Python proficiency, debugging skills,
+    Git-based version control, and collaborative code review.
+  - Communication & teamwork: Excellent written and verbal
+    communication, with the ability to translate complex
+    models into business impact.
+  - Management experience a plus.
+  
+  COMPENSATION
+  
+  Compensation will be based on skills, experience, and
+  performance.
+  
+  ABOUT SIFT HEALTHCARE
+  
+  Sift is a data science company working to improve payments
+  operations and outcomes in the healthcare industry. We are a
+  growing and dynamic team that is serious about technology.
+  Based in Milwaukee, Wisconsin, Sift is thriving and looking
+  for motivated team members who will help shape our culture.
+  Sift offers competitive salaries and benefits. Learn more
+  about Sift at www.sifthealthcare.com.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Information Technology
+  - Analytics
+posted_date: 2026-03-23
+url: "https://www.builtinla.com/job/senior-ai-engineer/8843511"
+source: Built In

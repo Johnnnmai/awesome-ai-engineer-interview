@@ -1,0 +1,53 @@
+company:
+  name: Writer
+  stage: Series C (valued at $1.9B)
+  focus: |-
+    Enterprise generative AI platform for building and deploying
+    AI agents
+position:
+  title: AI deployment engineer (UK)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role where the engineer
+      directly architects and implements AI-powered solutions
+      using Writer's platform, LLMs, and APIs. The role involves
+      hands-on work designing prompts, building custom AI
+      applications, and delivering tailored generative AI
+      solutions to enterprise customers — placing it squarely in
+      ai-first territory.
+  responsibilities:
+  - Partner with enterprise customers to identify strategic AI use cases and own end-to-end
+    implementation of tailored solutions
+  - Architect and deliver custom applications, templates, and integrations leveraging
+    Writer's platform, APIs, and Knowledge Graph capabilities
+  - Translate technical concepts and platform capabilities into clear solution recommendations
+    for customers navigating generative AI
+  - Collaborate with Product and Engineering teams to provide customer feedback that
+    influences the product roadmap
+  - Develop scalable processes, documentation, and workflows for technical integrations
+    to drive down customer time-to-value
+  - Champion successful adoption and expansion of Writer's AI solutions within customer
+    accounts
+  use_cases:
+  - Enterprise AI agent deployment grounded in company data
+  - Custom generative AI application development for Fortune 500 enterprises
+  - Knowledge Graph-powered AI solutions for complex business challenges
+  - AI-powered workflow automation for large enterprises
+  - Enterprise-wide transformation through AI-powered work orchestration
+  skills:
+    genai: [Prompt Engineering, LLMs, Generative AI, AI Agents]
+    ml: []
+    web: [REST APIs]
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [SaaS, Solutions Architecture]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9034103'
+  extracted_at: '2026-04-22T13:35:57.710513'

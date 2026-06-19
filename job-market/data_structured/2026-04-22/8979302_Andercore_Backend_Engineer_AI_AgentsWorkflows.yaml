@@ -1,0 +1,52 @@
+company:
+  name: Andercore
+  stage: Series B
+  focus: |-
+    AI-driven trade platform for industrial supply chain
+    automation
+position:
+  title: Backend Engineer (AI Agents/Workflows)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and integrating AI
+      capabilities into products, specifically working with LLM
+      APIs (OpenAI, Anthropic, Gemini) and LangGraph to build
+      intelligent workflows and automation. The engineer is hands-
+      on with AI model integration and agent/workflow development,
+      making this an ai-first role despite being titled as a
+      backend engineer.
+  responsibilities:
+  - Design, develop, test, deploy, and maintain backend services integrating AI/ML
+    capabilities
+  - Build intelligent workflows and automation using LLM APIs (OpenAI, Anthropic,
+    Gemini) and LangGraph
+  - Develop and optimize APIs powering AI-driven features for trade automation
+  - Collaborate with frontend engineers to connect user-facing experiences with AI-enabled
+    backend logic
+  - Implement and improve distributed systems and data pipelines
+  - Participate in code reviews, knowledge-sharing sessions, and architecture discussions
+  - Stay current with emerging AI technologies and backend best practices
+  use_cases:
+  - Automating procurement and pricing workflows for industrial materials trade
+  - AI-driven inventory management and demand forecasting
+  - Real-time orchestration of logistics and cross-border fulfillment
+  - Embedded financing automation for supply chain transactions
+  - Intelligent quoting and availability systems for buyers and suppliers
+  - Digitizing and automating the full lifecycle of materials trade
+  skills:
+    genai: [LangGraph, OpenAI API, Anthropic API, Gemini API, Prompt Engineering]
+    ml: []
+    web: [Spring Boot 3, Next.js, React, REST APIs, Node.js]
+    databases: [PostgreSQL, BigQuery]
+    data: [AWS Kinesis]
+    cloud: [AWS]
+    ops: [Terraform, GitHub Actions]
+    languages: [Python, Java, TypeScript, SQL]
+    domains: []
+    other: [Distributed Systems, Event-Driven Architecture, Microservices]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8979302'
+  extracted_at: '2026-04-22T14:12:42.330043'

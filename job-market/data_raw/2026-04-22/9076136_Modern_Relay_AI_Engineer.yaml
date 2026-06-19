@@ -1,0 +1,133 @@
+job_id: 9076136
+title: AI Engineer
+company: Modern Relay
+location: USA
+work_type: FULL_TIME
+level: Mid level
+skills:
+  - Data Pipelines
+  - Knowledge Graphs
+  - Machine Learning
+  - Schema Design
+description: |
+  About Modern Relay
+  
+  Modern Relay is building the knowledge platform for the
+  agent era. Our product caters a new kind of company: one in
+  which humans work alongside internal and external AI agents,
+  and where coordination, context and trust become critical
+  infrastructure. The platform provides a shared layer of
+  truth where both humans and agents can propose updates,
+  contribute knowledge and trigger workflows. This result in a
+  living, compounding knowledge hub that can be read from,
+  written to and improved by both people and software.
+  
+  Role Overview
+  
+  We’re looking for an AI Engineer to help build the data and
+  model foundations that make Modern Relay’s platform reliable
+  in production. You’ll work across data pipelines, model
+  development, and ML infrastructure, turning messy signals
+  into structured knowledge and high-quality model behavior.
+  This role is ideal for someone who enjoys shipping end-to-
+  end systems, from schema design and data infrastructure to
+  training/evaluating models and improving them with feedback
+  loops.
+  
+  Locations
+  
+  - San Francisco, CA
+  - New York City, NY
+  - Barcelona, Spain
+  - Remote (U.S. and Europe)
+  
+  What You’ll Do
+  
+  - Design and build data pipelines that ingest, clean, and
+    transform product and customer data into high-signal
+    training and evaluation datasets
+  - Own data infrastructure decisions (storage, orchestration,
+    lineage, observability) to ensure reliability,
+    scalability, and fast iteration
+  - Develop and improve ML/AI systems that power agent's
+    behavior in task-solving, including retrieval, ranking,
+    classification, and structured extraction
+  - Create and maintain schemas for agent memory, tool outputs,
+    and conversation artifacts to make downstream modeling and
+    analytics consistent
+  - Build evaluation harnesses and metrics to measure model
+    quality, regressions, and real-world performance (offline
+    + online)
+  - Work with knowledge representations (e.g., knowledge graphs)
+    to connect entities, events, and business context for
+    better reasoning and retrieval
+  - Partner closely with Product and Engineering to integrate
+    models into production workflows with clear SLAs and
+    monitoring
+  - Continuously improve feedback loops: labeling strategies,
+    active learning, error analysis, and dataset/version
+    management
+  
+  What Success Looks Like
+  
+  - Data pipelines and datasets are trustworthy, well-
+    instrumented, and easy to iterate on as product needs
+    evolve
+  - Model performance improves measurably over time with clear
+    evaluation methodology and fast debugging cycles
+  - Agent outputs become more consistent and structured through
+    strong schema design and robust post-processing/validation
+  - Knowledge and retrieval systems reduce hallucinations and
+    increase task completion rates in real customer workflows
+  - Cross-functional teams can confidently ship AI improvements
+    because quality, monitoring, and rollback paths are in
+    place
+  
+  What We’re Looking For
+  
+  - 0–6 years of experience in AI/ML engineering, data
+    engineering, or a closely related role (we’re open to
+    exceptional new grads with strong projects)
+  - Strong fundamentals in data engineering: pipelines, data
+    modeling, schema design, and data quality practices
+  - Experience building or operating ML systems in production
+    (training, evaluation, deployment, monitoring) or strong
+    evidence you can ramp quickly
+  - Comfort working across the stack: from raw data and
+    infrastructure to model behavior and product integration
+  - Familiarity with modern ML platforms and tooling (experiment
+    tracking, dataset/versioning, orchestration, feature/data
+    stores, model serving)
+  - Understanding of information theory concepts (e.g., entropy,
+    mutual information) and how they relate to signal,
+    compression, and evaluation
+  - Experience with knowledge graphs or structured knowledge
+    representations is a plus
+  - High ownership and a bias toward shipping: you can take
+    ambiguous problems, propose a plan, and execute
+  
+  Key Skills
+  
+  - Data pipelines
+  - Data engineering and data infrastructure
+  - AI / artificial intelligence
+  - Machine learning platforms and production ML
+  - Model development, evaluation, and monitoring
+  - Schema design and structured data systems
+  - Knowledge graphs and information retrieval
+  - Information theory fundamentals
+  
+  Why This Role
+  
+  - Build core AI infrastructure that directly impacts product
+    reliability and customer outcomes
+  - Work on real-world agent coordination problems where data
+    quality, structure, and evaluation matter as much as
+    models
+  - High autonomy and ownership in a fast-moving team shipping
+    at the frontier of applied AI
+  - A chance to define how Modern Relay’s agents learn from data
+    and improve over time
+posted_date: 2026-04-16
+url: "https://www.builtinla.com/job/ai-engineer/9076136"
+source: Built In

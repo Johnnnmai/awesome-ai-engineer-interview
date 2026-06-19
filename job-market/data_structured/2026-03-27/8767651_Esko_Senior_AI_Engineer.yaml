@@ -1,0 +1,49 @@
+company:
+  name: Esko
+  stage: Public
+  focus: |-
+    Packaging and printing software solutions for brand owners
+    and manufacturers
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development of LLM-based
+      systems, RAG pipelines, and agentic workflows. The engineer
+      will build, deploy, and maintain AI components including
+      prompt engineering, embeddings, vector search, and integrate
+      frameworks like LangChain - all core AI/ML development work.
+  responsibilities:
+  - Develop and maintain LLM-based components including prompt templates, embeddings,
+    and vector search integrations
+  - Build agentic workflows that utilize tools, APIs, and plugins for task execution
+  - Collaborate with senior engineers to prototype and deploy AI-powered features
+    in production environments
+  - Integrate and experiment with frameworks like LangChain and Semantic Kernel
+  - Monitor and improve performance, reliability, and safety of deployed AI systems
+  - Work with data scientists, product managers, and platform teams to support AI
+    initiatives across packaging solutions
+  use_cases:
+  - Automatic artwork creation for packaging design
+  - Intelligent layout generation for packaging materials
+  - Streamlining packaging go-to-market processes through AI-powered automation
+  - Simplifying business workflows in packaging and printing industry
+  skills:
+    genai: [Large Language Models (LLMs), RAG (Retrieval-Augmented Generation), Prompt
+        Engineering, LangChain, Semantic Kernel, Agentic Frameworks, Embeddings]
+    ml: [Hugging Face Transformers, NLP (Natural Language Processing), Transformer
+        Architectures, Fine-tuning LLMs]
+    web: []
+    databases: [FAISS, Pinecone, Vector Databases]
+    data: []
+    cloud: [Cloud-based deployment]
+    ops: [ML model lifecycle management]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8767651'
+  extracted_at: '2026-03-27T14:15:16.713137'

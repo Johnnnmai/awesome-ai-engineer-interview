@@ -1,0 +1,51 @@
+company:
+  name: Auctor
+  stage: Early-stage (Seed/Pre-seed implied by "early-stage equity" and startup description)
+  focus: |-
+    AI layer for professional services and software
+    implementation, automating documentation, discovery, and
+    decision-making
+position:
+  title: Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on building, improving, and
+      iterating on LLM-powered agent systems in production —
+      including retrieval, tool use, prompting, orchestration, and
+      evals. The engineer works directly on the AI/agent systems
+      themselves, not on supporting infrastructure for others.
+  responsibilities:
+  - Build and improve core agent systems across retrieval, tool use, document understanding,
+    memory, and orchestration
+  - Design evals and experiments to measure and understand agent quality in production
+  - Analyze production traces, failures, and user behavior to inform product and architecture
+    decisions
+  - Collaborate with operations, GTM, and deployed teams to identify where agents
+    break down in real workflows
+  - Evaluate models, prompts, and system designs against real enterprise tasks
+  - Own the full loop from idea through implementation, measurement, and iteration
+  use_cases:
+  - Automating documentation for professional services and software implementation
+  - Automating discovery and decision-making in enterprise services workflows
+  - Agent-driven document understanding and retrieval for enterprise tasks
+  - Tool-using agents for solution engineering and onboarding automation
+  - Production agent systems that support $400B+ in services work
+  skills:
+    genai: [LLM-powered agent systems, Prompt engineering, RAG / retrieval systems,
+      Agent orchestration, Evals and benchmarks for LLM systems, Tool use / function
+        calling, Memory systems for LLMs, Document understanding, Model routing]
+    ml: []
+    web: []
+    databases: []
+    data: [Search and ranking systems]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8938220'
+  extracted_at: '2026-04-22T13:03:25.040580'

@@ -1,0 +1,50 @@
+company:
+  name: NTT DATA
+  stage: Public
+  focus: |-
+    Global business and technology services, enterprise AI and
+    digital infrastructure provider
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a general software development role that includes
+      running ML/AI algorithms as one component among many
+      responsibilities. The role is primarily focused on
+      microservices, APIs, and distributed systems engineering,
+      with AI/ML being mentioned only in passing as part of
+      working with telemetry data. The candidate needs familiarity
+      with ML/AI algorithms but is not building, training, or
+      deploying AI systems as the primary function.
+  responsibilities:
+  - Design and develop solutions and functionality that drives business growth
+  - Write, test, and debug code for software systems and applications
+  - Support execution of automated testing and software deployment
+  - Design and develop functionality in micro-services environment working with APIs
+  - Run ML/AI algorithms on telemetry data with structured and unstructured data
+  - Support integration and building of solutions through automation and coding
+  - Build and debug large scale distributed systems
+  - Write and maintain technical documentation and operational procedures
+  use_cases:
+  - Telemetry data processing and analysis
+  - Microservices-based software applications
+  - Cloud-based or internet-related tools
+  - Large scale distributed systems
+  - API product development
+  skills:
+    genai: []
+    ml: [ML/AI algorithms]
+    web: [RESTful APIs, Microservices]
+    databases: [Elasticsearch, MongoDB, Cassandra, SQL]
+    data: []
+    cloud: [AWS, GCP, Microsoft Azure]
+    ops: [Kubernetes, Docker, CI/CD]
+    languages: [Python, Java, JavaScript, Node.js, C/C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8536116'
+  extracted_at: '2026-03-03T11:35:57.808909'

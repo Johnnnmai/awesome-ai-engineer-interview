@@ -1,0 +1,48 @@
+company:
+  name: Edwards Lifesciences
+  stage: Public
+  focus: |-
+    Medical devices and technologies for cardiovascular patient
+    care
+position:
+  title: Senior Engineer, AI/ML - Pune
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on traditional ML/DL techniques (CNNs,
+      RNNs, GANs, TensorFlow, PyTorch) rather than LLMs or GenAI
+      agents. The position involves designing, developing, and
+      deploying ML models and data pipelines, with no mention of
+      LLMs, RAG, or generative AI technologies.
+  responsibilities:
+  - Identify business gaps and opportunities that can be resolved using AI/ML solutions
+  - Design, develop and test AI/ML prototypes to address business needs
+  - Deploy scalable and efficient AI/ML models for both prototyping and production
+  - Collaborate with cross-functional teams including data scientists, software engineers,
+    product managers, and business leads
+  - Drive research and experimentation to explore new AI/ML techniques and frameworks
+  - Build end-to-end data pipelines for collecting, processing, and analyzing large-scale
+    datasets
+  - Optimize model performance ensuring robustness, scalability, and efficiency
+  - Document code and model development following best engineering practices
+  use_cases:
+  - Healthcare technology solutions for patient care optimization
+  - Business process optimization using AI/ML
+  - Large-scale data analysis and insights
+  - Predictive modeling for medical device applications
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, Scikit-learn, Keras, CNNs, RNNs, GANs]
+    web: []
+    databases: []
+    data: [Hadoop, Spark, Apache Kafka, Airflow]
+    cloud: [AWS]
+    ops: [Git]
+    languages: [Python, Java, C++, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8777482'
+  extracted_at: '2026-03-27T14:25:04.871699'

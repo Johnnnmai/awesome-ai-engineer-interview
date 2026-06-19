@@ -1,0 +1,151 @@
+job_id: 8709168
+title: "Lead Software Engineer, Backend (Java/Python & AI/LLM)"
+company: Mastercard
+location: Pune, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - AWS
+  - Azure
+  - GCP
+  - Java
+  - JSON
+  - Kubernetes
+  - Machine Learning
+  - NoSQL
+  - Python
+company_size: 38,800 Employees
+description: |
+  Our Purpose  Mastercard powers economies and empowers people
+  in 200+ countries and territories worldwide. Together with
+  our customers, we're helping build a sustainable economy
+  where everyone can prosper. We support a wide range of
+  digital payments choices, making transactions secure,
+  simple, smart and accessible. Our technology and innovation,
+  partnerships and networks combine to deliver a unique set of
+  products and services that help people, businesses and
+  governments realize their greatest potential. Title and
+  Summary Lead Software Engineer, Backend (Java/Python &
+  AI/LLM) Lead Software Engineer, Backend - Foundry R&D, Pune
+  We are looking for a Lead Software Engineer to join the
+  Mastercard Foundry R&D team.You will help build scalable
+  systems that support our AI innovation efforts. The ideal
+  candidate is hands-on, curious, motivated, and comfortable
+  working in fast-moving R&D environments. What you'll do *
+  Lead backend services for AI features: Build and maintain
+  backend components and APIs for generative AI use cases.
+  Create scalable microservices in Java or Python to expose AI
+  capabilities, handle requests, and integrate model outputs
+  into applications. * Integrate generative AI technologies:
+  Work with data science and ML teams to productionize models
+  and connect them to the platform. Build service interfaces,
+  manage data formats, integrate external APIs, and implement
+  supporting data flows such as caching or context retrieval.
+  * Ensure quality, performance, and security: Own service
+  quality by writing tests, profiling performance, and
+  resolving bottlenecks. Set up monitoring and alerts, improve
+  logging, and diagnose production issues to ensure uptime and
+  stability. Maintain code quality through reviews and enforce
+  security and performance best practices. * Collaborate
+  cross-functionally: Work in an agile team with product,
+  design, and data science. Participate in design discussions,
+  refine requirements, and iterate quickly based on feedback.
+  Help shape technical decisions for AI-powered features. *
+  Mentor and uphold best practices: Guide junior engineers
+  through code reviews and knowledge sharing. Promote clean
+  coding, maintainability, testing discipline, and
+  improvements to tools and processes. What you'll bring *
+  Strong backend engineering experience: 8-12+ years building
+  backend systems and APIs. Experience with Java (Spring Boot)
+  or Python and familiarity with scalable, thread-safe server-
+  side development. * Experience with AI/ML integration:
+  Hands-on exposure to AI APIs or machine learning services.
+  Comfortable integrating pre-trained models, calling
+  inference APIs, handling asynchronous tasks, and building
+  reliable ML service endpoints. * API and database
+  proficiency: Skilled in designing RESTful APIs, managing
+  authentication, and structuring data. Strong SQL knowledge
+  and experience with relational and NoSQL databases, caching,
+  and data-intensive flows. * Quality-focused and detail-
+  oriented: Strong testing habits, including unit and
+  integration tests. Familiar with error handling, logging,
+  edge cases, and building resilient AI-related services. *
+  Architectural leadership: Background designing modular,
+  scalable backend systems. Experience promoting clean
+  structure, reusable components, and documentation. * Strong
+  communication and collaboration: Able to work with
+  distributed teams and communicate clearly with technical and
+  non-technical stakeholders. * Continuous learning:
+  Comfortable working with ambiguity and exploring new
+  technologies. Motivated to build prototypes and evolve
+  solutions quickly. Required skills * Education and
+  experience: Bachelor's degree in Computer Science or related
+  field. 8-12+ years of backend or full-stack engineering in
+  agile teams, with experience delivering complex products. *
+  Back-end programming mastery: Expertise in any of Java,
+  Python, or Go, and related frameworks such as Spring Boot or
+  FastAPI. Strong Git workflows, scripting skills, and
+  understanding of concurrency or async development. * Web
+  services and microservices: Experience building and
+  consuming REST services and working in microservice
+  architectures. Familiar with message queues, API gateways,
+  and tools like Swagger or Postman. * Database and data
+  management: Strong SQL and schema design skills, use of
+  indexes, query optimization, and ORM familiarity. Experience
+  with NoSQL or caching technologies for performance-heavy
+  applications. * Cloud and CI/CD: Experience deploying
+  services on AWS, GCP, or Azure, using containers, serverless
+  or orchestration tools, and CI/CD pipelines to automate
+  builds, tests, and deployments. * AI services and frameworks
+  (basic exposure): Familiarity with ML concepts, AI APIs,
+  SDKs like OpenAI, or libraries such as TensorFlow/PyTorch
+  for inference. Comfortable working with JSON, embeddings, or
+  common AI data formats. * Testing and monitoring: Experience
+  writing comprehensive test suites, mocking external
+  services, and using monitoring or APM tools to track service
+  health and performance. * Agile and teamwork: Experience in
+  agile workflows, breaking down stories, estimating tasks,
+  using tools like JIRA, and communicating clearly across
+  distributed teams. Preferred skills * Generative AI
+  familiarity: Experience with LLMs, prompt engineering,
+  transformers, or vector databases. * Performance
+  optimization: Background in improving API latency, scaling
+  systems, using multi-threading/async, or tuning database and
+  service performance. * DevOps and automation: Familiarity
+  with Terraform, Kubernetes, IaC, or advanced CI/CD. Ability
+  to contribute to deployment or automation strategies. *
+  Full-stack exposure: Understanding of frontend frameworks or
+  mobile app integration to improve end-to-end system design.
+  * Domain knowledge: Interest or experience in payments,
+  finance, or commerce to better understand use cases for AI
+  features. * Continuous learning and initiative:
+  Certifications, personal projects, open-source
+  contributions, or evidence of self-driven learning. *
+  Achievements and leadership: Experience leading technical
+  initiatives, mentoring peers, or owning critical system
+  components. #AI3 Corporate Security Responsibility All
+  activities involving access to Mastercard assets,
+  information, and networks comes with an inherent risk to the
+  organization and, therefore, it is expected that every
+  person working for, or on behalf of, Mastercard is
+  responsible for information security and must:
+  
+  - Abide by Mastercard's security policies and practices;
+  - Ensure the confidentiality and integrity of the information
+    being accessed;
+  - Report any suspected information security violation or
+    breach, and
+  - Complete all periodic mandatory security trainings in
+    accordance with Mastercard's guidelines.
+industries:
+  - Blockchain
+  - Fintech
+  - Payments
+  - Consulting
+  - Cryptocurrency
+  - Cybersecurity
+  - Quantum Computing
+posted_date: 2026-03-10
+url: "https://builtin.com/job/lead-software-engineer-backend-java-python-ai-llm/8709168"
+source: Built In

@@ -1,0 +1,147 @@
+job_id: 7228128
+title: AI Developer
+company: CAI (cai.io).
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Aws Sagemaker
+  - Cnns
+  - Computer Vision
+  - Deep Learning
+  - Docker
+  - Fastapi
+  - Gcp Vertex
+  - Grpc
+  - Kubernetes
+  - Onnx
+company_size: 2,689 Employees
+description: |
+  AI Developer
+  
+  Req number:
+  
+  R6260
+  
+  Employment type:
+  
+  Full time
+  
+  Worksite flexibility:
+  
+  RemoteWho we are
+  
+  CAI is a global technology services firm with over 8,500
+  associates worldwide and a yearly revenue of $1 billion+. We
+  have over 40 years of excellence in uniting talent and
+  technology to power the possible for our clients,
+  colleagues, and communities. As a privately held company, we
+  have the freedom and focus to do what is right—whatever it
+  takes. Our tailor-made solutions create lasting results
+  across the public and commercial sectors, and we are
+  trailblazers in bringing neurodiversity to the enterprise.
+  
+  Job Summary
+  
+  We are seeking a motivated AI Developer to join our team. As
+  an AI Developer you will play a crucial role in development
+  of AI systems that integrate perception (vision models),
+  reasoning (LLMs), and action (multi-agent orchestration).
+  This position will be full-time and Hybrid.
+  
+  Job Description
+  
+  We are looking for an AI Developer with strong expertise in
+  deep learning (CNNs, RNNs, Transformers) and hands-on
+  experience in computer vision and sequence modelling. This
+  position will be Full-time and Hybrid.
+  
+  What You’ll Do
+  
+  - Focus on Deep Learning
+  - Architect and train CNN/ViT models for classification,
+    detection, segmentation, and OCR
+  - Build and optimize RNN/LSTM/GRU models for sequence
+    learning, speech, or timeseries forecasting
+  - Research and implement transformer-based architectures
+    bridging vision and language tasks
+  - Create scalable pipelines for data ingestion, annotation,
+    augmentation, and synthetic data generation
+  - Work with Agentic AI & Multi-Agent Framework
+  - Design and implement multi-agent workflows using LangChain,
+    LangGraph, CrewAI, or similar frameworks
+  - Develop role hierarchies, state graphs, and integrations
+    that enable autonomous vision + language workflows
+  - Optimize agent systems for latency, cost, and reliability.
+  - LLM Fine-Tuning and Retrieval-Augmented Generation (RAG)
+  - Fine-tune open-weight LLMs using LoRA/QLoRA, PEFT, or RLHF
+    methods.
+  - Develop RAG pipelines integrating vector databases (FAISS,
+    Weaviate, pgvector).
+  - Combine LLM reasoning with CNN/RNN perception modules in
+    multimodal systems
+  - MLOps & Deployment at Scale Develop reproducible training
+    workflows with PyTorch/TensorFlow and experiment tracking
+    (W&B, MLflow)
+  - Deploy models with TorchServe, Triton, or KServe on cloud AI
+    stacks (AWS Sagemaker, GCP Vertex, Kubernetes)
+  - Optimize inference with ONNX/TensorRT, quantization, and
+    pruning for cloud and edge devices
+  - Build robust APIs/micro-services (FastAPI, gRPC) and ensure
+    CI/CD, monitoring, and automated retraining.Collaboration
+    & Mentorship
+  - Translate business needs into scalable deep learning
+    solutions
+  - Mentor junior engineers in CNNs, RNNs, and production ML
+    practices
+  - Lead technical reviews and promote best practices across the
+    team
+  
+  What You'll Need
+  
+  Required:
+  
+  - B.S./M.S. in Computer Science, Electrical Engineering,
+    Applied Math, or related discipline
+  - 5+ years building deep learning systems with CNNs and RNNs
+    in production
+  - Strong Python skills and Git workflows
+  - Proven delivery of computer vision pipelines (OCR,
+    classification, detection)
+  - Hands-on experience with LLM fine-tuning and multimodal AI
+  - Experience in containerization (Docker) and deployment on
+    cloud AI platforms
+  - Knowledge of distributed training, GPU acceleration, and
+    inference optimization
+  
+  Preferred:
+  
+  - Research experience in transformer architectures (ViTs,
+    hybrid CNN-RNNTransformer
+  - models).
+  - Prior work in sequence modeling for speech or time-series
+    data
+  - Contributions to open-source deep learning frameworks or
+    vision/sequence datasets
+  - Experience with edge AI deployment and hardware optimization
+  
+  Physical Demands
+  
+  - This role involves mostly sedentary work, with occasional
+    movement around the office to attend meetings, etc.
+  - Ability to perform repetitive tasks on a computer, using a
+    mouse, keyboard, and monitor
+  
+  Reasonable accommodation statement
+  
+  If you require a reasonable accommodation in completing this
+  application, interviewing, completing any pre-employment
+  testing, or otherwise participating in the employment
+  selection process, please direct your inquiries to
+  application.accommodations@cai.io or (888) 824 – 8111.
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-04-03
+url: "https://builtin.com/job/ai-developer/7228128"
+source: Built In

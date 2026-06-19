@@ -1,0 +1,50 @@
+company:
+  name: Elsevier
+  stage: Public
+  focus: |-
+    Information and analytics for scientific research and
+    healthcare
+position:
+  title: Senior Data Engineer I-Search and AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role that builds data pipelines
+      and infrastructure to support AI/ML systems, not working
+      directly on the AI models themselves. The role focuses on
+      ETL/ELT workflows, Spark, Airflow, and data services that
+      enable the AI platform - classic "enabling work for others
+      who work on AI".
+  responsibilities:
+  - Design, build, and maintain scalable data pipelines and services
+  - Develop batch and ELT/ETL data workflows for ingesting and processing large datasets
+  - Work with technologies such as Python, Java, Spark, SQL, and Airflow
+  - Apply good software engineering practices, including testing, documentation, and
+    CI/CD
+  - Contribute to cloud-based systems (AWS), focusing on reliability, monitoring,
+    and automation
+  - Collaborate with product, platform, and data science partners to deliver meaningful
+    outcomes
+  - Support team learning through code reviews and knowledge sharing
+  use_cases:
+  - Scientific research discovery and search
+  - LLM-powered research systems
+  - Knowledge graph interrogation and insights
+  - Academic literature recommendations
+  - Analytics for scientific collaboration
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Data Lakes]
+    data: [Spark, Airflow, ETL/ELT, Distributed Systems]
+    cloud: [AWS]
+    ops: [CI/CD]
+    languages: [Python, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8547670'
+  extracted_at: '2026-03-27T13:36:42.136563'

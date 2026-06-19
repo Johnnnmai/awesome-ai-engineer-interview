@@ -1,0 +1,57 @@
+company:
+  name: Amigo
+  stage: Early-stage (backed by Tier 1 VCs, scaling from 3M to 30M patient encounters)
+  focus: |-
+    Healthcare AI infrastructure deploying autonomous clinical
+    workflow agents for patient engagement
+position:
+  title: Sales Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a sales engineering role that requires hands-on
+      building of AI agents and POCs using LLMs and prompt
+      engineering. The role involves prototyping agent
+      configurations and creating working AI experiences, not just
+      supporting infrastructure. While customer-facing, they're
+      directly building and deploying AI solutions.
+  responsibilities:
+  - Build rapid POCs and demo environments tailored to specific prospect workflows
+    and clinical use cases
+  - Partner with AEs and the sales team during technical discovery to scope what's
+    possible and shape deal architecture
+  - Design and deliver live technical demonstrations that translate prospect pain
+    points into working agent experiences
+  - Prototype experimental agent configurations that explore new use cases and push
+    platform boundaries
+  - Run technical deep-dives with prospect clinical, IT, and operations teams to understand
+    integration requirements
+  - Create reusable demo assets, reference architectures, and POC templates that accelerate
+    future sales cycles
+  - Translate technical objections into solutions during the sales process covering
+    security, compliance, and integration feasibility
+  - Collaborate with Agent Engineers to hand off won deals, documenting POC learnings
+    and customer expectations
+  use_cases:
+  - Pre-visit patient intake automation
+  - Care navigation and clinical workflow handling
+  - Post-visit care plan management
+  - Patient monitoring and engagement
+  - Clinical workflow automation across patient journey
+  - Autonomous agent operation within bounded clinical domains
+  skills:
+    genai: [LLMs, Prompt Engineering, AI Platforms]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Healthcare Workflows, Clinical Terminology]
+    other: [HIPAA Compliance, SOC 2, EHR Systems]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8699509'
+  extracted_at: '2026-03-27T14:42:38.155403'

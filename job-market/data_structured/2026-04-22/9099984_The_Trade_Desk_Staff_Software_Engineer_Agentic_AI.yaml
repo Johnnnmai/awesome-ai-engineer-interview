@@ -1,0 +1,51 @@
+company:
+  name: The Trade Desk
+  stage: Public
+  focus: Global programmatic advertising technology platform
+position:
+  title: Staff Software Engineer – Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The job title explicitly mentions "Agentic AI," indicating
+      the role involves building AI agent systems. The description
+      references "machine learning" and "model pipelines for
+      bidding optimizations" as part of the work scope, and the
+      title suggests direct involvement in designing and
+      implementing agentic AI solutions at scale.
+  responsibilities:
+  - Participate actively in all aspects of designing, building, and delivering products
+    for clients
+  - Develop with a variety of platforms and technologies including Docker, Kubernetes,
+    AWS, Azure, .NET Core, Java, Scala, and GraphQL
+  - Participate in design reviews and proof of concepts for agentic AI solutions
+  - Contribute to solution design aligned with the overall technical roadmap and industry
+    best practices
+  - Work on large-scale distributed systems coordinating thousands of servers across
+    cloud and physical data centers
+  - Tackle petabyte-scale data challenges and machine learning problems
+  - Provide technical leadership, mentoring, and potentially manage small teams
+  - Build and optimize model pipelines for bidding and advertising optimizations
+  use_cases:
+  - Agentic AI for advertising technology
+  - Bidding optimization through ML model pipelines
+  - Large-scale distributed ad serving infrastructure handling over 1 trillion queries
+    per day
+  - Programmatic advertising decision-making and automation
+  - Petabyte-scale data processing for ad tech platform
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: [.NET Core, GraphQL]
+    databases: [SQL Server]
+    data: []
+    cloud: [AWS, Azure, Aliyun]
+    ops: [Docker, Kubernetes, Git, GitLab]
+    languages: [Java, Scala, C#, C++]
+    domains: []
+    other: [Agile/Scrum, Distributed Systems, Jira]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9099984'
+  extracted_at: '2026-04-22T12:43:47.993484'

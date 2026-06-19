@@ -1,0 +1,252 @@
+job_id: 8865957
+title: Senior AI Platform Engineer
+company: hyperexponential
+location: London, GBR
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AI
+  - APIs
+  - Llm
+  - Sdks
+company_size: 108 Employees
+description: |
+  About hyperexponential (hx)
+  
+  At hyperexponential, we’re building the AI-powered platform
+  that enables the world’s most critical decisions in a $7
+  trillion industry, which risks to take, and how to price
+  them. These are the decisions that shape real-world
+  outcomes: whether rockets successfully launch into space,
+  autonomous vehicles make it to market, or communities
+  recover after major storms.
+  
+  Until now, insurance has been making billion-dollar
+  decisions using outdated tools. We’re changing that. Our
+  platform brings together data, AI, and human expertise to
+  give insurers the fastest path from submission to decision -
+  helping them move faster, act smarter, and take on more risk
+  with confidence.
+  
+  Backed by a16z, Highland Europe, and Battery Ventures, we’re
+  scaling globally - already trusted by nearly 50 of the
+  world’s largest insurers, with zero churn and billions in
+  premiums flowing through hx.
+  
+  What began as a single product in one market has rapidly
+  evolved into a multi-product, multi-territory platform
+  powering every stage of pricing and underwriting. AI is at
+  the core of what we do - from building the world’s first
+  domain-specific AI peer programmer for insurance (think
+  GitHub Copilot with a PhD in actuarial science) to shaping
+  agentic workflows that reinvent how this industry operates.
+  
+  What makes hx different is the people who build it. Here,
+  impact isn’t tied to title or tenure; it’s defined by the
+  challenges you take on and the discipline you bring.
+  Surrounded by peers who stretch you, you’ll do the best,
+  hardest work of your life in a company engineered to endure.
+  
+  If that sounds like you, join us in building what comes
+  next.
+  
+  About the AI Platform team
+  
+  At hx, AI agents generative AI are becoming embedded across
+  every team and product. The AI Platform team exists to make
+  that happen safely and at scale. We own the shared building
+  blocks that enable any technology team at hx to build, ship,
+  and operate AI agents quickly, safely, and consistently.
+  
+  We build the platform, not the agents. The reusable
+  foundations that agent-building teams depend on:
+  observability for end-to-end tracing, cost tracking, and
+  visibility across all AI usage; gateways for unified LLM
+  access and centralised tool routing; governance for agent
+  identity, authorisation, cost controls, and audit logging;
+  and developer experience through SDKs, documentation, and
+  patterns that make spinning up a production-grade agent fast
+  and consistent.
+  
+  We are a small, high-ownership team that moves fast and
+  builds for adoption. We measure success not by what we ship,
+  but by what other teams can build because of what we ship.
+  
+  What you'll be doing
+  
+  - Observability & Evaluation: Building and evolving the
+    platform that gives hx end-to-end visibility into AI agent
+    behaviour and quality. Tracing, cost tracking, usage
+    dashboards, and shared evaluation infrastructure that
+    helps teams measure and improve agent performance.
+  - Composition: Designing and operating the infrastructure that
+    connects agents to LLMs and tools. Unified proxies,
+    centralised tool routing, discovery, and access governance
+    so agent-building teams don't have to solve these problems
+    individually.
+  - Governance: Defining and implementing the identity,
+    authorisation, and policy layer for AI agents. Scoped
+    credentials, per-tool permissions, audit logging, cost
+    controls, and trust boundary patterns that let agents
+    operate safely as they scale.
+  - Developer experience: Shaping the tools, SDKs,
+    documentation, and patterns that make it fast for any team
+    to go from zero to a production-grade agent on the
+    platform.
+  - Adoption: Driving adoption of shared platform services
+    across technology teams, replacing bespoke per-agent
+    integrations with consistent, well-documented
+    capabilities. Measuring impact and iterating based on what
+    teams actually need.
+  
+  What you'll need to have done
+  
+  - Built and operated platform infrastructure used by multiple
+    teams: API gateways, proxies, observability systems, CI/CD
+    pipelines, cloud infrastructure, or developer platforms
+    where adoption and reliability were your responsibility.
+  - Delivered developer-facing tools, SDKs, or APIs that other
+    engineers relied on daily, with a strong focus on
+    usability, documentation, and developer experience.
+  - Worked with modern AI infrastructure: LLM integrations,
+    agent frameworks, or AI-related tooling. You don't need to
+    be an ML researcher, but you should have hands-on
+    experience building with AI — whether in production,
+    meaningful side projects, or open source — and be
+    comfortable navigating the AI tooling landscape.
+  - Operated systems with governance, security, or compliance
+    requirements: identity models, access control, audit
+    logging, or similar concerns where getting it wrong has
+    real consequences.
+  - Successfully driven adoption of shared services across
+    engineering teams, replacing fragmented, team-specific
+    solutions with consistent platform capabilities, and
+    measuring the impact.
+  - Taken full ownership of initiatives end-to-end: from scoping
+    and planning through to building, driving adoption, and
+    validating success with data. Not just shipping code, but
+    ensuring it lands.
+  
+  We’re hiring at both mid (IC2) and senior (IC3) levels. If
+  you’ve done some but not all of the above, we’d still like
+  to hear from you.
+  
+  You’re unlikely to thrive here if
+  
+  - You wait for detailed specifications before acting. This
+    team operates in a fast-moving, ambiguous space. We scope
+    problems, make decisions, and iterate. If you need
+    everything defined upfront, you'll find it frustrating.
+  - You prefer to work in a silo. We are a platform team. Our
+    work only succeeds when other teams adopt it. That means
+    constant collaboration, stakeholder engagement, and
+    genuine interest in making other engineers more
+    productive.
+  - You see shipping code as the finish line. Here, delivery
+    means adoption. You'll be expected to own the full
+    lifecycle: build it, document it, drive adoption, measure
+    impact, and iterate.
+  - You're not energised by ownership and visibility. Every
+    member of this team leads initiatives, communicates
+    progress transparently, and represents their work to
+    stakeholders. If you prefer to stay heads-down and let
+    others handle the context-setting, this isn't the right
+    fit.
+  
+  If reading our Culture Document leaves you feeling neutral
+  rather than energised, hx may not be the place where you'll
+  do your best work. We're building something that asks for
+  commitment and conviction, and we want you to feel excited
+  by the opportunity to grow with us.
+  
+  Compensation
+  
+  At hx, we're committed to salary transparency. You'll always
+  have clarity on pay early in the process - our Talent
+  Partner will share details with you during initial
+  conversations - and we're working towards publishing salary
+  information for all roles globally.
+  
+  Because we're building at the intersection of
+  technology/SaaS and insurance, our roles don't always map
+  neatly onto traditional benchmarks. Our approach is to
+  design compensation that's competitive in the market, fair
+  across teams, and aligned with the impact our people make.
+  
+  Equity: We offer equity across all roles at hx, making it a
+  significant component of total compensation. Your Talent
+  Partner will be able to share more details about this.
+  
+  Benefits
+  
+  - £5,000 training and conference budget for individual and
+    group development.
+  - 25 days of holiday plus 8 bank holidays (33 days total).
+  - Company pension scheme via Penfold.
+  - Mental health support and therapy via Spectrum.life.
+  - Individual wellbeing allowance via Juno.
+  - Private healthcare insurance through AXA.
+  - Income protection and Life Insurance.
+  - Cycle to Work Scheme.
+  
+  Additional perks
+  
+  - Top-spec equipment (laptop, screens, adjustable desks,
+    etc.).
+  - Regular remote and in-person hackathons, lunch and learns,
+    socials, and game nights.
+  - Team breakfasts and lunches, snacks, drinks fridge, and a
+    fun office at The Ministry.
+  - Exceptional opportunities for personal development and
+    growth as we build something remarkable together.
+  
+  Interview process
+  
+  - Initial chat with our Talent team (30 minutes).
+  - Manager Interview (1 hour).
+  - Technical Assessment broken into two parts (1 hour each)
+  - Values Interview with Senior Tech Leadership (1 hour).
+  - We offer!
+  
+  Our commitment to Diversity
+  
+  hxers are at the centre of everything we build. We know that
+  progress depends on diverse perspectives, and we are
+  committed to creating an environment where everyone can
+  thrive, grow, and make an impact. We recognise there is
+  always more to do, and we take responsibility for shaping a
+  workplace that is not only diverse but genuinely inclusive.
+  
+  Diversity is not just the right thing to do, it is key to
+  solving the complex challenges we choose to take on. By
+  welcoming people from all backgrounds and experiences, we
+  strengthen our ability to question assumptions, push
+  boundaries, and design solutions that endure.
+  
+  If you're energised by complexity and motivated to grow, we
+  encourage you to apply and join our global team.
+  
+  Next steps
+  
+  If this opportunity resonates with you, we encourage you to
+  apply or share it with your connections! Our dedicated
+  talent team reviews all applications, and we promise to
+  provide feedback regardless of the outcome.
+  
+  For more information about applying and to view other
+  opportunities, you can visit our careers page.
+  
+  Please note that background checks will be conducted as part
+  of the hiring process to ensure compliance with our
+  governance policies. We handle all background checks
+  sensitively and in full compliance with relevant
+  regulations. All applicant data will be processed in
+  accordance with data protection regulations and our privacy
+  policy.
+industries:
+  - Information Technology
+  - Insurance
+  - Software
+posted_date: 2026-04-21
+url: "https://builtin.com/job/ai-engineer-platform-warsaw/8865957"
+source: Built In

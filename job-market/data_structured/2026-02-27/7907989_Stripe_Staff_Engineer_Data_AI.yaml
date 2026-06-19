@@ -1,0 +1,52 @@
+company:
+  name: Stripe
+  stage: Public
+  focus: |-
+    Financial infrastructure platform for payments and business
+    operations
+position:
+  title: Staff Engineer , Data & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is primarily a Staff Engineer role focused on data
+      pipelines and revenue/finance automation systems. While the
+      role involves "leveraging the latest in ML, LLMs, and data
+      technologies," this is about USING AI/ML capabilities to
+      enhance products, not building or deploying AI/ML systems
+      directly. The core work is data infrastructure, distributed
+      systems, and financial products.
+  responsibilities:
+  - Lead and architect end-to-end system design for large, complex projects ensuring
+    scalability, reliability, and high performance across distributed systems
+  - Provide technical leadership and mentorship to engineers, setting best practices
+    in system design, architecture, and operational excellence
+  - Drive product innovation by leveraging ML, LLMs, and data technologies to deliver
+    predictive insights and advanced analytics features
+  - Partner cross-functionally with product, design, and data teams to understand
+    business problems and craft balanced solutions
+  - Navigate ambiguous technical challenges, breaking down complex problems into actionable
+    solutions from inception to deployment
+  - Champion system scalability and stability for reporting products handling billions
+    of data points efficiently
+  use_cases:
+  - Data pipeline delivering petabytes of merchant data to customer data warehouses
+  - Revenue and finance automation including billing, tax, reporting, and data services
+  - Predictive insights and advanced analytics for business revenue optimization
+  - Near real-time data freshness with high availability for Fortune 100 companies
+  skills:
+    genai: [LLMs]
+    ml: [ML]
+    web: []
+    databases: [Data Warehouses]
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Distributed Systems]
+    languages: [Python, SQL]
+    domains: []
+    other: [System Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7907989'
+  extracted_at: '2026-03-03T12:19:32.515964'

@@ -1,0 +1,55 @@
+company:
+  name: Datadog
+  stage: Public
+  focus: |-
+    Cloud monitoring, observability, and infrastructure
+    monitoring SaaS platform
+position:
+  title: Staff AI Engineer - Cloud FinOps
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building FinOps platforms and tools for
+      cloud cost management and optimization. While it mentions
+      "AI usage and efficiency" as part of what the team analyzes,
+      the role is about building infrastructure and systems to
+      track/analyze costs across cloud environments, not building,
+      training, or deploying AI/ML models. This is an enabling
+      role that supports AI work through cost visibility and
+      optimization platforms.
+  responsibilities:
+  - Design and evolve internal platforms and tools that provide visibility into cloud
+    infrastructure costs across AWS, GCP, and Azure
+  - Partner with Finance, Engineering, and Executive Leadership to analyze cloud spend
+    trends and inform strategic decisions
+  - Develop scalable models and systems for cloud cost attribution across complex
+    shared infrastructure
+  - Build forward-looking FinOps capabilities that help teams proactively manage and
+    optimize infrastructure usage
+  - Work cross-functionally with engineering leaders to understand system architecture
+    and translate infrastructure usage patterns into actionable cost insights
+  - Influence company-wide initiatives around cost efficiency, forecasting, and infrastructure
+    planning
+  - Lead by example with pragmatic technical judgment while being a hands-on contributor
+  use_cases:
+  - Cloud infrastructure cost visibility and attribution across multi-cloud environments
+  - Cost forecasting and proactive infrastructure optimization
+  - Strategic decision support for executive leadership on infrastructure and AI usage
+    efficiency
+  - FinOps capabilities development for company-wide cost management
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure, cloud infrastructure]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8868523'
+  extracted_at: '2026-03-27T14:43:04.677820'

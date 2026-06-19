@@ -1,0 +1,58 @@
+company:
+  name: TechTorch
+  stage: Growth stage (private equity-backed consultancy)
+  focus: |-
+    Enterprise technology consulting for private equity
+    portfolio companies
+position:
+  title: AI Software Data Engineer US
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI prototypes and MVPs end-to-
+      end, integrating AI/ML capabilities (NLP, document
+      intelligence, classification, anomaly detection) into
+      production systems, and leveraging AI platforms like AWS
+      Bedrock, SageMaker, Snowflake Cortex, and OpenAI. While it
+      also covers full-stack and data engineering, the applied AI
+      component is a core, explicit responsibility — not just a
+      supporting function.
+  responsibilities:
+  - Design and build full-stack applications with React/Next.js frontends and Python
+    backend services and APIs
+  - Build and maintain scalable data pipelines, ELT workflows, and manage data in
+    modern data platforms (Snowflake, Redshift, BigQuery)
+  - Build AI prototypes and MVPs end-to-end for clients, from data ingestion to user-facing
+    experience
+  - Integrate AI/ML capabilities into software and data workflows including NLP, document
+    intelligence, classification, and anomaly detection
+  - Leverage AI platforms and services such as AWS Bedrock, SageMaker, Snowflake Cortex,
+    and OpenAI to deliver AI-powered solutions
+  - Support feature engineering, inference pipelines, and AI-enabled automation
+  - Implement CI/CD pipelines, testing, and production-readiness standards
+  - Ensure AI solutions are observable, explainable, and suitable for enterprise and
+    regulated environments
+  use_cases:
+  - Document intelligence and NLP for enterprise data processing
+  - Classification and anomaly detection for operational automation
+  - AI-powered MVPs and prototypes for private equity portfolio companies
+  - Data-driven transformation and digital product development
+  - Enterprise system modernization with AI integration
+  - Analytics and reporting enabled by AI-ready data foundations
+  skills:
+    genai: [OpenAI]
+    ml: []
+    web: [React, Next.js, REST APIs, FastAPI]
+    databases: [Snowflake, Redshift, BigQuery]
+    data: [dbt, Airflow, Spark, ETL/ELT]
+    cloud: [AWS Bedrock, AWS SageMaker, AWS Lambda, AWS Step Functions, Azure, GCP,
+      Snowflake Cortex]
+    ops: [CI/CD, Docker]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8989716'
+  extracted_at: '2026-04-22T12:33:15.184079'

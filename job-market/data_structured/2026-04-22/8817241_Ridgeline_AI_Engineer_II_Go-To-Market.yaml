@@ -1,0 +1,55 @@
+company:
+  name: Ridgeline
+  stage: Series B+
+  focus: Front-to-back system of record for investment management
+position:
+  title: AI Engineer II, Go-To-Market
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-powered automations,
+      copilots, and agents that enhance GTM workflows. The
+      engineer designs and implements AI-driven solutions using
+      LLMs, RAG architectures, and tools like GPT and Claude,
+      directly working on building and deploying AI applications
+      rather than just supporting infrastructure.
+  responsibilities:
+  - Build AI-powered automations, copilots, and agents that enhance Sales, Marketing,
+    and Customer Experience workflows
+  - Design and implement scalable infrastructure for routing, enrichment, signaling,
+    and lifecycle automation across GTM systems
+  - Partner with cross-functional stakeholders to understand workflows, identify friction
+    points, and deliver high-impact solutions
+  - Develop and maintain data pipelines and strategies that improve data quality,
+    accessibility, and reliability across GTM systems
+  - Ensure reliability, scalability, and observability across all AI-driven workflows
+    and integrations
+  - Translate business needs into technical solutions and lead projects from concept
+    through deployment
+  - Evaluate and integrate emerging AI tools and technologies to continuously improve
+    the GTM tech stack
+  - Collaborate with RevOps and business partners to define success metrics and ensure
+    measurable impact
+  use_cases:
+  - AI-powered copilots and agents for sales, marketing, and customer experience teams
+  - Workflow automation and friction reduction across go-to-market processes
+  - Intelligent routing, enrichment, and signaling across GTM systems
+  - Lifecycle automation for revenue operations
+  - Data pipeline improvement for GTM system data quality and accessibility
+  skills:
+    genai: [GPT/OpenAI API, Claude API, LLMs, RAG architectures, AI agents, Claude
+        Code, Cursor]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Data pipelines]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [CRM platforms, GTM systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8817241'
+  extracted_at: '2026-04-22T14:12:59.067034'

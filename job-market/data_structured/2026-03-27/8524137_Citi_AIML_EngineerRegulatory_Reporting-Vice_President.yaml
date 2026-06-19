@@ -1,0 +1,50 @@
+company:
+  name: Citi
+  stage: Public
+  focus: |-
+    Global financial services and banking with regulatory
+    reporting modernization
+position:
+  title: AI/ML Engineer–Regulatory Reporting-Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying ML models
+      (Isolation Forests, Autoencoders) for anomaly detection and
+      GenAI systems (RAG pipelines, LLM agents,
+      LangChain/LlamaIndex) for document processing and workflow
+      automation. The position requires direct implementation of
+      AI/ML solutions, not just supporting infrastructure.
+  responsibilities:
+  - Build unsupervised and semi-supervised ML models for anomaly detection to scan
+    millions of transactional records
+  - Design RAG pipelines to extract key regulatory attributes from unstructured documents
+  - Build agentic workflows where GenAI proactively suggests mapping logic or identifies
+    root causes
+  - Implement explainability (XAI) into every model to meet regulatory standards
+  - Create validation interfaces using Streamlit or React for human-in-the-loop review
+  - Work with Model Risk Management to establish validation frameworks for non-deterministic
+    GenAI models
+  - Act as AI evangelist to Operations/Finance teams demonstrating AI assistance capabilities
+  use_cases:
+  - Anomaly detection for regulatory reporting data quality
+  - Automated reconciliation and document review
+  - Regulatory attribute extraction from legal loan documents and credit agreements
+  - Human-in-the-loop validation workflows for auditable regulatory compliance
+  - Mapping logic automation and root cause identification for data breaks
+  skills:
+    genai: [LangChain, LlamaIndex, RAG]
+    ml: [scikit-learn, TensorFlow, PyTorch, Isolation Forest, Autoencoders]
+    web: [Streamlit, Gradio, React]
+    databases: [Pinecone, Milvus, pgvector]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Financial Services, Fraud Detection, Risk Modeling]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8524137'
+  extracted_at: '2026-03-27T13:30:30.549502'

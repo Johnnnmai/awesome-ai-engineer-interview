@@ -1,0 +1,58 @@
+company:
+  name: BlackRock
+  stage: Public
+  focus: |-
+    Investment management platform (Aladdin) with AI
+    capabilities
+position:
+  title: AI Product Engineer, Director
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on technical and architectural
+      leadership for building AI platforms including LLM-powered
+      and agentic AI systems. The position requires deep
+      familiarity with LLM frameworks, agent architectures, vector
+      databases, and production AI systems - directly building and
+      deploying AI capabilities, not just supporting
+      infrastructure.
+  responsibilities:
+  - Set technical vision and architecture for Aladdin's AI platform including LLM-powered
+    and agentic AI systems
+  - Lead design and evolution of scalable AI/ML platform services, APIs, and microservices
+    for global user base
+  - Drive architectural decisions across distributed systems ensuring reliability,
+    scalability, security, and operational excellence
+  - Own delivery outcomes for multiple concurrent AI platform initiatives
+  - Lead, mentor, and develop senior engineers, technical leads, and managers
+  - Partner with product management to define roadmaps and align execution with business
+    outcomes
+  - Ensure AI solutions are built with governance, observability, resilience, and
+    responsible AI considerations
+  - Oversee production readiness including design reviews, risk assessments, and release
+    management
+  use_cases:
+  - Investment management workflows powered by AI
+  - Operations automation and optimization
+  - Data science workflow enablement
+  - LLM-powered intelligent systems for financial analysis
+  - Agentic AI systems for multi-step reasoning and task execution
+  - Enterprise AI platform serving global financial clients
+  skills:
+    genai: [LangChain, LlamaIndex, Semantic Kernel, Google Agent Development Kit (ADK),
+      LLM frameworks, Prompt engineering, AI agents, Agentic AI architectures, RAG,
+      GitHub Copilot, AI-native development tools]
+    ml: [ML model evaluation]
+    web: [API design, Microservices]
+    databases: [Faiss, Chroma, Vector databases, Cassandra]
+    data: [Kafka]
+    cloud: [Azure, AWS, GCP]
+    ops: [ML monitoring, MLOps, Docker, Kubernetes, Distributed systems]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8781808'
+  extracted_at: '2026-03-27T14:43:44.441042'

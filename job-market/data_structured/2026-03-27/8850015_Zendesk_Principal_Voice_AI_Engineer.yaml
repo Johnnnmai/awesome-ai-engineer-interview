@@ -1,0 +1,53 @@
+company:
+  name: Zendesk
+  stage: Public
+  focus: Customer service and experience software platform
+position:
+  title: Principal Voice AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying voice
+      AI/ML systems including ASR, TTS, LLMs, and conversational
+      AI. The position requires hands-on work with deep learning
+      frameworks (PyTorch, TensorFlow) to design, architect, and
+      implement AI models for speech and NLP pipelines in
+      production.
+  responsibilities:
+  - Lead research, design, and engineering of next-generation Voice AI solutions including
+    noise-robust multilingual ASR, neural TTS, and advanced QA dialog systems
+  - Drive collaboration across research scientists, software engineers, and product
+    teams to transform AI models into scalable production systems
+  - Oversee large-scale AI research and development projects ensuring delivery of
+    high-quality, real-world solutions
+  - Architect and implement AI models leveraging deep learning algorithms including
+    DNNs, CNNs, RNNs, and Transformer-based architectures
+  - Champion best practices in software development including CI/CD, code reviews,
+    version control, and refactoring
+  - Research and apply latest breakthroughs in AI/ML to enhance voice capabilities
+  - Collaborate with stakeholders to define technical vision, roadmap, and strategy
+    for voice AI products
+  use_cases:
+  - Voice-enabled customer service experiences
+  - Automatic Speech Recognition (ASR) for multilingual transcription
+  - Neural Text-to-Speech (TTS) synthesis
+  - Intelligent voice-based conversational agents and QA dialog systems
+  - Customer support voice automation
+  skills:
+    genai: [GPT, LLMs, Dialog systems]
+    ml: [PyTorch, TensorFlow, Keras, Huggingface Transformers, BERT, Automatic Speech
+        Recognition (ASR), Text-to-Speech (TTS), NLP, DNNs, CNNs, RNNs, Transformers,
+      Diarization, Fine-tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Git]
+    languages: [Python, C++, Java, SQL, Linux/Shell scripting]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8850015'
+  extracted_at: '2026-03-27T14:24:41.632315'

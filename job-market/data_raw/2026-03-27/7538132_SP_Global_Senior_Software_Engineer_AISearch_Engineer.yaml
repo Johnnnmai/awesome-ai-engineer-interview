@@ -1,0 +1,320 @@
+job_id: 7538132
+title: Senior Software Engineer (AI/Search Engineer)
+company: "S&P Global"
+location: Hyderabad, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ci/Cd
+  - Docker
+  - Elasticsearch
+  - Git
+  - Grafana
+  - Java
+  - Junit
+  - Kafka
+  - Langchain
+  - Langgraph
+company_size: 26,747 Employees
+description: |
+  About the Role:
+  
+  Grade Level (for internal use):
+  
+  10
+  
+  Role: Java Engineer (Core Services / Platform Engineering)
+  
+  The Team: Core Services is a global engineering group
+  driving cloud‑native innovation. We build microservice
+  frameworks and platform capabilities that let product teams
+  at S&P Ratings ship resilient, observable, secure services
+  faster. Our internal platform abstracts common
+  concerns—resilience, observability, secrets management,
+  deployments, configuration—so feature teams can focus on
+  business value.
+  
+  The Impact: You will help evolve the framework and shared
+  libraries that power mission‑critical ratings and analytics
+  applications. Your contributions reduce duplication,
+  streamline developer workflows, and lower time‑to‑market. By
+  codifying best practices (fault tolerance, metrics,
+  structured logging, security, CI/CD hygiene) you help every
+  engineering squad move faster while maintaining enterprise
+  standards.
+  
+  What’s In It For You:
+  
+  ·       Ownership of platform components used company‑wide.
+  
+  ·       Collaboration with experienced engineers in
+  distributed systems, cloud, search, streaming, and platform
+  design.
+  
+  ·       Exposure to modern JVM ecosystem tools (Spring,
+  Cloud Native Buildpacks, CNCF projects, Kafka, container
+  orchestration).
+  
+  ·       Opportunities to run proof‑of‑concepts and influence
+  technology adoption.
+  
+  ·       Supportive culture emphasizing learning, quality,
+  and continuous improvement.
+  
+  ·       Work on cutting edge AI/Search solutions.
+  
+  Responsibilities:
+  
+  ·       Enhance our search experience with generative and
+  personalization capabilities
+  
+  ·       Contribute to integrating search and AI/ML
+  capabilities (semantic enrichment, relevance, generative
+  augmentation) into the platform.
+  
+  ·       Built Agentic workflows, AI/ML solutions for search
+  and data retrieval.
+  
+  ·       Work on improving and implementing RAG and context
+  engineering.
+  
+  ·       Work with advanced data stores such as Vector stores
+  to improve data retrieval accuracy and be able to optimize
+  storage and retrieval.
+  
+  ·       Design, implement, and enhance Java microservices
+  and shared framework modules.
+  
+  ·       Deliver features improving resilience,
+  observability, configuration, developer experience, and
+  security.
+  
+  ·       Build and maintain event‑driven components and data
+  pipelines using Kafka (producers, consumers, schemas, stream
+  processing).
+  
+  ·       Write clean, testable code; maintain
+  unit/integration tests; participate in and provide
+  constructive code reviews.
+  
+  ·       Partner with internal customer teams: triage issues,
+  refine requirements, improve documentation and onboarding
+  guides.
+  
+  ·       Create focused proof‑of‑concepts evaluating new
+  libraries or approaches; communicate findings.
+  
+  ·       Uphold secure coding, compliance, and performance
+  best practices; contribute to automated quality gates
+  (static analysis, metrics dashboards, CI/CD).
+  
+  ·       Participate in sprint ceremonies and collaborate
+  with product, architecture, and other engineers on design
+  discussions.
+  
+  What We’re Looking For:
+  
+  ·       Strong foundation in core Java (collections,
+  concurrency fundamentals, streams) and object‑oriented
+  design.
+  
+  ·       Experience building RESTful APIs/services (Spring
+  Boot or similar framework).
+  
+  ·       Solid grasp of data structures, algorithms, and Git
+  workflows.
+  
+  ·       Working knowledge of testing practices
+  (JUnit/Mockito or similar).
+  
+  ·       Familiarity with containerization (Docker) and basic
+  cloud deployment concepts.
+  
+  ·       Clear, professional communication and collaborative
+  mindset.
+  
+  ·       Experience with Kafka or another event streaming /
+  messaging system.
+  
+  ·       Experience with search technologies
+  (Elasticsearch/OpenSearch/Lucene) or vector/semantic
+  retrieval.
+  
+  ·       Experience integrating AI/ML features (e.g., calling
+  model APIs, embedding generation, ranking).
+  
+  ·       Experience working with Vector stores.
+  
+  ·       Experience working with AI/ML framework such as
+  langchain/langgraph.
+  
+  ·       Observability tooling familiarity (Prometheus,
+  Grafana, OpenTelemetry concepts, structured logging).
+  
+  ·       CI/CD pipeline experience (GitHub Actions, Jenkins,
+  etc.).
+  
+  ·       Knowledge of security fundamentals (secrets
+  management, authN/Z patterns).
+  
+  Grade : 10
+  
+  Experience Range : 6 to 8 years
+  
+  Location : Hyderabad
+  
+  Shift Time : 12 pm to 9 pm IST
+  
+  Hybrid Model : twice a week work from office.
+  
+  About S&P Global Ratings At S&P Global Ratings, our analyst-
+  driven credit ratings, research, and sustainable finance
+  opinions provide critical insights that are essential to
+  translating complexity into clarity so market participants
+  can uncover opportunities and make decisions with
+  conviction. By bringing transparency to the market through
+  high-quality independent opinions on creditworthiness, we
+  enable growth across a wide variety of organizations,
+  including businesses, governments, and institutions.
+  
+  S&P Global Ratings is a division of S&P Global (NYSE: SPGI).
+  S&P Global is the world’s foremost provider of credit
+  ratings, benchmarks, analytics and workflow solutions in the
+  global capital, commodity and automotive markets. With every
+  one of our offerings, we help many of the world’s leading
+  organizations navigate the economic landscape so they can
+  plan for tomorrow, today. For more information, visit
+  www.spglobal.com/ratings
+  
+  What’s In It For You?
+  
+  Our Mission:
+  
+  Advancing Essential Intelligence.
+  
+  Our People:
+  
+  We're more than 35,000 strong worldwide—so we're able to
+  understand nuances while having a broad perspective. Our
+  team is driven by curiosity and a shared belief that
+  Essential Intelligence can help build a more prosperous
+  future for us all.From finding new ways to measure
+  sustainability to analyzing energy transition across the
+  supply chain to building workflow solutions that make it
+  easy to tap into insight and apply it. We are changing the
+  way people see things and empowering them to make an impact
+  on the world we live in. We’re committed to a more equitable
+  future and to helping our customers find new, sustainable
+  ways of doing business. Join us and help create the critical
+  insights that truly make a difference.
+  
+  Our Values:
+  
+  Integrity, Discovery, Partnership
+  
+  Throughout our history, the world's leading organizations
+  have relied on us for the Essential Intelligence they need
+  to make confident decisions about the road ahead. We start
+  with a foundation of integrity in all we do, bring a spirit
+  of discovery to our work, and collaborate in close
+  partnership with each other and our customers to achieve
+  shared goals. Benefits:
+  
+  We take care of you, so you can take care of business. We
+  care about our people. That’s why we provide everything
+  you—and your career—need to thrive at S&P Global. Our
+  benefits include:
+  
+  - Health & Wellness: Health care coverage designed for the
+    mind and body.
+  - Flexible Downtime: Generous time off helps keep you
+    energized for your time on.
+  - Continuous Learning: Access a wealth of resources to grow
+    your career and learn valuable new skills.
+  - Invest in Your Future: Secure your financial future through
+    competitive pay, retirement planning, a continuing
+    education program with a company-matched student loan
+    contribution, and financial wellness programs.
+  - Family Friendly Perks: It’s not just about you. S&P Global
+    has perks for your partners and little ones, too, with
+    some best-in class benefits for families.
+  - Beyond the Basics: From retail discounts to referral
+    incentive awards—small perks can make a big difference.
+  
+  For more information on benefits by country visit:
+  https://spgbenefits.com/benefit-summaries
+  
+  Global Hiring and Opportunity at S&P Global:
+  
+  At S&P Global, we are committed to fostering a connected and
+  engaged workplace where all individuals have access to
+  opportunities based on their skills, experience, and
+  contributions. Our hiring practices emphasize fairness,
+  transparency, and merit, ensuring that we attract and retain
+  top talent. By valuing different perspectives and promoting
+  a culture of respect and collaboration, we drive innovation
+  and power global markets.
+  
+  S&P Global has a Securities Disclosure and Trading Policy
+  (“the Policy”) that seeks to mitigate conflicts of interest
+  by monitoring and placing restrictions on personal
+  securities holding and trading. The Policy is designed to
+  promote compliance with global regulations. In some
+  Divisions, pursuant to the Policy’s requirements, candidates
+  at S&P Global may be asked to disclose securities holdings.
+  Some roles may include a trading prohibition and remediation
+  of positions when there is an effective or potential
+  conflict of interest. Employment at S&P Global is contingent
+  upon compliance with the Policy.
+  
+  Recruitment Fraud Alert:
+  
+  If you receive an email from a spglobalind.com domain or any
+  other regionally based domains, it is a scam and should be
+  reported to reportfraud@spglobal.com. S&P Global never
+  requires any candidate to pay money for job applications,
+  interviews, offer letters, “pre-employment training” or for
+  equipment/delivery of equipment. Stay informed and protect
+  yourself from recruitment fraud by reviewing our guidelines,
+  fraudulent domains, and how to report suspicious activity
+  here.
+  
+  -----------------------------------------------------------
+  
+  Equal Opportunity Employer
+  
+  S&P Global is an equal opportunity employer and all
+  qualified candidates will receive consideration for
+  employment without regard to race/ethnicity, color,
+  religion, sex, sexual orientation, gender identity, national
+  origin, age, disability, marital status, military veteran
+  status, unemployment status, or any other status protected
+  by law.  Only electronic job submissions will be considered
+  for employment.
+  
+  
+  
+  If you need an accommodation during the application process
+  due to a disability, please send an email
+  to: EEO.Compliance@spglobal.com and your request will be
+  forwarded to the appropriate person. 
+  
+  US Candidates Only:  The EEO is the Law Poster http://www.do
+  l.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describe
+  s discrimination protections under federal law.  Pay
+  Transparency Nondiscrimination Provision -
+  https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-
+  transp_%20English_formattedESQA508c.pdf
+  
+  -----------------------------------------------------------
+  
+  20 - Professional (EEO-2 Job Categories-United States of
+  America), IFTECH202.1 - Middle Professional Tier I (EEO Job
+  Group), SWP Priority – Ratings - (Strategic Workforce
+  Planning)
+industries:
+  - Fintech
+  - Analytics
+posted_date: 2026-03-27
+url: "https://builtin.com/job/senior-software-engineer-ai-search-engineer/7538132"
+source: Built In

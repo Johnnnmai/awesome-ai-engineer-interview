@@ -1,0 +1,47 @@
+company:
+  name: Jack & Jill AI
+  stage: Seed
+  focus: |-
+    Aerospace AI startup for aircraft inspection, testing, and
+    certification
+position:
+  title: Mid-level Frontend Engineer (£60k-£100k + Equity) at Mozart AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly integrating and deploying LLMs
+      and voice AI into aerospace systems. The founding engineer
+      will architect technical foundations that leverage these AI
+      technologies to solve real-world problems in aircraft
+      inspection and certification.
+  responsibilities:
+  - Design and ship production-ready features rapidly to establish Fleetcraft as the
+    industry standard for aircraft certification
+  - Architect scalable technical foundations that integrate LLMs and voice AI into
+    complex aerospace workflows
+  - Partner directly with the CEO and CTO to define the long-term engineering roadmap
+    and organizational culture
+  - Build software infrastructure powering global aircraft inspection, testing, and
+    certification
+  use_cases:
+  - Aircraft inspection automation
+  - Aircraft testing and certification workflows
+  - Safety-critical systems for MROs (Maintenance, Repair, and Operations)
+  - Aerospace manufacturing quality assurance
+  - Voice-enabled aerospace workflow systems
+  skills:
+    genai: [LLMs, Voice AI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud platforms]
+    ops: [Docker, Kubernetes]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [System architecture, Hardware integration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8853945'
+  extracted_at: '2026-03-27T13:35:39.139310'

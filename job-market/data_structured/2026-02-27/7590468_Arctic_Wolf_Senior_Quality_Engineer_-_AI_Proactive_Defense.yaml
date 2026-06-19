@@ -1,0 +1,59 @@
+company:
+  name: Arctic Wolf
+  stage: Public
+  focus: |-
+    Managed detection and response cybersecurity services with
+    AI-powered security operations
+position:
+  title: Senior Quality Engineer - AI Proactive Defense
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves testing and validating agentic AI
+      systems, multi-agent orchestration, and LLM integrations
+      directly. While it's a quality engineering role rather than
+      model building, the hands-on work with reasoning agents,
+      prompt validation, response benchmarking, and AI-specific
+      testing workflows constitutes direct work ON AI systems
+      rather than just supporting infrastructure.
+  responsibilities:
+  - Design and implement end-to-end quality strategies for agentic AI systems, balancing
+    manual exploratory testing with automation frameworks
+  - Develop and maintain validation frameworks for multi-agent orchestration logic
+    ensuring correctness in planning, decision-making, and adaptive behaviours
+  - Perform exploratory testing of AI reasoning, tool usage, and agent collaboration
+    workflows to uncover edge cases and emergent behaviours
+  - Automate test coverage for APIs, microservices, and orchestration components using
+    modern testing tools and frameworks
+  - Create observability and monitoring solutions to assess agent accuracy, latency,
+    and behavioural consistency
+  - Collaborate with AI and backend developers to embed quality gates and automated
+    checks into CI/CD pipelines
+  - Evaluate and integrate testing tools for AI-specific workflows including prompt
+    validation, response benchmarking, and output scoring
+  - Champion best practices for reproducibility, versioning, and validation of AI
+    model behaviours
+  use_cases:
+  - AI-powered cybersecurity threat detection and response
+  - Autonomous security agents for proactive defense
+  - Multi-agent orchestration for security operations
+  - Intelligent reasoning systems for threat analysis
+  - LLM-powered security automation and contextual decision-making
+  skills:
+    genai: [agentic AI frameworks, LLM integrations, multi-agent orchestration, prompt
+        validation, response benchmarking]
+    ml: []
+    web: [API testing, microservices]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [GitHub Actions, Jenkins, CI/CD, Docker, Kubernetes, Grafana, Prometheus,
+      MLflow, Kubeflow]
+    languages: [Python, Java, Go]
+    domains: [cybersecurity, threat detection, SOC operations]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7590468'
+  extracted_at: '2026-03-03T12:27:25.402718'

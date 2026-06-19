@@ -1,0 +1,58 @@
+company:
+  name: CAI (cai.io).
+  stage: Private
+  focus: |-
+    Global technology services firm providing tailored solutions
+    across public and commercial sectors
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first: the developer builds,
+      trains, fine-tunes, and deploys deep learning models (CNNs,
+      RNNs, Transformers), fine-tunes LLMs with LoRA/QLoRA,
+      develops RAG pipelines, and designs multi-agent workflows
+      using LangChain/LangGraph/CrewAI. All core responsibilities
+      involve hands-on work with AI/ML models and agentic systems.
+  responsibilities:
+  - Architect and train CNN/ViT models for classification, detection, segmentation,
+    and OCR
+  - Build and optimize RNN/LSTM/GRU models for sequence learning, speech, or timeseries
+    forecasting
+  - Research and implement transformer-based architectures bridging vision and language
+    tasks
+  - Design and implement multi-agent workflows using LangChain, LangGraph, CrewAI,
+    or similar frameworks
+  - Fine-tune open-weight LLMs using LoRA/QLoRA, PEFT, or RLHF methods and develop
+    RAG pipelines
+  - Deploy models with TorchServe, Triton, or KServe on cloud AI stacks and optimize
+    inference with ONNX/TensorRT, quantization, and pruning
+  - Build robust APIs/micro-services (FastAPI, gRPC) with CI/CD, monitoring, and automated
+    retraining
+  - Mentor junior engineers and lead technical reviews promoting best practices across
+    the team
+  use_cases:
+  - Computer vision pipelines for OCR, classification, detection, and segmentation
+  - Sequence modeling for speech recognition or time-series forecasting
+  - Multimodal AI systems combining vision and language understanding
+  - Autonomous multi-agent workflows with vision and language integration
+  - Scalable model deployment for cloud and edge devices
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, LoRA/QLoRA, PEFT, RLHF, RAG]
+    ml: [PyTorch, TensorFlow, CNNs, RNNs/LSTM/GRU, Transformers, Vision Transformers
+        (ViT), CUDA, Quantization and Pruning]
+    web: [FastAPI, gRPC]
+    databases: [FAISS, Weaviate, pgvector]
+    data: []
+    cloud: [AWS SageMaker, GCP Vertex AI]
+    ops: [W&B, MLflow, TorchServe, Triton, KServe, ONNX, TensorRT, Docker, Kubernetes,
+      CI/CD]
+    languages: [Python]
+    domains: [Computer Vision]
+    other: [Git]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7228128'
+  extracted_at: '2026-04-22T13:12:37.625028'

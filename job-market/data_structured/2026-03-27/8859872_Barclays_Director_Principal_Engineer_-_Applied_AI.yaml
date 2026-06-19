@@ -1,0 +1,56 @@
+company:
+  name: Barclays
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Director/ Principal Engineer - Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on architect role directly building AI/ML
+      systems including LLMs, agentic frameworks, and RAG
+      implementations. The role involves fine-tuning models,
+      implementing MLOps practices, agentizing systems, and
+      conducting prompt engineering research - all core AI-first
+      activities.
+  responsibilities:
+  - Serve as primary code-level reviewer and hands-on architect for complex AI/ML
+    systems and frameworks
+  - Define and enforce technology roadmaps, best practices, and standards for AI/ML
+    adoption across the organization
+  - Conduct and guide research on context/prompt engineering techniques and translate
+    into reusable engineering frameworks
+  - Architect and maintain robust data pipelines and data processing workflows for
+    model training and tuning
+  - Implement and champion MLOps tools and practices for seamless integration of ML
+    models and LLMs into production
+  - Lead the effort to agentize existing systems by incorporating agentic frameworks
+    and integrating via A2A and MCP protocols
+  - Partner with cross-functional teams to integrate AI/ML solutions into products
+    and services
+  - Mentor and coach junior and senior engineers on advanced AI/ML techniques and
+    architecture design
+  use_cases:
+  - Elevated customer experiences in banking through AI-driven solutions
+  - Streamlined business operations with cutting-edge AI technologies
+  - LLM systems equipped with domain-specific banking and financial knowledge
+  - Agentized front-end and back-end applications with agentic frameworks
+  - Production-grade AI/ML platforms for enterprise scale deployment
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, Agentic frameworks, MCP protocol, A2A protocol,
+      Prompt engineering, RAG]
+    ml: [LLM training and fine-tuning, Deep learning, Natural language processing,
+      Reinforcement learning]
+    web: []
+    databases: []
+    data: [Data pipelines]
+    cloud: [Cloud services]
+    ops: [Docker, Kubernetes, CI/CD, MLOps, Git, Jenkins]
+    languages: [Python, R]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8859872'
+  extracted_at: '2026-03-27T15:47:41.081066'

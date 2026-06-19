@@ -1,0 +1,61 @@
+company:
+  name: Emerson
+  stage: Public
+  focus: |-
+    Global leader in automation technology and software for
+    critical industries
+position:
+  title: Principal Software Engineer – AI Systems for Engineering Workflows
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and delivering AI-enabled
+      solutions for engineering workflows, including hands-on work
+      with RAG architectures, agentic systems, and
+      operationalizing AI in production. The Principal Engineer is
+      directly building, deploying, and operating AI systems (not
+      just supporting infrastructure for others' AI work), making
+      this an ai-first role.
+  responsibilities:
+  - Lead the design and delivery of AI-enabled solutions for building, test, and release
+    workflows of software products
+  - Identify engineering workflows that can be fully or partially offloaded to AI
+    systems, reducing repeated manual effort
+  - Design and implement scalable AI-powered solutions for build/test triage, failure
+    analysis, flaky test intelligence, debugging assistance, and release decision
+    support
+  - Own key initiatives from concept and architecture through development, rollout,
+    validation, adoption, and ongoing improvement
+  - Develop tools, supporting systems, and infrastructure that improve engineering
+    productivity and enable sustainable AI adoption
+  - Establish practical approaches for evaluation, telemetry, monitoring, observability,
+    and continuous improvement of AI-enabled systems
+  - Act as a key technical leader shaping the long-term roadmap for AI-driven DevOps
+    transformation
+  - Mentor teams on AI/ML fundamentals, emerging practices, and how to leverage automation
+    to enhance product quality
+  use_cases:
+  - Automated build and test triage with AI-driven failure analysis
+  - Flaky test intelligence and debugging assistance for engineering teams
+  - AI-powered release decision support and risk assessment
+  - Predictive and self-healing CI/CD pipelines replacing static automation
+  - Engineering workflow automation to eliminate high-cost manual processes
+  - Intelligent automation for software and firmware build, test, and release cycles
+  skills:
+    genai: [RAG (Retrieval-Augmented Generation), Agentic Systems, Prompt Engineering,
+      AI Evaluation Methods, LangChain]
+    ml: [Fine-tuning, Model Evaluation]
+    web: [REST APIs]
+    databases: [PostgreSQL, Vector Databases]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [CI/CD Pipelines, DevOps, Docker, Kubernetes, Monitoring and Observability,
+      MLflow]
+    languages: [Python]
+    domains: []
+    other: [Software Systems Design, Agile Software Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9028398'
+  extracted_at: '2026-04-22T13:11:40.788158'

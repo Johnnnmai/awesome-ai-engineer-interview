@@ -1,0 +1,53 @@
+company:
+  name: SolarEdge Technologies
+  stage: Public
+  focus: |-
+    Smart energy technology, solar power, and energy management
+    solutions
+position:
+  title: Senior AI Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building agentic AI
+      infrastructure including RAG, tool orchestration, and
+      planning/execution flows, as well as productionizing ML
+      models. The engineer is hands-on with LLMs, agents, and AI
+      systems — not just supporting infrastructure for others.
+  responsibilities:
+  - Design reusable agentic AI infrastructure including RAG, tool orchestration, and
+    planning/execution flows
+  - Build robust retrieval services, embedding pipelines, and intelligent model-routing
+    solutions
+  - Implement comprehensive evaluation, monitoring, and cost-control frameworks for
+    AI system reliability and efficiency
+  - Optimize for latency, reliability, and token efficiency at scale in production
+    environments
+  - Productionize advanced ML models and integrate them with enterprise systems across
+    global operations
+  - Collaborate with Data Science & Engineering teams on system architecture and technical
+    direction
+  use_cases:
+  - Internal AI platform to standardize and scale LLM- and agent-based systems across
+    SolarEdge
+  - Retrieval-Augmented Generation (RAG) for enterprise knowledge access
+  - Agentic AI tool orchestration and planning/execution workflows
+  - Intelligent model routing for cost and performance optimization
+  - AI-powered smart energy and solar power optimization solutions
+  skills:
+    genai: [RAG, LLMs, Agent-based systems, Embedding pipelines, Prompt engineering]
+    ml: [ML model productionization]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud platforms]
+    ops: [Model evaluation and monitoring, Cost optimization for AI systems, Token
+        efficiency optimization]
+    languages: [Python, Java]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8967743'
+  extracted_at: '2026-04-22T13:19:20.186874'

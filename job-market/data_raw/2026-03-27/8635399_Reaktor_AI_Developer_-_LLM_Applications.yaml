@@ -1,0 +1,165 @@
+job_id: 8635399
+title: AI Developer - LLM Applications
+company: Reaktor
+location: Amsterdam, NLD
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Chromadb
+  - Docker
+  - Fastapi
+  - Kubernetes
+  - Langchain
+  - Llamaindex
+  - Node.js
+  - Pgvector
+  - Pinecone
+  - Postgres
+company_size: 644 Employees
+description: |
+  Reaktor's award-winning tech community is looking for AI
+  developers to join us in Amsterdam.
+  
+  If you thrive on applying cutting-edge AI technologies,
+  building LLM-powered applications, and driving projects
+  through the full software development lifecycle — and you’re
+  passionate about solving real human problems with a holistic
+  approach — we’d love to meet you. Join us to experience a
+  truly collaborative, low-hierarchy environment where your
+  curiosity and ideas can make a real impact.
+  
+  As an AI Developer at Reaktor, your job is to be an expert
+  in a range of AI-related software development
+  responsibilities spanning the entire software development
+  lifecycle, from front-end to production.
+  
+   Your daily tasks include:
+  
+  - Designing and implementing end-to-end LLM-enabled
+    applications from backend architecture to user-facing
+    components, ensuring scalability and maintainability.
+  - Integrating commercial and open source LLMs (e.g. OpenAI,
+    Anthropic, Meta Llama etc.) into production applications
+    and workflows, using APIs or fine-tuning.
+  - Working with end-to-end RAG pipelines, including embeddings,
+    vector databases (e.g. PostgreSQL + pgvector, chromaDB,
+    pinecone), robust prompt engineering strategies and
+    guardrails
+  - Designing and implementing evaluation pipelines to benchmark
+    the model performance and safety
+  - Collaborating with cross-functional teams, contributing to
+    the development of AI use cases to address complex
+    business challenges
+  - Working together with the client’s tech and business teams
+    and helping them to pick the right technologies suitable
+    for their needs.
+  - Delivering the client and the team with world-class
+    technical expertise.
+  - Other software development-related tasks like contributing
+    to the overall software architecture and design, building
+    test automation and debugging problems.
+  
+  You are a curious-minded AI developer who is comfortable
+  working with LLMs, backend, and front-end of an application.
+  Additionally, you understand the role of infrastructure and
+  understand the underlying workings of transformer-based
+  models.
+  
+  To thrive in this position, you’ll need:
+  
+  - Experience working with AI software development technologies
+    (LLMs, backend, frontend, ops, and consulting skills) in a
+    production environment.
+  - Experience in deploying AI applications in cloud
+    environments (Azure, AWS, GCP) with
+    containerization/orchestration (Docker, Kubernetes)
+  - We don’t have a hard limit on years of experience, but we’ve
+    noticed that some of these competencies take several years
+    to accumulate.
+  - Foundational knowledge in DevOps, including Continuous
+    Integration (CI), automated deployment, and test
+    automation.
+  - Know-how on vector databases and databases (e.g., PostgreSQL
+    + pgvector, pgvectorscale, chromaDB, pinecone).
+  - Awareness of data privacy (GDPR), security and ethical
+    considerations when handling sensitive data with AI.
+  - To be comfortable engaging with the client stakeholders when
+    needed.
+  - Fluent verbal & written English skills. Local language
+    skills (Dutch) are seen as an advantage.
+  
+  RE: Technologies in our projects
+  
+  - Some projects require proficiency in Python or
+    Node.js/TypeScript, including experience with frameworks
+    like LangChain, FastAPI or LlamaIndex.
+  - Some projects require JVM-based languages.
+  - Our philosophy is that tech is a tool. This role is quite
+    new to the industry and there will be some grey areas when
+    it comes to exact techs in our projects. Do not let lack
+    of a specific technology hinder you from applying to this
+    job.
+  
+  Why join us?
+  
+  For two decades, we’ve been developing qualities and
+  capabilities for adapting, reacting, and supporting change –
+  building Reaktor to hold up in a fast-paced environment
+  while ensuring the well-being of our people.
+  
+  At Reaktor, you'll have the opportunity to work across a
+  range of industries, such as Healthcare, the Public Sector,
+  Industrial and Retail. You might also be collaborating with
+  clients in Defense & Security, Aero or Gaming &
+  Entertainment.
+  
+  Read more about the different industries we work with here.
+  
+  While working at Reaktor, we’ll provide you with:
+  
+  - The ability to impact how you work. Together with the
+    client, your team chooses the approach, technologies, and
+    methodologies you think will work best in any given
+    situation.
+  - A community with as much support as your heart desires.
+  - A team that’s not only experienced but considerate as well –
+    they all want you to succeed.
+  - A sustainable work-life balance and support for your daily
+    life outside of work. (e.g., free moving day, Reaktor car
+    share, sick child care services, office space to use for
+    your private events, etc.).
+  - An opportunity to grow as a professional. In addition to the
+    day-to-day work, we offer internal training courses,
+    community events, and 15-minute coffee breaks to discuss
+    hot topics in tech and design.
+  - A possibility to take part in more extended academy-like
+    studies like Cloud Academy.
+  - 300+ hobby clubs, from winter swimming and running to
+    knitting and archery, that bring people together outside
+    of (and sometimes inside) office hours. Many of these are
+    supported by Reaktor.
+  - Check more about our benefits & perks on
+    www.reaktor.com/careers
+  
+  Diversity, equity, and inclusion
+  
+  Together, we are committed to making Reaktor an environment
+  that embraces and values all of our employees for the whole
+  of who they are. We encourage applicants from all
+  backgrounds to apply, knowing that studies show that members
+  of underrepresented communities don’t apply for jobs unless
+  they fully satisfy all of the requirements. If you're
+  thinking twice about applying for this reason, we invite you
+  to send us your application anyway. You could be just the
+  person we're looking for.
+  
+  Read more about our DEI work here.
+  
+  Interested? Drop us a line – We'll be happy to hear from
+  you!
+industries:
+  - Agency
+  - Consulting
+posted_date: 2026-03-03
+url: "https://builtin.com/job/ai-developer-llm-applications/8635399"
+source: Built In

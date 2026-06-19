@@ -1,0 +1,54 @@
+company:
+  name: dentsu
+  stage: Public
+  focus: |-
+    Global marketing and advertising network providing AI-
+    powered business solutions
+position:
+  title: Gen AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and fine-
+      tuning LLM-powered applications, RAG pipelines, and agentic
+      AI workflows. The engineer works hands-on with LLMs,
+      implements RAG architectures, and deploys AI models to
+      production environments.
+  responsibilities:
+  - Design, develop, and fine-tune LLM-powered applications for enterprise use cases
+  - Implement RAG pipelines using vector databases, embeddings, and optimized retrieval
+    strategies
+  - Build agentic AI workflows with multi-step reasoning, tool calling, and integration
+    with APIs
+  - Integrate GenAI solutions into multi-cloud or hybrid cloud environments (AWS,
+    Azure, GCP)
+  - Develop and optimize edge AI deployments for low-latency use cases
+  - Create data pipelines for AI ingestion, preprocessing, and governance
+  - Implement AI safety, bias mitigation, and compliance measures
+  - Work closely with LLMOps teams to enable continuous integration & deployment of
+    AI models
+  use_cases:
+  - Enterprise LLM-powered applications
+  - RAG-based knowledge retrieval and question answering
+  - Multi-step agentic AI workflows with tool integration
+  - Edge AI deployments for low-latency scenarios
+  - Multi-modal AI processing (text, image, speech, video)
+  - AI governance and compliance systems
+  skills:
+    genai: [LangGraph, LlamaIndex, PromptFlow, OpenAI APIs, Anthropic APIs, RAG, Agentic
+        AI, Prompt Engineering]
+    ml: [PyTorch, TensorFlow, HuggingFace]
+    web: [REST APIs, Microservices, WebSockets]
+    databases: [Pinecone, Weaviate, Milvus, FAISS, Azure Cognitive Search]
+    data: [Kafka]
+    cloud: [AWS Bedrock, AWS SageMaker, Azure AI Foundry, Google Vertex AI, AWS IoT
+        Greengrass]
+    ops: [Docker, Kubernetes, LLMOps, NVIDIA Jetson, Azure Percept]
+    languages: [Python, Node.js, Rust]
+    domains: [Multi-modal AI]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8786076'
+  extracted_at: '2026-03-27T15:37:08.477323'

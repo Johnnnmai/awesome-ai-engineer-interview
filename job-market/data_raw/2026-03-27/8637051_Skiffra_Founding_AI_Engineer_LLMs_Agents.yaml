@@ -1,0 +1,138 @@
+job_id: 8637051
+title: "Founding AI Engineer (LLMs & Agents)"
+company: Skiffra
+location: Los Angeles, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Fine-Tuning
+  - Llms
+  - Peft (Lora/Qlora)
+  - Python
+  - Rag (Retrieval-Augmented Generation)
+  - Tool-Integration
+  - Transformer-Based Stack
+  - Vector Databases
+description: |
+  About Skiffra
+  
+  Skiffra is building the intelligence layer for the physical
+  world. We translate complex, real-world environments into
+  clear, actionable data. While most AI companies focus on
+  digital industries, we design AI native orchestration
+  systems for the sectors that extract, move, and build
+  ecosystems around us. We turn messy, high stakes operations
+  into intelligent, adaptive workflows that improve decisions
+  in real time. Our first proving ground is mining and natural
+  resources, but the platform is modular by design and built
+  to scale into any industry where decisions are expensive and
+  the consequences are real.
+  
+  The Role
+  
+  As a Founding AI Engineer, you will be the architect of our
+  core intelligence. This is a role for a high-leverage
+  builder who can move fluidly between prompt engineering,
+  backend systems, and model optimization. You will design the
+  "brain" of Skiffra, moving agentic workflows from
+  whiteboards to production-grade systems that handle real
+  enterprise data at scale. This is a founding-level role for
+  builders who value shipping over dogma and real-world impact
+  over demos.
+  
+  This role will be based in the San Francisco Bay Area or Los
+  Angeles, CA.
+  
+  What You’ll Do
+  
+  - Architect & Build Agentic Systems: Design, prototype, and
+    harden production-grade orchestration frameworks that
+    leverage LLMs, persistent memory, and tool-integration to
+    navigate complex, non-linear enterprise tasks
+  - Build the Data Flywheel: Implement sophisticated RAG
+    (Retrieval-Augmented Generation) pipelines, ensuring high-
+    fidelity context retrieval from fragmented data sources
+  - Evaluate & Iterate: Build internal benchmarking and
+    evaluation suites to measure and improve model
+    reliability, grounding, and latency
+  - Strategic Modeling: Architect high-performance intelligence
+    stacks by making pragmatic trade-offs between Frontier
+    Reasoning Models (GPT-5, Claude 4 Opus) for long-horizon
+    agentic planning, Fine-tuned Open-Weight Models (Llama 4,
+    Mistral 3) for data sovereignty and low-latency inference,
+    and Deterministic Heuristics for reliable, cost-efficient
+    guardrails
+  - Full-Stack Ownership: Work directly with founders to
+    translate ambiguous operational "messes" into clean,
+    scalable, AI-powered software
+  - Cross-Collaboration: Partner with product and engineering to
+    turn ambiguity into working software
+  
+  What We’re Looking For
+  
+  - 7+ years of Systems Engineering: You have a deep background
+    in building production software. You understand that "AI"
+    is only as good as the infrastructure surrounding it
+  - Modern AI Fluency: Deep practical experience with the
+    transformer-based stack: embeddings, vector databases,
+    tool-calling, and context window management
+  - Python Power-User: You are comfortable building entire
+    systems, not just experimenting in notebooks
+  - Reliability Mindset: You have strong instincts for failure
+    modes (hallucinations, API timeouts, "infinite loops" in
+    agents) and how to build guardrails against them
+  - Clear communicator with founder-level ownership mindset
+  
+  Nice to Have
+  
+  - Experience in building complex, multi-step workflows using
+    LangGraph, LlamaIndex, and CrewAI
+  - Hands-on experience with Fine-tuning and PEFT (LoRA/QLoRA)
+    to adapt open-weight models for domain-specific tasks
+  - A background in Enterprise Operations (Industrial,
+    Logistics, Fintech, or CRM workflows).
+  - Strong opinions on where AI creates value and where it’s
+    just expensive noise
+  
+  How We Work
+  
+  We value speed, clarity, and technical rigor. We favor
+  simple systems over clever ones, prototypes over over-
+  planning, and ownership over handoffs. You’ll work directly
+  with founders and ship things that matter quickly.
+  
+  Location & Work Model
+  
+  This is a hybrid role with regular in-person collaboration
+  in Los Angeles or the San Francisco Bay Area. We are not a
+  remote-only company.
+  
+  Work Authorization
+  
+  Candidates must be authorized to work in the United States.
+  We are not able to offer visa sponsorship for this role.
+  
+  Benefits & Eligibility
+  
+  This position is eligible for Skiffra’s standard benefits,
+  including health insurance and retirement plans, and may
+  also qualify for participation in the Company’s bonus and
+  incentive programs.
+  
+  Equal Opportunity
+  
+  Skiffra is an equal opportunity employer. We value diversity
+  and do not discriminate on the basis of race, color,
+  religion, sex, gender identity or expression, sexual
+  orientation, age, national origin, disability, veteran
+  status, or any other protected characteristic.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Business Intelligence
+  - Financial Services
+  - Big Data Analytics
+  - Manufacturing
+posted_date: 2026-03-03
+url: "https://www.builtinla.com/job/founding-ai-engineer-llms-agents/8637051"
+source: Built In

@@ -1,0 +1,48 @@
+company:
+  name: Writer
+  stage: Series C (valued at $1.9B)
+  focus: |-
+    Enterprise generative AI platform for building and deploying
+    AI agents
+position:
+  title: Senior software engineer, enterprise AI platform (UK)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying generative AI
+      applications, integrating advanced AI models and agentic
+      workflows, and working with LLMs, vector databases, and
+      agentic frameworks. The engineer is directly constructing
+      AI-powered services and APIs, making this an ai-first role.
+  responsibilities:
+  - Design and own the architecture of core platform components from initial design
+    through production deployment
+  - Develop secure generative AI services and applications using Python and modern
+    frameworks
+  - Build and optimize high-performance, low-latency APIs and microservices for integrating
+    AI models and agentic workflows
+  - Communicate changes, plans, and proposals to cross-functional teams proactively
+  - Bridge backend services, infrastructure, and operations to ensure seamless deployments
+    and scalable architecture
+  - Mentor junior engineers and collaborate with cross-functional teams
+  use_cases:
+  - Enterprise AI agent building and deployment grounded in company data
+  - Secure generative AI services for large enterprise environments
+  - High-performance API integration of advanced AI models and agentic workflows
+  - Enterprise-wide AI transformation driving revenue growth and cost reduction
+  skills:
+    genai: [LLMs, Agentic frameworks, RAG, Claude API, GitHub Copilot]
+    ml: []
+    web: [FastAPI, RESTful APIs, Microservices architecture]
+    databases: ['Vector databases (Pinecone, Weaviate, pgvector)', PostgreSQL]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes]
+    languages: [Python, Asyncio]
+    domains: []
+    other: [Cursor, IAM/SSO/SAML/OAuth/OIDC/RBAC]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9070876'
+  extracted_at: '2026-04-22T13:56:40.077729'

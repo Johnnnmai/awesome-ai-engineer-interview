@@ -1,0 +1,55 @@
+company:
+  name: Intel Corp
+  stage: Public
+  focus: Semiconductor and computing platforms, data center solutions
+position:
+  title: Platform Application Engineer (DPDK/Cloud-native/AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform application engineer role focused on
+      DPDK-based packet processing and cloud-native networking.
+      While AI/ML knowledge is required, the role uses AI tools to
+      enhance productivity and debugging rather than building,
+      training, or deploying AI/ML systems. The primary work is
+      customer enablement for high-performance networking
+      applications on Intel platforms.
+  responsibilities:
+  - Support and guide customers in developing high performance packet processing applications
+    on Intel Architecture using DPDK, Intel drivers, firmware, and related software
+    stacks
+  - Act as a trusted technical consultant to third party developers, enabling them
+    to port, optimize, and scale their applications on Intel platforms
+  - Develop demonstrations, benchmarks, reference designs, and prototype applications
+    on multicore communication processors (Xeon, Atom)
+  - Prepare high quality customer facing documentation, including Application Notes,
+    White Papers, Device Advisories, and technical presentations
+  - Serve as the first technical point of contact for customer software integration
+    and bring up activities
+  - Reproduce, root cause, and report issues to relevant design teams and propose
+    workarounds
+  - Deliver training, debugging support, and onsite integration assistance
+  - Support the transition of bare metal packet processing applications to cloud native
+    architectures
+  use_cases:
+  - High performance packet processing on Intel Architecture
+  - Cloud-native networking application deployment
+  - Customer application porting and optimization on Intel platforms
+  - Network infrastructure for telecom networks (3G, LTE, 5G)
+  - Data plane packet processing optimization
+  skills:
+    genai: [GitHub Copilot, Microsoft Copilot, ChatGPT, Claude]
+    ml: [PyTorch, TensorFlow, Keras, ONNX]
+    web: [Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Linux, Docker, Kubernetes, Virtualization]
+    languages: [C]
+    domains: [5G/LTE]
+    other: [DPDK, TCP/IP, Ethernet]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8629897'
+  extracted_at: '2026-03-27T16:03:39.418219'

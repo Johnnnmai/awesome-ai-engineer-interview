@@ -1,0 +1,116 @@
+job_id: 8979302
+title: Backend Engineer (AI Agents/Workflows)
+company: Andercore
+location: Berlin, DEU
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Anthropic
+  - AWS
+  - Gemini
+  - Github Actions
+  - Java
+  - Kinesis
+  - Langgraph
+  - Llm Apis
+  - Nextjs
+  - Node.js
+company_size: 76 Employees
+description: |
+  About the Company
+  
+  The AI-driven trade platform transforming industrial supply
+  in infrastructure, energy, and construction materials. It
+  connects vetted suppliers across Asia, Europe, and the GCC
+  region with local demand through a single integrated
+  platform.
+  
+  Its proprietary AI stack digitizes and automates the full
+  lifecycle of materials trade – from procurement and pricing
+  to inventory, logistics, and embedded financing – replacing
+  thousands of manual, relationship-driven processes with
+  real-time orchestration.
+  
+  Buyers gain instant quotes, reliable availability, and
+  predictable delivery through a unified operating system.
+  Suppliers benefit from accurate forecasting, disciplined
+  demand management, and seamless integration into cross-
+  border fulfillment networks. The company partners with
+  leading brands to run both dropship and cross-dock
+  fulfillment motions for large-scale transactions, turning
+  global supply chains into predictable, repeatable, software-
+  like workflows.
+  
+  The company has scaled to triple-digit-million GMV, operates
+  across six international markets, and is rapidly expanding
+  toward profitability. With a team of 80+ people across
+  Berlin (HQ) and Asia, it is building the world’s first
+  industrial-grade AI operating system for materials –
+  redefining how global trade works in one of the world’s
+  largest and most essential industries.
+  
+  The company is backed by top-tier investors as well as
+  global institutional banking partners, having recently
+  closed its $40m series B - Atomico, Project A, and Invent
+  Capital with institutional backing from Commerzbank and KfW.
+  
+  The Tech team will allow you to work alongside a group of
+  highly ambitious and knowledgeable Engineers, while being
+  faced with complex problems and being exposed to commercial.
+  
+  The Tech Stack: Python, LangGraph, LLM APIs (OpenAI,
+  Anthropic, Gemini), AWS, GitHub Actions, Node.js, Java 21
+  (Spring Boot 3), Postgres, Kinesis, Terraform, Typescript,
+  NextJS, React.
+  
+  What you will do
+  
+  - Design, develop, test, deploy, and maintain backend services
+    that integrate AI/ML capabilities into our products.
+  - Build clean, maintainable, and reusable code with a focus on
+    scalability and performance.
+  - Develop and optimize APIs that power AI-driven features.
+  - Collaborate with frontend engineers to connect user-facing
+    experiences with AI-enabled backend logic.
+  - Implement and improve distributed systems and data
+    pipelines.
+  - Work with LLM APIs (OpenAI, etc.) to build intelligent
+    workflows and automation.
+  - Participate in code reviews, knowledge-sharing sessions, and
+    architecture discussions.
+  - Stay current with emerging AI technologies and backend best
+    practices.
+  
+  Who you are
+  
+  - Experience Level: 3–5 years as a backend or full-stack
+    engineer, with exposure to AI/ML integrations.
+  - Solid programming skills in Java (Spring Boot) and
+    familiarity with Python for data processing or AI
+    integration.
+  - Experience with relational databases (PostgreSQL or
+    BigQuery) and writing efficient queries.
+  - Comfortable working with cloud infrastructure (AWS
+    preferred) and CI/CD tooling.
+  - Understanding of distributed systems, event-driven
+    architecture, and microservices.
+  - Interest or experience in building AI-enabled products
+    (e.g., working with OpenAI API, fine-tuning models, or
+    prompt engineering).
+  - Strong communicator who can explain technical ideas to both
+    technical and non-technical stakeholders.
+  - Proactive, collaborative, and eager to contribute ideas and
+    improvements.
+  
+  We are an equal-opportunity employer and welcome applicants
+  from all backgrounds, regardless of race, ethnicity, gender
+  identity or expression, sexual orientation, religion, age,
+  disability, or any other characteristic. We believe that
+  diversity drives innovation, creativity, and collective
+  strength.
+industries:
+  - Artificial Intelligence
+  - Industrial
+posted_date: 2026-04-07
+url: "https://builtin.com/job/backend-engineer-ai-agents-workflows/8979302"
+source: Built In

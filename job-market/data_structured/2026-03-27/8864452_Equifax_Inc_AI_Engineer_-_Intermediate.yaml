@@ -1,0 +1,48 @@
+company:
+  name: Equifax Inc.
+  stage: Public
+  focus: Credit reporting and data analytics for financial services
+position:
+  title: AI Engineer - Intermediate
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying AI
+      agents using LangChain/LangGraph, architecting agentic AI
+      frameworks, and deploying solutions on GCP's Vertex AI. The
+      position requires 1+ years of experience building solutions
+      with agentic AI frameworks and creating/deploying AI agents
+      to production.
+  responsibilities:
+  - Design, develop, and deploy AI agents on Google Cloud Platform using agentic AI
+    frameworks
+  - Build and architect cloud-native solutions including APIs, microservices, and
+    PaaS/SaaS platforms
+  - Prepare data for analytical use by building data pipelines from multiple sources
+  - Integrate, consolidate, cleanse and structure data for client solutions
+  - Perform design and interpretation of large, complex datasets
+  - Implement security best practices in pipelines and infrastructure
+  - Provide guidance and mentorship to junior data engineers
+  - Stay up-to-date with GCP advancements and propose new solutions
+  use_cases:
+  - AI agent development and deployment for enterprise solutions
+  - Data quality management and analytics pipelines
+  - Cloud-native microservices and API development
+  - Enterprise data integration and processing
+  skills:
+    genai: [LangChain, LangGraph, GitHub Copilot, Gemini, ChatGPT, Claude, Llama,
+      Langfuse]
+    ml: [Vertex AI, MLOps]
+    web: [React, Angular, Vue, REST APIs]
+    databases: [PostgreSQL, MySQL, Spanner DB, AlloyDB, MongoDB, DynamoDB, Firestore]
+    data: []
+    cloud: [Google Cloud Platform, AWS, Azure]
+    ops: [Kubernetes, Docker, GitHub Actions, Argo CD, Jenkins]
+    languages: [Python, JavaScript, TypeScript, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8864452'
+  extracted_at: '2026-03-27T16:07:51.286988'

@@ -1,0 +1,56 @@
+company:
+  name: Luma Financial Technologies
+  stage: Series B
+  focus: |-
+    Fintech platform for alternative investments and annuities
+    management
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, deploying, and implementing
+      GenAI solutions, agent-based systems, and ML models from the
+      ground up. Key responsibilities include architecting agentic
+      frameworks, implementing RAG systems, and developing OCR
+      capabilities with vector databases - all direct hands-on
+      work with AI/ML systems.
+  responsibilities:
+  - Design, develop, and deploy advanced AI/ML solutions including GenAI, agent-based
+    systems, and ML models
+  - Architect and implement an Agentic Framework tailored for Financial Advisors with
+    autonomous reasoning and planning capabilities
+  - Develop and enhance OCR capabilities integrated with vector databases
+  - Implement Retrieval Augmented Generation (RAG) techniques for improved data retrieval
+    and decision-making
+  - Design and implement data models and pipelines to support AI/ML initiatives
+  - Build, test, and optimize AI models on cloud platforms including AWS SageMaker
+    and Bedrock
+  - Collaborate with cross-functional teams to integrate AI/ML functionalities into
+    the multi-product platform
+  - Champion MLOps best practices for CI/CD of machine learning models
+  use_cases:
+  - Agentic framework for financial advisors with autonomous reasoning across complex
+    financial scenarios
+  - Document processing using OCR for financial documents and alternative investment
+    materials
+  - Intelligent data retrieval and search for financial product information using
+    RAG
+  - Enhanced decision-making processes for investment management
+  - Automation of structured product creation and pricing workflows
+  skills:
+    genai: [GenAI, Agent-based systems, RAG, Prompting techniques]
+    ml: [OCR, PyTorch, TensorFlow, scikit-learn]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, AWS SageMaker, AWS Bedrock]
+    ops: [Docker, Kubernetes, CI/CD, MLOps, DevOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8403372'
+  extracted_at: '2026-03-03T12:33:30.462224'

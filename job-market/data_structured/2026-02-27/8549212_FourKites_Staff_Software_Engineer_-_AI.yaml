@@ -1,0 +1,51 @@
+company:
+  name: FourKites
+  stage: null
+  focus: |-
+    AI-driven supply chain transformation and real-time
+    visibility platform for global logistics
+position:
+  title: Staff Software Engineer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      While the job title includes "AI" and mentions AI
+      initiatives, the actual responsibilities are focused on
+      backend software engineering - developing applications,
+      writing code, designing databases, and working with DevOps.
+      There's no mention of building, training, fine-tuning, or
+      deploying AI/ML models. The role supports AI-powered
+      products but doesn't work directly on the AI systems
+      themselves.
+  responsibilities:
+  - Develop, test and maintain backend applications
+  - Design and implement data models and database schemas
+  - Collaborate with frontend team to integrate backend with user interface
+  - Perform code reviews and ensure code quality standards are met
+  - Troubleshoot and debug applications
+  - Implement code with high coverage of unit tests and component tests
+  - Cross-training peers and mentoring teammates
+  - Work with DevOps team to deploy and manage applications in production
+  use_cases:
+  - Real-time shipment tracking and management
+  - Global supply chain visibility and orchestration
+  - Automated supply chain actions and routine task automation
+  - Preventing supply chain disruptions
+  - Enterprise logistics optimization
+  - Digital twin creation for orders, shipments, inventory and assets
+  skills:
+    genai: []
+    ml: []
+    web: [Spring, Ruby on Rails, HTML, CSS, RESTful APIs, microservices]
+    databases: [PostgreSQL, MongoDB]
+    data: []
+    cloud: [Azure, Amazon Web Services]
+    ops: [Git]
+    languages: [Java, Go, JavaScript]
+    domains: []
+    other: [JIRA, Confluence]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8549212'
+  extracted_at: '2026-03-03T11:15:07.921138'

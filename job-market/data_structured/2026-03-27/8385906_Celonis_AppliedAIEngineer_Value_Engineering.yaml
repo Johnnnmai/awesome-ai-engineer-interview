@@ -1,0 +1,53 @@
+company:
+  name: Celonis
+  stage: null
+  focus: |-
+    Process Intelligence technology and process mining SaaS
+    platform
+position:
+  title: Applied(AI)Engineer (Value Engineering)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI
+      solutions including LLM/agent systems with RAG, tools, and
+      guardrails. The engineer prototypes solutions, builds proof-
+      of-value projects with generative AI, and implements agentic
+      process transformations for customers - direct work on
+      deploying AI systems.
+  responsibilities:
+  - Discover customer AI strategy and translate requirements into innovative AI solutions
+    using Celonis platform
+  - Rapidly build creative AI prototypes in customer hackathons using cutting-edge
+    technologies
+  - Enable customers to shift from traditional automation to autonomous AI agents
+    using Process Intelligence Platform
+  - End-to-end execution of Proof-of-Value projects including architecture and delivery
+    of secure, scalable LLM/agent systems with RAG, tools, and guardrails
+  - Integrate AI solutions with enterprise data, identity, and compliance frameworks
+  - Ensure successful project outcomes through value realization and adoption thresholds
+  - Specialize in specific domains (e.g., supply chain) and industries to scale knowledge
+  use_cases:
+  - Intelligent chatbots for enterprise business processes
+  - Automated text processors
+  - Agentic process transformation for business operations
+  - Process intelligence-driven AI deployments with ROI at scale
+  - Supply chain and finance process optimization
+  skills:
+    genai: [RAG, Few-shot learning, Prompt engineering, Multi-agent orchestration,
+      Multimodal understanding, LangChain, LlamaIndex, Function calling, LLM orchestration,
+      Agent guardrails and evaluations, OpenAI]
+    ml: [Fine-tuning, PyTorch, scikit-learn]
+    web: []
+    databases: []
+    data: [pandas]
+    cloud: [AWS Bedrock, Azure AI, GCP Vertex AI]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [pydantic]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8385906'
+  extracted_at: '2026-03-27T14:45:40.076765'

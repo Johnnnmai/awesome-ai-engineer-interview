@@ -1,0 +1,51 @@
+company:
+  name: Egen
+  stage: null
+  focus: |-
+    Data engineering and AI solutions using Google Cloud and
+    Salesforce to drive client insights
+position:
+  title: Senior AI Engineer*
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying GenAI
+      systems including RAG pipelines, fine-tuning LLMs,
+      implementing agentic workflows, and taking AI features from
+      prototype to production. The engineer works hands-on with
+      models, not just supporting infrastructure.
+  responsibilities:
+  - Design and implement end-to-end GenAI applications using Python, LangChain, and
+    LlamaIndex on Google Cloud
+  - Develop advanced RAG pipelines and semantic search systems using GCP Vector Search
+    or Pinecone
+  - Lead LLM and embedding fine-tuning efforts to improve domain-specific performance
+  - Build and manage agentic workflows that automate complex multi-step reasoning
+    tasks
+  - Work directly with customers to understand requirements and implement state-of-the-art
+    AI techniques
+  - Apply MLOps best practices for efficient model serving, monitoring, and continuous
+    improvement
+  use_cases:
+  - Document intelligence
+  - RAG-powered question answering systems
+  - Semantic search
+  - Agentic workflow automation
+  - Domain-specific AI solutions for enterprise clients
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, Google Gemini, GPT-4, LLaMA, Prompt Engineering,
+      Semantic Search]
+    ml: [Fine-tuning, Neural networks, Model training]
+    web: []
+    databases: [Pinecone, pgvector, Vector Databases]
+    data: [Data Engineering]
+    cloud: [GCP, Vertex AI]
+    ops: [MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8496277'
+  extracted_at: '2026-03-03T12:45:41.325485'

@@ -1,0 +1,43 @@
+company:
+  name: Nanonets
+  stage: Series B
+  focus: ML-powered document processing and data extraction
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a pre-sales/solutions engineering role focused on
+      technical demos, API integrations, and supporting sales
+      processes. While the company builds AI/ML document
+      processing products, this role involves presenting existing
+      solutions and minor development work rather than building,
+      training, or deploying AI models.
+  responsibilities:
+  - Collaborate with Account Executives and Sales Head on technical feasibility analysis
+  - Prepare technical demos for Sales including external API integrations
+  - Participate in sales calls to present demos and answer technical queries
+  - Find creative solutions for a variety of customer use-cases
+  - Help improve internal functioning by automating and streamlining processes
+  - Assist software team with minor feature development and bug fixes
+  use_cases:
+  - Document understanding and data extraction
+  - Automating document-related business processes
+  - Visual and textual data processing
+  - Workflow optimization and reconciliation
+  skills:
+    genai: []
+    ml: []
+    web: [APIs, React, NodeJS]
+    databases: [Relational Databases, Cassandra]
+    data: []
+    cloud: []
+    ops: [Git, Kubernetes, Docker]
+    languages: [Python, Golang]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8159419'
+  extracted_at: '2026-03-27T15:16:23.686500'

@@ -1,0 +1,202 @@
+job_id: 8794167
+title: AI Engineer
+company: PAR Technology
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Amazon Bedrock
+  - Azure Openai
+  - Crewai
+  - Databricks
+  - Google Vertex Ai
+  - GraphQL
+  - Langchain
+  - Langgraph
+  - Llamaindex
+  - N8N
+description: |
+  For over four decades, PAR Technology Corporation (NYSE:
+  PAR) has been a leader in restaurant technology, empowering
+  brands worldwide to create lasting connections with their
+  guests. Our innovative solutions and commitment to
+  excellence provide comprehensive software and hardware that
+  enable seamless experiences and drive growth for over
+  100,000 restaurants in more than 110 countries. Embracing
+  our "Better Together" ethos, we offer Unified Customer
+  Experience solutions, combining point-of-sale, digital
+  ordering, loyalty and back-office software solutions as well
+  as industry-leading hardware and drive-thru offerings. To
+  learn more, visit partech.com or connect with us on
+  LinkedIn, X (formerly Twitter), Facebook, and Instagram.
+  
+  Position Description:  We are seeking a pioneering AI
+  Engineer to be the first dedicated AI specialist in the PAR
+  Retail R&D organization. This is a hands-on builder role
+  focused on architecting and integrating our first generation
+  of AI-powered products and services. You will turn business
+  needs into production-ready solutions by leveraging a strong
+  foundation in machine learning alongside modern Generative
+  AI, including agentic workflows that use tools, retrieval,
+  and orchestration to complete real tasks. As our go-to
+  expert, you will define the foundational architecture for
+  integrating modern AI platforms, establish engineering best
+  practices, and drive an experimentation and evaluation
+  mindset to ship reliable solutions.
+  
+  Position Location:
+  
+  - Canada, Remote
+  
+  - United States, Remote
+  
+  Reports To:
+  
+  - Director, Software Development
+  
+  What We’re Looking For:
+  
+  - 5+ years of professional software engineering experience.
+  
+  - 1+ year shipping AI in production, with ideally a
+    progression from applied ML into Generative AI and agentic
+    solutions.
+  
+  - Proven experience building multi-agent systems,
+    orchestrators (planning, task routing, tool calling,
+    state/memory, approvals, retries, and safe fallbacks) and
+    MCP endpoints.
+  
+  - Hands-on experience with agent frameworks and orchestration
+    tooling (e.g., LangGraph, LangChain, LlamaIndex, CrewAI,
+    n8n, or equivalent).
+  
+  - Strong experience with retrieval and grounding: vector
+    databases plus hybrid retrieval/reranking is a plus.
+  
+  - Evaluation-first mindset for agents: test sets, scoring
+    thresholds, regression gates, and quality monitoring over
+    time.
+  
+  - Proven experience architecting solutions using modern AI
+    services from major cloud providers (e.g., Azure OpenAI,
+    Amazon Bedrock, Google Vertex AI).
+  
+  - Strong proficiency in Python and its ecosystem for software
+    development and applied AI.
+  
+  - Experience with Databricks (Delta Lake, Unity Catalog) and
+    deploying AI services (Model Serving); classic
+    MLOps/MLflow is a plus.
+  
+  - Strong ability to “glue” systems together via REST or
+    GraphQL APIs.
+  
+  - Responsible AI experience focused on privacy, security,
+    access control, and defenses against prompt injection and
+    tool misuse.
+  
+  - Excellent problem-solving skills and ability to work
+    independently in a fast-paced, sometimes ambiguous
+    environment.
+  
+  - Bachelor’s degree in computer science or a related technical
+    field.
+  
+  Additional skills:
+  
+  - Experience with advanced approaches beyond LLM apps (e.g.,
+    deep learning, classical ML, reinforcement learning) is a
+    plus.
+  
+  - Experience building and operating agentic systems in
+    production: observability (tracing/metrics/logs), CI/CD,
+    and incident-ready monitoring (e.g., DataDog, Grafana).
+  
+  - Experience defining and tracking success metrics for agent
+    workflows (task completion rate, quality scores, latency,
+    cost, escalation rate) plus business KPIs.
+  
+  - Familiarity with full-stack implementation (NodeJS and/or
+    Ruby on Rails) is a plus.
+  
+  - Experience in Fuel and CStore industry, Customer Loyalty,
+    and/or Retail is a strong plus.
+  
+  Unleash your potential: What you will be doing and owning:
+  
+  - Architectural Strategy: Define and establish the
+    foundational architecture and best practices for AI
+    systems across PAR, ensuring solutions are scalable,
+    maintainable, secure, and robust from the ground up.
+  
+  - Zero-to-One Building: Take ambiguous problems from concept
+    to production, building core components and workflows from
+    scratch, iterating quickly through prototypes, and
+    hardening into reliable, repeatable systems.
+  
+  - End-to-End Agentic AI Implementation: Design, build, and
+    operate agentic solutions and workflow automations that go
+    beyond chat, including multi-agent orchestration, MCPs,
+    tool calling, retrieval-grounded reasoning, state/memory,
+    approvals, retries, and safe fallbacks, through production
+    monitoring.
+  
+  - Proof-of-Concept Refinement: Collaborate with other
+    engineers to evaluate existing PoCs. Identify areas for
+    improvement, tighten reliability and quality, and re-
+    architect solutions for scalability, performance, and
+    cost.
+  
+  - Hands-on Technical Contribution: Act as the applied AI
+    subject matter expert within the organization. Provide
+    technical direction to engineers and stakeholders while
+    actively building and shipping.
+  
+  - AI Ops & Infrastructure (LLMOps/AgentOps): Establish and
+    champion production practices for agentic systems,
+    including prompt/version control, evaluation pipelines,
+    tracing/observability, automated testing, release gates,
+    and cost/latency controls.
+  
+  - Strategic Collaboration: Work closely with product managers,
+    data analysts, and business leaders to identify high-
+    impact opportunities for AI. Translate requirements into
+    technical specifications and actionable project plans.
+  
+  - Stay Current: Continuously research and evaluate AI
+    advancements, multi-agent orchestration, and agentic
+    autonomy to keep PAR Retail at the leading edge of
+    practical innovation.
+  
+  Interview Process:
+  
+  - Interview #1: Video Screen with Talent Acquisition Team (via
+    MS Teams)
+  - Interview #2: Video interview with a cross functional
+    partner (via MS Teams)
+  - Interview #3: Video interview with hiring manager (via MS
+    Teams)
+  - Take-home/technical exercise
+  - Interview #4: Technical Interview/Exercise review with a
+    panel (via MS Teams)
+  
+  PAR is proud to provide equal employment opportunities (EEO)
+  to all employees and applicants for employment without
+  regard to race, color, religion, sex, national origin, age,
+  disability or genetics. We also provide reasonable
+  accommodations to individuals with disabilities in
+  accordance with applicable laws. If you require reasonable
+  accommodation to complete a job application, pre-employment
+  testing, a job interview or to otherwise participate in the
+  hiring process, or for your role at PAR, please contact
+  accommodations@partech.com. If you’d like more information
+  about your EEO rights as an applicant, please visit the US
+  Department of Labor's website.
+industries:
+  - Food
+  - Software
+  - Hospitality
+posted_date: 2026-03-18
+url: "https://www.builtinla.com/job/ai-engineer/8794167"
+source: Built In

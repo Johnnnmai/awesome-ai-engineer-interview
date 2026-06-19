@@ -1,0 +1,53 @@
+company:
+  name: Snorkel AI
+  stage: Series B+
+  focus: |-
+    Enterprise AI data development platform for custom AI
+    solutions
+position:
+  title: Applied AI Engineer - AI Solutions
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying GenAI/ML
+      systems including RAG, fine-tuning pipelines, prompt
+      engineering, and agentic workflows for customers. While
+      customer-facing, the engineer is hands-on implementing AI
+      solutions, not just supporting others who build AI.
+  responsibilities:
+  - Partner with customers to build and deploy Gen AI and machine learning solutions
+    from scoping through deployment
+  - Develop and implement AI systems including RAG, fine-tuning pipelines, prompt
+    engineering recipes, and agentic workflows
+  - Create augmented datasets and comprehensive evaluation workflows to ensure model
+    reliability and transparency
+  - Forge and manage relationships with customer leadership and stakeholders to ensure
+    successful AI project deployment
+  - Collaborate with pre-sales Solutions and Product teams to map customer needs to
+    capabilities and prioritize roadmap gaps
+  - Standardize solutions and contribute to internal tooling and best practices
+  - Lead stakeholder education on quantitative capabilities and AI approach suitability
+  - Conduct enablement workshops to transfer knowledge to customers
+  use_cases:
+  - Enterprise custom AI development with specialized data
+  - Retrieval-augmented generation (RAG) systems
+  - Model fine-tuning and evaluation workflows
+  - Agentic workflow implementations
+  - Data-centric AI development for domain experts
+  - Gen AI solutions for financial, scientific, and engineering applications
+  skills:
+    genai: [LlamaIndex, LangGraph, CrewAI, RAG, prompt engineering, agentic workflows]
+    ml: [scikit-learn, PyTorch, Hugging Face Transformers, fine-tuning]
+    web: [Pydantic, mypy, FastAPI]
+    databases: [FAISS, Chroma, Weaviate]
+    data: [Ray, Airflow, pandas, Spark]
+    cloud: []
+    ops: [pytest, poetry]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7712606'
+  extracted_at: '2026-03-27T15:20:24.479360'

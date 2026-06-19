@@ -1,0 +1,54 @@
+company:
+  name: SecurityScorecard
+  stage: Series C/D+ (well-established, funded by Silver Lake Waterman, Moody's, Sequoia,
+    GV)
+  focus: Global leader in cybersecurity ratings and risk management
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is explicitly about building and shipping AI-
+      powered product features, including LLM integration, agentic
+      systems, and intelligent automation. The engineer will
+      design and deliver AI systems (LLM pipelines, agentic
+      workflows, retrieval infrastructure, evaluation frameworks)
+      end-to-end, making this a hands-on AI systems building role.
+  responsibilities:
+  - Lead the design and delivery of major AI-powered product initiatives from concept
+    through production, owning the full software development lifecycle
+  - Define the technical architecture for AI systems including LLM pipelines, agentic
+    workflows, retrieval infrastructure, and evaluation frameworks
+  - Set the standard for how the engineering organization builds with AI, including
+    development practices, tooling choices, and quality bars
+  - Use AI-native development tools (Cursor, Claude Code) as core instruments and
+    model high-velocity AI-augmented engineering for the team
+  - Collaborate directly with product leadership and the CTO organization to shape
+    the AI product roadmap
+  - Drive architecture reviews, establish cross-team engineering standards, and elevate
+    technical level of teams
+  - Identify and eliminate bottlenecks in how AI features get built, tested, and shipped
+    across the organization
+  use_cases:
+  - AI-powered cybersecurity risk assessment and scoring
+  - Intelligent automation for security professionals to understand and act on risk
+  - Agentic AI workflows for threat intelligence analysis
+  - LLM-based retrieval and analysis of cybersecurity data across digital footprints
+  - Enterprise risk product features powered by AI
+  skills:
+    genai: [LLM pipelines, Agentic systems, Multi-agent orchestration, Prompt engineering,
+      LLM evaluation infrastructure, Retrieval-Augmented Generation (RAG)]
+    ml: []
+    web: []
+    databases: [ClickHouse, PostgreSQL]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, Terraform]
+    languages: [TypeScript, Go, JavaScript]
+    domains: [Cybersecurity, Threat intelligence]
+    other: [Distributed systems, Cursor, Claude Code]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8956504'
+  extracted_at: '2026-04-22T12:27:40.450448'

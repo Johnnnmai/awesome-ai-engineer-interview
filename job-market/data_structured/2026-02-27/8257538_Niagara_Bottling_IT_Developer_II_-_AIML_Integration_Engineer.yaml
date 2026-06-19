@@ -1,0 +1,50 @@
+company:
+  name: Niagara Bottling
+  stage: null
+  focus: Bottled water manufacturing and distribution
+position:
+  title: IT Developer II - AI/ML Integration Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building, deploying, and
+      integrating AI/ML and Generative AI capabilities including
+      LLMs, ML models, and intelligent automation into production
+      enterprise systems. The candidate will work directly with ML
+      models, LLM-based solutions, and AI-powered system
+      enhancements.
+  responsibilities:
+  - Design, build, and deploy AI/ML and Generative AI capabilities within enterprise
+    systems
+  - Integrate machine learning models and LLM-based solutions into production environments
+  - Implement intelligent monitoring, anomaly detection, and predictive workflows
+  - Design, develop, and maintain scalable APIs, microservices, and middleware technologies
+    with embedded AI/ML capabilities
+  - Build and maintain data pipelines supporting AI/ML workflows
+  - Collaborate with data science, database, ERP, and full-stack teams to deliver
+    AI-enabled enterprise solutions
+  - Troubleshoot, debug, and upgrade existing systems and applications
+  - Execute SDLC processes including documentation, version control, testing, and
+    migration practices
+  use_cases:
+  - Intelligent monitoring and anomaly detection for enterprise systems
+  - Predictive workflows and AI-driven error handling
+  - AI-assisted development and engineering productivity automation
+  - Intelligent integration patterns for middleware platforms
+  - Enterprise system enhancements through AI/ML capabilities
+  skills:
+    genai: [Azure OpenAI, OpenAI API, LLM integration, Prompt engineering]
+    ml: [Hugging Face, Machine learning models, Feature engineering]
+    web: [MuleSoft, API design, Microservices architecture, REST APIs]
+    databases: [SQL]
+    data: [Data pipelines]
+    cloud: [Azure, AWS]
+    ops: [Model lifecycle management, CI/CD, DevOps]
+    languages: [Python, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8257538'
+  extracted_at: '2026-03-03T12:53:48.846453'

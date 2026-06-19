@@ -1,0 +1,52 @@
+company:
+  name: Pfizer
+  stage: Public
+  focus: Global pharmaceutical and biotechnology company
+position:
+  title: Manager, DS & AI Full Stack Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      While the role is within Pfizer's AI Acceleration function
+      and involves building AI/data science products, the core
+      responsibilities are full-stack engineering — backend
+      development, ETL pipelines, frontend web interfaces, CI/CD,
+      and infrastructure. The engineer collaborates with data
+      scientists to integrate AI models into production but does
+      not directly build, train, or fine-tune models themselves.
+      This is an enabling/support role for AI delivery.
+  responsibilities:
+  - Develop end-to-end data engineering, data science and analytics products and AI
+    modules
+  - Develop server-side logic and data ETL pipelines using Python and SQL
+  - Create responsive web interfaces and interactive web applications using JavaScript
+    frameworks (React, Vue, AngularJS)
+  - Build data visualizations and dashboards to enable data exploration and insights
+    generation
+  - Implement and maintain CI/CD pipelines, infrastructure, logging, and monitoring
+    tools
+  - Collaborate with data scientists and engineers to integrate AI and data science
+    models into production solutions
+  - Communicate complex technical concepts to both technical and non-technical stakeholders
+  - Contribute to team best practices and mentor colleagues
+  use_cases:
+  - Commercial AI capability deployment and scale-up across Pfizer
+  - Data-driven analytics and insights generation for business processes
+  - Automated data engineering and ETL pipelines for AI/ML workflows
+  - Interactive dashboards and data visualization for business stakeholders
+  skills:
+    genai: []
+    ml: [scikit-learn, TensorFlow, PyTorch]
+    web: [HTML, CSS, Bootstrap, React, Vue, AngularJS, RESTful APIs]
+    databases: [NoSQL, Star Schema, Snowflake]
+    data: [ETL]
+    cloud: []
+    ops: [CI/CD, Docker]
+    languages: [Python, SQL, R, JavaScript]
+    domains: []
+    other: [Tableau, Power BI, Dash, Streamlit]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9088750'
+  extracted_at: '2026-04-22T13:08:22.195960'

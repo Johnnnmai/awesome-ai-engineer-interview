@@ -1,0 +1,55 @@
+company:
+  name: Farther
+  stage: Series B+
+  focus: Technology-driven wealth management RIA platform
+position:
+  title: AI-Native Data Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is fundamentally a data platform engineering
+      position that supports AI systems rather than building them
+      directly. The engineer builds data pipelines, canonical
+      models, and schemas that enable AI agents and RAG systems to
+      function, but does not train, fine-tune, or deploy ML
+      models. The core work is data engineering and ontology
+      design in service of downstream AI/LLM consumers.
+  responsibilities:
+  - Design scalable ingestion pipelines across custodians (Schwab, Fidelity, Pershing)
+    and internal financial systems
+  - Build and evolve canonical models for accounts, positions, transactions, balances,
+    corporate actions, and household hierarchies
+  - Define financial data ontology and enforce strong data contracts across services
+  - Implement reconciliation frameworks and golden-source resolution across multi-vendor
+    datasets
+  - Engineer AI-ready data layers optimized for embeddings, vector search, and RAG
+    architectures
+  - Structure financial datasets to improve prompt reliability and LLM output consistency
+  - Architect closed-loop, agent-driven systems that monitor, reason over, and autonomously
+    remediate data inconsistencies
+  - Implement observability, lineage, governance, and fine-grained access controls
+    across regulated datasets
+  use_cases:
+  - Autonomous financial agents that reason over and act on platform state
+  - RAG-based retrieval over financial data for wealth management advisory
+  - Automated data reconciliation and anomaly remediation across custodial sources
+  - LLM-driven financial data analysis with structured context
+  - Enterprise data governance and lineage for regulated wealth management
+  skills:
+    genai: [Embeddings, RAG architectures, Prompt engineering, OpenAI API, Anthropic
+        API]
+    ml: []
+    web: []
+    databases: [OpenSearch, Vector Databases]
+    data: [Data governance, ETL pipelines, Canonical schema design, Event-driven orchestration,
+      Data lineage]
+    cloud: [AWS S3, AWS Lambda, AWS ECS, AWS Glue, AWS Redshift]
+    ops: [MLOps, CI/CD, Fine-grained access control]
+    languages: [SQL, Python]
+    domains: [Wealth management domain knowledge, Custodial financial data]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9044622'
+  extracted_at: '2026-04-22T13:13:55.655164'

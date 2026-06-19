@@ -1,0 +1,51 @@
+company:
+  name: Guidewire Software
+  stage: Public
+  focus: Cloud platform software for P&C insurance industry
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI/GenAI
+      systems—designing agentic workflows, implementing RAG/graph
+      architectures, building with OpenAI/Anthropic APIs, and
+      rapid prototyping of AI features. The engineer works hands-
+      on with LLMs as a core building material, not merely
+      supporting infrastructure for others' AI work.
+  responsibilities:
+  - Design multi-agent systems and agentic workflows to decompose complex insurance
+    tasks like subrogation and underwriting
+  - Rapidly prototype AI features, turning product ideas into working demos
+  - Build evaluation frameworks to measure accuracy, tone, and reliability across
+    thousands of insurance scenarios
+  - Implement RAG and graph architectures navigating multi-tenant data structures
+  - Act as technical translator between frontier AI capabilities and regulated P&C
+    insurance requirements
+  - Collaborate across Product, PDO, Professional Services, and Go-To-Market teams
+    to ship AI-powered capabilities
+  - Design AI-driven UX that builds trust and delivers contextual, useful responses
+  use_cases:
+  - Automated analysis of insurance policies and legal documents
+  - Predictive claim trajectory modeling for P&C insurers
+  - Intelligent subrogation and underwriting automation via agentic workflows
+  - Dynamic AI-native workflows replacing static insurance forms
+  - RAG-powered navigation of complex multi-tenant insurance data structures
+  - Voice agent experiences for insurance operations
+  skills:
+    genai: [OpenAI APIs, Anthropic APIs, Agent frameworks, RAG, Prompt engineering,
+      Voice agents, Multi-agent systems]
+    ml: []
+    web: []
+    databases: [Vector databases, Graph architectures]
+    data: []
+    cloud: []
+    ops: [LLM evaluation frameworks]
+    languages: [Python, TypeScript, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9088530'
+  extracted_at: '2026-04-22T13:41:57.189712'

@@ -1,0 +1,61 @@
+company:
+  name: Chubb
+  stage: Public
+  focus: |-
+    Global insurance (property, casualty, life, reinsurance)
+    underwriting
+position:
+  title: Senior Cloud Data Engineer – AI Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building and operating cloud-based
+      data and AI infrastructure that supports data scientists and
+      ML engineers. The engineer builds platforms, pipelines,
+      MLOps infrastructure, and serving infrastructure for others
+      to use — they are not directly training, fine-tuning, or
+      deploying models themselves. The role is enabling AI/ML work
+      rather than performing it, making it ai-support.
+  responsibilities:
+  - Engineer, deploy, and operate Data and AI infrastructure within the Global Cloud
+    Platform team
+  - Design, build, and maintain scalable cloud-based data platforms including data
+    lakes, lakehouses, and data warehouses on Azure and/or GCP
+  - Build and operate real-time and batch data ingestion pipelines using Kafka, Spark,
+    Databricks, and cloud-native services
+  - Design and implement MLOps infrastructure supporting the full ML lifecycle including
+    training environments, experiment tracking, model registry, and production model
+    serving
+  - Build and maintain feature stores and data transformation pipelines for reusable,
+    governed feature engineering
+  - Implement Infrastructure as Code (Terraform, Ansible) and CI/CD pipelines for
+    all data and AI infrastructure components
+  - Monitor and optimize performance, reliability, and cost of data and AI infrastructure
+    with operational dashboards and alerting
+  - Evaluate and integrate new data and AI tooling and frameworks into the platform
+  use_cases:
+  - Insurance underwriting enhancement through data and AI platforms
+  - Scalable data pipelines for analytics and machine learning across the enterprise
+  - MLOps infrastructure enabling model training, tracking, and production serving
+  - Feature engineering and governance for ML models in insurance
+  - Self-service infrastructure tooling for data scientists and ML engineers
+  - Generative AI and LLM serving infrastructure for enterprise use cases
+  skills:
+    genai: []
+    ml: [Feature Stores]
+    web: []
+    databases: [Google BigQuery, Google Dataplex, Microsoft Purview, Collibra, Data
+        Lakes, Data Warehouses]
+    data: [Google Dataflow, Databricks, Apache Spark, Apache Kafka]
+    cloud: [Azure Synapse, Azure Data Lake Storage, Azure ML, Azure OpenAI Service,
+      Google Cloud Storage, Vertex AI, GKE, AKS, IAM]
+    ops: [MLflow, Kubeflow, Terraform, Ansible, Kubernetes, Docker, Jenkins, GitHub
+        Actions, CI/CD, Prometheus, Grafana, ELK Stack]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9000626'
+  extracted_at: '2026-04-22T12:47:49.040691'

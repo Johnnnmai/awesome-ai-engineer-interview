@@ -1,0 +1,49 @@
+company:
+  name: Zoom
+  stage: Public
+  focus: |-
+    Video conferencing and collaboration platform with AI-
+    powered features
+position:
+  title: Zoom AI DevOps Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a DevOps/Infrastructure role that supports AI
+      services but does not involve building, training, fine-
+      tuning, or deploying AI models directly. The role focuses on
+      managing AWS infrastructure, Kubernetes deployments, CI/CD
+      pipelines, and observability systems that enable Zoom's AI
+      services to run, which is enabling work for others who work
+      on AI.
+  responsibilities:
+  - Design and manage AWS infrastructure supporting AI services
+  - Implement Infrastructure as Code using Terraform and streamline automation
+  - Monitor systems and manage on-call rotations to ensure high reliability
+  - Collaborate with cross-functional teams to boost performance
+  - Guide engineers on automation best practices
+  - Handle service deployment and operations across multi-cloud and on-premises environments
+  - Build and maintain resilient, high-performing systems with Developers and Product
+    teams
+  use_cases:
+  - Infrastructure automation for AI services
+  - Cloud-native operations and observability
+  - CI/CD pipeline management
+  - Multi-cloud and on-premises service deployment
+  - High-reliability system operations
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Terraform, Kubernetes, Docker, Ansible, CI/CD, Infrastructure as Code]
+    languages: [Python, Bash, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8689407'
+  extracted_at: '2026-03-27T15:03:13.000953'

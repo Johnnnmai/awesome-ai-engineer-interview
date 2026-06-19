@@ -1,0 +1,85 @@
+job_id: 8903139
+title: Senior Data Engineer - AI/ML
+company: Global Software Solutions Group
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Azure
+  - Ci/Cd
+  - Cloudera
+  - GCP
+  - Hive
+  - Java
+  - Kafka
+  - Kubernetes
+  - Openshift
+company_size: 160 Employees
+description: |
+  We are looking for a highly skilled Senior Data Engineer to
+  join our Data Engineering chapter within the Technology
+  Platform domain. The ideal candidate will have strong
+  expertise in real-time data streaming, modern data
+  platforms, and AI/ML operationalization
+  (AIOps/MLOps/LLMOps).
+  
+  You will be responsible for designing, building, and
+  optimizing scalable data pipelines and enabling advanced
+  analytics and AI-driven solutions.
+  
+  RequirementsKey Responsibilities
+  
+  - Design and implement real-time data streaming pipelines
+    using Kafka and related technologies
+  - Build and maintain scalable data engineering solutions on
+    Cloudera platform
+  - Develop and optimize ETL/ELT pipelines for large-scale
+    structured and unstructured data
+  - Collaborate with data scientists to deploy and manage ML
+    models (MLOps/LLMOps frameworks)
+  - Implement and manage CI/CD pipelines for data and ML
+    workflows
+  - Work with OpenShift/Kubernetes for containerized deployments
+  - Ensure data quality, governance, and security best practices
+  - Monitor, troubleshoot, and optimize data workflows and
+    infrastructure
+  - Partner with cross-functional teams including product,
+    engineering, and analytics
+  
+  Required Skills & Experience
+  
+  - 6+ years of experience in Data Engineering
+  - Strong hands-on experience with Apache Kafka (Real-Time
+    Streaming - RTS)
+  - Expertise in Cloudera Data Platform (CDP) or similar big
+    data ecosystems
+  - Experience with CI/CD pipelines (Jenkins, GitLab, etc.)
+  - Hands-on experience with OpenShift/Kubernetes
+  - Strong programming skills in Python/Scala/Java
+  - Experience with distributed data processing frameworks
+    (Spark, Hive, etc.)
+  - Good understanding of data modeling and data warehousing
+    concepts
+  
+  Preferred Skills
+  
+  - Experience in AIOps, MLOps, or LLMOps
+  - Exposure to AI/ML lifecycle management and deployment
+  - Knowledge of cloud platforms (AWS/Azure/GCP) is a plus
+  - Experience in banking or financial services domain
+  
+  Soft Skills
+  
+  - Strong problem-solving and analytical thinking
+  - Excellent communication and stakeholder management
+  - Ability to work in agile and fast-paced environments
+industries:
+  - Fintech
+  - Payments
+  - Software
+  - Financial Services
+  - Automation
+posted_date: 2026-03-30
+url: "https://builtin.com/job/senior-data-engineer-ai-ml/8903139"
+source: Built In

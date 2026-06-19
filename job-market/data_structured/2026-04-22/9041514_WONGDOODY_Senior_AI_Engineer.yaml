@@ -1,0 +1,54 @@
+company:
+  name: WONGDOODY
+  stage: Subsidiary (part of Infosys)
+  focus: |-
+    Creative agency building human experiences through strategy,
+    creativity, data and technology
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building, designing, and deploying
+      production-ready AI services and LLM-based applications
+      including agentic architectures, RAG pipelines, and
+      integrations with GenAI tools. The engineer works hands-on
+      with LLM frameworks, visual AI tools, and orchestration
+      systems to create scalable AI systems.
+  responsibilities:
+  - Design and build production-ready AI services and backend systems
+  - Develop APIs, orchestrations, and integrations for GenAI and LLM-based applications
+  - Create technical foundations enabling teams to build, scale, and operate AI systems
+    reliably
+  - Ensure AI solutions run reliably, perform efficiently, and remain cost-effective
+  - Make architectural decisions around scalability, monitoring, security, and maintainability
+  - Lead technical discussions and support other engineers through reviews and best
+    practices
+  - Contribute to RFPs, pitches, and forward-looking AI solution concepts
+  - Engage in client-facing conversations and explain technical concepts to senior
+    stakeholders
+  use_cases:
+  - GenAI and LLM-based application development for brand experiences
+  - Agentic AI architectures for workflow orchestration
+  - Visual AI integration (image generation) into broader creative workflow systems
+  - RAG pipelines and text-based AI API integration into end-to-end workflow solutions
+  - Scalable AI systems for enterprise clients across commerce and marketing automation
+  skills:
+    genai: [LangChain, LangGraph, n8n, MCP, A2A, RAG, Prompt engineering, Agentic
+        architectures, ChatGPT API, Claude API, Gemini API, Llama API, ComfyUI, Stable
+        Diffusion, Google Imagen, Adobe Firefly, Guardrails, IBM watsonx]
+    ml: []
+    web: [REST APIs, FastAPI, gRPC, WebSockets, PubSub]
+    databases: []
+    data: []
+    cloud: [AWS Bedrock, AWS, GCP, Azure]
+    ops: [Docker, Terraform, CI/CD, 'Observability (P95, cost/request)', Evaluation
+        pipelines]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9041514'
+  extracted_at: '2026-04-22T13:06:45.968667'

@@ -1,0 +1,184 @@
+job_id: 8184867
+title: Principal Software Engineer - Agentic AI
+company: Pulumi
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Azure
+  - Docker
+  - GCP
+  - Kubernetes
+  - Python
+  - Typescript
+description: |
+  We're building an autonomous infrastructure engineering
+  agent: think Claude Code, but for your cloud. If you're
+  excited about agentic AI systems that solve impactful
+  problems for engineers, developers, and security experts at
+  innovative startups and iconic enterprises alike, this role
+  is for you.
+  
+  Neo is Pulumi's answer to what infrastructure engineering
+  looks like in an AI-first era. It's a virtual infrastructure
+  teammate that understands your cloud environment, plans and
+  executes multi-step operations, and brings domain expertise
+  to problems ranging from spinning up complex ML
+  infrastructures to cloud migrations to continuous compliance
+  enforcement.
+  
+  What makes Neo possible is infrastructure-as-code: by
+  modeling cloud infrastructure in code space, we can leverage
+  the fact that LLMs are already excellent at coding to affect
+  cloud infrastructure changes. Combined with Pulumi's
+  registry and petabytes of deployment history, we have a
+  unique foundation for building infrastructure intelligence.
+  
+  We're looking for engineers to build all aspects of Neo:
+  from agent orchestration and tool interfaces to the web
+  experience where users watch Neo work, approve operations,
+  and understand its reasoning, to the interface with the
+  models and how we orchestrate and fine-tune them to maximize
+  impact. We seek bold thinkers to reimagine the entirety of
+  cloud engineering.
+  
+  While Pulumi is headquartered in Seattle, WA., we are
+  dedicated to being a remote first company. This role will be
+  located remotely.
+  
+  Responsibilities
+  
+  - Build the planning and execution systems that let Neo safely
+    perform multi-step infrastructure operations across AWS,
+    Azure, GCP, Kubernetes, and more
+  - Design tool interfaces that give the agent semantic
+    understanding of cloud resources and access to engineering
+    workflows
+  - Develop the context systems that help Neo understand each
+    customer's infrastructure patterns and usage
+  - Create the feedback loops and self-correction mechanisms
+    that make autonomous operation reliable
+  - Build evaluation frameworks to measure agent performance
+    across Neo's capability areas: migrations, compliance,
+    cost optimization, diagnostics, and more
+  - Work on the web interface where Neo operates as a "virtual
+    teammate"—task assignment, progress visibility, approval
+    workflows
+  - Integrate Neo's capabilities into Pulumi's MCP Server for
+    agent-to-agent workflows
+  - Collaborate with platform teams to deeply integrate agent
+    capabilities into the CLI, SDKs, and Pulumi Cloud
+  
+  You may be a good fit if you:
+  
+  - Are genuinely excited about agentic AI—systems that plan,
+    act, and adapt in the real world, not just generate text
+  - Have built production systems using LLMs, including
+    experience with tool use, function calling, and multi-step
+    orchestration
+  - Care deeply about reliability and safety when AI systems
+    take real actions with real consequences
+  - Are comfortable across the stack—agent orchestration,
+    backend services, and frontend interfaces
+  - Have strong Python and TypeScript skills (our primary
+    languages) and can pick up new environments quickly
+  - Bring a product mindset: you think about what users need,
+    not just what's technically interesting
+  - Communicate clearly and work well with a distributed team
+  
+  Strong candidates may also have:
+  
+  - Experience with cloud infrastructure (AWS, Azure, GCP) or
+    infrastructure-as-code tools
+  - Background in building developer tools, CLIs, or platform
+    engineering systems
+  - Familiarity with container orchestration (Kubernetes,
+    Docker)
+  - Experience building evaluation frameworks and benchmarks for
+    AI systems
+  - Knowledge of prompt engineering, fine-tuning, or retrieval-
+    augmented generation
+  
+  Compensation
+  
+  - Base Salary: $190,000-220,000
+  - All full-time employee offers at Pulumi include base salary,
+    bonus or variable, equity and benefits (details below).
+  
+  Benefits & Perks at Pulumi:
+  
+  Healthcare Coverage: We offer comprehensive medical, dental,
+  vision, and supplemental insurance at no cost to U.S.
+  employees. Internationally, we comply with local healthcare
+  requirements and provide regionally appropriate coverage.
+  
+  Time Off: Our unlimited PTO policy encourages balance and
+  rest — and we require employees to take at least three weeks
+  off annually, plus 13 U.S. holidays.
+  
+  401(k): U.S. employees are eligible for a 401(k) plan with
+  an employer match to support long-term financial wellness.
+  
+  Parental Leave: We provide 20 weeks of paid leave for
+  birthing parents or primary caregivers, and 16 weeks for
+  non-birthing parents or secondary caregivers.
+  
+  Remote-First Culture: Pulumi has been fully remote since
+  2020, with teammates across 20+ U.S. states and 12+
+  countries. We support flexible work with asynchronous
+  collaboration and an annual “work from anywhere” stipend.
+  
+  Professional Development: Every employee receives an annual
+  learning and development budget to support growth, learning,
+  and career goals.
+  
+  Equity Ownership: We believe in acting like owners. All
+  employees receive equity and are empowered to think big,
+  move fast, and build the future of cloud together.
+  
+  Additional Support: We offer a monthly wellness fund to
+  support mental and physical well-being, and a quarterly
+  happiness fund for team connection.
+  
+  About Pulumi:
+  
+  Pulumi is reimagining how teams build cloud software,
+  enabling developers and infrastructure experts to work
+  better together through a unique combination of programming
+  languages, tools, and systems innovation.
+  
+  Our flagship infrastructure as code technology is open
+  source and our SaaS product, Pulumi Cloud, provides platform
+  teams, secrets management, and cloud management
+  capabilities, and more. We have pioneered leveraging AI
+  across all of these areas with our LLM-powered Pulumi
+  Copilot to push the boundaries of what's possible. At
+  Pulumi, we dream big, in the pursuit of helping our
+  customers out-innovate and win.
+  
+  Founded in 2017 by industry veterans with over five decades
+  of combined experience building developer platforms, Pulumi
+  now has a global community of more than 350,000 members and
+  serves over 3,250 customers. Despite our rapid growth, we're
+  still only getting started, and are early in our mission to
+  democratize the cloud. If you thrive in a fast-paced, high-
+  performance, we want to work with you to accelerate Pulumi's
+  impact.
+  
+  At Pulumi, we don't just accept difference, we celebrate,
+  support, and thrive on it for the benefit of our employees,
+  our products, and our customers. Pulumi is proud to be an
+  equal opportunity workplace and is committed to equal
+  employment opportunities regardless of race, color,
+  ancestry, religion, sex, national origin, sexual
+  orientation, age, citizenship, marital status, disability,
+  gender identity, or Veteran status. If you have a disability
+  or special need that requires accommodation, please let us
+  know.
+industries:
+  - Cloud
+  - Software
+posted_date: 2026-03-05
+url: "https://www.builtinla.com/job/principal-engineer-pulumi-neo/8184867"
+source: Built In

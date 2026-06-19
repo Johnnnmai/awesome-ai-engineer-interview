@@ -1,0 +1,53 @@
+company:
+  name: Splitero
+  stage: null
+  focus: |-
+    Home equity access solutions at the intersection of
+    financial services and property technology
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building production AI/LLM-powered
+      applications including RAG systems, agentic workflows, and
+      multi-agent frameworks. The engineer will directly
+      implement, deploy, and operationalize AI solutions across
+      the product and operations, not just support infrastructure
+      for others.
+  responsibilities:
+  - Identify, scope, and deliver AI-powered capabilities across product and operations
+  - Partner cross-functionally with product, operations, sales, underwriting, and
+    servicing teams to automate workflows
+  - Build and ship production AI solutions including RAG systems and agentic workflows
+  - Champion AI-first development and educate teams on emerging AI tooling
+  - Prototype rapidly using low-code/no-code platforms (n8n, Make, Zapier) and clean
+    code as appropriate
+  - Lead technical initiatives that drive the organization forward
+  - Operationalize AI tooling across the organization
+  - Balance supervised AI approaches with full automation based on risk assessment
+  use_cases:
+  - Workflow automation for sales, processing, underwriting, closing, and servicing
+    teams
+  - Product experience augmentation with AI capabilities
+  - Business process streamlining and automation at scale
+  - Enterprise workflow orchestration with AI agents
+  - RAG-based information retrieval and processing
+  skills:
+    genai: [LLM APIs, Prompt Engineering, RAG (Retrieval-Augmented Generation), Agentic
+        Workflow Design, LangChain, LlamaIndex, Embedding Pipelines, LLM Evaluation
+        Frameworks]
+    ml: []
+    web: []
+    databases: [Vector Databases, PostgreSQL]
+    data: []
+    cloud: [AWS, Vercel]
+    ops: []
+    languages: [Python, TypeScript, Node.js]
+    domains: []
+    other: [n8n, Make, Zapier, Claude Code, Cursor, GitHub Copilot, SOC 2, Salesforce]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8845704'
+  extracted_at: '2026-03-27T13:13:34.919088'

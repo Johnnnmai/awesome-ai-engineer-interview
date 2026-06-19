@@ -1,0 +1,50 @@
+company:
+  name: Saviynt
+  stage: Growth (high-growth PaaS company)
+  focus: |-
+    AI-powered identity governance and security platform for
+    enterprise access management
+position:
+  title: Principal Engineer - Java/AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a general Java software engineering role building
+      enterprise identity management solutions. While the
+      company's product is "AI-powered" and candidates need
+      experience with AI productivity tools like GitHub Copilot,
+      the role itself involves building SaaS identity platform
+      features, not developing, training, or deploying AI/ML
+      models. The AI is a product feature, not the engineering
+      focus.
+  responsibilities:
+  - Participate in requirements analysis for enterprise identity solutions
+  - Collaborate with internal teams to produce software design and architecture
+  - Develop state-of-the-art enterprise identity cloud solutions using Java and microservices
+  - Test and deploy applications and systems on cloud platforms
+  - Revise, update, refactor and debug code across existing services
+  - Develop documentation throughout the software development life cycle
+  - Serve as an expert on applications and provide technical support
+  - Build and maintain SaaS software following agile principles
+  use_cases:
+  - Enterprise identity governance and access management
+  - Human and non-human identity security
+  - Application and data access control
+  - Compliance and security policy enforcement
+  - Cloud-based identity platform for Fortune 500 and government institutions
+  skills:
+    genai: [Amazon Q, GitHub Copilot, Cursor]
+    ml: []
+    web: [Spring Framework, REST, Microservices, Groovy on Grails]
+    databases: [SQL, ElasticSearch, Redis]
+    data: []
+    cloud: [AWS, Azure, Google Cloud]
+    ops: [Docker, Kubernetes, CI/CD, Git, GitHub, GitLab]
+    languages: [Java]
+    domains: []
+    other: [Scrum, Kanban, IntelliJ, Eclipse, Maven, Ant, JUnit]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6460524'
+  extracted_at: '2026-03-03T11:55:23.186600'

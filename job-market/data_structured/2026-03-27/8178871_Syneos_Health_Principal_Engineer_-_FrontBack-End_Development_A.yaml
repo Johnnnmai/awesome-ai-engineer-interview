@@ -1,0 +1,55 @@
+company:
+  name: Syneos Health
+  stage: Public
+  focus: Fully integrated biopharmaceutical solutions organization
+position:
+  title: Principal Engineer - Front/Back-End Development, APEX, Azure, CI/CD & AI/Cloud
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on cloud infrastructure, data
+      engineering, and platform architecture for Big Data/Data
+      Lake systems. While the title mentions AI/Cloud, the actual
+      responsibilities involve building data pipelines and
+      infrastructure that SUPPORT machine learning capabilities,
+      not directly building, training, or deploying ML models
+      themselves. This is classic platform/infrastructure work
+      that enables AI/ML work by others.
+  responsibilities:
+  - Provide technical leadership and guidance to teams and clients throughout the
+    solution lifecycle for cloud-based data platforms
+  - Design, develop, and implement scalable and secure cloud solutions for Big Data
+    Platforms interfacing with API, file, and SQL databases
+  - Architect and optimize data pipelines using distributed cloud computing for high
+    volume and high velocity data streams
+  - Develop guidelines and plans for performance tuning of Big Data/NoSQL environments
+    to enhance data processing, analytics, and machine learning capabilities
+  - Implement mixed batch/near-real time architecture to analyze, index, and publish
+    data for applications
+  - Develop and implement strategies for data governance, security, and compliance
+  - Troubleshoot and resolve complex issues related to Cloud-based Data Lake and Data
+    Mesh environments
+  - Engage with clients to understand business needs and deliver tailored cloud solutions,
+    including conducting presentations and workshops
+  use_cases:
+  - Big Data platform infrastructure for enterprise biopharmaceutical operations
+  - Data Lake and Data Mesh environments for clinical and commercial data
+  - Scalable data pipelines supporting high-volume data streams
+  - Analytics and visualization for actionable business insights
+  - Machine learning infrastructure enablement for data science teams
+  skills:
+    genai: []
+    ml: []
+    web: [Node.js, SvelteKit, React.js, Next.js, React Native, APIs]
+    databases: [Snowflake, SQL Server, NoSQL]
+    data: [Tableau, Power BI, Distributed computing, Data pipelines]
+    cloud: [Azure]
+    ops: [CI/CD, DevOps]
+    languages: [JavaScript, Python, SQL]
+    domains: []
+    other: [Oracle APEX]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8178871'
+  extracted_at: '2026-03-27T13:43:04.575558'

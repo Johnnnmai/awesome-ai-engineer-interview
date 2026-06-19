@@ -1,0 +1,50 @@
+company:
+  name: Phaidra
+  stage: Series A
+  focus: |-
+    AI-powered control systems for industrial automation using
+    reinforcement learning
+position:
+  title: Senior AI Controls Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role focused on
+      deploying AI-powered control systems (specifically RL-based
+      agents) into production at customer data centers. The role
+      involves creating facility models for AI agent ingestion,
+      working with data science teams to operationalize RL
+      systems, and directly putting AI into production for
+      enterprise customers.
+  responsibilities:
+  - Create facility models using Phaidra's Mort system builder for AI agent ingestion
+  - Map sensor tag data and configure AI control systems for customer facilities
+  - Work with Data Science team to operationalize reinforcement learning solutions
+  - Review and analyze Insights logic for facility-specific requirements
+  - Analyze and triage AI control systems during support phase
+  - Identify and define product requirements based on customer specifications
+  - Develop automated tools to enable scaling across thousands of customers
+  - Lead deployment and support of multiple AI control solutions
+  use_cases:
+  - Industrial facility automation and control optimization
+  - Data center cooling system optimization
+  - Energy efficiency improvement in industrial settings
+  - Reinforcement learning-based control systems for HVAC
+  - Converting sensor data into actionable control decisions
+  skills:
+    genai: []
+    ml: [Reinforcement Learning, Applied Machine Learning]
+    web: []
+    databases: []
+    data: [Statistics]
+    cloud: [Cloud Platforms]
+    ops: []
+    languages: [Python]
+    domains: [HVAC Control Systems, Data Center Operations, Thermodynamics, Control
+        Theory]
+    other: [BACnet, Modbus, PLC Programming, Ladder Logic, XML, JSON, YAML]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8669588'
+  extracted_at: '2026-03-27T14:42:00.197036'

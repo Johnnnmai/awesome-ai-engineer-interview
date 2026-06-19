@@ -1,0 +1,56 @@
+company:
+  name: Automation Anywhere
+  stage: null
+  focus: |-
+    Leader in Agentic Process Automation (APA) with AI-powered
+    automation and specialized AI agents
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying AI systems -
+      multi-agent workflows, RAG pipelines, and AI-RPA
+      integrations. The engineer will implement tool integrations,
+      work with LLMs/agents hands-on, and build production-ready
+      AI solutions. This is core AI development work, not support
+      infrastructure.
+  responsibilities:
+  - Build and maintain multi-agent workflows from solution design documents into production-ready
+    implementations
+  - Implement tool integrations with APIs, ERP, CRM, ITSM with error handling and
+    graceful degradation
+  - Build end-to-end RAG pipelines including ingestion, chunking, embedding, vector
+    store and retrieval evaluation
+  - Monitor and improve retrieval quality and integrate RAG as knowledge backend for
+    agents
+  - Develop and maintain RPA task bots and implement AI agent to RPA handoff logic
+  - Write unit and integration tests and contribute to CI/CD pipelines and prompt
+    versioning
+  - Monitor deployed systems and participate in incident response for agent failure
+    modes
+  - Participate in stakeholder use-case discovery and document pipelines and agent
+    configurations
+  use_cases:
+  - Agentic Process Automation for enterprise workflow automation
+  - Multi-agent systems for business process orchestration
+  - RAG-based knowledge systems for enterprise information retrieval
+  - Hybrid AI-RPA automation for enterprise task execution
+  - Document processing and analytics with AI agents
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, CrewAI, OpenAI API, Anthropic API, Gemini
+        API, Prompt Engineering, RAG]
+    ml: [LoRA/QLoRA]
+    web: [REST APIs]
+    databases: [Vector Databases]
+    data: [Data Pipelines]
+    cloud: [AWS AI Services, Azure AI Services, GCP AI Services]
+    ops: [LangSmith, Arize, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [UiPath, Automation Anywhere, Power Automate, Event-driven Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8774926'
+  extracted_at: '2026-03-27T15:05:49.141061'

@@ -1,0 +1,54 @@
+company:
+  name: Beghou Consulting
+  stage: null
+  focus: |-
+    Life sciences commercialization consulting with analytics
+    and AI solutions
+position:
+  title: Senior Consultant, AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, implementing, and deploying
+      AI/ML pipelines and LLM-based copilots directly. The
+      engineer will build models, implement GenAI/Agentic AI
+      frameworks, conduct feature engineering, and deploy scalable
+      AI services - all hands-on work building and deploying AI
+      systems.
+  responsibilities:
+  - Design and implement AI/ML pipelines solving life sciences problems including
+    territory alignment, rep scheduling, patient segmentation, and incentive compensation
+    optimization
+  - Collaborate with domain consultants to understand client requirements and develop
+    tailored AI solutions
+  - Lead data ingestion, feature engineering, and model development across structured
+    and unstructured data sources
+  - Build and deploy scalable AI services and LLM-based copilots for field force,
+    MSLs, and commercial analytics teams
+  - Implement GenAI and Agentic AI frameworks for commercial automation
+  - Conduct technical reviews and mentor junior AI team members
+  - Collaborate with DevOps and cloud teams to deploy models on AWS/Azure
+  - Present technical concepts and outcomes to internal stakeholders and client teams
+  use_cases:
+  - Territory alignment and optimization for pharmaceutical sales
+  - Sales representative scheduling and resource allocation
+  - Patient segmentation for targeted healthcare interventions
+  - Incentive compensation optimization for sales teams
+  - LLM-based copilots for field force and medical science liaisons
+  - Commercial analytics automation for life sciences clients
+  skills:
+    genai: [LangChain, LLMs, RAG, GenAI frameworks, Agentic AI]
+    ml: [NumPy, scikit-learn, PyTorch, TensorFlow, Hugging Face, Transformers]
+    web: []
+    databases: []
+    data: [pandas, Databricks]
+    cloud: [AWS, Azure]
+    ops: [MLflow, Docker, Git, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6941852'
+  extracted_at: '2026-03-03T12:31:02.052432'

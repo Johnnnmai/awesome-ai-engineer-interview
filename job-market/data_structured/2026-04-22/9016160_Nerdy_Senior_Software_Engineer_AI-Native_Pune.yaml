@@ -1,0 +1,51 @@
+company:
+  name: Nerdy
+  stage: Public
+  focus: AI-powered live learning platform (Varsity Tutors)
+position:
+  title: Senior Software Engineer (AI-Native) (Pune)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a senior software engineering role at an AI company
+      where the primary responsibilities are building web
+      applications with JavaScript/TypeScript. While the job
+      emphasizes "AI-Native" development and requires proficiency
+      with agentic coding tools (Cursor, Claude Code, etc.), the
+      core work is general software engineering—writing code,
+      deploying web apps, and building UIs. The AI aspect is about
+      using AI tools to boost productivity, not building or
+      deploying AI/ML systems directly.
+  responsibilities:
+  - Write performant, maintainable, well-documented code in JavaScript/TypeScript
+    and OOP languages
+  - Write automated tests to thoroughly validate code correctness
+  - Deploy large-scale web applications to AWS infrastructure
+  - Integrate AI into real-time classroom experiences and learning products
+  - Build seamless class discovery flows, improve accessibility and performance
+  - Participate in on-call rotations owning code end-to-end from development to operations
+  - Collaborate with Product, Design, and Engineering teams iteratively
+  - Use AI-native agentic coding tools to accelerate implementation and amplify impact
+  use_cases:
+  - Live online learning platform combining real-time human expertise with generative
+    AI
+  - Class discovery and enrollment flow for students and educators
+  - Real-time AI-enhanced classroom experiences
+  - Large-scale educational web applications serving thousands of daily visitors
+  - SEO-optimized educational content delivery
+  skills:
+    genai: [Cursor, Claude Code, ChatGPT]
+    ml: []
+    web: [SEO optimization, Vercel, Netlify]
+    databases: [Supabase]
+    data: []
+    cloud: [AWS, AWS RDS, AWS Lambda, AWS EC2]
+    ops: [GitHub Actions, AWS CodeDeploy, Linux, CI/CD]
+    languages: [JavaScript, TypeScript, Java, C++, C#]
+    domains: []
+    other: [n8n, Firecrawl, Bolt]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9016160'
+  extracted_at: '2026-04-22T14:14:41.860810'

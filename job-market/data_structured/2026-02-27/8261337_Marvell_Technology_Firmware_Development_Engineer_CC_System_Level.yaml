@@ -1,0 +1,49 @@
+company:
+  name: Marvell Technology
+  stage: Public
+  focus: |-
+    Semiconductor solutions for data infrastructure and HSM
+    security adapters
+position:
+  title: Firmware Development Engineer (C/C++, System Level Knowledge, AI tool development)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a firmware/embedded systems engineering role focused
+      on HSM adapters and cryptographic systems. While it mentions
+      using AI-powered development tools (Copilot) as a
+      productivity aid, the role itself involves building firmware
+      and security software, not AI/ML systems. The AI tools are
+      used to support development, not the primary work focus.
+  responsibilities:
+  - Develop high-quality software for HSM adapters deployed in hyperscaler environments
+  - Design and implement cryptographic systems including PKI, certificate management,
+    and attestation
+  - Develop secure firmware and applications using Secure Boot and OP-TEE
+  - Work with TPM 2.0 and hardware-backed security systems
+  - Write and debug low-level software in C/C++ for embedded systems
+  - Develop Linux kernel modules, device drivers, and socket programming
+  - Implement secure communication protocols and key management systems
+  - Use AI-powered development tools to enhance productivity and code quality
+  use_cases:
+  - Hardware Security Module (HSM) adapters for cloud providers
+  - Cryptographic system design and certificate management
+  - Secure boot and trusted execution environments
+  - TPM-backed key management and attestation
+  - Firmware security for embedded systems
+  skills:
+    genai: [GitHub Copilot, Microsoft Co-Pilot]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Linux kernel development, Device drivers]
+    languages: [C/C++, Rust, Python]
+    domains: [Cryptography]
+    other: [PKI, TPM 2.0, HSM, Secure Boot, OP-TEE, Embedded systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8261337'
+  extracted_at: '2026-03-03T11:12:03.041413'

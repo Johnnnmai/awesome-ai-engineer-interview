@@ -1,0 +1,50 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global financial services and banking
+position:
+  title: Application Production Support Engineer Generative AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform support/operations role focused on
+      maintaining stability and reliability of AI platforms and
+      DevOps infrastructure. The role supports AI applications but
+      does not build, train, fine-tune, or deploy AI models
+      directly - it's about incident management, monitoring, and
+      operational support.
+  responsibilities:
+  - Support stability, reliability, and performance of AI and DevOps platforms
+  - Participate in incident management, problem management, and knowledge-sharing
+    initiatives
+  - Partner with development and engineering teams to support application stability
+    and operational readiness
+  - Track operational health of production platforms including OpenShift, ECS, and
+    CI/CD
+  - Maintain observability practices including monitoring, logging, tracing, and alerting
+  - Support automation efforts to reduce manual tasks and improve operational efficiency
+  - Assist in resilience-related activities including incident simulations and disaster
+    recovery exercises
+  - Coordinate with vendors and offshore managed services for day-to-day operations
+  use_cases:
+  - Platform support for AI applications in financial services
+  - Incident management and monitoring for critical production systems
+  - CI/CD pipeline operations and developer tool support
+  - Capacity planning and performance optimization for enterprise platforms
+  - Disaster recovery and resilience testing for financial systems
+  skills:
+    genai: [Generative AI concepts]
+    ml: []
+    web: []
+    databases: [Postgres, Oracle, MongoDB, Redis]
+    data: []
+    cloud: [ECS]
+    ops: [OpenShift, Kubernetes, CI/CD, Prometheus, Grafana, Splunk, ELK Stack]
+    languages: [Java, Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8775359'
+  extracted_at: '2026-03-27T13:31:14.572737'

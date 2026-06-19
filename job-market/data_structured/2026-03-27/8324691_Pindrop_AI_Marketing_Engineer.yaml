@@ -1,0 +1,50 @@
+company:
+  name: Pindrop
+  stage: Series C or later
+  focus: |-
+    Identity verification and deepfake detection platform for
+    voice, video, and digital interactions
+position:
+  title: AI Marketing Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role uses AI tools to support marketing operations but
+      doesn't build, train, fine-tune, or deploy AI/ML models. The
+      position focuses on implementing AI workflows for marketing
+      automation and being the AI expert for the marketing team,
+      which is enabling work rather than hands-on work with models
+      themselves.
+  responsibilities:
+  - Build and optimize marketing automation systems and tech stack integrations
+  - Administer Pardot marketing automation platform and Salesforce CRM integration
+  - Introduce new AI workflows and train marketing team on AI tools and best practices
+  - Design and maintain lead scoring, routing, and nurturing workflows
+  - Build and automate marketing performance dashboards and reporting
+  - Support campaign execution with automation workflows and A/B testing frameworks
+  - Partner with Sales, Customer Success, and Revenue Operations for process alignment
+  - Ensure data integrity, security, and compliance across marketing platforms
+  use_cases:
+  - Marketing automation and workflow optimization
+  - Lead management and attribution tracking
+  - Campaign performance analytics and reporting
+  - AI-powered marketing operations and team enablement
+  - Sales and marketing alignment through CRM integrations
+  skills:
+    genai: [AI workflow implementation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Pardot, Salesforce CRM, Google Analytics, Tableau, Common Room, Clay,
+      marketing automation, lead scoring and routing, attribution modeling, A/B testing,
+      data governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8324691'
+  extracted_at: '2026-03-27T15:46:05.420453'

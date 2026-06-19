@@ -1,0 +1,53 @@
+company:
+  name: Synechron
+  stage: null
+  focus: |-
+    Digital transformation and technology consulting for
+    enterprises
+position:
+  title: Generative AI/LLM Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, training, fine-
+      tuning, and deploying LLMs and Generative AI models,
+      including designing RAG pipelines and agentic AI solutions.
+      The engineer works hands-on with models throughout their
+      lifecycle, from development to production deployment.
+  responsibilities:
+  - Lead the design, development, training, fine-tuning, and deployment of LLMs and
+    Generative AI models
+  - Design and implement Retrieval-Augmented Generation (RAG) pipelines to improve
+    contextual accuracy and response quality
+  - Convert AI models into scalable APIs and microservices for enterprise deployment
+  - Optimize models for latency, throughput, reliability, and cost efficiency in production
+    environments
+  - Build reusable ML code, data pipelines, and feature engineering frameworks for
+    training and inference
+  - Collaborate with data engineers, product managers, cloud architects, and application
+    teams
+  - Conduct research on emerging AI technologies, benchmark tools, and recommend adoption
+    strategies
+  - Ensure adherence to data privacy, security, and enterprise compliance standards
+  use_cases:
+  - Enterprise-grade Generative AI solutions on Google Cloud Platform
+  - Retrieval-Augmented Generation (RAG) for contextual accuracy and response quality
+  - Scalable AI model APIs and microservices for enterprise integration
+  - LLM fine-tuning and deployment for production environments
+  - Digital transformation through AI capabilities in enterprise systems
+  skills:
+    genai: [RAG, LLMs, LLM fine-tuning, Agentic AI]
+    ml: [TensorFlow, PyTorch, Keras]
+    web: [FastAPI, Flask, Spring Boot]
+    databases: [BigQuery, NoSQL, FAISS, Pinecone, Chroma]
+    data: []
+    cloud: [Google Cloud Platform, Vertex AI]
+    ops: [Git, MLFlow, Docker, Kubernetes, CI/CD]
+    languages: [Python, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8646304'
+  extracted_at: '2026-04-22T13:54:51.594957'

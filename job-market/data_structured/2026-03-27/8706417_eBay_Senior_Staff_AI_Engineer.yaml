@@ -1,0 +1,52 @@
+company:
+  name: eBay
+  stage: Public
+  focus: Global ecommerce marketplace platform
+position:
+  title: Senior Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly working ON AI systems, with explicit
+      focus on "Generative AI systems and intelligent agents" and
+      responsibility for the full AI lifecycle from
+      experimentation to production deployment. The position
+      involves architecting, optimizing, and operationalizing
+      AI/ML models at scale, including deployment, monitoring, and
+      lifecycle management.
+  responsibilities:
+  - Define and implement the strategic roadmap for AI Engineering, aligning technical
+    direction with broader AI and business objectives
+  - Architect, design, and optimize scalable AI systems that operate reliably in high-throughput,
+    production environments
+  - Lead end-to-end operationalization of AI/ML models, ensuring robust lifecycle
+    management including deployment, monitoring, and iteration
+  - Drive automation, CI/CD, and infrastructure-as-code best practices to improve
+    system scalability, resilience, and performance
+  - Establish operational excellence frameworks, including monitoring, incident response,
+    root cause analysis, and performance optimization
+  - Build and mentor a high-performing, multidisciplinary team while fostering a culture
+    of innovation, accountability, and shared ownership
+  use_cases:
+  - Generative AI systems for ecommerce platform
+  - Intelligent agents for customer experiences
+  - AI-driven platform experiences serving millions of users
+  - High-throughput AI systems handling billions of requests per day
+  - Customer-facing AI-powered applications
+  skills:
+    genai: [Generative AI, Intelligent agents]
+    ml: [AI/ML frameworks, GPU clusters]
+    web: []
+    databases: []
+    data: [Data pipelines]
+    cloud: [Cloud-native architectures]
+    ops: [CI/CD pipelines, Infrastructure-as-code (IaC), Containerized environments,
+      Docker, Kubernetes, Monitoring and logging systems]
+    languages: [Java, JVM-based environments]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8706417'
+  extracted_at: '2026-03-27T13:49:11.610407'

@@ -1,0 +1,172 @@
+job_id: 9119928
+title: AI Engineer
+company: Patlytics
+location: New York, USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - GCP
+  - Pandas
+  - Python
+  - Sklearn
+  - Spark
+  - SQL
+company_size: 31 Employees
+description: |
+  About Patlytics:
+  
+  Patlytics is the fastest-growing AI-native patent
+  intelligence platform, transforming how IP is protected and
+  monetized at scale. Our advanced LLMs and generative AI
+  engine—custom-built for intellectual property—power every
+  phase of the patent workflow from invention disclosure
+  through litigation, delivering citation-backed insights with
+  unprecedented accuracy and speed.
+  
+  Fresh off our $40M Series B — led by SignalFire, with
+  participation from N47, Myriad Venture Partners, Liquid 2
+  Ventures, BAM Corner Point, Alumni Ventures, Antiportfolio
+  Ventures and Relativity- allows us to triple down on the
+  product, accelerate growth globally, hire future mission-
+  aligned colleagues, and to continue redefining what is
+  possible for our customers. — we're scaling fast across
+  product, engineering, and go-to-market. If you want to build
+  at the inflection point, this is it.
+  
+  With teams across the globe we're building a global company
+  fueled by exceptional talent and bold ideas. Our rapid
+  expansion is driven by people who bring entrepreneurial
+  energy, intellectual curiosity, and a shared commitment to
+  setting the global standard for AI-powered IP intelligence.
+  We're creating a culture where diverse perspectives shape
+  breakthrough innovation and every voice contributes to
+  transforming how the world protects ideas.
+  
+  We hire for trajectory, not just credentials. If you're 70%
+  of this list and hungry to close the gap, apply.
+  
+  As an AI Engineer, you’ll:
+  
+  - Develop and deploy robust, scalable AI/ML algorithms for
+    cutting-edge IP applications
+  - Design, implement, and iterate on multi-step LLM pipelines
+    for patent claim analysis, infringement detection, and
+    prior art search, including the model selection, prompt
+    architecture, and structured output contracts that define
+    product quality
+  - Build and maintain a rigorous evals framework: define
+    success metrics per pipeline stage, curate golden datasets
+    from real IP cases, and run continuous regression testing
+    to catch degradation before users do
+  - Develop retrieval systems (vector search, BM25 hybrids, re-
+    ranking) optimized for patent corpus characteristics, long
+    documents, technical claim language, biological sequence
+    identifiers
+  - Architect and ship agentic workflows within our Agent layer,
+    coordinating tool use, memory, and multi-turn reasoning
+    over complex IP research tasks
+  - Develop data classification techniques and post-training on
+    the latest LLMs
+  - Collaborate with patent attorneys and domain experts to
+    encode expert judgment into prompts, rubrics, and fine-
+    tuning datasets, then measure whether it worked Own cost,
+    latency, and quality tradeoffs for production inference:
+    prompt caching strategies, context window management,
+    batching, and model migration planning on AWS, GCP and
+    other LLM providers.
+  - Partner with a highly talented cross functional group of
+    researchers, applied scientists, engineers, and product
+    managers to build and evolve the (your company’s platform,
+    product, solution, etc.)
+  - Work with large, complex data sets, solve difficult, non-
+    routine analysis problems, and apply advanced analytical
+    methods as needed
+  - Partner with the Leadership Team to align development
+    strategies with key product requirements and long-term
+    technical roadmap
+  - Build tools to monitor data pipeline performance, data
+    quality and models in production
+  - Perform unit testing, profiling, and parameter tuning
+  - Collaborate with data engineers & platform team to implement
+    data pipelines and robust production real-time and batch
+    decisioning solutions
+  - Lead ongoing R&D of new technologies, data sources and data
+    science & optimization tools
+  - Improve existing machine learning methodologies by
+    developing new sources and testing enhancements, running
+    computational experiments, and fine-tuning parameters
+  
+  That said, these responsibilities are just the beginning! As
+  we continue to grow, we encourage you to contribute wherever
+  you observe opportunities in the business that align with
+  your interests.
+  
+  About you:
+  
+  - You've shipped LLM-powered features that real users depend
+    on, not just demos or side projects. You have a track
+    record of turning prototype prompts into production
+    pipelines with monitoring and fallbacks
+  - You think in evals first. Before writing a prompt, you ask
+    'how will we know if this is better?' and you build the
+    scaffolding to answer that question rigorously
+  - You're comfortable with ambiguity at the model layer. You
+    know that Claude, GPT, and Gemini make different
+    tradeoffs, and you've developed intuition for when to
+    switch, fine-tune, or route between them
+  - You write solid Python and have enough backend instincts to
+    own a service end-to-end: API design, data pipelines,
+    async processing, and observability
+  - You can read a patent claim and not immediately give up.
+    You're curious about domain knowledge and willing to
+    become a genuine expert in IP reasoning over time
+  - You have a strong technical background building ML & AI
+    pipelines
+  - You have great understanding of ML methods and statistics,
+    including ML project lifecycle and associated challenges
+    at each stage of development
+  - Experience deploying, monitoring and maintaining data
+    science products in cloud environments such as AWS and
+    GCP.
+  - Solid understanding of data transformations and analytics
+    functions using tools/languages like (Pandas, Sklearn,
+    SQL, Spark, etc.)
+  - Familiarity with database modeling, data warehousing
+    principles and SQL
+  
+  If you don’t meet 100% of the above qualifications, you
+  should still consider applying. Studies show that you can
+  still be considered for a role if you meet just 50% of the
+  position’s requirements.
+  
+  We offer:
+  
+  - Comprehensive health coverage – Medical, dental, vision,
+    plus FSA, commuter benefits, and health advocacy through
+    Rightway
+  - Mental health & wellness support – Access to Spring Health
+    and Headspace, plus "Mental Escape Days" to recharge when
+    you need it
+  - Immediate 401(k) enrollment – No waiting period to start
+    saving for your future
+  - Generous time off – Unlimited PTO, 12 paid company holidays,
+    plus a full week off during our Holiday Break
+  - Family-first policies – Paid parental leave to support you
+    during life's biggest moments
+  - Invest in yourself – Professional development budget, gym
+    membership stipend, and learning opportunities
+  - Celebrate what matters – Birthday and work anniversary
+    recognition, plus generous employee referral bonuses
+  - Hybrid work environment (open to remote pending location),
+    while staying connected with a passionate and talented
+    team
+industries:
+  - Artificial Intelligence
+  - Legal Tech
+  - Productivity
+  - Software
+  - Generative AI
+posted_date: 2026-04-22
+url: "https://builtin.com/job/ai-engineer/9119928"
+source: Built In

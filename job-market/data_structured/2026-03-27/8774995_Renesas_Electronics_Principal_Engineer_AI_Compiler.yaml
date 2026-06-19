@@ -1,0 +1,55 @@
+company:
+  name: Renesas Electronics
+  stage: Public
+  focus: |-
+    Automotive semiconductors and SoCs for software-defined
+    vehicles
+position:
+  title: Principal Engineer, AI Compiler
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on building AI compilers and optimization
+      frameworks for NPUs and custom accelerators, working with
+      MLIR/LLVM/TVM compiler technologies. While it enables AI
+      workloads to run on hardware, the core work is traditional
+      ML/DL compiler optimization, graph-level optimizations, and
+      hardware-software co-design - not building LLMs/agents or
+      GenAI systems directly.
+  responsibilities:
+  - Lead AI compiler architecture across model ingestion, graph optimization, lowering,
+    code generation, and runtime integration
+  - Design and implement graph-level optimizations including operator fusion, quantization-aware
+    rewrites, memory-aware scheduling, and partitioning
+  - Drive performance optimization for target NPUs including tiling, tensor layout,
+    and multi-core execution strategies
+  - Partner with SoC and AI accelerator architects to influence hardware features
+    through compiler insights
+  - Own performance KPIs for real automotive AI workloads using simulators, profilers,
+    and silicon-correlated models
+  - Ensure compiler outputs meet automotive requirements for real-time behavior, determinism,
+    and quality
+  - Mentor senior engineers and set technical direction
+  use_cases:
+  - ADAS (Advanced Driver Assistance Systems) perception and sensor fusion
+  - In-vehicle AI assistants and voice interfaces
+  - Autonomous vehicle compute workloads
+  - Automotive infotainment systems (IVI)
+  - Gateway and multi-domain automotive applications
+  skills:
+    genai: []
+    ml: [MLIR, LLVM, TVM, NPU optimization, Graph optimization, CNNs, Transformers,
+      Quantization, CUDA]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Performance modeling]
+    languages: [C++, Python]
+    domains: [Automotive safety systems]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8774995'
+  extracted_at: '2026-03-27T15:06:24.559260'

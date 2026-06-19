@@ -1,0 +1,162 @@
+job_id: 8911050
+title: "AI Engineer - Full-Stack & Applied UI"
+company: Reltio
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Claude Code
+  - Codex
+  - Cursor
+  - JavaScript
+  - Next.Js
+  - React
+  - Typescript
+  - Vercel
+company_size: 345 Employees
+description: |
+  At Reltio®, we believe data should fuel business success.
+  Reltio’s AI-powered data unification and management
+  capabilities—encompassing entity resolution, multi-domain
+  master data management (MDM), and data products—transform
+  siloed data from disparate sources into unified, trusted,
+  and interoperable data. Reltio Data Cloud™ delivers
+  interoperable data where and when it's needed, empowering
+  data and analytics leaders with unparalleled business
+  responsiveness. Leading enterprise brands—across multiple
+  industries around the globe—rely on our award-winning data
+  unification and cloud-native MDM capabilities to improve
+  efficiency, manage risk and drive growth.
+  
+  At Reltio, our values guide everything we do. With an
+  unyielding commitment to prioritizing our “Customer First”,
+  we strive to ensure their success. We embrace our
+  differences and are “Better Together” as One Reltio. We are
+  always looking to “Simplify and Share” our knowledge when we
+  collaborate to remove obstacles for each other. We hold
+  ourselves accountable for our actions and outcomes and
+  strive for excellence. We “Own It”. Every day, we innovate
+  and evolve, so that today is “Always Better Than Yesterday”.
+  If you share and embody these values, we invite you to join
+  our team at Reltio and contribute to our mission of
+  excellence.
+  
+  Reltio has earned numerous awards and top rankings for our
+  technology, our culture and our people. Reltio was founded
+  on a distributed workforce and offers flexible work
+  arrangements to help our people manage their personal and
+  professional lives. If you’re ready to work on unrivaled
+  technology where your desire to be part of a collaborative
+  team is met with a laser-focused mission to enable digital
+  transformation with connected data, let’s talk!
+  
+  Job Summary:
+  
+  We are building a highly specialized Enterprise AI Hub to
+  engineer the "Reltio Brain"—a Context Intelligence Operating
+  System that transforms fragmented institutional knowledge
+  into governed, autonomous action.
+  
+  As the AI Engineer (Full-Stack & Applied UI), you are the
+  critical bridge between complex AI reasoning systems and the
+  human workforce. While backend systems handle the heavy
+  lifting of vector search and agentic orchestration, you will
+  be a senior engineer delivering end-to-end solutions and
+  patterns within the established Enterprise AI framework. You
+  will build the internal sandboxes, generative user
+  interfaces, and workflow applications that allow Reltio’s
+  embedded AI Business Partners to interact seamlessly with
+  our AI ecosystem.
+  
+  This role requires a "hacker-minded" builder who leverages
+  modern AI coding assistants (like Cursor, Codex, and Claude
+  Code) to dramatically accelerate front-end development,
+  translating functional business requirements into polished,
+  secure internal tools in days, not weeks.
+  
+  Job Duties and Responsibilities:
+  
+  Generative Interface Development:
+  
+  - Lead complex implementations of highly responsive, intuitive
+    front-end applications and custom agent dashboards that
+    consume streaming LLM responses and complex agentic
+    outputs.
+  
+  Rapid Prototyping & AI-Assisted Coding:
+  
+  - Leverage modern AI coding assistants (e.g., Cursor, Claude
+    Code, Codex) to rapidly iterate on prototypes.
+  - You will act as the technical execution engine for embedded
+    AI Business Partners, turning their defined workflows into
+    functional realities.
+  - Support defining and establishing the AI SDLC for
+    implementing best practice engineering patterns via agents
+    to align to and accelerate established development,
+    quality, and release processes.
+  
+  Full-Stack Connectivity:
+  
+  - Operate with autonomy within defined domain boundaries to
+    connect modern front-end frameworks to backend Model
+    Context Protocol (MCP) gateways and vector search APIs.
+  - Ensure seamless authentication and state management across
+    personal, team, and enterprise context layers.
+  
+  Component Library Creation:
+  
+  - Contribute to reusable UI components, RAG retrieval modules,
+    and generative UI templates—executing within established
+    architectural standards to maintain the look, feel, and
+    interaction patterns of all internal AI tools.
+  
+  Human-in-the-Loop Integration:
+  
+  - Build secure approval workflows and UX patterns that allow
+    human operators to review, modify, or veto high-stakes
+    actions proposed by autonomous agents before execution.
+  
+  Skills You Must Have:
+  
+  - 5+ years of full-stack software development with a heavy
+    emphasis on modern frontend ecosystems.
+  - Expert-level proficiency in TypeScript, JavaScript, React,
+    and Next.js.
+  - Extensive experience deploying and scaling applications on
+    platforms like Vercel, particularly utilizing the Vercel
+    AI SDK for streaming text and generative UI components.
+  - Strong capability in utilizing AI coding tools (e.g., Claude
+    Code, Codex, Cursor) to dramatically accelerate personal
+    output while maintaining strict code quality and security
+    standards.
+  - A deep empathy for user experience and an understanding of
+    how to design interfaces that build trust between human
+    workers and autonomous systems.
+  
+  Skills That Are Nice to Have:
+  
+  - Familiarity with backend Python development to collaborate
+    effectively with backend/orchestration engineers.
+  - Experience in a 500–2,000 employee SaaS company or similar
+    scale.
+  - Familiarity with OAuth and implementing Role-Based Access
+    Control (RBAC) and Attribute-Based Access Control (ABAC)
+    within UI layers to govern data access across L1/L2/L3
+    contexts.
+  - Working knowledge of deploying applications that interact
+    securely with enterprise systems like Salesforce, Jira, or
+    NetSuite.
+  
+  Reltio is proud to be an equal opportunity workplace. We are
+  committed to equal employment opportunity regardless of
+  race, color, ancestry, religion, sex, national origin,
+  sexual orientation, age, citizenship, marital status,
+  disability, gender identity or Veteran status. We also
+  consider qualified applicants regardless of criminal
+  histories, consistent with legal requirements. Reltio is
+  committed to working with and providing reasonable
+  accommodation to applicants with physical and mental
+  disabilities.
+posted_date: 2026-03-31
+url: "https://builtin.com/job/ai-engineer-full-stack-applied-ui/8911050"
+source: Built In

@@ -1,0 +1,46 @@
+company:
+  name: Airbnb
+  stage: Public
+  focus: Global hospitality platform connecting hosts and guests
+position:
+  title: Staff Software Engineer, Dev AI, Developer Infrastructure
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI-powered tools and
+      infrastructure, including agentic coding tools, AI workflow
+      platforms, and SDKs for AI app development. The team
+      actively builds foundational AI tooling and provides AI
+      consultancy, requiring hands-on implementation of AI
+      technologies and systems.
+  responsibilities:
+  - Shape and drive AI for Developers strategy from ideation through shipping
+  - Build agentic coding tools and asynchronous AI workflow platforms
+  - Develop SDKs for rapid internal AI app development and AI-assisted code migration
+  - Make architectural and technical decisions balancing ambition with real-world
+    constraints
+  - Serve as AI consultant and coach to help teams adopt new AI capabilities
+  - Champion engineering excellence through high-quality code and reliable systems
+  - Participate in on-call rotations and drive operational excellence
+  use_cases:
+  - Developer productivity enhancement across the software development lifecycle
+  - Agentic coding tools for automated or assisted code development
+  - AI-assisted code migration to modernize legacy systems
+  - Domain-specific AI tool creation for internal teams
+  - Internal AI-powered solutions and workflow automation
+  skills:
+    genai: [LLMs and AI technologies, Agentic systems]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Developer infrastructure, Platform engineering]
+    languages: [Go, Python, TypeScript, Kotlin]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8786294'
+  extracted_at: '2026-03-27T15:13:58.251621'

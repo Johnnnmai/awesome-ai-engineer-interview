@@ -1,0 +1,52 @@
+company:
+  name: Zocdoc
+  stage: Private (18 years old, established company)
+  focus: |-
+    Digital healthcare marketplace connecting patients with
+    providers
+position:
+  title: Staff Software Engineer, AI Phone Assistant
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building, designing, and implementing
+      AI systems - specifically an AI voice agent with LLMs,
+      prompt engineering, and conversational AI integration. The
+      engineer will architect AI-driven workflows and
+      orchestration systems, not just supporting infrastructure.
+  responsibilities:
+  - Architect, build, and maintain scalable software systems that power Zocdoc's AI
+    Phone Assistant
+  - Design and implement AI-driven workflows, integrating LLMs and conversational
+    AI into production systems
+  - Lead prompt engineering, model integration, and system optimization to improve
+    accuracy, responsiveness, and reliability
+  - Collaborate cross-functionally with product, design, and data science teams to
+    deliver production-grade AI capabilities
+  - Drive the evolution of the AI platform from experimentation and rapid prototyping
+    to scalable, reliable production systems
+  - Ensure system scalability, observability, and performance as the product grows
+    rapidly
+  - Research and apply emerging GenAI tools and technologies to solve real-world user
+    problems
+  use_cases:
+  - AI-powered voice agent for healthcare providers (hospitals and doctor's offices)
+  - Automated inbound call handling for medical practices
+  - Conversational AI for patient-provider communication
+  - Healthcare appointment scheduling and patient interaction automation
+  skills:
+    genai: [LLMs, Prompt Engineering, Conversational AI, Voice AI]
+    ml: [AI/ML Systems]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems, Microservices]
+    languages: [C#]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8539637'
+  extracted_at: '2026-03-03T12:00:50.635499'

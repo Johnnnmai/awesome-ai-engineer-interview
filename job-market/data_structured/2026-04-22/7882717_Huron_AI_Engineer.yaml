@@ -1,0 +1,57 @@
+company:
+  name: Huron
+  stage: Public
+  focus: |-
+    Global consultancy for strategic growth and digital
+    transformation
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and fine-
+      tuning AI/ML models and agent-based systems. The engineer
+      will design AI-powered systems, build intelligent agents
+      using frameworks like LangGraph/AutoGen, and work across the
+      full AI solution lifecycle from data preparation to
+      production deployment.
+  responsibilities:
+  - Design and develop AI-powered systems using traditional ML and generative AI techniques
+    including prompt engineering, fine-tuning, and embeddings
+  - Build intelligent applications and agents using frameworks like LangGraph, AutoGen,
+    or CrewAI for autonomous or interactive task execution
+  - Create modular APIs and service components using FastAPI or Flask to enable model
+    integration and consumption
+  - Develop and manage data pipelines including data collection, transformation, and
+    quality assurance for model training
+  - Implement observability and evaluation mechanisms to monitor AI system behavior
+    including accuracy, drift, and reliability
+  - Collaborate with software engineers, data scientists, and solution architects
+    for seamless design and production transition
+  - Support rapid experimentation and robust deployment pipelines across use cases
+    of varying maturity
+  - Stay current on emerging GenAI, AI agents, orchestration protocols, and evaluation
+    frameworks
+  use_cases:
+  - Intelligent agents for autonomous or interactive task execution
+  - AI agent orchestration and model chaining for multi-step workflows
+  - Self-evaluating AI systems with observability and drift monitoring
+  - Cross-industry AI solutions from prototype to production deployment
+  - Generative AI applications with prompt engineering and fine-tuning
+  skills:
+    genai: [LangGraph, AutoGen, CrewAI, OpenAI APIs, Prompt Engineering, Fine-tuning,
+      Embeddings, MCP, RAG]
+    ml: [scikit-learn, PyTorch, TensorFlow]
+    web: [FastAPI, Flask, REST APIs]
+    databases: [Vector Databases]
+    data: [Data Pipelines]
+    cloud: [Azure, AWS, Azure Machine Learning, AWS SageMaker, Google AI/ML Services]
+    ops: [Docker, CI/CD, MLOps, Model Monitoring]
+    languages: [Python, SQL]
+    domains: [NLP, Machine Learning]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7882717'
+  extracted_at: '2026-04-22T14:12:55.025045'

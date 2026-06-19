@@ -1,0 +1,55 @@
+company:
+  name: Via
+  stage: Growth/Late-stage (hundreds of agency partners globally)
+  focus: |-
+    Transportation technology platform for modern transit
+    networks
+position:
+  title: Senior AI Engineer, AI Labs
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is a founding member of Via's AI Labs focused on
+      building and shipping AI products end-to-end, including
+      agentic workflows, LLM-powered experiences, predictive
+      modeling, and real-time decision-making. The engineer works
+      directly on building, deploying, and iterating AI systems in
+      production, making this clearly an ai-first role.
+  responsibilities:
+  - Build and ship production-grade AI products end-to-end from problem framing and
+    data pipeline design through deployment and iteration in live environments
+  - Work closely with partners in a forward-deployed manner to understand problems
+    and iterate on scalable agentic solutions
+  - Lead technical scoping workshops with city leaders to solve local problems using
+    agentic workflows
+  - Contribute to intelligent tooling involving data consolidation, predictive modelling,
+    real-time decision-making, and LLM-powered experiences
+  - Collaborate with product, data science, and operations teams to identify and prioritize
+    high-impact AI opportunities
+  - Write clean, scalable backend code powering AI-driven features including API design,
+    data flow management, and reliable system performance at scale
+  - Help shape the technical culture of AI Labs from the ground up including building,
+    reviewing, shipping, and iterating practices
+  use_cases:
+  - Smart data-driven public transit network optimization
+  - Agentic workflows for solving city-specific transportation problems
+  - Predictive modeling for transit operations
+  - Real-time decision-making for transportation systems
+  - LLM-powered experiences for transit intelligence and tooling
+  - Data consolidation across siloed public transportation systems
+  skills:
+    genai: [LLMs, Agentic workflows, Prompt engineering]
+    ml: [Predictive modeling]
+    web: [REST APIs]
+    databases: []
+    data: [Data pipeline design]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Distributed systems, Backend engineering]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9057238'
+  extracted_at: '2026-04-22T12:58:54.876816'

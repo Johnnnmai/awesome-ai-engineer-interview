@@ -1,0 +1,112 @@
+job_id: 9114789
+title: "Foundational Engineer - AI & Machine Learning"
+company: Harman
+location: DLF Cybercity, IND
+work_type: FULL_TIME
+level: Mid level
+skills:
+  - Docker
+  - Hugging Face Transformers
+  - Java
+  - Kubeflow
+  - Kubernetes
+  - Langchain
+  - Mlflow
+  - Numpy
+  - Pandas
+  - Python
+company_size: 22,291 Employees
+description: |
+  HARMAN’s engineers and designers are creative, purposeful
+  and agile. As part of this team, you’ll combine your
+  technical expertise with innovative ideas to help drive
+  cutting-edge solutions in the car, enterprise and connected
+  ecosystem. Every day, you will push the boundaries of
+  creative design, and HARMAN is committed to providing you
+  with the opportunities, innovative technologies and
+  resources to build a successful career.
+  
+  A Career at HARMAN
+  
+  As a technology leader that is rapidly on the move, HARMAN
+  is filled with people who are focused on making life better.
+  Innovation, inclusivity and teamwork are a part of our DNA.
+  When you add that to the challenges we take on and solve
+  together, you’ll discover that at HARMAN you can grow, make
+  a difference and be proud of the work you do everyday.
+  
+  About the Role
+  
+  We are looking for a AI & Machine Learning Engineer with
+  expertise in machine learning, generative AI, and agentic AI
+  workflows. The role involves building, fine-tuning, and
+  deploying large-scale ML and GenAI models while developing
+  intelligent agentic systems that operate autonomously
+  
+  Key Responsibilities
+  
+  - Design, train, and optimize ML models for prediction,
+    classification, and analytical use cases.
+  - Build, fine-tune, and deploy open-source LLMs (GPT, Llama,
+    Mistral, T5, Falcon, BERT, ViT).
+  - Apply prompt engineering and build RAG-based AI assistants
+    and chatbots.
+  - Develop agentic AI workflows using LangChain, LangGraph,
+    CrewAI, Autogen, or PhiData.
+  - Deploy and manage models using MLflow, Kubeflow, SageMaker,
+    Docker, and Kubernetes.
+  - Monitor model performance, drift, and ensure scalability and
+    robustness in production.
+  - Collaborate with cross-functional teams to align ML
+    solutions with business and product goals.
+  - Document model architectures, workflows, and experiments.
+  
+  Required Skills & Qualifications
+  
+  - Candidate should be completed AI/ML training from reputed
+    organization
+  - At least 6 month working experience in ML engineering or
+    GenAI development.
+  - Proven experience in deploying ML/GenAI Agents in production
+    at scale.
+  - Strong proficiency in Python and Java preferred.
+  - Hands-on with TensorFlow, PyTorch, Scikit-learn, Hugging
+    Face Transformers, LangChain.
+  - Familiarity with MLOps and containerization (MLflow,
+    Kubeflow, SageMaker, Docker, Kubernetes).
+  - Experience fine-tuning open-source LLMs and developing
+    generative or agentic AI systems.
+  - Knowledge of data processing tools (SQL, Spark, Pandas,
+    NumPy).
+  - Excellent problem-solving and communication skills.
+  
+  Preferred Qualifications
+  
+  - Knowledge of cloud platforms (AWS, GCP, Azure).
+  - Familiarity with reinforcement learning or continuous
+    learning pipelines.
+  - Experience with Git and SDLC best practices.
+  
+  Summary
+  
+  This role blends advanced machine learning, generative AI,
+  and agentic automation to deliver production-ready, scalable
+  AI solutions. The engineer will work across the full AI
+  lifecycle from model development to deployment within a
+  high-performance AI/ML domain team.
+  
+  HARMAN is proud to be an Equal Opportunity / Affirmative
+  Action employer. All qualified applicants will receive
+  consideration for employment without regard to race,
+  religion, color, national origin, gender (including
+  pregnancy, childbirth, or related medical conditions),
+  sexual orientation, gender identity, gender expression, age,
+  status as a protected veteran, status as an individual with
+  a disability, or other applicable legally protected
+  characteristics.
+industries:
+  - Consumer Web
+  - Information Technology
+posted_date: 2026-04-21
+url: "https://builtin.com/job/foundational-engineer-ai-machine-learning/9114789"
+source: Built In

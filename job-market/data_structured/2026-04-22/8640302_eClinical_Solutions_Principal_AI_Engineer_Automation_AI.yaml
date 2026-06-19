@@ -1,0 +1,55 @@
+company:
+  name: eClinical Solutions
+  stage: PE-backed
+  focus: |-
+    Clinical data intelligence platform for pharmaceutical
+    companies
+position:
+  title: Principal AI Engineer – Automation & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is a hands-on AI engineering position (70-80%
+      development) focused on designing, building, and deploying
+      agentic AI workflows and automation solutions. The engineer
+      directly builds production-grade AI systems using agentic
+      frameworks and modern AI tooling, making this clearly ai-
+      first.
+  responsibilities:
+  - Design and deploy agentic AI workflows and automation solutions across enterprise
+    functions including R&D, Engineering, Professional Services, IT, Finance, Sales,
+    and Marketing
+  - Build production-grade AI systems with rapid prototyping and deployment cycles
+  - Translate business problems into working AI systems with lightweight architectures
+    and quick iteration
+  - Deliver continuous output with weekly or bi-weekly releases, prioritizing use
+    cases based on business impact
+  - Build and maintain reusable AI assets and contribute to lightweight engineering
+    standards
+  - Provide technical guidance and mentorship to a small team of AI engineers and
+    automation specialists
+  - Partner directly with CTAO and business leaders to identify high-value use cases
+    and drive adoption
+  use_cases:
+  - Agentic data review for clinical trials
+  - SDTM (Study Data Tabulation Model) automation for pharmaceutical regulatory submissions
+  - Risk-Based Quality Management (RBQM) for clinical development
+  - Enterprise automation across R&D, Engineering, Finance, Sales, and Marketing functions
+  - AI-powered clinical data intelligence for pharmaceutical companies
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, AutoGen, OpenAI API, Anthropic API, RAG,
+      Prompt engineering, Agentic frameworks, Function calling]
+    ml: []
+    web: [FastAPI, REST APIs]
+    databases: [Postgres, Redis, Vector databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, LangSmith]
+    languages: [Python, TypeScript, SQL]
+    domains: [CDISC standards, Clinical data management]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8640302'
+  extracted_at: '2026-04-22T13:29:40.848021'

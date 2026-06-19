@@ -1,0 +1,49 @@
+company:
+  name: DoubleVerify
+  stage: Public
+  focus: |-
+    Marketing measurement software and digital media
+    verification for advertising
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a DevOps/Platform Engineering role focused on
+      building infrastructure to support AI agent deployment, not
+      directly building or training AI models. The role enables
+      AI/ML teams by providing platforms and tooling, which
+      classifies it as ai-support rather than ai-first.
+  responsibilities:
+  - Design and build foundational infrastructure for deploying AI agents at scale
+    using LangChain and Agent Development Kit
+  - Architect, deploy, and operate Kubernetes platform across GCP/AWS and data center
+    environments
+  - Build tooling and automation that simplifies complex systems for 100+ developers
+  - Create operators, microservices, and management tools for infrastructure interaction
+  - Drive CI/CD evolution and build self-service capabilities for engineering teams
+  - Partner with AI/ML teams to enable rapid deployment of agentic solutions
+  - Establish technical standards and patterns that scale across the organization
+  use_cases:
+  - AI-powered advertising verification processing billions of daily impressions
+  - Digital media quality and effectiveness measurement for Fortune 500 brands
+  - AI agent deployment infrastructure for advertising technology
+  - Marketing measurement and analytics platform
+  - Media transparency and accountability for digital advertising
+  skills:
+    genai: [LangChain, Google Agent Development Kit, OpenAI Agents SDK, CrewAI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [GCP, AWS, Oracle Cloud]
+    ops: [Kubernetes, ArgoCD, Helm, Terraform, Ansible, Docker, GitLab CI/CD, GitHub
+        Actions, Prometheus, Grafana, Datadog]
+    languages: [Python, Go, TypeScript, Bash]
+    domains: []
+    other: [n8n]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7925951'
+  extracted_at: '2026-03-03T11:32:17.412884'

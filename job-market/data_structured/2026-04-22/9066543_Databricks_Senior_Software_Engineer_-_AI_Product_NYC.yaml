@@ -1,0 +1,48 @@
+company:
+  name: Databricks
+  stage: Series H (late-stage private)
+  focus: Data and AI infrastructure platform for analytics and AI
+position:
+  title: Senior Software Engineer - AI Product (NYC)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building GenAI agent interfaces and end-
+      to-end generative AI products. The engineer creates novel
+      interfaces for GenAI agents managing complex workflows,
+      directly working with AI/agent systems. The 0-to-1 product
+      focus on agentic AI applications makes this ai-first.
+  responsibilities:
+  - Create novel interfaces for GenAI agents that manage complex workflows with human-in-the-loop
+    inspectability and transparency
+  - Partner with product management, design, and engineering teams to build intuitive,
+    scalable AI solutions
+  - Lead hands-on full-stack software development for dynamic, user-centric AI product
+    experiences
+  - Enable product-led growth mechanisms through seamless onboarding and sharing capabilities
+  - Direct the future of intuitive agentic applications at Databricks in collaboration
+    with cross-functional teams
+  - Establish best practices across the team and company for building valuable AI
+    products
+  use_cases:
+  - GenAI agent workflow management with human-in-the-loop oversight
+  - Vertical AI applications for technical and business users leveraging Databricks
+    data and AI platform
+  - Intuitive agentic application interfaces with inspectability and transparency
+  - Product-led growth through seamless AI product onboarding and sharing
+  skills:
+    genai: [GenAI product development, Agentic AI]
+    ml: []
+    web: [React, Angular, Vue.js, HTML, CSS, Node.js]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [JavaScript, Python, Java, Scala, Go, C++, C#]
+    domains: []
+    other: [UI/UX design]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9066543'
+  extracted_at: '2026-04-22T14:15:18.413607'

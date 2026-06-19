@@ -1,0 +1,54 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Healthcare technology and services improving health outcomes
+position:
+  title: Lead AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, fine-tuning, and
+      deploying AI/ML models including LLMs and agentic systems.
+      The engineer will develop models from scratch, fine-tune
+      LLMs, design autonomous agentic systems, and optimize
+      training pipelines - all direct work ON AI systems rather
+      than supporting infrastructure.
+  responsibilities:
+  - Fine-tune large language models on proprietary data to improve performance
+  - Research and develop cutting-edge AI models including deep learning, reinforcement
+    learning, and generative architectures
+  - Advance agentic capabilities by designing autonomous systems that can reason,
+    plan, and interact with complex environments
+  - Prototype and refine novel algorithms to improve model performance, scalability,
+    and interpretability
+  - Conduct rigorous experimentation and benchmarking to evaluate model efficacy and
+    robustness
+  - Optimize training pipelines and infrastructure for large-scale model deployment
+    and continuous learning
+  - Collaborate with cross-functional teams to translate theoretical advancements
+    into practical enterprise applications
+  - Mentor junior researchers and contribute to internal AI knowledge bases and best
+    practices
+  use_cases:
+  - Healthcare data processing and analysis
+  - Enterprise search and knowledge retrieval
+  - Natural language processing for health records
+  - Speech and vision AI for document processing
+  - Autonomous agentic systems for healthcare workflows
+  skills:
+    genai: [OpenAI APIs, Azure OpenAI, RAG, LangFuse, Agentic AI, GitHub Copilot,
+      M365 Copilot]
+    ml: [PyTorch, TensorFlow, scikit-learn, Deep learning, Reinforcement learning]
+    web: []
+    databases: [Vector databases]
+    data: [Databricks]
+    cloud: [Azure Functions, Azure Monitor, Azure AI services, Azure Document Intelligence]
+    ops: [LLM Gateway]
+    languages: [Python]
+    domains: [NLP, Vision AI, Speech AI]
+    other: [OCR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8504393'
+  extracted_at: '2026-03-27T14:02:59.341902'

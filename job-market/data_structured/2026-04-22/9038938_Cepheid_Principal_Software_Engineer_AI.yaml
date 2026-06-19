@@ -1,0 +1,57 @@
+company:
+  name: Cepheid
+  stage: Public (Danaher subsidiary)
+  focus: |-
+    Cloud software for BioPharma R&D and manufacturing data
+    management
+position:
+  title: Principal Software Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building, designing, and
+      productionizing GenAI/LLM-powered capabilities including
+      RAG, document summarization, question answering, and agentic
+      patterns. The engineer is hands-on with LLMs, vector stores,
+      and AI system design from POC through production, making
+      this clearly an ai-first role.
+  responsibilities:
+  - Lead delivery of AI-enabled platform capabilities accelerating insight and decision
+    making across drug discovery, clinical development, and commercial operations
+  - Design and productionize scalable GenAI solutions using RAG, MCP-style integrations,
+    and agentic patterns balancing capability, cost, performance, and trust
+  - Translate scientific and business use cases into robust AI system designs integrating
+    with data platforms, workflows, and APIs
+  - Establish engineering best practices for GenAI/LLM applications including system
+    design patterns, evaluation, reliability, scalability, and maintainability standards
+  - Act as technical leader by mentoring engineers, influencing architectural direction,
+    and driving successful delivery and adoption of GenAI capabilities
+  - Develop AI-ready data foundations including unstructured data pipelines, metadata
+    extraction and enrichment, and hybrid architectures using vector stores alongside
+    relational databases
+  - Deploy AI systems into production environments with effective monitoring of model
+    behavior, data drift, cost, and latency
+  use_cases:
+  - AI-driven discoverability and search over scientific, clinical, and operational
+    enterprise data
+  - Document summarization and reporting for BioPharma organizations
+  - Question answering over enterprise datasets using RAG
+  - Knowledge extraction and decision support for drug discovery and clinical development
+  - Workflow automation for BioPharma R&D and manufacturing processes
+  skills:
+    genai: [RAG (Retrieval Augmented Generation), LLM application development, Agentic
+        patterns, MCP-style integrations, Prompt engineering, Document summarization]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector stores, Relational databases]
+    data: [Databricks, Data pipelines, Metadata extraction and enrichment]
+    cloud: [AWS]
+    ops: [Model monitoring and evaluation, CI/CD, Feature flags and controlled rollout]
+    languages: [Python]
+    domains: [NLP, Life sciences / BioPharma domain knowledge]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9038938'
+  extracted_at: '2026-04-22T12:54:21.108738'

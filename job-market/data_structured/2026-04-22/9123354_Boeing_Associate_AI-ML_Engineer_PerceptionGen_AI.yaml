@@ -1,0 +1,59 @@
+company:
+  name: Boeing
+  stage: Public
+  focus: |-
+    Global aerospace company developing commercial airplanes,
+    defense and space systems
+position:
+  title: Associate AI-ML Engineer (Perception/Gen AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, training, deploying,
+      and optimizing ML/DL models, perception systems, and
+      GenAI/LLM-powered solutions. The engineer will develop
+      innovative machine learning models, work with computer
+      vision, LLMs, and agentic systems hands-on, which squarely
+      places this as an ai-first role.
+  responsibilities:
+  - Develop innovative ML/DL models to provide actionable insights for aircraft and
+    fleet efficiency, performance, and engineering productivity
+  - Apply statistical, probabilistic, predictive analytics and deep learning techniques
+    to areas such as airplane health management, manufacturing, automation, and supply
+    chain
+  - Develop nonstandard perception system approaches for manufacturing automation,
+    mobile devices, cabin features, and flight-deck automation
+  - Design and develop scalable AI/ML solutions including Large Language Models, agentic
+    systems, and information retrieval systems
+  - Drive the MLOps lifecycle by establishing and maintaining robust pipelines for
+    model deployment, monitoring, and optimization
+  - Collaborate with an international team of software developers and research engineers
+    to execute on projects
+  - Help adopt new tools and technologies, perform proof-of-concepts, and support
+    implementation and handover
+  - Document research and development results through progress reports, project summaries,
+    and periodic updates
+  use_cases:
+  - Aircraft health management and predictive maintenance
+  - Manufacturing automation and productivity optimization
+  - Flight-deck automation and cabin feature intelligence
+  - Supply chain optimization using AI-driven analytics
+  - Perception systems for manufacturing, maintenance, and operations
+  - Fleet operational efficiency and performance improvement
+  skills:
+    genai: [LLMs, GenAI, RAG / Information Retrieval, Agentic Systems]
+    ml: [PyTorch, TensorFlow, Deep Learning, Machine Learning, Computer Vision, Synthetic
+        Data Generation, Self-Supervised Learning, Domain Adaptation]
+    web: []
+    databases: []
+    data: [Predictive Analytics, Data Science]
+    cloud: []
+    ops: [MLOps, Docker / Containerization, CI/CD, Model Deployment]
+    languages: [Python, R, SQL]
+    domains: [NLP, Perception Systems]
+    other: [Tableau, Power BI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9123354'
+  extracted_at: '2026-04-22T12:57:49.232998'

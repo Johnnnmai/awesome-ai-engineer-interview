@@ -1,0 +1,52 @@
+company:
+  name: Porch Group
+  stage: Public
+  focus: |-
+    Vertical software and insurance platform for homebuyers and
+    homeowners
+position:
+  title: Senior AI Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves owning the full ML lifecycle from
+      research to production, directly building and deploying
+      models using Computer Vision, NLP (BERT, ViT), and
+      foundation models. The engineer will evaluate and integrate
+      vision-language models, embeddings, and RAG approaches into
+      production systems - all hands-on AI/ML model work.
+  responsibilities:
+  - Own the full machine learning lifecycle from research to production, leveraging
+    Computer Vision and NLP techniques to extract insights from unstructured data
+  - Evaluate and integrate modern AI and foundation model capabilities including vision-language
+    models, embeddings, and retrieval-augmented approaches into production systems
+  - Partner with product, operations, and engineering to translate business problems
+    into high-impact machine learning or AI opportunities
+  - Design experiments to quantify the business impact of machine learning models
+  - Collaborate with other MLEs on tooling improvements for model training and deployment
+  - Utilize MLOps stack to drive feature engineering, model training, and data analysis
+  - Write robust, production-grade Python code to productionalize feature engineering,
+    model training, and deployment
+  - Participate in the on-call rotation to assist engineers in troubleshooting
+  use_cases:
+  - Extract property attributes from text and image data for home and consumer insights
+  - Computer vision for property image analysis and feature extraction
+  - NLP-based extraction of property information from unstructured text documents
+  - Vision-language model applications for home insurance underwriting
+  - Deriving value from home and consumer data sources for insurance and home services
+  skills:
+    genai: [RAG]
+    ml: [BERT, ViT, Scikit-Learn, embeddings, vision-language models, foundation models]
+    web: []
+    databases: [Postgres, Google BigQuery, Google Datastore]
+    data: [Numpy, Scipy, Pandas, Matplotlib]
+    cloud: [Google Cloud Storage]
+    ops: [Feast, Flyte, BentoML, A/B testing]
+    languages: [Python, SQL]
+    domains: [Computer Vision, NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8360323'
+  extracted_at: '2026-03-03T11:17:19.613513'

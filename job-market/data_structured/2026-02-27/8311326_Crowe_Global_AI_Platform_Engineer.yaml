@@ -1,0 +1,48 @@
+company:
+  name: Crowe Global
+  stage: Public
+  focus: |-
+    Global accounting, consulting and technology firm with AI-
+    powered solutions
+position:
+  title: AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building infrastructure (APIs,
+      Kubernetes environments) that support ML model deployment,
+      not on building/training the models themselves. The role
+      collaborates with ML Engineers to take solutions to
+      production, indicating an enabling/support function rather
+      than hands-on model work.
+  responsibilities:
+  - Design, build, and maintain scalable and robust APIs that integrate with machine
+    learning models
+  - Deploy and manage Kubernetes environments to ensure reliable operation of AI systems
+  - Collaborate with Machine Learning Engineers to take AI solutions from Proof of
+    Concept to production readiness
+  - Implement system architectures that support scaling and distributed computing
+    needs
+  - Ensure stability and security of AI deployments through rigorous testing and monitoring
+  use_cases:
+  - AI-powered solutions for audit, tax, and consulting services
+  - Deploying machine learning models at scale for business transformation
+  - Enterprise AI solution deployment on cloud platforms
+  - AI-enabled insights and technology-powered solutions
+  skills:
+    genai: [Generative AI tools]
+    ml: []
+    web: [RESTful APIs, WebSockets, Webhooks]
+    databases: []
+    data: []
+    cloud: [Microsoft Azure, Azure AI Studio, Serverless functions, OpenFaaS, Power
+        Platform]
+    ops: [Kubernetes, Docker]
+    languages: [Python, JavaScript]
+    domains: []
+    other: [System design and architecture, Distributed computing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8311326'
+  extracted_at: '2026-03-03T12:13:19.807979'

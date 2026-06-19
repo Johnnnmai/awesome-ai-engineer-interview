@@ -1,0 +1,47 @@
+company:
+  name: Blossom Health
+  stage: Series A
+  focus: |-
+    AI-native mental health care platform partnering with
+    psychiatrists
+position:
+  title: Applied AI Software Engineer (All Levels)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves leveraging cutting-edge AI to
+      create clinician and patient experiences, and candidates
+      with LLM-powered app experience are preferred. As an
+      "Applied AI Software Engineer" at an "AI-native care
+      platform," the role involves building and shipping AI-
+      powered features directly into the product, making it ai-
+      first.
+  responsibilities:
+  - Design and build scalable, reliable systems powering core product workflows
+  - Ship high-quality code that balances speed and technical rigor
+  - Proactively identify and resolve system reliability risks, owning uptime, observability,
+    and performance
+  - Leverage cutting-edge AI to create intuitive and novel clinician and patient experiences
+  - Conduct thoughtful code reviews and provide technical mentorship to raise engineering
+    excellence
+  use_cases:
+  - AI-powered clinician and patient experiences for mental healthcare
+  - Expanding access to affordable and timely mental healthcare
+  - Scaling psychiatric care delivery through an AI-native platform
+  - Supporting hundreds of clinicians and thousands of patients with intelligent tools
+  skills:
+    genai: [LLM-powered applications]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability and monitoring]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [System design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9060377'
+  extracted_at: '2026-04-22T13:55:17.435073'

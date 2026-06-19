@@ -1,0 +1,46 @@
+company:
+  name: Harman
+  stage: Public
+  focus: |-
+    Automotive technology, audio systems, and connected car
+    solutions
+position:
+  title: AI ML with Python engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly developing and deploying AI/ML
+      models for vehicle bringup and analytics. While the focus is
+      more on the infrastructure and deployment side (K8s, cloud,
+      data pipelines), the core responsibility is building and
+      deploying ML models using Python, with bonus points for deep
+      learning frameworks like TensorFlow/PyTorch.
+  responsibilities:
+  - Develop and deploy AI/ML models for vehicle bringup and analytics using Python
+  - Work with Kubernetes (K8s) for container orchestration on AWS/Azure cloud
+  - Leverage pyspark for big data processing and SQL for data querying
+  - Build and maintain data pipelines and visualization using Grafana
+  - Collaborate with teams to integrate AI/ML solutions into products
+  - Engineer audio systems and integrated technology platforms for automotive
+  use_cases:
+  - Vehicle bringup and testing automation
+  - Automotive data analytics
+  - In-vehicle infotainment systems
+  - Connected car technology platforms
+  - Audio system engineering
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch]
+    web: []
+    databases: [SQL]
+    data: [PySpark]
+    cloud: [AWS, Azure, AWS SageMaker, Azure ML]
+    ops: [Kubernetes, Grafana, CI/CD, Docker]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8848229'
+  extracted_at: '2026-03-27T15:19:27.132522'

@@ -1,0 +1,54 @@
+company:
+  name: Nagarro
+  stage: null
+  focus: |-
+    Digital product engineering company building products,
+    services, and experiences at scale
+position:
+  title: Senior Staff Engineer, Generative AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on work building, deploying, and
+      fine-tuning GenAI and Agentic AI solutions end-to-end. Key
+      requirements include implementing RAG architectures, fine-
+      tuning/distillation techniques, prompt engineering, and
+      production GenAI deployments - all direct work ON AI
+      systems.
+  responsibilities:
+  - Understand client business use cases and technical requirements to convert them
+    into elegant technical designs
+  - Architect and implement scalable GenAI and Agentic AI solutions end-to-end
+  - Define guidelines and benchmarks for non-functional requirements during project
+    implementation
+  - Write and review design documents explaining overall architecture, framework,
+    and high-level design
+  - Review architecture and design for extensibility, scalability, security, and best
+    practices
+  - Develop and design overall solutions for functional and non-functional requirements
+  - Carry out POCs to validate suggested designs and technologies meet requirements
+  - Resolve code review issues through systematic root cause analysis
+  use_cases:
+  - Enterprise GenAI and Agentic AI solutions
+  - RAG architectures for client business use cases
+  - Scalable AI solutions for enterprise workloads
+  - Production AI deployments on cloud platforms
+  - Fine-tuned and distilled AI models for specific use cases
+  skills:
+    genai: [GPT, Llama, Claude, Gemini, Mistral, BERT, Transformers, LangChain, LlamaIndex,
+      LangGraph, LangSmith, RAG, Prompt Engineering, Fine-tuning, Distillation, Model
+        Context Protocol (MCP)]
+    ml: [PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers]
+    web: [FastAPI, React]
+    databases: [Weaviate, Neo4j, SQLAlchemy]
+    data: [Airflow, Kafka, Databricks]
+    cloud: [Azure Machine Learning, Azure AI Foundry, SageMaker, Vertex AI, AWS, Azure]
+    ops: [Docker, Kubernetes, GitHub Actions, Terraform]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8791685'
+  extracted_at: '2026-03-27T15:25:02.337073'

@@ -1,0 +1,57 @@
+company:
+  name: PayPal
+  stage: Public
+  focus: Global digital payments and financial services platform
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, fine-tuning, and
+      deploying advanced AI/ML models including LLMs, foundation
+      models, and agentic AI systems. The job requires hands-on
+      work with transformer architectures, LLM fine-tuning (SFT,
+      RLHF, LoRA), building production-grade Agentic AI
+      applications, and deploying ML models — all core AI-first
+      activities.
+  responsibilities:
+  - Lead the development and optimization of advanced machine learning models including
+    foundation models and LLMs
+  - Oversee preprocessing and analysis of large datasets for model training and evaluation
+  - Deploy and maintain ML solutions in production environments with monitoring and
+    performance evaluation
+  - Design and implement LLM fine-tuning methodologies including SFT, RLHF, DPO, and
+    parameter-efficient methods like LoRA
+  - Build production-grade Agentic AI applications including multi-agent orchestration,
+    tool use, and autonomous reasoning pipelines
+  - Develop large-scale recommender systems for product and content recommendations
+  - Design and implement LLM guardrails including safety filters, output validation,
+    and toxicity detection
+  - Provide technical leadership and mentorship to cross-functional data science and
+    engineering teams
+  use_cases:
+  - Credit risk assessment and financial product recommendations
+  - Payment fraud detection and risk management
+  - Product and content recommendation systems at scale
+  - LLM-powered guardrails for safety and policy enforcement in financial services
+  - Agentic AI for autonomous reasoning and decision-making pipelines
+  - Cross-border payment optimization and customer experience personalization
+  skills:
+    genai: ['LLM fine-tuning (SFT, RLHF, DPO, REFT)', LoRA, QLoRA, Agentic AI, Multi-agent
+        orchestration, LLM guardrails, Prompt engineering]
+    ml: [PyTorch, TensorFlow, scikit-learn, Transformer architectures, Transformers4Rec,
+      Multi-armed bandits, Recommender systems, Foundation model pretraining, Reinforcement
+        learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [A/B testing, Model monitoring]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9025219'
+  extracted_at: '2026-04-22T12:34:10.550271'

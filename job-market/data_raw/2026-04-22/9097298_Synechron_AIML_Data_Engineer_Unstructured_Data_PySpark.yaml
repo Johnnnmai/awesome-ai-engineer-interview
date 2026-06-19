@@ -1,0 +1,188 @@
+job_id: 9097298
+title: "AI/ML Data Engineer | Unstructured Data, PySpark, Python, Vector Search, RAG Architectures, Cloud (GCP/AWS)"
+company: Synechron
+location: Thanisandra Nagavara, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Apache Airflow
+  - AWS
+  - Faiss
+  - GCP
+  - Hugging Face
+  - Langchain
+  - Pyspark
+  - Python
+  - Redis
+  - SQL
+company_size: 12,827 Employees
+description: |
+  Job Summary Synechron is seeking an experienced AI/ML Data
+  Engineer specialized in processing unstructured data and
+  integrating advanced language models within enterprise
+  environments. This role involves designing scalable data
+  pipelines, implementing document cleansing, classification,
+  and enrichment, and supporting Retrieval-Augmented
+  Generation (RAG) architectures. The successful candidate
+  will bridge data engineering and AI development to enable
+  intelligent, AI-first applications that enhance decision-
+  making and operational efficiency.
+  
+  Software Requirements
+  
+  - Required:
+    - Strong proficiency in Python (latest stable version) for
+      building data pipelines and implementing ML workflows
+    - Hands-on experience with PySpark for distributed data
+      processing and large-scale ETL workflows
+    - Experience processing unstructured data such as PDFs, texts,
+      emails, and forms, including OCR and NLP techniques
+    - Familiarity with NLP frameworks and libraries such as
+      Transformers, Hugging Face, LangChain, and FAISS
+    - Working knowledge of vector databases such as Redis or
+      similar for semantic search and retrieval
+    - Understanding of LLM lifecycle management, including fine-
+      tuning, inference, and prompt engineering
+    - Experience working with CI/CD practices, Git, and version
+      control tools for data projects
+  
+  - Preferred:
+    - Experience with cloud platforms like GCP, AWS, or Azure,
+      supporting data pipeline deployment
+    - Knowledge of data quality metrics and data governance best
+      practices
+    - Exposure to data orchestration tools such as Apache Airflow
+      or Prefect
+  
+  Overall Responsibilities
+  
+  - Build and maintain scalable, robust data pipelines for
+    unstructured content, ensuring high data quality and
+    performance efficiency
+  - Develop algorithms for document classification, cleansing,
+    and enrichment to feed AI/ML systems
+  - Integrate data workflows with LLM pipelines supporting RAG
+    architectures for semantic search and Question-Answering
+    (QA) systems
+  - Engineer and optimize vector embeddings, document chunking,
+    and metadata tagging for AI applications
+  - Collaborate closely with AI architects, data scientists, and
+    platform teams to design end-to-end AI solutions
+  - Implement automation, monitoring, and security best
+    practices to ensure system reliability and compliance
+  - Support project lifecycle activities, including proof-of-
+    concept, testing, deployment, and ongoing monitoring
+  - Share domain expertise, conduct knowledge sharing, and
+    mentor team members
+  
+  Technical Skills (By Category)
+  
+  - Programming Languages:Required: Python, PySparkPreferred:
+    SQL, Java, or other scripting languages for automation and
+    integrations
+  
+  - Databases & Data Management:NoSQL (Redis, MongoDB),
+    relational databases (PostgreSQL, MySQL), data tagging,
+    and metadata management
+  
+  - Cloud Technologies:GCP (BigQuery, Dataflow), AWS, or Azure
+    for deployment, scaling, and storage support (preferred)
+  
+  - Frameworks & Libraries:Transformers, Hugging Face,
+    LangChain, FAISS, Spark MLlib, NLP libraries
+  
+  - Development & Orchestration Tools:Git, Jenkins, CI/CD
+    pipelines, Apache Airflow or Prefect (preferred)
+  
+  - Operational & Security Tools:Monitoring platforms (Datadog,
+    Prometheus), security best practices, data encryption
+  
+  Experience Requirements
+  
+  - Minimum of 6 years of professional experience in data
+    engineering, with at least 2 years dedicated to
+    unstructured data processing and AI/ML integration
+  - Proven success building scalable data pipelines supporting
+    NLP, document classification, and semantic search
+  - Hands-on experience with vector databases, embedding models,
+    and retrieval systems supporting RAG workflows
+  - Experience working with cloud platforms and performing data
+    quality audits in enterprise environments
+  - Industry experience in financial services, healthcare, or
+    enterprise AI applications is advantageous
+  
+  Day-to-Day Activities
+  
+  - Design, develop, and enhance data pipelines for unstructured
+    data ingestion, processing, and enrichment
+  - Implement NLP models, document classification, and semantic
+    search capabilities supporting RAG architectures
+  - Collaborate with data scientists, platform engineers, and
+    stakeholders to address data and AI system needs
+  - Troubleshoot data pipeline issues, optimize query
+    performance, and implement best practices for data
+    security and governance
+  - Automate data workflows, manage infrastructure as code, and
+    support cloud deployment strategies
+  - Monitor pipeline performance, ensure data quality, and
+    document architecture and operational workflows
+  
+  Qualifications
+  
+  - Bachelor’s or Master’s degree in Computer Science, Data
+    Science, or a related field
+  - At least 6 years of experience in data engineering, focusing
+    on unstructured data and AI model integration
+  - Strong expertise with Python, PySpark, NLP, and vector
+    retrieval systems
+  - Certifications in cloud platforms or data engineering tools
+    are preferred
+  - Proven ability to deliver high-quality, scalable, and secure
+    data solutions in enterprise settings
+  
+  Professional Competencies
+  
+  - Strong analytical and troubleshooting skills for complex
+    data and AI systems
+  - Effective communication skills to interface with technical
+    and business stakeholders
+  - Leadership qualities to mentor team members and promote best
+    practices in data engineering and AI
+  - Strategic thinking to design scalable, secure, and compliant
+    AI data pipelines
+  - Adaptability to new tools, frameworks, and emerging AI/ML
+    trends
+  - Time management skills to prioritize tasks and deliver
+    solutions efficiently
+  
+  SYNECHRON’S DIVERSITY & INCLUSION STATEMENT
+  
+  
+  Diversity & Inclusion are fundamental to our culture, and
+  Synechron is proud to be an equal opportunity workplace and
+  is an affirmative action employer. Our Diversity, Equity,
+  and Inclusion (DEI) initiative ‘Same Difference’ is
+  committed to fostering an inclusive culture – promoting
+  equality, diversity and an environment that is respectful to
+  all. We strongly believe that a diverse workforce helps
+  build stronger, successful businesses as a global company.
+  We encourage applicants from across diverse backgrounds,
+  race, ethnicities, religion, age, marital status, gender,
+  sexual orientations, or disabilities to apply. We empower
+  our global workforce by offering flexible workplace
+  arrangements, mentoring, internal mobility, learning and
+  development programs, and more.
+  
+  All employment decisions at Synechron are based on business
+  needs, job requirements and individual qualifications,
+  without regard to the applicant’s gender, gender identity,
+  sexual orientation, race, ethnicity, disabled or veteran
+  status, or any other characteristic protected by law.
+  
+  Candidate Application Notice
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-04-20
+url: "https://builtin.com/job/ai-ml-data-engineer-unstructured-data-pyspark-python-vector-search-rag-architectures-cloud-gcp-aws/9097298"
+source: Built In

@@ -1,0 +1,58 @@
+company:
+  name: State Street
+  stage: Public
+  focus: Global financial services and asset management custody
+position:
+  title: Senior Data Engineer – AI & Intelligent Automation, Vice president
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role that sits near AI but does
+      not build, train, fine-tune, or deploy AI/ML models
+      directly. The role focuses on building data pipelines,
+      ensuring data quality, and governing data that feeds into AI
+      and agent-based systems built by others. The AI enablement
+      aspect is about providing high-quality data inputs and
+      governance controls, not hands-on model work.
+  responsibilities:
+  - Design, build, and operate scalable data pipelines supporting operational analytics,
+    reporting, and AI-driven automation across cloud and on-prem environments
+  - Model, store, and serve large-scale datasets optimized for analytical workloads
+    and low-latency consumption by AI and agent-based systems
+  - Act as Data Steward for assigned business services, accountable for data quality,
+    consistency, lineage, lifecycle management, and metadata
+  - Define and enforce data standards, controls, and documentation aligned with governance
+    and platform requirements
+  - Enable AI and intelligent automation by ensuring high-quality, well-governed inputs
+    for training, inference, and decisioning
+  - Define agent action constraints, data quality gates, and human-in-the-loop triggers
+    before automated actions are executed
+  - Establish data quality rules, monitor dashboards, triage issues, and coordinate
+    remediation across teams
+  - Partner with Product Owners, AI engineers, and platform teams to identify and
+    prioritize high-value simplification and automation use cases
+  use_cases:
+  - AI-driven automation of Global Delivery operations in asset servicing
+  - Agent-based systems for operational decisioning in financial services
+  - Intelligent workflow automation across fund accounting, middle office, custody,
+    and payments
+  - Operational analytics and reporting for enterprise-scale data platforms
+  - Data quality governance and auditability for AI-driven operational workflows
+  skills:
+    genai: [Agent-based systems, Human-in-the-loop workflows, Prompt engineering,
+      Generative AI systems]
+    ml: []
+    web: [API integration]
+    databases: [Data warehousing, Data lakes]
+    data: [ETL/ELT, Data pipeline design, Data quality management, Data governance,
+      Workflow orchestration, Data cataloging, Metadata management, Data lineage]
+    cloud: [Cloud platforms]
+    ops: []
+    languages: [SQL, Python]
+    domains: [Financial services domain knowledge]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8674999'
+  extracted_at: '2026-04-22T12:50:15.032847'

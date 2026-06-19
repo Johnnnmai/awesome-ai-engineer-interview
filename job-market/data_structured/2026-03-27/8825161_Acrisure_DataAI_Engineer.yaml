@@ -1,0 +1,53 @@
+company:
+  name: Acrisure
+  stage: Private (grown from $38M to $5B revenue)
+  focus: |-
+    Global fintech providing insurance, reinsurance, payroll,
+    benefits, cybersecurity, and mortgage services
+position:
+  title: Data/AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves developing and deploying AI-
+      driven solutions including agents, automations, and
+      decision-support capabilities. Required qualifications
+      mention building production-grade AI systems, and preferred
+      qualifications include familiarity with RAG, agent design,
+      and human-in-the-loop models, indicating hands-on work with
+      AI/LLM systems.
+  responsibilities:
+  - Design and deliver scalable data pipelines using low-code and code-based tooling
+    to establish a robust, governed data foundation
+  - Translate complex insurance and brokerage workflows into scalable data and technology
+    solutions aligned to business processes
+  - Model core business concepts and relationships in a unified data model using structured
+    objects, links, transformations, and governed logic
+  - Build decision-centric operational applications focused on business value, workflow
+    efficiency, and KPI visibility
+  - Develop and deploy safe, reliable, and auditable AI-driven solutions including
+    agents, automations, and decision-support capabilities
+  - Collaborate with cross-functional technical and business teams to ensure solutions
+    are scalable, reusable, and deliver clear ROI
+  use_cases:
+  - Global KPI reporting and analytics across international entities
+  - Data integration from 20+ systems for unified business intelligence
+  - Workflow automation for insurance and brokerage operations
+  - AI-enabled decision support and operational optimization
+  - Scalable dashboard and reporting solutions
+  skills:
+    genai: [RAG, Agent design, Human-in-the-loop models, Palantir AIP]
+    ml: []
+    web: [API integrations]
+    databases: []
+    data: [Spark, Databricks, Palantir Foundry, Data pipelines, Data modeling]
+    cloud: []
+    ops: [Event-driven architectures, CI/CD, Infrastructure-as-code]
+    languages: [Python, TypeScript, JavaScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8825161'
+  extracted_at: '2026-03-27T13:21:14.455579'

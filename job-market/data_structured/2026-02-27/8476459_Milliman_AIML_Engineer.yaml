@@ -1,0 +1,54 @@
+company:
+  name: Milliman
+  stage: Public
+  focus: Actuarial consulting and healthcare IT solutions
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building, fine-tuning, and
+      deploying AI/ML models including Generative AI and agentic
+      AI systems. The engineer will implement and fine-tune
+      algorithms, deploy models to production, and work hands-on
+      with techniques like deep learning and NLP on healthcare
+      claims data.
+  responsibilities:
+  - Design, develop, and optimize AI/ML models for anomaly detection, fraud detection,
+    and predictive analytics using healthcare claims data
+  - Implement and fine-tune Generative AI and agentic AI algorithms for data synthesis
+    and decision-making
+  - Preprocess, clean, and transform large-scale structured and unstructured healthcare
+    claims data for ML pipelines using PySpark
+  - Develop and fine-tune machine learning models using regression, classification,
+    clustering, and time series analysis
+  - Build and maintain scalable data pipelines on Databricks and Azure
+  - Collaborate with cross-functional teams to integrate AI solutions into existing
+    workflows
+  - Deploy machine learning models into production environments and monitor their
+    performance
+  - Ensure all models and workflows comply with relevant data privacy and security
+    standards (e.g., HIPAA)
+  use_cases:
+  - Healthcare claims anomaly detection
+  - Fraud detection in healthcare insurance
+  - Predictive analytics for healthcare operations
+  - Data synthesis and decision-making using agentic AI
+  - Healthcare IT data warehousing solutions
+  skills:
+    genai: [Generative AI, Agentic AI, GPT models]
+    ml: [PyTorch, TensorFlow, scikit-learn, Natural Language Processing, Deep Learning,
+      VAEs]
+    web: []
+    databases: []
+    data: [PySpark, Pandas, NumPy]
+    cloud: [Azure, Databricks, AWS, GCP]
+    ops: [MLOps, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: [Power BI, Tableau, Matplotlib, Seaborn]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8476459'
+  extracted_at: '2026-03-03T11:39:38.321723'

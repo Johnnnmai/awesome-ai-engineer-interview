@@ -1,0 +1,47 @@
+company:
+  name: Midnite
+  stage: Growth (400K+ users, scaling team)
+  focus: Next-generation sports betting and gaming platform
+position:
+  title: Senior Fullstack Engineer - Admin/AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is primarily a fullstack engineering role focused on
+      building internal back office/admin tools. The AI component
+      is secondary and exploratory — the role involves
+      "contributing to practical AI-enabled features" and
+      "exploring ways AI can improve workflows," but the core work
+      is general fullstack development (Vue, Python, APIs). The
+      candidate doesn't build, train, or deploy AI/ML models; they
+      work near AI as a supporting capability for internal
+      tooling.
+  responsibilities:
+  - Build fullstack features for Midnite's internal back office platform
+  - Own features end-to-end across backend APIs and internal UIs
+  - Write production code across Python backend and Vue + Tailwind frontend
+  - Work closely with Product and Design to implement high-quality internal experiences
+  - Design and build APIs as part of fullstack feature delivery
+  - Contribute to practical AI-enabled features and internal tooling improvements
+  - Explore ways AI and automation can improve engineering workflows and team efficiency
+  - Mentor junior engineers and maintain a high quality bar across the codebase
+  use_cases:
+  - Internal back office admin platform for sports betting operations
+  - AI-enabled improvements to internal tooling and engineering workflows
+  - Automation of engineering team processes and efficiency improvements
+  skills:
+    genai: [AI tooling and automation]
+    ml: []
+    web: [Vue.js, Tailwind CSS, React, REST API design, Angular]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: [Fullstack development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9084666'
+  extracted_at: '2026-04-22T12:48:30.535885'

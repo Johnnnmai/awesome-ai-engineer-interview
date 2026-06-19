@@ -1,0 +1,57 @@
+company:
+  name: Rula
+  stage: Unknown
+  focus: |-
+    Mental healthcare platform providing evidence-based
+    telehealth services
+position:
+  title: Staff AI Engineer - Applied AI (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first: the engineer will own
+      technical direction for AI products, with explicit
+      requirements for hands-on experience building, fine-tuning,
+      deploying, and evaluating foundation models, LLM integration
+      patterns (RAG, agents, tool calling), and AI orchestration
+      frameworks. The position involves directly building and
+      operating AI/ML systems in production.
+  responsibilities:
+  - Own technical direction for high-impact AI products from ideation to production
+    deployment
+  - Design, build, and operate AI systems using foundation models, RAG, agents, and
+    orchestration frameworks
+  - Design and implement evaluation pipelines for human alignment, factual accuracy,
+    and model interpretability
+  - Collaborate across teams to turn product ideas into shipped AI-powered systems
+  - Build and maintain AIOps, data pipelines, evaluation, and observability systems
+    for continuous model improvement
+  - Deliver secure and compliant AI solutions in regulated healthcare environments
+    (HIPAA, GDPR)
+  - Contribute to defining the AI engineering culture, standards, and best practices
+    at Rula
+  - Help raise the bar for how AI is built, evaluated, and operated in production
+  use_cases:
+  - Clinical decision support for mental healthcare providers
+  - AI-powered patient-provider matching and care optimization
+  - Human-in-the-loop systems for mental health workflows
+  - Evidence-based AI tools that improve quality and accessibility of mental health
+    care
+  - NLP and GenAI safety applications in a regulated healthcare environment
+  skills:
+    genai: [RAG, LangChain, LlamaIndex, DSPy, Haystack, OpenAI API, Anthropic API,
+      Agent systems, Tool/function calling, Foundation models]
+    ml: [Model fine-tuning, Model training]
+    web: []
+    databases: [Pinecone, Weaviate, FAISS, Milvus]
+    data: [Data pipelines]
+    cloud: [AWS, GCP, Bedrock, Gemini]
+    ops: [Distributed systems design, AIOps, Evaluation pipelines, Observability systems]
+    languages: [Python, TypeScript, JavaScript, Java, Go]
+    domains: [NLP, Healthcare AI]
+    other: [HIPAA compliance, GDPR compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8921079'
+  extracted_at: '2026-04-22T13:05:17.831792'

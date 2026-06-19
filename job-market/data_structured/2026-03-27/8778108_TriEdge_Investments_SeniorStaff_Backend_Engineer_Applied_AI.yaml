@@ -1,0 +1,59 @@
+company:
+  name: TriEdge Investments
+  stage: Early-stage (implied by "early-stage startup experience" mention and ownership
+    scope)
+  focus: |-
+    AI-native asset management platform for healthcare
+    facilities and multifamily real estate
+position:
+  title: Senior/Staff Backend Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deployment of AI
+      systems including document processing pipelines, extraction
+      agents, entity resolution systems, and conversational
+      interfaces. The engineer will architect and scale AI-powered
+      systems and design multi-step AI workflows that transform
+      unstructured data into structured insights.
+  responsibilities:
+  - Architect and scale AI-powered backend systems for document extraction, entity
+    resolution, retrieval, and structured data generation
+  - Design resilient pipelines, queues, orchestration layers, and failure-handling
+    mechanisms for production AI workflows
+  - Own data modeling and backend design decisions across PostgreSQL and related storage
+    systems for complex financial and operational data
+  - Establish observability, evaluation, and debugging standards for AI systems, including
+    tracing, monitoring, quality analysis, and cost/performance tradeoffs
+  - Improve platform reliability and developer velocity through better abstractions,
+    tooling, and engineering patterns
+  - Design multi-step AI workflows that transform unstructured information into structured,
+    actionable insights
+  - Build conversational interfaces that allow users to interact with complex financial
+    data
+  - Partner with product and frontend teams to design backend capabilities that translate
+    into intuitive product experiences
+  use_cases:
+  - Document processing and extraction for financial and legal data
+  - Entity resolution and data reconciliation across asset management workflows
+  - Conversational interfaces for complex financial data interaction
+  - Risk scoring and multidimensional optimization for asset management
+  - Real-time observability into asset performance and deal progress
+  - AI-driven tax strategies and benchmarking
+  skills:
+    genai: [RAG, LLM agents, Extraction pipelines, Document processing, Document intelligence]
+    ml: []
+    web: []
+    databases: [PostgreSQL, Vector databases]
+    data: []
+    cloud: []
+    ops: [Inngest, Temporal, Step Functions, Workflow orchestration, Monitoring and
+        observability, Queue systems]
+    languages: [TypeScript, Node.js, Python]
+    domains: []
+    other: [OCR, Search systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8778108'
+  extracted_at: '2026-03-27T15:47:03.991522'

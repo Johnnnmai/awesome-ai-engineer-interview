@@ -1,0 +1,56 @@
+company:
+  name: 10x (10xconstruction.ai)
+  stage: null
+  focus: |-
+    Autonomous construction robots with AI-powered perception
+    and reasoning
+position:
+  title: AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work building, training,
+      and deploying AI/ML models including diffusion models,
+      Vision-Language Models, and VLA objectives. The engineer
+      will architect, train, and optimize models for edge
+      deployment on autonomous robots, which is core AI/ML
+      development work.
+  responsibilities:
+  - Research and innovate diffusion-based generative models for photorealistic wall-surface
+    simulation, defect synthesis, and domain adaptation
+  - Architect and train Vision-Language Models (VLMs) and Vision-Language Alignment
+    (VLA) objectives connecting textual work orders, CAD plans, and sensor data to
+    pixel-level understanding
+  - Lead development of auto-annotation pipelines using active learning, self-training,
+    and synthetic data that scale to millions of frames and point-clouds
+  - Optimize and compress models using INT8, LoRA, and distillation for deployment
+    on Jetson-class edge devices under ROS 2
+  - Own the full lifecycle from problem definition, literature review, prototyping,
+    offline/online evaluation, and production hand-off to perception and controls
+    teams
+  - Publish internal tech reports and external conference papers and mentor interns
+    and junior engineers
+  use_cases:
+  - Photorealistic wall-surface simulation and defect synthesis for construction inspection
+  - Connecting textual work orders and CAD plans to pixel-level visual understanding
+  - Scaling auto-annotation to millions of frames and point-clouds with minimal human
+    effort
+  - Edge deployment of AI models on autonomous construction robots
+  - Real-time perception and reasoning on dynamic construction sites
+  skills:
+    genai: [diffusion models, DDPM, LDM, ControlNet, LoRA]
+    ml: [Vision-Language Models, CLIP, BLIP-2, LLaVA, Flamingo, active learning, PyTorch,
+      JAX, PyTorch Lightning, DeepSpeed, CUDA]
+    web: []
+    databases: []
+    data: [Ray]
+    cloud: []
+    ops: [TensorRT, ONNX Runtime]
+    languages: [Python, C++]
+    domains: []
+    other: [ROS 2, Isaac Sim, Nav2, MoveIt 2, Open3D]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7478530'
+  extracted_at: '2026-03-03T12:11:10.543586'

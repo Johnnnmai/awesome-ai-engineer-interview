@@ -1,0 +1,48 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Senior Software Engineer - Build AI Tools (Python, GoLang)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is focused on building a GenAI prompt security
+      platform, which involves working directly with LLM-based
+      applications, adversarial testing, and prompt injection
+      defense. The engineer is designing and developing solutions
+      that protect AI/LLM systems, making this hands-on work with
+      GenAI systems.
+  responsibilities:
+  - Design, develop, optimize, and enhance a GenAI prompt security platform to protect
+    AI/LLM applications from adversarial attacks and prompt injections
+  - Build and automate a security testing framework to validate protection mechanisms
+    for various LLM use cases
+  - Own solutions that operate and perform at scale across the organization
+  - Collaborate with multiple stakeholders across Engineering, Operations, and SRE
+    teams across different time zones
+  - Integrate vendor security products to broaden GenAI security capabilities
+  - Implement secure APIs and libraries for the prompt security platform
+  use_cases:
+  - GenAI prompt security and adversarial attack prevention
+  - Prompt injection detection and mitigation for LLM-based applications
+  - Automated security testing and validation for LLM use cases
+  - Enterprise-wide AI/LLM application protection at scale
+  skills:
+    genai: [LLM prompt engineering, Adversarial testing for LLMs, Generative AI, LLM
+        frameworks]
+    ml: []
+    web: [API design and implementation]
+    databases: []
+    data: []
+    cloud: [Cloud technologies]
+    ops: [Kubernetes, OpenShift, CI/CD, Docker, DevSecOps, MLSecOps, Git, Jenkins,
+      Bitbucket, Maven]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8926576'
+  extracted_at: '2026-04-22T13:33:49.051585'

@@ -1,0 +1,49 @@
+company:
+  name: Trail of Bits
+  stage: Bootstrapped (founded 2012, no investment capital)
+  focus: Cybersecurity research and consulting firm
+position:
+  title: AI Systems Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing and deploying AI-
+      powered workflows, integrating AI capabilities like
+      Claude/OpenAI into production systems, and building AI-
+      powered internal tools. The engineer works hands-on with AI
+      APIs and automation to create solutions, making this an ai-
+      first role despite being focused on internal tooling rather
+      than external products.
+  responsibilities:
+  - Build and deploy internal tools that solve operational challenges across engineering,
+    operations, and go-to-market teams
+  - Design AI-powered workflows that enhance team productivity, knowledge management,
+    and decision-making
+  - Create automation systems that eliminate manual processes and unlock team efficiency
+  - Integrate AI capabilities (like Claude) into existing workflows and communication
+    platforms like Slack
+  - Collaborate directly with the CEO and senior leadership to identify high-impact
+    opportunities and iterate rapidly on solutions
+  - Ship production-ready code that becomes part of Trail of Bits' operational infrastructure
+  use_cases:
+  - Internal workflow automation and productivity enhancement
+  - AI-powered knowledge management and decision support
+  - Slack-based AI assistant integrations for team communication
+  - Elimination of manual operational processes through automation
+  - Internal tooling for engineering, operations, and go-to-market teams
+  skills:
+    genai: [Claude API, OpenAI API, AI integration]
+    ml: []
+    web: [Slack app development, API development]
+    databases: []
+    data: [Data processing]
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [Workflow automation, Web scraping, Cybersecurity tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8900052'
+  extracted_at: '2026-04-22T14:04:22.117989'

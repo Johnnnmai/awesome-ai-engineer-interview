@@ -1,0 +1,152 @@
+job_id: 8816095
+title: HPC - AI/ML Platform Engineer
+company: Ford Motor Company
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ansible
+  - Bash
+  - Grafana
+  - Infiniband
+  - Kubernetes
+  - Linux
+  - Openshift
+  - Prometheus
+  - Python
+  - Rdma
+description: |
+  The selected candidate will join the team responsible for
+  engineering and operating large-scale GPU and compute
+  platforms that power AI/ML and high performance computing
+  workloads across multiple datacenters. The team manages
+  Kubernetes-based GPU environments, cluster infrastructure,
+  and the supporting systems that enable internal engineering
+  teams to train models, run simulations, and develop advanced
+  software at scale.
+  
+  This role focuses on building reliable, scalable GPU
+  platforms and helping internal users successfully run AI/ML
+  and high-performance workloads on Kubernetes and related
+  compute infrastructure.
+  
+  Responsibilities
+  
+  - Design, implement, and support GPU/Kubernetes clusters and
+    supporting infrastructure
+  - Supporting AI/ML training, simulation, and HPC workload
+    customers
+  - Develop automation and tooling for cluster provisioning,
+    configuration management, and platform operations
+  - Collaborate with application and research teams to optimize
+    workloads running on GPU infrastructure
+  - Implement monitoring, observability, and performance tuning
+    across GPU and compute platforms
+  - Troubleshoot infrastructure issues across compute,
+    networking, and container platforms (occasional on-call
+    support)
+  - Contribute to platform reliability, scalability, and
+    operational best practices
+  - Produce clear technical documentation and operational
+    runbooks
+  
+  Qualifications
+  
+  Must Have:
+  
+  - 5+ years of Linux systems engineering or infrastructure
+    experience
+  - 2+ years working with container platforms such as Kubernetes
+    or OpenShift
+    - Familiarity with Kubernetes GPU scheduling and related
+      tooling
+  - Familiarity with CI/CD pipelines and platform engineering
+    practices
+  - Experience operating compute infrastructure for high-
+    performance workloads or large distributed systems
+  - Strong scripting or programming skills (Python, Bash, or
+    similar)
+  - Experience building infrastructure automation and
+    operational tooling
+  - Strong troubleshooting and problem-solving skills across
+    complex infrastructure systems
+  - Ability to communicate clearly with both platform engineers
+    and application teams
+  - Demonstrated ability to manage multiple technical
+    initiatives simultaneously
+  
+  
+  
+  Nice to Have:
+  
+  - Bachelor’s degree in Computer Science, Engineering, or
+    related field, or equivalent experience
+  - Experience with observability platforms such as Prometheus,
+    Grafana, or similar
+  - Experience with infrastructure automation tools (Ansible,
+    Terraform, etc.)
+  - Experience with high-speed networking technologies such as
+    InfiniBand or RDMA
+  
+  
+  
+  You may not check every box, or your experience may look a
+  little different from what we've outlined, but if you think
+  you can bring value to Ford Motor Company, we encourage you
+  to apply!
+  
+  As an established global company, we offer the benefit of
+  choice. You can choose what your Ford future will look like:
+  will your story span the globe, or keep you close to home?
+  Will your career be a deep dive into what you love, or a
+  series of new teams and new skills? Will you be a leader, a
+  changemaker, a technical expert, a culture builder…or all of
+  the above? No matter what you choose, we offer a work life
+  that works for you, including:
+  
+  - Immediate medical, dental, and prescription drug coverage
+  - Flexible family care, parental leave, new parent ramp-up
+    programs, subsidized back-up child care and more
+  - Vehicle discount program for employees and family members,
+    and management leases
+  - Tuition assistance
+  - Established and active employee resource groups
+  - Paid time off for individual and team community service
+  - A generous schedule of paid holidays, including the week
+    between Christmas and New Year’s Day
+  - Paid time off and the option to purchase additional vacation
+    time.
+  
+  For a detailed look at our benefits, click here: Benefit
+  Summary
+  
+  This position is a salary grade 8.
+  
+  This position is a salary grade 8 and ranges from
+  $113,580-190,500.
+  
+  
+  
+  *Visa Sponsorship is not provided for this role*
+  
+  Candidates for positions with Ford Motor Company must be
+  legally authorized to work in the United States.
+  Verification of employment eligibility will be required at
+  the time of hire.
+  
+  We are an Equal Opportunity Employer committed to a
+  culturally diverse workforce. All qualified applicants will
+  receive consideration for employment without regard to race,
+  religion, color, age, sex, national origin, sexual
+  orientation, gender identity, disability status or protected
+  veteran status. In the United States, If you need a
+  reasonable accommodation for the online application process
+  due to a disability, please call 1-888-336-0660.
+  
+  
+  #LI-Remote
+  
+  #LI-GH2
+posted_date: 2026-03-19
+url: "https://www.builtinla.com/job/hpc-ai-ml-platform-engineer/8816095"
+source: Built In

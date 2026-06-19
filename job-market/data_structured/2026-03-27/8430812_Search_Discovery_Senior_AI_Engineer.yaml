@@ -1,0 +1,57 @@
+company:
+  name: Search Discovery
+  stage: Unknown
+  focus: |-
+    Data, cloud, and AI consulting helping companies turn raw
+    data into decisions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI/ML
+      systems, including RAG systems, LLM applications, and AI
+      agents. The engineer will architect LLMOps workflows,
+      develop production LLM services, and implement evaluation
+      frameworks for AI models - all hands-on work with AI systems
+      themselves.
+  responsibilities:
+  - Lead implementation of rigorous evaluation frameworks to monitor model performance,
+    drift, and cost in real-time
+  - Architect and develop high-performance backend services and APIs using Python
+    (FastAPI) to serve large language models at scale
+  - Design advanced Retrieval-Augmented Generation (RAG) systems, selecting and managing
+    vector databases and optimizing embedding strategies
+  - Establish comprehensive model observability and guardrail systems to monitor performance,
+    detect drift, and implement safety filters
+  - Build robust integration layers connecting AI agents securely to external enterprise
+    systems, CRMs, and legacy databases
+  - Conduct code reviews, provide technical guidance, and foster continuous learning
+    within the engineering team
+  - Collaborate with infrastructure teams to define deployment strategies ensuring
+    solutions scale dynamically
+  - Define end-to-end architecture for AI products on Google Cloud Platform ensuring
+    high availability and security
+  use_cases:
+  - Enterprise AI product development and deployment
+  - Retrieval-Augmented Generation (RAG) systems for enterprise clients
+  - AI agent integration with enterprise systems and CRMs
+  - Real-time model monitoring and safety guardrails
+  - Scalable LLM serving infrastructure for commercial applications
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, Prompt engineering, LoRA, PEFT, RAG,
+      Model fine-tuning]
+    ml: []
+    web: [FastAPI, REST, GraphQL, gRPC]
+    databases: [Pinecone, Weaviate, PostgreSQL, Vector databases]
+    data: []
+    cloud: [Google Cloud Platform]
+    ops: [LLMOps, Model registry and versioning, Git, Inference optimization]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8430812'
+  extracted_at: '2026-03-27T13:30:52.025029'

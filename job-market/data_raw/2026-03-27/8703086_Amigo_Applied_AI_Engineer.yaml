@@ -1,0 +1,175 @@
+job_id: 8703086
+title: Applied AI Engineer
+company: Amigo
+location: New York, USA
+work_type: FULL_TIME
+level: Mid level
+skills:
+  - Ai Platforms
+  - External Apis
+  - Llms
+  - Python
+company_size: 30 Employees
+description: |
+  About Amigo
+  
+  Amigo partners with healthcare organizations to deploy
+  robust AI infrastructure that directly serves patients and
+  providers. Our agents handle clinical workflows and patient
+  engagement across the entire journey: pre-visit intake, care
+  navigation, post-visit care plans, patient monitoring, and
+  more.
+  
+  We own outcomes, not just delivery. For our customers, we're
+  responsible for agent performance: clinical safety,
+  continuous improvement, measurable patient outcomes. Agents
+  operate autonomously within bounded clinical domains, with
+  clear scope and handoff protocols. That scope expands as we
+  validate performance across populations.
+  
+  We're backed by Tier 1 investors like General Catalyst, GSV
+  Ventures, SVA, and CohoVC. Our work is validated with
+  leading academic medical institutions. Our agents have
+  reached 3M+ patient encounters and are on track to 10x this
+  year.
+  
+  About this role
+  
+  As an Agent Engineer at Amigo, you'll implement production
+  AI agents using our architecture and verification framework.
+  You'll work directly with clinical teams and enterprise
+  customers to build agents that handle complex, specialized
+  services with measurable reliability. This role requires
+  strong technical implementation skills combined with the
+  ability to translate domain expertise into working systems
+  that maintain perfect compliance in regulated environments.
+  
+  What you'll do
+  
+  - Implement context graphs that enable agents to select the
+    right reasoning mode (lookup, pattern recognition,
+    exploration) based on problem complexity
+  - Build and optimize agent configurations, including static
+    personas, dynamic behaviors, and functional memory systems
+  - Design bounded Operational Patient Domains (OPDs) with
+    explicit inclusions, exclusions, capabilities, and
+    escalation rules
+  - Implement verification loops and simulation-based testing to
+    validate agent performance against customer KPIs
+  - Write Python code for tool integrations and API
+    orchestration within customer environments
+  - Build evaluation suites that gate deployments using
+    customer-specific success metrics
+  - Collaborate with domain experts through structured
+    interviews to capture reasoning patterns and clinical
+    protocols
+  - Support technical power users through git-based workflows
+    for rapid iteration
+  - Implement adversarial testing to systematically identify and
+    prevent failure modes
+  - Ensure agents maintain audit-ready provenance with version
+    pinning and evidence links
+  - Contribute to systematizing implementation patterns across
+    different problem domains
+  
+  What we're looking for
+  
+  - 2+ years of production software engineering experience
+  - Strong Python skills including proper use of typing, and
+    experience building highly reliable systems that interact
+    with external APIs (schema design, retry strategies, error
+    propagation)
+  - Experience with LLMs, prompt engineering, and building on AI
+    platforms
+  - Ability to implement systems with strict reliability
+    requirements
+  - Understanding of testing and verification methodologies
+  - Experience working directly with customers or stakeholders
+    to deliver technical solutions
+  - Familiarity with git workflows and collaborative development
+  - Strong debugging and problem-solving skills for complex
+    systems
+  - Ability to balance theoretical concepts with practical
+    implementation constraints
+  - Clear technical communication for both engineering and non-
+    technical audiences
+  
+  Nice to have
+  
+  - Experience in regulated industries (healthcare, finance,
+    legal)
+  - Background with simulation, synthetic data, or evaluation
+    frameworks
+  - Understanding of distributed systems and service-oriented
+    architectures
+  - Experience with observability and monitoring in production
+    environments
+  - Familiarity with compliance requirements (HIPAA, SOC 2,
+    GDPR)
+  
+  
+  
+  Benefits
+  
+  Health & Wellness
+  
+  - Comprehensive health, dental, and vision insurance
+  - Daily catered lunch and dinner
+  - Mental health support and wellness coaching
+  - Flexible wellness stipend for fitness, therapy, or personal
+    growth
+  
+  Growth & Development
+  
+  - Annual learning budget for courses, books, or conferences
+  - Conference attendance budget for professional development
+  - Annual team offsite
+  - Academic collaboration opportunities
+  - Unlimited PTO
+  
+  Our Core Values
+  
+  - Patients Win, We WinIf patients aren't getting better care,
+    we haven't earned the right to scale. Every internal
+    decision gets pressure-tested: does this make patients'
+    lives better? If we can't draw the line, we question why
+    we're doing it.
+  - High Standards, High CareWe hold a high bar for the team
+    because patients are counting on us to get this right. But
+    high standards only work with genuine investment in each
+    other. You can take risks, admit mistakes, and challenge
+    ideas—not despite our standards, but because of them.
+  - Thoughtful UrgencyWe move fast by default, but speed without
+    judgment is recklessness. The discipline is knowing which
+    decisions are reversible vs. not. In healthcare AI, the
+    companies that win will be fast everywhere they can be and
+    careful everywhere they must be. We build the muscle to do
+    both.
+  - Intensely MeasuredWe instrument patient outcomes, provider
+    ROI, system performance, and clinical accuracy. But data
+    without action is surveillance. Every metric should have
+    an owner, a threshold, and a response plan. If we're
+    measuring something but never acting on it, we stop
+    measuring it.
+  
+  Who Builds With Us
+  
+  - Low ego: Politics and territory don't interest you. The best
+    ideas win, regardless of who has them.
+  - Direct: You say the hard thing, challenge ideas openly, and
+    commit fully once decided.
+  - High agency: You thrive on trust rather than instruction.
+    When you see something is broken, you fix it. You don’t
+    file tickets and wait for someone else.
+  - Bar of excellence: You hold yourself to a bar most people
+    wouldn't, and you want teammates who do the same.
+  - Skeptical: You push back on rules that don’t make sense and
+    question assumptions that haven’t earned their place.
+industries:
+  - Artificial Intelligence
+  - Enterprise Web
+  - Healthtech
+  - Software
+posted_date: 2026-03-10
+url: "https://builtin.com/job/applied-ai-engineer/8703086"
+source: Built In

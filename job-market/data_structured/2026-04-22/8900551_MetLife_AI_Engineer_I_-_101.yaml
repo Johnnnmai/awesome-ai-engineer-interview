@@ -1,0 +1,49 @@
+company:
+  name: MetLife
+  stage: Public
+  focus: Global financial services and insurance provider
+position:
+  title: AI Engineer I - 10.1
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, designing, training,
+      and deploying AI/ML models including LLMs, deep learning
+      models, and RAG architectures. The engineer architects core
+      AI infrastructure and integrates AI capabilities into
+      applications, making this a hands-on AI model development
+      role.
+  responsibilities:
+  - Develop scalable enterprise AI capabilities that support the AI platform
+  - Design and train machine learning and deep learning models for business use cases
+    including SLMs, computer vision, predictive analytics, and recommendation systems
+  - Enable seamless integration of AI capabilities into business applications and
+    workflows through APIs, SDKs, and microservices
+  - Collaborate with cross-functional partners across Business, Technology, Operations,
+    and D&A capabilities
+  - Produce clear technical documentation and participate in knowledge sharing to
+    mentor team members
+  - Evaluate and prototype emerging AI/ML technologies for inclusion in the enterprise
+    platform
+  use_cases:
+  - Small language models for enterprise applications
+  - Computer vision solutions
+  - Predictive analytics for insurance and financial services
+  - Recommendation systems
+  - Generative AI solutions using large language models with RAG architectures
+  skills:
+    genai: [RAG, LLM deployment]
+    ml: [Scikit-learn, TensorFlow, PyTorch, Spacy, Transformers, OCR, Feature engineering]
+    web: [APIs, Microservices]
+    databases: [Vector databases]
+    data: [Statistics, Predictive analytics]
+    cloud: [Azure]
+    ops: [Docker, Kubernetes]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8900551'
+  extracted_at: '2026-04-22T13:57:32.122916'

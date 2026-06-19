@@ -1,0 +1,53 @@
+company:
+  name: Tietoevry
+  stage: Public
+  focus: IT consulting and technology services
+position:
+  title: Senior AI Developer- Tieto Tech Consulting (m/f/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on developing and deploying AI solutions
+      including generative AI, conversational AI, and predictive
+      AI systems. The engineer will work directly with LLM
+      frameworks (LangChain, Claude, Amazon Q), model deployment
+      (SageMaker), and neural network architectures - building AI
+      systems, not just supporting them.
+  responsibilities:
+  - Develop and deploy AI solutions across generative AI, conversational AI, and predictive
+    AI domains
+  - Build scalable AI-powered applications using Python, LangChain, and cloud services
+  - Design and implement neural network architectures and machine learning models
+  - Deploy and manage production AI models using AWS SageMaker and related services
+  - Perform data quality analysis, profiling, and cleansing for AI systems
+  - Monitor and optimize production model performance
+  - Collaborate with cross-functional teams to deliver AI solutions
+  - Apply AI ethics and responsible AI practices including model interpretability
+    and bias mitigation
+  use_cases:
+  - Generative AI applications
+  - Conversational AI and chatbot systems
+  - Predictive AI and forecasting solutions
+  - Enterprise AI solutions hosted on AWS
+  - Large-scale AI systems in production environments
+  skills:
+    genai: [LangChain, Claude API, Amazon Q, conversational AI]
+    ml: [PyTorch, TensorFlow, Keras, scikit-learn, NumPy, transformer models, neural
+        network architectures, model training, reinforcement learning, GANs, few-shot
+        learning]
+    web: [Flask, FastAPI, Streamlit, REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS, AWS Bedrock, AWS SageMaker, AWS EC2, AWS Lambda, AWS S3, AWS DynamoDB,
+      AWS OpenSearch, AWS Athena, AWS Glue, AWS Kendra, Amazon CloudWatch, Google
+        Cloud, Microsoft Azure]
+    ops: [Docker, Kubernetes, MLOps, model deployment, model monitoring, CI/CD, DevOps,
+      model optimization, quantization, pruning, model distillation]
+    languages: [Python, C++, Java, Rust, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8261464'
+  extracted_at: '2026-03-03T11:15:43.157051'

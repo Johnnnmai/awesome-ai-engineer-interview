@@ -1,0 +1,51 @@
+company:
+  name: Riot Games
+  stage: Public
+  focus: Video game development (League of Legends, Valorant, etc.)
+position:
+  title: Senior Software Engineer, Gameplay Systems & AI - Unpublished R&D Product
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and implementing gameplay AI
+      systems that power NPC characters, including combat AI,
+      coordination, and dynamic behaviors. While this is game AI
+      (not ML/GenAI), it is still hands-on AI systems development
+      — building the intelligence/behavior systems that bring NPCs
+      to life. The role directly builds and evolves AI systems,
+      making it ai-first.
+  responsibilities:
+  - Design and implement scalable gameplay AI systems powering enemies and player-facing
+    challenges with strong performance and multiplayer integrity
+  - Extend and evolve gameplay AI systems by building features on existing frameworks
+    to support combat, coordination, and challenge needs
+  - Partner with designers and technical designers to enable gameplay exploration
+    while maintaining system integrity and performance
+  - Identify technical risks in AI and gameplay systems and collaborate with technical
+    leaders on sustainable architectural solutions
+  - Contribute to adjacent gameplay domains such as dynamic level systems and other
+    core gameplay systems
+  - Mentor peers across disciplines on gameplay AI, systemic design, and technical
+    problem-solving
+  use_cases:
+  - NPC behavior and enemy AI for an unpublished R&D game product
+  - Combat AI systems for player-facing challenges
+  - Scalable gameplay frameworks enabling designers to create character behaviors
+  - Dynamic level and encounter systems
+  - Multiplayer game AI with network integrity
+  skills:
+    genai: []
+    ml: [Unreal Engine AI systems]
+    web: [Multiplayer/networked game systems]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Performance optimization and debugging]
+    languages: [C++]
+    domains: [Gameplay AI development, Game development]
+    other: [System architecture design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9007523'
+  extracted_at: '2026-04-22T13:30:33.525293'

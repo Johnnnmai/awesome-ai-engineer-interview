@@ -1,0 +1,142 @@
+job_id: 8894981
+title: "Senior Software Engineer, Data & AI"
+company: Vendelux
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Airflow
+  - AWS
+  - Azure
+  - Dagster
+  - GCP
+  - Huggingface
+  - Langchain
+  - Python
+  - SQL
+company_size: 60 Employees
+description: |
+  Vendelux is transforming how companies discover, evaluate,
+  and maximize the impact of events.
+  
+  Event marketers are the driving force behind pipeline and
+  brand — yet events remain one of the least optimized and
+  most opaque marketing channels. Vendelux changes that. We
+  provide the system of record for event marketing, giving
+  teams the data and insights they need to make smarter, more
+  strategic decisions.
+  
+  Our AI-powered platform delivers proprietary insights across
+  250,000+ events, helping high-growth companies identify
+  where their ideal customers will be, maximize ROI, and turn
+  events into a scalable growth channel. Customers often
+  describe Vendelux as an event marketer’s dream. A key part
+  of this is our growing network of event organizer
+  partnerships — where organizers share first-party attendee
+  and sponsorship data, and in return gain access to valuable
+  market insights.
+  
+  In addition, Vendelux Meetings helps customers turn event
+  insights into action — using AI to identify high-value
+  attendees and automatically book 1:1 meetings with the right
+  prospects at conferences. This allows teams to maximize
+  pipeline generation and make every event materially more
+  impactful.
+  
+  Founded in 2021, Vendelux is a Series A SaaS company backed
+  by leading investors including FirstMark, with a recent $14M
+  round. Our team brings experience from companies like Bain,
+  ZoomInfo, Shutterstock, Compass, Forter, Airbnb, and more.
+  
+  ________________
+  
+  We’re looking for a Senior Engineer, Data & AI who thrives
+  at the intersection of software engineering, data
+  engineering, and applied AI to build production-grade
+  systems. You’ll develop, deploy, and scale features that sit
+  at the core of our product. This role is perfect for someone
+  motivated more by impact than method, loves to solve data
+  problems using whatever means necessary, and is eager to see
+  their output shape the user experience.
+  
+  Key Responsibilities
+  
+  - Design & Build AI-Powered Features: Architect, implement,
+    and ship data-driven product features, always starting
+    with the customer problem first. From prototyping through
+    production, you’ll apply the right level of technology
+    (whether simple heuristics or advanced AI) to deliver
+    impact.
+  - Build for Production: Build maintainable and scalable
+    systems, including writing clean, testable code,
+    integrating with new and existing data pipelines, and
+    deploying solutions and services into cloud environments.
+  - End to End Solution Delivery: Operate as an end-to-end
+    developer in a fast paced startup. This involves
+    identifying opportunities, prototyping solutions, securing
+    stakeholder support, and productionalizing features that
+    deliver measurable business value.
+  - Applied AI Innovation: Research and apply modern methods (AI
+    agents, LLMs, RAG, embeddings, supervised/unsupervised
+    learning) to power new product capabilities, prioritizing
+    impact and speed over perfection.
+  - Enhance User Experience Through AI: Translate business
+    problems into AI solutions that improve user workflows,
+    accelerate insights, and drive measurable value.
+  - Collaborate Cross-Functionally: Work with business
+    stakeholders and other engineers to turn customer problems
+    into technical requirements and impactful features.
+  - Promote Best Practices: Establish and evangelize standards
+    for AI/ML engineering and data quality across the team.
+  
+  Qualifications
+  
+  - 5+ years of professional experience in software engineering
+    or data engineering, with at least 3+ years building
+    AI/ML-driven products.
+  - Strong programming skills in Python and proficiency in SQL.
+  - Experience with modern AI frameworks (eg HuggingFace,
+    LangChain, etc.) and designing data pipelines (Airflow,
+    Dagster, or equivalent),
+  - Solid understanding of cloud-based infrastructure (AWS, GCP,
+    or Azure).
+  - Experience applying LLMs and generative AI in production,
+    including prompt engineering, RAG, and LLM deployment.
+  - Strong grasp of fundamental data science and machine
+    learning techniques, with the ability to balance research
+    and engineering tradeoffs.
+  - Demonstrated ability to translate business problems into
+    data solutions that drive business value.
+  - Proven track record of shipping user-facing features with
+    measurable impact.
+  - Excellent written and verbal communication skills; ability
+    to collaborate across data, engineering, and product
+    teams.
+  - Startup experience preferred.
+  
+  Why Join Us
+  
+  - Direct product impact: Your models will shape how event
+    marketers discover, connect, and measure ROI.
+  - Product market fit: Customers love our platform; now it’s
+    about enhancing the user experience and scaling with AI.
+  - Ownership: You’ll set the standard for how we build,
+    evaluate, and ship AI at Vendelux.
+  - Growth: Work on cutting-edge problems in LLMs,
+    recommendation systems, and applied ML.
+  - Team: Join a collaborative, ambitious group with backgrounds
+    at top tech and consulting firms.
+  
+  Not all candidates will check all of the requirements listed
+  above and that’s ok! We are open to great people from non-
+  traditional backgrounds.
+  
+  Vendelux is proud to be an equal opportunity workplace. We
+  are committed to equal opportunity regardless of race,
+  color, ancestry, religion, gender, gender identity, parental
+  or pregnancy status, national origin, sexual orientation,
+  age, citizenship, marital status, disability, or veteran
+  status.
+posted_date: 2026-04-22
+url: "https://builtin.com/job/senior-software-engineer-data-ai/8894981"
+source: Built In

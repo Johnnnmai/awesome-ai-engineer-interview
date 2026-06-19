@@ -1,0 +1,46 @@
+company:
+  name: TaskUs
+  stage: Public
+  focus: |-
+    Outsourced digital services and customer experience for tech
+    companies
+position:
+  title: Backend / Platform Engineer (AI Systems)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role builds backend platform services and APIs that
+      power AI workflows, but does not involve directly building,
+      training, fine-tuning, or deploying AI/ML models. The
+      engineer creates the infrastructure and orchestration layers
+      that connect AI capabilities to applications, which is
+      enabling/support work for AI systems rather than hands-on
+      AI/ML work.
+  responsibilities:
+  - Design and build scalable backend services and APIs
+  - Develop microservices for QA workflows, scoring, and insights delivery
+  - Integrate with internal and external systems (CRM, contact center, etc.)
+  - Build orchestration layers for AI workflows
+  - Ensure system performance, reliability, and scalability
+  - Collaborate with AI and data teams for seamless integration
+  use_cases:
+  - AI workflow orchestration for enterprise deployments
+  - QA workflow automation and scoring
+  - Insights delivery platform
+  - Integration layer connecting AI capabilities to CRM and contact center systems
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs, gRPC, Microservices architecture]
+    databases: []
+    data: [Kafka]
+    cloud: [AWS Lambda, AWS ECS/EKS, AWS API Gateway, AWS, AWS SNS/SQS]
+    ops: []
+    languages: [Python, Node.js, Java]
+    domains: []
+    other: [Distributed systems design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9012567'
+  extracted_at: '2026-04-22T13:48:58.678794'

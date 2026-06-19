@@ -1,0 +1,56 @@
+company:
+  name: eClerx LLC
+  stage: Public
+  focus: |-
+    Business process management, automation, and analytics
+    services for enterprises
+position:
+  title: Junior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building agentic AI workflows and
+      GenAI tools (RAG pipelines, agentic orchestration, prompt
+      engineering, tool calling) for financial markets operations.
+      The engineer is hands-on with LLMs, agents, and production
+      GenAI systems, making this clearly an ai-first role.
+  responsibilities:
+  - Build agentic AI workflows for exception triage, document checks, workflow routing,
+    and knowledge-assisted decisioning in financial operations
+  - Build GenAI features including summarization, classification, extraction, drafting,
+    and Q&A with focus on reliability and traceability
+  - Create RAG pipelines to ground LLM outputs in approved knowledge sources such
+    as policies, SOPs, and regulatory artifacts
+  - Implement tool-calling and function-calling patterns for agents to interact with
+    internal systems and produce structured outputs
+  - Build backend services and APIs that package AI capabilities into reusable components
+  - Design evaluation harnesses and test suites including golden datasets, regression
+    tests, and prompt/version tracking
+  - Implement guardrails and human-in-the-loop checkpoints for compliance-sensitive
+    decisions
+  - Collaborate with domain SMEs in ops, compliance, and risk to translate requirements
+    into measurable system behavior
+  use_cases:
+  - Exception triage and document checking for financial operations
+  - Workflow routing and knowledge-assisted decisioning
+  - Summarization, classification, and extraction for financial documents
+  - Q&A and drafting for financial operations
+  - Intelligent document processing with PDF parsing and field validation
+  - Financial crime compliance (KYC/AML) support
+  skills:
+    genai: [LangChain, LangGraph, RAG, Prompt engineering, Agentic workflows, Function
+        calling / Tool calling, Structured outputs]
+    ml: [PyTorch, TensorFlow, JAX]
+    web: [REST APIs, FastAPI, React, Next.js]
+    databases: [FAISS]
+    data: [JSON]
+    cloud: []
+    ops: [Git, CI/CD]
+    languages: [Python, Java, TypeScript, JavaScript, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8981900'
+  extracted_at: '2026-04-22T12:59:55.035557'

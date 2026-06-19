@@ -1,0 +1,51 @@
+company:
+  name: Epiq
+  stage: Acquired startup within larger company
+  focus: AI platform for corporate legal departments and law firms
+position:
+  title: Legal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves actively building AI systems for legal
+      workflows, including generating and annotating training
+      datasets, defining model requirements with ML teams,
+      translating processes into agentic patterns, and prototyping
+      with AI tools. The position requires hands-on work shaping
+      AI capabilities, not just supporting infrastructure.
+  responsibilities:
+  - Design and synthesize legal corpora for litigation, investigations, compliance,
+    and corporate workflows
+  - Generate and annotate training and benchmarking datasets for AI models
+  - Partner with ML teams to define task specifications, evaluation metrics, and model
+    requirements
+  - Translate legal processes into structured workflows and agentic patterns for the
+    AI platform
+  - Critically evaluate proposed features for legal accuracy, feasibility, and defensibility
+  - Join client conversations and demos to translate technical concepts for legal
+    audiences
+  - Use AI tools and scripting to prototype workflows and simulate datasets
+  - Contribute to documentation, testing scenarios, and internal tools
+  use_cases:
+  - Litigation support and document review
+  - Legal investigations and e-discovery
+  - Compliance and regulatory workflows
+  - Privilege review automation
+  - Early case assessment (ECA)
+  - Corporate legal knowledge management
+  skills:
+    genai: [prompt engineering, LLMs]
+    ml: [synthetic data generation, ML/AI concepts]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [scripting, Python]
+    domains: [e-discovery platforms, litigation, legal investigations, compliance]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8339704'
+  extracted_at: '2026-03-03T12:46:13.322319'

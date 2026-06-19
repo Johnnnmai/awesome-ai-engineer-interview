@@ -1,0 +1,53 @@
+company:
+  name: Ameriprise Financial Services, LLC
+  stage: Public
+  focus: Diversified financial services and asset management
+position:
+  title: Senior Artificial Intelligence Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      integrating LLMs into production applications, including RAG
+      implementations, prompt engineering, fine-tuning, and
+      generative AI model evaluation. The engineer is hands-on
+      with AI models and frameworks, not just supporting
+      infrastructure for others.
+  responsibilities:
+  - Design, develop, and deploy technology solutions integrated with LLMs for distribution,
+    investments, and investment operations
+  - Evaluate and implement state-of-the-art generative AI models and frameworks and
+    build proof-of-concept solutions
+  - Partner with stakeholders to translate business requirements into technical solutions
+    and communicate complex AI concepts
+  - Work cross-functionally with data engineers, technologists, and product owners
+    to architect scalable production-grade AI systems
+  - Optimize existing workflows and tools through AI automation while ensuring performance,
+    security, and compliance
+  - Perform code reviews and contribute to technical architecture and documentation
+  - Engineer a technology stack to revolutionize insight generation through AI-powered
+    analytics
+  - Accelerate the adoption of generative AI across the asset management value chain
+  use_cases:
+  - AI-powered analytics for investment insight generation
+  - Workflow automation for complex investment processes
+  - Generative AI integration across asset management distribution and investments
+  - Automated investment operations workflows
+  - LLM-powered solutions for financial planning and advisory
+  skills:
+    genai: [Prompt Engineering, Fine-tuning LLMs, RAG, Generative AI Models, Responsible
+        AI, LLM Integration]
+    ml: []
+    web: [React, RESTful APIs, Microservices]
+    databases: [Vector Databases, SQL]
+    data: [Data Engineering]
+    cloud: [AWS, Cloud-native Architectures]
+    ops: [Docker, CI/CD, Git, Monitoring and Observability]
+    languages: [Python, JavaScript]
+    domains: []
+    other: [Web Scraping, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8918962'
+  extracted_at: '2026-04-22T13:46:32.989564'

@@ -1,0 +1,55 @@
+company:
+  name: Experian
+  stage: Public
+  focus: |-
+    Global data and technology company providing credit,
+    analytics, and fraud prevention services
+position:
+  title: AI Dev Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves developing, deploying, and maintaining
+      Agentic AI solutions including AI agents (CrewAI), GenAI
+      workflows, and LLM outputs. The engineer works directly with
+      LLM-based systems, manages MCP tool definitions, optimizes
+      prompts, and ensures AI agents operate reliably in
+      production.
+  responsibilities:
+  - Develop, test, and deploy AI/ML models and services for real-world applications
+  - Build data pipelines, integrate APIs, and implement MLOps practices for production
+    workflows
+  - Monitor performance, reliability, and behavior of Agentic AI solutions across
+    production environments
+  - Resolve incidents involving LLM outputs, agent flows, RPA steps, and orchestration
+    failures
+  - Review logs and telemetry to identify performance bottlenecks and recommend improvements
+    to prompts and workflows
+  - Support deployments of AI agents, MCP tool definitions, and workflow changes
+  - Maintain operational documentation, troubleshooting guides, and system behavior
+    expectations
+  - Collaborate with AI Engineers, RPA teams, Product Owners, and Security for end-to-end
+    solution stability
+  use_cases:
+  - Agentic AI workflows for Experian's financial services ecosystem
+  - Credit and lending decision automation
+  - Fraud detection and prevention systems
+  - Marketing and customer analytics solutions
+  - Healthcare data processing automation
+  skills:
+    genai: [CrewAI, LangChain, MCP (Model Context Protocol), GenAI workflows, LLM
+        systems, Prompt engineering, RAG]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Airflow, Data pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, Docker, Monitoring and observability, CI/CD]
+    languages: [Python, PowerShell, SQL]
+    domains: []
+    other: [UiPath, Automation Anywhere, RPA, Agile methodologies]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8492937'
+  extracted_at: '2026-03-03T12:43:21.897439'

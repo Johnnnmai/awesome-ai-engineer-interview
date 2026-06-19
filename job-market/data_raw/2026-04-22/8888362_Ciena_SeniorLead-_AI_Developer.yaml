@@ -1,0 +1,103 @@
+job_id: 8888362
+title: Senior/Lead- AI Developer
+company: Ciena
+location: Gurugram, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Apache Airflow
+  - Apache Kedro
+  - AWS
+  - Azure
+  - Chromadb
+  - Clickhouse
+  - GCP
+  - Gpt Models
+  - Langchain
+  - Langgraph
+company_size: 9,561 Employees
+description: |
+  As the global leader in high-speed connectivity, Ciena is
+  committed to a people-first approach. Our teams enjoy a
+  culture focused on prioritizing a flexible work environment
+  that empowers individual growth, well-being, and belonging.
+  We’re a technology company that leads with our
+  humanity—driving our business priorities alongside
+  meaningful social, community, and societal impact.
+  
+  Are you ready to innovate and create transformative AI
+  solutions? Blue Planet, a division of Ciena, is seeking a
+  dynamic AI Engineer to drive advancements in AI technologies
+  and frameworks, contributing to cutting-edge developments
+  across diverse domains.
+  
+  How You Will Contribute
+  
+  - Design and develop AI agents using frameworks like
+    LangChain, LangGraph, Langflow, and MCP Servers.
+  - Fine-tune and optimize large language models (LLMs) such as
+    GPT models, Llama, and others for diverse applications.
+  - Implement Retrieval-Augmented Generation (RAG) techniques
+    and integrate vector databases like Qdrant and ChromaDB.
+  - Enhance AI agent operations with tools like langfuse and
+    litellm, ensuring robust security and guardrails.
+  - Leverage cloud platforms such as AWS, Google Cloud, and
+    Azure for scalable AI solution deployment.
+  - Build and manage databases using Postgres, Neo4j, and
+    Clickhouse for efficient data handling.
+  - Utilize technologies like Apache Airflow, Redis, Mlflow,
+    Minio, Apache Kedro, and PySpark for workflow optimization
+    and data processing.
+  
+  The Must Haves
+  
+  - 5+ years of experience in AI engineering with proficiency in
+    Python.
+  - Expertise in AI frameworks such as LangChain and LangGraph,
+    or similar agentic AI frameworks.
+  - Proven experience in fine-tuning large language models
+    (LLMs) and implementing Retrieval-Augmented Generation
+    (RAG) techniques.
+  - Strong knowledge of vector databases and AI agent security
+    protocols.
+  - Familiarity with cloud platforms and database technologies.
+  - Experience with prompt engineering techniques and CI/CD
+    processes.
+  - Background in leveraging tools like Apache Airflow, Redis,
+    Mlflow, Minio, and Apache Kedro.
+  
+  Nice to Haves
+  
+  - Experience with PySpark for large-scale data processing.
+  - Knowledge of emerging AI frameworks and technologies.
+  - Advanced understanding of AI agent optimization and
+    collaborative systems.
+  - Exposure to cloud-native tools and services for AI
+    deployment.
+  - Familiarity with advanced database architectures and tools.
+  - Interest in contributing to open-source AI initiatives.
+  - Passion for driving innovation in AI technologies.
+  
+  #LI-FA
+  
+  At Ciena, we are committed to building and fostering an
+  environment in which our employees feel respected, valued,
+  and heard.  Ciena values the diversity of its workforce and
+  respects its employees as individuals. We do not tolerate
+  any form of discrimination.
+  
+  Ciena is an Equal Opportunity Employer, including disability
+  and protected veteran status.
+  
+  If contacted in relation to a job opportunity, please advise
+  Ciena of any accommodation measures you may require.
+industries:
+  - Cloud
+  - Hardware
+  - Internet of Things
+  - Other
+  - Software
+  - Utilities
+posted_date: 2026-03-31
+url: "https://builtin.com/job/senior-lead-ai-developer/8888362"
+source: Built In

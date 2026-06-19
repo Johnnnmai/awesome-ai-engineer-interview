@@ -1,0 +1,51 @@
+company:
+  name: Delos Data
+  stage: Stealth-mode startup backed by top-tier VC firms
+  focus: |-
+    Building foundational technology for AI data center cluster
+    performance, scalability, and resiliency
+position:
+  title: Software Development Engineer in Test - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an SDET role focused on testing and validating AI
+      infrastructure, not building AI systems directly. The role
+      builds test automation frameworks and performs quality
+      assurance on distributed systems and GPU kernels that
+      support AI workloads, but does not involve training, fine-
+      tuning, or deploying models.
+  responsibilities:
+  - Design, develop, and maintain a robust automated testing framework from the ground
+    up that supports distributed AI training and inference workloads
+  - Develop complex test plans focusing on end-to-end system integration, stress testing,
+    and hardware-software boundary conditions
+  - Partner closely with System Engineers to debug deep-seated issues in distributed
+    clusters using telemetry and profiling tools
+  - Validate the intersection of distributed systems, GPU kernels, and AI frameworks
+  - Build scalable foundation of trust in code ensuring performance-critical primitives
+    work at any scale
+  - Troubleshoot automated test failures within complex large-scale distributed systems
+    and identify root causes
+  use_cases:
+  - Testing and validation of distributed AI training workloads
+  - Testing and validation of AI inference systems
+  - Quality assurance for GPU-accelerated infrastructure
+  - Stress testing of large-scale AI data center clusters
+  - Hardware-software integration testing for AI systems
+  skills:
+    genai: []
+    ml: [GPU kernels, AI frameworks]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, GitHub Actions, GitLab CI, Jenkins, Terraform, Ansible]
+    languages: [Python]
+    domains: []
+    other: [test automation frameworks, distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8724015'
+  extracted_at: '2026-03-27T14:26:07.173594'

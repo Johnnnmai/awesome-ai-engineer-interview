@@ -1,0 +1,180 @@
+job_id: 8943799
+title: Research Engineer (Agentic Behavior – Kotlin AI Value Stream)
+company: JetBrains
+location: 
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Ai Coding Agents
+  - Deep Learning Frameworks
+  - Kotlin
+  - Ml Tools
+  - Python
+  - PyTorch
+  - SQL
+company_size: 2,209 Employees
+description: |
+  At JetBrains, code is our passion. Ever since we started,
+  back in 2000, we've been striving to make the strongest,
+  most effective developer tools on earth. Today, AI-powered
+  coding agents are becoming a core part of how developers
+  write Kotlin – and we want to make sure they write it well.
+  
+  The Kotlin AI Value Stream team is responsible for how AI
+  agents understand, generate, and improve Kotlin code across
+  all platforms: Android, Kotlin Multiplatform, server-side,
+  web, desktop, and others. We build the evaluation
+  infrastructure, error analysis tools, and post-training
+  pipelines that measure and improve agent behavior on real
+  Kotlin developer tasks.
+  
+  As a Research Engineer on this team, you'll own the end-to-
+  end loop: Analyze how agents fail on Kotlin → build evals
+  that capture those failures → research and implement methods
+  to fix them → measure the improvement. Your work will
+  directly shape how millions of developers experience Kotlin
+  through AI coding agents.
+  
+  As part of our team, you will:
+  
+  Build tools for agentic error analysis
+  
+  - Design and implement tooling to systematically capture,
+    classify, and analyse errors that AI coding agents make
+    when generating Kotlin code.
+  - Build observability pipelines over agentic traces – mining
+    patterns from agent sessions in JetBrains IDEs, Junie,
+    Claude Code, Cursor, and other coding agents.
+  
+  Build evaluation pipelines
+  
+  - Design, implement, and maintain evaluation pipelines that
+    measure Kotlin code generation quality across dimensions,
+    including correctness, idiomaticity, build success,
+    framework usage, and test coverage.
+  - Build simulation environments where coding agents can be
+    measured on realistic Kotlin developer tasks – from
+    greenfield KMP projects and Gradle dependency management
+    to migrating Spring applications from Java to Kotlin.
+  - Own evaluation infrastructure: metrics, experiment tracking,
+    automated regression checks, and reproducible
+    benchmarking.
+  
+  Research methods for improving agent and model behavior on
+  Kotlin
+  
+  - Experiment with post-training techniques (SFT, DPO, GRPO) to
+    improve how models handle Kotlin-specific patterns,
+    idioms, and frameworks.
+  - Investigate context engineering approaches:
+    CLAUDE.md/AGENTS.md files, compiler-as-verifier feedback
+    loops, Kotlin LSP integration, and MCP-based tooling.
+  - Run experiments to measure impact: A/B comparisons,
+    benchmark suites, and before/after analyses on real
+    codebases.
+  - Collaborate with model providers (Anthropic, OpenAI, and
+    Google) to translate Kotlin-specific findings into model
+    improvements.
+  
+  Build public Kotlin benchmarks
+  
+  - Design and build open-source benchmarks that measure AI
+    coding agent performance on Kotlin tasks and eventually
+    become the standard reference for the ecosystem.
+  - Create task datasets covering the breadth of Kotlin usage:
+    the server side (Spring, Ktor), multiplatform projects
+    (KMP), build systems (Gradle), Android, library
+    development, and others.
+  - Include both mined real-world tasks and carefully designed
+    synthetic tasks that test specific Kotlin capabilities.
+  - Maintain and evolve benchmarks as models improve, ensuring
+    they remain challenging, relevant, and contamination-
+    resistant.
+  
+  We'll be happy to have you on board if you have:
+  
+  - Hands-on experience building evaluation or analysis
+    pipelines for LLMs or AI coding agents in a research or
+    production setting.
+  - Strong Python engineering skills (at least three years),
+    with the ability to write clean, maintainable code in
+    data-heavy and ML-adjacent codebases.
+  - Experience with data analysis at scale: querying large
+    datasets (SQL/Athena), building data pipelines, and
+    performing statistical analysis of experimental results.
+  - The ability to own projects end to end – from identifying a
+    problem in agent traces to designing an eval, running
+    experiments, and shipping a fix.
+  - A product-aware mindset: You care about how agents are
+    actually used by developers and can translate real failure
+    modes into evaluation and training work.
+  - Familiarity with Kotlin or a strong willingness to develop
+    deep Kotlin expertise (you'll be living in Kotlin
+    codebases daily).
+  
+  Our ideal candidate would also have experience with:
+  
+  - Post-training LLMs: SFT, RLHF, DPO, GRPO – either hands-on
+    training or designing the data and reward pipelines that
+    feed into training.
+  - Modern deep learning frameworks (PyTorch) and LLM training
+    stacks (TRL, verl, Megatron, or similar).
+  - AI agent development: tool-using agents, multi-step coding
+    workflows, agentic frameworks.
+  - Evaluation frameworks and tools: Inspect AI, Promptfoo, LM-
+    evaluation-harness, or custom eval pipelines.
+  - Experiment tracking and observability: Weights & Biases,
+    MLflow, Langfuse, or similar.
+  - The Kotlin ecosystem: Android, Gradle, KMP, Spring, Ktor –
+    with an understanding of the developer workflows that
+    agents need to support.
+  - Contributing to or maintaining open-source projects,
+    especially benchmarks or evaluation tools.
+  
+  Don't check every box? That's okay – if you're excited about
+  this work and bring strong fundamentals, we'd love to hear
+  from you. We're happy to talk and provide the training you
+  need to grow into the role.
+  
+  Why join JetBrains?
+  
+  - Strong base salary. We offer competitive pay that reflects
+    your skills and experience.
+  - Flexible work location. Enjoy the freedom to work from home
+    or from the office.
+  - Remote work. Spend up to 30 days per year working remotely
+    from abroad.
+  - Extra time off. More days to relax, recharge, and do the
+    things you love.
+  - Medical insurance allowance. Enjoy peace of mind for you and
+    your family
+  - Learning and development opportunities. Access to
+    conferences, courses, and language classes.
+  - Relocation support. We help make your move as smooth and
+    stress-free as possible.
+  - Language classes. Pick up the local language or sharpen your
+    English skills.
+  - Fuel your day. Enjoy a hot meal or receive a lunch allowance
+    on workdays.
+  - Mental health support. To help you feel your best, we
+    provide easy access to professional mental health
+    services.
+  - Sports benefit. Enjoy an on-site gym or sports club stipend.
+  - Internal events. Join company-wide celebrations and team
+    gatherings.
+  
+  *Some benefits may vary depending on location.
+  
+  #LI-DNI
+  
+  We are an equal opportunity employer We know great ideas can
+  come from anyone, anywhere. That’s why we do our best to
+  create an open and inclusive workplace – one that welcomes
+  everyone regardless of their background, identity, religion,
+  age, accessibility needs, or orientation.
+  
+  We process the data provided in your job application in
+  accordance with the Recruitment Privacy Policy.
+posted_date: 2026-04-02
+url: "https://builtin.com/job/research-engineer-agentic-behavior-kotlin-ai-value-stream/8943799"
+source: Built In

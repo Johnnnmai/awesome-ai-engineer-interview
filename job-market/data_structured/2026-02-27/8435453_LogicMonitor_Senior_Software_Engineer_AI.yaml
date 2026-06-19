@@ -1,0 +1,54 @@
+company:
+  name: LogicMonitor
+  stage: null
+  focus: |-
+    AI-first hybrid observability platform for digital
+    infrastructure monitoring
+position:
+  title: Senior Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly builds LLM orchestration systems using
+      FastAPI/LangGraph for Edwin AI and AIOps products. The
+      engineer develops APIs for LLM reasoning, works with
+      embeddings and vector retrieval, and builds data
+      infrastructure specifically for GenAI-powered insights.
+  responsibilities:
+  - Design and build streaming and batch data pipelines processing metrics, logs,
+    and events for AI workflows
+  - Develop ETL and feature-extraction pipelines using Python and Java microservices
+  - Build and maintain Java microservices (Spring Boot) serving AI and analytics data
+    to Edwin and AIOps applications
+  - Develop Python APIs (FastAPI / LangGraph) for LLM orchestration, summarization,
+    and correlation reasoning
+  - Build data indexing and semantic search for large-scale observability and operational
+    data
+  - Integrate data ingestion and enrichment from multiple observability sources into
+    AI-ready formats
+  - Collaborate with AI Platform team to manage embeddings, metadata, and model context
+    storage
+  - Optimize latency and throughput for retrieval, query expansion, and AI response
+    generation
+  use_cases:
+  - AIOps for IT infrastructure monitoring and observability
+  - GenAI-powered insights and anomaly detection
+  - Semantic search and retrieval for operational data
+  - LLM-based summarization and correlation reasoning
+  - Real-time alert intelligence and root cause analysis
+  skills:
+    genai: [LangGraph, Embeddings, LLM orchestration]
+    ml: []
+    web: [FastAPI, Spring Boot, REST, gRPC]
+    databases: [Delta Lake, Iceberg, ClickHouse, Vector retrieval]
+    data: [Kafka, Airflow, Spark, Redis Streams, ETL]
+    cloud: []
+    ops: [Kubernetes, CI/CD, OpenTelemetry]
+    languages: [Python, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8435453'
+  extracted_at: '2026-03-03T12:31:30.922044'

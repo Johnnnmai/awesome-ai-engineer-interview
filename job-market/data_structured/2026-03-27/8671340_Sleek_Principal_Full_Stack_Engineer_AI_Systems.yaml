@@ -1,0 +1,56 @@
+company:
+  name: Sleek
+  stage: Series B
+  focus: |-
+    AI-first operating system for SMEs, automating accounting,
+    compliance, and financial operations
+position:
+  title: Principal Full Stack Engineer (AI Systems)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is ai-first because the role involves designing and
+      implementing AI-powered workflows, building systems that
+      combine LLMs with automation pipelines, and creating AI-
+      native product capabilities. The engineer will work directly
+      with LLMs, embeddings, agent-driven workflows, and
+      intelligent automation - not just supporting infrastructure
+      for others' AI work.
+  responsibilities:
+  - Design and implement AI-powered workflows that reduce manual effort in customer
+    and internal operations
+  - Build systems combining LLMs, automation pipelines, and structured software services
+    to solve operational problems
+  - Design scalable services and platform capabilities supporting AI-powered features
+    and intelligent automation
+  - Establish architectures for AI orchestration, retrieval systems, and structured
+    automation workflows
+  - Champion AI-assisted development tools to accelerate engineering productivity
+  - Strengthen observability across services including monitoring of AI-powered workflows
+    and automation pipelines
+  - Mentor engineers on system design, architecture, and AI-enabled product development
+  - Create reusable frameworks, components, and patterns that enable the engineering
+    team to move faster
+  use_cases:
+  - Automating company incorporation, secretarial, and compliance processes for SMEs
+  - AI-powered accounting, bookkeeping, tax and payroll workflows
+  - Intelligent document processing and mailroom automation
+  - Agent-driven automation for back-office operations
+  - AI orchestration for financial operations platform
+  skills:
+    genai: [LLMs, embeddings, agent-driven workflows, intelligent automation, agentic
+        workflows]
+    ml: []
+    web: [NestJS, React, Vue, APIs]
+    databases: [Postgres, MySQL, MongoDB]
+    data: [retrieval systems, data pipelines]
+    cloud: [AWS]
+    ops: [distributed services]
+    languages: [JavaScript, TypeScript, Node.js, SQL]
+    domains: []
+    other: [Cursor]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8671340'
+  extracted_at: '2026-03-27T15:37:26.448418'

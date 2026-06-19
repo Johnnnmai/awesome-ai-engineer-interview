@@ -1,0 +1,48 @@
+company:
+  name: Blackbird Labs
+  stage: Seed
+  focus: |-
+    Loyalty and payments platform for restaurants connecting
+    them with customers
+position:
+  title: Senior Platform Engineer, Infrastructure & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform/infrastructure engineering role that
+      involves building AI-assisted developer workflows and
+      tooling, but NOT building or deploying actual AI/ML models.
+      The role supports engineers who may work on AI features, and
+      involves using AI coding agents as tools, but the core work
+      is infrastructure and developer experience, not hands-on AI
+      system development.
+  responsibilities:
+  - Own and evolve AWS infrastructure using Terraform
+  - Maintain and improve CI/CD pipelines for deployment automation
+  - Drive observability across the platform using monitoring tools like Datadog and
+    CloudWatch
+  - Build and expand AI-assisted developer workflows and tooling
+  - Optimize developer experience including local dev environments, Gradle optimization,
+    and build caching
+  - Push for strategic technical investments and infrastructure improvements
+  use_cases:
+  - Restaurant loyalty program management and payments processing
+  - Blockchain transaction infrastructure for restaurant industry
+  - Developer productivity and AI-assisted coding workflows
+  - API infrastructure handling payments and loyalty at scale
+  skills:
+    genai: [Claude Code, GitHub Copilot, Cursor]
+    ml: []
+    web: [Spring Boot]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [AWS, CloudWatch, ECS Fargate]
+    ops: [Terraform, CI/CD, Datadog, Gradle, PagerDuty, HashiCorp Vault]
+    languages: [JVM, Python, Bash]
+    domains: []
+    other: [blockchain infrastructure]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8692226'
+  extracted_at: '2026-03-27T15:18:01.817639'

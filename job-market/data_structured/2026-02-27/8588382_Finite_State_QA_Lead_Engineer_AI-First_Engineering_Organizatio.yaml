@@ -1,0 +1,52 @@
+company:
+  name: Finite State
+  stage: Series B
+  focus: |-
+    Platform for securing connected devices and embedded systems
+    supply chains
+position:
+  title: QA Lead Engineer (AI-First Engineering Organization)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on implementation of AI-driven
+      agentic quality systems, designing AI-agent-driven QA
+      workflows, and integrating LLM-based tooling. The engineer
+      will actively build autonomous QA systems powered by AI
+      agents and LLMs, not just support or manage them.
+  responsibilities:
+  - Define and own the end-to-end QA strategy for an AI-first engineering team
+  - Architect scalable, fully automated testing frameworks across backend, frontend,
+    APIs, and AI-powered features
+  - Design and implement AI-agent-driven QA workflows including autonomous test generation
+    and regression validation
+  - Integrate LLM-based or AI-assisted tooling into CI/CD pipelines
+  - Develop strategies for testing AI-based product features including model behavior
+    validation and guardrail enforcement
+  - Partner with Product and Engineering leadership to embed quality earlier in the
+    development lifecycle
+  - Build autonomous QA systems that understand product context to drive quality
+  - Lead post-incident quality reviews and implement systemic improvements
+  use_cases:
+  - Autonomous test generation for software quality assurance
+  - AI-assisted regression validation and defect detection
+  - Model behavior validation and output consistency testing
+  - Guardrail enforcement for AI-powered product features
+  - Root cause analysis automation
+  - CI/CD pipeline quality automation
+  skills:
+    genai: [LLM-based testing, AI agents, autonomous test generation, prompt engineering]
+    ml: []
+    web: [API testing, frontend testing, backend testing]
+    databases: []
+    data: []
+    cloud: []
+    ops: [automated testing frameworks, CI/CD, DevOps]
+    languages: [Python, JavaScript, TypeScript, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8588382'
+  extracted_at: '2026-03-03T12:39:30.010482'

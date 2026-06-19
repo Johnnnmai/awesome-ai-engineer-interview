@@ -1,0 +1,50 @@
+company:
+  name: Nagarro
+  stage: null
+  focus: Digital Product Engineering services and consulting
+position:
+  title: Senior Staff Engineer, PLM, AI ML Integration
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and implementing AI-enabled PLM
+      solution architectures and implementing AI-driven
+      capabilities like analytics, automation, and predictive
+      insights. While the role is primarily a PLM/architecture
+      position, it directly involves building AI/ML integrations
+      into PLM systems, making it hands-on with AI implementation.
+  responsibilities:
+  - Design and implement AI-enabled PLM solution architectures
+  - Define PLM data models, workflows, lifecycle rules, and BOM structures
+  - Lead requirements gathering and solution design with engineering and manufacturing
+    teams
+  - Integrate PLM systems with ERP, MES, CAD, and enterprise platforms
+  - Implement AI-driven capabilities such as analytics, automation, and predictive
+    insights
+  - Support PLM configuration, customization, and deployments
+  - Troubleshoot PLM workflows, integrations, and data management issues
+  - Conduct architecture reviews and ensure PLM best practices across implementations
+  use_cases:
+  - Predictive analytics for manufacturing and engineering workflows
+  - AI-driven automation of product lifecycle management processes
+  - Data-driven insights in manufacturing environments
+  - Intelligent PLM system integration with enterprise platforms
+  - AI-enabled engineering change management and BOM optimization
+  skills:
+    genai: []
+    ml: [Predictive analytics]
+    web: [APIs]
+    databases: []
+    data: [Data modeling]
+    cloud: []
+    ops: []
+    languages: []
+    domains: [PLM solution architecture, BOM structures, Engineering change management,
+      Manufacturing workflows]
+    other: [Enterprise system integration, ERP integration, MES integration, CAD integration,
+      Stakeholder management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9079814'
+  extracted_at: '2026-04-22T14:10:03.792866'

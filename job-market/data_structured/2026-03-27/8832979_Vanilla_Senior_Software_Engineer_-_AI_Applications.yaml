@@ -1,0 +1,55 @@
+company:
+  name: Vanilla
+  stage: Startup
+  focus: |-
+    AI-powered estate advisory platform for wealth transfer and
+    planning
+position:
+  title: Senior Software Engineer - AI Applications
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building applied AI applications
+      using LLMs, implementing RAG, creating agentic workflows,
+      and fine-tuning models for production use. The engineer will
+      own the construction of AI/ML services and platforms, not
+      just support infrastructure for others.
+  responsibilities:
+  - Utilize existing Large Language Models to build applied AI applications with high
+    accuracy rates
+  - Construct services to ingest structured results and build models that extract
+    key information and surface insights
+  - Build tooling to support model training, evaluation, inference serving, monitoring
+    and alerting
+  - Develop new model training pipelines using the latest ML frameworks and open source
+    tools
+  - Design and implement database schemas, optimize queries, and manage database performance
+  - Identify, extract, transform, and load data from disparate sources into centralized
+    systems
+  - Collaborate with product, engineering teams, and subject matter experts to find
+    innovative AI uses
+  - Build microservices and integrate with backend services and APIs
+  use_cases:
+  - Estate planning automation and modernization
+  - Document creation and generation for legal/financial documents
+  - Scenario modeling for wealth transfer across generations
+  - Client visualization and data insights surfacing
+  - Workflow streamlining and replacement for estate advisory processes
+  - Information extraction from disparate data sources
+  skills:
+    genai: [OpenAI API, Anthropic API, LangChain, LangGraph, RAG, LLM orchestration,
+      Agentic workflows, Prompt engineering]
+    ml: [Fine-tuning, Model training, NLP, Evaluation testing frameworks]
+    web: [Microservices, REST APIs, API design]
+    databases: [Database design]
+    data: [ETL, Data pipelines]
+    cloud: [Cloud services]
+    ops: [Inference serving, Monitoring and alerting, AI observability]
+    languages: [Python, JavaScript, Go, Rust, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8832979'
+  extracted_at: '2026-03-27T14:48:35.502071'

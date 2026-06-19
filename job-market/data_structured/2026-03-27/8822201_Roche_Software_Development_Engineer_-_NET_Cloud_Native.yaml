@@ -1,0 +1,49 @@
+company:
+  name: Roche
+  stage: Public
+  focus: |-
+    Global healthcare and pharmaceutical company developing
+    medicines and diagnostics
+position:
+  title: Software Development Engineer - .NET, Cloud Native & AI Tools
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a general software engineering role that requires
+      experience USING AI tools for development (GitHub Copilot,
+      Claude, etc.), not building or deploying AI systems. The
+      role focuses on .NET development, cloud-native applications,
+      and microservices - AI tools are mentioned only as
+      productivity aids, not as the core work.
+  responsibilities:
+  - Design and develop critical software components and applications
+  - Collaborate with multiple agile teams across different locations
+  - Provide mentorship for team members and participate in hiring interviews
+  - Perform code reviews to ensure quality of the codebase
+  - Identify opportunities for improving system performance, reliability, security,
+    and stability
+  - Implement best practices and promote coding conventions including comprehensive
+    testing
+  - Contribute to technical and design documentation
+  - Assist in removing obstacles for successful releases
+  use_cases:
+  - Large-scale enterprise software products for healthcare
+  - Web applications supporting pharmaceutical and diagnostics operations
+  - Microservices-based systems for healthcare solutions
+  - Cloud-native applications on AWS infrastructure
+  skills:
+    genai: [GitHub Copilot, Claude, MCP, Prompt engineering]
+    ml: []
+    web: [.NET Core, .NET 6.0+, ASP.NET Core, Minimal APIs, REST APIs, Microservices]
+    databases: [NoSQL databases]
+    data: []
+    cloud: [AWS EKS, AWS EC2, AWS ElastiCache, AWS SNS, AWS SQS]
+    ops: [Docker, Kubernetes, GitHub Actions, GitOps]
+    languages: [C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8822201'
+  extracted_at: '2026-03-27T13:50:27.811648'

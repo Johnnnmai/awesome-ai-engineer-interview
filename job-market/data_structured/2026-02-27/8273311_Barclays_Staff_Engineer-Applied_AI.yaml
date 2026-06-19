@@ -1,0 +1,56 @@
+company:
+  name: Barclays
+  stage: Public
+  focus: Global financial services and banking
+position:
+  title: Staff Engineer-Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying GenAI and
+      Agentic AI systems, including multi-agent architectures, LLM
+      integration, and function tools. The position involves
+      hands-on work with AI frameworks (LangGraph, LangChain,
+      CrewAI) and deploying AI solutions using cloud AI services.
+  responsibilities:
+  - Lead the development of GenAI & Agentic AI systems & solutions to build intelligent
+    conversational AI and workflow automation for specific business domains
+  - Design and develop Full-Stack Multi Agentic AI systems using Agentic AI frameworks,
+    LLMs and technologies, build function tools and integrate them with Back-End systems
+    using REST-API, MCP or A2A protocols
+  - Design, develop and expose Agentic AI back-end, wrap existing back-end systems
+    with MCP Servers to other agentic front-end and agentic back-end systems
+  - Apply context engineering techniques such as context caching, context compression
+    to improve model's (LLM) performance and response times
+  - Implement guardrails & policy enforcement for safety and security risks that comply
+    with organization's data privacy and security standards
+  - Develop and maintain tools and frameworks for prompt-based model training, evaluation,
+    and optimization
+  - Analyze and interpret data to evaluate model performance and identify areas of
+    improvement
+  - Collaborate with cross-functional teams to identify requirements and develop solutions
+    to meet business needs
+  use_cases:
+  - Intelligent conversational AI for banking domains
+  - Workflow automation for business processes
+  - Multi-agent AI systems for enterprise applications
+  - Legacy code transformation using AI
+  - Financial product and service automation
+  skills:
+    genai: [LangGraph, LangChain, CrewAI, Strands SDK, Google ADK, MCP (Model Context
+        Protocol), A2A protocols, LLM prompt engineering, Agentic AI frameworks, Context
+        engineering, Guardrails]
+    ml: [Model fine-tuning, Reinforcement Learning]
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS Bedrock, Azure AI Foundry, GCP Vertex AI, AWS, Azure, GCP]
+    ops: []
+    languages: [Python, Java, GoLang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8273311'
+  extracted_at: '2026-03-03T12:38:17.440902'

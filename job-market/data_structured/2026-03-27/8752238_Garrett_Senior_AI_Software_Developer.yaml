@@ -1,0 +1,49 @@
+company:
+  name: Garrett
+  stage: Established
+  focus: |-
+    Emission reduction and energy efficiency solutions for
+    mobility industry
+position:
+  title: Senior AI Software Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on architecting and deploying AI
+      solutions with LLMs, as explicitly stated in the
+      requirements. The position requires proven AI development
+      experience with Large Language Models and integrating AI
+      into software solutions, making it a direct AI
+      implementation role.
+  responsibilities:
+  - Architect and maintain high-quality AI solutions aligned with business goals
+  - Lead design and implementation, writing clean, efficient code and conducting thorough
+    code reviews
+  - Develop comprehensive test plans and advocate for automated testing
+  - Oversee seamless deployment into production and monitor performance for optimal
+    functionality
+  - Work with cross-functional teams to ensure alignment and successful project outcomes
+  - Document technical details and conduct training sessions for team knowledge sharing
+  - Mentor junior developers and foster a culture of continuous improvement
+  - Review and refine development methodologies to boost productivity and quality
+  use_cases:
+  - Strategic business challenge resolution through AI solutions
+  - Emission reduction and energy efficiency optimization
+  - Mobility and automotive technology enhancement
+  - Enterprise AI capability development
+  skills:
+    genai: [Large Language Models (LLMs)]
+    ml: [machine learning algorithms, model deployment]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, AWS EC2, AWS S3, AWS Lambda, AWS RDS, AWS CloudFormation]
+    ops: [Terraform, Docker, Kubernetes, CI/CD, Git]
+    languages: [.NET, Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8752238'
+  extracted_at: '2026-03-27T15:28:46.150699'

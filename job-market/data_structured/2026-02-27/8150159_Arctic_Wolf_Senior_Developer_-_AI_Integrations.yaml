@@ -1,0 +1,53 @@
+company:
+  name: Arctic Wolf
+  stage: Growth Stage
+  focus: Managed detection and response cybersecurity services
+position:
+  title: Senior Developer - AI Integrations
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building LLM-assisted integration
+      generation systems, contributing to architectural
+      discussions on integrating LLMs and reasoning agents, and
+      prototyping AI uses in detection and automation workflows.
+      The position directly works on implementing AI/LLM
+      components, not just supporting infrastructure.
+  responsibilities:
+  - Develop backend automation systems that enhance SOC workflows using cloud-native
+    and AI-driven architectures
+  - Design and maintain backend services and microservices using Python and Go
+  - Build secure, high-availability systems leveraging AWS services including RDS,
+    DynamoDB, Lambda, and Kubernetes/EKS
+  - Build and maintain detection pipelines, incident response playbooks, and agentic
+    automation systems
+  - Integrate LLMs, reasoning agents, and autonomous task execution frameworks into
+    SOC tooling
+  - Apply test-driven development and CI/CD practices using Git, Jenkins, Terraform,
+    and Docker
+  - Prototype innovative uses of AI in detection, triage, automation, and response
+    workflows
+  - Mentor junior developers and contribute to architectural decisions
+  use_cases:
+  - SOC workflow automation and enhancement
+  - LLM-assisted integration generation for security data ingestion
+  - Threat detection and incident response automation
+  - Declarative schema-driven authoring for REST-based ingestions
+  - Autonomous task execution for security operations
+  - Customer self-authoring of bespoke integrations
+  skills:
+    genai: [LLMs, Reasoning agents, Agentic automation]
+    ml: []
+    web: [Microservices]
+    databases: [RDS, DynamoDB]
+    data: [Data pipelines]
+    cloud: [AWS, Lambda]
+    ops: [Kubernetes, Docker, Terraform, CI/CD, Jenkins, Git]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8150159'
+  extracted_at: '2026-03-03T11:26:07.413591'

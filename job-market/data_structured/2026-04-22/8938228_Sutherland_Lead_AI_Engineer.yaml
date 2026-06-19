@@ -1,0 +1,57 @@
+company:
+  name: Sutherland
+  stage: Public
+  focus: |-
+    Digital transformation, AI, automation, and business process
+    services
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and scaling
+      AI/ML models and systems including LLM/RAG-based solutions,
+      agentic AI systems, case classification models, and AI
+      copilots. The engineer is hands-on with model development,
+      RAG pipelines, and vector-based search solutions, clearly
+      placing this in the ai-first category.
+  responsibilities:
+  - Develop AI models for case classification, routing, prioritization, and SLA prediction
+  - Build automation for email-to-case processing, summaries, call notes, and CRM/workflow
+    updates
+  - Deliver AI-driven insights including sentiment analysis, anomaly detection, and
+    forecasting
+  - Design and implement LLM/RAG-based knowledge retrieval and AI copilots
+  - Build and integrate AI services with CRMs, contact center platforms, and enterprise
+    systems
+  - Architect data pipelines, embeddings, and vector-based search solutions
+  - Deploy scalable AI solutions using cloud AI services (Azure AI, AWS AI, Google
+    Vertex AI / Gemini)
+  - Establish MLOps, CI/CD, and containerized deployment practices and lead AI architecture
+    and governance
+  use_cases:
+  - Case classification, routing, prioritization, and SLA prediction for customer
+    service
+  - Automated email-to-case processing, summarization, and CRM workflow updates
+  - Sentiment analysis, anomaly detection, and demand forecasting for contact center
+    operations
+  - LLM/RAG-based knowledge retrieval and enterprise search
+  - AI copilots and agent-assist solutions for contact center agents
+  - Agentic AI systems for autonomous task execution and multi-agent orchestration
+  skills:
+    genai: [Generative AI / LLMs, RAG pipelines, LangChain, LangGraph, AutoGen, Agentic
+        AI systems, OpenAI, Google Gemini, Claude]
+    ml: [Machine Learning, Sentiment analysis, Anomaly detection, Forecasting, Embeddings]
+    web: []
+    databases: [FAISS, Milvus, Weaviate, Vector databases]
+    data: []
+    cloud: [Azure AI, AWS AI, Google Vertex AI]
+    ops: [MLOps, CI/CD, Docker, Kubernetes]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: [CRM integration, 'Contact center platforms (Cisco, Genesys, NICE, Avaya)']
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8938228'
+  extracted_at: '2026-04-22T13:33:59.766185'

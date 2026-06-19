@@ -1,0 +1,49 @@
+company:
+  name: Zealogics LLC
+  stage: null
+  focus: |-
+    IT consulting and AI solutions development (staffing role at
+    KPMG)
+position:
+  title: Lead AI Full Stack Developer - Fully Remote Opportunity
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, developing, and deploying AI-
+      enabled applications, building agents using A2A and MCP
+      techniques, and working with AI/ML frameworks and MLOps. The
+      hands-on development of AI agents and integration of AI
+      platforms to solve business problems clearly places this as
+      an ai-first role.
+  responsibilities:
+  - Design, develop, and deploy AI-enabled applications using .NET Core, C#, Python,
+    and modern frameworks
+  - Develop AI agents to interact with APIs and other applications using A2A and MCP
+    techniques
+  - Integrate AI solutions with Azure, Google Cloud, and enterprise systems
+  - Collaborate with architects to create solution designs and technical documentation
+  - Maintain code quality through reviews, automated testing, and adherence to SDLC
+    practices
+  - Research emerging technologies and recommend best-fit solutions
+  - Present technical solutions to both technical and non-technical stakeholders
+  use_cases:
+  - AI-enabled enterprise application development
+  - Agent-based automation for API and application integration
+  - Business problem solving using AI platforms
+  - Enterprise AI solution deployment on cloud platforms
+  skills:
+    genai: [Agent-to-Agent (A2A), MCP, Agent-based development]
+    ml: [AI/ML frameworks]
+    web: [.NET Core, React.js, Node.js, HTML/CSS, API development]
+    databases: []
+    data: []
+    cloud: [Azure AI, Google AI, Azure, Azure Kubernetes Service (AKS)]
+    ops: [MLOps, CI/CD, DevOps, Automated testing]
+    languages: [C#, Python, TypeScript, JavaScript]
+    domains: []
+    other: [PowerShell, Bash, YAML]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8987983'
+  extracted_at: '2026-04-22T12:42:34.110065'

@@ -1,0 +1,61 @@
+company:
+  name: Bristol Myers Squibb
+  stage: Public
+  focus: |-
+    Global biopharmaceutical company focused on drug discovery
+    and patient therapies
+position:
+  title: Senior AI Copilot Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building, deploying, and optimizing AI
+      Copilot agents using Azure OpenAI, RAG patterns, prompt
+      flows, and agent communication frameworks. The engineer is
+      hands-on with model deployment, prompt optimization, and
+      building custom copilots — core AI/LLM system development
+      work.
+  responsibilities:
+  - Design, build, and deploy custom Copilot agents using Microsoft Copilot Studio
+    and Azure AI Foundry
+  - Architect and implement AI solutions integrating enterprise data across Microsoft
+    365, SharePoint, and Power Platform
+  - Develop custom connectors, grounding data pipelines, and AI orchestration logic
+    to extend Copilot capabilities
+  - Leverage Azure OpenAI, Azure Cognitive Search, and Azure AI Services to deliver
+    RAG-based agent solutions
+  - Build and optimize prompt flows, semantic memory, and contextual grounding for
+    AI agents
+  - Develop automation workflows using Power Automate integrated with AI and enterprise
+    data sources
+  - Implement agent-to-agent communication frameworks such as A2A and MCP
+  - Collaborate with business teams to identify use cases and translate them into
+    scalable AI applications, including building POCs and prototypes
+  use_cases:
+  - Enterprise copilot agents for biopharma workflows across Microsoft 365 ecosystem
+  - RAG-based knowledge retrieval and Q&A over enterprise data in SharePoint and other
+    sources
+  - Automated business workflows integrating AI with Power Platform for pharmaceutical
+    operations
+  - Agent-to-agent communication for multi-step enterprise process automation
+  - Clinical and operational AI assistants supporting drug discovery and patient care
+    processes
+  skills:
+    genai: [Microsoft Copilot Studio, Azure OpenAI, RAG (Retrieval-Augmented Generation),
+      Prompt engineering, Prompt flows, MCP (Model Context Protocol), A2A (Agent-to-Agent),
+      Function calling, Prompt chaining]
+    ml: []
+    web: [Microsoft Graph API, SharePoint REST APIs, SPFx (SharePoint Framework),
+      React]
+    databases: [Azure Cognitive Search, Vector databases, Semantic search, Dataverse]
+    data: []
+    cloud: [Azure AI Foundry, Azure Cognitive Services, Azure AI Studio]
+    ops: [Azure DevOps, MLOps]
+    languages: [Python, C#, TypeScript]
+    domains: []
+    other: [Power Platform, Power Automate, Power Apps, Power BI, Responsible AI governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8950260'
+  extracted_at: '2026-04-22T13:38:33.671424'

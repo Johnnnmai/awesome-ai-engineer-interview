@@ -1,0 +1,52 @@
+company:
+  name: Helsing
+  stage: null
+  focus: |-
+    Defence AI company protecting democracies through autonomous
+    decision-making systems
+position:
+  title: AI Research Engineer - ML Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves extending deep learning
+      frameworks, scaling distributed training infrastructure, and
+      implementing custom ML components (layers, loss functions,
+      training loops). The position requires hands-on work
+      building and optimizing ML training systems, making it ai-
+      first rather than support.
+  responsibilities:
+  - Extend deep learning frameworks built on PyTorch to make them efficient and easy
+    to use across various use cases
+  - Scale infrastructure and tooling stack to support faster and larger distributed
+    training
+  - Design data strategy for large-scale datasets and efficient storage to maximize
+    GPU utilization
+  - Architect and implement tools and platforms for autonomous decision-making systems
+  - Abstract complex distributed systems to maximize training throughput and developer
+    velocity
+  - Build robust, scalable ML platforms at the convergence of machine learning and
+    systems engineering
+  use_cases:
+  - Autonomous decision-making for defence applications
+  - Reinforcement learning agent training
+  - Large-scale foundation models
+  - High-volume data processing for defence systems
+  - Distributed training on GPU clusters
+  skills:
+    genai: []
+    ml: [PyTorch, JAX, TensorFlow, CUDA, Distributed training, GPU optimization, Deep
+        learning, Reinforcement learning, Foundation models]
+    web: []
+    databases: []
+    data: [Ray]
+    cloud: []
+    ops: [NCCL, MPI, Kubernetes, Slurm]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8453916'
+  extracted_at: '2026-03-03T11:37:35.972525'

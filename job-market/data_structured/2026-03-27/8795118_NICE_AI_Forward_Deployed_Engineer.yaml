@@ -1,0 +1,58 @@
+company:
+  name: NICE
+  stage: Public
+  focus: |-
+    Customer experience software, AI-driven engagement, and
+    financial crime prevention
+position:
+  title: AI Forward Deployed Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI Forward Deployed Engineer role focused on
+      building, deploying, and optimizing AI agents and LLM-
+      powered systems. The role involves hands-on work with prompt
+      engineering, agent orchestration, RAG systems, and model
+      tuning - directly working ON AI systems to deliver customer
+      solutions.
+  responsibilities:
+  - Design and build AI-driven virtual agents that automate customer service workflows
+    across digital and voice channels
+  - Own the full lifecycle of AI agents from initial design through deployment and
+    ongoing optimization
+  - Build integrations between AI agents and enterprise systems including CRM, commerce
+    platforms, and knowledge bases
+  - Develop APIs, services, and orchestration layers enabling agents to perform real
+    business transactions
+  - Build full-stack solutions including web interfaces, backend services, and integration
+    layers
+  - Partner directly with customers to translate business requirements into AI-driven
+    automation solutions
+  - Implement observability, evaluation, and feedback loops to improve agent accuracy
+    and reliability
+  - Design and build advanced technical demonstrations showcasing AI-driven customer
+    experiences
+  use_cases:
+  - Customer service automation across voice and digital channels
+  - Intelligent virtual agents for customer self-service
+  - Enterprise knowledge retrieval and management
+  - Omnichannel customer engagement
+  - Workflow automation for customer interactions
+  - Real-time business transaction automation through AI agents
+  skills:
+    genai: [Large Language Models, Prompt engineering, Agent orchestration frameworks,
+      Retrieval-augmented knowledge systems, RAG, Conversational AI architecture]
+    ml: []
+    web: [APIs, REST, Full-stack development]
+    databases: [Vector databases, Knowledge management systems]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [CRM integrations]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8795118'
+  extracted_at: '2026-03-27T13:56:11.785535'

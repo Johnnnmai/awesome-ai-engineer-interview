@@ -1,0 +1,45 @@
+company:
+  name: Ecolab
+  stage: Public
+  focus: Water, hygiene and energy technologies and services
+position:
+  title: Lead Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying GenAI
+      systems including LLMs, multi-agent workflows, and RAG
+      solutions. The position requires hands-on architecture and
+      delivery of production-grade AI applications with agentic
+      capabilities.
+  responsibilities:
+  - Own the architecture and delivery of GenAI-based systems
+  - Integrate large language models (LLMs) into production applications
+  - Design and implement multi-agent workflows
+  - Build embedding-powered retrieval solutions (RAG)
+  - Guide cross-functional pods and define engineering standards
+  - Lead a team of associates with functional and administrative responsibilities
+  - Drive innovation through scalable, production-grade intelligent applications
+  use_cases:
+  - Multi-agent workflow automation
+  - Retrieval-augmented generation (RAG) systems
+  - Large language model integration and deployment
+  - Enterprise intelligent applications
+  - Production-grade GenAI solutions
+  skills:
+    genai: [Large Language Models (LLMs), Multi-agent workflows, RAG, Embeddings,
+      GenAI systems]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8414438'
+  extracted_at: '2026-03-03T12:45:15.472560'

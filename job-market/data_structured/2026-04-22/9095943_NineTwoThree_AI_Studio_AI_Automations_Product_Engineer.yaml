@@ -1,0 +1,56 @@
+company:
+  name: NineTwoThree AI Studio
+  stage: Growth (Inc. 5000, 13 years, 150+ products)
+  focus: |-
+    AI/product design and engineering agency for brands and
+    startups
+position:
+  title: AI Automations Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, shipping, and
+      supporting AI-powered tools and automations for clients. The
+      engineer works hands-on with LLM APIs (Anthropic/Claude),
+      prompt engineering, agentic design, model selection, and AI
+      pipeline architecture — all core activities of building and
+      deploying AI systems, not just supporting them.
+  responsibilities:
+  - Build, ship, and support AI-powered tools and automations for client engagements
+    end-to-end
+  - Scope, shape, and solution new client engagements alongside Practice Lead and
+    Account Manager
+  - Design and implement agentic systems, prompt engineering, and model selection
+    decisions balancing accuracy, cost, latency, and privacy
+  - Build working demos for prospective clients using real client data and problems
+  - Stand up project infrastructure including repositories, environments, and architecture
+    following department conventions
+  - Process and engineer client data into forms suitable for AI consumption, building
+    ingestion and processing layers
+  - Deploy services to client cloud accounts following established DevOps standards
+    including source control, secrets management, and handover protocols
+  - Contribute to department knowledge base, runbooks, evaluation approaches, and
+    reusable components from delivered work
+  use_cases:
+  - Custom AI automations for established brands and funded startups
+  - AI-driven solutions for legal tech, logistics, education, and other verticals
+  - Client-specific AI system design from discovery through production deployment
+  - Human-in-the-loop AI workflow automation with agentic and deterministic pipeline
+    trade-offs
+  - Data processing and AI pipeline engineering for diverse client data sources
+  skills:
+    genai: [Anthropic API, Claude Code, Prompt Engineering, Agentic Design, RAG]
+    ml: []
+    web: [FastAPI, Gradio, REST APIs]
+    databases: []
+    data: [ETL, Data Engineering]
+    cloud: [AWS Lambda, AWS]
+    ops: [Docker, CI/CD, Git]
+    languages: [Python, SQL]
+    domains: []
+    other: [Monday.com, Notion, Low-code platforms]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9095943'
+  extracted_at: '2026-04-22T13:03:12.319023'

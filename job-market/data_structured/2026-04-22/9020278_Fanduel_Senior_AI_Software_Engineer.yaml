@@ -1,0 +1,52 @@
+company:
+  name: Fanduel
+  stage: Public
+  focus: Premier mobile gaming and sports betting platform
+position:
+  title: Senior AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role explicitly requires experience building
+      production-ready agentic systems and workflows using LLMs,
+      including tool use/orchestration, RAG, and
+      evaluation/monitoring. The position involves researching and
+      building proof of concepts with innovative AI technologies
+      and scaling successful solutions, making it directly hands-
+      on with AI/LLM systems.
+  responsibilities:
+  - Research and build proof of concepts using new and innovative AI technologies
+    to drive customer experiences and internal innovations
+  - Build production-ready agentic systems and workflows using LLMs including tool
+    use, orchestration, RAG, and monitoring
+  - Design and implement scalable, fault-tolerant software solutions for a rapidly
+    growing platform
+  - Write secure, stable, testable, and maintainable code with minimal defects
+  - Participate in team design, scoping, and prioritization discussions to identify
+    AI opportunities
+  - Help transition successful proof of concepts into production-grade systems built
+    for scale and longevity
+  - Conduct code reviews, design discussions, and support ticket reviews to evolve
+    team practices
+  - Resolve root causes of complex problems and improve software maintainability
+  use_cases:
+  - AI-powered customer experiences in sports betting and gaming
+  - Agentic systems and LLM workflows for internal business innovation
+  - RAG-based systems for sports betting information retrieval and analysis
+  - Internal tooling and automation using cutting-edge AI technologies
+  skills:
+    genai: [LLMs, Agentic systems, RAG, Tool use/orchestration, LLM evaluation/monitoring]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Testing frameworks]
+    languages: [Python, JavaScript, Java, .NET]
+    domains: []
+    other: [Distributed systems design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9020278'
+  extracted_at: '2026-04-22T13:13:04.233698'

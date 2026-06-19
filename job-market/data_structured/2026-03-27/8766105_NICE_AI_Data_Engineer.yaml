@@ -1,0 +1,52 @@
+company:
+  name: NICE
+  stage: Public
+  focus: |-
+    Customer experience software, AI analytics, and financial
+    crime prevention
+position:
+  title: AI Data Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on data preparation and transformation for
+      an existing AI analytics product (NIA), not building or
+      training AI models. The engineer works with unstructured CX
+      data to format it for processing by the NIA platform, which
+      is enabling/supporting work rather than hands-on AI/ML
+      development.
+  responsibilities:
+  - Manage delivery and transformation of CX interactions (audio, chats, emails, social
+    media) into formats processable by the NIA product suite
+  - Develop pre-defined data structures for automated analysis of large sets of CX
+    interactions across all channels
+  - Manipulate CX interaction metadata, interactions, and transcripts into approved
+    formats for the NiCE Interaction Analytics platform
+  - Utilize evolving tools from Research team to support development of data structures
+  - Provide feedback to Research and Product teams on tooling and data integration
+    improvements
+  - Work with client requirements to understand requests and determine feasibility
+  - Educate field teams on data solutions, definitions, and best practices
+  - Manage utilization of CX Proof of Concept (POC) VM servers
+  use_cases:
+  - Customer experience analytics from unstructured interactions
+  - Proof of concept demonstrations for sales efforts
+  - Multi-channel interaction analysis (audio, chat, email, social media)
+  - Operational outcome measurement from CX data
+  - Business value demonstration for NIA product suite
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [SQL]
+    data: [SFTP, Business intelligence, Data visualization, Data manipulation]
+    cloud: [AWS S3]
+    ops: [Windows Server, Linux, SSH, Docker]
+    languages: [Python, PowerShell, Bash]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8766105'
+  extracted_at: '2026-03-27T14:44:10.357231'

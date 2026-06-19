@@ -1,0 +1,48 @@
+company:
+  name: Trexquant Investment
+  stage: null
+  focus: Quantitative investment and trading firm
+position:
+  title: AI Engineer (INDIA)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly involves designing and implementing LLM
+      systems, vector databases, and AI tools, plus deploying AI
+      models in production. This is hands-on work building and
+      deploying AI/ML systems, not supporting infrastructure for
+      others.
+  responsibilities:
+  - Design and implement systems incorporating LLMs, vector databases, and AI tools
+    for quant research applications including literature review, data search, and
+    code generation
+  - Deploy, monitor, and enhance AI systems ensuring scalability
+  - Partner with portfolio quant researchers to develop AI tools addressing market
+    opportunities and challenges
+  - Stay current on AI developments and contribute to internal thought leadership
+  - Deploy AI models in production environments with integration to existing infrastructure
+    and real-time market data feeds
+  - Identify AI risks and ensure safeguards for model bias and robustness
+  use_cases:
+  - Literature review automation for quantitative research
+  - Data search and discovery for investment analysis
+  - Code generation for quantitative applications
+  - Investment strategy enhancement through AI tools
+  - Real-time market data integration with AI systems
+  skills:
+    genai: [Large Language Models (LLMs), OpenAI API]
+    ml: [PyTorch, HuggingFace, Transformers, NLP techniques, Tokenizers, Embedding
+        models]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [Machine learning model deployment]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7360063'
+  extracted_at: '2026-03-03T11:39:53.618412'

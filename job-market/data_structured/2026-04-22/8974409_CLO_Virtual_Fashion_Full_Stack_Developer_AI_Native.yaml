@@ -1,0 +1,37 @@
+company:
+  name: CLO Virtual Fashion
+  stage: Growth/Mature (founded 2009, 14 offices globally)
+  focus: 3D garment simulation and digital fashion software platform
+position:
+  title: Full Stack Developer (AI Native)
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The job title mentions "AI Native" Full Stack Developer, and
+      the company (CLO Virtual Fashion) builds 3D garment design
+      software, digital asset management, and virtual fitting
+      solutions. However, the job description provided contains no
+      actual responsibilities, requirements, or technical details
+      — only the company overview and empty section headers.
+      Without substantive job content, it's impossible to
+      determine whether the role involves hands-on AI/ML work (ai-
+      first), support work (ai-support), or something else
+      entirely.
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8974409'
+  extracted_at: '2026-04-22T12:32:26.531299'

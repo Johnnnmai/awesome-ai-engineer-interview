@@ -1,0 +1,49 @@
+company:
+  name: Hightouch
+  stage: Series B+
+  focus: AI-powered marketing and growth platform
+position:
+  title: Software Engineer, AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building AI agents and LLM
+      pipelines for production use. The engineer will architect
+      agentic systems, develop proofs of concept with LLMs, build
+      production data agents, and make key decisions about AI
+      architecture and frameworks. This is hands-on work building
+      and deploying AI systems.
+  responsibilities:
+  - Rapidly prototype and develop proofs of concept exploring AI integration into
+    data and marketing workflows
+  - Make key architectural decisions about AI frameworks and system design
+  - Build production data agents that leverage company data to answer analytics and
+    data science questions
+  - Develop deep understanding of user workflows to create seamless AI-assisted user
+    experiences
+  - Architect and implement production LLM pipelines from end to end
+  - Iterate quickly on LLM-powered features to explore maximum potential of AI in
+    marketing
+  use_cases:
+  - AI-powered marketing content creation and campaign planning
+  - Data agents for answering analytics and data science questions about users and
+    marketing efforts
+  - AI-assisted marketing workflow automation
+  - LLM-driven campaign strategy execution
+  skills:
+    genai: [LLM application development, AI agents, Prompt engineering, LangChain,
+      RAG]
+    ml: []
+    web: [Backend architecture, REST APIs]
+    databases: [Snowflake]
+    data: [Databricks]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [System design, Product thinking]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7559850'
+  extracted_at: '2026-04-22T12:50:22.488593'

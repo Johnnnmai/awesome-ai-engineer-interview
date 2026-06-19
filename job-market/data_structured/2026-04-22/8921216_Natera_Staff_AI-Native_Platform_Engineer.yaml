@@ -1,0 +1,60 @@
+company:
+  name: Natera
+  stage: Public
+  focus: |-
+    Cell-free DNA testing for oncology, women's health, and
+    organ health diagnostics
+position:
+  title: Staff AI-Native Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves architecting and building AI-
+      native systems including agentic workflows, RAG
+      implementations, and embedding GenAI into production
+      infrastructure. The engineer will design and deploy AI
+      agents that manage cloud orchestration, CI/CD, and
+      observability, making this hands-on AI system building
+      rather than just supporting AI work.
+  responsibilities:
+  - Design and build AI-first development platform with unified interfaces where AI
+    agents manage environment provisioning, automated PR reviews, and self-documenting
+    codebases
+  - Embed AI-driven intelligence into CI/CD pipelines and observability stacks for
+    predictive scaling, automated incident triage, and self-healing systems
+  - Evolve AI-assisted FinOps workflows to automate cost attribution, anomaly detection,
+    and optimization recommendations across cloud environments
+  - Implement AI-driven governance to enforce architectural standards and security
+    policies while maintaining developer velocity
+  - Develop production-grade internal tools using agentic reasoning to solve operational
+    challenges for product teams
+  - Integrate natural language interfaces into the Internal Developer Portal for conversational
+    AI interactions with the platform
+  - Partner with senior leadership on AI architectural decisions including build vs.
+    buy and model selection
+  - Mentor engineers on advanced AI tooling, prompt engineering for infrastructure,
+    and deployment of agentic systems
+  use_cases:
+  - AI-driven cloud infrastructure orchestration and environment provisioning
+  - Intelligent CI/CD pipeline automation with predictive scaling and self-healing
+  - Autonomous FinOps for cloud cost optimization and anomaly detection
+  - Conversational AI interface for internal developer portal
+  - Automated code review and documentation generation
+  - AI-driven governance and compliance enforcement
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, Agentic Workflows, Prompt Engineering, LLM
+        Integration]
+    ml: [Fine-tuning]
+    web: [REST APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, AWS SDKs, FinOps]
+    ops: [Kubernetes, Terraform, CloudFormation, CI/CD, Docker, Observability/Monitoring]
+    languages: [Python]
+    domains: []
+    other: [CLI Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8921216'
+  extracted_at: '2026-04-22T13:37:54.039805'

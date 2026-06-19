@@ -1,0 +1,55 @@
+company:
+  name: IFS
+  stage: Public/Large Enterprise (billion-dollar revenue)
+  focus: |-
+    Enterprise software solutions powered by AI for logistics
+    optimization
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on designing and building LLM-
+      powered agents, RAG pipelines, and AI-native product
+      capabilities for a logistics optimization platform. The
+      engineer will directly work with LLMs, agentic patterns, and
+      simulation-driven workflows, making this an ai-first role.
+  responsibilities:
+  - Design and build LLM-driven agents for planning, optimization, and decision-making
+    workflows
+  - Develop agent orchestration patterns including tools, memory, evaluation, and
+    guardrails
+  - Build and maintain RAG pipelines, structured prompting, and retrieval strategies
+  - Build end-to-end product features spanning backend services, APIs, and frontend
+    experiences
+  - Create human-in-the-loop interfaces for AI systems with review, override, and
+    explainability
+  - Own services in production ensuring performance, reliability, observability, and
+    cost efficiency
+  - Design secure, testable, and compliant systems using infrastructure-as-code and
+    CI/CD practices
+  - Use simulation and synthetic data as first-class design tools to validate logic
+    and features
+  use_cases:
+  - Logistics optimization using AI agents for planning and decision-making
+  - Supply chain cost and emissions reduction through AI-driven software
+  - Agent orchestration for complex logistics workflows with tool use and memory
+  - Simulation-driven validation of logistics scenarios using synthetic data
+  - Explainable AI features for human-in-the-loop logistics operations
+  skills:
+    genai: [LLMs, RAG pipelines, Agentic patterns, Agent orchestration, Structured
+        prompting, Embeddings, Vector search, Agent frameworks, Guardrails]
+    ml: []
+    web: [FastAPI, Django, REST, GraphQL, React, Node.js]
+    databases: [Postgres]
+    data: [Event-driven systems]
+    cloud: [AWS, GCP]
+    ops: [Docker, CI/CD, Infrastructure as Code]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [Simulation-driven design, Synthetic data generation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9054194'
+  extracted_at: '2026-04-22T13:31:36.402235'

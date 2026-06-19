@@ -1,0 +1,52 @@
+company:
+  name: Globalization Partners
+  stage: Public
+  focus: |-
+    SaaS global employment platform for hiring and managing
+    international teams
+position:
+  title: Staff AI Fullstack Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and shipping AI agents,
+      designing agent architectures, prompt systems, tool-use
+      patterns, and evaluation frameworks. The candidate is
+      expected to build AI/LLM pipelines as a core part of their
+      daily work across the full stack, making this an ai-first
+      role.
+  responsibilities:
+  - Build across the entire stack including React/Next.js frontends, Go and Python
+    services, AI/LLM pipelines, and infrastructure
+  - Own product surfaces end-to-end from design through architecture to shipped working
+    software
+  - Build and ship AI agents including designing agent architectures, prompt systems,
+    tool-use patterns, and evaluation frameworks
+  - Make infrastructure decisions for deployment, observability, sandboxing, and scaling
+  - Bring product and design sense by pushing back on specs and proposing better solutions
+  - Mentor engineers, set technical standards, and conduct rigorous code reviews
+  - Ship fast across distributed time zones (US, India, Ireland, Poland) while unblocking
+    self and others
+  use_cases:
+  - AI assistant (GIA) for General Counsel and in-house legal teams
+  - AI-powered support for HR teams in global employment workflows
+  - Agentic systems automating legal and HR document processing
+  - Integration with CLMs, HRIS, document management, and email systems
+  - Streamlining hiring, onboarding, and management of global teams
+  skills:
+    genai: [LLM pipelines, AI agents, Prompt engineering, Tool-use patterns, Evaluation
+        frameworks, Cursor]
+    ml: []
+    web: [React, Next.js, API design]
+    databases: [Data models]
+    data: []
+    cloud: []
+    ops: [Infrastructure, Deployment, Observability, Sandboxing, Scaling]
+    languages: [Go, Python]
+    domains: [Legal domain workflows, HR domain workflows]
+    other: [Distributed architectures]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9118663'
+  extracted_at: '2026-04-22T12:38:10.613988'

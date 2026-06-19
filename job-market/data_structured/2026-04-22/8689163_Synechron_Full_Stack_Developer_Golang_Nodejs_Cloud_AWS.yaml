@@ -1,0 +1,48 @@
+company:
+  name: Synechron
+  stage: Public
+  focus: Global digital consulting and technology services firm
+position:
+  title: Full Stack Developer | Golang, Node.js, Cloud (AWS), Microservices, AI Integration
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full stack developer role where AI/ML integration
+      is one of many responsibilities, not the primary focus. The
+      developer collaborates with data science teams to integrate
+      existing AI/ML models into applications rather than
+      building, training, or fine-tuning models themselves. The
+      core work is web application development, API design, and
+      cloud deployment.
+  responsibilities:
+  - Design, develop, and maintain scalable web applications, APIs, and microservices
+    leveraging modern frameworks and cloud infrastructure
+  - Deploy, monitor, and optimize cloud-based applications for performance, reliability,
+    and security
+  - Collaborate with data science teams to integrate AI and ML models into applications
+  - Conduct system architecture planning, code reviews, testing, and documentation
+  - Support and troubleshoot deployed applications, ensuring operational stability
+    and continuous improvement
+  - Design and optimize cloud deployment strategies for scalability and security
+  use_cases:
+  - AI/ML model integration into enterprise web applications
+  - Intelligent application development supporting digital transformation
+  - Scalable cloud-based microservices for business operations
+  - Automated and secure API-driven systems for finance and enterprise
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch]
+    web: [React, Angular, Vue.js, Node.js, RESTful APIs, GraphQL, Microservices, Express.js]
+    databases: [PostgreSQL, MySQL, DynamoDB, MongoDB]
+    data: []
+    cloud: [AWS, AWS EC2, AWS Lambda, AWS S3, AWS API Gateway, AWS CloudFormation,
+      AWS SDKs]
+    ops: [Docker, Kubernetes, CI/CD, Jenkins, Git]
+    languages: [Golang, JavaScript, TypeScript, Python]
+    domains: []
+    other: [IAM, Agile, Scrum]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8689163'
+  extracted_at: '2026-04-22T13:57:10.408496'

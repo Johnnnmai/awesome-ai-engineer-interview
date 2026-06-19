@@ -1,0 +1,137 @@
+job_id: 9112818
+title: Staff Engineer - AI
+company: Wonder
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - Ml
+  - Python
+  - Typescript
+company_size: 500 Employees
+description: |
+  About Wonder
+  
+  Everything’s on the menu at Wonder. Except compromise.
+  
+  Wonder is the mealtime platform built to feed every craving
+  in one order. With Wonder, you can mix and match hundreds of
+  dishes from 20+ exclusive restaurants in a single order, so
+  everyone gets exactly what they’re craving. Enjoy everything
+  from tacos to Thai with $0 delivery fees, plus dine-in or
+  pick up at a Wonder location near you. Each dish is made to
+  order on-site by our culinary team and served hot.
+  
+  Behind the scenes, Wonder owns and operates every step of
+  the dining experience, from recipe development to the
+  technology that powers our experience, allowing us to
+  deliver quality, variety, and consistency at scale.
+  
+  Join us as we work to make great food more accessible.
+  
+  About The Opportunity
+  
+  As a Staff Engineer in our AI and Robotics org, you will
+  build a food agent, a personalized meal planning and
+  nutrition product that blends LLM-driven recommendations,
+  health-aligned goal setting, and agentic ordering. You'll
+  shape technical strategy, make key architectural calls, and
+  personally drive high-complexity work from design through
+  production. This role is for someone who has built AI agents
+  and LLM-powered products before, ideally as a founder,
+  founding engineer, or early-stage technical leader, and who
+  is deeply curious about how these systems actually behave at
+  scale. This is not a planning role: you'll write code,
+  review code, and ship code every day.
+  
+  The Impact You Will Make
+  
+  - Define and drive the technical roadmap for our AI food
+    agent, spanning recommendation, personalization, agentic
+    ordering, and health-aligned meal planning
+  - Architect and scale distributed infrastructure for real-time
+    retrieval, vector search, multi-modal inference, and LLM
+    orchestration.
+  - Serve as technical decision-maker for architectural choices
+    with product-wide scope: data pipelines, model serving,
+    prompt orchestration, RAG, fallback logic, and evaluation
+    frameworks
+  - Establish evaluation and experimentation infrastructure:
+    evals, benchmarks, scoring criteria, A/B testing
+    pipelines, and feedback loops that make the AI measurably
+    better over time
+  
+  What You Bring to the Table
+  
+  - 8+ years of professional software engineering experience,
+    with at least 3 years building and shipping AI or ML-
+    driven systems in production
+  - Deep distributed systems expertise. You've architected
+    infrastructure that handles high-throughput, low-latency
+    workloads at scale
+  - Hands-on experience building AI agents, LLM-powered
+    features, or agentic workflows in production. You've
+    worked with retrieval pipelines, prompt orchestration,
+    embedding-based systems, and model evaluation
+  - Prior experience as a founder, founding engineer, or early-
+    stage technical leader at a startup. You know what it
+    takes to build from zero with limited resources
+  - Proficiency with backend development frameworks and cloud
+    infrastructure. Familiarity with Python, TypeScript, and
+    modern ML tooling
+  - Strong system design skills with a track record of shipping
+    scalable, production-grade software under real constraints
+  - A degree in Computer Science, Data Science, or a related
+    technical field (or equivalent experience)
+  
+  Our hybrid model requires 3 days a week in the office. That
+  said, many team members choose to come in more often to take
+  advantage of in-person collaboration and connection. You're
+  welcome—and encouraged—to be in the office up to 5 days a
+  week if it works for you.
+  
+  #LI-Hybrid
+  
+  New York: $225,000 per year.
+  
+  Wonder uses geographic-specific salary structures, which
+  means the salary offered may vary depending on where the job
+  is located. The final salary offer will take into account
+  various factors, such as the candidate's skills, education,
+  training, credentials, and experience.
+  
+  Benefits
+  
+  We offer a competitive salary package including equity and
+  401K. Additionally, we provide multiple medical, dental, and
+  vision plans to meet all of our employees' needs as well as
+  many benefits and perks that are not listed. 
+  
+  A Final Note
+  
+  At Wonder, we build the best teams by hiring with an
+  objective lens — evaluating people for their potential while
+  championing diversity, equity, and inclusion. We do not
+  discriminate based on race, color, religion, gender identity
+  or expression, sexual orientation, national origin, age,
+  military service eligibility, veteran status, marital
+  status, disability, or any other protected class. As part of
+  our commitment to fair and compliant hiring practices,
+  Wonder participates in the federal government's E-Verify
+  program to confirm employment eligibility. If you need an
+  accommodation during the interview process, please let your
+  recruiter know.
+  
+  We look forward to hearing from you! We'll contact you via
+  email or text to schedule interviews and share information
+  about your candidacy.
+industries:
+  - Automotive
+  - eCommerce
+  - Food
+  - Internet of Things
+  - Logistics
+posted_date: 2026-04-21
+url: "https://builtin.com/job/staff-engineer-ai/9112818"
+source: Built In

@@ -1,0 +1,52 @@
+company:
+  name: Appian Corporation
+  stage: Public
+  focus: 'Enterprise process automation platform (Nasdaq: APPN)'
+position:
+  title: Applied AI Engineer - GCP Vertex AI or AWS Bedrock
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building GenAI infrastructure, RAG
+      systems, multi-agent architectures, and MCP servers from the
+      ground up. The engineer will be hands-on with LLMs, agent
+      frameworks, vector databases, and AI platform deployment on
+      Vertex AI/Bedrock — all core AI-first work.
+  responsibilities:
+  - Design, deploy, and scale GenAI infrastructure on GCP Vertex AI or AWS Bedrock
+  - Build and operate MCP servers that expose enterprise systems as AI-consumable
+    capabilities
+  - Design the tool registry and invocation framework enabling agents to interact
+    with internal systems safely
+  - Architect agent-to-agent communication and coordination infrastructure for autonomous
+    workflows
+  - Architect and operate RAG systems including vector stores, embedding pipelines,
+    and retrieval evaluation
+  - Instrument AI systems with logging, tracing, latency monitoring, and evaluation
+    hooks for production reliability
+  - Build predictive ML models to find insights in the enterprise data warehouse
+  use_cases:
+  - Internal enterprise AI platform powering autonomous agents for company operations
+  - GenAI infrastructure enabling employees to interact with enterprise knowledge
+    via intelligent agents
+  - Predictive intelligence surfacing insights from corporate data warehouse
+  - Agent orchestration for automating complex internal business processes
+  - RAG-based enterprise knowledge retrieval and question answering
+  skills:
+    genai: [MCP (Model Context Protocol), RAG, LangChain, LlamaIndex, OpenAI SDK,
+      LangGraph, CrewAI, AutoGen, Agent frameworks, Prompt engineering, Multi-agent
+        orchestration, Structured outputs]
+    ml: [Embedding pipelines]
+    web: []
+    databases: [Pinecone, pgvector, Vector databases, Snowflake, BigQuery]
+    data: []
+    cloud: [GCP Vertex AI, AWS Bedrock, Google Cloud AI SDK]
+    ops: [LLM evaluation frameworks]
+    languages: [SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8929452'
+  extracted_at: '2026-04-22T12:33:46.786561'

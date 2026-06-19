@@ -1,0 +1,49 @@
+company:
+  name: Collibra
+  stage: null
+  focus: Data intelligence and governance platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building, operationalizing, and supporting
+      AI/ML models including LLM-based applications and RAG
+      systems. The engineer will transform prototypes into
+      production solutions and directly deliver AI/ML features
+      into the SaaS platform, which constitutes hands-on work with
+      AI models and systems.
+  responsibilities:
+  - Monitor the AI/ML landscape including emerging techniques and state-of-the-art
+    approaches
+  - Transform prototypes into production-ready solutions solving impactful business
+    problems
+  - Create, operationalize, and support AI/ML models and visualizations for actionable
+    insights
+  - Evaluate algorithmic results for quality, adaptability, and efficiency
+  - Contribute to evolving AI and ML platforms supporting Collibra's data products
+  - Collaborate with cross-functional teams and mentor junior engineers on AI best
+    practices
+  use_cases:
+  - Data-driven decision making for customers
+  - Business function automation and enhancement
+  - Recommendation engines
+  - Natural language processing applications
+  - LLM-based applications with RAG systems
+  skills:
+    genai: [LangChain, LangGraph, RAG systems, LLM-based applications]
+    ml: [TensorFlow, Neural networks, Recommendation engines, NLP]
+    web: []
+    databases: [Vector databases, Graph databases, Time series databases, Relational
+        databases]
+    data: [Pandas, NumPy]
+    cloud: []
+    ops: [Model evaluation, Testing frameworks]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8403533'
+  extracted_at: '2026-03-03T11:26:54.116464'

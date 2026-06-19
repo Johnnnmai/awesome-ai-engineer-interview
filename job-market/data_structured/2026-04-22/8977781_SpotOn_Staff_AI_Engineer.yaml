@@ -1,0 +1,60 @@
+company:
+  name: SpotOn
+  stage: Growth/Late-stage (established product, ~5-person new team with VP sponsorship)
+  focus: |-
+    Restaurant POS and fintech technology for independent
+    restaurants
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and architecting AI-native
+      systems including multi-agent pipelines (planner, coder,
+      tester, reviewer), automated AI PR review systems, and AI
+      agent swarms that produce tested pull requests. The engineer
+      designs agent orchestration, builds guardrails, tunes
+      models, and implements production AI systems — not just
+      supporting infrastructure for others' AI work.
+  responsibilities:
+  - Architect and implement an automated AI PR review pipeline with risk-tiered escalation
+    framework for PCI-regulated payments code
+  - Build fully automated Android and API test harness with AI-assisted failure analysis
+    replacing manual QA cycles
+  - Design and implement multi-agent pipeline (planner, coder, tester, reviewer) that
+    produces tested, reviewed pull requests from PRDs
+  - Set the AI engineering technical standard for code generation, review, testing,
+    and task automation across the organization
+  - Define and track metrics framework measuring developer hours recovered, cycle
+    time compression, quality ratios, and cost per deployment
+  - Evangelize AI-native engineering practices by demoing working systems with real
+    metrics to engineering leads bi-weekly
+  - Select and evaluate AI tools, models, and frameworks for the team's AI stack with
+    significant influence on tooling decisions
+  use_cases:
+  - Automated AI-powered PR review with risk-tiered escalation for fintech compliance
+    (PCI-DSS)
+  - End-to-end Android POS test automation with virtual device provisioning and AI
+    failure analysis
+  - Multi-agent code generation pipeline producing tested pull requests from product
+    requirements
+  - AI-native developer productivity tooling to compress engineering cycle times across
+    the organization
+  skills:
+    genai: [LangGraph, CrewAI, AutoGen, OpenAI APIs, Claude Code, Prompt engineering,
+      Multi-agent orchestration, AI code generation, Cursor, GitHub Copilot, Windsurf,
+      Codeium]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [GitHub Actions, CI/CD, Docker]
+    languages: [Kotlin, Go, TypeScript, Python]
+    domains: []
+    other: [Android Espresso, UI Automator, PCI-DSS compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8977781'
+  extracted_at: '2026-04-22T12:28:58.156095'

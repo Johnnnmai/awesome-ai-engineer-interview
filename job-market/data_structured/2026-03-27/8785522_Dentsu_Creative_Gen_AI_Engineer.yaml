@@ -1,0 +1,53 @@
+company:
+  name: Dentsu Creative
+  stage: null
+  focus: |-
+    Creative marketing and advertising agency leveraging AI
+    solutions
+position:
+  title: Gen AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, deploying, and
+      fine-tuning LLM-powered applications, RAG pipelines, and
+      agentic AI workflows. The position requires hands-on work
+      with models and AI systems, not just supporting
+      infrastructure.
+  responsibilities:
+  - Design, develop, and fine-tune LLM-powered applications for enterprise use cases
+  - Evaluate LLM applications and develop observability frameworks
+  - Implement RAG pipelines using vector databases, embeddings, and optimized retrieval
+    strategies
+  - Build agentic AI workflows with multi-step reasoning, tool calling, and API integration
+  - Integrate GenAI solutions into multi-cloud or hybrid cloud environments (AWS,
+    Azure, GCP)
+  - Develop and optimize edge AI deployments for low-latency use cases
+  - Create data pipelines for AI ingestion, preprocessing, and governance
+  - Implement AI safety, bias mitigation, and compliance measures
+  - Benchmark and evaluate model performance, latency, and cost-efficiency
+  use_cases:
+  - Enterprise LLM-powered applications
+  - RAG-based intelligent search and retrieval systems
+  - Multi-step agentic AI workflows with reasoning capabilities
+  - Edge AI deployments for low-latency scenarios
+  - Multi-modal AI processing (text, image, speech, video)
+  skills:
+    genai: [LangGraph, LlamaIndex, PromptFlow, OpenAI APIs, Anthropic APIs, RAG, Agentic
+        workflows, Prompt engineering, MCP, A2A protocol, Generative agents]
+    ml: [PyTorch, TensorFlow, HuggingFace, Multi-modal AI]
+    web: [REST APIs, Microservices, WebSockets, Event-driven architectures]
+    databases: [Pinecone, Weaviate, Milvus, FAISS, Azure Cognitive Search, Vector
+        databases]
+    data: [Kafka, Data pipelines]
+    cloud: [AWS Bedrock, AWS SageMaker, Azure AI Foundry, Google Vertex AI, AWS IoT
+        Greengrass, Azure Percept]
+    ops: [Docker, Kubernetes, LLMOps, NVIDIA Jetson]
+    languages: [Python, Node.js, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8785522'
+  extracted_at: '2026-03-27T13:44:51.966371'

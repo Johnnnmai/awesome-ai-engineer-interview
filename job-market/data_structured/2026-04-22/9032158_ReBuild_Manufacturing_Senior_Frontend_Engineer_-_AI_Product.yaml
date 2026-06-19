@@ -1,0 +1,56 @@
+company:
+  name: Re:Build Manufacturing
+  stage: Late Stage (backed by parent company with potential spin-out)
+  focus: |-
+    AI-powered platform for hardware product development and
+    manufacturing coordination
+position:
+  title: Senior Frontend Engineer - AI Product
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a frontend engineering role building UIs for an AI-
+      powered platform. While the product involves AI agents and
+      LLM-powered features, the engineer's primary work is
+      React/TypeScript frontend development—building interfaces
+      that display and interact with AI outputs, not building,
+      training, or deploying the AI/ML models themselves. The role
+      is "near AI but not on AI."
+  responsibilities:
+  - Build production-grade React applications with TypeScript for the Reflow platform
+  - Develop and maintain a shared component library and design system
+  - Build rich interfaces for structured engineering data including requirements traceability,
+    dependency graphs, and project plans
+  - Build interfaces for AI agent interactions including streaming chat, coordination
+    alerts, and AI-generated summaries
+  - Implement portfolio-level dashboards for engineering leaders showing cross-project
+    cost, schedule, and risk
+  - Write well-tested code with unit and end-to-end tests
+  - Collaborate with backend engineers on API integration and client SDK usage
+  - Contribute to frontend architecture decisions, code reviews, and engineering best
+    practices
+  use_cases:
+  - AI-powered coordination of hardware product development across disciplines
+  - Ambient AI agents that listen across tools and proactively coordinate when changes
+    occur
+  - AI-generated status summaries and deliverables (proposals, SOWs, reports) for
+    hardware teams
+  - Real-time project health transparency and cross-discipline dependency tracking
+  - Portfolio-level executive dashboards for engineering program oversight
+  skills:
+    genai: [Streaming chat interfaces, Claude]
+    ml: []
+    web: [React, Tailwind CSS, Storybook, Vite, esbuild, REST APIs, OpenAPI, Base
+        UI, Radix, Headless UI]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Playwright, Cypress]
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: [Cursor, GitHub Copilot, OIDC, JWT, Data visualization]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9032158'
+  extracted_at: '2026-04-22T14:03:25.661422'

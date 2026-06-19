@@ -1,0 +1,154 @@
+job_id: 8922885
+title: AI Enablement Engineer
+company: Valon
+location: New York, USA
+work_type: FULL_TIME
+level: Mid level
+skills:
+  - APIs
+  - Next.Js
+  - React
+  - Tailwind Css
+  - Typescript
+company_size: 500 Employees
+description: |
+  About the Company
+  
+  Valon is building the AI-native operating system for
+  regulated finance, starting with mortgage servicing. We're a
+  Series C company backed by a16z, transforming industries
+  that others have written off as too complex to innovate.
+  Rather than build on top of broken legacy systems, we took a
+  different approach: we built and operate our own mortgage
+  servicing business managing $110+ billion in loans. This
+  wasn't the end goal, it was how we deeply understood the
+  complexity needed to build software that actually works in
+  regulated industries. The results speak for themselves.
+  We've transformed mortgage servicing from a 0% margin
+  business into 60%+ margins while dramatically improving
+  customer experience. Major enterprise contracts are now
+  deploying across the industry. ValonOS is our unified
+  platform that makes every process structured and
+  programmable and it is perfectly positioned for the AI era.
+  When everything flows through one system with rich data, AI
+  agents don't just automate tasks, they continuously improve
+  entire operations. Mortgage servicing is just the beginning
+  of our vision to transform regulated industries and beyond.
+  
+  About the Role
+  
+  We're hiring an AI Deployment Engineer to join a small,
+  high-autonomy team building the internal tools and AI-
+  powered systems that make Valon's client deployments
+  successful.
+  
+  This is not a traditional software engineering role. You'll
+  operate at the intersection of product, engineering, and
+  client delivery — building whatever is needed to make
+  deployments run smoothly. One week you're standing up a
+  project tracking dashboard; the next you're integrating AI
+  agents into client workflows; the week after you're building
+  admin tooling so deployment leads can manage teams and
+  forecasts.
+  
+  To give you a sense of pace and scope: building a full
+  deployment management platform — kanban boards, Gantt views,
+  milestone tracking, AI-powered inbox scanning, team
+  dashboards — in six weeks is the kind of output we expect
+  from this role.
+  
+  What You'll Do
+  
+  - Build deployment tooling end-to-end — Design, build, and
+    ship internal applications that help Valon manage complex
+    client deployments. You'll own the full stack from data
+    layer to UI.
+  - Ship AI-powered features — Build AI agent workflows, copilot
+    experiences, and automation tools that make deployment
+    teams more effective. Think: intelligent inbox scanning,
+    cross-reference extraction, AI-assisted planning.
+  - Move fast with AI-assisted development — Use coding agents
+    (Claude Code, Codex) as pair programmers to maintain high
+    velocity. We expect you to ship meaningful features daily,
+    not weekly.
+  - Work across the stack — Next.js, React, TypeScript, Tailwind
+    CSS, API integrations. You don't need to know all of these
+    coming in, but you need to learn fast and build
+    confidently across layers.
+  - Operate with high autonomy — You'll have broad ownership
+    over what you build and how. No one will hand you detailed
+    specs — you'll identify problems, design solutions, and
+    ship them.
+  
+  Who You Are
+  
+  - 1–5 years of engineering experience, with demonstrated
+    ability to ship complete products (not just features
+    within a larger codebase)
+  - Full-stack web development chops — strong in
+    React/TypeScript; comfortable building APIs, managing data
+    layers, and crafting polished UIs
+  - AI-fluent — you actively use coding agents in your
+    development workflow and have built AI-powered features
+    (agent workflows, RAG systems, copilot UX, or similar)
+  - Extremely high velocity — you're the person who builds a
+    working prototype while others are still writing the
+    design doc
+  - Comfortable with ambiguity — you thrive when given a
+    problem, not a solution, and can turn vague requirements
+    into shipped software
+  - Strong product instincts — you build things people actually
+    want to use, with attention to UX details like drag-and-
+    drop, inline editing, and responsive layouts
+  
+  Nice to Have
+  
+  - Experience at early-stage startups or as a technical founder
+  - Forward-deployed engineering background (Palantir, Anduril,
+    Scale AI, or similar)
+  - Familiarity with project management / deployment tracking
+    domains
+  - Experience building on Airtable, Notion, or similar low-code
+    backends
+  - Contributions to AI tooling or developer tools
+  
+  What Won't Work
+  
+  - Engineers who need detailed specs and defined scope before
+    they can start building
+  - Candidates who are strong backend but uncomfortable building
+    polished frontends
+  - People who talk about AI but haven't built with it
+  - Anyone uncomfortable working solo with high ownership and
+    minimal oversight
+  
+  Benefits
+  
+  - Competitive salary + equity (Series C stage)
+  - Comprehensive health, dental, and vision insurance
+  - Commuter benefits
+  - Flexible PTO
+  - 12 weeks paid parental leave
+  - Quarterly team events
+  
+  Throughout the interview process, please remember that
+  emails will only be from valon.com email addresses. We will
+  never ask for any personally identifiable information during
+  the interview process itself. Please reach out to
+  talent@valon.com if you have any requests to verify the
+  authenticity of an outreach.
+  
+  Valon is an equal opportunity employer that is committed to
+  diversity and inclusion in the workplace. We prohibit
+  discrimination and harassment of any kind based on race,
+  color, sex, religion, sexual orientation, national origin,
+  disability, genetic information, pregnancy, or any other
+  protected characteristic as outlined by federal, state, or
+  local laws. Valon makes hiring decisions based solely on
+  qualifications, merit, and business needs at the time.
+industries:
+  - Fintech
+  - Real Estate
+posted_date: 2026-04-01
+url: "https://builtin.com/job/ai-enablement-engineer/8922885"
+source: Built In

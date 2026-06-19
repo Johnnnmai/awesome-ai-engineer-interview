@@ -1,0 +1,48 @@
+company:
+  name: Side
+  stage: Established
+  focus: |-
+    Global games services company providing technical and
+    creative services to game developers
+position:
+  title: Lead AI Microservices Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting and developing Python
+      microservices that directly integrate with LLMs and
+      generative models. The developer will work hands-on with
+      OpenAI, Llama, and Gemini APIs, and become the company
+      expert in LLM/GAI API methods and model deployment.
+  responsibilities:
+  - Architect and develop Python-based API microservices that call LLMs and generative
+    models
+  - Design and implement AI-enabled and LLM-powered solutions for business needs
+  - Stay current with latest LLM technologies including OpenAI, Llama, and Gemini
+  - Become company expert in LLM and Generative AI API methods and Open Weights model
+    deployment
+  - Collaborate with business leaders to understand requirements for business process
+    automation
+  - Work with DevOps team to ensure APIs are deployed and maintained
+  - Integrate API microservices with other software tools across the organization
+  use_cases:
+  - Business process automation for game services company
+  - LLM-powered microservices for internal business operations
+  - AI-enabled solutions for gaming industry clients
+  - Generative AI integration across organizational tools and workflows
+  skills:
+    genai: [OpenAI APIs, Llama, Gemini, LLM API integration, Open Weights model deployment]
+    ml: []
+    web: [FastAPI, Flask, Django, REST APIs, Microservices architecture]
+    databases: [SQL, NoSQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7946353'
+  extracted_at: '2026-03-27T14:46:32.156099'

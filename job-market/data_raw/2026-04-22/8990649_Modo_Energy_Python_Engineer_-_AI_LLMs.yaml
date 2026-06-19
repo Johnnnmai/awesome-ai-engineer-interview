@@ -1,0 +1,185 @@
+job_id: 8990649
+title: "Python Engineer - AI & LLMs"
+company: Modo Energy
+location: London, GBR
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ai Coding Tools
+  - AWS
+  - Django
+  - Fastapi
+  - Postgres
+  - Python
+  - Terraform
+company_size: 40 Employees
+description: |
+  About Modo Energy
+  
+  The energy transition is the biggest infrastructure buildout
+  in human history. Modo Energy is the data platform at the
+  centre of it.
+  
+  We build the benchmarking, forecasting, and valuation tools
+  that the world's most serious energy investors, developers,
+  and operators depend on to make decisions. If a battery gets
+  financed, built, or traded anywhere in the world, there's a
+  good chance Modo data was in the room.
+  
+  Founded in 2019, we're 75+ people across London, New York,
+  Sydney, and Madrid; $30M Series B, AI-native, and moving
+  fast.
+  
+  This is a rare chance to join a category-defining company at
+  the moment it's scaling globally.
+  
+  Python Engineer
+  
+  At Modo Energy we’re building an AI platform for energy
+  markets — combining LLM agents, retrieval pipelines, and
+  real-time market data to create an AI analyst that can
+  reason about complex energy systems.
+  
+  We’re an AI-native engineering team — everyone uses AI
+  coding tools and many of the systems we build are designed
+  to be consumed by AI agents as much as humans.
+  
+  The role
+  
+  We are hiring a Python Engineer join our Terminal team
+  responsible for the backend platform & infrastructure. The
+  Modo Terminal is our core product - a data and research
+  platform that energy market professionals use every day to
+  make better decisions. It serves real-time and historical
+  data, proprietary research, and analytical tools across
+  Global energy storage markets.
+  
+  You'll own the backend systems that make the Terminal
+  reliable, fast, and easy to build on: APIs, databases,
+  deployment infrastructure, and developer tooling. As the
+  team grows and the product becomes more ambitious - the
+  platform needs to grow with it.
+  
+  You'll work in a small cross-functional team with a lot of
+  autonomy. We value engineers who take ownership of problems
+  end-to-end, care about the quality of what ships, and aren't
+  afraid to challenge how things are done.
+  
+  Responsibilities
+  
+  - Build and maintain the backend services and APIs that power
+    the Modo Terminal, running on Django and Python.
+  - Design and improve data pipelines that ingest, transform,
+    and serve energy market data - ensuring reliability,
+    correctness, and performance at scale.
+  - Own AWS infrastructure and deployment end-to-end. We use
+    Terraform, and you'll be involved in the full lifecycle
+    from local development to production.
+  - Build monitoring, observability, and alerting infrastructure
+    - so we catch problems before our customers do.
+  - Design internal tools (CLIs, APIs, developer utilities) that
+    make the team faster and reduce friction in day-to-day
+    workflows.
+  - Work directly with domain experts (energy analysts, data
+    scientists) to make sure the platform serves data that is
+    accurate, timely, and useful.
+  - Contribute to the infrastructure that supports our LLM-
+    powered AI Analyst - retrieval pipelines, tool design, and
+    systems that let models work with energy market data
+    effectively.
+  
+  About you
+  
+  - 5+ years of Python experience. Strong backend fundamentals -
+    you write clean, well-structured code and you're
+    comfortable owning services end-to-end, from API design
+    through to deployment and monitoring.
+  - Real experience with AWS and infrastructure-as-code
+    (Terraform). You've deployed and maintained production
+    services, not just experimented in a sandbox.
+  - Proficiency with Django, FastAPI or similar async Python
+    frameworks.
+  - Hands-on experience with data pipelines, relational
+    databases (PostgreSQL), and building systems that serve
+    data reliably at scale.
+  - Familiarity with LLM-powered applications is a strong plus -
+    whether that's RAG pipelines, tool-calling architectures,
+    or agentic systems. You don't need to be an ML engineer,
+    but you should be curious and ready to build the
+    infrastructure these systems run on.
+  - Expert-level use of AI coding tools (Cursor, Claude Code,
+    GitHub Copilot, or similar). We write a lot of code with
+    these tools and expect you to be fluent - knowing when to
+    trust them, when to intervene, and how to get the most out
+    of them.
+  - Good taste and judgment. You'll make constant decisions
+    about system design, data modelling, and what's good
+    enough to ship versus what needs more work. We want
+    someone who cares about the end result, not just getting
+    it to compile.
+  - Comfort working in a small, fast-moving team where you'll be
+    expected to figure things out, make tradeoffs, and ship.
+  - You have full lifecycle experience, owning projects end-to-
+    end from design and development, through testing into
+    deployment in a live production environment.
+  
+  Nice to have
+  
+  - Experience with energy markets.
+  
+  The Company
+  
+  - At Modo Energy, we're on a mission to build the information
+    architecture for the energy transition - we want to be the
+    only place to come to for information on the global
+    journey to net zero. Take a look at our platform, where we
+    provide open access to an array of content on the energy
+    transition.
+  - We're a dedicated and passionate team building a category-
+    defining business, working on one of the world's most
+    important priorities. We are looking for individuals who
+    love product-building, want to work with pace at a
+    mission-oriented startup, and will collaborate with us in
+    shaping the culture of a rapidly growing team.
+  - Hybrid Work Environment: This role is hybrid, with time
+    split between working from home and our London office
+    (Euston Square), with in-office days from Tuesday through
+    Thursday.
+  
+  Salary & Benefits
+  
+  - Competitive market rate – we want the best engineers!
+  - Employee Equity Scheme.
+  - Private Top-Tier Healthcare and Dental coverage with Bupa,
+    Salary sacrifice Pension with 3% employer contribution; 25
+    days annual leave (excluding bank holidays), plus 5
+    flexible days to be taken on a Monday or a Friday. And
+    lots of snacks and drinks – obviously!
+  
+  What You Can Expect From Us
+  
+  At Modo Energy, we believe that exceptional work deserves
+  exceptional reward. We're a high-performance team;
+  ambitious, collaborative, and genuinely motivated by the
+  scale of what we're trying to build.
+  
+  You'll have real ownership from day one, work alongside some
+  of the brightest people in the industry, and be part of a
+  company that's defining a new category in the global energy
+  market. We're hybrid: everyone works Tuesday to Thursday in
+  office, with Monday and Friday flexible. We offer top-of-
+  market compensation, equity for every employee, and the
+  space to take your career wherever you want it to go.
+  
+  We're looking for people who want to do the best work of
+  their careers. If that's you, we want to talk.
+industries:
+  - Fintech
+  - Information Technology
+  - Payments
+  - Consulting
+  - Energy
+  - Financial Services
+posted_date: 2026-04-08
+url: "https://builtin.com/job/python-engineer-ai-llms/8990649"
+source: Built In

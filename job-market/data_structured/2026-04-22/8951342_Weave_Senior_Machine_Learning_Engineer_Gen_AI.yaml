@@ -1,0 +1,56 @@
+company:
+  name: Weave
+  stage: Public
+  focus: Business communication and customer experience platform
+position:
+  title: Senior Machine Learning Engineer, Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and fine-
+      tuning ML models and LLM-based systems including RAG, prompt
+      engineering, fine-tuning, multi-modal models, and inference
+      at scale. The engineer builds models for new products and
+      creates ML infrastructure/tooling, which is hands-on work on
+      AI systems.
+  responsibilities:
+  - Design and develop machine learning infrastructure, tooling, and models to help
+    teams deliver world class experiences
+  - Build internal products and platforms to enable teams to incorporate AI into their
+    features and customer-facing products
+  - Build scalable, resilient services to support data integration, event processing,
+    and platform extensions
+  - Consult with product and development teams on ML patterns, anti-patterns, and
+    tradeoffs to guide excellent customer experiences
+  - Contribute to the continued evolution of product functionality servicing large
+    amounts of data and traffic
+  - Work in a cloud environment with distributed components and services
+  - Coach and collaborate inside and outside the team, sharing expertise and encouraging
+    best practices
+  - Work with stakeholders to translate product goals into actionable engineering
+    plans
+  use_cases:
+  - AI-powered features for customer-facing B2B multi-tenant products
+  - Data integration and event processing at scale for hundreds of millions of people
+    daily
+  - Natural language understanding with embeddings and inference at production scale
+  - Real-time audio processing including transcription, ASR, and speech synthesis
+  - Enabling product teams to build AI-powered applications with large data sets
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, Fine Tuning, Multi-modal models, Model
+        Context Protocol (MCP)]
+    ml: [Embeddings, Inference optimization, Data labeling/annotation]
+    web: []
+    databases: [Postgres]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [MLflow, Kubeflow, Dagster, DVC, Triton Server, Docker, Kubernetes, GKE,
+      GitOps, Terraform]
+    languages: [Python, Go, Java]
+    domains: [NLP, Speech/ASR]
+    other: [Distributed systems, Jupyter, HIPAA/PHI compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8951342'
+  extracted_at: '2026-04-22T13:31:13.479480'

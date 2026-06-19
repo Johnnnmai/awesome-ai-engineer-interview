@@ -1,0 +1,54 @@
+company:
+  name: PMG
+  stage: null
+  focus: |-
+    Global marketing services and technology company with
+    proprietary Alli operating system
+position:
+  title: AI & Software Engineer III - London
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building data pipelines, data
+      infrastructure, and software systems that support
+      AI/analytics work, but does not involve directly building,
+      training, fine-tuning, or deploying AI/ML models. The work
+      enables AI and data science teams rather than working
+      directly on AI systems.
+  responsibilities:
+  - Design, build, and maintain scalable data ingestion systems connecting multiple
+    internal and external data sources
+  - Develop and manage data workflows across cloud-based platforms such as AWS S3
+    and Snowflake
+  - Implement robust ELT pipelines using modern tools and frameworks like dbt and
+    Snowflake
+  - Ensure data quality, integrity, and consistency across systems with validation
+    and monitoring mechanisms
+  - Contribute to infrastructure-as-code deployments and CI/CD for data systems
+  - Design and implement APIs and internal services supporting the broader product
+    ecosystem
+  - Write clean, efficient, and testable code primarily in Python
+  - Develop and maintain datasets and transformations that power analytics, dashboards,
+    and data science use cases
+  use_cases:
+  - Data infrastructure supporting AI and analytics across the organization
+  - Marketing analytics and business intelligence
+  - Data pipelines for data science use cases
+  - Automated data ingestion from multiple sources
+  - Scalable data warehousing for reporting and insights
+  skills:
+    genai: []
+    ml: []
+    web: [APIs]
+    databases: [Snowflake, Redshift, BigQuery]
+    data: [dbt, Airflow, Fivetran, ETL/ELT pipelines, Data modeling, Stitch]
+    cloud: [AWS S3, AWS Lambda, AWS ECS, AWS EC2]
+    ops: [CI/CD, Infrastructure as Code]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8549081'
+  extracted_at: '2026-03-03T12:46:28.730295'

@@ -1,0 +1,196 @@
+job_id: 9049876
+title: Applied AI/ML Engineer
+company: Hitachi
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Airflow
+  - Dask
+  - Fastapi
+  - Grafana
+  - Hugging Face Transformers
+  - Kserve
+  - Kubeflow
+  - Mlflow
+  - Nltk
+  - Prometheus
+company_size: 33,676 Employees
+description: |
+  Function
+  
+  EngineeringOur Company
+  
+  We’re Hitachi Vantara, the data foundation trusted by the
+  world’s innovators. Our resilient, high-performance data
+  infrastructure means that customers – from banks to theme
+  parks ­– can focus on achieving the incredible with data.
+  
+  If you’ve seen the Las Vegas Sphere, you’ve seen just one
+  example of how we empower businesses to automate, optimize,
+  innovate – and wow their customers. Right now, we’re laying
+  the foundation for our next wave of growth.  We’re looking
+  for people who love being part of a diverse, global team –
+  and who get excited about making a real-world impact with
+  data.
+  
+  Job description
+  
+  Position Overview
+  
+  We are looking for an experienced Data Scientist / ML
+  Engineer with deep expertise in applied machine learning and
+  natural language processing (NLP), along with strong
+  exposure to modern MLOps practices. The ideal candidate
+  combines solid theoretical foundations with hands-on
+  experience in building, deploying, and maintaining large-
+  scale ML systems, including LLM-based applications, in
+  cloud-native and Kubernetes-based environments.
+  
+  What You Will Do
+  
+  - Translate complex business and product requirements into
+    scalable AI/ML solutions using classical ML, deep
+    learning, and GenAI techniques
+  - Design, develop, fine-tune, and evaluate models for NLP
+    tasks such as information extraction, classification,
+    entity recognition, and semantic understanding
+  - Build and productionize end-to-end ML pipelines, including
+    data ingestion, feature engineering, model training,
+    validation, deployment, and monitoring
+  - Implement LLM-based solutions using prompt engineering, RAG
+    (Retrieval-Augmented Generation), and fine-tuning
+    approaches
+  - Deploy and manage training and inference workloads on
+    Kubernetes-based platforms (e.g., Kubeflow, KServe, Ray,
+    or similar)
+  - Develop scalable APIs and microservices for model inference
+    with performance, latency, and cost considerations
+  - Establish continuous training, evaluation, and feedback
+    loops (CI/CD/CT pipelines) for model improvement
+  - Monitor model performance, data drift, and system health in
+    production, and implement automated retraining strategies
+  - Collaborate closely with data engineering, platform, and
+    product teams to ensure seamless integration into
+    production systems
+  - Ensure compliance with data privacy, security, and
+    governance standards throughout the ML lifecycle
+  
+  What You Will Need
+  
+  - Bachelor’s or Master’s degree in Computer Science, Data
+    Science, AI/ML, or a related field, with 6–10 years of
+    industry experience delivering ML solutions in production
+  - Strong hands-on experience in applying statistical methods,
+    classical ML, and deep learning to solve real-world
+    problems
+  - Proven experience building and deploying NLP systems,
+    particularly for information extraction, classification,
+    and sensitive data detection
+  - Solid understanding of evaluation methodologies and metrics
+    for NLP and ML systems (e.g., precision/recall, F1, ROC-
+    AUC, BLEU, etc.)
+  - Practical experience with LLMs, including prompt
+    engineering, fine-tuning, embeddings, and retrieval-based
+    systems
+  - Strong understanding of data privacy regulations (e.g.,
+    GDPR, HIPAA) and secure ML practices
+  - Experience working in cross-functional teams to deliver
+    production-grade systems with continuous feedback and
+    iteration
+  - Strong problem-solving skills and ability to balance
+    research with engineering pragmatism
+  
+  Technical Skills
+  
+  Core ML & NLP
+  
+  - Proficiency in Python and ML ecosystem
+  - Strong experience with ML/DL frameworks: PyTorch,
+    TensorFlow, Scikit-learn
+  - Experience with NLP libraries: spaCy, NLTK, Hugging Face
+    Transformers
+  - Familiarity with LLM tooling: LangChain, LlamaIndex, OpenAI
+    APIs, vector databases (FAISS, Pinecone, Weaviate),
+    Langgraph
+  
+  MLOps & Productionization
+  
+  - Hands-on experience with Kubernetes for ML workloads
+    (training and inference)
+  - Experience with Kubeflow, MLflow, KServe, Ray, Airflow, or
+    similar orchestration tools
+  - Strong understanding of CI/CD pipelines for ML (CI/CD/CT)
+  - Experience with model serving frameworks (FastAPI,
+    TorchServe, Triton, etc.)
+  - Experience with experiment tracking, model versioning, and
+    reproducibility
+  
+  Data Engineering & Systems
+  
+  - Experience with distributed data processing tools (e.g.,
+    Spark, Dask)
+  - Familiarity with data pipelines and feature stores.
+  
+  Nice to Have
+  
+  - Experience with RAG architectures, Knowledge-graphs and
+    GraphRAG, and knowledge-grounded LLMs
+  - Exposure to GPU/accelerator-based training and optimization
+  - Familiarity with observability tools (Prometheus, Grafana)
+    for ML systems
+  - Experience with security, privacy-preserving ML, or
+    federated learning
+  
+  #LI-SP7
+  
+  About us
+  
+  We’re a global team of innovators. Together, we harness
+  engineering excellence and passion for insight to co-create
+  meaningful solutions to complex challenges. We turn
+  organizations into data-driven leaders that can a make
+  positive impact on their industries and society. If you
+  believe that innovation can inspire the future, this is the
+  place to fulfil your purpose and achieve your potential.
+  
+  Fostering innovation through diverse perspectives
+  
+  Hitachi is a global company operating across a wide range of
+  industries and regions. One of the things that sets Hitachi
+  apart is the diversity of our business and people, which
+  drives our innovation and growth.
+  
+  We are committed to building an inclusive culture based on
+  mutual respect and merit-based systems. We believe that when
+  people feel valued, heard, and safe to express themselves,
+  they do their best work.
+  
+  How we look after you
+  
+  We help take care of your today and tomorrow with industry-
+  leading benefits, support, and services that look after your
+  holistic health and wellbeing. We’re also champions of life
+  balance and offer flexible arrangements that work for you
+  (role and location dependent). We’re always looking for new
+  ways of working that bring out our best, which leads to
+  unexpected ideas. So here, you’ll experience a sense of
+  belonging, and discover autonomy, freedom, and ownership as
+  you work alongside talented people you enjoy sharing
+  knowledge with.
+  
+  We’re proud to say we’re an equal opportunity employer and
+  welcome all applicants for employment without attention to
+  race, colour, religion, sex, sexual orientation, gender
+  identity, national origin, veteran, age, disability status
+  or any other protected characteristic. Should you need
+  reasonable accommodations during the recruitment process,
+  please let us know so that we can do our best to set you up
+  for success.
+industries:
+  - Fintech
+  - Information Technology
+  - Logistics
+posted_date: 2026-04-15
+url: "https://builtin.com/job/applied-ai-ml-engineer/9049876"
+source: Built In

@@ -1,0 +1,57 @@
+company:
+  name: Assent
+  stage: Late-stage (US$100M+ ARR, $350M funding)
+  focus: Supply chain sustainability SaaS for manufacturers
+position:
+  title: Sr. Data Engineer - AI ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly builds RAG/RAQ pipelines, knowledge
+      bases, vector stores, and data infrastructures for Agentic
+      AI systems. While titled "Data Engineer," the hands-on work
+      involves designing retrieval-augmented reasoning pipelines,
+      embedding generation, and knowledge graphs that power
+      autonomous AI agents — squarely placing it as ai-first.
+  responsibilities:
+  - Design, build, and optimize data pipelines for Agentic and Generative AI systems
+    enabling context retrieval, multi-step reasoning, and adaptive knowledge updates
+  - Develop and manage knowledge bases, vector stores, and graph databases across
+    regulatory, product, and supplier domains
+  - Engineer retrieval-augmented reasoning (RAQ/RAG) pipelines integrating embedding
+    generation, contextual chunking, and retrieval orchestration for LLM-driven agents
+  - Implement automated ingestion workflows for structured and unstructured content
+    into continuously enriched data stores
+  - Design feedback and reinforcement loops allowing AI agents to validate, correct,
+    and refine their knowledge sources over time
+  - Ensure data quality, consistency, and traceability through schema validation,
+    metadata tagging, and lineage tracking
+  - Integrate monitoring and observability to measure retrieval performance, coverage,
+    and model-data alignment for deployed agents
+  - Collaborate cross-functionally with AI/ML, MLOps, Data, and Product teams on data
+    ingestion, transformation, and retrieval strategies
+  use_cases:
+  - Supply chain sustainability data intelligence for manufacturers
+  - Autonomous AI agent decision-making powered by enterprise knowledge graphs
+  - Retrieval-augmented reasoning across regulatory, product, and supplier domains
+  - Context-aware knowledge retrieval for LLM-driven agents
+  - Continuous knowledge base enrichment from structured and unstructured enterprise
+    data
+  skills:
+    genai: [RAG, LangChain Agents, Semantic Kernel, DSPy, LlamaIndex Agents, Model
+        Context Protocol (MCP), Embedding Generation, Prompt Engineering]
+    ml: [Fine-tuning Data Preparation]
+    web: []
+    databases: [Weaviate, Pinecone, FAISS, Milvus, Elastic Vector Search, Neo4j, AWS
+        Neptune, ArangoDB, Redshift, Vector Databases]
+    data: [Airflow, Prefect, AWS Step Functions, Knowledge Graphs]
+    cloud: [AWS, AWS S3, AWS Glue, AWS Lambda, AWS ECS, AWS Athena]
+    ops: [Terraform]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9079393'
+  extracted_at: '2026-04-22T12:33:27.927346'

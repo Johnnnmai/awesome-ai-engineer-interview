@@ -1,0 +1,55 @@
+company:
+  name: Konovo
+  stage: null
+  focus: |-
+    Healthcare intelligence platform connecting healthcare
+    professionals for research insights
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      operationalizing LLM-powered features and AI systems in
+      production. The position requires hands-on work with LLM
+      integration, prompt engineering, RAG, and model evaluation
+      to create AI-native platform capabilities.
+  responsibilities:
+  - Design, build, and deploy production-grade AI and LLM-powered features within
+    the intelligent platform
+  - Improve model performance, reliability, observability, and cost efficiency in
+    enterprise-scale production environments
+  - Collaborate with product and engineering teams to translate business requirements
+    into scalable AI solutions
+  - Advance provider-agnostic AI architecture to enable secure access to multiple
+    LLM ecosystems
+  - Build internal AI tooling that enhances engineering productivity and broader employee
+    workflows
+  - Establish best practices for model evaluation, prompt engineering, testing, and
+    governance
+  - Ensure responsible AI implementation aligned with data privacy, security, and
+    compliance standards
+  - Mentor engineers and raise the technical bar for applied AI across the team
+  use_cases:
+  - Healthcare intelligence and research acceleration
+  - LLM-powered features for enterprise platform
+  - Internal AI tooling for engineering productivity
+  - RAG-based retrieval and knowledge systems
+  - AI-enabled healthcare insights connection
+  skills:
+    genai: [LLM integration, prompt engineering, model evaluation, RAG, model orchestration
+        frameworks]
+    ml: []
+    web: [APIs, scalable backend systems]
+    databases: [vector databases, Snowflake]
+    data: [Databricks, data architecture]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8811392'
+  extracted_at: '2026-03-27T15:00:09.075804'

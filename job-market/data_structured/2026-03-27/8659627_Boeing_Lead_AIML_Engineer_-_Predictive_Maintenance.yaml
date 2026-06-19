@@ -1,0 +1,56 @@
+company:
+  name: Boeing
+  stage: Public
+  focus: |-
+    Aerospace manufacturing - commercial airplanes, defense
+    products, and space systems
+position:
+  title: Lead AI/ML Engineer - Predictive Maintenance
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development and deployment of ML
+      models for predictive maintenance, including building
+      anomaly detection, RUL estimation, and fault classification
+      algorithms. The position requires building and
+      productionizing ML models with TensorFlow/PyTorch and
+      implementing advanced prognostics techniques.
+  responsibilities:
+  - Lead AI/ML projects for predictive maintenance and health monitoring of aircraft
+    systems
+  - Design and architect diagnostic and prognostic solutions for aircraft sub-systems
+  - Develop and refine algorithms for Remaining Useful Life (RUL) estimation and degradation
+    pattern detection
+  - Implement anomaly detection, fault isolation, and health prediction using physics,
+    probabilistic, and ML-based approaches
+  - Build and productionize ML models with TensorFlow, PyTorch, and scikit-learn using
+    MLOps practices
+  - Implement edge/cloud architectures and scalable storage for fleet-scale telemetry
+    and real-time analytics
+  - Execute AI testing, verification & validation including simulation, adversarial
+    testing, and continuous monitoring
+  - Create invention disclosures, contribute to patent filings and research publications
+  use_cases:
+  - Predictive maintenance for aircraft systems and subsystems
+  - Diagnostics and prognostics of aircraft fleet health
+  - Remaining Useful Life (RUL) estimation for aircraft components
+  - Anomaly detection and fault isolation in aircraft systems
+  - Fleet operational efficiency optimization
+  - Aircraft lifecycle scenario simulation
+  skills:
+    genai: [RAG, LLMs]
+    ml: [TensorFlow, PyTorch, scikit-learn, MATLAB/Simulink, Explainable AI, Federated
+        learning, Kalman Filter, Signal processing]
+    web: []
+    databases: [NoSQL databases, Vector databases, Time-series databases]
+    data: [Pandas, NumPy, Knowledge graphs, Data lakes]
+    cloud: []
+    ops: [Docker, Kubernetes, MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: [Power BI, Tableau, Digital twin]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8659627'
+  extracted_at: '2026-03-27T13:24:07.934300'

@@ -1,0 +1,52 @@
+company:
+  name: Welldoc
+  stage: Pre-IPO
+  focus: |-
+    AI-powered healthcare solutions and digital health
+    applications
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building and deploying GenAI systems -
+      RAG pipelines, autonomous agent workflows, multi-agent
+      systems, and prompt engineering. The engineer will directly
+      implement LLM-based solutions using frameworks like
+      LangGraph, CrewAI, and Autogen, which is core AI/ML work.
+  responsibilities:
+  - Design and implement scalable RAG pipelines to enable contextual, high-quality
+    responses using enterprise knowledge bases
+  - Evaluate and integrate Frontier LLMs and open source LLMs and APIs for specific
+    tasks, ensuring optimal performance and efficiency
+  - Build autonomous agent workflows using tools like CrewAI, LangGraph, Autogen,
+    or OpenAI SDK
+  - Develop and optimize prompts, chains, and multi-agent systems
+  - Stay updated on the latest in the GenAI ecosystem and make recommendations for
+    internal adoption
+  - Collaborate with stakeholders to understand use cases, define solution architectures,
+    and iterate prototypes into production-ready systems
+  - Ensure responsible AI practices, including data privacy, model explainability,
+    and compliance
+  use_cases:
+  - Contextual question answering using enterprise knowledge bases
+  - Autonomous multi-agent workflows for business process automation
+  - Healthcare domain applications with FHIR/HL7 data formats
+  - Production-ready AI solutions for regulated industries
+  skills:
+    genai: [RAG, LangChain, CrewAI, LangGraph, Autogen, OpenAI SDK, Prompt Engineering,
+      GPT-4, Claude, LLaMA]
+    ml: [Transformers, Fine-tuning]
+    web: [API integrations]
+    databases: [FAISS, Weaviate, Pinecone]
+    data: []
+    cloud: [Azure]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [FHIR, HL7, Cursor IDE]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8089894'
+  extracted_at: '2026-03-03T12:33:50.076560'

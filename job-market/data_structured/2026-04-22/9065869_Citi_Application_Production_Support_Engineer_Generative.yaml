@@ -1,0 +1,52 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Application Production Support Engineer Generative AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform/infrastructure support role for AI and
+      DevOps platforms at Citi. The role involves maintaining
+      stability, reliability, and performance of AI platforms and
+      CI/CD pipelines but does NOT involve building, training,
+      fine-tuning, or deploying AI models directly. The candidate
+      supports the operational side of AI applications, not the
+      development of AI systems.
+  responsibilities:
+  - Support the stability, reliability, and performance of critical AI and DevOps
+    platforms across the organization
+  - Resolve incidents and address platform issues in collaboration with SRE and support
+    engineers
+  - Assist with vendor coordination and day-to-day interactions with offshore managed
+    services
+  - Collect capacity, performance, and latency data to support platform planning efforts
+  - Maintain observability practices including monitoring, logging, tracing, and alerting
+  - Track operational health of production platforms including OpenShift, ECS, and
+    CI/CD pipelines and support SLA adherence
+  - Support automation efforts to reduce manual tasks and improve operational efficiency
+  - Participate in resilience-related activities including incident simulations, disaster
+    recovery exercises, and platform readiness testing
+  use_cases:
+  - Production support for enterprise AI applications and developer platforms
+  - CI/CD pipeline operations and reliability management
+  - Platform observability and incident response for AI and DevOps services
+  - Capacity planning and performance optimization for AI infrastructure
+  skills:
+    genai: [Generative AI concepts]
+    ml: []
+    web: []
+    databases: [Postgres, Oracle, MongoDB, Redis]
+    data: []
+    cloud: [AWS ECS]
+    ops: [CI/CD, Red Hat OpenShift, Kubernetes, Docker, Prometheus, Grafana, Splunk,
+      ELK Stack, Incident Management]
+    languages: [Java, Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9065869'
+  extracted_at: '2026-04-22T13:07:41.603035'

@@ -1,0 +1,51 @@
+company:
+  name: Barclays
+  stage: Public
+  focus: Global financial services and banking
+position:
+  title: Machine Learning/Artificial Intelligence Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience with GPT, BERT,
+      building GenAI applications, and RAG architectures, along
+      with model development and deployment. The position involves
+      directly building, implementing, and deploying AI/ML models
+      into production.
+  responsibilities:
+  - Design, develop and deploy GenAI applications and RAG-based architectures
+  - Research, design, implement, and optimize machine learning models for predictive
+    analytics, NLP, computer vision, and recommender systems
+  - Collect, preprocess, and analyze large datasets to extract meaningful insights
+    for model training
+  - Build and deploy AI/ML solutions into production environments using cloud platforms
+  - Collaborate with product managers, data engineers, and software developers to
+    integrate AI capabilities into products
+  - Evaluate and monitor model performance and accuracy post-deployment, iterating
+    to refine models
+  - Support Location Strategy projects delivery to plan, budget, and quality standards
+  - Ensure data quality and contribute to data dictionary, standards, and training
+  use_cases:
+  - Predictive analytics for business intelligence
+  - Natural language processing applications
+  - Computer vision systems
+  - Recommender systems
+  - Location Strategy project optimization
+  - Customer experience enhancement through AI-driven solutions
+  skills:
+    genai: [GPT, BERT, Large Language Models, GenAI applications, RAG architectures]
+    ml: [NLP, Machine Learning, Computer Vision, Predictive Analytics, Recommender
+        Systems]
+    web: [REST APIs, JSON, XML]
+    databases: []
+    data: [Data preprocessing]
+    cloud: [AWS, Azure]
+    ops: [Jenkins, DevOps pipelines]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8549387'
+  extracted_at: '2026-03-03T11:40:58.199553'

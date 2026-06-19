@@ -1,0 +1,62 @@
+company:
+  name: Boeing
+  stage: Public
+  focus: |-
+    Aerospace manufacturing - commercial airplanes, defense
+    products, space systems
+position:
+  title: Experienced Software Engineer - AI/ML (Computer Vision)
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on developing computer vision and
+      perception systems using traditional ML/DL techniques
+      (calibration, sensor fusion, SLAM, 3D vision) for aerospace
+      applications. While it involves ML-based vision techniques,
+      it emphasizes classical computer vision and robotics
+      perception rather than LLMs, generative AI, or agent-based
+      systems.
+  responsibilities:
+  - Develop innovative perception systems for manufacturing, maintenance, and operations
+    applications spanning automation, mobile devices, cabin features, and flight-deck
+    automation
+  - Own end-to-end development of perception pipelines for robotic and mobile platforms
+    including mobile robots, hand-held, and airborne systems
+  - Implement GPU-enabled solutions for indoor and outdoor localization, mapping,
+    detection, and segmentation using cameras, LiDAR, IMUs, and satellite navigation
+  - Design perception rigs and associated lifecycle software including calibration
+    and health management for field applications
+  - Use rapid-prototyping techniques to model and simulate perception systems with
+    software and hardware in the loop testing
+  - Collaborate with ML teams to produce scalable perception solutions suitable for
+    large dataset acquisition while minimizing labeling needs
+  - Work collaboratively with international teams of software development and research
+    engineers
+  - Help adopt new tools and technology, perform proof-of-concepts, and support implementation
+    engagements
+  use_cases:
+  - Manufacturing automation for aerospace production
+  - Aircraft fleet operational efficiency optimization
+  - Flight-deck automation and cabin features
+  - Mobile robotics and airborne perception systems
+  - Indoor and outdoor localization and mapping
+  - Aircraft lifecycle simulation and performance improvement
+  skills:
+    genai: []
+    ml: [Computer Vision, 3D Computer Vision, Sensor Fusion, SLAM, State Estimation,
+      Photogrammetry, Multi-view Geometry, Object Detection, Segmentation, Self-Supervised
+        Learning, Domain Adaptation, Synthetic Data Generation, OpenCV, Open3D, GTSAM,
+      ROS, CUDA, GPU Development, Embedded GPU Development]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Unit Testing, Integration Testing, Version Control]
+    languages: [Python, C++]
+    domains: [Mobile Robotics]
+    other: [LiDAR, IMU]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8648315'
+  extracted_at: '2026-03-27T13:57:40.596945'

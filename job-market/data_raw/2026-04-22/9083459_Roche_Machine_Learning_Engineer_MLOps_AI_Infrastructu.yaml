@@ -1,0 +1,205 @@
+job_id: 9083459
+title: "Machine Learning Engineer (MLOps & AI Infrastructure)"
+company: Roche
+location: 
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Airflow
+  - Athena
+  - AWS
+  - Ci/Cd
+  - Docker
+  - Emr
+  - Git
+  - Glue
+  - Kubeflow
+  - Kubernetes
+company_size: 93,797 Employees
+description: |
+  At Roche you can show up as yourself, embraced for the
+  unique qualities you bring. Our culture encourages personal
+  expression, open dialogue, and genuine connections,  where
+  you are valued, accepted and respected for who you are,
+  allowing you to thrive both personally and professionally.
+  This is how we aim to prevent, stop and cure diseases and
+  ensure everyone has access to healthcare today and for
+  generations to come. Join Roche, where every voice matters.
+  
+  The Position
+  
+  Machine Learning Engineer (MLOps & AI Infrastructure)
+  
+  Roche India – Roche Services & Solutions
+  
+  Hyderabad / Chennai
+  
+  
+  A healthier future. It’s what drives us to innovate. To
+  continuously advance science and ensure everyone has access
+  to the healthcare they need today and for generations to
+  come. Creating a world where we all have more time with the
+  people we love.
+  
+  That’s what makes us Roche.
+  
+  Roche has established the Global Analytics and Technology
+  Center of Excellence (GATE) to drive analytics- and
+  technology-driven solutions by partnering with Roche
+  affiliates across the globe. GATE enables data-led decision-
+  making and innovation across healthcare and biotech
+  operations. To learn more about us: visit
+  
+  As a Machine Learning Engineer (MLOps), you will play a
+  critical role in designing, building, and maintaining
+  scalable machine learning systems within Roche’s data
+  ecosystem. You will collaborate closely with data
+  scientists, data engineers, and business stakeholders to
+  develop production-grade ML infrastructure that supports
+  real-world healthcare and commercial applications. This
+  position demands a blend of technical expertise, problem-
+  solving ability, and strong ownership of MLOps processes to
+  ensure that Roche’s ML models are production-ready,
+  monitored, and continuously improving.
+  
+  Your Opportunity:
+  
+  ML Infrastructure and Pipeline Development (Primary Focus):
+  
+  - Design, build, and maintain scalable production-grade ML
+    pipelines for data ingestion, model training, and
+    inference
+  - Implement automated workflows for data preprocessing,
+    feature engineering, and model retraining
+  - Collaborate with data scientists to operationalize ML models
+    and ensure smooth transition from experimentation to
+    production
+  - Develop reusable frameworks and internal tools to
+    standardize and accelerate ML development lifecycles
+  
+  Model Deployment and Monitoring (Primary Focus):
+  
+  - Deploy and manage ML models in production environments using
+    cloud-based services (AWS preferred)
+  - Implement monitoring frameworks for data drift, model drift,
+    and performance degradation
+  - Maintain high availability, reliability, and scalability of
+    deployed models through robust engineering practices
+  - Develop alerting systems to ensure timely remediation and
+    maintenance of production ML systems
+  
+  Collaboration and Project Ownership (Primary Focus):
+  
+  - Partner with Stakeholders, data scientists, product
+    managers, and IT teams to translate business requirements
+    into scalable ML architectures
+  - Take end-to-end ownership of MLOps initiatives, from design
+    through deployment and continuous monitoring
+  - Champion engineering excellence by enforcing best practices
+    in CI/CD, version control, and automated testing
+  - Contribute to Roche’s broader AI/ML roadmap by developing
+    infrastructure that supports both traditional ML and
+    emerging GenAI applications
+  
+  Communication, Mentorship, and Governance (Primary Focus):
+  
+  - Translate complex data insights into clear and actionable
+    business strategies that address stakeholder needs and
+    expectations
+  - Promote best practices in coding, data handling, and project
+    management within the data science team, ensuring high-
+    quality deliverables
+  - Ensure adherence to Roche’s ethical AI standards and data
+    privacy regulations
+  
+  GenAI, Automation, and Emerging Technologies (Secondary /
+  Emerging Focus):
+  
+  - Collaborate with AI research teams to integrate Generative
+    AI solutions into ML workflows and pipelines
+  - Experiment with LLMs and prompt-based workflows to enhance
+    automation and model explainability
+  - Support the adoption of workflow orchestration tools such as
+    Kubeflow, Airflow, or MLFlow for model lifecycle
+    management
+  
+  Who you are:
+  
+  - You are someone with bachelor’s or master’s degree in
+    Computer Science, Data Science, Machine Learning, or
+    related fields and 4+ years of professional experience in
+    Machine Learning Engineering, Data Engineering, or MLOps
+    roles
+  - Certifications in MLOps, AWS Cloud, or Data Engineering are
+    highly desirable
+  - Proven experience building and deploying ML systems at scale
+    in production, with strong understanding of supervised,
+    unsupervised, and NLP models
+  - Hands-on experience with large-scale data processing using
+    distributed computing frameworks
+  - Strong analytical, problem-solving, and debugging skills
+    with attention to scalability and reliability
+  - Demonstrated ability to work independently and take
+    ownership of end-to-end ML systems
+  - Proficiency in Python, PySpark, and SQL for data engineering
+    and ML workflows
+  - Experience with scikit-learn, Spark MLlib, TensorFlow,
+    PyTorch, and MLflow
+  - Extensive hands-on experience with AWS services such as S3,
+    SageMaker, Glue, Lambda, Athena, EMR, and SageMaker
+    Pipelines. Familiarity with GCP or Azure ML environments
+    is a plus
+  - Expertise in version control (Git/GitHub), CI/CD (GitHub
+    Actions, Jenkins), and model registry workflows
+  - Experience with Docker and Kubernetes for containerization
+    and orchestration
+  - Proven track record of building and releasing ML frameworks
+    or internal tools to accelerate model deployment
+  - Basic understanding of pharmaceutical datasets (e.g., IQVIA,
+    SHA, Patients data) and familiarity with US healthcare
+    markets would be a plus
+  - Strong analytical and problem-solving skills with a data-
+    driven mindset
+  
+  Good to Have:
+  
+  - Experience with Kubeflow, Airflow, or Prefect for ML
+    pipeline orchestration
+  - Exposure to Generative AI (LLMs, transformers) and
+    integration of GenAI into enterprise ML workflows
+  - Familiarity with data governance, security, and ethical AI
+    practices in production environments
+  
+  Note: This job description is intended as a general
+  guideline for the responsibilities and qualifications
+  required for this position. It is not an exhaustive list,
+  and responsibilities may evolve and change based on business
+  needs
+  
+  
+  
+  
+  
+  Who we are
+  
+  A healthier future drives us to innovate. Together, more
+  than 100’000 employees across the globe are dedicated to
+  advance science, ensuring everyone has access to healthcare
+  today and for generations to come. Our efforts result in
+  more than 26 million people treated with our medicines and
+  over 30 billion tests conducted using our Diagnostics
+  products. We empower each other to explore new
+  possibilities, foster creativity, and keep our ambitions
+  high, so we can deliver life-changing healthcare solutions
+  that make a global impact.
+  
+  Let’s build a healthier future, together.
+  
+  Roche is an Equal Opportunity Employer.
+industries:
+  - Healthtech
+  - Biotech
+  - Pharmaceutical
+posted_date: 2026-04-17
+url: "https://builtin.com/job/machine-learning-engineer-mlops-ai-infrastructure/9083459"
+source: Built In

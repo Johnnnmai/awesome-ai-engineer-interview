@@ -1,0 +1,56 @@
+company:
+  name: TraceLink
+  stage: Growth/Mature
+  focus: Cloud-based pharmaceutical supply chain platform and network
+position:
+  title: Software Engineer in Test III- Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This SDET role is specifically titled for "Agentic AI" and
+      involves testing multi-agent LLM systems, prompt validation,
+      response evaluation, hallucination detection, and agent
+      orchestration. While the core role is test engineering, the
+      focus is directly on evaluating and testing AI/LLM/agent
+      systems — working hands-on with non-deterministic AI
+      components. This qualifies as ai-first because the engineer
+      is directly interfacing with and validating agentic AI
+      systems, not merely building infrastructure for others who
+      work on AI.
+  responsibilities:
+  - Build and execute automated tests for agentic AI systems and the TraceLink platform
+  - Design testing strategies for evaluating multi-agent LLM systems and non-deterministic
+    software components
+  - Extend and maintain automation frameworks with tooling that simulates real-world
+    transaction volumes
+  - Create testing tools that can be configured by non-developers for validating AI
+    outputs including hallucination detection and consistency checks
+  - Prepare and present clear defect reports and verify fixes
+  - Programmatically interface testing tools with the TraceLink platform and application
+  - Research new technologies and tools for evaluating AI/ML model behavior and apply
+    them at TraceLink
+  - Collaborate with core engineers to ensure testability of agentic AI product features
+  use_cases:
+  - Pharmaceutical supply chain digitization and compliance
+  - Multi-enterprise collaboration through agentic AI systems
+  - Automated testing and quality assurance of LLM-based applications
+  - Evaluation of multi-agent LLM workflows including prompt validation and response
+    evaluation
+  - Hallucination detection and output consistency verification for AI systems
+  skills:
+    genai: [LLM evaluation, Prompt validation, Multi-agent LLM workflows, Agent orchestration,
+      Hallucination detection]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [TestNG, Test automation frameworks, Maven, Ant]
+    languages: [Java, JavaScript, TypeScript, SQL]
+    domains: []
+    other: [Eclipse, Unix]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8835953'
+  extracted_at: '2026-04-22T14:07:07.609796'

@@ -1,0 +1,51 @@
+company:
+  name: Syneos Health
+  stage: Public
+  focus: |-
+    Biopharmaceutical solutions organization accelerating
+    clinical and commercial outcomes
+position:
+  title: Senior Platform Engineer - Azure Cloud, Automation & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform engineering role focused on building
+      CI/CD pipelines, infrastructure automation, and developer
+      tooling. While the title mentions AI, the actual
+      responsibilities are about enabling infrastructure platforms
+      and DevOps practices. The role supports application
+      development teams but does not involve building, training,
+      fine-tuning, or deploying AI/ML models directly.
+  responsibilities:
+  - Design, build, and maintain core platform services including CI/CD pipelines,
+    infrastructure-as-code frameworks, observability platforms, and secrets management
+  - Drive platform standardization through golden paths, reusable tooling, and reference
+    architectures
+  - Own platform reliability, scalability, and operational excellence including automation
+    and incident response
+  - Embed security and compliance best practices into pipelines using policy-as-code
+  - Partner with application teams to enable self-service infrastructure and smooth
+    onboarding to the platform
+  - Lead technical initiatives across squads and mentor junior engineers
+  use_cases:
+  - Internal developer platform for application teams
+  - Infrastructure automation and self-service provisioning
+  - CI/CD pipeline standardization and deployment automation
+  - Platform reliability and observability for enterprise workloads
+  - Security and compliance policy enforcement in pipelines
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [Terraform, Bicep, GitHub Actions, Azure DevOps, GitLab, Docker, Kubernetes]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8370215'
+  extracted_at: '2026-03-27T14:40:32.478599'

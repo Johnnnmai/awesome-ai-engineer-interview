@@ -1,0 +1,85 @@
+job_id: 8880520
+title: AI Engineer Intern- Summer 2026
+company: Roadie
+location: USA
+work_type: INTERN
+level: Entry level
+skills:
+  - AWS
+  - Docker
+  - Faiss
+  - Fastapi
+  - Google Gemini
+  - Kubernetes
+  - Langchain
+  - Langgraph
+  - Pgvector
+  - Python
+description: |
+  Roadie, a UPS company, is a leading logistics and delivery
+  platform that helps businesses tackle the complexities of
+  modern retail with unmatched delivery coverage, flexibility
+  and visibility. Reaching 97% of U.S. households across more
+  than 30,000 zip codes — from urban hubs to rural communities
+  — Roadie provides seamless, scalable solutions that meet a
+  variety of delivery needs.
+  
+  With a network of more than 310,000 independent drivers
+  nationwide, Roadie offers flexible delivery solutions that
+  make complex logistics challenges easy, including solutions
+  for local same-day delivery, delivery of big and bulky
+  items, ship-from-store and DC-to-door. For more information,
+  visit www.roadie.com.
+  
+  Roadie is seeking an AI Engineer Intern for Summer 2026 who
+  is excited about building AI-powered products. You’ll work
+  alongside our Innovation Team to design and develop AI
+  agents, data pipelines, and internal tools that shape the
+  future of Customer Support and Trust & Safety at Roadie.
+  
+  What You’ll Do
+  
+  - Build and improve AI chatbot agents powered by LLMs,
+    including retrieval-augmented generation (RAG), prompt
+    engineering, and tool orchestration
+  - Develop and refine fraud detection models using embeddings,
+    semantic search, and rule-based systems
+  - Design and maintain data pipelines, including ingestion,
+    embedding, vector storage, and retrieval quality
+  - Build evaluation frameworks to measure and improve AI agent
+    accuracy and response quality
+  - Collaborate with Engineering and Product teams to ship
+    features end-to-end in a fast-paced, agile environment
+  - Write clean, testable code and contribute to our AI platform
+    and internal tooling
+  - Gain exposure to technologies such as Python, FastAPI,
+    LangChain, LangGraph, Google Gemini / Vertex AI, vector
+    databases (pgvector, FAISS), AWS (EKS, S3), Docker,
+    Kubernetes, Streamlit
+  
+  What You Bring
+  
+  - Currently pursuing a Bachelor’s or Master’s degree in
+    Computer Science, Data Science, Engineering, or a related
+    field (Master’s students with a focus on AI/ML preferred)
+  - Experience with Python and familiarity with REST APIs
+  - Interest or hands-on experience with LLMs, RAG, or machine
+    learning pipelines
+  - Strong attention to detail, accuracy, and reliability
+  - Strong problem-solving and critical thinking skills, with
+    the ability to thrive in a fast-paced environment
+  - Excellent written and verbal communication skills
+  
+  Bonus
+  
+  - Experience with prompt engineering, embeddings, or vector
+    databases
+  - Familiarity with Docker, Kubernetes, or cloud platforms
+    (AWS, GCP)
+  - Experience with data labeling, model evaluation, or NLP
+industries:
+  - Automotive
+  - Software
+posted_date: 2026-03-26
+url: "https://www.builtinla.com/job/ai-engineer-intern-summer-2026/8880520"
+source: Built In

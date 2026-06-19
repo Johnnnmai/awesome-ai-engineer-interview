@@ -1,0 +1,121 @@
+job_id: 8703279
+title: Cloud Engineer- Data/AI Focused
+company: Innovative Solutions
+location: 
+work_type: FULL_TIME
+level: Mid level
+skills:
+  - Aurora
+  - AWS
+  - DynamoDB
+  - Emr
+  - Git
+  - Glue
+  - Java
+  - Lambda
+  - Python
+  - Rds
+company_size: 489 Employees
+description: |
+  We are seeking a skilled and motivated Data/AI Cloud
+  Engineer to join our team! In this role, you will play a key
+  part in implementing AWS data and AI/ML services, building
+  ETL/ELT pipelines, and developing intelligent data solutions
+  that empower our customers to derive meaningful insights
+  from their data. You will collaborate closely with Cloud
+  Architects and senior technical team members to design and
+  deliver high-quality, scalable solutions — spanning data
+  engineering, machine learning infrastructure, and AI-driven
+  applications — aligned with customer needs.
+  
+  
+  
+  Responsibilities:
+  
+  - Implementing data pipelines using AWS services such as Glue,
+    Lambda, Step Functions, and EMR
+  - Creating and maintaining data extraction, transformation,
+    and loading processes
+  - Configuring and optimizing AWS database services including
+    RDS, Aurora, Redshift, and DynamoDB
+  - Implementing data lakes using S3 and related AWS services
+  - Designing and building production-ready Generative AI
+    applications using Amazon Bedrock and foundation models
+    such as Anthropic Claude
+  - Building and optimizing RAG (Retrieval-Augmented Generation)
+    pipelines with vector databases
+  - Developing AI agents and multi-agent orchestration systems
+    using frameworks like LangChain or LlamaIndex
+  - Writing and testing SQL queries and stored procedures
+  - Documenting technical solutions and providing knowledge
+    transfer to customers
+  - Supporting the implementation of data governance and
+    security controls
+  - Troubleshooting and resolving issues with data pipelines and
+    AI services
+  - Participating in code reviews and implementing feedback
+  - Assisting with proof-of-concept implementations for customer
+    engagements
+  
+  
+  
+   Top candidates will have the following:
+  
+  - Technical familiarity with AWS data and AI/ML services and
+    modern data engineering practices
+  - Hands-on experience with ETL/ELT processes and data
+    transformation
+  - Exposure to Generative AI concepts including LLMs,
+    embeddings, RAG, and agent frameworks
+  - Ability to write and optimize SQL queries across various
+    database platforms
+  - Knowledge of data modeling concepts and best practices
+  - Strong analytical and problem-solving skills
+  - Eagerness to learn new technologies and keep up with cloud
+    and AI innovations
+  - Excellent communication skills with the ability to explain
+    technical concepts clearly
+  - Attention to detail and commitment to solution quality
+  - Collaborative mindset with strong teamwork capabilities
+  - Experience or interest in automation and infrastructure as
+    code
+  
+  
+  
+  Required Experience for the Role:
+  
+  - Must have 5+ years of software engineering experience with
+    at least 2+ years focused on AI/ML, data engineering, or
+    cloud-native development
+  - Must have 2+ years of hands-on AWS experience with
+    production deployments
+  - Must have 1+ years of direct Generative AI experience (LLMs,
+    embeddings, RAG, agents)
+  - Must have a proven track record delivering production AI
+    applications from concept to deployment
+  - Must have strong understanding of software engineering best
+    practices (version control, testing, code review,
+    documentation)
+  - Must have experience working in agile/scrum environments
+    with distributed teams
+  - Must have excellent problem-solving skills and ability to
+    work independently with minimal supervision
+  - Must have strong written and verbal communication skills for
+    client-facing interactions
+  
+  
+  
+  
+  
+  The salary range provided is a general guideline. When
+  extending an offer, Innovative considers factors including,
+  but not limited to, the responsibilities of the specific
+  role, market conditions, geographic location, as well as the
+  candidate’s professional experience, key skills, and
+  education/training.
+industries:
+  - Cloud
+  - Information Technology
+posted_date: 2026-03-10
+url: "https://builtin.com/job/cloud-engineer-data-ai-focused/8703279"
+source: Built In

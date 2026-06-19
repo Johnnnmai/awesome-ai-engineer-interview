@@ -1,0 +1,58 @@
+company:
+  name: Atari
+  stage: Public
+  focus: |-
+    Iconic video game company developing games, hardware, and
+    interactive experiences
+position:
+  title: Principal AI Systems Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building AI automation systems end-to-
+      end, including agent scaffolding, MCP servers, multi-agent
+      orchestration, prompt engineering, and production deployment
+      of LLM-based pipelines. The position directly implements,
+      deploys, and optimizes AI systems rather than supporting
+      others who work on AI.
+  responsibilities:
+  - Architect and own end-to-end AI automation systems including workflow decomposition,
+    component communication, and failure handling
+  - Design and build CLI frameworks, reusable libraries, agent scaffolding, and MCP
+    server definitions
+  - Build production-grade AI pipelines in Python with orchestration, structured prompting,
+    and retry strategies
+  - Design, version, and maintain system prompts and agent instructions as engineering
+    artefacts
+  - Build and operate multi-agent systems with orchestrator-worker patterns and structured
+    handoffs
+  - Build and own evaluation frameworks including test suites, regression benchmarks,
+    and LLM-as-judge pipelines
+  - Implement production monitoring using LangFuse or Arize for latency, token usage,
+    and quality drift
+  - Implement governance including audit trails, versioning of agent instructions,
+    and technical standards
+  use_cases:
+  - Automating expert-intensive technical workflows end-to-end at a gaming company
+  - CLI frameworks and agent tooling for internal engineering productivity
+  - Multi-agent systems for complex task orchestration
+  - Context assembly and retrieval for domain-specific AI applications
+  - Engineering team efficiency improvement through AI-powered automation
+  skills:
+    genai: [Claude Code, Codex CLI, Cursor, MCP (Model Context Protocol), LangChain,
+      LangGraph, LlamaIndex, AutoGen, Prompt Engineering, RAG (Retrieval Augmented
+        Generation), Multi-agent Systems, LLM-as-judge]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [LangFuse, Arize, Docker]
+    languages: [Python]
+    domains: [Game Development]
+    other: [Unity, Unreal Engine]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8860346'
+  extracted_at: '2026-03-27T15:38:20.553029'

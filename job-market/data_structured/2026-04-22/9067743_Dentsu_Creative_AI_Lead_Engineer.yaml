@@ -1,0 +1,49 @@
+company:
+  name: Dentsu Creative
+  stage: Public
+  focus: Global advertising and digital marketing services
+position:
+  title: AI Lead Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on designing and delivering
+      AI/GenAI systems, including ML models, LLMs, retrieval,
+      orchestration, and data pipelines. The engineer makes
+      architectural decisions about model selection, retrieval
+      strategies, and drives solutions from POC to production,
+      which is hands-on work building and deploying AI systems.
+  responsibilities:
+  - Design and deliver scalable AI and GenAI systems combining ML models, LLMs, retrieval,
+    orchestration, and data pipelines
+  - Lead solution design for complex, ambiguous problems with evolving requirements
+    and success criteria
+  - Make architectural trade-offs across model selection, retrieval strategies, cost,
+    latency, and scalability
+  - Drive solutions from proof-of-concept to production-grade systems used across
+    multiple teams
+  - Act as a technical anchor for high-impact AI initiatives, guiding implementation
+    without formal people management
+  - Ensure robustness, observability, and optimization of AI systems in real-world
+    environments
+  use_cases:
+  - Scalable GenAI system design and delivery for enterprise clients
+  - LLM-based retrieval and orchestration pipelines
+  - AI-powered solutions for marketing and creative services (Dentsu Creative/Merkle)
+  - Production-grade AI systems serving multiple internal teams
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, LangChain]
+    ml: [ML Models, PyTorch]
+    web: [FastAPI]
+    databases: [Postgres, Vector Databases]
+    data: [Data Pipelines]
+    cloud: [AWS, Azure]
+    ops: [Docker, Kubernetes, MLflow]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9067743'
+  extracted_at: '2026-04-22T13:25:42.322320'

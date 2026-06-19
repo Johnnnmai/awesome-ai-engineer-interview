@@ -1,0 +1,44 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Health technology and care delivery services
+position:
+  title: AI ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      optimizing AI/ML models and systems, owning the full model
+      development lifecycle from problem definition to production.
+      The engineer works hands-on with ML/DL frameworks (PyTorch,
+      TensorFlow) and is responsible for model performance and
+      inference systems.
+  responsibilities:
+  - Design, build, and deploy scalable AI/ML solutions
+  - Own model development lifecycle from problem definition to production
+  - Develop robust feature pipelines and model inference systems
+  - Optimize model performance, scalability, and reliability
+  - Collaborate with product, engineering, and business teams
+  - Contribute to MLOps practices and automation
+  - Review and guide junior engineers' work
+  use_cases:
+  - Health outcome prediction and optimization
+  - Care delivery and pharmacy benefits AI solutions
+  - Health data analytics and insights
+  - Scalable ML inference for healthcare applications
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, ML algorithms and optimization]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [MLflow, CI/CD, Model monitoring, MLOps]
+    languages: [Python]
+    domains: []
+    other: [System design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9030863'
+  extracted_at: '2026-04-22T13:59:37.977734'

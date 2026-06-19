@@ -1,0 +1,53 @@
+company:
+  name: VeeFriends
+  stage: Series B or later
+  focus: |-
+    Entertainment company combining art, storytelling, and
+    innovative technologies
+position:
+  title: Data Engineer (AI & Analytics Platform)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role focused on building data
+      pipelines and infrastructure that feed AI tooling, not
+      building the AI models themselves. The role supports AI
+      systems by creating data foundations and pipelines, but the
+      core work is traditional data engineering with SQL, ETL, and
+      backend services.
+  responsibilities:
+  - Design, build, and maintain scalable data pipelines for orders, inventory, customers,
+    fulfillment, and reporting
+  - Implement event-driven pipelines and streaming workflows to support near real-time
+    reporting
+  - Own data modeling and transformations in Postgres to support analytics and AI
+    workflows
+  - Extend and improve internal AI-powered reporting tool for analytics, forecasting,
+    and operational insights
+  - Build data foundations that allow AI agents to reason over business data
+  - Build and maintain backend services and APIs that power reporting and internal
+    tools
+  - Monitor pipelines for failures, latency, and data quality issues
+  - Integrate data from commerce platforms, fulfillment systems, and third-party services
+  use_cases:
+  - Order and inventory analytics and reporting
+  - Customer insights and behavioral analysis
+  - Fulfillment tracking and operational visibility
+  - AI-powered forecasting and business intelligence
+  - Real-time dashboard and internal tooling for teams
+  skills:
+    genai: [Cursor, GitHub Copilot, Claude]
+    ml: []
+    web: [Next.js, API development]
+    databases: [Postgres, SQL]
+    data: [ETL/ELT workflows, Event-driven systems, Streaming pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: [Shopify]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8015535'
+  extracted_at: '2026-03-03T12:32:26.890155'

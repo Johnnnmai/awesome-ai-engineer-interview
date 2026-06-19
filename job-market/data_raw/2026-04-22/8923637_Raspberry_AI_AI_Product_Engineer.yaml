@@ -1,0 +1,105 @@
+job_id: 8923637
+title: AI Product Engineer
+company: Raspberry AI
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Fastapi
+  - Llms
+  - Next.Js
+  - Python
+  - React
+  - Typescript
+description: |
+  AI Product EngineerRaspberry AI
+  
+  Raspberry AI is a leading provider of industry-defining AI
+  design software for fashion brands and retailers. Our
+  software empowers brands to rapidly understand consumer
+  demand and create unique designs within minutes. Leveraging
+  cutting-edge AI analytics and generative AI capabilities, we
+  help fashion brands revolutionize their design and
+  merchandising processes.
+  
+  We are a Series A startup, backed by top-tier venture
+  capital firms such as Andreessen Horowitz, Khosla Ventures,
+  MVP and Greycroft.
+  
+  About the Role
+  
+  We are seeking a Senior AI Product Engineer to build the
+  agentic layer of Raspberry's platform. Today our product
+  gives designers powerful, individual AI tools — image
+  generation, editing, virtual try-on, and more. The next step
+  is making these tools work together autonomously: agents
+  that operate on our collaborative design canvas, chain
+  multi-step creative workflows, and keep designers in control
+  of the output.
+  
+  This role sits at the intersection of AI engineering and
+  product engineering. You'll design agent architectures and
+  ship the product experiences around them — from model
+  orchestration and tool-use to the React interfaces designers
+  interact with.
+  
+  Responsibilities
+  
+  - Build AI agents that take actions inside Raspberry's design
+    platform — triggering generations, chaining outputs across
+    creative AI tools, and orchestrating multi-step workflows
+  - Design the orchestration and tool abstraction layer that
+    exposes Raspberry's creative AI tools as agent-callable
+    actions
+  - Architect end-to-end agentic workflows for batch design
+    operations (e.g., sketch → render → colorway → on-body →
+    tech flat)
+  - Build conversation, review, and approval interfaces that
+    keep designers in control of agent-driven outputs
+  - Evaluate and integrate agent frameworks and LLM capabilities
+    to find the best approaches for our domain
+  - Collaborate closely with ML engineers, product, and design
+    to shape the roadmap for AI-powered creative workflows
+  
+  Qualifications
+  
+  - 5+ years of software engineering experience, with meaningful
+    time building AI-native products end-to-end
+  - Hands-on experience with agent frameworks and orchestration
+    (LangGraph, Anthropic Agent SDK, CrewAI, or similar)
+  - Strong full-stack product engineering skills — our frontend
+    is React/Next.js/TypeScript, backend is FastAPI/Python
+  - Deep fluency with LLMs and generative AI — prompt
+    engineering, function calling/tool use, multimodal models
+  - Excellent communication and collaboration skills
+  
+  Nice to Have
+  
+  - Experience building collaborative or real-time applications
+    (CRDTs, WebSockets)
+  - Background in computer vision, image generation, or
+    diffusion models
+  - Experience building tools or workflows for professional
+    creatives (designers, artists, or adjacent domains)
+  - Contributions to open-source AI projects or published
+    research
+  - Comfort operating in an early-stage startup with fast
+    iteration cycles
+  
+  Benefits
+  
+  - Competitive salary and equity options
+  - Comprehensive benefits package including health, dental, and
+    vision insurance
+  - Opportunity to work on cutting-edge AI technology with a
+    high-impact team
+  - Fully remote with a supportive company culture
+  - Be part of a rapidly growing company with significant growth
+    potential
+industries:
+  - Artificial Intelligence
+  - Software
+  - Analytics
+posted_date: 2026-04-01
+url: "https://www.builtinla.com/job/ai-product-engineer/8923637"
+source: Built In

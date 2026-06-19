@@ -1,0 +1,55 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and wholesale credit risk management
+position:
+  title: Institutional Credit Management (ICM) Product Developer - Artificial Intelligence
+    (AI), Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves leading and managing Generative
+      and traditional AI products and projects to full delivery,
+      with responsibility for managing AI use cases and
+      capabilities within current platforms. The candidate must
+      have knowledge of GenAI and traditional AI implementation in
+      existing processes, indicating hands-on AI product
+      management.
+  responsibilities:
+  - Support digital transformation by re-engineering operational business processes
+    through process visualization and documentation exercises
+  - Challenge current state to design a target state that drives controls, efficiency,
+    and a better user experience
+  - Utilize modern Emerging technologies for simplification, automation, quality control
+    leading to improvement in efficiency of internal processes and systems
+  - Lead and manage ongoing Generative and traditional AI products and projects to
+    their full delivery to stakeholders
+  - Lead end users through training, user testing and desktop procedure updates
+  - Participate in design workshops that enable collaboration and conceptual solutions
+    while serving diverse personas
+  - Translate requirements into detailed user stories that can be leveraged to drive
+    software development
+  use_cases:
+  - Wholesale credit risk management transformation for institutional clients
+  - Credit origination and deal management lifecycle automation
+  - Periodic credit assessment and client monitoring using AI
+  - Portfolio limit setting and management across lending products
+  - Client management and servicing operations
+  - Financial spreading, collateral management, and covenant monitoring
+  skills:
+    genai: [Generative AI]
+    ml: [Traditional AI/ML]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Agile methodology]
+    languages: [Python]
+    domains: []
+    other: [User story writing, Process visualization and documentation, Requirements
+        creation]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8611636'
+  extracted_at: '2026-03-27T16:16:55.759952'

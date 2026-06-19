@@ -1,0 +1,57 @@
+company:
+  name: CrowdStrike
+  stage: Public
+  focus: Cloud-native cybersecurity and threat intelligence platform
+position:
+  title: Sr. Software Engineer, Service Reliability - AI Detection & Response
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      While the role is on a team that supports AI-based Detection
+      & Response, the engineer is NOT building, training, or
+      deploying ML/AI models. The responsibilities focus on
+      service reliability, distributed systems infrastructure,
+      scalability, and platform engineering to support
+      CrowdStrike's AI-native cybersecurity platform. This is
+      infrastructure/platform work that enables AI systems to run
+      reliably.
+  responsibilities:
+  - Develop and maintain backend services to meet reliability and scalability demands
+    for the AI-based Detection & Response platform
+  - Extend and build new cross-cutting libraries and shared architectural components
+    used across CrowdStrike's cloud platform
+  - Lead initiatives around reliability, scalability, performance, and cost-efficiency
+    in distributed systems
+  - Design and implement automation tools to improve reliability and efficiency of
+    infrastructure
+  - Develop and enhance monitoring, observability, and alerting services (tracing,
+    profiling, SLOs)
+  - Provide technical leadership for large-scale architectural changes and complex
+    incident management
+  - Deploy core services to new clouds and modularize codebase into reusable components
+  - Evangelize best practices for building software, especially in Go, and champion
+    new technologies
+  use_cases:
+  - AI-powered cybersecurity threat detection and response
+  - Massively scalable distributed data storage and replication for trillions of events
+    per day
+  - Distributed graph and search systems for threat intelligence
+  - Service reliability and resiliency for the Falcon cloud-native security platform
+  - Adaptive flow control and concurrency management for high-throughput event processing
+  skills:
+    genai: []
+    ml: []
+    web: [Microservices, Protobuf]
+    databases: [Cassandra, Elasticsearch]
+    data: [Kafka]
+    cloud: [AWS]
+    ops: [Distributed Systems, Kubernetes, 'Observability (Tracing, Profiling, Alerting,
+        SLOs)', CI/CD, Docker, 'Scalability (Sharding, Partitioning, Horizontal Scaling)']
+    languages: [Go, Concurrency and Multi-threading, Python, Java, Scala]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9005966'
+  extracted_at: '2026-04-22T12:48:12.688698'

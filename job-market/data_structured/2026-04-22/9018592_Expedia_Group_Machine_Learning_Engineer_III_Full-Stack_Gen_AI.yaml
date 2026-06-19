@@ -1,0 +1,58 @@
+company:
+  name: Expedia Group
+  stage: Public
+  focus: Global online travel technology and booking platform
+position:
+  title: Machine Learning Engineer III (Full-Stack Gen AI & Agentic Systems)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly hands-on building, fine-tuning, and
+      deploying LLMs, RAG pipelines, and agentic systems in
+      production. The engineer architects training pipelines,
+      builds agent orchestration, deploys inference platforms, and
+      implements evaluation frameworks — all core AI/ML model
+      development and deployment work.
+  responsibilities:
+  - Architect, implement, and scale LLM training, fine-tuning (LoRA/QLoRA), distillation,
+    and RLHF/DPO pipelines for production GenAI systems
+  - Build and optimize RAG pipelines with vector stores and retrieval memory layers
+    supporting multimodal data (vision, audio, text, music)
+  - Design and develop agentic workflows using LangChain, AutoGen, LangGraph, and
+    OpenAI Agents SDK with typed tool contracts and retry logic
+  - Integrate memory strategies including vector retrieval, episodic/semantic memory,
+    and context compression into agent workflows
+  - Build and deploy production inference platforms optimized for latency and cost
+    using vLLM, TensorRT-LLM, and DeepSpeed
+  - Implement evaluation, safety, and reliability frameworks using LangSmith, DeepEval,
+    and OpenClaw with hallucination mitigation
+  - Develop containerized cloud-ready systems with Docker, AWS/Azure; implement CI/CD
+    and model versioning with MLflow
+  - Design intuitive user interfaces and experiences for agentic systems, ensuring
+    seamless frontend-to-backend interaction
+  use_cases:
+  - Personalized travel discovery and recommendations powered by multimodal LLMs
+  - Interactive chatbot (Trip Matching) on Instagram converting travel reels and posts
+    into hotel suggestions
+  - Real-time cross-platform marketing campaign execution with AI-powered agentic
+    automation
+  - Data-driven marketing automation for Expedia Group brands
+  - Multimodal content understanding across vision, audio, text, and music for travel
+    search
+  skills:
+    genai: [LoRA/QLoRA, RLHF/DPO, RAG, LangChain, AutoGen, LangGraph, OpenAI Agents
+        SDK, Prompt Engineering, LLM Fine-tuning, Agent Orchestration]
+    ml: [PyTorch, Distributed ML Training]
+    web: []
+    databases: [Vector Stores]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [vLLM, TensorRT-LLM, DeepSpeed, MLflow, LangSmith, DeepEval, Docker, CI/CD]
+    languages: [Python]
+    domains: [NLP]
+    other: [UX/UI Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9018592'
+  extracted_at: '2026-04-22T12:57:01.245269'

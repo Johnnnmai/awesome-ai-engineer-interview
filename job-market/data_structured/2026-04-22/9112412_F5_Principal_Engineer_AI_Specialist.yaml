@@ -1,0 +1,63 @@
+company:
+  name: F5
+  stage: Public
+  focus: |-
+    Application security, delivery, and cloud infrastructure
+    solutions
+position:
+  title: Principal Engineer – AI Specialist
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly responsible for designing, deploying,
+      and building AI-driven systems including GPT-based
+      solutions, intelligent agents, reinforcement learning
+      frameworks, and autonomous agentic workflows. The engineer
+      works hands-on with models, fine-tuning, and embedding AI
+      capabilities into products and platforms.
+  responsibilities:
+  - Lead the design and deployment of advanced AI-driven systems including GPT-based
+    solutions, reinforcement learning frameworks, and autonomous agentic workflows
+  - Develop intelligent agents capable of handling complex tasks, decision-making,
+    and automating workflows within F5 products and platforms
+  - Develop and optimize large-scale distributed AI infrastructure ensuring fault
+    tolerance, resilience, scalability, and performance
+  - Implement advanced observability systems for AI applications leveraging telemetry
+    pipelines and data quality validation
+  - Build frameworks for automated data ingestion, transformation, and validation
+    at scale across distributed systems
+  - Design CI/CD pipelines tailored for AI workflows including validation, automation,
+    and monitoring for model updates and deployments
+  - Create AI architecture roadmaps aligned with organizational goals and partner
+    with cross-functional teams to embed AI capabilities
+  - Mentor engineering teams on AI development, distributed system reliability, and
+    automation strategies
+  use_cases:
+  - Intelligent agents for automating workflows and complex decision-making within
+    F5 security and application delivery products
+  - Generative AI capabilities including personalization and contextual understanding
+    for F5 platforms
+  - Real-time anomaly detection and predictive analytics for distributed AI systems
+  - Conversational AI and natural language processing for customer-facing applications
+  - Synthetic data generation for model benchmarking and stress testing
+  - Predictive modeling and failure recovery simulation for cloud environments
+  skills:
+    genai: [GPT-4 / OpenAI APIs, LangChain, AutoGPT, RAG, Prompt engineering, RASA,
+      Dialogflow, Multi-agent frameworks]
+    ml: [PyTorch, TensorFlow / TFX, Hugging Face Transformers, scikit-learn, Reinforcement
+        learning, GANs, Transformer models]
+    web: [FastAPI, REST APIs, GraphQL]
+    databases: [ClickHouse, Apache Iceberg, Amazon S3]
+    data: [Kafka, Apache Flink, Apache Spark]
+    cloud: [AWS, Azure, GCP, AWS Bedrock / SageMaker, Azure AI Studio, Google Vertex
+        AI]
+    ops: [Kubernetes, Docker, Helm, Terraform, OpenShift, Prometheus, Grafana, Datadog,
+      OpenTelemetry, CI/CD, MLflow]
+    languages: [Python, Go, JavaScript]
+    domains: [NLP, Computer Vision, Predictive analytics]
+    other: [Locust, Gatling, JMeter]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9112412'
+  extracted_at: '2026-04-22T12:34:39.583682'

@@ -1,0 +1,52 @@
+company:
+  name: Sage
+  stage: Series A
+  focus: |-
+    AI-powered fall detection and emergency response for senior
+    living facilities
+position:
+  title: Senior AI Engineer - Detect
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first: the engineer owns the end-
+      to-end lifecycle of AI/ML models powering a camera-based
+      fall detection system, including fine-tuning multi-modal
+      vision models, prompt engineering, training pipelines, and
+      production deployment. The work directly involves building,
+      improving, and deploying AI models rather than supporting
+      infrastructure for others.
+  responsibilities:
+  - Improve detection accuracy and reduce false positives through prompt engineering,
+    model fine-tuning, and novel inference strategies
+  - Work closely with the backend engineering team to integrate model improvements
+    into the real-time video processing pipeline
+  - Own and evolve the ML experimentation platform, maturing existing infrastructure
+    into a production-grade system
+  - Build data pipelines for collecting, labeling, and preparing production video
+    and image data for model training
+  - Design repeatable fine-tuning and evaluation pipelines that enable rapid experimentation
+    and measure model performance at scale
+  - Expand detection capabilities into new behavioral categories beyond fall detection
+  use_cases:
+  - Real-time fall detection for older adults in senior living facilities using camera-based
+    vision models
+  - Multi-modal video stream analysis to detect behavioral events and emergencies
+  - Emergency response triage system enabling caregivers to respond to resident needs
+  - Behavioral category detection expanding beyond falls to broader elder care monitoring
+  skills:
+    genai: [Prompt engineering]
+    ml: [Model fine-tuning, Multi-modal vision models (VLMs), Model evaluation methodology]
+    web: [React]
+    databases: []
+    data: [Data pipelines]
+    cloud: [Google Vertex AI, AWS SageMaker]
+    ops: [Experiment tracking, Data labeling, Inference optimization]
+    languages: [Python, TypeScript, Kotlin, Java]
+    domains: [Computer vision, Video processing]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8919979'
+  extracted_at: '2026-04-22T14:11:17.500902'

@@ -1,0 +1,57 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: Public
+  focus: Global edge-to-cloud technology and services company
+position:
+  title: AI and Machine Learning Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on designing, developing, and implementing
+      traditional ML models including data preprocessing, feature
+      engineering, algorithm selection, model training, and
+      evaluation. The required skills emphasize TensorFlow,
+      PyTorch, scikit-learn, deep learning, neural networks, and
+      NLP — classic ML/DL work without specific mention of LLMs,
+      agents, or GenAI frameworks.
+  responsibilities:
+  - Design, develop, and implement AI and machine learning models including data preprocessing,
+    feature engineering, algorithm selection, model training, and evaluation
+  - Gather and analyze relevant datasets to train and test ML models using statistical
+    methods and data visualization
+  - Optimize algorithms and models by fine-tuning hyperparameters, conducting experiments,
+    and employing feature selection or dimensionality reduction methods
+  - Collaborate with cross-functional teams including data scientists, software engineers,
+    product managers, and domain experts to integrate AI/ML solutions
+  - Maintain accurate project documentation including methodologies, code, experimental
+    results, and prepare reports for stakeholders
+  - Participate in design review sessions and stand-up meetings to align on project
+    requirements and coordinate efforts
+  - Prepare and deliver detailed presentations and reports to stakeholders communicating
+    complex technical information clearly
+  - Interpret and report data findings and maintain or update business intelligence
+    tools, databases, and dashboards
+  use_cases:
+  - Financial data analysis and capital strategy optimization within Finance and Corporate
+    Strategy team
+  - Predictive and prescriptive analytics for business decision support
+  - Automated data-driven insights from structured and unstructured financial data
+  - Business intelligence and reporting through dashboards and data visualization
+  - Product and systems performance improvement through ML model integration
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn, Deep Learning, Neural Networks, Reinforcement
+        Learning, Feature Engineering, Hyperparameter Tuning]
+    web: [Full Stack Development]
+    databases: []
+    data: [Data Visualization, Matplotlib, Tableau, Data Engineering]
+    cloud: []
+    ops: [Machine Learning Operations, Scalability Testing]
+    languages: [Python, R, Java, SQL]
+    domains: [Natural Language Processing]
+    other: [Statistics, Linear Algebra, Probability]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9123849'
+  extracted_at: '2026-04-22T12:46:39.585500'

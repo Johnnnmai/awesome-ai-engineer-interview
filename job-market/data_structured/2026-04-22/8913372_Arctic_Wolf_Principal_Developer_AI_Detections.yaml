@@ -1,0 +1,57 @@
+company:
+  name: Arctic Wolf
+  stage: Public
+  focus: Cybersecurity managed detection and response (MDR) platform
+position:
+  title: Principal Developer, AI Detections
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on building and architecting
+      AI-driven systems. The engineer will design
+      LangChain/LangGraph-based agentic AI frameworks, integrate
+      LLMs for autonomous decision-making, define MLOps
+      architecture for model lifecycle and deployment, and build
+      AI-powered threat detection systems. This is hands-on work
+      with AI/ML models, agents, and GenAI frameworks.
+  responsibilities:
+  - Act as technical authority and system architect for the AI Threat Intel Platform,
+    driving long-term architecture and design decisions
+  - Architect and build advanced agentic AI frameworks using LangChain, LangGraph,
+    or similar technologies for reasoning, orchestration, and autonomous execution
+  - Design and guide implementation of highly scalable backend platforms and microservices
+    using Python, Go, and cloud-native technologies
+  - Design and evolve AI-driven fraud, risk, and anomaly detection systems operating
+    at global scale
+  - Define and evolve MLOps architecture including model lifecycle management, deployment
+    strategies, monitoring, and real-time inference
+  - Drive integration of LLMs and autonomous agents for dynamic pattern detection,
+    correlation, decision automation, and adaptive response
+  - Design event-driven, real-time pipelines using AWS services including DynamoDB,
+    Lambda, EKS/Kubernetes, streaming, and messaging frameworks
+  - Partner with product, data science, threat intelligence, and platform leadership
+    to align technical execution with business and security outcomes
+  use_cases:
+  - AI-driven fraud and risk detection at global scale
+  - Autonomous anomaly detection and behavioral modeling for cybersecurity
+  - Agentic AI reasoning frameworks for threat intelligence analysis
+  - Real-time pattern detection and correlation using LLMs
+  - Dynamic decision automation and adaptive cyber defense response
+  - Large-scale MLOps for model deployment and inference in production security systems
+  skills:
+    genai: [LangChain, LangGraph, Semantic Kernel, LLM orchestration, Prompt engineering,
+      Agentic AI systems]
+    ml: [PyTorch, TensorFlow, Scikit-learn, Feature engineering]
+    web: [Microservices architecture, Event-driven architecture]
+    databases: []
+    data: []
+    cloud: [AWS, AWS RDS, AWS DynamoDB, AWS Lambda]
+    ops: [Kubernetes, Docker, Terraform, MLOps, Model deployment]
+    languages: [Python, Go]
+    domains: [Cybersecurity]
+    other: [Distributed systems, Fraud detection, Anomaly detection]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8913372'
+  extracted_at: '2026-04-22T14:12:35.133016'

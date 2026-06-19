@@ -1,0 +1,50 @@
+company:
+  name: Stripe
+  stage: Public
+  focus: |-
+    Financial infrastructure platform for payments and business
+    services
+position:
+  title: Software Engineer, Data & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a general software engineering role on a Data
+      Foundations team that builds data infrastructure and
+      platforms. While the team "invests in AI Data Ops" and
+      builds "innovative (AI) tools/platforms/services," the role
+      itself focuses on designing systems, APIs, and distributed
+      infrastructure - not on building, training, fine-tuning, or
+      deploying AI models. The work enables AI work for others
+      rather than directly working on AI systems.
+  responsibilities:
+  - Design, build, and maintain APIs, services, and systems across Stripe's engineering
+    teams
+  - Build new features at large-scale working with engineers across the company
+  - Maintain a collaborative environment engaging in discussions and decision-making
+    with stakeholders
+  - Create configurable and scalable platform solutions globally
+  - Partner with various functions at Stripe on financial platform systems and user-facing
+    business impact
+  use_cases:
+  - Data infrastructure enabling Stripes to leverage data for informed decisions
+  - Building pipelines processing billions of events per day
+  - Managing canonical data warehouses and datasets for Stripe products
+  - Revenue and Finance Automation suite for billing, tax, reporting, and data services
+  - AI Data Ops for scaling incident handling and data incident management
+  skills:
+    genai: []
+    ml: []
+    web: [API Design, REST APIs]
+    databases: [Data Warehouses]
+    data: [Data Pipelines]
+    cloud: []
+    ops: []
+    languages: [Python, Java, Go, SQL]
+    domains: []
+    other: [Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8242523'
+  extracted_at: '2026-03-03T12:39:07.349899'

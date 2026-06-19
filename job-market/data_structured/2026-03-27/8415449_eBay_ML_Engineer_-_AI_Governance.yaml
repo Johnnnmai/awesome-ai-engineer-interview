@@ -1,0 +1,51 @@
+company:
+  name: eBay
+  stage: Public
+  focus: Global e-commerce marketplace platform
+position:
+  title: ML Engineer - AI Governance
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building evaluation and monitoring tools
+      for LLM/VLM systems, developing automated review pipelines
+      for AI applications, and defining technical standards for
+      GenAI development. The engineer works directly on AI
+      governance infrastructure and ML engineering reviews for
+      deployed AI systems.
+  responsibilities:
+  - Design, develop, and deploy AI governance tooling including evaluation and monitoring
+    tools for LLM and VLM applications
+  - Review GenAI applications (LLMs, VLMs, Conversational Search, Agentic Systems)
+    from science and ML engineering perspectives
+  - Define ML engineering and scientific best practices and anti-patterns for model
+    development, validation, testing, and deployment
+  - Conduct research on AI governance methodologies for LLM/VLM/Agentic applications
+  - Design and build scalable pipelines and workflows for evaluation, monitoring,
+    reproducible datasets, and experimentation
+  - Write maintainable Python code and ensure evaluation processes are reliable and
+    automated
+  use_cases:
+  - GenAI evaluation and monitoring for LLM and VLM applications
+  - Content moderation systems for e-commerce platform
+  - AI governance and compliance tooling
+  - Automated ML engineering reviews of AI applications
+  - Conversational search systems evaluation
+  skills:
+    genai: [LLMs, VLMs, Agentic Systems, Conversational Search, Content moderation,
+      AI safety, LLM evaluation]
+    ml: [PyTorch, TensorFlow, Model inference optimization, Feature engineering, Model
+        evaluation metrics]
+    web: []
+    databases: []
+    data: [Spark]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP, Information Retrieval]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8415449'
+  extracted_at: '2026-03-27T13:49:36.358698'

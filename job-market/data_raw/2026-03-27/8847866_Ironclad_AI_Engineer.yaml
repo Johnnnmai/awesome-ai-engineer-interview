@@ -1,0 +1,172 @@
+job_id: 8847866
+title: AI Engineer
+company: Ironclad
+location: 
+work_type: FULL_TIME
+level: Mid level
+skills:
+  - AWS
+  - Azure
+  - GCP
+  - Huggingface
+  - Langchain
+  - Openai Apis
+  - Python
+  - PyTorch
+  - Restful Apis
+  - Rivet
+company_size: 543 Employees
+description: |
+  Ironclad is the leading AI contracting platform that
+  transforms agreements into assets. Contracts move faster,
+  insights surface instantly, and agents push work forward,
+  all with you in control. Whether you’re buying or selling,
+  Ironclad unifies the entire process on one intelligent
+  platform, providing leaders with the visibility they need to
+  stay one step ahead. That’s why the world’s most
+  transformative organizations, from Rivian to the World
+  Health Organization and the Associated Press, trust Ironclad
+  to accelerate their business.
+  
+  We’re consistently recognized as a leader in the industry: a
+  Leader in the Forrester Wave and Gartner Magic Quadrant for
+  Contract Lifecycle Management, a Fortune Great Place to
+  Work, and one of Fast Company’s Most Innovative Workplaces.
+  Ironclad has also been named to Forbes’ AI 50 and Business
+  Insider’s list of Companies to Bet Your Career On. We’re
+  backed by leading investors including Accel, Y Combinator,
+  Sequoia, BOND, and Franklin Templeton. For more information,
+  visit www.ironcladapp.com or follow us on LinkedIn.
+  
+  This is a hybrid role. Office attendance is required at
+  least twice a week on Tuesdays and Thursdays for
+  collaboration and connection. There may be additional in-
+  office days for team or company events.
+  
+  AI Engineering @ Ironclad
+  
+  Ironclad is accelerating its AI initiatives to transform how
+  legal teams manage contracts. We're looking for a AI/ML
+  Engineer to help shape the future of legal AI. In this role,
+  you’ll work with cutting-edge tools such as HuggingFace,
+  OpenAI APIs, and Rivet to develop state-of-the-art models
+  and intelligent systems that extract structured insights
+  from contracts and power product features used by leading
+  legal teams.
+  
+  You’ll partner closely with product managers and designers
+  to translate user needs into AI-powered product
+  capabilities. You’ll also lead efforts in model evaluation,
+  iteration, and deployment—ensuring our systems are robust,
+  explainable, and continuously improving. As part of our end-
+  to-end ownership model, you’ll contribute to the MLOps stack
+  to ensure our models are scalable, reliable, and performant
+  in production.
+  
+  What you'll be doing:
+  
+  - Build and Tune models and AI capabilities that ingest legal
+    documents, extract key information, and deliver actionable
+    insights to customers
+  - Implementing backend services that power document
+    understanding, classification, and natural language search
+  - Explore and apply cutting-edge techniques in NLP, LLM
+    integration, Prompt / Context Engineering, and semantic
+    search to advance Ironclad’s AI/ML vision
+  - Design and maintain robust systems for prompt management,
+    model training / tuning, orchestration, evaluation &
+    inference, with a focus on scalability, reliability, and
+    observability
+  - Develop and scale retrieval-augmented generation (RAG)
+    systems and agent-based orchestration frameworks for
+    complex legal workflows
+  - Help build foundational AI/ML infrastructure, including
+    tools for experimentation, model versioning, and
+    online/offline performance monitoring
+  - Partner closely with product managers and designers to shape
+    user-facing AI experiences and deliver value through APIs
+    and intelligent features
+  
+  Required skills:
+  
+  - BS degree in Computer Science, Engineering, or a related
+    field
+  - Experience working with large language models (e.g., GPT,
+    Claude) or building RAG systems
+  - Experience with embedding models and vector databases
+  - Experience in training, evaluating, and serving machine
+    learning models
+  - Hands-on experience with Python, backend service
+    development, and RESTful APIs
+  - Experience in NLP techniques such as text classification,
+    entity extraction, document understanding, or question
+    answering
+  - Proficiency with AI frameworks and APIs (e.g., PyTorch,
+    TensorFlow, HuggingFace , OpenAI , LangChain)
+  - Experience with cloud platforms (e.g., GCP, AWS, Azure)
+  - Solid understanding of Git or other version control systems
+  - Strong engineering fundamentals and attention to code
+    quality, testing, and maintainability
+  - Excellent communication and collaboration skills
+  - Passion for building AI products that solve real-world
+    customer problemsS
+  
+  Nice to have:
+  
+  - Familiarity with Vertex AI or other managed ML platforms
+  - Experience working with PDF and DOCX parsing for document
+    ingestion
+  - Comfort with Docker and containerized development
+  - Familiarity with CI/CD systems (e.g., GitHub Actions,
+    CircleCI)
+  - Monitoring and observability with tools like Datadog or
+    equivalent
+  - Experience with data processing and analysis using tools
+    like SQL, Pandas, NumPy, or PySpark
+  
+  Base Salary Range: $150,000 - $180,000
+  
+  The base salary range represents the minimum and maximum of
+  the salary range for this position based at our San
+  Francisco headquarters. The actual base salary offered for
+  this position will depend on numerous factors, including
+  individual proficiency, anticipated performance, and the
+  location of the selected candidate. Our base salary is just
+  one component of Ironclad’s competitive total rewards
+  package, which also includes equity awards (a new hire
+  grant, along with opportunities for additional awards
+  throughout your tenure), competitive health and wellness
+  benefits, and a commitment to career growth and development.
+  
+  US Full-Time Employee Benefits at Ironclad:
+  
+  - 100% health coverage for employees (medical, dental, and
+    vision), and 75% coverage for dependents with buy-up plan
+    options available
+  - Market-leading leave policies, including gender-neutral
+    parental leave and compassionate leave
+  - Family forming support through Maven for you and your
+    partner
+  - Paid time off - take the time you need, when you need it
+  - Monthly stipends for wellbeing, hybrid work, and (if
+    applicable) cell phone use
+  - Mental health support through Modern Health, including
+    therapy, coaching, and digital tools
+  - Pre-tax commuter benefits (US Employees)
+  - 401(k) plan with Fidelity with employer match (US Employees)
+  - Regular team events to connect, recharge, and have fun
+  - And most importantly: the opportunity to help build the
+    company you want to work at
+  
+  **UK Employee-specific benefits are included on our UK job
+  postings
+  
+  Pursuant to the San Francisco Fair Chance Ordinance, we will
+  consider for employment qualified applicants with arrest and
+  conviction records.
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-03-24
+url: "https://builtin.com/job/ai-engineer/8847866"
+source: Built In

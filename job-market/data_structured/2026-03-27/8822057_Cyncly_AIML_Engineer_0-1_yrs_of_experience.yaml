@@ -1,0 +1,51 @@
+company:
+  name: Cyncly
+  stage: Private Equity-backed
+  focus: |-
+    End-to-end software solutions for customizable products and
+    spaces design in Kitchen & Bath, Furniture, Window, Glass &
+    Door, and Flooring industries
+position:
+  title: AI/ML Engineer  (0-1 yrs of experience)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing and implementing AI and computer
+      vision models, crafting APIs that integrate AI model-based
+      solutions, and working on cutting-edge AI-based solutions as
+      part of an AI Center of Innovation. This is hands-on work
+      building and deploying AI/ML systems, not support
+      infrastructure.
+  responsibilities:
+  - Design and implement AI and computer vision model-based solutions to meet business
+    requirements
+  - Build REST APIs that integrate AI model-based solutions with client applications
+  - Design DB schema for Vector Database and write efficient, scalable queries
+  - Create quick POCs to demonstrate technology capabilities in solving business needs
+  - Build robust deployment pipelines using Azure DevOps tools with CI/CD
+  - Collaborate with Data Scientists and Data Engineers on enterprise system design
+  - Troubleshoot and debug issues with tactical and permanent solutions
+  - Maintain unit testing, integration testing, and automated test environments
+  use_cases:
+  - AI-powered design solutions for customizable products and spaces
+  - Computer vision applications for Kitchen & Bath, Furniture, Window, Glass & Door,
+    and Flooring industries
+  - Personalized customer experiences through AI functionality
+  - Internal user productivity support through AI-based tools
+  - Enterprise search and content discovery for product content repository
+  skills:
+    genai: [Gen AI]
+    ml: [TensorFlow, PyTorch, OpenCV, Pillow, scikit-image, Deep Learning]
+    web: [REST APIs]
+    databases: [Vector Database]
+    data: []
+    cloud: []
+    ops: [Azure DevOps]
+    languages: [Python, SQL]
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8822057'
+  extracted_at: '2026-03-27T13:38:45.554168'

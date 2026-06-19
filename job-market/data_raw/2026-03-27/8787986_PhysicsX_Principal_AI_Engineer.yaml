@@ -1,0 +1,156 @@
+job_id: 8787986
+title: Principal AI Engineer
+company: PhysicsX
+location: London, GBR
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Arize
+  - Braintrust
+  - Docker
+  - Go
+  - Kubernetes
+  - Langchain
+  - Langgraph
+  - Langsmith
+  - Otel
+  - Python
+company_size: 67 Employees
+description: |
+  About us
+  
+  PhysicsX is a deep-tech company with roots in numerical
+  physics and Formula One, dedicated to accelerating hardware
+  innovation at the speed of software.
+  
+  We are building an AI-driven simulation software stack for
+  engineering and manufacturing across advanced industries. By
+  enabling high-fidelity, multi-physics simulation through AI
+  inference across the entire engineering lifecycle, PhysicsX
+  unlocks new levels of optimization and automation in design,
+  manufacturing, and operations — empowering engineers to push
+  the boundaries of possibility. Our customers include leading
+  innovators in Aerospace & Defense, Materials, Energy,
+  Semiconductors, and Automotive.
+  
+  The Mission
+  
+  We’re looking for an enthusiastic and opinionated Principal
+  AI Engineer to define how AI agents transform Engineering
+  workflows across industries such as Manufacturing,
+  Aerospace, and Semi-conductor. You'll be building the
+  foundations that power next-generation simulation and design
+  tools used by industry-leading engineering teams. Our
+  platform allows Forward Deployed Engineers (FDEs) and
+  customers to build and deploy deep learning surrogates that
+  solve massive engineering challenges.
+  
+  Your mission is to architect the Agentic stack within this
+  wider ecosystem. You will build a production-grade platform
+  that enables our Product teams, FDEs, and customers to
+  compose advanced AI workflows safely, transparently, and
+  reliably.
+  
+  - You will set the strategic direction for our platform's
+    critical infrastructure and lead key implementation
+    efforts.
+  - You are someone with the scar tissue of running agents in
+    production.
+  - You have strong, reasoned opinions on emerging open
+    standards (such as MCP, A2A, and ACP) and deep expertise
+    in complex architectural patterns like durable execution
+    and agent memory.
+  - You are passionate about building a world-class developer
+    experience that transforms complex research into robust,
+    deployed engineering solutions.
+  
+  Core Responsibilities
+  
+  You will serve as the principal architect for our Agentic
+  ecosystem, responsible for the high-level design choices
+  that define how agents run at PhysicsX. You will cover
+  topics such as:
+  
+  - Agent Observability: Own the implementation to enforce deep
+    tracing, granular cost tracking, and observability across
+    the lifecycle.
+  - Agent Deployment: Deliver an intuitive deployment lifecycle
+    which simplifies questions around auth, discoverability
+    and resource requirements.
+  - Agent Sandboxing: Architect secure environments to isolate
+    and allow agents to operate safely.
+  - Agent Evals: Implement a stack that empowers domain experts
+    to efficiently annotate traces, turning qualitative
+    feedback into quantitative, reproducible evaluation
+    datasets.
+  - Agent Governance: Implement robust identity and access
+    patterns to ensure agents can safely and correctly act on
+    behalf of users in a regulated enterprise environment.
+  
+  The Tech Stack
+  
+  - Core Platform: Python (Primary), Go or TypeScript
+    (Secondary), Kubernetes, Docker, Terraform.
+  - Agentic Infrastructure: LangGraph/LangChain, Temporal
+    (Durable Execution), Vector DBs (Pinecone/Weaviate).
+  - Observability & Evals: OTel, LangSmith, Arize, Braintrust.
+  
+  Who You Are
+  
+  - An Architect at Heart: You have strong, reasoned opinions on
+    Durable Execution vs. Standard Async, Vector Search vs.
+    Keyword Search, and Prompt Management strategies.
+  - Platform-First: You care deeply about the Developer
+    Experience (DevEx) of the Customers, FDEs consuming your
+    platform. You build tools that make the "right way" the
+    "easy way."
+  - Security-Minded: You understand the risks of allowing LLMs
+    to execute code and access data, and you know how to
+    mitigate them via rigid sandboxing and permissioning.
+  
+  Qualifications
+  
+  - Platform & Backend Foundations:
+    - 4+ years of experience in Platform Engineering, Backend, or
+      SRE.
+    - Strong proficiency in Python/Go, Kubernetes, Docker, and IaC
+      (Terraform).
+  - Agentic & AI Engineering:
+    - Production experience designing Agentic architectures
+      (chains, tools, memory).
+    - Familiarity with Agentic frameworks (LangGraph, PydanticAI)
+      and patterns like durable execution.
+    - Understanding of LLM-specific lifecycle issues: non-
+      determinism, systematic evals, and token-based cost
+      tracking.
+  
+  Bonus Points
+  
+  - Background in Engineering workflows or simulation platforms.
+  - Experience building internal developer platforms (IDPs).
+  
+  
+  
+  We value diversity and are committed to equal employment
+  opportunity regardless of sex, race, religion, ethnicity,
+  nationality, disability, age, sexual orientation or gender
+  identity. We strongly encourage individuals from groups
+  traditionally underrepresented in tech to apply. To help
+  make a change, we sponsor bright women from disadvantaged
+  backgrounds through their university degrees in science and
+  mathematics.
+  
+  
+  
+  We collect diversity and inclusion data solely for the
+  purpose of monitoring the effectiveness of our equal
+  opportunities policies and ensuring compliance with UK
+  employment and equality legislation. This information is
+  confidential, used only in aggregate form, and will not
+  influence the outcome of your application.
+industries:
+  - Machine Learning
+  - Software
+posted_date: 2026-03-18
+url: "https://builtin.com/job/principal-ai-engineer/8787986"
+source: Built In

@@ -1,0 +1,52 @@
+company:
+  name: Formula 1
+  stage: Public
+  focus: Global motorsport racing series and entertainment spectacle
+position:
+  title: AI/ML/Data Science Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing, developing, and
+      deploying ML models (computer vision, NLP, predictive
+      analytics, anomaly detection) as well as building scalable
+      inference pipelines and model monitoring workflows. The
+      engineer is hands-on with building and productionizing AI/ML
+      systems, making this clearly an ai-first role.
+  responsibilities:
+  - Design, develop, and deploy machine learning models for predictive analytics,
+    computer vision, NLP, and anomaly detection
+  - Build scalable inference pipelines for real-time and batch processing
+  - Implement model monitoring, drift detection, and retraining workflows
+  - Rapidly prototype and validate AI/ML ideas before scaling into production
+  - Design and maintain robust data pipelines integrating telemetry, video, event
+    operations, and commercial data
+  - Develop APIs and services to expose analytics capabilities to internal stakeholders
+  - Collaborate cross-functionally with broadcast, commercial, cybersecurity, motorsport,
+    and trackside operations teams
+  - Implement responsible AI practices and support data privacy, governance, and regulatory
+    compliance
+  use_cases:
+  - Predictive analytics for performance trends and operational forecasting in motorsport
+  - Computer vision for video analysis, racing systems, and media enhancement
+  - NLP for fan insights, content intelligence, and knowledge systems
+  - Anomaly detection for trackside operational reliability and racing telemetry monitoring
+  - Real-time telemetry and timing data analysis for race-critical systems
+  - Commercial and digital engagement analytics
+  skills:
+    genai: []
+    ml: [Predictive Analytics, Anomaly Detection, Statistics and Probability, Feature
+        Engineering]
+    web: [REST APIs]
+    databases: [Data Warehouses]
+    data: [Streaming Data Systems]
+    cloud: [Cloud Platforms]
+    ops: [Model Monitoring & Drift Detection, Docker, Kubernetes, Edge Computing]
+    languages: [Python, SQL]
+    domains: [Computer Vision, NLP]
+    other: [Sensor Fusion, IoT Data]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9078973'
+  extracted_at: '2026-04-22T13:51:33.735942'

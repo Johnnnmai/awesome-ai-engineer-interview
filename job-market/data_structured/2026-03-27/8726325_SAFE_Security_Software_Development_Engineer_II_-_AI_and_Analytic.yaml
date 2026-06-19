@@ -1,0 +1,54 @@
+company:
+  name: SAFE Security
+  stage: Unknown
+  focus: |-
+    Building CyberAGI for autonomous cybersecurity threat
+    prediction and remediation
+position:
+  title: Software Development Engineer II - AI and Analytics
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI-driven
+      solutions including RAG, AI agents, and foundational models.
+      The engineer will implement and evaluate AI models (OpenAI,
+      Claude, Titan) and deploy them into production environments,
+      making this hands-on work with AI systems rather than
+      support infrastructure.
+  responsibilities:
+  - Design, build, and deploy scalable AI-driven analytics solutions using RAG, AI
+    agents, and foundational models
+  - Architect scalable, secure, and performant AI-driven microservices with cross-functional
+    teams
+  - Develop efficient solutions using AWS cloud services including Bedrock, Lambda,
+    EC2, S3, and RDS
+  - Implement and evaluate various AI models (OpenAI, Anthropic Claude, Amazon Titan)
+    analyzing trade-offs in latency, cost, accuracy, and scalability
+  - Ensure high-quality code through rigorous code reviews and continuous improvement
+    processes
+  - Address complex technical challenges, identify root causes, and provide effective
+    solutions
+  - Collaborate closely with product managers, designers, and stakeholders to align
+    technical solutions with business goals
+  use_cases:
+  - Autonomous cybersecurity threat prediction
+  - Real-time threat detection and analysis
+  - Automated threat remediation
+  - AI-powered security analytics and insights
+  - Cyber breach prevention through intelligent monitoring
+  skills:
+    genai: [RAG, AI Agents, Foundational Models, OpenAI API, Anthropic Claude]
+    ml: []
+    web: [Express]
+    databases: [SQL, NoSQL databases]
+    data: []
+    cloud: [AWS Bedrock, AWS Lambda, AWS EC2, AWS S3, AWS RDS, AWS ECS]
+    ops: [Docker, Kubernetes, AWS CloudFormation]
+    languages: [Python, NodeJS, Go, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8726325'
+  extracted_at: '2026-03-27T13:44:31.877067'

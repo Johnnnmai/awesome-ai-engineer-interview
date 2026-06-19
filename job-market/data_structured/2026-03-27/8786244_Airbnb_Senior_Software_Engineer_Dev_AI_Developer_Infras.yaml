@@ -1,0 +1,48 @@
+company:
+  name: Airbnb
+  stage: Public
+  focus: Vacation rental marketplace and hospitality platform
+position:
+  title: Senior Software Engineer, Dev AI, Developer Infrastructure
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building agentic coding tools, AI
+      workflow platforms, and SDKs for internal AI app
+      development. The team actively works on AI-assisted code
+      migration and creates foundational AI tooling
+      infrastructure, which constitutes hands-on work building and
+      deploying AI systems.
+  responsibilities:
+  - Shape and drive AI for Developers strategy from ideation through shipping
+  - Build agentic coding tools and asynchronous AI workflow platforms
+  - Develop SDKs for rapid internal AI app development
+  - Create AI-assisted code migration tools
+  - Make architectural and technical decisions balancing innovation with operability
+  - Serve as AI consultant and coach to empower teams across the company
+  - Champion engineering excellence through high-quality code and reliable systems
+  - Participate in on-call rotations and drive operational excellence
+  use_cases:
+  - Agentic coding tools for developer productivity
+  - Asynchronous AI workflow automation
+  - Internal AI application development
+  - AI-assisted code migration
+  - Domain-specific AI tool creation for teams across the company
+  - Developer productivity enhancement across the software development lifecycle
+  skills:
+    genai: [LangChain, LangGraph, OpenAI API, Claude API, Prompt Engineering, RAG,
+      AI Agents]
+    ml: []
+    web: [FastAPI, GraphQL, REST APIs]
+    databases: [Postgres, Redis, Vector databases]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD, MLflow]
+    languages: [Python, TypeScript, Go, Kotlin]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8786244'
+  extracted_at: '2026-03-27T14:52:14.825268'

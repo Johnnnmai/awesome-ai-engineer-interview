@@ -1,0 +1,50 @@
+company:
+  name: Gen
+  stage: Public
+  focus: |-
+    Cybersecurity, online privacy, identity protection and
+    financial wellness solutions for consumers
+position:
+  title: AI First Software QA Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA automation role that uses AI-assisted tools
+      like GitHub Copilot and Cursor to accelerate testing work,
+      but does not involve building, training, or deploying AI/ML
+      systems. The role focuses on test automation frameworks and
+      quality assurance for web and mobile platforms, with AI
+      tools being used to enhance productivity rather than working
+      directly on AI systems.
+  responsibilities:
+  - Apply AI-assisted tools (GitHub Copilot, Cursor) to accelerate test design and
+    improve coverage
+  - Design and maintain automation frameworks using Playwright, Selenium, and Appium
+  - Write clean, maintainable automation code in Java, Kotlin, JavaScript, or TypeScript
+  - Build fast, reliable, low-flakiness test suites integrated into CI/CD pipelines
+  - Perform whitebox testing by understanding application flows, business logic, and
+    frontend-API interactions
+  - Troubleshoot complex UI and integration issues through debugging and log analysis
+  - Collaborate closely with engineering teams to improve testability, coverage, and
+    overall release quality
+  use_cases:
+  - Test automation for web and mobile applications
+  - Quality assurance for cybersecurity and consumer protection products
+  - Regression testing and release confidence for frontend and mobile platforms
+  - CI/CD pipeline integration for automated testing
+  skills:
+    genai: [GitHub Copilot, Cursor]
+    ml: []
+    web: [Playwright, Selenium, Appium, React]
+    databases: []
+    data: []
+    cloud: []
+    ops: [GitHub Actions, Jenkins, TeamCity, CI/CD]
+    languages: [Java, Kotlin, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8660486'
+  extracted_at: '2026-03-27T14:13:23.773653'

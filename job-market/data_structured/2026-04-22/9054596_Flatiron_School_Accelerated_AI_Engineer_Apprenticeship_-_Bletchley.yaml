@@ -1,0 +1,48 @@
+company:
+  name: Flatiron School
+  stage: Private
+  focus: Tech education and coding bootcamp provider
+position:
+  title: Accelerated AI Engineer Apprenticeship - Bletchley Fellowship
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an apprenticeship/bootcamp program where early-
+      career developers learn AI and data science while doing
+      general software engineering work at employer partners.
+      Apprentices contribute to software projects, write code, and
+      support feature development—they are not directly building,
+      training, fine-tuning, or deploying AI/ML models themselves.
+      The AI/ML content is primarily educational (coursework), and
+      the work component is general software engineering.
+  responsibilities:
+  - Attend and complete the Flatiron School Data Science & AI Bootcamp as part of
+    the apprenticeship
+  - Contribute to software projects for the host employer partner
+  - Write clean, maintainable and testable code using modern frameworks and tools
+  - Collaborate in sprint-based workflows and participate in code reviews
+  - Support feature development, debugging, documentation, and QA processes
+  - Build a portfolio of production-level work while growing technical and collaborative
+    skills
+  - Receive ongoing mentorship from senior developers and product leaders
+  use_cases:
+  - General software product development for employer partners
+  - Building and shipping software features in production environments
+  - Applying data science thinking to software engineering challenges
+  - Portfolio development through production-ready project contributions
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: [Frontend Development, Backend Development]
+    databases: [SQL, NoSQL]
+    data: [Data Science]
+    cloud: []
+    ops: [Agile/Scrum]
+    languages: [Python, JavaScript, Java]
+    domains: []
+    other: [Code Review, Testing, Debugging, QA]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9054596'
+  extracted_at: '2026-04-22T13:21:11.766690'

@@ -1,0 +1,58 @@
+company:
+  name: GitLab
+  stage: Public
+  focus: DevSecOps platform for software development lifecycle
+position:
+  title: 'Staff Backend Engineer, SSCS: AI Governance'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and building backend systems
+      that directly govern AI agents (GitLab Duo) — including
+      audit event systems, policy enforcement frameworks, and
+      integration layers between the Duo Agent Platform and
+      governance capabilities. While it doesn't involve training
+      models, it involves building the infrastructure that
+      observes, controls, and enforces policies on AI agent
+      actions at scale, which is hands-on work with AI systems.
+  responsibilities:
+  - Define and drive backend architecture for AI governance systems including auditability,
+    policy enforcement, and enterprise reporting capabilities
+  - Design the AI audit event system including event schema, pipelines, storage patterns,
+    retention, and export surfaces for compliance reporting
+  - Build and guide the integration layer between the Duo Agent Platform and governance
+    capabilities so agent actions can be observed and controlled
+  - Guide technical design for tool and registry governance including metadata models,
+    permissions, and controls for managed tool usage
+  - Define backend foundations for a declarative policy framework governing which
+    agents and tools can be used under specific conditions
+  - Review significant merge requests and contribute to technical RFCs to drive architectural
+    consistency across teams
+  - Mentor other engineers and coordinate cross-team efforts to strengthen technical
+    decision-making
+  - Partner with engineering teams to align governance architecture with existing
+    platform patterns and broader product direction
+  use_cases:
+  - AI agent governance and policy enforcement for enterprise AI adoption
+  - Audit trail and compliance reporting for AI agent actions on code, pipelines,
+    and secrets
+  - Declarative policy-based control over which AI agents and tools can operate in
+    specific environments
+  - Tool registry governance enabling safer and more consistent managed tool access
+  - Visibility and observability into AI usage within GitLab for regulated industries
+  skills:
+    genai: [GitLab Duo, AI agents]
+    ml: []
+    web: [Ruby on Rails, REST APIs, GraphQL]
+    databases: [PostgreSQL, ClickHouse]
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [RBAC, ABAC, Policy-as-code]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9021208'
+  extracted_at: '2026-04-22T12:28:32.315233'

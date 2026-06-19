@@ -1,0 +1,50 @@
+company:
+  name: hyperexponential
+  stage: Series B/C (backed by a16z, Highland Europe, Battery Ventures)
+  focus: AI-powered insurance pricing and underwriting platform
+position:
+  title: Senior AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is explicitly on the "AI Platform team" which
+      "builds the platform, not the agents." The team owns shared
+      infrastructure (observability, gateways, governance, SDKs)
+      that enables other teams to build and operate AI agents. The
+      engineer builds developer platforms and tooling around AI
+      systems rather than directly building, training, fine-
+      tuning, or deploying AI models or agents themselves.
+  responsibilities:
+  - Build and evolve observability and evaluation infrastructure for AI agent behavior,
+    including tracing, cost tracking, usage dashboards, and shared evaluation systems
+  - Design and operate infrastructure connecting agents to LLMs and tools, including
+    unified proxies, centralized tool routing, and access governance
+  - Define and implement identity, authorization, and policy layers for AI agents
+    including scoped credentials, permissions, audit logging, and cost controls
+  - Shape developer experience through SDKs, documentation, and patterns that enable
+    teams to build production-grade agents quickly
+  - Drive adoption of shared platform services across technology teams, replacing
+    bespoke integrations with consistent, well-documented capabilities
+  use_cases:
+  - AI agent observability and monitoring platform for insurance pricing workflows
+  - Centralized LLM gateway and tool routing infrastructure for agent-based systems
+  - Governance and compliance framework for AI agents handling insurance decisions
+  - Developer platform enabling rapid creation of production-grade AI agents
+  - Domain-specific AI peer programmer for insurance (actuarial science copilot)
+  skills:
+    genai: [LLM Integrations, Agent Frameworks]
+    ml: []
+    web: [API Gateways, REST APIs]
+    databases: []
+    data: []
+    cloud: [Cloud Infrastructure]
+    ops: [Observability Systems, CI/CD, Docker, Kubernetes, Monitoring (Datadog/Prometheus/Grafana),
+      Access Control & Identity Management]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [SDK Development, Audit Logging]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8865957'
+  extracted_at: '2026-04-22T12:55:41.756502'

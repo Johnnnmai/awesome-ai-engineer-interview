@@ -1,0 +1,53 @@
+company:
+  name: S&P Global
+  stage: Public
+  focus: |-
+    Global energy and commodities market data, insights, and
+    analytics
+position:
+  title: Senior Software Developer  (AI Energy)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a general full-stack software engineering role with
+      no hands-on AI/ML work. ML/Data Science is mentioned only as
+      a "plus" in preferred qualifications, not as a core
+      responsibility. The role focuses on React frontend, Node.js
+      backend, and cloud infrastructure for energy market data
+      products.
+  responsibilities:
+  - Develop responsive, high-performance UI components using React, TypeScript, Hooks,
+    and Context/Redux
+  - Integrate frontend applications with backend APIs and maintain code quality through
+    unit testing
+  - Develop and maintain server-side logic using Node.js and design REST APIs and
+    microservices
+  - Work with relational and NoSQL databases for data storage and retrieval
+  - Deploy services in cloud environments and implement CI/CD pipelines
+  - Ensure system reliability, security, scalability, and observability through logging,
+    monitoring, and metrics
+  - Partner with product managers and designers to deliver high-impact features
+  - Participate in code reviews, architectural discussions, and contribute to engineering
+    best practices
+  use_cases:
+  - Energy market data analysis and visualization
+  - Energy transition and sustainability solutions
+  - Commodities market insights platform
+  - Enterprise data modeling for energy sector
+  - Frontend applications for energy data products
+  skills:
+    genai: []
+    ml: []
+    web: [React, Node.js, REST APIs, GraphQL]
+    databases: [SQL, NoSQL databases, Snowflake, Google BigQuery]
+    data: [Databricks]
+    cloud: [AWS, Azure, GCP]
+    ops: [Git, CI/CD]
+    languages: [TypeScript, JavaScript, Java, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7986893'
+  extracted_at: '2026-03-03T12:37:13.631297'

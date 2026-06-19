@@ -1,0 +1,128 @@
+job_id: 8786802
+title: Sr Support Engineer 1 – AI, LLM, Python, ML
+company: Blue Yonder
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Azure Devops
+  - Azure Ml
+  - Ci/Cd Pipelines
+  - Docker
+  - Git
+  - Kubernetes
+  - Mlflow
+  - Openai
+  - Python
+  - SQL
+company_size: 5,001 Employees
+description: |
+  Scope
+  
+  - Position is focused on supporting and enhancing AI/ML
+    platforms and MLOps pipelines for enterprise-scale
+    applications.
+  - Build and manage end-to-end AI lifecycle workflows,
+    including model training, validation, deployment,
+    monitoring, and retraining.
+  - Work closely with Data Science, DevOps, Infrastructure,
+    Platform Engineering, and Application teams.
+  - Ensure production AI systems are stable, observable, and
+    compliant with governance standards.
+  - Support AI platform operations during steady state and drive
+    continuous improvements.
+  - Enable reusable and standardized AI platform components for
+    multiple use cases across the organization.
+  - Contribute to improving reliability, scalability, and
+    performance of AI-driven systems.
+  
+  Our Current Technical Environment
+  
+  - Cloud Architecture: MS Azure
+  - AI/ML Platforms: Azure ML / OpenAI / MLflow (or similar)
+  - Programming: Python
+  - Data & Processing: SQL, Data Pipelines, REST APIs
+  - MLOps / DevOps Tools: CI/CD pipelines, Git, Azure DevOps
+  - Frameworks / Others: Model Monitoring, Logging, Experiment
+    Tracking, Containerization (Docker), Kubernetes
+    (preferred)
+  
+  What You’ll Do
+  
+  - Design, implement, and support AI/ML pipelines for training,
+    testing, deployment, and inference workflows.
+  - Build and maintain MLOps frameworks for model versioning,
+    experiment tracking, and reproducibility.
+  - Develop automation for model deployment, rollback, scaling,
+    and lifecycle management.
+  - Establish model monitoring frameworks for performance, drift
+    detection, data quality, and reliability.
+  - Collaborate with Data Scientists to operationalize models
+    into production-ready systems.
+  - Integrate AI workflows into CI/CD pipelines for seamless
+    deployment and updates.
+  - Troubleshoot production issues related to AI models,
+    pipelines, and infrastructure; perform root cause analysis
+    and implement permanent fixes.
+  - Ensure AI systems meet performance, scalability, security,
+    and compliance requirements.
+  - Create reusable components and templates for standardizing
+    AI deployment and operations.
+  - Implement logging, observability, and alerting mechanisms
+    for AI services.
+  - Support governance requirements such as model traceability,
+    auditability, and version control.
+  - Document AI platform processes, standards, and operational
+    procedures.
+  - Provide guidance and support to cross-functional teams on AI
+    platform usage and best practices.
+  - Drive continuous improvement in AI platform reliability,
+    automation, and operational efficiency.
+  
+  What We Are Looking For
+  
+  - Bachelor’s degree in engineering, Computer Science, Data
+    Science, or a related field.
+  - Minimum 6 years of overall IT experience, with at least 3+
+    years in AI/ML platform engineering, MLOps, or AI
+    production support.
+  - Strong programming skills in Python, with experience in
+    building automation and data/ML workflows.
+  - Hands-on experience with AI/ML platforms such as Azure ML,
+    MLflow, or similar ecosystems.
+  - Experience in building and managing end-to-end ML pipelines
+    and model lifecycle workflows.
+  - Good understanding of model deployment patterns, APIs,
+    batch/real-time inference systems.
+  - Experience with CI/CD pipelines, version control (Git), and
+    DevOps practices.
+  - Familiarity with containerization (Docker) and orchestration
+    tools like Kubernetes (preferred).
+  - Strong understanding of model monitoring, drift detection,
+    logging, and observability practices.
+  - Experience working with data pipelines, SQL, and data
+    processing frameworks.
+  - Understanding of AI governance, model explainability,
+    auditability, and compliance considerations.
+  - Ability to work collaboratively with data scientists,
+    engineers, DevOps, and platform teams.
+  - Exposure to LLMs, generative AI workflows, or AI-driven
+    automation use cases is an added advantage.
+  
+  Our Values
+  
+  If you want to know the heart of a company, take a look at
+  their values. Ours unite us. They are what drive our success
+  – and the success of our customers. Does your heart beat
+  like ours? Find out here: Core Values
+  
+  All qualified applicants will receive consideration for
+  employment without regard to race, color, religion, sex,
+  sexual orientation, gender identity, national origin,
+  disability or protected veteran status.
+industries:
+  - eCommerce
+  - Logistics
+posted_date: 2026-03-20
+url: "https://builtin.com/job/sr-support-engineer-1-ai-llm-python-ml/8786802"
+source: Built In

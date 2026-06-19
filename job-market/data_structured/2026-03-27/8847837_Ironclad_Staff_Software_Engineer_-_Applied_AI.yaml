@@ -1,0 +1,51 @@
+company:
+  name: Ironclad
+  stage: Series C/D (backed by Accel, Y Combinator, Sequoia, BOND, Franklin Templeton)
+  focus: AI-powered contract lifecycle management platform
+position:
+  title: Staff Software Engineer - Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying LLM-
+      powered features using RAG, prompt engineering, and LLM APIs
+      to create production AI capabilities like summarization,
+      drafting, and document comparison. The position requires
+      hands-on work implementing AI/LLM applications, not just
+      supporting infrastructure.
+  responsibilities:
+  - Lead full-stack development of AI-powered features using TypeScript, Node.js,
+    React, and PostgreSQL
+  - Build and deploy production AI features including summarization, drafting, editing,
+    and document comparison using LLMs
+  - Architect and maintain highly scalable AI products for high-traffic SaaS environment
+  - Establish prompt strategy and design optimal context input for LLM applications
+    using RAG services
+  - Collaborate with Product Managers, UX Designers, and QE teams to prototype and
+    iterate on AI features
+  - Work with platform teams to manage LLM APIs, ensuring resilient connections and
+    efficient token usage
+  - Advocate for customers by prioritizing user experience in technical decisions
+  use_cases:
+  - Contract summarization and analysis
+  - Automated contract drafting and editing
+  - Document comparison and redlining
+  - Intelligent contract insights extraction
+  - AI-powered legal document processing
+  skills:
+    genai: ['LLM APIs (OpenAI, Gemini)', RAG (Retrieval-Augmented Generation), Prompt
+        Engineering]
+    ml: [AI Evaluation]
+    web: [Node.js, React]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [GCP, Azure, AWS]
+    ops: [Datadog, 'CI/CD (GitHub Actions, CircleCI)']
+    languages: [TypeScript]
+    domains: []
+    other: ['Document Processing (PDF, DOCX)']
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8847837'
+  extracted_at: '2026-03-27T15:18:26.902164'

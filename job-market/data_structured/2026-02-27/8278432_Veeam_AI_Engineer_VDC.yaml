@@ -1,0 +1,50 @@
+company:
+  name: Veeam
+  stage: Public
+  focus: Data resilience and backup solutions for enterprises
+position:
+  title: AI Engineer, VDC
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and operating AI-
+      powered services, designing AI agent interfaces, and owning
+      prompt engineering workflows for LLM-based assistants. The
+      work is hands-on with LLMs, embeddings, and AI agents in
+      production - not just supporting infrastructure for others.
+  responsibilities:
+  - Build and operate AI-powered services for document summarization, keyword extraction,
+    and vector embeddings from backup data
+  - Design secure interfaces for AI agents to query backup data via Model Context
+    Protocol with tenant-aware RBAC
+  - Own and optimize prompt engineering and evaluation workflows for the Veeam Intelligence
+    LLM assistant
+  - Define and improve AI quality benchmarks for retrieval relevance, summarization
+    accuracy, and agent response reliability
+  - Collaborate across engineering organization to integrate AI workflows deeply into
+    VDC services
+  - Tune AI workflows for performance, cost, latency, and observability across billions
+    of documents
+  use_cases:
+  - Secure semantic discovery across enterprise backup data at exabyte scale
+  - Document summarization and keyword extraction from backed-up data
+  - Vector embeddings generation for enterprise data intelligence
+  - AI-powered assistant for data insights and recovery
+  - Enterprise search across heterogeneous, multilingual data
+  skills:
+    genai: [OpenAI APIs, LangChain, embeddings, LLMs, prompt engineering, Model Context
+        Protocol, agent architectures]
+    ml: [transformers]
+    web: []
+    databases: [CosmosDB, vector databases]
+    data: []
+    cloud: [Azure ML, Azure, Azure OpenAI Service]
+    ops: [Kubernetes]
+    languages: [Python]
+    domains: []
+    other: [RBAC, multi-tenant systems]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8278432'
+  extracted_at: '2026-03-03T12:58:35.617929'

@@ -1,0 +1,61 @@
+company:
+  name: GEICO
+  stage: Public
+  focus: |-
+    Insurance company providing auto coverage and customer
+    service
+position:
+  title: Distinguished Engineer, AI Applications
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting and building Generative AI
+      and agentic workflow platforms, including hands-on work with
+      LLM orchestration, RAG systems, and multi-agent frameworks.
+      The position directly builds production systems using LLMs
+      (GPT, Llama, Mistral, Claude) for conversational and agentic
+      workflows, which is core AI/ML work.
+  responsibilities:
+  - Define, own, and evolve the foundational architecture for GEICO's Generative AI
+    and agentic workflow platforms
+  - Serve as final technical authority on complex architectural decisions impacting
+    multiple products, teams, and business domains
+  - Design interconnected platform components including knowledge curation, search
+    and retrieval, prompt/context management, workflow orchestration, and semantic/knowledge
+    graph systems
+  - Establish and drive multi-year technical strategy and roadmaps for AI platform
+    capabilities and GenAI applications
+  - Lead evaluation and selection of core technologies including LLM orchestration,
+    agentic workflows, RAG systems, and observability tooling
+  - Collaborate across engineering, data science, ML, product, and design organizations
+    to align on platform and GenAI application direction
+  - Mentor senior engineers and technical leads on architectural thinking and engineering
+    quality
+  - Tackle complex technical and business challenges affecting system-wide performance,
+    reliability, and scalability
+  use_cases:
+  - Virtual agent platform supporting 20K+ contact center employees across claims,
+    service, and sales
+  - Knowledge curation and management for enterprise information
+  - Search and retrieval systems for internal knowledge access
+  - Agentic workflows for complex task execution
+  - Conversational AI for customer service automation
+  - Production-grade GenAI workflows across multiple lines of business
+  skills:
+    genai: [LangChain, LlamaIndex, RAG architectures, Agentic frameworks, Multi-agent
+        systems, LLM orchestration, Prompt engineering, GPT, Claude, Llama, Mistral]
+    ml: []
+    web: []
+    databases: [Elasticsearch, Qdrant, Milvus, Pinecone, Weaviate, Vector databases,
+      Snowflake]
+    data: [Kafka, Spark, Ray, Airflow, Temporal, Prefect]
+    cloud: [AWS, Azure]
+    ops: [LangSmith, Arize Phoenix, Weights & Biases, OpenTelemetry, Kubernetes, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8872865'
+  extracted_at: '2026-03-27T13:26:44.028565'

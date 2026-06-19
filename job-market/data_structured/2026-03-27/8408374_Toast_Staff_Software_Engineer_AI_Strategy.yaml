@@ -1,0 +1,53 @@
+company:
+  name: Toast
+  stage: Public
+  focus: |-
+    Restaurant technology platform helping businesses operate,
+    engage customers, and manage sales
+position:
+  title: Staff Software Engineer, AI & Strategy
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and implementing LLM-based
+      systems (LangChain, RAG architectures, model fine-tuning)
+      and designing ML models for real-time recommendations. The
+      position is focused on creating agentic workflows and AI-
+      powered tools from scratch, making it a hands-on AI
+      development role.
+  responsibilities:
+  - Architect and code high-performance backend services and ML pipelines
+  - Build and prototype new internal products leveraging LLMs and Agentic AI to automate
+    account research, lead prioritization, and complex quoting logic
+  - Design and implement ML models that provide real-time recommendations to sales
+    users
+  - Develop backend integrations between custom quoting engine, Salesforce, and internal
+    data lakes
+  - Solve complex synchronization and architectural challenges across the GTM stack
+  - Drive engineering excellence through code reviews, automated testing, and modeling
+    best practices
+  - Build flexible, decoupled backend systems that can evolve with AI strategy
+  - Ensure reliability by building deep observability into every service
+  use_cases:
+  - Automate account research and lead prioritization for sales teams
+  - Intelligent sales quoting with complex logic automation
+  - Real-time recommendations for sales decision-making
+  - Agentic workflows to reduce manual entry and increase deal velocity
+  - Go-To-Market stack automation and optimization
+  skills:
+    genai: [LangChain, RAG architectures, Model Fine-tuning, LLMs, Agentic AI]
+    ml: [ML pipelines, Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, SageMaker, AWS Lambda, AWS SQS]
+    ops: []
+    languages: [Java, Go, Python, SQL]
+    domains: []
+    other: [Salesforce Apex, Salesforce LWC, Event-driven architecture, Distributed
+        systems, CRM integrations]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8408374'
+  extracted_at: '2026-03-27T14:58:44.778082'

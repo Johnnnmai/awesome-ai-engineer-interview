@@ -1,0 +1,45 @@
+company:
+  name: NTT DATA
+  stage: Public
+  focus: |-
+    Global IT services and consulting company providing
+    enterprise AI, cloud, and digital infrastructure solutions
+position:
+  title: Agentic AI Solutions Engineer
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The job title mentions "Agentic AI Solutions Engineer" but
+      the actual job description is for a generic "Senior
+      Associate Software Applications Development Engineer"
+      focused on traditional Java application development. The
+      description contains no references to AI, ML, LLMs, agents,
+      or related technologies. The title and description are
+      misaligned, making it impossible to classify accurately.
+  responsibilities:
+  - Develop applications that accomplish client objectives and user needs
+  - Design and write code for applications and maintain application databases
+  - Analyze and edit existing software applications to improve functionality and optimize
+    performance
+  - Remodel and adapt applications as needed to optimize performance
+  - Test applications extensively to ensure they are error and bug-free
+  - Install applications and act as technical advisor to clients
+  - Consult with clients in design phase to determine needs and preferences
+  - Produce software documentation following company processes and templates
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Linux, Unix, Windows]
+    languages: [Java, Python, C++, Perl, C, SQL]
+    domains: []
+    other: [Scrum, Agile]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8275192'
+  extracted_at: '2026-03-03T12:37:41.041627'

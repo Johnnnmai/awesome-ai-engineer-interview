@@ -1,0 +1,55 @@
+company:
+  name: Higharc
+  stage: Series B+
+  focus: Automating home design and construction with AI
+position:
+  title: Sr. AI Engineer, Labs
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first: the engineer will build
+      agent workflows, design agent action schemas, build RAG
+      retrieval systems, construct orchestration systems for agent
+      workflows, and build evaluation loops for AI outputs. These
+      are all hands-on activities directly building and deploying
+      AI/LLM systems in production.
+  responsibilities:
+  - 'Own AI experiments end-to-end: shape hypotheses, define success criteria, build,
+    ship, measure, and iterate'
+  - Partner with ML Engineering to productize ML prototypes and harden them for production
+    with graduation criteria
+  - Design agent action schemas and tool contracts for predictable model behavior
+    under real-world variance
+  - 'Build retrieval systems (RAG) for agent context: chunking/indexing strategies,
+    vector search quality, and grounding'
+  - 'Build orchestration systems for agent workflows: stateful sessions, streaming,
+    async job coordination, and failure recovery'
+  - Build evaluation loops combining deterministic validation, domain heuristics,
+    and model-based review
+  - Design human-in-the-loop flows for approvals, intervention, and safe execution
+    of high-impact actions
+  - Engage directly with users and internal stakeholders to refine problem framing
+    and validate assumptions
+  use_cases:
+  - AI agent workflows for home design and construction automation
+  - RAG-based retrieval systems for construction and building product context
+  - Orchestration of multi-step agent actions in the homebuilding domain
+  - Evaluation and safety assurance of non-deterministic AI outputs in production
+  - Human-in-the-loop approval flows for high-impact construction design actions
+  skills:
+    genai: [LangChain/LangGraph or similar agent frameworks, RAG systems, Agent orchestration
+        and tool use, Prompt engineering, LLM evaluation systems]
+    ml: [Fine-tuning]
+    web: [FastAPI or similar backend frameworks, REST APIs]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS or similar cloud platforms]
+    ops: [Docker, CI/CD, Model cost management, Monitoring and observability]
+    languages: [Python]
+    domains: []
+    other: [Streaming/real-time systems, Stateful services]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8891711'
+  extracted_at: '2026-04-22T13:30:21.356208'

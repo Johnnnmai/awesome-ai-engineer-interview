@@ -1,0 +1,54 @@
+company:
+  name: Lightning Labs
+  stage: Unknown
+  focus: |-
+    Bitcoin payment infrastructure and AI agent payment
+    protocols
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building with AI/LLM systems -
+      creating MCP servers for AI agents, implementing agentic
+      workflows, using agentic AI patterns (tool use, MCP, multi-
+      step workflows), and integrating LLMs into real systems.
+      While it spans many responsibilities, the AI component is
+      central: building L402-powered agentic commerce demos and
+      standing up MCP servers that give AI agents access to APIs.
+  responsibilities:
+  - Build demos and developer experiences showcasing Lightning payments, L402-gated
+    APIs, Taproot Assets, and agentic workflows
+  - Automate and augment internal workflows by partnering with engineering, product,
+    business development, and marketing teams using AI
+  - Build MCP servers, tools, scripts, and integrations that give AI agents access
+    to Lightning APIs
+  - Ship production features across products including Terminal Web, LND, and new
+    products
+  - Work autonomously across multiple projects and teams, context-switching while
+    maintaining quality
+  - Identify high-leverage areas for impact and execute with minimal direction
+  use_cases:
+  - AI agent payments and autonomous transactions on Bitcoin Lightning Network
+  - L402-gated API access for agentic commerce
+  - Developer experience demos showing agentic payment workflows
+  - Internal workflow automation using AI tools
+  - MCP servers enabling AI agents to interact with Bitcoin/Lightning infrastructure
+  skills:
+    genai: [MCP (Model Context Protocol), Agentic AI patterns, LLM integration, Tool
+        use / function calling, Multi-step AI workflows, 'AI-native development tools
+        (Claude Code, Cursor, Codex)']
+    ml: []
+    web: [React, REST APIs, Full-stack development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Go, Python]
+    domains: []
+    other: [Lightning Network, Bitcoin / Taproot Assets / L402]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8917576'
+  extracted_at: '2026-04-22T13:53:56.243385'

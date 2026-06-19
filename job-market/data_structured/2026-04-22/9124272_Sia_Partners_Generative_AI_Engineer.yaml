@@ -1,0 +1,56 @@
+company:
+  name: Sia Partners
+  stage: Established (founded 1999, 3,500+ consultants globally)
+  focus: |-
+    Global management consulting combining strategy with data
+    science and technology
+position:
+  title: Generative AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building, deploying, and optimizing
+      GenAI/LLM-powered applications including RAG pipelines,
+      autonomous agents, prompt engineering, and fine-tuning
+      strategies. The engineer works hands-on with models (OpenAI,
+      Claude, Mistral) and GenAI frameworks (LangChain,
+      LlamaIndex) to create production AI solutions for clients.
+  responsibilities:
+  - Build LLM-powered applications using LangChain, LlamaIndex, and related GenAI
+    frameworks with models like OpenAI, Claude, and Mistral
+  - Implement RAG pipelines with vector databases for grounding LLM responses with
+    internal knowledge
+  - Develop multimodal AI solutions (text, audio, image) and build autonomous agents
+  - Design and optimize prompt templates using Chain-of-Thought, ReAct, Graph-of-Thought,
+    and Agent flows
+  - Deploy GenAI models on AWS/GCP/Azure using SageMaker, Bedrock, and Vertex AI
+  - Drive MLOps excellence including CI/CD for ML pipelines, drift detection, canary
+    releases, and retraining schedules
+  - Benchmark open-source and commercial LLMs for use-case fit and cost-performance
+    tradeoffs, evaluating fine-tuning strategies (PEFT, LoRA, RLHF)
+  - Ensure performance observability, security guardrails, and compliance (GDPR, Responsible
+    AI) while integrating GenAI solutions into microservices and APIs
+  use_cases:
+  - RAG-based enterprise knowledge retrieval and semantic search across industries
+  - Multimodal AI solutions processing text, audio, and image data
+  - Autonomous AI agents for business process automation
+  - Industry-specific GenAI applications for energy, banking, healthcare, and technology
+    sectors
+  - Enterprise-grade GenAI PoC development and production rollout
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, Prompt Engineering, PEFT, LoRA, RLHF, OpenAI
+        API, Anthropic API, Chain-of-Thought, ReAct prompting, AI Agents]
+    ml: [PyTorch, Hugging Face, Transformer architectures, Embedding techniques]
+    web: [FastAPI, Flask, REST APIs]
+    databases: [Pinecone, FAISS, pgvector, ChromaDB, Qdrant, Milvus, Weaviate]
+    data: []
+    cloud: [AWS, GCP, Azure, SageMaker, Bedrock, Vertex AI]
+    ops: [Docker, CI/CD, MLOps, Microservices]
+    languages: [Python]
+    domains: [NLP]
+    other: [GDPR compliance]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9124272'
+  extracted_at: '2026-04-22T13:49:49.652195'

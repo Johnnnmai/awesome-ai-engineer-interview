@@ -1,0 +1,49 @@
+company:
+  name: dunnhumby
+  stage: null
+  focus: |-
+    Customer data science for retailers and brands, analytics
+    and insights
+position:
+  title: Senior Data Science Engineer -AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves implementing and deploying AI/ML
+      solutions including GenAI, LLM fine-tuning, and RAG systems.
+      The position bridges data science and production engineering
+      to make models production-ready, indicating hands-on work
+      building and deploying AI systems.
+  responsibilities:
+  - Design and implement scalable AI, GenAI and Machine Learning solutions that deliver
+    measurable business impact
+  - Bridge Data Science and Production Engineering to ensure models are production-ready
+    and performant
+  - Deploy AI/ML models at scale into enterprise systems
+  - Develop and implement LLM fine-tuning, RAG systems, and prompt optimization
+  - Investigate and develop complex applications and components
+  - Integrate AI solutions seamlessly into client enterprise systems
+  - Collaborate with data science team to distill complex problems into compelling
+    insights
+  use_cases:
+  - Customer data science and analytics for retailers and brands
+  - Delivering measurable business impact through AI solutions
+  - Production deployment of machine learning models at enterprise scale
+  - GenAI applications using LLM fine-tuning and RAG
+  - Customer insights and decision support for retail clients
+  skills:
+    genai: [LLM fine-tuning, RAG systems, Prompt optimization]
+    ml: [TensorFlow, PyTorch, Scikit-learn, Deep Learning, Ensemble Methods]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, MLOps, CI/CD]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8246568'
+  extracted_at: '2026-03-27T13:39:38.502775'

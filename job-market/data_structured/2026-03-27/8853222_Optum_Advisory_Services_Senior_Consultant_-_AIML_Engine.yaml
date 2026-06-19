@@ -1,0 +1,56 @@
+company:
+  name: Optum
+  stage: Public
+  focus: |-
+    Healthcare technology and services, pharmacy benefits, care
+    delivery
+position:
+  title: Advisory Services Senior Consultant - AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development and deployment of
+      AI/ML systems including Generative AI, RAG, multi-agent
+      systems, and LLMs. The position requires directly building,
+      optimizing, and deploying ML models and AI solutions into
+      production, with specific focus on fine-tuning, prompt
+      engineering, and establishing LLMOps patterns.
+  responsibilities:
+  - Develop and implement AI and machine learning strategies across healthcare domains
+  - Lead and manage the AI/engineering team to deliver end-to-end machine learning
+    projects
+  - Design, develop, implement and optimize AI/ML, Generative AI, and Agentic solutions
+    using cloud services
+  - Provide architectural guidance and define evaluation frameworks for AI systems
+    in healthcare data ecosystems
+  - Establish patterns, standards and reusable components for RAG, multi-agent systems,
+    LLMOps and high performance inference
+  - Implement and oversee DevOps practices and CI/CD pipelines using GitHub Actions
+  - Provide technical leadership and mentorship to the engineering team
+  - Work cross-functionally with product, engineering, consulting, cloud, and clinical
+    teams
+  use_cases:
+  - Healthcare AI/ML solutions for improving health outcomes
+  - Natural language processing and understanding for clinical data
+  - Computer vision for medical imaging and healthcare applications
+  - Speech recognition for healthcare documentation
+  - Recommender systems for personalized healthcare
+  - Agentic AI systems for healthcare workflow automation
+  skills:
+    genai: [LangChain, RAG, Vector Databases, Prompt Engineering, Fine-tuning, OpenAI,
+      Claude, Gemini, Multi-agent systems, Agentic systems, Large Language Models]
+    ml: [PyTorch, TensorFlow, Keras, Scikit-learn, Deep learning, Reinforcement learning,
+      Natural language processing, Computer vision]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [MLFlow, LLMOps, Docker, Kubernetes, GitHub Actions, CI/CD, DevSecOps]
+    languages: [Python, SQL, R]
+    domains: [NLP, Computer Vision, Healthcare AI]
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8853222'
+  extracted_at: '2026-03-27T15:22:43.717316'

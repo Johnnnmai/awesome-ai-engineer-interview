@@ -1,0 +1,52 @@
+company:
+  name: SAFE Security
+  stage: null
+  focus: |-
+    Cybersecurity AI platform for threat prediction, detection,
+    and remediation
+position:
+  title: Principal Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on architecture and development of
+      AI systems including LLM orchestration, RAG pipelines,
+      multi-turn agent systems, and AI-native tooling. The
+      position requires building, deploying, and operationalizing
+      AI models and agents directly, not just supporting
+      infrastructure for others' AI work.
+  responsibilities:
+  - Architect AI-driven components including LLM orchestration, RAG systems, vector
+    stores, and AI microservices
+  - Build multi-turn, goal-oriented agent systems for automating reasoning across
+    TPRM, CTEM, and CRQ domains
+  - Operationalize model serving infrastructure on AWS SageMaker, Bedrock, or self-hosted
+    Llama
+  - Design data pipelines for structured and unstructured data ingestion, semantic
+    indexing, and context retrieval
+  - Define frameworks for LLM evaluation, safety enforcement, and human-in-the-loop
+    mechanisms
+  - Mentor AI and backend engineers on architectural design and experimentation methodologies
+  use_cases:
+  - Cyber risk quantification (CRQ)
+  - Continuous threat exposure management (CTEM)
+  - Third-party risk management (TPRM)
+  - Automated control reviews and issue root cause analysis
+  - Autonomous threat prediction, detection, and remediation
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, RAG, LLM orchestration, Prompt engineering,
+      Multi-agent systems, CrewAI, AutoGen, Semantic search]
+    ml: []
+    web: []
+    databases: [Vector databases, Snowflake]
+    data: [Knowledge graphs]
+    cloud: [AWS SageMaker, AWS Bedrock]
+    ops: [LangFuse, LangSmith, Feature stores, MLOps, CI/CD for ML, Model versioning]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8186317'
+  extracted_at: '2026-03-03T12:24:55.049501'

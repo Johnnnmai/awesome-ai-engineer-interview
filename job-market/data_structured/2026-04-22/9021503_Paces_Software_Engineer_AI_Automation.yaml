@@ -1,0 +1,46 @@
+company:
+  name: Paces
+  stage: Series A
+  focus: |-
+    Building AI-powered software to accelerate renewable energy
+    and power infrastructure development
+position:
+  title: Software Engineer, AI Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI agents
+      using Agent SDK, Messages API, and LangGraph to automate
+      human-driven work in renewable energy development. The
+      engineer is hands-on with agentic AI systems, deploying them
+      in production environments.
+  responsibilities:
+  - Build AI agents to automate human-driven work in power development and permitting
+  - Build automation to unlock new modeling capabilities that change the market
+  - Take full ownership of projects and iterate closely with industry experts on end-to-end
+    features
+  - Scale up the platform and system to support growing traffic
+  - Collaborate tightly with the product team on product roadmap
+  - Gain deep domain knowledge in power development and permitting
+  use_cases:
+  - Automating early-stage due diligence for renewable energy projects
+  - Streamlining siting, interconnection, and permitting for renewable energy developers
+  - Automating power development workflows to accelerate project timelines
+  - Supporting renewable energy, data center, EV charging, and real estate developers
+  - Enabling climate-positive infrastructure planning
+  skills:
+    genai: [LangGraph, Agent SDK, Messages API, AI Agents]
+    ml: []
+    web: [Backend development]
+    databases: []
+    data: [ETL]
+    cloud: []
+    ops: [Infrastructure]
+    languages: [Python, SQL]
+    domains: []
+    other: [Geospatial data]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9021503'
+  extracted_at: '2026-04-22T14:10:38.677839'

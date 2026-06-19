@@ -1,0 +1,50 @@
+company:
+  name: Presidio
+  stage: Private (established company)
+  focus: |-
+    IT solutions, cloud computing, AI and automation services
+    for enterprises
+position:
+  title: Senior Engineer - AI Studio (SEG)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves developing and expanding an "AI Studio
+      Platform" toward commercialization, designing AI-powered
+      solutions with GenAI technologies, and applying emerging
+      GenAI technologies to deliver outcomes. The engineer works
+      directly on building AI-powered solutions and platforms,
+      making this an ai-first role.
+  responsibilities:
+  - Develop and expand the AI Studio Platform toward full commercialization
+  - Design, develop, and test innovative prototypes and accelerators that enhance
+    product and service offerings
+  - Collaborate with architects, product managers, and senior engineers to implement
+    cloud-native and AI-powered solutions
+  - Build platforms, frameworks, and automation solutions that improve team efficiency
+    and create customer value
+  - Research and apply emerging technologies in GenAI, data, and automation to deliver
+    value-driven outcomes
+  - Participate in design reviews, documentation, and innovation showcases to share
+    knowledge and best practices
+  use_cases:
+  - AI Studio Platform commercialization for internal and client use
+  - Cloud-native AI-powered solution prototyping and delivery
+  - Generative AI application development for business process automation
+  - Customer-facing AI product and service innovation
+  skills:
+    genai: [GenAI]
+    ml: [AI/ML]
+    web: [REST APIs, Microservices]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP, Cloud-native development]
+    ops: [Docker]
+    languages: [Python, Java, Go, C#, TypeScript]
+    domains: []
+    other: [Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9049129'
+  extracted_at: '2026-04-22T14:13:50.431114'

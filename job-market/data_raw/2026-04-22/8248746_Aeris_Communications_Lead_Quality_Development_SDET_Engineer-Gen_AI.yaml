@@ -1,0 +1,133 @@
+job_id: 8248746
+title: Lead Quality Development (SDET) Engineer-Gen AI
+company: Aeris Communications
+location: Noida, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - APIs
+  - Behave
+  - Cucumber
+  - Docker
+  - Elasticsearch
+  - Gatling
+  - GCP
+  - Gitlab Ci
+  - Java
+  - Jenkins
+company_size: 466 Employees
+description: |
+  About Aeris Communications Inc.
+  
+  For more than three decades, Aeris has been a trusted
+  cellular IoT leader enabling the biggest IoT programs and
+  opportunities across Automotive, Utilities and Energy, Fleet
+  Management and Logistics, Medical Devices, and
+  Manufacturing. Our IoT technology expertise serves a global
+  ecosystem of 7,000 enterprise customers and 30 mobile
+  network operator partners, and 90 million IoT devices across
+  the world. Aeris powers today’s connected smart world with
+  innovative technologies and borderless connectivity that
+  simplify management, enhance security, optimize performance,
+  and drive growth.
+  
+  AI‑Assisted Quality Engineering (SDET)
+  
+  Experience: 4–8 years
+  
+  Employment Type: Full‑time
+  
+  Location: Noida Sector 62 (Work from Office – 5 days a week)
+  
+  Role Summary
+  
+  We are seeking a Lead QualDev Engineer to drive AI‑assisted
+  Quality Engineering initiatives across functional and
+  automation testing, CI/CD, and defect prevention. This role
+  emphasizes technical ownership, AI‑driven automation, and
+  self‑healing test frameworks, enabling faster, more reliable
+  software delivery in a product‑based engineering
+  environment.
+  
+  Key Responsibilities
+  
+  - Own the design, evolution, and maintenance of scalable test
+    automation frameworks across UI, API, and integration
+    layers
+  - Leverage AI‑assisted tools (GitHub Copilot, VS Code Copilot)
+    to accelerate test development, refactoring, and debugging
+  - Drive functional, regression, and integration testing
+    strategies with a strong automation‑first mindset
+  - Lead API automation initiatives and backend/data validation
+    efforts
+  - Integrate automated test suites into CI/CD pipelines
+    (Jenkins, GitHub Actions, GitLab CI)
+  - Lead analysis of test failures, logs, and production
+    defects, performing in‑depth root cause analysis (RCA)
+  - Apply AI‑based log analysis and failure pattern detection to
+    identify systemic quality issues
+  - Design and implement AI‑driven self‑healing automation
+    capabilities, including intelligent locator recovery and
+    adaptive stabilization
+  - Drive preventive quality improvements by reducing flaky
+    tests, recurring defects, and test maintenance overhead
+  - Define best practices, standards, and governance for
+    AI‑enabled Quality Engineering
+  - Mentor junior engineers and promote quality ownership across
+    cross‑functional teams
+  - Collaborate closely with Engineering, DevOps, and Product
+    teams to embed quality throughout the SDLC
+  
+  Core Skills & Experience
+  
+  - 4–8 years of hands‑on experience in Quality Engineering /
+    SDET roles
+  - Strong experience in test automation design and framework
+    ownership
+  - Expert‑level knowledge of UI and API automation frameworks
+  - Experience with BDD frameworks (e.g. Cucumber)
+  - Solid experience with API testing and backend/data
+    validation
+  - Hands‑on experience integrating automated tests into CI/CD
+    pipelines
+  - Strong understanding of STLC, SDLC, and Agile methodologies
+  - Proven ability to lead defect analysis and preventive
+    quality initiatives
+  - Proficiency with Git and modern version‑control practices
+  
+  AI & GenAI Skills
+  
+  - Hands‑on experience using AI‑assisted development and
+    testing tools (GitHub Copilot, VS Code Copilot)
+  - Ability to write effective prompts for AI‑assisted test and
+    code generation
+  - Strong capability to review, validate, and secure
+    AI‑generated outputs
+  - Understanding of AI agent concepts, including prompt‑driven
+    execution, tool orchestration, and feedback loops
+  - Experience implementing or contributing to AI‑driven
+    self‑healing automation
+  - Commitment to responsible and governed AI usage in the SDLC
+  
+  Nice‑to‑Have / Preferred Skills
+  
+  - Programming experience in Python, Java, JavaScript, or
+    TypeScript
+  - Experience with Selenium WebDriver and Playwright
+  - Knowledge of SQL and database testing
+  - Exposure to Docker, containerized test execution, and
+    Linux/Unix environments
+  - Experience with cloud platforms (GCP, AWS, Azure)
+  - Knowledge of performance testing tools (JMeter, Gatling)
+  - Exposure to Kafka, Elasticsearch, Redis
+  - Product‑based company background
+  - Prior experience in IoT, Telecom, or large‑scale distributed
+    systems
+  - Knowledge of secure coding practices, especially for
+    AI‑generated code
+industries:
+  - Internet of Things
+  - Software
+posted_date: 2026-04-17
+url: "https://builtin.com/job/lead-quality-development-engineer/8248746"
+source: Built In

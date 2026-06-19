@@ -1,0 +1,48 @@
+company:
+  name: Roadie
+  stage: Acquired (by UPS)
+  focus: |-
+    Logistics and delivery platform with crowdsourced driver
+    network
+position:
+  title: AI Engineer Intern- Summer 2026
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI agents,
+      implementing RAG systems, developing fraud detection models
+      with embeddings, and working directly with LLMs. The intern
+      will be creating and deploying AI-powered systems, not just
+      supporting infrastructure.
+  responsibilities:
+  - Build and improve AI chatbot agents powered by LLMs using RAG, prompt engineering,
+    and tool orchestration
+  - Develop and refine fraud detection models using embeddings, semantic search, and
+    rule-based systems
+  - Design and maintain data pipelines including ingestion, embedding, vector storage,
+    and retrieval quality
+  - Build evaluation frameworks to measure and improve AI agent accuracy and response
+    quality
+  - Collaborate with Engineering and Product teams to ship features end-to-end
+  - Write clean, testable code and contribute to AI platform and internal tooling
+  use_cases:
+  - AI-powered customer support chatbots
+  - Fraud detection and trust & safety systems
+  - Retrieval-augmented generation for information access
+  - Internal AI tools and automation
+  skills:
+    genai: [LangChain, LangGraph, Google Gemini, RAG, prompt engineering]
+    ml: [embeddings]
+    web: [FastAPI, Streamlit, REST APIs]
+    databases: [pgvector, FAISS, vector databases]
+    data: []
+    cloud: [Vertex AI, AWS EKS, AWS S3]
+    ops: [Docker, Kubernetes]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8880520'
+  extracted_at: '2026-03-27T16:07:11.453102'

@@ -1,0 +1,114 @@
+job_id: 8374499
+title: "Conversational AI & Automation Engineer (Azure)"
+company: Johnson Controls
+location: Pune, IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - APIs
+  - Arm
+  - Azure Automation
+  - Azure Bot Service
+  - Azure Devops
+  - Azure Functions
+  - Copilot Studio
+  - Logic Apps
+  - Power Virtual Agents
+  - Powershell
+company_size: 100,000 Employees
+description: |
+  Job Title: Azure Automation & DevOps Engineer
+  
+  About the Role
+  
+  We’re looking for an Azure Automation & DevOps Engineer who
+  can build, maintain, and improve automation across our cloud
+  environment. This role combines hands‑on scripting, Azure
+  DevOps practices, and conversational AI automation. You’ll
+  work in a hybrid setup, collaborating with cloud engineers,
+  developers, and operations teams to streamline processes,
+  reduce manual work, and support modern automation
+  initiatives.
+  
+  Key Responsibilities
+  
+  - Build and maintain automation using PowerShell, Azure
+    Automation Runbooks, Logic Apps, and Functions.
+  - Support CI/CD pipelines in Azure DevOps, including build,
+    release, and deployment automation.
+  - Develop and maintain infrastructure‑as‑code using ARM (based
+    on team standards).
+  - Create and manage automation workflows for provisioning,
+    monitoring, patching, and routine operational tasks.
+  - Work with Conversational AI tools (Azure Bot Service, Power
+    Virtual Agents, Copilot Studio) to automate user
+    interactions and service requests.
+  - Integrate bots and automation with backend systems using
+    APIs, webhooks, and Azure services.
+  - Troubleshoot automation failures, pipeline issues, and
+    script errors; implement long‑term fixes.
+  - Collaborate with cloud, security, and application teams to
+    ensure automation follows best practices.
+  - Maintain documentation for scripts, workflows, pipelines,
+    and automation processes.
+  - Support governance, standards, and reusable automation
+    frameworks across the organization.
+  
+  Core Skills & Technical Knowledge
+  
+  Azure Automation
+  
+  - PowerShell scripting (advanced level).
+  - Azure Automation Runbooks (PowerShell & Python).
+  - Logic Apps, Functions, Event Grid, and Automation Accounts.
+  - Azure Monitor alerts, action groups, and automated
+    remediation.
+  
+  DevOps
+  
+  - Azure DevOps Pipelines (YAML or Classic).
+  - Git branching, version control, and code reviews.
+  - CI/CD for applications, infrastructure, and automation.
+  - Experience with IaC tools (ARM, Bicep, Terraform).
+  
+  Conversational AI & Automation
+  
+  - Azure Bot Service or Power Virtual Agents.
+  - Copilot Studio or similar conversational AI tools.
+  - API integrations, REST endpoints, and backend automation.
+  - Ability to design simple conversational flows and automate
+    service requests.
+  
+  General Cloud & Ops Skills
+  
+  - Azure resource management and governance basics.
+  - Understanding of networking, identity, and security
+    fundamentals.
+  - Familiarity with monitoring, logging, and incident response
+    workflows.
+  
+  Qualifications
+  
+  - 3–6+ years of experience in Azure automation, DevOps, or
+    cloud engineering.
+  - Strong PowerShell,Python scripting background.
+  - Hands‑on experience with Azure DevOps pipelines.
+  - Exposure to conversational AI tools or willingness to learn.
+  - Experience working in hybrid or Agile environments.
+  - Good communication skills and ability to work with
+    cross‑functional teams.
+  
+  Nice to Have
+  
+  - Experience with Microsoft Graph API.
+  - Knowledge of Python for automation.
+  - Familiarity with ServiceNow integrations or workflow
+    automation.
+  - Experience building reusable automation frameworks.
+  - Azure certifications (AZ‑104, AZ‑204, AZ‑400, AI‑102).
+industries:
+  - Other
+  - Security
+posted_date: 2026-03-25
+url: "https://builtin.com/job/conversational-ai-automation-engineer-azure/8374499"
+source: Built In

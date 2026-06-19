@@ -1,0 +1,59 @@
+company:
+  name: Trail of Bits
+  stage: Established
+  focus: |-
+    Elite cybersecurity research and consulting firm
+    specializing in emerging technology risks
+position:
+  title: Senior Security Engineer, Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on security research and assessment
+      of AI systems, including developing prompt injection
+      techniques, analyzing LLM architectures and guardrails, and
+      conducting security assessments of agentic AI pipelines.
+      While focused on security rather than building AI products,
+      it requires deep technical work directly on AI systems,
+      including attacking and defending LLMs, RAG systems, and
+      agentic workflows.
+  responsibilities:
+  - Conduct comprehensive security assessments of agentic AI pipelines, tools, and
+    frameworks, examining vulnerabilities in model architectures, guardrails, and
+    deployment infrastructure
+  - Develop and operationalize novel prompt injection techniques targeting agentic
+    workflows, including indirect injection via tool outputs, multi-turn manipulation,
+    and cross-agent exploitation
+  - Perform application security assessments of client codebases using static analysis,
+    dynamic testing, and manual code review with focus on AI security intersections
+  - Conduct threat modeling and risk assessments to identify potential risks related
+    to prompt injection attack surfaces in agentic orchestration layers
+  - Work with leading industry teams to review system code and architecture, assuring
+    products through system analysis and modeling
+  - Develop and contribute to AI regulatory frameworks, establishing assurance methods
+    and auditing processes for mission-critical AI applications
+  - Deliver specialized training to clients on Agentic AI security concepts, including
+    prompt injection, ML-specific attacks, and data pipeline threats
+  use_cases:
+  - Security assessment of LLM-powered applications and agentic coding tools
+  - Prompt injection attack research and defensive countermeasure development
+  - Threat modeling for generative AI tooling adoption and deployment
+  - AI supply chain security analysis including training data and inference pipelines
+  - AI regulatory compliance and safety auditing for mission-critical applications
+  skills:
+    genai: [LangChain, RAG, Prompt Engineering, Prompt Injection, LLM Security]
+    ml: [PyTorch, JAX, MLOps]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Static Analysis, Dynamic Testing]
+    languages: [Python, Rust, Go, Kotlin, Swift, Objective-C, JavaScript, TypeScript,
+      Ruby, C, C++]
+    domains: []
+    other: [Threat Modeling, Application Security, Security Assessment]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8883620'
+  extracted_at: '2026-03-27T15:14:43.961949'

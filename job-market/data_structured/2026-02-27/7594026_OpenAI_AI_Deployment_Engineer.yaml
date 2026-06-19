@@ -1,0 +1,52 @@
+company:
+  name: OpenAI
+  stage: Public
+  focus: AI research and deployment company building safe AGI
+position:
+  title: AI Deployment Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that involves
+      hands-on work building and deploying GenAI applications
+      using OpenAI APIs. The role explicitly mentions building
+      prototypes, designing enterprise architecture with OpenAI
+      products, and moving applications from prototype to
+      production - all direct work on AI systems, not just
+      supporting infrastructure.
+  responsibilities:
+  - Embed with strategic platform customers as technical lead to ideate and build
+    novel applications on OpenAI API
+  - Work with senior stakeholders to identify high-value GenAI applications and build
+    comprehensive AI roadmaps
+  - Build hands-on prototypes and deliver strategic guidance to accelerate customer
+    time to value
+  - Design enterprise architecture using ChatGPT, OpenAI API, and other services
+  - Manage relationships with customer leadership to ensure successful deployment
+    and scale of applications
+  - Contribute to open-source developer and enterprise resources
+  - Scale the Solutions Architect function by codifying best practices and publishing
+    notebooks
+  - Synthesize and deliver feedback to Product and Research teams
+  use_cases:
+  - Customer service automation
+  - Automated content generation
+  - Novel GenAI applications for enterprises
+  - Enterprise AI transformation
+  - Industry-specific GenAI solutions
+  skills:
+    genai: [OpenAI API, ChatGPT, Generative AI]
+    ml: [Traditional ML]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud architecture, Network architecture]
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7594026'
+  extracted_at: '2026-03-03T12:04:51.668858'

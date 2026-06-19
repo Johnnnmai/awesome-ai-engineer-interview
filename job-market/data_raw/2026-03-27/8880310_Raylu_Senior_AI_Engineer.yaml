@@ -1,0 +1,74 @@
+job_id: 8880310
+title: Senior AI Engineer
+company: Raylu
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - APIs
+  - Full Stack Engineering
+  - Llms
+  - Workflow Engines
+company_size: 16 Employees
+description: |
+  Position Summary
+  
+  We’re hiring a product-oriented Senior AI Engineer who loves
+  tinkering with LLMs and shipping real agent systems. We
+  spend less time on fine-tuning and more on orchestration,
+  evaluation, and reliability—so agents do real work safely,
+  quickly, and repeatedly.
+  
+  What we’re looking for
+  
+  - Agentic systems: Function/tool calling, multi-step planning,
+    routing, memory, and retrieval.
+  - Engineering first: You can wire up services, craft eval
+    harnesses, and debug latency/cost at scale.
+  - LLM breadth: Comfortable comparing models/hosts, prompt
+    strategies, and guardrail techniques.
+  - Product focus: You instrument outcomes, run A/Bs, and
+    iterate to improve task success rates.
+  - Opinionated: Deep level of understanding of the
+    technological landscape, making both high level system and
+    granular code design decisions based on understanding
+    rather than preference - diving deep on unknown patterns
+    in order to build the best product.
+  
+  Responsibilities
+  
+  - Design, build, and productionize agent workflows end-to-end
+    (APIs, tools, evals, monitoring).
+  - Create safety, cost, and latency controls; build dashboards
+    and alerts for reliability.
+  - Partner with product/design to invent new interaction
+    patterns and ship them fast.
+  - Document patterns and mentor engineers on best practices for
+    LLM-powered features.
+  
+  Nice to have
+  
+  - Experience with workflow engines (e.g., Temporal), comfort
+    in full stack engineering
+  
+  Logistics:
+  
+  - Compensation: $165K - $250K salary, $100K-200K equivalent in
+    new hire equity (4 year vest)
+  - Location: New York City. We are a fully in-office team
+    working out of Midtown Manhattan Monday through Friday. We
+    allow for WFH days when anyone is traveling, but we do not
+    allow for permanent remote work.
+  - Benefits:
+    - Generous health, dental, and vision insurance
+    - 401k with 3% automatic contribution (no vesting)
+    - Paid Lunches
+    - Wellness and Citi Bike benefit
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-03-26
+url: "https://builtin.com/job/senior-ai-engineer/8880310"
+source: Built In

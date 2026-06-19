@@ -1,0 +1,46 @@
+company:
+  name: Pattern
+  stage: null
+  focus: E-commerce marketplace intelligence and automation
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building AI Platform & Agentic Workflows
+      including retrieval, guardrails, and evaluation services,
+      plus generation pipelines for video intelligence. This is
+      hands-on work deploying and implementing AI systems, not
+      just infrastructure support.
+  responsibilities:
+  - Design, build, and operate production systems with clear interfaces, tests, and
+    observability
+  - Partner directly with users and stakeholders to validate value and iterate quickly
+  - Apply AI thoughtfully to accelerate development and improve outcomes
+  - Make pragmatic architecture decisions and own projects end-to-end
+  - Work across the stack collaborating with product and design teams
+  - Build AI platform services including retrieval, evaluation, guardrails, and observability
+  use_cases:
+  - Short-form video intelligence and creative tooling with insight extraction and
+    content scoring
+  - Marketplace content optimization at scale including product listing synthesis
+    and attribute normalization
+  - Applied automation and robotics enablement connecting perception and workflow
+    orchestration
+  - AI platform and agentic workflows with retrieval, evaluation, and guardrails
+  skills:
+    genai: []
+    ml: []
+    web: [FastAPI, React, Next.js]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Terraform]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7167756'
+  extracted_at: '2026-03-03T12:02:41.444174'

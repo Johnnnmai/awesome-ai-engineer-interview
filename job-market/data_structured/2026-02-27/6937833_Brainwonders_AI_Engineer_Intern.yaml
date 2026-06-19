@@ -1,0 +1,45 @@
+company:
+  name: Brainwonders
+  stage: null
+  focus: |-
+    Career counseling and guidance company for students and
+    professionals
+position:
+  title: AI Engineer Intern
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role focused on building
+      LLM-based applications, working with agent frameworks,
+      deploying models, and implementing RAG systems. The intern
+      will work directly ON AI systems including transformers,
+      embeddings, and fine-tuning.
+  responsibilities:
+  - Build and test LLM-based applications and workflows
+  - Experiment with agent frameworks like LangGraph and CrewAI
+  - Use and adapt transformer models such as LLaMA and Mistral for domain tasks
+  - Deploy models and services on AWS including Lambda, EC2, and SageMaker
+  - Work with vector stores and embeddings for search or RAG-based systems
+  - Collaborate on prompt engineering, fine-tuning, and pipeline optimization
+  use_cases:
+  - LLM-based applications for career counseling domain
+  - AI agents and autonomous systems
+  - Search and RAG-based information retrieval
+  - Domain-specific AI copilots
+  skills:
+    genai: [LLMs, LangGraph, CrewAI, LangChain, RAG, Prompt engineering, Fine-tuning,
+      LLaMA, Mistral]
+    ml: [Transformers, Hugging Face, Embeddings]
+    web: []
+    databases: [Vector stores]
+    data: [Pandas, NumPy]
+    cloud: [AWS, AWS Lambda, AWS EC2, AWS S3, AWS SageMaker]
+    ops: [CloudWatch, OpenTelemetry]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6937833'
+  extracted_at: '2026-03-03T11:45:08.419648'

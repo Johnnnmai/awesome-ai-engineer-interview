@@ -1,0 +1,51 @@
+company:
+  name: Solstice Health
+  stage: Seed
+  focus: |-
+    AI-powered content generation platform for pharmaceutical
+    marketing
+position:
+  title: AI Design Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves shaping how LLMs interpret and apply
+      design patterns, contributing to prompt-driven creative
+      workflows, and building an AI-powered content generation
+      platform. While primarily a design role, it directly works
+      with LLMs and AI systems to architect the creative
+      generation pipeline, making it ai-first rather than ai-
+      support.
+  responsibilities:
+  - Collaborate with engineers to architect the system that translates visual intent,
+    brand guidelines, and user inputs into automated creative output
+  - Design visual assets for HCP and DTC audiences including leave-behinds, social
+    graphics, digital ads, and branded materials
+  - Design UI/UX flows that support prompt-driven creative tasks enabling non-designers
+    to create on-brand visuals at scale
+  - Shape how LLMs interpret and apply design patterns through feedback, curation,
+    and visual prompt refinement
+  - Establish creative standards balancing brand guidelines, aesthetic impact, and
+    pharma-specific compliance needs
+  use_cases:
+  - AI-powered compliant content generation for pharmaceutical brands at scale
+  - Automated visual design output based on brand guidelines and user inputs
+  - Prompt-driven creative workflows enabling non-designers to produce on-brand visuals
+  - LLM-assisted interpretation and application of design patterns in pharma marketing
+  skills:
+    genai: [Prompt Engineering, LLM integration]
+    ml: []
+    web: [Figma, HTML]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Adobe Illustrator, Adobe InDesign, Adobe Photoshop, UI/UX Design, Visual
+        Design, Brand Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9076062'
+  extracted_at: '2026-04-22T12:34:53.162693'

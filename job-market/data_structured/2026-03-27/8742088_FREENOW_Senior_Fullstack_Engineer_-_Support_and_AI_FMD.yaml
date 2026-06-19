@@ -1,0 +1,50 @@
+company:
+  name: FREENOW
+  stage: Acquired (by Lyft as of July 2025)
+  focus: |-
+    European multi-mobility platform offering taxis, ride-
+    sharing, carsharing, e-scooters, and public transport
+position:
+  title: Senior Fullstack Engineer - Support and AI (F/M/D)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves building and owning "AI assist
+      features end-to-end" and requires interest/experience in
+      "building AI agents." While it's a fullstack role, the AI
+      component is a core responsibility, not just supporting
+      infrastructure for others' AI work.
+  responsibilities:
+  - Architect, build, and maintain robust backend services
+  - Craft intuitive, powerful web applications for end-users and internal teams
+  - Build and own AI assist features end-to-end from concept through deployment and
+    monitoring
+  - Partner with engineers, designers, product managers, and support teams to deliver
+    user-centered solutions
+  - Experiment with AI-enhanced tools and features to elevate products and engineering
+    practices
+  - Ensure systems are observable, scalable, and reliable through modern DevOps practices
+  - Share knowledge and mentor other engineers
+  - Contribute to engineering communities and stay ahead of the curve
+  use_cases:
+  - AI-powered support assistance for customer service teams
+  - Driver and passenger-facing intelligent features
+  - Internal tools enhanced with AI capabilities
+  - Mobility platform optimization
+  - Automated assistance for urban transportation
+  skills:
+    genai: [AI agents, AI assist features]
+    ml: []
+    web: [Spring, React]
+    databases: []
+    data: [Kafka]
+    cloud: [AWS]
+    ops: [Docker, Git]
+    languages: [Kotlin, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8742088'
+  extracted_at: '2026-03-27T14:25:26.314820'

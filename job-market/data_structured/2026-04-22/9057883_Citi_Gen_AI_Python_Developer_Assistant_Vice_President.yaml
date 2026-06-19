@@ -1,0 +1,49 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Gen AI Python Developer – Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, integrating, and
+      deploying Generative AI solutions. The developer will work
+      hands-on with GenAI APIs (OpenAI, Gemini), implement RAG
+      systems, and design AI-powered applications. This is clearly
+      an ai-first role as the core work involves building and
+      deploying AI systems.
+  responsibilities:
+  - Design, develop, and maintain scalable Python code for Generative AI applications
+  - Integrate GenAI APIs such as OpenAI and Gemini to build innovative features and
+    products
+  - Implement and optimize Retrieval Augmented Generation (RAG) systems to enhance
+    AI model capabilities
+  - Develop and deploy robust backend services using FastAPI, Flask, or Django
+  - Collaborate with cross-functional teams including product managers and data scientists
+    to deliver solutions
+  - Write comprehensive unit and integration tests to ensure code quality and reliability
+  - Participate in code reviews and contribute to engineering best practices
+  - Optimize application performance, scalability, and security
+  use_cases:
+  - Building AI-powered features and products using Generative AI
+  - Implementing RAG systems for contextually relevant AI responses
+  - Developing backend services that serve GenAI-powered applications
+  - Integrating multiple GenAI APIs (OpenAI, Gemini) into enterprise solutions
+  - Deploying and managing AI applications in cloud container orchestration environments
+  skills:
+    genai: [OpenAI API, Gemini API, Retrieval Augmented Generation (RAG)]
+    ml: []
+    web: [FastAPI, Flask, Django, Frontend Technologies]
+    databases: [Relational Databases, NoSQL Databases]
+    data: []
+    cloud: [OpenShift ECS]
+    ops: [Git, CI/CD]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9057883'
+  extracted_at: '2026-04-22T12:55:52.974418'

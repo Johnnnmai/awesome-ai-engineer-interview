@@ -1,0 +1,56 @@
+company:
+  name: Clover Health
+  stage: Public
+  focus: |-
+    AI-enabled healthcare solutions for primary care and chronic
+    condition management
+position:
+  title: AI Enablement Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on evaluating, configuring, and deploying
+      third-party AI tools (coding assistants, workflow
+      automation, internal copilots) across the organization. The
+      engineer does NOT build, train, fine-tune, or deploy AI/ML
+      models themselves — they enable others to use existing AI
+      tools by handling IT infrastructure, security, compliance,
+      and adoption. This is squarely an AI enablement/support
+      role.
+  responsibilities:
+  - Evaluate, configure, and deploy AI-powered tools and platforms across the organization,
+    driving adoption among product, engineering, and business teams
+  - Solve IT and security challenges to deploy AI tools in a HIPAA-compliant healthcare
+    environment, including authentication flows and access management
+  - Lower barriers to entry for non-engineers by packaging environments, simplifying
+    setup, and removing infrastructure friction for AI tool adoption
+  - Collaborate cross-functionally with product, engineering, design, IT, operations,
+    commercial, and leadership teams to identify AI-accelerated workflows
+  - Create documentation, guides, and training materials to help non-technical team
+    members adopt and extract value from AI tools
+  - Troubleshoot and maintain the AI tooling stack, diagnosing issues independently
+    and iterating on configurations based on team feedback
+  use_cases:
+  - Internal AI tooling enablement and adoption across healthcare operations
+  - Workflow automation for product, support, sales, and implementations teams
+  - Coding assistant deployment and configuration for engineering teams
+  - Secure deployment of AI copilots and productivity tools in a HIPAA-regulated environment
+  - Enterprise identity and access management for AI platform integrations
+  skills:
+    genai: [LLM landscape and evaluation, 'Coding assistants (e.g., GitHub Copilot,
+        Cursor)', AI automation platforms]
+    ml: []
+    web: [API integrations]
+    databases: []
+    data: []
+    cloud: [Cloud IAM and secrets management, Cloud platform administration]
+    ops: [OAuth / SSO / SCIM provisioning, Docker / containers, Endpoint management,
+      Identity and access management, Enterprise infrastructure]
+    languages: []
+    domains: []
+    other: [HIPAA compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9004770'
+  extracted_at: '2026-04-22T13:58:24.160728'

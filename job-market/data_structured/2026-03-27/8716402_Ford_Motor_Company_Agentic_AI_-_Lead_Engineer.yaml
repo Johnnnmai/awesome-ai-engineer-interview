@@ -1,0 +1,51 @@
+company:
+  name: Ford Motor Company
+  stage: Public
+  focus: Automotive manufacturing and mobility solutions
+position:
+  title: Agentic AI - Lead Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying Agentic AI
+      systems and LLM integrations. The position involves
+      architecting autonomous AI agents, implementing Model
+      Context Protocol, and integrating LLMs with enterprise
+      systems - all core hands-on AI development work.
+  responsibilities:
+  - Architect, develop, and deploy sophisticated autonomous AI agents that can reason,
+    plan, and execute multi-step tasks with minimal human intervention
+  - Lead the design and implementation of Agentic AI automation solutions and Model
+    Context Protocol (MCP) integrations
+  - Integrate large language models (LLMs) with enterprise APIs, databases, and internal
+    services for action execution and information retrieval
+  - Build robust, scalable, and secure agentic systems enabling autonomous decision-making
+    and dynamic task execution
+  - Drive strategic adoption and technical execution of Agentic AI across the organization
+  - Mentor junior engineers and lead technical discussions on AI engineering best
+    practices
+  - Collaborate cross-functionally with product managers and engineering teams to
+    translate business challenges into production-ready AI solutions
+  - Establish governance, security, and ethical standards for AI engineering practices
+  use_cases:
+  - Autonomous decision-making and task execution in enterprise environments
+  - Intelligent automation systems with goal-driven behaviors
+  - Secure communication between AI models and enterprise data sources
+  - Multi-step task orchestration with dynamic adaptation
+  - Enterprise-wide AI agent deployment and integration
+  skills:
+    genai: [Model Context Protocol (MCP), Agentic AI, LLMs]
+    ml: [Machine Learning]
+    web: []
+    databases: [SQL]
+    data: [PySpark]
+    cloud: []
+    ops: [Git, CI/CD]
+    languages: [Python, Scala]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8716402'
+  extracted_at: '2026-03-27T14:24:50.777365'

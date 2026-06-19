@@ -1,0 +1,45 @@
+company:
+  name: Chaucer Group
+  stage: null
+  focus: |-
+    Specialist insurance at Lloyd's market covering aviation,
+    energy, shipping, manufacturing, and property risks
+position:
+  title: Associate Snowflake AI Developer - 12 month FTC
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on data engineering and infrastructure
+      work (databases, SQL, data pipelines) that enables AI/ML use
+      cases rather than directly building models. The position
+      supports AI implementations through data preparation and
+      Snowflake management under senior guidance, making it an AI-
+      support role.
+  responsibilities:
+  - Develop and maintain Snowflake databases, schemas, tables, views and tasks
+  - Write and optimize SQL queries for analytics, data transformation and AI workloads
+  - Support implementation of AI and ML use-cases using Snowflake capabilities
+  - Prepare, clean and transform data for machine learning and AI models
+  - Collaborate on building scalable and reusable data and AI components within Snowflake
+  - Learn Snowflake AI features, cloud data concepts, and modern AI practices
+  use_cases:
+  - AI-enabled analytics for insurance operations
+  - Machine learning workloads on insurance data
+  - Data transformation and preparation for AI models
+  - Scalable AI analytics within Snowflake Data Cloud
+  skills:
+    genai: []
+    ml: [Machine learning]
+    web: []
+    databases: [Snowflake, Snowflake architecture]
+    data: [Data transformation, Data cleaning]
+    cloud: [Snowflake AI capabilities]
+    ops: []
+    languages: [SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8401832'
+  extracted_at: '2026-03-03T12:40:50.812484'

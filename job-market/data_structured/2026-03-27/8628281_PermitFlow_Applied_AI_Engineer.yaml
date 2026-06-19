@@ -1,0 +1,49 @@
+company:
+  name: PermitFlow
+  stage: Series B
+  focus: |-
+    AI agents for construction permitting, licensing, and
+    compliance automation
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, deploying, and owning the full
+      lifecycle of AI agents - from model development to
+      orchestration and productionization. The position directly
+      builds multi-step agentic workflows that automate permitting
+      processes, which is hands-on work with AI/LLM systems.
+  responsibilities:
+  - Develop and deploy AI agents that automate permitting workflows end-to-end
+  - Orchestrate multiple models and tools to create reliable, multi-step AI systems
+  - Build internal tools and infrastructure that power and monitor AI agents
+  - Design and implement backend and frontend services, APIs, and data pipelines integrating
+    AI functionality
+  - Contribute to system architecture and core platform design
+  - Design and maintain evaluations and benchmarks to measure agent accuracy, reliability,
+    and cost-effectiveness
+  - Optimize inference pipelines and backend systems for speed, scalability, and cost
+  use_cases:
+  - Automating construction permitting workflows end-to-end
+  - Navigating licensing and inspections for construction projects
+  - Understanding what can be built, where, and how (zoning and compliance)
+  - Accelerating housing, clean-energy, and infrastructure development
+  - Reducing compliance time and de-risking construction projects
+  skills:
+    genai: [LangChain, LangGraph, OpenAI API, Prompt engineering, RAG, AI agents,
+      Model orchestration, Agent evaluation]
+    ml: [PyTorch, TensorFlow, Model training]
+    web: [FastAPI, Flask, Django, REST APIs, React]
+    databases: [Postgres, Vector databases, Redis]
+    data: [Data pipelines, ETL]
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, Inference optimization, MLflow, CI/CD]
+    languages: [Python, SQL, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8628281'
+  extracted_at: '2026-03-27T13:51:16.274695'

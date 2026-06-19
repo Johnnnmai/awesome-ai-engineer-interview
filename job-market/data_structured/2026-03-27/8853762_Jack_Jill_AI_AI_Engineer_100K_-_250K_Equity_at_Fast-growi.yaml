@@ -1,0 +1,44 @@
+company:
+  name: Jack & Jill AI
+  stage: Seed
+  focus: Legal tech AI platform
+position:
+  title: AI Engineer ($100K - $250K + Equity) at Fast-growing legal tech startup
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, developing, and
+      optimizing LLM algorithms and proprietary AI models. The
+      engineer will work hands-on with prompt engineering,
+      evaluation pipelines, and production AI systems - all core
+      AI development work.
+  responsibilities:
+  - Develop and lead the production of proprietary AI algorithms to push the boundaries
+    of large language models
+  - Build and maintain a state-of-the-art evaluation pipeline to benchmark performance
+    on large datasets
+  - Research and implement advanced prompt engineering methods to maximize model efficacy
+    and output quality
+  - Ship high-impact features for a global user base
+  - Define the technical trajectory of a rapidly scaling AI platform
+  use_cases:
+  - Legal tech AI applications for global users
+  - Large language model optimization and advancement
+  - Production AI evaluation and benchmarking
+  - Prompt engineering for model efficacy
+  skills:
+    genai: [Large Language Models, Prompt Engineering]
+    ml: [AI Algorithms, Evaluation Pipelines]
+    web: []
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8853762'
+  extracted_at: '2026-03-27T15:13:07.609006'

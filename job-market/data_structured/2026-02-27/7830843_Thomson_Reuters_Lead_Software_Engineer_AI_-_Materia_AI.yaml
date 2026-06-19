@@ -1,0 +1,56 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Global information and technology company providing legal,
+    tax, accounting, and compliance solutions
+position:
+  title: Lead Software Engineer AI - (Materia AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves implementing AI orchestration systems
+      integrating LLMs from providers like OpenAI and Anthropic,
+      designing and building backend for AI-native products, and
+      implementing generative AI agents. The position requires
+      hands-on work with agent-based architectures and AI APIs,
+      making it clearly an ai-first role focused on building and
+      deploying AI systems.
+  responsibilities:
+  - Design and build backend services for AI-native products focused on accounting
+    research and workflows including tax filing, tax advisory, and audit
+  - Develop and maintain backend services using Python, FastAPI, and PostgreSQL
+  - Implement AI orchestration systems integrating LLMs from OpenAI, Anthropic, and
+    other providers
+  - Design APIs and backend logic for real-time AI interactions
+  - Ensure backend systems are secure, scalable, and optimized for AI-driven applications
+  - Monitor and enhance system performance across millions of documents and AI-driven
+    interactions
+  - Lead teams of engineers, AI researchers, and product teams to translate AI capabilities
+    into real-world applications
+  - Build core AI interfaces such as Conversations, Workspaces, Grid, and Knowledge
+    Base
+  use_cases:
+  - Accounting research automation
+  - Tax filing workflow automation
+  - Tax advisory assistance
+  - Audit workflow enhancement
+  - AI-powered conversations for accounting professionals
+  - Knowledge base and workspace management for tax and accounting
+  skills:
+    genai: [OpenAI APIs, Anthropic APIs, LLM integration, AI orchestration, Agent-based
+        architectures]
+    ml: [Embeddings]
+    web: [FastAPI, API design]
+    databases: [PostgreSQL, Vector databases]
+    data: []
+    cloud: [AWS]
+    ops: [Distributed systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7830843'
+  extracted_at: '2026-03-03T12:33:17.263590'

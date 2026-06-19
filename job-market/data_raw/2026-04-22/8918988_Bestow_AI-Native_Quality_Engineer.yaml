@@ -1,0 +1,235 @@
+job_id: 8918988
+title: AI-Native Quality Engineer
+company: Bestow
+location: USA
+work_type: FULL_TIME
+level: Entry level
+skills:
+  - APIs
+  - Ci/Cd
+  - Containerized Environments
+  - JavaScript
+  - Json Schema
+  - Openapi
+  - Python
+  - Test Automation Frameworks
+  - Typescript
+description: |
+  ABOUT BESTOW
+  
+  Life insurance is one of the world's most important
+  products. It's also one of the hardest to build, distribute,
+  and modernize. Bestow exists to change that.
+  
+  Bestow is a leading vertical technology platform serving
+  some of the largest and most innovative life insurers. Our
+  platform unifies the fragmented, legacy value chain,
+  enabling carriers to launch products in weeks instead of
+  years. Carriers choose us to scale and operate at
+  unprecedented speed, powered by AI and automation.
+  
+  Bestow isn't selling policies. We're building the
+  infrastructure that helps an entire industry move faster,
+  reach more people, and deliver on its promise.
+  
+  Backed by leading investors (Goldman Sachs, Hedosophia, NEA,
+  Valar, 8VC) and trusted by major carriers, Bestow is powered
+  by a team that moves with precision, purpose, and heart. If
+  you want to help reimagine a centuries-old industry with
+  lasting impact, join us.
+  
+  Bestow offers flexible remote/hybrid work, meaningful
+  benefits, equity, and substantial growth opportunities.
+  
+  Bestow uses E-Verify to confirm the employment eligibility
+  of all newly hired employees. To learn more about E-Verify,
+  including your rights and responsibilities, please visit
+  E-Verify.gov.
+  
+  ABOUT THE TEAM
+  
+  We are hiring an AI-Native Quality Engineer to help
+  establish the future of our software validation and
+  verification capabilities in the age of AI.
+  
+  This role is designed for an early-career engineer with
+  strong experience in artificial intelligence, machine
+  learning workflows, or modern automation tooling who wants
+  to apply those skills to one of the hardest unsolved
+  problems in all of software engineering: turning product
+  intent into trustworthy, testable, verifiable system
+  behavior.
+  
+  You will work at the intersection of application
+  engineering, product development, and applied AI to help
+  translate ideas into structured specifications, executable
+  examples, and scalable validation systems. Along the way,
+  you will learn modern Quality Engineering disciplines such
+  as Definition of Ready, Example Mapping, Specification by
+  Example, and behavior-focused acceptance criteria – while
+  helping us explore how AI can transform those practices.
+  
+  This role is a discipline-building apprenticeship with
+  meaningful technical ownership from day one and mentorship
+  from senior engineering leaders shaping next-generation
+  specification-driven delivery systems.
+  
+  WHAT YOU’LL DO
+  
+  Software teams now build faster than ever–but confidence
+  still depends on how clearly behavior is defined, validated,
+  and verified.
+  
+  We are investing in a new generation of engineers who can
+  combine:
+  
+  - AI-native thinking
+  - structured system reasoning
+  - specification clarity
+  - automation fluency
+  - validation and verification disciplines
+  
+  to help modernize how software organizations measure
+  correctness and readiness.
+  
+  You will help shape the future here.
+  
+  Automation & Verification Engineering (~30%)
+  
+  - Contribute to API verification using REST testing tools and
+    schema-based checks
+  - Help translate structured examples into executable
+    verification artifacts
+  - Support UI and integration automation aligned with
+    documented behavior
+  - Assist with test data setup and environment readiness
+  - Contribute to CI/CD verification workflows
+  - Analyze unexpected behavior discovered during automated
+    execution
+  - Improve signal quality from automated feedback loops
+  
+  Specification & Behavioral Clarity (~30%)
+  
+  - Support structured refinement activities that make software
+    behavior explicit before implementation begins
+  - Participate in Example Mapping and specification workshops
+    with engineers and product managers
+  - Translate feature ideas into structured scenarios and
+    acceptance criteria
+  - Capture assumptions, edge cases, and behavioral expectations
+    early in development
+  - Help create reusable specification templates and example
+    libraries
+  - Apply AI-assisted workflows to improve requirements clarity
+    and consistency
+  - Identify ambiguity before it becomes rework
+  
+  AI-Enabled Quality Engineering Exploration (~40%)
+  
+  - Prototype AI-assisted approaches to specification generation
+  - Experiment with prompt-driven verification workflows
+  - Explore semantic regression detection techniques
+  - Evaluate machine-interpretable documentation strategies
+  - Integrate AI-assisted tooling into requirements and
+    specifications, test generation, maintenance, failure
+    analysis, and reporting workflows
+  - Help identify innovative opportunities to improve
+    engineering confidence using modern AI tooling
+  
+  WHO YOU ARE
+  
+  - 0-2 years of experience in software engineering, AI/ML
+    workflows, or applied automation
+  - Strong proficiency in Python, JavaScript/TypeScript, or
+    another modern programming language
+  - Hands-on experience working with APIs or modern web systems
+  - Demonstrated interest in artificial intelligence, prompt
+    engineering, or evaluation workflows
+  - Ability to reason about system behavior through structured
+    examples
+  - Strong written communication skills
+  - Curiosity about how complex systems behave under changing
+    conditions
+  - Interest in learning modern validation and verification
+    disciplines
+  
+  Preferred Experience
+  
+  - LLM experimentation or prompt engineering
+  - Evaluation harnesses or benchmarking workflows
+  - Semantic search or embeddings workflows
+  - Agent pipelines or structured output systems
+  - Behavior-driven development practices
+  - Demonstrated experience with at least one
+    orchestration/agent framework (LangChain, LangGraph,
+    CrewAI, AutoGen, or similar).
+  - Familiarity with RAG architectures, including vector
+    databases (Pinecone, Weaviate, pgvector) and embedding
+    pipelines.
+  - Preference for candidates that submit a link to their GitHub
+    Repository
+  
+  WHY THIS ROLE IS UNIQUE
+  
+  - You will help establish the future of our software
+    validation and verification capabilities in the age of AI.
+  - You will work on real product behavior – not synthetic
+    exercises.
+  - You will collaborate directly with senior engineers to shape
+    next-generation Quality Engineering practices.
+  - You will help explore how artificial intelligence changes
+    the way software correctness is defined and measured.
+  - You will grow into a rare engineering discipline at the
+    intersection of AI and other disciplines:
+    - specifications
+    - automation
+    - systems behavior
+    - verification science
+  
+  TOTAL REWARDS
+  
+  At Bestow, we’re proud to be awarded for our team members,
+  innovative products, and culture. Our standard benefits
+  include:
+  
+  - Competitive salary and equity based on role
+  - Policies and managers that support work/life balance, like
+    our flexible paid time off and parental leave programs
+  - 100% paid-premium option for medical, dental, and vision
+    insurance
+  - Lifestyle stipend to support your physical, emotional, and
+    financial wellbeing
+  - Flexible work-from-home policy and open to remote
+  - Remote and WFH options, as well as a beautiful, state-of-
+    the-art office in Dallas’ Deep Ellum, for those who prefer
+    an office setting
+  - Employee-led diversity, equity, and inclusion initiatives
+  
+  Recent Employer Awards include:
+  
+  - Best Place for Working Parents 2023 + 2024 + 2025
+  - Great Place to Work Certified, 2022 + 2023 + 2024 + 2025
+  - Built In Best Places to Work, 2022 + 2023 + 2025
+  - Fortune’s Best Workplaces in Texas 2022 + 2023
+  - Fortune’s Best Workplaces in Financial Services and
+    Insurance 2022 + 2023 + 2024
+  
+  We value diversity at Bestow. The company will hire,
+  recruit, and promote regardless of race, color, religion,
+  sex, sexual orientation, gender identity or expression,
+  national origin, pregnancy or maternity, veteran status, or
+  any other status protected by applicable law. We understand
+  the importance of creating a safe and comfortable work
+  environment and encourage individualism and authenticity in
+  every team member.
+  
+  Thanks for considering a job at Bestow!
+industries:
+  - Big Data
+  - Fintech
+  - Information Technology
+  - Insurance
+  - Software
+posted_date: 2026-03-31
+url: "https://www.builtinla.com/job/ai-native-quality-engineer/8918988"
+source: Built In

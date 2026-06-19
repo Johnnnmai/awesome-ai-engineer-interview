@@ -1,0 +1,47 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU computing and AI hardware/software platform
+position:
+  title: Senior System Software Engineer - AI
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on AI/ML model optimization and inference
+      engineering at the systems level—working on quantization,
+      pruning, distillation, and GPU-level optimization using
+      CUDA, TensorRT, and ONNX Runtime. It's ML/DL infrastructure
+      focused rather than LLM/agent development.
+  responsibilities:
+  - Partner with NVIDIA software, research, architecture, and product teams to align
+    strategies for AI on Windows RTX PCs ecosystem
+  - Collaborate with Microsoft to advance AI across graphics, web browsers, and edge
+    devices using WindowsML, ONNX Runtime, and NVIDIA libraries
+  - Conduct in-depth analysis and end-to-end optimization of AI models, data pipelines,
+    and inference runtime features for current and next-gen GPU architectures
+  - Implement compute and memory optimization techniques including quantization, distillation,
+    and pruning for large AI models
+  - Fine-tune and compress models to fit edge devices with limited resources
+  use_cases:
+  - Client-side AI execution on Windows RTX PCs
+  - Edge AI with limited compute and memory resources
+  - Real-time AI processing with reduced latency
+  - Privacy-preserving local AI inference
+  - GPU-accelerated AI for graphics, web browsers, and edge devices
+  skills:
+    genai: []
+    ml: [CUDA, ONNX Runtime, TensorRT, PyTorch, DirectML, DirectX, Vulkan, GPU programming,
+      Quantization, Model distillation, Pruning, Model fine-tuning, WindowsML]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Inference optimization]
+    languages: [C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8110557'
+  extracted_at: '2026-03-03T11:35:18.071796'

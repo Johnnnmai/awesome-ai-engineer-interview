@@ -1,0 +1,50 @@
+company:
+  name: Hansen Technologies
+  stage: Public
+  focus: |-
+    Software and services for utilities, energy, and
+    communications companies
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, architecting, and deploying
+      advanced AI systems and LLM-based solutions. The position
+      requires hands-on work with large language models and
+      building scalable AI frameworks, which qualifies as direct
+      AI/ML work.
+  responsibilities:
+  - Design and architect advanced AI systems leveraging multi-cloud platforms (AWS,
+    Azure, GCP) and large language models
+  - Build secure, robust, and scalable AI frameworks that integrate with enterprise
+    technology stacks
+  - Develop and prototype AI solutions using LLMs and machine learning frameworks
+  - Collaborate with software engineers, data scientists, and business stakeholders
+    to deliver optimized AI solutions
+  - Create and lead enablement programs, workshops, and hands-on labs to upskill teams
+  - Evaluate and assess new AI tools and frameworks for integration
+  - Act as subject matter expert guiding stakeholders on AI best practices and integration
+    opportunities
+  use_cases:
+  - Intelligent automation for utilities and energy companies
+  - Enterprise AI transformation for communications sector
+  - Streamlining critical business processes through AI
+  - Customer experience enhancement via AI solutions
+  - Enterprise integration of AI architectures
+  skills:
+    genai: [large language models, AI architectures]
+    ml: [machine learning frameworks]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [DevOps]
+    languages: [Python, Java, C#]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8788654'
+  extracted_at: '2026-03-27T14:44:44.475209'

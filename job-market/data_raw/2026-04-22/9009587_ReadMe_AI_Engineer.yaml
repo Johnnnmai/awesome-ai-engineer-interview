@@ -1,0 +1,203 @@
+job_id: 9009587
+title: AI Engineer
+company: ReadMe
+location: 
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - JavaScript
+  - Python
+  - Typescript
+company_size: 71 Employees
+description: |
+  📍 Locations: San Francisco (Hybrid), New York (Hybrid),
+  Columbus (Hybrid), or Remote (US)
+  
+  We’re hiring an AI Engineer to shape how AI shows up across
+  ReadMe’s product: from how developers explore and understand
+  APIs to how companies author and maintain their
+  documentation.
+  
+  We’re at the forefront of a major shift in developer
+  experience:
+  
+  - AI agents need APIs to talk to each other, and those APIs
+    need to be understandable, structured, and explorable
+  - At the same time, writers and developers are looking for
+    better ways to generate and maintain documentation with AI
+  
+  We're a small team of humans (and one owl) working together
+  to do big things — and that’s where you come in. In this
+  role you’ll have a transformational impact on ReadMe across
+  both the trajectory of the business and our thriving
+  culture.
+  
+  🦉 What we do
+  
+  ReadMe helps more than 5,000 leading startups and tech
+  companies build beautiful, personalized, and interactive
+  developer hubs. If you’ve ever visited the developer docs
+  for PagerDuty, Samsara, or Nvidia, you’ve used ReadMe!
+  
+  We love what we do because it’s so much more than just
+  documentation. We’re providing tools for teams to build a
+  better developer experience and make their products and APIs
+  easier to use. We’ve got great support from our investors at
+  Accel who led our Series A, and our interview process
+  reflects the open, caring, and whimsical culture we want to
+  maintain as we scale.
+  
+  ✅ What you’ll do here
+  
+  This isn’t a feature team where a PM hands you tickets.
+  You’ll help decide what gets built, why it matters, and how
+  it works end-to-end. You’ll work on systems that are already
+  live across thousands of developer hubs and define what they
+  become next.
+  
+  ReadMe's AI surface spans three bets we're doubling down on:
+  
+  - Documentation that writes itself. AI that watches code
+    change and keeps docs current — from PR-level suggestions
+    to org-wide audits that surface and fix quality issues at
+    scale.
+  - Answers, not search results. A conversational layer embedded
+    directly in developer hubs, grounded in real docs, that
+    gives developers the right answer instead of a list of
+    links to dig through.
+  - APIs that are agent-ready. As AI agents increasingly talk to
+    APIs, the structure and clarity of those specs matters
+    more than ever. We're building the systems that make APIs
+    understandable by both humans and machines.
+  
+  Day to day, you’ll:
+  
+  - Design end-to-end AI systems: combining LLMs, embeddings,
+    retrieval pipelines, and structured outputs into reliable
+    product features.
+  - Build grounding and retrieval layers: indexing docs, OpenAPI
+    specs, and customer data to support accurate, context-
+    aware generation.
+  - Define evaluation systems: measuring accuracy, latency,
+    cost, and user impact; building feedback loops to
+    continuously improve quality.
+  - Handle real-world complexity: malformed specs, inconsistent
+    docs, edge-case APIs, and ambiguous user queries.
+  - Make architectural tradeoffs: latency vs. quality, cost vs.
+    coverage, deterministic vs. generative approaches.
+  - Own production reliability: observability, fallbacks, rate
+    limiting, and safe degradation when systems fail.
+  - Work across the stack: from model orchestration and backend
+    systems to the UI surfaces that expose them.
+  
+  💙 You'll love this job if you...
+  
+  - Want to own meaningful systems end-to-end, not just
+    features.
+  - Care deeply about developer experience and documentation
+    quality.
+  - Enjoy working on problems where AI, APIs, and product design
+    intersect.
+  - Have strong instincts about what makes AI actually useful
+    and where the industry is headed.
+  
+  ️ ⭐️ This role is a great fit if you have...
+  
+  - Experience building with LLMs in production, not just
+    prototypes.
+  - Strong JavaScript/TypeScript or Python experience.
+  - Experience working with:
+    - Embeddings and retrieval systems (RAG).
+    - Prompting and structured outputs.
+    - Evaluation and iteration of AI systems (quality, latency,
+      cost).
+  - Comfort working with APIs and structured data (JSON,
+    OpenAPI, schemas).
+  - Experience designing and shipping end-to-end systems, from
+    backend pipelines to user-facing product surfaces.
+  - Strong instincts around when to use AI vs. deterministic
+    approaches.
+  - Experience improving AI reliability, observability, and
+    production readiness.
+  - Familiarity with real-world edge cases (messy data,
+    inconsistent inputs, ambiguous queries) and how to handle
+    them.
+  
+  🌱 How you'll grow within one month...
+  
+  - Build a deep understanding of ReadMe’s AI systems and
+    product surfaces.
+  - Ship meaningful improvements to existing AI features.
+  - Get close to real customer workflows and pain points.
+  
+  🪴 Within a few months, you'll...
+  
+  - Own a core part of one of our AI systems.
+  - Drive improvements in quality, reliability, and user
+    experience.
+  - Contribute to product and technical direction.
+  
+  🌳 Within your first year, you'll...
+  
+  - Be a key driver of AI across the product.
+  - Ship systems used daily by thousands of developers and
+    teams.
+  - Help define how AI reshapes developer hubs and API
+    workflows.
+  
+  🛣️ What's the hiring process like?
+  
+  - We can’t wait to read your resume and (hopefully
+    personality-filled) cover letter! Let us know what excites
+    you about full stack engineering, and help us get to know
+    you better!
+  - If we think we might be a good fit for you, we’ll set up a
+    30 minute Zoom call with our VP Engineering Moses! He’ll
+    tell you more about the role, and get a chance to hear
+    about your experiences.
+  - Next will be a second 30 minute Zoom interview with Davin,
+    one of our Engineering Managers, where we’ll dive a bit
+    more into your background.
+  - We’ll then do a technical assessment with a couple of ReadMe
+    engineers.
+  - Finally we’ll invite you to an "onsite" interview conducted
+    over Zoom! These usually take 3.5 to 5 hours including an
+    hour break in between. We are able to be flexible with the
+    schedule and split it up over two days if that works best
+    for you! We start with a 15-minute get-to-know-you with
+    the people you’ll be interviewing with, and then have you
+    talk with people one-on-one later on.
+  - We’ll let you know how things went within a week! If it
+    still seems like a good fit all around, we’ll extend you
+    an offer! If not, we will update you to let you know so
+    you aren’t left hanging.
+  
+  ✨ Our benefits include…
+  
+  - Unlimited PTO with a three-week minimum. 🏝️
+  - Fully covered medical, dental, and vision insurance for you,
+    and 100% for your dependents.
+  - A One Medical membership. 👨‍⚕️
+  - A gym or fitness stipend of up to $150 per month. 🏋️‍♀️
+  - One-to-one donation matching of up to $1,000 per year. 💸
+  - Twelve weeks of paid parental leave after the birth or
+    adoption of a child. 🐣
+  - Work from home. 🏠
+  - Three offsite retreats per year to get together with
+    coworkers and plan for the quarter ahead. ✈️
+  - Take a look at our handbook for more information on our
+    benefits! 📘
+  
+  Not sure if you’d be the right fit? Apply anyway! We’d love
+  to see your application.
+  
+  At ReadMe, we’re committed to cultivating a diverse and
+  inclusive workplace. We welcome people of all different
+  backgrounds, experiences, abilities, and perspectives. We
+  are an equal opportunity employer and a pleasant and
+  supportive place to work. We'd love to have you come join us
+  here! ReadMe is open to hiring folks fully remote in the US,
+  hybrid, or in-person at our New York or San Francisco HQ.
+posted_date: 2026-04-10
+url: "https://builtin.com/job/ai-engineer/9009587"
+source: Built In

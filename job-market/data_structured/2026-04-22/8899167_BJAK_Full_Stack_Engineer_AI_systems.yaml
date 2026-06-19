@@ -1,0 +1,49 @@
+company:
+  name: BJAK
+  stage: unknown
+  focus: Building proactive AI chat app for everyday users
+position:
+  title: Full Stack Engineer, AI systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves designing and building agent
+      workflows, integrating LLMs, memory, and external tools, and
+      designing real-time AI interactions with streaming. The
+      engineer is building the product layer that operationalizes
+      AI capabilities, including agent planning, tool use, failure
+      recovery, and LLM integration — making this hands-on AI
+      system building.
+  responsibilities:
+  - Build end-to-end product features across frontend, backend, and AI integrations
+  - Design agent workflows that handle planning, tool use, failure, and recovery across
+    multiple steps
+  - Integrate LLMs, memory, and external tools into reliable production systems
+  - Design real-time AI interactions with streaming, partial results, and tight latency
+    constraints
+  - Improve system reliability, observability, and fallback mechanisms
+  - Collaborate with ML, backend, and product teams to ship features end-to-end
+  - Continuously iterate based on real usage and failure modes
+  use_cases:
+  - Proactive AI chat app for everyday users
+  - Long-running workflow automation with persistent context
+  - Multi-step reasoning and real-world task completion
+  - Agent-driven tool use for errands, organizing, and workflows
+  - Reliable AI interactions despite non-deterministic model behavior
+  skills:
+    genai: [OpenAI API, Anthropic API, open-source LLMs, RAG, agent workflows, LLM
+        integration]
+    ml: [PyTorch]
+    web: [Next.js, API architecture]
+    databases: [NoSQL]
+    data: []
+    cloud: []
+    ops: [Kubernetes, Docker]
+    languages: [Python, Node.js, SQL]
+    domains: []
+    other: [streaming, system design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8899167'
+  extracted_at: '2026-04-22T13:40:58.362863'

@@ -1,0 +1,54 @@
+company:
+  name: BlackRock
+  stage: Public
+  focus: |-
+    Global investment management and financial technology
+    platform
+position:
+  title: AI Enabled Full stack Engineer, Aladdin Engineering, Vice President
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily a senior full-stack software
+      engineering position within BlackRock's Aladdin platform.
+      The "AI-enabled" aspect refers to using AI tools (Cursor,
+      Copilot, Windsurf) to accelerate the SDLC and embedding AI
+      capabilities into existing product workflows — not building,
+      training, or fine-tuning AI/ML models. The core work is
+      enterprise software engineering with AI as an enabler,
+      making this an ai-support classification.
+  responsibilities:
+  - Contribute to Technical Design Deployment Readiness Reviews, Core Reviews, and
+    the full PDLC
+  - Accelerate productivity using AI-enabled PDLC practices with focus on quality
+    and resiliency
+  - Provide operational excellence with production support and an SRE mindset
+  - Influence and mentor engineers on the team, raising the bar on technical excellence
+  - Collaborate across global teams to align around shared architectural vision
+  - Champion engineering culture with continuous learning and DORA best practices
+  - Build domain and technical context quickly, translating into specifications and
+    Agile backlogs
+  - Embed AI capabilities into product workflows and platform services responsibly
+    and securely
+  use_cases:
+  - Portfolio management platform supporting $14 trillion in assets
+  - Persona-based workflow-driven investment decision tools
+  - Enterprise-scale distributed systems for financial services
+  - AI-assisted development, testing, code review, and documentation
+  - Next-generation modular architecture for investment management
+  skills:
+    genai: [GitHub Copilot, Cursor, Windsurf]
+    ml: []
+    web: [React, Angular, REST API Design, Event Driven Architecture, Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes, Docker, SRE, CI/CD]
+    languages: [Java, SQL]
+    domains: [Portfolio Management]
+    other: [TDD, BDD, Agile, Domain Driven Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8559594'
+  extracted_at: '2026-04-22T14:15:58.723008'

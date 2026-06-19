@@ -1,0 +1,52 @@
+company:
+  name: KLA
+  stage: Public
+  focus: |-
+    Semiconductor manufacturing equipment and technology
+    solutions
+position:
+  title: Software Engineer - AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing, developing, training,
+      and deploying ML models and AI algorithms, including working
+      with RAG architectures. The engineer is hands-on with model
+      training, validation, deployment, and monitoring, which
+      squarely places this as an ai-first role.
+  responsibilities:
+  - Design, develop, and implement machine learning models and AI algorithms including
+    data preprocessing, model training, validation, and deployment
+  - Architect and design scalable systems for large volumes of data and complex AI/ML
+    workloads
+  - Implement production-ready AI/ML solutions ensuring security, compliance, and
+    operational efficiency
+  - Research and explore new AI/ML methodologies to keep solutions innovative
+  - Collaborate with cross-functional teams including data engineers, product managers,
+    and business partners to integrate AI solutions
+  - Oversee deployment of AI/ML models into production and monitor post-deployment
+    performance
+  - Document processes, methodologies, and share knowledge through presentations and
+    workshops
+  use_cases:
+  - AI-driven business transformation in semiconductor manufacturing
+  - Automated data analysis and model-based decision making
+  - Scalable AI/ML workloads for large-scale data processing
+  - Production-grade AI solution deployment for enterprise operations
+  skills:
+    genai: [RAG]
+    ml: [TensorFlow, Scikit-learn, Deep Learning, Neural Networks, Machine Learning
+        Algorithms, Statistics]
+    web: []
+    databases: []
+    data: [Data Processing]
+    cloud: [Cloud Platforms]
+    ops: [DevOps, Git, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [System Architecture, Agile Methodologies]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8998777'
+  extracted_at: '2026-04-22T13:26:47.956291'

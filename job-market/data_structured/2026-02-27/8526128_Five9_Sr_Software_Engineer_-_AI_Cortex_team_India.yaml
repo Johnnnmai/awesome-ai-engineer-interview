@@ -1,0 +1,46 @@
+company:
+  name: Five9
+  stage: Public
+  focus: Cloud contact center software provider
+position:
+  title: Sr Software Engineer - AI Cortex team | India
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend software engineering role that supports AI
+      initiatives but does not directly build, train, or deploy AI
+      models. The focus is on building scalable backend systems,
+      APIs, and microservices that power the platform. AI
+      development tools are only mentioned as desirable, not core
+      responsibilities.
+  responsibilities:
+  - Design, develop, and maintain backend software solutions supporting AI initiatives
+  - Build scalable, reliable, and high-performance backend systems and microservices
+  - Translate requirements into robust backend services and REST APIs
+  - Troubleshoot and resolve complex production and architectural issues
+  - Collaborate with product owners and cross-functional teams on requirements and
+    delivery
+  - Mentor other engineers and drive backend engineering best practices
+  - Contribute to service documentation, technical specifications, and API contracts
+  use_cases:
+  - Cloud contact center platform
+  - Backend services for AI-powered customer experience
+  - Scalable microservices architecture
+  - IVR and virtual agent systems
+  - Telecommunications and VoIP integration
+  skills:
+    genai: []
+    ml: []
+    web: [Spring Boot, REST API, Microservices]
+    databases: [SQL, NoSQL, Redis]
+    data: [Event-driven messaging]
+    cloud: [Google Cloud Platform]
+    ops: [Kubernetes, Gradle, CI/CD, GitLab]
+    languages: [Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8526128'
+  extracted_at: '2026-03-03T12:25:07.574813'

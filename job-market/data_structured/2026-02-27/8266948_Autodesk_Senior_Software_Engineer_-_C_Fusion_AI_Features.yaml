@@ -1,0 +1,48 @@
+company:
+  name: Autodesk
+  stage: Public
+  focus: |-
+    3D design, engineering, and entertainment software for
+    design-to-manufacture workflows
+position:
+  title: Senior Software Engineer - C++ (Fusion AI Features)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves contributing to the development
+      of AI/ML features in Fusion, Autodesk's design and
+      manufacturing software. The engineer will be building
+      AI/ML/Generative AI applications, which involves hands-on
+      work implementing and deploying AI capabilities within the
+      product.
+  responsibilities:
+  - Develop AI/ML features for Fusion CAD/design software using C++
+  - Work in Agile scrum teams with 2-week sprints and emphasis on test automation
+  - Collaborate iteratively with developers, testers, and UX designers
+  - Navigate and troubleshoot large legacy code bases to implement surgical solutions
+  - Program primarily in C++ using Microsoft Visual Studio on Windows and Xcode on
+    macOS
+  - Communicate frequently with distributed scrum teams across US, Europe, and Shanghai
+  - Participate actively in code reviews and prepare submission documents
+  - Mentor other team members and contribute to team success
+  use_cases:
+  - AI-powered features for CAD and design software
+  - Generative AI applications for design and manufacturing workflows
+  - Cloud-based AI/ML capabilities in Fusion platform
+  - Design automation and intelligent assistance for engineers and designers
+  skills:
+    genai: [Cursor, GitHub Copilot]
+    ml: []
+    web: [QT, Postman]
+    databases: []
+    data: []
+    cloud: [AWS, AWS SageMaker]
+    ops: [GitHub, Jenkins, CI/CD, Splunk, Dynatrace]
+    languages: [C++, Python, JavaScript]
+    domains: []
+    other: [Microsoft Visual Studio, Xcode, Jira]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8266948'
+  extracted_at: '2026-03-03T11:48:38.104922'

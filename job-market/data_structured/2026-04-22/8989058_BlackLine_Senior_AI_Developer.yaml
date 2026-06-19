@@ -1,0 +1,59 @@
+company:
+  name: BlackLine
+  stage: Public
+  focus: |-
+    Cloud software for financial close automation and Modern
+    Finance
+position:
+  title: Senior AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing, building, and
+      shipping AI agents and applications using generative AI
+      platforms, RAG architectures, and prompt engineering. The
+      developer owns the full lifecycle of AI solutions from
+      design through deployment, making this a hands-on AI/ML
+      building role rather than a supporting one.
+  responsibilities:
+  - Design, build, and ship AI agents and applications using Vertex AI, Anthropic,
+    and cloud-based AI services for internal/enterprise use cases
+  - Translate business problems into AI solutions by working directly with stakeholders
+    to define requirements and propose impactful use cases
+  - Own the full development lifecycle from requirements and design to coding, testing,
+    deployment, and iterative enhancement
+  - Integrate AI agents with enterprise systems, APIs, and internal tools to create
+    seamless end-to-end workflows
+  - Monitor and support AI solutions in production, improving performance and refining
+    user experience based on feedback and metrics
+  - Contribute to team-wide standards and best practices for AI development including
+    coding patterns, observability, and governance
+  - Collaborate closely with a global AI team sharing context, reviewing code, and
+    jointly owning deliverables
+  - Provide knowledge transfer and mentoring to help others effectively leverage AI
+    tools and patterns
+  use_cases:
+  - Internal enterprise AI agents that transform data into actionable insights for
+    business teams
+  - Streamlining internal workflows across the organization using AI agents
+  - Enterprise RAG systems using vector databases for knowledge retrieval and decision
+    support
+  - AI-powered automation integrated with enterprise systems and internal tools
+  - Corporate AI solutions enabling faster and better decision-making across business
+    functions
+  skills:
+    genai: [Anthropic API, RAG, Prompt Engineering, AI Agents]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector Databases, Vertex AI Vector Search, Pinecone, Weaviate]
+    data: []
+    cloud: [Vertex AI, Cloud-based AI services]
+    ops: []
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8989058'
+  extracted_at: '2026-04-22T13:52:15.310532'

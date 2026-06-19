@@ -1,0 +1,48 @@
+company:
+  name: Jack & Jill AI
+  stage: Series B
+  focus: AI assistant platform for sales relationship management
+position:
+  title: Lead Machine Learning Engineer (£200k + Equity) at Fyxer AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is AI-first as it involves directly building and
+      implementing AI/ML systems - specifically selecting and
+      implementing model architectures blending LLMs with
+      traditional ML models, building fine-tuned models, and
+      owning the technical strategy for predicting user actions.
+      The role requires hands-on work with GenAI systems and
+      recommendation engines.
+  responsibilities:
+  - Own the technical strategy for predicting user actions and automating relationship
+    management for sales teams
+  - Select and implement optimal model architectures using a mixture of LLM steps
+    and traditional machine learning models
+  - Define evaluation metrics and design production monitoring systems to identify
+    and resolve model performance bottlenecks
+  - Collaborate with the human data team to procure high-quality training and validation
+    datasets for subjective judgment tasks
+  - Work directly with the CTO to build world-class fine-tuned models leveraging a
+    60-person human data division
+  use_cases:
+  - Predicting user actions for sales automation
+  - Automating relationship management for sales teams
+  - Recommendation systems for sales workflows
+  - Fine-tuned models for subjective judgment tasks
+  skills:
+    genai: [LLMs, Generative AI]
+    ml: [Fine-tuning, Recommendation engines, Traditional ML models, Model evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Production monitoring]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8854056'
+  extracted_at: '2026-03-27T13:15:10.729165'

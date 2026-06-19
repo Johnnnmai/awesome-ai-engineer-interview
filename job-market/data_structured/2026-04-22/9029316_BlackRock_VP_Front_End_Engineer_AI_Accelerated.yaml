@@ -1,0 +1,57 @@
+company:
+  name: BlackRock
+  stage: Public
+  focus: |-
+    Global investment management and financial technology
+    platform (Aladdin)
+position:
+  title: VP, Front End Engineer (AI Accelerated)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a frontend engineering VP role at BlackRock that
+      uses AI tools to accelerate development (code generation,
+      testing, domain learning), but the core work is building
+      frontend systems and frameworks. The role does not involve
+      building, training, fine-tuning, or deploying AI/ML models.
+      AI is used as a development accelerator tool, similar to
+      using Copilot or ChatGPT to assist coding. The primary
+      responsibility is frontend platform engineering for Aladdin.
+  responsibilities:
+  - Build highly available, resilient, and performant frontend systems and frameworks
+    used by thousands of users globally
+  - Contribute to the evolution of Aladdin's multi-asset trading and portfolio management
+    capabilities
+  - Shape product direction together with Product, Design, and Engineering leadership
+  - Mentor and guide frontend engineers, cultivating a culture of curiosity, inclusion,
+    and technical excellence
+  - Use AI proactively as a development accelerator, validating and refining AI-generated
+    output for high-quality outcomes
+  - Design elegant solutions from idea to production with strong engineering discipline
+  - Collaborate with colleagues across UK, US, India, and other global offices in
+    an Agile setup
+  - Define patterns and measurable SLO/NFR targets for high-quality engineering outcomes
+    using AI-assisted design thinking
+  use_cases:
+  - AI-assisted code generation and testing for frontend development workflows
+  - Portfolio management UI supporting over $14 trillion in assets under management
+  - Multi-asset trading and portfolio management platform (Aladdin)
+  - Micro-frontend architecture powering real-time financial decision-making
+  - Developer tooling to improve reliability, observability, and delivery speed
+  skills:
+    genai: [AI-assisted development tools]
+    ml: []
+    web: [Angular, React, Micro-frontend Architecture, Web Performance Optimization,
+      Application Security]
+    databases: []
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [CI/CD, Azure DevOps]
+    languages: [TypeScript, JavaScript, Java]
+    domains: []
+    other: [Agile, Distributed Systems]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9029316'
+  extracted_at: '2026-04-22T13:14:12.716129'

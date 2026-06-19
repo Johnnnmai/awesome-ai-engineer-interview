@@ -1,0 +1,61 @@
+company:
+  name: Natera
+  stage: Public
+  focus: |-
+    Cell-free DNA testing for oncology, women's health, and
+    organ health diagnostics
+position:
+  title: Senior Software Engineer (Data & AI Solutions)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role at a genomics company that
+      works NEAR AI but not directly ON AI systems. The role
+      focuses on building data pipelines, data products, and data
+      models for R&D and scientific workflows. AI is mentioned
+      only as an auxiliary skill (using LLM copilots to accelerate
+      development, and a plus for vector DBs/RAG exposure), not as
+      the core function. The primary work is engineering data
+      systems that support downstream analytics, ML, or AI
+      applications.
+  responsibilities:
+  - Design, build, and maintain data products supporting R&D, analytics, lab, and
+    scientific workflows
+  - Build and maintain data pipelines for large, complex datasets from raw inputs
+    through analysis-ready datasets
+  - Apply genetics and bioinformatics domain knowledge to design data models, schemas,
+    and abstractions for research patterns
+  - Design de-identification and privacy-preserving architectures meeting HIPAA and
+    regulatory requirements
+  - Design scalable data models to power analytics, reporting, and downstream applications
+    with high data quality standards
+  - Partner with R&D scientists, bioinformatics teams, and software engineers to translate
+    research needs into reusable data assets
+  - Optimize storage, retrieval, and lifecycle management for large scientific files
+    (sequencing data, artifacts, derived datasets)
+  - Drive rapid prototyping for exploratory and proof-of-concept initiatives, guiding
+    transition to production-grade systems
+  use_cases:
+  - Genomics research data pipeline management from experiment to insight
+  - Translational science data product development
+  - Bioinformatics data format processing (BAM, VCF, FASTQ)
+  - HIPAA-compliant de-identification of healthcare and genomic data
+  - Scientific file lifecycle management for sequencing data and derived datasets
+  - Analytics and reporting data infrastructure for R&D organizations
+  skills:
+    genai: [LLM copilots (AI-assisted development), Semantic search, RAG]
+    ml: [Embeddings]
+    web: []
+    databases: [Snowflake, Vector databases]
+    data: [Spark, Airflow, dbt, Dagster, Data modeling, Data observability, Data quality
+        frameworks, Distributed processing]
+    cloud: [AWS]
+    ops: [Terraform, CloudFormation, CI/CD]
+    languages: [Python, SQL]
+    domains: [Bioinformatics/Genomics]
+    other: [HIPAA compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8966967'
+  extracted_at: '2026-04-22T12:57:24.945669'

@@ -1,0 +1,56 @@
+company:
+  name: Arctic Wolf
+  stage: Late-stage private (multiple awards, 7000+ customers, 2000+ partners)
+  focus: |-
+    Managed detection and response cybersecurity services with
+    AI-powered security operations
+position:
+  title: Developer - AI SOC Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-powered decisioning
+      components, agentic automation frameworks, and integrating
+      LLMs and reasoning agents into SOC tooling. The developer
+      will work directly on implementing AI/ML components
+      including detection-as-code pipelines and autonomous task
+      execution frameworks.
+  responsibilities:
+  - Design and build cloud-native backend systems and microservices using Python and
+    Go
+  - Develop AI-powered decisioning components and agentic automation frameworks for
+    SOC workflows
+  - Build detection-as-code pipelines, incident response playbooks, and enrichment
+    services
+  - Deploy and maintain systems on AWS using RDS, DynamoDB, Lambda, and Kubernetes/EKS
+  - Integrate LLMs, reasoning agents, and autonomous task execution frameworks into
+    SOC tooling
+  - Implement test-driven development and CI/CD practices with Git, Jenkins, Terraform,
+    and Docker
+  - Prototype innovative uses of AI in detection, triage, automation, and response
+    workflows
+  - Collaborate with threat researchers, data scientists, and detection engineers
+    on security solutions
+  use_cases:
+  - Automated threat detection and triage in security operations centers
+  - Intelligent incident response automation and playbook execution
+  - AI-powered security alert enrichment and context-aware analysis
+  - Autonomous cybersecurity operations and decisioning
+  - Detection pipeline automation and threat hunting
+  - SOC workflow optimization through intelligent automation
+  skills:
+    genai: [LLM integration, agentic automation, reasoning agents]
+    ml: [AI/ML components]
+    web: [microservices]
+    databases: [RDS, DynamoDB]
+    data: [data pipelines, streaming systems]
+    cloud: [AWS, Lambda]
+    ops: [Kubernetes, Docker, Terraform, Jenkins, CI/CD]
+    languages: [Python, Go]
+    domains: [cybersecurity]
+    other: [detection-as-code]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8738727'
+  extracted_at: '2026-03-27T15:55:24.498416'

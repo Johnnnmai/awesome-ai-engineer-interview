@@ -1,0 +1,56 @@
+company:
+  name: Seek (seekinsights.com)
+  stage: Series A
+  focus: |-
+    Marketplace platform for data apps and secure exchange of
+    production-ready data applications
+position:
+  title: Principal Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct integration and implementation of
+      AI capabilities (LLMs, RAG, conversational querying,
+      intelligent recommendations, AI-assisted publishing) into
+      production systems. The engineer will design patterns for
+      integrating AI models and semantic modeling, build agent
+      frameworks, and shape AI-powered features end-to-end.
+  responsibilities:
+  - Build full stack features using React, Python, and modern APIs to deliver high-quality
+    user experiences
+  - Design and extend backend services and APIs that integrate AI models and external
+    AI services into the platform
+  - Create intuitive user workflows that incorporate AI including conversational data
+    querying, assisted discovery, and guided analytics
+  - Define patterns and best practices for integrating LLMs and semantic modeling
+    into data workflows
+  - Shape the app marketplace experience by advancing intelligent recommendations,
+    AI-assisted publishing, and cross-app insights
+  - Ensure reliability at scale by driving observability, automated testing, CI/CD
+    improvements, and performance tuning across AI-enabled systems
+  - Mentor and guide engineers on AI integration strategies and system reliability
+  - Partner with product and design leadership to translate AI opportunities into
+    customer-ready features
+  use_cases:
+  - Conversational data querying for business users
+  - AI-assisted analytics discovery and guided workflows
+  - Intelligent recommendations for data apps marketplace
+  - AI-assisted publishing of data applications
+  - Cross-app insights and semantic data modeling
+  - Predictive models embedded in analytics apps
+  skills:
+    genai: [LLM integration, OpenAI API, Anthropic API, RAG pipelines, Agent frameworks]
+    ml: []
+    web: [React, API design, REST APIs]
+    databases: [Snowflake]
+    data: [Semantic modeling]
+    cloud: [Cloud data warehouses]
+    ops: [Distributed systems, CI/CD, Docker, Observability tools]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8852949'
+  extracted_at: '2026-03-27T14:02:41.145206'

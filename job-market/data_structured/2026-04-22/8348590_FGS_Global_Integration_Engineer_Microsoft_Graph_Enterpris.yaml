@@ -1,0 +1,61 @@
+company:
+  name: FGS Global
+  stage: Established (formed from merger of multiple firms)
+  focus: |-
+    Global stakeholder strategy and communications advisory firm
+    with an AI innovation lab
+position:
+  title: Integration Engineer – Microsoft Graph & Enterprise AI Systems
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building enterprise integrations
+      (OAuth, data pipelines, Microsoft Graph API) that connect
+      Microsoft 365 and corporate systems to an AI platform. The
+      engineer builds the infrastructure that enables AI agents to
+      access data, but does not directly build, train, fine-tune,
+      or deploy AI/ML models themselves. The work is enabling AI
+      capabilities through integration plumbing rather than
+      working on the AI systems directly.
+  responsibilities:
+  - Implement OAuth-based authentication flows with proper scope management for enterprise
+    AI platform integrations
+  - Build data pipelines connecting email, calendar, file storage, and collaboration
+    platforms to the AI system
+  - Develop integrations using Microsoft Graph API across multiple services (SharePoint,
+    Teams, Exchange)
+  - Implement secure token management with refresh and caching strategies
+  - Build resilient error handling, retry logic, and performance optimization for
+    high-volume API operations
+  - Monitor integration health, debug authentication failures, and handle API throttling
+  - Work with IT teams on app registration, permission workflows, and enterprise security
+    compliance
+  - Contribute to team knowledge base and document integration approaches
+  use_cases:
+  - AI assistant (Fergus) that consultants use daily for strategic work across M&A,
+    crisis communications, and stakeholder strategy
+  - AI agents that generate press releases, analyze media coverage, and provide strategic
+    recommendations
+  - Real-time media intelligence processing millions of articles, social posts, and
+    stakeholder signals daily
+  - Enterprise search and context retrieval across Microsoft 365 data sources with
+    security boundary enforcement
+  - Secure data access enabling AI agents to operate within enterprise permission
+    and compliance frameworks
+  skills:
+    genai: [Model Context Protocol (MCP), AI/LLM platforms]
+    ml: []
+    web: [Microsoft Graph API, OAuth 2.0, MSAL Node, SharePoint, Microsoft Teams,
+      REST APIs]
+    databases: [Redis]
+    data: [Microsoft Fabric]
+    cloud: [Azure AD, Azure, GCP]
+    ops: [Token management]
+    languages: [Node.js, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8348590'
+  extracted_at: '2026-04-22T13:50:08.437637'

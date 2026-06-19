@@ -1,0 +1,236 @@
+job_id: 8885600
+title: AI Engineer
+company: Dr. Reddy’s Laboratories
+location: Hyderabad, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Azure Cognitive Services
+  - Azure Openai
+  - Dspy
+  - Fastapi
+  - Flask
+  - Hugging Face
+  - Kubeflow
+  - Mlflow
+  - Pgvector
+  - Pinecone
+company_size: 0 Employees
+description: |
+  Company Description
+  
+  Dr. Reddy’s Laboratories Ltd. is a leading multinational
+  pharmaceutical company based across global locations. Each
+  of our 24,000 plus employees comes to work every day for one
+  collective purpose: to accelerate access to affordable and
+  innovative medicines because Good Health Can’t Wait.
+  
+  We started in 1984 with a modest investment, 20 employees
+  and a bold vision. Today, we have research and development
+  centres, manufacturing facilities or a commercial presence
+  in 66 countries.
+  
+  For nearly four decades, we have stood for access,
+  affordability and innovation based on the bedrock of deep
+  science, progressive people practices and robust corporate
+  governance. As the pharmaceutical industry evolves and
+  undergoes disruption, we see an opportunity – to strengthen
+  our core further (the next steps) and to build the future
+  (the new bets).
+  
+  ‘The Next and the New’ is how we aim to continue to be the
+  partner of choice – purpose-driven, future-ready and
+  sustainable.  Our aim is to reach over 1.5 Bn+ patients
+  across the world by 2030 by growing our core businesses and
+  building for the future with sustainability at the core of
+  our purpose and strategy. Sustainability for us means
+  operating in a manner that respects people, planet and
+  purpose – helping us conserve precious resources, serve our
+  patients, create value for stakeholders, give back to
+  society, fulfil our potential and maintain our integrity and
+  transparency
+  
+  Dr Reddy’s maintains a work environment, free from
+  discrimination and is an equal opportunity employer. We are
+  committed to employ & nurture all qualified diverse
+  workforce without regard to race, colour religion,
+  nationality, sex, age, disability status, genetics, sexual
+  orientation, gender expression, citizenship or any other
+  characteristic or classification protected by applicable
+  law(s) of the country we operate in. We treasure every
+  talent, and recognize merit and diversity in our
+  organization.
+  
+  Job Description
+  
+  Role Summary
+  
+  We are seeking an AI/ML Engineer with ~5–6 years of
+  experience to develop and manage the generative AI models
+  that power our OCM platform. In this role, you will develop
+  and maintain AI pipelines for content generation and
+  evaluation, working with state-of-the-art ML tools. You will
+  ensure our AI models produce high-quality, multilingual
+  content and continuously improve through feedback loops.
+  
+  
+  
+  Responsibilities
+  
+  •Design and implement end-to-end generative AI pipelines for
+  creating personalized marketing content. This includes data
+  preprocessing, model inference, and post-processing of
+  outputs for quality assurance.
+  
+  •Leverage pre-trained models (e.g., via Azure OpenAI or
+  Hugging Face models) and customize them for the domain
+  needs.
+  
+  •Create mechanisms to automatically score or classify
+  generated content for relevance, quality, and compliance.
+  Implement evaluation workflows to filter out inappropriate
+  or low-quality AI-generated content before it reaches end-
+  users.
+  
+  •Incorporate feedback from users and domain experts into the
+  model improvement process. For example, implement prompt
+  adjustments, model retraining, or rules based on what
+  content performs best, to continuously refine output.
+  
+  •Ensure the AI pipeline can generate content in multiple
+  languages. Adapt models or use translation services as
+  needed so content stays accurate and contextually
+  appropriate across languages.
+  
+  •Deploy models and AI services into production (using Azure
+  services like Azure Functions or container deployments).
+  Monitor model performance (latency, accuracy) and optimize
+  as required. Troubleshoot and resolve issues in model
+  inference in production environments.
+  
+  •Work closely with the cross functional teams to develop AI
+  capabilities into the application.
+  
+  •Stay updated with the latest developments in AI/ML (new
+  models, techniques, prompt engineering strategies) and
+  experiment with improvements that could enhance our
+  product’s intelligence and efficiency.
+  
+  •Document model architectures, experiment results, and
+  maintain version control for models and data (ensure we know
+  which model version is in production). Follow best practices
+  for model lifecycle management.
+  
+  Qualifications
+  
+  Required Skills
+  
+  •5–6 years in AI/ML engineering or applied data science,
+  with hands-on experience in building and deploying machine
+  learning models.
+  
+  •Strong proficiency in Python and deep learning frameworks.
+  
+  •Experience with generative models (Transformers, GPT-based
+  models like GPT-Image-1, GPT-4o etc or similar) is
+  essential.
+  
+  •Familiarity with the Hugging Face ecosystem (libraries like
+  Transformers, datasets). Experience with DSPy or other AI
+  orchestration frameworks is a plus.
+  
+  •Experience using cloud AI services, particularly Azure
+  OpenAI Service and Azure Cognitive Services, to leverage
+  large language models and other AI capabilities.
+  
+  •Understanding of RAG and vector databases (e.g., pgvector,
+  Pinecone, etc.) and how to use them for storing embeddings
+  or enabling semantic search.
+  
+  •Ability to build or utilize APIs (using Python FastAPI or
+  Flask) to serve AI model functionality.
+  
+  •Experience in prompt engineering – crafting and refining
+  prompts to get better AI output – and fine-tuning models for
+  improved performance.
+  
+  •Understanding of active learning or feedback loop
+  mechanisms to improve models over time.
+  
+  •Prior experience deploying ML models in a production
+  environment. Comfortable with best practices for scaling ML
+  services, monitoring (logging, performance tracking), and
+  troubleshooting live issues.
+  
+  •Excellent analytical skills to diagnose issues with model
+  output or data. Ability to experiment methodically and come
+  up with creative solutions in an emerging field.
+  
+  •
+  
+  Good to Have
+  
+  •Familiarity with content validation against guidelines or
+  compliance requirements (e.g., understanding of medical,
+  legal, regulatory checks for marketing content). Experience
+  with LMRC or similar review processes is a plus.
+  
+  •Some knowledge of data pipelines, ETL, or data
+  preprocessing techniques, especially for unstructured data
+  (Especially Image data).
+  
+  •Interest or background in healthcare or marketing
+  technology. Understanding the unique challenges of
+  healthcare marketing (such as privacy or compliance) can
+  help in building better AI solutions.
+  
+  •Experience with ML lifecycle tools (MLflow, Kubeflow) or
+  experiment tracking, and familiarity with DevOps for ML
+  (CI/CD for model deployment)are nice to have.
+  
+  Additional Information
+  
+  About the Department Digital Process and Excellence (DPEx)
+  Our digital transformation journey is led by the DPEx team
+  and is structured along the lines of Digitalize the Core and
+  Transform with Digital. With a mandate to ensure continuous
+  process improvement and drive patient centric innovation, it
+  spans all functions and operations. In other words, you
+  could be working on projects to expedite research outcomes
+  one day, designing customer engagement platforms the next
+  and simplifying warehouse processes the third. Some its
+  priorities are: • Reimagine Dr. Reddy’s as a ‘platform-
+  based’ organization. • Create Data as an asset that brings
+  competitive advantage and business impact. • Create Digital
+  solutions that make the lives of our patients and customers
+  easier and better.
+  
+  Benefits Offered At Dr. Reddy’s we actively help to catalyse
+  your career growth and professional development through
+  personalised learning programs. The benefits you will enjoy
+  at Dr. Reddy’s are on par with the best industry standards.
+  They include, among other things and other essential
+  equipment, joining & relocation support, family support
+  (Maternity & Paternity benefits), learning and development
+  opportunities, medical coverage for yourself and your
+  family, life coverage for yourself.
+  
+  Our Work Culture Ask any employee at Dr. Reddy’s why they
+  come to work every day and they’ll say, because Good Health
+  Can’t Wait. This is our credo as well as the guiding
+  principle behind all our actions. We see healthcare
+  solutions not only as scientific formulations, but as a
+  means to help patients lead healthier lives, and we’re
+  always attuned to the new and the next to empower people to
+  stay fit. And to do this, we foster a culture of empathy and
+  dynamism. People are at the core of our journey over the
+  last few decades. They have been supported by an enabling
+  environment that buoys individual ability while fostering
+  teamwork and shared success. We believe that when people
+  with diverse skills are bound together by a common purpose
+  and value system, they can make magic. For more details,
+  please visit our career website at
+  https://careers.drreddys.com/#!/
+posted_date: 2026-03-27
+url: "https://builtin.com/job/ai-engineer/8885600"
+source: Built In

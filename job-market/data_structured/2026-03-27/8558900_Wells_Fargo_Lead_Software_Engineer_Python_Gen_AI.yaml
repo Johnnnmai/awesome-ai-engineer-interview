@@ -1,0 +1,52 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: |-
+    Enterprise GenAI solutions for automation and operational
+    efficiency in banking
+position:
+  title: Lead Software Engineer (Python & Gen AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying
+      Generative AI solutions including RAG systems, LLM-powered
+      assistants, and agentic AI workflows. The position requires
+      direct implementation of GenAI technologies like vector DBs,
+      embeddings, and prompt engineering, not just supporting
+      infrastructure.
+  responsibilities:
+  - Lead complex companywide technology initiatives with broad impact
+  - Design and develop enterprise-grade Generative AI solutions using RAG frameworks
+    and LLM platforms
+  - Build scalable Python-based automation services, APIs and backend utilities
+  - Implement RAG pipelines, embeddings, and prompt engineering techniques
+  - Design and build agentic AI workflows for multi-step task automation with human
+    oversight
+  - Develop LLM-powered assistants for engineering and support teams
+  - Ensure AI solutions follow security, governance, and responsible AI practices
+  - Lead projects and mentor team members while establishing engineering best practices
+  use_cases:
+  - Automated summarization of documents and communications
+  - Runbook generation for operational procedures
+  - Operational insights and analytics
+  - LLM-powered assistants for engineering teams
+  - Agentic AI workflows for issue analysis and automated task execution
+  - Enterprise automation and modernization
+  skills:
+    genai: [LLMs, GenAI, Agent frameworks, RAG systems, Tachyon GenAI Studio, Prompt
+        engineering, Embeddings, Multi-agent orchestration, Retrieval optimization]
+    ml: []
+    web: [APIs]
+    databases: [Vector DBs]
+    data: []
+    cloud: []
+    ops: [Git, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8558900'
+  extracted_at: '2026-03-27T15:40:01.905569'

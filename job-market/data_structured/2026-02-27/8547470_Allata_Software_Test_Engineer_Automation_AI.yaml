@@ -1,0 +1,59 @@
+company:
+  name: Allata
+  stage: Private
+  focus: |-
+    Global consulting and technology services firm specializing
+    in strategy, design, cloud solutions, and AI-driven
+    automation
+position:
+  title: Software Test Engineer (Automation + AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA/test automation role where AI tools are used to
+      assist with testing tasks (test generation, failure pattern
+      analysis, code review, RAG for documentation lookup), but
+      the role does not involve building, training, fine-tuning,
+      or deploying AI/ML models. The primary work is test
+      automation and quality engineering, with AI being an
+      assistive tool rather than the core focus.
+  responsibilities:
+  - Analyze requirements, user stories, and API contracts to create comprehensive
+    test scenarios and automation strategies
+  - Build and maintain automated tests using Selenium, Playwright, and Cypress with
+    clean, reusable frameworks (POM, BDD)
+  - Test APIs thoroughly including authentication, payloads, error handling, and contract
+    validation using Postman and REST automation
+  - Write SQL queries to validate data integrity, transformations, and business logic
+    in databases
+  - Integrate test suites into CI/CD pipelines and monitor execution quality across
+    browsers and platforms
+  - Use AI-powered tools and RAG approaches to extract knowledge from technical docs,
+    speed up code reviews, and recognize defect patterns
+  - Track defects in JIRA with clear reproduction steps and impact analysis while
+    collaborating with developers on code reviews
+  - Maintain test documentation, dashboards, and quality metrics while participating
+    in Agile ceremonies
+  use_cases:
+  - Test automation framework development for web, SaaS, API, and mobile applications
+  - AI-assisted test generation and failure pattern analysis
+  - RAG-based test knowledge retrieval from documentation and historical test runs
+  - CI/CD pipeline integration and quality monitoring
+  - Shift-left testing practices for early defect detection
+  skills:
+    genai: [GitHub Copilot, Claude, Cursor, RAG]
+    ml: []
+    web: [Selenium, Playwright, Cypress, Postman, REST API testing]
+    databases: [SQL, ChromaDB, Pinecone]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [Git, CI/CD, Jenkins, Azure DevOps, GitHub Actions, Docker]
+    languages: [Java, JavaScript, TypeScript]
+    domains: []
+    other: [TestNG, Page Object Model, BDD, Cucumber, OAuth, JWT, JIRA, JMeter, K6,
+      BrowserStack, LambdaTest, OWASP, Testim.io, Katalon, Functionize]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8547470'
+  extracted_at: '2026-03-03T11:31:47.216423'

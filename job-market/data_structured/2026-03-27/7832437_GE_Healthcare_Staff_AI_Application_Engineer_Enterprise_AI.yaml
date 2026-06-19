@@ -1,0 +1,56 @@
+company:
+  name: GE Healthcare
+  stage: Public
+  focus: |-
+    Healthcare technology and medical devices with enterprise AI
+    solutions
+position:
+  title: Staff AI Application Engineer, Enterprise AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, deploying, and integrating
+      GenAI and Agentic AI solutions including LLMs, RAG
+      pipelines, and AI agents. The position requires hands-on
+      work with AI models (LangChain, LangGraph, vector databases,
+      cloud AI services) and directly translates AI/ML prototypes
+      into scalable applications.
+  responsibilities:
+  - Design and develop AI-powered applications integrating ML and generative models
+    into enterprise-grade software products and internal tools
+  - Develop modern frontend interfaces for AI applications using React/Next.js and
+    TypeScript with focus on usability and AI explainability
+  - Implement scalable backend services using FastAPI, Flask, or Node.js to expose
+    AI capabilities including LLMs, RAG pipelines, and AI agents
+  - Translate data science prototypes and GenAI models into scalable applications
+    with intuitive user interfaces
+  - Partner with MLOps and GenAIOps teams to deploy, monitor, and continuously improve
+    AI applications within CI/CD pipelines
+  - Integrate cloud-native AI services (AWS Bedrock, Azure OpenAI) and open-source
+    frameworks (LangChain, LangGraph) into enterprise environments
+  - Monitor application performance and optimize LLM utilization and infrastructure
+    efficiency
+  use_cases:
+  - Commercial excellence and sales optimization
+  - Logistics and supply chain optimization
+  - Inventory management and forecasting
+  - Manufacturing innovation and process improvement
+  - Finance analytics and business insights
+  - Quality management and operational excellence
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, Semantic Kernel, RAG pipelines, LLMs, AI
+        agents, Prompt optimization]
+    ml: [PyTorch, TensorFlow, Diffusion models, Transformers]
+    web: [React, Next.js, FastAPI, Flask, Node.js, REST, GraphQL, gRPC]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, Azure, GCP, AWS Bedrock, Azure OpenAI]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python, TypeScript, JavaScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7832437'
+  extracted_at: '2026-03-27T15:29:06.553988'

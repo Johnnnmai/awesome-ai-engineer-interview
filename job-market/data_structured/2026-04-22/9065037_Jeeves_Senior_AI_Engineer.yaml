@@ -1,0 +1,49 @@
+company:
+  name: Jeeves
+  stage: Series B+
+  focus: |-
+    Financial operating system providing corporate cards, cross-
+    border payments, and spend management
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and shipping AI-powered
+      features including LLM pipelines, RAG architectures, and ML
+      systems in production. The engineer will work hands-on with
+      models, agents, and AI systems that process real financial
+      data, making this clearly an ai-first role.
+  responsibilities:
+  - Build and ship AI-powered features that process real financial data for production
+    use
+  - Design and implement RAG architectures and LLM pipelines for financial workflows
+  - Operate and maintain ML systems in production with reliability, observability,
+    and cost-efficiency
+  - Collaborate with backend engineers, data scientists, and product teams to take
+    AI from prototype to production
+  - Ensure AI systems handle edge cases and errors appropriately in a financial context
+  - Help define and establish AI engineering best practices as the company scales
+  use_cases:
+  - Intelligent spend categorization for business transactions
+  - Anomaly detection in financial data
+  - LLM-powered workflows to help finance teams move faster
+  - Automated financial data processing and analysis
+  - AI-assisted spend management
+  skills:
+    genai: [LLM pipelines, RAG architectures, Prompt engineering, LangChain, OpenAI
+        API]
+    ml: [Anomaly detection]
+    web: []
+    databases: [Postgres, Redis]
+    data: []
+    cloud: [AWS]
+    ops: [ML systems in production, Docker, Kubernetes, CI/CD]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9065037'
+  extracted_at: '2026-04-22T13:12:13.688887'

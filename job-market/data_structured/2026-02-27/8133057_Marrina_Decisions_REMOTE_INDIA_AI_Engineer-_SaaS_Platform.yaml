@@ -1,0 +1,52 @@
+company:
+  name: Marrina Decisions
+  stage: Series B
+  focus: SaaS platform for AI-driven content and compliance solutions
+position:
+  title: 'REMOTE (INDIA):   AI Engineer- SaaS Platform'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work maintaining and optimizing
+      LLM/VLM-powered services, fine-tuning models, designing
+      prompt engineering strategies, and building AI evaluation
+      pipelines. The engineer works directly on AI systems
+      including content generation, compliance scoring, and
+      campaign testing - core AI-first work.
+  responsibilities:
+  - Maintain and optimize LLM- and VLM-powered services for content generation, compliance
+    scoring, and campaign testing
+  - Manage and scale Flask/FastAPI microservices, ensuring high uptime and low latency
+  - Maintain Dramatiq queues for async AI workflows, campaign generation, and pipeline
+    orchestration
+  - Deploy, monitor, and debug Uvicorn/Gunicorn-based hosting in production environments
+  - Integrate with OpenRouter and equivalent LLM routing tools to balance cost, latency,
+    and quality
+  - Design and refine prompt engineering strategies for reliability, context-awareness,
+    and compliance
+  - Build and maintain feedback pipelines for AI model evaluation (human-in-the-loop
+    scoring, automated quality checks)
+  - Expose and maintain REST APIs for AI services, ensuring secure, versioned endpoints
+  use_cases:
+  - Content generation for marketing campaigns
+  - Compliance scoring and evaluation
+  - Campaign testing and optimization
+  - Context-aware AI-powered recommendations
+  - Automated quality checks for AI outputs
+  - Human-in-the-loop AI evaluation systems
+  skills:
+    genai: [LLMs, VLMs, Prompt engineering, OpenRouter, RAG]
+    ml: [Fine-tuning]
+    web: [Flask, FastAPI, Uvicorn, Gunicorn, REST APIs]
+    databases: []
+    data: [Dramatiq, Celery]
+    cloud: [AWS, GCP]
+    ops: [Docker, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Microservices architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8133057'
+  extracted_at: '2026-03-03T11:54:01.561719'

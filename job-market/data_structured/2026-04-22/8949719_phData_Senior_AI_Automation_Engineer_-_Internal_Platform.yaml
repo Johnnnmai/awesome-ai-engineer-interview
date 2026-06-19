@@ -1,0 +1,58 @@
+company:
+  name: phData
+  stage: Growth
+  focus: |-
+    Data and AI professional services partnering with Snowflake,
+    AWS, Azure, and GCP
+position:
+  title: Senior AI Automation Engineer - Internal Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves designing, building, and
+      refining AI-driven applications and agents (RAG, prompt
+      engineering, agent architectures) on platforms like Glean
+      and Snowflake Intelligence. The engineer is hands-on with
+      LLMs, AI agents, and generative AI, making this an ai-first
+      role despite being focused on internal tooling rather than
+      external products.
+  responsibilities:
+  - Partner with business groups to identify AI/automation opportunities and assess
+    feasibility, data readiness, and ROI
+  - Design, build, and refine AI-driven applications and agents using RAG, prompt
+    engineering, and agent architectures on platforms like Glean, Microsoft Copilot,
+    and Snowflake Intelligence
+  - Implement RPA, scripting, and low-code/no-code workflows to automate repetitive
+    processes and integrate systems
+  - Write production-grade code for AI and automation solutions with strong documentation,
+    testing, and SDLC discipline
+  - Collaborate with cross-functional teams across Operations, Sales, Delivery, and
+    Finance to deliver end-to-end solutions
+  - Track and experiment with emerging AI/automation tools, share best practices,
+    and inform leadership through prototypes and production learnings
+  - Help select and operate secure, governed cloud AI services across AWS, Azure,
+    or GCP
+  use_cases:
+  - Internal AI-driven automation for business operations across Sales, Delivery,
+    Finance, and IT
+  - RAG-based agents for internal knowledge retrieval and decision support
+  - Process automation and RPA for repetitive business workflows
+  - AI-assisted insights on the internal Intelligence Platform
+  - Client-facing AI solutions on an occasional basis
+  skills:
+    genai: [RAG, Prompt Engineering, AI Agent Architectures, Glean, Microsoft Copilot,
+      Generative AI / LLMs]
+    ml: []
+    web: [REST APIs]
+    databases: [Snowflake]
+    data: [ETL/ELT, dbt]
+    cloud: [AWS, Azure, GCP]
+    ops: [Git, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: [RPA / Power Automate, Sigma Computing, Agile Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8949719'
+  extracted_at: '2026-04-22T13:27:23.404312'

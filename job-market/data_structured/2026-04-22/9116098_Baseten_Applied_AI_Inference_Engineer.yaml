@@ -1,0 +1,53 @@
+company:
+  name: Baseten
+  stage: Series E
+  focus: AI inference platform for production model deployment
+position:
+  title: Applied AI Inference Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on engineering work directly
+      deploying, optimizing, and building AI/ML inference systems
+      on Baseten's platform. The engineer partners with customers
+      to architect and deploy production AI applications, optimize
+      AI/ML projects, and work across the full lifecycle of model
+      deployment — from problem framing to production monitoring.
+      This is a Forward Deployed Engineer role focused on
+      deploying AI solutions, which qualifies as ai-first.
+  responsibilities:
+  - Develop and maintain software systems and product features in production, primarily
+    using Python
+  - Design, implement, and deploy end-to-end Baseten solutions for customers from
+    problem framing through production deployment and monitoring
+  - Turn vague customer objectives into clear specs and well-defined proofs of concept,
+    rapidly shipping tested services
+  - Optimize and enhance AI/ML projects, contributing to continuous improvement of
+    the technical stack
+  - Own products and customer projects end-to-end, functioning as engineer, project
+    manager, and product manager
+  - Partner with customers' engineering teams across sales, implementation, and expansion
+    stages
+  - Navigate ambiguity and exercise good judgment on tradeoffs and tooling choices
+  use_cases:
+  - High-scale production AI model inference serving
+  - Deploying custom AI workflows (e.g., ComfyUI, Whisper transcription) as APIs
+  - Production model server deployment from Docker images
+  - Optimizing AI/ML model latency, quality, and cost outcomes
+  - Enabling AI companies to bring cutting-edge models into production
+  skills:
+    genai: []
+    ml: [AI/ML pipelines]
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [ML model deployment, Docker, Inference optimization, Production systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9116098'
+  extracted_at: '2026-04-22T12:47:49.606124'

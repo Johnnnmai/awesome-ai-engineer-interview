@@ -1,0 +1,54 @@
+company:
+  name: Lendable
+  stage: Unicorn (backed by Balderton Capital and Goldman Sachs)
+  focus: |-
+    Fintech company building consumer finance products (loans,
+    credit cards, car finance) using AI and machine learning
+position:
+  title: Senior AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI
+      systems - specifically LLMs, embeddings, MCP integrations,
+      and AI-powered tools. The engineer will create connectors
+      for AI systems, build knowledge base pipelines, and work
+      directly with AWS Bedrock and LLMs to deliver internal
+      automation solutions.
+  responsibilities:
+  - Build connectors and integrations making company data available to AI systems
+    (Google Workspace, Slack, Jira, GitHub, Snowflake, Confluence)
+  - Build and maintain knowledge base pipelines, MCP integrations and API connections
+    powering AI tooling across the business
+  - Support internal teams to create their own AI-powered data sources, automated
+    workflows and internal tools
+  - Build templates, guardrails and building blocks enabling non-engineers to experiment
+    safely with AI
+  - Contribute to internal automation platform using AWS Bedrock, n8n and custom-built
+    solutions
+  - Work with security and data governance to ensure integrations are safe and appropriate
+  - Ship quickly, measure outcomes (time saved, errors reduced, adoption) and iterate
+    based on learnings
+  use_cases:
+  - Internal automation and workflow optimization across Finance, Compliance, Product,
+    QA teams
+  - AI-powered knowledge retrieval and search across company data sources
+  - Automated data pipelines connecting business tools to AI systems
+  - Internal tooling platform enabling non-engineers to build with AI
+  - Measurable efficiency improvements through time savings and error reduction
+  skills:
+    genai: [LLMs, embeddings, MCP (Model Context Protocol)]
+    ml: []
+    web: [API integrations, Next.js, React]
+    databases: [Pinecone, Weaviate, pgvector, Snowflake]
+    data: []
+    cloud: [AWS Bedrock]
+    ops: [Kubernetes, n8n, Zapier, Docker]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Google Workspace, Slack, Jira, GitHub, Confluence]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8440447'
+  extracted_at: '2026-03-03T11:51:10.801428'

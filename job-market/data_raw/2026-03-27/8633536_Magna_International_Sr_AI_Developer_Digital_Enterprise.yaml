@@ -1,0 +1,171 @@
+job_id: 8633536
+title: Sr. AI Developer, Digital Enterprise
+company: Magna International
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Azure
+  - Azure Data Factory
+  - Azure Monitor
+  - Beam
+  - "C#"
+  - Databricks
+  - Docker
+  - Elk
+  - Grafana
+  - Helm
+company_size: 171,000 Employees
+description: |
+  Job descriptions may display in multiple languages based on
+  your language selection. What we offer: At Magna, you can
+  expect an engaging and dynamic environment where you can
+  help to develop industry-leading automotive technologies. We
+  invest in our employees, providing them with the support and
+  resources they need to succeed. As a member of our global
+  team, you can expect exciting, varied responsibilities as
+  well as a wide range of development prospects. Because we
+  believe that your career path should be as unique as you
+  are. Group Summary: Magna is more than one of the world's
+  largest suppliers in the automotive space. We are a mobility
+  technology company built to innovate, with a global,
+  entrepreneurial-minded team. With 65+ years of expertise,
+  our ecosystem of interconnected products combined with our
+  complete vehicle expertise uniquely positions us to advance
+  mobility in an expanded transportation landscape. Job
+  Responsibilities: We are seeking a highly skilled Senior AI
+  Developer to join our team and drive the design,
+  implementation, and scaling of advanced AI solutions. This
+  role combines in-depth coding expertise with a strong
+  systems engineering mindset: you'll own the execution of
+  end-to-end AI platform lifecycle-from infrastructure,
+  architecture, and MLOps pipelines to production deployment
+  and ongoing performance optimization. You'll collaborate
+  closely with solutions architects, data scientists, DevOps
+  engineers, and product owners to turn models into reliable,
+  secure, and maintainable services at enterprise scale. Major
+  Responsibilities
+  
+  - Design, build, and maintain AI/ML platform components
+    (training clusters, feature stores, inference services,
+    GenAI, vision, RAG, NLP).
+  - Develop and manage infrastructure-as-code for scalable
+    deployments (Terraform, ARM template)
+  - Implement and operate CI/CD pipelines for automated model
+    training, testing, and deployment
+  - Integrate AI services with existing systems via APIs,
+    messaging, and data pipelines
+  - Monitor performance, reliability, and model drift; establish
+    alerting and incident-response runbooks.
+  - Optimize system performance through capacity planning,
+    performance tuning, and disaster-recovery strategies
+  - Write, review, and maintain high-quality, reusable code and
+    libraries (C#, Python, Java)
+  - Collaborate with cross-functional teams (Architect, Data
+    Science, DevOps, Security) and document system designs and
+    SOPs.
+  
+  Knowledge and Education
+  
+  - Bachelor's or Master's degree in Computer Science,
+    Electrical/Computer Engineering, or related field
+  
+  Work Experience
+  
+  - 5+ years in software engineering roles, with 2+ years
+    building and operating AI/ML platforms
+  - Proven track record delivering production-grade AI services
+    at scale
+  
+  Skills and Competencies Required to Perform the Job
+  
+  - Cloud Platforms: Proficiency with Azure services for
+    compute, storage, and networking
+  - Containerization & Orchestration: Hands-on experience with
+    Docker, Kubernetes, Helm
+  - Infrastructure as Code: Skilled in ARM Templates, Terraform,
+    or equivalent tools
+  - Strong skills and knowledge in distributed system
+    architecture, integration, software design patterns, and
+    object-oriented programming concepts and patterns.
+    (Microservices, Monolith, Modular Monolith, containerized
+    applications, etc.)
+  - CI/CD & MLOps: Building and managing pipelines using
+    Jenkins, GitLab CI, Argo CD, MLflow, or Kubeflow
+  - Programming Languages: Advanced Python (including async and
+    multithreading); familiarity with C#, Python, or Java.
+  - LLM Application & Agent Frameworks: Experience designing and
+    implementing RAG/agentic workflows using LangChain and
+    LangGraph (tooling, chaining, memory, orchestration)
+  - Machine Learning Frameworks: Deep knowledge of TensorFlow,
+    PyTorch, scikit-learn
+  - Data Engineering: Experience with Kafka, Azure Data Factory,
+    Databricks, and Beam for data ingestion and processing
+  - Monitoring & Observability: Implementing observability
+    stacks (Azure Monitor, Prometheus, Grafana, ELK) and
+    alerting
+  - Systems Reliability: Capacity planning, performance tuning,
+    fault-tolerance design, disaster recovery
+  - Security & Compliance: Securing data pipelines,
+    understanding of GDPR/CCPA implications
+  - Cross-Functional Collaboration: Effectively partner with
+    Data Science, DevOps, Security, and Product teams
+  - Technical Documentation: Clear authoring of architecture
+    diagrams, runbooks, SOPs, and API specs
+  - Stakeholder Communication: Translating technical concepts
+    into business terms for executives and non-technical
+    audiences
+  - Presentation Skills: Leading demos, technical deep dives,
+    and knowledge-sharing sessions
+  - Continuous Learning: Staying current with emerging AI/ML,
+    MLOps, and platform engineering trends
+  - Mentorship & Leadership: Coaching junior engineers,
+    conducting code reviews, fostering best practices
+  
+  Working Conditions and Environment No Travel Any Additional
+  Information
+  
+  - Excellent English in both spoken and written.
+  - Excellent problem-solving and decision-making abilities.
+  - Strong communication skills and the ability to lead cross-
+    functional teams.
+  
+  Awareness, Unity, Empowerment: At Magna, we believe that a
+  diverse workforce is critical to our success. That's why we
+  are proud to be an equal opportunity employer. We hire on
+  the basis of experience and qualifications, and in
+  consideration of job requirements, regardless of, in
+  particular, color, ancestry, religion, gender, origin,
+  sexual orientation, age, citizenship, marital status,
+  disability or gender identity. Magna takes the privacy of
+  your personal information seriously. We discourage you from
+  sending applications via email or traditional mail to comply
+  with GDPR requirements and your local Data Privacy Law. AI-
+  Assisted Screening Disclosure As part of our commitment to a
+  fair, consistent, and efficient recruitment process, we may
+  use artificial intelligence (AI) tools to assist in the
+  initial screening of applications submitted through our
+  Workday system. These tools help identify qualifications and
+  experience that align with the role requirements. Please
+  note that AI is used solely to support our recruiters. Final
+  decisions are always made by the hiring manager and the
+  hiring team. Importantly, no applicant data is shared
+  externally through these AI tools. All information remains
+  securely within our systems and is handled in accordance
+  with our privacy and data protection policies. Under
+  conditions defined by applicable law, you may have the right
+  to request an explanation of how AI is used to support
+  decision-making. If you have any questions or concerns about
+  this process, feel free to contact our Talent Attraction
+  team. Worker Type: Regular / Permanent Group: Magna
+  Corporate
+industries:
+  - Automotive
+  - Hardware
+  - Robotics
+  - Software
+  - Transportation
+  - Manufacturing
+posted_date: 2026-03-03
+url: "https://builtin.com/job/sr-ai-developer-digital-enterprise/8633536"
+source: Built In

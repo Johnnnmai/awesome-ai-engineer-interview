@@ -1,0 +1,54 @@
+company:
+  name: OPENLANE
+  stage: Public
+  focus: |-
+    Digital marketplace for used vehicles and wholesale
+    remarketing
+position:
+  title: AI First Software Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily a software engineering position that
+      uses AI tools to accelerate development work (AI-assisted
+      coding, testing, debugging). The role involves building
+      marketplace systems and APIs, not building, training, fine-
+      tuning, or deploying AI/ML models. AI is used as a
+      productivity tool for software engineering, not as the core
+      deliverable.
+  responsibilities:
+  - Design, build, and operate scalable services that power U.S. marketplace workflows
+  - Develop APIs and backend services on the modern, cloud-native, AI-enabled platform
+  - Embed AI-driven capabilities into marketplace features including pricing logic,
+    negotiation flows, and workflow automation
+  - Use AI tools to accelerate coding, testing, debugging, and documentation while
+    applying strong engineering judgment
+  - Partner with Product to translate business needs into durable, scalable technical
+    solutions
+  - Participate in on-call rotations and support live production systems
+  - Improve system reliability, performance, security, and observability
+  - Contribute to technical direction, engineering standards, and long-term platform
+    evolution
+  use_cases:
+  - Digital marketplace for used vehicles
+  - Real-time high-value marketplace systems
+  - Pricing logic and negotiation flows
+  - Workflow automation for wholesale remarketing
+  - Customer-facing marketplace experiences
+  skills:
+    genai: []
+    ml: []
+    web: [React, REST APIs, Microservices, Event-driven architectures, Distributed
+        systems]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, Docker, Observability and monitoring]
+    languages: [Java, Kotlin, Go, Python, .NET, Ruby, TypeScript, SQL]
+    domains: []
+    other: [AI code copilots]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8468306'
+  extracted_at: '2026-03-03T12:12:32.688734'

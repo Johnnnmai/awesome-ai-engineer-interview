@@ -1,0 +1,50 @@
+company:
+  name: Raylu
+  stage: Early-stage
+  focus: AI research platform for investors
+position:
+  title: AI Sales Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a customer-facing Sales Engineer role focused on
+      demos, onboarding, and customer success for an AI research
+      platform. While it requires understanding AI/LLM
+      capabilities and prompt design to help customers use the
+      product, the role involves working NEAR AI rather than ON AI
+      - enabling customers to use the AI product rather than
+      building, training, or deploying models.
+  responsibilities:
+  - Run discovery calls, demos, and onboarding to help customers quickly see value
+    in trials
+  - Set up dashboards to track product usage and proactively engage customers on AI
+    features and best practices
+  - Master Raylu's AI/LLM capabilities including prompt and workflow design to serve
+    as product expert
+  - Translate customer feedback into clear product requirements that influence the
+    roadmap
+  - Support renewals and expansions by quantifying value delivered and uncovering
+    new AI use cases
+  - Build the GTM and customer function from 0 to 1 including playbooks, processes,
+    and operational frameworks
+  use_cases:
+  - Investor research workflows
+  - AI-powered investment analysis
+  - Private market investing workflows
+  - Portfolio management and tracking
+  skills:
+    genai: [Prompt engineering, LLM workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [Customer success, Sales engineering]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8880319'
+  extracted_at: '2026-03-27T14:40:45.670646'

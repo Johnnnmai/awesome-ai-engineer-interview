@@ -1,0 +1,53 @@
+company:
+  name: Forter
+  stage: Late-stage private (raised $525M, Forbes Cloud 100)
+  focus: Fraud prevention and trust platform for digital commerce
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, deploying, and iterating on AI
+      solutions (RAG systems, agents, MCP servers, prompt
+      engineering, guardrails) directly for business teams. While
+      the engineer embeds with non-technical teams, they are
+      hands-on building AI applications end-to-end, making this an
+      ai-first role.
+  responsibilities:
+  - Embed with GTM and G&A teams to identify, scope, and prioritize high-impact AI
+    opportunities, acting as both product manager and engineer
+  - Own the full lifecycle of AI solutions from requirements gathering through deployment,
+    adoption measurement, and iteration
+  - Serve as the primary technical partner and AI advisor for business function leaders,
+    translating needs into engineering plans
+  - Develop and deliver hands-on AI enablement and training for non-R&D teams to build
+    independent AI tool usage
+  - Collaborate on shared infrastructure including MCP servers, RAG systems, evaluation
+    frameworks, and guardrails
+  - Measure and report on AI adoption impact including time saved, process improvements,
+    and capability gains
+  use_cases:
+  - AI-powered automation of manual business processes across Sales, Marketing, Finance,
+    HR, Legal, and Customer Success
+  - Internal AI tools and chatbots for non-technical business users
+  - RAG-based systems for internal knowledge retrieval and workflow augmentation
+  - Agentic AI solutions integrated with GTM/G&A tooling ecosystems (CRM, ERP, HRIS,
+    marketing automation)
+  - AI enablement and digital transformation of non-R&D functions
+  skills:
+    genai: [RAG, AI Agents, MCP (Model Context Protocol), Prompt Engineering, Claude
+        Code, Strands Agents, LLMs, Guardrails, Function Calling / Tool Use]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Evaluation Frameworks]
+    languages: [Python]
+    domains: []
+    other: [CRM Systems, ERP Systems, BI Platforms, HRIS, Marketing Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9000948'
+  extracted_at: '2026-04-22T12:56:47.169735'

@@ -1,0 +1,60 @@
+company:
+  name: Danaher Corporation
+  stage: Public
+  focus: |-
+    BioPharma cloud software for scientific data management and
+    insights
+position:
+  title: Principal Test AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on testing AI/ML systems rather than
+      building, training, or deploying them. The Principal AI Test
+      Engineer establishes testing strategies, validation
+      approaches, and test automation frameworks for AI products.
+      While deeply involved with AI quality assurance (bias
+      detection, drift monitoring, adversarial testing), the role
+      does not involve hands-on model building, fine-tuning, or
+      deploying AI systems — it supports and validates the work of
+      AI/ML teams.
+  responsibilities:
+  - Own and define end-to-end testing strategy for AI/ML systems, establishing standards
+    for model quality, robustness, fairness, explainability, and regulatory compliance
+  - Design and lead validation approaches for AI models and data pipelines including
+    bias detection, drift monitoring, adversarial testing, and failure-mode analysis
+  - Architect scalable automated test frameworks for AI systems leveraging MLOps,
+    CI/CD, synthetic data, and observability tooling
+  - Act as subject-matter expert for AI testing, mentoring engineers and influencing
+    engineering best practices across teams
+  - Partner closely with data science, platform, legal, and product teams to ensure
+    AI quality standards
+  - Translate complex AI risks and quality metrics into clear insights for senior
+    stakeholders, shaping product decisions
+  - Drive continuous improvement of AI quality, reliability, and trustworthiness at
+    scale across the organization
+  use_cases:
+  - Testing and validating AI/ML models for BioPharma scientific software
+  - Ensuring fairness, robustness, and explainability of AI systems in GxP-regulated
+    environments
+  - Bias detection and drift monitoring for AI models in production
+  - Automated quality assurance for AI-driven scientific data management platforms
+  - Regulatory compliance validation for AI products serving top global BioPharma
+    companies
+  skills:
+    genai: []
+    ml: [AI/ML testing, Bias detection, Drift monitoring, Adversarial testing, Model
+        validation, Explainability]
+    web: []
+    databases: []
+    data: [Synthetic data generation]
+    cloud: []
+    ops: [MLOps, CI/CD, Test automation, Observability tooling]
+    languages: [Python]
+    domains: []
+    other: [Agile methodology]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9069638'
+  extracted_at: '2026-04-22T12:53:59.745696'

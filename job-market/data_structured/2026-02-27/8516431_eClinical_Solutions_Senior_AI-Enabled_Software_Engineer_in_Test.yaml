@@ -1,0 +1,57 @@
+company:
+  name: eClinical Solutions
+  stage: Growth (received Top Workplaces awards, fast-growing)
+  focus: |-
+    Clinical Data Cloud platform for life sciences organizations
+    to unify, analyze, and unlock clinical trial data
+position:
+  title: Senior AI-Enabled Software Engineer in Test
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role uses AI tools to enhance test automation workflows
+      but doesn't build, train, fine-tune, or deploy AI/ML models.
+      The position is a traditional SDET/QA role that leverages
+      existing AI capabilities (agentic AI tools for test
+      generation) to improve testing efficiency, making it ai-
+      support rather than ai-first.
+  responsibilities:
+  - Design, build, and maintain scalable automated test frameworks covering UI, API,
+    integration, and performance layers across AWS-based .NET services
+  - Leverage AI and agentic AI tools to generate, enhance, and maintain automated
+    tests, systematically reducing manual regression testing
+  - Integrate automated tests into CI/CD pipelines to enforce quality gates and support
+    rapid, high-confidence releases
+  - Analyze test results, investigate failures, and partner with engineers to diagnose
+    and resolve defects across distributed systems
+  - Implement AI-enabled monitoring and anomaly detection to proactively identify
+    system degradation or performance drift
+  - Collaborate with developers and DevOps engineers to ensure new features are designed
+    with testability, observability, and automation in mind
+  - Ensure audit readiness by maintaining complete, traceable documentation in alignment
+    with SOPs and Quality Management System (QMS)
+  - Contribute to documentation, standards, and best practices that elevate quality
+    engineering across the organization
+  use_cases:
+  - Clinical trial data quality assurance and validation
+  - Automated testing for enterprise SaaS Clinical Data Intelligence Platform
+  - Regulatory compliance testing for GxP and 21 CFR Part 11 requirements
+  - AI-assisted test generation and coverage optimization
+  - Performance and load testing for cloud-based healthcare data systems
+  skills:
+    genai: [Agentic AI tools]
+    ml: []
+    web: [Selenium, Playwright, REST APIs, HTML, CSS]
+    databases: [SQL Server]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD, TeamCity, Octopus Deploy, Application Insights,
+      Datadog, NewRelic, AI-enabled monitoring]
+    languages: [C#/.NET, Python, TypeScript, JavaScript, SQL, PowerShell]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8516431'
+  extracted_at: '2026-03-03T11:40:25.120512'

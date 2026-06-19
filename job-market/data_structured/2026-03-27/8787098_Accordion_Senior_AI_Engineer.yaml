@@ -1,0 +1,53 @@
+company:
+  name: Accordion
+  stage: Series B or later (high-growth, 1400+ employees, backed by premier PE firms)
+  focus: |-
+    Private equity value creation consulting through financial
+    consulting, data, technology and AI
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building production AI systems
+      including multi-agent systems, RAG pipelines, and agentic
+      workflows. The position requires hands-on experience with
+      LLM applications and orchestration frameworks, making it
+      clearly an AI-first engineering role focused on deploying AI
+      solutions to clients.
+  responsibilities:
+  - Design and build multi-agent systems and RAG pipelines that automate financial
+    workflows for PE-backed portfolio companies
+  - Own the full stack from prompt engineering and tool design through deployment
+    and monitoring
+  - 'Practice eval-driven development: define how success is measured before building'
+  - Translate ambiguous client problems into engineering requirements and deliver
+    results in compressed timeframes
+  - Present and defend architectural decisions to technical and non-technical audiences
+    including CFOs and PE operators
+  - Build observability and evaluation infrastructure to continuously improve production
+    AI system quality
+  - Travel to client sites as needed
+  use_cases:
+  - Automating financial workflows for PE-backed portfolio companies
+  - Agentic workflow automation in finance and operations
+  - RAG-powered financial data retrieval and analysis
+  - Evaluation frameworks for AI system quality monitoring
+  - Production-grade AI tools for PE consulting engagements
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, DSPy, RAG systems, Agentic workflows, Multi-agent
+        orchestration, Prompt engineering, Tool design, LLM evaluation methodologies]
+    ml: []
+    web: []
+    databases: [SQL, NoSQL, Vector databases]
+    data: [ETL design, Streaming pipelines, Batch pipelines]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [FP&A systems, 'ERP systems (NetSuite, SAP)', Financial workflow automation]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8787098'
+  extracted_at: '2026-03-27T13:17:48.963711'

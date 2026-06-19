@@ -1,0 +1,56 @@
+company:
+  name: Metropolis Technologies
+  stage: Late-stage / Growth (well-funded scale-up)
+  focus: |-
+    AI-powered computer vision and automation for parking,
+    retail, and hospitality
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first: the engineer designs,
+      builds, and ships LLM-based systems including prompt
+      pipelines, agentic workflows, RAG setups, and tool-calling
+      integrations end-to-end from prompt layer through production
+      deployment. The role requires 2+ years of hands-on
+      experience deploying LLM-powered applications in production.
+  responsibilities:
+  - Design, build, and ship AI-powered automation tools and internal applications
+    that transform manual business processes into AI-first workflows
+  - Architect and maintain LLM-based systems, including prompt pipelines, agentic
+    workflows, tool-calling integrations, and RAG setups
+  - Build and maintain data pipelines connecting source systems (Snowflake, internal
+    APIs, SaaS tools) to AI workflows, ensuring data quality and reliability
+  - Partner with Process Analysts to understand business functions, translate requirements
+    into engineering specifications, and iterate based on user feedback
+  - Own production reliability for built systems — monitoring, alerting, and iterating
+    on AI outputs to maintain quality over time
+  - Evaluate and integrate emerging AI tooling (models, frameworks, APIs) to leverage
+    the best available capabilities
+  - 'Contribute to internal standards for AI development: prompt management, evaluation
+    frameworks, model selection, and system architecture'
+  use_cases:
+  - Internal business process automation across finance, operations, and revenue departments
+  - Agentic LLM workflows with function calling and multi-step reasoning
+  - Retrieval-augmented generation (RAG) for internal knowledge and data access
+  - AI-powered drive-in/drive-out parking experience for millions of members
+  - Intelligence layer expanding across retail and hospitality verticals
+  skills:
+    genai: ['LLM APIs (OpenAI, Anthropic)', Prompt Engineering, 'Agentic Patterns
+        (function calling, tool use, multi-step reasoning)', RAG (Retrieval-Augmented
+        Generation), Embeddings]
+    ml: []
+    web: [React, FastAPI / REST APIs]
+    databases: [Vector Databases, MySQL, PostgreSQL, Snowflake]
+    data: [Airflow, Prefect, Data Pipeline Engineering]
+    cloud: [AWS]
+    ops: [Docker, Datadog, Git & GitHub]
+    languages: [Python, TypeScript, Scala, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9122136'
+  extracted_at: '2026-04-22T13:43:58.072739'

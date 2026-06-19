@@ -1,0 +1,56 @@
+company:
+  name: Optum
+  stage: Public
+  focus: |-
+    Healthcare technology, pharmacy benefits, and health
+    optimization services
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building, deploying, and
+      optimizing AI systems including multi-agent architectures,
+      LLMs, RAG pipelines, and ML models for fraud detection. The
+      engineer directly implements AI solutions from end-to-end,
+      not just supporting infrastructure.
+  responsibilities:
+  - Architect, design and implement multi-agent AI systems using LLMs, memory, and
+    tools for autonomous reasoning, planning, and action
+  - Build agent-based solutions using function calling, dynamic tool integration,
+    and orchestration frameworks like LangChain, AutoGen, and Semantic Kernel
+  - Leverage Model Context Protocol (MCP) standards to define reusable, secure, and
+    composable tool interfaces
+  - Develop voice-first AI agents using ASR (Whisper, Azure Speech), multi-turn conversation
+    orchestration, and TTS
+  - Design and maintain RAG pipelines using vector databases and Azure Cognitive Search
+  - Contribute to fraud detection and anomaly detection efforts including ML model
+    training and real-time inference
+  - Build, deploy, and monitor scalable AI services on Azure including Azure OpenAI,
+    Functions, and Cosmos DB
+  - Drive innovation in agentic UX enabling AI to operate external tools securely
+    on behalf of users
+  use_cases:
+  - Healthcare voice interfaces for patient interaction
+  - Fraud detection and anomaly detection in healthcare claims
+  - Multi-agent autonomous systems for healthcare operations
+  - Conversational AI with voice-first interfaces
+  - Enterprise search and retrieval via RAG pipelines
+  skills:
+    genai: [LangChain, AutoGen, Semantic Kernel, RAG, Prompt Engineering, LLM Integration,
+      Multi-Agent Systems, Model Context Protocol (MCP), Whisper, ASR/TTS]
+    ml: [PyTorch, scikit-learn, Hugging Face, ML Model Training, Anomaly Detection]
+    web: []
+    databases: [Cosmos DB, Vector Databases]
+    data: []
+    cloud: [Azure OpenAI, Azure Cognitive Services, Azure Cognitive Search, Azure
+        Functions, Azure Service Bus, Azure Speech]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8528996'
+  extracted_at: '2026-03-27T13:12:50.766047'

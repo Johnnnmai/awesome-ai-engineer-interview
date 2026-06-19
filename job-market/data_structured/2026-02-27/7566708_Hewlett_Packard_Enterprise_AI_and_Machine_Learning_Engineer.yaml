@@ -1,0 +1,56 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: Public
+  focus: Global edge-to-cloud IT services and solutions
+position:
+  title: AI and Machine Learning Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on work with both traditional ML
+      and GenAI systems, including deep learning models, neural
+      networks, and agentic frameworks like LangGraph. The
+      engineer will conduct research, design AI solutions,
+      evaluate GenAI applications, and work with production ML
+      systems - all core activities of building and deploying
+      AI/ML models.
+  responsibilities:
+  - Conduct advanced research in AI and machine learning, staying current with emerging
+    technologies and identifying opportunities to apply cutting-edge techniques
+  - Design and architect AI solutions for complex business problems with focus on
+    scalability, performance, and maintainability
+  - Evaluate traditional AI/ML and GenAI-based applications during development and
+    in production
+  - Design and develop deep learning models including CNNs, RNNs, and transformers
+    with techniques like transfer learning and generative models
+  - Work with agentic frameworks and implement lineage tracking for AI architectures
+  - Collaborate with stakeholders, product managers, and data scientists to translate
+    requirements into technical solutions
+  - Provide technical guidance and mentorship to junior team members, including code
+    reviews and design reviews
+  - Evaluate and integrate third-party tools and services to enhance AI solution capabilities
+  use_cases:
+  - Digital transformation solutions for enterprise customers
+  - Complex business problem solving using AI/ML techniques
+  - Production deployment of GenAI and traditional ML applications
+  - Agentic AI architectures with lineage tracking
+  - Enterprise edge-to-cloud data processing and analytics
+  skills:
+    genai: [LangGraph, Langfuse, LangSmith]
+    ml: [PyTorch, TensorFlow, Keras, scikit-learn, Deep Learning, Neural Networks,
+      CNNs, RNNs, Transformers, Transfer Learning, Generative Models, Reinforcement
+        Learning, Linear Regression, Decision Trees, Random Forests, Support Vector
+        Machines]
+    web: [Full Stack Development]
+    databases: []
+    data: [Data Engineering, Data Science]
+    cloud: []
+    ops: [Git, Machine Learning Operations]
+    languages: [Python, R, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7566708'
+  extracted_at: '2026-03-03T11:54:32.019331'

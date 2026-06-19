@@ -1,0 +1,55 @@
+company:
+  name: Pulsora
+  stage: Well-funded startup (founded 2021)
+  focus: Enterprise sustainability and ESG compliance platform
+position:
+  title: Applied AI Engineer - US
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, designing, and
+      deploying LLM-powered applications, agent-based systems, and
+      RAG pipelines in production. The engineer owns the full
+      lifecycle of AI-powered products, including prompt
+      strategies, context management, and agent workflows, making
+      this clearly an ai-first role.
+  responsibilities:
+  - Design, develop, and deploy LLM-powered applications and agent-based systems in
+    production
+  - Own the full product lifecycle from concept through production and iteration across
+    backend and frontend
+  - Develop prompt strategies, context management (RAG, memory), and agent workflows
+  - Integrate and optimize across leading LLM APIs (OpenAI, Anthropic, Gemini, open-source
+    models)
+  - Define and implement evaluation frameworks for AI outputs including quality, consistency,
+    and failure modes
+  - Debug production issues and optimize systems for latency, cost, and scalability
+  - Collaborate with product, design, and customer-facing teams to deliver impactful
+    features
+  - Build advanced agent systems with planning, orchestration, and parallel execution
+    capabilities
+  use_cases:
+  - ESG and sustainability data management and compliance
+  - LLM-powered enterprise sustainability insights and reporting
+  - Agentic workflows for environmental and social governance tracking
+  - AI-driven user experiences with human-in-the-loop workflows for sustainability
+    professionals
+  - Automated sustainability footprint analysis and improvement recommendations
+  skills:
+    genai: [LangChain, LangGraph, RAG, Prompt Engineering, Agent Workflows, OpenAI
+        API, Anthropic API, Gemini API, Fine-tuning, Context Management, Open-source
+        LLMs]
+    ml: []
+    web: [FastAPI, REST APIs, React]
+    databases: [Postgres, Vector Databases, Redis]
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, Docker, Evaluation Frameworks]
+    languages: [Python, TypeScript, SQL]
+    domains: [ESG/Sustainability Domain Knowledge]
+    other: [Cursor, GitHub Copilot, Claude Code]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9109763'
+  extracted_at: '2026-04-22T13:59:29.453630'

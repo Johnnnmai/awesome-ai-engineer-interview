@@ -1,0 +1,46 @@
+company:
+  name: Cargill
+  stage: Public
+  focus: Global agriculture and food production company
+position:
+  title: Senior AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform engineering role focused on building
+      infrastructure and automation for AI agents, not building
+      the AI systems themselves. The role enables self-service
+      features for agent deployment, testing, and rollout -
+      supporting other teams who build the actual AI models.
+  responsibilities:
+  - Design and develop high quality software solutions with clean, maintainable code
+  - Lead deployment platform operations and automate deployment processes for reliable
+    releases
+  - Partner with cross-functional teams to gather requirements and deliver software
+    solutions
+  - Write and maintain complex unit tests and integration tests for software quality
+  - Implement approved standards to improve development and deployment efficiency
+  - Build and maintain documentation for applications and deployment processes
+  - Provide technical support and troubleshooting for deployed applications
+  - Build and configure complex automation workflows and pipelines
+  use_cases:
+  - AI agent deployment automation and testing
+  - Self-service platform for agent rollout and user acceptance
+  - Standardized templates and frameworks for scalable automation
+  - Platform integrations with security and compliance monitoring
+  skills:
+    genai: []
+    ml: []
+    web: [API integration]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Automation workflows, Platform engineering, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: [Testing frameworks, Security compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7860146'
+  extracted_at: '2026-03-03T12:17:32.600125'

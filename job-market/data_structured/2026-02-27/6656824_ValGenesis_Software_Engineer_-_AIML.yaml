@@ -1,0 +1,50 @@
+company:
+  name: ValGenesis
+  stage: Growth/Mature (established company with 30 of top 50 pharma/biotech customers)
+  focus: Digital validation platform for life sciences companies
+position:
+  title: Software Engineer - AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, deploying, and maintaining ML
+      models using frameworks like PyTorch, TensorFlow, and GenAI
+      tools (LangChain, LlamaIndex, Vector DBs). The
+      responsibilities explicitly include developing production-
+      grade ML models for content generation, recommendation, and
+      predictive analysis, which is direct hands-on work with
+      AI/ML systems.
+  responsibilities:
+  - Implement and deploy Machine Learning solutions to solve complex problems and
+    deliver business value
+  - Collaborate with data product managers, software engineers and SMEs to identify
+    AI/ML opportunities
+  - Develop production-grade ML models for customer experience, content recommendation,
+    content generation, and predictive analysis
+  - Monitor and improve model performance via data enhancement, feature engineering,
+    and evaluation
+  - Stay up-to-date with latest ML/AI developments and influence AI/ML for the Life
+    Science industry
+  use_cases:
+  - Content recommendation and generation for life sciences platform
+  - Predictive analysis for process efficiency
+  - Computer vision and image processing for validation workflows
+  - NLP for life sciences documentation and compliance
+  - Manufacturing intelligence and process optimization
+  skills:
+    genai: [LangChain, LlamaIndex]
+    ml: [OpenCV, scikit-learn, TensorFlow, PyTorch]
+    web: []
+    databases: [Vector Databases, Neo4J, ArangoDB]
+    data: [Pandas, NumPy, SciPy]
+    cloud: []
+    ops: [Kubeflow, MLFlow, DevOps]
+    languages: [Python, Rust]
+    domains: [NLP, Computer Vision, Reinforcement Learning, Generative AI, Causal
+        AI]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6656824'
+  extracted_at: '2026-03-03T11:34:44.018822'

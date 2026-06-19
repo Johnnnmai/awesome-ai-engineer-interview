@@ -1,0 +1,52 @@
+company:
+  name: Medtronic
+  stage: Public
+  focus: Global healthcare technology and medical devices
+position:
+  title: AI/Data Science Engineer II
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is fundamentally a data engineering role that supports
+      AI/ML teams by building data pipelines, infrastructure, and
+      architectures. While it mentions integrating LLMs and
+      agentic systems, these are supplementary tools used to
+      enhance data engineering workflows (automation and
+      analytics), not the primary focus of building or deploying
+      AI/ML models themselves.
+  responsibilities:
+  - Design and build ETL/ELT data pipelines ingesting data from databases, APIs, and
+    streaming systems
+  - Develop and maintain logical and physical data models in data warehouses and lakes
+    such as AWS S3, Athena, and Oracle
+  - Deploy and manage cloud data infrastructure on AWS, Azure, or GCP using Infrastructure
+    as Code tools
+  - Implement data validation, monitoring, and alerting frameworks for data quality
+    and governance
+  - Collaborate with stakeholders to translate business needs into technical solutions
+    and document data schemas and pipeline designs
+  - Explore and integrate LLMs and agentic systems into the data ecosystem to enhance
+    analytics and automation
+  use_cases:
+  - Healthcare data pipeline infrastructure for analytics and insights
+  - Automated data ingestion and transformation from diverse medical data sources
+  - Cloud-based data warehousing for healthcare technology operations
+  - LLM-powered automation of data engineering workflows
+  - Data quality monitoring and governance for healthcare data assets
+  skills:
+    genai: [LLMs, Agentic systems]
+    ml: []
+    web: []
+    databases: [Snowflake, PostgreSQL, MySQL, Oracle]
+    data: [ETL/ELT, Apache Spark, Hadoop]
+    cloud: [AWS Glue, Azure Data Factory, GCP Dataflow, AWS S3, AWS Athena, AWS, Azure,
+      GCP]
+    ops: [Git, GitHub, GitLab, Docker, Kubernetes, Infrastructure as Code]
+    languages: [SQL, Python, Scala, Java, Bash]
+    domains: []
+    other: [Looker, Tableau, Power BI, HIPAA, GDPR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8938541'
+  extracted_at: '2026-04-22T12:28:34.020960'

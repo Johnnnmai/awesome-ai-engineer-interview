@@ -1,0 +1,53 @@
+company:
+  name: Optum
+  stage: Public
+  focus: |-
+    Healthcare technology and services, pharmacy benefits,
+    health optimization
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI-
+      powered features using NLP/LLMs and classical ML models. The
+      engineer will handle end-to-end ML work including data
+      preparation, modeling, evaluation, API integration, and
+      deployment - clearly hands-on work with AI/ML systems.
+  responsibilities:
+  - Design and build AI-powered features using NLP/LLMs and classical ML for provider
+    chat and voice workflows
+  - 'Deliver end-to-end ML systems: data preparation, modeling/experimentation, evaluation,
+    API integration, deployment, and monitoring in cloud environments'
+  - Implement responsible AI guardrails including content safety, PHI/PII controls,
+    prompt hygiene, and evaluation suites
+  - Develop and maintain web services and APIs that expose ML capabilities with clear
+    documentation and runbooks
+  - Apply MLOps practices including CI for ML, model registry, and reproducible experiments
+  - Collaborate with product, architecture, security, data, and platform teams to
+    align with enterprise standards
+  - Continuously improve code quality, test coverage, latency, reliability, and cost
+    per inference
+  - Contribute to on-call/operational support with mentorship from senior team members
+  use_cases:
+  - Provider chat and voice workflows in healthcare
+  - Conversational AI with retrieval augmented generation
+  - Healthcare data processing and predictions
+  - Content safety and PHI/PII protection in AI systems
+  - Enterprise ML model deployment and serving
+  skills:
+    genai: [LLMs, LangChain, RAG, Conversational AI, Prompt Engineering]
+    ml: [NLP, PyTorch, TensorFlow, Hugging Face]
+    web: [REST APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, CI/CD, MLOps, Feature Stores, Model Registry, Git]
+    languages: [Python, Node.js, Java]
+    domains: [Healthcare/Regulated Industry]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8594810'
+  extracted_at: '2026-03-03T11:59:10.746337'

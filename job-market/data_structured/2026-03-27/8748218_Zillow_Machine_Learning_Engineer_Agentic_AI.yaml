@@ -1,0 +1,49 @@
+company:
+  name: Zillow
+  stage: Public
+  focus: |-
+    Real estate marketplace and AI-powered home shopping
+    platform
+position:
+  title: Machine Learning Engineer, Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building, productionizing, and
+      deploying AI agents with multi-step reasoning capabilities,
+      tool-grounded execution, and agentic frameworks. The
+      position requires hands-on work with agent frameworks like
+      LangChain and LangGraph to create autonomous AI systems.
+  responsibilities:
+  - Design and build scalable AI infrastructure and services to power agentic AI applications
+  - Develop advanced reasoning and agentic capabilities enabling AI agents to operate
+    autonomously in dynamic real-world environments
+  - Implement monitoring, evaluation, and optimization processes to ensure reliability
+    and responsiveness in production
+  - Research and apply emerging agentic AI techniques to shape product direction
+  - Collaborate with applied scientists, engineers, and product teams to translate
+    experimental prototypes into robust production systems
+  - Contribute to best practices in distributed ML systems, scalable architecture,
+    and responsible AI deployment
+  use_cases:
+  - Real estate AI assistant with autonomous reasoning and planning capabilities
+  - Multi-step reasoning for complex real estate decisions
+  - Tool-grounded intelligence for domain-specific tasks
+  - Always-on AI guidance for home shopping and transactions
+  - Production-grade AI agents for live customer experiences
+  skills:
+    genai: [LangChain, LangGraph, AI agent frameworks, Multi-step reasoning, Orchestration]
+    ml: [TensorFlow, PyTorch]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud-based ML infrastructure]
+    ops: [Distributed ML systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8748218'
+  extracted_at: '2026-03-27T13:48:11.133973'

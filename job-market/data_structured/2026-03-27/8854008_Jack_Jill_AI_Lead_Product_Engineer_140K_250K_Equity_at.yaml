@@ -1,0 +1,46 @@
+company:
+  name: Jack & Jill AI
+  stage: Series A
+  focus: AI-powered email automation for professionals
+position:
+  title: Lead Product Engineer (£140K – £250K + Equity) at Fyxer AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building of AI features
+      including fine-tuning open-source models, implementing RAG
+      architectures, and LLM/ML deployment. The product is an AI-
+      generated email system, and the engineer will work directly
+      on the AI/ML components, not just infrastructure supporting
+      them.
+  responsibilities:
+  - Lead end-to-end development of core AI features using TypeScript, fine-tuned open-source
+    models, and RAG architectures
+  - Drive product strategy by translating ambiguous user problems into high-impact
+    technical solutions
+  - Build and optimize scalable infrastructure to support rapid user growth
+  - Own entire product areas independently without product manager oversight
+  - Deploy and optimize LLMs, embeddings, and inference systems
+  - Maintain elite engineering standards while shipping at high velocity
+  use_cases:
+  - AI-generated email drafting and composition
+  - Automating professional email communication workflows
+  - RAG-based email content generation
+  - Scaling email automation to achieve higher draft automation rates
+  - Professional productivity enhancement through AI assistance
+  skills:
+    genai: [RAG architectures, LLMs]
+    ml: [fine-tuning open-source models, embeddings, inference optimization]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8854008'
+  extracted_at: '2026-03-27T14:33:00.300103'

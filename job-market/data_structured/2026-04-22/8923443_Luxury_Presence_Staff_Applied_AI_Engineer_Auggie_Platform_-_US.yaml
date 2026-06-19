@@ -1,0 +1,52 @@
+company:
+  name: Luxury Presence
+  stage: Series C
+  focus: AI growth platform for real estate professionals
+position:
+  title: Staff Applied AI Engineer — Auggie Platform - US (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first: the engineer will design and
+      build multi-agent orchestration systems, autonomous workflow
+      automation with structured data models, and MCP
+      infrastructure connecting agents to external systems. The
+      tech stack includes LangGraph, Anthropic Claude, and MCP —
+      all GenAI/LLM tools used hands-on to build and deploy AI-
+      powered systems.
+  responsibilities:
+  - Design and build multi-agent orchestration systems that enable autonomous agents
+    to collaborate and execute complex business workflows in production
+  - Build automation layers that transform business processes into agent-driven workflows
+    with conditional logic and human-in-the-loop review queues
+  - Architect systems that dynamically generate functional user interfaces from agent
+    outputs and structured data models
+  - Own the integration layer connecting the Auggie platform to internal and external
+    systems via MCP servers and agent-to-system communication
+  - Drive AI-powered product delivery and shape platform architecture as a technical
+    leader
+  - Enable the platform to operate across tools like Slack, Notion, Salesforce, and
+    custom data sources
+  use_cases:
+  - Multi-agent orchestration for real estate business workflows
+  - Autonomous workflow automation with human-in-the-loop safety for business processes
+  - Auto-generated application UIs for non-technical real estate professionals
+  - Platform integration connecting AI agents to CRM, communication, and data tools
+    (Salesforce, Slack, Notion)
+  - AI-powered growth and marketing tools for real estate agents and brokerages
+  skills:
+    genai: [LangGraph, Anthropic Claude, MCP, Multi-agent orchestration]
+    ml: []
+    web: [REST APIs]
+    databases: [Postgres, Redis]
+    data: [SQS]
+    cloud: [AWS]
+    ops: [Kubernetes, Temporal]
+    languages: [Python, TypeScript, Node.js]
+    domains: []
+    other: [Salesforce integration, Slack integration, Notion integration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8923443'
+  extracted_at: '2026-04-22T13:41:40.126578'

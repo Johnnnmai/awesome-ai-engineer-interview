@@ -1,0 +1,54 @@
+company:
+  name: Veeam
+  stage: Public
+  focus: |-
+    Data resilience, data security posture management, and safe
+    AI at scale
+position:
+  title: AI Agents CI/CD DevOps Engineer III
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building and maintaining CI/CD
+      pipelines and DevOps infrastructure that enables the
+      delivery of AI agents, but the engineer does not directly
+      build, train, fine-tune, or deploy AI models themselves. The
+      work is platform/infrastructure engineering that supports AI
+      development teams — classic "enabling" work rather than
+      hands-on AI/ML work.
+  responsibilities:
+  - Design build and deployment pipelines for AI agents and Azure-based containerized
+    applications
+  - Automate CI/CD workflows to reduce manual effort across build, test, and release
+    processes
+  - Implement GitHub Actions workflows including secure authentication, secrets management,
+    and self-hosted runners
+  - Enable reliable deployments to Kubernetes environments using Helm and AKS
+  - Integrate CI/CD pipelines with artifact repositories, security tools, and third-party
+    systems
+  - Collaborate with AI developers, infrastructure teams, and QA to continuously improve
+    delivery practices
+  use_cases:
+  - CI/CD pipeline automation for AI agent delivery
+  - Containerized application deployment to Kubernetes
+  - Secure software supply chain management for AI systems
+  - Multi-environment promotion and release automation
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure Kubernetes Service (AKS), Azure Container Registry (ACR), Azure
+        Entra ID, Azure Key Vault, Azure]
+    ops: [GitHub Actions, GitHub APIs, GitLab CI/CD, Job DSL, Docker, Kubernetes,
+      Helm, JFrog Artifactory, HashiCorp Vault, SonarQube, Ansible, Terraform, ArgoCD,
+      Flux, LLMOps, GitOps]
+    languages: [Python, Bash, Groovy, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9112203'
+  extracted_at: '2026-04-22T12:52:05.037784'

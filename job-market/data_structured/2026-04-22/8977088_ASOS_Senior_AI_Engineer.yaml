@@ -1,0 +1,52 @@
+company:
+  name: ASOS
+  stage: Public
+  focus: Online fashion retail with personalized shopping experiences
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, fine-tuning, and
+      deploying LLMs and generative AI systems, including prompt
+      engineering, model fine-tuning, and implementing MLOps for
+      AI workloads. The engineer works hands-on with models and AI
+      workflows, making this an ai-first position.
+  responsibilities:
+  - Design and develop AI solutions using LLMs and generative AI, optimizing prompts
+    and workflows for high-quality outputs
+  - Build scalable data pipelines and apply advanced data preparation techniques to
+    ensure integrity and quality
+  - Drive standardization and reusability of AI workflows across diverse product domains
+  - Implement MLOps principles for AI systems including CI/CD, model registries, monitoring,
+    and feature management
+  - Partner with Cloud Infrastructure teams to design secure, cost-efficient environments
+    for AI workloads
+  - Fine-tune pre-trained models for domain-specific tasks to improve performance
+    and relevance
+  - Design and implement robust evaluation frameworks for AI models, including automated
+    testing and benchmarking
+  - Embed data ethics principles into AI development, proactively mitigating bias
+    and ensuring safe, responsible AI practices
+  use_cases:
+  - Personalized shopping experiences for millions of ASOS customers
+  - Generative AI-powered fashion recommendations and discovery
+  - Domain-specific model fine-tuning for fashion retail tasks
+  - Automated AI model evaluation and continuous monitoring
+  - Standardized AI workflows across multiple product domains
+  skills:
+    genai: [LLMs, Generative AI, Prompt Engineering, Fine-tuning, RAG]
+    ml: [PyTorch, TensorFlow, Hugging Face]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Azure]
+    ops: [Docker, Kubernetes, MLflow, CI/CD, MLOps, Model Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8977088'
+  extracted_at: '2026-04-22T14:14:02.848488'

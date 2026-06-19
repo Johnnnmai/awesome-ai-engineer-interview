@@ -1,0 +1,127 @@
+job_id: 8989713
+title: AI Developer
+company: TechTorch
+location: 
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - Aws Bedrock
+  - Ci/Cd
+  - Claude
+  - Docker
+  - Fastapi
+  - Gemini
+  - Git
+  - Gpt
+  - Langchain
+company_size: 97 Employees
+description: |
+  About TechTorch
+  
+  At TechTorch, we’re building the future of intelligent work.
+  Our mission is to help companies design, build, and deploy
+  AI agents that automate complex, real-world workflows —
+  delivering reliability, measurable ROI, and massive
+  efficiency gains.
+  
+  Here, you won’t just be playing with prompts or running
+  endless proofs of concept. You’ll ship production-grade AI
+  systems that solve real problems across industries.
+  
+  You’ll join a hands-on, fast-moving, ownership-driven team
+  that thrives on building quickly, iterating fast, and seeing
+  results in days — not months.
+  
+  Role overview
+  
+  We’re looking for an AI Developer who can design, implement,
+  and deploy agentic systems that actually work in production.
+  
+  If you’ve been building AI agents for the last couple of
+  years and love the challenge of getting things done fast —
+  this is your place.
+  
+  This is not a research role. It’s about building, testing,
+  and shipping real AI products that deliver measurable
+  business value.
+  
+  What you’ll do
+  
+  - Design and implement multi-step AI agents and orchestration
+    workflows in Python
+  - Build using LangGraph, LangChain, n8n, AWS Bedrock, and
+    similar tools
+  - Integrate and evaluate top models (Gemini, GPT, Claude,
+    etc.)
+  - Connect agents to real systems (APIs, SaaS apps, webhooks,
+    queues, events)
+  - Implement memory, retrieval, and planning for reliable agent
+    behavior
+  - Take prototypes to production — with CI/CD, containers, and
+    cloud deployment
+  - Build internal SDKs and reusable agent templates to speed up
+    delivery
+  - Instrument everything — logging, tracing, guardrails,
+    evaluation
+  - Work directly with clients to capture requirements, run
+    experiments, and iterate fast
+  - Apply best practices for security, privacy, and safety in
+    all deployments
+  
+  What you bring
+  
+  - 2+ years of hands-on experience building and shipping AI
+    agents or complex automations
+  - Strong Python skills (async, testing, packaging)
+  - Experience with LangGraph or LangChain, plus orchestration
+    tools (n8n, Bedrock, Airflow, Prefect, Temporal, etc.)
+  - Familiarity with OpenAI, Gemini, Claude, or similar model
+    ecosystems
+  - Solid data foundations: embeddings, RAG, chunking, indexing
+  - Software engineering fundamentals: Git, CI/CD, Docker, AWS
+  - Bonus: TypeScript, FastAPI, Node.js, Supabase, or
+    observability tools (Langfuse, W&B, OpenTelemetry)
+  
+  How you work
+  
+  - You own your outcomes — from idea to deployment
+  - You’re proactive, adaptable, and thrive in fast-changing
+    environments
+  - You like moving fast, but never at the cost of quality
+  - You communicate clearly and love solving problems
+    collaboratively
+  
+  Our Values
+  
+  Client First — We focus relentlessly on delivering outcomes
+  that create value for our clients.
+  
+  We, Not Me — We win together. Collaboration drives
+  transformation at scale.
+  
+  Get Stuff Done — We execute with speed and precision —
+  because in PE, time matters.
+  
+  AI First — We embed AI at the core, enabling scalable, high-
+  leverage solutions.
+  
+  Own It — We take accountability for results, delivering on
+  what we promise.
+  
+  Agile mindset — We adapt quickly and proactively seek better
+  ways to move forward.
+  
+  What We Offer
+  
+  - Work on real, high-impact AI systems — not just demos
+  - Exposure to Fortune 500 and private equity clients
+  - Remote-first and flexible — we care about results, not hours
+  - Fast recruitment process — we move as quickly as you do
+  - Career growth, certifications, and access to leading AI tech
+industries:
+  - Artificial Intelligence
+  - Information Technology
+posted_date: 2026-04-08
+url: "https://builtin.com/job/ai-developer/8989713"
+source: Built In

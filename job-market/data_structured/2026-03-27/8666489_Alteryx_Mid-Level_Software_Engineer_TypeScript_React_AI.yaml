@@ -1,0 +1,49 @@
+company:
+  name: Alteryx
+  stage: Public
+  focus: Data analytics and automation platform with AI capabilities
+position:
+  title: Mid-Level Software Engineer (TypeScript, React, AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves integrating AI-powered features like
+      copilots, recommendations, and intelligent automation
+      directly into the product experience. The position requires
+      hands-on work with LLM APIs and building AI-assisted
+      features, making it an ai-first role despite being primarily
+      frontend-focused.
+  responsibilities:
+  - Develop and enhance application features using TypeScript and React
+  - Build intuitive, performant, and accessible user interfaces using design systems
+    and reusable component libraries
+  - Contribute to and extend shared UI components to ensure consistency and scalability
+    across the platform
+  - Implement and manage client-side state using modern patterns
+  - Collaborate on integrating AI-powered features into the product experience (copilots,
+    recommendations, intelligent automation)
+  - Write clean, maintainable, and well-tested code (unit, integration, and E2E)
+  - Work closely with Product, UX, and AI partners to define and deliver solutions
+  - Support and troubleshoot applications across cloud and desktop environments
+  use_cases:
+  - AI copilots for user workflows
+  - Intelligent recommendations
+  - Chat and summarization features
+  - Intelligent automation of business processes
+  - Data analytics and business decision support
+  skills:
+    genai: [OpenAI API, Azure OpenAI, LLM APIs, Prompt design]
+    ml: []
+    web: [React, Material UI, Design systems]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Git, CI/CD, Docker, Kubernetes]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8666489'
+  extracted_at: '2026-03-27T15:48:08.013680'

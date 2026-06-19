@@ -1,0 +1,58 @@
+company:
+  name: Experian
+  stage: Public
+  focus: |-
+    Global data and technology company for credit, analytics,
+    and fraud prevention
+position:
+  title: Solutions Engineer (Generative AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on deploying, operating, and managing
+      existing GenAI tools (ChatGPT Enterprise) within an
+      enterprise environment—handling SSO/SCIM provisioning,
+      compliance workflows, and operational readiness. The role
+      does NOT involve building, training, or fine-tuning AI/ML
+      models, but rather supports the infrastructure and
+      governance around workplace GenAI tools.
+  responsibilities:
+  - Onboard and implement GenAI tools, integrating with enterprise identity/security
+    tooling and standards
+  - 'Implement ChatGPT Enterprise identity posture: SSO + SCIM onboarding, and support
+    RBAC patterns in the workspace'
+  - 'Execute POCs/POVs: build capability maps, define target productivity outcomes,
+    and evaluate effectiveness'
+  - 'Operationalize GA readiness: monitoring/alerting, availability metrics, performance
+    management, and release validation'
+  - Create and maintain technical documentation for implementation, deployment, and
+    maintenance processes
+  - Enable support teams with training, runbooks, and escalation pathways for GenAI
+    tools
+  - Automate operational workflows for provisioning, governance tracking, reporting,
+    and lifecycle actions
+  - Support enterprise GPT operations including workspace sharing controls and compliance
+    evidence workflows
+  use_cases:
+  - Workplace productivity enhancement through GenAI tools
+  - Enterprise identity and access management for AI platforms
+  - Compliance and audit evidence capture for GenAI deployments
+  - Operational automation and governance for ChatGPT Enterprise
+  - Custom GPT lifecycle management and governance controls
+  skills:
+    genai: [ChatGPT Enterprise]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Enterprise SaaS deployment]
+    ops: [SSO/SCIM provisioning, RBAC implementation, Compliance API, Workflow automation,
+      Monitoring and alerting, Identity management]
+    languages: []
+    domains: []
+    other: [Technical documentation, Governance frameworks]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8690304'
+  extracted_at: '2026-03-27T14:06:06.347084'

@@ -1,0 +1,56 @@
+company:
+  name: Morgan Stanley
+  stage: Public
+  focus: Global financial services and investment banking
+position:
+  title: Sr AI Developer - Director- Software Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building production-grade AI
+      applications and agentic LLM solutions, including working
+      with LLMs, multimodal models, retrieval systems, vector
+      databases, and orchestration frameworks like
+      LangChain/LangGraph. The developer owns the full lifecycle
+      from discovery to deployment of AI systems, making this a
+      hands-on AI-building role.
+  responsibilities:
+  - Build systems using LLMs and multimodal models, retrieval and vector databases,
+    and orchestration frameworks integrated with internal tools and data
+  - Own the full AI application lifecycle from discovery and prototyping through deployment,
+    monitoring, iteration, and support
+  - Run targeted experiments with new AI capabilities and share recommendations that
+    influence roadmaps and standards
+  - Implement environment configuration solutions across Dev/QA/Prod and document
+    efforts to educate others
+  - Write production-quality code and integrate APIs across internal platforms and
+    external providers (Google, OpenAI, Databricks, AWS, Microsoft)
+  - Make pragmatic architectural decisions balancing speed, scale, security, reliability,
+    and cost
+  - Build reusable components, templates, and playbooks that accelerate future development
+    for downstream teams
+  - Design guardrails for agentic systems including tool safety, security controls,
+    data handling, and human-in-the-loop review
+  use_cases:
+  - Non-financial risk management and assessment using AI
+  - Agentic LLM solutions for enterprise workflow automation
+  - Retrieval-augmented generation (RAG) systems over internal data and documents
+  - Production-grade AI application development for risk technology
+  - AI-powered analysis and decision support for compliance and governance
+  skills:
+    genai: [LangChain, LangGraph, MCP, OpenAI API, Claude, RAG, LLM orchestration,
+      Agentic AI, Prompt engineering, Multimodal models]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector databases]
+    data: [Databricks]
+    cloud: [AWS, Google Cloud, Microsoft Azure]
+    ops: [Kubernetes, Docker, CI/CD, Jenkins, Git, GitHub]
+    languages: [Python]
+    domains: []
+    other: [Linux, Agile/Scrum/Kanban, Security architecture]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9124544'
+  extracted_at: '2026-04-22T14:10:59.254562'

@@ -1,0 +1,46 @@
+company:
+  name: Jack & Jill AI
+  stage: VC-backed startup (pre-Series A/Series A)
+  focus: AI-powered property management operating system
+position:
+  title: Lead Data Engineer at LightWork AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on building data infrastructure, pipelines,
+      and vector databases that enable AI products, but does not
+      involve directly building, training, or fine-tuning AI
+      models. The data systems support RAG and ML workflows,
+      making this an enabler role rather than hands-on AI/ML
+      development.
+  responsibilities:
+  - Architect and build scalable real-time and batch data pipelines to support core
+    AI products and operational workloads
+  - Design and optimize systems for vector search and retrieval-augmented generation
+    (RAG)
+  - Build and maintain machine learning data workflows and infrastructure
+  - Establish engineering standards for data reliability, observability, and governance
+  - Mentor and scale the future data team as the company grows
+  - Own the entire data architecture and strategy as the foundational data lead
+  use_cases:
+  - AI assistant automating 80-90% of property management workflows
+  - Property management operating system
+  - Automating 75% of administrative tasks in property management
+  - Vector search and RAG for AI assistant capabilities
+  - Real-time and batch data processing for AI products
+  skills:
+    genai: [RAG]
+    ml: []
+    web: []
+    databases: [PostgreSQL, NoSQL, Qdrant, Milvus, Vector databases, Vector search]
+    data: [Airflow, Kafka, Spark, Distributed data systems]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8853977'
+  extracted_at: '2026-03-27T14:11:53.733715'

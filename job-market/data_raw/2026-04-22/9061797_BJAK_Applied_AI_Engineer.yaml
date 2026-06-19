@@ -1,0 +1,112 @@
+job_id: 9061797
+title: Applied AI Engineer
+company: BJAK
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Inference
+  - Jax
+  - Llms
+  - Python
+  - PyTorch
+  - Vector Db
+description: |
+  About the Role
+  
+  A1 is building a proactive AI system that understands
+  context across conversations, plans actions, and carries
+  work forward over time.
+  
+  As an Applied AI Engineer, you will turn model capabilities
+  into real product behavior. You will own problems end-to-
+  end, from shaping model behavior, to building the systems
+  around it, to ensuring it performs reliably in production.
+  
+  This role sits at the intersection of machine learning,
+  systems, and product, focusing on making AI actually work
+  for users, not just in demos, but in real-world usage.
+  
+  Focus
+  
+  - Build and ship AI features end-to-end (model → system → user
+    experience)
+  - Design and iterate on prompts, tools, memory, and agent
+    workflows
+  - Turn raw model outputs into structured, reliable, and
+    predictable behaviors
+  - Debug issues across the full stack (model, orchestration,
+    infra, UX)
+  - Optimize for latency, cost, and production reliability
+  - Develop lightweight evaluation frameworks to measure real-
+    world performance
+  - Work closely with product and engineering to translate
+    ambiguous problems into working systems
+  
+  Tech Stack
+  
+  - Python
+  - PyTorch / JAX
+  - LLMs (OpenAI-style APIs, LLaMA, Qwen, etc.)
+  - Inference / serving (e.g. vLLM)
+  - Vector DB
+  
+  Ideal Experience
+  
+  - Strong foundation in machine learning and modern neural
+    network architectures.
+  - Hands-on experience with training, fine-tuning, or deploying
+    ML models
+  - Ability to write clean, production-quality code
+  - Comfort working across abstraction layers (model → infra →
+    product)
+  - Strong problem-solving skills in ambiguous, fast-moving
+    environments
+  - Bias toward shipping, iteration, and continuous improvement
+  
+  Outcomes
+  
+  - ML models in production meet expected accuracy, latency, and
+    reliability targets.
+  - Production issues are identified quickly, debugged
+    effectively, and root causes addressed.
+  - Data pipelines, training loops, and inference systems are
+    robust, reproducible, and maintainable.
+  - Collaborates effectively with engineers, product, and
+    research teams to deliver reliable ML-powered features.
+  - Iterations on models and systems are driven by real-world
+    signals and measurable improvements.
+  
+  How We Work
+  
+  The best products today in the world were built by small,
+  world class teams. We make decisions collectively, move at
+  rapid speed, striking a balance between shipping high
+  quality work and learning. Joining our team requires the
+  ability to bring structure, exercise judgment, and execute
+  independently. Our goal is to put in hands of our users a
+  truly magical AI product.
+  
+  Interview process
+  
+  If there appears to be a fit, we'll reach to schedule 3, but
+  no more than 4 interviews.
+  
+  Applications are evaluated by our technical team members.
+  Interviews will be conducted via virtual meetings and/or
+  onsite.
+  
+  We value transparency and efficiency, so expect a prompt
+  decision. If you've demonstrated the exceptional skills and
+  mindset we're looking for, we'll extend an offer to join us.
+  This isn't just a job offer; it's an invitation to be part
+  of a team that's bringing AI to have practical benefits to
+  billions globally.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-04-16
+url: "https://www.builtinla.com/job/applied-ai-engineer/9061797"
+source: Built In

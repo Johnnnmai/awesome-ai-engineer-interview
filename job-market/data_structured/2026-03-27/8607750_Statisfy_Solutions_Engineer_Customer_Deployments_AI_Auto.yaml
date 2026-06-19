@@ -1,0 +1,54 @@
+company:
+  name: Statisfy
+  stage: Startup
+  focus: |-
+    AI-powered customer automation and relationship management
+    platform
+position:
+  title: Solutions Engineer (Customer Deployments & AI Automation)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI agents using
+      Statisfy's Agent Studio for onboarding, monitoring, and
+      recommendations. While using a company's platform rather
+      than building from scratch, the core work is hands-on
+      development and deployment of AI agents and automation
+      systems for enterprise customers.
+  responsibilities:
+  - Build AI agents within Statisfy's Agent Studio to handle onboarding flows, account
+    health monitoring, risk detection, and proactive recommendations
+  - Configure and customize workflow automations using Statisfy's Workflow Agent Studio
+    to match customer business processes
+  - Lead the technical onboarding process for new enterprise customers, including
+    integration of CRM, support, product usage, and communication systems
+  - Design and deliver dashboards, KPIs, and BI reports that surface customer insights,
+    adoption trends, and ROI metrics
+  - Serve as the technical expert during onboarding and beyond, helping customers
+    understand best practices and ensure measurable success
+  - Collaborate closely with Product and Engineering teams by bringing back insights
+    from the field to shape roadmap priorities
+  use_cases:
+  - Customer onboarding automation
+  - Account health monitoring
+  - Risk detection and alerting
+  - Proactive customer recommendations
+  - Workflow automation for business processes
+  - Customer insights and ROI reporting
+  skills:
+    genai: [LLM agents, LangChain, LlamaIndex]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Data pipelines]
+    cloud: []
+    ops: []
+    languages: [SQL]
+    domains: []
+    other: [Looker, Tableau, Superset, Cube.js, CRM integrations, Workflow automation
+        platforms]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8607750'
+  extracted_at: '2026-03-27T14:50:22.822886'

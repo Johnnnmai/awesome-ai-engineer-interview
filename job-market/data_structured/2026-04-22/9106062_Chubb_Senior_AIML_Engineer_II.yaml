@@ -1,0 +1,53 @@
+company:
+  name: Chubb
+  stage: Public
+  focus: |-
+    Global insurance (P&C, life, reinsurance) and risk
+    management
+position:
+  title: Senior AI/ML Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, training, fine-
+      tuning, and deploying Large Language Models (LLMs). The
+      responsibilities explicitly include pre-training, post-
+      training/alignment, prompt engineering, and LLM deployment
+      on Azure GPU environments. This is hands-on work with AI/LLM
+      systems, not enabling infrastructure for others.
+  responsibilities:
+  - Design, build, and serve LLMs to solve complex business challenges using Azure
+    CPU and GPU environments
+  - Research and implement state-of-the-art LLM techniques including pre-training,
+    fine-tuning, preference alignment, and prompt engineering
+  - Develop novel datasets and scalable data processing pipelines to enable LLMs to
+    perform new tasks
+  - Ensure high quality code that meets business objectives, quality standards, and
+    development guidelines
+  - Build reusable pipelines, processes, and tools to streamline LLM and generative
+    AI workflows
+  - Manage project stakeholder expectations and communicate progress on deliverables
+  - React to shifting priorities without compromising deadlines and momentum
+  use_cases:
+  - AI-enabled digital transformation of P&C insurance operations
+  - Automated risk assessment and underwriting using LLMs
+  - Claims processing and analysis leveraging NLP and generative AI
+  - Large-scale text understanding and semantic extraction for insurance data
+  - Preference-aligned LLM deployment for enterprise insurance workflows
+  skills:
+    genai: [LLM fine-tuning, Preference alignment, Prompt engineering, Generative
+        AI]
+    ml: [PyTorch, Transformers, TRL, DeepSpeed, LLM pre-training, GPU computing]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [Kubernetes, Docker, Distributed systems]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9106062'
+  extracted_at: '2026-04-22T13:14:41.644357'

@@ -1,0 +1,52 @@
+company:
+  name: Wonder
+  stage: Series B+
+  focus: |-
+    Mealtime platform offering multi-restaurant ordering and on-
+    site food preparation
+position:
+  title: Staff Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on building an AI food agent
+      powered by LLMs, including agentic ordering, RAG, prompt
+      orchestration, and multi-modal inference. The engineer will
+      directly architect, build, and ship LLM-powered systems and
+      AI agents in production, making this an ai-first role.
+  responsibilities:
+  - Define and drive the technical roadmap for the AI food agent, spanning recommendation,
+    personalization, agentic ordering, and health-aligned meal planning
+  - Architect and scale distributed infrastructure for real-time retrieval, vector
+    search, multi-modal inference, and LLM orchestration
+  - Serve as technical decision-maker for architectural choices including data pipelines,
+    model serving, prompt orchestration, RAG, fallback logic, and evaluation frameworks
+  - Establish evaluation and experimentation infrastructure including evals, benchmarks,
+    scoring criteria, A/B testing pipelines, and feedback loops
+  - Write, review, and ship code daily as a hands-on technical leader driving high-complexity
+    work from design through production
+  use_cases:
+  - Personalized meal planning and nutrition recommendations powered by LLMs
+  - Agentic food ordering system that autonomously places meal orders based on user
+    preferences and health goals
+  - Health-aligned goal setting and dietary guidance
+  - Real-time food recommendation engine using retrieval and vector search
+  - Multi-modal inference for understanding user food preferences across text and
+    other modalities
+  skills:
+    genai: [RAG, Prompt orchestration, LLM orchestration, AI agents, Agentic workflows,
+      Embedding-based systems]
+    ml: [Model evaluation]
+    web: [Backend development]
+    databases: [Vector search]
+    data: [A/B testing, Data pipelines]
+    cloud: [Cloud infrastructure]
+    ops: [Distributed systems]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9112818'
+  extracted_at: '2026-04-22T12:45:15.267827'

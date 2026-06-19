@@ -1,0 +1,51 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global financial services and banking
+position:
+  title: AI/ML Engineer - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, implementing, and
+      maintaining AI/ML solutions including conversational AI,
+      generative AI, fine-tuning, reinforcement learning, NLP
+      training, and chatbot development. The hands-on work with
+      model optimization, prototyping GenAI techniques, and
+      feature engineering clearly places this as an ai-first role.
+  responsibilities:
+  - Design, implement, and maintain secure AI/ML solutions including conversational
+    AI using leading frameworks
+  - Align AI/ML use cases with business strategies and KPIs to measure impact
+  - Develop and maintain applications using Python, Java, Node.js and JavaScript with
+    relevant frameworks
+  - Perform data analysis, feature engineering, and NLP training to optimize model
+    performance
+  - Explore and prototype novel generative AI techniques including fine-tuning, reinforcement
+    learning, transfer learning, and multimodal alignment
+  - Build and maintain chatbot solutions using Kore.AI ChatBot builder platforms
+  - Provide technology vision and architecture guidance for enterprise risk management
+    and compliance applications
+  - Monitor AI/ML trends and advancements, measure model performance and make adjustments
+  use_cases:
+  - Conversational AI and chatbot solutions for enterprise banking
+  - Generative AI proof-of-concept projects and use case development
+  - Enterprise risk management AI applications
+  - Compliance automation applications
+  - NLP-based model training and optimization for financial services
+  skills:
+    genai: [Generative AI, Kore.AI, Conversational AI]
+    ml: [Fine-tuning, Reinforcement Learning, Transfer Learning, Feature Engineering]
+    web: [Node.js]
+    databases: []
+    data: []
+    cloud: [GCP AI Services, AWS AI Services, Azure AI Services]
+    ops: [Splunk, Loggly]
+    languages: [Python, Java, JavaScript, Ruby]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8700054'
+  extracted_at: '2026-04-22T13:36:49.555502'

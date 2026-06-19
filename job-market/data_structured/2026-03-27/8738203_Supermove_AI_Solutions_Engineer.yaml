@@ -1,0 +1,52 @@
+company:
+  name: Supermove
+  stage: Seed
+  focus: Software platform for the moving industry
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a technical implementation and deployment role that
+      works with AI products, but the focus is on configuring and
+      deploying existing solutions to enterprise customers rather
+      than building, training, or fine-tuning AI/ML systems. The
+      role involves integrating, testing, and implementing pre-
+      built AI features for clients, not working directly on model
+      development.
+  responsibilities:
+  - Translate defined business solutions into structured, sequenced technical execution
+    plans
+  - Own end-to-end technical delivery on enterprise accounts including configure,
+    deploy, test, and iterate
+  - Design and implement complex builds across Core and AI products
+  - Own the technical architecture of enterprise deployments from initial design through
+    production rollout
+  - Work directly with enterprise client technical stakeholders to drive execution
+    forward
+  - Validate feasibility of proposed solutions and identify platform gaps early
+  - Partner with Product & Engineering to articulate technical requirements for enterprise
+    needs
+  - Mentor and elevate technical maturity across the implementation team
+  use_cases:
+  - Enterprise software deployment for moving companies
+  - Technical implementation of SaaS solutions in the moving industry
+  - Integration of AI features into customer workflows
+  - Enterprise account technical delivery and configuration
+  skills:
+    genai: []
+    ml: []
+    web: [API integrations]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [SaaS implementations, Systems integration, Enterprise architecture, Technical
+        project management, Stakeholder management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8738203'
+  extracted_at: '2026-03-27T15:51:26.236603'

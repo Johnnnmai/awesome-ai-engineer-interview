@@ -1,0 +1,51 @@
+company:
+  name: Scale AI
+  stage: null
+  focus: AI data and infrastructure for enterprises and governments
+position:
+  title: Software Engineer, Frontier AI Infrastructure
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly owns the model inference layer for AI
+      systems, enabling state-of-the-art models, debugging AI
+      tools, managing latency, and tracking AI model usage. While
+      it has infrastructure components, the engineer works
+      directly on deploying and operating AI/ML models in
+      production environments, which qualifies as ai-first work.
+  responsibilities:
+  - Own the model inference layer including enabling state-of-the-art models, debugging
+    AI tools, managing networking, debugging latency, and tracking pricing/usage metrics
+  - Design and implement secure scalable backend systems for Public Sector customers
+    using cloud-native AI infrastructure
+  - Re-architect the stack to run in compliant or restrictive environments with swappable
+    components for auth, storage, and logging
+  - Build integration tests with Product to catch issues early and shift from reactive
+    debugging to proactive testing
+  - Lead technical discussions with cloud vendors and customers to deliver on critical
+    contracts and debug platform issues
+  - Participate actively in customer engagements to understand requirements and deliver
+    innovative solutions
+  - Contribute to platform roadmap and product strategy for Public Sector business
+  use_cases:
+  - Government and public sector AI deployments
+  - Model inference and serving for state-of-the-art AI models
+  - Compliant and air-gapped environment deployments
+  - Secure AI infrastructure for federal agencies
+  - Real-time latency optimization for AI systems
+  skills:
+    genai: []
+    ml: []
+    web: [Backend development, Frontend development]
+    databases: [Databases]
+    data: []
+    cloud: [AWS, Azure, GCP, Cloud-native development]
+    ops: [Docker, Kubernetes, Model inference]
+    languages: [Python]
+    domains: []
+    other: [Federal compliance frameworks]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8772114'
+  extracted_at: '2026-03-27T15:08:51.805722'

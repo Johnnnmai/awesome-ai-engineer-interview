@@ -1,0 +1,48 @@
+company:
+  name: Jack & Jill AI
+  stage: Seed
+  focus: AI platform for pharmaceutical competitive intelligence
+position:
+  title: Founding Scientific AI Product Engineer (£70-100k + Equity) at Pharosyn
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work designing and iterating on
+      agentic AI systems and prompt engineering for life science
+      research tasks. The engineer will directly build, evaluate,
+      and optimize AI agents that automate competitive
+      intelligence workflows, making it ai-first.
+  responsibilities:
+  - Design and iterate on agentic AI systems for complex life science research and
+    reporting tasks
+  - Develop prompt engineering strategies for AI-powered competitive intelligence
+    automation
+  - Build evaluation processes to measure AI performance against clinical trial, regulatory,
+    and patent data expectations
+  - Act as strategic bridge between pharma enterprise clients and engineering team
+    to translate domain expertise into features
+  - Define product roadmap and benchmark AI performance against enterprise-grade pharma
+    requirements
+  - Automate drug development data gathering through AI systems
+  use_cases:
+  - Automating pharmaceutical competitive intelligence workflows
+  - Monitoring clinical trials for enterprise pharma clients
+  - Tracking and analyzing regulatory filings
+  - Gathering and synthesizing drug development data
+  - Replacing manual competitive intelligence research with AI agents
+  skills:
+    genai: [Agentic AI systems, Prompt engineering]
+    ml: [AI evaluation frameworks]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Life sciences domain knowledge, Competitive intelligence workflows]
+    other: [Product development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8853949'
+  extracted_at: '2026-03-27T14:43:55.604773'

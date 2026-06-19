@@ -1,0 +1,55 @@
+company:
+  name: StockX
+  stage: Late-stage (Series H/I or near IPO, founded 2016, 1000+ employees)
+  focus: |-
+    Online marketplace for sneakers, apparel, collectibles, and
+    consumer goods using dynamic pricing
+position:
+  title: AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves designing and deploying AI-
+      powered automation solutions using LLMs, building agent-
+      based systems, RAG workflows, and prompt pipelines. The
+      engineer is hands-on with building, integrating, and
+      refining AI/LLM systems in production, making this an ai-
+      first role.
+  responsibilities:
+  - Design and deploy AI-powered automation solutions using LLMs, ML models, and decision
+    engines
+  - Build agent-based systems, prompt pipelines, and RAG workflows
+  - Develop autonomous or semi-autonomous systems that interact with internal tools
+    and APIs
+  - Create scalable workflow automation using APIs, event-driven architecture, and
+    orchestration frameworks
+  - Integrate AI systems with internal platforms and develop reusable automation components
+  - Build observability, logging, guardrails, and monitoring into AI systems
+  - Ensure reliability, security, and responsible AI implementation with compliance
+    to data privacy policies
+  - Identify new automation opportunities across the organization and continuously
+    refine prompts, workflows, and models
+  use_cases:
+  - Operational efficiency improvement through intelligent automation of manual processes
+  - Internal workflow automation across engineering, operations, product, and data
+    teams
+  - Autonomous agents that take actions across internal tools and APIs
+  - Scalable AI-driven solutions for business process transformation
+  - Retrieval-augmented generation for internal knowledge and decision support
+  skills:
+    genai: ['LLM APIs (OpenAI, Anthropic)', RAG systems, Prompt engineering, Agent-based
+        systems, LangChain]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector databases]
+    data: [Event-driven architecture]
+    cloud: [AWS, GCP, Azure]
+    ops: [Workflow orchestration, Observability and monitoring]
+    languages: [Python]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8840679'
+  extracted_at: '2026-04-22T13:24:05.587662'

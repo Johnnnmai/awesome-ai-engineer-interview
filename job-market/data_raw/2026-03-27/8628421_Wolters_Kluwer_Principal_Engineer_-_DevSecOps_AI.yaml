@@ -1,0 +1,207 @@
+job_id: 8628421
+title: "Principal Engineer - DevSecOps & AI"
+company: Wolters Kluwer
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Azure Devops
+  - Ci/Cd
+  - CloudFormation
+  - Container Security
+  - Dast
+  - Devsecops
+  - Github Actions
+  - Gitlab Ci
+  - Go
+  - Infrastructure-As-Code
+company_size: 18,996 Employees
+description: |
+  Join us at Wolters Kluwer and be part of a dynamic global
+  technology company that makes a difference every day. We’re
+  innovators with impact. We provide expert software and
+  information solutions that the world’s leading professionals
+  rely on, in the moments that matter most.
+  
+  As part of this mission, we’re looking for a driven and
+  experienced Principal Software Engineer (DevSecOps) to act
+  as the technical authority for automated delivery, security,
+  and platform reliability across our product engineering
+  organization.
+  
+  Mission:
+  
+  This role is responsible for designing, building, and
+  evolving highly automated CI/CD pipelines and secure
+  software delivery platforms that enable teams to ship
+  frequently, safely, and at scale.
+  
+  You will operate as a hands-on technical leader, shaping
+  DevSecOps strategy through code, automation, and
+  architecture, while influencing standards and practices
+  across multiple engineering teams.
+  
+  The core mission is to make secure, compliant, and reliable
+  software delivery the default — not the exception.
+  
+  Key Responsibilities:
+  
+  CI/CD & Delivery Platform Engineering
+  
+  - Design and build highly automated, scalable CI/CD pipelines
+    for:
+    - Microservices, APIs, and platform services
+    - Infrastructure-as-Code
+    - AI/ML and Agentic AI workloads
+  - Establish pipeline blueprints that are:
+    - Secure by default
+    - Reusable and self-service
+    - Cloud-agnostic where appropriate
+  - Enable progressive delivery strategies:
+    - Blue-green and canary deployments
+    - Feature flags and controlled rollouts
+  
+  DevSecOps & Supply Chain Security
+  
+  - Embed security controls directly into pipelines , including:
+    - SAST, DAST, and SCA
+    - Container and image scanning
+    - IaC security and policy checks
+    - SBOM generation and verification
+  - Design and enforce secure software supply chain practices:
+    - Provenance and artifact signing
+    - Dependency governance
+    - Secrets management and rotation
+  - Partner with Security teams to translate policies into
+    automated, enforceable controls
+  
+  Cloud, Infrastructure & Automation
+  
+  - Engineer platform automation using:
+    - Kubernetes and container platforms
+    - Infrastructure-as-Code (Terraform, CloudFormation, ARM,
+      etc.)
+    - GitOps patterns for infrastructure and application delivery
+  - Build secure, repeatable environment provisioning for:
+    - Dev, test, staging, and production
+    - Multi-tenant and regulated workloads
+  - Optimize pipelines and infrastructure for cost, speed, and
+    reliability
+  
+  Observability, Reliability & Resilience
+  
+  - Integrate observability into delivery pipelines:
+    - Metrics, logs, and traces (e.g., OpenTelemetry)
+    - Deployment health and rollback signals
+  - Define and support SRE-aligned practices:
+    - Error budgets
+    - Deployment reliability metrics
+  - Enable fast detection and recovery from pipeline or
+    production failure
+  
+  Technical Leadership & Influence
+  
+  - Act as a principal-level technical advisor across
+    engineering teams
+  - Set standards and reference implementations for:
+    - CI/CD
+    - Secure delivery
+    - Platform automation
+  - Review designs and code for high-risk or high-impact areas
+  - Mentor senior engineers in DevSecOps and platform
+    engineering practices
+  - Drive adoption of best practices through enablement, not
+    mandates
+  
+  Required Experience & Skill:
+  
+  DevSecOps & Platform Engineering
+  
+  - 12+ years of software engineering experience, with deep
+    focus on DevSecOps, CI/CD, and platform automation
+  - Proven track record of building and operating enterprise-
+    scale automated delivery platforms
+  - Strong understanding of software supply chain security
+  
+  CI/CD Tooling & Automation
+  
+  - Extensive hands-on experience with:
+    - CI/CD systems (e.g., GitHub Actions, GitLab CI, Azure
+      DevOps, Jenkins)
+    - Artifact repositories and registries
+    - Pipeline-as-code and reusable templates
+  - Experience designing self-service developer platforms
+  
+  Cloud & Infrastructure
+  
+  - Strong experience with one or more cloud platforms (AWS,
+    Azure, GCP)
+  - Deep knowledge of:
+    - Kubernetes and container orchestration
+    - Infrastructure-as-Code
+    - Networking, identity, and secrets management
+  - Understanding of cloud-agnostic delivery patterns
+  
+  Security & Compliance
+  
+  - Hands-on experience implementing:
+    - SAST, DAST, SCA
+    - Container and IaC security scanning
+    - Policy-as-code (OPA, similar)
+  - Familiarity with compliance frameworks (SOC 2, ISO 27001,
+    PCI, etc.)
+  - Experience translating security requirements into automated
+    controls
+  
+  Engineering Mindset
+  
+  - Strong coding skills in one or more languages (e.g., Python,
+    Go, Java, Shell)
+  - Comfortable debugging complex pipeline and infrastructure
+    issues
+  - Pragmatic, outcome-driven approach to security and
+    automation
+  - Strong written and verbal communication skills
+  
+  Nice to Have:
+  
+  - Experience supporting AI/ML or Agentic AI pipelines
+  - Familiarity with GitOps tooling (Argo CD, Flux)
+  - Exposure to regulated or highly audited environments
+  - Experience contributing to internal developer platforms or
+    golden paths
+  
+  If you think that you have the needed requirements click on
+  the apply button to join us and be the difference. If making
+  a difference matters to you, then you matter to us.
+  
+  All qualified applicants will receive consideration for
+  employment without regard to race, color, religion, sex,
+  gender identity, sexual orientation, national origin,
+  disability, or any other protected status, in accordance
+  with local regulations.
+  
+  #LI-Hybrid
+  
+  Our Interview Practices
+  
+  To maintain a fair and genuine hiring process, we kindly ask
+  that all candidates participate in interviews without the
+  assistance of AI tools or external prompts. Our interview
+  process is designed to assess your individual skills,
+  experiences, and communication style. We value authenticity
+  and want to ensure we’re getting to know you—not a digital
+  assistant. To help maintain this integrity, we ask to remove
+  virtual backgrounds and include in-person interviews in our
+  hiring process. Please note that use of AI-generated
+  responses or third-party support during interviews will be
+  grounds for disqualification from the recruitment process.
+  
+  Applicants may be required to appear onsite at a Wolters
+  Kluwer office as part of the recruitment process.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-03-26
+url: "https://builtin.com/job/principal-engineer-devsecops-ai/8628421"
+source: Built In

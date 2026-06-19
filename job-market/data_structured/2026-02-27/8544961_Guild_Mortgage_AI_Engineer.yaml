@@ -1,0 +1,49 @@
+company:
+  name: Guild Mortgage
+  stage: null
+  focus: Mortgage banking and home financing services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, training, and
+      deploying machine learning models, including neural
+      networks, NLP, and computer vision systems. The engineer
+      will create ML models, integrate them into applications, and
+      optimize AI systems - core hands-on AI/ML work.
+  responsibilities:
+  - Source and process data from databases, online sources, and internal systems for
+    training AI models
+  - Create machine learning models using appropriate algorithms to solve business
+    problems
+  - Test and validate AI models for accuracy, reliability, and robustness against
+    predefined metrics
+  - Integrate AI models into software applications using API calls or embedded code
+  - Optimize AI systems for speed, efficiency, and accuracy performance
+  - Debug and fix issues in AI models and their application integrations
+  - Collaborate with cross-functional teams including data scientists, developers,
+    and project managers
+  - Utilize cloud computing platforms for AI model development, testing, and deployment
+  use_cases:
+  - Enhancing mortgage application processing and loan origination
+  - Improving user interface and experience of lending applications
+  - Automating data processing and validation for mortgage workflows
+  - Business process optimization through AI-driven solutions
+  - Customer-facing application enhancements with AI capabilities
+  skills:
+    genai: []
+    ml: [TensorFlow, Keras, PyTorch, Neural networks]
+    web: [API integration]
+    databases: []
+    data: []
+    cloud: [Azure, AWS, Google Cloud]
+    ops: []
+    languages: [Python, Java, R, Scala]
+    domains: [NLP, Computer vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8544961'
+  extracted_at: '2026-03-03T11:19:08.784467'

@@ -1,0 +1,48 @@
+company:
+  name: blp
+  stage: Scaleup
+  focus: Agentic AI for ERP automation serving global enterprises
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and shipping AI-powered
+      internal tools using LLMs, AI agents, and AI frameworks. The
+      engineer will evaluate, integrate, and chain AI models,
+      APIs, and agent frameworks into production solutions —
+      hands-on work with AI systems.
+  responsibilities:
+  - Build and ship AI-powered internal tools rapidly (days/weeks, not quarters)
+  - Evaluate, integrate, and chain the latest AI models, APIs, and frameworks into
+    production-ready internal solutions
+  - Create internal tools that generate compounding leverage across hiring, finance,
+    and ops workflows
+  - Write clean, maintainable code integrating with existing APIs, databases, and
+    third-party services
+  - 'Own deployments end-to-end: build, test, ship, and monitor for reliable autonomous
+    operation'
+  - Collaborate with non-technical teams to identify pain points and deliver automated
+    solutions
+  use_cases:
+  - Automating internal hiring workflows with AI agents
+  - Automating internal finance and ops workflows
+  - Building AI-powered internal productivity tools
+  - Chaining LLMs and agent frameworks for internal process automation
+  - ERP automation via agentic AI for enterprise customers
+  skills:
+    genai: [LLMs, AI agents, Agent frameworks, Embedding pipelines, AI coding tools]
+    ml: []
+    web: [APIs, REST APIs]
+    databases: [Supabase]
+    data: []
+    cloud: []
+    ops: [Docker]
+    languages: [Python, SQL]
+    domains: []
+    other: [Make (automation), n8n, Retool, Workflow automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8563664'
+  extracted_at: '2026-04-22T12:39:25.604491'

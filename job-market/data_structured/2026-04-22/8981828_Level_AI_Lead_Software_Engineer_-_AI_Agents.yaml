@@ -1,0 +1,53 @@
+company:
+  name: Level AI
+  stage: Series C
+  focus: |-
+    AI-native platform for enterprise contact center
+    intelligence and automation
+position:
+  title: Lead Software Engineer - AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is explicitly focused on building scalable backend
+      systems that power AI Agents, working at the intersection of
+      distributed systems and AI-powered applications to bring
+      agentic AI capabilities into production. The role directly
+      involves building and deploying AI agent systems (customer-
+      facing agents, agent-assist, backend automation) using LLMs
+      and SLMs, which qualifies as ai-first.
+  responsibilities:
+  - Build scalable backend systems powering next-generation AI Agents for real-time,
+    high-volume enterprise environments
+  - Design and develop production-grade AI agent systems including customer-facing
+    agents, agent-assist, and backend automation
+  - Work at the intersection of distributed systems, cloud infrastructure, and AI-powered
+    applications
+  - Bring agentic AI capabilities into production at scale
+  - Collaborate with a globally distributed engineering team across India and the
+    US
+  - Drive innovation across the Level AI platform leveraging LLMs and Custom Small
+    Language Models (SLMs)
+  use_cases:
+  - Customer-facing AI agents for contact center support
+  - Agent-assist AI for human agent productivity and coaching
+  - Backend automation of contact center workflows
+  - Conversation analytics for QA, coaching, and business insights
+  - Enterprise customer experience transformation and operational efficiency
+  skills:
+    genai: [LLMs, Small Language Models (SLMs), AI Agents, Agentic AI, Prompt Engineering,
+      RAG]
+    ml: []
+    web: [REST APIs]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: [Cloud Infrastructure, AWS]
+    ops: [Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: [Distributed Systems, System Design, Real-time Systems]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8981828'
+  extracted_at: '2026-04-22T14:17:08.736393'

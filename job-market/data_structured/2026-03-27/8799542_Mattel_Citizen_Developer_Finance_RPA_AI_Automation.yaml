@@ -1,0 +1,55 @@
+company:
+  name: Mattel
+  stage: Public
+  focus: Global toy and family entertainment company
+position:
+  title: Citizen Developer (Finance) – RPA & AI Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying AI-enabled
+      automations including intelligent document processing, AI-
+      assisted triage/routing, and generative AI for narrative
+      generation. The person is hands-on with implementing AI
+      capabilities into production workflows, making this an ai-
+      first role despite also including RPA work.
+  responsibilities:
+  - Identify and prioritize automation opportunities across Finance functions including
+    AP/AR, close, reconciliations, reporting, and master data
+  - Build and maintain RPA workflows using low-code tools such as UiPath, Power Automate,
+    Automation Anywhere, and Blue Prism
+  - Pilot and scale AI-enabled automations including intelligent document processing
+    for invoices and statements
+  - Implement AI-assisted email/case triage and routing systems
+  - Develop automated narrative generation for reconciliations and variance explanations
+    with human review checkpoints
+  - Document future-state processes including SOPs, process maps, user stories, and
+    AI human-in-the-loop checkpoints
+  - Implement exception handling, audit logs, monitoring, and operational runbooks
+    for bots and AI-assisted workflows
+  - Ensure solutions meet SOX/internal controls, data privacy, and security requirements
+  use_cases:
+  - Intelligent document processing for invoices, statements, and financial support
+    documentation
+  - AI-assisted email and case triage/routing for finance operations
+  - Automated narrative generation for reconciliations and variance explanations
+  - Knowledge search and Q&A over finance procedures and policies
+  - RPA automation for accounts payable/receivable processes
+  - Finance process automation for journal preparation, reporting, and controls
+  skills:
+    genai: [Intelligent Document Processing (IDP), Generative AI]
+    ml: []
+    web: [API]
+    databases: []
+    data: [Power BI, Tableau]
+    cloud: []
+    ops: []
+    languages: [SQL, Python, VBA]
+    domains: []
+    other: [UiPath, Power Automate, Automation Anywhere, Blue Prism, Excel (advanced),
+      Visio, Lucidchart, Confluence, SAP, Oracle, NetSuite, ServiceNow, Jira]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8799542'
+  extracted_at: '2026-03-27T14:49:44.139013'

@@ -1,0 +1,154 @@
+job_id: 8668175
+title: Senior Agentic AI Engineer
+company: Zeta Global
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Go
+  - Java
+  - Python
+company_size: 2,429 Employees
+description: |
+  WHO WE ARE
+  
+  Zeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud
+  that leverages advanced artificial intelligence (AI) and
+  trillions of consumer signals to make it easier for
+  marketers to acquire, grow, and retain customers more
+  efficiently. Through the Zeta Marketing Platform (ZMP), our
+  vision is to make sophisticated marketing simple by unifying
+  identity, intelligence, and omnichannel activation into a
+  single platform – powered by one of the industry’s largest
+  proprietary databases and AI. Our enterprise customers
+  across multiple verticals are empowered to personalize
+  experiences with consumers at an individual level across
+  every channel, delivering better results for marketing
+  programs. Zeta was founded in 2007 by David A. Steinberg and
+  John Sculley and is headquartered in New York City with
+  offices around the world. To learn more, go to
+  www.zetaglobal.com.
+  
+  Role Snapshot
+  
+  We’re hiring a hands-on Agentic AI engineer to build bidder-
+  adjacent agents that improve campaign performance using RAG
+  + tool-using workflows in a closed-loop ACE (Observe →
+  Reason → Act → Evaluate). This is not a classic “train a
+  model and deploy it” role—this is agentic decisioning +
+  evaluation + safety in a low-latency AdTech environment.
+  
+  What You’ll Do
+  
+  - Build bidder-adjacent agentic workflows that
+    recommend/execute campaign control actions (targeting
+    constraints, budget & pacing levers, bid modifiers,
+    supply/inventory selection, creative routing).
+  
+  - Implement production-grade RAG: retrieval from
+    policies/playbooks, campaign history, aggregates, and
+    near-real-time telemetry; optimize grounding and reduce
+    hallucinations.
+  
+  - Create safe tool/action interfaces: idempotent execution,
+    audit logs, dry-run + approval gates, rate limits,
+    rollback/fallback behaviors.
+  
+  - Own AgentOps: eval harnesses, regression suites, online
+    experimentation (A/B), metrics tied to outcomes (CPA/ROAS,
+    pacing, quality, margin).
+  
+  - Add observability end-to-end (tracing prompts/retrieval/tool
+    calls/latency) and reliability patterns (timeouts, circuit
+    breakers, safe defaults).
+  
+  - Partner with Backend/Bidding, Data Platform,
+    DS/Optimization, Product, and SRE to define the boundary
+    between deterministic per-request bidding and agent-driven
+    control-plane decisions.
+  
+  Must-Have Qualifications
+  
+  - 5+ years building production backend and/or applied AI
+    systems (design → ship → operate).
+  
+  - Strong engineering in Java or Go (Python OK for
+    evals/tooling).
+  
+  - Hands-on experience with LLMs and agentic patterns (tool
+    use, structured outputs, multi-step loops).
+  
+  - Hands-on RAG experience (embeddings, hybrid retrieval,
+    reranking, chunking, context assembly).
+  
+  - Experience building evals and monitoring for AI systems
+    (offline benchmarks + online experiments).
+  
+  - Cloud + distributed systems fundamentals (APIs,
+    microservices, streaming/eventing; AWS preferred).
+  
+  Nice-to-Have
+  
+  - Programmatic advertising (DSP/SSP/RTB) or other high-scale
+    real-time decisioning domains.
+  
+  - Experience with safety/policy enforcement for agent tools
+    (prompt/tool sanitization, allowlists, schema validation).
+  
+  - Experience designing “AI control plane” systems that
+    influence production outcomes while keeping serving paths
+    stable.
+  
+  - Familiarity with experimentation platforms, feature stores,
+    and large-scale telemetry pipelines.
+  
+  Keywords (for sourcing)
+  
+  Agentic AI, RAG, LLM tool use, bid optimization, pacing,
+  targeting, control plane, evals, observability, RTB/DSP,
+  Java/Go, AWS, streaming telemetry
+  
+  BENEFITS & PERKS
+  
+  - Unlimited PTO
+  - Excellent medical, dental, and vision coverage
+  - Employee Equity
+  - Employee Discounts, Virtual Wellness Classes, and Pet
+    Insurance And more!!
+  
+  SALARY RANGE
+  
+  The salary range for this role is $150,000 - $180,000,
+  depending on location and experience.
+  
+  PEOPLE & CULTURE AT ZETA
+  
+  Zeta considers applicants for employment without regard to,
+  and does not discriminate on the basis of an individual’s
+  sex, race, color, religion, age, disability, status as a
+  veteran, or national or ethnic origin; nor does Zeta
+  discriminate on the basis of sexual orientation, gender
+  identity or expression.
+  
+  We’re committed to building a workplace culture of trust and
+  belonging, so everyone feels invited to bring their whole
+  selves to work. We provide a forum for employees to
+  celebrate, support and advocate for one another. Learn more
+  about our commitment to diversity, equity and inclusion
+  here:  https://zetaglobal.com/blog/a-look-into-zetas-ergs/
+  
+  ZETA IN THE NEWS!
+  
+  https://zetaglobal.com/press/?cat=press-releases
+  
+  #LI-YW1
+industries:
+  - AdTech
+  - Artificial Intelligence
+  - Marketing Tech
+  - Software
+  - Analytics
+posted_date: 2026-03-20
+url: "https://builtin.com/job/senior-agentic-ai-engineer/8668175"
+source: Built In

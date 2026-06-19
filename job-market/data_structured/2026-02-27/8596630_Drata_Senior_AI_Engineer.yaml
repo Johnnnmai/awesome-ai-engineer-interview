@@ -1,0 +1,53 @@
+company:
+  name: Drata
+  stage: Series B+ (implied by $0-$100M ARR in 4 years, 600+ employees)
+  focus: Compliance automation and trust management platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building LLM-powered systems,
+      agentic workflows, and RAG implementations for compliance
+      automation. The engineer will design, implement, and deploy
+      AI systems including multi-step reasoning, retrieval, and
+      tool use - hands-on work with models and agents.
+  responsibilities:
+  - Design and implement LLM-powered systems with multi-step reasoning, evidence grounding,
+    and decision support capabilities
+  - Develop agentic workflows combining retrieval, tool use, structured reasoning,
+    and human oversight
+  - Build AI systems that reason over structured and unstructured data for regulatory
+    interpretation and evidence validation
+  - Architect and deploy scalable LLM, retrieval, and agent systems in production
+    environments
+  - Optimize AI systems for latency, cost, reliability, and evaluation in enterprise
+    workloads
+  - Embed human-in-the-loop workflows, confidence thresholds, and safety guardrails
+    into AI systems
+  - Ensure AI outputs are traceable, explainable, and auditable for enterprise customers
+  - Partner with cross-functional teams to operationalize AI safely and effectively
+  use_cases:
+  - Automated questionnaire answering for compliance workflows
+  - Regulatory interpretation and control alignment
+  - Evidence validation and reasoning over compliance data
+  - Interactive AI experiences for engaging with compliance and risk data
+  - Decision support in high-trust enterprise domains
+  - Trust-critical enterprise workflow automation
+  skills:
+    genai: [LLM applications, RAG, Agent frameworks, Prompt engineering, Embeddings,
+      Agentic workflows]
+    ml: [ML/AI engineering]
+    web: []
+    databases: [Vector databases, Pinecone, Chroma, FAISS, Snowflake]
+    data: [Knowledge graphs]
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: [Compliance and security domains]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8596630'
+  extracted_at: '2026-03-03T12:04:35.627804'

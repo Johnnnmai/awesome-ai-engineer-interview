@@ -1,0 +1,51 @@
+company:
+  name: NICE
+  stage: Public
+  focus: |-
+    AI, cloud, and digital solutions for customer experience and
+    financial crime prevention
+position:
+  title: Specialist Software Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly implementing, configuring, and
+      delivering AI-driven and Conversational AI solutions to
+      customers. The engineer builds integrations and configures
+      conversational AI platforms hands-on, which constitutes
+      deploying AI systems rather than just supporting
+      infrastructure for AI work.
+  responsibilities:
+  - Implement and configure AI-driven and Conversational AI solutions across the NICE
+    CXone ecosystem
+  - Build integrations for conversational AI platforms and customer systems
+  - Design and deploy enterprise-grade conversational flows and AI orchestration
+  - Ensure high-quality execution of project deliverables as a customer-facing billable
+    resource
+  - Author detailed design documents, functional requirements, test use cases, and
+    deployment guides
+  - Collaborate with implementation teams on technical delivery
+  - Perform technical problem solving and quality assurance on AI solutions
+  - Work with monitoring, logging, and debugging tools for distributed AI systems
+  use_cases:
+  - Conversational AI for contact centers
+  - Customer experience automation
+  - Digital channel automation and bot applications
+  - Enterprise conversational AI orchestration
+  - AI-driven customer interaction management
+  skills:
+    genai: [NICE CXone, Kore.ai, Dialogflow, Conversational AI platforms, AI orchestration]
+    ml: []
+    web: []
+    databases: [SQL, NoSQL databases]
+    data: [Data integration patterns]
+    cloud: []
+    ops: [Monitoring and logging tools, Distributed systems debugging]
+    languages: []
+    domains: []
+    other: [Agile/Scrum]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8465588'
+  extracted_at: '2026-03-03T11:54:44.215637'

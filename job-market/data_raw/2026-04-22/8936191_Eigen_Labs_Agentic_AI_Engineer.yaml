@@ -1,0 +1,189 @@
+job_id: 8936191
+title: Agentic AI Engineer
+company: Eigen Labs
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Airflow
+  - Autogen
+  - Crewai
+  - Dagster
+  - Go
+  - Langchain
+  - Python
+  - Rust
+  - Temporal
+  - Typescript
+description: |
+  Eigen Labs is building the coordination engine for a world
+  run by humans and AI agents alike.
+  
+  We’re at an inflection point.
+  
+  AI agents are no longer just tools - they’re becoming
+  economic actors. They can write code, coordinate work,
+  generate revenue, and increasingly operate with autonomy.
+  
+  The problem is, none of this works in production today.
+  
+  There’s no reliable way to verify what an agent actually
+  did, what data it used, or who should get paid. The moment
+  agents touch anything high-stakes - money, coordination,
+  ownership—the system breaks.
+  
+  What’s missing isn’t more intelligence. It’s trust.
+  
+  If agents are going to behave like companies, they need the
+  same primitives:
+  
+  - identity
+  - execution guarantees
+  - attribution
+  - ownership and capital
+  
+  This is where crypto becomes necessary- not optional.
+  
+  Blockchains are the only systems where software can own
+  assets, transact, be held accountable, and raise capital.
+  This unlocks a new category: agentic companies - software
+  entities that operate, earn, and coordinate onchain.
+  
+  Our journey has been building toward this moment.
+  
+  EigenLayer introduced restaking - programmable, shared
+  cryptoeconomic security. EigenCloud turns that foundation
+  into a developer platform for verifiable compute, data, and
+  execution.
+  
+  Together, they form the trust layer for the age of AI.
+  
+  EigenCloud is where agents become reliable:
+  
+  - where execution is verifiable
+  - where contributions are attributable
+  - where outcomes can be trusted and rewarded
+  
+  In 2026, we’re shifting from infrastructure to opinionated,
+  user-facing systems that make this real. We’re building
+  quickly, working closely with top builders, and shaping how
+  this category emerges.
+  
+  If you believe agents won’t just assist - but act, earn, and
+  coordinate as independent entities - we’re building the
+  layer that makes that possible.
+  
+  The Role
+  
+  As a Senior Agentic AI Engineer at Eigen, You’ll work on the
+  core systems that make AI agents actually usable in
+  production.  You’ve built real things - distributed systems,
+  APIs, developer tools - and you’ve gone deep on agents, LLM
+  pipelines, or autonomous workflows. You’re not just using AI
+  tools - you have opinions on where this is going.
+  
+  You will own large parts of the system and move quickly from
+  idea → working product.
+  
+  You will spend most of your time building. Not managing. Not
+  talking about roadmaps. Building.
+  
+  This is a full-time role, remote-friendly, with a preference
+  for U.S. time zones and close collaboration with the
+  Seattle-based team.
+  
+  What You Will Do
+  
+  - Build agent runtimes and orchestration systems (planning,
+    tool use, memory, coordination)
+  - Make agents reliable (retries, failure handling, state
+    management)
+  - Make agents observable (tracing, debugging, evaluation)
+  - Make agents cheap (cost-aware execution, performance
+    optimization)
+  - Make agents useful in production (not demos - real systems
+    people depend on)
+  - Integrate LLMs, APIs, and external data into coherent,
+    working systems
+  - Define how developers build, debug, and extend agent
+    behavior
+  
+  What You’ll Bring
+  
+  We care more about evidence than years of experience.
+  
+  Show us you’ve built hard things that work.
+  
+  Strong Signals
+  
+  - You’ve shipped real systems that people depend on
+  - You’ve taken ambiguous problems and turned them into working
+    products
+  - You’ve built or deeply explored agent systems, LLM
+    pipelines, or automation beyond simple demos
+  - You understand system behavior in production - failure
+    modes, tradeoffs, reliability
+  - You move fast and iterate - you don’t wait for perfect specs
+  
+  Technical Foundation
+  
+  - Strong backend / systems experience (distributed systems,
+    APIs, infrastructure)
+  - Proficiency in at least one core language (Python, Go,
+    TypeScript, Rust, etc.)
+  - Experience with reliability patterns (state, retries,
+    observability)
+  - Comfort working across the stack when needed
+  
+  Nice To Have
+  
+  - Experience with agent frameworks (LangChain, AutoGen,
+    CrewAI, or custom systems)
+  - Experience building multi-agent or orchestration systems
+  - Familiarity with LLM evaluation, prompting, or performance
+    tuning
+  - Experience with workflow engines (Temporal, Airflow,
+    Dagster)
+  - Experience building developer platforms, SDKs, or internal
+    tools
+  - Exposure to retrieval systems, vector databases, or memory
+    architectures
+  - Interest in crypto, distributed systems, or verifiable
+    compute
+  
+  The target salary range for this role is $187,000 -
+  $253,000. This is determined by a few factors including your
+  skillset, prior relevant experience, quality of interviews
+  and market factors at the point in time of offer. Other
+  rewards may include short- and long-term incentives, and
+  program-specific awards. In addition, Eigen Labs provides
+  various employee benefits, including:
+  
+  US Benefits
+  
+  - Competitive salary and non-cash compensation (tokens and
+    equity)
+  - World class benefits package (medical/dental/vision)
+  - Remote work set up stipend
+  - Flexible hours and a supportive remote environment
+  - Flexible time off
+  - 401(k) retirement plan + company match
+  - Monthly wellness benefit
+  - Yearly off-sites
+  - Paid parental leave
+  
+  If hired outside of the US through an EOR, benefits will be
+  offered based on specific country requirements and EOR
+  offerings.
+  
+  Equal Opportunity Employment
+  
+  There's one more, very important thing. We are an equal
+  opportunity employer. We search for amazing people of
+  diverse backgrounds, experiences, abilities, and
+  perspectives. We take care of each other to create an
+  inclusive work environment where we love to come to work
+  every day. We hope you can join us.
+posted_date: 2026-04-02
+url: "https://www.builtinla.com/job/agentic-ai-engineer/8936191"
+source: Built In

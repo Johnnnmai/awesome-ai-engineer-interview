@@ -1,0 +1,51 @@
+company:
+  name: Ascent.io
+  stage: Acquired
+  focus: |-
+    Data analytics and digital transformation for regulated
+    organisations
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying ML/LLM-
+      powered solutions in production, including synthetic dataset
+      generation, ML-assisted tooling, and lightweight ML/LLM
+      deployments to solve operational bottlenecks. While it also
+      includes data engineering responsibilities, the hands-on
+      work with LLMs and ML models in production clearly places it
+      in the ai-first category.
+  responsibilities:
+  - Build and maintain scalable data pipelines and transformation workflows
+  - Implement data quality checks, validation frameworks, and monitoring systems
+  - Design and operationalize evaluation frameworks for datasets and ML outputs
+  - Develop ML-assisted tools and workflows to improve data processing and delivery
+    efficiency
+  - Generate, augment, and validate synthetic datasets to support client and internal
+    use cases
+  - Deploy lightweight ML/LLM-powered solutions to solve operational bottlenecks
+  - Work directly with delivery teams to implement and maintain production workflows
+  - Debug, troubleshoot, and resolve technical issues across data pipelines and systems
+  use_cases:
+  - Data pipeline automation and operational efficiency improvement
+  - Synthetic data generation and augmentation for client use cases
+  - ML-assisted data quality validation and processing
+  - Operational bottleneck resolution through lightweight ML/LLM solutions
+  - Production dataset packaging and delivery with QA standards
+  skills:
+    genai: [LLMs]
+    ml: [Synthetic data generation]
+    web: [Streamlit, Dash, API integration]
+    databases: []
+    data: [pandas, Plotly, Data pipelines, Data quality frameworks]
+    cloud: []
+    ops: [ML model deployment]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9104158'
+  extracted_at: '2026-04-22T12:57:41.488832'

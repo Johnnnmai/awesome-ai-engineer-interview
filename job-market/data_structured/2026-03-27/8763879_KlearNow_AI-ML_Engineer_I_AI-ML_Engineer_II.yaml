@@ -1,0 +1,51 @@
+company:
+  name: KlearNow
+  stage: Growth Stage
+  focus: |-
+    AI-powered logistics and global trade document processing
+    platform
+position:
+  title: AI-ML Engineer I / AI-ML Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with AI/ML systems,
+      including training and optimizing ML models, building
+      machine intelligence infrastructure for production use, and
+      applying ML to NLP and computer vision problems. The
+      position directly builds and deploys AI solutions rather
+      than supporting AI work done by others.
+  responsibilities:
+  - Develop innovative AI solutions for challenging business problems in logistics
+    and supply chain
+  - Discover, access, import, clean, and prepare data sources for machine learning
+  - Train and optimize machine learning models for production use
+  - Build backend systems that interact with microservices
+  - Engineer machine intelligence systems and infrastructure for real-world production
+    scale
+  - Explore data features and manipulate data with SQL and scripts
+  - Quickly prototype AI/ML solutions and justify their usage for concrete problems
+  use_cases:
+  - Digitizing and contextualizing unstructured trade documents
+  - Real-time shipment visibility and tracking
+  - AI-powered customs clearance automation
+  - Freight visibility and monitoring
+  - Document automation for logistics
+  - Business intelligence and smart analytics for supply chain
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, Keras, Scikit-learn, NumPy, Pandas, Matplotlib, Deep
+        Learning]
+    web: [Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: [Natural Language Processing, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8763879'
+  extracted_at: '2026-03-27T13:23:48.135479'

@@ -1,0 +1,298 @@
+job_id: 8677914
+title: Principal Engineer - AI/ML
+company: Hewlett Packard Enterprise
+location: Hyderabad, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - C++
+  - Deepspeed
+  - Dvc
+  - Hugging Face Transformers
+  - Kafka
+  - Kubernetes
+  - Langchain
+  - Llama
+  - Mlflow
+  - Openai Gpt
+company_size: 85,422 Employees
+description: |
+  Principal Engineer - AI/ML
+  
+  
+  
+  This role has been designed as ‘’Onsite’ with an expectation
+  that you will primarily work from an HPE office.
+  
+  Who We Are:
+  
+  Hewlett Packard Enterprise is the global edge-to-cloud
+  company advancing the way people live and work. We help
+  companies connect, protect, analyze, and act on their data
+  and applications wherever they live, from edge to cloud, so
+  they can turn insights into outcomes at the speed required
+  to thrive in today’s complex world. Our culture thrives on
+  finding new and better ways to accelerate what’s next. We
+  know varied backgrounds are valued and succeed here. We have
+  the flexibility to manage our work and personal needs. We
+  make bold moves, together, and are a force for good. If you
+  are looking to stretch and grow your career our culture will
+  embrace you. Open up opportunities with HPE.
+  
+  Job Description:
+  
+  
+  
+  In the HPE Hybrid Cloud, we lead the innovation agenda and
+  technology roadmap for all of HPE. This includes managing
+  the design, development, and product portfolio of our next-
+  generation cloud platform, Green Lake. Working with
+  customers, we help them reimagine their information
+  technology needs to deliver a simple, consumable solution
+  that helps them drive their business results. Join us
+  redefine what’s next for you.
+  
+  Principal Generative AI Engineer
+  
+  As a Principal Generative AI Engineer,  you will be
+  responsible for driving the roadmap and building the next
+  generation Generative AI Platform and GenAI
+  Models/Algorithms that our userbase will leverage for years
+  to come as we scale our efforts to implement GenAI in our
+  Product. You should be comfortable with petabytes of data,
+  writing crisp design documentation, and building, debugging,
+  and maintaining highly available distributed systems. The
+  GenAI platforms that you build will empower developers
+  throughout HPE to build better AI products more quickly than
+  ever before. You will be at the forefront of development,
+  research, and implementation of innovative GenAI models,
+  prompting strategies, agentic AI systems, and pipelines.
+  
+  The ideal candidate should have a strong background in
+  applied generative AI approaches, large language models,
+  multimodal AI, agentic AI, and production-level engineering.
+  You should have excellent problem solving and communication
+  skills, and be comfortable working with data scientists,
+  product managers, and other engineers. You should have a
+  passion for creating GenAI products and be able to think
+  through the implications of the solutions you create. A
+  successful candidate should have an advanced degree in
+  computer science, mathematics, engineering, or a related
+  field, and have a strong portfolio of GenAI/LLM projects.
+  
+  You should design and build highly scalable systems,
+  generative AI algorithms, and deep learning applications.
+  You should be able to execute tests and optimize GenAI
+  models and prompt/agentic workflows. You should also be able
+  to mentor and guide other GenAI Engineers in the team.
+  
+  What you will do:
+  
+  - Experiment, design, develop and maintain generative AI
+    models (e.g., LLMs, multimodal models), agentic AI
+    architectures, and pipelines with high potential for value
+    and scale.
+  - Collaborate with other GenAI engineers, data scientists,
+    product managers, and other engineers to ensure successful
+    implementation of generative AI solutions.
+  - Perform research and testing to develop or customize GenAI
+    algorithms, prompt engineering strategies, and agentic
+    workflows; conduct model training, fine-tuning, and
+    evaluation as needed; integrate, test, tune and monitor
+    the solutions developed.
+  - Research and evaluate new technologies and tools for
+    generative AI, including Retrieval-Augmented Generation
+    (RAG), prompt orchestration, agentic AI frameworks, model
+    evaluation and safety tools.
+  - Maintain and update existing generative AI systems,
+    including prompt libraries, agent workflows, and deployed
+    models.
+  - Troubleshoot and debug GenAI systems, including issues
+    related to model outputs, prompt reliability,
+    hallucinations, and agentic behaviors.
+  - Work collaboratively with cross-functional partners and
+    stakeholders, identify opportunities for business impact,
+    understand, refine, and prioritize requirements for GenAI
+    models and solutions, drive engineering decisions, and
+    quantify impact.
+  - Hands-on development, productionization, and operation of
+    GenAI models, agents, and pipelines at scale, including
+    both batch and real-time use cases.
+  - Work with large scale structured and unstructured data,
+    build and continuously improve cutting edge GenAI models,
+    including LLMs, vision-language models, and agentic
+    systems.
+  - Provide technical guidance and mentorship to other team
+    members and interns in GenAI best practices, prompting
+    strategies, and agentic design.
+  - Identify areas of improvement in existing GenAI systems,
+    including prompt engineering, agent reliability, and model
+    deployment.
+  
+  What you will need:
+  
+  - B.E/B.Tech/M.Tech/M.E degree in Computer Science or
+    equivalent
+  - 10-12 years of industry experience in applied AI/GenAI,
+    designing and developing scalable enterprise level
+    solutions
+  - Experience in architecting and building large, highly
+    scalable systems & software applications (e.g., well-
+    designed APIs, high volume data pipelines, efficient
+    algorithms, agentic workflows, prompt orchestration)
+  - Strong programming (Python / C++ or equivalent) and data
+    engineering skills
+  - Deep understanding of Generative AI best practices (e.g.,
+    prompt engineering, RAG, agentic design, model fine-
+    tuning, optimization), LLMs, multimodal models, and deep
+    learning basics.
+  - Experience with these technologies: OpenAI GPT, Llama,
+    Hugging Face Transformers, LangChain, DeepSpeed, Ray,
+    Kubernetes, Spark, Kafka (or equivalent).
+  - Industry experience building end-to-end GenAI infrastructure
+    and/or building and productionizing Generative AI models,
+    agents, and workflows
+  - Experience with MLOps/LLMOps practices and tools (e.g.,
+    MLflow, Weights & Biases, DVC, SageMaker, Vertex AI)
+  - Design, implement and integrate the next generation of
+    Generative AI infrastructure to empower other Data
+    Scientists and AI engineers to build GenAI models and
+    agents that make real-time decisions.
+  - You will collaborate with other engineers and data
+    scientists to create optimal experiences on the Core GenAI
+    platform, including but not limited to: prompt libraries,
+    agentic orchestration, the real-time serving layer, and
+    the offline training system
+  - Strong collaboration and communication skills, both verbal
+    and written
+  - Bring a deep empathy for customer needs and insights as well
+    as an intuitive grasp of the business problems we’re
+    trying to solve
+  
+  Good to have:
+  
+  - Experience with traditional machine learning and deep
+    learning frameworks and algorithms (e.g., RNNs, CNNs,
+    Transformers, GANs)
+  - Knowledge of reinforcement learning, transfer learning, and
+    meta-learning concepts
+  - Hands-on experience with TensorFlow, PyTorch, JAX, Keras
+  - Familiarity with data labeling platforms, ML model
+    monitoring and evaluation tools
+  - Experience with MLOps/LLMOps practices and tools (e.g.,
+    MLflow, Weights & Biases, DVC, SageMaker, Vertex AI)
+  - Exposure to model safety, bias detection, explainability,
+    and responsible AI practices
+  - Experience with cloud platforms (AWS, Azure, GCP) for
+    scalable AI deployments
+  - Contributions to open source GenAI/ML projects or research
+    publications
+  
+  Additional Skills:
+  
+  Cloud Architectures, Cross Domain Knowledge, Design
+  Thinking, Development Fundamentals, DevOps, Distributed
+  Computing, Microservices Fluency, Full Stack Development,
+  Release Management, Security-First Mindset, User Experience
+  (UX)
+  
+  What We Can Offer You:
+  
+  Health & Wellbeing
+  
+  We strive to provide our team members and their loved ones
+  with a comprehensive suite of benefits that supports their
+  physical, financial and emotional wellbeing.
+  
+  Personal & Professional Development
+  
+  We also invest in your career because the better you are,
+  the better we all are. We have specific programs catered to
+  helping you reach any career goals you have — whether you
+  want to become a knowledge expert in your field or apply
+  your skills to another division.
+  
+  Unconditional Inclusion
+  
+  We are unconditionally inclusive in the way we work and
+  celebrate individual uniqueness. We know varied backgrounds
+  are valued and succeed here. We have the flexibility to
+  manage our work and personal needs. We make bold moves,
+  together, and are a force for good.
+  
+  Let's Stay Connected:
+  
+  Follow @HPECareers on Instagram to see the latest on people,
+  culture and tech at HPE.
+  
+  #india#hybridcloud
+  
+  Job:
+  
+  Engineering
+  
+  Job Level:
+  
+  TCP_05
+  
+  
+  
+  
+  
+  HPE is an Equal Employment Opportunity/
+  Veterans/Disabled/LGBT employer. We do not discriminate on
+  the basis of race, gender, or any other protected category,
+  and all decisions we make are made on the basis of
+  qualifications, merit, and business need. Our goal is to be
+  one global team that is representative of our customers, in
+  an inclusive environment where we can continue to innovate
+  and grow together. Please click here: Equal Employment
+  Opportunity.
+  
+  Hewlett Packard Enterprise is EEO Protected Veteran/
+  Individual with Disabilities.
+  
+  
+  
+  HPE will comply with all applicable laws related to employer
+  use of arrest and conviction records, including laws
+  requiring employers to consider for employment qualified
+  applicants with criminal histories.
+  
+  
+  
+  No Fees Notice & Recruitment Fraud Disclaimer
+  
+  
+  
+  It has come to HPE’s attention that there has been an
+  increase in recruitment fraud whereby scammer impersonate
+  HPE or HPE-authorized recruiting agencies and offer fake
+  employment opportunities to candidates.  These scammers
+  often seek to obtain personal information or money from
+  candidates.
+  
+  
+  
+  Please note that Hewlett Packard Enterprise (HPE), its
+  direct and indirect subsidiaries and affiliated companies,
+  and its authorized recruitment agencies/vendors will never
+  charge any candidate a registration fee, hiring fee, or any
+  other fee in connection with its recruitment and hiring
+  process.  The credentials of any hiring agency that claims
+  to be working with HPE for recruitment of talent should be
+  verified by candidates and candidates shall be solely
+  responsible to conduct such verification. Any
+  candidate/individual who relies on the erroneous
+  representations made by fraudulent employment agencies does
+  so at their own risk, and HPE disclaims liability for any
+  damages or claims that may result from any such
+  communication.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Information Technology
+  - Consulting
+posted_date: 2026-03-25
+url: "https://builtin.com/job/principal-engineer-ai-ml/8677914"
+source: Built In

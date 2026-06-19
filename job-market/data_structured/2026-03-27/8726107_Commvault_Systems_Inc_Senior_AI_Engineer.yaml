@@ -1,0 +1,54 @@
+company:
+  name: Commvault Systems, Inc.
+  stage: Public
+  focus: |-
+    AI-powered cyber resilience, data protection and security
+    platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, developing, and deploying AI
+      models including ML algorithms, NLP, and computer vision.
+      The engineer will build AI-powered prototypes, optimize
+      algorithms, and integrate AI solutions into customer
+      experience systems. This is hands-on work building and
+      deploying AI models, not support work.
+  responsibilities:
+  - Design, develop, and deploy advanced AI models including ML algorithms, NLP, and
+    computer vision for customer experience challenges
+  - Collect, clean, and analyze large datasets to identify patterns and inform AI
+    model development
+  - Integrate AI solutions into existing customer experience systems and platforms
+  - Continuously refine and improve AI models to enhance accuracy, efficiency, and
+    effectiveness
+  - Develop and test AI-powered prototypes and POCs to demonstrate feasibility of
+    proposed solutions
+  - Collaborate with cross-functional teams to align AI initiatives with business
+    objectives
+  - Stay updated on latest advancements in AI technology and industry best practices
+  use_cases:
+  - Enhancing customer interactions through AI-powered solutions
+  - Customer experience personalization and optimization
+  - AI-powered chatbots and virtual assistants
+  - Text classification and sentiment analysis
+  - Computer vision applications for customer experience
+  - Streamlining customer-facing processes
+  skills:
+    genai: [Chatbots and virtual assistants]
+    ml: [TensorFlow, PyTorch, scikit-learn, Natural Language Processing, Text classification,
+      Sentiment analysis]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python]
+    domains: [Computer Vision]
+    other: [CRM systems, SaaS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8726107'
+  extracted_at: '2026-03-27T16:01:42.887634'

@@ -1,0 +1,52 @@
+company:
+  name: DataCamp
+  stage: Startup (established, post-Series based on scale)
+  focus: Online education platform for data and AI skills
+position:
+  title: Staff AI Engineer - AI Creator
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and shipping LLM-powered
+      products, including designing prompt architectures, agentic
+      workflows, and adaptive AI tutoring behaviors. The engineer
+      owns the core AI system that delivers real-time adaptive
+      learning, working hands-on with LLMs in production.
+  responsibilities:
+  - Own the design and implementation of key components of the AI tutoring system,
+    including prompt architectures, agentic workflows, and adaptive behaviors
+  - Drive experiments end-to-end—shipping, measuring, and iterating to improve learning
+    outcomes and model performance
+  - Build production-grade systems that integrate LLM capabilities into user-facing
+    experiences with reliability, speed, and scalability
+  - Translate product and pedagogical goals into concrete technical solutions, working
+    closely with product, content, and design
+  - Rapidly prototype and deploy new model capabilities, bridging the gap between
+    research breakthroughs and real user impact
+  - Strengthen system quality through robust testing, monitoring, and iteration—ensuring
+    safe and consistent behavior at scale
+  - Raise the bar through strong code, pragmatic technical decisions, and active participation
+    in design and code reviews
+  use_cases:
+  - AI-powered personalized tutoring at scale (addressing Bloom's 2 Sigma Problem)
+  - Real-time adaptive learning experiences for 17M+ learners
+  - AI Creator enabling users to instantly build, experiment, and solve real-world
+    problems
+  - Transforming knowledge into tangible impact through AI-driven learning
+  skills:
+    genai: [Prompt Engineering, Agentic Workflows, LLM Integration, Multi-step Model
+        Interactions]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Monitoring & Testing, Production Deployment]
+    languages: [Python]
+    domains: []
+    other: [Experimentation & A/B Testing, Scalable System Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8869242'
+  extracted_at: '2026-04-22T13:26:49.711021'

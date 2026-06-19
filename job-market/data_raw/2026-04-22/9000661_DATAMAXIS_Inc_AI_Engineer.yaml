@@ -1,0 +1,51 @@
+job_id: 9000661
+title: AI Engineer
+company: DATAMAXIS, Inc
+location: Pune, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - .Net
+  - Azure Ai Search
+  - Azure Machine Learning
+  - Azure Openai Service
+  - Microsoft Graph Api
+  - Power Platform
+company_size: 28 Employees
+description: |
+  Job Title: AI Engineer Experience: 8+ years Location : Local
+  Pune(Hybrid)
+  
+  AI Solutions Engineer to design, build intelligent apps, and
+  operationalize AI-powered search experiences and
+  autonomous/assisted agents using Microsoft’s AI ecosystem
+  
+  Core Technical Skills
+  
+  - Overall 8-12 years of Full stack experience- . Net ecosystem
+    - Must have
+  - 2-4 Years of experience in AI engineering
+  - Experience in Azure OpenAI Service, embeddings - Must have
+  - Azure AI Search (vector search, hybrid search, reranking)-
+    Must have
+  - Azure Machine Learning
+  - Retrieval Augmented Generation (RAG) pipelines with Azure
+    OpenAI Service
+  - Power platform, specifically power automate - Nice to have
+  - Microsoft Graph API & M365 integration - Nice to have
+  - Foundry - Nice to have Engineering Skills
+  - Designing end‑to‑end AI search and agent systems
+  - Implementing ingestion pipelines, chunking, metadata
+    enrichment
+  - Understanding of Azure cloud architecture (App Service, AKS,
+    Key Vault, Monitor, DevOps)
+  - Performance tuning (latency, token optimization, embeddings,
+    caching)
+  - Prompt Engineering
+industries:
+  - Information Technology
+  - Software
+  - Analytics
+posted_date: 2026-04-09
+url: "https://builtin.com/job/ai-engineer/9000661"
+source: Built In

@@ -1,0 +1,52 @@
+company:
+  name: Morgan Stanley
+  stage: Public
+  focus: Global financial services and investment banking
+position:
+  title: Software Engineer (AI, Data & Agentic Systems)_Director_Software Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building AI agents that reason,
+      plan, and act using MCP-based patterns, integrating ML
+      models into applications, and developing agentic AI
+      workflows. The engineer is hands-on with AI system design
+      and deployment, not merely supporting infrastructure for
+      others.
+  responsibilities:
+  - Design, develop, and operate end-to-end AI enabled applications using Python
+  - Build scalable backend services that integrate machine learning and agentic AI
+    workflows
+  - Develop and maintain batch and streaming data pipelines supporting analytics,
+    AI training, and inference
+  - Implement AI agents that reason, plan, and act across tools and data sources using
+    MCP-based patterns
+  - Write efficient and optimized SQL for data transformation, analytics, and feature
+    generation
+  - Collaborate with data scientists, product managers, and partner engineering teams
+  - Apply engineering best practices including testing, monitoring, logging, and secure
+    coding
+  - Ensure AI systems are responsible, observable, and reliable in production
+  use_cases:
+  - Enterprise network services management powered by AI
+  - Agentic AI systems with multi-step reasoning, planning, and tool orchestration
+  - Data pipelines supporting AI training, inference, and analytics at scale
+  - Production-grade AI-enabled applications for financial services operations
+  - MCP-based extensible tool-aware AI agents for enterprise automation
+  skills:
+    genai: [Model Context Protocol (MCP), Agentic AI]
+    ml: [PyTorch, TensorFlow, scikit-learn]
+    web: [RESTful APIs]
+    databases: [Snowflake, SingleStore, MongoDB]
+    data: [Databricks, Kafka, Kafka Streams, FluentBit, Apache NiFi, Batch and streaming
+        data pipelines]
+    cloud: [Cloud platforms]
+    ops: [Git, Docker, Microservices]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9059367'
+  extracted_at: '2026-04-22T13:52:45.333426'

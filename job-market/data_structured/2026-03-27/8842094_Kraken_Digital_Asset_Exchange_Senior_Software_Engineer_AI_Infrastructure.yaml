@@ -1,0 +1,51 @@
+company:
+  name: Kraken Digital Asset Exchange
+  stage: Series B
+  focus: Cryptocurrency exchange and digital asset trading platform
+position:
+  title: Senior Software Engineer – AI Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an infrastructure/platform role that builds systems
+      TO SUPPORT AI agents (inference, orchestration, execution
+      layers), but does not directly build, train, fine-tune, or
+      deploy the AI models themselves. The focus is on making
+      agent systems reliable and performant at scale, not on the
+      AI/ML work itself.
+  responsibilities:
+  - Design and build the infrastructure layer powering AI agent systems in production
+  - Develop high-performance Rust services that handle model inference, orchestration,
+    and execution
+  - Architect scalable systems capable of supporting millions of users and high request
+    throughput
+  - Build reliable ML infrastructure and MLOps patterns for model deployment, evaluation,
+    and monitoring
+  - Define guardrails, observability, and failure handling for agent-driven workflows
+  - Optimize latency, throughput, and cost across inference and orchestration layers
+  - Partner closely with the Agent Systems team to translate experimental prototypes
+    into hardened production systems
+  use_cases:
+  - Powering intelligent agents at scale for crypto exchange operations
+  - Model inference serving for millions of users
+  - Agent orchestration and execution across internal systems
+  - ML model deployment and monitoring infrastructure
+  - High-throughput request handling for AI-powered features
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud-native infrastructure]
+    ops: [Distributed systems, ML infrastructure, Model serving, MLOps, Observability
+        and monitoring, Container orchestration, High-performance networking, Async
+        systems, Low-latency architectures]
+    languages: [Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8842094'
+  extracted_at: '2026-03-27T14:23:50.208365'

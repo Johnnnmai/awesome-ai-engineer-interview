@@ -1,0 +1,49 @@
+company:
+  name: Optum
+  stage: Public
+  focus: |-
+    Healthcare technology and services, pharmacy benefits, and
+    health optimization
+position:
+  title: Senior AI ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work building,
+      implementing, and retraining ML models and GenAI systems
+      (Gemini, GPT4). The engineer will design and deploy machine
+      learning models, work with NLP/Deep Learning, and ensure
+      model accuracy and efficiency - all core AI/ML development
+      work.
+  responsibilities:
+  - Collaborate with AI Architects, Cloud Engineers, and CRM Development Team to design
+    and implement machine learning models and systems
+  - Work with GenAI models like Gemini, GPT4, and traditional NLP/Deep Learning machine
+    learning models
+  - Retrain existing models and systems to ensure accuracy and efficiency
+  - Evaluate machine learning models and ensure adherence to ethical standards
+  - Stay current with latest trends and technologies in machine learning and AI
+  - Provide technical support and guidance to development team on ML-related issues
+  - Troubleshoot ML system issues and conduct regular system tests
+  - Document procedures and systems related to ML infrastructure
+  use_cases:
+  - Healthcare CRM enhancement with AI/ML capabilities
+  - Health outcome improvement through ML-powered insights
+  - NLP and deep learning applications for healthcare data
+  - GenAI-powered automation and intelligent systems
+  skills:
+    genai: [Gemini, GPT4]
+    ml: [NLP, Deep Learning, Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [Google Cloud Platform, GCP]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Salesforce]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8866205'
+  extracted_at: '2026-03-27T15:05:30.601310'

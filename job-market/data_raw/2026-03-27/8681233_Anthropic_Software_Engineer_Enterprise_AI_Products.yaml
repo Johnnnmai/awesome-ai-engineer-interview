@@ -1,0 +1,257 @@
+job_id: 8681233
+title: Software Engineer, Enterprise AI Products
+company: Anthropic
+location: 
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - APIs
+  - Cloud Infrastructure
+  - JavaScript
+  - Machine Learning
+  - Office Javascript Api
+  - Vsto
+company_size: 57 Employees
+description: |
+  About Anthropic
+  
+  Anthropic’s mission is to create reliable, interpretable,
+  and steerable AI systems. We want AI to be safe and
+  beneficial for our users and for society as a whole. Our
+  team is a quickly growing group of committed researchers,
+  engineers, policy experts, and business leaders working
+  together to build beneficial AI systems.
+  
+  About the Role
+  
+  We're building Claude into the AI that everyone uses at
+  work. Not a demo, not a chatbot sidebar — a tool that
+  professionals across industries rely on every day to do
+  substantive work. We're looking for experienced software
+  engineers to join the Enterprise & Verticals team, where we
+  build the products that make that real.
+  
+  This is a rare engineering role where you don't just build
+  on top of a model — you shape the model itself. Every
+  engineer on this team works directly with Anthropic's
+  research organization, including post-training, to make
+  Claude better at the specific tasks your products need to
+  solve. Whether you're working on general enterprise tooling
+  or a specific industry vertical, you'll identify capability
+  gaps, collaborate with researchers on domain-specific
+  improvements, and see those improvements ship in your
+  products.
+  
+  This team owns two complementary surfaces:
+  
+  Enterprise AI Products. General-purpose features that make
+  Claude useful for any knowledge worker — products like
+  Cowork, plugins, skills, and the connective tissue that lets
+  Claude operate effectively across workflows. A big part of
+  this work is understanding why users aren't activating,
+  what's blocking adoption, and building the capabilities that
+  close those gaps. You'll work on the systems that make
+  Claude a daily-use tool for enterprise customers across
+  industries.
+  
+  Vertical AI Products. Purpose-built experiences for specific
+  industries where Claude can transform complex professional
+  workflows. We're currently building for three verticals,
+  with more to come:
+  
+  - Financial Services — from data retrieval and analysis to
+    institutional-quality report generation, building AI
+    experiences that meet the standards of the world's largest
+    financial institutions.
+  - Healthcare — from clinical documentation and prior
+    authorization to care coordination and patient management,
+    solving critical challenges for healthcare systems while
+    ensuring accuracy and compliance.
+  - Legal — from document review and contract analysis to
+    regulatory compliance and matter management, building
+    tools that handle the precision, confidentiality, and
+    nuance that legal work demands.
+  
+  Representative Projects
+  
+  - Build an Office add-in that lets Claude read, analyze, and
+    generate content within Excel and Word — operating within
+    the constraints of host application sandboxes and third-
+    party platform APIs
+  - Design the plugins and skills infrastructure that lets
+    Claude learn new domain-specific capabilities — from
+    financial modeling templates to clinical documentation
+    workflows — and make them discoverable and composable for
+    enterprise users
+  - Build the customization and distribution layer to allow
+    enterprise power users capture, refine, and share their
+    enhanced workflows.
+  - Develop a document generation pipeline that produces
+    institutional-quality investment research reports,
+    translating Claude's analytical capabilities into outputs
+    that meet the formatting, sourcing, and compliance
+    standards of a top-tier bank
+  - Instrument and diagnose activation funnels to understand why
+    enterprise users sign up but don't adopt Claude for daily
+    work, then build the product changes that close those gaps
+  - Design the context and memory architecture that lets
+    multiple Claude agents working across different product
+    surfaces — Cowork, chat, Office add-ins, vertical tools —
+    share a unified understanding of a user's projects,
+    preferences, and in-flight work so that nothing falls
+    through the cracks as people move between tools
+  - Identify high-toil workflows that enterprise users repeat
+    daily — reformatting reports, reconciling data across
+    systems, triaging inbound requests — and apply new model
+    capabilities to automate or eliminate them, measuring the
+    impact on time saved and user retention
+  - Build hybrid workflow systems where Claude agents and people
+    collaborate asynchronously on complex tasks — for example,
+    an agent that drafts a first-pass contract review
+    overnight, flags items that need human judgment, and
+    routes those decisions back through a structured interface
+    so the attorney can review and approve in minutes rather
+    than hours
+  - Collaborate with post-training researchers to improve
+    Claude's performance on clinical documentation tasks,
+    identifying specific failure modes in patient note
+    summarization and helping design training data to address
+    them
+  
+  You May Be a Good Fit If You
+  
+  - Have strong full-stack engineering skills with experience
+    building products in enterprise or B2B contexts
+  - Care as much about whether users activate and get value as
+    you do about the underlying systems — you're product-
+    minded and user-oriented
+  - Have shipped products that real customers depend on, and are
+    comfortable working across the stack (frontend, backend,
+    APIs, integrations) and navigating ambiguity in an early-
+    stage product environment
+  - Communicate effectively and can engage credibly with
+    enterprise stakeholders — whether a portfolio manager, a
+    general counsel, or a hospital CIO — and translate their
+    needs into engineering work
+  - Work effectively across functions in a fast-moving
+    organization
+  
+  Especially Valuable Experience
+  
+  - For Enterprise AI Products: Experience building developer
+    tools, productivity applications, or platforms where
+    adoption and activation are core challenges. Familiarity
+    with skills, plugins, or extensibility systems.
+  - For Office Agents: Experience building Office add-ins,
+    browser extensions, or plugins that integrate with
+    existing productivity software. Familiarity with the
+    Office JavaScript API, VSTO, COM, or similar frameworks
+    for manipulating spreadsheets, documents, or presentations
+    programmatically.
+  - For Financial Services: Experience with financial data
+    providers, trading systems, or capital markets technology.
+    Track record building systems that handle sensitive
+    financial data, financial modeling, or document
+    generation.
+  - For Healthcare & Life Sciences: Experience with clinical
+    workflows or products for health records and clinical
+    documentation. Familiarity with healthcare compliance
+    requirements (HIPAA, HL7/FHIR, etc.).
+  - For Legal: Experience building legal technology products —
+    document review, contract lifecycle management, compliance
+    systems, or practice management platforms.
+  
+  We're at the beginning of defining how AI transforms
+  professional work, and we expect to expand into new
+  verticals and product surfaces over time. If your experience
+  doesn't map neatly to one of the categories above but you're
+  excited about building the products that make Claude
+  indispensable at work, we'd love to hear from you.
+  
+  The annual compensation range for this role is listed below.
+  
+  For sales roles, the range provided is the role’s On Target
+  Earnings ("OTE") range, meaning that the range includes both
+  the sales commissions/sales bonuses target and annual base
+  salary for the role.
+  
+  Annual Salary:
+  
+  $320,000—$485,000 USD
+  
+  Logistics
+  
+  Education requirements: We require at least a Bachelor's
+  degree in a related field or equivalent experience.
+  Location-based hybrid policy: Currently, we expect all staff
+  to be in one of our offices at least 25% of the time.
+  However, some roles may require more time in our offices.
+  
+  Visa sponsorship: We do sponsor visas! However, we aren't
+  able to successfully sponsor visas for every role and every
+  candidate. But if we make you an offer, we will make every
+  reasonable effort to get you a visa, and we retain an
+  immigration lawyer to help with this.
+  
+  We encourage you to apply even if you do not believe you
+  meet every single qualification. Not all strong candidates
+  will meet every single qualification as listed.  Research
+  shows that people who identify as being from
+  underrepresented groups are more prone to experiencing
+  imposter syndrome and doubting the strength of their
+  candidacy, so we urge you not to exclude yourself
+  prematurely and to submit an application if you're
+  interested in this work. We think AI systems like the ones
+  we're building have enormous social and ethical
+  implications. We think this makes representation even more
+  important, and we strive to include a range of diverse
+  perspectives on our team. Your safety matters to us. To
+  protect yourself from potential scams, remember that
+  Anthropic recruiters only contact you from @anthropic.com
+  email addresses. In some cases, we may partner with vetted
+  recruiting agencies who will identify themselves as working
+  on behalf of Anthropic. Be cautious of emails from other
+  domains. Legitimate Anthropic recruiters will never ask for
+  money, fees, or banking information before your first day.
+  If you're ever unsure about a communication, don't click any
+  links—visit anthropic.com/careers directly for confirmed
+  position openings.
+  
+  How we're different
+  
+  We believe that the highest-impact AI research will be big
+  science. At Anthropic we work as a single cohesive team on
+  just a few large-scale research efforts. And we value impact
+  — advancing our long-term goals of steerable, trustworthy AI
+  — rather than work on smaller and more specific puzzles. We
+  view AI research as an empirical science, which has as much
+  in common with physics and biology as with traditional
+  efforts in computer science. We're an extremely
+  collaborative group, and we host frequent research
+  discussions to ensure that we are pursuing the highest-
+  impact work at any given time. As such, we greatly value
+  communication skills.
+  
+  The easiest way to understand our research directions is to
+  read our recent research. This research continues many of
+  the directions our team worked on prior to Anthropic,
+  including: GPT-3, Circuit-Based Interpretability, Multimodal
+  Neurons, Scaling Laws, AI & Compute, Concrete Problems in AI
+  Safety, and Learning from Human Preferences.
+  
+  Come work with us!
+  
+  Anthropic is a public benefit corporation headquartered in
+  San Francisco. We offer competitive compensation and
+  benefits, optional equity donation matching, generous
+  vacation and parental leave, flexible working hours, and a
+  lovely office space in which to collaborate with colleagues.
+  Guidance on Candidates' AI Usage: Learn about our policy for
+  using AI in our application process
+industries:
+  - Artificial Intelligence
+  - Natural Language Processing
+  - Generative AI
+posted_date: 2026-03-07
+url: "https://builtin.com/job/software-engineer-enterprise-ai-products/8681233"
+source: Built In

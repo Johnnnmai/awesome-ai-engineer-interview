@@ -1,0 +1,47 @@
+company:
+  name: Prodigal
+  stage: Series B
+  focus: |-
+    Building AI Agents for loan servicing and consumer finance
+    collections
+position:
+  title: Solution Engineer (AI Agents)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly building AI solutions including
+      AI agents, NLP models, and leveraging LLMs for entity
+      recognition and RAG-based applications. This is hands-on
+      implementation and deployment of AI/LLM systems for
+      enterprise customers, not just supporting infrastructure.
+  responsibilities:
+  - Build AI solutions including AI agents and NLP models for enterprise customers
+  - Implement workflow automation to enhance operational efficiency
+  - Leverage NLP techniques and LLMs for entity recognition tasks
+  - Collaborate with Customer Success team for customer onboarding and seamless solution
+    implementation
+  - Ensure 99.9% uptime for critical systems by monitoring data ingestion and publishing
+    pipelines
+  - Identify, report, and prioritize bug resolution while proposing scalable solutions
+  use_cases:
+  - AI agents for loan servicing and collections
+  - Consumer finance workflow automation
+  - NLP-based entity recognition in financial interactions
+  - Operational efficiency enhancement for lending companies
+  - Customer engagement automation in consumer finance
+  skills:
+    genai: [NLP techniques, LLMs, RAG-based applications, GenAI tools]
+    ml: []
+    web: []
+    databases: [MongoDB]
+    data: [PySpark, Databricks]
+    cloud: []
+    ops: [Git]
+    languages: [Python, SQL, Shell scripting]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8753894'
+  extracted_at: '2026-03-27T16:12:38.800655'

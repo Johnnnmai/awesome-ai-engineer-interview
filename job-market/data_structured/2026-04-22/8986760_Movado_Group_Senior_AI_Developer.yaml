@@ -1,0 +1,55 @@
+company:
+  name: Movado Group
+  stage: Public
+  focus: Watch and accessories brand (Movado, Coach, others)
+position:
+  title: Senior AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly builds and deploys AI/ML solutions
+      including Generative AI tools (Amazon Bedrock, custom GPTs),
+      predictive models, chatbots, and AI-assisted code
+      generation. The developer is hands-on with LLMs, ML model
+      building, and deploying AI services integrated with
+      enterprise systems.
+  responsibilities:
+  - Design and architect AI-enhanced solutions integrating SAP data, cloud data sources
+    (BigQuery, Redshift), and local file inputs
+  - Lead development of automation tools and bots using Generative AI (Amazon Bedrock,
+    custom GPTs, Amazon Lex) for real-time data processing
+  - Build, test, and deploy predictive models using machine learning and statistical
+    techniques (forecasting, regression, simulation)
+  - Develop intelligent frontend tools using Python, VBA, and Excel to automate business
+    workflows
+  - Define and maintain coding standards, Git repositories, and CI/CD pipelines for
+    AI and automation development
+  - Drive innovation by applying AI and cloud services to modernize business processes
+    such as Order-to-Cash and Procure-to-Pay
+  - Ensure secure integration of AI services with AWS, SAP systems, and third-party
+    applications
+  - Oversee development of reusable AI frameworks and mentor junior Python developers
+  use_cases:
+  - Business process automation for Order-to-Cash and Procure-to-Pay workflows
+  - Real-time chatbot and bot interactions with enterprise systems via Amazon Lex
+  - Predictive forecasting and statistical modeling for business operations
+  - AI-assisted code generation for modularizing business processes
+  - Automated data integration between SAP, BigQuery, Redshift, and other enterprise
+    systems
+  skills:
+    genai: [Custom GPTs, OpenAI APIs, Chatbot Development]
+    ml: [scikit-learn, Pandas, NumPy, 'Machine Learning (forecasting, regression,
+        simulation)']
+    web: [REST APIs]
+    databases: [Google BigQuery, Amazon Redshift]
+    data: []
+    cloud: [Amazon Bedrock, Amazon Lex, AWS Lambda]
+    ops: [Git/GitHub/GitLab, CI/CD]
+    languages: [Python, VBA, SQL]
+    domains: []
+    other: [SAP Integration, SAP BW, SAP SAC, Excel/Macros/Dashboards, Agile Methodology]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8986760'
+  extracted_at: '2026-04-22T12:26:24.127756'

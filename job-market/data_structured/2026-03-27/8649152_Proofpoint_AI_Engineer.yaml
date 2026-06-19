@@ -1,0 +1,52 @@
+company:
+  name: Proofpoint
+  stage: Public
+  focus: |-
+    Human-centric cybersecurity protecting email, cloud, and
+    collaboration tools
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work building and
+      deploying AI systems - specifically developing transformer-
+      based models, fine-tuning, implementing RAG/retrieval
+      approaches, and prompt engineering for text classification.
+      The engineer will work directly on model development,
+      experimentation, and production deployment, not just
+      supporting infrastructure.
+  responsibilities:
+  - Develop and deploy transformer-based models for classification tasks using pre-trained
+    models, fine-tuning, and embedding-based retrieval
+  - Evaluate and improve model performance for low true-positive classification problems
+  - Implement prompt-based classification techniques and vector-based retrieval approaches
+  - Design and execute experiments to measure model efficacy while balancing computational
+    cost
+  - Collaborate with cross-functional teams to translate product requirements into
+    AI/ML solutions
+  - Conduct build vs. buy evaluations by researching and testing AI/ML technologies
+  - Ensure AI solutions are scalable, secure, and aligned with enterprise best practices
+  - Stay current with advancements in transformers, LLMs, and AI-driven text classification
+  use_cases:
+  - Classification of digital communications for regulated industries
+  - Email and cloud communication security analysis
+  - Threat detection and data loss prevention
+  - AI workflow protection and monitoring
+  - Text classification for cybersecurity applications
+  skills:
+    genai: [prompt engineering, vector-based retrieval, embedding models, LLMs]
+    ml: [transformer models, Hugging Face Transformers, TensorFlow, PyTorch, fine-tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: [cloud environments]
+    ops: [Linux, containers]
+    languages: [Java, Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8649152'
+  extracted_at: '2026-03-27T15:28:08.795294'

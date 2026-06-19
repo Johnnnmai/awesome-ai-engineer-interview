@@ -1,0 +1,56 @@
+company:
+  name: DeepSource
+  stage: null
+  focus: AI and machine learning solutions for enterprise
+position:
+  title: Senior Ai Engineer - Riyadh,KSA
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on building, deploying, and
+      optimizing AI/ML systems end-to-end, including LLM-powered
+      applications, RAG pipelines, agent-based systems, fine-
+      tuning foundation models, and MLOps pipelines. The candidate
+      works directly ON AI models and systems, making this an ai-
+      first role.
+  responsibilities:
+  - Design, develop, deploy, and maintain production-grade AI and ML systems end to
+    end
+  - Build and optimize LLM-powered applications including RAG pipelines, prompt workflows,
+    agent-based systems, and multimodal AI use cases
+  - Fine-tune, evaluate, and operationalize machine learning and foundation models
+    for enterprise use cases
+  - Build and manage MLOps pipelines covering training, evaluation, model registration,
+    deployment, monitoring, and retraining
+  - Implement CI/CD pipelines for ML and AI workflows with automated testing, release
+    management, and controlled deployments
+  - Architect scalable AI/ML platforms using modern compute, storage, orchestration,
+    monitoring, and search services
+  - Build and maintain automated data pipelines, ETL/ELT workflows, and data processing
+    frameworks for AI/ML consumption
+  - Lead multiple AI initiatives in parallel, collaborating with product, engineering,
+    data, and business teams
+  use_cases:
+  - LLM-powered enterprise applications with RAG and agentic workflows
+  - Production ML model deployment, monitoring, and lifecycle management
+  - Multimodal AI use cases for enterprise customers
+  - Scalable inference and serving for variable workloads
+  - Automated data pipelines and ETL workflows for AI/ML consumption
+  skills:
+    genai: [LLMs, RAG, Agentic AI workflows, Prompt engineering, Function calling
+        / tool-calling, Orchestration frameworks]
+    ml: [Model fine-tuning, Foundation models]
+    web: []
+    databases: [Vector databases, Data lakes and data warehouses]
+    data: [ETL/ELT, Data pipelines, Data quality and governance]
+    cloud: [Cloud-native architecture]
+    ops: [MLOps, CI/CD, Model monitoring, Docker, Kubernetes, Infrastructure as Code,
+      MLflow]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8959601'
+  extracted_at: '2026-04-22T13:05:57.959514'

@@ -1,0 +1,52 @@
+company:
+  name: Thermo Fisher Scientific
+  stage: Public
+  focus: |-
+    Clinical trial services and digital solutions for
+    pharmaceutical/biotech organizations
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing, building, deploying,
+      and optimizing AI/ML models including generative AI and
+      LLMs. The position requires hands-on work with LangChain,
+      OpenAI/LLM SDKs, model development, and building ML
+      pipelines for production deployment.
+  responsibilities:
+  - Design, develop, and deploy machine learning and generative AI models for predictive
+    analytics, NLP solutions, automation, and intelligent decision support
+  - Apply statistics, programming, data modeling, simulation, and advanced mathematics
+    to business problems
+  - Evaluate and optimize model performance using validation metrics and techniques
+  - Build reusable model pipelines, APIs, and components for scalable AI product deployment
+  - Preprocess, clean, transform, and integrate structured and unstructured datasets
+    from clinical and operational sources
+  - Build and maintain ETL/data workflows supporting ML and generative AI workloads
+  - Collaborate with software engineering and platform teams to integrate AI models
+    into production systems with monitoring and observability
+  - Stay current on emerging AI and ML technologies and support internal digital and
+    AI upskilling
+  use_cases:
+  - Predictive analytics for clinical research operations
+  - Text/NLP solutions for clinical trial data
+  - Automation of clinical development workflows
+  - Intelligent decision support for clinical research
+  - Data analysis and insights from clinical and operational sources
+  skills:
+    genai: [LangChain, LangGraph, OpenAI APIs, LLM SDKs, Prompt Engineering]
+    ml: [PyTorch, TensorFlow, Keras, scikit-learn]
+    web: []
+    databases: []
+    data: [Spark, Databricks, ETL, Pandas, NumPy, Jupyter]
+    cloud: [AWS, Azure, GCP, S3, Azure Blob Storage]
+    ops: [Git, GitHub, LLMOps]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8509577'
+  extracted_at: '2026-03-03T11:38:44.776483'

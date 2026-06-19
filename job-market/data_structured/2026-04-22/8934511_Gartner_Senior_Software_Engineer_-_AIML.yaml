@@ -1,0 +1,57 @@
+company:
+  name: Gartner
+  stage: Public
+  focus: |-
+    Research and advisory for enterprise technology and business
+    leaders
+position:
+  title: Senior Software Engineer - AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is clearly ai-first because the engineer will
+      directly build, deploy, and operationalize GenAI
+      applications (RAG pipelines, agentic workflows) and ML
+      features end-to-end, including fine-tuning/hosting LLMs,
+      designing retrieval systems, and managing inference
+      optimization. The hands-on work with models, embeddings, and
+      LLM APIs confirms direct AI system building.
+  responsibilities:
+  - 'Lead the design and delivery of ML features end-to-end: problem framing, data
+    prep, modeling, evaluation, deployment, and monitoring'
+  - Architect and ship GenAI applications including RAG pipelines, agentic workflows,
+    and structured outputs using LLMs from OpenAI, Anthropic, and open-source models
+  - Own retrieval systems including embeddings, chunking strategies, hybrid search,
+    re-ranking, and relevance tuning at scale
+  - Design and maintain data pipelines (batch and streaming) that feed ML and GenAI
+    workloads including ingestion, transformation, and feature engineering
+  - Operationalize models through containerization, CI/CD, inference optimization,
+    cost/latency tuning, and drift/quality monitoring
+  - Work with open-source frameworks and create new packages
+  - Create robust backend systems for massive scalability and high performance
+  - Build and ship innovative products as part of the Innovation Team focused on R&D
+    and new growth products
+  use_cases:
+  - RAG pipelines for enterprise knowledge retrieval and search
+  - Agentic AI workflows for automated task execution
+  - ML-powered features for Gartner's client-facing products
+  - Scalable retrieval and relevance systems for enterprise data
+  - Innovation R&D for new growth products and market solutions
+  skills:
+    genai: [RAG, LangChain, agentic AI frameworks, prompt engineering, fine-tuning
+        LLMs, OpenAI API, Anthropic API, embeddings, structured outputs]
+    ml: [PyTorch, TensorFlow, 'classical ML (regression, tree-based methods, gradient
+        boosting)', 'deep learning (CNNs, RNNs, Transformers)']
+    web: []
+    databases: ['vector stores (FAISS, Pinecone, Milvus, Weaviate)', OpenSearch]
+    data: [Spark, data pipelines (batch and streaming), feature engineering]
+    cloud: [AWS, SageMaker, Bedrock, Lambda, ECS/EKS, S3, EMR, GCP, Azure]
+    ops: [Docker, CI/CD, containerization, inference optimization, model monitoring]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8934511'
+  extracted_at: '2026-04-22T14:01:13.839747'

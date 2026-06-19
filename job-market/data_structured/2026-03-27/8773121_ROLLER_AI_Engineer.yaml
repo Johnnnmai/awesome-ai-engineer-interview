@@ -1,0 +1,50 @@
+company:
+  name: ROLLER
+  stage: Growth (300+ employees, global presence)
+  focus: |-
+    SaaS platform for leisure and attractions industry -
+    ticketing, POS, memberships
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is building and deploying GenAI platforms, RAG
+      systems, and AI pipelines directly. The engineer will work
+      hands-on with LLMs, vector databases, and agentic frameworks
+      (LangGraph, LangChain) to create production AI systems.
+  responsibilities:
+  - Develop Enterprise GenAI platform and services for various business verticals
+    using Python and LangChain
+  - Design and implement RAG systems using vector databases and LLMs
+  - Build scalable AI pipelines for ingestion, embedding, retrieval, and generation
+    workflows
+  - Integrate LLMs with enterprise data sources and APIs
+  - Implement LLM evaluation frameworks to measure model performance and response
+    quality
+  - Establish AI governance and guardrails practices including safety checks and monitoring
+  - Optimize prompt engineering strategies and model interactions for accuracy and
+    performance
+  - Implement observability for AI systems and build AI usage dashboards
+  use_cases:
+  - Enterprise GenAI platform for multiple business verticals
+  - Intelligent automation systems for leisure and attractions industry
+  - AI-powered ticketing and point-of-sale operations
+  - Customer support and service automation
+  - Business operations automation and optimization
+  skills:
+    genai: [LangChain, LangGraph, RAG, Prompt Engineering, LLM Evaluation, Voice AI]
+    ml: [LLM Fine-tuning]
+    web: []
+    databases: [Vector Databases, Pinecone, Weaviate, OpenSearch]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [AI Governance, n8n]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8773121'
+  extracted_at: '2026-03-27T14:47:08.806169'

@@ -1,0 +1,55 @@
+company:
+  name: Nagarro
+  stage: null
+  focus: |-
+    Digital product engineering company building products,
+    services, and experiences at scale
+position:
+  title: Senior Staff Engineer, Generative AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work implementing RAG
+      patterns, fine-tuning LLMs, prompt engineering, and
+      deploying generative AI solutions. The position requires
+      deep expertise in LLM architectures and proven experience
+      building GenAI applications, clearly placing it in the ai-
+      first category.
+  responsibilities:
+  - Understand client business use cases and technical requirements and convert them
+    into technical designs
+  - Define guidelines and benchmarks for non-functional requirements during project
+    implementation
+  - Write and review design documents explaining overall architecture, framework,
+    and high-level design
+  - Develop and design overall solutions for defined functional and non-functional
+    requirements
+  - Review architecture and design for extensibility, scalability, security, and best
+    practices
+  - Carry out POCs to ensure suggested designs and technologies meet requirements
+  - Resolve issues through systematic root cause analysis and justify technical decisions
+  - Map technical decisions to requirements and translate them to developers
+  use_cases:
+  - Generative AI application development
+  - RAG implementation for enterprise use cases
+  - LLM fine-tuning and distillation for custom solutions
+  - Cloud-based AI/ML solution deployment
+  - Client-facing AI solution architecture
+  skills:
+    genai: [GPT, Llama, Claude, Gemini, Qwen, Mistral, BERT, Transformers, Prompt
+        Engineering, RAG, LangChain, LlamaIndex, LangGraph, LangSmith]
+    ml: [Hugging Face Transformers, Scikit-learn, PyTorch, TensorFlow, Fine-tuning,
+      Distillation, BLEU, ROUGE, Perplexity, Semantic Similarity]
+    web: []
+    databases: [Weaviate, Neo4j]
+    data: []
+    cloud: [Azure Machine Learning Studio, AI Foundry]
+    ops: [MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8584900'
+  extracted_at: '2026-03-03T11:57:04.878400'

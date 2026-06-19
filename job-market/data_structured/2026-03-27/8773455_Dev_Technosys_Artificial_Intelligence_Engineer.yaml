@@ -1,0 +1,42 @@
+company:
+  name: Dev Technosys
+  stage: unknown
+  focus: AI development services and software solutions
+position:
+  title: Artificial Intelligence Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly building, developing, and
+      deploying AI/ML models and NLP applications using
+      TensorFlow/PyTorch. Core responsibilities include
+      implementing machine learning models and optimizing AI
+      systems, which constitutes hands-on work with AI systems
+      rather than support functions.
+  responsibilities:
+  - Develop and implement AI and machine learning models
+  - Analyze large datasets to extract meaningful insights
+  - Build and optimize NLP-based applications
+  - Collaborate with cross-functional teams to deliver scalable solutions
+  - Maintain and improve existing AI systems
+  use_cases:
+  - Business process automation
+  - Natural language processing applications
+  - Data-driven insights and analytics
+  - Intelligent systems for enhanced user experiences
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, Machine Learning Algorithms, Model Training, NLP]
+    web: [APIs]
+    databases: []
+    data: [Data Analysis]
+    cloud: [Cloud Platforms]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8773455'
+  extracted_at: '2026-03-27T14:33:54.719947'

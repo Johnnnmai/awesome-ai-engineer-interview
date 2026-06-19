@@ -1,0 +1,206 @@
+job_id: 8902912
+title: AI Engineer
+company: G-Research
+location: London, GBR
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Docker
+  - Fastapi
+  - Kubernetes
+  - Langchain
+  - Langgraph
+  - Milvus
+  - Pgvector
+  - Pinecone
+  - Pydantic Ai
+  - Python
+company_size: 1,039 Employees
+description: |
+  We tackle the most complex problems in quantitative finance
+  by bringing scientific clarity to financial complexity.
+  
+  From our London HQ, we unite world-class researchers and
+  engineers in an environment that values deep exploration and
+  methodical execution - because the best ideas take time to
+  evolve.  Together we’re building a world-class platform to
+  amplify our teams’ most powerful ideas.
+  
+  As part of our engineering team, you’ll shape the platforms
+  and tools that drive high-impact research - designing
+  systems that scale, accelerate discovery and support
+  innovation across the firm.
+  
+  Take the next step in your career.
+  
+  The role
+  
+  The Applied AI team is a centralised engineering team within
+  the AI Engineering Department. We build, adopt, and maintain
+  the abstracted agentic tools, platforms, and SDKs that
+  enable intelligent systems across G‑Research.
+  
+  We don't just build the platform — we use it ourselves to
+  deliver high‑impact solutions, proving the patterns work and
+  feeding real‑world lessons back into the tooling.
+  
+  As an AI Engineer you will work across four dimensions:
+  
+  - Platform & SDKs — Build and maintain G‑Research's agentic
+    platform, evaluation tooling, and Python SDKs that
+    abstract away infrastructure complexity so teams across
+    the firm can build agents quickly and safely.
+  - Solutions — Use the platform to deliver production agentic
+    workflows for research and corporate stakeholders,
+    validating the platform through real use cases.
+  - Ways of working — Define and champion best practices for
+    building agents at G‑Research: evaluation standards,
+    development patterns, testing approaches, and reference
+    architectures. Lead by example.
+  - Embedded delivery — When needed, deploy into specific
+    business teams for weeks at a time to deeply understand
+    their domain, solve critical problems, and uncover new AI
+    opportunities first-hand.
+  
+  Key responsibilities of the role include:
+  
+  - Build and evolve the agentic AI platform — develop the core
+    abstractions, orchestration patterns, and infrastructure
+    that enable agent development across G‑Research.
+  - Create and maintain Python SDKs with G‑Research-specific
+    abstractions that simplify common patterns: agent
+    scaffolding, tool integration, context management,
+    evaluation, and deployment.
+  - Adopt and integrate best-in-class open-source tooling
+    (LangGraph, Pydantic AI, and emerging frameworks),
+    wrapping them in firm-specific abstractions rather than
+    reinventing the wheel.
+  - Define ways of working for agent development — establish
+    evaluation standards, development patterns, testing
+    approaches, and reference architectures that teams across
+    the firm follow.
+  - Lead by example on agentic evaluations — build and operate
+    evaluation pipelines (e.g. LangSmith, Langfuse) that set
+    the standard for how agents are measured, monitored, and
+    improved at G‑Research.
+  - Deliver production agentic solutions for internal
+    stakeholders, using the platform to solve real problems
+    and validating that the abstractions work under real-world
+    conditions.
+  - Embed with business teams across the firm — partner directly
+    with research and corporate teams to solve critical
+    problems and identify new AI opportunities. This may
+    involve deploying into a specific team for several weeks
+    to deeply understand their domain and deliver tailored
+    solutions.
+  - Apply context engineering techniques to optimise how agents
+    retrieve, structure, and utilise information — and codify
+    those techniques into the platform and SDKs.
+  - Where needed, fine‑tune and optimise models
+    (parameter‑efficient or full‑weight) to meet
+    domain‑specific accuracy, latency, and cost targets.
+  - Integrate with existing stacks (C#, C++, JVM) ensuring clear
+    APIs, monitoring, and CI/CD pipelines.
+  - Upskill engineers across the firm through pair‑programming,
+    workshops, SDK documentation, and written playbooks on
+    agent development best practices.
+  - Stay on top of the LLM ecosystem (tooling, evaluation
+    techniques, open‑source releases) and feed lessons learned
+    back into the platform and wider AI Engineering
+    Department.
+  
+  Who are we looking for?
+  
+  We value pragmatic engineers who combine deep technical
+  ability with strong product intuition and impeccable
+  stakeholder communication. You should enjoy moving between
+  green‑field proofs‑of‑concept and hardening them into
+  resilient, audited services.
+  
+  Essential
+  
+  AI Engineering
+  
+  - Hands‑on experience building LLM applications with
+    LangGraph/LangChain, Pydantic AI, FastAPI, MCPs, and RAG
+    (pgvector, Pinecone, Qdrant, Milvus, etc.).
+  - Strong understanding of context engineering — retrieval
+    strategies, context window management, dynamic prompt
+    construction, and information routing.
+  - Experience designing complex agentic workflows including
+    multi-step planning, tool use, self-correction, and multi-
+    agent patterns.
+  - Solid understanding of RAG patterns, prompt engineering, and
+    safe deployment considerations.
+  
+  Evaluation & Observability
+  
+  - Experience with agentic evaluation frameworks (e.g.
+    LangSmith, Langfuse) for measuring accuracy, latency,
+    cost, and detecting behavioural regressions.
+  
+  Platform & Software Engineering
+  
+  - Proven expertise in Python for production systems, with
+    fluency in modern async patterns, typing, and testing
+    frameworks.
+  - Experience building platform-level software — reusable APIs,
+    shared libraries, SDKs, extensible architectures — not
+    just one-off solutions.
+  - Comfort integrating with heterogeneous tech stacks
+    (REST/gRPC, message buses, SQL/NoSQL stores) and
+    automating deployment with Git, Docker, and Kubernetes.
+  
+  Communication
+  
+  - Ability to translate ambiguous requirements into clear
+    technical plans and to communicate trade‑offs to both
+    technical and non‑technical audiences.
+  
+  Desirable
+  
+  - Exposure to enterprise security, data‑privacy, and
+    model‑governance frameworks.
+  - Demonstrable skill fine‑tuning or parameter‑efficiently
+    adapting foundation models (LoRA, QLoRA, DPO, etc.) and
+    evaluating their performance.
+  - Experience running low‑latency inference on‑prem GPU
+    clusters or hybrid cloud environments.
+  - Knowledge of experiment‑tracking, offline evaluation, and
+    A/B‑testing pipelines for LLM applications.
+  - Experience building chat or agent UIs for end-user
+    interaction with agentic systems.
+  - Contributions to open‑source AI‑engineering projects or
+    publication of technical blogs/talks.
+  
+  Why join us?
+  
+  - Highly competitive compensation plus annual discretionary
+    bonus
+  - Lunch provided (via Just Eat for Business) and dedicated
+    barista bar
+  - 30 days annual leave
+  - 9% company pension contributions
+  - Informal dress code and excellent work/life balance
+  - Comprehensive healthcare and life assurance
+  - Cycle-to-work scheme
+  - Monthly company events
+  
+  G-Research is committed to cultivating and preserving an
+  inclusive work environment. We are an ideas-driven business
+  and we place great value on diversity of experience and
+  opinions.
+  
+  We want to ensure that applicants receive a recruitment
+  experience that enables them to perform at their best. If
+  you have a disability or special need that requires
+  accommodation please let us know in the relevant section
+industries:
+  - Big Data
+  - Fintech
+  - Information Technology
+  - Machine Learning
+  - Financial Services
+posted_date: 2026-03-30
+url: "https://builtin.com/job/ai-engineer/8902912"
+source: Built In

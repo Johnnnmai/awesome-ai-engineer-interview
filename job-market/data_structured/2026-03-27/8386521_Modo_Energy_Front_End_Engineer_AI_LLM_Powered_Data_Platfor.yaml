@@ -1,0 +1,50 @@
+company:
+  name: Modo Energy
+  stage: Series B
+  focus: |-
+    Data platform for energy market benchmarking, forecasting,
+    and valuation tools
+position:
+  title: Front End Engineer – AI & LLM Powered Data Platforms
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a frontend engineering role focused on building UI
+      architecture and components. While the platform displays
+      outputs from AI/ML systems (forecasting models, predictive
+      models), the role itself involves creating interfaces to
+      visualize this data, not building, training, or deploying
+      the AI models themselves.
+  responsibilities:
+  - Lead technical direction for frontend monorepo including state management, routing,
+    and module boundaries within Next.js and TypeScript
+  - Design and develop internal UI component library built on MUI with reusable, strictly
+    typed abstractions
+  - Build and improve high-performance, low-latency interfaces with performance profiling
+    and optimization
+  - Set architectural patterns and coding standards governing development including
+    AI-assisted contributions
+  - Act as primary technical authority for frontend guiding team on UI best practices
+    and AI coding tools
+  use_cases:
+  - Energy market benchmarking for investors, developers, and operators
+  - Forecasting tools for battery and energy asset valuation
+  - Real-time data exploration and analysis of energy markets
+  - Interactive interfaces for complex predictive and forecasting models
+  - Decision support for energy infrastructure financing and trading
+  skills:
+    genai: []
+    ml: []
+    web: [React, Next.js, Material UI]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Git, Docker, CI/CD]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Jest, Cypress, Playwright, Turborepo, Yarn Workspaces]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8386521'
+  extracted_at: '2026-03-27T13:55:21.665152'

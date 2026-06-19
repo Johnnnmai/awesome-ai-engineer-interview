@@ -1,0 +1,176 @@
+job_id: 8905037
+title: AI Infrastructure Engineer
+company: Percepta AI
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Azure
+  - Bash
+  - Docker
+  - GCP
+  - Github Actions
+  - Gitlab Ci
+  - Grafana
+  - Kubernetes
+  - Prometheus
+company_size: 3 Employees
+description: |
+  Who we are
+  
+  Percepta's mission is to transform critical institutions
+  with applied AI. We care that industries that power the
+  world (healthcare, manufacturing, energy) benefit from
+  frontier technology.
+  
+  We collaborate with industry-leading customers to drive AI
+  transformation. We bring:
+  
+  - Forward-deployed expertise in engineering, product, and
+    research
+  - Mosaic, our in-house toolkit for rapidly deploying agentic
+    architectures
+  - Strategic partnerships with Anthropic, McKinsey, AWS, and
+    the General Catalyst portfolio
+  
+  Our team is a fast-growing group of Applied AI Engineers,
+  Embedded Product Managers, and Researchers motivated by
+  getting frontier AI into the places that actually run the
+  world.
+  
+  Percepta is a direct partnership with General Catalyst.
+  
+  About the role
+  
+  We're hiring an AI Infrastructure Engineer to own the
+  infrastructure, deployment, and operational reliability that
+  powers Percepta's AI systems, including the autonomous
+  agents at the core of what we ship.
+  
+  Part of the work is hardening what exists: tightening our
+  Terraform footprint, strengthening deployment pipelines,
+  bringing more rigor to how we manage infrastructure across
+  regions and providers. Part of it is building what's
+  missing. And part of it is genuinely new territory, figuring
+  out what SRE means when the systems you're operating make
+  autonomous decisions.
+  
+  The infrastructure patterns for the agentic systems of the
+  future don't exist yet. You'll help define them.
+  
+  Why this is different
+  
+  - You're deploying autonomous systems. The infrastructure
+    contract changes when your workloads have agency.
+  - Observability means understanding why an agent made a
+    decision, not just whether a pod is healthy.
+  - The gap between research and production is real here. Our
+    teams move optimization algorithms and AI systems from
+    research environments into production, and you'll be part
+    of that handoff. MLOps experience isn't required, but
+    you'll be closer to that boundary than most infra roles.
+  - Small team. Real ownership. You're making foundational
+    decisions, not inheriting someone else's.
+  
+  What you'll do
+  
+  - Define infrastructure patterns for multi-agent systems that
+    need to be observable, controllable, and recoverable in
+    ways traditional apps don't require
+  - Own and evolve our IaC stack: Terraform and Kubernetes
+    across AWS, GCP, and Azure
+  - Build observability primitives for agentic workflows,
+    tracing agent decisions and execution paths, not just
+    service latency and pod health
+  - Design and maintain CI/CD pipelines that give teams fast,
+    trustworthy feedback from commit to production
+  - Build operational foundations: monitoring, alerting,
+    incident response, and the new patterns that emerge when
+    AI systems are participants in that response
+  - Work across engineering teams to meet the reliability and
+    compliance requirements of the institutions we serve (SOC
+    2, HIPAA, regulated environments in healthcare and energy)
+  
+  What we're looking for
+  
+  - 5+ years building and operating production infrastructure in
+    DevOps or SRE roles
+  - The kind of engineer who sees a manual process and can't
+    rest until it's automated well, not just scripted
+  - Strong hands-on Terraform experience
+  - Deep experience with at least 1 major cloud provider (AWS,
+    GCP, or Azure): networking, IAM, cost management, the
+    operational realities of production workloads
+  - Solid Docker and Kubernetes experience in production. We run
+    managed clusters across all 3 major clouds; this is a core
+    part of the role
+  - Experience designing and maintaining CI/CD pipelines (GitHub
+    Actions, GitLab CI, or similar)
+  - Scripting proficiency in Python, Bash, or similar
+  - High agency: you don't wait for a ticket to fix what's
+    broken, but you communicate, collaborate, and bring the
+    team along
+  - Genuine curiosity about AI systems, not just the
+    infrastructure running them. You want to understand what
+    you're operating
+  - You find it interesting (not alarming) that some systems
+    you'll operate will be making decisions on their own
+  
+  Nice to have
+  
+  - Multi-region and multi-cloud experience across 2+ providers
+  - Experience with single-tenant or on-prem deployments
+    alongside multi-tenant SaaS
+  - Familiarity with GitOps patterns and progressive delivery
+  - Familiarity with the Grafana stack (Prometheus, Grafana,
+    Loki) or equivalent
+  - Experience with compliance frameworks (HIPAA, SOC 2) and how
+    they shape infrastructure decisions in regulated
+    environments
+  - Background supporting ML or research workflows moving to
+    production: model deployment, pipeline orchestration, or
+    similar
+  - You've thought about what observability means for non-
+    deterministic systems and have opinions about it
+  
+  The infrastructure patterns for autonomous AI systems are
+  still being written. If you want to be one of the people
+  writing them, let's talk.
+  
+  Our Values
+  
+  Dream bigger: We have the unique privilege of taking on the
+  most ambitious problems and we should chase them with
+  optimism, responsibility, and genuine belief that we can
+  make it happen. We have to embrace the hard things when no
+  one else will. Heart in the game: What we're doing matters
+  and we have to give a shit. Internally, that means fixing
+  badness when you find it. Externally, it means honoring the
+  trust our customers place in us with their most important
+  problems. This isn’t a 9-5, nor is it a job we’re ever going
+  to monitor your hours. We promise to put work in front of
+  you that matters and in return, we ask you to promise to
+  care. Win for the customer: Everyone is an engineer and the
+  job of an engineer is to deliver outcomes, not outputs.
+  Everything we do—the products we build, the partnerships we
+  launch, the strategy we set—exists to make our customers
+  successful. Delivery is the strategy. Make the call:
+  Organizations are only as strong as the pace at which they
+  make decisions. Everyone at Percepta should feel empowered
+  to commit and shape the ambiguity in front of them. But
+  "make the call" cuts both ways: make the decision and make
+  the phone call. High-agency decision-making only works with
+  high-bandwidth communication and we commit to never operate
+  in silos. Intensity with kindness: We believe in excellence
+  in execution, candor in feedback, ruthlessness in
+  prioritization, and survivalist urgency. We also believe you
+  don't need to be an asshole to deliver on any of this. The
+  trust built through shared kindness and vulnerability is
+  what makes the intensity sustainable.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-03-30
+url: "https://builtin.com/job/ai-infrastructure-engineer/8905037"
+source: Built In

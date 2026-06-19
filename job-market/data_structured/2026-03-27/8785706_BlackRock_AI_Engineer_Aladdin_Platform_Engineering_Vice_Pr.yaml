@@ -1,0 +1,57 @@
+company:
+  name: BlackRock
+  stage: Public
+  focus: |-
+    Global investment management and financial technology
+    platform
+position:
+  title: AI Engineer, Aladdin Platform Engineering, Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and deploying AI
+      systems including LLMs, RAG, fine-tuning, and model
+      optimization. The position focuses on designing scalable AI
+      architecture and implementing AI platform capabilities, not
+      just supporting infrastructure for others' AI work.
+  responsibilities:
+  - Design scalable AI architecture leveraging LLMs, RAG, fine-tuning, and model optimization
+    techniques
+  - Establish evaluation frameworks to measure model quality, hallucination control,
+    and precision/recall trade-offs
+  - Lead the design and implementation of scalable AI platform capabilities used across
+    the software development lifecycle
+  - Partner with product and security teams to ensure AI solutions are safe, compliant,
+    and production-ready
+  - Drive buy vs. build decisions, evaluating third-party solutions alongside internal
+    capabilities
+  - Lead and develop a team of engineers and senior ICs, providing coaching and technical
+    mentorship
+  - Coordinate across multiple engineering teams and time zones to deliver shared
+    outcomes
+  - Translate complex AI capabilities into clear business values and communicate to
+    senior stakeholders
+  use_cases:
+  - Developer productivity and technologist enablement through AI-powered tools
+  - AI-assisted software development lifecycle (building, reviewing, testing, modernizing
+    code)
+  - Large-scale codebase modernization and platform services
+  - Enterprise AI governance and compliance for financial technology
+  - Production-grade AI platform services for thousands of developers across multiple
+    business domains
+  skills:
+    genai: [LLMs, RAG, prompt engineering, fine-tuning, model optimization]
+    ml: [ML evaluation frameworks]
+    web: [API design]
+    databases: []
+    data: []
+    cloud: [cloud environments]
+    ops: [distributed systems, Agile development]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8785706'
+  extracted_at: '2026-03-27T14:09:46.344816'

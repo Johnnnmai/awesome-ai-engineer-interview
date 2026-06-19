@@ -1,0 +1,53 @@
+company:
+  name: Writer
+  stage: Series B (valued at $1.9B)
+  focus: |-
+    Enterprise generative AI platform for building and deploying
+    AI agents
+position:
+  title: AI deployment engineer (US)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI-
+      powered solutions using Writer's platform and enterprise-
+      grade LLMs. The engineer architects, designs prompts, and
+      implements tailored AI applications and integrations
+      grounded in customer data and powered by LLMs — hands-on
+      work deploying generative AI solutions to enterprise
+      customers.
+  responsibilities:
+  - Partner with enterprise customers to identify strategic AI use cases and own end-to-end
+    implementation of tailored solutions
+  - Architect and deliver custom applications, templates, and integrations leveraging
+    Writer's platform, APIs, and Knowledge Graph capabilities
+  - Translate technical concepts and platform capabilities into clear solution recommendations,
+    guiding customers through the generative AI landscape
+  - Collaborate with Product and Engineering teams, providing customer feedback that
+    influences the product roadmap
+  - Develop scalable processes, documentation, and efficient workflows for technical
+    integrations to reduce customer time-to-value
+  - Champion successful adoption and expansion of Writer's AI solutions within customer
+    accounts
+  use_cases:
+  - Enterprise AI agent deployment and orchestration
+  - Custom AI-powered application development for Fortune 500 companies
+  - Knowledge Graph-grounded generative AI solutions for business challenges
+  - Prompt engineering and LLM-based solution design for enterprise workflows
+  - AI-driven digital transformation across large enterprises
+  skills:
+    genai: [Prompt engineering, LLMs, RAG]
+    ml: []
+    web: [APIs, REST APIs]
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: [Enterprise AI platforms]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Solution architecture]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9034073'
+  extracted_at: '2026-04-22T13:11:23.690939'

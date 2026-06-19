@@ -1,0 +1,58 @@
+company:
+  name: Allica Bank
+  stage: Growth stage (fastest growing UK fintech)
+  focus: |-
+    Digital bank serving established SMEs with tailored
+    financial products
+position:
+  title: Senior Fullstack Engineer - AI (GTM)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying LLM-powered
+      agentic systems, RAG implementations, fine-tuning models,
+      and working with agent frameworks like LangChain. The
+      engineer will own end-to-end delivery of AI solutions from
+      idea to production, directly working ON AI systems rather
+      than supporting infrastructure.
+  responsibilities:
+  - Design and build agentic LLM systems that automate manual processes and transform
+    customer interactions across the growth funnel
+  - Lead end-to-end development of AI tools and agents using frameworks like LangChain
+    and Semantic Kernel, including fine-tuning and optimizing models
+  - Deploy AI models to production with proper versioning and continuous monitoring
+    using MLflow, FastAPI, and Kubernetes
+  - Identify high-impact use cases with cross-functional teams and create AI-driven
+    solutions for marketing, onboarding, and customer lifecycle
+  - Rapidly prototype AI applications, run experiments, and iterate based on usage
+    data and feedback
+  - Design and implement evaluation frameworks to test model performance, quality,
+    and safety, comparing vendor and open-source models
+  - Integrate AI solutions into operational systems including CRM platforms like HubSpot
+    and advertising platforms
+  - Apply responsible AI practices ensuring explainability, compliance, and ethical
+    use of LLMs in production
+  use_cases:
+  - Intelligent automation of manual processes in marketing and customer operations
+  - Customer experience transformation through smarter interfaces and proactive service
+  - AI-powered marketing automation and advertising platform optimization
+  - CRM enhancement and automation within HubSpot
+  - Customer onboarding and lifecycle journey optimization
+  - Growth funnel automation and customer acquisition improvement
+  skills:
+    genai: [LangChain, Semantic Kernel, OpenAI API, Claude API, Prompt Engineering,
+      RAG, Agent Frameworks, LLM Fine-tuning, Embeddings]
+    ml: [Model Evaluation]
+    web: [FastAPI]
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [MLflow, Kubernetes]
+    languages: [Python, Kotlin]
+    domains: []
+    other: [HubSpot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7243165'
+  extracted_at: '2026-03-03T12:49:31.203194'

@@ -1,0 +1,205 @@
+job_id: 8832980
+title: Staff Software Engineer - AI Applications - Remote
+company: Vanilla
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Anthropic
+  - Go
+  - JavaScript
+  - Langchain
+  - Langgraph
+  - Openai
+  - Python
+  - Rust
+description: |
+  About Us
+  
+  We’re a startup with big ambitions: to make estate planning
+  modern, visual, and intelligent. Vanilla is the first AI-
+  powered estate advisory platform, built by advisors,
+  planners, and attorneys to transform how wealth is
+  transferred across generations. Our technology unifies
+  scenario modeling, client visualization, and document
+  creation into one seamless, digital experience.
+  
+  Our team brings together diverse subject matter expertise
+  across estate planning, wealth management, and scaling SaaS
+  startups. We’re distributed across the U.S., with a mix of
+  fully remote and hybrid roles, and we embrace flexibility
+  while staying closely connected. At Vanilla, you’ll join
+  curious builders and problem-solvers who thrive on speed,
+  autonomy, and impact. Here, you won’t just join a company,
+  you’ll help create it. If you’re excited to tackle hard
+  problems, move quickly, and see your work shape both an
+  industry and a growing startup, we’d love to meet you.
+  
+  Job Summary
+  
+  Vanilla is seeking a Staff Software Engineer - AI
+  Applications with a strong background in software
+  development, data science, machine learning, and artificial
+  intelligence. You will be utilizing existing Large Language
+  Models to build applied AI applications focused on producing
+  high accuracy rates. Your software engineering skills will
+  come into play here as you’ll take ownership in constructing
+  services to ingest structured results. If you’re a proactive
+  problem-solver who lives to disrupt archaic processes with
+  cutting-edge technology, this is the job for you.
+  
+  As a Staff Software Engineer, you will work collaboratively
+  with engineering and subject matter experts to find
+  innovative and disruptive uses of AI to streamline (or
+  replace) workflows.
+  
+  Responsibilities
+  
+  - Machine learning and AI: You are passionate and
+    knowledgeable about the current and future state of AI.
+    - You will be utilizing existing Large Language Models to
+      build applied AI applications focused on producing high
+      accuracy rates. Your software engineer skills will come
+      into play here as you'll take ownership in constructing
+      services to ingest results.
+    - You will work with product, and engineering teams and build
+      models/services that can ingest data, extract key
+      information and surface insights.
+    - You can build tooling to support model training, evaluation,
+      inference serving, monitoring and alerting.
+    - You want to use the latest ML frameworks and open source
+      tools to develop new model training pipelines.
+  - Hands On Coding: You have direct experience with software
+    engineering and are familiar with modern languages like
+    Python, Javascript, Go, Rust
+    - You have experience building microservices and understand
+      the tradeoffs of the approach.
+  - Data handling: You can identify, extract, transform, and
+    load data from disparate sources into a centralized
+    system. You are able to normalize, cleanse, and validate
+    this data.
+  - Database management: You are able to design and implement
+    schemas, optimize queries, and manage database
+    performance.
+  - Project management: You must be an effective self-organizer:
+    prioritize tasks, manage resources, and communicate
+    effectively with non-technical stakeholders.
+  - Collaboration: We are one team. You must be able to
+    collaborate with engineers, subject matter experts,
+    product managers, and designers to ensure the success of
+    projects.
+  
+  Qualifications
+  
+  - Bachelor's degree in Computer Science, Engineering, a
+    related field, or equivalent practical experience.
+  - 8+ years relevant work experience.
+  - Proficiency in modern programming languages such as Python
+    or Javascript.
+  - Experience with OpenAI, Anthropic, or similar for both chat
+    and API interfaces.
+  - Deep understanding of machine learning and AI technologies,
+    including the ability to design, train, and implement
+    machine learning models and use natural language
+    processing techniques for automation.
+  - Production experience with scalability and best-practices of
+    AI infrastructure.
+  - Must have experience with AI observability, monitoring, and
+    signaling using tools like LangChain or LangGraph.
+  - Hands-on experience using RAG and chunking to tune LLM
+    performance.
+  - Experienced with LLM orchestration tooling and decision
+    frameworks.
+  - Experience or exposure building agentic capabilities and
+    workflows.
+  - Experience or exposure to evaluation testing frameworks.
+  - Ability to effectively articulate technical challenges and
+    solutions.
+  - Deal well with ambiguous/undefined problems; ability to
+    think abstractly.
+  - Knowledge of professional software engineering practices &
+    best practices for the full software development life
+    cycle, including coding standards, code reviews, source
+    control management, build processes, testing, and
+    operations.
+  - Candidates must be legally authorized to work in the United
+    States without the need for sponsorship now or in the
+    future. Vanilla is unable to provide visa sponsorship at
+    this time.
+  
+  You Might Be a Great Fit If:
+  
+  - You have hands-on experience with AI and Large Language
+    Models (LLMs). You’ve worked with OpenAI, GPT models, or
+    other similar technologies and have integrated them into
+    real-world applications.
+  - You are a critically thinking software engineer. You have
+    built and maintained scalable microservices and understand
+    the tradeoffs of this architecture.
+  - You can build AI-powered applications with high accuracy.
+    You understand the challenges of AI implementation and
+    know how to optimize models, fine-tune them, and create
+    efficient pipelines for training, evaluation, and
+    deployment.
+  - You are a problem-solver and innovator. You love tackling
+    undefined, ambiguous problems and applying AI to disrupt
+    outdated processes. You’re excited about revolutionizing
+    estate planning with cutting-edge technology.
+  
+  You May Not Be a Great Fit If:
+  
+  - You are primarily a data scientist or ML researcher, rather
+    than a software engineer. While AI and machine learning
+    are key components of this role, we need a strong
+    application developer first. You should be comfortable
+    building production-ready software, integrating AI models
+    into applications, designing APIs, and working with
+    databases. If your experience is mostly in research, data
+    modeling, or experimentation without deploying AI-driven
+    applications, this may not be the right fit.
+  - You prefer working in highly structured, slow-moving
+    environments. At Vanilla, we move fast and iterate
+    quickly.
+  
+  The salary range for this role is $190,000 to $210,000. Our
+  compensation packages also include a performance based bonus
+  and equity. Compensation is based on a number of factors
+  including market location and may vary depending on job-
+  related knowledge, skills, and experience.
+  
+  Benefits:
+  
+  - Flexible paid time off policy and 10 company-wide paid
+    holidays
+  - Parental leave, 4 weeks for all full-time employees and up
+    to 12 weeks for birthing parents
+  - Medical, dental, and vision benefits coverage for employees
+    and their families
+  - 401K eligibility after one month of employment
+  - Free estate planning documents
+  - Budget for learning & development and home office setup
+  - Paid parking or transit for hybrid and in office employees
+  
+  Vanilla Technologies Inc. (dba "Vanilla") provides equal
+  employment opportunities to all employees and applicants for
+  employment and prohibits discrimination and harassment of
+  any type without regard to race, color, religion, age, sex,
+  national origin, disability status, genetics, protected
+  veteran status, sexual orientation, gender identity or
+  expression, or any other characteristic protected by
+  federal, state or local laws. This policy applies to all
+  terms and conditions of employment, including recruiting,
+  hiring, placement, promotion, termination, layoff, recall,
+  transfer, leaves of absence, compensation and training.
+  
+  Vanilla participates in E-Verify and will provide the
+  federal government with your Form I-9 information to confirm
+  that you are authorized to work in the U.S.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-03-21
+url: "https://www.builtinla.com/job/staff-software-engineer-ai-applications-remote/8832980"
+source: Built In

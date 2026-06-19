@@ -1,0 +1,221 @@
+job_id: 8881748
+title: Senior Software Quality Engineer (AI-Accelerated) - Jetpac
+company: Circles (circles.co)
+location: IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AI
+  - Automated Testing Systems
+  - Ci/Cd
+  - Python
+  - Test Frameworks
+company_size: 1,170 Employees
+description: |
+  Founded in 2014, Circles is a global technology company
+  reimagining the telco industry with its innovative SaaS
+  platform, empowering telco operators worldwide to
+  effortlessly launch innovative digital brands or refresh
+  existing ones, accelerating their transformation into
+  techcos.
+  
+  Today, Circles partners with leading telco operators across
+  multiple countries and continents, including KDDI
+  Corporation, Etisalat Group (e&), AT&T, and Telkomsel,
+  creating blueprints for future telco and digital experiences
+  enjoyed by millions of consumers globally.
+  
+  Besides its SaaS business, Circles operates three other
+  distinct businesses:
+  
+  - Circles.Life: A wholly-owned digital lifestyle telco brand
+    based in Singapore, Circles.Life is powered by Circles’
+    SaaS platform and pioneering go-to-market strategies. It
+    is the digital market leader in Singapore and has won
+    numerous awards for marketing, customer service, and
+    innovative product offerings beyond connectivity.
+  
+  - Circles Aspire: A global provider of Communications
+    Platform-as-a-Service (CPaaS) solutions. Its cloud-based
+    Experience Cloud platform enables enterprises, service
+    providers and developers to deliver and scale mobile,
+    messaging, IoT, and connectivity services worldwide.
+  
+  - Jetpac: Specializing in travel tech solutions, Jetpac
+    provides seamless eSIM roaming for over 200 destinations
+    and innovative travel lifestyle products, redefining
+    connectivity for digital travelers. Jetpac was awarded
+    Travel eSIM of the Year.
+  
+  Circles is backed by renowned global investors, including
+  Peak XV Partners (formerly Sequoia), Warburg Pincus,
+  Founders Fund, and EDBI (the investment arm of the Singapore
+  Economic Development Board), with a track record of backing
+  industry challengers.
+  
+  Senior Software Quality Engineer (AI-Accelerated)
+  
+  Company: Circles – Jetpac Type: Full‑time
+  
+  About Jetpac Jetpac, from Circles, is building a seamless
+  way for travelers to stay connected globally. We offer eSIMs
+  across 200+ destinations with a fast-growing consumer
+  platform spanning web, mobile, and partner channels
+  targeting the travel essentials segment.
+  
+  We operate as a high-velocity product team. Small teams,
+  fast decisions, and direct ownership. We ship continuously,
+  iterate quickly, and measure what matters.
+  
+  The Role
+  
+  We’ve reached meaningful scale and are rebuilding key parts
+  of the platform to support the next phase of growth. You’ll
+  work closely with engineers, product, design, and business
+  teams to deliver foundational capabilities that unlock
+  entire categories of product development.
+  
+  The way software is tested has fundamentally changed. Static
+  test cases and manual QA don’t scale in AI-assisted
+  development environments.
+  
+  This role focuses on building AI-accelerated testing systems
+  that generate, execute, and validate tests at speed.
+  
+  You’ll work across backend and platform systems to ensure
+  quality through:
+  
+  - AI assisted test generation
+  - fast and reliable execution
+  - pragmatic validation approaches
+  
+  This is not a traditional QA role. You are building systems
+  that ensure quality by design, not inspection.
+  
+  What You’ll Do
+  
+  Build and operate systems that make testing scalable, fast,
+  and largely automated across backend, web, and mobile.
+  
+  - Build AI-assisted test generation systems from APIs to user
+    flows (web + app)
+  - Design and maintain fast, parallel test execution pipelines
+    integrated into CI/CD
+  - Implement smart validation approaches beyond strict
+    assertions where needed
+  - Build and maintain end-to-end test coverage across critical
+    user journeys
+  - Generate high-quality synthetic test data and scenarios,
+    including multi-product flows
+  - Ensure tests are high-signal, low-flake, and easy for
+    developers to trust
+  - Improve coverage across frontend, backend, and app layers
+    without increasing manual effort
+  
+  Focus areas include:
+  
+  - Web and mobile app user flows (browse, cart, checkout,
+    payments)
+  - API and backend validation supporting these flows
+  - Multi-entity scenarios (bundles, rewards, pricing)
+  - Test execution performance and reliability
+  
+  Required Skills and Experience
+  
+  3–5 years of experience in software quality engineering,
+  SDET, or test infrastructure roles Strong programming skills
+  with experience building automated testing systems, not just
+  writing test cases
+  
+  Hands-on experience with using AI-assisted workflows for
+  test generation or automation, including:
+  
+  - Frontend and app testing (web and/or mobile)
+  - End-to-end and integration testing across real user journeys
+  - API and service-level validation
+  - Building or working with test frameworks and execution
+    pipelines
+  - Generating test cases, edge cases, and flows using
+    LLMs/tools in Python
+  - Reviewing, refining, and productionizing AI-generated tests
+  - Ensuring outputs are stable, repeatable, and high-signal
+  
+  Strong understanding of:
+  
+  - Testing distributed systems and multi-layer architectures
+  - Mocking, stubbing, and service isolation
+  - Test data setup and management
+  - Debugging failures across frontend, backend, and app layers
+  - Observability and debugging tools
+  - Performance or load testing basics
+  
+  Example Projects You’ll Work On
+  
+  - Build an AI-assisted system to generate test coverage for
+    Frontend applications, Mobile App, APIs and backend
+    services
+  - Design a fast, parallel test execution pipeline that scales
+    with product complexity
+  - Create validation layers for cart and checkout flows across
+    multiple product types
+  - Generate synthetic datasets to test edge cases in pricing,
+    rewards, and promotions
+  - Improve reliability and reduce flakiness across existing
+    automated test suites
+  
+  What Success Looks Like
+  
+  - Test coverage increases without proportional manual effort
+  - Test execution is fast, reliable, and trusted by engineers
+  - Bugs are caught early through strong automated validation
+  - Developers ship faster because testing is not a bottleneck
+  
+  Hiring Process
+  
+  - Technical Intro Conversation with CTO
+  - Live Practical Assignment (focused on test systems + AI
+    usage)
+  
+  Why Jetpac
+  
+  - High ownership, low bureaucracy
+  - Real product impact at global scale
+  - Fast-moving team with strong engineering culture
+  - Flexible work setup across global teams
+  
+  Circles is committed to a diverse and inclusive workplace.
+  We are an equal opportunity employer and do not discriminate
+  on the basis of race, national origin, gender, disability or
+  age.
+  
+  Data Protection and Privacy Statement
+  
+  By submitting an application for this position, you, as the
+  applicant, or your authorised representative(s), consent to
+  Circles’ Candidate Data Protection and Privacy Policy. You
+  also agree to the collection, use, and/or disclosure of your
+  personal data by us solely for recruitment purposes as
+  specified in the Policy. You acknowledge that you have read
+  and understood the Policy, are aware of your rights
+  regarding your personal data, and accept the terms relating
+  to international data transfers, where applicable. You
+  further understand that you may withdraw consent at any
+  time, which may affect our ability to consider your
+  application. In instances where your personal data or
+  application is submitted by a third party, it is understood
+  that such third party has been duly authorised by you to
+  disclose the relevant personal data and provide consent on
+  your behalf, and that you have been made aware of this
+  Policy.
+  
+  To all recruitment agencies: Circles will only acknowledge
+  resumes shared by recruitment agencies if selected in our
+  preferred supplier partnership program.
+  
+  Please do not forward resumes to our jobs alias, Circles,
+  employees or any other company location. Circles will not be
+  held accountable for any fees related to unsolicited resumes
+  not uploaded via our ATS.
+posted_date: 2026-03-26
+url: "https://builtin.com/job/senior-software-quality-engineer-ai-accelerated-jetpac/8881748"
+source: Built In

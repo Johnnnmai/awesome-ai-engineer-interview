@@ -1,0 +1,44 @@
+company:
+  name: Five9
+  stage: Public
+  focus: Cloud contact center software provider
+position:
+  title: Forward Deployed AI Engineer/Data Scientist
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, training, and
+      improving AI chatbots and virtual agents using NLP
+      techniques, prompt engineering, and LLMs. As a Forward
+      Deployed AI Engineer, the person works hands-on with AI
+      models and conversational AI systems deployed to customers,
+      which qualifies as ai-first.
+  responsibilities:
+  - Build and improve AI chatbots by training them with real conversation data
+  - Clean and organize text data to build better machine learning models
+  - Test virtual agent performance and identify improvement opportunities
+  - Collaborate with consultants, developers, and conversation designers
+  - Work directly with customers to understand requirements, pain points, and communicate
+    progress
+  - Stay current with new AI and NLP techniques
+  use_cases:
+  - Conversational AI chatbots for customer support
+  - Virtual agents for contact center automation
+  - Text classification for customer interactions
+  - Information extraction from conversational data
+  skills:
+    genai: [Prompt Engineering, LLMs, Conversational AI, AI chatbot platforms]
+    ml: [Machine Learning fundamentals, Text classification]
+    web: []
+    databases: []
+    data: [A/B testing, Statistical analysis]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8898271'
+  extracted_at: '2026-04-22T13:13:20.458558'

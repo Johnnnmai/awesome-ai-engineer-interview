@@ -1,0 +1,57 @@
+company:
+  name: BlackRock
+  stage: Public
+  focus: |-
+    Global asset management and investment technology platform
+    (Aladdin)
+position:
+  title: Head of AI Developer Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is focused on building and operationalizing an AI-
+      native, agent-driven SDLC platform. It involves defining AI-
+      first developer tooling, PDLC agents, context engineering,
+      and agent-assisted code generation, testing, and deployment
+      — all hands-on work building and deploying AI/agent systems
+      into a developer platform.
+  responsibilities:
+  - Define and operationalize an AI-first, agent-driven SDLC embedded into the Developer
+    Platform spanning design, build, test, release, and operate phases
+  - Drive evaluation, selection, and governance of AI developer tools and vendors
+    integrated into the AI Developer Platform
+  - Lead adoption of PDLC agents for developers, testers/QE, and operators/SREs aligned
+    to engineering personas
+  - Own the evolution of continuous validation capabilities including performance
+    testing, chaos engineering, and game day testing in CI/CD pipelines
+  - Lead context engineering and context graph strategy ensuring AI agents have governed
+    access to the right context
+  - Own platform-level capabilities for test data and environment management including
+    preproduction environments and synthetic data strategies
+  - Build and lead a globally distributed AI Developer Platform organization within
+    Engineering Services
+  - Own policy, governance, and control frameworks for AI usage and PDLC agents ensuring
+    Responsible AI alignment
+  use_cases:
+  - AI-assisted code generation, refactoring, and documentation for developers
+  - Agent-driven test generation, coverage analysis, and defect intelligence
+  - Intelligent release validation, change risk assessment, and deployment readiness
+  - Continuous learning loops improving software delivery workflows and AI agents
+  - Enterprise context graphs enabling governed AI agent access across the SDLC
+  - Chaos engineering and operational readiness simulations for resilience validation
+  skills:
+    genai: [AI Agents, Prompt Engineering, RAG, Responsible AI]
+    ml: []
+    web: [REST APIs]
+    databases: [Postgres]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [CI/CD, Docker, Kubernetes, Observability, Chaos Engineering, DevOps]
+    languages: [Python]
+    domains: []
+    other: [SDLC Automation]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9031697'
+  extracted_at: '2026-04-22T13:55:47.115978'

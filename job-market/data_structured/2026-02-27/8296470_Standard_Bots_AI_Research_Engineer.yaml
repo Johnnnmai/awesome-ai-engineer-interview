@@ -1,0 +1,49 @@
+company:
+  name: Standard Bots
+  stage: Seed
+  focus: AI-powered robotic automation platform
+position:
+  title: AI Research Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on developing and optimizing ML models for
+      robotics applications, with explicit requirements for
+      diffusion models, autoregressive models, and ML planning
+      techniques from autonomous vehicles. While it involves
+      cutting-edge AI, it centers on traditional deep learning and
+      RL approaches rather than LLMs, agents, or GenAI systems.
+  responsibilities:
+  - Design and implement state-of-the-art ML models and training pipelines for robotics
+    applications
+  - Develop efficient data and training strategies for large-scale ML models
+  - Lead rapid experimentation and prototyping of new model architectures
+  - Implement transfer learning and fine-tuning strategies
+  - Build robust evaluation and debugging systems to analyze model behavior and failure
+    modes
+  - Implement interpretability tools and visualization frameworks
+  - Track and improve model metrics through evaluation frameworks
+  - Collaborate with engineering team to optimize training infrastructure and deployment
+  use_cases:
+  - Robotic systems automation
+  - ML planning for autonomous systems
+  - Camera input to trajectory output for self-driving or robotics
+  - Real-world physical automation through AI
+  - Robot behavior optimization and control
+  skills:
+    genai: []
+    ml: [PyTorch, Diffusion models, Autoregressive models, Reinforcement learning,
+      Transfer learning, Model fine-tuning]
+    web: [Node.js]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker]
+    languages: [Python, TypeScript]
+    domains: [Robotics]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8296470'
+  extracted_at: '2026-03-03T12:24:26.078240'

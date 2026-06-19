@@ -1,0 +1,60 @@
+company:
+  name: Parspec
+  stage: Series A
+  focus: |-
+    AI-native platform for construction materials supply chain -
+    product discovery, quoting, and procurement
+position:
+  title: AI Ops Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves deploying, operating, and managing LLM
+      infrastructure including self-hosted models with
+      vLLM/Ollama, building inference pipelines, and implementing
+      LLM gateways and governance. While it's infrastructure-
+      focused, the work is directly on AI systems—serving,
+      monitoring, and optimizing LLMs in production rather than
+      just enabling others to work on AI.
+  responsibilities:
+  - Design and build document AI platforms powered by generative AI with asynchronous
+    architectures for scalable inference
+  - Architect and maintain self-hosted LLM infrastructure using vLLM or Ollama on
+    Kubernetes or EC2 with GPU orchestration
+  - Implement event-driven and queue-based systems to support elastic scaling and
+    non-blocking AI workflows
+  - Manage production systems for LLM serving, inference pipelines, and AI workflow
+    orchestration
+  - Implement LLM gateways and routing systems with guardrails and monitoring to reduce
+    hallucinations and unsafe outputs
+  - Implement end-to-end observability for AI/ML pipelines using distributed tracing
+    and monitoring tools
+  - Manage machine learning workflows using MLflow, Kubeflow, or SageMaker for experiment
+    tracking and model versioning
+  - Implement AI platform security controls and optimize AWS infrastructure for cost
+    efficiency and reliability
+  use_cases:
+  - Document intelligence and extraction for construction product data
+  - Self-hosted LLM inference for construction materials workflows
+  - Generative AI workflows for product discovery and quoting
+  - AI-powered document processing at scale
+  - Construction product data organization and searchability
+  skills:
+    genai: [LiteLLM, Portkey]
+    ml: []
+    web: [FastAPI]
+    databases: [Pinecone, PGVector, Weaviate]
+    data: [SQS, Kafka]
+    cloud: [SageMaker, AWS Bedrock, AWS X-Ray, AWS EC2, AWS Lambda, AWS S3, AWS EKS,
+      AWS Step Functions, AWS API Gateway, AWS EventBridge, SNS, AWS KMS, AWS VPC,
+      CloudTrail, AWS Trainium]
+    ops: [vLLM, Ollama, Kubernetes, MLflow, Kubeflow, OpenTelemetry, Prometheus, Grafana,
+      Terraform, CloudFormation, Docker, GitHub Actions, ArgoCD, ELK Stack]
+    languages: [Python, asyncio]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8699455'
+  extracted_at: '2026-03-27T14:36:40.142713'

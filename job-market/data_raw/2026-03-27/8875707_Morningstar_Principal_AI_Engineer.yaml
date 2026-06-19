@@ -1,0 +1,124 @@
+job_id: 8875707
+title: Principal AI Engineer
+company: Morningstar
+location: Navi Mumbai, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Bedrock
+  - CloudFormation
+  - Eks
+  - Kubernetes
+  - Lambda
+  - Python
+  - S3
+  - SQL
+  - Terraform
+company_size: 11,500 Employees
+description: |
+  Job Description - Principal AI Engineer About the Role As a
+  Principal AI Engineer, you will define and drive the
+  technical direction for the systems that bring our AI
+  products to life. You will architect and scale the AI
+  platform and services that enable investors worldwide to
+  assess the Environmental, Social, and Governance (ESG)
+  performance of companies. Your focus will be on enterprise-
+  grade AI engineering: LLM and ML inference platforms,
+  orchestration, retrieval systems, resilient data pipelines,
+  and scalable APIs-built with security, reliability, cost,
+  and maintainability as first-class concerns.
+  Responsibilities
+  
+  - Own the architecture and technical roadmap for production AI
+    services across the product ecosystem.
+  - Design, build, and scale LLM and ML inference platforms,
+    including routing, caching, model lifecycle, and API
+    standards.
+  - Drive production patterns for RAG, retrieval systems, vector
+    databases, and knowledge pipelines; set best practices for
+    quality and relevance.
+  - Establish platform-level capabilities: orchestration
+    frameworks, event-driven services, and reusable
+    microservice components (Python-first).
+  - Define and enforce SLOs, reliability standards,
+    observability practices, and incident response playbooks
+    for AI services.
+  - Lead cost governance for AI (token usage, infrastructure
+    scaling, caching, batching, evaluation-driven deployment
+    decisions).
+  - Build robust CI/CD and release strategies for AI systems;
+    automate deployments on AWS (e.g., Bedrock, Lambda, EKS,
+    S3, etc.).
+  - Partner with research, engineering, security, and product
+    leadership to align on trade-offs, delivery milestones,
+    and risk controls.
+  - Provide technical mentorship and influence through design
+    reviews, architecture forums, and by raising the
+    engineering bar across teams.
+  - Evaluate new technologies and guide adoption (vector stores,
+    orchestration tools, evaluation frameworks, MCP/server
+    patterns) with a pragmatic lens.
+  
+  Qualifications
+  
+  - Expert-level programming in Python (services, APIs,
+    pipelines, platform components).
+  - 9+ years of experience in AI engineering, MLOps,
+    backend/platform engineering, or related roles with
+    demonstrable architecture leadership.
+  - Proven experience deploying and operating LLMs in production
+    at scale, including evaluation, guardrails, and
+    cost/performance optimization.
+  - Strong knowledge of AWS (e.g., Bedrock, Lambda, EKS, S3),
+    cloud-native design, and distributed systems.
+  - Strong experience with CI/CD, container orchestration
+    (Kubernetes), and infrastructure automation
+    (Terraform/CloudFormation).
+  - Deep understanding of microservices, event-driven
+    architecture, queues/streams, and high-availability system
+    design.
+  - Strong ML fundamentals and the ability to bridge research
+    and engineering: model metrics, latency/throughput,
+    inference constraints, and practical deployment.
+  - Experience with SQL databases (e.g., PostgreSQL) and
+    scalable data access patterns.
+  - Excellent communication and stakeholder management skills-
+    able to influence decisions across multiple teams and
+    levels.
+  
+  Nice to Have
+  
+  - Experience with JavaScript/TypeScript and full-stack
+    integration patterns for AI products.
+  - Experience building or operating observability platforms
+    (CloudWatch, Prometheus, Grafana) and defining SLO-based
+    operations.
+  
+  Equal Opportunity & Work Environment Morningstar is an equal
+  opportunity employer. Morningstar's hybrid work environment
+  gives you the opportunity to collaborate in person each
+  week. We've found that we're at our best when we're
+  purposely together on a regular basis. In most locations,
+  the hybrid work model includes four days in-office each
+  week. A range of other benefits are also available to
+  enhance flexibility as needs change. Morningstar's hybrid
+  work environment gives you the opportunity to collaborate
+  in-person each week as we've found that we're at our best
+  when we're purposely together on a regular basis. In most of
+  our locations, our hybrid work model is four days in-office
+  each week. A range of other benefits are also available to
+  enhance flexibility as needs change. No matter where you
+  are, you'll have tools and resources to engage meaningfully
+  with your global colleagues. I10_MstarIndiaPvtLtd
+  Morningstar India Private Ltd. (Delhi) Legal Entity
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Enterprise Web
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-03-26
+url: "https://builtin.com/job/principal-ai-engineer/8875707"
+source: Built In

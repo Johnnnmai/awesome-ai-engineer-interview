@@ -1,0 +1,54 @@
+company:
+  name: Snowflake
+  stage: Public
+  focus: Cloud data platform and data warehouse services
+position:
+  title: Senior AI/ML Solution Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a sales/pre-sales Solution Engineering role focused
+      on demonstrating and positioning Snowflake's data platform
+      capabilities to customers. While it requires AI/ML
+      knowledge, the role involves supporting sales cycles, demos,
+      and POCs rather than building, training, or deploying AI/ML
+      systems directly. The work is customer-facing and
+      consultative, enabling customers to use Snowflake for their
+      AI/ML needs.
+  responsibilities:
+  - Present Snowflake technology and vision to executives and technical contributors
+    at strategic prospects, customers, and partners
+  - Work hands-on with prospects and customers to demonstrate and communicate the
+    value of Snowflake technology throughout the sales cycle from demo to proof of
+    concept to design and implementation
+  - Provide AI/ML technical guidance while working with technical and business executives
+    in the design and architecture of Snowflake Cloud Data Platform
+  - Support enterprise Proof of Concepts and help close business by understanding
+    customer AI/ML needs
+  - Maintain deep understanding of competitive and complementary technologies and
+    position Snowflake in relation to them
+  - Collaborate with Product Management, Engineering, and Marketing to continuously
+    improve Snowflake's products and marketing
+  use_cases:
+  - Enterprise data architecture and data lakehouse implementations
+  - Data ingestion, transformation, and ETL/ELT pipelines
+  - Real-time and near real-time data processing with streaming technologies
+  - Multi-cloud data platform deployments
+  - AI/ML workloads on cloud data infrastructure
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Snowflake, Iceberg, Delta Lake, Parquet]
+    data: [Pandas, Spark, PySpark, Hadoop, Hive, Apache NiFi, Matillion, Fivetran,
+      Qlik, Informatica, Kafka, Flink, Spark Streaming]
+    cloud: [Kinesis, AWS, Azure, GCP]
+    ops: []
+    languages: [SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8522371'
+  extracted_at: '2026-03-03T11:32:02.252487'

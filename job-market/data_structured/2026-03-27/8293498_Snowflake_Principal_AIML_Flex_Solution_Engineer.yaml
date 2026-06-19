@@ -1,0 +1,55 @@
+company:
+  name: Snowflake
+  stage: Public
+  focus: |-
+    Cloud data warehouse and analytics platform with AI/ML
+    capabilities
+position:
+  title: Principal AI/ML Flex Solution Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building, prototyping, and
+      architecting AI/ML solutions including PoCs and MVPs that
+      directly demonstrate platform capabilities. While customer-
+      facing, the position requires actual technical development
+      work - creating prototypes, conducting workshops on AI/ML
+      portfolio, and serving as a bridge between customers and
+      product teams.
+  responsibilities:
+  - Partner with Account Executives and Solution Engineers to identify and develop
+    AI/ML opportunities within enterprise accounts
+  - Conduct technical presentations, product demonstrations, and workshops focused
+    on AI/ML portfolio including platforms, services, and MLOps tools
+  - Architect and prototype foundational AI/ML solutions including proof-of-concepts
+    that demonstrate clear business value
+  - Serve as technical bridge between customers and central AI/ML Product and Engineering
+    teams, synthesizing feedback and requirements
+  - Drive sales acceleration through hands-on development of MVPs and functional prototypes
+    demonstrating platform capability
+  - Provide direct technical support for regional SE teams in complex AI/ML sales
+    cycles
+  - Develop and deliver AI/ML training materials to upskill the broader SE organization
+  - Document successful solution patterns and best practices for regional SE reuse
+  use_cases:
+  - Enterprise data warehouse and analytics on Snowflake platform
+  - AI/ML model training and deployment workflows
+  - MLOps pipeline implementation and management
+  - Data preparation for machine learning workloads
+  - Real-time AI/ML-powered analytics and insights
+  skills:
+    genai: []
+    ml: [Model training, Model deployment, Model monitoring]
+    web: []
+    databases: [Snowflake]
+    data: [Data preparation]
+    cloud: []
+    ops: [MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: [Solution architecture, Technical presentations, Workshop facilitation]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8293498'
+  extracted_at: '2026-03-27T14:49:20.679813'

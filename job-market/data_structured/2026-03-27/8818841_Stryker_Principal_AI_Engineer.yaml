@@ -1,0 +1,57 @@
+company:
+  name: Stryker
+  stage: Public
+  focus: |-
+    Medical devices and healthcare technology with AI-powered
+    communication systems
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on architectural work directly on
+      AI systems - specifically defining evaluation frameworks for
+      LLMs, RAG systems, and speech/NLP platforms, implementing
+      hallucination detection, and designing AI validation
+      pipelines. While focused on quality/testing, it requires
+      deep technical expertise in building and deploying AI
+      systems, not just supporting them.
+  responsibilities:
+  - Define and own end-to-end AI evaluation architecture across speech, NLP, and GenAI
+    platforms
+  - Architect validation frameworks for RAG-based systems, prompt orchestration, and
+    multi-agent AI pipelines
+  - Design and implement scalable AI testing platform with offline evaluation pipelines
+    and synthetic data generation
+  - Define enterprise-wide data governance strategy for AI systems including annotation
+    workflows and dataset versioning
+  - Establish evaluation strategies for speech systems including accent variability
+    and noisy clinical environments
+  - Integrate AI validation workflows into CI/CD and MLOps pipelines
+  - Implement hallucination detection standards, adversarial testing, and responsible
+    AI practices
+  - Serve as principal authority on AI testing strategy and mentor senior engineers
+    in AI validation practices
+  use_cases:
+  - Real-time speech recognition in healthcare environments
+  - Clinical workflow automation and conversational AI
+  - Enterprise RAG systems for healthcare information retrieval
+  - NLP pipelines for clinical intent recognition and entity extraction
+  - Mission-critical LLM-powered applications in healthcare settings
+  skills:
+    genai: [LLM evaluation, RAG evaluation, RAG, Prompt validation, LLM guardrails,
+      Multi-agent systems, Hallucination detection]
+    ml: [NLP, ASR, TTS, Speech recognition]
+    web: []
+    databases: []
+    data: [Synthetic data generation, Data governance]
+    cloud: [Azure ML, Azure OpenAI, Azure AI Search]
+    ops: [MLOps, CI/CD, Model lifecycle automation, A/B testing]
+    languages: [Python]
+    domains: []
+    other: [Distributed architecture, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8818841'
+  extracted_at: '2026-03-27T13:29:14.085920'

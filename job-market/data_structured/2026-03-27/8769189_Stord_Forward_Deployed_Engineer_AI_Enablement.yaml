@@ -1,0 +1,58 @@
+company:
+  name: Stord
+  stage: Series B+
+  focus: |-
+    Cloud-based supply chain and logistics platform for commerce
+    brands
+position:
+  title: Forward Deployed Engineer, AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying production agentic
+      AI systems and LLM-powered tools that automate internal
+      workflows. The position requires hands-on work with AI
+      agents, LLM integrations (OpenAI, Anthropic), prompt
+      engineering, and shipping production AI tooling - not just
+      supporting infrastructure for others' AI work.
+  responsibilities:
+  - Embed with internal teams (CX, Finance, Ops, Logistics) to identify high-leverage
+    automation opportunities and map workflows end-to-end
+  - Build and deploy production agentic AI systems that automate internal workflows
+    with proper logging, retries, monitoring, and edge case handling
+  - Develop LLM-powered interfaces enabling non-technical teams to query and act on
+    operational data
+  - Create AI-powered tooling for Customer Experience teams including triaging issues
+    and automating resolution workflows
+  - Build finance automation systems for reconciliation, exception handling, and reporting
+    workflows
+  - Design and implement integrations with internal systems (OMS, WMS, TMS, Billing)
+    via APIs and event streams
+  - Develop reusable automation modules and patterns that accelerate future workflow
+    projects
+  - Build internal developer productivity tools and AI-powered coding assistance
+  use_cases:
+  - Customer experience issue triage and automated resolution workflows
+  - Financial reconciliation, exception handling, and automated reporting
+  - Warehouse and transportation operations dashboards with intelligent alerting
+  - Natural language interfaces for non-technical teams to query operational data
+  - Developer productivity tooling for faster code writing and review
+  - Automated data pulling and analysis replacing manual reporting
+  skills:
+    genai: [LLM development, Agentic AI systems, OpenAI API, Anthropic API, Prompt
+        engineering, Function calling / Tool use, Structured outputs, RAG, Semantic
+        search, 'AI coding tools (Claude Code, Cursor, Codex)']
+    ml: []
+    web: [RESTful APIs, Phoenix]
+    databases: [Vector databases, PostgreSQL]
+    data: [Kafka, Temporal, Prefect, Airflow]
+    cloud: [GCP]
+    ops: [Observability / Monitoring]
+    languages: [TypeScript, Node.js, Python, SQL, Elixir]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8769189'
+  extracted_at: '2026-03-27T16:16:01.072168'

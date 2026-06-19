@@ -1,0 +1,54 @@
+company:
+  name: Trimble
+  stage: Public
+  focus: Transportation and logistics technology solutions
+position:
+  title: Lead Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly responsible for architecting and
+      building GenAI agents, RAG pipelines, and agent
+      orchestration graphs. The engineer will prototype cutting-
+      edge techniques like RLHF and DSPy, implement LLM
+      observability, and own end-to-end delivery of GenAI agent
+      initiatives — all hands-on work building and deploying AI
+      systems.
+  responsibilities:
+  - Own end-to-end technical direction and architectural patterns for GenAI initiatives,
+    defining agent orchestration graphs and RAG pipelines at scale
+  - Establish and evolve CI/CD and automated evaluation pipelines for non-deterministic
+    AI outputs, owning SLIs/SLOs and production integrity
+  - Lead evaluation and prototyping of cutting-edge techniques (RLHF, DSPy, advanced
+    retrieval) to make data-driven decisions for the AI roadmap
+  - Implement observability hooks and monitoring strategies (e.g., LangSmith) to trace
+    agent logic, optimize performance, and lead root-cause analysis
+  - Drive experimentation loops to hit accuracy, latency, and cost targets for commercially
+    viable Agentic solutions
+  - Act as principal design authority and code reviewer, mentoring engineers and championing
+    secure-by-design practices
+  use_cases:
+  - Autonomous GenAI agents for freight and transportation logistics optimization
+  - Agent orchestration for bridging complex logistics data with real-world shipping
+    actions
+  - RAG pipelines for intelligent information retrieval across transportation networks
+  - Automated evaluation and safety benchmarking of non-deterministic AI outputs in
+    production
+  - Intelligent monitoring and observability of agentic AI systems at commercial scale
+  skills:
+    genai: [RAG, Agent orchestration, LangChain, LlamaIndex, DSPy, Hybrid search,
+      LLM-as-a-judge]
+    ml: [RLHF]
+    web: []
+    databases: [Vector databases, ANN algorithms]
+    data: [Databricks]
+    cloud: []
+    ops: [LangSmith, Datadog, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8913269'
+  extracted_at: '2026-04-22T14:10:37.860759'

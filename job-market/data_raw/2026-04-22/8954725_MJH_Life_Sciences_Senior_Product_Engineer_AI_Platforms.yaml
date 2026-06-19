@@ -1,0 +1,166 @@
+job_id: 8954725
+title: "Senior Product Engineer, AI & Platforms"
+company: MJH Life Sciences
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ai Development Tools
+  - Api Gateway
+  - AWS
+  - Claude Code
+  - Docker
+  - DynamoDB
+  - Fastapi
+  - Infrastructure As Code
+  - Lambda
+  - Next.Js
+description: |
+  At MJH Life Sciences our success is measured by your
+  success! If you set your standards high and want to
+  contribute to a winning team, we’ll provide you with every
+  opportunity to help grow our company and your career. Our
+  associates come from all backgrounds, sharing one key
+  quality: determination to succeed. We value being Service
+  Focused, having a Passion for Winning, Innovation, Respect,
+  Integrity, and Teamwork. Nothing means more to us than
+  hiring people with these attributes. If you believe you’re
+  right for the job, this is the place to prove it!
+  
+  We are seeking a Senior Product Engineer to join our
+  Enterprise Platforms team. You'll work across a wide range
+  of projects — web applications, APIs, integrations, cloud
+  infrastructure, and AI-powered workflows — collaborating
+  with stakeholders to understand real problems and build
+  solutions that make a meaningful difference. This role goes
+  beyond writing code. You'll be involved from problem
+  definition through delivery, with genuine ownership over
+  what you build and how you build it. We're an AI-first team,
+  and you'll use tools like Claude Code and Cursor as a
+  natural part of your daily workflow. If you care about
+  outcomes, not just output, this is the role for you.
+  
+  What You'll Do
+  
+  - Build and ship web applications using Next.js, React, and
+    TypeScript — dashboards, internal tools, and stakeholder-
+    facing products backed by PostgreSQL and deployed to
+    Vercel or AWS
+  - Design and deploy APIs and integration services on AWS
+    (Lambda, API Gateway, DynamoDB, Secrets Manager) that
+    connect enterprise systems including Salesforce,
+    Workfront, Workday, and other platforms
+  - Integrate LLM capabilities into products — prompt
+    engineering, multi-model orchestration, streaming
+    responses, embeddings, and cost-optimized AI pipelines
+    using Anthropic Claude, OpenAI, and Google APIs
+  - Develop developer tools and automation that improve team
+    productivity and enable AI-assisted workflows, including
+    CLI tools, MCP servers, automation scripts, and internal
+    tooling
+  - Implement OAuth 2.0 flows, secure credential management, and
+    compliance-aware data handling across all integration
+    points
+  - Own cloud infrastructure using Infrastructure as Code (AWS
+    CDK, Serverless Framework) — you deploy what you build
+  - Gather requirements directly from stakeholders, push back
+    when the ask doesn't match the real problem, and write up
+    recommendations when you identify a better approach
+  - Follow up after launch — confirm features are being used,
+    measure whether they achieved their goal, and iterate
+    based on real feedback
+  - Contribute to team growth by helping peers troubleshoot,
+    sharing technical knowledge, and participating in AI
+    Accelerator discussions
+  
+  What Sets You Apart
+  
+  - You own deliverables end-to-end — from understanding the
+    problem through architecture, implementation, deployment,
+    validation, and iteration. No one needs to check on you
+  - 3+ years of experience building and shipping web
+    applications or platform services
+  - Proficiency in TypeScript and Python, with experience in
+    React/Next.js for frontend and FastAPI or similar for
+    backend services
+  - Working knowledge of AWS services (Lambda, API Gateway,
+    DynamoDB, Secrets Manager, or equivalent) and experience
+    with Docker and containerized workflows
+  - Experience with PostgreSQL and an ORM (Prisma, SQLAlchemy,
+    or similar)
+  - Comfort working with LLM APIs (Anthropic, OpenAI, or
+    similar) — including prompt engineering, evaluating model
+    outputs, and integrating AI capabilities into applications
+  - Familiarity with OAuth 2.0 flows and secure API
+    authentication patterns
+  - Strong written communication — you can write a clear
+    recommendation doc, not just code
+  - Experience with enterprise platform APIs (Salesforce,
+    Workfront, Workday, or similar) preferred
+  - Familiarity with serverless architectures and Infrastructure
+    as Code (AWS CDK, Serverless Framework, Terraform)
+    preferred
+  - Experience using AI-assisted development tools (Claude Code,
+    Cursor, Windsurf, or similar) as a core part of your daily
+    workflow preferred
+  - Background in healthcare, life sciences, or media industries
+    a plus
+  
+  Tools & Environment
+  
+  AI Development: Claude Code, Cursor/Windsurf/Zed  |
+  Languages: TypeScript, Python  |  Frontend: Next.js 14+,
+  React 18+, Tailwind CSS, shadcn/ui  |  Backend: FastAPI,
+  Next.js API Routes, Serverless Framework  |  Databases:
+  PostgreSQL (Neon, Supabase), DynamoDB, SQLite  |  Cloud: AWS
+  (Lambda, API Gateway, Secrets Manager, Step Functions, CDK)
+  |  Deployment: Vercel, AWS, Docker  |  Enterprise APIs:
+  Salesforce, Workfront, Workday, Bizzabo, DocuSign  |
+  AI/LLM: Anthropic Claude, OpenAI, Google Gemini
+  
+  Compensation Range:
+  
+  $100,000 – $125,000 per year, depending on qualifications.
+  Eligible for annual company bonus program or commission
+  incentive based on role. The compensation offered to the
+  candidate selected for this position will depend on several
+  factors, including the candidate's educational background,
+  skills, and professional experience.
+  
+  Benefits Overview:
+  
+  We're proud to offer a comprehensive benefits package,
+  including:
+  
+  - Health insurance through Cigna (medical & dental)
+  - Vision coverage through VSP
+  - Pharmacy benefits through OptumRx
+  - FSA, HSA, Dependent Care FSA, and Limited Purpose FSA
+    options
+  - 401(k) and Roth 401(k) with company match
+  - Pet discount program with PetAssure
+  - Norton LifeLock identity theft protection
+  - Employee Assistance Program (EAP) through NYLGBS
+  - Fertility benefits through Progyny
+  - Commuter benefits
+  - Company-paid Short-Term and Long-Term Disability
+  - Voluntary Term Life & AD&D Insurance, plus Universal Life
+    Insurance options
+  - Supplemental Aflac coverage: Accident, Critical Illness, and
+    Hospital Indemnity
+  - Discounts and rewards through BenefitHub
+  
+  #LI-Remote
+  
+  
+  MJH Life Sciences provides equal employment opportunities
+  (EEO) to all employees and applicants for employment without
+  regard to race, color, religion, sex, national origin, age,
+  disability or genetics. All employees of MJH Life Sciences
+  are employed “At Will.” This means that either the employee
+  or the Company is free to end the employment relationship at
+  any time, for any reason, with or without cause and with or
+  without notice.
+posted_date: 2026-04-03
+url: "https://www.builtinla.com/job/senior-product-engineer-ai-platforms/8954725"
+source: Built In

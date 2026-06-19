@@ -1,0 +1,229 @@
+job_id: 8989828
+title: AI Engineer
+company: Joyful Health
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - APIs
+  - Jax
+  - Llm Technologies
+  - Mlops Practices
+  - Python
+  - PyTorch
+  - TensorFlow
+  - Vector Databases
+company_size: 25 Employees
+description: |
+  Building the financial operating system for healthcare, and
+  bringing the joy back to healthcare by fixing the financial
+  chaos behind it.
+  
+  The healthcare payment system is a complex and inefficient
+  maze - healthcare practices leave $125 billion in revenue
+  uncollected each year, lost in the chaos of fragmented
+  financial data, manual workflows, and opaque payer systems.
+  This financial uncertainty leaves practices struggling to
+  stay afloat, while valuable revenue slips through the
+  cracks.
+  
+  Joyful Health is building the AI-powered financial operating
+  system for healthcare practices. Our mission is to bring the
+  joy back to running a private practice by simplifying
+  financial operations so providers can focus on patient care.
+  We spent 10 months working as fractional CFOs for a dozen
+  practices, doing this work side by side with providers as we
+  developed our product.
+  
+  We just closed a funding round led by world-class investors
+  and angels including the founders of MongoDB & KAYAK.
+  
+   🚀 We have an enormous opportunity in front of us. The
+  broken healthcare payment ecosystem impacts practices of all
+  sizes, and the opportunity to make a real difference is
+  massive.
+  
+  This role is full-time. We’re looking for someone NYC-based
+  who is open to coming into the office 3 days a week.
+  
+  The base pay range for this role is $150,000–$275,000 per
+  year.
+  
+  Role Description
+  
+  We're looking for a talented and ambitious machine learning
+  engineer with 5+ years of experience building production AI
+  systems who's excited to solve one of the toughest
+  challenges in healthcare - automatically resolving claim
+  denials. You'll be the technical lead for our agentic AI
+  platform that autonomously researches, understands, and
+  resolves insurance claim denials, helping healthcare
+  practices recover millions in lost revenue.
+  
+  Insurance claim denials cost healthcare practices $125
+  billion annually, and resolving them requires deep expertise
+  in medical billing, payer rules, and claim documentation.
+  Today, billing managers spend hours manually researching
+  each denial, gathering supporting documentation, and
+  crafting appeals. We're building an agentic AI system that
+  automates this entire workflow - from denial classification
+  and root cause analysis, to evidence gathering and appeal
+  letter generation.
+  
+  As a machine learning engineer, you'll architect and build
+  the intelligent agents that power this system. You'll design
+  multi-agent workflows that collaborate to interpret complex
+  denial reasons, retrieve relevant clinical and billing
+  information through RAG systems, reason about payer
+  policies, and generate compelling appeals. This is a
+  greenfield opportunity to build a production agentic system
+  that will directly impact the financial health of healthcare
+  practices.
+  
+  You should be comfortable (and excited!) about working in a
+  fast-paced, early-stage startup environment where you'll be
+  able to wear many hats and take on new challenges as they
+  arise. This is a great opportunity for someone who wants to
+  work on something extremely challenging at the intersection
+  of AI and healthcare.
+  
+  This role is full-time. We're looking for candidates based
+  in NYC.
+  
+  What you'll do
+  
+  - Design and build the architecture for our agentic AI system
+    that autonomously resolves insurance claim denials
+  - Develop specialized AI agents for denial classification,
+    root cause analysis, evidence retrieval, policy reasoning,
+    and appeal generation
+  - Implement multi-agent orchestration frameworks that
+    coordinate complex workflows across research, decision-
+    making, and document generation
+  - Build and optimize RAG systems to retrieve relevant clinical
+    documentation, billing records, and payer policy
+    information
+  - Create evaluation frameworks and feedback loops to
+    continuously improve agent performance and reliability
+  - Design prompt engineering strategies and fine-tuning
+    approaches to optimize LLM behavior for healthcare billing
+    workflows
+  - Work closely with billing managers to understand denial
+    resolution workflows and translate them into agent
+    behaviors
+  - Collaborate with the engineering team on production
+    infrastructure for deploying and monitoring AI agents at
+    scale
+  - Actively contribute to building the team's AI/ML vision and
+    technical roadmap
+  - Collaborate on code reviews and technical design documents
+    to ensure code quality and distribute knowledge
+  
+  We’d love to hear from you if…
+  
+  - You’re passionate about Joyful Health’s mission – you want
+    to solve real, pressing problems for providers and put
+    them in control of their businesses. You naturally
+    empathize with users and enjoy designing solutions with
+    their needs in mind.
+  - You’re excited to shape the future of our engineering team
+    and are excited to lead by example – as an early team
+    member, you’ll have the chance to influence everything
+    from our technical roadmap to our company culture. You
+    have a radical sense of ownership with the ability and
+    desire to own technical roadmaps and refine ambiguous
+    problems. You also have a low ego, growth mindset, and
+    desire to see the product and team scale with your impact.
+  - You have a love for your craft and strong technical
+    execution - you view coding as a craft, not just a task,
+    and you're excited about using technology to create
+    meaningful impact. Your technical skills go beyond
+    coding—you care about building a product that works at
+    scale, with the user at the forefront. We care more about
+    your drive, hustle, and passion than a college degree from
+    a shiny institution or experience at name-brand companies.
+    - You have 5+ years of experience in machine learning
+      engineering, with a focus on building production AI
+      systems and deploying models at scale.
+      - Strong experience with machine learning frameworks (PyTorch,
+        TensorFlow, or JAX)
+      - Experience working with healthcare data or understanding of
+        medical billing workflows is a plus
+    - Proficiency in:
+      - Python and modern ML frameworks (PyTorch, TensorFlow, or
+        JAX)
+      - LLM technologies including prompt engineering, fine-tuning,
+        and RAG systems
+      - Vector databases and semantic search systems
+      - Building reliable, production-grade AI systems with proper
+        evaluation and monitoring
+      - MLOps practices including model versioning, A/B testing, and
+        performance tracking
+      - Working with APIs and integrating AI systems into broader
+        product workflows
+  
+  Working at Joyful
+  
+  At Joyful Health, we’re on a mission to fix one of the most
+  broken systems in healthcare.
+  
+   Learn more about our culture and how we do work at Joyful
+  here!
+  
+  Joining us means having the opportunity to make a direct,
+  meaningful impact on the lives of clinicians and the
+  financial health of their practices. Here’s what you can
+  expect from working with us:
+  
+  🚀 Meaningful Impact You’ll be tackling one of the most
+  complex challenges in healthcare—helping practices thrive in
+  a chaotic financial landscape. Your work will directly
+  contribute to solving one of the most hair on fire problems
+  for providers, ensuring that they can focus on what they do
+  best: caring for patients.
+  
+  🔑 Autonomy & Ownership As an early team member, you’ll have
+  significant autonomy and the chance to shape our company
+  from the ground up. You’ll have ownership over your work and
+  the freedom to challenge the status quo in an environment
+  that values initiative and creativity.
+  
+  📈 Growth & Learning We’re a small, ambitious team with big
+  goals, which means you’ll be constantly learning and
+  growing. You’ll take on new challenges, expand your skill
+  set, and have direct access to experienced founders and
+  advisors who are invested in your development. We also offer
+  stipends for professional development courses & books (that
+  we often will partake in together!) so we can all
+  continuously grow.
+  
+  💰 Competitive Compensation & Equity We believe that our team
+  is our most valuable asset. We offer competitive
+  compensation packages, strong equity, and the opportunity to
+  share in the success of Joyful Health. We want you to feel
+  supported, both financially and professionally, as we grow
+  together.
+  
+  ❤️ Be Your Best Self We provide the benefits you need to
+  stay happy and healthy, including comprehensive healthcare
+  benefits, unlimited PTO (with a minimum of 10 days off a
+  year), and flexibility so you can take care of yourself. We
+  also organize regular team off-sites and events to ensure
+  that even as we tackle big problems we enjoy the journey.
+  
+  If you’re passionate about empowering practices and excited
+  to tackle one of the most important (& challenging!)
+  problems in healthcare, we’d love to meet you.
+  
+  Please apply even if you don't meet 100% of the criteria.
+  Nobody checks every box every time and we'd love to talk to
+  you about how and why you can see yourself growing into this
+  role. We're also very open to candidates with non-
+  traditional experience.
+industries:
+  - Healthtech
+  - Financial Services
+  - Automation
+posted_date: 2026-04-08
+url: "https://builtin.com/job/machine-learning-engineer/8989828"
+source: Built In

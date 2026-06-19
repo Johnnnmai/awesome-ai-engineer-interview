@@ -1,0 +1,139 @@
+job_id: 8796253
+title: Senior AI Engineer
+company: RegScale
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - Azure
+  - Cloud Infrastructure
+  - Data Pipelines
+  - Graph Databases
+  - Machine Learning
+  - Vector Databases
+description: |
+  RegScale is a continuous controls monitoring (CCM) platform
+  that helps organizations automate and scale their security,
+  risk, and compliance programs. We are at an inflection
+  point, transitioning from startup execution to a
+  disciplined, enterprise ready engineering organization, and
+  we are building the team that will take us there. AI is
+  central to where RegScale is going, woven into how
+  compliance programs are automated, monitored, and delivered
+  at scale.
+  
+  The Role
+  
+  Senior AI Engineers at RegScale own the design and delivery
+  of production AI systems end to end. You bring genuine
+  breadth across the AI engineering stack including data
+  pipelines, model fine tuning and evaluation, agent design
+  and orchestration, MCP server development, and AI
+  safeguards, and you understand how these disciplines
+  connect. You make sound decisions across all of them, not
+  just within a narrow specialization.
+  
+  Your work lives inside Platform Engineering and is consumed
+  by product teams building GRC features and by integrators
+  connecting RegScale to the broader compliance ecosystem. You
+  build primitives and frameworks others build on top of, and
+  you raise the bar for how the engineering organization
+  thinks about and delivers AI in production.
+  
+  This role is for an engineer who brings the same rigor to AI
+  systems as to any other production engineering discipline,
+  including reliability, observability, cost management, and
+  ongoing behavior in the real world.
+  
+  Key Responsibilities
+  
+  - Design, build, and operate AI systems in production with
+    full ownership across reliability, performance, cost,
+    observability, and ongoing model behavior.
+  - Build and maintain data pipelines that ingest, clean,
+    transform, and version the data AI systems depend on,
+    ensuring quality and traceability from source to model.
+  - Design and implement retrieval augmented generation
+    pipelines, vector and graph search systems, and hybrid
+    retrieval strategies that make compliance data accessible
+    for AI driven features.
+  - Fine tune, evaluate, and monitor models against real world
+    performance criteria, with a clear understanding of how to
+    measure what matters in a compliance domain.
+  - Architect and build AI agent systems and orchestration
+    layers that coordinate multi step reasoning, tool use, and
+    decision making across complex GRC workflows.
+  - Build and maintain MCP servers that expose RegScale platform
+    capabilities to AI systems, enabling reliable, secure, and
+    observable AI integrations across the platform.
+  - Design reusable AI primitives and frameworks that product
+    and integration teams can build on, accelerating AI
+    feature development across the organization.
+  - Integrate AI capabilities into CI/CD pipelines with
+    appropriate testing, evaluation gates, and deployment
+    strategies that maintain production quality as models and
+    data evolve.
+  - Partner with Platform Engineering, Core Engineering, and
+    Compliance as Code teams to ensure AI capabilities meet
+    enterprise reliability and security standards.
+  - Proactively identify risks in AI system behavior, data
+    quality, and model performance, bringing proposed
+    mitigations before they become production incidents.
+  
+  Required Qualifications
+  
+  - 8 or more years of software engineering experience with at
+    least 4 years focused on building and operating AI or
+    machine learning systems in production environments.
+  - Demonstrated track record of shipping AI features that
+    customers depend on, with ownership across the full
+    production lifecycle including reliability, observability,
+    cost management, and ongoing model behavior.
+  - Strong data engineering fundamentals, including pipeline
+    design, data modeling, transformation, quality validation,
+    and performance monitoring at scale.
+  - Hands on experience with retrieval augmented generation,
+    vector and graph databases, embedding models, and hybrid
+    retrieval strategies.
+  - Experience designing and building AI agent systems and
+    orchestration frameworks, including multi step reasoning,
+    tool use, and failure handling in production contexts.
+  - Solid understanding of model fine tuning and evaluation,
+    including how to define meaningful performance criteria
+    for domain specific applications.
+  - Strong software engineering fundamentals applied to AI
+    systems with production grade rigor.
+  - Strong written and verbal communication skills, able to
+    articulate AI architecture decisions and tradeoffs to both
+    technical and non-technical stakeholders.
+  
+  Preferred Qualifications
+  
+  - Experience building AI systems in regulated industries or
+    compliance focused platforms where auditability,
+    explainability, and data sensitivity shaped design
+    decisions.
+  - Familiarity with secure MCP server development and protocols
+    for exposing platform capabilities to AI systems.
+  - Background in enterprise SaaS companies where AI features
+    had to meet enterprise reliability, security, and
+    integration standards.
+  - Experience with inference cost optimization, caching
+    strategies, and model selection tradeoffs at scale.
+  - Familiarity with GRC frameworks such as FedRAMP, NIST, or
+    CMMC and the compliance domain more broadly.
+  - Experience with cloud native AI infrastructure in Azure or
+    comparable platforms including model deployment, scaling,
+    and monitoring.
+  - Contributions to or deep familiarity with open-source AI
+    frameworks for orchestration, evaluation, and
+    observability.
+  - Experience implementing and using data lake solutions (i.e.
+    Snowflake, Databricks, Synapse Analytics, AWS Redshift) in
+    a production environment.
+  
+  RegScale is only able to hire US Citizens
+posted_date: 2026-03-19
+url: "https://www.builtinla.com/job/senior-ai-engineer/8796253"
+source: Built In

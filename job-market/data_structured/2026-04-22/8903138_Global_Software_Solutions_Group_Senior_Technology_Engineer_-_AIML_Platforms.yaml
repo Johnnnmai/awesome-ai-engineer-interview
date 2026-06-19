@@ -1,0 +1,53 @@
+company:
+  name: Global Software Solutions Group
+  stage: unknown
+  focus: Global software solutions and services
+position:
+  title: Senior Technology Engineer - AI/ML Platforms
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with AI/ML systems
+      including integrating and optimizing inference engines
+      (Triton, vLLM), managing model lifecycle in production,
+      collaborating on GenAI/LLM and Agentic AI initiatives, and
+      architecting AI/ML solutions. The engineer is directly
+      building, deploying, and optimizing AI model serving
+      infrastructure and platforms, making this ai-first.
+  responsibilities:
+  - Design, build, and maintain containerized applications using OpenShift, Kubernetes,
+    and Helm Charts
+  - Integrate and optimize AI inference engines such as Triton Inference Server and
+    vLLM for high-performance model serving
+  - Lead end-to-end model lifecycle management including deployment, monitoring, scaling,
+    and maintenance in production
+  - Implement monitoring and alerting frameworks using Prometheus and Grafana
+  - Collaborate on GenAI and LLM initiatives including Agentic AI systems
+  - Develop and manage CI/CD pipelines using Jenkins, Ansible, Groovy, and Terraform
+  - Architect and manage AI/ML solutions on AWS Cloud leveraging SageMaker and AWS
+    Bedrock
+  - Contribute to architecture design decisions and define the future roadmap of AI
+    platform capabilities
+  use_cases:
+  - High-performance AI model inference serving at scale
+  - GenAI and LLM-based application deployment
+  - Agentic AI system development and orchestration
+  - Hybrid cloud AI/ML platform management (on-premises and cloud)
+  - MLOps and model lifecycle management in production environments
+  skills:
+    genai: [GenAI, LLM, Agentic AI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Amazon SageMaker, AWS Bedrock]
+    ops: [OpenShift, Kubernetes, Helm Charts, Triton Inference Server, vLLM, Prometheus,
+      Grafana, Jenkins, Ansible, Terraform, TensorRT, ONNX Runtime, MLOps, GPU acceleration]
+    languages: [Python, Groovy]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8903138'
+  extracted_at: '2026-04-22T12:46:57.508665'

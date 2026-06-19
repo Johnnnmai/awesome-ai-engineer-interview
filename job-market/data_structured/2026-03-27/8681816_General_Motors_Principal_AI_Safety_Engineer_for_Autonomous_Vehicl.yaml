@@ -1,0 +1,59 @@
+company:
+  name: General Motors
+  stage: Public
+  focus: Automotive manufacturing and autonomous vehicle technology
+position:
+  title: 'Principal AI Safety Engineer for Autonomous Vehicles: Technical Lead (GPSSC)'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires deep hands-on experience with AI/ML model
+      development, validation, and deployment for autonomous
+      vehicles. The candidate must have extensive experience
+      building large-scale models, LLMs, RAG, deep learning, and
+      reinforcement learning systems, along with E2E validation
+      for safety-critical applications. While focused on safety
+      assurance, the role involves direct technical work
+      evaluating and guiding AI model development and deployment.
+  responsibilities:
+  - Lead the development of AI safety strategies for ADS and establish safety engineering
+    guidance and sufficiency criteria
+  - Define GM's strategy for AI safety standards and engage externally to influence
+    evolving standards
+  - Support regulatory rulemaking and policy responses related to AI safety-critical
+    systems
+  - Establish an assurance plan and process to evaluate AI-related safety case evidence
+    and verify sufficiency criteria
+  - Provide AI expertise and safety guidance across Global Product Safety, Systems,
+    and Certification activities
+  - Evaluate the safety of AI models and cloud environments for safety-critical autonomous
+    driving applications
+  - Identify and drive opportunities to improve safety work efficiency through AI
+    methodologies
+  - Mentor and develop team members, fostering technical excellence and continuous
+    learning
+  use_cases:
+  - Autonomous vehicle safety assurance and validation
+  - Safety-critical AI/ML model development for self-driving systems
+  - Automated driving system (ADS) safety case development and maintenance
+  - AI safety standards and regulatory compliance for autonomous vehicles
+  - Risk management and verification of AI-enabled automotive technologies
+  skills:
+    genai: [Large Language Models (LLMs), Generative AI, RAG, LangChain]
+    ml: [PyTorch, TensorFlow, scikit-learn, Deep Learning, Reinforcement Learning,
+      XGBoost, Random Forest, Decision Trees, SVM, Clustering, Natural Language Processing
+        (NLP)]
+    web: []
+    databases: [BigQuery]
+    data: [Databricks, PySpark, Tableau, PowerBI, Pandas, NumPy]
+    cloud: [Microsoft Azure, Azure Machine Learning, AWS SageMaker, AWS Bedrock, Google
+        Cloud Platform]
+    ops: [MLflow, Docker, Kubernetes, Model Monitoring & Versioning, GitHub]
+    languages: [Python, Java, R, SQL]
+    domains: [Autonomous Vehicles, Robotics]
+    other: [ISO/PAS 8800, NIST AI Risk Management Framework, EU AI Act]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8681816'
+  extracted_at: '2026-03-27T14:33:23.372336'

@@ -1,0 +1,54 @@
+company:
+  name: dbt Labs
+  stage: Series C/D (implied by $100M+ ARR and top-tier investors)
+  focus: |-
+    Analytics engineering platform for data transformation and
+    AI use cases
+position:
+  title: AI Engineer, Go-To-Market
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying AI agents,
+      implementing AI-driven programs using LLM APIs, and creating
+      AI-powered automation workflows. The engineer will directly
+      work with AI/LLM tools (Claude, GPT APIs, Clay) to build
+      agents and AI capabilities, not just supporting
+      infrastructure for others.
+  responsibilities:
+  - Build and deploy AI agents that reduce manual data entry and enhance outbound
+    personalization at scale
+  - Implement AI-driven outbound programs using tools like Clay, Glean, Claude and
+    LLM APIs to automate account research, data enrichment, and personalized outreach
+    sequences
+  - Own the full lifecycle of AI capabilities and agents to automate GTM workflows
+    and improve GTM productivity
+  - Partner with GTM operations to identify productivity improvement opportunities
+    and leverage AI to improve operations and sales productivity
+  - Enable broader GTM organization with AI tools and capabilities and drive deeper
+    adoption by building highest impact AI use cases
+  - Experiment rapidly by prototyping AI solutions for current manual processes, measuring
+    results, and iterating to improve GTM funnel conversion
+  use_cases:
+  - Automated account research and data enrichment for sales teams
+  - Personalized outbound outreach sequences at scale
+  - GTM workflow automation to reduce manual data entry
+  - Sales productivity improvement through AI-powered tools
+  - Marketing pipeline generation and conversion optimization
+  skills:
+    genai: [Claude API, GPT/OpenAI API, LLM APIs, AI agents, Clay, Glean, Claude Code,
+      Cursor]
+    ml: []
+    web: []
+    databases: []
+    data: [Segment, Hightouch, Looker, Tableau]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [n8n, Zapier, Gumloop, Salesforce, HubSpot, Marketo, Clari, Gong, Outreach]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8794317'
+  extracted_at: '2026-03-27T16:09:52.957689'

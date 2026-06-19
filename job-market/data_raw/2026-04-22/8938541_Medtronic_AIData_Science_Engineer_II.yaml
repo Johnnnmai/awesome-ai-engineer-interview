@@ -1,0 +1,149 @@
+job_id: 8938541
+title: AI/Data Science Engineer II
+company: Medtronic
+location: IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Spark
+  - Aws Glue
+  - Azure Data Factory
+  - Docker
+  - Gcp Dataflow
+  - Hadoop
+  - Java
+  - Kubernetes
+  - MySQL
+  - Oracle
+company_size: 80,303 Employees
+description: |
+  At Medtronic you can begin a life-long career of exploration
+  and innovation, while helping champion healthcare access and
+  equity for all. You’ll lead with purpose, breaking down
+  barriers to innovation in a more connected, compassionate
+  world.
+  
+  A Day in the LifeData engineers are mainly tasked with
+  transforming data into a format that can be easily analyzed
+  and extract relevant and actionable (business) insights.
+  They do this by developing, maintaining, and testing
+  infrastructures for data generation. Data engineers work
+  closely with data scientists/Machine Learning researchers
+  and are largely in charge of architecting solutions for them
+  that enable them to do their jobs.
+  
+  Responsibilities may include the following and other duties
+  may be assigned
+  
+  - Design & Build Data Pipelines: Architect, implement, and
+    optimize ETL/ELT processes to ingest data from various
+    sources (databases, APIs, streaming systems).
+  - Data Modeling: Develop and maintain logical and physical
+    data models in data warehouses/lakes like AWS S3 & Athena
+    or Oracle.
+  - Deploy and manage data infrastructure on cloud platforms
+    (AWS, Azure, or GCP) using IaC tools to ensure
+    scalability, reliability and cost efficiency.
+  - Data Quality & Governance: Implement data validation,
+    monitoring, and alerting frameworks to ensure accuracy,
+    consistency, and security of data assets.
+  - Collaboration & Documentation: Understand requirements,
+    translate business needs into technical solutions, and
+    document data schemas, pipeline designs, and best
+    practices.
+  - Explore and integrate innovative data tools, including LLMs
+    and agentic systems, into the existing data ecosystem to
+    enhance analytics and automation.
+  
+  Required Knowledge and Experience
+  
+  - Bachelor’s degree in computer science, Engineering,
+    Information Systems, or a related field (or equivalent
+    work experience)
+  - 3+ years of hands-on experience in data engineering or
+    related roles
+  - Experience building and optimizing data pipelines,
+    architectures, and data sets
+  - Strong understanding of ETL/ELT concepts and best practices
+  
+  - Experience using LLMs and agentic tools for process
+    automation
+  - Proficient in SQL and relational databases (e.g.,
+    PostgreSQL, MySQL, Oracle)
+  - Experience with big data processing frameworks (e.g., Apache
+    Spark, Hadoop)
+  - Hands-on experience with cloud data services (e.g., AWS
+    Glue, Azure Data Factory, GCP Dataflow)
+  - Familiarity with scripting languages such as Python
+    (required), Scala, or Java
+  - Comfortable with shell scripting and command-line tools
+    (e.g., Bash, CLI)
+  - Experience with version control systems, especially Git,
+    including Git user interfaces (e.g., GitHub, GitLab)
+  - Experience with data transformation, metadata management,
+    dependencies, and workload orchestration
+  - Knowledge of data warehousing solutions (e.g., Snowflake)
+  
+  - Strong analytical and problem-solving skills
+  - Effective verbal and written communication skills
+  - Customer-focused mindset with the ability to adapt to
+    evolving needs
+  - Collaborative, proactive, and able to build trust with both
+    internal and external stakeholders
+  - Comfortable navigating ambiguity and solving complex, large-
+    scale problems
+  - Curious, resilient, and motivated to continuously improve
+    and explore new solutions.
+  
+  Preferred Qualifications
+  
+  - Master’s degree in a relevant field.
+  - Experience with containerization and orchestration (Docker,
+    Kubernetes).
+  - Familiarity with real-time data streaming.
+  - Understanding of data privacy and security standards (GDPR,
+    HIPAA).
+  - Exposure to BI tools (Looker, Tableau, Power BI) and
+    dashboard development.
+  - Certification in cloud platforms (AWS Certified Data
+    Analytics, Google Professional Data Engineer, Azure Data
+    Engineer Associate).
+  
+  Physical Job Requirements The above statements are intended
+  to describe the general nature and level of work being
+  performed by employees assigned to this position, but they
+  are not an exhaustive list of all the required
+  responsibilities and skills of this position.
+  
+  Benefits & Compensation
+  
+  Medtronic offers a competitive Salary and flexible Benefits
+  Package A commitment to our employees lives at the core of
+  our values. We recognize their contributions. They share in
+  the success they help to create.  We offer a wide range of
+  benefits, resources, and competitive compensation plans
+  designed to support you at every career and life stage.
+  
+  
+  This position is eligible for a short-term incentive called
+  the Medtronic Incentive Plan (MIP).
+  
+  About Medtronic
+  
+  We lead global healthcare technology and boldly attack the
+  most challenging health problems facing humanity by
+  searching out and finding solutions. Our Mission — to
+  alleviate pain, restore health, and extend life — unites a
+  global team of 95,000+ passionate people. We are engineers
+  at heart— putting ambitious ideas to work to generate real
+  solutions for real people. From the R&D lab, to the factory
+  floor, to the conference room, every one of us experiments,
+  creates, builds, improves and solves. We have the talent,
+  diverse perspectives, and guts to engineer the
+  extraordinary.
+  
+  Learn more about our business, mission, and our commitment
+  to diversity here
+posted_date: 2026-04-02
+url: "https://builtin.com/job/ai-data-science-engineer-ii/8938541"
+source: Built In

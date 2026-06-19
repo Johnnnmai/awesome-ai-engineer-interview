@@ -1,0 +1,51 @@
+company:
+  name: Target
+  stage: Public
+  focus: Fortune 50 retail giant with global technology operations
+position:
+  title: Lead Engineer - Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly integrating LLMs and GenAI-
+      powered features into core applications, building agentic
+      frameworks, and mitigating hallucinations. The engineer is
+      hands-on with OpenAI APIs/SDKs and AI-driven automation,
+      making this an ai-first role focused on building and
+      deploying AI systems.
+  responsibilities:
+  - Design scalable architecture and oversee all services/functionalities the team
+    develops, ensuring code and infrastructure quality standards
+  - Hands-on development of production-ready, deployable, scalable, and resilient
+    solutions
+  - Integrate Large Language Models (LLMs) and GenAI-powered features into core merchandising
+    and retail applications
+  - Build agentic frameworks and AI-driven automation for process enhancement
+  - Build robust systems that mitigate hallucinations and improve AI reliability
+  - Ensure product observability, monitoring, and operational reliability across services
+  - Ensure security of the product with a security-first mindset across teams
+  - Plan and deliver team work while mentoring and coaching team members
+  use_cases:
+  - GenAI-powered features integrated into enterprise retail merchandising platforms
+  - Agentic frameworks for automating merchandising and retail operations processes
+  - AI-driven automation for pricing, promotions, item management, and supplier data
+    workflows
+  - Hallucination mitigation and reliability improvement for LLM-powered retail applications
+  - Intelligent automation for merch planning, space presentation, and transitions
+  skills:
+    genai: [OpenAI APIs, LLM Integration, Agentic Frameworks, GenAI]
+    ml: []
+    web: [Spring Boot, Micronaut, Microservices Architecture, GraphQL]
+    databases: [PostgreSQL, Cassandra, MongoDB]
+    data: [Kafka, RabbitMQ]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, Jenkins, GitLab CI/CD, Grafana, ELK Stack, Prometheus,
+      Spock, JUnit, TestContainers, PyTest]
+    languages: [Java, Python, Kotlin, SQL]
+    domains: []
+    other: [Event-Driven Architecture, OWASP, Agile/Scrum/Kanban]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9041988'
+  extracted_at: '2026-04-22T13:09:43.173095'

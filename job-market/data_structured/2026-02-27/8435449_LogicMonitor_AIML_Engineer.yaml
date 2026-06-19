@@ -1,0 +1,50 @@
+company:
+  name: LogicMonitor
+  stage: null
+  focus: |-
+    AI-first hybrid observability platform for IT infrastructure
+    monitoring
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying LLM-based
+      solutions, implementing RAG systems, developing NLP models,
+      and creating generative AI features for the Edwin AI team.
+      The engineer will work hands-on with models, fine-tuning,
+      prompt engineering, and real-time AI model deployment.
+  responsibilities:
+  - Build and optimize LLM-based solutions for generating incident reports, root cause
+    explanations, and remediation suggestions
+  - Implement retrieval-augmented generation (RAG) to surface relevant documentation,
+    logs, and knowledge base insights
+  - Develop semantic search and context-aware retrieval solutions for IT observability
+    data
+  - Optimize AI models for real-time performance in distributed, cloud-native environments
+  - Deploy and scale AI models on AWS, GCP, and Kubernetes infrastructure
+  - Collaborate cross-functionally with platform engineers, product teams, and data
+    scientists
+  - Stay current with AI/ML advancements and apply them to observability solutions
+  use_cases:
+  - Automated incident reporting and root cause analysis for IT infrastructure
+  - AI-powered remediation suggestions for IT operations
+  - Semantic search across logs, metrics, and documentation
+  - Context-aware observability insights for IT teams
+  - Natural language querying of infrastructure monitoring data
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, LangChain, OpenAI]
+    ml: [Hugging Face, NLP, Transformer models, Embedding-based search, Semantic retrieval]
+    web: [REST APIs, Microservices]
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Kubernetes, Docker]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8435449'
+  extracted_at: '2026-03-03T12:13:03.203638'

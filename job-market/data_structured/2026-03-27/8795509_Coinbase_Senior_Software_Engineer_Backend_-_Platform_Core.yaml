@@ -1,0 +1,54 @@
+company:
+  name: Coinbase
+  stage: Public
+  focus: Cryptocurrency exchange and blockchain platform
+position:
+  title: Senior Software Engineer, Backend - Platform (Core AI Automation)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly applying GenAI techniques
+      including LLMs and Agentic AI to build AI infrastructure and
+      automation solutions. The position requires hands-on work
+      with AI models and frameworks to create AI-powered customer
+      interactions, not just supporting infrastructure for others'
+      AI work.
+  responsibilities:
+  - Explore and apply advanced GenAI techniques including LLMs and Agentic AI to solve
+    complex organizational challenges
+  - Write high-quality, well-tested code in Python and Golang for critical product
+    and business needs
+  - Architect scalable, secure systems using modern cloud technologies and industry
+    best practices
+  - Build pipelines to integrate with third-party vendors and streamline workflows
+  - Debug complex technical issues to enhance system reliability, scalability, and
+    ease of operation
+  - Mentor team members on design principles, coding standards, and AI productivity
+    tools adoption
+  - Review and ensure security, scalability, and architectural integrity of feature
+    designs across teams
+  - Use generative AI tools and copilots with human-in-the-loop practices to deliver
+    business-ready outputs
+  use_cases:
+  - Customer support automation
+  - Compliance team workflow streamlining
+  - AI-powered customer interactions
+  - Cryptocurrency adoption barrier reduction
+  - Enterprise productivity enhancement
+  - Blockchain data processing and automation
+  skills:
+    genai: [LLMs, Agentic AI, GenAI frameworks, LibreChat, Gemini, Glean]
+    ml: []
+    web: [Microservices architecture]
+    databases: [Postgres, MongoDB]
+    data: []
+    cloud: [Cloud technologies]
+    ops: [Docker, AI/LLM infrastructure]
+    languages: [Python, Golang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8795509'
+  extracted_at: '2026-03-27T13:14:57.599237'

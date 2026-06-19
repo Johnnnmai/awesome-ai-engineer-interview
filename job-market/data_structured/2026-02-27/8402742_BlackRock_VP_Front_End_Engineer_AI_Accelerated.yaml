@@ -1,0 +1,53 @@
+company:
+  name: BlackRock
+  stage: Public
+  focus: |-
+    Investment management and financial technology platform
+    (Aladdin)
+position:
+  title: VP, Front End Engineer (AI Accelerated)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a frontend engineering leadership role that uses AI
+      tools (like AI-assisted code generation) as productivity
+      accelerators, but the core work is building UI frameworks
+      and micro-frontends for BlackRock's investment platform. The
+      role doesn't involve building, training, or deploying AI/ML
+      models - AI is used as a development tool, not as the
+      primary work product.
+  responsibilities:
+  - Build highly available, resilient, and performant frontend systems and frameworks
+    used by thousands of users
+  - Contribute to evolution of Aladdin's multi-asset trading and portfolio management
+    capabilities using AI to accelerate domain learning and solution design
+  - Shape product direction with Product, Design, and Engineering leadership
+  - Mentor and guide frontend engineers, cultivating culture of curiosity, inclusion,
+    and technical excellence
+  - Collaborate with colleagues across UK, US, India, and other global offices in
+    Agile setup
+  - Use AI proactively as development accelerator while validating and refining to
+    ensure high-quality outcomes
+  - Design elegant solutions from idea to production with strong engineering discipline
+  use_cases:
+  - Portfolio management workflows for $14+ trillion in assets
+  - Multi-asset trading capabilities
+  - Real-time portfolio decision support tools
+  - Investment analytics and operational tools
+  - Developer tooling and frontend frameworks at enterprise scale
+  skills:
+    genai: [AI-assisted code generation, prompt engineering]
+    ml: []
+    web: [Angular, React, micro-frontends]
+    databases: []
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [CI/CD, Azure DevOps]
+    languages: [TypeScript, JavaScript, Java]
+    domains: []
+    other: [distributed systems]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8402742'
+  extracted_at: '2026-03-03T12:56:17.923412'

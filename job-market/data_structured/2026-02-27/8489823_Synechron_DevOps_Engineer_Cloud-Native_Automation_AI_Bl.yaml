@@ -1,0 +1,58 @@
+company:
+  name: Synechron
+  stage: null
+  focus: |-
+    Global digital transformation consulting firm specializing
+    in financial services technology solutions
+position:
+  title: DevOps Engineer – Cloud-Native, Automation, AI, Blockchain & Emerging Technologies
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a DevOps/Infrastructure role focused on building
+      platforms and deployment pipelines that support AI/ML
+      workloads, blockchain, and IoT. The role involves supporting
+      AI/ML deployment pipelines and model integration, but does
+      not involve building, training, fine-tuning, or deploying
+      the actual AI models themselves. This is enabling
+      infrastructure for others who work on AI.
+  responsibilities:
+  - Lead the development and deployment of innovative solutions using emerging technologies
+    supporting cloud-native and DevOps best practices
+  - Mentor and guide teams in adopting automation, infrastructure as code, and continuous
+    delivery methodologies
+  - Design scalable, secure, and reliable architecture for critical enterprise systems
+  - Build and enhance automation frameworks and deployment pipelines supporting iterative
+    releases
+  - Support system monitoring, incident response, and troubleshooting to ensure high
+    availability and security
+  - Architect and implement solutions combining cloud, blockchain, IoT, or AI to meet
+    enterprise needs
+  - Develop, automate, and optimize deployment pipelines supporting continuous integration
+    and delivery
+  - Lead technical evaluations, proof-of-concept projects, and design workshops
+  use_cases:
+  - Cloud-native infrastructure automation for emerging technologies
+  - AI/ML deployment pipeline support and model integration
+  - Blockchain platform deployment and management
+  - IoT device management and infrastructure
+  - Enterprise system reliability and security compliance
+  - DevOps automation and continuous delivery
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Terraform, CloudFormation, Ansible, Docker, Kubernetes, Prometheus, Grafana,
+      CloudWatch, OpenTelemetry, Jenkins, GitHub Actions, Azure DevOps, AI/ML deployment
+        pipelines]
+    languages: [Python, Shell scripting, PowerShell]
+    domains: []
+    other: [Hyperledger, Ethereum, Blockchain, IoT]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8489823'
+  extracted_at: '2026-03-03T12:40:08.189973'

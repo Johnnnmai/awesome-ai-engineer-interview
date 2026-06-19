@@ -1,0 +1,46 @@
+company:
+  name: Novara Software, LLC
+  stage: Private Equity-backed (Providence Equity portfolio company)
+  focus: |-
+    Safety and operational risk management software for
+    workplace compliance and incident prevention
+position:
+  title: Senior Software Engineer - AI Platforms
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves building product capabilities
+      powered by LLM workflows, which is direct hands-on work with
+      AI/LLM systems. The engineer will be implementing and
+      deploying LLM-based functionality within the Flex platform,
+      making this an AI-first role focused on building AI-powered
+      features.
+  responsibilities:
+  - Build product capabilities powered by LLM workflows
+  - Deliver modern AI-powered product functionality
+  - Develop features for safety compliance and risk management platforms
+  - Implement AI solutions that help clients manage workplace safety
+  - Work on the Flex platform's AI integration
+  - Contribute to the development team's AI initiatives
+  use_cases:
+  - Workplace safety compliance automation
+  - Operational risk management
+  - Incident prevention and management
+  - Audit and inspection automation
+  - Training program optimization
+  skills:
+    genai: [LLM workflows]
+    ml: []
+    web: [FastAPI]
+    databases: [Postgres]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8793627'
+  extracted_at: '2026-03-27T15:36:08.303923'

@@ -1,0 +1,168 @@
+job_id: 9018591
+title: "Senior Machine Learning Engineer (Full-Stack Gen AI & Agentic Systems)"
+company: Expedia Group
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Autogen
+  - AWS
+  - Azure
+  - Cloud Infrastructure
+  - Container Orchestration
+  - Distributed Gpu Training
+  - Genai
+  - Langchain
+  - Llm Training
+  - Multi-Agent Systems
+company_size: 16,000 Employees
+description: |
+  Expedia Group brands power global travel for everyone,
+  everywhere. We design cutting-edge tech to make travel
+  smoother and more memorable, and we create groundbreaking
+  solutions for our partners. Our diverse, vibrant, and
+  welcoming community is essential in driving our success.
+  
+  Why Join Us?
+  
+  To shape the future of travel, people must come first.
+  Guided by our Values and Leadership Agreements, we foster an
+  open culture where everyone belongs, differences are
+  celebrated and know that when one of us wins, we all win.
+  
+  We provide a full benefits package, including exciting
+  travel perks, generous time-off, parental leave, a flexible
+  work model (with some pretty cool offices), and career
+  development resources, all to fuel our employees' passion
+  for travel and ensure a rewarding career journey. We’re
+  building a more open world. Join us.
+  
+  We create and deliver tailored marketing strategies for
+  Expedia Group’s brands, focusing on establishing strong
+  connections and cohesive experiences for travelers and
+  partners. We leverage our functional expertise and creative
+  excellence to build trust and loyalty for our brands through
+  innovative marketing approaches and technology.
+  
+  Our Growth Marketing team is redefining how AI-driven,
+  agentic automation meets data-powered marketing. We build
+  production-ready multimodal LLMs, GenAI, and agentic NLP
+  architectures that power personalized travel discovery,
+  real-time cross-platform campaign execution, and interactive
+  chatbots. For example, “Trip Matching” on Instagram
+  transforms inspiring reels and posts into instant hotel
+  recommendations—powered entirely by our production AI.
+  
+  We are looking for a hands-on Senior Machine Learning
+  Engineer who thrives on building end-to-end systems, from
+  backend architecture to user-facing interfaces, including UX
+  design, observability, and product integration.
+  
+  In this role, you will:
+  
+  - Architect, build, and ship enterprise-scale GenAI, RAG, and
+    multi-agent systems end-to-end, including frontend,
+    backend, and user interfaces.
+  - Design hierarchical multi-agent ecosystems with interactive
+    UIs, dashboards, and safety/observability features.
+  - Develop memory architectures: short-term contextual memory,
+    long-term episodic memory, knowledge graph augmentation,
+    and adaptive retrieval systems.
+  - Lead hands-on implementation of RAG pipelines, vector memory
+    systems, and agent orchestration frameworks (LangChain,
+    AutoGen, OpenAI Agents SDK).
+  - Train, fine-tune, adapt (LoRA/QLoRA/adapters), and distill
+    LLMs, including RLHF/DPO, for production-ready chatbots
+    and GenAI products.
+  - Build multimodal pipelines integrating vision, audio, text,
+    and structured data, optimizing for scalability and
+    latency.
+  - Collaborate with product, and engineering teams to create
+    intuitive, user-friendly interfaces and ensure seamless
+    end-to-end user experiences.
+  - Influence platform and product roadmaps with measurable KPIs
+    and own critical technology decisions.
+  - Mentor engineers and ML scientists, set technical standards,
+    conduct design reviews, and contribute to the
+    organization’s technical maturity.
+  - Represent the organization externally via open-source
+    contributions, patents, conferences, and publications.
+  
+  Experience and Qualifications:
+  
+  Minimum Qualifications
+  
+  - 10+ years in software engineering, ML, and AI systems, with
+    production GenAI deployments.
+  - Deep expertise in LLM training, adaptation, distillation,
+    RLHF/DPO, and RAG systems.
+  - Proven experience building and operating multi-agent AI
+    platforms with observability and safety frameworks.
+  - Strong background in distributed GPU training and inference,
+    cloud infrastructure (AWS/Azure), container orchestration,
+    and ML tooling.
+  - Demonstrated ability to lead end-to-end product development,
+    including UX/UI design and frontend/backend integration.
+  - Excellent communication skills, able to present complex
+    architecture and product concepts to executives.
+  
+  Nice To Have
+  
+  - PhD in Computer Science, Machine Learning, or a related
+    field.
+  - Recognized industry presence through publications, patents,
+    talks, or open-source contributions in LLMs, RAG, or
+    agentic systems.
+  - Experience integrating multimodal LLM systems (vision,
+    audio, music, structured data).
+  - Leadership in GenAI safety, evaluation, testing, and
+    monitoring.
+  - Strong cross-disciplinary fluency in modeling,
+    infrastructure, product, and design.
+  
+  #LI-MF2
+  
+  Accommodation requests
+  
+  If you need assistance with any part of the application or
+  recruiting process due to a disability, or other physical or
+  mental health conditions, please reach out to our Recruiting
+  Accommodations Team through the Accommodation Request.
+  
+  We are proud to be named as a Best Place to Work on
+  Glassdoor in 2024 and be recognized for award-winning
+  culture by organizations like Forbes, TIME, Disability:IN,
+  and others.
+  
+  Expedia Group's family of brands includes: Brand Expedia®,
+  Hotels.com®, Expedia® Partner Solutions, Vrbo®, trivago®,
+  Orbitz®, Travelocity®, Hotwire®, Wotif®, ebookers®,
+  CheapTickets®, Expedia Group™ Media Solutions, Expedia Local
+  Expert®, CarRentals.com™, and Expedia Cruises™. © 2024
+  Expedia, Inc. All rights reserved. Trademarks and logos are
+  the property of their respective owners. CST: 2029030-50
+  
+  Employment opportunities and job offers at Expedia Group
+  will always come from Expedia Group’s Talent Acquisition and
+  hiring teams. Never provide sensitive, personal information
+  to someone unless you’re confident who the recipient is.
+  Expedia Group does not extend job offers via email or any
+  other messaging tools to individuals with whom we have not
+  made prior contact. Our email domain is @expediagroup.com.
+  The official website to find and apply for job openings at
+  Expedia Group is careers.expediagroup.com/jobs.
+  
+  Expedia is committed to creating an inclusive work
+  environment with a diverse workforce. All qualified
+  applicants will receive consideration for employment without
+  regard to race, religion, gender, sexual orientation,
+  national origin, disability or age.
+industries:
+  - AdTech
+  - eCommerce
+  - Information Technology
+  - Travel
+  - Generative AI
+posted_date: 2026-04-22
+url: "https://builtin.com/job/senior-machine-learning-engineer-full-stack-gen-ai-agentic-systems/9018591"
+source: Built In

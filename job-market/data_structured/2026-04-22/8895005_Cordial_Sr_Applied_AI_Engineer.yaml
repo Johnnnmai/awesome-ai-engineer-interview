@@ -1,0 +1,48 @@
+company:
+  name: Cordial
+  stage: null
+  focus: |-
+    Marketing technology platform enabling personalized customer
+    communication
+position:
+  title: Sr. Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on building, productizing, and
+      deploying AI-powered solutions using LLMs, RAG
+      architectures, and orchestration frameworks. The engineer
+      will be a primary contributor to the company's AI strategy
+      and directly implement frontier AI models into production,
+      making this an ai-first role.
+  responsibilities:
+  - Be a primary contributor to AI strategy, helping design and productize AI-powered
+    solutions within the Cordial platform
+  - Dive into massive datasets with autonomy to turn ideas into real-world results
+    for clients
+  - Serve as an expert sounding board on approaches and techniques for integrating
+    LLMs into production applications
+  - Partner with product management to drive compelling AI solutions and features
+  - Continuously explore and implement innovative approaches using frontier AI models
+    to solve complex business challenges
+  use_cases:
+  - AI-powered marketing automation and personalized customer messaging
+  - LLM-driven content generation for brand communications
+  - RAG-based intelligent features within a marketing platform
+  - AI-assisted efficiency tools for marketing platform users
+  skills:
+    genai: [OpenAI API, Anthropic API, Prompt Engineering, RAG, LangChain, LlamaIndex]
+    ml: []
+    web: [REST API development]
+    databases: [NoSQL database design, RDBMS design and optimization]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8895005'
+  extracted_at: '2026-04-22T13:28:42.008237'

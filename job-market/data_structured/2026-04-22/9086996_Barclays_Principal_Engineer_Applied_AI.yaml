@@ -1,0 +1,57 @@
+company:
+  name: Barclays
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Principal Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first: the Principal Engineer is
+      hands-on architecting AI/ML systems, building agentic
+      frameworks (LangGraph, LangChain, CrewAI), working with LLM
+      training/fine-tuning, RAG/context engineering, and
+      integrating models into production via MLOps. The role
+      involves directly building and deploying AI solutions, not
+      just supporting infrastructure for others.
+  responsibilities:
+  - Serve as the primary code-level reviewer and hands-on architect for the most complex
+    AI/ML systems and frameworks
+  - Define and enforce technology roadmaps, best practices, strategies, and standards
+    for AI/ML adoption across the organization
+  - Conduct and guide research on context/prompt engineering techniques, translating
+    successful research into reusable engineering frameworks
+  - Architect and maintain robust data pipelines and data processing workflows for
+    model training and tuning utilizing cloud services
+  - Implement and champion MLOps tools and practices ensuring seamless integration
+    of ML models and LLMs into production environments
+  - Lead the effort to agentize existing systems by incorporating agentic frameworks
+    and integrating via A2A and MCP protocols
+  - Partner with cross-functional teams to integrate AI/ML solutions into products
+    and services
+  - Mentor and coach junior and senior engineers on advanced AI/ML techniques, best
+    practices, and architecture design
+  use_cases:
+  - AI-driven customer experience enhancement in banking and financial services
+  - Streamlining business operations with cutting-edge AI solutions
+  - Agentizing existing front-end and back-end applications with agentic frameworks
+  - LLM fine-tuning and domain-specific knowledge integration for banking
+  - Production deployment and scaling of AI/ML models across the organization
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, Strands SDK, Google ADK, MCP (Model Context
+        Protocol), A2A (Agent-to-Agent), Prompt Engineering, RAG, LLM Fine-Tuning,
+      Agentic AI]
+    ml: [Deep Learning, Natural Language Processing, Reinforcement Learning, PyTorch]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, Jenkins, Git, MLOps]
+    languages: [Python, R, SQL]
+    domains: [NLP, Banking & Financial Services]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9086996'
+  extracted_at: '2026-04-22T14:07:43.788118'

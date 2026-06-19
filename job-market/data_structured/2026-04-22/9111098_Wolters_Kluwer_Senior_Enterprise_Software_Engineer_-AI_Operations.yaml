@@ -1,0 +1,65 @@
+company:
+  name: Wolters Kluwer
+  stage: Public
+  focus: |-
+    Enterprise information services, software, and solutions for
+    professional sectors
+position:
+  title: Senior Enterprise Software Engineer -AI Operations
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on building, deploying, fine-
+      tuning, and orchestrating AI/LLM systems at enterprise
+      scale. The engineer directly architects multi-agent
+      pipelines, RAG systems, LLM fine-tuning workflows, and model
+      serving infrastructure on AWS Bedrock and Azure AI Foundry.
+      This is hands-on AI system construction, not support work.
+  responsibilities:
+  - Architect end-to-end cloud-native AI systems on AWS and Azure, from data ingestion
+    through LLM serving, evaluation, and monitoring
+  - Build production multi-agent systems using Amazon Bedrock AgentCore and Microsoft
+    Agent Framework (Semantic Kernel + AutoGen)
+  - Design and deploy RAG pipelines using Amazon Bedrock Knowledge Bases and Azure
+    AI Search with vector stores
+  - Implement LLM fine-tuning workflows including Amazon Bedrock Reinforcement Fine-Tuning
+    and model distillation
+  - Build containerized model serving infrastructure on EKS with Triton Inference
+    Server and serverless inference endpoints
+  - Establish AI evaluation frameworks measuring accuracy, fairness, bias, toxicity,
+    and safety across deployments
+  - Lead red-teaming, adversarial testing, and responsible AI enforcement with Bedrock
+    Guardrails and Azure Content Safety
+  - Mentor cross-functional AI engineering teams and drive org-wide AI engineering
+    standards and best practices
+  use_cases:
+  - Multi-agent orchestration pipelines for enterprise workflow automation
+  - RAG-powered knowledge systems for enterprise search and retrieval
+  - Browser-based workflow automation agents for form filling, data extraction, and
+    QA testing
+  - Enterprise document processing and intelligent content understanding across text,
+    audio, video, and images
+  - Deep research agents for composable, programmable enterprise research workflows
+  - Domain-specific model customization for regulated industries (legal, compliance,
+    healthcare)
+  skills:
+    genai: [Amazon Bedrock AgentCore, RAG, Multi-agent orchestration, Semantic Kernel,
+      AutoGen, LLM fine-tuning, Prompt engineering, Bedrock Guardrails, Model distillation,
+      Microsoft 365 Copilot, Prompt caching]
+    ml: []
+    web: []
+    databases: [Amazon S3 Vectors, Azure AI Search]
+    data: [Azure Event Hubs]
+    cloud: [Amazon Bedrock, Azure AI Foundry, Amazon Nova, Azure OpenAI, Amazon EKS,
+      Karpenter, AWS Lambda, AWS CDK, Azure Bicep, Azure AI Content Safety, EC2 Trainium,
+      Azure API Management]
+    ops: [Triton Inference Server, Terraform, MLflow, Amazon CloudWatch, AWS X-Ray,
+      Azure Monitor, Docker]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI / AI governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9111098'
+  extracted_at: '2026-04-22T14:09:41.332931'

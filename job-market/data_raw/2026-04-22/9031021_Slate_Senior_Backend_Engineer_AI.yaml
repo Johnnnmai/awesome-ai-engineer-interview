@@ -1,0 +1,121 @@
+job_id: 9031021
+title: Senior Backend Engineer, AI
+company: Slate
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Anthropic Apis
+  - AWS
+  - Node.js
+  - Openai
+  - Postgres
+  - Redis
+  - Replicate
+  - Typescript
+description: |
+  The Pitch
+  
+  Slate’s product already uses AI across the stack —
+  background removal, active speaker detection, auto-
+  captioning, content suggestions, and image generation — but
+  each of these is its own independent integration. We need a
+  Senior Backend Engineer focused on AI to bring this
+  together: unifying how we integrate models, building the
+  infrastructure that makes AI features reliable at scale, and
+  helping us move faster on the next wave of AI-powered
+  capabilities.
+  
+  What You’ll Actually DoBuild the AI platform layer
+  
+  - Design and build the shared infrastructure for AI
+    integrations across Slate’s backend: model routing, prompt
+    management, response caching, fallback handling, and cost
+    observability
+  - Refactor existing one-off AI integrations (background
+    removal, captioning, etc.) onto a unified platform
+  - Own the reliability, performance, and cost-efficiency of
+    Slate’s AI systems
+  
+  Enable new AI features
+  
+  - Work closely with the AI Product Engineer and product team
+    to bring new AI capabilities to production
+  - Build the backend systems that power real-time AI features —
+    handling streaming, async processing, and latency
+    constraints
+  - Evaluate and integrate new models and APIs as they become
+    available
+  
+  Raise the quality bar
+  
+  - Define evaluation frameworks and monitoring to track AI
+    feature quality over time
+  - Build systems to detect and alert on model regressions or
+    degraded outputs
+  - Ensure AI features meet the same reliability bar as the rest
+    of Slate’s infrastructure
+  
+  You’d Be a Great Fit IfYou have the experience:
+  
+  - 5+ years of backend engineering experience, with a track
+    record of shipping production systems
+  - Hands-on experience integrating and operating LLMs or ML
+    models at scale
+  - Strong systems thinking — you design for reliability,
+    observability, and cost from the start
+  
+  You’ve done work like this before:
+  
+  - Built shared AI infrastructure used by multiple teams or
+    features
+  - Designed async processing pipelines for ML workloads
+  - Worked with OpenAI, Anthropic, Replicate, or similar APIs in
+    production
+  
+  You work the way we work:
+  
+  - You own the outcomes, not just the tasks
+  - You communicate clearly and raise issues early
+  - You use AI tools in your own workflow and think about how to
+    apply them to hard engineering problems
+  
+  Tech Stack
+  
+  Node.js, TypeScript, PostgreSQL, Redis, AWS, OpenAI /
+  Anthropic APIs, Replicate
+  
+  The Details
+  
+  - Location: Remote, anywhere from EST (UTC-5) to UTC+2
+  - Reporting to: Maciej Kucharek, Head of Engineering
+  - Compensation: US $170k–200k | Rest of World $95k–140k USD +
+    equity
+  
+  Benefits
+  
+  - Equity options
+  - Unlimited PTO (we actually take it)
+  - $200/month wellness stipend
+  - Health insurance stipend
+  - Home office budget
+  
+  About Slate
+  
+  Slate is the creative workspace for brand social teams. We
+  help teams create and ship on-brand content fast with an
+  all-in-one editor, built-in asset management, and seamless
+  creative file workflows, backed by hands-on support from
+  people who have done the job. Teams across top sports
+  leagues and global brands like Amazon and Hoka use Slate
+  every day to elevate their social presence.
+  
+  Note: We do not sponsor work visas.
+  
+  Slate is an equal opportunity employer. We celebrate
+  diversity and are committed to creating an inclusive
+  environment for all employees, regardless of background,
+  identity, or experience.
+posted_date: 2026-04-20
+url: "https://www.builtinla.com/job/senior-backend-engineer-ai/9031021"
+source: Built In

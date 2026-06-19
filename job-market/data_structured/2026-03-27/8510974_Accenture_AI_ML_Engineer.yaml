@@ -1,0 +1,51 @@
+company:
+  name: Accenture
+  stage: Public
+  focus: |-
+    Global professional services for digital transformation,
+    cloud, data and AI
+position:
+  title: AI / ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying AI
+      models, including GenAI models, deep learning, neural
+      networks, and chatbots. The engineer directly develops AI
+      applications and systems, integrates AI models into
+      production pipelines, and works with cloud AI services - all
+      core activities of working ON AI systems.
+  responsibilities:
+  - Design and build advanced applications and systems leveraging AI technologies
+    and cloud-based services
+  - Integrate generative AI and other AI models into scalable production-ready pipelines
+  - Lead the design and implementation of AI solutions ensuring alignment with organizational
+    goals
+  - Collaborate with cross-functional teams to ensure seamless implementation of AI-driven
+    solutions
+  - Optimize system performance and explore innovative approaches including deep learning
+    and neural networks
+  - Mentor junior team members and coordinate with stakeholders to gather requirements
+  - Engage with multiple teams and provide solutions across teams as an SME
+  use_cases:
+  - Chatbot development and conversational AI systems
+  - Image processing and computer vision applications
+  - Generative AI solutions for business capabilities
+  - Deep learning and neural network implementations
+  - Cloud-based and on-premises AI application deployment
+  skills:
+    genai: [Generative AI, Chatbots]
+    ml: [Data Science, Deep learning, Neural networks]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud AI services]
+    ops: []
+    languages: []
+    domains: [Image processing]
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8510974'
+  extracted_at: '2026-03-27T14:53:43.562001'

@@ -1,0 +1,54 @@
+company:
+  name: Clarity AI
+  stage: Series B or later
+  focus: |-
+    Sustainability tech platform providing ESG data and
+    analytics for investors, governments, and companies
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying GenAI/LLM
+      systems including RAG implementations, evaluation systems,
+      and model fine-tuning (SFT, LoRA). The engineer will
+      implement advanced retrieval strategies, optimize reasoning
+      loops, and build production-grade AI features - all hands-on
+      work with models and agents.
+  responsibilities:
+  - Design and execute experiments to improve GenAI capabilities with focus on user
+    value, reliability, and cost-effectiveness
+  - Build robust multi-dimensional evaluation suites using LLM-as-a-judge, semantic
+    checks, and unit tests to ensure production-ready features
+  - Implement and optimize advanced RAG strategies including hybrid search, reranking,
+    and agentic retrieval
+  - Optimize complex reasoning loops using Chain-of-Thought (CoT) and ReAct patterns
+    for smarter agents
+  - Lead strategy for supervised fine-tuning (SFT) and Parameter-Efficient Fine-Tuning
+    (LoRA) workflows
+  - Balance quality-cost-latency tradeoffs while optimizing token usage and reducing
+    inference latency
+  - Bridge latest AI developments with tangible product impact through rapid experimentation
+  use_cases:
+  - Sustainability and ESG data analysis for investors and companies
+  - AI-powered evaluation and validation of sustainability metrics
+  - Intelligent retrieval and reasoning for environmental impact assessment
+  - Production-grade GenAI features for sustainable decision-making
+  - Anti-hallination systems for reliable sustainability reporting
+  skills:
+    genai: [RAG, LLM orchestration, Chain-of-Thought reasoning, ReAct reasoning, Prompt
+        engineering, Hybrid search, Reranking, Agentic retrieval, LLM-as-a-judge evaluation]
+    ml: [Supervised Fine-Tuning (SFT), LoRA]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [OpenAI, Anthropic, AWS Bedrock, GCP Vertex AI]
+    ops: [Inference optimization]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8695738'
+  extracted_at: '2026-03-27T13:41:24.039322'

@@ -1,0 +1,54 @@
+company:
+  name: BlackRock
+  stage: Public
+  focus: Global investment management and financial technology
+position:
+  title: Associate - AI Integration Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves integrating LLM-based
+      technologies (ChatGPT, Copilot, Snowflake Cortex) into
+      business workflows, designing prompts, building AI-powered
+      assistants, and embedding intelligent automation. While it's
+      integration-focused rather than model training, the engineer
+      is hands-on with LLM platforms, prompt engineering, and AI
+      feature development — making it ai-first.
+  responsibilities:
+  - Design, prototype and implement AI-powered assistants for data analysis, reporting
+    and decision support
+  - Integrate Microsoft Copilot into Power BI dashboards and Power Apps workflows
+    to enhance user efficiency
+  - Develop and optimize prompt libraries for ChatGPT and other LLM-based assistants
+  - Leverage Snowflake Cortex and approved AI platforms to embed intelligent automation
+    into the data ecosystem
+  - Lead rapid experimentation with AI tools, evaluating feasibility, accuracy and
+    business impact
+  - Translate business use cases into structured AI workflows and solutions
+  - Implement guidelines for AI usage including security, governance, and alignment
+    with standards
+  - Monitor AI feature performance, analyze usage trends and drive improvements through
+    iteration
+  use_cases:
+  - AI-powered data analysis and reporting assistants
+  - Intelligent automation embedded in BI dashboards and application workflows
+  - Decision support systems powered by LLMs
+  - Prompt-driven automation for enterprise data pipelines
+  - AI-enhanced business intelligence for financial services
+  skills:
+    genai: [Prompt Engineering, OpenAI ChatGPT API, Microsoft Copilot, Snowflake Cortex,
+      LLM Integration]
+    ml: []
+    web: [Power BI, Power Apps, Power Automate, REST API Integration]
+    databases: [Snowflake]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [SQL, Python, JavaScript]
+    domains: []
+    other: [Workflow Automation, AI Governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8974985'
+  extracted_at: '2026-04-22T13:53:04.665189'

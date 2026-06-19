@@ -1,0 +1,52 @@
+company:
+  name: Fluxon
+  stage: Unknown
+  focus: |-
+    Technology consulting and engineering services for
+    enterprise clients
+position:
+  title: Senior Software Engineer (AI Engineer)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying
+      AI/ML systems including RAG systems, agentic workflows,
+      model fine-tuning, and production deployment of LLMs. The
+      engineer will directly work with models, frameworks, and AI
+      infrastructure rather than supporting others who work on AI.
+  responsibilities:
+  - Design and implement end-to-end AI systems including data ingestion, preprocessing,
+    model inference, and output structuring
+  - Build and optimize RAG (Retrieval-Augmented Generation) systems and Agentic workflows
+    using frameworks like LangChain and LangGraph
+  - Deploy models to production environments on AWS/GCP/Azure using Docker and Kubernetes
+  - Implement feedback loops to evaluate model performance and set up monitoring for
+    production drift
+  - Fine-tune open-source models (Llama, Mistral) for specific domain tasks and optimize
+    for latency and cost
+  - Collaborate with engineers to integrate AI endpoints into core products and with
+    product managers to define AI capabilities
+  use_cases:
+  - RAG-based retrieval and generation systems
+  - Agentic AI workflows with autonomous tool execution
+  - Domain-specific model fine-tuning for enterprise clients
+  - Production AI systems with monitoring and evaluation
+  - AI-powered applications for enterprise clients including Google, OpenAI, Anthropic,
+    Walmart and Stripe
+  skills:
+    genai: [LangChain, LangGraph, Google ADK, Genkit, OpenAI API, RAG, Prompt Engineering,
+      Fine-tuning, LLM]
+    ml: []
+    web: []
+    databases: [PostgreSQL, Firestore, MongoDB, Vector Databases]
+    data: []
+    cloud: [Vertex AI, GCP, AWS, Google Cloud Storage, AWS S3]
+    ops: [Docker, Kubernetes, Temporal, GCP Cloud Monitoring Suite, CI/CD, Git]
+    languages: [Python, Java, C++, Scala, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8185758'
+  extracted_at: '2026-03-27T13:22:27.442956'

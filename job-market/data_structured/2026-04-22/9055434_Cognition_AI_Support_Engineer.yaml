@@ -1,0 +1,50 @@
+company:
+  name: Cognition
+  stage: Startup
+  focus: |-
+    Building AI software agents (Devin) and AI-native IDE
+    (Windsurf)
+position:
+  title: AI Support Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a customer support role for an AI company's products
+      (Devin, Windsurf). The engineer responds to customer issues,
+      escalates bugs, documents solutions, and tests releases —
+      they work NEAR AI products but do not build, train, fine-
+      tune, or deploy AI models themselves. The job explicitly
+      states "hands-on experience with these technologies is not
+      required."
+  responsibilities:
+  - First line of response to customer issues including misuse, deployment errors,
+    and software bugs, using AI and CS knowledge to root cause and resolve problems
+  - Escalate unresolved customer issues to appropriate internal teams (deployed engineering,
+    field IT, enterprise engineering) and track resolution
+  - Document learnings about failure modalities across deployment and usage, distributing
+    knowledge to customers and internal engineering teams
+  - Test each product release across a range of IDEs, programming languages, and modalities
+  - Automate parts of the QA process using CS and AI skills
+  - Help define processes and build automations to streamline the support function
+  - Educate customers on solutions to resolved issues
+  use_cases:
+  - AI-powered software development tools for enterprise teams
+  - AI software engineer (Devin) for automating coding tasks
+  - AI-native IDE (Windsurf) for collaborative development
+  - Enterprise adoption of AI coding assistants
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, Distributed Computing, Containerization]
+    languages: [Python, Java, Go]
+    domains: []
+    other: [Problem Solving, Customer Support, QA Testing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9055434'
+  extracted_at: '2026-04-22T12:48:26.123858'

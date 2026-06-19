@@ -1,0 +1,52 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: Financial services and banking institution
+position:
+  title: 'Senior Software Engineer : Power Bi Developer, Python AI/ML'
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is primarily a backend software engineering
+      position with SRE responsibilities at Wells Fargo. While it
+      mentions "Knowledge and Experience with Python AI/ML
+      libraries" in desired qualifications, there are no
+      responsibilities involving building, training, fine-tuning,
+      or deploying AI/ML models. The role focuses on backend
+      services, APIs, databases, and site reliability rather than
+      hands-on AI/ML work.
+  responsibilities:
+  - Lead moderately complex initiatives and deliverables within technical domain environments
+  - Design, code, test, debug, and document for projects and programs associated with
+    technology domain
+  - Review and resolve moderately complex technical challenges requiring in-depth
+    evaluation of technologies
+  - Develop high-quality, scalable, and maintainable Python code for backend services,
+    APIs, and applications
+  - Architect and implement robust solutions meeting business and non-functional requirements
+  - Design and implement efficient database schemas and queries for SQL and NoSQL
+    databases
+  - Build and consume RESTful or GraphQL APIs and work with message queues
+  - Implement and maintain CI/CD pipelines and monitor production systems for reliability
+  use_cases:
+  - Backend services and API development for enterprise applications
+  - Business intelligence and data visualization dashboards
+  - Site reliability and observability for production systems
+  - Database management and data processing pipelines
+  skills:
+    genai: []
+    ml: [Python AI/ML libraries]
+    web: [Django, Flask, FastAPI, RESTful API design, GraphQL]
+    databases: [PostgreSQL, MySQL, MongoDB]
+    data: [RabbitMQ, Kafka]
+    cloud: [AWS, Azure, GCP]
+    ops: [Grafana, Git, Docker, Kubernetes, OpenShift, Jenkins, GitLab CI, Splunk,
+      Prometheus, ELK Stack]
+    languages: [Python]
+    domains: []
+    other: [Power BI, Tableau]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8757760'
+  extracted_at: '2026-03-27T14:32:47.712853'

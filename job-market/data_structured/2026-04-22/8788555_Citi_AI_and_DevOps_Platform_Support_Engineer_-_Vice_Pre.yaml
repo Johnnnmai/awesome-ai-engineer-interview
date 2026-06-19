@@ -1,0 +1,59 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: AI and DevOps Platform Support Engineer - Vice President
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on platform support for AI and DevOps
+      platforms — ensuring stability, reliability, incident
+      management, and operational excellence. While the role
+      involves AI platforms and mentions developing AI-powered
+      solutions for operational tasks, the core function is IT
+      support and platform operations management, not building,
+      training, or deploying AI/ML models directly. The AI/ML
+      techniques are leveraged as tools for process improvement
+      and automation, not as the primary focus of the role.
+  responsibilities:
+  - Ensure stability, reliability, and performance of critical AI and DevOps platforms
+    across the organization
+  - Manage incident and problem resolution, collaborating with engineering teams to
+    improve platform services and supportability
+  - Formulate and implement frameworks for managing capacity, throughput, and latency
+    across supported platforms
+  - Define and implement application onboarding guidelines and standards for platform
+    services
+  - Act as primary point of contact for platform matters, defining the vision and
+    roadmap in partnership with engineering leaders
+  - Champion platform resilience strategy through wargaming scenarios, chaos engineering
+    tests, and disaster recovery drills
+  - Drive automation strategy to reduce manual toil and improve deployment velocity
+  - Develop and implement AI-powered solutions to automate routine support tasks,
+    predict system failures, and optimize resource utilization
+  use_cases:
+  - Platform reliability and incident management for AI and DevOps services at enterprise
+    scale
+  - Automating routine IT support tasks using AI-powered solutions
+  - Predicting system failures through AI/ML-driven operational intelligence
+  - Disaster recovery planning and resilience testing for critical financial technology
+    platforms
+  - Optimizing resource utilization across AI and developer tool platforms
+  skills:
+    genai: [AI/ML techniques for process improvement]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Docker, Kubernetes, Incident Management, Capacity Planning, Disaster
+        Recovery, Chaos Engineering, Automation, Performance Tuning, Root Cause Analysis]
+    languages: []
+    domains: []
+    other: [Vendor Management, Project Management]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8788555'
+  extracted_at: '2026-04-22T13:23:53.352705'

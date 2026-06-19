@@ -1,0 +1,198 @@
+job_id: 9016458
+title: AI Engineer III – AI Enablement
+company: CareSource
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - App Insights
+  - Arm Templates
+  - Azure Ai Services
+  - Azure Monitor
+  - Bicep
+  - Kubernetes
+  - Python
+  - Terraform
+description: |
+  The AI Engineer III – AI Enablement Technical Lead is a
+  senior individual contributor and the primary hands-on
+  technical leader within AITE. This role is accountable for
+  the technical direction, solution design quality, and
+  implementation integrity of AI-enabled solutions and AITE-
+  owned automation capabilities.
+  
+  Consistent with CareSource’s AI Engineer III career level,
+  this role operates independently on complex, ambiguous
+  problems; sets technical direction within its domain; and
+  leads design and delivery without day-to-day oversight.
+  
+  This role does not own or operate core AI platforms or
+  runtime infrastructure. You will partner closely with AI
+  Platform, Infrastructure, and SRE teams by providing
+  solution requirements, architectural input, and design
+  feedback while maintaining a clear separation between
+  solution design (AITE) and platform delivery and operations.
+  
+  Technical leadership and solution architecture
+  
+  - Lead solution-level architecture for AI initiatives,
+    including data, models, orchestration, security,
+    integration, and observability
+  - Define and maintain reference architectures, design
+    patterns, and technical standards for AI-enabled solutions
+  - Translate business problems into actionable designs and
+    clearly communicate tradeoffs, risks, and constraints
+  - Provide technical decision support and recommendations to AI
+    and IT leadership
+  
+  Hands-on engineering and validation
+  
+  - Build proofs of concept and pilots, and implement critical
+    solution components to de-risk delivery
+  - Develop and validate RAG pipelines, agent-based
+    architectures, and orchestration workflows
+  - Contribute production-quality code and configurations when
+    hands-on intervention is needed to unblock delivery
+  - Evaluate emerging AI capabilities, tools, and services
+    through targeted experimentation
+  
+  Enablement, guidance, and oversight
+  
+  - Provide technical guidance to delivery teams, architects,
+    and engineers implementing AI solutions
+  - Conduct architecture and design reviews to ensure alignment
+    with enterprise architecture, security, and governance
+    standards
+  - Mentor engineers and architects on AI design patterns,
+    implementation practices, and operational considerations
+  - Review vendor-proposed designs and implementations for
+    alignment with CareSource standards
+  
+  AITE automation and enablement capabilities
+  
+  - Design, develop, and implement internal automations that
+    support AITE intake, governance workflows, reporting, and
+    operational visibility
+  - Translate documented process specifications into durable,
+    reusable automation capabilities
+  - Own the technical design and evolution of AITE’s internal
+    enablement tooling as the team expands
+  - Architect automation solutions to scale with increased AI
+    demand, additional governance requirements, and broader
+    AITE scope
+  
+  Governance and Responsible AI by design
+  
+  - Embed governance and Responsible AI requirements into
+    solution architectures from inception
+  - Partner with Security, Risk, Legal, and AI Governance
+    stakeholders to ensure compliant implementations
+  - Define solution-level controls for data protection,
+    auditability, and appropriate human oversight
+  
+  Platform partnership (non-operational)
+  
+  - Provide solution-driven requirements and architectural
+    feedback to AI Platform and Infrastructure teams
+  - Collaborate on standards for LLMOps, observability,
+    reliability, and cost management without owning platform
+    operations
+  
+  Education and experience
+  
+  - Bachelor’s degree in Computer Science, Engineering, or a
+    related technical field required; equivalent experience
+    accepted in lieu of degree
+  - 7+ years of hands-on software or systems engineering
+    experience
+  - 3+ years designing and implementing AI-enabled or advanced
+    analytics solutions in an enterprise environment
+  - Demonstrated experience acting as a senior technical lead
+    across multiple teams and stakeholders
+  
+  Technical skills and expertise
+  
+  - AI solution architecture: strong grasp of modern AI patterns
+    including RAG, agentic workflows, orchestration layers,
+    and evaluation approaches
+  - Hands-on engineering: strong Python skills and modern
+    software engineering practices (testing, version control,
+    CI/CD as applicable)
+  - Azure AI ecosystem: experience designing solutions using
+    Azure AI Services (Azure OpenAI, AI Search, Azure Machine
+    Learning, Azure AI Foundry)
+  - Integration and APIs: ability to design secure, scalable
+    system integrations
+  - Security-aware design: working knowledge of identity,
+    network isolation, private endpoints, and enterprise
+    security constraints
+  - Evaluation and observability: ability to define success
+    metrics and interpret performance, cost, latency, and
+    reliability signals
+  - Automation engineering (AITE-owned): experience designing
+    workflow automation and operational tooling (for example,
+    Power Platform, SharePoint, and service workflow
+    integrations)
+  
+  Leadership and communication
+  
+  - Ability to explain technical concepts and tradeoffs to
+    technical and non-technical audiences
+  - Strong written documentation skills for architectures,
+    standards, and technical guidance
+  - Comfort influencing across organizational boundaries without
+    direct authority
+  
+  Certifications (Preferred)
+  
+  - Microsoft Certified: Azure AI Engineer Associate or
+    equivalent
+  - Azure Solutions Architect Expert (preferred)
+  
+  Working Conditions
+  
+  - General office environment; hybrid-eligible
+  - Occasional extended periods of sitting or standing
+  - Travel not typically required
+  
+  Compensation Range:
+  
+  $94,100.00 - $164,800.00
+  
+  CareSource takes into consideration a combination of a
+  candidate’s education, training, and experience as well as
+  the position’s scope and complexity, the discretion and
+  latitude required for the role, and other external and
+  internal data when establishing a salary level. In addition
+  to base compensation, you may qualify for a bonus tied to
+  company and individual performance. We are highly invested
+  in every employee’s total well-being and offer a substantial
+  and comprehensive total rewards package.
+  
+  Compensation Type (hourly/salary):
+  
+  Salary
+  
+  Organization Level Competencies
+  
+  - Fostering a Collaborative Workplace Culture
+  - Cultivate Partnerships
+  - Develop Self and Others
+  - Drive Execution
+  - Influence Others
+  - Pursue Personal Excellence
+  - Understand the Business
+  
+  
+  
+  This job description is not all inclusive. CareSource
+  reserves the right to amend this job description at any
+  time. CareSource is an Equal Opportunity Employer. We are
+  dedicated to fostering an environment of belonging that
+  welcomes and supports individuals of all backgrounds.#LI-GM1
+industries:
+  - Healthtech
+  - Insurance
+posted_date: 2026-04-10
+url: "https://www.builtinla.com/job/ai-engineer-iii/9016458"
+source: Built In

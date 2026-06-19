@@ -1,0 +1,151 @@
+job_id: 8858048
+title: Senior AI Engineer - Data Scientist
+company: Tria Federal
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Aws Cloud Services
+  - Aws Neptune
+  - Databricks
+  - Docker
+  - Genai
+  - Github Actions
+  - Grafana
+  - Jenkins
+  - Kubernetes
+  - Llms
+description: |
+  Who we are:
+  
+  Tria Federal delivers digital services and technology
+  solutions that support the health and safety of veterans,
+  service members and civilians. For two decades, federal
+  agencies have relied on Tria companies to advance their
+  critical missions and modernize their systems, so that they
+  can uphold their commitment to the American people. Today,
+  we are pushing the boundaries of possibility through
+  partnerships and investments in artificial intelligence and
+  emerging technologies, developing solutions for the biggest
+  challenges that government will face tomorrow.
+  
+  We are proud to employ and support military veterans who
+  bring mission-first mindset, technical expertise, and
+  leadership qualities that strengthen our work. Veterans,
+  transitioning service members, and military spouses are
+  strongly encouraged to apply.
+  
+  Job Description:
+  
+  We’re seeking a Senior AI Engineer / Data Scientist to lead
+  the design, deployment, and scaling of enterprise AI
+  capabilities—specifically large language model (LLM)
+  solutions, LLMOps practices, and the development of a
+  healthcare ontology/knowledge graph to enhance a complex
+  data environment.
+  
+  Responsibilities
+  
+  - Ontology & Knowledge Graph
+    - Design and maintain a healthcare ontology to normalize CMS
+      data across claims, providers, and workflows.
+    - Build and manage knowledge graphs (RDF/OWL or property
+      graph) to support semantic search, inference, and RAG
+      augmentation.
+    - Develop graph data pipelines for ingestion, transformation,
+      and entity resolution aligned with governance standards.
+    - Collaborate with SMEs to define controlled vocabularies and
+      create reusable semantic APIs for analytics and AI.
+  - GenAI & LLMOps
+    - Architect and operationalize LLMs for production use cases
+      including RAG, agentic workflows, and MCP tools.
+    - Build LLM evaluation and safety frameworks (prompt quality,
+      grounding, hallucination detection, bias checks) with
+      automated testing and human-in-the-loop reviews.
+    - Design cost- and latency-aware pipelines with observability
+      for performance and reliability.
+    - Implement LLMOps best practices: prompt versioning, CI/CD
+      for artifacts, rollout strategies, and A/B testing.
+    - Integrate vector databases and optimize chunking,
+      embeddings, and retrieval for high-quality responses.
+  - Platform & System Architecture
+    - Support productionalization of AI/ML workflows with
+      automated quality checks and lifecycle orchestration.
+    - Ensure data security, governance, and CMS compliance.
+    - Contribute to high-level system design for integrating new
+      AI capabilities into a cloud-based analytics platform.
+    - Maintain documentation and acceptance criteria for system
+      changes.
+  
+  Basic Qualifications
+  
+  - Education/Experience: 10+ years with BS/BA; 8+ years with
+    MS/MA; 5+ years with PhD in Computer Science, Data
+    Science, or related field.
+  - Hands-on experience with LLMs and GenAI solutions, including
+    prompt engineering, RAG architecture, and LLMOps
+    practices.
+  - Proven experience in ontology design and knowledge graph
+    development for complex data-driven systems.
+  - Experience with Databricks, Snowflake, and AWS Cloud
+    Services.
+  - Proficiency in Python and SQL (Snowflake SQL).
+  - Experience with CI/CD workflows and automated deployments.
+  - Familiarity with Scaled Agile Framework (SAFe).
+  - Excellent communication skills and ability to work
+    independently.
+  - US Citizenship required.
+  
+  Preferred Qualifications
+  
+  - Experience with Databricks E2 components (Unity Catalog,
+    Feature Store).
+  - Knowledge of CMS systems and Medicare/Medicaid data.
+  - Familiarity with LLM/GenAI tooling (LangChain, LlamaIndex,
+    Hugging Face, AWS Bedrock).
+  - Experience with vector databases and RAG orchestration.
+  - Knowledge graph tools: Neo4j, TigerGraph, AWS Neptune,
+    RDF/OWL, SPARQL, Gremlin, Cypher, Protégé.
+  - Model lifecycle & governance: MLflow, Model Registry,
+    feature stores, LLM safety testing.
+  - Observability & automation: GitHub Actions/Jenkins,
+    Terraform, Docker/Kubernetes, Prometheus/Grafana.
+  
+  Why Tria? What defines the Tria brand is more than just our
+  dedication to excellence in our craft; it’s our incredible
+  team of dedicated, talented, and passionate people that make
+  Tria so exceptional. As people powering possible, we are all
+  partners in our team’s shared success.
+  
+  As a company that cares about people, we seek to cultivate a
+  culture in which all can thrive personally and
+  professionally. We offer a top-tier benefits package to
+  invest in your physical, mental, and financial health and
+  wellness so that you can be your best self - at work and in
+  life. At Tria, we are growth-minded, entrepreneurial in
+  spirit, and committed to fostering a culture of inclusion
+  and opportunity for all. Whatever your background, your
+  role, your department, or stage in your professional
+  journey, here you will have opportunities to learn new
+  skills, seize new challenges, and advance your career as we
+  grow.
+  
+  California Consumer Privacy Act (CCPA)
+  
+  We are committed to protecting your privacy. As part of our
+  compliance with the California Consumer Privacy Act (CCPA),
+  we want to inform you about how we collect, use, and protect
+  your personal information during the job application
+  process. For more details, please review
+  https://www.oag.ca.gov/privacy/ccpa.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Machine Learning
+  - Software
+  - Analytics
+  - Consulting
+  - Financial Services
+posted_date: 2026-03-25
+url: "https://www.builtinla.com/job/senior-ai-engineer-data-scientist/8858048"
+source: Built In

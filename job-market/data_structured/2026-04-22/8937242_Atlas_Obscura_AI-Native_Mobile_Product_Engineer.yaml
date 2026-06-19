@@ -1,0 +1,49 @@
+company:
+  name: Atlas Obscura
+  stage: Growth
+  focus: |-
+    Community platform for discovering extraordinary places and
+    travel experiences
+position:
+  title: AI-Native Mobile & Product Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is a mobile/product engineer at a travel discovery
+      company. While "AI-native" is emphasized, the AI tools
+      mentioned (Claude, Codex, Cursor) are coding assistants used
+      to accelerate development — not AI systems being built. The
+      engineer builds consumer mobile apps, and AI is used as a
+      development accelerator rather than the product itself. The
+      job involves building a native iOS app and consumer-facing
+      features, with AI as a workflow tool, not as the core
+      output.
+  responsibilities:
+  - Build a new native iOS app from scratch as a greenfield project
+  - Create AI-powered product experiences for consumer-facing mobile features
+  - Prototype and iterate rapidly on new product ideas
+  - Build brand partnership and editorial experiences on mobile
+  - Collaborate closely with Product and Design teams to ship delightful consumer
+    experiences
+  - Maintain and contribute to the web experience alongside the mobile app
+  use_cases:
+  - Travel discovery and exploration platform for extraordinary places
+  - AI-powered consumer product experiences (not chatbot-style)
+  - Planning, memory sharing, and real-time travel tools
+  - Brand partnership and editorial content experiences
+  skills:
+    genai: [Claude AI, Codex]
+    ml: []
+    web: [React Native, Ruby on Rails, Tailwind CSS, Hotwire]
+    databases: [Postgres, Redis]
+    data: [Geospatial data]
+    cloud: [AWS]
+    ops: []
+    languages: [Swift, Android/Kotlin]
+    domains: []
+    other: [Cursor, iOS development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8937242'
+  extracted_at: '2026-04-22T13:27:47.677162'

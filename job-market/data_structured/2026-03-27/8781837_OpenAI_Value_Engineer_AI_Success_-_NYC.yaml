@@ -1,0 +1,53 @@
+company:
+  name: OpenAI
+  stage: Public
+  focus: AI research and deployment company building safe AGI
+position:
+  title: Value Engineer, AI Success - NYC
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a business value and consulting role focused on
+      quantifying ROI, building financial models, and creating
+      frameworks to communicate AI value to customers. The role
+      works NEAR AI (supporting AI adoption) but does not involve
+      building, deploying, fine-tuning, or implementing AI systems
+      directly - it's about business case development and value
+      measurement.
+  responsibilities:
+  - Lead business value assessments for enterprise deals, quantifying the value of
+    OpenAI products for investment decisions
+  - Build and maintain standardized ROI, TCO, and value modeling tools for internal
+    teams and customers
+  - Lead structured value discovery to identify high-impact AI use cases and define
+    measurable outcomes
+  - Publish executive-ready business cases and value narratives for C-level stakeholders
+  - Codify value frameworks, methodologies, and reusable assets for global GTM organization
+  - Establish baselines, KPIs, and dashboards to track and communicate value delivery
+  - Partner with Account Directors and post-sale teams to influence deal strategy,
+    renewals, and expansion
+  - Contribute to thought leadership on AI-driven business transformation
+  use_cases:
+  - Enterprise AI value quantification and ROI measurement
+  - AI investment decision support for customers
+  - AI adoption tracking and impact measurement across organizations
+  - AI-driven business transformation and workforce productivity analysis
+  - Customer success and expansion based on AI value realization
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [ROI/TCO modeling, Financial analysis, Business case development, Executive
+        presentation, Dashboard development, KPI definition, Excel/spreadsheet modeling,
+      Management consulting]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8781837'
+  extracted_at: '2026-03-27T14:57:01.339475'

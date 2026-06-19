@@ -1,0 +1,57 @@
+company:
+  name: McAfee
+  stage: Public
+  focus: |-
+    Personal security for consumers - protecting people and
+    devices
+position:
+  title: Senior AI Engineer, MarTech
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deployment of AI/ML
+      systems including LLMs, RAG systems, AI agents, and ML
+      models. The engineer will architect agentic workflows, build
+      generative asset pipelines, implement RAG systems, and
+      develop/productionalize ML models - all core AI/ML
+      development work.
+  responsibilities:
+  - Design and deploy AI agents to automate complex marketing tasks including cross-channel
+    campaign orchestration and real-time lead qualification
+  - Build and maintain scalable pipelines for automated ad creative generation using
+    LLMs and multimodal models with brand-safe guardrails
+  - Implement RAG (Retrieval-Augmented Generation) systems to provide context-aware
+    personalized content across web, email, and SMS
+  - Develop and productionalize ML models for marketing use cases including LTV prediction,
+    churn propensity, and Next Best Action engines
+  - Own end-to-end ML model lifecycle from feature engineering to deployment via APIs
+    and production monitoring
+  - Ensure AI implementations comply with global privacy standards (GDPR, CCPA) with
+    Privacy-First AI features
+  - Implement Responsible AI governance frameworks to maintain customer trust while
+    enabling automation
+  use_cases:
+  - Autonomous campaign orchestration and optimization across marketing channels
+  - Automated generative ad creative production (text, image, video)
+  - Real-time personalized content delivery across web, email, and SMS
+  - Predictive analytics for customer lifetime value and churn propensity
+  - Next Best Action recommendation engines for marketing interventions
+  - Cross-channel lead qualification and scoring automation
+  skills:
+    genai: [LangChain, LlamaIndex, LangGraph, OpenAI API, Claude, GPT-4o, Stable Diffusion,
+      Sora, RAG (Retrieval-Augmented Generation), LoRA, QLoRA]
+    ml: [PyTorch, TensorFlow, Hugging Face]
+    web: []
+    databases: [Pinecone, Milvus, Weaviate]
+    data: [Databricks, Airflow, Prefect, HighTouch]
+    cloud: [AWS SageMaker, Google Vertex AI, Azure AI Studio]
+    ops: [Docker, Kubernetes, Weights & Biases, Arize, Grafana, GitHub Actions]
+    languages: [Python, SQL, JavaScript]
+    domains: []
+    other: [Braze, Iterable, Adobe CJA, Adobe Experience Manager, Meta Conversions
+        API, Google Enhanced Conversions]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8852945'
+  extracted_at: '2026-03-27T16:07:32.374341'

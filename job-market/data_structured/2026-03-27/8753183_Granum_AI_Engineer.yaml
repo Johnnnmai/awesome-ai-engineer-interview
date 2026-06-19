@@ -1,0 +1,50 @@
+company:
+  name: Granum
+  stage: Series B
+  focus: |-
+    Software for landscapers and arborists - estimating,
+    scheduling, training, payments
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is clearly AI-first as it involves designing and
+      deploying autonomous AI agents, implementing LLM
+      orchestration systems, building RAG systems, and working on
+      the full AI/ML lifecycle from evaluation to deployment. The
+      engineer will directly build and productionize AI
+      capabilities.
+  responsibilities:
+  - Design and deploy autonomous AI agents that complete tasks and act as workforce
+    multipliers for customers
+  - Architect internal tooling and shared patterns to enable AI integration across
+    engineering pods
+  - Implement and optimize LLM orchestration systems using proprietary industry data
+  - Contribute to full AI/ML lifecycle from model evaluation to production deployment
+  - Build production-ready AI features that protect domain knowledge
+  - Mentor cross-functional peers and elevate organizational AI fluency
+  - Enable AI-assisted development workflows across teams
+  use_cases:
+  - Autonomous AI agents for landscaping and arborist business operations
+  - Intelligent features for customer experience improvement
+  - AI-powered estimation, scheduling, and invoicing automation
+  - Domain-specific AI capabilities leveraging proprietary industry data
+  - Cross-functional AI enablement and tooling
+  skills:
+    genai: [LangChain, LlamaIndex, GPT, Claude, RAG, AI Agents, Embedding techniques,
+      LLM orchestration]
+    ml: [Model evaluation]
+    web: []
+    databases: [Pinecone, Chroma, Vector databases]
+    data: []
+    cloud: [Snowflake Cortex]
+    ops: [LaunchDarkly AI Configs]
+    languages: [.NET/C#, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8753183'
+  extracted_at: '2026-03-27T14:08:51.923061'

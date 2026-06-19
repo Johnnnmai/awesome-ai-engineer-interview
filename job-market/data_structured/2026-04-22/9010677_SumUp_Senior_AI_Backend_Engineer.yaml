@@ -1,0 +1,60 @@
+company:
+  name: SumUp
+  stage: Late-stage / Pre-IPO (implied by 4M+ merchants, 3000+ employees, virtual
+    stock options)
+  focus: Fintech payments and financial tools for small businesses
+position:
+  title: Senior AI Backend Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building AI systems including
+      designing an LLM orchestration layer, building an LLM
+      Gateway with vector database management for RAG, and
+      deploying AI solutions to production. While it's a backend
+      engineering role, the core focus is on architecting and
+      building the infrastructure that powers LLM-based AI
+      products (SumUp Edge co-pilot), making it ai-first.
+  responsibilities:
+  - Architect, design, develop and deploy AI solutions and systems in production environments
+    ensuring reliability, high performance and scalability
+  - Design and build the orchestrator service that coordinates AI components, data
+    flows, and external services for real-time merchant insights
+  - Develop and maintain scalable ETL pipelines or MCPs that process and sync heterogeneous
+    data (text, images, audio) into the AI system
+  - Build and optimise the LLM Gateway infrastructure including authentication, rate
+    limiting, load balancing, and vector database management for the RAG system
+  - Create robust, high-performance APIs handling multimodal data structures and high-volume
+    requests with low-latency reliability
+  - Implement observability tooling including telemetry, logging, and tracing for
+    auditing and continuous improvement of AI interactions
+  - Mentor backend engineers on the team, contributing to engineering standards and
+    code reviews
+  - Collaborate with data scientists, product managers, and stakeholders to bring
+    AI solutions to Customer Support
+  use_cases:
+  - AI-powered co-pilot transforming raw merchant data into proactive, real-time business
+    insights for small businesses
+  - Intelligent operating system for small businesses replacing traditional payments
+    processing
+  - RAG-based system delivering real-time insights from heterogeneous merchant data
+  - AI-driven customer support enhancing customer experience and operational efficiency
+  - Multimodal data processing (text, images, audio) from merchant sources for AI-powered
+    analytics
+  skills:
+    genai: [LLM orchestration, RAG, LLM Gateway, MCP (Model Context Protocol), GenAI
+        tooling, LLM traceability]
+    ml: []
+    web: [API design]
+    databases: [Vector databases]
+    data: [Airflow, Spark, ETL pipelines, Kafka, RabbitMQ]
+    cloud: [AWS, S3, CloudWatch]
+    ops: [Kubernetes, Docker, CI/CD, Prometheus]
+    languages: [Python]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9010677'
+  extracted_at: '2026-04-22T12:28:05.047442'

@@ -1,0 +1,55 @@
+company:
+  name: Whitespace (inthewhitespace.com)
+  stage: Growth (recognized industry leader, offers equity incentives)
+  focus: |-
+    AI-powered geospatial analytics and simulation for national
+    security
+position:
+  title: Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first: the engineer is directly
+      building, deploying, and architecting autonomous AI agents
+      that use tools, reason about remediation paths, and
+      integrate generative AI models (OpenAI, Anthropic, Gemini,
+      LLaMA). The position requires hands-on work with agent
+      frameworks, prompt engineering, fine-tuning LLMs, and RAG —
+      all core AI/ML system building activities.
+  responsibilities:
+  - Architect, develop, and deploy advanced autonomous AI agents tailored for cybersecurity
+    applications
+  - Define and implement intelligent agent systems capable of real-time decision-making
+    and adaptive threat responses
+  - Collaborate cross-functionally with product managers, engineers, and analysts
+    to translate concepts into robust solutions
+  - Mentor and guide engineering teams on best practices in developing agent-based
+    AI solutions
+  - Continuously evaluate, test, and enhance the capabilities and performance of agentic
+    systems within Whitespace's ecosystem
+  - Drive technical excellence and promote engineering best practices within the AI
+    team
+  use_cases:
+  - Cybersecurity threat detection and adaptive response via autonomous agents
+  - Pattern of life (POL) analysis uncovering hidden relationships at machine speed
+  - AI-powered simulation and analysis on-demand for national security missions
+  - Real-time decision-making agents navigating complex technical environments
+  - Geospatial intelligence analytics with human expert-machine teaming
+  skills:
+    genai: [OpenAI Agents SDK, AutoGen, Google ADK/A2A, LangGraph, OpenAI API, Anthropic
+        API, Google Gemini, LLaMA, Prompt Engineering, LLM Fine-Tuning, Retrieval-Augmented
+        Generation (RAG), Agent Frameworks]
+    ml: [PyTorch]
+    web: [FastAPI]
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: [Cloud-Native Architectures]
+    ops: [MLOps]
+    languages: [Python, asyncio]
+    domains: [Cybersecurity]
+    other: [Distributed Systems Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9048995'
+  extracted_at: '2026-04-22T13:13:52.419956'

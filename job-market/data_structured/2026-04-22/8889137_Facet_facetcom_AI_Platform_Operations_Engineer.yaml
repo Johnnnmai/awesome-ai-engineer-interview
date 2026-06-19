@@ -1,0 +1,55 @@
+company:
+  name: Facet (facet.com)
+  stage: Growth (equity offered, path to becoming major company)
+  focus: |-
+    Affordable flat-fee financial planning and advisory services
+    powered by AI and human CFPs
+position:
+  title: AI Platform & Operations Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building and maintaining the
+      infrastructure and platform that supports AI features
+      (vector databases, model deployment pipelines, LLM
+      integrations), rather than building, training, or fine-
+      tuning models directly. The engineer manages AI guardrails,
+      orchestration, and DevSecOps pipelines that enable AI
+      workflows for other teams, making this an ai-support role.
+  responsibilities:
+  - Design and maintain AI infrastructure including vector database management, model
+    deployment pipelines, and secure LLM provider integrations
+  - Build and evolve internal platforms with focus on self-service, automation, and
+    reducing cognitive load for internal teams
+  - Develop and deploy scalable serverless and event-driven architectures on AWS and
+    GCP
+  - Implement automated security guardrails within CI/CD pipelines and lead Identity/IAM
+    architecture for least-privilege access
+  - Develop and enforce technical guardrails for the internal AI platform covering
+    data privacy, cost controls, and ethical usage monitoring
+  - Drive automation of environment provisioning, incident response, and performance
+    monitoring with a manual-is-a-bug culture
+  use_cases:
+  - AI-powered personalized financial advice delivery
+  - Vector database-driven financial data retrieval and search
+  - Automated compliance and security for financial services AI systems
+  - Self-service internal AI platform for financial planning teams
+  - Event-driven financial data processing and orchestration
+  skills:
+    genai: [LangChain, OpenAI API]
+    ml: []
+    web: []
+    databases: [Pinecone, Vector Databases]
+    data: []
+    cloud: [AWS Lambda, Google Cloud Functions, EventBridge, AWS, GCP, Serverless
+        Architecture, IAM Identity Center]
+    ops: [Terraform, CI/CD, Docker, IAM Architecture, Okta, Auth0, Infrastructure-as-Code,
+      DevSecOps]
+    languages: [Python, Go, TypeScript, Node.js]
+    domains: []
+    other: [Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8889137'
+  extracted_at: '2026-04-22T12:39:09.066218'

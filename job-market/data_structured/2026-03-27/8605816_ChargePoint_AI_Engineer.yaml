@@ -1,0 +1,48 @@
+company:
+  name: ChargePoint
+  stage: Public
+  focus: EV charging network and electric mobility infrastructure
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying LLM-powered
+      applications including Copilot-style experiences, AI agents,
+      and RAG systems at enterprise scale. The position requires
+      hands-on work with generative AI systems, not just
+      supporting infrastructure for AI work.
+  responsibilities:
+  - Design and develop production-grade Generative AI systems
+  - Architect and deliver LLM-powered applications including Copilot-style experiences
+    and AI agents
+  - Implement RAG systems, embeddings, and vector search solutions
+  - Develop and train ML, deep learning, and NLP models
+  - Build and maintain data pipelines for AI systems
+  - Deploy and operate AI systems using Docker/Kubernetes
+  - Implement prompt engineering and model optimization
+  - Collaborate with cross-functional teams to understand requirements and deliver
+    AI solutions
+  use_cases:
+  - Copilot-style experiences for enterprise users
+  - AI agents for automation at enterprise scale
+  - EV charging network optimization
+  - Enterprise automation and workflow enhancement
+  - Information security AI applications
+  skills:
+    genai: [LLMs, RAG, embeddings, vector search, prompt engineering, AI agents, Copilot-style
+        systems]
+    ml: [deep learning, NLP, ML models]
+    web: [APIs, microservices]
+    databases: [vector databases]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [distributed systems, Docker, Kubernetes, LLMOps, MLOps]
+    languages: [Python, Java, Go, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8605816'
+  extracted_at: '2026-03-27T14:47:39.282939'

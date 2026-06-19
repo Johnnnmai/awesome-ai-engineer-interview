@@ -1,0 +1,50 @@
+company:
+  name: Serotonin
+  stage: Unknown
+  focus: |-
+    Go-to-market firm for transformative technologies offering
+    marketing, strategy, recruiting, and legal services
+position:
+  title: AI & GTM Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and shipping AI-powered
+      workflows and systems for marketing operations. The
+      candidate is expected to identify AI opportunities and then
+      actually build those systems, making this a hands-on AI
+      implementation role focused on deploying AI solutions
+      internally and for clients.
+  responsibilities:
+  - Build and ship AI-powered workflows across Serotonin's marketing operations
+  - Identify opportunities where AI can compress timelines, improve output quality,
+    and unlock competitive advantage for internal teams and clients
+  - Translate cutting-edge AI capabilities into practical GTM impact across web3,
+    consumer tech, and AI sectors
+  - Collaborate directly with marketing leads, account teams, and clients to deploy
+    AI solutions
+  - Iterate on AI systems based on emerging tools and technologies
+  - Apply analytical and data science expertise to marketing and GTM strategies
+  - Integrate blockchain and web3 knowledge into AI-driven marketing solutions
+  use_cases:
+  - AI-powered marketing workflow automation
+  - GTM strategy optimization using AI
+  - Content generation and marketing execution acceleration
+  - Competitive intelligence and market analysis for clients
+  - Cross-channel marketing optimization across web3, consumer tech, and AI domains
+  skills:
+    genai: [AI workflow automation, Prompt engineering, LLM APIs (OpenAI/Anthropic)]
+    ml: [Machine learning]
+    web: []
+    databases: []
+    data: [Data analysis]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Web3 and blockchain, Marketing strategy, GTM strategy, Growth marketing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9107601'
+  extracted_at: '2026-04-22T14:08:35.198277'

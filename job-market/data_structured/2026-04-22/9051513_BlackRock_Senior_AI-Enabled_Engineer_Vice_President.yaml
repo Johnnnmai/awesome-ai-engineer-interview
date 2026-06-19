@@ -1,0 +1,57 @@
+company:
+  name: BlackRock
+  stage: Public
+  focus: |-
+    Global investment management and financial technology
+    (Aladdin platform)
+position:
+  title: Senior AI-Enabled Engineer, Vice President
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is titled "AI-Enabled Engineer" but the core work
+      is building enterprise software platforms for portfolio
+      management at BlackRock. The AI aspects are about using AI
+      tools (Cursor, Windsurf, GitHub Copilot) to accelerate
+      software development and embedding some AI capabilities into
+      product workflows — not building, training, or fine-tuning
+      AI/ML models. The primary focus is enterprise-scale
+      distributed systems engineering for the Aladdin platform.
+  responsibilities:
+  - Lead enterprise-level technical projects spanning design, deployment readiness,
+    and full product development lifecycle
+  - Accelerate productivity through AI-enabled PDLC practices with focus on quality
+    and resiliency
+  - Provide operational excellence with production support following an SRE mindset
+  - Mentor and influence other engineers to raise the bar on technical excellence
+  - Collaborate across global teams to align around shared architectural vision
+  - Champion engineering culture grounded in continuous learning and DORA best practices
+  - Build domain and technical context quickly, translating it into specifications
+    and Agile backlogs
+  - Design and deliver scalable distributed systems balancing functional and non-functional
+    requirements
+  use_cases:
+  - Portfolio management platform supporting $14 trillion in assets under management
+  - Next-generation persona-based workflow-driven investment platform (Aladdin)
+  - AI-assisted software development lifecycle acceleration (code review, testing,
+    documentation)
+  - Embedding AI capabilities into product workflows and platform services for investment
+    decisions
+  - Enterprise-scale distributed systems for front office portfolio and wealth management
+  skills:
+    genai: [GitHub Copilot, Cursor, Windsurf, AI-assisted SDLC/PDLC]
+    ml: []
+    web: [React, Angular, API Design, Event Driven Architecture, Microservices, Micro
+        Frontend Architecture]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes, DevOps, DORA metrics, SRE]
+    languages: [Java]
+    domains: []
+    other: [Distributed Systems, TDD, BDD, Agile/Lean/SAFe, Domain Driven Design]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9051513'
+  extracted_at: '2026-04-22T12:35:23.747291'

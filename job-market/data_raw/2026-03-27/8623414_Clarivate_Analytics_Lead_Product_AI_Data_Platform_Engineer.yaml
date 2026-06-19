@@ -1,0 +1,98 @@
+job_id: 8623414
+title: Lead  Product AI Data Platform Engineer
+company: Clarivate Analytics
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Airflow
+  - AWS
+  - Azure
+  - BigQuery
+  - Databricks
+  - Dbt
+  - Fivetran
+  - GCP
+  - Looker
+  - Power BI
+company_size: 10,549 Employees
+description: |
+  We are seeking a Principal Product AI Data Engineer /
+  Architect to define, build, and scale enterprise-grade AI-
+  ready data platforms for the Life Sciences and Healthcare
+  (LSH) ecosystem. This role combines hands-on technical
+  mastery with enterprise architecture leadership, influencing
+  multiple product lines and setting long-term standards for
+  dimensional modeling, analytics pipelines, and AI data
+  enablement.
+  
+  About you education and Qualifications
+  
+  - 10+ years of professional experience in Data Engineering,
+    Analytics Engineering, or Data Architecture.
+  - Proven experience in enterprise-scale data architecture and
+    distributed pipeline design. Expert-level proficiency in
+    SQL and relational database design.
+  - Strong hands-on experience in Python for pipeline
+    automation, orchestration, and data framework development.
+  - Deep expertise in dimensional modeling, including star and
+    snowflake schemas, fact/dimension tables, SCDs, surrogate
+    keys, and hierarchical dimensions.
+  - Experience designing and operating production-grade ETL/ELT
+    pipelines for analytics and AI/ML workloads and strong
+    ability to influence technical outcomes through
+    architectural leadership and enterprise strategy
+  
+  What will you be doing in this role:
+  
+  - Experience with cloud data warehouses: Snowflake,
+    Databricks, BigQuery.
+  - Familiarity with modern data orchestration and
+    transformation tools: dbt, Airflow, Fivetran, Segment.
+  - Experience handling semi-structured and event-driven data
+    (JSON, logs, clickstream).
+  - Exposure to BI and visualization tools: Power BI, Tableau,
+    Looker, SAP BusinessObjects.
+  - Experience with AWS, Azure, or GCP, including data
+    governance, security, and compliance frameworks.
+  - Background in Life Sciences or Healthcare analytics
+  
+  What will you be doing in this role
+  
+  - Define and evolve enterprise-level product data architecture
+    across multiple product lines, ensuring scalability,
+    reliability, and AI/ML readiness.
+  - Architect scalable ETL/ELT pipelines and distributed data
+    workflows for analytics, AI, and product intelligence.
+  - Develop and enforce dimensional data modeling standards
+    (star schemas, snowflake schemas) across the organization.
+  - Design and maintain fact and dimension tables, ensuring
+    proper grain, SCD handling, hierarchical dimensions, and
+    high-performance queries.
+  - Establish data architecture principles, naming conventions,
+    and best practices for ETL/ELT, event tracking, and AI
+    pipelines.
+  - Serve as the technical authority guiding architecture
+    decisions to meet product, platform, and AI requirements
+  
+  AI & Product Data Enablement
+  
+  - Partner with cross-functional teams to translate
+    requirements into highly scalable, analytics- and AI-ready
+    data models and pipelines.
+  - Curate and validate datasets for machine learning,
+    experimentation, and advanced analytics.
+  - Evolve event-driven architectures to align with dimensional
+    modeling and downstream analytics.
+  - Establish feature store frameworks and reusable AI data
+    pipelines across multiple products.
+  
+  At Clarivate, we are committed to providing equal employment
+  opportunities for all  qualified persons with respect to
+  hiring, compensation, promotion, training, and other terms,
+  conditions, and privileges of employment. We comply with
+  applicable laws and regulations governing non-discrimination
+  in all locations.
+posted_date: 2026-03-02
+url: "https://builtin.com/job/principal-product-ai-data-platform-engineer/8623414"
+source: Built In

@@ -1,0 +1,52 @@
+company:
+  name: E.L.F. Beauty
+  stage: Public
+  focus: Beauty and cosmetics company with multiple brands
+position:
+  title: Lead, AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building, deploying, and fine-tuning
+      AI systems including LLM-based applications, RAG patterns,
+      and ML models. The engineer will work directly with
+      foundation models, fine-tuning techniques (LoRA, QLoRA), and
+      multi-agent systems, not just supporting infrastructure for
+      others.
+  responsibilities:
+  - Design and develop production-grade AI and machine learning models for real-world
+    applications including recommendation engines, NLP, computer vision, and forecasting
+  - Lead model lifecycle management from experimentation and prototyping to deployment
+    and monitoring
+  - Collaborate with cross-functional teams to define AI-driven features and services
+  - Perform feature engineering, data wrangling, and exploratory data analysis on
+    large-scale datasets
+  - Build and maintain scalable AI infrastructure using cloud services and MLOps best
+    practices
+  - Mentor junior AI/ML engineers in model development, evaluation, and deployment
+  - Continuously improve model performance by leveraging research, retraining, and
+    pipeline optimization
+  use_cases:
+  - Recommendation engines for beauty products
+  - Natural language processing applications
+  - Computer vision systems
+  - Demand and sales forecasting
+  - LLM-based applications and AI assistants
+  - Multi-agent AI systems
+  skills:
+    genai: [LLM-based applications, Prompt engineering, RAG (Retrieval-Augmented Generation),
+      Multi-agent systems, LLM fine-tuning, LoRA, QLoRA, OpenAI API, Anthropic API]
+    ml: [PyTorch, TensorFlow, scikit-learn]
+    web: [React]
+    databases: [Qdrant, AWS RDS, MySQL, MariaDB]
+    data: []
+    cloud: [AWS, Azure, GCP, AWS Bedrock, AWS ECS]
+    ops: [AWS CloudWatch, CI/CD, Terraform, AWS CDK, MLOps]
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '6832171'
+  extracted_at: '2026-03-03T12:18:31.096371'

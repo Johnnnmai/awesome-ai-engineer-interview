@@ -1,0 +1,51 @@
+company:
+  name: Visa Inc,
+  stage: Public
+  focus: Global payments technology and transaction processing
+position:
+  title: Systems Engineer (6 months - 2 years experience - Java/Python/Ansible, Azure/AWS/GCP/Kubernetes,
+    Middleware engineering, Gen AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an infrastructure/platform engineering role focused
+      on middleware technologies (Hazelcast, Flink, Temporal) that
+      SUPPORT AI work, not building AI systems directly. While
+      GenAI tools are mentioned as preferred for development work,
+      the core responsibility is building and maintaining
+      middleware infrastructure, not creating AI/ML models or
+      agents.
+  responsibilities:
+  - Design and develop middleware solutions using Hazelcast, Qlik, Flink, Temporal,
+    and Striim to meet business requirements
+  - Collaborate with application developers, architects, and stakeholders to design
+    scalable middleware architectures
+  - Implement and integrate middleware components for seamless data flow between systems
+    and applications
+  - Configure and fine-tune middleware platforms for optimal performance and reliability
+  - Provide Level 3 support for middleware platforms ensuring high availability and
+    stability
+  - Perform regular maintenance including software updates, patches, and performance
+    tuning
+  use_cases:
+  - Middleware infrastructure for payment processing systems
+  - Real-time data streaming and integration between business applications
+  - High-performance distributed caching and data processing
+  - Enterprise application integration and communication
+  - Scalable platform services for financial transactions
+  skills:
+    genai: [GenAI tools]
+    ml: []
+    web: []
+    databases: [Redis]
+    data: [Hazelcast, Apache Flink, Apache Spark, Qlik-Striim]
+    cloud: [AWS, Azure, Google Cloud]
+    ops: [Kubernetes, Docker, Ansible, CI/CD, Prometheus, Grafana, RHEL-CentOS]
+    languages: [Java, Python, Scala]
+    domains: []
+    other: [Temporal]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8677035'
+  extracted_at: '2026-03-27T15:49:23.935118'

@@ -1,0 +1,48 @@
+company:
+  name: Cast & Crew LLC
+  stage: null
+  focus: |-
+    Entertainment technology and services provider offering
+    screenwriting software, payroll products, and creative tools
+position:
+  title: Intern, AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI-powered applications
+      using LLMs, implementing RAG workflows, and developing with
+      generative AI tools. The intern will work hands-on with AI
+      models and vector search solutions, not just supporting
+      infrastructure.
+  responsibilities:
+  - Develop AI-powered applications using LLMs, machine learning models, and generative
+    AI tools
+  - Implement Retrieval-Augmented Generation (RAG) workflows and vector-based search
+    solutions
+  - Contribute to backend and full-stack development using Python and/or TypeScript
+  - Build and test APIs that integrate AI services with internal applications
+  - Develop and optimize data ingestion and ETL/ELT pipelines
+  - Integrate structured and unstructured data sources into AI systems
+  - Monitor application performance and troubleshoot issues to improve system reliability
+  - Collaborate with cybersecurity and data teams on security and governance standards
+  use_cases:
+  - AI-powered applications for entertainment industry workflows
+  - RAG-based search and retrieval solutions
+  - Automated data processing and pipeline orchestration
+  - Intelligent document and data integration for entertainment production
+  skills:
+    genai: [LLMs, generative AI, RAG, prompt engineering, embeddings]
+    ml: [machine learning models]
+    web: [RESTful APIs]
+    databases: [vector databases, semantic search, NoSQL databases]
+    data: [ETL/ELT pipelines]
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, Git, CI/CD pipelines]
+    languages: [Python, TypeScript, JavaScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8734452'
+  extracted_at: '2026-03-27T13:36:14.934338'

@@ -1,0 +1,60 @@
+company:
+  name: Flosum
+  stage: Growth (~$4M ARR)
+  focus: |-
+    Salesforce-native DevOps and data protection platform for
+    enterprises
+position:
+  title: AI Go-to-Market Engineer (UK)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on building, deploying, training,
+      and continuously optimizing AI agents (SDR/BDR agents,
+      qualification systems, churn prediction models) across the
+      GTM stack. The job description explicitly states "this is a
+      builder role" and requires deploying and iterating on AI
+      agents weekly, writing production integrations, and
+      architecting AI layers — not just advising or supporting AI
+      work.
+  responsibilities:
+  - Deploy and train AI SDR agents for inbound qualification and outbound prospecting
+    with weekly refinement cycles
+  - Build AI-powered inbound qualification systems that capture, score, and route
+    leads in real time
+  - Automate CRM hygiene, call summarization, follow-up sequencing, and proposal drafting
+    to increase AE productivity
+  - Architect the AI layer across the GTM stack (Salesforce, Marketo, Outreach, Gong)
+    for seamless data flow and agent coordination
+  - Build AI-driven competitive intelligence engine monitoring competitors, pricing,
+    and product launches
+  - Create hyper-personalized outbound campaigns at scale using AI for account research
+    and multi-channel messaging
+  - Deploy AI-assisted customer health scoring and churn prediction models to flag
+    at-risk accounts
+  - Prototype AI-powered product-led growth touchpoints including conversational qualification
+    and self-serve onboarding
+  use_cases:
+  - AI SDR/BDR agents for automated inbound lead qualification and outbound prospecting
+  - Real-time lead scoring and intelligent routing for sales teams
+  - Automated sales admin work including CRM hygiene, call summarization, and proposal
+    drafting
+  - Competitive intelligence monitoring and structured insight delivery
+  - Hyper-personalized multi-channel outbound campaign generation at scale
+  - Customer health scoring and churn prediction for proactive retention
+  skills:
+    genai: [AI agent orchestration, Prompt engineering, Agentforce]
+    ml: [Churn prediction models, Lead scoring models]
+    web: [REST APIs]
+    databases: [Salesforce]
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python, JavaScript, SQL]
+    domains: []
+    other: [Marketo, Outreach, Gong, Qualified]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9056396'
+  extracted_at: '2026-04-22T12:46:49.974342'

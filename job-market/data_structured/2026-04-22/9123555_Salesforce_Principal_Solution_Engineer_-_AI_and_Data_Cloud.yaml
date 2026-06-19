@@ -1,0 +1,58 @@
+company:
+  name: Salesforce
+  stage: Public
+  focus: AI CRM platform with Agentforce agentic AI and Data Cloud
+position:
+  title: Principal Solution Engineer - AI and Data Cloud
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with AI agents and
+      generative AI systems—designing, configuring, and
+      operationalizing agents using Agentforce Studio and Agent
+      Builder, leading prompt engineering and lifecycle strategy,
+      and integrating external agents via MCP/A2A protocols. While
+      it's a pre-sales/consulting role, the candidate directly
+      builds prototypes, tunes agents, and designs AI
+      architectures, making it ai-first.
+  responsibilities:
+  - Lead pre-sales technical design by analyzing customer needs and recommending solutions
+    aligned with Agentforce capabilities and integration with external agent frameworks
+  - Configure conversational and background agents using Agentforce Studio and Agent
+    Builder, integrating with external channels including voice via hyperscaler APIs
+  - Map and integrate external agents from hyperscalers (e.g., Copilot, Gemini) into
+    Agentforce via open standards (MCP, A2A)
+  - Lead prompt engineering design, testing, monitoring, and iteration; define agent
+    lifecycle best practices
+  - Build hands-on demos and prototypes demonstrating integration between Agentforce
+    and external agents or services
+  - Advise on data and integration architecture connecting Data Cloud (D360), CRM,
+    MuleSoft APIs, and external agent endpoints
+  - Oversee data modeling, identity resolution, real-time vs. batch patterns, and
+    activation strategies within D360
+  - Create and manage technical documentation, knowledge bases, and enablement resources
+    to support specialist teams
+  use_cases:
+  - Enterprise agent orchestration and interoperability across hyperscaler AI platforms
+  - Customer-facing conversational AI agents for CRM and business workflows
+  - Background autonomous agents for automated enterprise processes
+  - Enterprise data integration and activation through Salesforce Data Cloud
+  - Cross-platform agent collaboration via MCP and A2A open standards
+  - Multimodal AI pipelines including voice and conversational interfaces
+  skills:
+    genai: [Agentforce, Agent Builder, Prompt Engineering, MCP, A2A, RAG, LangChain,
+      Agent lifecycle management]
+    ml: [TensorFlow, PyTorch]
+    web: [MuleSoft, REST APIs, Salesforce CRM]
+    databases: [Snowflake, BigQuery, Databricks, Redshift]
+    data: [pandas, Jupyter]
+    cloud: [AWS, Google Cloud, Vertex AI, AWS SageMaker]
+    ops: [MLOps]
+    languages: [SQL, Python, JavaScript, R]
+    domains: []
+    other: [Data Cloud (D360)]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9123555'
+  extracted_at: '2026-04-22T13:27:12.954269'

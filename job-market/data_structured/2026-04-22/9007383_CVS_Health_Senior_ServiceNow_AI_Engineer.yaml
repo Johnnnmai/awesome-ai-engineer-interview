@@ -1,0 +1,61 @@
+company:
+  name: CVS Health
+  stage: Public
+  focus: Healthcare, pharmacy, and health services
+position:
+  title: Senior ServiceNow AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly configuring, deploying, and
+      operating AI capabilities (Now Assist Skills, Agents,
+      Agentic Workflows) on the ServiceNow platform, including
+      prompt configuration, intent modeling, and AI agent-to-agent
+      integration. While it's a configuration-first approach
+      rather than model training, the engineer is hands-on
+      building and deploying AI/agent systems, tuning prompts and
+      intents, and designing agentic workflows — making it ai-
+      first.
+  responsibilities:
+  - Configure, deploy, and operate Now Assist AI capabilities including Skills, Agents,
+    Agentic Workflows, and AI Control Tower across the ServiceNow platform
+  - Integrate and align Moveworks with ServiceNow experiences ensuring seamless handoff
+    and enterprise-approved patterns
+  - Design and maintain reusable AI configurations and reference architectures for
+    common use cases across HRSD, ITSM, ITOM, and ESM domains
+  - Implement responsible AI governance including data access boundaries, role-based
+    controls, logging, and human-in-the-loop escalation patterns
+  - Tune prompts, intents, and configurations based on usage data and monitor platform-level
+    AI KPIs
+  - Establish operational runbooks for AI capabilities including monitoring, incident
+    response, and problem management
+  - Manage AI feature lifecycle across environments including testing, releases, and
+    upgrades
+  - Support Citizen Developer model for AI enablement and ESM SDLC process
+  use_cases:
+  - Enterprise AI-assisted IT service management (ITSM) with automated incident resolution
+  - HR service delivery (HRSD) automation through conversational AI and self-service
+  - IT operations management (ITOM) with AI-driven event and alert handling
+  - Enterprise service management (ESM) self-service containment and deflection
+  - Agent-to-agent AI integration between Moveworks and ServiceNow for seamless multi-system
+    workflows
+  - AI-assisted creator and developer productivity on the ServiceNow platform
+  skills:
+    genai: [ServiceNow Now Assist, Moveworks, Prompt configuration and engineering,
+      Intent/topic modeling, Agentic Workflows]
+    ml: []
+    web: [REST APIs, OAuth]
+    databases: []
+    data: [Event-driven workflows]
+    cloud: []
+    ops: [CI/CD, ServiceNow Performance Analytics, Configuration management]
+    languages: []
+    domains: []
+    other: [ServiceNow Flow Designer, ServiceNow IntegrationHub, ServiceNow Advanced
+        Scripting, AI governance and risk management, Knowledge management, Service
+        catalog design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9007383'
+  extracted_at: '2026-04-22T14:00:23.554260'

@@ -1,0 +1,53 @@
+company:
+  name: Prolific
+  stage: null
+  focus: |-
+    Human data infrastructure platform connecting researchers
+    with participants for AI development
+position:
+  title: AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves conducting hands-on AI/ML research
+      including LLM evaluation, alignment techniques, and model
+      optimization (fine-tuning, quantization, distillation). The
+      position requires direct work with AI models and systems,
+      building evaluation frameworks, and applying ML engineering
+      practices.
+  responsibilities:
+  - Lead independent research projects in AI evaluation methodologies, alignment techniques,
+    and synthetic data generation
+  - Design and implement novel evaluation frameworks for LLMs and agent systems grounded
+    in human data
+  - Design and conduct rigorous experiments to study AI models and systems
+  - Develop scalable frameworks for systematic evaluation of model behaviors and capabilities
+  - Create tools and frameworks that transform research insights into practical applications
+  - Apply model fine-tuning, optimization techniques, distillation, and ML engineering
+    practices
+  - Contribute to academic AI community through publications and open-source contributions
+  - Collaborate with ML engineers, data scientists, and product teams to translate
+    research into applications
+  use_cases:
+  - LLM evaluation and benchmarking with human data
+  - AI alignment and safety assessment
+  - Synthetic data generation for model training
+  - Evaluation of agent systems and behaviors
+  - Human feedback integration for AI model improvement
+  skills:
+    genai: [LLM evaluation methodologies, alignment techniques, agent systems, synthetic
+        data generation]
+    ml: [model fine-tuning, quantization, distillation, adapters, model optimization]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8769971'
+  extracted_at: '2026-03-27T15:56:19.599760'

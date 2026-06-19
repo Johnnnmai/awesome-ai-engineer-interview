@@ -1,0 +1,232 @@
+job_id: 8769189
+title: Forward Deployed Engineer, AI Enablement
+company: Stord
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - GCP
+  - Kafka
+  - Llm
+  - Node.js
+  - Openai
+  - Postgres
+  - Restful Apis
+  - Typescript
+description: |
+  Stord is The Consumer Experience Company, powering seamless
+  checkout through delivery for today's leading brands. Stord
+  is rapidly growing and is on track to double our revenue in
+  the next 18 months. To meet and exceed this target, Stord is
+  strategically scaling teams across the entire company, and
+  seeking energetic experts to help us achieve our mission.
+  
+  By combining comprehensive commerce-enablement technology
+  with high-volume fulfillment services, Stord provides brands
+  a platform to compete with retail giants. Stord manages over
+  $10 billion of commerce annually through its fulfillment,
+  warehousing, transportation, and operator-built software
+  suite including OMS, Pre- and Post-Purchase, and WMS
+  platforms. Stord is leveling the playing field for all
+  brands to deliver the best consumer experience at scale.
+  
+  With Stord, brands can increase cart conversion, improve
+  unit economics, and drive sustained customer loyalty.
+  Stord’s end-to-end commerce solutions combine best-in-class
+  omnichannel fulfillment and shipping with leading technology
+  to ensure fast shipping, reliable delivery promises, easy
+  access to more channels, and improved margins on every
+  order.
+  
+  Hundreds of leading DTC and B2B companies like AG1, True
+  Classic, Native, Seed Health, quip, goodr, Sundays for Dogs,
+  and more trust Stord to deliver industry-leading consumer
+  experiences on every order. Stord is headquartered in
+  Atlanta with facilities across the United States, Canada,
+  and Europe. Stord is backed by top-tier investors including
+  Kleiner Perkins, Franklin Templeton, Founders Fund, Strike
+  Capital, Baillie Gifford, and Salesforce Ventures.
+  
+  Stord is building the operating system for the modern supply
+  chain — a unified platform that powers order management,
+  warehousing, transportation, and consumer experience for
+  brands doing over $10B in commerce annually. Behind that
+  platform is a large, fast-moving organization where ops
+  teams, finance, CX, and logistics are still doing work that
+  should not require a human. That is where you come in. As a
+  Senior Forward Deployed Engineer on the AI Enablement team,
+  your job is to get close to the people doing that work,
+  understand exactly where the friction lives, and build
+  agentic AI systems that make it disappear permanently. Not
+  prototypes. Not internal demos. Production tools that change
+  how Stord operates — with your fingerprints on the outcome.
+  This role is not a traditional product engineering position.
+  You will operate more like an embedded problem-solver than a
+  member of a feature team — pairing engineering depth with
+  the curiosity and judgment to identify what is actually
+  worth building. If you have shipped internal AI tooling at
+  scale, move fast without breaking things, and get energy
+  from seeing the people around you work better because of
+  what you built — this role was designed for you.
+  
+  Why This Role
+  
+  - Your users are Stord employees — you get direct, immediate
+    feedback on what works and what doesn't
+  - Greenfield scope: we are early in systematically automating
+    internal workflows with AI, and you will define how it's
+    done
+  - High autonomy: embed, identify the problem, propose the
+    approach, ship it — with minimal bureaucratic drag
+  - Your work compounds: every reusable pattern and module you
+    build makes the next automation faster
+  - AI investment is a company-level mandate — you will have
+    organizational support and real visibility
+  
+  What You'll Build
+  
+  This is a sample of what you'll work on — the problems will
+  evolve as the team grows and as you find the next highest-
+  leverage target.
+  
+  Tools for Internal Teams (CX, Finance, Ops, Logistics)
+  
+  - AI-powered tooling for Customer Experience teams — triaging
+    issues, surfacing context, automating resolution workflows
+  - Finance automation — reconciliation, exception handling, and
+    reporting workflows that currently require manual effort
+  - Ops and logistics tooling — dashboards, alerting, and
+    intelligent interfaces that reduce the manual burden on
+    warehouse and transportation teams
+  - LLM-powered interfaces that let non-technical teams query,
+    act on, and get answers from operational data without
+    needing engineering support
+  
+  Workflow Automation
+  
+  - End-to-end automation pipelines: observe workflow →
+    prototype → validate with domain experts → harden → ship
+    to production
+  - Agentic systems with proper logging, retries, monitoring,
+    and edge case handling — not scripts that break silently
+  - Integrations with internal systems (OMS, WMS, TMS, Billing)
+    via APIs and event streams
+  - Reusable automation modules that accelerate future workflow
+    projects across the organization
+  
+  Developer Productivity Tooling
+  
+  - Internal AI-powered tools that reduce friction across the
+    engineering development lifecycle
+  - Lightweight APIs and integrations that connect the systems
+    engineers rely on daily
+  - Tooling that helps engineers at Stord write, review, and
+    ship code faster using agentic workflows
+  
+  Internal Data and Analytics Products
+  
+  - Automated reporting and alerting that replaces manual data
+    pulling and analysis
+  - Dashboards and data products that surface operational
+    intelligence to the teams who need it
+  - Self-serve data interfaces that reduce the back-and-forth
+    between operational teams and engineering
+  
+  How You Work
+  
+  - Embed with a team, map the workflow end-to-end, identify the
+    highest-leverage automation target
+  - Ship small, validate with domain experts, iterate fast —
+    production discipline from the very first commit
+  - Collaborate with Product Engineering when automations touch
+    core platform systems; operate independently everywhere
+    else
+  - Document and publish reusable patterns so the next engineer
+    — or the next automation — goes faster
+  
+  What We're Looking For
+  
+  Required
+  
+  - LLM and agentic AI development (2+ years): Proven production
+    experience building AI agents and LLM-powered tools that
+    automate real workflows — not toys, not demos. You have
+    shipped them, monitored them, and fixed them when they
+    broke.
+  - TypeScript / Node.js (3+ years): Production backend
+    experience. You reach for the right tool, and this is your
+    primary one.
+  - AI-augmented development: You use AI coding tools (Claude
+    Code, Cursor, Codex, or equivalent) as a core part of your
+    workflow — not occasionally, but as the reason you can
+    move faster than a traditional engineering team.
+  - LLM integration depth: Proven experience with OpenAI,
+    Anthropic, or equivalent — tool use, structured outputs,
+    prompt engineering, fallback handling, cost controls.
+  - Embedded working style: You are comfortable sitting with
+    non-technical teams, earning their trust quickly, and
+    translating messy operational problems into clean
+    engineering solutions.
+  - API design and integration: You have built RESTful APIs from
+    scratch and integrated with complex, sometimes poorly
+    documented internal systems.
+  - Observability: You instrument your systems in production.
+    You know when something is broken before the user does.
+  - Database: Advanced SQL with PostgreSQL. You can model data
+    and write queries that matter.
+  - High agency: You identify the problem worth solving, propose
+    the approach, and drive to done with minimal direction.
+  - Production discipline: Fast iteration does not mean fragile
+    systems. You build things that stay running.
+  
+  Strongly Preferred
+  
+  - Experience automating workflows in operational or back-
+    office contexts (finance, support, logistics, CX)
+  - Vector databases and semantic search for internal knowledge
+    retrieval
+  - Experience building internal developer tools or platforms
+  - Python for scripting, data wrangling, or model integration
+  - Familiarity with Stord's stack: Elixir/Phoenix, TypeScript,
+    Kafka, GCP
+  
+  Nice to Have
+  
+  - Workflow orchestration tools (Temporal, Prefect, Airflow, or
+    similar)
+  - Early-stage startup background — you have worn many hats and
+    shipped under pressure
+  - Domain knowledge in logistics, supply chain, or operations-
+    heavy B2B environments
+  - Hackathon experience or open source contributions
+  
+  What Success Looks Like
+  
+  In your first 30 days, you have embedded with at least one
+  internal team, mapped a workflow end-to-end, and shipped
+  something real into production. By 90 days, you have
+  measurably reduced manual work that was previously just
+  accepted as the cost of doing business — and people in that
+  team can point to it. By six months, internal teams are
+  coming to you with problems before they even think to file a
+  ticket, you have a library of reusable patterns that others
+  are building on, and you are the person who set the standard
+  for how AI-powered internal tooling gets built at Stord.
+  
+  About Stord
+  
+  Stord is a cloud-based supply chain platform that enables
+  brands to compete and grow through end-to-end logistics
+  solutions. We process over $10B in commerce annually and
+  operate across Order Management (OMS), Warehouse Management
+  (WMS), Transportation Management (TMS), Consumer Experience,
+  and Demand Planning. We are backed by leading investors and
+  are rapidly scaling our engineering organization to match
+  our ambitions.
+industries:
+  - Logistics
+  - Software
+posted_date: 2026-03-16
+url: "https://www.builtinla.com/job/senior-forward-deployed-engineer-ai-enablement/8769189"
+source: Built In

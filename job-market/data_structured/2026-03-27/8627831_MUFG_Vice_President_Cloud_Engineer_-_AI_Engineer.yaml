@@ -1,0 +1,54 @@
+company:
+  name: MUFG
+  stage: Public
+  focus: Global financial services and banking group
+position:
+  title: Vice President, Cloud Engineer - AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with Azure OpenAI, GPT
+      models, embeddings, and vector workflows, including
+      deployment, integration, and governance of AI services. The
+      engineer will develop AI-driven components and implement AI
+      solutions, not just support infrastructure for others' AI
+      work.
+  responsibilities:
+  - Design and implement cloud and AI-ready solutions on Azure, Oracle Cloud, and
+    AWS
+  - Develop bespoke automation, integration, and AI-driven components to support business
+    requirements
+  - Build and maintain REST APIs, integration services, and identity-aware solution
+    patterns
+  - Deliver operational and project support for cloud and AI workloads
+  - Drive automation, Infrastructure-as-Code, CI/CD, and modern engineering practices
+  - Implement governance controls and guardrails for responsible, regulatory-compliant
+    AI use
+  - Collaborate across teams to enhance platform stability, security, compliance,
+    and cost efficiency
+  - Produce architectural designs and engineering documentation for scalable solution
+    patterns
+  use_cases:
+  - AI enablement and adoption across banking and financial services
+  - Cloud-based AI solution deployment with governance and security controls
+  - Identity-aware integration patterns for AI workloads
+  - Regulatory-compliant AI implementations in financial services
+  - Scalable cloud foundations for critical banking services
+  skills:
+    genai: [Azure OpenAI, OpenAI SDK, GPT models, Embeddings, Vector workflows, Prompt
+        engineering, Vectorization patterns, AI orchestration frameworks]
+    ml: []
+    web: [REST APIs, Azure API Management, OAuth2]
+    databases: []
+    data: []
+    cloud: [Azure, Oracle Cloud, AWS, Entra ID, IAM]
+    ops: [Bicep, ARM, Terraform, CI/CD, GitHub Actions, Azure DevOps, AI governance,
+      Docker, GitHub Enterprise, Artifactory]
+    languages: [Python, PowerShell]
+    domains: []
+    other: [VS Code]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8627831'
+  extracted_at: '2026-03-27T13:51:32.767602'

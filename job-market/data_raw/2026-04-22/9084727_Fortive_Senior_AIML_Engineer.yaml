@@ -1,0 +1,78 @@
+job_id: 9084727
+title: Senior AI/ML Engineer
+company: Fortive
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - AWS
+  - Azure
+  - Ci/Cd
+  - Docker
+  - GCP
+  - Gitops
+  - Hadoop
+  - Java
+  - Kubernetes
+company_size: 13,486 Employees
+description: |
+  Job Summary:
+  
+  Design, develop, and deploy AI/ML models and intelligent
+  systems that enhance clinical decision-making, operational
+  efficiency, and patient outcomes. Collaborate with cross-
+  functional teams to integrate AI capabilities into scalable,
+  secure, and compliant SaaS platforms.
+  
+  Key Responsibilities:
+  
+  - Machine Learning & Deep Learning
+    - Expertise in supervised, unsupervised, and reinforcement
+      learning
+    - Familiarity with CNNs, RNNs, transformers, and generative
+      models
+    - Proficiency in TensorFlow, PyTorch, Scikit-learn
+  - Programming & Software Engineering
+    - Advanced skills in Python, R, SQL; optionally Java or Scala
+    - Experience with CI/CD, Docker, Kubernetes, GitOps
+  - Data Engineering & Architecture
+    - Building scalable data pipelines and real-time analytics
+    - Experience with Spark, Hadoop, and cloud-native platforms
+      (Azure, AWS, GCP)
+  - Healthcare Compliance & Interoperability
+    - Knowledge of HIPAA, HL7, FHIR standards
+    - Experience integrating AI into EHRs and clinical workflows
+  - AI Strategy & Responsible Use
+    - Ethical AI design, bias mitigation, and explainability
+    - Ability to align AI initiatives with business and clinical
+      goals
+  
+  Required Qualifications:
+  
+  Education & Experience
+  
+  - Bachelor’s or Master’s degree in Computer Science, Data
+    Science, or related field.
+    - 6+ years of experience in AI/ML engineering, preferably
+      within healthcare SaaS environments
+    - Proven track record of deploying models in production and
+      integrating with cloud-native platforms
+  
+  Other Preferred Knowledge, Skills, Abilities or
+  Certifications:
+  
+  - Cloud & AI Certifications
+    - Healthcare Standards & Compliance
+    - Ethical AI & Responsible Use
+    - Data Engineering & Real-Time Analytics
+industries:
+  - Hardware
+  - Other
+  - Software
+  - Appliances
+  - Industrial
+  - Manufacturing
+posted_date: 2026-04-17
+url: "https://builtin.com/job/senior-ai-ml-engineer/9084727"
+source: Built In

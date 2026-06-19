@@ -1,0 +1,53 @@
+company:
+  name: Accelya
+  stage: Public
+  focus: Airline financial and commercial process software
+position:
+  title: Senior AI Engineer – Applied AI (Python / LLM / RAG)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first: the engineer will design,
+      build, and integrate LLMs, RAG pipelines, and AI-assisted
+      workflows into production backend services. The job
+      explicitly requires hands-on experience building AI/ML
+      systems into production and rejects research-only profiles,
+      confirming the role is about deploying AI systems, not just
+      supporting them.
+  responsibilities:
+  - Design and build scalable AI-enabled services integrated into core Cargo platform
+    workflows
+  - Lead implementation of AI-assisted automation across engineering and operational
+    use cases
+  - Integrate language models and ML components into backend services via clean APIs
+  - Apply prompt engineering, RAG, and lightweight orchestration techniques to production
+    systems
+  - Work with engineers to adopt AI-assisted tooling for development speed, testing,
+    and debugging
+  - Collaborate with architects to ensure AI integrations align with platform standards
+    and security
+  - Contribute to monitoring, evaluation, and continuous improvement of AI-enabled
+    features
+  - Participate in production support and incident resolution for AI-related services
+  use_cases:
+  - AI-assisted automation for airline cargo operational workflows
+  - LLM-powered retrieval-augmented generation for cargo platform intelligence
+  - AI-assisted developer tooling to improve development speed and debugging
+  - Automated decision-making and productivity improvement for airline logistics
+  - AI-enabled backend services for the FLX ONE Cargo platform
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, LangChain, OpenAI APIs]
+    ml: []
+    web: [APIs]
+    databases: [Vector Search]
+    data: []
+    cloud: [AWS Bedrock, Cloud Services]
+    ops: [MLOps, Monitoring, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8976178'
+  extracted_at: '2026-04-22T14:00:01.452031'

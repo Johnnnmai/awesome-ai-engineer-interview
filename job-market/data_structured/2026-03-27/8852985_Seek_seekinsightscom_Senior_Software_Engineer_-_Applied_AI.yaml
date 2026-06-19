@@ -1,0 +1,54 @@
+company:
+  name: Seek (seekinsights.com)
+  stage: Seed
+  focus: |-
+    Marketplace for data apps and secure data application
+    exchange platform
+position:
+  title: Senior Software Engineer - Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing backend services and APIs that
+      integrate AI models, creating AI-powered workflows
+      (conversational querying, guided analytics), and building
+      features like natural language search and intelligent
+      recommendations. The engineer will work directly with LLMs,
+      RAG pipelines, and agent frameworks to implement AI
+      capabilities into the product.
+  responsibilities:
+  - Build full stack features with React, Python, and modern APIs that deliver high-quality
+    user experiences
+  - Design backend services and APIs that integrate AI models and external AI services
+    into the platform
+  - Create intuitive AI-powered workflows including conversational querying, assisted
+    discovery, and guided analytics
+  - Connect AI-driven features to Snowflake and semantic modeling layer for seamless
+    data-driven apps
+  - Contribute to app store experiences with AI-powered recommendations and publishing
+    flows
+  - Ensure reliability at scale with strong testing, CI/CD pipelines, and observability
+  - Collaborate with product, design, and engineering peers to turn AI opportunities
+    into customer-ready features
+  use_cases:
+  - Natural language search for data discovery
+  - Conversational querying and assisted analytics workflows
+  - Intelligent recommendations for app store content
+  - Guided analytics and data exploration
+  - AI-powered publishing and discovery flows for data apps
+  skills:
+    genai: [OpenAI API, Anthropic API, RAG pipelines, Agent frameworks]
+    ml: []
+    web: [React, REST APIs]
+    databases: [Snowflake]
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8852985'
+  extracted_at: '2026-03-27T15:55:37.391740'

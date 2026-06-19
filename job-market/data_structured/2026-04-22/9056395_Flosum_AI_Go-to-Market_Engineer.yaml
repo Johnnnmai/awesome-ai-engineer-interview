@@ -1,0 +1,60 @@
+company:
+  name: Flosum
+  stage: ~$4M ARR, growth stage
+  focus: |-
+    Salesforce-native DevOps and data protection platform for
+    enterprises
+position:
+  title: AI Go-to-Market Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on architecting, deploying,
+      training, and continuously optimizing AI agents and
+      automation systems across the revenue engine. The builder
+      explicitly states "this is not a prompt engineering role,
+      this is a builder role" and requires hands-on deployment and
+      training of AI SDR agents, building AI-powered qualification
+      systems, churn prediction models, and orchestrating multiple
+      AI agents — all direct work ON AI systems.
+  responsibilities:
+  - Deploy and train AI SDR/BDR agents for inbound qualification and outbound prospecting,
+    running weekly refinement cycles
+  - Build AI-powered inbound qualification systems that capture, score, and route
+    leads in real time
+  - Architect the AI layer across the GTM stack (Salesforce, Marketo, Outreach, Gong)
+    for seamless data flow and agent learning loops
+  - Create hyper-personalized outbound campaigns at scale using AI for account research
+    and multi-channel messaging
+  - Build AI-driven competitive intelligence engine monitoring competitors, pricing,
+    and product launches
+  - Deploy AI-assisted customer health scoring and churn prediction models with actionable
+    intervention triggers
+  - Instrument closed-loop data feedback systems between BDR activity, pipeline outcomes,
+    and AI agent performance
+  - Prototype AI-powered product-led growth touchpoints including conversational qualification
+    and automated trial nurture
+  use_cases:
+  - AI-powered sales development (SDR/BDR) agents for inbound and outbound prospecting
+  - Real-time lead scoring, qualification, and routing automation
+  - Sales rep productivity acceleration via automated CRM hygiene, call summarization,
+    and follow-up sequencing
+  - Competitive intelligence monitoring and structured insight delivery
+  - Hyper-personalized multi-channel outbound campaign generation at scale
+  - Customer health scoring and churn prediction for proactive retention
+  skills:
+    genai: [AI Agent Orchestration, Prompt Engineering, Agentforce]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: [Pipeline Analytics]
+    cloud: [Salesforce]
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: [Marketo, Outreach, Gong, Qualified/Drift, CRM Integration]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9056395'
+  extracted_at: '2026-04-22T12:41:18.856210'

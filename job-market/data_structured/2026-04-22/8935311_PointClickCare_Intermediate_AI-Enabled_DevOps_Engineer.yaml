@@ -1,0 +1,53 @@
+company:
+  name: PointClickCare
+  stage: Private (founder-led)
+  focus: |-
+    Cloud-based healthcare platform for long-term and post-acute
+    care
+position:
+  title: Intermediate AI-Enabled DevOps Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a DevOps infrastructure role where the engineer
+      supports cloud infrastructure and deployment pipelines that
+      enable AI/ML workloads to run. The role involves assisting
+      with deploying and monitoring AI/ML workloads and using AI-
+      assisted tools for log analysis and incident investigation,
+      but does not involve building, training, fine-tuning, or
+      directly working on AI/ML models themselves. The core work
+      is infrastructure, CI/CD, and operations.
+  responsibilities:
+  - Implement and maintain cloud infrastructure using infrastructure-as-code (Terraform)
+  - Support and improve CI/CD pipelines for application and ML workloads
+  - Operate containerized workloads in Kubernetes or managed container platforms
+  - Automate repetitive operational tasks using scripts and tooling
+  - Assist with deploying and monitoring AI/ML workloads on cloud infrastructure
+  - Use AI-assisted tools to improve log analysis, alert triage, incident investigation,
+    and deployment validation
+  - Participate in on-call rotations and respond to CI/CD pipeline incidents
+  - Monitor system health using dashboards, logs, and alerts and contribute to post-incident
+    reviews
+  use_cases:
+  - Cloud infrastructure provisioning and management for healthcare SaaS platform
+  - CI/CD pipeline automation for application and ML workload deployments
+  - Container orchestration and workload management on Kubernetes
+  - AI-assisted operational monitoring, log analysis, and incident triage
+  - Infrastructure reliability and incident response for production systems
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, AWS, GCP, Cloud Networking]
+    ops: [Terraform, Docker, Kubernetes, CI/CD, Linux, Infrastructure as Code, Monitoring
+        and Logging, AIOps tools]
+    languages: [Bash, Python, SQL]
+    domains: []
+    other: [AI-assisted development tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8935311'
+  extracted_at: '2026-04-22T14:02:07.725552'

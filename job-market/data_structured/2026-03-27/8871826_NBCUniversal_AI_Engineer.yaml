@@ -1,0 +1,56 @@
+company:
+  name: NBCUniversal
+  stage: Public
+  focus: |-
+    Media and entertainment company creating content for film,
+    television, streaming, and theme parks
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a forward-deployed AI Engineer role that builds,
+      deploys, and ships AI-powered solutions including agentic
+      systems and LLM applications end-to-end from prototyping
+      through production. The role directly works with LLMs,
+      multimodal models, vector databases, and orchestration
+      frameworks to deliver production AI systems.
+  responsibilities:
+  - Architect and implement end-to-end AI applications from concept to production,
+    including agentic workflows
+  - Build systems using LLMs and multimodal models, retrieval and vector databases,
+    and orchestration frameworks integrated with internal tools and data
+  - 'Own the full lifecycle: discovery, prototyping, validation, deployment, monitoring,
+    iteration, and support'
+  - Write production-quality code and integrate APIs across internal platforms and
+    external providers
+  - Evaluate model capabilities and select appropriate AI tools based on workflow
+    needs, risk profile, and operational constraints
+  - Design guardrails for agentic systems, including tool safety, permissioning, data
+    handling, and human-in-the-loop review
+  - Work directly with editorial, product, and business partners to shape solutions
+    from requirements through rollout
+  - Track new model releases, vendor updates, and emerging patterns in agentic AI
+  use_cases:
+  - Transform workflows across NBCUniversal News Group
+  - Unlock new capabilities for editorial and news operations
+  - Real-time business environment solutions for news and media
+  - Agentic systems for content production and distribution
+  - AI-powered workflow automation and optimization
+  skills:
+    genai: [LangChain, LangGraph, Google ADK, LLMs, Multimodal models, Agentic patterns,
+      Prompt engineering, OpenAI API, AI coding agents]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector databases]
+    data: [Databricks]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8871826'
+  extracted_at: '2026-03-27T13:55:42.121534'

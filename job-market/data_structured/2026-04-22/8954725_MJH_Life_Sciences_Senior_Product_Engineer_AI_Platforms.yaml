@@ -1,0 +1,63 @@
+company:
+  name: MJH Life Sciences
+  stage: Public
+  focus: Life sciences media and information services company
+position:
+  title: Senior Product Engineer, AI & Platforms
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role explicitly involves integrating LLM capabilities
+      into products — prompt engineering, multi-model
+      orchestration, streaming responses, embeddings, and cost-
+      optimized AI pipelines using Anthropic Claude, OpenAI, and
+      Google APIs. The team describes itself as "AI-first," and
+      the engineer will directly build and deploy AI-powered
+      workflows, not just support infrastructure for others' AI
+      work.
+  responsibilities:
+  - Build and ship web applications using Next.js, React, and TypeScript — dashboards,
+    internal tools, and stakeholder-facing products backed by PostgreSQL and deployed
+    to Vercel or AWS
+  - Design and deploy APIs and integration services on AWS (Lambda, API Gateway, DynamoDB)
+    that connect enterprise systems including Salesforce, Workfront, and Workday
+  - Integrate LLM capabilities into products — prompt engineering, multi-model orchestration,
+    streaming responses, embeddings, and cost-optimized AI pipelines using Claude,
+    OpenAI, and Google APIs
+  - Develop developer tools and automation that improve team productivity and enable
+    AI-assisted workflows, including CLI tools, MCP servers, and internal tooling
+  - Own cloud infrastructure using Infrastructure as Code (AWS CDK, Serverless Framework)
+    and deploy what you build
+  - Gather requirements from stakeholders, push back when the ask doesn't match the
+    real problem, and write recommendations for better approaches
+  - Implement OAuth 2.0 flows, secure credential management, and compliance-aware
+    data handling across integration points
+  - Follow up after launch to confirm features are being used, measure goal achievement,
+    and iterate based on feedback
+  use_cases:
+  - Enterprise platform integrations connecting systems like Salesforce, Workfront,
+    and Workday via APIs
+  - AI-powered workflows and automation for internal productivity and developer tooling
+  - LLM-powered product features including prompt orchestration, embeddings, and streaming
+    AI responses
+  - Internal dashboards and stakeholder-facing web applications for life sciences
+    information services
+  - Developer tooling including CLI tools and MCP servers to enable AI-assisted development
+    workflows
+  skills:
+    genai: [Anthropic Claude API, OpenAI API, Google Gemini API, Prompt Engineering,
+      Embeddings, LLM Orchestration, MCP Servers]
+    ml: []
+    web: [Next.js, React, FastAPI, OAuth 2.0, Tailwind CSS]
+    databases: [PostgreSQL, DynamoDB, Prisma, SQLAlchemy]
+    data: []
+    cloud: [AWS Lambda, AWS API Gateway, AWS Secrets Manager, Vercel]
+    ops: [AWS CDK, Docker, Serverless Framework, Terraform]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Claude Code, Cursor, Salesforce API, Workfront API, Workday API]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8954725'
+  extracted_at: '2026-04-22T13:21:45.869721'

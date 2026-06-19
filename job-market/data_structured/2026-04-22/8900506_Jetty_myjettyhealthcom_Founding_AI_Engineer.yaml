@@ -1,0 +1,55 @@
+company:
+  name: Jetty (myjettyhealth.com)
+  stage: Seed
+  focus: |-
+    AI-powered functional health doctor and coach for chronic
+    illness management
+position:
+  title: Founding AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building AI-native systems where LLMs
+      are treated as components in larger workflows—designing
+      context architecture, memory systems, and structured output
+      pipelines. The engineer will shape model behavior through
+      context design and system architecture, making this hands-on
+      AI/LLM engineering work.
+  responsibilities:
+  - Build core product features that make Jetty a faster, smarter health intelligence
+    platform
+  - Design LLM engineering systems where models are workflow components generating,
+    validating, and composing structured outputs
+  - Architect context layers, memory systems, and data pipelines that compound intelligence
+    over months of user interactions
+  - Build infrastructure for CI/CD, deployments, and observability that scales gracefully
+  - Design and own API endpoints, database schemas, and backend infrastructure
+  - Build systems that extract signal from sparse, vague, temporal health data from
+    conversational inputs
+  - Iterate rapidly on both foundational architecture and product features end-to-end
+  use_cases:
+  - AI functional health doctor and coach for chronic illness management
+  - Personalized health intelligence that evolves with a patient's health journey
+    over time
+  - Conversational health data extraction and reasoning from sparse, temporal symptom
+    data
+  - Long-term memory and context architecture for stateful health insights across
+    sessions
+  - Structured output generation from LLMs for health artifact creation and validation
+  skills:
+    genai: [LLM Engineering, Context Architecture Design, Prompt Engineering, Structured
+        Output Generation, Memory Systems, RAG]
+    ml: []
+    web: [API Design, REST APIs]
+    databases: [Database Schema Design]
+    data: []
+    cloud: []
+    ops: [CI/CD, Observability, Infrastructure]
+    languages: [Python, Swift, Go, Rust, Java]
+    domains: [Health Data Modeling]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8900506'
+  extracted_at: '2026-04-22T12:48:47.423021'

@@ -1,0 +1,57 @@
+company:
+  name: Sidecar Health
+  stage: Series B
+  focus: |-
+    Health insurance company making healthcare affordable and
+    accessible
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      optimizing AI/LLM systems including RAG architectures,
+      multi-agent systems, and LLM-driven applications. The
+      position requires hands-on work with prompt engineering,
+      orchestration frameworks, and production deployment of AI
+      models.
+  responsibilities:
+  - Design, architect, and deploy AI-powered systems that directly impact member experience
+    and operational efficiency
+  - Build and optimize LLM-driven applications using advanced prompt engineering,
+    RAG architectures, and agentic workflows
+  - Design scalable AI pipelines using modern orchestration frameworks like LangChain,
+    LangSmith, and LlamaIndex
+  - Architect multi-agent systems capable of reasoning, planning, and executing complex
+    multi-step tasks
+  - Implement evaluation and monitoring frameworks to measure AI performance, detect
+    hallucinations, and ensure reliability at scale
+  - Own cloud-native AI infrastructure for performance, scalability, cost efficiency,
+    and security
+  - Partner with Product and Engineering leadership to identify and execute high-impact
+    AI initiatives
+  - Establish internal standards, tooling, and best practices for AI development across
+    the organization
+  use_cases:
+  - Member experience enhancement for health insurance customers
+  - Operational efficiency automation in healthcare workflows
+  - Core business workflow automation and optimization
+  - Healthcare cost and coverage determination
+  - Claims processing and adjudication support
+  skills:
+    genai: [LangChain, LangSmith, LlamaIndex, OpenAI API, Anthropic API, AWS Bedrock,
+      Prompt Engineering, RAG, Multi-agent systems, Semantic search]
+    ml: [Model fine-tuning]
+    web: [Next.js]
+    databases: [Vector databases, DynamoDB]
+    data: []
+    cloud: [AWS Lambda, AWS Step Functions, AWS API Gateway, Amazon S3]
+    ops: [AWS CDK, AWS SAM, Terraform, DataDog, CloudWatch]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8496942'
+  extracted_at: '2026-03-03T12:11:26.463957'

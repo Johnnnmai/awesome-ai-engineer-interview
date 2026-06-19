@@ -1,0 +1,57 @@
+company:
+  name: Beckman Coulter Diagnostics
+  stage: Public (Danaher subsidiary)
+  focus: |-
+    Cloud software and services for BioPharma R&D and
+    manufacturing
+position:
+  title: Principal Test AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on testing AI/ML systems rather than
+      building, training, or deploying them. The Principal AI Test
+      Engineer establishes testing strategies, validation
+      approaches, and quality governance for AI products. While
+      deeply involved with AI systems, the core work is quality
+      assurance and test architecture, not model development or
+      deployment — making it ai-support.
+  responsibilities:
+  - Own and define the end-to-end testing strategy for AI/ML systems, establishing
+    standards for model quality, robustness, fairness, explainability, and regulatory
+    compliance
+  - Design and lead validation approaches for AI models and data pipelines including
+    bias detection, drift monitoring, adversarial testing, and failure-mode analysis
+  - Architect scalable automated test frameworks for AI systems leveraging MLOps,
+    CI/CD, synthetic data, and observability tooling
+  - Act as subject-matter expert for AI testing, mentoring engineers and influencing
+    engineering best practices
+  - Partner closely with data science, platform, legal, and product teams on AI quality
+    initiatives
+  - Translate complex AI risks and quality metrics into clear insights for senior
+    stakeholders, shaping product decisions
+  - Drive continuous improvement of AI quality, reliability, and trustworthiness at
+    scale across the organization
+  use_cases:
+  - AI/ML quality assurance and validation for BioPharma software products
+  - Bias detection and fairness monitoring in AI models
+  - Model drift monitoring and adversarial testing in production environments
+  - Automated testing of AI data pipelines and integrations
+  - Regulatory compliance testing for AI systems in GxP environments
+  skills:
+    genai: []
+    ml: [Bias Detection, Drift Monitoring, Adversarial Testing, AI/ML Model Validation,
+      Explainability]
+    web: []
+    databases: []
+    data: [Synthetic Data, Data Pipelines]
+    cloud: []
+    ops: [MLOps, CI/CD, Automated Testing, Observability Tooling]
+    languages: [Python]
+    domains: []
+    other: [Agile, Test Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9072468'
+  extracted_at: '2026-04-22T14:15:32.968547'

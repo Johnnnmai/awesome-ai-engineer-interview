@@ -1,0 +1,52 @@
+company:
+  name: Dentsu Creative
+  stage: Public
+  focus: |-
+    Global advertising and creative agency providing marketing
+    solutions
+position:
+  title: Senior Cloud Systems Engineer (Python & AI Integration)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly implementing and orchestrating
+      LLMs, vector databases, and RAG pipelines using Microsoft
+      Agent Framework for a production AI conversational platform.
+      The engineer will architect and deploy AI services, not just
+      support infrastructure for ML teams.
+  responsibilities:
+  - Architect and deploy cloud infrastructure within Azure ensuring services are resilient,
+    monitored, and secure with RBAC
+  - Develop and extend high-concurrency APIs using Python and FastAPI to support agentic
+    behaviors and real-time streaming
+  - Manage full deployment lifecycle including running scripts across environments
+    and building automation paths
+  - Implement and orchestrate LLMs, Vector Databases, and RAG pipelines using Microsoft
+    Agent Framework (MAF)
+  - Build data flows for agent memory and prepare integrations with Adobe Experience
+    Platform and Salesforce Data Cloud
+  - Navigate enterprise environment managing communications with upwards of 25 project
+    managers and stakeholders
+  use_cases:
+  - AI conversational platform with streaming responses and long-term memory
+  - Fortune 500 telecommunications connectivity customer support
+  - Enterprise chat interface for global telecommunications client
+  - Agentic behaviors with context management
+  - Agent memory and data orchestration
+  skills:
+    genai: [Microsoft Agent Framework (MAF), LLMs, RAG pipelines]
+    ml: []
+    web: [FastAPI]
+    databases: [Postgres, Vector Databases]
+    data: []
+    cloud: [Azure Functions, Azure Container Apps, Azure API Management, Azure RBAC,
+      Azure Monitoring]
+    ops: [Docker]
+    languages: [Python]
+    domains: []
+    other: [Adobe Experience Platform, Salesforce Data Cloud]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8784989'
+  extracted_at: '2026-03-27T15:04:46.947405'

@@ -1,0 +1,55 @@
+company:
+  name: DevSavant
+  stage: Growth-stage
+  focus: |-
+    Product engineering and global staffing for startups and
+    growth-stage companies
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      optimizing LLM-powered agentic AI systems, RAG
+      architectures, and conversational agents. The engineer will
+      work hands-on with fine-tuning, prompt engineering, and
+      deploying AI models in healthcare environments.
+  responsibilities:
+  - Design and deploy healthcare-focused Agentic AI systems capable of autonomous,
+    multi-step task execution
+  - Architect and optimize LLM-powered conversational agents across voice and digital
+    channels
+  - Develop RAG architectures to power contextual, domain-specific healthcare knowledge
+    systems
+  - Engineer robust prompt frameworks, safety guardrails, and evaluation pipelines
+    for regulated healthcare environments
+  - Optimize ASR and TTS systems for healthcare-grade accuracy and reliability
+  - Integrate conversational AI with EHR/EMR systems using FHIR and HL7 healthcare
+    standards
+  - Architect HIPAA-compliant AI systems with secure data handling and role-based
+    access controls
+  - Build and maintain APIs and SDK integrations for enterprise customers to embed
+    AI capabilities
+  use_cases:
+  - Healthcare appointment scheduling, eligibility verification, and intake automation
+  - Clinical document summarization and structured data extraction
+  - Patient triage routing and voice-based healthcare interactions
+  - PHI detection and clinical coding support
+  - Enterprise contact center automation and IVR modernization
+  - No-code/low-code AI deployment for healthcare operations
+  skills:
+    genai: [LangChain, RAG, LLM fine-tuning, Prompt engineering]
+    ml: [PyTorch, TensorFlow, Hugging Face, NLP pipelines]
+    web: [REST APIs, SDK development]
+    databases: [Vector databases, Semantic search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [IVR systems, ASR/TTS, FHIR, HL7, HIPAA compliance, EHR/EMR integration]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8566091'
+  extracted_at: '2026-03-03T12:31:48.402103'

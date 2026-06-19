@@ -1,0 +1,58 @@
+company:
+  name: H2O.ai
+  stage: Series C/D (raised $256M)
+  focus: |-
+    Agentic AI platform for enterprise GenAI applications on
+    private data
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI
+      systems - agentic AI frameworks, LLM applications with
+      RAG/fine-tuning, and production ML pipelines. As a hands-on
+      engineering role within a field team, the engineer actively
+      develops and implements AI solutions for enterprise
+      customers, not just supporting infrastructure or data
+      pipelines.
+  responsibilities:
+  - Design and build agentic AI systems and multi-agent frameworks for automating
+    complex enterprise workflows
+  - Develop and deploy LLM-powered applications using RAG, fine-tuning, prompt engineering,
+    and function calling
+  - Implement guardrails, evaluation frameworks, and responsible AI controls for production-grade
+    reliability
+  - Own full development lifecycle from problem framing through production deployment
+  - Build scalable backend services and APIs that expose AI capabilities to enterprise
+    applications
+  - Integrate AI models into customer environments including cloud, on-prem, and hybrid
+    deployments
+  - Develop ML pipelines and LLMOps infrastructure for continuous model improvement
+    and monitoring
+  - Work directly with customer stakeholders to translate real-world problems into
+    AI solutions
+  use_cases:
+  - Agentic AI automation of complex multi-step enterprise workflows
+  - LLM-powered enterprise applications with private data
+  - Production ML pipelines for enterprise customers
+  - GenAI applications for financial services and healthcare industries
+  - Sovereign AI deployments with security and compliance requirements
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, Prompt engineering, Fine-tuning, Function
+        calling, RLHF, MCP, LLM orchestration frameworks, Guardrails, Agentic AI,
+      Multi-agent frameworks]
+    ml: [PyTorch, TensorFlow, scikit-learn, AutoML]
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [LLMOps, Model evaluation, Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [H2O.ai products, Wave, H2O Document AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8874522'
+  extracted_at: '2026-03-27T15:12:08.441090'

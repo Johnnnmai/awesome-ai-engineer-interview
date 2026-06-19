@@ -1,0 +1,53 @@
+company:
+  name: Celonis
+  stage: Series D+
+  focus: |-
+    Process Intelligence technology and AI-powered business
+    process optimization SaaS platform
+position:
+  title: Senior Applied AI Engineer - Energy Industry
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting and delivering LLM/agent
+      systems with RAG, tools, and guardrails, along with building
+      agentic systems using LLM orchestration. The engineer
+      prototypes AI solutions and implements autonomous AI agents,
+      which is hands-on work building and deploying AI systems.
+  responsibilities:
+  - Understand energy customers' AI strategy and sector-specific challenges, translating
+    requirements into innovative AI solutions
+  - Drive the full customer lifecycle from technical discovery and capability demonstrations
+    to post-sale implementation and value realization
+  - Rapidly build creative prototypes in customer hackathons leveraging cutting-edge
+    AI technologies for energy sector pain points
+  - Support customers in achieving ROI from AI deployments, enabling shift from rule-based
+    automation to autonomous AI agents
+  - Architect and deliver secure, scalable LLM/agent systems with RAG, tools, and
+    guardrails integrated with enterprise data and compliance frameworks
+  - Serve as technical subject matter expert for the Energy vertical, scaling knowledge
+    across utilities, oil & gas, and renewable energy processes
+  use_cases:
+  - Predictive maintenance and outage management for energy infrastructure
+  - Supply chain resilience and regulatory compliance automation
+  - Intelligent field service routing and autonomous procurement
+  - Automated processing of engineering documents and regulatory filings
+  - Intelligent diagnostic chatbots for energy operations
+  - Grid modernization and asset lifecycle management
+  skills:
+    genai: [RAG, Prompt Engineering, Few-shot Learning, Multi-agent Orchestration,
+      Fine-tuning, LangChain, LlamaIndex, Function Calling, OpenAI]
+    ml: [PyTorch, scikit-learn]
+    web: []
+    databases: []
+    data: [Pandas, Databricks]
+    cloud: [AWS Bedrock, Azure AI, GCP Vertex AI, Microsoft AI]
+    ops: []
+    languages: [Python, Pydantic]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8710025'
+  extracted_at: '2026-03-27T15:25:22.843465'

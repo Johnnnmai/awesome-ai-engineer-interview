@@ -1,0 +1,50 @@
+company:
+  name: Sage
+  stage: Early-stage
+  focus: |-
+    Fall detection and emergency response systems for senior
+    living facilities
+position:
+  title: Senior Engineer, Applied AI - Detect
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work with multi-modal
+      vision models including fine-tuning, prompt engineering, and
+      training. The engineer owns the end-to-end lifecycle of AI
+      models powering the fall detection system, from data
+      collection through production deployment, making this
+      clearly an ai-first role.
+  responsibilities:
+  - Improve detection accuracy and reduce false positives through prompt engineering,
+    model fine-tuning, and novel inference strategies
+  - Work closely with the backend engineering team to integrate model improvements
+    into the real-time video processing pipeline
+  - Own and evolve the ML experimentation platform, maturing existing infrastructure
+    into a production-grade system
+  - Build data pipelines for collecting, labeling, and preparing production video
+    and image data for model training
+  - Design repeatable fine-tuning and evaluation pipelines that enable rapid experimentation
+    and measure model performance at scale
+  - Expand detection capabilities into new behavioral categories
+  use_cases:
+  - Real-time fall detection using camera-based vision systems for senior living facilities
+  - Behavioral detection and monitoring for older adults
+  - Emergency response alerting for caregivers
+  - Video stream analysis for safety monitoring
+  skills:
+    genai: [multi-modal vision models, LLMs, prompt engineering]
+    ml: [model fine-tuning, model evaluation]
+    web: [React]
+    databases: []
+    data: [data pipelines]
+    cloud: [Google Vertex AI, AWS SageMaker]
+    ops: [experiment tracking]
+    languages: [Python, TypeScript, Kotlin, Java]
+    domains: [computer vision, video processing]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8654311'
+  extracted_at: '2026-03-27T14:56:17.377980'

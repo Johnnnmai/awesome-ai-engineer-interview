@@ -1,0 +1,45 @@
+company:
+  name: Nebius
+  stage: Public
+  focus: Cloud computing platform serving the global AI economy
+position:
+  title: Network Engineer (AI Infrastructure) Early Career
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a network engineering role focused on infrastructure
+      operations (data center and backbone networks) that supports
+      AI cloud computing. The role involves network configuration,
+      hardware installation, and operations - not building,
+      training, fine-tuning, or deploying AI/ML models. It's
+      infrastructure work that enables AI workloads.
+  responsibilities:
+  - Assist in day-to-day network operations for data center and backbone environments
+  - Perform configuration updates, checks, and data collection tasks under guidance
+  - Help with hardware installation tasks including rack, cable, and label equipment
+  - Deploy pre-approved and tested configurations following clear instructions
+  - Follow change management and operational procedures strictly
+  - Study networking fundamentals including Ethernet, IP, routing, DC and backbone
+    basics
+  - Learn internal tools, workflows, and operational standards
+  use_cases:
+  - AI cloud infrastructure platform
+  - Data center networking for AI workloads
+  - Backbone network operations
+  - Enterprise cloud computing services
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Network configuration, Hardware installation]
+    languages: []
+    domains: []
+    other: [Ethernet, IP networking, Routing, Data center networking]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8765257'
+  extracted_at: '2026-03-27T16:08:50.457714'

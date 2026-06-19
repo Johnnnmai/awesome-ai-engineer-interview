@@ -1,0 +1,44 @@
+company:
+  name: Pallet
+  stage: Series B
+  focus: AI agents for logistics and supply chain automation
+position:
+  title: Forward Deployed Software Engineer (AI Agents)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role specifically
+      focused on deploying production AI agents into customer
+      environments. The role involves hands-on deployment of
+      AI/LLM-powered systems (agents, workflows) working directly
+      with foundation models (OpenAI, Anthropic) and fine-tuned
+      models. As noted in the instructions, FDEs who deploy AI
+      solutions are classified as ai-first.
+  responsibilities:
+  - Deploy production AI agents into Fortune 500 logistics companies
+  - Reverse engineer undocumented APIs, ERPs, TMS systems, and internal tools
+  - Debug broken data pipelines, mismatched schemas, and flaky integrations in production
+  - Sit onsite with customer teams to diagnose failures and ship fixes in real time
+  - Own customer go-lives end-to-end from scoping to production stability
+  - Build systems with observability mind for quick issue detection and resolution
+  use_cases:
+  - Automating logistics workflows including scheduling, data entry, and load management
+  - AI agents for Fortune 500 logistics companies
+  - Transforming messy business rules into production-ready context for LLMs
+  - Intelligence infrastructure for the physical economy and logistics industry
+  skills:
+    genai: [OpenAI API, Anthropic API]
+    ml: [Fine-tuned models]
+    web: [Node.js, Next.js, React, Encore.dev, Event-driven architecture]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [GCP, Vertex AI, Vercel]
+    ops: [Datadog]
+    languages: [TypeScript]
+    domains: []
+    other: [Playwright]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8679930'
+  extracted_at: '2026-03-27T14:07:49.276074'

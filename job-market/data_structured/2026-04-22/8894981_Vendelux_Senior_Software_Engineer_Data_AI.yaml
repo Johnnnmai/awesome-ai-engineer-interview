@@ -1,0 +1,56 @@
+company:
+  name: Vendelux
+  stage: Series A
+  focus: |-
+    AI-powered event marketing intelligence and optimization
+    platform
+position:
+  title: Senior Software Engineer, Data & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and scaling
+      AI-powered features using LLMs, RAG, embeddings, AI agents,
+      and ML techniques. The engineer will architect and ship
+      production AI systems end-to-end, making this an ai-first
+      role.
+  responsibilities:
+  - Design and build AI-powered product features from prototyping through production,
+    applying heuristics or advanced AI as appropriate
+  - Build maintainable and scalable systems including clean code, data pipeline integration,
+    and cloud deployment
+  - Deliver end-to-end solutions by identifying opportunities, prototyping, securing
+    stakeholder buy-in, and productionalizing features
+  - Research and apply modern AI methods including agents, LLMs, RAG, embeddings,
+    and supervised/unsupervised learning to power new product capabilities
+  - Translate business problems into AI solutions that improve user workflows and
+    accelerate insights
+  - Collaborate cross-functionally with business stakeholders and engineers to turn
+    customer problems into technical requirements
+  - Establish and evangelize standards for AI/ML engineering and data quality across
+    the team
+  use_cases:
+  - AI-powered event discovery and evaluation across 250,000+ events
+  - Identifying high-value attendees and automatically booking 1:1 meetings at conferences
+    (Vendelux Meetings)
+  - Proprietary insights and recommendation systems for event marketers to maximize
+    ROI
+  - AI-driven pipeline generation by matching prospects with events
+  - Turning event data into actionable market intelligence for organizers and attendees
+  skills:
+    genai: [LangChain, RAG, LLMs, Prompt Engineering, AI Agents, Embeddings]
+    ml: [HuggingFace, Machine Learning, Supervised/Unsupervised Learning, Recommendation
+        Systems]
+    web: []
+    databases: []
+    data: [Airflow, Dagster, Data Pipelines]
+    cloud: [AWS, GCP, Azure, Cloud Infrastructure]
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8894981'
+  extracted_at: '2026-04-22T13:16:53.401857'

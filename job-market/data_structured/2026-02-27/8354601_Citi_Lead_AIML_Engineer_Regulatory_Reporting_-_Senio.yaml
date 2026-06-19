@@ -1,0 +1,54 @@
+company:
+  name: Citi
+  stage: Public
+  focus: |-
+    Global banking and financial services with regulatory
+    reporting modernization
+position:
+  title: Lead AI/ML Engineer – Regulatory Reporting - Senior Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying both traditional
+      ML models (Isolation Forests, Autoencoders) for anomaly
+      detection and GenAI systems (RAG pipelines, Agentic
+      workflows, LLM orchestration). The position requires hands-
+      on implementation of models, not just supporting
+      infrastructure.
+  responsibilities:
+  - Build unsupervised and semi-supervised ML models (Isolation Forests, Autoencoders)
+    to scan millions of transactional records for outliers
+  - Design RAG pipelines to interact with unstructured data (Credit Agreements, Loan
+    Docs) and extract key regulatory attributes
+  - Build Agentic workflows where GenAI proactively suggests mapping logic or identifies
+    root causes
+  - Build Explainability (XAI) into every model to ensure auditable regulatory standards
+  - Create validation interfaces using Streamlit or React for business users to approve/reject
+    model findings
+  - Work with Model Risk Management to establish validation frameworks for non-deterministic
+    GenAI models
+  - Hire and mentor a squad of 4-5 junior data scientists/engineers
+  - Act as AI Evangelist to Operations/Finance teams demonstrating AI assistance capabilities
+  use_cases:
+  - Anomaly detection in regulatory reporting data to catch data quality issues before
+    submission to regulators
+  - Automated document review and reconciliation of legal loan documents
+  - Regulatory attribute extraction from Credit Agreements and Loan Documents
+  - Human-in-the-Loop validation workflows for model outputs against legal documents
+  - Root cause identification for data breaks and reconciliation issues
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, LLM orchestration]
+    ml: [Scikit-learn, TensorFlow, PyTorch, Isolation Forests, Autoencoders]
+    web: [Streamlit, Gradio, React]
+    databases: [Pinecone, Milvus, pgvector, Vector Databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Fraud Detection, AML, Risk Modeling]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8354601'
+  extracted_at: '2026-03-03T11:47:34.501832'

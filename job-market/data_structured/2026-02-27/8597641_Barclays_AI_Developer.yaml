@@ -1,0 +1,48 @@
+company:
+  name: Barclays
+  stage: Public
+  focus: Global financial services and banking
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves developing and maintaining AI
+      models and algorithms, working with machine learning
+      frameworks (TensorFlow, PyTorch), and building scalable AI
+      systems. The position requires hands-on work designing,
+      developing, and implementing AI solutions directly.
+  responsibilities:
+  - Design, develop, and implement AI solutions that drive innovation and efficiency
+  - Develop and maintain AI models and algorithms using Python, R, Java, and C++
+  - Build scalable AI systems and applications in collaboration with AI Architects,
+    Data Engineers, and Data Scientists
+  - Translate legacy code into modern programming languages and refactor for cloud-native
+    principles
+  - Generate scripts for data transformation and ensure database schema compatibility
+  - Automate test case generation and data validation processes
+  - Implement self-healing test scripts that adapt to application changes
+  - Apply software engineering principles including distributed computing and advanced
+    signal processing
+  use_cases:
+  - Code transformation and modernization from legacy systems
+  - Automated test case generation for software quality assurance
+  - Data transformation and validation for database migrations
+  - Self-healing test automation for application changes
+  - Automated data cleansing and validation detecting inconsistencies and errors
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed computing, UNIX tools]
+    languages: [Python, R, Java, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8597641'
+  extracted_at: '2026-03-03T12:28:41.887646'

@@ -1,0 +1,49 @@
+company:
+  name: Nearform
+  stage: Growth/Mature (500+ employees, 20+ countries, major enterprise clients)
+  focus: |-
+    Digital consulting building AI-enabled solutions for
+    enterprises
+position:
+  title: Senior AI Python Software Engineer (Perm, Canada, Remote + Travel)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires deep knowledge of modern AI frameworks
+      and specifically mentions experience with Agentic frameworks
+      and platforms like LangGraph and Agentspace. The position
+      involves designing and building AI applications using
+      Python, which is direct hands-on work with AI/LLM systems.
+  responsibilities:
+  - Design and build AI-enabled applications using Python for enterprise clients
+  - Support component design, development and maintenance with high technical quality
+    standards
+  - Define structured practices for source code management, building and deployment
+  - Design and implement data storage solutions for AI applications
+  - Optimize application performance for maximum speed and scalability
+  - Gather feedback from users and clients to build tailored solutions
+  - Analyze client requirements and collaborate with Technical Leaders on project
+    execution
+  - Work with distributed teams and client teams to deliver innovative digital products
+  use_cases:
+  - Enterprise AI solution development and deployment
+  - Intelligent digital experiences for major brands
+  - Modernization of legacy systems using AI
+  - Building breakthrough AI-enabled products for enterprises
+  - Developer empowerment through AI tools
+  skills:
+    genai: [LangGraph, Agentspace, Agentic frameworks, Modern AI frameworks]
+    ml: []
+    web: [React]
+    databases: [Databases]
+    data: []
+    cloud: [Cloud environments]
+    ops: [Git, CI/CD, Unit testing, Integration testing, End-to-end testing, Kubernetes]
+    languages: [Python, Golang]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8864208'
+  extracted_at: '2026-03-27T14:11:31.489789'

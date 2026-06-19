@@ -1,0 +1,62 @@
+company:
+  name: Boeing
+  stage: Public
+  focus: |-
+    Global aerospace company developing commercial airplanes,
+    defense products and space systems
+position:
+  title: Experienced Software Engineer-AI Application
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI
+      applications, including RAG pipelines, multimodal document
+      intelligence workflows, human-in-the-loop systems for AI
+      outputs, feedback learning loops, and citation-aware AI
+      experiences. The engineer is hands-on with LLMs, retrieval
+      architectures, and prompt/fine-tuning optimization — all
+      core AI-first work.
+  responsibilities:
+  - Design and build source-centric AI workflows that generate outputs strictly grounded
+    in approved enterprise documentation
+  - Develop RAG pipelines with hybrid retrieval, metadata filtering, reranking, and
+    citation traceability
+  - Implement explainability features including provenance, citations, evidence mapping,
+    confidence signaling, and unsupported-answer handling
+  - Build multimodal document intelligence workflows for PDFs, scanned documents,
+    tables, diagrams, images, and technical figures
+  - Create human-in-the-loop review systems to approve, reject, edit, and provide
+    structured feedback on AI-generated outputs
+  - Design and maintain feedback learning loops to improve prompts, retrieval quality,
+    evaluations, and curated fine-tuning datasets
+  - Support revision-aware content intelligence including source versioning, comparison,
+    stale artifact detection, and downstream impact analysis
+  - Develop secure, enterprise-grade, multi-tenant Azure-native applications with
+    robust governance, auditability, and role-based access control
+  use_cases:
+  - Source-grounded enterprise document question answering with citation traceability
+  - Multimodal document intelligence for PDFs, scanned documents, tables, and technical
+    figures
+  - Explainable AI outputs with provenance tracking and confidence signaling
+  - Human-in-the-loop review and approval of AI-generated content
+  - Revision-aware content intelligence for enterprise documentation
+  skills:
+    genai: [RAG (Retrieval-Augmented Generation), Hybrid retrieval architectures (vector
+        + keyword search), Prompt engineering, LLM application evaluation frameworks,
+      Multimodal LLMs, Fine-tuning and preference optimization, Human-in-the-loop
+        AI systems, Hallucination detection]
+    ml: [OCR and layout extraction]
+    web: [Multi-tenant application design]
+    databases: [PostgreSQL, Vector search]
+    data: []
+    cloud: [Azure AI Search, Azure, Microsoft Entra ID]
+    ops: [CI/CD pipelines, Role-based access control (RBAC), AI observability and
+        tracing]
+    languages: [Python]
+    domains: []
+    other: [Agile/Scrum methodologies]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9123299'
+  extracted_at: '2026-04-22T12:52:23.673319'

@@ -1,0 +1,103 @@
+job_id: 9057021
+title: Senior AI/ML Engineer
+company: TransPerfect
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Azure
+  - Docker
+  - GCP
+  - Git
+  - Jenkins
+  - Kubernetes
+  - Mlflow
+  - Numpy
+  - Pandas
+company_size: 11,565 Employees
+description: |
+  TransPerfect Is More Than Just a Job… Our greatest asset is
+  our people, and nothing is more important to us than
+  ensuring that everyone knows that. Each of our 100+ offices
+  has its own individual identity, and each also has its own
+  unique rewards.
+  
+  Contract: 12 months (with potential extension based on
+  performance)
+  
+  Client: A leading multinational telecommunications company –
+  Motorola
+  
+  We are seeking a Senior AI/ML Engineer to join our client’s
+  AI team and contribute to the development of cutting-edge
+  intelligent systems. In this role, you’ll be responsible for
+  designing, training, and deploying machine learning models
+  that power innovative features across devices and services.
+  This is an exciting opportunity to work with a global
+  technology leader in the telecommunications sector, applying
+  your expertise to real-world applications that impact
+  millions of users.
+  
+  Responsibilities
+  
+  - Develop and fine-tune machine learning algorithms.
+  - Conduct experiments, evaluate model performance, and suggest
+    improvements.
+  - Lead and collaborate with engineers to implement production-
+    ready AI solutions.
+  - Document processes and results for scalability.
+  
+  Requirements
+  
+  - Bachelor’s or Master’s degree in Computer Science, Data
+    Science, Artificial Intelligence, or related field.
+  - 5-7 years of experience in developing and deploying machine
+    learning models.
+  - At least 3 years of experience leading a team.
+  - Proficiency in Python and popular ML frameworks such as
+    TensorFlow, PyTorch, and scikit-learn.
+  - Strong understanding of data preprocessing, model
+    evaluation, and hyperparameter tuning.
+  - Experience with SQL, Pandas, NumPy, and working with
+    structured and unstructured data.
+  - Familiarity with MLOps tools (Docker, Kubernetes, MLflow,
+    Airflow) is a plus.
+  - Experience with cloud platforms (AWS, Azure, or GCP)
+    preferred.
+  
+  Tech Stack
+  
+  - Programming & ML Frameworks
+  - Python
+  - TensorFlow
+  - PyTorch
+  - scikit-learn
+  - XGBoost / LightGBM (common in practical ML pipelines)
+  - Data & Analytics
+  - NumPy, Pandas
+  - SQL
+  - Jupyter Notebooks
+  - Data preprocessing & feature engineering tools
+  - Cloud / Infrastructure
+  - AWS (S3, SageMaker, Lambda, ECS)
+  - Azure (ML Studio, Blob Storage)
+  - GCP (AI Platform, BigQuery)
+  - (Any of the three—whichever the client prefers)
+  - Version Control & CI/CD
+  - Git / GitHub / GitLab
+  - Jenkins, GitHub Actions, or GitLab CI
+  
+  - Development & Experimentation Tools
+  - TensorBoard
+  - Weights & Biases (W&B) or Neptune.ai
+  - ONNX (optional but common for deployment/optimization)
+  - Other Useful Skills (common for telecom/edge AI)
+  - Experience with edge AI model optimization (TensorRT,
+    CoreML, TFLite)
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-04-15
+url: "https://builtin.com/job/senior-ai-ml-engineer/9057021"
+source: Built In

@@ -1,0 +1,47 @@
+company:
+  name: HERE Technologies
+  stage: Public
+  focus: Location data and technology platform company
+position:
+  title: Sr ML & AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      optimizing ML and AI models across the full lifecycle — from
+      model development to production deployment and MLOps. The
+      engineer works hands-on with ML frameworks, builds
+      pipelines, and deploys models, making this a clear ai-first
+      role.
+  responsibilities:
+  - Design, develop, and optimize machine learning models for real-world applications
+  - Deploy ML models into production environments
+  - Build scalable ML infrastructure and APIs
+  - Implement MLOps practices including model monitoring, retraining, and versioning
+  - Optimize model performance, latency, and scalability
+  - Build pipelines for data preprocessing, feature engineering, model training, and
+    evaluation
+  - Implement supervised, unsupervised, and deep learning algorithms
+  - Work with large datasets to develop predictive and generative models
+  use_cases:
+  - Intelligent data-driven location services
+  - Predictive modeling for location data
+  - Generative AI models for location-based applications
+  - Infrastructure and asset optimization
+  - Scalable ML solutions for global location platform
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn, Deep Learning, Model Evaluation and Optimization]
+    web: [REST APIs]
+    databases: []
+    data: [Distributed Computing, Data Preprocessing, Feature Engineering]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, Terraform, MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8975677'
+  extracted_at: '2026-04-22T12:32:18.708940'

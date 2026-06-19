@@ -1,0 +1,57 @@
+company:
+  name: Bestow
+  stage: Series B+ (backed by Goldman Sachs, NEA, Valar, 8VC)
+  focus: |-
+    Vertical technology platform for life insurance carriers
+    with AI and automation
+position:
+  title: AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building of LLM-powered systems
+      including RAG architectures, agent workflows, prompt
+      engineering, and deploying AI solutions to production. The
+      engineer works directly with LLM APIs, agent frameworks, and
+      implements AI automation - clearly building and deploying AI
+      systems, not just supporting infrastructure.
+  responsibilities:
+  - Rapidly prototype MVPs using LLM APIs, agent frameworks, and workflow orchestration
+    platforms to address business bottlenecks
+  - Design and implement RAG architectures, multi-step agent workflows, and structured
+    output pipelines grounded in company data
+  - Develop production-grade internal applications with reliable frontends, robust
+    Python backends, and proper observability
+  - Build automated evaluation frameworks (evals) to ensure reliability, accuracy,
+    and safety of AI-generated outputs
+  - Evolve successful prototypes into durable production systems with comprehensive
+    error handling, logging, and monitoring
+  - Optimize AI-powered workflows for cost, latency, and token efficiency
+  - Host workshops and train team members across departments on using AI tools safely
+    and effectively
+  - Champion responsible AI practices with appropriate human oversight and safeguards
+    for sensitive data workflows
+  use_cases:
+  - Internal business process automation across engineering, product, sales, legal,
+    and finance teams
+  - Workflow friction elimination through AI-powered automation
+  - RAG-based knowledge retrieval grounded in company data
+  - Multi-step agent workflows for complex business processes
+  - Structured output pipelines for business operations
+  skills:
+    genai: ['LLM APIs (Gemini, Anthropic, OpenAI)', LangChain, LangGraph, CrewAI,
+      AutoGen, RAG architectures, Prompt engineering, Agent frameworks]
+    ml: [Embedding pipelines]
+    web: []
+    databases: [Pinecone, Weaviate, pgvector, BigQuery]
+    data: [n8n, Zapier, Make, Temporal, Airflow]
+    cloud: ['GCP (Cloud Run, Cloud Functions, Vertex AI)', AWS, Azure]
+    ops: [Docker, CircleCI, CI/CD, LangSmith, Helicone, Git]
+    languages: [Python, JavaScript, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8757216'
+  extracted_at: '2026-03-27T13:42:45.572106'

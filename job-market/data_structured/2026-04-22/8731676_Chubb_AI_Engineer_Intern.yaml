@@ -1,0 +1,52 @@
+company:
+  name: Chubb
+  stage: Public
+  focus: Global property and casualty insurance provider
+position:
+  title: AI Engineer Intern
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work with AI/ML systems
+      including building and testing ML/AI solutions, working with
+      LLM techniques (prompt engineering, fine-tuning), building
+      AI service components (APIs, inference pipelines), and
+      exploring agentic AI frameworks. The intern contributes
+      across the full AI product lifecycle from model
+      experimentation to production support.
+  responsibilities:
+  - Assist in building and testing ML/AI solutions for business challenges in cloud
+    environments
+  - Support experimentation with LLM techniques including prompt engineering, fine-tuning
+    workflows, and evaluation methods
+  - Curate and prepare datasets for model training and evaluation
+  - Contribute to building and testing AI service components including APIs, inference
+    pipelines, and integration layers
+  - Assist with prompt management, versioning, and testing workflows
+  - Explore agentic AI frameworks (e.g., LangChain, CrewAI, AutoGen) through guided
+    prototyping projects
+  - Test agent behaviors, tool integrations, and multi-step workflows
+  - Support evaluation and observability efforts including prompt tracing and performance
+    logging
+  use_cases:
+  - AI-enabled digital solutions transforming P&C insurance
+  - LLM-powered inference pipelines for enterprise insurance operations
+  - Agentic AI systems for automated multi-step insurance workflows
+  - Production AI/ML model deployment and serving at enterprise scale
+  - Prompt engineering and evaluation for insurance domain applications
+  skills:
+    genai: [LangChain, CrewAI, AutoGen, Prompt Engineering, Fine-tuning]
+    ml: [PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers]
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, CI/CD, Git]
+    languages: [Python]
+    domains: []
+    other: [GitHub Copilot, Cursor, Claude]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8731676'
+  extracted_at: '2026-04-22T14:12:23.042507'

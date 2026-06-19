@@ -1,0 +1,82 @@
+job_id: 8903829
+title: "DevOps Engineer SE II - GCP & AI"
+company: Keywords Studios
+location: Pune, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ai Orchestration
+  - Ansible
+  - Bash
+  - Ci/Cd
+  - Docker
+  - Elasticsearch
+  - Google Cloud Platform
+  - Kubernetes
+  - Pinecone
+  - Python
+company_size: 4,788 Employees
+description: |
+  Responsibilities:
+  
+  - Infrastructure Ownership: Own Helpshift production services
+    and ensure complete monitoring coverage, troubleshoot and
+    fix production issues.
+  - Infrastructure as Code (IaC): Design and maintain scalable
+    GCP infrastructure using Terraform o
+  - AI Orchestration & LLMOps: Build deployment pipelines for AI
+    agents, managing vector databases (e.g., Vertex AI Search,
+    Pinecone, Weaviate, ElasticSearch) and model endpoints.
+  - Security (DevSecOps): Implement "Security-by-Design,"
+    including IAM least-privilege access, secret management
+    (Secret Manager), and automated vulnerability scanning for
+    AI workloads.
+  - CI/CD Excellence: Architect high-velocity pipelines for both
+    traditional microservices and AI model
+    prompts/configurations. Design, implement, and maintain
+    secure CI/CD pipelines for automating deployment,
+    configuration, and testing processes.
+  - Observability: Set up comprehensive monitoring for system
+    health and LLM-specific metrics (latency, token usage, and
+    cost)
+  - Cloud Governance: Optimise GCP costs and manage resource
+    quotas, especially for GPU/TPU-intensive AI tasks.
+  - Cross Cloud Deployment: Establish & Optimise the
+    connectivity among apps deployed in different cloud
+    environments (AWS <> GCP)
+  
+  RequirementsRequirements
+  
+  - Relevant experience of 6+ years and above
+  - Expert-level Google Cloud Platform (GCP) administration
+    skills: GKE, Cloud Run, Vertex AI, GCS, NEG etc
+  - Experience deploying Vector Databases (Pinecone, Weaviate,
+    ElasticSearch or Vertex Search) and managing API rate
+    limits/throttling for LLM providers.
+  - Setting up Cloud Monitoring/Logging specifically for AI
+    metrics: token consumption, inference latency, and model
+    error rates.
+  - In-depth knowledge of running/managing UNIX-like operating
+    systems (we use Ubuntu)
+  - Strong knowledge of networking protocols, security
+    architectures, and identity and access management (IAM)
+    principles.
+  - Experience with containerisation technologies (e.g., Docker,
+    Kubernetes) and securing containerised environments.
+  - Proficiency in Python and Bash
+  - Experience in designing and building solutions that are
+    highly scalable, fault tolerant and cost-effective
+  - Experience with IaaC tools like Ansible, Terraform.
+  - Ability to analyse bottlenecks in architecture and quickly
+    debug to reach a resolution for issues
+  - Have an automation mindset and ability to reason and work
+    with complex systems.
+  - Excellent communication and documentation skills
+  - Quick learner and good mentor for junior team members
+industries:
+  - Digital Media
+  - Gaming
+  - Software
+posted_date: 2026-03-30
+url: "https://builtin.com/job/devops-engineer-se-ii-gcp-ai/8903829"
+source: Built In

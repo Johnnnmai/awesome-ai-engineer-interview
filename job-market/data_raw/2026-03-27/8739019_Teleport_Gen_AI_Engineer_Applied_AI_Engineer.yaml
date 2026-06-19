@@ -1,0 +1,154 @@
+job_id: 8739019
+title: Gen AI Engineer / Applied AI Engineer
+company: Teleport
+location: Gurugram, IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Cloud Run
+  - Gemini Models
+  - Google Cloud Platform
+  - NoSQL
+  - Python
+  - Rag Architectures
+  - SQL
+  - Vector Dbs
+  - Vertex Ai
+company_size: 74 Employees
+description: |
+  About the Role
+  
+  We are looking for a hands-on Gen AI Engineer to build real-
+  world AI powered solutions on Google Cloud Platform. The
+  role focuses on applying Generative AI to solve data-
+  oriented problems, automate product workflows, and simplify
+  complex business processes.
+  
+  You will work on building intelligent systems using RAG
+  (Retrieval Augmented Generation), AI agents, and data
+  pipelines — not just simple API integrations. The role
+  requires both software engineering and practical AI problem-
+  solving skills.
+  
+  This is an applied engineering role where you will design
+  and implement production-grade Gen AI applications rather
+  than research-only experimentation.
+  
+  Tech Environment
+  
+  - Google Cloud Platform (GCP)
+  - Vertex AI & Gemini Models
+  - Python
+  - RAG Architectures
+  - Cloud Run deployments
+  - Data stores (SQL / NoSQL / Vector DBs)
+  - Gen AI Agents & workflow automation
+  
+  Key ResponsibilitiesGen AI Solution Development
+  
+  - Design and implement Generative AI applications using Vertex
+    AI and Gemini
+  - Build RAG pipelines integrating structured and unstructured
+    data
+  - Develop AI agents for workflow automation and task
+    orchestration
+  - Create intelligent assistants and automated decision systems
+  
+  Data & Retrieval Systems
+  
+  - Design data ingestion pipelines for AI consumption
+  - Work with embeddings, vector search, and knowledge retrieval
+  - Integrate databases, document stores, and business data
+    sources into AI workflows
+  - Improve response quality using prompt design, retrieval
+    logic, and evaluation
+  
+  Product & Business Automation
+  
+  - Automate product flows and operational processes using AI
+    agents
+  - Build systems that assist internal teams in data analysis
+    and decision-making
+  - Develop solutions to simplify business workflows and reduce
+    manual operations
+  
+  Cloud Deployment & Integration
+  
+  - Deploy AI services on GCP (Cloud Run / APIs)
+  - Integrate AI features with backend services and applications
+  - Optimize cost, latency, and reliability of Gen AI workloads
+  
+  Problem Solving
+  
+  - Use Gen AI techniques to solve complex algorithmic and data
+    processing problems
+  - Evaluate model outputs and continuously improve performance
+  - Create reusable AI frameworks and utilities
+  
+  RequirementsRequired SkillsCore Skills
+  
+  - Strong Python programming (minimum 2 years)
+  - Hands-on experience with Generative AI tools (minimum 2
+    years)
+  - Good understanding of data models and data processing
+  - Practical implementation of RAG architectures
+  - Experience using Vertex AI or similar cloud AI platforms
+  - Working knowledge of Gemini / LLM APIs
+  - Understanding of AI agents and orchestration concepts
+  
+  Cloud & Systems
+  
+  - Experience with GCP services (preferred)
+  - Deploying services using Cloud Run or containerized APIs
+  - Working with databases and data stores (SQL/NoSQL)
+  - Handling large datasets and document collections
+  
+  AI Engineering Knowledge
+  
+  - Prompt engineering and evaluation techniques
+  - Embeddings and vector search concepts
+  - Handling hallucinations and improving answer accuracy
+  - API integration and microservices communication
+  
+  What We Expect From You
+  
+  - Ability to build complete GenAI solutions, not just call
+    APIs
+  - Strong debugging and problem-solving mindset
+  - Interest in applying AI to real business problems
+  - Ownership mindset and experimentation attitude
+  - Ability to learn and adapt quickly in a fast-evolving AI
+    ecosystem
+  
+  Good to Have
+  
+  - Experience with vector databases (Pinecone, Weaviate, FAISS,
+    etc.)
+  - Experience with LangChain, LlamaIndex, or agent frameworks
+  - Knowledge of NLP fundamentals
+  - Experience building chatbots or AI assistants
+  - Exposure to data pipelines or ETL systems
+  - Experience optimizing LLM cost and latency
+  
+  Experience
+  
+  2 – 5 years total experience (At least 2 years hands-on with
+  Python and 2 years working with Generative AI
+  tools/platforms).
+  
+  BenefitsWhy Join Us
+  
+  - Opportunity to work on real production Gen AI systems
+  - Build AI automation impacting business workflows
+  - Hands-on experience with Vertex AI & Gemini ecosystem
+  - Work on challenging data and algorithmic problems
+  
+  Important Note
+  
+  This role requires practical implementation experience.
+  Candidates who have only completed courses or theoretical
+  certifications in AI without building working applications
+  may not be suitable.
+posted_date: 2026-03-13
+url: "https://builtin.com/job/gen-ai-engineer-applied-ai-engineer/8739019"
+source: Built In

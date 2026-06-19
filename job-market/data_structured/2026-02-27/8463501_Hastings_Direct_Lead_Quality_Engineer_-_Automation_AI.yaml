@@ -1,0 +1,56 @@
+company:
+  name: Hastings Direct
+  stage: Public
+  focus: |-
+    Digital insurance provider with pricing and data
+    capabilities
+position:
+  title: Lead Quality Engineer - Automation & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA/Quality Engineering leadership role that uses
+      AI-assisted testing tools to improve test coverage and
+      efficiency, but does not build, train, fine-tune, or deploy
+      AI/ML models. The role works with ML engineers and pricing
+      teams in a support capacity, applying AI tools for testing
+      purposes only.
+  responsibilities:
+  - Lead end-to-end QA strategy and execution across all underwriting lines of business,
+    ensuring testing supports high-quality delivery at pace
+  - Design, implement, and continuously evolve the QA strategy covering pre-live testing,
+    post-release monitoring, and live issue investigation
+  - Provide hands-on technical leadership in reviewing test strategies, automation
+    design, and investigation of complex or high-impact defects
+  - Drive the strategic and practical use of test automation, ensuring automation
+    is targeted, maintainable, and focused on the highest-risk areas
+  - Apply AI-assisted testing techniques where they provide clear, measurable benefit,
+    working closely with pricing engineers and ML teams
+  - Own post-release quality activities, including monitoring, alerting, and validation
+    of controls
+  - Line-manage QA Leads and the Automation Manager, providing clear direction, prioritisation,
+    coaching, and performance support
+  - Define and track quality metrics such as defect trends, test effectiveness, automation
+    coverage, and release readiness
+  use_cases:
+  - Insurance pricing platform quality assurance
+  - Rating engine testing and validation
+  - Regulatory compliance testing for financial services
+  - Risk assessment and pricing accuracy verification
+  - Test automation for underwriting systems
+  skills:
+    genai: [AI-assisted testing tools]
+    ml: []
+    web: [pytest, Selenium, Playwright, Cypress, API testing]
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [GitHub, CI/CD, Azure DevOps, Test automation]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8463501'
+  extracted_at: '2026-03-03T11:39:15.149926'

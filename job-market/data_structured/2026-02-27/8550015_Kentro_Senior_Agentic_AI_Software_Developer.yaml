@@ -1,0 +1,60 @@
+company:
+  name: Kentro
+  stage: null
+  focus: |-
+    Technology solutions and consulting for federal government
+    agencies
+position:
+  title: Senior Agentic AI Software Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is focused on designing, building, and deploying
+      agent-based AI systems including multi-step agentic
+      workflows, RAG patterns, tool-using agents, and contextual
+      engineering. The position involves hands-on work
+      architecting and implementing LLM orchestration systems,
+      which is core AI/ML work building and deploying
+      models/agents.
+  responsibilities:
+  - Design and implement multi-step agentic AI workflows including planner/executor
+    patterns, tool-using agents, and RAG with memory patterns
+  - Engineer contextual pipelines with RAG, structured memory (short-term, long-term,
+    episodic), and tool invocation
+  - Control hallucination and drift through grounding, validation, policy constraints,
+    and ensemble methods
+  - Optimize context windows, token usage, and latency under federal cost and performance
+    constraints
+  - Build production-grade services and APIs using Python, Java, C++, Rust, Go, C#,
+    TypeScript
+  - Design and deploy AI solutions in Azure Government Community Cloud High (GCCH)
+    environments
+  - Implement secure coding practices aligned with NIST 800-53 and federal compliance
+    requirements
+  - Design AI systems with auditability, traceability, and explainability; support
+    ATO processes
+  use_cases:
+  - Secure agent-based AI systems for government and federal agencies
+  - Multi-step agentic workflows for regulated, security-constrained environments
+  - Enterprise integration with data lake houses, SharePoint, and Microsoft Graph
+    API
+  - Federally compliant AI systems with controlled identity and authentication flows
+  - Mission-critical AI solutions for federal civilian and DoD customers
+  skills:
+    genai: [LangChain, LangGraph, RAG, LLM orchestration, Function calling, ReAct
+        planning, Tree-of-Thought, Guardrails, Contextual engineering, Memory architectures]
+    ml: []
+    web: [Microsoft Graph API, REST APIs, Microservices]
+    databases: [Vector databases]
+    data: []
+    cloud: [Azure AI, Azure OpenAI, Azure Kubernetes Service, Azure Functions, Azure
+        Data Lake Storage, Azure Key Vault, Azure Government Cloud]
+    ops: [RBAC, Managed identities, Logging and monitoring]
+    languages: [Python, Java, C++, Rust, Go, C#, TypeScript]
+    domains: []
+    other: [SharePoint, NIST 800-53, FedRAMP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8550015'
+  extracted_at: '2026-03-03T11:52:36.103356'

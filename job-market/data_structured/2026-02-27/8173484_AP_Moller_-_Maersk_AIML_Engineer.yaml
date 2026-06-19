@@ -1,0 +1,57 @@
+company:
+  name: A.P. Moller - Maersk
+  stage: Public
+  focus: |-
+    Global container shipping and logistics services, supply
+    chain solutions
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building, developing, and
+      deploying ML/deep learning models and LLM-based solutions to
+      production. The position requires implementing neural
+      networks, transformer architectures, and LLMs (LangChain,
+      Hugging Face), along with end-to-end AI/ML data products -
+      all direct work ON AI systems.
+  responsibilities:
+  - Design, develop, and implement robust, scalable, and optimized machine learning
+    and deep learning models
+  - Write and integrate automated tests alongside models to ensure reproducibility
+    and quality standards
+  - Implement best practices in security, pipeline automation, and error handling
+  - Identify and implement data-driven approaches to solve ambiguous business problems
+  - Research and implement new models, technologies, and methodologies into production
+    systems
+  - Manage and optimize data solutions, perform A/B testing, and evaluate system performance
+  - Contribute to design and documentation of AI/ML solutions for cross-team collaboration
+  - Collaborate across teams to develop high-quality, scalable AI/ML solutions aligned
+    with business goals
+  use_cases:
+  - Supply chain execution optimization and visibility-driven recommendation systems
+  - Strategic decision-making support with actionable insights for internal stakeholders
+    and customers
+  - Demand forecasting and time-series modeling for logistics
+  - Natural language processing applications for logistics operations
+  - Multi-agent systems and reinforcement learning for dynamic decision-making in
+    supply chain
+  - Multimodal AI integrating text, image, and other data modalities for unified intelligence
+  skills:
+    genai: [LangChain, Hugging Face transformers, BERT, GPT, LLaMA, Mistral, Claude,
+      Gemini]
+    ml: [scikit-learn, PyTorch, Deep Learning, Neural Networks, Reinforcement Learning,
+      NLP, Transformer architectures, A/B testing]
+    web: []
+    databases: []
+    data: [Spark, Airflow, Big Data Technologies]
+    cloud: []
+    ops: [MLOps, Kubeflow, Kubernetes, Docker, GitHub, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: [Gurobi, PowerBI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8173484'
+  extracted_at: '2026-03-03T12:22:46.552770'

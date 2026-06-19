@@ -1,0 +1,50 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Healthcare technology and pharmacy benefits management
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building, deploying, and
+      developing ML models and algorithms into production,
+      including NLP, NLU, computer vision, deep learning, and ASR.
+      The engineer is hands-on with model development and
+      deployment, making this an ai-first role.
+  responsibilities:
+  - Code and develop software that deploys ML models and algorithms into production
+  - Communicate and present complex analytics results and concepts to leadership and
+    internal stakeholders
+  - Employ AI/ML techniques including NLP, NLU, semantic understanding, intent classification,
+    computer vision, deep learning, and ASR
+  - Apply deep learning technologies to enable computers to visualize, learn, and
+    respond to complex situations
+  - Adapt machine learning to areas such as artificial intelligence, robotics, and
+    interactive products
+  - Work with large-scale computing frameworks and data analysis systems
+  - Apply experimental methodologies, statistics, optimization, probability theory,
+    and machine learning for tool building and statistical analysis
+  use_cases:
+  - Natural language processing and understanding for healthcare applications
+  - Computer vision and deep learning for complex situation analysis
+  - Automatic speech recognition systems
+  - Semantic understanding and intent classification
+  - Interactive user experiences through AI-powered products
+  - Healthcare data analysis and predictive modeling
+  skills:
+    genai: []
+    ml: [Deep Learning, Machine Learning]
+    web: []
+    databases: []
+    data: [Large-scale computing frameworks]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP, NLU, Computer Vision, Automatic Speech Recognition]
+    other: [Statistics, Optimization, Probability Theory]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9116232'
+  extracted_at: '2026-04-22T12:37:53.028518'

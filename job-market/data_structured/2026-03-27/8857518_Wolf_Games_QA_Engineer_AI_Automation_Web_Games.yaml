@@ -1,0 +1,57 @@
+company:
+  name: Wolf Games
+  stage: Seed
+  focus: |-
+    Generative entertainment platform for AI-collaborative
+    crime-solving games
+position:
+  title: QA Engineer, AI Automation & Web Games
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI agents that autonomously play
+      games, write test scripts, perform code reviews, and
+      integrate into development pipelines. The engineer actively
+      designs and deploys AI systems that test other AI-built
+      systems, requiring hands-on prompt engineering, LLM
+      integration, and AI agent development - not just supporting
+      infrastructure for AI work.
+  responsibilities:
+  - Design and deploy AI agents capable of autonomously playing through HTML5 games
+    to validate core loops, progression logic, and edge cases
+  - Build an automated AI Bug Hunt system that continuously explores daily builds
+    to identify physics glitches, UI overlaps, and rendering anomalies
+  - Write test parameters, prompts, and acceptance criteria that AI coding tools use
+    to generate game features
+  - Implement automated AI code reviews that scan pull requests for performance bottlenecks,
+    memory leaks, and mobile web anti-patterns
+  - Develop automated systems to simulate and test device fragmentation across iOS
+    Safari, Android Chrome, and variable network speeds
+  - Embed AI QA gates directly into CI/CD pipeline with automated visual and state-based
+    checks
+  - Run structured internal play-test sessions and translate subjective design feedback
+    into testable parameters
+  - Reduce manual regression testing by 90% through AI-augmented end-to-end testing
+  use_cases:
+  - Autonomous game playthrough validation for mobile HTML5 games
+  - Automated bug detection across physics, UI, and rendering systems
+  - AI-assisted code review and quality assurance for game development
+  - Device fragmentation testing across mobile browsers
+  - CI/CD quality gates for daily game builds
+  - Generative entertainment universes with AI-collaborative gameplay
+  skills:
+    genai: [prompt engineering, LLMs, AI agents]
+    ml: []
+    web: [Playwright, Cypress, Puppeteer]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, visual regression testing]
+    languages: [TypeScript, JavaScript]
+    domains: [mobile HTML5 games, game QA]
+    other: [Pixi.js, Phaser, Three.js, WebGL, TDD]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8857518'
+  extracted_at: '2026-03-27T15:45:53.486900'

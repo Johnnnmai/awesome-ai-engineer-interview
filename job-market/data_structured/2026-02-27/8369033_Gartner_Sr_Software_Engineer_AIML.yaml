@@ -1,0 +1,50 @@
+company:
+  name: Gartner
+  stage: Public
+  focus: |-
+    Research and consulting delivering business and technology
+    insights
+position:
+  title: Sr Software Engineer (AI/ML)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building applications using
+      generative AI techniques including RAG, agentic frameworks
+      (LangGraph), embedding models, and vector databases. The
+      position requires hands-on implementation of knowledge
+      search, summarization, and response evaluation systems - all
+      core AI/ML development work.
+  responsibilities:
+  - Establish methodologies for quickly rolling out new data analysis capabilities
+    using ML, NLP and Gen AI
+  - Transform unstructured raw data into formats suitable for modeling
+  - Design, implement, and support Python-based applications for Research & Consulting
+    Delivery
+  - Build internal applications to improve associate productivity
+  - Operationalize leading data technologies and best practices
+  - Collaborate with stakeholders to define requirements in globally distributed Agile/Scrum
+    teams
+  - Maintain project plans, clean code, and well-written documentation
+  use_cases:
+  - Knowledge search and summarization for internal associates
+  - Frameworks to evaluate and compare performance of different GenAI techniques
+  - Measuring and improving accuracy and helpfulness of generative responses
+  - Data-driven products and services to support associates
+  - Productivity improvement tools for internal use
+  skills:
+    genai: [LangGraph, RAG, Embedding models, MCP, Generative AI, Fine-tuning LLMs]
+    ml: [NLP, BERT, Transformers, Deep learning, Machine learning, Scikit-Learn, SciPy]
+    web: []
+    databases: [Vector databases, Oracle, MySQL, PostgreSQL]
+    data: [Pandas, NumPy, Databricks, Airflow]
+    cloud: [AWS, Azure, AWS Bedrock, Azure AI]
+    ops: [Kubeflow, MLflow, DataRobot, Jira, GitHub, Agile/Scrum]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8369033'
+  extracted_at: '2026-03-03T11:21:35.602671'

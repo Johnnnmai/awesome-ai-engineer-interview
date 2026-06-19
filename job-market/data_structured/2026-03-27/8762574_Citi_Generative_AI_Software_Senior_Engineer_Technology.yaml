@@ -1,0 +1,53 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Generative AI Software Senior Engineer, Technology Strategy – Senior Vice
+    President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI agents
+      (Tech Strategy Assistant, AI Metrics Assistant), working
+      directly with LLMs, agentic orchestration, and vector
+      stores. The position requires implementing production-grade
+      AI capabilities and has explicit requirements for LangChain,
+      PyTorch/TensorFlow, and experience with transformers.
+  responsibilities:
+  - Design and build AI agents that enable and streamline Technology Strategy processes
+  - Translate complex LLM and agentic workflows into clear, responsive, and intuitive
+    user experiences
+  - Embed AI capabilities into strategic workflows to drive measurable productivity
+    gains
+  - Enable real-time and streaming AI outputs including chat, reasoning traces, document
+    generation, and workflow automation
+  - Design and build high-quality, highly reliable products with user experience at
+    the center
+  - Continually iterate and scale Generative AI products based on internal customer
+    needs
+  - Maintain strong engineering discipline including clean architecture, performance
+    optimization, and testing
+  - Mentor and nurture other engineers to help them grow their skills and expertise
+  use_cases:
+  - Technology Strategy Assistant - AI-powered strategic decision support
+  - AI Metrics Assistant - automated metrics and analytics
+  - Real-time chat and reasoning trace generation
+  - Document generation and workflow automation
+  - Enterprise AI platform for bank-wide strategic enablement
+  skills:
+    genai: [LangChain, LLMs, Transformers, Agentic orchestration]
+    ml: [PyTorch, TensorFlow]
+    web: [API development]
+    databases: [Vector stores, Search algorithms]
+    data: [Large-scale ETL]
+    cloud: []
+    ops: [Kubernetes, MLOps, CI/CD]
+    languages: [Python, JavaScript, TypeScript, Golang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8762574'
+  extracted_at: '2026-03-27T13:46:12.218471'

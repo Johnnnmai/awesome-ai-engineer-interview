@@ -1,0 +1,48 @@
+company:
+  name: Jack & Jill AI
+  stage: Series A
+  focus: |-
+    Atomico-backed AI startup creating synthetic audiences for
+    behavioral simulation and market research
+position:
+  title: AI Engineer at Electric Twin
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing cognitive architectures and
+      memory systems for LLM-driven agents, implementing RAG and
+      chain-of-thought prompting, and building agentic workflows.
+      The engineer will work directly on building, deploying, and
+      optimizing AI/agent systems.
+  responsibilities:
+  - Design and implement cognitive systems that provide AI agents with consistent
+    personalities, reasoning capabilities, and advanced memory using RAG and chain-of-thought
+    prompting
+  - Conduct systematic experiments to validate synthetic agent behavior against real-world
+    data, iterating on model architectures based on empirical performance
+  - Build scalable backend infrastructure and sophisticated prompting strategies required
+    to deploy multi-agent simulations in enterprise production environments
+  - Bridge the gap between AI research and production engineering within the Science
+    team
+  use_cases:
+  - Synthetic audience generation for market research
+  - Behavioral simulation predicting human behavior with 95% accuracy
+  - Enabling global brands to conduct deep market research in seconds
+  - Creating dynamic, reasoning digital populations for enterprise insights
+  skills:
+    genai: [RAG, chain-of-thought prompting, LLM agents, multi-agent systems, prompt
+        engineering]
+    ml: []
+    web: [FastAPI, Django]
+    databases: []
+    data: []
+    cloud: []
+    ops: [distributed systems, scalable architectures]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8853902'
+  extracted_at: '2026-03-27T15:50:07.334255'

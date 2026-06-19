@@ -1,0 +1,48 @@
+company:
+  name: DataSite
+  stage: unknown
+  focus: |-
+    AI technology for investment management and dealmaking
+    industry
+position:
+  title: Tier 3 Support Engineer - Blueflame AI (New York)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Tier 3 Support Engineer role at Blueflame AI that
+      involves troubleshooting technical issues, analyzing logs,
+      and escalating bugs to engineering. The role supports AI
+      products but does not involve building, training, fine-
+      tuning, or deploying AI models - it's infrastructure and
+      support work NEAR AI rather than ON AI.
+  responsibilities:
+  - Investigate and resolve complex technical issues escalated from customer success
+    teams
+  - Analyze platform logs and review associated code to diagnose problems
+  - Troubleshoot advanced technical challenges to ensure timely and effective solutions
+  - Document issues and resolutions, contributing to the knowledge base for continuous
+    improvement
+  - Work directly with Engineering to identify, report, and resolve product bugs and
+    enhancements
+  - Collaborate with Product teams to enhance the knowledge base and inform the product
+    roadmap based on support insights
+  use_cases:
+  - AI-powered deal sourcing for investment management
+  - Data room solutions for business transactions
+  - AI technology for the dealmaking industry
+  skills:
+    genai: []
+    ml: []
+    web: [APIs]
+    databases: [Elasticsearch]
+    data: []
+    cloud: [AWS]
+    ops: [Jira]
+    languages: [Python]
+    domains: []
+    other: [Microsoft SharePoint, Microsoft O365, Microsoft OneNote]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8772199'
+  extracted_at: '2026-03-27T15:09:43.147292'

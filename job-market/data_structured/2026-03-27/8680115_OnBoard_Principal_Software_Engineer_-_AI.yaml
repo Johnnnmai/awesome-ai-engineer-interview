@@ -1,0 +1,52 @@
+company:
+  name: OnBoard
+  stage: Growth (backed by JMI Equity, acquired eScribe and Govenda)
+  focus: Board management software and board intelligence platform
+position:
+  title: Principal Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on implementation of AI systems
+      including RAG architectures, vector databases, LLM
+      orchestration, and semantic search. The engineer will
+      directly build and deploy AI-powered and agentic
+      experiences, not just support infrastructure for AI work.
+  responsibilities:
+  - Lead design, development, and implementation of AI-powered capabilities including
+    semantic search, vector databases, RAG architectures, and LLM orchestration patterns
+  - Translate business requirements into technical designs and iteratively bring them
+    to life with the team
+  - Collaborate with cross-functional teams to define project goals, scope, and scalable
+    software designs
+  - Mentor and coach team members, fostering professional growth and knowledge sharing
+  - Write reusable code, build libraries, conduct code reviews, and enforce coding
+    standards
+  - Champion adoption of AI-assisted development tools like Claude Code, GitHub Copilot,
+    and Codex
+  - Build developer experience tooling and golden pathways that scale engineering
+    capability
+  - Drive technical innovation and identify opportunities for process improvements
+  use_cases:
+  - Semantic search for board management platform
+  - RAG-based question answering and information retrieval
+  - LLM orchestration for agentic experiences
+  - AI-powered board intelligence and insights
+  - Vector database architectures for document and knowledge retrieval
+  skills:
+    genai: [RAG, LLM orchestration, Prompt engineering, Semantic search, Claude, GitHub
+        Copilot, Cursor]
+    ml: []
+    web: [.NET Core, RESTful APIs, Microservices]
+    databases: [Vector databases]
+    data: [Event hubs, Messaging systems, Data lakes]
+    cloud: [Azure, Azure DevOps]
+    ops: [CI/CD, Git]
+    languages: [C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8680115'
+  extracted_at: '2026-03-27T16:06:41.607742'

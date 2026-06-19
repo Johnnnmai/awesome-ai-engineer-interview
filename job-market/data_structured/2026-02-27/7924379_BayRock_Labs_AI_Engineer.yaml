@@ -1,0 +1,45 @@
+company:
+  name: BayRock Labs
+  stage: unknown
+  focus: |-
+    Product engineering firm providing full-cycle product
+    development using AI, ML, and data analytics
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and integrating LLM-
+      powered systems, including working with agent frameworks
+      (LangGraph, LangChain), prompting, orchestration, and model
+      evaluation. The engineer will be hands-on with LLM
+      technologies, not just supporting infrastructure for AI
+      work.
+  responsibilities:
+  - Build and integrate LLM-powered systems
+  - Design and implement AI/LLM pipelines and orchestration workflows
+  - Develop agent workflows using LangGraph and LangChain
+  - Implement prompting strategies and model evaluation processes
+  - Build production-grade backend services and API gateways using FastAPI
+  - Create graph-based orchestration with tools and memory for AI agents
+  use_cases:
+  - LLM-powered application development
+  - Agent-based workflow automation
+  - AI pipeline design and orchestration
+  skills:
+    genai: [LLM Integration, Prompt Engineering, LangGraph, LangChain, Agent Workflows,
+      Model Evaluation]
+    ml: []
+    web: [FastAPI]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7924379'
+  extracted_at: '2026-03-03T11:58:54.066352'

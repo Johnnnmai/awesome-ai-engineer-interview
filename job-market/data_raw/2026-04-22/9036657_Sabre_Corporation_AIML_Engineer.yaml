@@ -1,0 +1,130 @@
+job_id: 9036657
+title: AI/ML Engineer
+company: Sabre Corporation
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Mid level
+skills:
+  - BigQuery
+  - Cloud Storage
+  - GCP
+  - Pub/Sub
+  - Python
+  - Vertex Ai
+company_size: 8,150 Employees
+description: |
+  Powering the agentic revolution in travel. Sabre is an AI-
+  native technology leader, backed by one of the world’s
+  largest travel data clouds. Built on an open, modular,
+  cloud-native architecture, Sabre serves as the backbone for
+  both established leaders and bold, new disruptors, guiding
+  them to the next age of travel retailing through
+  intelligent, connected, and personalized experiences. With
+  AI at its core and operating at unparalleled scale, Sabre
+  transforms insights into innovation, empowering airlines,
+  hoteliers, agencies and other partners to retail, distribute
+  and fulfill travel worldwide.
+  
+  Role Summary
+  
+  The Engineer is an early-career contributor focused on
+  building and testing GenAI and agentic AI components on
+  Google Cloud Platform using Vertex AI and ADK frameworks.
+  This role emphasizes hands-on coding, learning best
+  practices, and delivering high-quality features under
+  guidance, while developing expertise in GCP and AI
+  workflows.
+  
+  Key Responsibilities
+  
+  Development & Implementation
+  
+  - Implement basic GenAI workflows: prompt engineering,
+    embeddings, and simple RAG pipelines.
+  - Build and integrate agent tools and simple planners using
+    ADK.
+  - Work with GCP services: Vertex AI, BigQuery, Cloud Storage,
+    Pub/Sub, Cloud Run.
+  
+  Quality & Testing
+  
+  - Write clean, documented code with unit tests.
+  - Participate in code reviews and apply feedback to improve
+    quality.
+  - Ensure basic observability: logs, error handling, retries.
+  
+  Collaboration & Learning
+  
+  - Work closely with senior engineers and team leads to
+    understand architecture and standards.
+  - Attend design discussions, training sessions, and knowledge-
+    sharing forums.
+  - Contribute to documentation and team wikis.
+  
+  Compliance & Safety
+  
+  - Apply Responsible AI principles: use safety prompts and
+    filters.
+  - Follow security guidelines: IAM roles, secret management,
+    and data handling policies.
+  
+  Required Technical Competencies
+  
+  - GenAI Basics: Prompt engineering, embeddings, simple RAG
+    concepts.
+  - Agentic AI Basics: Agent loops, tool integration, memory
+    fundamentals.
+  - GCP Services: Vertex AI, BigQuery, Cloud Storage, Pub/Sub.
+  - Coding: Proficiency in Python; familiarity with APIs and
+    SDKs.
+  
+  Qualifications
+  
+  - 1–3 years in software/data engineering or ML development.
+  - Exposure to AI/ML concepts and cloud platforms (preferably
+    GCP).
+  - Strong coding fundamentals and eagerness to learn GenAI and
+    agentic patterns.
+  
+  Outcomes & KPIs
+  
+  - Delivery: Assigned tasks completed on time with minimal
+    defects.
+  - Learning: Demonstrates growth in GenAI and agentic
+    competencies.
+  - Collaboration: Actively participates in reviews and team
+    discussions.
+  
+  Demonstrated Behaviors
+  
+  Execution
+  
+  - Delivers assigned tasks with attention to detail.
+  - Seeks clarity and applies feedback promptly.
+  
+  Learning
+  
+  - Shows curiosity; asks questions; adopts best practices.
+  - Documents learnings and shares with peers.
+  
+  Collaboration
+  
+  - Communicates effectively; works well in team settings.
+  - Respects coding standards and security guidelines.
+  
+  We will give careful consideration to your application and
+  review your details against the position criteria. You will
+  receive separate notification as your application
+  progresses.
+  
+  Please note that only candidates who meet the minimum
+  criteria for the role will proceed in the selection process.
+  
+  #LI-Hybrid#LI-GS1
+industries:
+  - Information Technology
+  - Software
+  - Travel
+posted_date: 2026-04-14
+url: "https://builtin.com/job/ai-ml-engineer/9036657"
+source: Built In

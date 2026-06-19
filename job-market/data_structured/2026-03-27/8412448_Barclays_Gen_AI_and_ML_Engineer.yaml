@@ -1,0 +1,55 @@
+company:
+  name: Barclays
+  stage: Public
+  focus: Global financial services and banking
+position:
+  title: Gen AI and ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, designing, and
+      deploying Generative AI, Agentic AI, and ML systems
+      including LLM fine-tuning, RAG implementations, and AI agent
+      architectures. The position requires direct work with LLMs,
+      AWS Bedrock/SageMaker, and GenAI frameworks.
+  responsibilities:
+  - Own end-to-end product lifecycle for Generative AI, Agentic AI, and AI/ML solutions
+    from design to deployment
+  - Design and implement Agentic and Generative AI applications using AWS Bedrock,
+    SageMaker, and other AWS ML services
+  - Develop LLM-based use cases including RAG, summarization, and data analysis for
+    enterprise-scale applications
+  - Fine-tune, evaluate, and optimize Large Language Models for performance, accuracy,
+    and safety
+  - Bridge business and technology teams to ensure alignment of requirements and technical
+    specifications
+  - Enable data-driven insights and AI-powered automation for Conversational AI, GenAI,
+    and ML use cases
+  - Collaborate with product managers, engineers, and UX teams to embed AI capabilities
+    into business workflows
+  - Build and maintain data architectures and pipelines that enable transfer and processing
+    of data
+  use_cases:
+  - Conversational AI systems
+  - Enterprise-scale RAG applications
+  - Document and content summarization
+  - AI-powered data analysis
+  - AI-powered automation for business workflows
+  - Agentic AI systems for enterprise applications
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, Langfuse, RAG, Prompt engineering, AI Agents,
+      LLM fine-tuning, Conversational AI]
+    ml: [NLP]
+    web: [REST APIs, JSON/XML]
+    databases: [SQL, DynamoDB, pgvector, ChromaDB, FAISS]
+    data: []
+    cloud: [AWS Bedrock, AWS SageMaker, AWS Lambda, AWS API Gateway]
+    ops: [CI/CD, Jenkins]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8412448'
+  extracted_at: '2026-03-27T13:55:07.193168'

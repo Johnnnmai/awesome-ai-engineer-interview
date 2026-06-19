@@ -1,0 +1,237 @@
+job_id: 9007020
+title: Senior AI/ML Engineer
+company: Ford Motor Company
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - BigQuery
+  - Ci/Cd
+  - Databricks
+  - Docker
+  - Genai
+  - Kubernetes
+  - Llm
+  - Ml
+  - Python
+  - Snowflake
+description: |
+  We made history and now we work to transform the future –
+  for our customers, our communities and our families. You'll
+  see your work on the road every day, helping people move
+  freely and pursue their dreams. At Ford, you can build more
+  than vehicles. Come build what matters.
+  
+  The Ford Motor Credit Company team helps put people behind
+  the wheels of great Ford and Lincoln vehicles. By partnering
+  with dealerships, we provide financing, personalized service
+  and professional expertise to thousands of dealers and
+  millions of customers in over one hundred countries around
+  the world.
+  
+  In this position...
+  
+  The Senior AI/ML Engineer at Ford Credit is a hands-on
+  technical role responsible for designing, developing, and
+  operationalizing advanced analytics and AI solutions that
+  materially improve customer outcomes, reduce financial risk,
+  and increase operational efficiency across Ford Credit. You
+  will deliver across a diverse portfolio of strategic AI
+  initiatives including real-time and batch fraud detection
+  (traditional ML and graph/anomaly approaches), hierarchical
+  forecasting, and GenAI capabilities such as conversational
+  agent-assist, RAG-based knowledge grounding, and tool-using
+  AI agents that automate business processes.
+  
+  You will partner closely with product, engineering, data
+  engineering, risk/compliance, and business stakeholders to
+  define success criteria, design reproducible data and model
+  pipelines, prototype and productionize solutions, and
+  implement monitoring, explainability, and governance to meet
+  security and regulatory requirements. You will own end-to-
+  end delivery for assigned projects, balancing rapid
+  experimentation with production rigor to produce measurable
+  business outcomes. This role requires strong technical
+  judgment, clear stakeholder communication, and a commitment
+  to responsible AI practices for both classic ML and modern
+  GenAI/agent workflows.
+  
+  Responsibilities
+  
+  What you'll do...
+  
+  - Design, prototype, validate, and productionize traditional
+    ML models and GenAI/LLM-based solutions (including RAG and
+    agentic workflows) to meet business objectives across
+    credit products.
+  - Translate business problems into technical solutions: define
+    metrics, success criteria, evaluation strategy, and
+    experimentation plans for both ML models and GenAI
+    experiences.
+  - Own end-to-end model/system lifecycle for assigned use
+    cases, including data ingestion and lineage, feature
+    engineering, model development, evaluation, deployment,
+    monitoring, and retraining/re-optimization.
+  - Build and operationalize AI agents that automate business
+    processes and augment agent-assist workflows, including:
+    - tool-using agent patterns, multi-step orchestration
+    - memory/state management and safe handoffs to humans
+    - secure connector design to upstream/downstream systems
+    - integration into APIs, microservices, or agent frameworks
+  - Ensure explainability, fairness, and regulatory compliance
+    for credit/financial use cases. Produce required
+    documentation and artifacts for model risk and audit.
+  - Integrate solutions into production by collaborating with
+    software engineers and MLOps teams (e.g., model/LLM
+    services, RAG services, agent runtimes) and supporting
+    CI/CD for ML/GenAI components.
+  - Instrument monitoring and observability across the full
+    lifecycle:
+    - traditional ML: performance, drift, data quality, latency
+    - GenAI/agents: quality/safety metrics, grounding/citation
+      quality, tool-call reliability, latency/cost, and drift
+      in retrieval inputs
+    - define retraining and incident playbooks, and lead
+      mitigation/rollback actions.
+  - Build robust evaluation pipelines for both paradigms:
+    - holdout strategies, cross-validation, backtesting
+    - uplift/A-B testing frameworks and business impact estimation
+    - scenario-based and simulation-based testing for agent
+      behavior and GenAI responses.
+  - Drive responsible AI and safety for agents/LLMs, including
+    guardrails (authorization/scope limits, confirmation
+    flows, human-in-the-loop escalation), bias mitigation, and
+    privacy-by-design (PII handling).
+  - Communicate clearly with non-technical stakeholders and
+    senior leadership—articulating model/system behavior,
+    limitations, risks, and measurable outcomes.
+  - Mentor and raise team capability in reproducible ML
+    engineering and agent/GenAI development practices.
+  - Coordinate with data engineering to ensure reliable,
+    documented data sources and lineage.
+  - Keep abreast of emerging AI safety practices and recommend
+    improvements to guardrails and SDLC processes.
+  
+  Qualifications
+  
+  You'll have...
+  
+  - Bachelor's degree in Computer Science or a related field
+    (e.g., Machine Learning, Statistics, Data Science,
+    Electrical/Computer Engineering) or equivalent practical
+    experience
+  - 5+ years of applied ML/AI experience (or equivalent) with
+    demonstrated hands-on delivery in production environments.
+  - Strong software engineering skills in Python and modern
+    engineering practices (testing, modular design, reliable
+    pipelines, maintainability).
+  - Production ML and MLOps experience: Docker, CI/CD, model
+    serving, monitoring/observability, and experience working
+    with orchestrated pipelines (e.g., Kubernetes and/or
+    equivalent).
+  - Strong data skills: advanced SQL and experience with big
+    data platforms (e.g., BigQuery, Spark, Databricks,
+    Snowflake) and/or streaming/event-driven systems.
+  - Traditional ML expertise: practical experience building and
+    productionizing models for credit use cases (e.g.,
+    classification, regression, time-series forecasting,
+    anomaly detection, graph-based fraud approaches).
+  - GenAI/LLM expertise: hands-on experience building and
+    evaluating LLM-based systems, including RAG, prompt
+    engineering, evaluation of response quality/grounding, and
+    conversational AI/agent-assist applications.
+  
+  Even better, you may have...
+  
+  - Master’s degree or higher in Computer Science or a related
+    field (e.g., Machine Learning, Statistics, Data Science,
+    Electrical/Computer Engineering) or equivalent practical
+    experience
+  
+  - AI agent engineering: hands-on experience designing and
+    deploying tool-using AI agents with safe orchestration,
+    memory/state handling, evaluation, and operational
+    guardrails. Experience with popular agent frameworks is a
+    plus.
+  - Evaluation & experimentation: experience with holdouts,
+    cross-validation/backtesting, A/B testing, uplift
+    modeling, and business impact estimation; ability to
+    design robust evaluation for both ML and GenAI/agents.
+  - Model explainability & fairness: familiarity with SHAP/LIME
+    (or equivalent) and ability to incorporate explainability
+    and fairness into validation and documentation.
+  - Regulated environment experience: familiarity with
+    governance needs for credit/financial models and producing
+    audit-ready artifacts (model/system cards, validation
+    reports, documentation).
+  - Cloud familiarity (AWS/Azure/GCP) and ML services is
+    preferred.
+  - Excellent communication and collaboration with product,
+    engineering, legal, and risk teams; ability to explain
+    technical trade-offs and risk posture to stakeholders.
+  
+  You may not check every box, or your experience may look a
+  little different from what we've outlined, but if you think
+  you can bring value to Ford Motor Company, we encourage you
+  to apply!
+  
+  As an established global company, we offer the benefit of
+  choice. You can choose what your Ford future will look like:
+  will your story span the globe, or keep you close to home?
+  Will your career be a deep dive into what you love, or a
+  series of new teams and new skills? Will you be a leader, a
+  changemaker, a technical expert, a culture builder…or all of
+  the above? No matter what you choose, we offer a work life
+  that works for you, including:
+  
+  - Immediate medical, dental, vision and prescription drug
+    coverage
+  - Flexible family care days, paid parental leave, new parent
+    ramp-up programs, subsidized back-up child care and more
+  - Family building benefits including adoption and surrogacy
+    expense reimbursement, fertility treatments, and more
+  - Vehicle discount program for employees and family members
+    and management leases
+  - Tuition assistance
+  - Established and active employee resource groups
+  - Paid time off for individual and team community service
+  - A generous schedule of paid holidays, including the week
+    between Christmas and New Year’s Day
+  - Paid time off and the option to purchase additional vacation
+    time.
+  
+  This position is a salary grade 7 and ranges from
+  $99,600-$166,600., This position is a salary grade 8 and
+  ranges from $115,000-$192,900.
+  
+  Final determination of salary grade will be based on
+  candidate's skills and experience, and base salary will be
+  set within the applicable range according to job scope,
+  responsibility and competitive market value.
+  
+  For more information on salary and benefits, click here:
+  https://fordcareers.co/GSR
+  
+  Visa sponsorship is not available for this position.
+  
+  Candidates for positions with Ford Motor Company must be
+  legally authorized to work in the United States.
+  Verification of employment eligibility will be required at
+  the time of hire.
+  
+  We are an Equal Opportunity Employer. All qualified
+  applicants will receive consideration for employment without
+  regard to race, religion, color, age, sex, national origin,
+  sexual orientation, gender identity, disability status or
+  protected veteran status. In the United States, if you need
+  a reasonable accommodation for the online application
+  process due to a disability, please call 1-888-336-0660.
+  
+  This position is hybrid. Candidates who are in commuting
+  distance to a Ford hub location may be required to be onsite
+  four or more days per week. #LI-Hybrid
+  
+  #LI-FordCredit  #LI-SL2
+posted_date: 2026-04-09
+url: "https://www.builtinla.com/job/senior-ai-ml-engineer/9007020"
+source: Built In

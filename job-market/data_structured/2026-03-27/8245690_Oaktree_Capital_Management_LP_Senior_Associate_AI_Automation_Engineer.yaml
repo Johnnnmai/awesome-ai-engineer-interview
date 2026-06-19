@@ -1,0 +1,57 @@
+company:
+  name: Oaktree Capital Management, L.P.
+  stage: Public
+  focus: |-
+    Global investment management specializing in alternative
+    investments with $200B AUM
+position:
+  title: Senior Associate, AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting, deploying, and
+      operationalizing LLM-powered systems including agent-based
+      systems, RAG pipelines, and tool-using agents. The job
+      explicitly involves building with LLMs, orchestration
+      frameworks (LangChain, LangGraph, Semantic Kernel), and
+      implementing function-calling patterns - all core AI-first
+      work. While it doesn't involve training/fine-tuning models,
+      it directly builds and deploys AI automation solutions.
+  responsibilities:
+  - Design and implement AI-driven automation workflows leveraging LLMs through Azure
+    AI Foundry and Azure ML model catalog
+  - Build agent-based systems using orchestration frameworks like LangChain, LangGraph,
+    Semantic Kernel, and AutoGen
+  - Implement tool-using agents, RAG pipelines, and structured function-calling patterns
+  - Design robust integration layers for enterprise systems including APIs, databases,
+    and workflow platforms
+  - Deploy and manage production LLM-powered applications on Azure with CI/CD practices
+  - Implement evaluation and testing approaches to ensure quality and consistency
+    of AI outputs
+  - Partner with RPA engineers to embed intelligent decision layers into automation
+    processes
+  - Establish reusable architectural patterns for AI-powered automation across the
+    organization
+  use_cases:
+  - Enterprise workflow automation combining RPA and Agentic AI
+  - Intelligent decision layers embedded into business automation processes
+  - RAG-based information retrieval for enterprise knowledge
+  - Tool-using agents for enterprise system integration
+  - Scalable business automation for investment management operations
+  skills:
+    genai: [LangChain, LangGraph, Semantic Kernel, AutoGen, RAG pipelines, Function
+        calling, Agent orchestration]
+    ml: []
+    web: [RESTful APIs]
+    databases: [PostgreSQL, Vector databases]
+    data: []
+    cloud: [Azure AI Foundry, Azure ML, Azure]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8245690'
+  extracted_at: '2026-03-27T14:17:59.572025'

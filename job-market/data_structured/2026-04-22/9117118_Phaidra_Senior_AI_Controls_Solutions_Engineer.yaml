@@ -1,0 +1,61 @@
+company:
+  name: Phaidra
+  stage: Series A/B (startup stage, remote-first, equity-heavy comp)
+  focus: |-
+    AI-powered control systems for industrial automation using
+    reinforcement learning
+position:
+  title: Senior AI Controls Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves putting AI-powered control systems
+      (specifically reinforcement learning agents) into production
+      for industrial facilities. The engineer uses Phaidra's
+      platform to create facility models for AI agent ingestion,
+      works closely with Data Science to operationalize RL-based
+      controls, and deploys AI solutions to enterprise data center
+      customers. While they don't train models themselves, they
+      are directly deploying and operationalizing AI/RL systems in
+      production environments.
+  responsibilities:
+  - Act as subject matter expert to create facility models for ingestion by Phaidra's
+    AI product lineup using Mort system builder
+  - Map tag data and review Insights logic for facility-specific requirements in collaboration
+    with the Data Science team
+  - Work with the product team to identify and define product requirements based on
+    customer specifications and needs
+  - Analyze and triage AI control systems during the support phase
+  - Deploy and support multiple AI control solutions for enterprise data center customers,
+    potentially in parallel
+  - Translate customer-stated and customer-implied needs into coherent documentation
+    for the software development team
+  - Write Python scripts to implement Insights and scrappy tooling in collaboration
+    with the software engineering team
+  - Mentor peers, manage project stakeholders, and collaborate across departments
+    on roadmap and work planning
+  use_cases:
+  - Reinforcement learning-based control of industrial facility systems (data centers,
+    factories, power plants)
+  - Automated optimization of data center cooling systems to improve energy efficiency
+  - AI-driven HVAC and chiller plant control for enterprise data centers
+  - Converting raw sensor data into high-value actions and decisions for industrial
+    automation
+  - Enabling domain experts to configure AI control agents without writing code
+  skills:
+    genai: []
+    ml: [Reinforcement Learning]
+    web: []
+    databases: []
+    data: [Statistics & Analytics]
+    cloud: [Cloud Platforms]
+    ops: []
+    languages: [Python]
+    domains: [HVAC Controls, Data Center Cooling, Applied Thermodynamics, Control
+        Systems]
+    other: [BACnet, Modbus, PLC Programming, Ladder Logic, JSON, XML, YAML]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9117118'
+  extracted_at: '2026-04-22T13:15:20.669662'

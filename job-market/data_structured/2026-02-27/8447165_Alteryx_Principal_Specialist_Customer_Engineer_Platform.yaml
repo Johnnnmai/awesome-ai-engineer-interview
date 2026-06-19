@@ -1,0 +1,55 @@
+company:
+  name: Alteryx
+  stage: Public
+  focus: |-
+    Analytics platform with AI/ML capabilities for enterprise
+    data processing
+position:
+  title: Principal Specialist Customer Engineer, Platform & AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves designing, implementing, and
+      orchestrating AI/ML solutions including LLM lifecycles,
+      custom RAG architectures, model fine-tuning, and autonomous
+      agentic workflows. While customer-facing, the
+      responsibilities center on hands-on architectural work
+      building and deploying AI-enabled analytics solutions for
+      enterprise customers.
+  responsibilities:
+  - Strategically architect complex, modern-stack AI-enabled analytics solutions aligned
+    with C-suite business objectives
+  - Lead technical champion for Alteryx One global initiatives, designing resilient
+    AI-integrated enterprise frameworks
+  - Design and integrate end-to-end AI/ML lifecycles, orchestrating LLMs within high-scale
+    data pipelines and MCP server environments
+  - Design and implement autonomous agentic workflows solving unstructured data challenges
+    across multi-cloud ecosystems
+  - Govern implementation of ETL, Data Quality, and Alteryx strategies for high-fidelity,
+    model-ready data
+  - Mentor Sales Engineering staff and influence product and GTM policies regarding
+    modern enterprise technologies
+  use_cases:
+  - Enterprise AI-enabled analytics solutions
+  - LLM orchestration in high-scale data pipelines
+  - Autonomous agentic workflows for unstructured data
+  - Custom RAG architectures for enterprise frameworks
+  - AI-integrated enterprise data warehouse solutions
+  skills:
+    genai: [RAG (Retrieval-Augmented Generation), LLM fine-tuning, Autonomous agents,
+      MCP server integration, OpenAI API, Anthropic]
+    ml: [BigQuery ML]
+    web: [API services and orchestration]
+    databases: [Snowflake, Cloud Data Warehouses]
+    data: [Databricks, ETL, Data Quality]
+    cloud: [Gemini Enterprise, SageMaker, Google Cloud Platform, Amazon Web Services,
+      Microsoft Azure]
+    ops: [Enterprise security frameworks]
+    languages: [Python, Java]
+    domains: []
+    other: [Alteryx Platform]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8447165'
+  extracted_at: '2026-03-03T12:51:08.064803'

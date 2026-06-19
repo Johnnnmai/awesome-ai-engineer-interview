@@ -1,0 +1,52 @@
+company:
+  name: Optum
+  stage: Public
+  focus: |-
+    Healthcare technology and services delivering care and
+    pharmacy benefits
+position:
+  title: Software Engineer- AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, developing, and deploying
+      AI/ML models for anomaly detection, predictive modeling, and
+      NLP-based log analysis. The engineer will work directly on
+      model training, retraining, and implementing AI techniques,
+      making it a hands-on AI/ML engineering role.
+  responsibilities:
+  - Design, develop, and deploy AI/ML models to detect anomalies, predict incidents,
+    and automate root cause analysis in IT systems
+  - Integrate AIOps solutions with monitoring tools (Splunk, Datadog, Prometheus,
+    AppDynamics)
+  - Collaborate with SREs, DevOps, and IT teams to understand operational pain points
+    and identify automation opportunities
+  - Build and maintain data pipelines to collect and process logs, metrics, and events
+    from various sources
+  - Implement NLP techniques for log analysis and intelligent alert correlation
+  - Continuously evaluate model performance and retrain models as needed
+  - Contribute to the development of dashboards and visualizations for operational
+    insights
+  use_cases:
+  - IT operations anomaly detection and incident prediction
+  - Automated root cause analysis for IT systems
+  - Intelligent log analysis using NLP
+  - Alert correlation and noise reduction
+  - AIOps platform integration with monitoring tools
+  - Predictive maintenance for IT infrastructure
+  skills:
+    genai: [GenAI SDKs, Text embeddings, Agentic AI]
+    ml: [Time-series analysis, Anomaly detection, Predictive modeling, NLP]
+    web: [React, Angular]
+    databases: []
+    data: [Data pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Splunk, Datadog, Prometheus, AppDynamics, Dynatrace]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8810606'
+  extracted_at: '2026-03-27T13:16:48.028635'

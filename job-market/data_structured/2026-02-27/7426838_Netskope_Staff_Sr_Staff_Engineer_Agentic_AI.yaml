@@ -1,0 +1,56 @@
+company:
+  name: Netskope
+  stage: null
+  focus: |-
+    Cloud security platform providing data protection and threat
+    detection
+position:
+  title: Staff / Sr. Staff Engineer, Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-powered capabilities and
+      systems that leverage AI/ML techniques, graph-based
+      analytics, and LLMs (LangChain, LangGraph, OpenAI, Claude).
+      The engineer will design and implement sophisticated AI/ML
+      systems for security analytics, threat detection, and
+      behavioral analytics - working directly on building and
+      deploying AI solutions, not just supporting infrastructure.
+  responsibilities:
+  - Design and implement AI/ML-powered security analytics systems using cutting-edge
+    techniques including LLMs and graph-based analytics
+  - Build real-time data processing systems for threat detection, risk assessment,
+    and behavioral analytics
+  - Develop intelligent automation systems to help security teams detect and respond
+    to threats at enterprise scale
+  - Collaborate with Distinguished Engineers, product managers, and security researchers
+    to deliver production-quality AI solutions
+  - Architect and implement graph-based analytics systems for security use cases
+  - Build and optimize LLM-powered agents and applications using frameworks like LangChain
+    and LangGraph
+  - Design distributed systems with strong consistency, scalability, and fault tolerance
+    for AI workloads
+  use_cases:
+  - Threat detection and response for enterprise security teams
+  - Risk assessment and behavioral analytics (UEBA)
+  - Security analytics leveraging graph databases and relationships
+  - Intelligent automation for security workflows
+  - Real-time security data processing and analysis
+  skills:
+    genai: [LangChain, LangGraph, OpenAI API, Anthropic Claude, Azure OpenAI, Prompt
+        Engineering]
+    ml: [TensorFlow, PyTorch, scikit-learn]
+    web: []
+    databases: [Neo4j, TigerGraph, Pinecone, Weaviate, Chroma, pgvector, PostgreSQL,
+      ClickHouse, Graph Databases, Vector Databases]
+    data: [Apache Kafka, Apache Flink, Airflow]
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, Docker, Prometheus, Grafana, CI/CD, Git, ELK Stack]
+    languages: [Python, Go, Java, Scala, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7426838'
+  extracted_at: '2026-03-03T11:34:05.844360'

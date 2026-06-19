@@ -1,0 +1,57 @@
+company:
+  name: Level AI
+  stage: Series C
+  focus: |-
+    AI-native platform for enterprise contact center
+    intelligence and automation
+position:
+  title: Senior Backend Engineer- AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building backend systems that directly
+      power AI Agents, including working with LLMs, RAG pipelines,
+      vector databases, agent frameworks, tool calling, and multi-
+      step reasoning systems. The engineer is hands-on
+      implementing and deploying agentic AI capabilities into
+      production, making this an ai-first role.
+  responsibilities:
+  - Build scalable backend systems powering Level AI's next-generation AI Agents for
+    real-time, high-volume enterprise environments
+  - Design and implement systems for real-time processing, streaming, and event-driven
+    architectures
+  - Integrate LLMs and conversational AI capabilities into production-grade backend
+    services
+  - Build or integrate RAG pipelines, vector databases, and retrieval systems for
+    AI agent functionality
+  - Work with agent frameworks, tool calling, and multi-step reasoning systems to
+    deliver intelligent AI experiences
+  - Design APIs (REST, gRPC) and microservices architectures supporting AI-powered
+    applications
+  - Implement evaluation systems including offline/online evals and A/B testing for
+    AI systems
+  - Optimize system design, concurrency, and performance for production-scale AI workloads
+  use_cases:
+  - AI agents for customer-facing contact center interactions
+  - Agent-assist tools for human customer support agents
+  - Backend automation for enterprise customer experience workflows
+  - Conversation analytics for QA, coaching, and business insights
+  - Real-time intelligent AI experiences in high-volume enterprise environments
+  skills:
+    genai: [LLMs, Agent frameworks, Tool calling, Multi-step reasoning systems, RAG
+        pipelines, Vector databases, Prompting strategies, Context window management,
+      Conversational AI]
+    ml: [Custom Small Language Models]
+    web: [REST APIs, gRPC, Microservices]
+    databases: [SQL databases, NoSQL databases]
+    data: [Streaming systems]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, A/B testing for AI systems]
+    languages: []
+    domains: []
+    other: [System design, Concurrency, Performance optimization, Event-driven architectures]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '6183810'
+  extracted_at: '2026-04-22T13:25:23.371267'

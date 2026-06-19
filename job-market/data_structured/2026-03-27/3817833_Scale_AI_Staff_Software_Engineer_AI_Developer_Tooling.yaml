@@ -1,0 +1,54 @@
+company:
+  name: Scale AI
+  stage: Series F
+  focus: AI data infrastructure and RLHF platform for LLMs
+position:
+  title: Staff Software Engineer, AI Developer Tooling
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building developer tooling and
+      infrastructure that enables other engineers to work with AI
+      tools, rather than directly building, training, or deploying
+      AI models. The role is about creating internal platforms,
+      CI/CD systems, and development frameworks that support AI
+      development work done by others at Scale AI.
+  responsibilities:
+  - Define next-generation AI development tooling and frameworks using products like
+    Cursor, Claude Code, OpenAI Codex, MS Copilot, and custom in-house solutions
+  - Drive architecture, design, and implementation of local development process, build,
+    test, CI, and CD systems
+  - Work closely with stakeholders and internal customers to understand and refine
+    requirements
+  - Mentor software engineers ranging from new grads to experienced engineers
+  - Proactively identify opportunities and drive improvements to software development
+    practices, processes, tools, and languages
+  - Present technical information to teams and stakeholders, providing guidance on
+    development processes and technologies
+  - Define and evangelize best practices for AI development tools including cost guardrails
+    and security frameworks
+  - Configure, test, and enable MCP servers, AI agents, and other associated systems
+  use_cases:
+  - AI-powered developer tooling and code assistance
+  - Internal platform engineering for AI development workflows
+  - CI/CD infrastructure for software development at Scale
+  - MCP server and AI agent enablement for engineering teams
+  - Knowledge sharing and best practices for AI-assisted development
+  skills:
+    genai: [Cursor, Claude Code, OpenAI Codex, MS Copilot, MCP (Model Context Protocol),
+      AI agents]
+    ml: []
+    web: [NodeJS, NextJS]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Terraform, Docker, Kubernetes, CI/CD, CircleCI, Helm, ArgoCD, Bazel, Buck,
+      Pants]
+    languages: [Python]
+    domains: []
+    other: [distributed systems]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '3817833'
+  extracted_at: '2026-03-27T13:52:44.999570'

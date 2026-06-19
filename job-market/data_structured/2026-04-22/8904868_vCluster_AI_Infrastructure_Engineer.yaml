@@ -1,0 +1,57 @@
+company:
+  name: vCluster
+  stage: Venture-backed startup (raised $30M+, likely Series A)
+  focus: |-
+    Kubernetes virtualization platform for GPU infrastructure in
+    the AI era
+position:
+  title: AI Infrastructure Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on deploying and configuring GPU
+      infrastructure (bare metal, Kubernetes, networking, storage)
+      for AI cloud providers and AI factories. The engineer works
+      ON the infrastructure layer that supports AI workloads, not
+      directly on building, training, or deploying AI/ML models.
+      While GPU fluency and AI/ML familiarity are valued, the core
+      work is infrastructure operations and customer deployments —
+      enabling others to run AI workloads.
+  responsibilities:
+  - Lead end-to-end technical deployments for GPU neocloud and AI Factory customers
+    from bare metal to validated vCluster environments
+  - Configure and troubleshoot bare metal GPU node infrastructure including CNI, GPU
+    Operator, distributed storage, and RDMA/InfiniBand
+  - Deploy and validate Kubernetes and vCluster to deliver GPU-powered managed Kubernetes
+    services
+  - Conduct knowledge transfer with customer teams to build operational self-sufficiency
+  - Document reusable playbooks and deployment architectures for scalable customer
+    onboarding
+  - Collaborate with Engineering and Product teams to relay field insights into the
+    product roadmap
+  - Support pre-sales technical engagements requiring deep infrastructure expertise
+    for proof of value
+  use_cases:
+  - GPU cloud provider managed Kubernetes services on bare metal infrastructure
+  - AI Factory internal platform operations for GPU-intensive workloads
+  - Bare metal GPU node provisioning and lifecycle management
+  - Tenant isolation and fast provisioning for multi-tenant GPU data centers
+  - Kubernetes-native infrastructure for running AI/ML and GPU workloads
+  skills:
+    genai: [LLM deployment tooling]
+    ml: [CUDA]
+    web: []
+    databases: [Ceph, Rook]
+    data: []
+    cloud: []
+    ops: [Kubernetes, NVIDIA GPU Operator, CNI plugins, RDMA/InfiniBand, CSI drivers,
+      Docker, CKA, GPU scheduling, Inference serving, vCluster, Kubernetes Operators,
+      Load balancing, Overlay networks]
+    languages: [Bash, Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8904868'
+  extracted_at: '2026-04-22T13:02:09.328408'

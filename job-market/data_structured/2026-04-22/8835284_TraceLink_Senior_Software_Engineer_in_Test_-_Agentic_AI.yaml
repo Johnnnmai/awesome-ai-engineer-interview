@@ -1,0 +1,55 @@
+company:
+  name: TraceLink
+  stage: Late-stage (founded 2009, 800+ employees, 1300+ customers)
+  focus: |-
+    Cloud-based pharma supply chain digitization and compliance
+    platform
+position:
+  title: Senior Software Engineer in Test - Agentic AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an SDET (Software Development Engineer in Test) role
+      focused on testing agentic AI systems, not building them.
+      The core responsibilities involve building automated tests,
+      testing tools, and automation frameworks for the TraceLink
+      platform. While the "helpful skills" mention LLM testing
+      concepts, the primary work is quality engineering and test
+      automation supporting AI products, not hands-on model
+      building, fine-tuning, or deploying AI systems.
+  responsibilities:
+  - Build and execute automated tests on the TraceLink platform and application
+  - Build and deploy services for automated testing of the TraceLink platform persistent
+    store
+  - Execute performance tests on a distributed persistent data store
+  - Create testing tools that simulate real-world transaction volumes
+  - Extend and maintain automation frameworks to enhance test coverage
+  - Work closely with core product engineers to ensure testability is factored into
+    design
+  - Prepare and present clear defect reports enabling developers to reproduce and
+    fix issues
+  - Research and evaluate new technologies and tools for potential application at
+    TraceLink
+  use_cases:
+  - Pharmaceutical supply chain digitization and compliance
+  - Multi-enterprise collaboration for manufacturing and distributing medical products
+  - Testing and validating multi-agent AI systems
+  - Evaluating non-deterministic AI/LLM software components
+  - Automated quality assurance for cloud-based supply chain platform
+  skills:
+    genai: [LLM testing, Prompt validation, Multi-agent LLM workflows, Agent orchestration,
+      Hallucination detection]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [Amazon Web Services]
+    ops: [TestNG, Maven, Ant, Test automation frameworks, Performance testing]
+    languages: [Java, JavaScript, TypeScript]
+    domains: []
+    other: [Eclipse, Unix]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8835284'
+  extracted_at: '2026-04-22T13:06:24.295173'

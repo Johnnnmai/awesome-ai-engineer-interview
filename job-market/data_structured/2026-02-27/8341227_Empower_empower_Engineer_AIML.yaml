@@ -1,0 +1,49 @@
+company:
+  name: Empower (empower)
+  stage: null
+  focus: |-
+    Financial services and helping customers achieve financial
+    freedom
+position:
+  title: Engineer AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is clearly an ai-first role focused on building and
+      deploying ML models directly. The engineer will work hands-
+      on with TensorFlow, PyTorch, and scikit-learn to develop,
+      optimize, and deploy models into production environments,
+      not just supporting infrastructure.
+  responsibilities:
+  - Build and deploy machine learning models using Python and relevant libraries (TensorFlow,
+    PyTorch, scikit-learn)
+  - Optimize models for performance, scalability, and security
+  - Collaborate with data engineers to design robust data pipelines for model training
+    and inference
+  - Validate and preprocess datasets to ensure model accuracy and reliability
+  - Stay current on latest AI/ML trends and incorporate best practices into the platform
+  - Experiment with novel techniques in generative AI and provide recommendations
+    for platform enhancements
+  - Collaborate with product managers, data engineers, and QA teams on cross-functional
+    projects
+  use_cases:
+  - Generative AI platform for financial services
+  - Model training and inference for customer-facing applications
+  - AI-powered financial product recommendations and insights
+  - Scalable ML solutions for financial data processing
+  skills:
+    genai: [Generative AI]
+    ml: [TensorFlow, PyTorch, scikit-learn]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, Google Cloud]
+    ops: [Model deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8341227'
+  extracted_at: '2026-03-03T11:49:37.950928'

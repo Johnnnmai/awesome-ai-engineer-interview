@@ -1,0 +1,349 @@
+job_id: 8876896
+title: Staff / Senior AI Product Engineer
+company: Productboard
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Braintrust
+  - Cloudflare
+  - Elastic
+  - GraphQL
+  - Kafka
+  - Keboola
+  - Kotlin
+  - Kubernetes
+  - Looker
+company_size: 246 Employees
+description: |
+  AI Is How We Work
+  
+  Productboard is an AI-first company. Not as a tagline — but
+  as a daily reality.
+  
+  Everyone here, from Design and Product to Engineering and
+  our CEO, uses AI every day to prototype, explore ideas, and
+  ship faster. We are investing deeply to make AI part of our
+  foundation.
+  
+  What that looks like:
+  
+  - Access from day one. Every engineer and leader gets the best
+    tools available — Cursor, Claude Code, Codex, and more.
+  - AI Champions across teams. Dedicated experts embedded in
+    teams to pair, unblock, and help you move faster with AI
+    agents.
+  - A codebase built for agents. Structured AGENTS.md files,
+    curated skills, and clean patterns so AI agents can work
+    effectively alongside engineers.
+  - Serious investment in DevX. We continuously improve our
+    developer tooling so testing, prototyping, and working
+    with agents is seamless.
+  - Dedicated AI days. Every six weeks, Engineering, Product,
+    and Design teams get focused time to ship real features
+    using AI tools and push boundaries.
+  
+  AI isn’t something we experiment with occasionally. It’s how
+  we build.
+  
+  The opportunity
+  
+  The way software is built is changing, and fast!  Engineers
+  who embrace AI-native workflows today will define the next
+  decade of product development.  Those who don’t?  They will
+  be explaining what they used to do.
+  
+  At Productboard, this transformation to being AI native is
+  not a side project; it is our entire focus.  AI first is our
+  operating model, and this is how we work. We are building an
+  AI-first Product Engineering organization where learning
+  velocity matters as much as shipping. Our northstar: turn
+  ideas into validated learning twice as fast. More
+  experiments. Tighter feedback loops. Better outcomes.
+  
+  We are looking for a Staff / Senior AI Product Engineer who
+  wants to be at the center of this transformation, not
+  watching it happen from the outside. Join us, and help shape
+  the future of AI-powered product development.
+  
+  Why this matters for your career
+  
+  The gap between engineers who are building with AI daily and
+  those who are still watching is widening fast. At
+  Productboard, you won't just use AI tools. You will shape
+  the architecture that makes AI agents effective, define the
+  workflows that make them reliable, and build the evaluation
+  systems that make them trustworthy. You will work in an
+  environment where AI first is not a future aspiration. It is
+  the current standard.
+  
+  The skills you build here, agent native design, multi-model
+  orchestration, eval-driven development, AI-ready codebase
+  architecture, are the skills that will define senior
+  engineering for the next decade.
+  
+  AI is how we build
+  
+  This is not a tagline. It is our daily operating model
+  across Engineering, Product, and Design. PMs and designers
+  don't just spec features here. They prototype with AI tools
+  and ship to production alongside engineers.
+  
+  AI is embedded across the full lifecycle: technical
+  discoveries, spec writing, design exploration,
+  implementation, test generation, code review, CI/CD, and
+  incident resolution. Human judgment stays in control. People
+  own product intent and quality decisions, with strong review
+  practices and guardrails that keep shipping safe.
+  
+  What we are building underneath:
+  
+  - Agent native architecture standards: clear API contracts,
+    semantic naming, and well-defined module boundaries that
+    keep AI effective as systems grow.
+  - A context infrastructure layer with repo versioned guidance
+    that AI tools automatically load, improving the output of
+    Cursor, Claude Code, and Codex simultaneously.
+  - AI agent workflows for on-call and incident resolution:
+    triage alerts, pull logs, surface relevant history, and
+    suggest remediation.
+  - Systematic optimization of AI code review to catch
+    correctness, security, and maintainability issues earlier.
+  
+  What you will do
+  
+  - Building AI-powered product features.
+  - Enhancing and sustaining our internal tech stack, while
+    identifying and incorporating new state-of-the-art
+    technologies.
+  - Discovering and experimenting across different domains,
+    creating MVPs and POCs, engaging in discussions about
+    findings with fellow engineers and the product team, and
+    planning the execution.
+  - Make our codebase AI-ready: define clear module boundaries,
+    improve API contracts, add semantic context, and build the
+    structured documentation that makes AI agents more
+    effective across every repo.
+  - Design and implement agent workflows that go beyond chat:
+    multi-step reasoning, tool use, autonomous task execution,
+    and human-gated checkpoints.
+  - Run experiments, validate with real users, and iterate based
+    on evidence. We measure learning velocity, not just
+    output.
+  - Collaborate closely with product managers and designers to
+    shape what we build, not just how we build it. We expect a
+    product mindset, not just technical execution.
+  - Act as a knowledge multiplier, sharing what you learn across
+    and beyond your team to raise the bar for everyone.
+  
+  About you
+  
+  - 7+ years of professional software engineering experience,
+    with a proven track record of shipping scalable production
+    systems.
+  - Deep hands-on experience with LLMs in real products —
+    including prompt design, context management, evaluation,
+    and understanding real-world limitations (hallucinations,
+    latency, cost, reliability).
+  - Experience building agentic systems is highly valued.
+    Alternatively, deep hands-on work with advanced LLM
+    workflows (tool use, multi-step reasoning, memory,
+    orchestration) and a clear understanding of their trade-
+    offs — along with the drive and technical maturity to
+    quickly evolve toward agentic architectures.
+  - You think like a builder — ideally a former founding
+    engineer or founder — with a strong instinct for shipping
+    what truly moves the product and the company forward.
+  - You’re drawn to agent-native architecture and believe this
+    is where software is heading. You’re excited to rethink
+    codebases, APIs, and documentation so AI agents can
+    reliably operate and scale.
+  - You rely on AI tools daily (e.g., Cursor, Claude Code) and
+    treat them as a core part of your engineering workflow —
+    constantly experimenting, refining prompts, and pushing
+    them to meaningfully increase your speed and output.
+  - Comfortable working in distributed systems and event-driven
+    architectures (e.g., queues, async processing, service-to-
+    service communication).
+  - Able to lead complex technical initiatives end-to-end,
+    raising the bar for architecture, quality, and engineering
+    culture.
+  
+  About the Team:
+  
+  The AI team at Productboard is a cross-functional product
+  team, composed of backend, frontend, and machine learning
+  engineers, along with PMs and designers. You might have
+  already explored the AI capabilities within our product, and
+  we aim to build more Copilot features into Insights and
+  other domains, enabling bulk-processing, pre-processing,
+  smart suggestions, and other functionality. In the end, our
+  customers would be presented with aggregated insights &
+  clustered data, which is connected to the features & ideas
+  they plan to build.
+  
+  To create even more value for customers, we are on a mission
+  to help product teams transform their product management
+  practices, leveraging the power of AI to make impactful
+  product decisions faster through a deeper understanding of
+  different types of data within the Productboard platform
+  (customer feedback, competitors, market intelligence,
+  business strategy, etc.).
+  
+  Our Tech Stack
+  
+  - AI Layer: Python, Pydantic AI, Braintrust
+  - Frontend: TypeScript, React, Relay, GraphQL
+  - Backend: Kotlin, Ruby, Kafka
+  - Storage: PostgreSQL, MongoDB, Elastic, Redis
+  - Data Pipeline: Python, Keboola, Looker, Snowflake
+  - Infrastructure: AWS, Cloudflare, Kubernetes, Terraform
+  - Business tools: Slack, Jira, Google suite, Zoom, Notion
+  
+  Our Benefits Include
+  
+  💰Stock options
+  
+  💻 MacBook + 34″ monitor
+  
+  📚 Budget for online courses, books, and conferences
+  
+  🏝️ 5 weeks of vacation + 9 sick days
+  
+  🫶 Volunteer Days for you to help causes close to your heart
+  
+  🥕 Carrot Fertility Benefits
+  
+  🥗 Free snacks, drinks, and yummy catered lunches
+  
+  🏋️‍♂️ MultiSport card to access sports facilities
+  
+  ⏰ Flexible working hours and home office
+  
+  🧑‍🧑‍🧒‍🧒 Parental benefits
+  
+  🗣️ Language lessons
+  
+  🍀 Mental Wellness Program to support your well-being and
+  self-care
+  
+  Relocation Opportunities
+  
+  If joining us means making a move, we’re here to help make
+  that transition easier.
+  
+  Candidates must have the legal right to work in the EU.
+  While we are unable to provide visa sponsorship for this
+  role, we’re happy to support relocation to Prague for
+  candidates already authorized to work in the EU.
+  
+  Relocation Support
+  
+  We offer a one-time relocation bonus ranging from $6,000 to
+  $13,000 USD, depending on your personal situation, whether
+  you’re moving on your own or with a partner or family.
+  
+  This bonus is intended to help offset moving expenses and
+  support your transition into your new city. While it may not
+  cover every cost, it provides meaningful financial support
+  as you get settled.
+  
+  If you’re thinking about relocating and want to explore what
+  this could look like for you, we’d be happy to have that
+  conversation.
+  
+  About Productboard
+  
+  At Productboard, we’re on a mission to help product teams
+  build exceptional products with clarity and confidence. As
+  the leading intelligent product management platform, we
+  empower over 6,000 companies, including Salesforce, SAP,
+  Autodesk, and Kroger, to understand what customers need,
+  prioritize what to build next, and align everyone around a
+  shared roadmap.
+  
+  Headquartered in San Francisco with offices in Prague and
+  Brno, Czechia, we’re backed by some of the world’s most
+  respected investors, including Index Ventures, Kleiner
+  Perkins, Sequoia Capital, Bessemer Venture Partners, Tiger
+  Global, and Dragoneer.
+  
+  We’re proud to be consistently recognized as one of the best
+  places to work by BuiltIn and Comparably, and to count
+  ourselves among the world’s leading unicorn companies. Well-
+  funded and financially disciplined, we have the stability
+  and runway to build boldly for the long term.
+  
+  Over the past few years, we’ve rearchitected our platform
+  from the ground up to serve enterprise scale and set the
+  foundation for the next era of product management. Now we’re
+  entering an exciting new phase with Productboard Spark, our
+  AI-first, agentic experience that transforms how product
+  teams work. Spark is a true collaborator that deeply
+  understands your product context, company strategy, and
+  customer needs, helping teams move faster and make smarter,
+  more confident decisions.
+  
+  Join us as we build the future of product management.
+  
+  About our culture
+  
+  Imagine working in a place where everything matters — most
+  importantly, you. At Productboard, values aren’t just
+  something we like to talk about, they’re something we live
+  and breathe. We believe in creating a work environment
+  where:
+  
+  - People feel empowered, supported, and included
+  - Trust and transparency are built into the way we work
+  - Creativity, curiosity, and continuous improvement are
+    encouraged and nurtured every day
+  
+  Forming our company values was a group effort, with every
+  employee allowed to contribute. From profit-sharing
+  initiatives, like stock options, to open calendars and
+  communication, we don’t waste time on politics or ego. We
+  champion openness by sharing our goals, successes, and
+  failures.
+  
+  Join colleagues who are passionate about what they do. Team
+  members who are invested in their work environment, and the
+  future of Productboard. Help shape our company, culture, and
+  product!
+  
+  Check out our LinkedIn Life page, or listen to our People of
+  Productboard podcast for a real feel of what life is like at
+  Productboard.
+  
+  Equal Opportunity Employer Statement
+  
+  We are an equal opportunity employer and champion equity. We
+  aim to help people from all backgrounds, cultures, and
+  groups realize their full potential at Productboard. We do
+  not tolerate any discrimination or harassment based on
+  gender identity, race, color, religion, age, sexual
+  orientation, non-disqualifying physical or mental
+  disability, national origin, veteran status, or any other
+  bias covered by appropriate law. All aspects of employment,
+  including hiring, training, promotion, and terminations, are
+  based on merit, competence, performance, and business needs.
+  We are committed to an inclusive hiring process and provide
+  all candidates with equal opportunity to demonstrate their
+  abilities. Togetherness is one of our core values, and our
+  Diversity Council helps to ensure that we uphold the values
+  of authenticity, humanity, and diversity to create an
+  environment where every person matters. We are committed to
+  leading by example to drive societal change.
+  
+  By applying you agree to Productboard's Global Candidate
+  Privacy Policy
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Productivity
+  - Software
+  - Analytics
+posted_date: 2026-03-26
+url: "https://builtin.com/job/staff-senior-ai-product-engineer/8876896"
+source: Built In

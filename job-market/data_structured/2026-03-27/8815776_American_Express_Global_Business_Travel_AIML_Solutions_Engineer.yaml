@@ -1,0 +1,52 @@
+company:
+  name: American Express Global Business Travel
+  stage: Public
+  focus: |-
+    Global corporate travel management and business travel
+    services
+position:
+  title: AI/ML Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves developing end-to-end ML solutions,
+      implementing scalable AI/ML solutions, and operationalizing
+      ML systems. The candidate is part of the AI/ML and Data
+      Science team and will actively build and deploy ML solutions
+      with MLOps practices, making this a hands-on AI/ML role.
+  responsibilities:
+  - Develop end-to-end Data Science and Machine Learning solutions to support business
+    imperatives – internal and external; descriptive and prescriptive
+  - Partner with business and technology customers to design and implement scalable
+    big data solutions using AI/ML
+  - Scan and capitalize on new products, platforms, processes, and algorithms to enhance
+    traveler, supplier, travel manager, and travel consultant experience
+  - Develop, teach, learn, operationalize, and scale citizen decision science across
+    the organization
+  - Build solutions in the big data, data science, data quality and ML space as part
+    of the AI/ML and Data Science team
+  - Deploy Data Science and Machine Learning solutions with a growth-oriented, lean-startup
+    approach
+  use_cases:
+  - Enterprise travel management and optimization
+  - Traveler experience enhancement through AI-driven insights
+  - Supplier relationship and experience optimization
+  - Travel manager and consultant decision support
+  - Descriptive and prescriptive analytics for business travel
+  - Big data analytics for actionable business insights
+  skills:
+    genai: [Gen AI]
+    ml: [Machine Learning, Deep Learning, Statistics]
+    web: []
+    databases: []
+    data: [Hive, Big Data, Data Science]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, CI/CD pipelines, GitHub Actions, Jenkins, GitLab, Docker, Kubernetes]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8815776'
+  extracted_at: '2026-03-27T14:06:23.307950'

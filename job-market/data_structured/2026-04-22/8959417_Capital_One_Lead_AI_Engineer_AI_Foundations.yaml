@@ -1,0 +1,53 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+position:
+  title: Lead AI Engineer (AI Foundations)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      optimizing foundational AI systems including LLM inference,
+      foundation model training, guardrails, and similarity
+      search. The engineer will design and implement state-of-the-
+      art LLM optimization techniques and work hands-on with model
+      training and inference infrastructure, making this clearly
+      an ai-first role.
+  responsibilities:
+  - Partner with cross-functional teams of engineers, research scientists, and product
+    managers to deliver AI-powered products
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    and governance
+  - Leverage Open Source and SaaS AI technologies such as AWS Ultraclusters, Huggingface,
+    VectorDBs, Nemo Guardrails, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  - Stay abreast of latest AI research and apply novel techniques in production systems
+  use_cases:
+  - Real-time personalized banking customer experiences
+  - Fraud detection and unusual charge notifications
+  - Real-time customer question answering
+  - AI-powered products for internal associates and external customers
+  - Scalable AI infrastructure serving millions of banking customers
+  skills:
+    genai: [LLM Inference, Similarity Search, Nemo Guardrails, LLM Optimization, Guardrails]
+    ml: [Foundation Model Training, PyTorch, Huggingface]
+    web: []
+    databases: [VectorDBs]
+    data: []
+    cloud: [AWS, AWS Ultraclusters]
+    ops: [Model Evaluation, AI Governance, Experimentation, Observability]
+    languages: [Python, Go, Java, Scala, C++, C#, Golang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8959417'
+  extracted_at: '2026-04-22T13:08:32.531107'

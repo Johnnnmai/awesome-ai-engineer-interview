@@ -1,0 +1,50 @@
+company:
+  name: Optum
+  stage: Public
+  focus: |-
+    Healthcare technology and services company delivering care
+    and pharmacy benefits
+position:
+  title: Sr AI or ML Engineer - Python, SQL, LLM, Azure Cloud
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development of ML/DL models and
+      GenAI systems including RAG, LangChain, and vector
+      databases. The engineer will design, develop, optimize, and
+      manage the full lifecycle of AI/ML models including GenAI
+      model quantization and optimization - directly working ON AI
+      systems.
+  responsibilities:
+  - Design and develop next-generation NLP, ML & AI products and services for healthcare
+  - Develop machine learning and deep learning models including NLP, NLU, NLG, SLU
+    and time series forecasting
+  - Quantize and optimize GenAI models for production deployment
+  - Manage AI, DL, NLP & ML model lifecycle for a suite of products
+  - Lead full end-to-end machine learning development process from data preparation
+    to deployment
+  - Establish best practices for AI/ML development cycle to ensure quality outcomes
+  - Run large complex proof-of-concepts for healthcare business
+  - Work autonomously to find solutions to complex problems
+  use_cases:
+  - Healthcare AI products and services
+  - Natural language processing, understanding and generation for healthcare
+  - Time series forecasting for healthcare applications
+  - RAG-based systems with vector databases
+  - Speech/language understanding systems
+  skills:
+    genai: [RAG, LangChain, GenAI model optimization]
+    ml: [PyTorch, TensorFlow, Scikit-learn, Deep Learning, Machine Learning]
+    web: [FastAPI, Flask]
+    databases: [Vector Databases, Milvus, Chroma, FAISS]
+    data: [pandas, numpy]
+    cloud: [Azure]
+    ops: []
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8602800'
+  extracted_at: '2026-03-27T15:12:43.607006'

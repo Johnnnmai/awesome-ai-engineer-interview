@@ -1,0 +1,56 @@
+company:
+  name: Roche
+  stage: Public
+  focus: Global pharmaceutical and healthcare diagnostics company
+position:
+  title: Machine Learning Engineer (MLOps & AI Infrastructure)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily focused on MLOps
+      infrastructure—building pipelines, deploying models, and
+      maintaining production ML systems. While it involves
+      deploying and monitoring ML models, the core focus is on
+      infrastructure and operations rather than building or
+      training models themselves. GenAI is listed as a
+      secondary/emerging focus, and the primary responsibilities
+      center on operationalizing what data scientists create.
+  responsibilities:
+  - Design, build, and maintain scalable production-grade ML pipelines for data ingestion,
+    model training, and inference
+  - Deploy and manage ML models in production environments using cloud-based services
+    (AWS preferred)
+  - Implement monitoring frameworks for data drift, model drift, and performance degradation
+  - Collaborate with data scientists to operationalize ML models and ensure smooth
+    transition from experimentation to production
+  - Develop reusable frameworks and internal tools to standardize and accelerate ML
+    development lifecycles
+  - Take end-to-end ownership of MLOps initiatives, from design through deployment
+    and continuous monitoring
+  - Champion engineering excellence by enforcing best practices in CI/CD, version
+    control, and automated testing
+  - Collaborate with AI research teams to integrate Generative AI solutions into ML
+    workflows and pipelines
+  use_cases:
+  - Healthcare and commercial analytics applications
+  - Pharmaceutical data analysis and decision-making
+  - Production ML model lifecycle management for healthcare operations
+  - Automated ML pipeline orchestration for enterprise-scale model deployment
+  - GenAI integration into enterprise ML workflows for automation
+  skills:
+    genai: [LLMs, Transformers]
+    ml: [scikit-learn, Spark MLlib, TensorFlow, PyTorch]
+    web: []
+    databases: []
+    data: [PySpark, Airflow, Prefect]
+    cloud: [AWS S3, AWS SageMaker, AWS Glue, AWS Lambda, AWS Athena, AWS EMR, SageMaker
+        Pipelines, GCP, Azure ML]
+    ops: [MLflow, Docker, Kubernetes, Kubeflow, CI/CD, GitHub Actions, Jenkins, Git]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9083459'
+  extracted_at: '2026-04-22T13:16:48.545437'

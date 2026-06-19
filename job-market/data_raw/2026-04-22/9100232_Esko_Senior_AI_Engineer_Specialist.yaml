@@ -1,0 +1,147 @@
+job_id: 9100232
+title: Senior AI Engineer Specialist
+company: Esko
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Generative Ai
+  - Kubernetes
+  - Large Language Models
+  - Ray
+  - Retrieval-Augmented Generation
+  - Spark
+  - Tensorrt-Llm
+  - Vllm
+company_size: 1,654 Employees
+description: |
+  Imagine yourself…
+  
+  Doing cutting-edge AI work that places you at the forefront
+  of the AI space. Solving complex business problems through
+  advanced Generative AI systems. Growing your expertise while
+  contributing to sustainable innovation. Building intelligent
+  solutions that transform packaging design and workflows.
+  
+  It’s all possible with a role at Esko. Esko, a Veralto
+  company, is a global provider of integrated software and
+  hardware solutions that accelerate the go-to-market process
+  of packaged goods. Our integrated platform and comprehensive
+  tools empower brand owners, retailers, pre-media and trade
+  shops, manufacturers, and converters to support and manage
+  best-in-class packaging design and print processes.
+  
+  Innovation is built into the DNA of our business: every day,
+  we challenge ourselves to be better by seeking new ways to
+  elevate our products, our processes, and our people.
+  
+  We also know that innovation and ingenuity start with
+  prioritizing a diverse workforce and a deeply inclusive
+  workplace. We encourage people from all backgrounds to apply
+  to our positions.
+  
+  Reporting to the Engineering Manager, Senior AI Engineer
+  Specialist to lead the design, development, and deployment
+  of cutting-edge AI solutions that leverage large language
+  models (LLMs), retrieval-augmented generation (RAG), and
+  agentic AI architectures. This is a hands-on leadership role
+  for a builder and systems thinker who can push generative AI
+  from experimentation into scalable, production-ready
+  capabilities.
+  
+  This role is in Bangalore, India (Quarterly once visit to
+  the office for 2 weeks).
+  
+  In this role, a typical day would include:
+  
+  - Architectural Leadership: Design scalable, resilient AI
+    architectures that support multi-tenant, global packaging
+    solutions. Define the blueprint for how Esko handles
+    agentic reasoning and distributed memory.
+  - Core Infrastructure & LLMOps: Lead the development of
+    internal platforms for model lifecycle management,
+    including automated retraining loops, deployment
+    strategies (Canary/Blue-Green), and cost-attribution
+    systems.
+  - Advanced R&D: Conduct feasibility studies on emerging tech
+    (e.g., State Space Models, small language model
+    distillation, or custom embedding architectures) to keep
+    Esko ahead of the competition.
+  - Evaluation Strategy: Establish organization-wide standards
+    for Model Governance and Red-Teaming. Build the framework
+    that measures the "ROI of Accuracy" for every feature we
+    ship.
+  - Technical Mentorship: Act as a force multiplier by mentoring
+    Senior AI Engineers, conducting deep-dive code reviews,
+    and fostering a culture of rigorous scientific
+    experimentation.
+  - Cross-Functional Influence: Partner with executive
+    leadership and Product VPs to translate business vision
+    into a technical AI roadmap.
+  
+  Required Skills & Qualifications
+  
+  - Education: Master’s or PhD in Computer Science, Machine
+    Learning, or a related field (or equivalent deep industry
+    experience).
+  - Experience: 10+ years in Software Engineering, with 5+ years
+    in AI/ML leadership. You have successfully taken multiple
+    LLM-based products from "Alpha" to "Enterprise Scale."
+  - Expertise in Training & Alignment: Deep experience with
+    Full-Parameter Fine-Tuning and Alignment Techniques (DPO,
+    PPO, or KTO). Experience generating and filtering high-
+    quality Synthetic Data for domain-specific model training.
+  - Systems Engineering: Expertise in high-throughput inference
+    (vLLM, TensorRT-LLM) and low-latency vector retrieval at
+    the scale of billions of vectors. Strong understanding of
+    distributed computing (Ray, Kubernetes, or Spark).
+  - Strategic Benchmarking: Ability to design domain-specific
+    evaluation moats that go beyond public benchmarks to
+    measure real-world packaging design utility.
+  
+  Preferred Qualifications
+  
+  - Experience with Vision-Language Models (VLM) for analysing
+    packaging graphics or 3D structural data.
+  - Knowledge of deploying distilled models to edge devices or
+    client-side environments.
+  - A known contributor to the AI ecosystem (e.g., maintainer of
+    a popular library or published research).
+  - Experience with serving frameworks like vLLM, NVIDIA Triton,
+    or TGI (Text Generation Inference).
+  
+  Esko is proud to be part of the Product Quality & Innovation
+  segment of Veralto (NYSE: VLTO), a $5B global leader
+  dedicated to ensuring access to clean water, safe food and
+  medicine, and trusted essential goods. When you join
+  Veralto’s global network of associates, you join a culture
+  where purpose meets possibility—where the work you do has an
+  everyday impact on the resources the world relies on.
+  Together, we’re Safeguarding the World’s Most Vital
+  Resources™.
+  
+  Contact @KaranGadi
+  
+  At Veralto, we value diversity and the existence of
+  similarities and differences, both visible and not, found in
+  our workforce, workplace and throughout the markets we
+  serve.  Our associates, customers and shareholders
+  contribute unique and different perspectives as a result of
+  these diverse attributes.
+  
+  
+  Unsolicited Assistance
+  
+  We do not accept unsolicited assistance from any headhunters
+  or recruitment firms for any of our job openings. All
+  resumes or profiles submitted by search firms to any
+  employee at any of the Veralto companies, in any form
+  without a valid, signed search agreement in place for the
+  specific position, approved by Talent Acquisition, will be
+  deemed the sole property of Veralto and its companies. No
+  fee will be paid in the event the candidate is hired by
+  Veralto and its companies because of the unsolicited
+  referral.
+posted_date: 2026-04-20
+url: "https://builtin.com/job/senior-ai-engineer-specialist/9100232"
+source: Built In

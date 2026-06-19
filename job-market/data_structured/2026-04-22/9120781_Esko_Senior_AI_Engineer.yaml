@@ -1,0 +1,51 @@
+company:
+  name: Esko
+  stage: Public
+  focus: |-
+    Integrated software and hardware for packaging design and
+    print processes
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on designing, building, and
+      deploying Generative AI systems including agentic AI, RAG
+      pipelines, model inference optimization, and fine-tuning.
+      The engineer works hands-on with LLMs, orchestration
+      frameworks, and production-grade AI capabilities.
+  responsibilities:
+  - Design and scale agentic AI systems using orchestration frameworks such as LangGraph,
+    CrewAI, or AutoGen for complex workflows
+  - Develop evaluation and benchmarking pipelines using G-Eval, RAGAS, and LLM-as-a-Judge
+    to measure performance, hallucinations, and latency
+  - Implement advanced RAG strategies including multi-stage re-ranking, hybrid search,
+    and query expansion for high-precision knowledge retrieval
+  - Optimize model inference performance using quantization approaches (AWQ, GGUF)
+    and caching strategies for cost-efficient throughput
+  - Collaborate with Data Science and DevOps teams to transition prototypes into production-ready
+    APIs
+  - Implement safety guardrails, red-teaming workflows, and alignment mechanisms for
+    regulatory and brand-safety compliance
+  use_cases:
+  - Packaging design workflow automation using agentic AI systems
+  - High-precision knowledge retrieval for packaging and print domain
+  - Production-grade Generative AI capabilities across Esko's product line
+  - Safe and compliant AI outputs meeting industry regulations and brand standards
+  skills:
+    genai: [LangGraph, CrewAI, AutoGen, G-Eval, RAGAS, LLM-as-a-Judge, RAG, LangChain,
+      LlamaIndex, Haystack, LoRA, QLoRA, prompt versioning]
+    ml: [PyTorch, JAX, 'quantization (AWQ, GGUF)', parameter-efficient fine-tuning]
+    web: [REST APIs]
+    databases: [Pinecone, Weaviate, Milvus, vector databases]
+    data: []
+    cloud: []
+    ops: [Weights & Biases, MLflow, CI/CD, LLMOps, model endpoint management]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9120781'
+  extracted_at: '2026-04-22T13:54:30.541816'

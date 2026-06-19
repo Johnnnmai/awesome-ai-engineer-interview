@@ -1,0 +1,141 @@
+job_id: 9017187
+title: Senior AI and FSI Developer Technology Engineer
+company: NVIDIA
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - C/C++
+  - Cuda
+  - Cutile
+  - Mpi
+  - Openacc
+  - Openmp
+  - Pthreads
+  - Tbb
+  - Tensorrt
+  - Tensorrt-Llm
+company_size: 21,960 Employees
+description: |
+  Help shape the future of AI and LLMs in FSI (Financial
+  Services Industry) at NVIDIA! We’re looking for a Senior AI
+  Developer Technology Engineer to push the limits of
+  performance at the intersection of AI, high-performance
+  computing, and financial markets! In this role, you’ll dive
+  deep into parallel algorithms, GPUs, and sophisticated
+  systems, identifying and eliminating bottlenecks to unlock
+  the full power of the most advanced processing hardware in
+  the world.
+  
+  You’ll collaborate with top experts across industry and
+  academia, influence next-generation platforms, and share
+  your insights with the global developer community. Would you
+  enjoy solving hard technical problems, love performance
+  tuning, and want your work to have a visible impact across
+  an entire industry? If so, we would love to invite you to
+  consider this role.
+  
+  What you will be doing:
+  
+  - Researching, designing, and developing groundbreaking
+    techniques to accelerate high-performance workloads for
+    FSI-focused, pioneering AI on NVIDIA CPUs and GPUs.
+  - Working hands-on with leading technical experts to analyze,
+    optimize, and scale complex AI and HPC workloads for
+    modern CPU and GPU architectures.
+  - Profiling and eliminating performance bottlenecks across the
+    stack: from algorithms to kernels to system-level
+    behavior.
+  - Publishing and presenting your work in conferences, talks,
+    and blogs to educate and inspire the broader developer
+    community.
+  - Influencing the design of future hardware architectures,
+    system software, libraries, and programming models by
+    collaborating closely with NVIDIA research, hardware,
+    compiler, and tools teams.
+  
+  What we need to see: 
+  
+  - Master’s or PhD in Computer Science, Computer Engineering,
+    or Electrical and Computer Engineering (or equivalent
+    experience).
+  - Strong, hands-on experience with low-level parallel
+    programming (e.g., CUDA, OpenACC, OpenMP, MPI, pthreads,
+    TBB, etc.).
+  - Deep understanding of CPU/GPU architecture fundamentals and
+    how they impact performance.
+  - Fluency in C/C++ and solid foundations in algorithms and
+    software design.
+  - 5+ years of relevant work or research experience.
+  - Proven experience improving the performance of large-scale
+    computational applications on GPUs.
+  - Excellent understanding of linear algebra.
+  - Strong communication and organization skills, with a logical
+    approach to problem solving and solid prioritization
+    abilities.
+  
+  Ways to stand out from the crowd:
+  
+  - Experience with inference optimization techniques and
+    deploying optimized AI models in production.
+  - Experience with TensorRT, TensorRT-LLM, and cuTile.
+  - Background in capital markets with exposure to
+    systematic/algorithmic strategies or quantitative trading.
+  - Experience parallelizing and optimizing machine learning
+    methods such as decision trees, time series models, and
+    Monte Carlo simulations.
+  - Knowledge of financial data models, pricing and risk
+    simulation algorithms, portfolio optimization, or other
+    finance-focused applications and services.
+  
+  The DevTech Engineer plays a crucial role in the success of
+  NVIDIA and our customers. DevTechs work with external
+  technologists to investigate performance of their
+  applications, design parallel algorithms and implement
+  optimizations in a GPU accelerated computing environment. As
+  recognized experts in the field we publish our findings in
+  developer blogs or at relevant conferences and workshops.
+  With insight to our customers, the industry, and academia we
+  are important representatives of NVIDIA as a technology
+  leader. Within NVIDIA we contribute valuable application
+  expertise that influences next generation hardware and
+  software products. As critical problem solvers, we deepen
+  our expertise, expand our knowledge, and work across domains
+  and organizations. Whether you are a leading industry
+  luminary or early in your career, the Developer Technology
+  Team provides ample opportunity for growth in the exciting
+  field of GPU-accelerated computing!
+  
+  #LI-Hybrid
+  
+  Your base salary will be determined based on your location,
+  experience, and the pay of employees in similar positions.
+  The base salary range is 152,000 USD - 241,500 USD for Level
+  3, and 184,000 USD - 287,500 USD for Level 4.
+  
+  You will also be eligible for equity and benefits.
+  
+  Applications for this job will be accepted at least until
+  April 14, 2026.
+  
+  This posting is for an existing vacancy.
+  
+  NVIDIA uses AI tools in its recruiting processes.
+  
+  NVIDIA is committed to fostering a diverse work environment
+  and proud to be an equal opportunity employer. As we highly
+  value diversity in our current and future employees, we do
+  not discriminate (including in our hiring and promotion
+  practices) on the basis of race, religion, color, national
+  origin, gender, gender expression, sexual orientation, age,
+  marital status, veteran status, disability status or any
+  other characteristic protected by law.
+industries:
+  - Artificial Intelligence
+  - Computer Vision
+  - Hardware
+  - Robotics
+  - Metaverse
+posted_date: 2026-04-10
+url: "https://builtin.com/job/senior-ai-and-fsi-developer-technology-engineer/9017187"
+source: Built In

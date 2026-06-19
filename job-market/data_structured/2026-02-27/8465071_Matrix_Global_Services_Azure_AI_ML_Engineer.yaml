@@ -1,0 +1,55 @@
+company:
+  name: Matrix Global Services
+  stage: null
+  focus: |-
+    Global technical consultancy providing IT services, software
+    solutions, and infrastructure consulting
+position:
+  title: Azure AI / ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly implementing and enabling Azure
+      AI/ML services, including GenAI models, RAG architectures,
+      and AI/ML pipelines for training and production. The
+      position requires hands-on work with LangChain, Semantic
+      Kernel, and vector databases to build enterprise AI
+      platforms.
+  responsibilities:
+  - Design and implement enterprise-grade AI/ML platform services across Azure and
+    GCP
+  - Build and automate AI/ML pipelines for training and production models using AIOps/MLOps
+    principles
+  - Develop APIs and Webhooks using Python, Git Actions, and Terraform for AI/ML service
+    integration
+  - Implement Azure AI security features including data protection, authentication,
+    and RBAC for AI workloads
+  - Write and maintain Azure Resource Manager (ARM) and Terraform templates for AI/ML
+    infrastructure
+  - Partner with development teams to leverage AI/ML services for solving business
+    objectives
+  - Ensure secure handling of data, model training, and deployment within cloud environments
+  - Support platform and analytics deployments via CI/CD pipelines
+  use_cases:
+  - Enterprise AI/ML platform enablement for regulated industries
+  - Generative AI solution deployment with security and compliance
+  - RAG architecture implementation for enterprise knowledge systems
+  - Automated AI/ML pipeline development for model training and production
+  - Secure cloud AI infrastructure for financial services
+  skills:
+    genai: [LangChain, Semantic Kernel, RAG]
+    ml: []
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [Azure AI services, Azure Python SDK, Azure Resource Manager (ARM), Azure
+        CLI, GCP, RBAC]
+    ops: [Terraform, GitHub Actions, CI/CD, MLOps, AIOps, PKI, DevOps]
+    languages: [Python]
+    domains: []
+    other: [Scrum]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8465071'
+  extracted_at: '2026-03-03T12:45:57.733049'

@@ -1,0 +1,50 @@
+company:
+  name: Dow Jones
+  stage: Public
+  focus: News and media publishing (Wall Street Journal)
+position:
+  title: Newsroom AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      maintaining AI-powered tools using LLM APIs and generative
+      AI techniques. The engineer will engineer prompts, develop
+      evaluation frameworks, and ship production AI tools for
+      journalists and readers - all hands-on work with AI/LLM
+      systems.
+  responsibilities:
+  - Move quickly from idea to MVP, gather feedback from newsroom partners and iterate
+    based on real-world use
+  - Design, prototype, build and maintain AI-powered newsroom and audience-facing
+    tools
+  - Leverage LLM APIs and other AI services to solve editorial and product challenges
+  - Engineer reliable prompts and system instructions; evaluate and refine outputs
+    for accuracy, fairness and adherence to editorial standards
+  - Develop evaluation frameworks and quality checks to ensure outputs are production-ready
+  - Work directly with journalists to understand pain points and translate them into
+    technical solutions
+  - Experiment with emerging AI technologies and assess their applicability to newsroom
+    needs
+  use_cases:
+  - AI-powered newsroom tools for journalists
+  - Reader-facing AI products
+  - Generative AI integration into publishing, editing and distribution workflows
+  - Automated reporting, research and newsroom operations support
+  - Editorial content accuracy and fairness evaluation
+  skills:
+    genai: [LLM APIs, Prompt engineering, Generative AI]
+    ml: []
+    web: [React, Next.js, APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Git]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8528850'
+  extracted_at: '2026-03-03T12:16:30.897917'

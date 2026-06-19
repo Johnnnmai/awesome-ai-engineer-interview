@@ -1,0 +1,48 @@
+company:
+  name: Midnite
+  stage: Series B+
+  focus: Next-generation sports betting and gaming platform
+position:
+  title: Lead Backend Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, productionising, and
+      deploying AI-powered tools using LLM APIs, agents, MCP
+      servers, and RAG patterns. While it's a backend engineering
+      leadership role, it explicitly requires hands-on integration
+      of LLMs/AI into production environments, making it ai-first
+      rather than ai-support.
+  responsibilities:
+  - Design and build scalable backend systems for Midnite's internal back office platform
+  - Lead and mentor a small team of engineers while remaining hands-on in delivery
+  - Productionise and deploy AI-powered tools for engineering and business use cases
+  - Explore and apply LLM APIs, agents, MCP servers, and RAG-style patterns to create
+    real business value
+  - Collaborate with Product to shape requirements, technical solutions, and delivery
+    plans
+  - Work with internal stakeholders to understand operational pain points and turn
+    them into effective tooling
+  - Define architecture, engineering standards, and best practices for the new team
+    and platform
+  use_cases:
+  - Internal back office platform automation
+  - AI-powered workflow optimization for engineering teams
+  - AI-assisted decision-making tools for business operations
+  - Operational tooling to improve efficiency across the company
+  skills:
+    genai: [LLM APIs, AI Agents, MCP Servers, RAG]
+    ml: []
+    web: []
+    databases: [PostgreSQL]
+    data: []
+    cloud: [Cloud Infrastructure]
+    ops: [CI/CD, Observability]
+    languages: [Python]
+    domains: []
+    other: [System Design, Technical Leadership]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9084624'
+  extracted_at: '2026-04-22T13:47:28.211342'

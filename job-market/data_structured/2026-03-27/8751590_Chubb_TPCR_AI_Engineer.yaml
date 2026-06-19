@@ -1,0 +1,50 @@
+company:
+  name: Chubb
+  stage: Public
+  focus: |-
+    Global insurance company providing commercial and personal
+    property/casualty insurance
+position:
+  title: TPCR AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing AI-driven solutions and
+      leveraging GPT models, RAG frameworks, and AI tools like
+      LangChain and CrewAI to optimize third-party risk management
+      processes. The candidate will engineer AI-enhanced tools and
+      identify opportunities to incorporate AI into TPRM
+      workflows.
+  responsibilities:
+  - Engineer and enhance tools and processes supporting the third party risk management
+    program
+  - Identify opportunities to incorporate AI into the TPRM program and processes
+  - Perform and execute TPRM assessments initiated by the business
+  - Identify, track and manage issues and control deficiencies relating to Third Parties
+  - Liaise with business owners to support remediation activities
+  - Assist with internal security reporting including steering committees and senior
+    management updates
+  - Provide support to the Third Party Cyber Risk Regional Lead and engage with the
+    Global Information Security team
+  use_cases:
+  - Third-party cyber risk assessment and management
+  - Automating TPRM control assessments using AI
+  - Streamlining third-party risk workflows and processes
+  - AI-enhanced decision making for vendor risk ranking
+  - Security reporting and compliance monitoring
+  skills:
+    genai: [GPT models, prompt engineering, RAG, CrewAI, LangChain, MCP, A2A]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: [cybersecurity]
+    other: [process automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8751590'
+  extracted_at: '2026-03-27T14:56:03.478705'

@@ -1,0 +1,222 @@
+job_id: 9116157
+title: Lead Application Development Engineer, Generative AI Products - Senior Vice President
+company: Citi
+location: Pune, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ci/Cd
+  - Git
+  - Go
+  - Harness
+  - Java
+  - Kubernetes
+  - Postgres
+  - Python
+  - Red Hat Openshift
+  - Tekton
+company_size: 223,850 Employees
+description: |
+  The Opportunity
+  
+  This is your chance to build the foundational systems for
+  'Citi Assist', a Generative AI assistant that will reach
+  every Citi employee globally. You'll join us on the ground
+  floor, shaping a high-visibility platform and helping to
+  define the standards for how a global bank adopts this
+  technology safely and at scale.
+  
+  This is a hands-on technical leadership role. You'll spend
+  your time equally between writing code, architecting
+  systems, and shaping both the technical and non-technical
+  direction of our team and product. We're looking for someone
+  who leads from the front, setting the standard through their
+  own work while elevating everyone around them.
+  
+  What You'll Do
+  
+  Lead, code, and deliver. You'll act as the technical anchor
+  for our backend services, but this isn't a hands-off role.
+  You'll lead the design and development of robust, scalable
+  systems, contribute high-quality code regularly, and set the
+  standard for the rest of the team through your own work.
+  
+  Own critical systems. You'll take ownership of core platform
+  capabilities like the services that run our background jobs
+  and autonomous agents. Your focus will be on building for
+  reliability, performance, and operational excellence.
+  
+  Shape our technical direction. You'll be a key voice in our
+  technical decisions, helping to define our architecture and
+  technical roadmap. You'll partner with the product owner and
+  scrum master to plan our work, ensuring we're building the
+  right things in the right way.
+  
+  Champion safety and security. Building safe, sound, and
+  compliant systems is non-negotiable. You'll lead by example,
+  thinking about everything from technical security to the
+  emerging challenges of AI safety.
+  
+  Be a force multiplier. You'll make the entire team better
+  through thoughtful guidance, constructive code reviews, and
+  by unblocking others when they're stuck. Your success is
+  measured by the success and growth of your team.
+  
+  Communicate with purpose. You'll foster a culture of clear,
+  direct, and proactive communication. In a distributed team,
+  this is essential. You'll model this behaviour, ensuring
+  information about progress, blockers, and decisions flows
+  freely.
+  
+  What We're Looking ForYou should have
+  
+  - Proven experience leading technical projects and mentoring
+    other engineers
+  - Deep, hands-on experience building, deploying, and
+    maintaining production-grade backend services. You're
+    still writing code regularly and you're good at it.
+  - Strong proficiency in at least one backend language (Python,
+    Java, Go, or TypeScript/Node.js) with a willingness to
+    work across our stack as needed
+  - Experience architecting and designing scalable, distributed
+    systems
+  - A firm grasp of software design patterns and a commitment to
+    writing clean, testable, and maintainable code
+  - Strong experience with containerised environments (we use
+    OpenShift, but Kubernetes experience transfers well)
+  - Practical experience with CI/CD pipelines and a belief in
+    automating things
+  - Solid experience working with relational databases like
+    Postgres
+  
+  What matters most to us
+  
+  A hands-on technical leader. You believe that the best way
+  to lead is by doing. You're equally comfortable in
+  architecture discussions and pull requests. You don't just
+  tell people what to build, you show them how.
+  
+  A pragmatic builder. You take pride in your craft and build
+  software that lasts. You know how to lead a team to make the
+  right trade-offs between speed and long-term quality.
+  
+  A bias for action and a focus on shipping. You understand
+  our goal is to deliver value to users, not to chase
+  perfection. You know when to move fast and when to invest in
+  doing things properly.
+  
+  A solutions-first mindset. You find the best path to solve
+  the problem, whether that's writing new code, improving an
+  old system, or integrating the right tool. The outcome is
+  what matters.
+  
+  Strong communication and influence. You can articulate your
+  technical vision and bring others along with you. You're
+  comfortable having difficult conversations and making tough
+  calls when needed.
+  
+  A collaborative spirit. You thrive in team environments
+  where you can learn from others and help them grow. You see
+  mentoring and knowledge-sharing as a core part of your role.
+  
+  Bonus points for
+  
+  - Strong Python experience (this is our primary backend
+    language)
+  - Experience with other languages like TypeScript, Go, or Java
+  - Direct experience with Generative AI concepts, LLMs, or
+    related projects
+  - Experience with data pipelines and ETL tools like Apache
+    Airflow or Dagster
+  - Experience working in highly regulated environments
+  
+  Our Tech Stack
+  
+  We work primarily with Python on the backend, though we also
+  use TypeScript, Go, and Java in places. Our frontend is
+  built with TypeScript, React, and Next.js. We use Postgres
+  for our database, run everything on Kubernetes (specifically
+  Red Hat OpenShift), and our DevOps setup includes GitHub and
+  CI/CD tools like Tekton and Harness.
+  
+  Our Team and Mission
+  
+  We're the Common Platform Engineering team for GenAI, a
+  central group in the Chief Technology Office. We're a
+  focused agile team that owns our work from idea to
+  production.
+  
+  Our culture is built on a shared belief in engineering
+  craftsmanship, backed by leadership that actually
+  understands what that means. We're on a journey to prove
+  what's possible inside a large organisation, and that means
+  navigating some legacy while building the future. This isn't
+  a role for someone who wants everything to be perfect on day
+  one. It's for a leader who wants to help us get there,
+  influencing how we solve problems and raising our collective
+  bar.
+  
+  We have a dual mission. First, we're building 'Citi Assist',
+  the GenAI digital assistant for our colleagues. Second,
+  we're providing the platforms and guidance that enable the
+  entire organisation to adopt GenAI safely and effectively.
+  
+  This is not a typical banking job. You'll build foundational
+  technology that has a direct, positive impact on hundreds of
+  thousands of people. You'll have the executive support to
+  tackle big problems and real autonomy to shape our
+  solutions. Most importantly, you'll join a passionate,
+  collaborative team where we all learn from each other and
+  push each other to do our best work.
+  
+  ------------------------------------------------------
+  
+  Job Family Group:
+  
+  Technology
+  
+  ------------------------------------------------------
+  
+  Job Family:
+  
+  Applications Development
+  
+  ------------------------------------------------------
+  
+  Time Type:
+  
+  Full time
+  
+  ------------------------------------------------------
+  
+  Most Relevant Skills
+  
+  Please see the requirements listed above.
+  
+  ------------------------------------------------------
+  
+  Other Relevant Skills
+  
+  For complementary skills, please see above and/or contact
+  the recruiter.
+  
+  ------------------------------------------------------
+  
+  Citi is an equal opportunity employer, and qualified
+  candidates will receive consideration without regard to
+  their race, color, religion, sex, sexual orientation, gender
+  identity, national origin, disability, status as a protected
+  veteran, or any other characteristic protected by law.
+  
+  
+  
+  If you are a person with a disability and need a reasonable
+  accommodation to use our search tools and/or apply for a
+  career opportunity review Accessibility at Citi. View Citi’s
+  EEO Policy Statement and the Know Your Rights poster.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-04-21
+url: "https://builtin.com/job/lead-application-development-engineer-generative-ai-products-senior-vice-president/9116157"
+source: Built In

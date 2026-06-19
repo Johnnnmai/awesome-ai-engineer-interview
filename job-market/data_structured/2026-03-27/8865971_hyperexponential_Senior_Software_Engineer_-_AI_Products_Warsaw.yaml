@@ -1,0 +1,47 @@
+company:
+  name: hyperexponential
+  stage: Series B
+  focus: |-
+    AI-powered platform for insurance pricing and underwriting
+    decisions
+position:
+  title: Senior Software Engineer - AI Products, Warsaw
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves architecting and deploying AI/ML systems,
+      LLM-driven workflows, and domain-specific ML pipelines.
+      Candidates will work directly on building and deploying
+      generative AI products including an AI peer-programmer and
+      ingestion engine powered by LLMs. This is hands-on AI/ML
+      work, not infrastructure support.
+  responsibilities:
+  - Architect and scale advanced AI and ML systems for next-generation products
+  - Lead design and deployment of LLM-driven workflows and domain-specific ML pipelines
+  - Drive foundational decisions across data, modelling, and production infrastructure
+  - Rapidly prototype novel ideas and evolve experiments into production-grade systems
+  - Advance AI strategy by shaping technical direction and embedding best practices
+  - Mentor engineers and foster ML craftsmanship culture
+  use_cases:
+  - Domain-specific AI peer programmer for insurance with actuarial science expertise
+  - Ingestion engine transforming unstructured insurance documents into structured
+    insights
+  - Insurance pricing and underwriting decision support
+  - Risk modeling and billion-dollar decision automation
+  - Agentic workflows for insurance industry operations
+  skills:
+    genai: [LLMs, LLM-driven workflows, Retrieval-augmented generation]
+    ml: [NLP, ML pipelines, Model development, Model evaluation, Model optimization]
+    web: []
+    databases: []
+    data: [Data processing]
+    cloud: [Distributed systems, Cloud-native pipelines]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8865971'
+  extracted_at: '2026-03-27T16:06:57.719384'

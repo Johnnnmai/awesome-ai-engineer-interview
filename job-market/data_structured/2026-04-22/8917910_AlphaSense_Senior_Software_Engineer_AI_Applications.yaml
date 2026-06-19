@@ -1,0 +1,53 @@
+company:
+  name: AlphaSense
+  stage: Growth (founded 2011, 2000+ employees, acquired Tegus in 2024)
+  focus: |-
+    AI-driven market intelligence and search platform for
+    enterprise decision-making
+position:
+  title: Senior Software Engineer (AI Applications)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and fine-
+      tuning LLM-based production systems for document
+      understanding tasks. The engineer will work hands-on with
+      LLMs including fine-tuning, prompt engineering, and
+      deploying production-grade AI solutions, making this an ai-
+      first role.
+  responsibilities:
+  - Deploy LLM-based production-grade solutions for document understanding and data
+    extraction
+  - Fine-tune and adapt state-of-the-art LLMs for specialized data extraction tasks
+    and develop prompt engineering strategies for confidential business documents
+  - Solve engineering challenges associated with LLM solutions including high latency
+    and non-deterministic output
+  - Implement and scale data processing pipelines for high-volume complex document
+    processing with high accuracy and efficiency
+  - Integrate and manage LLM observability to trace, debug, and monitor every extraction
+  - Own systems end-to-end including designing, coding, monitoring, testing, CI/CD,
+    and on-call support
+  use_cases:
+  - Document classification and text categorization for financial and business documents
+  - Structured data extraction from complex documents using LLMs
+  - Semantic similarity and document understanding across market intelligence content
+  - Processing equity research, company filings, event transcripts, and expert calls
+    at scale
+  - Extracting structured JSON from unstructured text in confidential business documents
+  skills:
+    genai: [Large Language Models (LLMs), Prompt Engineering, LangChain, LLM fine-tuning,
+      JSON extraction from text]
+    ml: [HuggingFace, NLP, NER (Named Entity Recognition)]
+    web: [FastAPI, Microservice architecture]
+    databases: []
+    data: [Async data processing]
+    cloud: [Cloud infrastructure]
+    ops: [Langfuse, Docker, Kubernetes, CI/CD, LLM observability and tracing]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8917910'
+  extracted_at: '2026-04-22T12:27:19.268835'

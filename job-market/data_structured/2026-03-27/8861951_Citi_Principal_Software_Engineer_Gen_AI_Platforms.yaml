@@ -1,0 +1,50 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Principal Software Engineer –Gen AI Platforms
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and architecting generative AI
+      platforms, including SDKs, runtimes, and scaled services
+      around GenAI. The position requires deep understanding of
+      LLMs, fine-tuning, RAG architectures, and managing large-
+      scale vector stores, which is hands-on AI system
+      development.
+  responsibilities:
+  - Build scaled, robust services and platforms centered around generative AI, including
+    CLIs, SDKs, and runtimes
+  - Drive architectural vision and lead 0-1 build of foundational, enterprise-grade
+    AI platforms and products
+  - Design and build high-quality, highly reliable, and secure distributed systems
+    with developer and user experience at the center
+  - Define strategic technical direction for generative AI across the entire bank
+  - Scale and iterate Generative AI products to handle massive throughput for internal
+    customers
+  - Drive technical alignment across multiple engineering organizations to deliver
+    cohesive AI capabilities
+  use_cases:
+  - Enterprise-grade generative AI platform development for a global bank
+  - Large-scale vector stores and search algorithms for AI applications
+  - Control planes and sandboxing systems for AI experimentation
+  - RAG architectures and JIT context retrieval strategies
+  - AI safety and guardrail implementations
+  skills:
+    genai: [Claude/Gemini/proprietary LLMs, RAG architectures, fine-tuning methodologies,
+      JIT context retrieval]
+    ml: []
+    web: [React, REST, gRPC, WebSockets]
+    databases: [vector stores, MongoDB, Redis]
+    data: [ETL, data pipeline architecture]
+    cloud: [Kubernetes, OpenShift]
+    ops: [GitOps CI/CD, Prometheus, Grafana, ELK, Docker]
+    languages: [Go, Python, TypeScript]
+    domains: []
+    other: [OAuth, JWT, Vault, microservices]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8861951'
+  extracted_at: '2026-03-27T15:48:42.072326'

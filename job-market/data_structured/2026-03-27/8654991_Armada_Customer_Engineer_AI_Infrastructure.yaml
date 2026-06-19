@@ -1,0 +1,59 @@
+company:
+  name: Armada
+  stage: Series B+
+  focus: |-
+    Edge infrastructure delivering compute, connectivity, and
+    AI/ML to remote locations globally
+position:
+  title: Customer Engineer, AI Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a pre-sales/sales engineering role focused on
+      infrastructure systems (modular data centers, networking,
+      edge computing). While the company works with AI/ML and "AI
+      infrastructure" is in the title, the primary focus is on
+      designing and selling physical infrastructure solutions, not
+      building/training/deploying AI models. AI knowledge is
+      listed as a "nice to have" secondary exposure, indicating
+      this is an infrastructure-first role that supports AI
+      workloads.
+  responsibilities:
+  - Provide expert technical guidance to customers and sales peers regarding Armada's
+    edge infrastructure products and services
+  - Lead technical demonstrations, proof-of-concepts, and workshops to showcase modular
+    data center and edge computing solutions
+  - Design and architect modular data center systems, rack solutions, and hybrid/distributed
+    computing platforms for customers
+  - Collaborate cross-functionally with sales teams on customer engagements, technical
+    scoping, and proposal development
+  - Cultivate relationships with technical decision makers and serve as a trusted
+    advisor on infrastructure solutions
+  - Stay current on industry trends, competitive developments, and emerging edge/AI
+    technologies
+  - Enable and train field teams on technical concepts, product features, and selling
+    strategies
+  use_cases:
+  - Edge computing infrastructure for remote and harsh environments
+  - Modular and micro data center deployments for distributed computing
+  - Sovereign AI/ML compute delivery to remote locations
+  - Hybrid cloud and edge infrastructure solutions
+  - IoT and connected device ecosystems integration
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, ONNX]
+    web: [REST APIs, WebSockets]
+    databases: []
+    data: []
+    cloud: [Cloud platforms (AWS/Azure/GCP), Azure Stack Edge]
+    ops: [VMware, Docker, Kubernetes, SD-WAN, 'Networking fundamentals (IP, firewalls)',
+      Data center architecture, Virtualization technologies]
+    languages: []
+    domains: []
+    other: [Starlink/satellite connectivity, LTE/5G cellular systems, IoT sensors
+        and telemetry]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8654991'
+  extracted_at: '2026-03-27T14:16:00.311630'

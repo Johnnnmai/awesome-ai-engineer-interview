@@ -1,0 +1,52 @@
+company:
+  name: JetBrains
+  stage: Startup (JetBrains incubator)
+  focus: |-
+    AI-powered semantic knowledge layer for software
+    organizations
+position:
+  title: Senior AI/ML Engineer (Spectrum)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and evolving ML/LLM-
+      powered systems at the core of the product, including
+      designing data ingestion, knowledge extraction and
+      retrieval, reasoning systems, architecting AI agents, prompt
+      engineering, model selection, and inference optimization.
+      The engineer works hands-on with models and agents, not just
+      supporting infrastructure.
+  responsibilities:
+  - Design and build ML/LLM solutions for data ingestion, knowledge extraction and
+    retrieval, and reasoning
+  - Create datasets, metrics, and pipelines that drive measurable improvements across
+    the system
+  - Architect and improve AI agents through prompt engineering, model selection, and
+    inference optimization
+  - Contribute to MLOps practices including orchestration, observability, and experiment
+    tracking
+  - Build and evolve the ontology-based knowledge system for unified semantic search
+  use_cases:
+  - Semantic knowledge extraction from code, docs, and issues for software organizations
+  - Unified ontology-based search and reasoning over organizational knowledge
+  - AI agents that answer complex technical questions across contradictory sources
+  - Living specification system that stays in sync with code
+  - Enterprise knowledge graph for product and architectural truth
+  skills:
+    genai: [Prompt engineering, AI agents, Multi-agent systems, RAG (Retrieval-Augmented
+        Generation)]
+    ml: [LLM fine-tuning, Model selection and evaluation, Dataset creation and evaluation
+        metrics]
+    web: []
+    databases: [Vector databases]
+    data: [Knowledge graphs, Ontologies]
+    cloud: []
+    ops: [Inference optimization, MLOps, Experiment tracking]
+    languages: [Python, Kotlin]
+    domains: [Graph-based reasoning]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8990344'
+  extracted_at: '2026-04-22T14:00:02.433469'

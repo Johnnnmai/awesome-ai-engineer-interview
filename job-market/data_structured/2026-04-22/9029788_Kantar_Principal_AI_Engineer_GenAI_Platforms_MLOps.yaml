@@ -1,0 +1,51 @@
+company:
+  name: Kantar
+  stage: Public
+  focus: Global data, insights and consulting company
+position:
+  title: Principal AI Engineer (GenAI Platforms & MLOps)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on individual contributor role focused on
+      designing and building GenAI platform components,
+      implementing LLM-based systems (RAG, embeddings, agents),
+      and engineering cloud-native AI services. The role involves
+      directly building, deploying, and optimizing production-
+      grade AI/LLM systems, making it clearly ai-first.
+  responsibilities:
+  - Design and build reusable GenAI platform components for safe and efficient AI
+    solution creation and deployment
+  - Implement LLM-based systems including RAG, embeddings, semantic search, and agent-based
+    workflows
+  - Shape GenAI system handling of prompting, grounding, evaluation, reliability,
+    and cost control
+  - Build and evolve MLOps pipelines from experimentation through deployment, monitoring,
+    and iteration
+  - Engineer cloud-native, API-driven services that integrate AI into production platforms
+  - Support and guide other engineers through design reviews, coaching, and shared
+    standards
+  use_cases:
+  - Enterprise GenAI platform enabling internal teams to deploy production-grade AI
+    solutions
+  - RAG-based semantic search and retrieval across organizational knowledge
+  - Agent-based workflows for automated business processes
+  - Scalable LLM-powered services integrated into Kantar's data and insights platforms
+  - Cost-controlled and reliable GenAI inference serving across the organization
+  skills:
+    genai: [RAG, Embeddings, Semantic search, Agent-based workflows, Prompt engineering,
+      LLMs]
+    ml: []
+    web: [REST APIs, Scalable backend services]
+    databases: [Vector databases]
+    data: []
+    cloud: [Azure, AWS, GCP, Cloud-native services]
+    ops: [MLOps, CI/CD, Model deployment and monitoring, Model evaluation]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9029788'
+  extracted_at: '2026-04-22T13:20:14.142708'

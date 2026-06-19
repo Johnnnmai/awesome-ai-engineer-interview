@@ -1,0 +1,51 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Trusted content and technology for legal, tax, accounting,
+    compliance, government, and media professionals
+position:
+  title: Staff Software Engineer - AI II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and architecting AI
+      systems including RAG architectures, autonomous AI agents
+      with multi-step reasoning, and adapting/customizing AI
+      models for specialized domains. The position requires hands-
+      on delivery of AI solutions and championing MLOps/LLMOps
+      practices.
+  responsibilities:
+  - Design and lead implementation of enterprise-scale AI systems including RAG architectures
+    and autonomous AI agents
+  - Architect scalable AI model integration strategies for production-ready prototypes
+    using APIs, distributed data pipelines, and microservices
+  - Lead adaptation and customization of AI models for specialized internal domains
+  - Define technical standards and best practices for rapid prototyping and solution
+    discovery
+  - Contribute to hands-on delivery leveraging AI development tools
+  - Lead evaluation and strategic adoption of cutting-edge AI techniques
+  - Oversee proof-of-concept projects and guide technical feasibility assessments
+  - Champion MLOps and LLMOps practices in prototyping and delivery phases
+  use_cases:
+  - Business process transformation for internal teams
+  - Enterprise-scale AI systems with multi-step reasoning
+  - Advanced retrieval-augmented generation (RAG) architectures
+  - Autonomous AI agents for internal business functions
+  - Specialized domain-specific AI model customization
+  skills:
+    genai: [RAG architectures, AI agents, Embeddings, Semantic search, LLM-based solutions]
+    ml: [PyTorch, TensorFlow, JAX, Model fine-tuning]
+    web: [REST APIs, Microservices]
+    databases: [Vector databases]
+    data: [Distributed data pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Terraform, MLOps, LLMOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8514643'
+  extracted_at: '2026-03-03T12:57:16.861972'

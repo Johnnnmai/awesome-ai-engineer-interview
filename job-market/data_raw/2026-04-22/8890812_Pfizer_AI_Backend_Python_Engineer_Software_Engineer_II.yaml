@@ -1,0 +1,91 @@
+job_id: 8890812
+title: AI Backend Python Engineer (Software Engineer II) - Evergreen REQ
+company: Pfizer
+location: Chennai, IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - Docker
+  - Eks
+  - Fastapi
+  - Git
+  - Lambda
+  - Langchain
+  - Langfuse
+  - Litellm
+  - Python
+company_size: 121,990 Employees
+description: |
+  Job Description The AI Backend Python Engineer (SE II) will
+  develop and maintain backend systems that power generative
+  AI applications and large language model (LLM) integrations.
+  This role focuses on implementing features for scalable,
+  secure, and high-performance services using Python and AWS
+  cloud infrastructure, with guidance from senior engineers.
+  This is an individual contributor role. KEY RESPONSIBILITIES
+  
+  - Implement Python-based backend services (on FastAPI) for AI
+    workloads, including LLM integration and generative AI
+    pipelines
+  - Develop APIs and microservices for model serving and
+    inference with guidance from senior team members
+  - Build and maintain AWS-based infrastructure components for
+    AI workloads (e.g., Lambda, EKS)
+  - Write clean, well-tested, and maintainable code following
+    established patterns and best practices
+  - Integrate LLMs and generative AI models into production
+    systems using frameworks like LangChain, Langfuse, and
+    litellm
+  - Implement monitoring, logging, and observability features
+    for assigned backend services
+  - Participate in code reviews and contribute to team knowledge
+    sharing
+  - Debug and resolve production issues with support from senior
+    engineers
+  - Collaborate with cross-functional teams to understand
+    requirements and deliver features
+  
+  BASIC QUALIFICATIONS
+  
+  - 2-4 years of professional software engineering experience or
+    equivalent
+  - Strong proficiency in Python for backend development in
+    production environments
+  - Understanding of LLMs, generative AI concepts, and modern AI
+    frameworks (e.g., litellm, LangChain)
+  - Experience with AWS services (Lambda, API Gateway, EKS)
+  - Knowledge of RESTful API design and microservices
+    architecture
+  - Familiarity with containerization (Docker) and version
+    control (Git)
+  - Bachelor's degree in Computer Science, Engineering, or
+    related field, or equivalent practical experience
+  - Strong problem-solving skills and attention to detail
+  
+  PREFERRED QUALIFICATIONS
+  
+  - Hands-on experience building APIs for AI/ML workloads in
+    production
+  - Experience with FastAPI or similar Python web frameworks
+  - Familiarity with Langfuse for LLM observability
+  - Knowledge of CI/CD practices and automated testing
+  - Understanding of database systems (SQL and NoSQL)
+  - Experience with event-driven architectures
+  - Strong communication skills and ability to work
+    collaboratively in a team environment
+  
+  Work location assignment : Remote Pfizer is an equal
+  opportunity employer and complies with all applicable equal
+  employment opportunity legislation in each jurisdiction in
+  which it operates. Information & Business Tech
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Machine Learning
+  - Natural Language Processing
+  - Biotech
+  - Pharmaceutical
+posted_date: 2026-04-16
+url: "https://builtin.com/job/ai-backend-python-engineer-software-engineer-ii-evergreen-req/8890812"
+source: Built In

@@ -1,0 +1,54 @@
+company:
+  name: Netwrix Corporation
+  stage: Private Equity backed
+  focus: Data security and identity-centric security solutions
+position:
+  title: AI Data Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is ai-support because it focuses on building data
+      infrastructure and pipelines that ENABLE AI/ML work, rather
+      than directly building, training, or fine-tuning models. The
+      position supports AI teams by managing data pipelines,
+      feature stores, and RAG infrastructure, but doesn't involve
+      hands-on model development or deployment.
+  responsibilities:
+  - Design, build and operate data and AI platforms using GitOps principles with Infrastructure-as-Code
+  - Implement scalable ETL/ELT pipelines for AI/ML model training, feature engineering,
+    and inference workflows
+  - Support RAG and AI agents by curating data sources and building embedding/vector
+    database pipelines
+  - Implement data quality monitoring, governance controls, and observability for
+    AI systems
+  - Partner with teams to operationalize models through MLOps workflows and versioning
+    strategies
+  - Build and operate Azure-based data and AI platforms including storage, compute,
+    and containerized services
+  - Produce architecture diagrams, runbooks, and operational documentation for AI
+    systems
+  use_cases:
+  - Data security platform with access governance and classification
+  - Identity-centric security telemetry and auditing
+  - Platform governance and compliance monitoring
+  - Internal AI agents and experience platforms
+  - Enterprise data ingestion and analysis for security products
+  skills:
+    genai: [Azure OpenAI, RAG, Embedding generation, OpenAI API, Anthropic Claude,
+      Google Gemini]
+    ml: []
+    web: []
+    databases: [Vector databases]
+    data: [Databricks Feature Store, ETL/ELT pipelines]
+    cloud: [Azure DevOps, Azure ML Feature Store, Azure Monitor, Azure ML Model Registry,
+      Azure Storage, Azure Kubernetes Service, Azure Container Registry, Azure, AWS]
+    ops: [GitOps, Terraform, CI/CD, Infrastructure as Code, Application Insights,
+      MLflow, Docker, Kubernetes]
+    languages: [Python, SQL, JSON, YAML, Shell scripting]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8840088'
+  extracted_at: '2026-03-27T13:29:37.139534'

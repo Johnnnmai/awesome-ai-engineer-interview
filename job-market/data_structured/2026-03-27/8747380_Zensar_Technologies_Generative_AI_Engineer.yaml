@@ -1,0 +1,54 @@
+company:
+  name: Zensar Technologies
+  stage: null
+  focus: |-
+    Technology consulting and services company providing digital
+    products and experiences for enterprises
+position:
+  title: Generative AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying GenAI systems
+      including LLM applications, autonomous agents, and RAG
+      implementations. The engineer will fine-tune models, build
+      production-ready prototypes, and work hands-on with agentic
+      frameworks like LangGraph and AutoGen.
+  responsibilities:
+  - Design and implement end-to-end LLM applications using OpenAI, Claude, Mistral,
+    Gemini, or LLaMA on cloud platforms
+  - Build intelligent autonomous agents using LangGraph, AutoGen, LlamaIndex, Crew.ai,
+    or custom frameworks
+  - Develop multi-model, multi-agent RAG applications with secure context embedding
+    and tracing
+  - Fine-tune LLMs and Small Language Models for domain-specific use cases
+  - Create synthetic datasets for training and edge case simulation
+  - Evaluate agents using custom frameworks measuring success rates, latency, and
+    reliability
+  - Explore emerging agent communication standards including A2A and MCP protocols
+  - Present AI concepts and outcomes to technical and non-technical stakeholders
+  use_cases:
+  - Enterprise AI applications and innovation initiatives
+  - Multi-agent autonomous systems
+  - Domain-specific LLM/SLM customization
+  - Retrieval-Augmented Generation for knowledge-intensive applications
+  - Agent-to-Agent communication protocols
+  - Production-ready AI prototypes beyond Jupyter notebooks
+  skills:
+    genai: [OpenAI API, Claude API, Mistral, Gemini, LLaMA, LangGraph, AutoGen, LlamaIndex,
+      CrewAI, RAG, Prompt Engineering, Fine-tuning, MCP (Model Context Protocol),
+      A2A (Agent-to-Agent), Microsoft Copilot Studio, Databricks Mosaic AI]
+    ml: [Embeddings]
+    web: []
+    databases: []
+    data: [Databricks]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, Model orchestration]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8747380'
+  extracted_at: '2026-03-27T14:31:58.581884'

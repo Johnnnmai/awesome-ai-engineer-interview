@@ -1,0 +1,39 @@
+company:
+  name: KLA
+  stage: Public
+  focus: Semiconductor manufacturing equipment and inspection systems
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The job listing provides almost no detail about the actual
+      responsibilities or technical requirements of the AI/ML
+      Engineer role. It describes KLA's business (semiconductor
+      manufacturing) and the Advanced Computing Labs' mission
+      (parallel computing for AI+HPC+Cloud), but lists no specific
+      duties, tools, frameworks, or technologies for this
+      position. Without substantive job content, the AI type
+      cannot be reliably determined.
+  responsibilities: []
+  use_cases:
+  - Accelerating KLA's semiconductor inspection and manufacturing algorithms using
+    parallel computing
+  - AI and HPC solutions for semiconductor wafer and reticle manufacturing
+  - Advanced computing research for semiconductor process optimization
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8913871'
+  extracted_at: '2026-04-22T13:02:39.801334'

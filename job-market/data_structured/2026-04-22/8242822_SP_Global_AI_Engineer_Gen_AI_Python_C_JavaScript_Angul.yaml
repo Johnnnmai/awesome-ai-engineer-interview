@@ -1,0 +1,46 @@
+company:
+  name: S&P Global
+  stage: Public
+  focus: Financial data, analytics, and market intelligence
+position:
+  title: AI Engineer (Gen AI, Python, C#, JavaScript, Angular)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, integrating, and
+      deploying Generative AI systems — including LLM integration,
+      RAG implementation, prompt engineering, and vector
+      databases. The engineer is hands-on with AI models and
+      infrastructure, making this an ai-first role.
+  responsibilities:
+  - Design and implement scalable AI components and services integrated with existing
+    web applications
+  - Develop robust APIs and microservices for AI model deployment and orchestration
+  - Integrate Large Language Models and other AI services into production applications
+  - Develop prompt engineering strategies and optimize AI model performance
+  - Implement RAG systems and vector databases for intelligent AI assistant
+  - Build monitoring and evaluation frameworks for AI system performance
+  - Partner with Product Management and Data Science teams to translate requirements
+    into technical solutions
+  - Drive technical design discussions, conduct code reviews, and mentor junior engineers
+  use_cases:
+  - Intelligent AI Assistant embedded in web application ecosystem
+  - Business intelligence and decision-making support for global markets
+  - Enterprise search and information retrieval via RAG systems
+  - AI-powered analysis for financial and market data
+  skills:
+    genai: [OpenAI API, LangChain, Semantic Kernel, RAG, Prompt Engineering, LLMs]
+    ml: []
+    web: [Angular, .NET Core/Framework, Microservices, REST APIs, React, Vue]
+    databases: [Vector Databases, Pinecone, Weaviate]
+    data: [ETL]
+    cloud: [AWS Lambda, AWS SQS, AWS API Gateway, AWS S3, Azure AI Services]
+    ops: [Docker, CI/CD]
+    languages: [Python, C#, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8242822'
+  extracted_at: '2026-04-22T14:17:23.805031'

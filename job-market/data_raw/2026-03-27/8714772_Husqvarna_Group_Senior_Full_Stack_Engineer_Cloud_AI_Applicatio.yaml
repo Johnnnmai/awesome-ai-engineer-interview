@@ -1,0 +1,188 @@
+job_id: 8714772
+title: "Senior Full Stack Engineer – Cloud & AI Applications"
+company: Husqvarna Group
+location: Navi Mumbai, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Azure
+  - Ci/Cd
+  - Databricks
+  - Docker
+  - Infrastructure As Code
+  - Jwt
+  - Kubernetes
+  - Micro-Frontends
+  - Node.js
+company_size: 7,202 Employees
+description: |
+  Last date to apply:
+  
+  10 March 2026
+  
+  .
+  
+  Senior Full Stack Engineer – Cloud & AI Applications
+  
+  Job Family: Digital / Software Engineering Location: Navi
+  Mumbai
+  
+  Role Overview
+  
+  We are looking for a highly capable Senior  Full Stack
+  Engineer with strong foundations in front end development,
+  cloud engineering, data pipelines, and modern software
+  architecture, and a growing or established focus on AI-
+  enabled applications.
+  
+  This role spans frontend development, backend systems, cloud
+  infrastructure, and AI integrations. You will design and
+  build secure, scalable digital products that leverage modern
+  cloud platforms and AI/ML capabilities to drive intelligent
+  workflows and user experiences.
+  
+  Key Responsibilities
+  
+  1. Full Stack Application Development
+  
+  - Design and build scalable web applications using React with
+    strong HTML/CSS fundamentals.
+  - Develop and maintain robust backend services using Node.js
+    (TypeScript) or Python.
+  - Design and manage RESTful APIs, including lifecycle
+    management and versioning.
+  - Implement reliability patterns such as idempotency, retries,
+    structured error handling, and resilient service
+    communication.
+  - Collaborate closely with product, design, and data teams to
+    deliver high-quality user-facing features.
+  
+  2. Cloud-native Software Engineering (AWS / Azure)
+  
+  - Design, deploy, and operate applications on AWS or Azure.
+  - Build and manage container-based platforms (Docker,
+    Kubernetes).
+  - Work with compute, storage, database services, networking,
+    and traffic management.
+  - Implement IAM and least-privilege access control.
+  - Define and manage infrastructure using Infrastructure as
+    Code (IaC).
+  - Own CI/CD pipelines, including multi-environment promotion
+    (dev/QA/prod), rollback strategies, and production
+    safeguards.
+  
+  3. Software Engineering for AI
+  
+  - Design and operate scalable data pipelines using Databricks
+    or Python-based ETL frameworks.
+  - Work with PostgreSQL/SQL databases, NoSQL systems, and
+    modern lakehouse architectures.
+  - Integrate AI/ML services into applications (LLM-based
+    services, embeddings, inference APIs).
+  - Build systems that support near-real-time data ingestion for
+    AI-enabled workflows.
+  - Collaborate on AI system observability, evaluation, and
+    monitoring in production environments.
+  
+  4. Frontend & UI/UX
+  
+  - Advanced UI architecture patterns (micro-frontends, design
+    systems).
+  - Strong UX sensibility and experience working closely with
+    product/design teams.
+  - Performance optimization and frontend observability.
+  - Experience building AI-driven UI components (chat
+    interfaces, dynamic workflows).
+  
+  5. Security, Governance & Operational Excellence
+  
+  - Apply security-by-design and zero-trust architecture
+    principles across cloud and APIs.
+  - Implement OAuth2 / JWT-based authentication and
+    authorization.
+  - Ensure safe API exposure and external system integration.
+  - Contribute to monitoring, alerting, incident response, and
+    root-cause analysis.
+  - Make reliability, performance, and cost-aware engineering
+    decisions.
+  
+  6. Engineering Practices & Collaboration
+  
+  - Follow structured Git workflows and strong documentation
+    practices.
+  - Use agentic AI-supported coding tools responsibly to improve
+    delivery quality.
+  - Communicate clearly with cross-functional stakeholders.
+  - (Lead) Define engineering standards and mentor junior
+    engineers.
+  - (Lead) Drive architectural alignment across frontend,
+    backend, cloud, and AI components.
+  
+  Required Skills & Experience
+  
+  - Strong experience as a Full Stack Engineer in production
+    environments.
+  - Expertise in React, modern JavaScript/TypeScript, and UI
+    integration.
+  - Strong backend development experience (Node.js/TypeScript or
+    Python).
+  - Hands-on experience with AWS or Azure, Docker, and CI/CD.
+  - Experience designing secure, scalable APIs with OAuth2/JWT.
+  - Solid understanding of cloud networking, IAM, and secure
+    architecture.
+  - Experience working with structured data systems
+    (PostgreSQL/SQL).
+  - Strong problem-solving skills and ownership mindset.
+  
+  
+  
+  
+  
+  
+  
+  Good to Have (Preferred Capabilities)
+  
+  A. Cloud & Platform Engineering
+  
+  - Deep Kubernetes expertise and production-grade cluster
+    operations.
+  - Advanced Infrastructure as Code
+    (Terraform/Bicep/CloudFormation).
+  - Experience with secrets management and network isolation
+    strategies.
+  - Cost optimization and performance tuning in cloud-native
+    environments.
+  - Experience operating distributed systems at scale.
+  
+  C. AI / ML & Agentic Systems
+  
+  - Experience building or integrating LLM-based applications.
+  - Knowledge of RAG architectures, embeddings, and vector
+    databases.
+  - Experience with frameworks such as LangChain, LangGraph,
+    CrewAI, or AutoGen.
+  - Familiarity with Databricks-based ML pipelines.
+  - Understanding of MLOps / LLMOps, model lifecycle management,
+    and observability.
+  - Experience designing multi-agent or agentic workflows.
+  - NLP or language-centric AI experience.
+  
+  Who You Are
+  
+  - You combine strong software engineering fundamentals with
+    modern cloud capabilities.
+  - You are comfortable moving between frontend, backend,
+    infrastructure, and AI integration.
+  - You think in systems, not just features.
+  - You take ownership from design to production.
+  
+  You are pragmatic and and able to make sound architectural
+  trade-offs.
+industries:
+  - Robotics
+  - Automation
+  - Manufacturing
+posted_date: 2026-03-23
+url: "https://builtin.com/job/senior-full-stack-engineer-cloud-ai-applications/8714772"
+source: Built In

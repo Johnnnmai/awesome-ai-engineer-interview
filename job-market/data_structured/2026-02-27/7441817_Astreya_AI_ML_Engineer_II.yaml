@@ -1,0 +1,54 @@
+company:
+  name: Astreya
+  stage: null
+  focus: IT services and AIOps automation
+position:
+  title: AI / ML Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying
+      AI/ML systems, including fine-tuning LLMs, developing ML
+      models for anomaly detection, and creating AI agents for NOC
+      operations. The position requires direct implementation of
+      AI solutions, not just enabling infrastructure for others.
+  responsibilities:
+  - Lead the evaluation, fine-tuning, and integration of open-source Large Language
+    Models (LLMs) like Llama series & other LLMs
+  - Develop and train machine learning models for tasks such as anomaly detection,
+    predictive maintenance, and capacity planning in IT environments
+  - Collaborate with engineering and data teams to design and architect scalable AI
+    solutions including automated network diagnostics, bot recommendation systems,
+    and AI agents for NOC operations
+  - Act as Solution Owner in Agile/Scrum environment, managing product backlog, writing
+    user stories, and prioritizing features
+  - Develop and own key components of automation framework, including PowerShell and
+    Python runbook executors
+  - Work with large datasets of IT operational data, performing data cleaning, feature
+    engineering, and data analysis
+  - Engage with customers, IT operators, and stakeholders to gather requirements and
+    validate solutions
+  - Serve as Subject Matter Expert on AIOps, IT Process Automation, and Runbook Automation
+  use_cases:
+  - Automated network diagnostics for IT infrastructure
+  - Bot recommendation systems for IT operations
+  - AI agents for NOC (Network Operations Center) operations
+  - Anomaly detection in IT environments
+  - Predictive maintenance for IT systems
+  - Capacity planning for IT infrastructure
+  skills:
+    genai: [LLM fine-tuning, Llama, GPT-4, AI Agents]
+    ml: [PyTorch]
+    web: []
+    databases: []
+    data: [Data cleaning, Feature engineering]
+    cloud: [Azure, GCP]
+    ops: [Docker, Kubernetes]
+    languages: [Python, PowerShell, Shell Script, Java]
+    domains: []
+    other: [ITIL]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7441817'
+  extracted_at: '2026-03-03T11:14:52.290722'

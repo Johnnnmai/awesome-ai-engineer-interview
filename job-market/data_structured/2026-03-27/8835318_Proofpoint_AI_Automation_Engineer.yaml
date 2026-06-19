@@ -1,0 +1,56 @@
+company:
+  name: Proofpoint
+  stage: Public
+  focus: |-
+    Human-centric cybersecurity protecting email, cloud, and
+    collaboration tools
+position:
+  title: AI & Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying AI agents, Copilot
+      extensions, plugins, and workflows, implementing NLP models,
+      and creating chatbots and conversational interfaces. The
+      engineer will directly work with generative AI features and
+      machine learning models, making this a hands-on AI
+      development role.
+  responsibilities:
+  - Develop and deploy Copilot Extensions, Plugins, AI Agents, and workflows leveraging
+    HR and Workday data
+  - Build secure, governed prompts and knowledge bases for HR use cases including
+    policies, processes, and onboarding
+  - Implement HR-focused NLP models for summarization, classification, data extraction,
+    Q&A, and document generation
+  - Develop chatbots and conversational interfaces integrated with HR data sources
+  - Apply machine learning techniques to enhance predictions for attrition risk, workforce
+    planning, and employee sentiment
+  - Integrate AI tools with Workday, document repositories, and enterprise data systems
+  - Partner with HR leaders to identify AI innovation opportunities and automate manual
+    processes
+  - Monitor model performance and user adoption; implement improvements and troubleshoot
+    production issues
+  use_cases:
+  - HR process automation for Employee Relations, Talent Acquisition, and HR Operations
+  - Employee onboarding and knowledge management assistance
+  - Workforce planning and attrition risk prediction
+  - Employee sentiment analysis and insights
+  - HR document generation and Q&A systems
+  - Conversational HR support and chatbot interfaces
+  skills:
+    genai: [Microsoft Copilot, Azure AI Services, OpenAI models, AI agents, Chatbots,
+      Copilot Studio, Azure OpenAI, Prompt engineering, RAG]
+    ml: [NLP, Machine learning, Semantic search]
+    web: [REST APIs]
+    databases: []
+    data: [Data pipelines]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [JSON, Workday, Power Platform, Graph connectors]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8835318'
+  extracted_at: '2026-03-27T14:13:11.668764'

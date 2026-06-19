@@ -1,0 +1,51 @@
+company:
+  name: Frazier & Deeter, LLC
+  stage: Established
+  focus: |-
+    Accounting and advisory firm serving global clients with
+    tax, audit, and advisory services
+position:
+  title: Agentic AI Developer / Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role focuses on building agentic AI systems using
+      Microsoft Copilot Studio and integrating AI capabilities
+      into applications. The developer will implement AI-driven
+      document parsing, policy validation, and automated decision-
+      making using generative AI tools - this is hands-on work
+      deploying and implementing AI/agent solutions.
+  responsibilities:
+  - Design and implement AI-augmented automations using Microsoft Copilot Studio and
+    Power Automate
+  - Develop solutions that streamline manual tasks across compliance, audit, and operational
+    workflows
+  - Leverage AI tools to parse documents, validate policies, and automate routine
+    decision-making steps
+  - Integrate agentic AI capabilities into existing applications to enhance firm productivity
+  - Work within CI/CD pipelines ensuring code is reviewed, tested, and deployed
+  - Collaborate with internal development teams to align AI solutions with broader
+    initiatives
+  - Document automation designs, conduct testing, and iterate based on feedback
+  use_cases:
+  - Document parsing and policy validation for accounting workflows
+  - Compliance and audit process automation
+  - Operational workflow streamlining for accounting firm
+  - Automated decision-making for routine business tasks
+  - Firm-wide productivity enhancement through agentic AI
+  skills:
+    genai: [Microsoft Copilot Studio, Generative AI tools]
+    ml: []
+    web: [RESTful APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD pipelines, Version control]
+    languages: [Python]
+    domains: []
+    other: [Power Automate, Low-code/no-code platforms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8767899'
+  extracted_at: '2026-03-27T14:00:25.151586'

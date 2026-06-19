@@ -1,0 +1,52 @@
+company:
+  name: Sift Healthcare
+  stage: Series B
+  focus: Healthcare payments intelligence and analytics platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is clearly an ai-first role focused on building,
+      deploying, and optimizing AI/ML systems including LLMs, RAG
+      pipelines, and deep learning models for healthcare payment
+      applications. The role involves hands-on work with
+      transformer architectures, embeddings, clustering, and GenAI
+      techniques in production.
+  responsibilities:
+  - Utilize and deploy LLMs for clinical decision support and revenue-cycle automation
+    with systematic evaluation and monitoring
+  - Build and optimize RAG pipelines including document ingestion, chunking, embeddings,
+    and retrieval with evaluation frameworks
+  - Research, develop, and optimize deep learning models for healthcare revenue-cycle
+    applications using embedding architectures
+  - Design deep clustering pipelines leveraging HDBSCAN and IDEC for scalable representation
+    learning
+  - Ensure HIPAA-compliant handling of PII/PHI data and uphold rigorous code quality
+    standards
+  - Partner with Data Scientists, ML & Dev Ops, Engineers, and Product teams to integrate
+    deep learning capabilities
+  - Test hypotheses and present findings to upper management both internally and externally
+  use_cases:
+  - Clinical decision support for healthcare organizations
+  - Revenue-cycle automation and optimization
+  - Healthcare payment outcome prediction and analytics
+  - Clinical documentation understanding and analysis
+  - Denials and payer communications processing
+  skills:
+    genai: [LLMs, Prompt engineering, RAG]
+    ml: [PyTorch, TensorFlow, Embeddings, Transformer architectures, TitanV2, ClinicalBERT,
+      HDBSCAN, IDEC]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [LLM evaluation and monitoring, Docker, Kubernetes, CI/CD, Git]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8843511'
+  extracted_at: '2026-03-27T14:53:13.730727'

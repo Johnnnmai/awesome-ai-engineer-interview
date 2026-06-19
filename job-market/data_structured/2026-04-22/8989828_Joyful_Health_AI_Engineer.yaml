@@ -1,0 +1,58 @@
+company:
+  name: Joyful Health
+  stage: Seed
+  focus: |-
+    AI-powered financial operating system for healthcare
+    practices
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building an agentic AI platform that
+      uses multi-agent workflows, RAG systems, LLM fine-tuning,
+      and prompt engineering to autonomously resolve insurance
+      claim denials. The engineer will architect, design, and
+      implement AI agents and orchestration frameworks — hands-on
+      work with LLMs and AI systems.
+  responsibilities:
+  - Design and build the architecture for the agentic AI system that autonomously
+    resolves insurance claim denials
+  - Develop specialized AI agents for denial classification, root cause analysis,
+    evidence retrieval, policy reasoning, and appeal generation
+  - Implement multi-agent orchestration frameworks that coordinate complex workflows
+    across research, decision-making, and document generation
+  - Build and optimize RAG systems to retrieve relevant clinical documentation, billing
+    records, and payer policy information
+  - Create evaluation frameworks and feedback loops to continuously improve agent
+    performance and reliability
+  - Design prompt engineering strategies and fine-tuning approaches to optimize LLM
+    behavior for healthcare billing workflows
+  - Work closely with billing managers to understand denial resolution workflows and
+    translate them into agent behaviors
+  - Collaborate with the engineering team on production infrastructure for deploying
+    and monitoring AI agents at scale
+  use_cases:
+  - Automated resolution of insurance claim denials for healthcare practices
+  - Denial classification and root cause analysis
+  - Evidence gathering from clinical documentation and billing records
+  - Automated appeal letter generation
+  - Policy reasoning across payer rules
+  - Revenue recovery for healthcare practices
+  skills:
+    genai: [LangChain, LLM agents, Multi-agent orchestration, RAG, Prompt engineering,
+      LLM fine-tuning]
+    ml: [PyTorch, TensorFlow, JAX]
+    web: [REST APIs]
+    databases: [Vector databases, Semantic search]
+    data: []
+    cloud: []
+    ops: [MLOps, Model versioning, A/B testing, Evaluation frameworks]
+    languages: [Python]
+    domains: [Healthcare data / medical billing workflows]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8989828'
+  extracted_at: '2026-04-22T12:31:56.666089'

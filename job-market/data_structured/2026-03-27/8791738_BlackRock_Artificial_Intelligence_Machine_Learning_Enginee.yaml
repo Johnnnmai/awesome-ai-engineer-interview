@@ -1,0 +1,56 @@
+company:
+  name: BlackRock
+  stage: Public
+  focus: |-
+    Investment management and financial technology platform
+    (Aladdin)
+position:
+  title: Artificial Intelligence & Machine Learning Engineer, Associate
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves developing and deploying LLM-powered and
+      agentic AI systems from concept through production, building
+      AI/ML platform services, and implementing AI solutions using
+      frameworks like LangChain and LlamaIndex. The position is
+      hands-on with building AI applications and agents, not just
+      supporting infrastructure for others.
+  responsibilities:
+  - Design and build the next generation of Aladdin's AI-enabled investment management
+    platform
+  - Build, evolve, and extend AI/ML platform services leveraging existing AI infrastructure
+    and frameworks
+  - Design, implement, and integrate scalable APIs and microservices to support AI-driven
+    use cases
+  - Develop and deploy LLM-powered and agentic AI systems from concept through production
+  - Translate business and functional requirements into robust, scalable technical
+    designs
+  - Collaborate with product engineering, data science, and platform teams to deliver
+    end-to-end AI solutions
+  - Apply strong software engineering practices across the SDLC including design reviews,
+    code reviews, testing, and documentation
+  - Contribute to platform resilience and operational stability through monitoring,
+    debugging, and Level-2 production support
+  use_cases:
+  - AI-driven investment management platform
+  - Intelligent investment lifecycle and research workflows
+  - Investment operations automation
+  - Data science workflow enablement
+  - Scalable AI solutions across Aladdin application ecosystem
+  skills:
+    genai: [LangChain, LlamaIndex, Semantic Kernel, Google Agent Development Kit,
+      LLMs, AI Agents, Prompt Engineering, Agentic AI architectures]
+    ml: [ML model evaluation]
+    web: [REST APIs, Microservices]
+    databases: [Faiss, Chroma, Vector databases, Cassandra]
+    data: [Kafka]
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, Kubernetes, MLOps]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8791738'
+  extracted_at: '2026-03-27T14:41:18.359546'

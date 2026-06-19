@@ -1,0 +1,55 @@
+company:
+  name: NISC
+  stage: Established
+  focus: Enterprise software for utilities and broadband providers
+position:
+  title: Software Engineer - AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is clearly an ai-first role focused on building and
+      deploying production AI systems. The engineer will work
+      directly with LLMs, RAG pipelines, agentic workflows, fine-
+      tuning, and multi-agent systems - all core AI/ML development
+      activities, not support functions.
+  responsibilities:
+  - Design, architect, develop, and deploy AI-powered features and applications using
+    LLMs, RAG pipelines, and agentic workflows
+  - Take AI solutions from concept to production, prototyping quickly and iterating
+    based on user feedback
+  - Integrate foundation models, fine-tuned models, and multi-agent systems into enterprise-grade
+    applications
+  - Design and optimize data ingestion pipelines, embeddings workflows, and vector
+    database implementations
+  - Deploy AI systems that are resilient, observable, and cost-efficient in production
+    environments
+  - Partner with product, architecture, and engineering teams to embed AI capabilities
+    across the enterprise platform
+  - Actively explore new AI capabilities and evaluate how they can improve products
+    and development practices
+  - Ensure AI solutions are practical and aligned with operational realities of utilities
+    and broadband providers
+  use_cases:
+  - Customer service interactions for utilities and broadband providers
+  - Operational workflow automation for energy and communication organizations
+  - Intelligent automation at scale for enterprise software
+  - AI-powered features embedded in mission-critical utility and broadband software
+  - End customer support for residential and business services (power, internet, TV,
+    telephone)
+  skills:
+    genai: [LLMs, RAG pipelines, Agentic workflows, Prompt engineering, Multi-agent
+        systems, Embeddings workflows]
+    ml: [Fine-tuning, PyTorch, TensorFlow]
+    web: [API development, Scalable backend services]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Model monitoring, Observability tools, Evaluation frameworks]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8613317'
+  extracted_at: '2026-03-27T15:31:39.749361'

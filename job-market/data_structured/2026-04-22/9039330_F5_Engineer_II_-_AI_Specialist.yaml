@@ -1,0 +1,54 @@
+company:
+  name: F5
+  stage: Public
+  focus: Application security, delivery, and networking solutions
+position:
+  title: Engineer II - AI Specialist
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing, developing, and
+      deploying AI-powered services and intelligent agents using
+      GPT models for F5 products. The engineer will build agentic
+      workflows, optimize AI systems, and integrate LLM-based
+      solutions, which constitutes hands-on work building and
+      deploying AI models and agents.
+  responsibilities:
+  - Design, develop, and deploy AI-powered services enabling agent-driven workflows
+    for F5 products
+  - Build intelligent agents and design workflows utilizing GPT models for automation
+    in F5 systems
+  - Maintain, optimize, and support F5's internal AI systems including GPT-based implementations
+  - Collaborate with product teams, IT departments, and vendors to integrate AI-driven
+    agents across diverse environments
+  - Develop observability tools, monitoring systems, and automation frameworks to
+    enhance AI model reliability
+  - Coordinate with platform teams to improve CI/CD environments with AI-focused automation
+  - Explore emerging AI technologies and frameworks to integrate innovative solutions
+    into F5 products
+  - Ensure compliance with architecture standards, security policies, and define AI
+    development lifecycle processes
+  use_cases:
+  - Agent-driven workflow automation for F5 networking and security products
+  - Intelligent agents for automation and advanced capabilities in enterprise systems
+  - GPT-powered services for application security and delivery optimization
+  - AI-driven conversational systems and agent-building workflows
+  - AI model reliability monitoring and observability at scale
+  skills:
+    genai: [GPT models (GPT-4.x APIs), Agentic workflows, LangChain, RASA, Dialogflow,
+      Prompt engineering]
+    ml: [TensorFlow, PyTorch, Keras, Hugging Face Transformers, Reinforcement learning]
+    web: [RESTful APIs]
+    databases: [PostgreSQL, MS SQL, MongoDB]
+    data: [Apache Spark, Airflow, Dask]
+    cloud: [Azure, AWS, GCP]
+    ops: [Kubernetes, Docker, Terraform, Ansible, Helm, CI/CD, Prometheus, Grafana,
+      Datadog, GitLab, Jenkins, OpenShift, MLOps]
+    languages: [Python, JavaScript, Go, Shell scripting, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9039330'
+  extracted_at: '2026-04-22T13:50:47.653121'

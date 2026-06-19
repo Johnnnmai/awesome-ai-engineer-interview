@@ -1,0 +1,57 @@
+company:
+  name: Flexera
+  stage: null
+  focus: |-
+    Technology spend optimization through ITAM and FinOps SaaS
+    solutions
+position:
+  title: Senior Software Engineer - AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying
+      generative AI systems including LLM applications with Amazon
+      Bedrock, AI agents with Bedrock Agents, RAG architectures
+      with vector search, and production ML pipelines. The
+      engineer works directly on implementing and deploying AI/ML
+      models and systems, not just supporting infrastructure for
+      others.
+  responsibilities:
+  - Build production applications using Amazon Bedrock models including Claude, Titan,
+    Llama, and Mistral
+  - Develop AI agents using Bedrock Agents, action groups, guardrails, and Prompt
+    Flow orchestration
+  - Design and implement RAG architectures with vector search using OpenSearch Serverless
+    and pgvector
+  - Develop embedding pipelines, chunking strategies, hybrid search, re-ranking, and
+    metadata filtering
+  - Build serverless AI systems using Lambda, API Gateway, Step Functions, and EventBridge
+  - Develop ML pipelines using SageMaker, Feature Store, and SageMaker Pipelines
+  - Design data pipelines using Glue, Athena, and Redshift
+  - Create CI/CD pipelines, implement model testing, monitoring, and deployment strategies
+  use_cases:
+  - Enterprise cost optimization and spend analysis
+  - Technology value optimization and insights
+  - Compliance and risk assessment
+  - Conversational AI systems
+  - Document processing and analysis
+  - Recommendation systems
+  skills:
+    genai: [Claude, LangChain, LlamaIndex, Semantic Kernel, RAG, Prompt engineering,
+      AI agents]
+    ml: [PyTorch, TensorFlow, Hugging Face]
+    web: [FastAPI, Flask, Django]
+    databases: [OpenSearch Serverless, pgvector, Aurora PostgreSQL, Amazon RDS, Vector
+        databases, Amazon Redshift]
+    data: [AWS Glue, Amazon Athena, Databricks]
+    cloud: [Amazon Bedrock, AWS Lambda, Amazon API Gateway, AWS Step Functions, Amazon
+        EventBridge, Amazon SageMaker, SageMaker Feature Store, Azure]
+    ops: [AWS CDK, CloudFormation, GitHub Actions, Docker, CloudWatch, AWS X-Ray]
+    languages: [Python, SQL]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8834789'
+  extracted_at: '2026-03-27T15:54:14.003352'

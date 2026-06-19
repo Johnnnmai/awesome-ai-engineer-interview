@@ -1,0 +1,41 @@
+company:
+  name: Work Bests
+  stage: unknown
+  focus: unknown
+position:
+  title: Artificial Intelligence Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on traditional ML/DL model development
+      using TensorFlow, PyTorch, and Keras, with emphasis on NLP
+      and computer vision models. There's no mention of LLMs,
+      agents, RAG, or GenAI-specific tools, indicating this is a
+      traditional ML engineering role.
+  responsibilities:
+  - Design and develop AI and machine learning models using Python, TensorFlow, and
+    Keras
+  - Collaborate with cross-functional teams to integrate AI models with existing systems
+  - Develop and implement natural language processing (NLP) and computer vision models
+  - Optimize AI models for performance, scalability, and reliability
+  - Stay up-to-date with emerging AI trends and technologies
+  use_cases:
+  - Natural language processing applications
+  - Computer vision applications
+  - Business growth through AI model deployment
+  skills:
+    genai: []
+    ml: [TensorFlow, Keras, PyTorch, Machine Learning Algorithms, Statistical Modeling]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS SageMaker, Google Cloud AI Platform]
+    ops: []
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8599811'
+  extracted_at: '2026-03-03T12:06:15.592545'

@@ -1,0 +1,57 @@
+company:
+  name: Justworks
+  stage: Late-stage private/Public
+  focus: HR and payroll solutions platform for small businesses
+position:
+  title: Senior AI Operations Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly deploying, managing, and
+      optimizing AI infrastructure, models, and pipelines in
+      production. The engineer architects AI workflows,
+      monitors/retrains models, and operationalizes both ML and
+      generative AI technologies — making this hands-on AI/ML
+      systems work, not just supporting infrastructure for others.
+  responsibilities:
+  - Architect, deploy, and manage AI infrastructure, workflows, and automations that
+    power IT and internal operations
+  - Develop, monitor, and optimize AI models and pipelines used for IT support automation,
+    knowledge retrieval, and internal tooling
+  - Integrate AI and automation tools into Justworks' SaaS ecosystem including Okta,
+    Slack, Atlassian, and other enterprise platforms
+  - Define and maintain standard operating procedures for AI workflows including monitoring,
+    model retraining, and incident response
+  - Collaborate with cross-functional teams to assess opportunities for automation
+    using LLMs, RPA, and AI service APIs
+  - Partner with IT Systems, Data Engineering, and Security teams to ensure responsible,
+    compliant, and ethical AI deployment
+  - Serve as a subject matter expert and mentor on AI operations practices, guiding
+    the IT team through adoption and experimentation
+  - Contribute to internal documentation, training, and governance frameworks for
+    AI systems across the organization
+  use_cases:
+  - IT support automation using AI-driven workflows
+  - Internal knowledge retrieval powered by AI models
+  - Enterprise SaaS platform integration and automation (Okta, Slack, Atlassian)
+  - Internal tooling enhancement through AI and automation
+  - LLM-based and RPA automation opportunities assessment across the organization
+  - AI governance and compliance framework implementation
+  skills:
+    genai: [LangChain, LLM-based applications, RPA (Robotic Process Automation), AI
+        workflow orchestration]
+    ml: []
+    web: [API integrations]
+    databases: []
+    data: [Airflow, Prefect]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, CI/CD, Docker, Model monitoring and retraining]
+    languages: [Python]
+    domains: []
+    other: [Okta, Atlassian, Slack, BetterCloud, Torq, Zapier for Enterprise, Automation
+        scripting]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8932875'
+  extracted_at: '2026-04-22T12:54:55.678076'

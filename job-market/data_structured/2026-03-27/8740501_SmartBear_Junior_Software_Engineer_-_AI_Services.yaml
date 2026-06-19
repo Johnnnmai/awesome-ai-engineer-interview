@@ -1,0 +1,51 @@
+company:
+  name: SmartBear
+  stage: Late Stage / PE-backed
+  focus: |-
+    Software quality assurance, test automation, API lifecycle
+    management, and observability
+position:
+  title: Junior Software Engineer - AI Services
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI and MCP-style workflows with
+      Agentic AI offerings, requiring hands-on work with
+      LLM/agent-based systems like LangChain/LangGraph. The
+      engineer will directly implement and deploy AI-powered
+      products and services, not just support infrastructure for
+      AI work.
+  responsibilities:
+  - Build new products and services including MCP framework with Agentic AI offerings
+    in API Design, Testing, and Observability domains
+  - Develop AI and MCP-style workflows atop existing SmartBear products
+  - Rapidly validate feasibility of new AI use cases from research ideas
+  - Maintain appreciation for end-user product experience and inform system implementation
+    trade-offs
+  - Perform code reviews across front-to-back-end stack ensuring high engineering
+    quality
+  - Deliver working code on-time and own the experience post-production
+  - Measure success and iterate on technical designs to improve overall product experience
+  use_cases:
+  - Agentic AI offerings for software development lifecycle automation
+  - AI-driven workflows for API design and management
+  - AI-powered testing automation
+  - Observability capabilities enhanced with generative AI
+  - MCP (Model Context Protocol) framework implementations
+  skills:
+    genai: [LangChain, LangGraph, LLM systems, Agent-based systems, MCP (Model Context
+        Protocol)]
+    ml: []
+    web: [Flask, FastAPI, HTTP, REST APIs, HTML/CSS, Full-stack development]
+    databases: [NoSQL databases, Vector databases]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, GitHub]
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8740501'
+  extracted_at: '2026-03-27T13:47:02.460463'

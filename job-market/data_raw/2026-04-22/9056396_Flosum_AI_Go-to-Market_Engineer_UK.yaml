@@ -1,0 +1,165 @@
+job_id: 9056396
+title: AI Go-to-Market Engineer (UK)
+company: Flosum
+location: GBR
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Gong
+  - JavaScript
+  - Marketo
+  - Outreach
+  - Python
+  - Salesforce
+company_size: 62 Employees
+description: |
+  Flosum is a Salesforce-native DevOps and data protection
+  platform serving enterprise Salesforce teams across the
+  Fortune 5000. We are in wartime. Pipeline generation,
+  retention, and product velocity are our three highest-
+  priority problems, and AI is the lever that accelerates all
+  three. We are hiring our first AI Go-to-Market Engineer to
+  architect, deploy, train, and continuously optimize AI
+  agents and automation across the entire revenue engine —
+  from first touch to closed-won to expansion.
+  
+  This is not a "prompt engineering" role. This is a builder
+  role. You will sit at the intersection of revenue
+  operations, sales, marketing, and customer success, and your
+  job is to make every human on the GTM team dramatically more
+  productive by deploying AI systems that generate pipeline,
+  accelerate deals, and reduce churn. You report directly to
+  the CEO.
+  
+  WHAT THIS ROLE MUST DO TO CHANGE FLOSUM'S TRAJECTORY
+  
+  - Deploy and personally train at least one AI SDR agent within
+    the first 30 days — focused on either inbound
+    qualification from Qualified/Marketo or outbound
+    prospecting via Outreach — and run weekly refinement
+    cycles until it outperforms the bottom half of the human
+    BDR bench.
+  - Build an AI-powered inbound qualification system that
+    captures, scores, and routes every website visitor and
+    form fill in real time so no lead waits, no lead gets
+    lost, and AEs only touch prospects that are ready to buy.
+  - Increase revenue-generating time per AE from the current
+    ~25% to 50%+ by automating CRM hygiene, call summarization
+    (via Gong), follow-up sequencing, proposal drafting, and
+    pipeline updates — eliminating every minute of admin work
+    that doesn't directly produce revenue.
+  - Architect the AI layer across Flosum's GTM stack
+    (Salesforce, Marketo, Outreach, Qualified, Gong) so that
+    data flows between systems without manual intervention,
+    every customer touchpoint is captured, and AI agents share
+    learnings in a virtuous loop with Salesforce as the hub.
+  - Build and maintain an AI-driven competitive intelligence
+    engine that monitors our competition, pricing changes, and
+    product launches — and feeds structured insights to sales
+    and product weekly.
+  - Create hyper-personalized outbound campaigns at 10x current
+    volume without proportional headcount increase — using AI
+    to research accounts, generate personalized messaging
+    based on ICP signals (Salesforce team size, current DevOps
+    tooling, compliance requirements like DORA), and sequence
+    multi-channel touches across email, LinkedIn, and phone.
+  - Instrument a closed-loop data feedback system between BDR
+    activity, pipeline outcomes, and AI agent performance so
+    that ICP targeting, messaging, and channel mix improve
+    every week based on actual conversion data — not
+    guesswork.
+  - Deploy AI-assisted customer health scoring and churn
+    prediction models that flag at-risk accounts before
+    renewal, feeding Terry's CS team with actionable
+    intervention triggers tied to usage data, support ticket
+    patterns, and engagement signals.
+  - Prototype AI-powered product-led growth touchpoints —
+    including conversational qualification on the website,
+    self-serve onboarding assistance, and automated nurture
+    for trial users — supporting the PLG motion as it matures.
+  - Evaluate, select, and deploy no more than two AI vendors per
+    use case using a structured bakeoff methodology: reference
+    checks via email, FDE conversations before contract, and
+    30-day dedicated training commitments — no lazy agency
+    deployments.
+  
+  Requirements
+  
+  Hands-on experience deploying and training AI SDR/BDR agents
+  in a real B2B sales environment — not evaluating, not
+  advising, actually deploying and iterating weekly for at
+  least 90 days.
+  
+  Deep working knowledge of the modern B2B GTM stack —
+  specifically Salesforce (as CRM and data hub), Marketo or
+  equivalent MAP, Outreach or Salesloft, Gong or Chorus, and
+  real-time chat/qualification tools like Qualified or Drift.
+  
+  Ability to write and maintain production integrations —
+  Python, JavaScript, or equivalent — connecting AI agents to
+  CRM, MAP, and sequencing tools via APIs. You don't need to
+  be a software engineer, but you need to ship working code,
+  not just configure no-code tools.
+  
+  Understanding of pipeline math and unit economics: you
+  should be able to work backward from a revenue target to
+  SQLs required, conversion rates by stage, and the specific
+  AI interventions that move each number. If someone says "we
+  need 67 SQLs per quarter at 20% win rate and $75K ASD," you
+  should immediately know where AI can compress that funnel.
+  
+  Experience with AI agent orchestration — managing multiple
+  AI agents working different segments or functions
+  simultaneously, resolving conflicts, preventing duplicate
+  outreach, and maintaining data quality in the hub
+  (Salesforce).
+  
+  Demonstrated ability to build prompt libraries, training
+  datasets, and refinement workflows for AI agents — treating
+  agent training as a discipline, not a one-time setup.
+  
+  Comfort operating in a company doing ~$4M ARR with a small,
+  high-intensity team. You will not have a large support
+  staff. You will do the work yourself and scale through
+  automation, not delegation.
+  
+  Strong opinions on when AI should replace human effort
+  versus augment it — and the judgment to know that bad AI
+  automation destroys deals faster than no automation at all.
+  
+  Familiarity with the Salesforce ecosystem — understanding of
+  DevOps, CI/CD, data protection, and compliance workflows is
+  a major advantage. You don't need to be a Salesforce admin,
+  but you need to understand what our buyers care about and
+  why
+  
+  Benefits
+  
+  Why Flosum
+  
+  - Category-defining opportunity: You will shape the future of
+    how enterprises build on Salesforce. This is not
+    incremental; it is transformational.
+  - Direct CEO partnership: You will work shoulder-to-shoulder
+    with a founder who is deeply technical, product-obsessed,
+    and committed to building the best platform in the
+    Salesforce ecosystem.
+  - Fortune 100 customer base: Your product decisions will
+    directly impact how the world's largest and most complex
+    organizations operate.
+  - AI inflection point: Agentforce and autonomous agents are
+    rewriting the rules. Flosum is the first native platform
+    to integrate these capabilities. You will define what
+    comes next.
+  - Missionary culture: We hire people who want to make a dent,
+    not pad a resume. If you are looking for a place where
+    your work matters and your ideas are heard, this is it.
+  
+  Compensation & Benefits
+  
+  - Competitive base salary + performance bonus
+  - Direct access to Salesforce ecosystem events, conferences
+    (Dreamforce, TrailblazerDX), and customer engagement
+posted_date: 2026-04-15
+url: "https://builtin.com/job/ai-go-market-engineer-uk/9056396"
+source: Built In

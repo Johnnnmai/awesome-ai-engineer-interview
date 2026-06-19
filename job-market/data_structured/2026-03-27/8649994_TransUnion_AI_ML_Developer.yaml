@@ -1,0 +1,59 @@
+company:
+  name: TransUnion
+  stage: Public
+  focus: Global credit reporting and data analytics services
+position:
+  title: AI ML Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, fine-tuning, and
+      deploying LLMs, RAG pipelines, and GenAI solutions. Key
+      responsibilities include LLM fine-
+      tuning/evaluation/deployment, building LangChain/LangGraph
+      pipelines, designing retrieval pipelines, and architecting
+      end-to-end AI platforms with agents and vector search.
+  responsibilities:
+  - Architect end-to-end AI platforms integrating LLMs, RAG, streaming, vector search,
+    and CI/CD via Python services and Java microservices
+  - Lead LLM fine-tuning, evaluation, and deployment; design retrieval pipelines using
+    Elasticsearch/OpenSearch and vector stores
+  - Build LangChain4j and LangChain/LangGraph pipelines including prompts, tools,
+    and agents for AI workflows
+  - Define architecture standards for REST/gRPC APIs, security, observability, and
+    SLIs/SLOs across AI systems
+  - Optimize embeddings, chunking, retrieval/ranking for latency, precision, and cost
+    with caching and batching strategies
+  - Guide deployments on AWS/GCP/Azure using Docker, Kubernetes, and managed ML services
+  - Establish coding, versioning, monitoring, and governance standards for ML systems
+    with reproducibility practices
+  - Mentor engineers, data scientists, and architects; contribute reusable assets
+    and reference implementations
+  use_cases:
+  - Enterprise-scale GenAI solution delivery
+  - LLM applications with RAG pipelines
+  - Real-time AI/ML processing systems
+  - Cloud-native AI services
+  - Responsible AI implementation with fairness and compliance
+  - Cross-platform AI integration across Python and Java ecosystems
+  skills:
+    genai: [LangChain, LangGraph, LangChain4j, RAG, LlamaIndex, CrewAI, AutoGen, Semantic
+        Kernel, Spring AI, MCP, vLLM, Ollama, Langfuse, TruLens]
+    ml: [PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, DJL, ONNX Runtime,
+      Spark MLlib]
+    web: [FastAPI, Flask, Spring Boot, Quarkus, Micronaut, REST, gRPC, Vert.x, Netty]
+    databases: [pgvector, Pinecone, Weaviate, Milvus, Qdrant, Chroma, Elasticsearch,
+      OpenSearch, Vespa, PostgreSQL, MongoDB, Cassandra, Redis]
+    data: [Kafka, Spark, Databricks]
+    cloud: [GCP, AWS, Azure, Vertex AI, SageMaker, Azure ML, Google ADK]
+    ops: [Docker, Kubernetes, Helm, MLflow, DVC, Terraform, Jenkins, GitHub Actions,
+      Azure DevOps, Istio, Linkerd, KServe, Seldon Core, Ray Serve, OpenTelemetry,
+      Micrometer]
+    languages: [Python, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8649994'
+  extracted_at: '2026-03-27T14:04:06.302589'

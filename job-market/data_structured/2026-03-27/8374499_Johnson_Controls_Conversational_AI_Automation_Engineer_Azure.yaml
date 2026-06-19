@@ -1,0 +1,56 @@
+company:
+  name: Johnson Controls
+  stage: Public
+  focus: |-
+    Building technologies and solutions for smart, sustainable
+    buildings
+position:
+  title: Conversational AI & Automation Engineer (Azure)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying
+      conversational AI systems using Azure Bot Service, Power
+      Virtual Agents, and Copilot Studio. While primarily a
+      DevOps/automation role, it includes direct responsibility
+      for designing conversational flows and implementing AI-
+      powered bots that automate user interactions, which
+      qualifies as ai-first work.
+  responsibilities:
+  - Build and maintain automation using PowerShell, Azure Automation Runbooks, Logic
+    Apps, and Functions
+  - Support CI/CD pipelines in Azure DevOps, including build, release, and deployment
+    automation
+  - Develop and maintain infrastructure-as-code using ARM templates
+  - Create and manage automation workflows for provisioning, monitoring, patching,
+    and routine operational tasks
+  - Work with Conversational AI tools (Azure Bot Service, Power Virtual Agents, Copilot
+    Studio) to automate user interactions and service requests
+  - Integrate bots and automation with backend systems using APIs, webhooks, and Azure
+    services
+  - Troubleshoot automation failures, pipeline issues, and script errors with long-term
+    fixes
+  - Maintain documentation for scripts, workflows, pipelines, and automation processes
+  use_cases:
+  - Automating user interactions and service requests via conversational bots
+  - Cloud infrastructure provisioning and monitoring automation
+  - Operational task automation including patching and routine maintenance
+  - CI/CD pipeline automation for applications and infrastructure
+  - Backend system integration for automated workflows
+  skills:
+    genai: [Azure Bot Service, Power Virtual Agents, Copilot Studio]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [Azure Logic Apps, Azure Functions, Azure Monitor, Microsoft Graph API]
+    ops: [Azure Automation Runbooks, Azure DevOps Pipelines, CI/CD, ARM Templates,
+      Bicep, Terraform, Git]
+    languages: [PowerShell, Python]
+    domains: []
+    other: [ServiceNow]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8374499'
+  extracted_at: '2026-03-27T13:58:20.313520'

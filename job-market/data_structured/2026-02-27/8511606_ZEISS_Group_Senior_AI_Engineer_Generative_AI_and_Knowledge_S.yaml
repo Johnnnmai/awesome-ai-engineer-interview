@@ -1,0 +1,50 @@
+company:
+  name: ZEISS Group
+  stage: Public
+  focus: |-
+    Optics and optoelectronics across medical, research, and
+    industrial applications
+position:
+  title: Senior AI Engineer – Generative AI and Knowledge Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and implementing GenAI
+      systems using LangGraph, RAG, and LLM fine-tuning. The
+      engineer will design AI agent workflows and multi-agent
+      systems, which is hands-on AI/ML development work.
+  responsibilities:
+  - Design and implement cutting-edge generative AI systems using frameworks like
+    LangGraph and RAG
+  - Develop and fine-tune large language models (LLMs) for various applications
+  - Build graph-based knowledge systems and implement semantic search solutions
+  - Design and implement scalable data pipelines and ETL workflows
+  - Create AI agent workflows and multi-agent systems
+  - Develop production-grade AI systems with REST APIs using Python frameworks
+  - Experiment with and implement novel AI techniques and transformer-based NLP models
+  - Collaborate with cross-functional teams and communicate technical concepts to
+    stakeholders
+  use_cases:
+  - Knowledge systems and graph-based information retrieval
+  - Enterprise search and semantic search solutions
+  - AI-driven decision support systems
+  - Natural language processing and text analytics
+  - Intelligent document processing and information extraction
+  skills:
+    genai: [LangGraph, LangChain, RAG, Prompt Engineering, LLM Fine-tuning, AI Agents,
+      Multi-agent Systems, Semantic Search]
+    ml: [NLP, Transformers, PyTorch, TensorFlow, Hugging Face, BERT, GPT, Text Embeddings,
+      Reinforcement Learning]
+    web: [FastAPI, Flask, Django, REST API]
+    databases: [Pinecone, pgvector, Milvus, Vector Databases]
+    data: [Knowledge Graphs, ETL, Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8511606'
+  extracted_at: '2026-03-03T12:38:53.961424'

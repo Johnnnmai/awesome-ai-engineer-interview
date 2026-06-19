@@ -1,0 +1,57 @@
+company:
+  name: Expedia Group
+  stage: Public
+  focus: Global online travel technology and booking platform
+position:
+  title: Senior Machine Learning Engineer (Full-Stack Gen AI & Agentic Systems)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building, training, fine-tuning, and
+      deploying GenAI/LLM systems including RAG pipelines, multi-
+      agent architectures, and multimodal models. The engineer
+      works hands-on with model adaptation (LoRA/QLoRA), RLHF/DPO,
+      agent orchestration frameworks, and ships production-ready
+      AI systems end-to-end.
+  responsibilities:
+  - Architect, build, and ship enterprise-scale GenAI, RAG, and multi-agent systems
+    end-to-end including frontend, backend, and user interfaces
+  - Design hierarchical multi-agent ecosystems with interactive UIs, dashboards, and
+    safety/observability features
+  - Develop memory architectures including short-term contextual memory, long-term
+    episodic memory, knowledge graph augmentation, and adaptive retrieval systems
+  - Lead hands-on implementation of RAG pipelines, vector memory systems, and agent
+    orchestration frameworks
+  - Train, fine-tune, adapt (LoRA/QLoRA/adapters), and distill LLMs including RLHF/DPO
+    for production-ready chatbots and GenAI products
+  - Build multimodal pipelines integrating vision, audio, text, and structured data
+    optimizing for scalability and latency
+  - Collaborate with product and engineering teams to create intuitive user-friendly
+    interfaces and seamless end-to-end user experiences
+  - Mentor engineers and ML scientists, set technical standards, and conduct design
+    reviews
+  use_cases:
+  - Personalized travel discovery powered by AI-driven marketing
+  - Real-time cross-platform campaign execution with agentic automation
+  - Interactive chatbots for travel planning and customer engagement
+  - Trip Matching on Instagram transforming social media content into instant hotel
+    recommendations
+  - Multimodal content understanding across vision, audio, text, and structured data
+    for travel applications
+  skills:
+    genai: [LangChain, AutoGen, OpenAI Agents SDK, RAG, LoRA/QLoRA, RLHF/DPO, LLM
+        fine-tuning and distillation, Multi-agent systems, Prompt engineering]
+    ml: [PyTorch, Distributed GPU training]
+    web: []
+    databases: [Vector databases, Knowledge graphs]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [Container orchestration (Kubernetes), ML tooling and observability]
+    languages: [Python]
+    domains: [NLP, 'Multimodal AI (vision, audio, text)']
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9018591'
+  extracted_at: '2026-04-22T12:27:41.239106'

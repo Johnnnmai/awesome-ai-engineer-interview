@@ -1,0 +1,54 @@
+company:
+  name: Revecore
+  stage: null
+  focus: Healthcare claims management and revenue cycle recovery
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on building, deploying, and
+      orchestrating multi-agent AI systems using LLMs and
+      frameworks like LangChain, AutoGen, and CrewAI. The engineer
+      will design agent workflows, implement guardrails for LLM-
+      driven systems, and deploy supervisor/oracle agents — all
+      hands-on work directly on AI systems.
+  responsibilities:
+  - Design and implement multi-agent AI systems using frameworks such as LangChain,
+    AutoGen, or CrewAI to automate healthcare revenue cycle workflows
+  - Develop and maintain agent orchestration pipelines where agents collaborate, delegate
+    tasks, and synthesize outputs for end-to-end process automation
+  - Integrate AI agents with enterprise systems via APIs and RPA-style interfaces
+    including UI/DOM/vision-based interactions to execute real-world operational tasks
+  - Build and enforce guardrails, validation layers, and compliance checks to ensure
+    safe, deterministic, and auditable behavior of LLM-driven systems
+  - Architect and deploy supervisor (oracle) agents to route tasks, validate sub-agent
+    outputs, and maintain system-wide state and accuracy
+  - Implement logging, tracing, and monitoring frameworks to track agent performance,
+    debug multi-agent interactions, and ensure production reliability
+  - Collaborate cross-functionally with product, engineering, and domain experts to
+    translate healthcare revenue cycle requirements into scalable AI-driven solutions
+  use_cases:
+  - Healthcare revenue cycle workflow automation using multi-agent systems
+  - Accounts receivable (AR) management optimization
+  - Automated interaction with enterprise healthcare billing systems via API and RPA
+  - Compliant and auditable LLM-driven task execution in healthcare
+  - Supervised multi-agent task routing and output validation
+  - Outbound/inbound voice AI communication for healthcare operations
+  skills:
+    genai: [LangChain, AutoGen, CrewAI, Multi-agent orchestration, LLM guardrails,
+      RAG, Prompt engineering, Voice AI agents]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Logging and tracing, Monitoring frameworks]
+    languages: [Python]
+    domains: [Healthcare revenue cycle management]
+    other: [RPA-style UI interaction, DOM parsing, Vision-based computer use]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9019378'
+  extracted_at: '2026-04-22T13:15:01.872605'

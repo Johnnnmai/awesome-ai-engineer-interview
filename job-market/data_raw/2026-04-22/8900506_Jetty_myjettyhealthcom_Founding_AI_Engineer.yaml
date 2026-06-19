@@ -1,0 +1,132 @@
+job_id: 8900506
+title: Founding AI Engineer
+company: Jetty (myjettyhealth.com)
+location: New York, USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Ci/Cd
+  - Go
+  - Java
+  - Llm
+  - Python
+  - Rust
+  - Swift
+company_size: 2 Employees
+description: |
+  Jetty is building the first AI functional health doctor &
+  coach. We're starting with solutions for people living with
+  chronic illness, the hardest use case. Our mission is to
+  help people become their own best advocates by giving them
+  an intelligent partner that evolves with their health
+  journey, helping them understand what their body is telling
+  them.
+  
+  Health data is uniquely hard: personal, messy, and
+  constantly changing. Symptoms ebb and flow rather than
+  turning on and off. Patterns emerge over weeks, not
+  sessions. And the signals that matter—what actually helps
+  someone feel better—are different for everyone.
+  
+  We're building infrastructure to capture and reason about
+  this data in ways that compound over time: rich data
+  modeling, precise timeline handling, and personalization
+  that improves with every interaction. Our approach treats
+  models not as chat interfaces but as components in larger
+  systems—generating artifacts, managing state, and themselves
+  accumulating the signal needed to train specialized models.
+  
+  We’re a small, high-velocity team with big ambition. We move
+  fast, think deeply, and care about substance over hype. If
+  you want to build the definitive personal health
+  intelligence from day one, this is the place. This is our
+  first engineering hire, so you'll work directly with the
+  founding team: a former senior AI leader from Palantir and a
+  former venture investor from NEA.
+  
+  Jetty is backed by the top seed investor in NYC and recently
+  raised over $2M.
+  
+  The Role
+  
+  We're looking for a Founding AI Engineer to build the core
+  systems that make Jetty intelligent — and that make it stay
+  intelligent over months of use.
+  
+  Most LLM products are stateless: every conversation starts
+  from scratch. Jetty is different. We're building
+  infrastructure where every interaction feeds forward — data
+  flows into context, context shapes insight, insight drives
+  value, and value brings people back. Your job is to build
+  the systems that make this loop work: the data pipelines,
+  memory architecture, and context layers that let Jetty
+  surface genuinely novel insights even after months of use.
+  
+  This sits at the intersection of backend engineering and AI-
+  native product development. You'll own API design, database
+  schema, and infrastructure — but the interesting part is
+  figuring out how to make a probabilistic model behave like a
+  reliable, evolving health partner.
+  
+  You’ll be joining a live product with active users, not a
+  blank repo. We have a solid foundation, but the architecture
+  for deep, long-term health intelligence is still being
+  defined—and you’ll help write it.
+  
+  This is a remote or hybrid role (preference for US time
+  zones), with optional in-person time in NYC for
+  collaboration.
+  
+  What You'll Do
+  
+  - Product Development: Build core features that make Jetty a
+    faster, smarter, and more delightful product.
+  - LLM Engineering: Design systems where models are components
+    in larger workflows — not just chat endpoints, but nodes
+    that generate, validate, and compose structured outputs.
+    You'll shape context architecture, memory systems, and the
+    configurations that let intelligence flow through the
+    product.
+  - Infrastructure & Reliability: Work around the full lifecycle
+    of code — CI/CD, deployments, observability. Build systems
+    that scale gracefully and fail safely.
+  - Work with Hard Data: Health data is sparse, vague, and
+    temporal. You'll build systems that extract signal from
+    conversational inputs without imposing false precision.
+  - Build & Iterate: We invest in foundations where they
+    compound, and move fast on everything else. You'll do
+    both.
+  
+  What We're Looking For
+  
+  - 3–6+ years experience as a software engineer.
+  - Strong in Python
+  - Instincts for reliability, scaling, security, and
+    observability.
+  - Comfortable operating in ambiguity and early-stage chaos.
+    You should be comfortable with rapid iteration and high
+    expectations for both speed and quality. As a result,
+    you’ll be able to own meaningful projects end-to-end.
+  - Experience with (or genuine excitement for) creative LLM
+    engineering—not just calling endpoints, but shaping model
+    behavior through context design and system architecture.
+  - Bonus:
+    - Swift, frontend skills, or experience with real-time
+      systems.
+    - Experience with strongly typed or compiled languages (Go,
+      Rust, Java, etc.)
+    - Experience with real-time systems
+  
+  What We Offer
+  
+  - The opportunity to build a product that genuinely changes
+    how people manage their health.
+  - Competitive salary & meaningful equity package.
+  - Real ownership and impact from day one.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Software
+posted_date: 2026-03-30
+url: "https://builtin.com/job/founding-ai-engineer/8900506"
+source: Built In

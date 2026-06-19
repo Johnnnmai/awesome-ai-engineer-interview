@@ -1,0 +1,46 @@
+company:
+  name: Hitachi
+  stage: Public
+  focus: Global digital solutions and transformation services
+position:
+  title: AI/ML Engineer(s)-61060
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on designing, developing, and training
+      ML/DL models using traditional frameworks (TensorFlow,
+      PyTorch, scikit-learn) with no mention of LLMs, agents, or
+      GenAI technologies. The position emphasizes
+      supervised/unsupervised/reinforcement learning and
+      production deployment rather than LLM-based systems.
+  responsibilities:
+  - Design, develop, and train machine learning and deep learning models using TensorFlow,
+    PyTorch, and scikit-learn
+  - Apply supervised, unsupervised, and reinforcement learning techniques to address
+    diverse business challenges
+  - Perform feature engineering and data processing to enhance model performance
+  - Deploy machine learning models into production environments
+  - Integrate models with existing software architectures using CI/CD pipelines
+  - Implement containerization (Docker, Kubernetes) for ML deployments
+  - Build and manage ETL pipelines for data processing
+  use_cases:
+  - Addressing diverse business challenges through ML/DL solutions
+  - Feature engineering and data processing for model optimization
+  - Production ML model deployment and integration
+  - Cloud-based ML infrastructure on AWS or Azure
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn]
+    web: []
+    databases: []
+    data: [ETL]
+    cloud: [AWS, Azure]
+    ops: [Docker, Kubernetes, CI/CD, MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8860925'
+  extracted_at: '2026-03-27T13:12:16.109560'

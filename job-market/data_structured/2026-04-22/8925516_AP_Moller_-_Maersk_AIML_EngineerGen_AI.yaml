@@ -1,0 +1,59 @@
+company:
+  name: A.P. Moller - Maersk
+  stage: Public
+  focus: Global container shipping and integrated logistics services
+position:
+  title: AIML Engineer(Gen AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building and deploying
+      production-grade Generative AI systems, including LLM-
+      powered applications, RAG systems, agentic frameworks, and
+      semantic search. The engineer designs, implements, and
+      deploys these AI solutions hands-on, making it clearly an
+      ai-first role.
+  responsibilities:
+  - Design, implement, and deploy production-grade Generative AI solutions that enhance
+    operational intelligence and automation across terminal workflows
+  - Develop LLM-powered systems including retrieval-based reasoning, AI copilots,
+    and task-oriented AI agents for complex operational environments
+  - Design robust data pipelines enabling reliable context retrieval, semantic understanding,
+    and grounded response generation
+  - Build and maintain end-to-end GenAI solution lifecycles from data preparation
+    through deployment, monitoring, and iteration
+  - Implement structured evaluation frameworks to measure output quality, reliability,
+    latency, cost efficiency, and hallucination risk
+  - Enhance system robustness through prompt design, tool integration, validation
+    layers, and guardrail mechanisms
+  - Collaborate with stakeholders to translate operational challenges into structured
+    AI problem statements with measurable success criteria
+  - Communicate model behavior, limitations, and trade-offs to technical and non-technical
+    audiences
+  use_cases:
+  - Enhancing operational intelligence and automation across container terminal workflows
+  - Optimizing yard flows and vessel operations at global shipping terminals
+  - Building AI copilots and task-oriented agents for decision support in complex
+    operational environments
+  - Automating complex workflows in container shipping logistics
+  - Generating actionable insights from terminal operations data to drive efficiency
+  - Integrating GenAI systems with optimization or simulation models for logistics
+    scheduling
+  skills:
+    genai: [Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Embedding-based
+        semantic search, Prompt engineering, AI agents, Agentic AI frameworks]
+    ml: [Transformer architectures, Deep Learning, Natural Language Processing (NLP),
+      Machine Learning Pipelines]
+    web: []
+    databases: [Vector databases]
+    data: [Apache Spark, Apache Hadoop, Data Engineering, Statistical Analysis]
+    cloud: [Cloud environments]
+    ops: [Model Deployment, Docker, CI/CD, AI observability and governance, MLflow]
+    languages: [Python, SQL, Object-Oriented Programming]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8925516'
+  extracted_at: '2026-04-22T13:57:51.291461'

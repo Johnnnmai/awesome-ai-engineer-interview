@@ -1,0 +1,54 @@
+company:
+  name: PEMCO
+  stage: null
+  focus: |-
+    Mutual insurance company providing auto, home, renters, and
+    boat coverage in the Northwest
+position:
+  title: Senior Databricks AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying AI/ML solutions,
+      operationalizing models into production systems,
+      implementing MLflow tracking, and developing MLOps
+      workflows. The engineer works directly ON ML systems -
+      deploying, monitoring, and scaling models for production use
+      across insurance use cases like underwriting, claims, and
+      fraud detection.
+  responsibilities:
+  - Design and deploy Databricks architecture and workspaces across Dev, Test, and
+    Prod environments
+  - Implement Databricks Lakehouse architecture and integrate with Azure services
+  - Lead implementation of Databricks SQL, Delta Live Tables, and MLflow for scalable
+    experimentation
+  - Develop and maintain automated MLOps workflows for model deployment and monitoring
+  - Build and maintain ETL pipelines using Databricks, Spark, and SQL Server for data
+    ingestion and transformation
+  - Scale data scientist models to handle terabytes of data and build deployment pipelines
+  - Implement logging and observability for AI/ML performance monitoring
+  - Conduct customer workshops to identify requirements and provide architecture design
+    for analytics projects
+  use_cases:
+  - Underwriting optimization for insurance products
+  - Claims processing and analysis
+  - Pricing models for auto, home, renters, and boat coverage
+  - Fraud detection and anomaly identification
+  - Customer engagement and insights
+  skills:
+    genai: [Azure OpenAI]
+    ml: [PyTorch, scikit-learn]
+    web: []
+    databases: [SQL Server, Snowflake]
+    data: [Delta Live Tables, Spark, Power BI, Apache Kafka, ETL]
+    cloud: [Databricks, Azure, Azure Machine Learning, Azure Cognitive Services, Microsoft
+        Fabric, Synapse Analytics, Azure Event Hubs]
+    ops: [MLflow, CI/CD, MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8793427'
+  extracted_at: '2026-03-27T16:00:03.997239'

@@ -1,0 +1,43 @@
+company:
+  name: Checkatrade
+  stage: Growth/Mature
+  focus: |-
+    UK home improvement marketplace connecting homeowners with
+    tradespeople
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying production AI
+      solutions, including agentic workflows and MCP
+      implementations. The position requires hands-on work with AI
+      systems from design through deployment at scale, directly
+      building intelligent systems for the home improvement
+      marketplace.
+  responsibilities:
+  - Deliver production-ready AI solutions that drive results for customers and trades
+  - Identify opportunities where AI can solve complex business problems
+  - Collaborate with cross-functional product teams to integrate intelligent workflows
+  - Ensure platform interactions are smarter and faster through AI integration
+  use_cases:
+  - Home improvement marketplace optimization
+  - Intelligent workflow automation for trades and customers
+  - Smart platform interactions for homeowner confidence
+  - Business process improvement through AI
+  skills:
+    genai: [agentic workflows, MCP, AI algorithms, evals]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD pipelines, version control]
+    languages: [JavaScript, TypeScript]
+    domains: []
+    other: [design patterns]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8633957'
+  extracted_at: '2026-03-27T13:13:57.280049'

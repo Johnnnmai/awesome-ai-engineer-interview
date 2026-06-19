@@ -1,0 +1,51 @@
+company:
+  name: Navan
+  stage: null
+  focus: Travel and expense management platform
+position:
+  title: Senior Software Engineer, AI Assisted Engineering Support
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI agents and assistants that
+      understand codebases, implementing RAG systems for
+      engineering context, and developing agentic workflows using
+      state machines and agent frameworks. The position directly
+      works on LLM-powered systems for code generation, automated
+      refactoring, and intelligent development tools.
+  responsibilities:
+  - Build and scale internal AI engineering assistants for code generation, automated
+    refactoring, and documentation
+  - Implement technical tools for one-shot workflows moving from prototype to production-ready
+    Pull Requests
+  - Develop serialization formats and RAG retrieval systems to provide engineering
+    agents with precise codebase context
+  - Create automated agents for drift detection, visual regression testing, and security
+    scanning
+  - Run experiments across different models using engineering-specific benchmarks
+    to optimize assistant performance
+  - Partner with global teams to integrate AI assistants into developer platforms
+    and telemetry frameworks
+  use_cases:
+  - AI-powered code generation and automated refactoring
+  - Automated documentation generation
+  - One-shot prototype to production-ready PR workflows
+  - Intelligent code review automation
+  - Codebase drift detection and security scanning
+  - IDE-integrated developer assistance
+  skills:
+    genai: [RAG, LLMs, Agent frameworks, State machines, Prompt engineering]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: [IDE extensions]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8415429'
+  extracted_at: '2026-03-03T11:59:38.101855'

@@ -1,0 +1,53 @@
+company:
+  name: GE Appliances
+  stage: Public
+  focus: Home appliances manufacturing and innovation
+position:
+  title: Data & AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI/ML
+      systems including fine-tuning models, implementing RAG,
+      deploying intelligent agents, and developing inference
+      pipelines. The engineer will directly work with LLMs, vector
+      databases, and production AI applications, not just
+      supporting infrastructure.
+  responsibilities:
+  - Build and fine-tune machine learning and deep learning models for NLP, computer
+    vision, and recommendation systems
+  - Develop APIs and microservices for model inference and integration into enterprise
+    applications
+  - Implement scalable training and inference pipelines using distributed computing
+    on GCP
+  - Design, deploy, and manage intelligent agents supporting enterprise workflows
+    using Agent space
+  - Apply retrieval-augmented generation (RAG), embeddings, and vector search techniques
+  - Integrate open-source and commercial LLMs into GCP-hosted applications
+  - Implement monitoring, evaluation, and continuous learning pipelines for AI solutions
+  - Collaborate with data scientists, platform engineers, and business teams to deliver
+    AI-powered solutions
+  use_cases:
+  - Natural language processing applications
+  - Computer vision systems
+  - Recommendation systems
+  - Enterprise workflow automation through intelligent agents
+  - Enterprise decision-making acceleration
+  - AI-powered enterprise applications
+  skills:
+    genai: [LLM integration, RAG (Retrieval-Augmented Generation), Embeddings, OpenAI
+        API, Anthropic Claude, Agent space, Agentic orchestration frameworks]
+    ml: [Hugging Face, Deep learning, Machine learning]
+    web: [APIs and microservices]
+    databases: [BigQuery, Vector databases]
+    data: [Pub/Sub, Distributed computing]
+    cloud: [Google Cloud Platform (GCP), Vertex AI]
+    ops: [MLOps, CI/CD]
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7189699'
+  extracted_at: '2026-03-03T11:29:37.444940'

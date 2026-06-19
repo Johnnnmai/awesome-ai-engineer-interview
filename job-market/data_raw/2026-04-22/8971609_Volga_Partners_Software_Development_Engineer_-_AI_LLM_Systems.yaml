@@ -1,0 +1,188 @@
+job_id: 8971609
+title: Software Development Engineer - AI / LLM Systems (Python Backend)
+company: Volga Partners
+location: IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - .Net Web Api
+  - Asp.Net
+  - AWS
+  - Azure
+  - Bootstrap
+  - "C#"
+  - C/C++
+  - Docker
+  - Entity Framework
+  - JavaScript
+company_size: 396 Employees
+description: |
+  Company: Volga Partners  Location: Fully Remote (Occasional
+  office visits 1–2 times/year) Compensation: ₹23–₹30 LPA
+  (based on experience) Job Type: Full-time Start Date:
+  Urgently hiring — must be available to start within 1–2
+  weeks Work Hours: 8 AM – 5 PM IST or 9 AM – 6 PM IST
+  (Collaboration with USA Pacific Time teams)
+  
+  About the Role
+  
+  Volga Partners is looking for a skilled Software Development
+  Engineer with strong expertise in Python backend systems and
+  AI/LLM applications.
+  
+  In this role, you will build and maintain production-grade
+  AI-powered systems, integrating large language models into
+  real-world workflows. You will work across backend services,
+  orchestration layers, and data pipelines—ensuring that AI
+  features are reliable, scalable, and performant.
+  
+  This is a hands-on engineering role requiring strong
+  problem-solving, system design, and the ability to operate
+  in fast-evolving AI environments.
+  
+  Key Responsibilities
+  
+  - Build and maintain backend services and internal tools in
+    Python for AI-powered applications.
+  
+  - Integrate LLM APIs into production workflows, including
+    prompt handling, response processing, validation, and
+    retries.
+  
+  - Design and implement scalable REST APIs, async workflows,
+    and background job systems.
+  
+  - Maintain and enhance components of a multi-language codebase
+    (C#/C++, Python, web technologies) where applicable.
+  
+  - Work with structured and unstructured data to prepare
+    inputs, transform outputs, and support downstream systems.
+  
+  - Develop systems for prompt management, model routing,
+    response validation, and failure handling.
+  
+  - Debug complex issues across backend logic, API integrations,
+    and distributed services.
+  
+  - Monitor system performance using telemetry tools and
+    proactively identify and resolve bottlenecks.
+  
+  - Automate recurring workflows related to data processing,
+    evaluation, and reporting.
+  
+  - Collaborate with cross-functional teams to turn ambiguous
+    product ideas into production-ready features.
+  
+  - Contribute to architecture decisions around scalability,
+    performance, and safe use of AI systems.
+  
+  - Write clean, testable, and maintainable code while helping
+    establish engineering best practices for AI systems.
+  
+  What You Bring
+  
+  Education
+  
+  - Bachelor’s degree in Computer Science or a related field.
+  
+  Experience
+  
+  - 3+ years of professional experience in backend or systems
+    engineering.
+  
+  - Strong experience in Python development for production
+    systems.
+  
+  - Experience integrating LLM APIs or AI-driven services into
+    real applications.
+  
+  - Proven ability to work within large codebases and
+    collaborative environments.
+  
+  Technical Skillset
+  
+  Core Skills
+  
+  - Python (strong), backend system design, API development
+  
+  - Async workflows, job queues, and service orchestration
+  
+  - Debugging across APIs, services, and data pipelines
+  
+  Languages
+  
+  - Python, C#, C/C++, JavaScript/TypeScript, SQL
+  
+  Frameworks & Libraries
+  
+  - .NET Web API, ASP.NET (MVC & WebForms), Entity Framework
+  
+  - React, Bootstrap, Ajax
+  
+  - Testing frameworks (xUnit or similar)
+  
+  AI / LLM Systems
+  
+  - Prompt design, response parsing, and guardrails
+  
+  - Model integration patterns and failure handling
+  
+  - Understanding of LLM limitations and production constraints
+  
+  Tools & Platforms
+  
+  - Azure DevOps, Git, Docker, Terraform
+  
+  - SQL Server or similar databases
+  
+  - Elastic Stack, Postman, Swagger
+  
+  - AWS or Azure cloud environments
+  
+  Architecture
+  
+  - Microservices, distributed systems, modular architectures
+  
+  Operating Systems
+  
+  - Windows, Linux
+  
+  Build Tools
+  
+  - Make, Ninja (preferred)
+  
+  Nice to Have
+  
+  - Experience with RAG, embeddings, vector databases, or
+    retrieval systems
+  
+  - Familiarity with agent workflows or multi-step orchestration
+  
+  - Experience with model monitoring, prompt versioning, or
+    evaluation systems
+  
+  - Understanding of AI safety, privacy, and secure data
+    handling
+  
+  - Exposure to cloud-native deployments and scalable
+    infrastructure
+  
+  Why Join Us
+  
+  - Remote-first culture with minimal in-person requirements
+  
+  - Work with global teams on cutting-edge AI systems
+  
+  - Opportunity to build real-world LLM applications at scale
+  
+  - High ownership, fast-moving environment with strong growth
+    potential
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+  - Database
+  - Automation
+posted_date: 2026-04-07
+url: "https://builtin.com/job/software-development-engineer-ai-llm-systems-python-backend/8971609"
+source: Built In

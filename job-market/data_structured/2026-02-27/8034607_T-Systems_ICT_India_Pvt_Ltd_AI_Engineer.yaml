@@ -1,0 +1,52 @@
+company:
+  name: T-Systems ICT India Pvt. Ltd.
+  stage: Public
+  focus: |-
+    IT services and digital transformation solutions across
+    industries
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, implementing, and optimizing
+      Agentic RAG pipelines, designing autonomous multi-agent
+      systems, implementing A2A communication protocols, and
+      developing MCP connectors - all of which are hands-on work
+      directly on AI/LLM systems.
+  responsibilities:
+  - Implement and optimize sophisticated Agentic RAG and standard RAG pipelines with
+    advanced prompt engineering
+  - Design, develop, and deploy autonomous multi-agent systems using frameworks like
+    CrewAI to solve complex business problems
+  - Implement and refine Agent-to-Agent (A2A) communication protocols for collaborative
+    task execution between multiple AI agents
+  - Build, test, and maintain MCP connectors to enable AI agents to interact with
+    data sources like Microsoft Spreadsheets, Databricks Lakehouse, and Postgres databases
+  - Create robust and scalable REST APIs to serve as the backbone for AI bots and
+    applications
+  - Enable deployment, management, and monitoring of AI applications within Open Telekom
+    Cloud (OTC) cloud environment
+  use_cases:
+  - Multi-agent systems for complex business problem solving
+  - Agentic RAG for precise and relevant information retrieval
+  - Agent-to-agent collaboration for coordinated task execution
+  - AI-driven data connectivity across spreadsheets, data lakes, and databases
+  - Enterprise AI application deployment and management
+  skills:
+    genai: [RAG, Agentic RAG, Prompt Engineering, CrewAI, LangGraph, LlamaIndex, MCP
+        Connectors, Agent-to-Agent Communication, Multi-agent Systems]
+    ml: []
+    web: [REST APIs]
+    databases: [PostgreSQL, Databricks Lakehouse]
+    data: []
+    cloud: [Open Telekom Cloud]
+    ops: []
+    languages: [Python, Node.js]
+    domains: []
+    other: [GitHub Copilot, AI coding assistants]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8034607'
+  extracted_at: '2026-03-03T12:14:30.919050'

@@ -1,0 +1,54 @@
+company:
+  name: DigitalOcean
+  stage: Public
+  focus: Cloud infrastructure and GPU/AI platform provider
+position:
+  title: Senior Cloud Support Engineer - AI/ML & Databases
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a support role that helps customers USE AI/ML
+      infrastructure, not build AI systems. The role involves
+      troubleshooting customer issues with Kubernetes, GPU, and
+      GradientAI workloads, architecting solutions for customers,
+      and serving as a technical advisor - but the work is
+      enabling customers to run their AI/ML workloads on
+      DigitalOcean's platform, not directly building, training, or
+      deploying AI models.
+  responsibilities:
+  - Serve as the ultimate escalation point for complex customer issues across Kubernetes,
+    GPU/GradientAI, and AI/ML infrastructure
+  - Architect enterprise-grade solutions for customers building large-scale AI/ML
+    workloads including multi-cluster Kubernetes and distributed GPU training infrastructure
+  - Lead technical discovery and solution design for strategic accounts with architectural
+    reviews and proof-of-concept implementations
+  - Drive resolution of systemic technical challenges by identifying patterns and
+    partnering with Engineering for platform improvements
+  - Act as a trusted technical advisor to high-value customers and strategic partners
+  - Design and deliver Professional Services engagements for enterprise customers
+    requiring AI/ML infrastructure implementations
+  - Mentor and develop IC1-IC3 engineers through coaching and technical reviews
+  - Lead critical incident response for platform-wide or high-impact customer issues
+  use_cases:
+  - Distributed GPU training infrastructure
+  - Multi-cluster Kubernetes deployments for AI/ML workloads
+  - Production ML model deployment and inference optimization
+  - Hybrid and multi-cloud AI architectures
+  - Generative AI workloads on GradientAI platform
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, Hugging Face, CUDA]
+    web: []
+    databases: [PostgreSQL, MySQL, MongoDB, Redis]
+    data: []
+    cloud: [Kubernetes, AWS, GCP, Azure]
+    ops: [GPU infrastructure, TensorRT, vLLM, Terraform, CloudFormation, Pulumi, Linux
+        system administration, Docker, Prometheus, Grafana, Datadog, BGP, VPN, CI/CD]
+    languages: [Python, Go, Rust, C++]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8634763'
+  extracted_at: '2026-03-27T14:21:28.343038'

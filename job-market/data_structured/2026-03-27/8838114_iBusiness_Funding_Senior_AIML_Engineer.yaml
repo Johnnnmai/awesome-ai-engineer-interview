@@ -1,0 +1,52 @@
+company:
+  name: iBusiness Funding
+  stage: null
+  focus: |-
+    Financial technology company building AI and automation
+    platforms for banks and lenders
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying LLM-based
+      systems including RAG, agents, and document intelligence
+      pipelines. The engineer will work hands-on with foundational
+      models, fine-tuning, and implementing production AI
+      services.
+  responsibilities:
+  - Design, implement, and optimize document intelligence pipelines leveraging LLMs
+    for information extraction from unstructured documents
+  - Adapt foundational models to fit various product requirements aligned with business
+    goals
+  - Create and architect Interpreters and Agented Systems
+  - Architect and implement document-centric RAG systems for retrieval and reasoning
+    over large document corpora
+  - Develop systems for key-value extraction, table extraction, and entity recognition
+    from complex financial documents
+  - Customize and fine-tune models to optimize performance for specific use cases
+  - Develop, test, and deploy LLM-based services in production environments
+  - Provide technical leadership and mentorship to other engineers on the team
+  use_cases:
+  - Document intelligence and information extraction from PDFs, images, forms, and
+    contracts
+  - Key-value extraction and table extraction from financial documents
+  - Entity recognition for invoices, financial statements, and contracts
+  - Document-centric RAG systems for accurate retrieval and reasoning
+  - LLM-based automation workflows for financial institution products
+  skills:
+    genai: [LLMs, RAG, agents]
+    ml: [NLP, foundational models, fine-tuning, reinforcement learning, OCR, Tesseract]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS Textract, Azure Form Recognizer, Google Document AI, AWS]
+    ops: [MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8838114'
+  extracted_at: '2026-03-27T15:31:23.555221'

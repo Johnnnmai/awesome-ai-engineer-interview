@@ -1,0 +1,53 @@
+company:
+  name: Visa Inc,
+  stage: Public
+  focus: Global payments technology and digital transactions
+position:
+  title: SW Engineer (6 months - 2 yrs Experience - Java/Python, UNIX, J2EE, REST
+    & SOAP, Automation, Gen AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying agentic
+      solutions using LLMs from Anthropic, OpenAI, and others, as
+      well as developing deep learning solutions for real-time
+      transaction processing. The position explicitly requires
+      hands-on work creating AI/ML systems at scale, not just
+      supporting infrastructure for AI work.
+  responsibilities:
+  - Build agentic solutions using advanced LLM models from Anthropic, OpenAI and other
+    providers
+  - Develop deep learning solutions using AI/ML platforms for real-time transactions
+    at 100K+ TPS scale
+  - Design and code systems that maintain 99.9999% reliability while serving 40% of
+    world population
+  - Create scalable, maintainable, and efficient systems aligned with organizational
+    objectives
+  - Collaborate cross-functionally to develop software solutions for Visa's commercial
+    products and services
+  - Contribute to product reliability improvements and new operations flows in agile
+    squads
+  - Support piloting of new technology capabilities that enhance customer experience
+  use_cases:
+  - Predict and prevent real-time reliability challenges in payment processing
+  - Automate reliability operations and incident response for global payment network
+  - Deep learning for transaction analysis at petabyte scale
+  - Agentic solutions for operational automation and decision support
+  - Real-time transaction processing at 65,000+ transactions per second
+  skills:
+    genai: [Claude/Anthropic API, OpenAI API, Cline, GitHub Copilot, Power Automate,
+      Agentic systems]
+    ml: [Deep learning, AI/ML platforms, Statistical modelling]
+    web: [REST APIs, SOAP, Microservices, HTTP/JSON, J2EE]
+    databases: [Relational databases, NoSQL databases]
+    data: [Kafka, Large scale data analytics]
+    cloud: []
+    ops: [GIT/Stash, Maven, Jenkins, CI/CD, Automation, UNIX, Logging and monitoring]
+    languages: [Java, Python, Go, Scala, JavaScript, .NET, C#, C++, SQL]
+    domains: []
+    other: [Agile/Scrum, Full SDLC]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8851717'
+  extracted_at: '2026-03-27T15:19:51.644263'

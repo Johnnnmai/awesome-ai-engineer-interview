@@ -1,0 +1,48 @@
+company:
+  name: DNSFilter
+  stage: Series B+ (scale-up)
+  focus: AI-driven network security and DNS threat protection
+position:
+  title: Principal ML/AI Threat Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role focuses on architecting, training, and deploying
+      ML/AI models for threat detection and content
+      categorization. The position involves hands-on work building
+      production-grade ML systems for clustering, pattern
+      identification, and real-time detection - directly working
+      ON AI/ML systems, not just supporting them.
+  responsibilities:
+  - Design and deliver scalable real-time threat intelligence systems from DNS telemetry
+  - Architect, train, and deploy adaptive ML/AI models for malicious and benign infrastructure
+    clustering
+  - Develop pattern identification and content categorization systems
+  - Build actor attribution systems for high-confidence threat intelligence at scale
+  - Transform raw DNS signals into campaign-aware, actor-linked detections
+  - Build production-grade AI/ML systems operating on high-volume telemetry
+  - Design and implement intelligence-as-a-service capabilities
+  - Create explainable detection systems for customer-facing products
+  use_cases:
+  - Real-time threat detection from DNS telemetry
+  - Malicious infrastructure clustering and identification
+  - Content categorization and filtering
+  - Threat actor attribution and campaign tracking
+  - Network security and threat intelligence automation
+  skills:
+    genai: []
+    ml: [Statistical analysis, Clustering methods, Feature engineering, ML model training,
+      Risk scoring systems, Explainable AI]
+    web: []
+    databases: []
+    data: [Distributed processing systems]
+    cloud: [Cloud architectures]
+    ops: [ML model deployment]
+    languages: [Python]
+    domains: [DNS telemetry, Threat intelligence, Cybersecurity, Network security]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8678788'
+  extracted_at: '2026-03-27T15:24:28.428305'

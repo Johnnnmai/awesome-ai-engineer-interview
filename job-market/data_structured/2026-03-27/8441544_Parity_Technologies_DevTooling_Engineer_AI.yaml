@@ -1,0 +1,51 @@
+company:
+  name: Parity Technologies
+  stage: Unknown
+  focus: |-
+    Blockchain infrastructure and Web3 development platform
+    (Polkadot)
+position:
+  title: DevTooling Engineer (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is about building developer tools and
+      documentation for a blockchain platform, with AI being
+      mentioned as a way to enhance developer processes (e.g., AI
+      assistants). The role doesn't involve building, training, or
+      deploying AI/ML models directly - rather, it's about
+      integrating AI tools to support developer workflows on the
+      Polkadot platform.
+  responsibilities:
+  - Iterate on internal and external developer tools, building Web3 app prototypes
+    and eliminating friction points
+  - Connect with developers through hackathons, conferences, and forums, providing
+    support and advocating for solutions
+  - Build Web3 apps and prototypes demonstrating everyday use cases for blockchain
+    applications
+  - Create, review, and update developer documentation, tutorials, videos, and learning
+    resources
+  - Identify opportunities to expand AI capabilities for developer tooling needs
+  - Shape new projects by identifying gaps and opportunities in the developer journey
+  use_cases:
+  - Developer tooling and experience for Web3/blockchain development
+  - AI-powered assistants to help developers build on Polkadot
+  - Documentation and learning resources for blockchain developers
+  - CI/CD tooling for dApp development
+  - Web3 application prototyping and friction elimination
+  skills:
+    genai: [AI assistants integration]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [JavaScript, TypeScript, Rust, Solidity]
+    domains: []
+    other: [Web3/blockchain development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8441544'
+  extracted_at: '2026-03-27T16:14:01.750814'

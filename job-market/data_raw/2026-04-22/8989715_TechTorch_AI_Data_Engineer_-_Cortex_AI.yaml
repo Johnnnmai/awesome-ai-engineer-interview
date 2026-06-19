@@ -1,0 +1,150 @@
+job_id: 8989715
+title: AI Data Engineer - Cortex AI
+company: TechTorch
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - Aws Bedrock
+  - Dbt
+  - Python
+  - Snowflake
+  - Snowflake Cortex Ai
+  - SQL
+description: |
+  About TechTorch
+  
+  TechTorch is a high-growth enterprise technology consultancy
+  that partners with the world’s leading private equity-backed
+  businesses. We deliver AI-powered solutions, accelerators,
+  and data-driven transformation initiatives that drive
+  measurable value at speed and scale.
+  
+  Our mission is to redefine enterprise technology consulting
+  for private equity. We combine the agility of a scale-up
+  with the discipline and rigor demanded by the most
+  sophisticated investors and operators.
+  
+  TechTorch was founded by seasoned leaders — including former
+  Bain consultants, CIOs, and tech executives — with deep
+  expertise in technology, transformation, and value creation.
+  We are not a typical startup. We were built to succeed and
+  to deliver results that matter.
+  
+  About the Team
+  
+  TechTorch data and AI teams design and build modern data
+  platforms that power analytics, AI agents, and GenAI-enabled
+  business workflows. We work across Snowflake, AWS, and
+  enterprise systems to enable scalable data products, AI-
+  driven insights, and automation for private equity-backed
+  organizations.
+  
+  Teams operate globally and collaborate across data
+  engineering, analytics, AI, and delivery disciplines to
+  deliver high-impact, production-grade solutions.
+  
+  About the Role
+  
+  As an AI Data Engineer, you will design and build modern
+  data pipelines and AI-ready data platforms with Snowflake as
+  the core warehouse, leveraging Snowflake Cortex AI, AWS
+  Bedrock, and other mainstream AI services. Your work will
+  enable advanced analytics, LLM-powered use cases, and AI-
+  driven automation across enterprise environments.
+  
+  This role sits at the intersection of data engineering and
+  applied AI. You will ensure data is high-quality, well-
+  modeled, and accessible for downstream analytics, machine
+  learning, and GenAI applications.
+  
+  What You’ll Do
+  
+  - Design, build, and maintain scalable data pipelines using
+    Snowflake as the central data platform
+  - Develop AI-ready data models and feature layers to support
+    analytics, ML, and GenAI use cases
+  - Leverage Snowflake Cortex AI for embedding, classification,
+    summarization, and AI-assisted analytics
+  - Integrate and operationalize AI workflows using AWS Bedrock
+    and related AWS services (e.g., Lambda, Step Functions)
+  - Build and optimize ELT pipelines using tools such as dbt,
+    SQL, and Python
+  - Integrate data from diverse sources including APIs, SaaS
+    platforms, databases, and event streams
+  - Ensure data quality, observability, and governance across
+    pipelines and AI workloads
+  - Collaborate with AI engineers, data scientists, and business
+    teams to translate use cases into scalable data solutions
+  - Document data models, pipelines, and AI-related design
+    decisions clearly for long-term maintainability
+  
+  Who You Are
+  
+  - 4+ years of experience in data engineering, with strong
+    hands-on Snowflake experience
+  - Practical experience building AI-enabled data solutions or
+    preparing data for ML/LLM workloads
+  - Strong proficiency in SQL and Python for data transformation
+    and pipeline development
+  - Experience with Snowflake Cortex AI or similar warehouse-
+    native AI capabilities
+  - Hands-on experience with AWS, ideally including AWS Bedrock,
+    Lambda, S3, and IAM
+  - Experience with ELT tooling such as dbt, Airflow, or similar
+    orchestration frameworks
+  - Solid understanding of data modeling, data warehousing, and
+    performance optimization
+  - Comfortable working in cloud-native, enterprise environments
+    with high delivery expectations
+  - Strong communication skills and ability to collaborate
+    across technical and business teams
+  
+  Nice to Have
+  
+  - Experience with vector databases or embedding workflows
+    (e.g., Snowflake, OpenSearch, Pinecone)
+  - Familiarity with LLM orchestration frameworks (e.g.,
+    LangChain, Bedrock Agents)
+  - Experience supporting AI agents, RAG pipelines, or GenAI
+    analytics use cases
+  - Exposure to regulated or security-conscious environments
+  
+  Our Values
+  
+  Client First — We focus relentlessly on delivering outcomes
+  that create value for our clients
+  
+  We, Not Me — We win together. Collaboration drives
+  transformation at scale
+  
+  Get Stuff Done — We execute with speed and precision —
+  because in PE, time matters
+  
+  AI First — We embed AI at the core, enabling scalable, high-
+  leverage solutions
+  
+  Own It — We take accountability for results, delivering on
+  what we promise
+  
+  Agile Mindset — We adapt quickly and proactively seek better
+  ways to move forward
+  
+  What We Offer
+  
+  - Opportunity to work on AI-first data platforms using
+    Snowflake Cortex and AWS Bedrock
+  - High-impact role at the intersection of data engineering and
+    applied AI
+  - Exposure to private equity-backed enterprise transformation
+    programs
+  - Global, collaborative team with strong technical standards
+  - Flexible, remote-first working environment with autonomy and
+    ownership
+industries:
+  - Artificial Intelligence
+  - Information Technology
+posted_date: 2026-04-08
+url: "https://www.builtinla.com/job/ai-data-engineer-cortex-ai/8989715"
+source: Built In

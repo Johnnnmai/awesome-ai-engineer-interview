@@ -1,0 +1,53 @@
+company:
+  name: Infopro Learning, Inc
+  stage: null
+  focus: Enterprise learning and AI solutions for business problems
+position:
+  title: AI Developer | Onsite, Noida | Open to India-based candidates only
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      optimizing ML/DL models and GenAI systems (LLMs, RAG,
+      transformers) for production use. The developer designs and
+      validates models, builds MLOps pipelines, and integrates
+      models into applications — all hands-on AI/ML work.
+  responsibilities:
+  - Design, develop, and validate ML and DL models for domain-specific business challenges
+  - Apply GenAI techniques including LLMs and retrieval-based systems where appropriate
+  - Collaborate on data engineering tasks including sourcing, cleaning, and preprocessing
+    large datasets
+  - Deploy models into production environments supporting real-time or near real-time
+    use cases
+  - Build and maintain MLOps pipelines for deployment, monitoring, versioning, and
+    retraining
+  - Optimize models for performance, latency, scalability, and resource efficiency
+  - Integrate models into applications through APIs or model-serving frameworks
+  - Contribute to ethical AI practices including fairness, transparency, and bias
+    mitigation
+  use_cases:
+  - NLP-based business solutions
+  - Computer vision applications
+  - Reinforcement learning systems
+  - Transformer-based generative AI applications
+  - Retrieval-Augmented Generation (RAG) and vector search systems
+  - Domain-specific AI solutions in healthcare, finance, retail, manufacturing, or
+    customer service
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, Prompt engineering, GPT, Claude, Mistral,
+      LLaMA]
+    ml: [TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face, Transformers, CNNs,
+      RNNs/LSTMs]
+    web: []
+    databases: [Pinecone, FAISS, Weaviate]
+    data: [Pandas, NumPy, SciPy]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLflow, Kubeflow, DVC, Docker, Kubernetes, CI/CD, Git]
+    languages: [Python]
+    domains: [NLP, Computer Vision, Reinforcement Learning]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9054419'
+  extracted_at: '2026-04-22T13:43:19.559078'

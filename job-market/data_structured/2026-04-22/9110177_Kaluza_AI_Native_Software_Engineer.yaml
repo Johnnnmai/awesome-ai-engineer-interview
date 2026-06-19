@@ -1,0 +1,55 @@
+company:
+  name: Kaluza
+  stage: Growth (joint venture with Mitsubishi, powering major companies)
+  focus: |-
+    Energy intelligence platform for real-time grid and device
+    orchestration
+position:
+  title: AI Native Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying multi-
+      step AI pipelines and agentic workflows using LLM APIs
+      (Anthropic, OpenAI). The engineer designs AI-native
+      solutions and builds autonomous agents for internal
+      operations, making this a hands-on AI building role rather
+      than a support role.
+  responsibilities:
+  - Design and deploy multi-step AI pipelines and agentic workflows using LLM APIs
+    to transform People and Finance operations
+  - Identify and automate manual, repetitive processes across People and Finance teams
+    including onboarding flows and month-end reporting
+  - Integrate data from business systems (Workday, Greenhouse, Navan) into Databricks
+    and BigQuery to create unified real-time dashboards
+  - Partner with functional leaders to prototype intelligent ways of working and challenge
+    existing workflows
+  - Own the technical roadmap as an individual contributor, moving between strategic
+    planning and hands-on implementation
+  - Ensure reliability and security of workflows, review AI-generated code, and make
+    build vs. buy decisions
+  use_cases:
+  - Automating HR processes such as employee onboarding flows
+  - Automating Finance processes including complex month-end reporting
+  - Building agentic workflows to handle routine People and Finance questions autonomously
+  - Centralizing People and Finance data into unified real-time dashboards for insight
+    and decision-making
+  - Reimagining internal operations to be proactive and intelligence-led rather than
+    reactive
+  skills:
+    genai: [OpenAI API, Anthropic API, Agentic workflows, LLM integration]
+    ml: []
+    web: [Full-stack development]
+    databases: [BigQuery]
+    data: [Databricks, Data pipelines]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [Workday integration, Greenhouse integration, Navan integration, Dashboard
+        development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9110177'
+  extracted_at: '2026-04-22T13:05:45.849286'

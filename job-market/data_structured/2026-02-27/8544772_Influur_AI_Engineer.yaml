@@ -1,0 +1,50 @@
+company:
+  name: Influur
+  stage: Series A
+  focus: |-
+    Building autonomous AI agents for influencer marketing and
+    viral content campaigns
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing multi-agent architectures with
+      LangChain/CrewAI, building RAG systems, creating embeddings,
+      and working directly with LLMs to build an autonomous AI
+      agent for influencer marketing. The core work is building
+      and deploying AI systems, not supporting infrastructure.
+  responsibilities:
+  - Design and build multi-agent AI architectures with memory, tool use, and feedback
+    loops
+  - Develop and implement RAG systems for the viral agent platform
+  - Build full-stack applications using Node.js and Next.js integrated with AI systems
+  - Create and manage embeddings for content classification and tagging
+  - Integrate and orchestrate multiple LLM APIs (OpenAI, Anthropic, Gemini) with appropriate
+    model selection
+  - Design and optimize scalable backend systems with SQL databases and API architecture
+  - Deploy and maintain systems on cloud infrastructure using Docker and Kubernetes
+  - Collaborate with product and business teams to shape AI-driven user experiences
+  use_cases:
+  - Autonomous influencer marketing campaign execution
+  - Video content classification and tagging for viral prediction
+  - Social media virality prediction and optimization
+  - Influencer discovery and matching for brands and record labels
+  - End-to-end campaign automation from brief to influencer deployment
+  skills:
+    genai: [LangChain, CrewAI, OpenAI API, Anthropic API, Gemini API, RAG, Multi-agent
+        architectures, Embeddings]
+    ml: []
+    web: [Node.js, Next.js, REST APIs]
+    databases: [SQL]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes]
+    languages: [Python]
+    domains: [Video content classification, TikTok platform knowledge]
+    other: [Cursor]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8544772'
+  extracted_at: '2026-03-03T12:11:58.871518'

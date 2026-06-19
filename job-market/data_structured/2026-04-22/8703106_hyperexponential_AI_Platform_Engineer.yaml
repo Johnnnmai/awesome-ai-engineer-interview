@@ -1,0 +1,53 @@
+company:
+  name: hyperexponential
+  stage: Series B/C (Backed by a16z, Highland Europe, Battery Ventures; scaling globally
+    with ~50 enterprise clients)
+  focus: AI-powered insurance pricing and underwriting platform
+position:
+  title: AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform engineering role that builds
+      infrastructure enabling other teams to build and operate AI
+      agents. The team explicitly states "We build the platform,
+      not the agents." The work involves observability, gateways,
+      governance, and developer experience tooling that supports
+      AI agent development — classic enabling/support
+      infrastructure rather than directly building, training, or
+      deploying models or agents.
+  responsibilities:
+  - Build and evolve observability and evaluation infrastructure for end-to-end visibility
+    into AI agent behavior, including tracing, cost tracking, usage dashboards, and
+    shared evaluation systems
+  - Design and operate composition infrastructure connecting agents to LLMs and tools
+    via unified proxies, centralized tool routing, discovery, and access governance
+  - Define and implement governance layer for AI agents including scoped credentials,
+    per-tool permissions, audit logging, cost controls, and trust boundary patterns
+  - Shape developer experience through SDKs, documentation, and patterns that enable
+    teams to quickly build production-grade agents
+  - Drive adoption of shared platform services across technology teams, replacing
+    bespoke integrations with consistent, well-documented capabilities
+  use_cases:
+  - AI-powered insurance pricing and underwriting decisions
+  - Domain-specific AI peer programmer for insurance (actuarial science)
+  - Agentic workflows embedded across insurance products and teams
+  - End-to-end visibility and governance for AI agent operations at scale
+  - Developer platform enabling rapid production-grade AI agent development
+  skills:
+    genai: [LLM Integrations, Agent Frameworks]
+    ml: []
+    web: [REST APIs, FastAPI]
+    databases: [Postgres, Redis]
+    data: []
+    cloud: [Cloud Infrastructure (AWS/GCP/Azure)]
+    ops: [API Gateways, CI/CD, Observability Systems, Docker, Kubernetes, Identity
+        & Access Management, Audit Logging]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [SDK Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8703106'
+  extracted_at: '2026-04-22T14:05:58.784668'

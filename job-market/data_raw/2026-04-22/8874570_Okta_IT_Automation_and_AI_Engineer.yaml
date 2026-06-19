@@ -1,0 +1,142 @@
+job_id: 8874570
+title: IT Automation and AI Engineer
+company: Okta
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Docker
+  - GCP
+  - Gemini Enterprise
+  - Kubernetes
+  - Langgraph
+  - Python
+  - Terraform
+company_size: 6,000 Employees
+description: |
+  Secure Every Identity, from AI to Human Identity is the key
+  to unlocking the potential of AI. Okta secures AI by
+  building the trusted, neutral infrastructure that enables
+  organizations to safely embrace this new era. This work
+  requires a relentless drive to solve complex challenges with
+  real-world stakes. We are looking for builders and owners
+  who operate with speed and urgency and execute with
+  excellence. This is an opportunity to do career-defining
+  work. We're all in on this mission. If you are too, let's
+  talk.
+  
+  The Opportunity
+  
+  As an IT Automation and AI Engineer at Okta, you will be a
+  key contributor to the team building the platforms and
+  services that drive our internal AI transformation. We are
+  moving beyond simple automation to build sophisticated,
+  "agentic" workflows—utilizing LangGraph and Gemini
+  Enterprise to create stateful, reasoning-capable systems
+  that support our global workforce.
+  
+  This is a hands-on role for a professional engineer who
+  excels at writing production-grade Python and is eager to
+  bridge the gap between AI research and enterprise-scale
+  applications. You will own the implementation of core
+  features, orchestrating complex LLM interactions while
+  ensuring performance, security, and reliability.
+  
+  What You’ll Be Doing
+  
+  - Build Agentic Workflows: Develop and maintain stateful
+    multi-agent systems using LangGraph to solve complex, non-
+    linear business tasks.
+  - Gemini Integration: Implement and optimize LLM interactions
+    using Gemini Enterprise, focusing on prompt engineering,
+    function calling, and structured outputs.
+  - State & Memory Management: Design and manage agent state,
+    persistence, and "human-in-the-loop" checkpoints to ensure
+    reliable automated decision-making.
+  - Backend Development: Write high-quality, production-ready
+    Python code to build the APIs and services that power our
+    internal AI ecosystem.
+  - RAG & Grounding: Work on Retrieval-Augmented Generation
+    (RAG) pipelines to ensure agents have access to accurate,
+    real-time enterprise context.
+  - Infrastructure & Deployment: Deploy and manage services on
+    GCP using containerized environments (Docker/Kubernetes)
+    and Infrastructure as Code (Terraform).
+  - Operational Excellence: Promote engineering best practices
+    around testing AI logic, security, and CI/CD to ensure
+    services are production-ready.
+  
+  What You’ll Bring to the Role
+  
+  - Professional Python Core: 2–4 years of software engineering
+    experience with a deep command of Python and its
+    asynchronous ecosystem.
+  - AI Framework Mastery: Hands-on experience with LangGraph (or
+    similar frameworks like LangChain). You understand how to
+    build cycles, nodes, and conditional edges in a stateful
+    application.
+  - LLM Practicality: Experience working with frontier models
+    like Gemini or GPT-4. You know how to manage prompt
+    versioning, token constraints, and model behavior.
+  - System Design Foundations: Solid understanding of
+    distributed systems, cloud-native architectures, and
+    building/consuming RESTful APIs.
+  - Problem-Solving Autonomy: The ability to take a defined
+    workflow or prototype and drive it to production with
+    minimal oversight, knowing when to escalate complex trade-
+    offs.
+  - Collaborative Spirit: Strong communication skills and a
+    desire to work across team boundaries to deliver cohesive,
+    high-impact AI solutions.
+  
+  Why Join Okta
+  
+  - Build With Purpose: Work on meaningful problems that
+    simplify and secure how Okta operates at a global scale.
+  - Cutting-Edge Stack: Work with the latest from Google’s AI
+    suite (Gemini) and the leading edge of agentic
+    orchestration (LangGraph).
+  - Grow in a Technical Culture: Join a supportive, high-caliber
+    team that values technical excellence, clean code, and
+    personal development.
+  
+  #Hybrid_Bengaluru
+  
+  #LI_Linkedin P24873_3390707
+  
+  The Okta Experience
+  
+  - Supporting Your Well-Being
+  - Driving Social Impact
+  - Developing Talent and Fostering Connection + Community
+  
+  We are intentional about connection. Our global community,
+  spanning over 20 offices worldwide, is united by a drive to
+  innovate. Your journey begins with an immersive, in-person
+  onboarding experience designed to accelerate your impact and
+  connect you to our mission and team from day one. Okta is an
+  Equal Opportunity Employer. All qualified applicants will
+  receive consideration for employment without regard to race,
+  color, religion, sex, sexual orientation, gender identity,
+  national origin, ancestry, marital status, age, physical or
+  mental disability, or status as a protected veteran. We also
+  consider for employment qualified applicants with arrest and
+  convictions records, consistent with applicable laws. If
+  reasonable accommodation is needed to complete any part of
+  the job application, interview process, or onboarding please
+  use this Form to request an accommodation. Notice for New
+  York City Applicants & Employees: Okta may use Automated
+  Employment Decision Tools (AEDT), as defined by New York
+  City Local Law 144, that use artificial intelligence,
+  machine learning, or other automated processes to assist in
+  our recruitment and hiring process. In accordance with NYC
+  Local Law 144, if you are an applicant or employee residing
+  in New York City, please click here to view our full NYC
+  AEDT Notice. Okta is committed to complying with applicable
+  data privacy and security laws and regulations. For more
+  information, please see our Personnel and Job Candidate
+  Privacy Notice at https://www.okta.com/legal/personnel-
+  policy/.
+posted_date: 2026-04-21
+url: "https://builtin.com/job/application-development-analyst/8874570"
+source: Built In

@@ -1,0 +1,40 @@
+company:
+  name: Hexaware
+  stage: null
+  focus: null
+position:
+  title: Gen AI Developer Specialist
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role explicitly requires working with Gen AI and deep
+      learning frameworks (TensorFlow), indicating direct work
+      building AI/ML systems. Title "Gen AI Developer Specialist"
+      confirms focus on developing generative AI solutions.
+  responsibilities:
+  - Develop and implement generative AI solutions using modern frameworks
+  - Build and train deep learning models
+  - Design and develop backend APIs using FastAPI
+  - Create frontend interfaces using React JS
+  - Manage and optimize PostgreSQL databases
+  - Implement version control and CI/CD practices using GitHub
+  use_cases:
+  - Generative AI application development
+  - Deep learning model development and deployment
+  - Full-stack AI application development
+  skills:
+    genai: [Gen AI]
+    ml: [TensorFlow, Deep Learning Frameworks]
+    web: [FastAPI, React JS]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: [GitHub, Version Control]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8741337'
+  extracted_at: '2026-03-27T16:13:40.734770'

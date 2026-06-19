@@ -1,0 +1,58 @@
+company:
+  name: Too Good To Go
+  stage: Scale-up (Late Stage)
+  focus: |-
+    Marketplace app connecting businesses with surplus food to
+    consumers to fight food waste
+position:
+  title: AI Solutions Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying agentic
+      AI systems (using LangGraph, CrewAI, AutoGen), designing RAG
+      architectures, implementing prompt engineering, and
+      architecting end-to-end AI solutions with LLMs/SLMs. The
+      developer is hands-on with models, agents, and AI tooling —
+      not just supporting infrastructure for others.
+  responsibilities:
+  - Proactively identify high-value opportunities for AI automation across commercial
+    operations in 21 countries
+  - Lead end-to-end design and implementation of commercial AI systems including model
+    selection, prompt engineering, tool development, deployment and monitoring
+  - Curate and manage the commercial AI toolkit by evaluating, procuring, and integrating
+    third-party AI services
+  - Ensure all AI initiatives comply with GDPR and maintain ethical AI practices and
+    security policies
+  - Bridge technical complexity and business value by translating business pain points
+    into technical solutions
+  - Drive organizational transformation by designing new AI-driven ways of working
+    and measuring productivity impact
+  - Build agentic systems and intelligent workflows to automate operational bottlenecks
+    at global scale
+  use_cases:
+  - Automating commercial operations across 21 countries to scale food waste reduction
+  - Intelligent workflow automation to replace operational bottlenecks in the food
+    surplus marketplace
+  - RAG-powered systems connecting LLMs to real-time business data for commercial
+    decision support
+  - Semi-autonomous agents for cross-functional business process automation
+  - Building accessible AI-powered interfaces (Streamlit/Retool) for non-technical
+    stakeholders
+  skills:
+    genai: [LangGraph, CrewAI, AutoGen, LangChain, Prompt Engineering, RAG, LLM Evals,
+      Function Calling, Vector Embeddings]
+    ml: []
+    web: [FastAPI, Node.js, REST APIs, Streamlit, Retool]
+    databases: []
+    data: []
+    cloud: [GCP, AWS]
+    ops: [CI/CD, Git, Unit Testing]
+    languages: [Python]
+    domains: []
+    other: [GDPR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9051656'
+  extracted_at: '2026-04-22T13:54:39.602948'

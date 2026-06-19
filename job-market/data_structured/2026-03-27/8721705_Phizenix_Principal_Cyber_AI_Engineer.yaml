@@ -1,0 +1,51 @@
+company:
+  name: Phizenix
+  stage: unknown
+  focus: AI security and cybersecurity solutions
+position:
+  title: Principal Cyber AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves implementing and securing ML/GenAI
+      models, developing AI-specific threat detection tools, and
+      working hands-on with AI security technologies. The engineer
+      directly builds and optimizes AI-based security systems
+      rather than just supporting infrastructure.
+  responsibilities:
+  - Design, develop, and optimize AI-security-specific threat models, tools, and solutions
+    for threat identification, prediction, and prevention
+  - Implement and secure machine learning models, GenAI models, and AI techniques
+    to enhance threat detection, monitoring, and risk scoring
+  - Integrate AI security tools and technologies across cybersecurity architectures,
+    collaborating with data scientists, security engineers, and other stakeholders
+  - Analyze AI security incident data to refine and improve AI models and methodologies
+  - Provide technical leadership and mentorship to junior engineers in AI and machine
+    learning
+  - Ensure alignment and compliance with industry standards (NIST AI-RMF, ISO 42001,
+    OWASP Top 10 for LLMs) and advanced security architectures (Agentic, MCP)
+  - Stay abreast of emerging trends and advancements in AI and cybersecurity
+  use_cases:
+  - AI-specific threat detection and prevention
+  - Intrusion detection using AI/ML
+  - Anomaly detection for cybersecurity
+  - Threat intelligence and prediction
+  - Risk scoring for AI systems
+  - LLM security and threat modeling
+  skills:
+    genai: [GenAI models, OWASP Top 10 for LLMs, Agentic architectures, Model Context
+        Protocol (MCP)]
+    ml: [Machine learning, Neural networks, Anomaly detection]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, AWS]
+    ops: []
+    languages: [Python, R, Java]
+    domains: []
+    other: [NIST AI-RMF, ISO 42001, Threat modeling, Intrusion detection]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8721705'
+  extracted_at: '2026-03-27T13:48:22.248390'

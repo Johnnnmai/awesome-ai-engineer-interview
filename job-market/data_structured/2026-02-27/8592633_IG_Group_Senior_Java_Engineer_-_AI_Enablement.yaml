@@ -1,0 +1,58 @@
+company:
+  name: IG Group
+  stage: Public
+  focus: |-
+    FTSE250 FinTech company providing trading platforms for
+    stocks, leveraged products, futures, options, and crypto
+position:
+  title: Senior Java Engineer - AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on implementation of AI systems
+      including building MCP servers, creating agentic AI
+      solutions, implementing AI-powered automation tools, and
+      working directly with LLM APIs. While the role is primarily
+      software engineering, the AI implementation responsibilities
+      constitute a significant portion (50%) and involve building
+      AI-powered infrastructure and tools, not just using AI as a
+      development aid.
+  responsibilities:
+  - Modernise legacy services using AI for codebase analysis, dependency mapping,
+    and API extraction
+  - Implement strangler fig patterns and proven migration approaches for high-impact
+    legacy services
+  - Build Model Context Protocol (MCP) servers for service discovery, dependency mapping,
+    and architecture compliance
+  - Create AI-assisted CI/CD pipelines with automated code review, security scanning,
+    and test generation
+  - Develop automation tools using Claude Code, GitHub Copilot, and LLM APIs
+  - Use AI for all coding tasks including refactoring, test creation, documentation,
+    and debugging
+  - Document AI-first development patterns and train teams on AI-enabled workflows
+    during service handoffs
+  - Deliver modernised services with comprehensive tests, documentation, and multi-instance
+    deployment capabilities
+  use_cases:
+  - Legacy service modernisation in financial trading platforms
+  - AI-powered development infrastructure for enterprise software
+  - Automated code review and security scanning in CI/CD pipelines
+  - Service discovery and architecture compliance automation
+  - Productivity improvement through AI-assisted development workflows
+  skills:
+    genai: [Model Context Protocol (MCP), Claude Code, GitHub Copilot, LLM APIs, Prompt
+        Engineering, Agentic AI]
+    ml: []
+    web: [Microservices Architecture, API Design]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Java]
+    domains: []
+    other: [Strangler Fig Pattern, Service Decomposition]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8592633'
+  extracted_at: '2026-03-03T12:23:32.175640'

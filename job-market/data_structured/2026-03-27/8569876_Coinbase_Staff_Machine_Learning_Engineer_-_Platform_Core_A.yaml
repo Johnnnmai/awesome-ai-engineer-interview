@@ -1,0 +1,55 @@
+company:
+  name: Coinbase
+  stage: Public
+  focus: |-
+    Cryptocurrency exchange and blockchain platform building the
+    future financial system
+position:
+  title: Staff Machine Learning Engineer - Platform (Core AI Automation)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly applying LLMs and deep learning
+      models to build AI infrastructure and automation solutions.
+      The position requires hands-on work with ML models including
+      LLMs, GNNs, and deep learning, focusing on deploying AI-
+      powered customer interactions and systems.
+  responsibilities:
+  - Apply advanced ML techniques including LLMs and deep learning to solve complex
+    organizational challenges
+  - Collaborate with management and stakeholders to define strategic roadmaps and
+    quarterly plans
+  - Develop high-quality, well-tested Python code for critical product and business
+    needs
+  - Design scalable, secure systems using state-of-the-art AI/ML technologies and
+    best practices
+  - Mentor team members on design principles, coding standards, and AI productivity
+    tools
+  - Troubleshoot and resolve complex technical issues to improve system reliability
+    and scalability
+  - Ensure security, scalability, and architectural integrity through thorough cross-team
+    reviews
+  use_cases:
+  - AI-powered customer support automation
+  - Compliance operations streamlining
+  - Customer experience enhancement through AI interactions
+  - Breaking down barriers to cryptocurrency adoption
+  - AI infrastructure for productivity and innovation
+  skills:
+    genai: [GenAI frameworks]
+    ml: [LLMs, Deep Learning, GNNs, Logistic Regression, Gradient Boosting Trees,
+      Model interpretability]
+    web: []
+    databases: [Snowflake]
+    data: [Data Mining, Information Retrieval, Apache Airflow, Spark, Flink, Kafka,
+      Kinesis, Databricks]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8569876'
+  extracted_at: '2026-03-27T13:23:21.677931'

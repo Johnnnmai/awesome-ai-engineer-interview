@@ -1,0 +1,54 @@
+company:
+  name: SecurityScorecard
+  stage: Late-stage / Growth (funded by Silver Lake Waterman, Sequoia Capital, GV)
+  focus: Cybersecurity ratings and risk management platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and shipping AI-powered
+      product features, architecting agentic workflows and LLM
+      pipelines, and integrating foundation models into production
+      systems. The engineer works hands-on with LLMs, prompt
+      design, and output evaluation, making this clearly an ai-
+      first role.
+  responsibilities:
+  - Design, build, and ship customer-facing AI-powered product features using TypeScript,
+    Go, and AWS, owning quality and reliability end-to-end
+  - Architect and implement agentic workflows, LLM pipelines, and intelligent automation
+    for security insights
+  - Integrate foundation models into existing product surfaces with focus on latency,
+    cost, output quality, and evaluation
+  - Use AI-native development tools (Cursor, Claude Code) as a core part of the development
+    workflow
+  - Lead architecture and code reviews with focus on production-grade reliability,
+    security, and maintainability
+  - Partner with product and design to translate user needs into AI-driven experiences
+  - Own projects end-to-end from concept through production, including monitoring,
+    iteration, and improvement post-launch
+  - Stay current with AI tooling and foundation model landscape and bring relevant
+    advances into roadmap
+  use_cases:
+  - AI-powered cybersecurity risk surfacing and actionable security insights
+  - Agentic workflows for automated security analysis and threat intelligence
+  - LLM-driven intelligent automation for security teams
+  - Customer-facing AI features for cybersecurity ratings platform
+  - Retrieval-augmented generation for security data exploration
+  skills:
+    genai: [LLM integration, Prompt engineering, Agentic AI systems, Multi-agent orchestration,
+      RAG, LLM evaluation frameworks, Foundation model integration]
+    ml: []
+    web: []
+    databases: [ClickHouse, PostgreSQL]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, Terraform, CI/CD]
+    languages: [TypeScript, Go, JavaScript]
+    domains: [Cybersecurity, Threat intelligence]
+    other: [Distributed systems]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8956492'
+  extracted_at: '2026-04-22T13:34:08.935324'

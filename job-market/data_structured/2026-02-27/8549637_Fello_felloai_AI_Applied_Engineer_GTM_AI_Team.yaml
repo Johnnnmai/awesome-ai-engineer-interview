@@ -1,0 +1,55 @@
+company:
+  name: Fello (fello.ai)
+  stage: VC-backed startup (hyper-growth, profitable)
+  focus: |-
+    AI operating system for GTM teams - autonomous agents for
+    marketing, sales, and operations
+position:
+  title: AI Applied Engineer (GTM AI Team)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role focused on building autonomous AI
+      agents, LLM-native workflows, and agentic systems from the
+      ground up. The position involves hands-on work with LLMs
+      including tool use, function calling, RAG implementation,
+      and multi-step reasoning - all core AI/ML development work.
+  responsibilities:
+  - Design and deploy autonomous AI agents that research, reason, and execute business
+    workflows
+  - Build agentic systems using LLM capabilities including tool use, function calling,
+    structured outputs, and multi-step reasoning
+  - Create internal AI copilots for marketing, sales, operations, and leadership teams
+  - Implement RAG systems using embeddings and vector databases for agent context
+    and memory
+  - Build AI workflows for account enrichment, lead qualification, insight generation,
+    and automation
+  - Integrate AI agents with HubSpot, internal databases, enrichment platforms, and
+    product systems
+  - Build scraping, parsing, and AI extraction systems to convert unstructured data
+    into structured intelligence
+  - Continuously improve agents for speed, intelligence, cost-efficiency, and reliability
+  use_cases:
+  - Autonomous AI agents for go-to-market operations
+  - Account research and data enrichment automation
+  - Lead qualification and insight generation
+  - Workflow automation for marketing and sales operations
+  - Internal AI copilots for business teams
+  - Unstructured data extraction and intelligence gathering
+  skills:
+    genai: [OpenAI API, Anthropic API, LLM agents, Function calling, Prompt engineering,
+      RAG, Embeddings, Multi-step reasoning]
+    ml: []
+    web: [APIs, Webhooks]
+    databases: [Vector databases]
+    data: [Data pipelines]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [N8N, Make, Zapier, Web scraping, HubSpot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8549637'
+  extracted_at: '2026-03-03T12:15:29.363574'

@@ -1,0 +1,53 @@
+company:
+  name: Scale AI
+  stage: Series D/E (implied by "hyper-growth" and high compensation range)
+  focus: |-
+    AI data engine and platform for training, evaluating, and
+    deploying LLMs and generative models
+position:
+  title: Software Engineer, AI Developer Tooling
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building developer tooling and
+      infrastructure that enables other engineers to work more
+      effectively with AI tools, rather than directly building,
+      training, or deploying AI/ML models. The work involves CI/CD
+      systems, build processes, and development frameworks - all
+      in support of AI development, not on AI systems themselves.
+  responsibilities:
+  - Define next-generation AI development tooling and frameworks using products like
+    Cursor, Claude Code, OpenAI Codex, and MS Copilot, as well as in-house custom-built
+    solutions
+  - Drive the architecture, design, and implementation of local development process,
+    build, test, continuous integration, and continuous delivery systems
+  - Work closely with stakeholders and internal customers to understand and refine
+    requirements for developer tooling
+  - Directly mentor software engineers ranging from new grads to experienced engineers
+  - Proactively identify opportunities and drive improvements to software development
+    practices, processes, tools, and languages
+  - Present technical information to teams and stakeholders, providing guidance and
+    insight on development processes and technologies
+  use_cases:
+  - AI-powered code completion and development assistance for internal engineers
+  - Automated software development workflows and best practices
+  - CI/CD pipeline optimization for AI-enabled development
+  - Developer productivity enhancement through AI tooling integration
+  - MCP server and AI agent configuration and enablement
+  skills:
+    genai: [Cursor, Claude Code, OpenAI Codex, MS Copilot, MCP servers, AI agents]
+    ml: []
+    web: [NodeJS, NextJS]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Terraform, Docker, Kubernetes, CircleCI, Helm, ArgoCD, Bazel, Buck, Pants,
+      CI/CD]
+    languages: []
+    domains: []
+    other: [distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8855789'
+  extracted_at: '2026-03-27T14:18:15.833621'

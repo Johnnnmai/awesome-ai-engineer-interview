@@ -1,0 +1,187 @@
+job_id: 8631414
+title: "Staff Software Engineer (Developer Platform & AI Tooling)"
+company: ZenBusiness
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - Ci/Cd
+  - Gitops
+  - Helm
+  - Kubernetes
+  - Node.js
+  - Python
+  - Terraform
+  - Typescript
+description: |
+  Who We Are
+  
+  We started our company to help others launch and run their
+  own businesses, at any stage. The way we help is by keeping
+  it simple and supporting entrepreneurs one step at a time.
+  Put simply: our mission is to enable anyone to start, run,
+  and grow their business while avoiding the common pitfalls
+  that derail hopeful entrepreneurs. No more having to wade
+  through forms, taxes, or ongoing state compliance.
+  
+  We are a remote company based in Austin, Texas. We have team
+  members from Florida to Oregon and all points in-between.
+  Take pride in your work knowing that it shapes how people
+  all across the country reach their goal of starting,
+  running, and growing their business.
+  
+  If the idea of helping people and working with a genuinely
+  caring, supportive team excites you, then you’ve come to the
+  right place.
+  
+  The Role
+  
+  Help shape the future of how engineers build, ship, and
+  operate software. We're hiring a Staff Software Engineer to
+  contribute to platform-wide initiatives across CI/CD,
+  Kubernetes, and developer experience – with a strong
+  emphasis on building and integrating AI tooling into
+  everyday engineering workflows.
+  
+  Responsibilities Design, build, and scale AI-powered
+  developer tooling:
+  
+  - Agentic coding and review workflows that use LLMs to analyze
+    code, generate changes, and
+  - collaborate via chat.
+  - Policy- and guardrail-aware assistants that can comment,
+    propose code changes, and safely
+  - automate repetitive tasks.
+  - Prompt libraries, instructions, and service manuals that
+    make AI adoption effective and safe across teams.
+  
+  Contribute to the evolution of our CI/CD platform to be
+  faster, more observable, and easier to adopt:
+  
+  - Build analytics and data pipelines to compare platform
+    performance, baselines, and regressions.
+  - Contribute insights that inform team-level improvements and
+    broader platform decisions.
+  
+  Strengthen platform reliability and security in Kubernetes:
+  
+  - Improve cluster/app resiliency, rollout strategies, and
+    priority classes for critical services.
+  - Standardize Helm chart patterns, deployment practices, and
+    IaC workflows.
+  - Contribute to incident response playbooks, maintenance
+    modes, and recovery patterns.
+  
+  Create paved paths and golden templates for developers:
+  
+  - Self-service software templates, CLI/automation
+    enhancements, and bootstrap flows.
+  - Clear docs, runbooks, and technical blogs that drive
+    adoption and reduce support load.
+  
+  Mentor and grow:
+  
+  - Pair with teammates to land complex changes, champion TDD
+    and code review quality, and uplevel practices within the
+    team.
+  - Anticipate and surface blockers, delays, and tradeoffs
+    before they require escalation – keeping stakeholders
+    informed and expectations aligned.
+  
+  Qualifications
+  
+  - Staff-level impact building platform capabilities with clear
+    outcomes in developer velocity, reliability, and/or
+    quality.
+  - Deep experience in one or more of the following and working
+    knowledge of the rest:
+    - CI/CD systems and reusable pipeline components (e.g., GitHub
+      Actions or similar).
+    - Kubernetes, Helm, GitOps (e.g., ArgoCD), and infrastructure
+      as code (e.g., Terraform).
+    - AI for engineering: prompt design, multi-agent
+      orchestration, safety/guardrails, and integrating LLMs
+      into code and review workflows.
+    - Data and analytics for platform decisions (e.g.,
+      Python/Node-based ETL, SQL/warehouses, lightweight
+      dashboards).
+  - Proficiency in at least two languages used for platform work
+    (e.g., Python, TypeScript/Node.js, Bash); comfortable
+    moving across stacks to ship end-to-end solutions.
+  - Strong security and reliability instincts (secrets, least
+    privilege, dependency hygiene, runtime hardening).
+  - Clear, concise written communication – from crisp docs and
+    service manuals to guides that accelerate adoption across
+    the team.
+  - Able to communicate effectively with a diverse team and
+    external stakeholders; actively listens and ensures shared
+    understanding.
+  
+  How we'll measure success
+  
+  - Faster, more reliable delivery pipelines and higher adoption
+    of paved paths.
+  - Measurable improvements to build/test times, failure triage,
+    and developer feedback cycles.
+  - AI tools that engineers choose to use – with clear quality,
+    speed, and safety wins.
+  - Repeatable templates and docs that reduce bespoke work and
+    support burden.
+  - Proactive communication that keeps projects on track and
+    stakeholders aligned without escalation.
+  
+  Our Environment (examples, not requirements)
+  
+  - CI/CD: GitHub Actions (reusable actions, org-wide
+    workflows), artifact management, quality gates.
+  - Platform: Kubernetes, Helm, ArgoCD/GitOps, Terraform/IaC,
+    service configuration patterns.
+  - AI: agentic developer tools (Cursor, Claude Code, Codex,
+    Windsurf, etc.), multi-agent workflows, prompt libraries,
+    and guardrail frameworks.
+  - Data: Python or Node.js for ETL and analysis; SQL/warehouse
+    for build/run analytics and reporting.
+  
+  Remote Culture. A great company culture leads to happy
+  employees, and happy employees lead to happy customers. We
+  provide our employees with good salaries, benefits, equity,
+  and interesting challenges that have a positive impact.
+  
+  Let’s stay connected! We believe in staying connected, and
+  we have a weekly “All Hands” meeting every week. We also
+  have a social committee that hosts frequent events. We’ve
+  held a virtual talent show, costume competitions, monthly
+  lunch and learn series, Hackathons and more!
+  
+  Benefits.  The company offers various benefits to employees
+  and their dependents, including medical, vision, dental,
+  disability, and life insurance, as well as parental and
+  military leave. Other benefits include an employee
+  assistance program, 401k + match, annual bonus, pet
+  insurance, and RSUs. Paid parking* and 10 paid holidays are
+  also provided.
+  
+  Diversity, Equity and Inclusion. We believe in diversity,
+  equity & inclusion. At ZenBusiness, every voice counts no
+  matter your race, ethnicity, gender, sexual orientation,
+  age, location, or background. We celebrate the diversity of
+  our teams, knowing that our products, services, and
+  customers thrive best when we lean into and celebrate our
+  differences.
+  
+  Please check out our careers' page to learn more about our
+  culture, benefits, and open opportunities.
+  
+  *applicable to in-office employees
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Payments
+  - Professional Services
+  - Social Impact
+  - Conversational AI
+  - Generative AI
+posted_date: 2026-03-03
+url: "https://www.builtinla.com/job/staff-software-engineer-developer-platform-ai-tooling/8631414"
+source: Built In

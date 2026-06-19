@@ -1,0 +1,55 @@
+company:
+  name: Lucid Software
+  stage: Public
+  focus: Visual collaboration and work acceleration software suite
+position:
+  title: GTM Systems Engineer (AI & Automation)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is in Revenue Operations focusing on GTM (Go-to-
+      Market) systems and automation. While it mentions helping
+      evaluate and optimize AI tools for lead research and
+      enrichment, the core work is building data pipelines,
+      integrations, and automation workflows - not building,
+      training, or deploying AI models. AI is mentioned as
+      emerging tools to evaluate, not as systems to build.
+  responsibilities:
+  - Design and implement scalable automation logic across the full funnel to improve
+    GTM efficiency and reliability
+  - Ensure reliable end-to-end data synchronization across the GTM stack with well-managed
+    integrations and data pipelines
+  - Orchestrate multi-step data enrichment and transformation workflows using platforms
+    like Clay, Workato, or Zapier
+  - Create, refine, and maintain automated engagement sequences triggering email,
+    call, and social outreach
+  - Build and maintain dashboards and reporting systems measuring funnel performance
+    and campaign effectiveness
+  - Evaluate, implement, and optimize GTM technologies including AI tools for lead
+    research, enrichment, and personalization
+  - Partner cross-functionally to define scalable processes, maintain documentation,
+    and uphold data governance standards
+  use_cases:
+  - Go-to-market automation and optimization
+  - Lead generation and enrichment workflows
+  - Marketing and sales technology integration
+  - Revenue operations data synchronization
+  - Automated engagement and outreach sequencing
+  - Funnel performance analytics and reporting
+  skills:
+    genai: []
+    ml: []
+    web: [Marketing automation platforms, Cross-platform integrations]
+    databases: []
+    data: [Clay, Workato, Zapier, Data pipelines, Data enrichment, Data transformation,
+      ETL, Dashboards and reporting, Data governance]
+    cloud: []
+    ops: [Workflow automation]
+    languages: []
+    domains: []
+    other: [Sales technologies, AI tools evaluation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8277002'
+  extracted_at: '2026-03-03T12:01:07.931646'

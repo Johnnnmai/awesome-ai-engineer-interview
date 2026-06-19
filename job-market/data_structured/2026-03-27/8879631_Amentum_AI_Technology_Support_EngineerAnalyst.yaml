@@ -1,0 +1,55 @@
+company:
+  name: Amentum
+  stage: Public
+  focus: |-
+    Advanced engineering and innovative technology solutions for
+    government
+position:
+  title: AI Technology Support Engineer/Analyst
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a technical support role focused on troubleshooting
+      and resolving issues with AI products and services, rather
+      than building, training, or deploying AI models. The role
+      involves providing support to clients, documenting
+      solutions, and collaborating with development teams, which
+      positions it as enabling work for AI systems rather than
+      hands-on model development.
+  responsibilities:
+  - Provide technical support for AI products and services, addressing client inquiries
+    and troubleshooting issues
+  - Diagnose and resolve complex technical problems related to AI algorithms, model
+    deployment, data processing, and system integration
+  - Collaborate with product development, engineering, and data science teams to improve
+    AI system performance and functionality
+  - Conduct analysis of technical issues, document findings, and communicate solutions
+    to internal teams and clients
+  - Develop and maintain technical documentation including user guides, troubleshooting
+    manuals, and FAQs
+  - Offer training and guidance to clients and internal teams on AI technology utilization
+    and optimization
+  - Stay current with emerging trends and advancements in AI and related technologies
+  - Participate in continuous improvement of support processes and tools
+  use_cases:
+  - Technical support and troubleshooting for AI products
+  - Customer service and issue resolution for AI systems
+  - Documentation and knowledge management for AI technologies
+  - Training and guidance on AI technology utilization
+  skills:
+    genai: []
+    ml: [machine learning algorithms, natural language processing, TensorFlow, PyTorch,
+      scikit-learn, Keras, AI model deployment]
+    web: [API integration, microservices architecture]
+    databases: [NoSQL databases]
+    data: [data visualization, data preprocessing]
+    cloud: [AWS, Azure, Google Cloud]
+    ops: [Docker, Kubernetes, Git]
+    languages: [Python, R, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8879631'
+  extracted_at: '2026-03-27T14:09:31.197068'

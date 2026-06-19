@@ -1,0 +1,176 @@
+job_id: 8638955
+title: Senior ML/AI Engineer
+company: Merciv
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Docker
+  - Go
+  - Kubernetes
+  - NoSQL
+  - Python
+  - SQL
+company_size: 7 Employees
+description: |
+  About Merciv
+  
+  Merciv is an AI and data analytics startup dedicated to
+  reshaping how businesses approach strategic intelligence.
+  Our mission is to transform how organizations harness data,
+  generate insights, and drive strategic decisions through
+  cutting-edge AI pipelines and dynamic forecasting
+  mechanisms.
+  
+  We're building toward a world where every business decision
+  is informed by the right data at the right time, combining
+  AI capability with human judgement. Our technology:
+  
+  - Connects disparate data sources into a single, coherent
+    intelligence layer
+  - Augments human decision-making with autonomous AI analysis
+  - Surfaces insights and opportunities that traditional tools
+    miss
+  - Forecasts outcomes and helps teams navigate uncertainty with
+    real clarity
+  - Gives organizations the ability to shape their markets, not
+    just react to them
+  
+  We're building solutions that are robust and scalable but
+  also genuinely intuitive, so that teams across an
+  organization can actually use them, not just the data team.
+  We've raised $14M in seed funding, built our team around a
+  strong engineering culture, and are launching publicly after
+  nearly two years in stealth mode. About the Team
+  
+  We're building an agentic AI platform that's changing how
+  enterprises work with data. Merciv connects an
+  organization's entire data landscape with external sources -
+  social media trends, industry reports, consumer behavior
+  signals - to surface insights and automate workflows that
+  used to take analysts weeks.
+  
+  We care a lot about making powerful tools feel simple. Every
+  feature should be intuitive, every component interactive. We
+  want users to open Merciv and immediately feel like they can
+  do more than they could before.
+  
+  Our lean, agile team thrives on innovation and autonomy.
+  We're small enough that everyone has real ownership. We use
+  a DRI (Directly Responsible Individual) model - you'll own
+  major product features from conception to launch, not just
+  contribute to them. You'll wear multiple hats, and that's by
+  design.
+  
+  Our work environment thrives on creativity and cutting-edge
+  technology, built for those eager to shape the future of
+  human-AI collaboration. If you’re excited about being a part
+  of a fast-paced, innovative startup culture and making a
+  significant impact on client business, Merciv is the place
+  for you. Join us as we expand the horizons of retail
+  intelligence and deliver unparalleled value to our clients.
+  
+  The Role
+  
+  As a Senior ML/AI Engineer, you’ll build and deploy the
+  intelligent systems at the core of Merciv. Our platform
+  doesn’t just surface insights. It reasons, forecasts, and
+  acts autonomously across complex enterprise data landscapes.
+  You’ll develop the models and agentic architectures that
+  power demand forecasting, consumer intelligence, competitive
+  analysis, and autonomous decision-making for the world’s
+  largest retailers.
+  
+  This is applied AI at its most impactful. You’ll work at the
+  intersection of cutting-edge research and real enterprise
+  deployment, building systems that generate tens of millions
+  in value for our clients.
+  
+  What You’ll Do
+  
+  - Design, build, and deploy ML models for demand forecasting,
+    time series prediction, consumer sentiment analysis, and
+    anomaly detection at enterprise scale
+  - Develop and iterate on Merciv’s agentic AI architecture
+    (building systems that reason across heterogeneous data
+    sources and take autonomous action)
+  - Build and maintain robust ML pipelines: data preprocessing,
+    feature engineering, model training, evaluation, and
+    production deployment
+  - Architect RAG systems and LLM integrations that power
+    Merciv’s natural language interfaces and autonomous
+    workflows
+  - Collaborate with backend engineers to ensure models are
+    production-grade (optimized for latency, reliability, and
+    scale)
+  - Own model performance end-to-end: monitoring, retraining,
+    and continuous improvement in production
+  - Stay at the frontier of AI research and bring relevant
+    innovations into our platform
+  
+  Who You Are
+  
+  - 5+ years of experience in applied machine learning and AI,
+    with models deployed in production environments
+  - M.S. or Ph.D. in Computer Science, Machine Learning,
+    Statistics, or a related field (or equivalent practical
+    experience)
+  - Deep proficiency in Python with experience in ML frameworks
+    (PyTorch, TensorFlow, scikit-learn)
+  - Strong background in statistical analysis, predictive
+    modeling, and time series forecasting
+  - Experience with applied agentic AI/ML systems and multi-
+    agent orchestration
+  - Experience with NLP, LLMs, and RAG architectures
+  - Comfortable working with large-scale datasets and
+    distributed computing environments
+  - You care about model interpretability, explainability, and
+    building systems that enterprise users can trust
+  - You thrive in fast-paced environments and are excited about
+    pushing AI from research into production
+  
+  Bonus
+  
+  - Background in retail, supply chain, or demand forecasting
+    domains
+  - Experience with graph neural networks or knowledge graphs
+  - Familiarity with MLOps platforms and model serving
+    infrastructure
+  - Contributions to open-source ML/AI projects or published
+    research
+  
+  Why Merciv
+  
+  - Real enterprise impact: our platform drives 8-figure
+    improvements in gross margins for the world’s largest
+    retailers
+  - Cutting-edge technical challenges at the intersection of
+    agentic AI, distributed systems, and enterprise data
+    orchestration
+  - Small team, massive surface area. You’ll own major features
+    from conception to production
+  - Competitive salary, meaningful equity, and comprehensive
+    benefits (health, dental, vision, 401k, home office
+    stipend, flexible PTO)
+  - A culture that values craft, intellectual honesty, and
+    genuine human connection
+  
+  Merciv is building the future of autonomous commerce. We're
+  committed to assembling a diverse team of builders who want
+  to revolutionize how the world does business.
+  
+  We are an equal opportunity employer, and we do not
+  discriminate on the basis of race, religion, color, national
+  origin, sex, sexual orientation, age, veteran status,
+  disability, genetic information, or other applicable legally
+  protected characteristic.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Natural Language Processing
+  - Retail
+  - Business Intelligence
+  - Conversational AI
+posted_date: 2026-03-03
+url: "https://builtin.com/job/senior-ml-ai-engineer/8638955"
+source: Built In

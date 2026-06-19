@@ -1,0 +1,46 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Healthcare technology and services improving health outcomes
+position:
+  title: Principal Java Full Stack Engineer with AI and Python
+  ai_type:
+    type: unknown
+    reasoning: |-
+      Despite the job title mentioning "AI and Python," the actual
+      job description contains no AI/ML responsibilities, skills,
+      or use cases. The role is focused on enterprise platform
+      strategy, team management, and traditional Java full-stack
+      engineering (Java, Spring, SQL/NoSQL, Angular/React, cloud).
+      The "AI" in the title appears to be aspirational or a hiring
+      keyword rather than reflecting actual AI work in the role.
+  responsibilities:
+  - Define and execute long-term platform strategy to improve quality, reliability,
+    security, scalability, and performance
+  - Own the end-to-end product life cycle and define/monitor success metrics
+  - Lead operations leaders to implement the platform vision
+  - Manage and influence stakeholders at all levels including executive leadership
+  - Collaborate across cross-functional teams with product owners and product managers
+  - Hire, retain, and mentor technical talent to grow as leaders
+  - Manage directly and indirectly reported team members with performance accountability
+  - Design, build, and deliver complex large-scale distributed services
+  use_cases:
+  - Enterprise technology infrastructure platform management
+  - Healthcare technology systems supporting care delivery
+  - Large-scale distributed services for health optimization
+  skills:
+    genai: []
+    ml: []
+    web: [Spring, AngularJS, ReactJS, Responsive Design]
+    databases: [SQL/NoSQL databases]
+    data: []
+    cloud: [Azure, AWS EC2]
+    ops: []
+    languages: [Java/JEE, Python]
+    domains: []
+    other: [Agile Methodologies, Distributed Systems]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9030956'
+  extracted_at: '2026-04-22T12:48:48.129230'

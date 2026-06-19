@@ -1,0 +1,55 @@
+company:
+  name: CrowdStrike
+  stage: Public
+  focus: AI-native cybersecurity platform protecting against breaches
+position:
+  title: Sr. Engineer, Sensor - Cloud & AI Runtime (C++/Linux/eBPF/K8s)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role involves building security infrastructure
+      (lightweight sensors using eBPF) that monitors and protects
+      AI workloads, but does not directly build, train, fine-tune,
+      or deploy AI/ML models. The role focuses on Linux system
+      software and runtime security for cloud-native environments,
+      with AI workloads being one of the things being
+      secured/monitored.
+  responsibilities:
+  - Build comprehensive runtime security solutions for Cloud and AI workloads deployed
+    at scale
+  - Design and develop highly scalable and highly performant Linux system software
+    components for security
+  - Engage and influence cutting edge security designs of Major Cloud & AI service
+    Providers through engineering partnerships
+  - Ensure systems and components reliability and performance through monitoring,
+    testing, and debugging
+  - Debug product issues found through test or customer cases to identify root cause
+    and use the input to improve tests
+  - Collaborate with cross-functional teams to integrate sensor and cloud solutions
+  - Lead strategic technical initiatives focusing on AI workloads, VMs, Containers
+    and Orchestrators security in multiple public and private cloud environments
+  - Participate in engineering best practices including secure coding, testing paradigms,
+    CI/CD and OS internals
+  use_cases:
+  - Runtime security for cloud-native and AI workloads
+  - Visibility and threat detection for AI/ML infrastructure
+  - Container and Kubernetes security across dynamic environments
+  - Prevention of threats targeting cloud-based AI systems
+  - Securing mission-critical cloud operations at scale
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Kubernetes, Public cloud platforms, Private cloud platforms]
+    ops: [Linux, eBPF, Docker, Linux Kernel modules, Hypervisors, Virtualization technologies,
+      CI/CD]
+    languages: [C/C++, Multi-threading]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8476872'
+  extracted_at: '2026-03-03T11:47:19.514939'

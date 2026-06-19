@@ -1,0 +1,52 @@
+company:
+  name: hyperexponential
+  stage: Series C+
+  focus: AI-powered insurance pricing and underwriting platform
+position:
+  title: Senior AI Engineer - UK remote
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is on an "AI Strike Team" but the work is
+      fundamentally about using AI tools to accelerate traditional
+      software engineering — not building, training, fine-tuning,
+      or deploying AI/ML models. The engineer uses AI-assisted
+      workflows (coding assistants, agentic tools) to ship product
+      features faster across the hx platform. This is AI-augmented
+      software engineering, not AI system building.
+  responsibilities:
+  - Design and deliver complex product epics at 3-5x baseline engineering velocity
+    using AI-native workflows
+  - Architect AI-assisted guardrails across the SDLC including autonomous testing
+    pipelines, AI-driven security reviews, and automated code quality agents
+  - Use AI tools to rapidly map dependencies and navigate unfamiliar codebase areas
+    for cross-domain improvements
+  - Build and evolve AI-native development workflows integrating tooling across coding,
+    testing, CI/CD, and deployment
+  - Translate successful AI-native practices into documented patterns and reusable
+    tooling that scale across the engineering organisation
+  - Partner with engineers and technical leaders to mentor teams and accelerate adoption
+    of AI-native engineering practices
+  use_cases:
+  - AI-assisted software development lifecycle acceleration
+  - Autonomous testing pipelines and AI-driven security reviews
+  - Automated code quality agents for production stability
+  - Insurance pricing and underwriting platform feature delivery
+  - Developer productivity improvement through AI-native tooling
+  skills:
+    genai: ['AI-assisted coding tools (e.g. GitHub Copilot, Cursor)', Agentic workflows,
+      Prompt engineering]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud infrastructure, AWS]
+    ops: [CI/CD systems, Automated testing, Docker, Kubernetes]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [System design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8977857'
+  extracted_at: '2026-04-22T13:02:54.152859'

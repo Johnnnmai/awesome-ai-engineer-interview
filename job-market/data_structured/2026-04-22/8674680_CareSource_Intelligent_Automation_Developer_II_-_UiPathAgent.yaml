@@ -1,0 +1,55 @@
+company:
+  name: CareSource
+  stage: Public
+  focus: Healthcare insurance and managed care services
+position:
+  title: Intelligent Automation Developer II - UiPath/Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves designing, developing, training,
+      and deploying AI/ML models and algorithms, as well as
+      implementing Agentic AI/Generative AI solutions. The
+      developer is hands-on with model training, feature
+      engineering, optimization, and deployment, which constitutes
+      building and deploying AI systems directly.
+  responsibilities:
+  - Collaborate with cross-functional teams to identify opportunities for intelligent/robotic
+    process automation and AI/ML to streamline business processes
+  - Gather and define requirements for AI/ML and automation projects, translating
+    business needs into technical specifications
+  - Analyze and preprocess data for AI/ML model development and collaborate with data
+    engineers on data pipelines and governance
+  - Design, develop, and deploy RPA/IPA solutions using UiPath and/or Power Automate,
+    creating and maintaining automation workflows
+  - Develop and deploy machine learning models including algorithm selection, feature
+    engineering, model training, and optimization
+  - Monitor performance of deployed AI/ML models and automation solutions, iterating
+    on improvements as necessary
+  - Ensure seamless integration of AI/ML and automation solutions into existing systems
+    and workflows
+  - Lead projects from a development standpoint, perform technical code reviews, and
+    provide guidance on emerging technologies
+  use_cases:
+  - Healthcare process automation using RPA and intelligent automation
+  - Intelligent process automation for claims processing and administrative workflows
+  - AI/ML-driven business process optimization to reduce manual efforts
+  - Agentic AI and Generative AI solutions for healthcare operations
+  - Data quality analysis and preprocessing for ML model development
+  skills:
+    genai: [Agentic AI, Generative AI]
+    ml: [ML model development, Feature engineering, Model training and optimization]
+    web: [Web service development]
+    databases: [Relational databases]
+    data: [Data preprocessing]
+    cloud: []
+    ops: [SVN/TFS version control]
+    languages: [Python, C#, VB.NET, ASP.NET, SQL]
+    domains: []
+    other: [UiPath, Power Automate, RPA/IPA solution design, XML/XSLT/Schema, UML
+        Modeling, Visual Studio]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8674680'
+  extracted_at: '2026-04-22T13:29:09.863413'

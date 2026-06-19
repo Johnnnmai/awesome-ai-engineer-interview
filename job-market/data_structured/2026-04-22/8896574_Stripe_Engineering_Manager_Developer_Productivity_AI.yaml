@@ -1,0 +1,47 @@
+company:
+  name: Stripe
+  stage: Public
+  focus: Financial infrastructure platform for businesses
+position:
+  title: Engineering Manager, Developer Productivity AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role leads a team explicitly tasked with deploying LLM
+      agents and tools to automate engineering workflows. The
+      team's core mission is building and deploying AI devtools
+      (LLM agents), making this an ai-first role despite the
+      management layer, as the manager is expected to be hands-on
+      in guiding AI system deployment.
+  responsibilities:
+  - Lead a senior, cross-continent team of engineers to rapidly deploy and exploit
+    the latest AI devtools
+  - Deliver compelling user and product experiences for internal engineering users
+  - Work across the company to redefine how software engineers at Stripe work
+  - Stay current with the fast-paced AI technology environment
+  - Dig deep into usage data on how engineers use AI tools to maximize productivity
+    benefits
+  - Set product direction for AI-powered developer productivity tools in a broad solution
+    space
+  - Recruit and build a high-performing engineering team
+  use_cases:
+  - Automating large portions of the software engineering workflow using LLM agents
+  - Internal developer productivity enhancement through AI tools
+  - Accelerating Stripe's engineering output by deploying LLM-based agents and tools
+  - Data-driven optimization of AI developer tool usage across engineering teams
+  skills:
+    genai: [LLM agents, AI developer tools]
+    ml: []
+    web: []
+    databases: []
+    data: [Data analysis]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Team management, Product development, Cross-functional collaboration]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8896574'
+  extracted_at: '2026-04-22T12:25:52.758712'

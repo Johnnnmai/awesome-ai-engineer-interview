@@ -1,0 +1,141 @@
+job_id: 8833121
+title: Software Engineer - AI Employee
+company: Central
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - APIs
+  - Caching
+  - Data Schemas
+  - Distributed Transactions
+  - Observability
+  - Queueing
+  - Rate-Limiting
+  - Systems Architecture
+description: |
+  About Central
+  
+  What is Central?
+  
+  Central eliminates back-office work for startups.
+  
+  While HR/payroll platforms give you software to figure it
+  out, Central actually does all the work using AI agents and
+  human experts: payroll, benefits, compliance, accounting,
+  taxes, and more.
+  
+  That's 10+ hours back every month. Thousands of founders
+  trust Central, including high-growth companies like Magic
+  Patterns, Wordware, and Bitesight.
+  
+  Learn more and start for free at centralhq.com.
+  
+  Why Central?
+  
+  Founders start companies to solve problems and build
+  something that matters. Not to become HR managers.
+  
+  Yet here we are in 2025. Despite countless $10B+
+  'solutions', founders are still drowning in back-office
+  bullshit.
+  
+  Why? Because every platform was built for HR professionals,
+  not founders.
+  
+  Today, every founder still has to: Register in multiple
+  states. Set up workers' comp. Categorize expenses. Decipher
+  government letters. Pay invoices. Update addresses. Manage
+  equity. Troubleshoot insurance. Answer PTO questions. The
+  list never ends.
+  
+  What a waste of time. But what's worse is the constant
+  anxiety: What am I missing? Did I do this right? Will I get
+  fined?
+  
+  What founders need isn't another tool they have to learn and
+  manage, but something that actually does the work. All of
+  it.
+  
+  As an early member, you'll have a seat at the table and help
+  Central scale to serve thousands of companies and founders.
+  
+  Our culture
+  
+  Central is a high-performance sports team with an extremely
+  high bar and 3 core values:
+  
+  - Think clearly
+  - Show high agency
+  - Craft magic
+  
+  ---------
+  
+  What you’ll do
+  
+  - Architect mission-critical workflows: Design, build, and
+    maintain stateful, end-to-end systems that ensure data
+    integrity (idempotency, reconciliation, audit trails) and
+    meet stringent compliance and reliability requirements.
+  - Iterate rapidly: Ship incremental, production-ready features
+    in days—prototype, gather real user feedback, and refine
+    relentlessly.
+  - Own your domain: Act as the technical product lead for core
+    platform areas—setting standards for code quality,
+    observability, testing, and operational excellence.
+  - Delight and empower customers: Partner with Product and
+    Support to translate user pain points into clean,
+    intuitive solutions that scale from a single startup to
+    enterprise.
+  - Push the limits with AI: AI is part of the DNA at Central.
+    We believe we can leverage it in a variety of ways to
+    automate things that were previously impossible and create
+    completely new user experiences.
+  
+  Who you are
+  
+  - Experienced systems architect: You’ve designed and delivered
+    large-scale, stateful architectures—modeling complex
+    domains, defining clear data schemas, and ensuring end-to-
+    end reliability.
+  - Distributed-transaction specialist: You’ve implemented
+    robust patterns for coordinating multi-step workflows
+    across disparate services and third-party APIs—handling
+    two-phase commits, sagas, idempotency, and compensating
+    actions to keep data consistent.
+  - Deep transactional-pipeline expertise: Comfort building
+    reconciled workflows with audit trails and automated
+    recovery, especially when orchestrating financial or
+    compliance-related operations.
+  - Reliability-first mindset: You bake in observability
+    (metrics, logs, alerts), fault tolerance, and graceful
+    degradation from day one.
+  - Scalability & performance focus: You understand caching,
+    queueing, rate-limiting, and have tuned systems to handle
+    rapid growth without sacrificing latency or correctness.
+  - Strategic thinker & communicator: You break down complex
+    trade-offs into clear plans, document your designs, and
+    keep cross-functional stakeholders aligned.
+  - Bias toward action & high standards: You ship prototypes
+    quickly, iterate based on real feedback, and insist on
+    production-ready quality in every release.
+  
+  What we offer
+  
+  - Competitive salary and equity
+  - Comprehensive benefits: Medical, dental, vision, 401k (US
+    employees only)
+  - Unlimited PTO and sick leave
+  - Remote work
+  - 2-4 off-sites per year
+  
+  Note for US Roles: We do not provide visa sponsorship. You
+  must be authorized to work in the U.S.
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-03-21
+url: "https://www.builtinla.com/job/software-engineer-ai-employee/8833121"
+source: Built In

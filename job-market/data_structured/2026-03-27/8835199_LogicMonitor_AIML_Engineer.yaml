@@ -1,0 +1,52 @@
+company:
+  name: LogicMonitor
+  stage: Private (established company)
+  focus: |-
+    AI-first hybrid observability platform for IT infrastructure
+    monitoring
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying LLM-based
+      solutions, NLP models, and RAG systems directly. The
+      engineer will develop AI-powered features including
+      generative AI solutions, embedding-based search, and
+      transformer model implementations - all hands-on work
+      building and deploying AI/ML systems.
+  responsibilities:
+  - Build and optimize LLM-based solutions for incident reports, root cause analysis,
+    and remediation suggestions
+  - Implement retrieval-augmented generation (RAG) to surface documentation, logs,
+    and knowledge base insights
+  - Develop semantic search and context-aware retrieval solutions for IT observability
+    data
+  - Optimize AI models for real-time performance in distributed cloud-native environments
+  - Integrate state-of-the-art AI models into LogicMonitor's observability platform
+  - Collaborate with platform engineers, product teams, and data scientists on AI-driven
+    features
+  - Develop NLP models and generative AI solutions for automation and insights
+  use_cases:
+  - IT infrastructure monitoring and observability
+  - Automated incident reporting and root cause analysis
+  - Remediation suggestions for IT operations
+  - Semantic search across logs, metrics, and documentation
+  - Alert fatigue reduction through AI-driven analytics
+  - Predictive trend analysis for enterprise IT stacks
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, OpenAI]
+    ml: [NLP, Transformer models, Embedding-based search, Hugging Face]
+    web: [REST APIs, Microservices]
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Kubernetes, Docker]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8835199'
+  extracted_at: '2026-03-27T15:55:07.762876'

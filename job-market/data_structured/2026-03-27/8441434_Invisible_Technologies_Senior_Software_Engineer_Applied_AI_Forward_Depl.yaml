@@ -1,0 +1,50 @@
+company:
+  name: Invisible Technologies
+  stage: Growth (raised $100M in Sept 2025)
+  focus: |-
+    AI platform for data structuring, workflow automation, and
+    agentic solutions
+position:
+  title: Senior Software Engineer, Applied AI (Forward Deployed)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that explicitly
+      involves hands-on work with AI systems - designing and
+      implementing AI-powered workflows using LLMs, embedding
+      models, and retrieval systems. The role involves directly
+      building, prototyping, and deploying AI solutions to
+      customers, which is core ai-first work.
+  responsibilities:
+  - Collaborate with delivery leaders to scope technical solutions to operational
+    problems
+  - Identify workflow optimizations through deep engagement with customer problems
+    and build stable, scalable solutions
+  - Design and implement AI-powered workflows using LLMs, embedding models, retrieval
+    systems, and automation tools
+  - Translate messy real-world constraints into elegant engineering solutions
+  - Iterate quickly based on real-time feedback from operators and clients
+  - Build reusable tooling and infrastructure that accelerates future deployments
+  use_cases:
+  - Structuring and cleaning messy company data for AI readiness
+  - Automating digital workflows and business processes
+  - Deploying agentic solutions for enterprise clients
+  - Supply chain automation
+  - AI-enabled simulations
+  - Data validation and decision support systems
+  skills:
+    genai: [LangChain, OpenAI, LLMs, Retrieval systems]
+    ml: [Hugging Face, Embedding models]
+    web: [FastAPI]
+    databases: [Pinecone]
+    data: [Kafka, ETL pipelines]
+    cloud: [GCP, AWS]
+    ops: [Docker, Kubernetes]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8441434'
+  extracted_at: '2026-03-27T14:35:12.197337'

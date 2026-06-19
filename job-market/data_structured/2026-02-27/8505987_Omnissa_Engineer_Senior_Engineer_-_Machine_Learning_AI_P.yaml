@@ -1,0 +1,55 @@
+company:
+  name: Omnissa
+  stage: Private
+  focus: |-
+    AI-driven digital workspace platform for secure remote work
+    experiences
+position:
+  title: Engineer / Senior Engineer - Machine Learning AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, deploying, and
+      fine-tuning ML models and LLMs. The responsibilities include
+      designing ML models for classification/prediction/anomaly
+      detection, fine-tuning LLMs, implementing RAG systems, and
+      deploying models to production. This is core AI/ML
+      engineering work, not support infrastructure.
+  responsibilities:
+  - Design, develop, and deploy machine learning models for classification, prediction,
+    anomaly detection, and intelligent automation
+  - Build and maintain scalable data pipelines for model training, evaluation, and
+    real-time/batch inference
+  - Optimize ML models and pipelines for performance, scalability, reliability, and
+    cost efficiency
+  - Collaborate with cross-functional teams to integrate ML solutions into core platform
+    features and services
+  - Conduct model experimentation, evaluation, and iteration using quantitative metrics
+    and A/B testing
+  - Implement model observability, monitoring, and drift detection to ensure production
+    reliability
+  - Stay current with advancements in machine learning, AI, and LLM technologies and
+    apply them to product use cases
+  use_cases:
+  - Predictive analytics for digital workspace management
+  - Personalization of user experiences across devices
+  - Intelligent automation for IT operations
+  - Anomaly detection for security and compliance
+  - Self-configuring, self-healing, and self-securing autonomous workspaces
+  skills:
+    genai: [LLM fine-tuning, prompt engineering, text embedding models, RAG, LangChain,
+      LangGraph]
+    ml: [PyTorch, TensorFlow, scikit-learn, feature stores]
+    web: [REST, gRPC]
+    databases: [vector databases]
+    data: [Spark, Ray, data pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, model monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8505987'
+  extracted_at: '2026-03-03T11:22:36.753575'

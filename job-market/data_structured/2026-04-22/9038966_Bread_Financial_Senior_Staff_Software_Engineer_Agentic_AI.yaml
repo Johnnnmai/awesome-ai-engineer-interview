@@ -1,0 +1,65 @@
+company:
+  name: Bread Financial
+  stage: Public
+  focus: |-
+    Tech-forward financial services providing payment, lending
+    and saving solutions
+position:
+  title: Senior Staff Software Engineer – Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building, designing, and deploying
+      agentic AI systems — including multi-agent frameworks, agent
+      runtimes, reasoning loops (ReAct, CoT, ToT), RAG memory
+      integration, and production agent platforms. The engineer is
+      hands-on with LLM-powered autonomous systems, not just
+      supporting infrastructure for others.
+  responsibilities:
+  - Design and enhance multi-agent frameworks and LLM-powered autonomous systems using
+    goal schemas, planner-executor patterns, and policy enforcement points, including
+    agent state and memory architectures
+  - Implement and refine ReAct, CoT, and ToT reasoning loops and standardize their
+    use across agent workflows, including agent-to-agent communication protocols using
+    LangGraph, AutoGen, or CrewAI
+  - Measure and improve agent decision reliability using observability tools, design
+    deterministic tool-chaining patterns with fallbacks, and implement safeguards
+    including idempotency, retries, and circuit-breaker logic
+  - Architect and implement safety controls including scoped tool access, allow/deny
+    actions, validators, red-team hooks, and human-escalation paths using AgentSpec
+    for Policy Enforcement Points
+  - Operate and scale production agentic AI platforms on Kubernetes with agent-centric
+    SLOs, deep telemetry instrumentation, and on-call support including automated
+    rollback/roll-forward
+  - Establish enterprise safety guardrails, ethical guidelines, and compliance standards
+    for agents in financial workflows
+  - Partner with Product to shape AI strategy and collaborate with data and backend
+    teams to ensure agents access high-quality real-time data across SQL systems,
+    CRMs, SaaS platforms, APIs, and event streams
+  - Mentor engineers and communicate complex agentic concepts to non-technical stakeholders
+    to build trust and organizational readiness
+  use_cases:
+  - Multi-agent workflows for financial classification, routing, and decisioning
+  - Anomaly detection and reconciliation in financial transactions
+  - Autonomous agent systems with policy enforcement for compliance in fintech
+  - Agent-assisted triage and incident management for production systems
+  - Enterprise-safe LLM-powered automation with PII minimization for financial services
+  skills:
+    genai: [LangGraph, AutoGen, CrewAI, LangChain, ReAct reasoning, Chain-of-Thought
+        (CoT), Tree-of-Thought (ToT), RAG, Prompt engineering, LLMs, OpenAI, Agent-based
+        systems]
+    ml: []
+    web: []
+    databases: [PostgreSQL, Redis, Graph Databases]
+    data: []
+    cloud: [AWS]
+    ops: [LangSmith, Arize Phoenix, Weights & Biases, Kubernetes, Terraform, Ansible,
+      Datadog, Grafana, Prometheus, New Relic]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9038966'
+  extracted_at: '2026-04-22T12:50:58.031447'

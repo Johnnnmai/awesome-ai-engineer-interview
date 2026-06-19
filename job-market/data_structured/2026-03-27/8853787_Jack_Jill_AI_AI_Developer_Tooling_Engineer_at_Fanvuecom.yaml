@@ -1,0 +1,44 @@
+company:
+  name: Jack & Jill AI
+  stage: Series A
+  focus: AI-powered creator platform
+position:
+  title: AI Developer Tooling Engineer at Fanvue.com
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI
+      systems - specifically MCP servers, custom agent skills, and
+      AI-ready infrastructure for code generation. The work is
+      hands-on with LLMs, agents, and RAG pipelines, not just
+      supporting infrastructure for others' AI work.
+  responsibilities:
+  - Standardize and roll out AI-assisted development stack across IDEs, PR workflows,
+    and CI/CD pipelines
+  - Build and operate MCP servers and AI-ready infrastructure for context-aware code
+    generation
+  - Establish best practices and playbooks for AI-assisted coding
+  - Lead integration of AI across the engineering organization
+  - Manage RAG pipelines and LLM embeddings for developer tooling
+  use_cases:
+  - AI-assisted code generation and development workflows
+  - Context-aware code generation with parallelized workflows
+  - Developer velocity multiplication through AI tooling
+  - Automated PR workflows and code quality improvements
+  skills:
+    genai: [MCP servers, Claude Code, Cursor, Aider, GitHub Copilot, RAG pipelines,
+      LLM embeddings, agentic workflows, Context 7]
+    ml: []
+    web: [Puppeteer]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8853787'
+  extracted_at: '2026-03-27T14:42:26.205853'

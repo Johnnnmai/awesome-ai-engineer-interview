@@ -1,0 +1,51 @@
+company:
+  name: S&P Global
+  stage: Public
+  focus: Financial data, analytics, and credit ratings
+position:
+  title: Java Developer (with Gen AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is primarily a Java backend developer role on the
+      Foreseer platform team. While the team builds AI/ML-powered
+      document extraction solutions, the role itself focuses on
+      Java development (Spring, microservices, distributed
+      systems). GenAI knowledge is listed as a qualification but
+      not as a core responsibility, and there are no hands-on
+      GenAI/ML building tasks described. The developer supports
+      the platform that AI/ML engineers work on.
+  responsibilities:
+  - Support and foster a quality-first, agile culture built on partnership, trust
+    and sharing
+  - Design, develop and maintain functionalities to create new solutions on the Foreseer
+    platform
+  - Learn and understand all aspects of the framework and project deliverables
+  - Write high quality code using industry best practices
+  - Implement new features and iterations of the project
+  - Implement security measures and compliance standards to protect sensitive data
+  - Maintain comprehensive documentation of platform, processes and procedures
+  - Apply industry standards, governance and best practices to deliver high quality
+    scalable solutions
+  use_cases:
+  - Information extraction from structured and semi-structured documents
+  - Information extraction from websites
+  - Human-in-the-loop AI/ML platform for digital transformation
+  - Distributed cloud-native auto-scalable document processing framework
+  skills:
+    genai: [GenAI Platforms]
+    ml: []
+    web: [Spring Boot, Spring JPA, Spring Security, Spring MVC, RESTful services,
+      Microservices, React, Vaadin]
+    databases: [RDBMS, NoSQL, Redis]
+    data: [ActiveMQ]
+    cloud: [AWS S3, AWS EKS, AWS EC2]
+    ops: [Docker/Containerization, CI/CD, Git, Azure DevOps]
+    languages: [Java, J2EE, Python]
+    domains: []
+    other: [Agile/Scrum]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9055866'
+  extracted_at: '2026-04-22T13:34:33.323070'

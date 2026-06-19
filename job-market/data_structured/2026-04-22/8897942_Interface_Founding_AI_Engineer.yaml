@@ -1,0 +1,49 @@
+company:
+  name: Interface
+  stage: Seed (YC S25)
+  focus: |-
+    Real-time interactive AI characters for entertainment and
+    social experiences
+position:
+  title: Founding AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building AI/ML systems — real-time
+      voice models, personality systems, fine-tuning, prompting
+      strategies, and generative techniques for interactive
+      characters. The engineer will own the "intelligence layer"
+      and work hands-on with model deployment, fine-tuning, and
+      optimization, making this clearly an ai-first role.
+  responsibilities:
+  - Build and optimize real-time voice models and pipelines for natural, low-latency
+    speech
+  - Develop personality systems, context management, and narrative consistency tools
+  - Experiment with prompting, fine-tuning, and custom model integration
+  - Explore generative techniques (diffusion, multimodal) to launch new product features
+  - Collaborate with rendering engineers to connect voice, visuals, and behavior
+  - Create metrics and frameworks for evaluating reliability, latency, and engagement
+  - Prototype and ship AI features directly into the product with fast iteration cycles
+  use_cases:
+  - Real-time expressive AI characters for interactive conversations
+  - Voice synthesis with low latency for natural speech
+  - Personality and narrative consistency for character interactions
+  - Shared virtual worlds and social entertainment experiences
+  - Multimodal generative features combining voice, visuals, and behavior
+  skills:
+    genai: [Prompt engineering, Conversational AI, LLM integration]
+    ml: [Voice models / speech synthesis, Fine-tuning, Custom model deployment, Diffusion
+        models, Multimodal AI, PyTorch]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Real-time systems optimization]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8897942'
+  extracted_at: '2026-04-22T13:32:44.625946'

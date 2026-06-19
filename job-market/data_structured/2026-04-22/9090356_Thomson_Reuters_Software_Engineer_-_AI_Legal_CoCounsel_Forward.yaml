@@ -1,0 +1,59 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Trusted information and technology for legal, tax, and
+    compliance professionals
+position:
+  title: Software Engineer - AI (Legal) – CoCounsel Forward Deployed Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineering role where the
+      engineer directly designs, builds, and deploys AI-powered
+      solutions including RAG pipelines, agentic workflows, and
+      multi-component AI systems for legal customers. The role
+      involves hands-on work with LLMs, prompt engineering, and
+      evaluating model outputs — clearly working ON AI systems
+      rather than just supporting them.
+  responsibilities:
+  - Design, build, and deploy AI-powered solutions for legal customers in partnership
+    with AI Solution Engineers and Architects
+  - Translate legal workflows and business needs into technical solutions combining
+    foundation models, proprietary AI capabilities, and legal-domain understanding
+  - Build and support RAG pipelines, agentic workflows, and multi-component AI systems
+    for legal use cases
+  - Support client engagements through technical discovery sessions, requirements
+    gathering, and scoping legal AI use cases
+  - Evaluate LLM outputs for legal accuracy, relevance, citation quality, consistency,
+    and hallucination risk
+  - Develop automation scripts, APIs, and integration components tailored to customer
+    environments
+  - Experiment with prompting strategies, workflow improvements, and emerging AI techniques
+    to improve legal use-case performance
+  - Configure and integrate solutions using CoCounsel, Westlaw, Practical Law, and
+    other enterprise platforms
+  use_cases:
+  - Contract review and analysis automation
+  - Litigation support and discovery automation
+  - Regulatory compliance analysis
+  - Legal document retrieval and question answering via RAG
+  - Agentic workflow automation for legal processes
+  - Legal research with citation verification and hallucination detection
+  skills:
+    genai: [RAG, Agentic workflows, Prompt engineering, LLM evaluation, OpenAI APIs,
+      Anthropic APIs, Embeddings]
+    ml: [Machine Learning]
+    web: [REST APIs]
+    databases: [Vector databases]
+    data: [Data pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, CI/CD]
+    languages: [Python, SQL]
+    domains: [NLP, Legal domain knowledge]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9090356'
+  extracted_at: '2026-04-22T14:16:14.202740'

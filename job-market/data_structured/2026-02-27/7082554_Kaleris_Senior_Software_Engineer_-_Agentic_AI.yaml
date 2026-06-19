@@ -1,0 +1,54 @@
+company:
+  name: Kaleris
+  stage: Unknown
+  focus: Supply chain software and logistics solutions
+position:
+  title: Senior Software Engineer - Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is ai-first because it involves hands-on work
+      building and deploying agentic AI systems using LangGraph
+      and similar frameworks. The engineer will architect agentic
+      systems, own the full model lifecycle from prototyping to
+      production deployment, and work directly with LLM
+      orchestration, RAG systems, and multi-agent architectures.
+  responsibilities:
+  - Architect and lead development of advanced agentic AI systems using LangGraph
+    or similar frameworks
+  - 'Own the full model lifecycle: research, solution design, prototyping, optimization,
+    testing, and production deployment'
+  - Lead and mentor the AI team, setting best practices for model quality, scalability,
+    and responsible AI
+  - Integrate LLMs with enterprise data, orchestration systems, and workflow automation
+    (RAG, vector search, API development)
+  - Collaborate with engineering, product, and business stakeholders to define AI-driven
+    product features and roadmaps
+  - Conduct technical reviews, establish coding standards, and ensure codebase robustness
+  - Optimize AI infrastructure for performance, cost, and reliability (cloud, MLOps,
+    container orchestration)
+  - Ensure AI model governance, fairness, and compliance with ethical/organizational
+    standards
+  use_cases:
+  - Autonomous workflow orchestration for supply chain operations
+  - Enterprise agentic AI systems for logistics
+  - Neural search and advanced RAG for enterprise data integration
+  - Multi-agent systems for complex business process automation
+  - LLM-powered workflow automation with enterprise data
+  skills:
+    genai: [LangGraph, LangChain, CrewAI, RAG, Prompt engineering, 'Agentic patterns
+        (ReAct, Agentic Loops)', Multi-agent systems, LLM orchestration, Neural search]
+    ml: []
+    web: [FastAPI, Django, API development, Microservices]
+    databases: [Vector databases]
+    data: [Data pipelines]
+    cloud: [AWS, Azure]
+    ops: [Docker, Kubernetes, CI/CD, MLOps]
+    languages: [Python, AsyncIO]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7082554'
+  extracted_at: '2026-03-03T11:41:36.821367'

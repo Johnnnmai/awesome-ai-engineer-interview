@@ -1,0 +1,48 @@
+company:
+  name: Nearform
+  stage: null
+  focus: |-
+    Digital consulting building AI-enabled solutions for
+    enterprises
+position:
+  title: Senior Software Engineer (AI / ML, Python) (Perm, London)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires deep knowledge of modern AI frameworks and
+      explicit experience building AI agents. The primary
+      responsibility is designing and building applications using
+      Python and AI tools, which involves hands-on work with AI
+      systems including agents.
+  responsibilities:
+  - Design and build applications using Python and AI tools
+  - Support component design, development and maintenance with responsibility for
+    technical quality standards
+  - Define structured practices for source code management, building and deployment
+  - Design and implement data storage solutions
+  - Optimize application performance for maximum speed and scalability
+  - Gather feedback from users and clients to build solutions
+  - Analyze client requirements and collaborate with client teams
+  - Work with Technical Leaders in project execution and timely delivery
+  use_cases:
+  - AI-enabled solutions for enterprise clients
+  - Intelligent digital products and experiences
+  - Legacy system modernization using AI
+  - Developer empowerment tools
+  - Breakthrough product development
+  skills:
+    genai: [AI frameworks, AI agents]
+    ml: []
+    web: []
+    databases: [Databases]
+    data: []
+    cloud: [Cloud environments]
+    ops: [Git, CI/CD, Unit testing, Integration testing, End-to-end testing]
+    languages: [Python]
+    domains: []
+    other: [Agile methodology]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8813384'
+  extracted_at: '2026-03-27T15:50:52.221950'

@@ -1,0 +1,55 @@
+company:
+  name: Distyl AI
+  stage: Series B
+  focus: |-
+    Applied AI technology company building AI-native operations
+    for Fortune 500 enterprises
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is ai-first because the role involves directly building
+      and deploying LLM-powered AI systems, including agent
+      workflows, prompt engineering, and full-stack AI products.
+      The engineer works hands-on with LLMs, RAG pipelines, and AI
+      agents in production environments, not just supporting
+      infrastructure for others' AI work.
+  responsibilities:
+  - Design, develop, and deploy robust AI applications using LLMs, including prompt
+    engineering, agent workflows, tool use, and full-stack AI products
+  - Partner closely with enterprise stakeholders to understand complex problems and
+    translate them into impactful AI solutions
+  - Design scalable architectures for production AI systems, balancing performance,
+    reliability, cost, and maintainability
+  - Contribute to Distillery internal LLM application platform by building reusable
+    infrastructure, tools, and workflows
+  - Develop evaluation frameworks that measure model performance across accuracy,
+    latency, cost, reliability, and safety
+  - Ensure systems meet high standards for observability, reliability, security, and
+    maintainability
+  - Improve development workflows, evaluation practices, and deployment strategies
+  use_cases:
+  - Intelligent agents for enterprise workflow automation
+  - Mission-critical operations transformation using AI
+  - Consumer interaction automation at massive scale
+  - Supply chain transaction processing
+  - Healthcare patient journey optimization
+  - Enterprise AI system deployment for Fortune 500 companies
+  skills:
+    genai: [LangChain, LlamaIndex, Guardrails, MCP, Agent frameworks, RAG pipelines,
+      Prompt engineering, Tool use, Agent workflows, LLM application development]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [DevOps, Observability tools]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8771875'
+  extracted_at: '2026-03-27T13:21:57.160920'

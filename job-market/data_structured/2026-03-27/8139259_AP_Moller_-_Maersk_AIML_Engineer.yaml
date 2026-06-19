@@ -1,0 +1,52 @@
+company:
+  name: A.P. Moller - Maersk
+  stage: Public
+  focus: Global container shipping and logistics company
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on traditional ML/DL with PyTorch,
+      simulation methods (Monte Carlo, discrete event, agent-
+      based), reinforcement learning, and optimization. While LLMs
+      are mentioned as a "plus" qualification, the core
+      requirements emphasize standard ML, time-series forecasting,
+      deep learning, and operations research - all traditional ML
+      techniques applied to supply chain problems.
+  responsibilities:
+  - Design, develop, and implement robust, scalable machine learning and deep learning
+    models
+  - Implement best practices in security, pipeline automation, and error handling
+  - Research and implement new models, technologies, and methodologies into production
+    systems
+  - Identify and implement data-driven approaches to solve ambiguous business problems
+  - Manage and optimize data solutions, perform A/B testing, and evaluate system performance
+  - Apply creative problem-solving to design algorithms and optimized workflows
+  - Contribute to design and documentation of AI/ML solutions for cross-team collaboration
+  - Collaborate across teams to develop scalable AI/ML solutions aligned with business
+    goals
+  use_cases:
+  - Supply chain execution optimization
+  - Strategic decision-making support through actionable insights
+  - Recommendation systems for internal stakeholders and external customers
+  - Predictive analytics for logistics operations
+  - Intelligent automation of supply chain processes
+  skills:
+    genai: [LangChain, LLMs, GPT]
+    ml: [PyTorch, scikit-learn, Deep Learning, Neural Networks, Reinforcement Learning,
+      Time-series modelling, Hugging Face transformers, BERT, Gurobi, SimPy, Monte
+        Carlo simulation, Statistical Analysis]
+    web: []
+    databases: []
+    data: [Spark, Big Data Technologies, Airflow]
+    cloud: []
+    ops: [KubeFlow, MLOps, Docker, Kubernetes, CI/CD, Git]
+    languages: [Python, SQL]
+    domains: []
+    other: [PowerBI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8139259'
+  extracted_at: '2026-03-27T15:02:09.623158'

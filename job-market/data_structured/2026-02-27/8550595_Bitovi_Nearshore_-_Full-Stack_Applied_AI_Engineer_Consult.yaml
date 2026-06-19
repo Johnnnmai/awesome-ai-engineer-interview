@@ -1,0 +1,49 @@
+company:
+  name: Bitovi
+  stage: Unknown
+  focus: |-
+    Enterprise web application consulting and intelligent
+    automation solutions
+position:
+  title: Nearshore - Full-Stack Applied AI Engineer Consultant
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building production-ready AI
+      solutions including Agents using LangChain, implementing RAG
+      techniques with vector databases, and utilizing advanced
+      model features like tool calling. The engineer will deploy
+      and fine-tune AI models for enterprise clients.
+  responsibilities:
+  - Build production-ready Intelligent Automations and Agentic AI solutions for enterprise
+    clients
+  - Implement intelligent workflows and AI agents using LangChain and related frameworks
+  - Design and deploy advanced RAG systems leveraging vector databases
+  - Utilize multiple AI models and content modalities for client solutions
+  - Implement tool calling and advanced model features
+  - Work directly with clients as a consultant to guide technical decisions
+  - Deploy and manage AI solutions in cloud environments
+  - Contribute to open source, speak at conferences, and share knowledge
+  use_cases:
+  - Intelligent automation for enterprise clients
+  - Agentic AI systems and workflows
+  - RAG-based knowledge retrieval and search
+  - Multi-modal AI solutions
+  - Custom AI model deployment and fine-tuning
+  - Production AI system deployment
+  skills:
+    genai: [LangChain, RAG, Tool calling, AI agents]
+    ml: [Fine-tuning models, Open-source model deployment, Reinforcement learning]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD, GitHub Actions, TravisCI, Automated testing]
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8550595'
+  extracted_at: '2026-03-03T11:44:41.476391'

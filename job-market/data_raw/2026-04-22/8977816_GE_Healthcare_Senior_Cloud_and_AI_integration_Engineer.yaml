@@ -1,0 +1,134 @@
+job_id: 8977816
+title: Senior Cloud and AI integration Engineer
+company: GE Healthcare
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ci/Cd
+  - Cloud-Native Development
+  - DevOps
+  - Docker
+  - Generative Ai
+  - Infrastructure As Code
+  - Kubernetes
+  - Microservices
+  - Pulumi
+  - Terraform
+company_size: 50,282 Employees
+description: |
+  Job Description Summary
+  
+  Job DescriptionJob Summary
+  
+  We are seeking a Software Engineer with strong expertise in
+  cloud‑native development, microservices architecture, and
+  software system design. The ideal candidate has strong
+  programming skills, experience with modern DevOps practices,
+  and working knowledge of Generative AI concepts (LLMs, RAG,
+  Agentic AI) to build and automate intelligent workflows.
+  This role focuses on integrating AI capabilities into
+  applications—including building MCP (Model Context Protocol)
+  servers, context providers, and orchestration layers—not on
+  building, deploying, or hosting AI models. Experience with
+  DICOM or healthcare systems is a strong plus.
+  
+  Key ResponsibilitiesCloud‑Native & Backend Engineering
+  
+  - Design, develop, and maintain scalable microservices‑based
+    applications on a major cloud provider.
+  - Develop backend services with clean, maintainable, testable
+    code.
+  - Ensure availability, resiliency, scalability, performance,
+    and observability across services.
+  - Contribute to system architecture including service
+    decomposition, data flows, and integration patterns.
+  - Apply distributed systems best practices including fault
+    tolerance, idempotency, caching, and asynchronous or
+    event‑driven patterns.
+  - Promote cloud‑first and API‑first architectural principles.
+  - Participate in design reviews and provide technical
+    leadership on architecture decisions.
+  
+  DevOps, Platform & Infrastructure as Code
+  
+  - Implement Infrastructure as Code (IaC) using tools such as
+    Terraform, Pulumi, or native cloud frameworks.
+  - Develop and maintain CI/CD pipelines for automated build,
+    test, security scanning, and deployment.
+  - Use Docker and Kubernetes for containerization and
+    orchestration.
+  - Build and deploy services using compute, storage,
+    networking, and data services from any major cloud
+    provider.
+  
+  AI Integration (MCP & Orchestration)
+  
+  - Implement context providers, adapters, and orchestration
+    layers that enable reliable interactions between
+    applications and AI models.
+  - Develop pipelines for prompt engineering, context retrieval,
+    tool invocation, rate limiting, and response
+    orchestration.
+  - Integrate with hosted AI platforms to operationalize
+    AI‑driven features.
+  - Implement guardrails, validation, monitoring, and safety
+    measures to ensure responsible AI usage
+  - Design and build MCP (Model Context Protocol) servers and
+    supporting components to integrate enterprise systems,
+    data sources, and workflows with LLMs.
+  
+  Collaboration & Compliance
+  
+  - Collaborate effectively with frontend engineers and
+    understand how backend services integrate with
+    TypeScript‑based UI components.
+  - Work with Data Science, Applied AI, Platform, and Product
+    teams to deliver end‑to‑end features.
+  - Ensure secure and compliant handling of sensitive healthcare
+    data when applicable.
+  - Translate business requirements into scalable technical
+    implementations.
+  - Participate in code reviews, quality practices, and
+    continuous improvement.
+  
+  Required Qualifications
+  
+  - Bachelor’s or Master’s degree in Computer Science,
+    Engineering, or a related field.
+  - 3+ years of experience building cloud‑native applications.
+  - Hands‑on experience with:
+    - Cloud platforms such as AWS, Azure, or GCP
+    - Microservices architecture
+    - Docker and Kubernetes
+    - CI/CD pipelines
+    - Infrastructure as Code using Terraform, Pulumi, or native
+      cloud frameworks
+  - Strong understanding of software architecture and
+    distributed systems.
+  - Working knowledge of (2+ years of working experience):
+    - LLMs, RAG, and Agentic AI concepts
+    - AI‑based workflow integration including prompting,
+      grounding, and orchestration
+  
+  Preferred Qualifications
+  
+  - Master’s degree in Data Science fields
+  - Experience integrating Generative AI features into
+    production systems.
+  - Experience in healthcare or medical technology domains.
+  - Understanding of DICOM standards or imaging workflows.
+  - Building server components or integration layers, including
+    protocol‑based services such as MCP servers
+  
+  Additional Information
+  
+  Relocation Assistance Provided: Yes
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Analytics
+  - Biotech
+posted_date: 2026-04-07
+url: "https://builtin.com/job/senior-cloud-and-ai-integration-engineer/8977816"
+source: Built In

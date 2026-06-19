@@ -1,0 +1,55 @@
+company:
+  name: RingCentral
+  stage: Public
+  focus: |-
+    Cloud communications and collaboration platform with AI-
+    powered features
+position:
+  title: Staff AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work building, fine-
+      tuning, and deploying LLM-based systems including RAG
+      pipelines, prompt engineering, and model optimization. The
+      position owns the full model lifecycle from data preparation
+      to production deployment, which is core AI-first work.
+  responsibilities:
+  - Design, fine-tune, and deploy LLM-based applications for Conversational AI use
+    cases
+  - Build scalable retrieval-augmented generation (RAG) pipelines combining LLMs with
+    structured/unstructured data sources
+  - Develop prompt engineering strategies, templates, and evaluation frameworks for
+    LLM-driven workflows
+  - Collaborate with cross-functional teams to identify and implement AI-driven solutions
+    to business problems
+  - Optimize models for low-latency inference using quantization, distillation, and
+    optimization techniques
+  - Build robust data processing, labeling, and augmentation pipelines to improve
+    model performance
+  - Implement monitoring and evaluation systems for deployed LLMs ensuring reliability,
+    fairness, and safety
+  use_cases:
+  - Conversational AI systems
+  - Retrieval-augmented generation pipelines
+  - Natural Language Understanding applications
+  - Intelligent products and services
+  - LLM-driven workflows with prompt engineering
+  skills:
+    genai: [LLMs, Retrieval-Augmented Generation (RAG), Prompt Engineering, OpenAI
+        API, Gemini API, LlamaIndex]
+    ml: [PyTorch, Hugging Face Transformers, Sentence Transformers, Model fine-tuning,
+      Quantization, Model distillation, Embedding models]
+    web: []
+    databases: [FAISS, Qdrant, pgvector, Vector databases]
+    data: []
+    cloud: []
+    ops: [ONNX, TensorRT, MLOps, Model serving and monitoring]
+    languages: [Python]
+    domains: [NLU, NLP, Transformer architectures]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8776859'
+  extracted_at: '2026-03-27T13:20:13.461009'

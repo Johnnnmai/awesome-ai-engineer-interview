@@ -1,0 +1,54 @@
+company:
+  name: Autodesk
+  stage: Public
+  focus: |-
+    3D modeling, CAD, CAM, CAE, and PCB software platform for
+    product design and manufacturing
+position:
+  title: Senior QA Engineer- AI Rendering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on validation and testing of AI/ML
+      models for rendering, including accuracy testing, output
+      quality assessment, performance validation, and developing
+      methodologies to evaluate AI-generated outputs. While it's a
+      QA role rather than model development, the engineer works
+      directly ON AI systems to validate model quality and
+      reliability.
+  responsibilities:
+  - Lead QA strategy and execution for AI Rendering and Graphics features; mentor
+    junior team members
+  - Design and execute AI model validation including accuracy testing, output quality
+    assessment, and regression testing across model versions
+  - Develop methodologies to evaluate AI-generated rendering outputs using quality
+    metrics and consistency checks
+  - Architect and develop automation frameworks for AI validation and graphics testing
+  - Validate AI model performance (latency, throughput, memory) across different hardware
+    configurations
+  - Perform manual and automated testing for graphics-related features within Fusion
+  - Verify AI rendering and graphics consistency across different OS, platforms, and
+    hardware
+  - Investigate and validate customer-reported issues; collaborate with development
+    teams on root cause analysis
+  use_cases:
+  - AI-powered 3D rendering for product design
+  - Graphics rendering quality assurance for CAD/CAM software
+  - Computer vision and image generation validation
+  - AI model performance optimization across hardware configurations
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, ONNX, SSIM, PSNR]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python]
+    domains: [Computer Vision, Image Generation]
+    other: [Fusion 360, Test Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8222359'
+  extracted_at: '2026-03-03T11:18:03.421908'

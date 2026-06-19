@@ -1,0 +1,54 @@
+company:
+  name: LangChain
+  stage: Series B
+  focus: |-
+    Building the foundation for agent engineering — tools and
+    platform for building, evaluating, deploying, and operating
+    AI agents at scale
+position:
+  title: Senior Backend Software Engineer, AI Observability & Evals Platform (LangSmith)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is a backend engineering position focused on
+      building the infrastructure (observability, tracing,
+      evaluation platform) that supports AI developers, not on
+      building/training/deploying AI models directly. The engineer
+      builds the LangSmith platform's backend services—storage,
+      APIs, monitoring—but does not work on models, agents, or
+      GenAI systems themselves. It's enabling infrastructure for
+      AI practitioners.
+  responsibilities:
+  - Design, develop, and maintain backend services and APIs to support LangSmith's
+    tracing, monitoring, and evaluation workflows
+  - Collaborate on architectural decisions to ensure systems are performant and maintainable
+  - Optimize storage and query performance for high-volume observability and evaluation
+    data
+  - Ensure system reliability through strong testing, monitoring, and alerting practices
+  - Troubleshoot and resolve production issues, performing root-cause analysis and
+    implementing long-term fixes
+  - Create and maintain technical documentation, including system design and API references
+  - Work closely with full-stack engineers, product managers, and product designers
+    on rolling out new features
+  use_cases:
+  - AI application observability — tracing and monitoring LLM/agent runs in production
+  - Evaluation of AI systems — automated and manual evaluation workflows for AI applications
+  - Production reliability monitoring for AI agents and LLM-based systems
+  - High-volume data storage and querying for observability and evaluation metrics
+  - Annotation and run rules for AI system debugging and improvement
+  skills:
+    genai: []
+    ml: []
+    web: [API design, REST APIs]
+    databases: [PostgreSQL, Redis, ClickHouse]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Performance tuning, Monitoring and alerting, System reliability]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7033254'
+  extracted_at: '2026-04-22T13:42:21.121103'

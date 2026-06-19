@@ -1,0 +1,48 @@
+company:
+  name: Five9
+  stage: Public
+  focus: Cloud contact center software with AI capabilities
+position:
+  title: Senior Software Engineer in AI – FrontEnd React/Redux, Java
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is for a Senior FrontEnd Software Engineer
+      building web UIs that bring AI technologies to users. The
+      role focuses on React/Redux frontend development, with AI
+      integration handled via vendor APIs. The description
+      explicitly states "Prior AI experience is not required" and
+      the core work is building high-performance web platforms,
+      not building, training, or deploying AI models directly.
+  responsibilities:
+  - Implement UX designs using React/Redux based framework in collaboration with UX
+    Designers
+  - Develop scalable, highly available application platform on modern PaaS platforms
+    such as GCP
+  - Participate in requirements analysis and grooming sessions within an agile team
+  - Leverage PaaS components including CDN and NoSQL databases to achieve scalability
+    and reliability
+  - Build custom widgets for dashboards using Google Looker Studio plugins (optional)
+  - Document and communicate architecture and implementation solutions clearly
+  - Own code in production including on-call support and troubleshooting
+  use_cases:
+  - Cloud contact center AI-powered customer interactions
+  - AI-powered contact center agent assistance and automation
+  - Real-time communications with speech recognition and NLP capabilities
+  - Dashboard and analytics for contact center operations
+  skills:
+    genai: [OpenAI API]
+    ml: []
+    web: [React, Redux, UI design patterns]
+    databases: [NoSQL databases]
+    data: []
+    cloud: [GCP, Azure AI]
+    ops: [CDN]
+    languages: [JavaScript, Java]
+    domains: []
+    other: [Google Looker Studio, Agile/Scrum, Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9037887'
+  extracted_at: '2026-04-22T13:14:11.522955'

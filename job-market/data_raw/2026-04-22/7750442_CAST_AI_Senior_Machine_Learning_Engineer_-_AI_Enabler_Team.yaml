@@ -1,0 +1,183 @@
+job_id: 7750442
+title: Senior Machine Learning Engineer - AI Enabler Team
+company: CAST AI
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Argocd
+  - AWS
+  - Azure
+  - Clickhouse
+  - GCP
+  - Gcp Pub/Sub
+  - Gitlab Ci
+  - Grafana
+  - Grpc
+  - Kubernetes
+company_size: 325 Employees
+description: |
+  Why Cast AI?
+  
+  Cast AI is an automation platform that operates cloud-native
+  and AI infrastructure at scale. By embedding autonomous
+  decision-making directly into Kubernetes and cloud
+  environments, Cast AI continuously optimizes performance,
+  reliability, and efficiency in production. The old way
+  doesn't work. As Kubernetes and AI environments grow, manual
+  decisions don’t. Cast AI replaces tickets, alerts, and
+  manual tuning with continuous automation that adapts
+  infrastructure as conditions change. Efficiency and cost
+  savings follow naturally from that automation. Over 2,100
+  companies already rely on Cast AI, including Akamai, BMW,
+  Cisco, FICO, HuggingFace, NielsenIQ, Swisscom, and TGS.
+  Global team, diverse perspectives
+  
+  We're headquartered in Miami, but our impact is
+  international. We take a global and intentional approach to
+  diversity. Today, Cast AI operates across 34 countries
+  spanning Europe, North America, Latin America, and APAC,
+  bringing a wide range of perspectives into how we build and
+  lead. Unicorn momentum
+  
+  In January 2026, we achieved unicorn status with a strategic
+  investment from Pacific Alliance Ventures, the corporate
+  venture arm of Shinsegae Group (a $50+ billion Korean
+  conglomerate). Our valuation now exceeds $1 billion, and
+  we're just getting started.
+  
+  Join us as we build the future of autonomous infrastructure.
+  
+  About the role
+  
+  In the AI Enabler team, our day is usually full of R&D
+  challenges. Have you ever encountered a situation where you
+  need to expand your AI infrastructure so that the
+  applications can automatically pick the right large language
+  models (LLMs) that are both more cost-efficient and better
+  performing? Most of us probably do nowadays, or at least
+  understand the complexity of making such decisions while
+  keeping track of our cloud budget.
+  
+  One of the team's responsibilities is ensuring that whenever
+  a customer makes AI-related decisions regarding their K8s
+  infrastructure, they are implemented automatically without
+  unnecessary costs or hassle. This is just one small piece of
+  a bigger puzzle. To get into a more detailed perspective,
+  ask yourself the following questions:
+  
+  - How often do you use LLMs?
+  - What is the least expensive LLM you can pick for a given
+    prompt without degrading the quality of the response?
+  - How much do your applications cost per 1 million tokens and
+    how can you improve it?
+  - Which API keys have the biggest waste?
+  - How can you improve your frequently running prompt to use
+    fewer tokens?
+  - What is fine-tuning and how to do it efficiently?
+  - What is a transformer?
+  
+  These are just several of the many questions that are part
+  of the daily work of this team.
+  
+  Being a part of this team would involve design and decision-
+  making end-to-end while collaborating with colleagues from
+  other teams. Cast AI, being a technical product, encourages
+  not only coding something as written in the JIRA ticket but
+  also coming up with new features and potential solutions to
+  customers' problems. Given that the team is working on a
+  technical greenfield project, you will have the opportunity
+  to impact it in many ways positively.
+  
+  Here are some of the tools we use daily:
+  
+  - Python
+  - vLLM, SGLang, TensorRT, PyTorch
+  - ClickHouse and PostgreSQL for persistence
+  - GCP Pub/Sub for messaging
+  - gRPC for internal communication
+  - REST for public APIs
+  - Kubernetes, which our product is evolving around
+  - AWS, GCP, and Azure cloud providers, which are currently
+    supported in our platform
+  - We use GitLab CI with ArgoCD as our GitOps CD engine
+  - Prometheus, Grafana, Loki, and Tempo for observability.
+  
+  Requirements:
+  
+  - 5+ years of hands-on experience in Data Science and Machine
+    Learning, with a proven track record, demonstrated through
+    a robust portfolio of projects.
+  - Strong software engineering skills in Python.
+  - Ability to move fast in an environment where things are
+    sometimes loosely defined and may have competing
+    priorities or deadlines.
+  - Expertise in ML inference optimizations, including
+    techniques such as:
+    - Reducing initialization time and memory requirements;
+    - Utilizing reduced precision and weight quantization;
+    - Inference engine tuning (vLLM, SGLang, TensorRT).
+  - Knowledge of network optimization for distributed ML
+    training and inference.
+  - Understanding of distributed training patterns and
+    checkpointing strategies.
+  - You have to be physically in any of the European countries
+    GMT 0 to GMT +3.
+  - Strong English skills.
+  - Strong verbal and written communication skills.
+  - Ability to work independently and collaborate in a group.
+  
+  Responsibilities:
+  
+  - Evaluate and Analyze LLM performance.
+  - Architect and build inference and training pipelines,
+    directly contributing through hands-on design, model
+    training pipeline, and deployment strategies.
+  - Stay up to date with industry trends.
+  
+  What’s in it for you?
+  
+  - Competitive salary (€6,500 - €9,000 gross, depending on the
+    level of experience)
+  - Enjoy a flexible, remote-first global environment.
+  - Collaborate with a global team of cloud experts and
+    innovators, passionate about pushing the boundaries of
+    Kubernetes technology
+  - Equity options.
+  - Private health insurance.
+  - Get quick feedback with a fast-paced workflow. Most feature
+    projects are completed in 1 to 4 weeks.
+  - Spend 10% of your work time on personal projects or self-
+    improvement.
+  - Learning budget for professional and personal development -
+    including access to international conferences and courses
+    that elevate your skills.
+  - Annual hackathon to spark new ideas and strengthen team
+    bonds.
+  - Team-building budget and company events to connect with your
+    colleagues.
+  - Equipment budget to ensure you have everything you need.
+  - Extra days off to help maintain a healthy work-life balance.
+  
+  Hiring process
+  
+  - Screening call with Recruiter
+  - Hiring Manager interview
+  - Technical interview (system design)
+  - Live coding
+  - Culture Check interview with an executive
+  
+  *As part of our standard hiring process, we would like to
+  inform you that a background check may be conducted at the
+  final stage of recruitment through our third-party provider,
+  Checkr. *Please note that Cast AI does not provide any form
+  of visa sponsorship/work permit.
+  
+  #LI-Remote
+industries:
+  - Big Data
+  - Cloud
+  - Software
+posted_date: 2026-04-15
+url: "https://builtin.com/job/senior-machine-learning-engineer-ai-enabler-team/7750442"
+source: Built In

@@ -1,0 +1,51 @@
+company:
+  name: Zscaler
+  stage: Public
+  focus: |-
+    Zero trust cloud security platform with AI-powered
+    cybersecurity
+position:
+  title: Staff Machine Learning Engineer (Agentic AI/Gen AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, fine-tuning, and deploying LLM-
+      based systems including RAG and Agentic AI architectures.
+      The engineer will design and deploy production-grade Gen
+      AI/ML systems, directly working with models from
+      implementation through production.
+  responsibilities:
+  - Design and deploy scalable production-grade Gen AI/ML systems from data ingestion
+    to monitoring
+  - Drive innovation by researching and evaluating emerging AI/ML frameworks and prototyping
+    novel solutions
+  - Implement and maintain robust MLOps practices including logging, monitoring, and
+    CI/CD pipelines for distributed ML systems
+  - Lead and mentor junior engineers in system design best practices while promoting
+    technical excellence
+  - Collaborate with cross-functional teams to translate complex business needs into
+    high-impact technical solutions
+  - Bridge the gap between research and production for AI/ML systems
+  - Influence technical direction and drive technical excellence across the organization
+  use_cases:
+  - Cyber threat detection and policy violation prevention
+  - Zero trust security platform automation
+  - Cloud security intelligence and analysis
+  - Enterprises productivity enhancement through AI
+  - Billions of daily threat analysis and response
+  skills:
+    genai: [LLMs, Fine-tuning, Retrieval-Augmented Generation (RAG), Agentic AI]
+    ml: [PyTorch, TensorFlow, scikit-learn, Distributed ML systems]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure, Kubeflow, SageMaker]
+    ops: [MLOps, CI/CD, Monitoring, Logging, Distributed systems]
+    languages: [Python, SQL, Go, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8057267'
+  extracted_at: '2026-03-03T11:43:52.657776'

@@ -1,0 +1,42 @@
+company:
+  name: Ecolab
+  stage: Public
+  focus: Water, hygiene and energy technologies and services
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying
+      GenAI systems including LLMs, multi-agent workflows, and RAG
+      solutions. The engineer owns architecture and delivery of AI
+      systems, which is core AI-first work, not support work.
+  responsibilities:
+  - Own architecture and delivery of GenAI-based systems
+  - Integrate large language models (LLMs) into production applications
+  - Design and implement multi-agent workflow systems
+  - Build embedding-powered retrieval solutions (RAG)
+  - Lead cross-functional pods and define engineering standards
+  - Manage team of associates with functional and administrative responsibilities
+  - Drive innovation through scalable, production-grade intelligent applications
+  use_cases:
+  - Intelligent applications for industrial operations
+  - Enterprise knowledge retrieval and search
+  - Automated decision support systems
+  - Process optimization through AI
+  skills:
+    genai: [Large Language Models (LLMs), Multi-agent workflows, RAG, Embeddings]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud platforms]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8862240'
+  extracted_at: '2026-03-27T13:15:55.033095'

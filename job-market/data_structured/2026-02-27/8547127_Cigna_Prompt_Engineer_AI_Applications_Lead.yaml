@@ -1,0 +1,56 @@
+company:
+  name: Cigna
+  stage: Public
+  focus: Healthcare insurance and health services
+position:
+  title: Prompt Engineer & AI Applications Lead
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work designing, testing, and
+      optimizing prompts, chains, and system instructions across
+      multiple LLMs, developing RAG pipelines, and implementing AI
+      solution patterns like retrieval-augmented generation,
+      agents, and classification. The position directly builds and
+      deploys AI applications rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Identify, qualify, and prioritize high-impact AI opportunities across operations,
+    clinical, customer support, finance, and IT functions
+  - Design, test, and optimize prompts, chains, and system instructions for performance,
+    safety, and reliability across multiple LLMs
+  - Develop prompt evaluation frameworks including A/B tests, golden sets, bias and
+    hallucination checks, and cost/latency tracking
+  - Create reusable prompt templates, style guides, and prompt libraries for enterprise
+    use
+  - Assess AI vendors for capability, compliance, total cost of ownership, and integration
+    complexity
+  - Partner with Data/ML Engineering to integrate RAG pipelines, guardrails, and observability
+  - Ensure adherence to responsible AI, data privacy, and healthcare compliance requirements
+    including HIPAA-aligned processes
+  - Serve as a trusted advisor to business leaders and build enablement materials
+    for technical and non-technical audiences
+  use_cases:
+  - Healthcare operations automation and optimization
+  - Clinical decision support and workflow enhancement
+  - Customer support AI assistants and query resolution
+  - Finance and claims processing automation
+  - IT service desk and internal support applications
+  - Enterprise-wide AI assistant and agent deployment
+  skills:
+    genai: [prompt engineering, RAG, few-shot prompting, function calling, LangChain,
+      LlamaIndex, vector search, AI agents, LLMs, guardrails]
+    ml: []
+    web: [REST APIs]
+    databases: [vector databases]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [red-teaming, MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: [YAML]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8547127'
+  extracted_at: '2026-03-03T12:26:29.385215'

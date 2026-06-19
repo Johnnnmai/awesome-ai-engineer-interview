@@ -1,0 +1,53 @@
+company:
+  name: Valon
+  stage: Series C
+  focus: |-
+    AI-native operating system for regulated finance, starting
+    with mortgage servicing
+position:
+  title: AI Enablement Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building AI agent workflows, RAG
+      systems, copilot experiences, and AI-powered features like
+      intelligent inbox scanning and AI-assisted planning. While
+      it's a full-stack role, the AI-powered feature building is a
+      core responsibility, not incidental — the candidate must
+      have built AI-powered features before and actively use
+      coding agents. This qualifies as ai-first.
+  responsibilities:
+  - Build deployment tooling end-to-end — design, build, and ship internal applications
+    for managing complex client deployments across the full stack
+  - Ship AI-powered features including AI agent workflows, copilot experiences, and
+    automation tools for deployment teams
+  - Build AI-powered features such as intelligent inbox scanning, cross-reference
+    extraction, and AI-assisted planning
+  - Use coding agents (Claude Code, Codex) as pair programmers to maintain high velocity
+    and ship meaningful features daily
+  - Work across the full stack with Next.js, React, TypeScript, Tailwind CSS, and
+    API integrations
+  - Operate with high autonomy — identify problems, design solutions, and ship them
+    without detailed specs
+  use_cases:
+  - AI agent workflows for client deployment automation
+  - Intelligent inbox scanning and email triage for deployment teams
+  - Cross-reference extraction from documents and communications
+  - AI-assisted project planning and milestone management
+  - Copilot experiences for deployment operations teams
+  skills:
+    genai: [LangChain, RAG, AI agents, Claude Code, OpenAI Codex, Prompt engineering]
+    ml: []
+    web: [Next.js, React, Tailwind CSS, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Airtable, Notion]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8922885'
+  extracted_at: '2026-04-22T12:52:39.825469'

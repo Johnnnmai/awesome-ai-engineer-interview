@@ -1,0 +1,55 @@
+company:
+  name: WEX Inc.
+  stage: Public
+  focus: Financial technology and payment processing solutions
+position:
+  title: Sr Software AI Engineer 3 - Context Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building agentic AI
+      infrastructure, implementing Multi-Agent Orchestration,
+      Agentic RAG, Model Context Protocol (MCP), and reasoning-
+      based retrieval systems. While it has a
+      platform/infrastructure angle, the engineer works hands-on
+      with agent frameworks (LangGraph, CrewAI), LLM integrations,
+      and context engineering for autonomous agents—making it ai-
+      first.
+  responsibilities:
+  - Develop a high-scale AI-ready Data Lakehouse optimized for AI Agent operations
+    and low-latency context retrieval
+  - Prototype emerging architectural patterns including Multi-Agent Orchestration
+    and autonomous long-term memory management
+  - Build platform-level interfaces and SDKs for agentic workflows focusing on Host-to-Server
+    communication and tool-execution environments
+  - Develop reasoning-based retrieval systems that understand the intent behind agent
+    queries beyond basic search
+  - Implement emerging standards like Model Context Protocol (MCP) and Agentic RAG
+    for interoperability with LLM providers
+  - Maintain high engineering standards for code quality, CI/CD, and participate in
+    cross-functional architecture reviews
+  - Design and manage GitOps workflows, Infrastructure-as-Code with Terraform, and
+    CI/CD pipelines with automated testing and security scanning
+  use_cases:
+  - Enterprise agentic AI workflow infrastructure
+  - Real-time data orchestration for autonomous AI agents
+  - Reasoning-based context retrieval for AI agent operations
+  - Multi-agent orchestration platform
+  - Interoperability layer between enterprise data and multiple LLM providers
+  - Automated LLM-based evaluations in CI/CD pipelines
+  skills:
+    genai: [LangGraph, CrewAI, Model Context Protocol (MCP), Agentic RAG, Prompt Engineering]
+    ml: []
+    web: [FastAPI, REST APIs]
+    databases: []
+    data: [Data Lakehouse]
+    cloud: [AWS, Azure, IAM, S3/Blob Storage]
+    ops: [Terraform, Docker, ArgoCD, GitHub Actions, CI/CD, GitOps, OpenTelemetry]
+    languages: [Java, Scala, Python]
+    domains: []
+    other: [Distributed Systems, Human-in-the-Loop (HITL)]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9114814'
+  extracted_at: '2026-04-22T13:34:52.403498'

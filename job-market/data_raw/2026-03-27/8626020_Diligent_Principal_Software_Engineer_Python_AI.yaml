@@ -1,0 +1,238 @@
+job_id: 8626020
+title: Principal Software Engineer (Python, AI)
+company: Diligent
+location: London, GBR
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Cdk
+  - Node.js
+  - Restful Apis
+  - Terraform
+  - Typescript
+company_size: 1,213 Employees
+description: |
+  Here’s a summary of the role:
+  
+  This is a principal-level role for someone who has already
+  operated at Staff or Principal Engineer level in a sizeable
+  engineering organization and can point to specific platform
+  decisions — in production today — that they own. You'll set
+  the technical direction for our AI-enabled platform:
+  architecting secure, scalable, serverless systems on AWS,
+  defining the patterns and governance practices that multiple
+  teams adopt, and guiding where AI genuinely adds value
+  across the stack.
+  
+  Your leverage comes from the systems, architectures, and
+  standards you put in place — not from individual output.
+  You'll mentor senior engineers, lead org-wide design
+  decisions, and be the person other technical leaders turn to
+  when the hard calls need to be made. You'll still write
+  code, but that's not where your impact is measured.
+  
+  If you've led complex platform or AI initiatives at scale,
+  have strong opinions about AI governance in production
+  systems, and want the scope to shape an entire platform's
+  future, this is that role.
+  
+  Here’s a breakdown of what you’ll do (not all of it, just
+  the important stuff):
+  
+  - Shape engineering strategy with broad organizational impact
+    — you'll influence long-term architectural direction
+    across multiple teams and products, not just within your
+    own squad.
+  
+  - Drive platform evolution by identifying cross-cutting pain
+    points and leading the design of secure, scalable,
+    reusable solutions built on AWS and modern serverless and
+    microservice patterns.
+  
+  - Lead architectural discussions and design reviews where the
+    stakes are real — making clear trade-offs around
+    performance, security, reliability, and maintainability,
+    and getting alignment across teams with competing
+    priorities.
+  
+  - Own AI architectural decisions end-to-end: design AI-enabled
+    systems with built-in governance, monitoring, and
+    regulatory readiness baked in from the start, not
+    retrofitted. Define where AI adds genuine value and where
+    it doesn't.
+  
+  - Act as the organization's AI thought leader — educate
+    engineering teams on model behavior, agentic systems, and
+    responsible AI practices, and raise the overall maturity
+    of how we design and deploy AI.
+  
+  - Mentor and stretch senior and staff engineers, building
+    technical leadership depth across the organisation and
+    holding a high bar for engineering standards.
+  
+  These are the essentials you’ll need to get an interview:
+  
+  - Principal-level track record at scale. 10+ years of software
+    engineering experience, including at least 3 years'
+    operating at Staff or Principal Engineer level in an
+    organization of 100+ engineers. You've led large, complex
+    platform or AI initiatives where you were the decision-
+    maker, not a contributor.
+  
+  - Deep, opinionated AWS platform expertise. You've designed
+    multi-account AWS architectures and made the call on when
+    serverless is the wrong choice. You work fluently with
+    Infrastructure as Code — Terraform or CDK preferred — and
+    have strong views on observability, resilience, and
+    security that you've translated into org-wide patterns.
+  
+  - Production AI systems experience. You've shipped AI-enabled
+    systems — RAG pipelines, agentic frameworks, LLM
+    orchestration, or similar — into production and can
+    discuss the architectural decisions, failure modes, and
+    trade-offs involved. "Understanding AI concepts" is not
+    enough; we need someone who has built and run these
+    systems.
+  
+  - AI governance in practice. You've defined and implemented AI
+    governance in real production environments — bias and
+    privacy checks in pipelines, audit-ready monitoring, AI
+    usage policies — not just read about it. This is
+    essential, not a bonus.
+  
+  - API design and backend platform delivery. Proven track
+    record designing and shipping RESTful APIs and backend
+    platform components using Node.js/TypeScript. You
+    understand frontend concerns well enough to set API
+    contracts that serve product teams effectively, even if
+    you're not writing React day-to-day.
+  
+  - Org-level communication and influence. You can align
+    stakeholders on complex technical decisions, run
+    architecture forums, and mentor other senior technical
+    leaders. You're as comfortable in a board-level
+    conversation as you are in a design review.
+  
+  
+  
+  It would be great if you had these to, but we’ll support you
+  if you don’t:
+  
+  - Experience building platform components or SDKs that
+    multiple product teams depend on, including the
+    documentation and enablement work that makes them
+    adoptable.
+  
+  - Involvement in architecture forums, tech councils, or
+    similar bodies that define org-wide standards — either
+    running them or playing a leading role.
+  
+  - Experience optimising cost and performance for data and AI-
+    heavy workloads at scale, including capacity planning and
+    infrastructure tuning.
+  
+  - Leadership of major modernisation efforts — legacy migration
+    to serverless, multi-region architecture, or platform
+    consolidation across product lines.
+  
+  - A public technical presence — conference talks, open-source
+    contributions, published writing — that demonstrates
+    thought leadership beyond your current organisation. #LI-
+    Hybrid
+  
+  About Us
+  
+  Diligent is the AI leader in governance, risk and compliance
+  (GRC) SaaS solutions, helping more than 1 million users and
+  700,000 board members to clarify risk and elevate
+  governance. The Diligent One Platform gives practitioners,
+  the C-Suite and the board a consolidated view of their
+  entire GRC practice so they can more effectively manage
+  risk, build greater resilience and make better decisions,
+  faster.
+  
+  At Diligent, we're building the future with people who think
+  boldly and move fast.  Whether you're designing systems that
+  leverage large language models or part of a team reimaging
+  workflows with AI, you'll help us unlock entirely new ways
+  of working and thinking.  Curiosity is in our DNA, we look
+  for individuals willing to ask the big questions and
+  experiment fearlessly - those who embrace change not as a
+  challenge, but as an opportunity.  The future belongs to
+  those who keep learning, and we are building it together.
+  At Diligent, you’re not just building the future - you’re an
+  agent of positive change, joining a global community on a
+  mission to make an impact.
+  
+  Learn more at diligent.com or follow us on LinkedIn and
+  Facebook
+  
+  What Diligent Offers You
+  
+  - Creativity is ingrained in our culture. We are innovative
+    collaborators by nature. We thrive in exploring how things
+    can be differently both in our internal processes and to
+    help our clients
+  - We care about our people. Diligent offers a flexible work
+    environment, global days of service, comprehensive health
+    benefits, meeting free days, generous time off policy and
+    wellness programs to name a few
+  - We have teams all over the world. We may be headquartered in
+    New York City, but we have office hubs in Washington D.C.,
+    Vancouver, London, Galway, Budapest, Munich, Bengaluru,
+    Singapore, and Sydney.
+  - Diversity is important to us. Growing, maintaining and
+    promoting a diverse team is a top priority for us. We
+    foster and encourage diversity through our Employee
+    Resource Groups and provide access to resources and
+    education to support the education of our team, facilitate
+    dialogue, and foster understanding.
+  
+  Diligent created the modern governance movement. Our world-
+  changing idea is to empower leaders with the technology,
+  insights and connections they need to drive greater impact
+  and accountability – to lead with purpose. Our employees are
+  passionate, smart, and creative people who not only want to
+  help build the software company of the future, but who want
+  to make the world a more sustainable, equitable and better
+  place.
+  
+  Headquartered in New York, Diligent has offices in
+  Washington D.C.,  London, Galway, Budapest, Vancouver,
+  Bengaluru, Munich, Singapore and Sydney.   To foster strong
+  collaboration and connection, this role will follow a hybrid
+  work model. If you are within a commuting distance to one of
+  our Diligent office locations, you will be expected to work
+  onsite at least 50% of the time. We believe that in-person
+  engagement helps drive innovation, teamwork, and a strong
+  sense of community.
+  
+  We are a drug free workplace. Diligent is proud to be an
+  equal opportunity employer. We do not discriminate based on
+  race, color, religious creed, sex, national origin,
+  ancestry, citizenship status, pregnancy, childbirth,
+  physical disability, mental disability, age, military
+  status, protected veteran status, marital status, registered
+  domestic partner or civil union status, gender (including
+  sex stereotyping and gender identity or expression), medical
+  condition (including, but not limited to, cancer related or
+  HIV/AIDS related), genetic information, or sexual
+  orientation in accordance with applicable federal, state and
+  local laws. We also consider qualified applicants regardless
+  of criminal histories, consistent with legal requirements.
+  See also Diligent's EEO Policy and Know Your Rights. We are
+  committed to providing reasonable accommodations for
+  qualified individuals with disabilities and disabled
+  veterans in our job application procedures. If you need
+  assistance or an accommodation due to a disability, you may
+  contact us at recruitment@diligent.com.
+  
+  To all recruitment agencies: Diligent does not accept
+  unsolicited agency resumes. Please do not forward resumes to
+  our jobs alias, Diligent employees or any other organization
+  location. Diligent is not responsible for any fees related
+  to unsolicited resumes.
+posted_date: 2026-03-02
+url: "https://builtin.com/job/principal-software-engineer/8626020"
+source: Built In

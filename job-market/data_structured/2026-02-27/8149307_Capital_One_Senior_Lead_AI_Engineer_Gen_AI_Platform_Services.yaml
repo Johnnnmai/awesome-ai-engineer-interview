@@ -1,0 +1,51 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+position:
+  title: Senior Lead AI Engineer (Gen AI Platform Services)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, training, and
+      deploying AI/ML systems including foundation model training,
+      LLM inference, and implementing optimization techniques. The
+      position requires developing proprietary AI solutions and
+      working directly with LLMs, vector databases, and model
+      training infrastructure.
+  responsibilities:
+  - Partner with cross-functional teams of engineers, research scientists, technical
+    program managers, and product managers to deliver AI-powered products
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    experimentation, governance, and observability
+  - Leverage Open Source and SaaS AI technologies such as AWS Ultraclusters, Huggingface,
+    VectorDBs, Nemo Guardrails, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Informing customers about unusual charges
+  - Answering customer questions in real time
+  - AI-powered products that change how associates work
+  - AI-enhanced customer interactions with banking services
+  skills:
+    genai: [Nemo Guardrails]
+    ml: [PyTorch, Huggingface, LLM Inference, Foundation Model Training, Model Evaluation]
+    web: []
+    databases: [Vector Databases]
+    data: [Similarity Search]
+    cloud: [AWS, Google Cloud, Azure]
+    ops: []
+    languages: [Python, Go, Scala, Java, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8149307'
+  extracted_at: '2026-03-03T11:15:21.194771'

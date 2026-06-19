@@ -1,0 +1,220 @@
+job_id: 8663109
+title: Principal AI Engineer (US)
+company: PointClickCare
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Agile
+  - AI
+  - Boomi
+  - DevOps
+  - Git
+  - Llm
+  - SaaS
+  - Salesforce
+  - Telemetry
+description: |
+  At PointClickCare our mission is simple: to help providers
+  deliver exceptional care. And that starts with our people.
+  As a leading health tech company that’s founder-led and
+  privately held, we empower our employees to push boundaries,
+  innovate, and shape the future of healthcare.
+  
+  With the largest long-term and post-acute care dataset and a
+  Marketplace of 400+ integrated partners, our platform serves
+  over 30,000 provider organizations, making a real difference
+  in millions of lives. We also reinvest a significant
+  percentage of our revenue back into research and
+  development, ensuring our employees have the resources to
+  innovate and make a lasting impact. Recognized by Forbes as
+  a top private cloud company and honored as one of Canada’s
+  Most Admired Corporate Cultures, we offer flexibility,
+  growth opportunities, and meaningful work.
+  
+   At PointClickCare, we empower our people to be the
+  architects of a smarter healthcare future; one that is
+  human-first and accelerated by AI to create meaningful and
+  lasting change. Employees harness AI as a catalyst for
+  creativity, productivity, and thoughtful decision-making. By
+  integrating AI tools into our daily workflows, collaboration
+  is enhanced, outcomes are improved, and every team member
+  has the proficiency to maximize their impact. It all starts
+  with our hiring practices where we uncover AI expertise that
+  complements our mission, and we continue to invest in
+  training and development to nurture innovation throughout
+  the employee journey.
+  
+  Join us in redefining healthcare — so it doesn’t just
+  survive, it thrives. To learn more about PointClickCare,
+  check out Life at PointClickCare and connect with us on
+  Glassdoor and LinkedIn.
+  
+  **Travel to Office expectations**
+  
+  For Remote Roles: If this role is remote, there will be in-
+  office events that will require travel to and from the
+  Mississauga and/or Salt Lake City office. These will
+  include, but not limited to, onboarding, team events, semi-
+  annual and annual team meetings.
+  
+  For Hybrid Roles: If this role is Hybrid, there will be an
+  expectation to reside within commutable distance to the
+  office/location specified in the job listing. This will
+  include, but not limited to, weekly/bi-weekly/monthly events
+  in the office with your specific team. This is a requirement
+  for this role.
+  
+  PointClickCare is searching for a Principal AI Engineer who
+  will lead and design AI systems across multiple SaaS
+  solutions following our AI Design Patterns, defining
+  technical standards and reusable patterns for reasoning,
+  tool use, and coordinated action. This role will be part of
+  a team which drives enterprise-wide AI enablement by
+  defining strategy, evangelizing adoption, and delivering
+  measurable business impact. It identifies and prioritizes
+  high-value AI use cases, builds scalable AI solutions, and
+  creates playbooks and patterns to accelerate implementation.
+  Through innovation hubs and close collaboration with
+  product, engineering, and operations, the team transforms
+  prototypes into production-ready solutions. Additionally, it
+  invests in talent development, equipping teams with the
+  skills and tools to embed AI across the
+  organization and leads governance of AI solutions across the
+  organization.    To succeed as a Principal AI Engineer at
+  PointClickCare, you need to be highly innovative, creative,
+  accountable, collaborative, and passionate. The Principal AI
+  Engineer partners with cross-functional teams to transition
+  prototypes into secure, observable production solutions and
+  establish playbooks, evaluation frameworks, and platform
+  components to accelerate adoption. Additionally, the
+  Principal AI Engineer mentor's teams and ensures alignment
+  with Responsible AI, security, and regulatory requirements.
+  Responsibilities
+  - Set the technical vision and reference architecture for
+    agentic AI across applications—defining org-wide standards
+    for reasoning loops, tool use/function calling, memory,
+    safety, and interoperability.
+  - Build and govern reusable platform components—model broker &
+    multi-model routing, orchestration services, evaluation
+    harnesses, prompt/versioning stores, and telemetry—to
+    accelerate adoption across teams.
+  - Develop and refine advanced prompting strategies for LLMs.
+  -Test, evaluate, and analyze the performance of LLM and
+  other GenAI models.
+  - Model routing, orchestration services, evaluation of
+    harnesses, prompt/versioning stores, and telemetry—to
+    accelerate adoption across teams.
+   - Drive cross-functional roadmaps and integration standards
+     across OCIO and business teams—setting API/versioning
+     contracts, optimizing LLM/agent cost performance, and
+     mentoring engineers to raise the bar.
+  - Evaluation of leadership establishes offline/online
+    evaluation methodologies for agent behavior and safety,
+    with dashboards tied to business outcomes.
+  - Be the go-to Subject Matter Expert (SME) and internal AI
+    expert for relevant enterprise applications, senior
+    leadership, vendors, business partners and internal team
+    members while staying ahead of emerging trends and
+    advising on best practices
+  - Identify, prioritize and execute AI use cases with clear
+    business outcomes
+  - Coach and hold vendors accountable to our best practices and
+    milestone deliverables
+  - Be a coach/mentor for other engineers on AI maturity,
+    including performing peer reviews, leading technical
+    knowledge sharing sessions, establishing engineering best
+    practices, approving pull requests and improving the
+    overall quality of the technical solution
+  - Perform other tasks and duties as assigned
+  Qualifications we are looking for:
+  
+  - Proven leadership shipping agentic AI at scale across
+    multiple products, setting organization wide standards for
+    reasoning loops, tool use/function calling, memory,
+    safety, and interoperability.
+  - Proven leadership shipping agentic AI at scale across
+    multiple products, setting organization wide standards for
+    reasoning loops, tool use/function.
+  - Must Have - Expertise & Hands-on experience in Agentic AI
+    Tech stack primarily in Microsoft (Foundry, AI Search,
+    Open AI, RAG, CoPilot Studio) and Anthropic (Claude Cowork
+    and Claude Code).
+  - Must Have - Advanced Python & Java expertise in production
+    systems (testing, packaging, performance profiling) and
+    deep experience extending agent frameworks such as
+    Anthropic, Lang chain, and Foundry.
+  - RAG/agent data pipeline expertise: document preprocessing
+    (OCR/NER), chunking strategies, embeddings, vector stores,
+    and data quality/versioning—with evaluation of harnesses
+    for quality, cost, and latency
+  - Extensive knowledge and understanding of enabling and
+    maturing AI in a SaaS landscape.
+  - Model serving and cost/perf optimization: experience with
+    model broker patterns, multi-model routing, and serving
+    stacks
+  - Good understanding of Salesforce Agentforce and Boomi
+    Agentic AI platform capabilities is highly desired
+  
+  PointClickCare Benefits & Perks:
+  
+  Benefits starting from Day 1!
+  
+  Retirement Plan Matching
+  
+  Flexible Paid Time Off
+  
+  Wellness Support Programs and Resources
+  
+  Parental & Caregiver Leaves
+  
+  Fertility & Adoption Support
+  
+  Continuous Development Support Program
+  
+  Employee Assistance Program
+  
+  Allyship and Inclusion Communities
+  
+  Employee Recognition … and more!
+  
+  It is the policy of PointClickCare to ensure equal
+  employment opportunity without discrimination or harassment
+  on the basis of race, religion, national origin, status,
+  age, sex, sexual orientation, gender identity or expression,
+  marital or domestic/civil partnership status, disability,
+  veteran status, genetic information, or any other basis
+  protected by law. PointClickCare welcomes and encourages
+  applications from people with disabilities. Accommodations
+  are available upon request for candidates taking part in all
+  aspects of the selection process. Please contact
+  recruitment@pointclickcare.com should you require any
+  accommodations. As part of our commitment to a streamlined
+  and equitable hiring experience, PointClickCare uses AI
+  tools to assist with candidate screening and assessment.
+  
+  When you apply for a position, your information is processed
+  and stored with Lever, in accordance with Lever’s Privacy
+  Policy. We use this information to evaluate your candidacy
+  for the posted position. We also store this information, and
+  may use it in relation to future positions to which you
+  apply, or which we believe may be relevant to you given your
+  background. When we have no ongoing legitimate business need
+  to process your information, we will either delete or
+  anonymize it.  If you have any questions about how
+  PointClickCare uses or processes your information, or if you
+  would like to ask to access, correct, or delete your
+  information, please contact PointClickCare’s human resources
+  team: recruitment@pointclickcare.com
+  
+  PointClickCare is committed to Information Security. By
+  applying to this position, if hired, you commit to following
+  our information security policies and procedures and making
+  every effort to secure confidential and/or sensitive
+  information.
+industries:
+  - Healthtech
+  - Software
+posted_date: 2026-03-05
+url: "https://www.builtinla.com/job/principal-ai-engineer-us/8663109"
+source: Built In

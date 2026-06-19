@@ -1,0 +1,57 @@
+company:
+  name: Modo Energy
+  stage: Series B
+  focus: |-
+    Data platform for energy market benchmarking, forecasting,
+    and valuation
+position:
+  title: Python Engineer - AI & LLMs
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      While the role involves contributing to infrastructure
+      supporting LLM-powered features (retrieval pipelines, tool
+      design), the primary focus is backend platform engineering —
+      building APIs, databases, deployment infrastructure, and
+      data pipelines. The AI/LLM work is a secondary
+      responsibility ("contribute to" rather than "own"), and the
+      job explicitly states "you don't need to be an ML engineer."
+      This is an infrastructure/platform role that enables AI
+      systems rather than directly building them.
+  responsibilities:
+  - Build and maintain backend services and APIs powering the Modo Terminal using
+    Django and Python
+  - Design and improve data pipelines that ingest, transform, and serve energy market
+    data at scale
+  - Own AWS infrastructure and deployment end-to-end using Terraform from local development
+    to production
+  - Build monitoring, observability, and alerting infrastructure to catch problems
+    proactively
+  - Design internal tools (CLIs, APIs, developer utilities) to improve team productivity
+  - Work with domain experts to ensure platform data is accurate, timely, and useful
+  - Contribute to infrastructure supporting the LLM-powered AI Analyst including retrieval
+    pipelines and tool design
+  use_cases:
+  - AI analyst that reasons about complex energy systems using LLM agents and retrieval
+    pipelines
+  - Energy market data platform serving real-time and historical data to investors,
+    developers, and operators
+  - Benchmarking, forecasting, and valuation tools for energy storage markets
+  - Retrieval pipelines and tool-calling architectures that let LLMs work with energy
+    market data
+  skills:
+    genai: [LLM applications, RAG pipelines, Tool-calling architectures, Agentic systems]
+    ml: []
+    web: [Django, FastAPI, REST APIs]
+    databases: [PostgreSQL]
+    data: [Data pipelines]
+    cloud: [AWS]
+    ops: [Terraform, Monitoring and observability, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: [Cursor, Claude Code, GitHub Copilot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8990649'
+  extracted_at: '2026-04-22T12:35:41.924096'

@@ -1,0 +1,47 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: Banking and financial services corporation
+position:
+  title: Senior Software Engineer - .NET Core / .NET 6+, Angular, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a traditional .NET/Angular software engineering role
+      where AI tools (Microsoft Copilot, MCP tools) are used to
+      enhance developer productivity, not to build AI/ML systems.
+      The role involves building enterprise applications with
+      standard web technologies, using AI only as development
+      assistance.
+  responsibilities:
+  - Lead moderately complex technical initiatives and deliverables
+  - Design, code, test, debug, and document enterprise applications
+  - Contribute to large scale strategic planning
+  - Review and resolve complex technical challenges
+  - Lead projects and provide guidance to less experienced staff
+  - Collaborate with peers and managers to resolve technical challenges
+  - Build scalable microservices-based architectures
+  - Integrate Angular front ends with .NET Core APIs
+  use_cases:
+  - Enterprise application development
+  - Scalable high-performance banking systems
+  - Microservices-based architectures
+  - AI-assisted development workflows
+  - API lifecycle management
+  skills:
+    genai: [Microsoft Copilot, MCP tools, AI-assisted development tools]
+    ml: []
+    web: [.NET Core / .NET 6+, .NET Framework, ASP.NET Core Web APIs, RESTful services,
+      Angular, HTML5, CSS3]
+    databases: [Entity Framework / EF Core, SQL Server]
+    data: []
+    cloud: []
+    ops: [Docker, CI/CD, Git]
+    languages: [C#, TypeScript, LINQ, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8824586'
+  extracted_at: '2026-03-27T16:13:31.066230'

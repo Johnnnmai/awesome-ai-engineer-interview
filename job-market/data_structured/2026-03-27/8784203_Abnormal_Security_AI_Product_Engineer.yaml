@@ -1,0 +1,47 @@
+company:
+  name: Abnormal Security
+  stage: null
+  focus: AI-native security platform for enterprise GTM teams
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building agent platforms, tools, and APIs
+      for AI agents, and shipping GTM tooling with LLM workflows.
+      The candidate must have experience building LLMs and agents
+      in production, and will work directly on agent
+      infrastructure and capabilities. This is hands-on work with
+      AI systems, not supporting infrastructure for others.
+  responsibilities:
+  - Build and extend agent platform capabilities including new tools, APIs, data connectors,
+    and integrations for AI agents
+  - Ship self-serviceable GTM tooling enabling non-technical users to set up AI-initiated
+    LLM workflows
+  - Partner with AI Product Managers to translate roadmap blockers into engineering
+    deliverables
+  - Identify and build reusable horizontal infrastructure capabilities
+  - Own reliability and observability for built systems
+  - Demo work weekly and communicate to technical and non-technical stakeholders
+  use_cases:
+  - AI agents for Sales operations
+  - AI agents for Customer Success workflows
+  - AI agents for Marketing automation
+  - Self-service LLM workflow creation for non-technical users
+  - GTM team productivity and automation
+  skills:
+    genai: [LLMs, AI agents, LangGraph, CrewAI, Autogen, prompt engineering]
+    ml: []
+    web: [React, Next.js, APIs]
+    databases: []
+    data: [data pipelines]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8784203'
+  extracted_at: '2026-03-27T13:54:52.360584'

@@ -1,0 +1,51 @@
+company:
+  name: Celonis
+  stage: Series D+
+  focus: Process mining and Process Intelligence SaaS platform
+position:
+  title: Data Engineer - Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building AI applications using LLMs and
+      frameworks, designing RAG systems with external knowledge
+      bases, implementing agentic workflows, and optimizing
+      prompts. While it's a data engineering position, the AI
+      responsibilities are hands-on with building and deploying AI
+      applications, not just supporting infrastructure.
+  responsibilities:
+  - Build data models for defined ontologies and mappings using object-centric process
+    mining methodologies with SQL transformations
+  - Use AI-assisted workflows and agentic tooling to design and implement business
+    objects, process events, and data models
+  - Build and own tools and pipelines to publish and distribute Celonis Data Models
+    leveraging AI and automation
+  - Collaborate with software engineering teams on requirements, timelines, and dependencies
+    for content distribution
+  - Test and validate models in development and customer environments to gather early
+    feedback
+  - Document data model governing principles and development practices
+  - Drive AI adoption to accelerate development and end-user adoption throughout the
+    department
+  use_cases:
+  - Accelerate data model development for business process ontologies
+  - Automate content distribution and publishing workflows
+  - Design and implement business objects and process events
+  - Model validation and testing across customer environments
+  - Process mining for enterprise systems like SAP and Oracle
+  skills:
+    genai: [LLM frameworks, agentic workflows, RAG, prompt engineering]
+    ml: []
+    web: [FastAPI, API integration]
+    databases: []
+    data: [data modeling]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, CI/CD, Git, observability tools]
+    languages: [SQL, Python]
+    domains: [process mining]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8211505'
+  extracted_at: '2026-03-03T12:17:18.709698'

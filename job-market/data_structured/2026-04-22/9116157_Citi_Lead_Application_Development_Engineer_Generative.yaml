@@ -1,0 +1,49 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global bank building internal GenAI assistant platform
+position:
+  title: Lead Application Development Engineer, Generative AI Products - Senior Vice
+    President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and owning core platform
+      capabilities for 'Citi Assist', a GenAI assistant, including
+      autonomous agents and background job services. The role is
+      hands-on with GenAI systems (LLMs, agents) in a platform
+      engineering capacity, making it ai-first despite being
+      primarily a backend engineering role.
+  responsibilities:
+  - Lead design and development of backend services for Citi Assist, a GenAI assistant
+    platform reaching all Citi employees globally
+  - Own and build critical platform capabilities including autonomous agents and background
+    job services
+  - Contribute high-quality code regularly while setting engineering standards for
+    the team
+  - Shape technical architecture and roadmap, partnering with product owner and scrum
+    master
+  - Champion safety, security, and compliance in AI systems
+  - Mentor engineers through code reviews, guidance, and knowledge-sharing
+  - Foster clear communication in a distributed team environment
+  use_cases:
+  - Internal GenAI digital assistant (Citi Assist) for all Citi employees globally
+  - Autonomous agents for enterprise workflows
+  - Common platform enabling organization-wide safe GenAI adoption
+  - Background job orchestration for AI-powered services
+  skills:
+    genai: [LLMs, Autonomous Agents]
+    ml: []
+    web: [React, Next.js]
+    databases: [PostgreSQL]
+    data: [Airflow, Dagster, ETL]
+    cloud: []
+    ops: [Kubernetes, OpenShift, CI/CD, Tekton, Harness, Docker]
+    languages: [Python, TypeScript, Go, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9116157'
+  extracted_at: '2026-04-22T12:54:57.010816'

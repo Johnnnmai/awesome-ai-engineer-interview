@@ -1,0 +1,59 @@
+company:
+  name: Rimini Street
+  stage: Public
+  focus: |-
+    Enterprise software support and Agentic AI ERP solutions for
+    Oracle, SAP, VMware
+position:
+  title: Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first as it involves designing and
+      building agentic AI systems from the ground up - cognitive
+      architectures, multi-agent coordination, reasoning
+      frameworks, and autonomous decision governance. The engineer
+      works directly on agent behavior systems, LLM tool calling,
+      and production agentic applications, not merely supporting
+      infrastructure or data pipelines.
+  responsibilities:
+  - Design reasoning frameworks for agents to decompose complex ERP tasks into structured
+    decision trees with governance checkpoints
+  - Build agent personas and behavioral profiles for domain-specific reasoning patterns
+    across Finance, Procurement, Supplier Management, and Support domains
+  - Architect dynamic tool selection strategies using MCP tools based on context,
+    confidence, and task requirements
+  - Design multi-agent coordination patterns including A2A communication, supervisor/worker
+    hierarchies, and conflict resolution strategies
+  - Build confidence scoring frameworks that translate LLM output uncertainty into
+    actionable governance decisions
+  - Design retrieval-augmented reasoning patterns with vector stores, historical data,
+    and knowledge integration
+  - Create evaluation frameworks for agent behavior including reasoning quality, governance
+    compliance, and scenario-based testing
+  - Own continuous improvement loop by analyzing production agent behavior and refining
+    cognitive architecture
+  use_cases:
+  - Enterprise ERP workflow automation with AI agents
+  - Autonomous decision-making for financial and procurement processes
+  - Multi-agent coordination for complex business workflows
+  - Human-in-the-loop approval systems for enterprise operations
+  - Risk-tiered autonomous governance for enterprise software support
+  skills:
+    genai: [LangChain, LangGraph, Pydantic AI, CrewAI, AutoGen, Semantic Kernel, MCP
+        (Model Context Protocol), RAG, Function calling, OpenAI API, Anthropic Claude
+        API, Agent frameworks, Prompt engineering, TruLens, Ragas]
+    ml: [RLHF]
+    web: [Quarkus]
+    databases: [Vector databases]
+    data: []
+    cloud: []
+    ops: [Restate, Temporal]
+    languages: [Python, Java]
+    domains: []
+    other: [SAP ERP, Oracle EBS, JD Edwards]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8634361'
+  extracted_at: '2026-03-27T13:55:58.916814'

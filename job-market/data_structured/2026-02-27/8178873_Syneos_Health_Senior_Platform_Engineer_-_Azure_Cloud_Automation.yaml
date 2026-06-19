@@ -1,0 +1,52 @@
+company:
+  name: Syneos Health
+  stage: Public
+  focus: |-
+    Biopharmaceutical solutions for clinical trials and
+    commercial drug development
+position:
+  title: Senior Platform Engineer - Azure Cloud, Automation & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform engineering role focused on building
+      CI/CD pipelines, infrastructure automation, and developer
+      tooling. While the title mentions "AI" and the company
+      operates in the biopharmaceutical space, there are no
+      responsibilities involving building, training, fine-tuning,
+      or deploying AI/ML models. The role supports application
+      teams by providing platform infrastructure, but does not
+      work directly on AI systems.
+  responsibilities:
+  - Design, build, and maintain core platform services including CI/CD pipelines,
+    infrastructure-as-code frameworks, observability platforms, and secrets management
+  - Drive platform standardization through golden paths, reusable tooling, and reference
+    architectures
+  - Own platform reliability, scalability, and operational excellence including automation
+    and incident response
+  - Embed security and compliance best practices into pipelines using policy-as-code
+  - Partner with application teams to enable self-service infrastructure and smooth
+    onboarding to the platform
+  - Lead technical initiatives across squads and mentor junior engineers
+  use_cases:
+  - Internal developer platform for application development teams
+  - Infrastructure automation and self-service capabilities
+  - CI/CD pipeline standardization across the organization
+  - Secure and compliant deployment workflows
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [Terraform, Bicep, GitHub Actions, Azure DevOps, GitLab CI, Docker, Kubernetes,
+      CI/CD, Infrastructure as Code]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8178873'
+  extracted_at: '2026-03-03T12:44:47.804427'

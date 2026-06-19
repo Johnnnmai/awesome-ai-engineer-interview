@@ -1,0 +1,48 @@
+company:
+  name: Checkly
+  stage: Series B
+  focus: |-
+    Developer tool SaaS unifying testing, synthetic monitoring
+    and observability
+position:
+  title: Senior Product Engineer AI (remote, UTC-3 to UTC+3)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves designing and building AI
+      agents and AI-enhanced features as a primary responsibility.
+      The candidate must have a track record of building AI
+      solutions, and the company has already released an "agentic
+      layer." This is hands-on work building and deploying
+      AI/agent systems, making it ai-first.
+  responsibilities:
+  - Design and build AI agents and AI-enhanced features iteratively to help customers
+    debug, fix, and create Playwright and API tests faster
+  - Implement full-stack solutions with the team using Vue.js, Node.js, TypeScript,
+    Postgres, ClickHouse and AWS
+  - Engage directly with users to gather feedback and build delightful solutions that
+    solve real problems
+  - Ship to production continuously as part of an agile, async-first team
+  - Own outcomes autonomously and contribute to the company's agentic layer
+  - Maintain good documentation and high-quality product standards
+  use_cases:
+  - AI-assisted debugging of application tests and performance issues
+  - Automated generation and fixing of Playwright and API tests
+  - Developer productivity enhancement through AI agents
+  - Synthetic monitoring and observability with AI-enhanced features
+  skills:
+    genai: [LangChain/LangGraph or similar agent frameworks, AI agent development]
+    ml: []
+    web: [Vue.js, Node.js, REST APIs]
+    databases: [PostgreSQL, ClickHouse]
+    data: []
+    cloud: [AWS]
+    ops: [OpenTelemetry]
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: [Playwright, SaaS product development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8927788'
+  extracted_at: '2026-04-22T13:42:38.035594'

@@ -1,0 +1,41 @@
+company:
+  name: Age of Learning
+  stage: Unknown
+  focus: Educational technology for Pre-K through 5th grade learning
+position:
+  title: AI Chatbot Engineer Intern
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role involves reviewing chatbot conversations and
+      running reports to identify issues, but NOT building,
+      training, fine-tuning, or deploying AI models. The intern
+      gains exposure to AI approaches but works in a
+      support/analysis capacity rather than hands-on AI
+      development.
+  responsibilities:
+  - Review chatbot conversations to identify mistakes or shortcomings
+  - Run reports using built-in analytics and Excel
+  - Collaborate with Support Operations on implementing improvements
+  - Gain exposure to structured and generative AI approaches
+  - Build practical understanding of conversational AI in customer support environment
+  use_cases:
+  - Customer support chatbot for educational platform
+  - Identifying and improving chatbot conversation quality
+  - Support operations for educational technology products
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Excel, Analytics]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8844852'
+  extracted_at: '2026-03-27T15:04:15.041442'

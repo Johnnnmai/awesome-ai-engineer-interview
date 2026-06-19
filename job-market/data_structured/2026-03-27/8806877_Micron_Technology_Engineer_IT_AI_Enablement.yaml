@@ -1,0 +1,57 @@
+company:
+  name: Micron Technology
+  stage: Public
+  focus: |-
+    Memory and storage solutions (DRAM, NAND, NOR) for data
+    centers and computing
+position:
+  title: Engineer, IT, AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying AI-driven tools,
+      implementing RAG systems, designing multi-agent workflows,
+      and working directly with AI platforms like Copilot Studio
+      and Azure AI Foundry. The engineer will create and deploy AI
+      agents, manage context with MCP, and implement prompt
+      engineering - all hands-on AI system development work.
+  responsibilities:
+  - Build and deploy AI-driven tools and workflows using platforms like Copilot Studio,
+    UiPath, and automation frameworks
+  - Connect AI agents with enterprise systems (SharePoint, M365), external APIs, and
+    knowledge bases for seamless interoperability
+  - Design and implement intelligent automation solutions to improve efficiency for
+    repetitive business tasks
+  - Partner with cross-functional teams to enable AI literacy and create best-practice
+    documentation
+  - Collaborate with cybersecurity teams to enforce data protection and ensure AI
+    solutions meet security and compliance standards
+  - Implement secure agent interactions using encryption, authentication, and authorization
+    mechanisms
+  - Integrate agents with identity platforms (OAuth2, OIDC, SAML, Entra ID) for secure
+    access control
+  - Collect feedback, iterate solutions, and contribute to continuous improvement
+    of AI initiatives
+  use_cases:
+  - Enterprise-wide AI adoption and enablement across business areas
+  - Process automation for repetitive enterprise tasks
+  - Intelligent workflow automation using AI agents
+  - Knowledge management and retrieval with RAG systems
+  - Multi-agent orchestration for complex business decision-making
+  skills:
+    genai: [Copilot Studio, RAG (Retrieval-Augmented Generation), Prompt Engineering,
+      Multi-agent systems, Model Context Protocol (MCP), Agent orchestration frameworks]
+    ml: [Machine learning pipelines]
+    web: [OAuth2, OIDC, API development]
+    databases: []
+    data: []
+    cloud: [Azure AI Foundry, AWS Bedrock, Google Vertex AI, Entra ID]
+    ops: []
+    languages: [.NET, C#, Python, Java, SQL, PowerShell, Unix shell scripting]
+    domains: []
+    other: [UiPath, SharePoint, M365, SAML, AD FS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8806877'
+  extracted_at: '2026-03-27T15:53:38.433231'

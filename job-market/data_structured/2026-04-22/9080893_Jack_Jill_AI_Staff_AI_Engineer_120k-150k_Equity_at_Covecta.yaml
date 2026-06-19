@@ -1,0 +1,50 @@
+company:
+  name: Jack & Jill AI
+  stage: Seed
+  focus: Agentic AI platform for financial services
+position:
+  title: Staff AI Engineer (£120k-150k + Equity) at Covecta
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and owning agentic
+      orchestration systems, multi-agent coordination, document
+      intelligence pipelines, and hallucination detection for an
+      Agentic AI platform. The engineer will design and implement
+      AI systems (agents, evaluation frameworks, document
+      processing) hands-on, making this clearly an ai-first role.
+  responsibilities:
+  - Design and own the agentic orchestration layer coordinating 50+ specialized financial
+    agents with human-in-the-loop oversight
+  - Architect evaluation and alignment frameworks ensuring accuracy, explainability,
+    and policy compliance in regulated banking workflows
+  - Build intelligent document processing pipelines to extract structured data from
+    complex financial paperwork like regulatory filings and credit memos
+  - Lead the technical direction of the AI platform as the most senior AI hire
+  - Solve complex document intelligence and multi-agent coordination challenges for
+    major financial institutions
+  - Make build-versus-buy decisions and shape the growing engineering culture
+  use_cases:
+  - Multi-agent orchestration across the financial services lifecycle
+  - Intelligent document processing for regulatory filings, credit memos, and complex
+    financial paperwork
+  - Hallucination detection and auditable AI for banking workflows
+  - Policy compliance and explainability for regulated financial institutions
+  - Automated financial services workflows for enterprise banks
+  skills:
+    genai: [Multi-agent orchestration, LLM agents, RAG, Prompt engineering, Hallucination
+        detection, Guardrail design]
+    ml: [NLP]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Document intelligence, Financial services / regulatory compliance]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9080893'
+  extracted_at: '2026-04-22T13:17:28.843745'

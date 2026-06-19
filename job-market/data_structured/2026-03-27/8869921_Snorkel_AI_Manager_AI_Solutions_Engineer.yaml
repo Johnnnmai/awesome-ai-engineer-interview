@@ -1,0 +1,53 @@
+company:
+  name: Snorkel AI
+  stage: Series B+
+  focus: |-
+    Enterprise AI data platform for building specialized AI at
+    scale
+position:
+  title: Manager, AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a presales/solutions engineering leadership role
+      that involves direct hands-on work scoping training data
+      needs, designing RL environments, developing evaluation
+      frameworks, and translating research objectives into
+      technical plans for AI labs. While customer-facing, it
+      requires deep expertise in LLMs, RLHF, DPO, training data
+      pipelines, and evaluation methodologies - core AI/ML work.
+  responsibilities:
+  - Recruit, hire, and develop AI Solutions Engineers, coaching the team on technical
+    quality, customer engagement, and career growth
+  - Set and maintain the technical bar for specifications, evaluation frameworks,
+    and customer deliverables
+  - Own SE capacity planning and account coverage; partner with AE leadership on deal
+    strategy, engagement prioritization, and pipeline forecasting
+  - Establish team processes and playbooks for discovery, spec development, and knowledge
+    sharing
+  - Lead technical conversations on select strategic accounts, including scoping,
+    solution design, and partnership with customer research teams
+  - Serve as escalation point for technically complex or high-stakes customer situations
+  use_cases:
+  - Training data pipeline development for AI labs
+  - Reinforcement learning environment design
+  - LLM evaluation framework development
+  - Post-training techniques (RLHF, DPO, RLAIF)
+  - Domain-specific AI applications (coding agents, reasoning, multimodal models)
+  skills:
+    genai: [LLMs, coding agents]
+    ml: [RLHF, DPO, RLAIF, evaluation methodologies, reasoning models, multimodal
+        models, reinforcement learning environments]
+    web: []
+    databases: []
+    data: [training data pipelines]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [technical presales, customer engagement]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8869921'
+  extracted_at: '2026-03-27T16:11:10.989593'

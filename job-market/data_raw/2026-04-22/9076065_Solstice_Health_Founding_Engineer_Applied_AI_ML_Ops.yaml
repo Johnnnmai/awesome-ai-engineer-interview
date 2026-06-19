@@ -1,0 +1,101 @@
+job_id: 9076065
+title: "Founding Engineer (Applied AI & ML Ops)"
+company: Solstice Health
+location: New York, USA
+work_type: FULL_TIME
+level: Entry level
+skills:
+  - AWS
+  - Docker
+  - Fastapi
+  - Llms
+  - Python
+company_size: 20 Employees
+description: |
+  Why you should join us
+  
+  Solstice is redefining how life sciences organizations
+  commercialize their products. We are building a commercial
+  engine that allows pharmaceutical marketers to take control
+  of their content supply chain. Some reasons for why you
+  should join us are:
+  
+  - Rapid growth: Over the past year, we have been working with
+    some of the top life sciences manufacturers as well as
+    marketing agencies and are working with over 50+ pharma
+    brands.
+  - Frontiers of technology: We’re building applications and
+    rapidly iterating technical approaches at the frontiers of
+    AI, experimenting with LLMs and new frameworks. We have V2
+    of the platform currently deployed to customers but are
+    incorporating new, advanced frameworks to our solution
+    aggressively.
+  - Top-tier investors: We’ve raised $3.5mm+ from investors like
+    Twelve Below, Virtue and the founders of Datavant,
+    Commure, and Paradigm to supercharge our growth and build
+    an elite team of engineers and operators.
+  
+  Building anything great requires commitment and dedication.
+  We’re looking for someone who has the fire to prove others
+  wrong 🚀
+  
+  About the role
+  
+  We are in search of an ML operations engineer who has the
+  drive required to be a part of a founding team looking to
+  tackle a difficult but meaningful problem. You’ll be
+  responsible for the end-to-end lifecycle of our AI
+  systems—from experimentation to production deployment and
+  ongoing optimization.Beyond development, you will be
+  collaborating closely with co-founders Yiwen and Aris on all
+  facets of the startup as we grow Solstice in the coming
+  years. Reach out to aris@solsticehealth.co to learn more.
+  
+  What you’ll be working on:
+  
+  - Leverage prompt-engineering, retrieval-augmented generation,
+    model experimentation, and benchmarking to optimize
+    performance of Solstice’s platform on real biopharma
+    marketing data.
+  - Wrangle proprietary commercial & marketing brand data into
+    complex LLM pipelines to produce high-quality, compliant
+    life sciences marketing content.
+  - Implement ML Ops best practices, including CI/CD pipelines
+    for ML, model versioning, automated testing, and
+    monitoring.
+  - Developing LLM eval infrastructure to store, analyze and
+    iterate on LLM outputs and the feedback we receive from
+    clients
+  - Scope, architect, and build SOTA agents and pipelines while
+    supporting customers directly.
+  - Flex across the full stack (frontend, backend, infra) to
+    build whatever is necessary to support our customers.
+  
+  Some ideal traits we’re looking for
+  
+  - Engineering chops. Relevant experience building systems &
+    deploying enterprise-grade products
+  - Independent thinking. While we believe specific skills can
+    be taught, we need someone who has the ability to make
+    decisions and drive results on their own.
+  - Strong proficiency in full-stack web development
+    technologies such as Python, FastAPI, Docker, AWS
+  - Experience working with LLMs such as GPT, Claude and Gemini
+    to create LLM-based workflows, RAG Pipelines and agentic
+    solutions. (Either formally or through
+    projects/experimentation)
+  - Superb communication and collaboration skills. We believe in
+    direct communication and willingness to provide as well as
+    accept criticism.
+  - Unreal work ethic. Diamonds were not made overnight.
+  
+  Benefits
+  
+  - Medical insurance
+  - Relocation support
+  - Opportunity to work at a high-velocity and high-energy
+    startup
+  - Visa sponsorship (O-1) for internationals
+posted_date: 2026-04-16
+url: "https://builtin.com/job/founding-engineer-applied-ai-ml-ops/9076065"
+source: Built In

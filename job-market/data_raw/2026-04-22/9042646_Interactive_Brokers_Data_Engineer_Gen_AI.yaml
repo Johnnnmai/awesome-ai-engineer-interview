@@ -1,0 +1,182 @@
+job_id: 9042646
+title: Data Engineer (Gen AI)
+company: Interactive Brokers
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Athena
+  - AWS
+  - Aws Glue
+  - Docker
+  - Emr
+  - Iceberg
+  - Kafka
+  - Lambda
+  - Pyspark
+  - Python
+company_size: 2,441 Employees
+description: |
+  Company Overview
+  
+  Interactive Brokers Group, Inc. (Nasdaq: IBKR) is a global
+  financial services company headquartered in Greenwich, CT,
+  USA, with offices in over 15 countries. We have been at the
+  forefront of financial innovation for over four decades,
+  known for our cutting-edge technology and client commitment.
+  
+  IBKR affiliates provide global electronic brokerage services
+  around the clock on stocks, options, futures, currencies,
+  bonds, and funds to clients in over 200 countries and
+  territories. We serve individual investors and institutions,
+  including financial advisors, hedge funds and introducing
+  brokers. Our advanced technology, competitive pricing, and
+  global market help our clients to make the most of their
+  investments.
+  
+  Barron's has recognized Interactive Brokers as the #1 online
+  broker for six consecutive years. Join our dynamic, multi-
+  national team and be a part of a company that simplifies and
+  enhances financial opportunities using state-of-the-art
+  technology.
+  
+  This is Hybrid role (3 days in office /2 days remote)
+  
+  About your Team:
+  
+  The Enterprise Architecture organization is looking for a
+  Data Engineer to join the team and help build the next
+  generation of data infrastructure and AI-enabled workflows.
+  In this role, you will be responsible for designing,
+  building, and maintaining scalable data pipelines, data lake
+  platforms, and analytics solutions that support enterprise-
+  wide AI initiatives and advanced analytics capabilities. You
+  will partner closely with internal development teams and IT
+  leadership to architect data solutions that meet diverse
+  use-cases across the organization. This role offers the
+  opportunity to work with cutting-edge data technologies, AI
+  knowledge bases, and cloud-native data platforms as we scale
+  our data operations. Your work will focus on delivering
+  robust, well-documented data solutions and establishing best
+  practices for data engineering across the enterprise.
+  
+   What will be your responsibilities within IBKR:
+  
+  · Design, build, and maintain scalable data crawlers and
+  ETL/ELT pipelines to ingest data from various sources
+  including enterprise collaboration tools, web applications,
+  and internal databases
+  
+  · Develop and manage data lake platform infrastructure
+  including S3-based storage, Iceberg tables, AWS Glue data
+  catalog, and cloud data warehouse solutions for analytics
+  workloads
+  
+  · Build and optimize real-time streaming data pipelines
+  using Kafka for event-driven analytics and data processing
+  
+  · Create and maintain data transformation pipelines to
+  clean, curate, and prepare data for analytics and AI/ML
+  applications, supporting multiple data formats including
+  structured, semi-structured, and unstructured data (text,
+  images, audio, video)
+  
+  · Develop Python-based applications for data ingestion,
+  processing, and integration supporting Gen AI RAG workflows
+  and knowledge base systems
+  
+  · Collaborate with internal development teams, data
+  scientists, and stakeholders to understand requirements,
+  architect appropriate data solutions, and create
+  comprehensive technical documentation
+  
+  · Monitor, troubleshoot, and optimize data pipelines for
+  performance, reliability, and data quality
+  
+  · Write clean, maintainable, well-tested code following
+  software engineering and data engineering best practices
+  
+  · Create comprehensive technical documentation for data
+  pipelines, architectures, and platform capabilities
+  
+   What required skill’s you need:
+  
+  · 6+ years of hands-on data engineering experience with
+  modern data stack technologies
+  
+  · Strong experience with AWS cloud services, particularly:
+  S3, AWS Glue, Athena, EMR, Lambda
+  
+  · Proficiency in Python for data processing, ETL, and
+  application development
+  
+  · Experience with PySpark on EMR for large-scale data
+  processing
+  
+  · Strong SQL skills for data analysis and transformation
+  
+  · Experience building and maintaining ETL/ELT pipelines at
+  scale
+  
+  · Experience with Kafka for streaming data pipelines and
+  real-time data processing
+  
+  · Knowledge of data lake architectures and modern table
+  formats (e.g., Iceberg)
+  
+  · Experience with CI/CD practices using Git, version control
+  systems, and containerization (Docker)
+  
+  · Understanding of data modeling, data warehousing concepts,
+  and analytics best practices
+  
+  · Exceptional problem-solving and analytical skills
+  
+  · Excellent collaboration and communication (verbal and
+  written) skills
+  
+  · Self-motivated with ability to work independently and
+  manage multiple priorities
+  
+  · Willingness and enthusiasm to learn AI/ML technologies,
+  stay current with emerging data engineering trends
+  
+   To be successful in this position, you will have the
+  following:
+  
+  - Self-motivated and able to handle tasks with minimal
+    supervision.
+  - Superb analytical and problem-solving skills.
+  - Excellent collaboration and communication (Verbal and
+    written) skills.
+  - Outstanding organizational and time management skills.
+  
+  Company Benefits & Perks
+  
+  - Competitive salary, annual performance-based bonus and stock
+    grant
+  - Retirement plan 401(k) with competitive company match
+  - Excellent health and wellness benefits, including medical,
+    dental, and vision benefits. Company paid medical
+    healthcare premium.
+  - Wellness screenings and assessments, health coaches and
+    counseling services through an Employee Assistance Program
+    (EAP)
+  - Paid time off and a generous parental leave policy
+  - Daily company lunch allowance provided and a fully stocked
+    kitchen with healthy options for breakfast and snack
+  - Corporate events including team outings, dinners, volunteer
+    activities and company sports teams
+  - Education reimbursement and learning opportunities
+  - Modern offices with multi-monitor setups
+  
+  The anticipated base salary range for this role is $150,000
+  to $200,000 per year, based on skills, experience, and
+  location. The offered salary is just part of the total
+  compensation package. In addition to a competitive salary,
+  the company offers both a discretionary cash bonus and a
+  stock award, as well as a wide range of benefits, including
+  healthcare, tuition reimbursement, and more.
+posted_date: 2026-04-14
+url: "https://builtin.com/job/data-engineer-gen-ai/9042646"
+source: Built In

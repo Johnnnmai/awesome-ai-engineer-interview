@@ -1,0 +1,58 @@
+company:
+  name: Cognyte
+  stage: Public
+  focus: |-
+    Investigative analytics software for law enforcement and
+    security
+position:
+  title: Senior ML/AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, fine-tuning, and
+      optimizing ML/AI models including language models, leading
+      research initiatives, and integrating AI technologies into
+      products. The engineer oversees fine-tuning of language
+      models on specific domains and evaluates model outputs,
+      which is hands-on work ON AI/ML systems.
+  responsibilities:
+  - Recruit and technically lead a team of researchers, data scientists, and data
+    engineers focused on ML and AI applications
+  - Oversee fine-tuning of language models on specific domains, addressing NLP challenges
+    and optimizing real-world performance
+  - Guide development of data processing pipelines for storage, retrieval, and preprocessing
+    of text, image, and other intelligence-domain data
+  - Evaluate and analyze model outputs, providing insights and recommendations for
+    improvements
+  - Collaborate with research scientists, software engineers, and product managers
+    to integrate research outcomes into products
+  - Initiate and drive innovative research projects advancing the company's strategic
+    goals
+  - Provide technical guidance and mentorship to team members on research initiatives
+    aligned with business objectives
+  - Stay current with ML/AI advancements and identify opportunities to leverage emerging
+    techniques
+  use_cases:
+  - Investigative analytics for law enforcement and security
+  - Fine-tuning language models for domain-specific NLP tasks in the intelligence
+    domain
+  - Data processing and analysis of text, image, and other data types for criminal
+    investigations
+  - Crime prevention and investigation through AI-powered analytics
+  - Intelligence data retrieval and preprocessing for investigative workflows
+  skills:
+    genai: []
+    ml: [PyTorch, Machine Learning, Fine-tuning]
+    web: []
+    databases: []
+    data: [Data Processing Pipelines]
+    cloud: [AWS]
+    ops: [Kubernetes, Docker, Git, DVC, MLOps]
+    languages: [Python, SQL]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8969252'
+  extracted_at: '2026-04-22T12:41:22.956129'

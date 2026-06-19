@@ -1,0 +1,54 @@
+company:
+  name: Scopely
+  stage: Late-stage private/Acquired (established 2011, $10B+ revenue, multiple acquisitions)
+  focus: |-
+    Global interactive entertainment company developing and
+    publishing mobile, web, PC and console games
+position:
+  title: Senior Artificial Intelligence Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves leading the design and development of
+      advanced AI systems including Conversational Analytics,
+      Knowledge Bases, and intelligent in-game experiences. The
+      position requires prototyping, researching emerging AI
+      methods, and delivering scalable AI solutions with direct
+      hands-on work in model deployment, performance tuning, and
+      AI infrastructure.
+  responsibilities:
+  - Lead the strategic design, development, and deployment of advanced AI systems
+    for Conversational Analytics, Knowledge Bases, QA Automation, and in-game intelligent
+    experiences
+  - Architect and implement scalable AI solutions supporting real-time systems, automation
+    pipelines, and player-facing features
+  - Collaborate across disciplines to translate high-level goals into robust, AI-powered
+    capabilities
+  - Mentor and guide engineers, promote best practices, and contribute to architectural
+    decisions shaping long-term technical direction
+  - Present research, insights, and prototypes that influence product vision and accelerate
+    the adoption of emerging AI technologies
+  - Lead efforts in AI infrastructure, including model deployment workflows, performance
+    tuning, and system observability in production environments
+  use_cases:
+  - Conversational analytics for game data and insights
+  - Knowledge base systems for information retrieval
+  - QA automation using AI-powered testing
+  - Intelligent in-game experiences and player-facing AI features
+  - Real-time AI systems for game automation and analytics
+  skills:
+    genai: []
+    ml: [Reinforcement learning]
+    web: [FastAPI, Microservices architecture]
+    databases: [SQL, NoSQL]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, CI/CD, Git, MLOps]
+    languages: [Python]
+    domains: [Computer vision, Game AI development]
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8740664'
+  extracted_at: '2026-03-27T14:04:23.128956'

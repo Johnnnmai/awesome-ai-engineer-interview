@@ -1,0 +1,57 @@
+company:
+  name: Rackspace Technology
+  stage: Public
+  focus: |-
+    Multi-cloud solutions, managed cloud services, and
+    enterprise AI/data solutions
+position:
+  title: Sr. Forward Deployed Engineer - Private Cloud, Data & AI Enterprise Solutions
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI
+      solutions including RAG pipelines, agentic AI workflows,
+      LLM/SLM fine-tuning, and multi-agent systems directly for
+      enterprise customers. While customer-facing, this is a
+      Forward Deployed Engineer role focused on implementing AI
+      systems, not supporting others who build AI.
+  responsibilities:
+  - Embed with strategic enterprise customers to diagnose business challenges and
+    co-design AI solutions on-site
+  - Lead end-to-end solution design and delivery of agentic AI workflows, RAG pipelines,
+    knowledge graphs, and real-time decision-making applications
+  - Drive rapid prototyping and POCs demonstrating tangible business value within
+    days to weeks
+  - Architect production-grade Enterprise AI applications on Rackspace Private Cloud
+    and GPU infrastructure
+  - Build scalable data pipelines using ETL/ELT, vector databases, and knowledge base
+    frameworks
+  - Develop and fine-tune LLM/SLM solutions and implement RAG architectures with multi-agent
+    workflow orchestration
+  - Champion observability, monitoring, and telemetry for trustworthy, auditable AI
+    agents in production
+  - Build reusable IP through reference architectures, accelerators, and frameworks
+    for future engagements
+  use_cases:
+  - Enterprise AI applications with agentic workflows and RAG pipelines
+  - Knowledge graphs and semantic data management
+  - Real-time decision-making applications for enterprise customers
+  - Integration with enterprise systems (ERP, CRM, data warehouses, data lakes)
+  - Multi-agent systems for autonomous workflow orchestration
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, LlamaIndex, Haystack, RAG architectures,
+      Prompt engineering, Multi-agent systems, LLM fine-tuning, SLM fine-tuning, RLHF]
+    ml: [Model distillation]
+    web: [React, Vue]
+    databases: [Pinecone, Weaviate, AstraDB, Vector databases, SQL, NoSQL databases]
+    data: [ETL/ELT, Data pipelines]
+    cloud: [Palantir Foundry, OpenStack, VMware, NVIDIA GPU infrastructure]
+    ops: [Docker, Kubernetes, CI/CD, GPU cluster management]
+    languages: [Python, Node.js, Go]
+    domains: []
+    other: [Knowledge graphs, Ontology modeling]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8519894'
+  extracted_at: '2026-03-03T12:03:37.178698'

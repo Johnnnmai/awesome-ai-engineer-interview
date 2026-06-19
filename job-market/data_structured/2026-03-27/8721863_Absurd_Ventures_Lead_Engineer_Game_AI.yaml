@@ -1,0 +1,51 @@
+company:
+  name: Absurd Ventures
+  stage: Unknown
+  focus: Game development studio
+position:
+  title: Lead Engineer, Game AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a game AI engineering role focused on building and
+      deploying AI systems for NPCs (behavior trees, state
+      machines, navigation, decision-making systems). While it's
+      traditional game AI rather than ML/LLM-based AI, the role
+      involves hands-on development and implementation of
+      intelligent systems directly.
+  responsibilities:
+  - Oversee development and implementation of character control AI systems including
+    pathfinding, state trees, decision-making, and NPC behavior models
+  - Collaborate with game designers and content creators to define AI system requirements
+    and constraints
+  - Architect and maintain scalable, reusable AI code systems for NPC behaviors and
+    traversal mechanics
+  - Create and maintain thorough documentation for AI systems and architecture
+  - Guide and mentor a team of AI engineers with code reviews and career development
+  - Ensure performance and memory efficiency across platforms using profiling and
+    optimization
+  - Work with QA and production to debug and resolve AI-related issues
+  - Stay current on AI trends in game development to bring innovative techniques
+  use_cases:
+  - NPC behavior and navigation in open world games
+  - Combat tactics and decision-making systems
+  - Ambient life and crowd simulations
+  - Character pathfinding and spatial reasoning
+  - Group coordination and sensory perception for game characters
+  skills:
+    genai: []
+    ml: [Behavior Trees, State Machines, Utility Systems, Navigation Systems, Pathfinding,
+      Machine Learning, Procedural Content Generation, Crowd Simulations]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Profiling Tools, Debugging]
+    languages: [C++, Python, Lua]
+    domains: []
+    other: [Unreal Engine, EQS (Environment Query System), Blackboard]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8721863'
+  extracted_at: '2026-03-27T15:03:25.906548'

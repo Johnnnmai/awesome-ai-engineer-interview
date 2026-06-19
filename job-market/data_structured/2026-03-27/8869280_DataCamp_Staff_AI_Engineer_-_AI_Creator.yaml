@@ -1,0 +1,52 @@
+company:
+  name: DataCamp
+  stage: Series B
+  focus: Data and AI skills education platform
+position:
+  title: Staff AI Engineer - AI Creator
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building LLM-powered AI tutoring
+      systems, including prompt architectures, agentic workflows,
+      and adaptive behaviors. The position requires hands-on work
+      implementing and deploying AI/LLM capabilities, not just
+      supporting infrastructure for others.
+  responsibilities:
+  - Own the design and implementation of key components of the AI tutoring system,
+    including prompt architectures, agentic workflows, and adaptive behaviors
+  - Drive experiments end-to-end—shipping, measuring, and iterating to improve learning
+    outcomes and model performance
+  - Build production-grade systems that integrate LLM capabilities into user-facing
+    experiences with reliability, speed, and scalability
+  - Translate product and pedagogical goals into concrete technical solutions, working
+    closely with product, content, and design
+  - Rapidly prototype and deploy new model capabilities, bridging the gap between
+    research breakthroughs and real user impact
+  - Strengthen system quality through robust testing, monitoring, and iteration—ensuring
+    safe and consistent behavior at scale
+  - Raise the bar through strong code, pragmatic technical decisions, and active participation
+    in design and code reviews
+  use_cases:
+  - AI-powered personalized tutoring at scale
+  - Real-time adaptive learning experiences
+  - One-on-one coaching for millions of learners
+  - Educational content delivery and skill assessment
+  - Data and AI skills training platform
+  skills:
+    genai: [Prompt Engineering, Agentic Workflows, LLM Integration, Multi-step Model
+        Interactions]
+    ml: []
+    web: [Production System Design]
+    databases: []
+    data: [Experimentation and A/B Testing]
+    cloud: []
+    ops: [Monitoring and Testing]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8869280'
+  extracted_at: '2026-03-27T14:08:20.303736'

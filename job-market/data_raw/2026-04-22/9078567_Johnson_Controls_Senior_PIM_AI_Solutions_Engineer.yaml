@@ -1,0 +1,157 @@
+job_id: 9078567
+title: "Senior PIM & AI Solutions Engineer"
+company: Johnson Controls
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Azure Ai
+  - Azure Openai
+  - "C#/.Net"
+  - Inriver Inspire Ai
+  - Large Language Models
+  - Ms Sql Server
+  - Rest Apis
+company_size: 100,000 Employees
+description: |
+  Overview:  Johnson Controls is seeking a highly skilled
+  Senior PIM & AI Solutions Engineer to accelerate our
+  enterprise product data platform with next‑generation AI
+  capabilities. This role blends deep PIM engineering
+  expertise with hands‑on AI solution development, leveraging
+  Inriver Inspire AI, large language models (LLMs), AI agents,
+  content generation/translation engines, and productivity
+  automation frameworks.
+  
+  You will partner with product owners, architects, and
+  Product Marketing to deliver intelligent, scalable solutions
+  that improve product content quality, streamline enrichment
+  workflows, automate data transformations, and enhance
+  speed‑to‑market. This includes enabling Inspire AI features,
+  building validation workflows, generating data‑loader
+  templates from intake sheets, and evaluating new AI tools
+  that drive operational efficiency across the product content
+  lifecycle.
+  
+  Responsibilities
+  
+  Build (PIM, AI, and Workflow Engineering)
+  
+  - Enable, configure, and optimize Inriver Inspire AI features
+    for content generation, localization, translation, and
+    enrichment.
+  - Design and implement AI agent–driven workflows for content
+    validation, attribute completeness checks, enrichment task
+    routing, automated suggestions, and metadata generation.
+  - Build automations for intake‑to‑PIM transformations,
+    including generating data loader sheets, mapping
+    templates, cleansing rules, and exception handling.
+  - Design and evolve product data models (entities, attributes,
+    CVLs, relationships), taxonomy/classification structures,
+    validation rules, and versioning strategies.
+  - Engineer bulk data onboarding processes including imports,
+    ETL transformations, AI‑assisted cleanup, and quality
+    checks.
+  - Integrate PIM with AI services/agents, translation services,
+    downstream systems, and internal applications via REST
+    APIs, message/event‑based patterns, and workflow
+    orchestration.
+  - Produce technical documentation including AI workflow
+    designs, prompt & tool catalogs for agents, integration
+    specs, data models, and operational runbooks.
+  
+  AI Enablement & Productivity Innovation
+  
+  - Evaluate, prototype, and operationalize AI/ML tools and
+    agent frameworks to improve productivity across Product
+    Marketing and product content operations.
+  - Build internal AI utilities/agents for tasks such as content
+    rewriting, translation, categorization, attribute
+    derivation, and taxonomy recommendations.
+  - Establish best practices for prompt engineering, tool
+    calling, retrievers, model selection, evaluation metrics
+    (quality, latency, cost), and human‑in‑the‑loop (HITL)
+    review.
+  - Ensure ethical, secure, and compliant use of AI within
+    enterprise guidelines (governance, data privacy, PII/PI
+    policy adherence).
+  
+  Platform & Engineering Excellence
+  
+  - Apply OOP/SOLID principles and modern engineering practices
+    to deliver maintainable and scalable PIM/AI solutions.
+  - Implement unit/integration tests and participate in CI/CD
+    processes (Azure DevOps pipelines or equivalent).
+  - Drive data governance standards including completeness,
+    consistency, accuracy, localization, lineage, and
+    auditability.
+  - Promote best practices for agent safety/guardrails,
+    evaluation harnesses, and continuous improvement in an
+    Agile/Scrum environment.
+  
+  Required Qualifications
+  
+  - Bachelor’s degree in computer science, Engineering, or
+    related field, or equivalent experience.
+  - 6–8 years of engineering experience with C#/.NET, REST APIs,
+    and MS SQL Server.
+  - 2+ years of hands‑on experience building AI-driven
+    applications, including LLM workflows, RAG pipelines,
+    prompt orchestration, or automated content-generation
+    systems.
+  - Practical experience developing or integrating AI agents
+    using frameworks such as Azure AI Orchestration, Semantic
+    Kernel, Lang Chain, or equivalent tool‑calling
+    architectures.
+  - Experience with Azure OpenAI or comparable LLM platforms
+    (model configuration, prompt design, evaluation, cost
+    optimization).
+  - Strong understanding of enterprise AI patterns: retrieval-
+    augmented generation (RAG), embeddings,
+    translation/normalization pipelines, content quality
+    evaluation, and human‑in‑the‑loop (HITL) review loops.
+  - Hands‑on experience implementing automated workflows, data
+    transformations, and bulk import processes.
+  - Knowledge of PIM concepts, including data modeling,
+    enrichment workflows, validation, localization, and
+    taxonomy.
+  - Strong debugging and optimization skills for both PIM
+    workflows and AI-driven automations.
+  - Excellent communication skills and ability to work across
+    engineering, Product Marketing, and data governance teams.
+  
+  Preferred Qualifications
+  
+  - Inriver PIM experience (strongly preferred): advanced
+    configuration of entities/links/CVLs, Inspire AI tuning,
+    workflow customization, extensibility, connectors, and
+    operational monitoring.
+  - Experience designing enterprise-grade AI solutions beyond
+    basic prompting, such as multi-agent coordination,
+    planning capabilities, or workflow orchestration
+    frameworks.
+  - Hands-on experience with RAG optimization (embeddings
+    tuning, vector index design, evaluation frameworks) and
+    enterprise search technologies.
+  - Familiarity with AI quality evaluation, A/B testing, prompt
+    safety guardrails, observability, and monitoring for model
+    performance or agent behavior.
+  - Experience implementing AI-driven translations or
+    localization pipelines at scale (e.g., Azure Translator,
+    Language Studio, or 3rd‑party translation engines).
+  - Understanding of ML Ops / AI Ops concepts, including model
+    lifecycle management, logging, cost governance, and
+    versioning.
+  - Experience building automation solutions for product content
+    operations (intake-to-PIM flows, automated validation
+    gates, bulk enrichment, or classification systems).
+  - Knowledge of event-based integration patterns, pub/sub
+    architectures, and microservices.
+  - Exposure to data governance, stewardship processes, and
+    omnichannel content syndication.
+industries:
+  - Other
+  - Security
+posted_date: 2026-04-17
+url: "https://builtin.com/job/senior-pim-ai-solutions-engineer/9078567"
+source: Built In

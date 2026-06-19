@@ -1,0 +1,48 @@
+company:
+  name: S&P Global
+  stage: Public
+  focus: Financial data, analytics, and commodity market intelligence
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and deploying LLM-based
+      applications, including RAG architectures, AI-powered
+      agents, and working with vector databases and orchestration
+      frameworks. The engineer is hands-on with building AI/LLM
+      systems, not just supporting infrastructure for others.
+  responsibilities:
+  - Design workflow automation solutions using enterprise automation platforms to
+    streamline operations for internal and external clients
+  - Create AI-powered agents to automate tasks and improve user efficiency
+  - Build and maintain RAG applications and LLM-powered solutions using vector databases
+    and orchestration frameworks
+  - Collaborate with business teams to analyze data, build pipelines, and identify
+    automation opportunities
+  - Drive business decisions based on insights obtained from data
+  - Manage LLM application lifecycle including prompt engineering, model evaluation,
+    and cost optimization
+  use_cases:
+  - Workflow automation for commodity market data operations
+  - AI-powered agents for task automation and user efficiency
+  - RAG-based data retrieval and generation for commodity intelligence
+  - Data pipeline automation for internal and external clients
+  - Business intelligence and decision support from commodity data
+  skills:
+    genai: [RAG, LLM application development, Orchestration frameworks, Prompt engineering,
+      Model evaluation]
+    ml: [Machine learning, Deep learning frameworks]
+    web: [API integration]
+    databases: [Vector databases, Relational databases, NoSQL databases]
+    data: [Data pipelines, Big data technologies]
+    cloud: [Cloud services]
+    ops: [LLM operations/monitoring, Git]
+    languages: [Python, SQL, Object-oriented programming, Design patterns]
+    domains: []
+    other: [Workflow automation platforms, Agile]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8644207'
+  extracted_at: '2026-04-22T14:19:49.516393'

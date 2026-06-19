@@ -1,0 +1,170 @@
+job_id: 8787089
+title: AI Engineer (GTM)
+company: HumanSignal
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AI
+  - APIs
+  - Data Pipelines
+  - Marketing Automation
+  - Ml
+description: |
+  The future of AI — whether in training or evaluation,
+  classical ML or agentic workflows — starts with high-quality
+  data.
+  
+  At HumanSignal, we’re building the platform that powers the
+  creation, curation, and evaluation of that data. From fine-
+  tuning foundation models to validating agent behaviors in
+  production, our tools are used by leading AI teams to ensure
+  models are grounded in real-world signal, not noise.
+  
+  Our open-source product, Label Studio, has become the de
+  facto standard for labeling and evaluating data across
+  modalities — from text and images to time series and agents-
+  in-environments. With over 250,000 users and hundreds of
+  millions of labeled samples, it’s the most widely adopted
+  OSS solution for teams working on building AI systems.
+  
+  Label Studio Enterprise builds on that traction with the
+  security, collaboration, and scalability features needed to
+  support mission-critical AI pipelines — powering everything
+  from model training datasets to eval test sets to continuous
+  feedback loops.We started before foundation models were
+  mainstream, and we’re doubling down now that AI is eating
+  the world. If you're excited to help leading AI teams build
+  smarter, more accurate systems — we’d love to talk.
+  
+  About the Role
+  
+  We’re looking for an ambitious AI Engineer to transform how
+  our go-to-market team operates. San Francisco, Austin, or
+  Lisbon are preferred locations where you can collaborate
+  with team members, but the position is remote or hybrid.
+  
+  As the founding GTM engineer, you will architect and build
+  the AI-powered systems that power our entire GTM motion,
+  owning the technology stack, partnering with stakeholders to
+  define the workflows, deploying AI agents and apps, and
+  continuously improving how the company acquires, activates,
+  and grows customers.
+  
+  This is a highly hands-on role for someone who enjoys
+  shipping systems, experimenting rapidly, and solving messy
+  real-world problems with software.
+  
+  Why This Role Matters
+  
+  This role is a force multiplier for the entire company.
+  You’ll build the infrastructure that allows the GTM team to
+  move faster, learn faster, and scale without proportional
+  headcount. You’ll help us:
+  
+  - Turn GTM from a set of tools into a cohesive, intelligent
+    system
+  - Scale workflows without scaling headcount
+  - Improve signal quality and timing for marketing and sales
+  - Increase learning velocity across the entire funnel
+  - Shape how an open-source, bottom-up product grows into
+    enterprise adoption
+  
+  What You’ll DoBuild & Automate the foundational GTM AI stack
+  
+  - Design, build, and maintain AI systems across marketing,
+    PLG, sales, and post-signup activation
+  - Own integrations and workflows across tools like CRM,
+    marketing automation, product analytics, data warehouse,
+    enrichment tools, and internal services
+  - Build internal tools and lightweight services that
+    accelerate GTM teams
+  - Replace manual workflows with scalable, automated systems
+  
+  AI-Powered Systems & Agents
+  
+  Design and deploy AI-driven workflows and agents that
+  augment GTM teams.
+  
+  Examples include:
+  
+  - Lead qualification, inbound lead routing, and enrichment
+  - Personalized lifecycle marketing and outbound messaging
+  - Sales assist tools for deal intelligence and account
+    research
+  - Automated account insights, pipeline analysis, and deal
+    lifecycle management
+  - User onboarding, activation, and expansion signals
+  
+  You’ll continuously improve these systems using real
+  performance data and feedback loops.
+  
+  Growth: PLG + Sales-Assisted Motion
+  
+  - Support a hybrid GTM model where open-source and self-serve
+    users graduate into paid, sales-assisted customers
+  - Partner with Data & Growth to build systems that surface
+    product signals (usage, intent, readiness) to marketing
+    and sales teams at the right time
+  - Partner closely with Product & Marketing to turn usage
+    insights into GTM leverage
+  
+  Experimentation & Learning
+  
+  Build the infrastructure that allows the GTM team to learn
+  quickly and iterate with confidence.
+  
+  - Design and run experiments across acquisition, activation,
+    conversion, and expansion
+  - Build experimentation frameworks (feature flags, A/B
+    testing, measurement systems)
+  - Instrument systems to capture reliable data and insights
+  - Rapidly iterate based on results, not assumptions
+  
+  Feedback Loops & Continuous Improvement
+  
+  Create tight feedback loops between users, product signals,
+  and GTM actions.
+  
+  - Partner with head of , accessible, and actionable across
+    teams
+  - Turn qualitative and quantitative insights into system
+    improvements
+  - Continuously optimize workflows, models, and automation
+    based on real outcomes
+  
+  What We’re Looking ForCore Skills
+  
+  This is fundamentally an engineering role, not traditional
+  GTM operations. We’re looking for someone who enjoys
+  building systems, not managing tools.
+  
+  - Strong engineering background (software, data, or growth
+    engineering)
+  - Comfortable shipping production code (APIs, services,
+    scripts, internal tools)
+  - Experience working with data pipelines, analytics, and
+    experimentation frameworks
+  - Hands-on experience with AI/LLMs, prompt engineering, or
+    agent-based systems
+  
+  Collaboration & Ownership
+  
+  - Ability to work cross-functionally with Product,
+    Engineering, Marketing and Sales
+  - Comfortable operating with ambiguity and defining the
+    problem as you go
+  - Strong communicator who can translate between technical and
+    GTM stakeholders
+  
+  Nice to Have
+  
+  - Experience with open-source or developer-focused products
+  - Familiarity with CRM systems (e.g., Salesforce, HubSpot),
+    CDPs, and marketing automation
+  - Experience building internal tools for sales or marketing
+    teams
+  - Prior work in B2B SaaS, data, or AI-first companies
+posted_date: 2026-03-18
+url: "https://www.builtinla.com/job/ai-engineer-gtm/8787089"
+source: Built In

@@ -1,0 +1,54 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+position:
+  title: Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, deploying, and
+      optimizing LLMs and agentic AI systems at Capital One. The
+      responsibilities include foundation model training, LLM
+      inference, LLM optimization techniques, and building AI
+      software components — all hands-on work on AI/ML systems.
+  responsibilities:
+  - Partner with cross-functional teams of engineers, research scientists, and product
+    managers to deliver AI-powered products
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    and observability
+  - Leverage Open Source and SaaS AI technologies such as AWS Ultraclusters, Huggingface,
+    VectorDBs, Nemo Guardrails, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  - Apply novel techniques from scientific publications to production AI systems
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Informing customers about unusual charges using AI
+  - Real-time customer question answering
+  - AI-powered products that change how associates work and customers interact with
+    Capital One
+  - Scalable AI infrastructure for enterprise-wide AI model deployment
+  - Responsible and governed AI systems for financial services
+  skills:
+    genai: [LLM inference, Nemo Guardrails, Similarity search, Prompt engineering
+        and guardrails, Agentic AI]
+    ml: [Foundation model training, PyTorch, Huggingface, LLM optimization, CUDA]
+    web: []
+    databases: [VectorDBs]
+    data: []
+    cloud: [AWS Ultraclusters, AWS, Google Cloud, Azure]
+    ops: [Model evaluation]
+    languages: [Python, Go, Scala, Java, C++, C#, Golang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7630264'
+  extracted_at: '2026-04-22T12:35:59.652816'

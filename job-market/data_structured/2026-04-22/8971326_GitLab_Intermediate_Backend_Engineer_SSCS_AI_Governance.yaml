@@ -1,0 +1,51 @@
+company:
+  name: GitLab
+  stage: Public
+  focus: DevSecOps platform for software development lifecycle
+position:
+  title: 'Intermediate Backend Engineer, SSCS: AI Governance'
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is a backend engineering position focused on
+      building governance and compliance tooling around AI usage
+      (audit events, usage tracking, policy controls). The
+      engineer does NOT build, train, fine-tune, or deploy AI/ML
+      models. Instead, they build infrastructure and product
+      features that help enterprises govern and audit AI agent
+      usage, making this an ai-support role.
+  responsibilities:
+  - Implement backend features for the AI Governance product area including event
+    normalization, storage layer enhancements, API endpoints, export support, and
+    registry integrations
+  - Build and maintain automated test coverage using RSpec or equivalent tools to
+    ensure reliable releases
+  - Collaborate with senior and staff engineers to deliver reliable, maintainable
+    solutions aligned with product direction
+  - Work asynchronously with cross-functional partners and adjacent engineering teams
+    on governance and AI capabilities
+  - Take ownership of scoped work and deliver with high follow-through in a fast-moving
+    product area
+  - Grow knowledge of AI governance, agent-related product architecture, and integration
+    patterns through hands-on delivery
+  use_cases:
+  - AI usage audit and compliance for enterprise organizations
+  - Visibility and observability into AI agent usage within GitLab
+  - Policy controls to protect projects and meet compliance requirements
+  - Governance controls for regulated enterprise AI adoption
+  skills:
+    genai: []
+    ml: []
+    web: [Ruby on Rails, GraphQL, REST APIs]
+    databases: [PostgreSQL, ClickHouse]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, Ruby]
+    domains: []
+    other: [RSpec, Event-driven architecture, Git]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8971326'
+  extracted_at: '2026-04-22T13:47:31.512916'

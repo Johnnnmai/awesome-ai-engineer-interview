@@ -1,0 +1,51 @@
+company:
+  name: Allegis Global Solutions
+  stage: Established
+  focus: Workforce management, staffing, and HR consulting services
+position:
+  title: Lead AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building of intelligent agents,
+      conversational interfaces, agentic workflows, and Foundation
+      Layer AI capabilities. The engineer will design and build AI
+      systems, work with LLMs, implement RAG patterns, and develop
+      MCP servers. This is direct work building and deploying AI
+      solutions, not support work.
+  responsibilities:
+  - Lead design and architecture for intelligent agents, automations, and Foundation
+    Layer AI capabilities
+  - Design and build intelligent agents, conversational interfaces, and agentic workflows
+  - Develop Foundation Layer services as reusable AI capabilities exposed as REST
+    APIs and MCP servers
+  - Create integrations between AI capabilities and enterprise systems
+  - Own day-to-day technical decisions and establish patterns and standards for the
+    engineering team
+  - Mentor engineers through pairing, code review, and coaching
+  - Troubleshoot complex issues across the full stack
+  - Translate business requirements into technical solutions and communicate trade-offs
+  use_cases:
+  - Intelligent agents for workforce management automation
+  - Conversational interfaces for HR and staffing workflows
+  - Enterprise automation using AI-powered agentic workflows
+  - Reusable AI services integrated with enterprise systems
+  - AI-powered capabilities for staffing and HR tech domain
+  skills:
+    genai: [OpenAI APIs, Copilot Studio, Power Automate, Microsoft Power Platform,
+      LLM application development, Prompt engineering, RAG patterns, MCP servers,
+      Agentic workflows]
+    ml: []
+    web: [REST APIs]
+    databases: [Dataverse, Snowflake]
+    data: []
+    cloud: [Azure AI Services, Azure Container Apps, Azure Functions, Microsoft 365]
+    ops: [Git, Azure DevOps, CI/CD pipelines]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8392100'
+  extracted_at: '2026-03-03T11:16:55.435501'

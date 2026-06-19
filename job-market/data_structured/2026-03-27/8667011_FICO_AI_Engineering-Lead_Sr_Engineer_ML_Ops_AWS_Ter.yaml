@@ -1,0 +1,58 @@
+company:
+  name: FICO
+  stage: Public
+  focus: |-
+    Global analytics software company providing credit scoring,
+    fraud detection, and decision automation solutions
+position:
+  title: AI Engineering-Lead/ Sr Engineer (ML Ops, AWS, Terraform)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an MLOps/DataOps infrastructure role focused on
+      building and maintaining pipelines, infrastructure, and
+      workflows that support ML models and GenAI applications. The
+      role enables AI work but doesn't directly build, train, or
+      fine-tune models - it operationalizes what data scientists
+      and ML engineers create.
+  responsibilities:
+  - Design, build, and maintain scalable data and ML pipelines, infrastructure, and
+    workflows using GitHub Actions, Terraform, and Helm
+  - Automate infrastructure provisioning and configuration management using AWS cloud-native
+    services with Terraform and CloudFormation
+  - Design, containerize, and manage Kubernetes (EKS) clusters and/or ECS environments
+    in AWS
+  - Partner with DevOps and SRE teams to ensure high availability, observability,
+    scalability, and security of data and ML infrastructure
+  - Work closely with Data Scientists and ML Engineers to operationalize machine learning
+    models including building CI/CD pipelines for model training, validation, and
+    deployment
+  - Implement observability for data pipelines and ML services using Prometheus, Grafana,
+    Datadog, or similar tools
+  - Develop and maintain automated pipelines for model retraining, monitoring drift,
+    and versioning in production
+  - Support experimentation and prototyping in Machine Learning and Generative AI,
+    transitioning successful prototypes into production systems
+  use_cases:
+  - Fraud detection across payment systems
+  - Decision automation for businesses
+  - Workflow orchestration across FICO platform
+  - System optimization and performance tuning
+  - Credit scoring and lending decisions
+  skills:
+    genai: []
+    ml: [Feast, Tecton, Feature stores]
+    web: []
+    databases: []
+    data: [Data mesh, Lakehouse architectures]
+    cloud: [EKS, ECS, AWS, EC2, S3, IAM, CloudWatch]
+    ops: [Terraform, CloudFormation, Helm, GitHub Actions, Kubernetes, Prometheus,
+      Grafana, Datadog, OpenTelemetry, Jenkins, Argo Workflows, Docker, GitOps]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8667011'
+  extracted_at: '2026-03-27T14:46:03.569714'

@@ -1,0 +1,56 @@
+company:
+  name: PointClickCare
+  stage: Private (founder-led)
+  focus: Health tech platform for long-term and post-acute care
+position:
+  title: Principal Software Engineer (AI) ( US)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building and delivering
+      production-grade AI systems including agentic architectures,
+      RAG pipelines, and AI platforms. The position involves
+      hands-on work with LLM frameworks (LangChain, LangGraph,
+      etc.), designing reasoning loops, orchestration systems, and
+      vector databases - all core AI/ML system development work.
+  responsibilities:
+  - Lead the reference architecture for AI and agentic systems within key product
+    domains, defining standards and reusable patterns for reasoning loops, orchestration,
+    tool calling, memory management, and data integration
+  - Design and deliver production-ready AI systems ensuring reliability, scalability,
+    observability, performance, and cost efficiency across the full lifecycle
+  - Establish platform-level AI and data components including model broker, multi-model
+    routing, orchestration services, evaluation frameworks, and monitoring tooling
+  - Lead the design of end-to-end AI data pipelines including document ingestion,
+    OCR, NER, chunking, embeddings, vector stores, and hybrid search
+  - Partner with Product Management and data teams to identify and validate AI-driven
+    opportunities that improve clinical and business outcomes
+  - Embed responsible AI and security by design principles including RBAC, audit logging,
+    and alignment with healthcare regulations (HIPAA, NIST AI RMF)
+  - Mentor and coach senior and intermediate engineers, raising overall capability
+    in AI and data architecture and production AI engineering practices
+  - Drive adoption of shared AI and data best practices, enabling teams to reuse platform
+    components and evolve domain-specific AI capabilities
+  use_cases:
+  - Healthcare AI platform for long-term and post-acute care providers
+  - Clinical and operational outcome improvement through AI-driven solutions
+  - Document processing and data extraction for healthcare records
+  - Agentic AI systems for healthcare workflows and decision support
+  - Enterprise AI platform enabling product teams to embed AI capabilities
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, CrewAI, LlamaIndex, RAG, Agentic architectures,
+      Embeddings, Prompt engineering]
+    ml: [NER]
+    web: []
+    databases: [Vector databases]
+    data: [OCR, Data pipelines]
+    cloud: []
+    ops: [Model serving infrastructure, Observability and monitoring]
+    languages: []
+    domains: []
+    other: [HIPAA compliance, RBAC, Security by design, NIST AI RMF]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8842635'
+  extracted_at: '2026-03-27T15:44:37.059159'

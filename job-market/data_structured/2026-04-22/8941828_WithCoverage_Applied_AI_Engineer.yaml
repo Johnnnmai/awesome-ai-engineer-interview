@@ -1,0 +1,51 @@
+company:
+  name: WithCoverage
+  stage: Series A/B (raised $43M from Sequoia, 8VC, Khosla)
+  focus: AI-powered insurance brokerage and risk management platform
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, designing, and
+      shipping AI-powered workflow solutions using LLMs and
+      internal agent infrastructure. The engineer owns the full
+      lifecycle from problem discovery to production deployment of
+      LLM-based automations, working hands-on with LLM APIs,
+      prompt engineering, and AI integration patterns.
+  responsibilities:
+  - Embed with risk advisors to understand their workflows around policies, renewals,
+    claims, and client communications to identify AI automation opportunities
+  - Design and ship AI-powered workflow automations using LLMs, the internal agent
+    platform, and other tools, owning the full lifecycle from prototype to production
+  - Move quickly to identify problems and ship solutions, measuring impact and iterating
+    based on real-world usage feedback
+  - Bridge engineering and operations by translating operational pain points into
+    technical requirements and feeding patterns back to the agent platform team
+  - Apply prompt engineering and LLM integration patterns to make AI solutions reliable
+    in production environments
+  - Navigate ambiguity and make tradeoff decisions to build solutions for messy human
+    workflows in the insurance domain
+  use_cases:
+  - Automating insurance policy management and renewal workflows
+  - Processing and analyzing insurance claims using AI
+  - Automating document-heavy insurance operations (emails, expert judgment, policy
+    documents)
+  - Streamlining client and carrier communications for risk advisors
+  - Building AI-powered decision support for risk management advisors
+  skills:
+    genai: [LLM APIs, Prompt Engineering, AI Agents]
+    ml: []
+    web: [GraphQL, React, Next.js]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Node.js, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8941828'
+  extracted_at: '2026-04-22T12:42:54.256229'

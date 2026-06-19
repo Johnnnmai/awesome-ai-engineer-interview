@@ -1,0 +1,115 @@
+job_id: 8986760
+title: Senior AI Developer
+company: Movado Group
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Amazon Redshift
+  - Amazon Web Services
+  - Generative Ai
+  - Git
+  - Google Bigquery
+  - Python
+  - SAP
+  - SQL
+  - VBA
+company_size: 1,580 Employees
+description: |
+  Key Responsibilities
+  
+  - Design and architect AI-enhanced solutions integrating SAP
+    data, external cloud data sources (e.g., Google BigQuery,
+    Amazon Redshift), and local file-based inputs
+  - Lead development of automation tools and bots using
+    Generative AI (e.g., Amazon Bedrock, custom GPTs, Amazon
+    Lex) to interact with APIs, databases, and back-end
+    systems for real-time data processing and response
+  - Collaborate with functional and business teams to gather
+    requirements, define logic, and modularize business
+    processes for AI-assisted code generation
+  - Develop intelligent frontend tools using Python, VBA, and
+    Excel to streamline and automate business workflows
+  - Build, test, and deploy predictive models using machine
+    learning and statistical techniques (forecasting,
+    regression, simulation, etc.)
+  - Define and maintain coding standards, Git-based
+    repositories, and CI/CD pipelines for AI and automation
+    development
+  - Monitor and troubleshoot solution performance across SAP and
+    non-SAP environments; ensure high availability and
+    scalability
+  - Drive innovation by applying AI and cloud services to
+    modernize business processes such as Order-to-Cash (OTC)
+    and Procure-to-Pay (P2P)
+  - Oversee development of reusable code modules and AI
+    frameworks; mentor junior Python developers
+  - Ensure secure and efficient integration of AI services with
+    AWS, SAP systems, and third-party applications
+  - Maintain thorough documentation of design decisions,
+    architecture, and processes
+  - Stay updated on evolving AI tools, LLMs, and cloud platforms
+    to continually improve solution capability
+  
+  Area of Focus
+  
+  - Python and VBA-based development for business process
+    automation
+  - SAP integration (data extraction, update via APIs or file-
+    based interfaces)
+  - AWS Services: Lambda, Bedrock, Lex, and others
+  - Generative AI-based development and automation
+  - Cloud data platforms: Google BigQuery, Amazon Redshift
+  - Excel dashboards, macros, and Python-based UIs
+  - Git-based version control and CI/CD workflows
+  - Advanced debugging, logging, and performance optimization
+  - Development of prediction and statistical models
+  - Bi-directional data flow design between SAC, BW, SAP, and
+    external systems
+  
+  Qualifications
+  
+  Education
+  
+  - Required: Bachelor’s Degree in Computer Science,
+    Engineering, Data Science, or a related field
+  - Preferred: Master’s Degree in Artificial Intelligence,
+    Machine Learning, or equivalent
+  
+  Experience
+  
+  - Minimum 3 years of strong hands-on experience in Python and
+    VBA development
+  - Minimum 1 year of experience using Generative AI tools to
+    automate coding and workflow design
+  - Proven experience developing and integrating solutions with
+    business applications (data read/write, process
+    automation)
+  - At least 1 year of experience working with cloud platforms
+    (AWS, GCP, or Azure), including developing Lambda
+    functions, APIs, or microservices
+  - Solid background in machine learning, data analytics,
+    forecasting, regression, and simulation techniques
+  - Experience with SQL, Python data libraries (e.g., Pandas,
+    NumPy, scikit-learn), and cloud databases
+  - Knowledge of chatbot development and AI-based API
+    interaction (e.g., Amazon Lex, Bedrock, OpenAI APIs)
+  - Experience with GitHub/GitLab, DevOps tools, and
+    implementation of CI/CD pipelines
+  - Strong analytical, debugging, and architectural skills
+  
+  Experience collaborating in agile, cross-functional, and
+  distributed teams
+  
+  Movado Group, Inc. is an equal opportunity employer. It
+  prohibits discrimination based on age, color, disability,
+  marital or parental status, national origin, race, religion,
+  sex, sexual orientation, gender identity, veteran status or
+  any other legally protected status in accordance with
+  applicable federal, state and local laws.
+industries:
+  - Fashion
+  - Wearables
+posted_date: 2026-04-08
+url: "https://builtin.com/job/senior-ai-developer/8986760"
+source: Built In

@@ -1,0 +1,53 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Information and technology solutions for legal, tax,
+    accounting, and compliance professionals
+position:
+  title: Senior Software Engineer - AI II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves leading AI projects, optimizing AI
+      performance through domain-specific adaptation of models,
+      delivering scalable AI/ML solutions with MLOps/LLMOps,
+      building AI agents, and working hands-on with
+      TensorFlow/PyTorch, NLP, and computer vision. The engineer
+      is directly building and deploying AI systems, not just
+      supporting them.
+  responsibilities:
+  - Lead the technical execution of AI projects including architecture decisions,
+    roadmap alignment, and delivery oversight
+  - Optimize AI performance through domain-specific adaptation of third-party models
+    and algorithms
+  - Deliver scalable AI/ML solutions using emerging technologies and best practices
+    in MLOps and LLMOps
+  - Design and implement continuous monitoring of application and user behavior to
+    support product insights and prioritization
+  - Stay abreast of AI developments and encourage learning and adoption of relevant
+    technologies
+  - Act as a thought leader by contributing to internal forums and influencing technical
+    direction
+  use_cases:
+  - Document analysis for tax, accounting, and audit professionals
+  - Computer vision and NLP solutions for practice-management workflows
+  - AI agents for tax and accounting automation
+  - Domain-specific model adaptation for legal, tax, and compliance domains
+  - Scalable AI/ML solutions for Thomson Reuters product portfolio
+  skills:
+    genai: [AI Agents]
+    ml: [TensorFlow, PyTorch, scikit-learn]
+    web: [.NET]
+    databases: []
+    data: [NumPy, Pandas, Matplotlib]
+    cloud: [Azure]
+    ops: [MLOps, LLMOps]
+    languages: [Python, C#]
+    domains: [Computer Vision, NLP, Document Analysis]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8901803'
+  extracted_at: '2026-04-22T13:29:08.760083'

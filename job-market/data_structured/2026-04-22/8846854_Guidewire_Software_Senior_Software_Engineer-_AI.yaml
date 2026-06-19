@@ -1,0 +1,57 @@
+company:
+  name: Guidewire Software
+  stage: Public
+  focus: Cloud-based SaaS platform for P&C insurance companies
+position:
+  title: Senior Software Engineer- AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, building, and operating AI/ML
+      agent platforms and RAG capabilities, including hands-on
+      work with LLM orchestration frameworks (LangChain,
+      LangGraph), vector/graph databases, and deploying
+      production-grade AI services. The engineer is directly
+      building and deploying AI/ML systems, not just supporting
+      them.
+  responsibilities:
+  - Design, develop, and operate scalable microservices for the AI/ML agent runtime
+    and serving layer
+  - Implement and maintain LLM orchestration frameworks (LangChain, LangGraph, AWS
+    Strands, Google ADK) for agent workflows
+  - Build and optimize secure data ingestion and indexing pipelines for RAG using
+    vector and graph databases
+  - Develop secure, scalable data connectors and tool interfaces for enterprise systems
+    (Oracle, Salesforce, Workday, Snowflake)
+  - Collaborate with Security teams to embed access controls, auditability, and privacy
+    into AI/ML services
+  - Design and implement automated evaluation frameworks (evals) for LLM performance
+    measurement integrated into CI/CD pipelines
+  - Contribute to BizTech's Agentic Platform and GenAI enablement roadmap including
+    coding assistants and AI fluency initiatives
+  use_cases:
+  - Internal AI agent platform for enterprise workflow automation
+  - RAG-based knowledge retrieval for P&C insurance domain
+  - Secure enterprise data integration connecting LLM agents to business systems
+  - Automated LLM evaluation and performance monitoring in production
+  - GenAI-powered productivity tools and coding assistants for internal teams
+  - Citizen developer tooling enabling broader teams to build on AI capabilities
+  skills:
+    genai: [LangChain, LangGraph, AWS Strands, Google ADK, RAG, LLM Orchestration,
+      Agent Workflows, Prompt Engineering, MCP (Model Context Protocol), Claude, Gemini
+        Code]
+    ml: []
+    web: [Microservices, REST APIs]
+    databases: [Pinecone, Weaviate, Neo4j, Snowflake, Oracle]
+    data: []
+    cloud: [AWS Bedrock, Google Vertex AI, AWS EC2, AWS S3, AWS IAM]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python, TypeScript, Node.js]
+    domains: []
+    other: [Salesforce Integration, Workday Integration, Data Governance, Responsible
+        AI, Cursor]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8846854'
+  extracted_at: '2026-04-22T14:11:48.555544'

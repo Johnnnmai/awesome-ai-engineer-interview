@@ -1,0 +1,53 @@
+company:
+  name: Scale AI
+  stage: Series F
+  focus: |-
+    AI data foundry building enterprise GenAI agents and
+    solutions
+position:
+  title: Staff Applied AI Engineer, Enterprise GenAI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, optimizing, and
+      deploying AI agents and ML solutions for enterprise
+      customers. The engineer will leverage the Scale Generative
+      Platform to build advanced AI agents with multimodal
+      functionality and tool-calling, and push production code for
+      ML models — making this a hands-on AI/ML building role.
+  responsibilities:
+  - Own, plan, and optimize AI solutions for Enterprise customers' deepest technical
+    problems
+  - Build advanced AI agents with multimodal functionality, tool-calling, and other
+    capabilities using the Scale Generative Platform
+  - Gather business requirements from customers and translate them into technical
+    ML solutions
+  - Collaborate cross-functionally with customer teams both onsite and virtually to
+    address data and ML needs
+  - Push production code across multiple development environments, writing and debugging
+    in both customer and Scale codebases
+  - Conduct data-driven experiments to identify model strengths and inefficiencies
+    and improve product performance
+  use_cases:
+  - AI cybersecurity firewalls for enterprise defense
+  - Transformative AI experiences in journalism
+  - Foundation genomic models for drug protein predictions
+  - Enterprise AI agents with multimodal functionality and tool-calling
+  - Frontier data and model applications across diverse industries
+  skills:
+    genai: [LLM agents, RAG, Prompt engineering, Multimodal AI, Tool-calling / function
+        calling]
+    ml: [Machine learning model development, Data-driven experimentation]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Cloud ML development]
+    ops: [Production deployment]
+    languages: [Python, NumPy, Pandas]
+    domains: []
+    other: [Software engineering best practices]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9007209'
+  extracted_at: '2026-04-22T13:00:05.343628'

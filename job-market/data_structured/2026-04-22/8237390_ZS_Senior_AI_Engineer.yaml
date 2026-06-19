@@ -1,0 +1,56 @@
+company:
+  name: ZS
+  stage: Public
+  focus: |-
+    Management consulting and technology firm focused on
+    healthcare and life sciences
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on designing, developing, and
+      deploying LLM-based pipelines including RAG, agentic
+      workflows, and PEFT (LoRA/QLORA). The engineer will work
+      hands-on with LLM patterns, prompt engineering, vector DBs,
+      and guardrails, making this clearly an AI-first role.
+  responsibilities:
+  - Take ownership of architecture design and development of scalable and distributed
+    software systems
+  - Design, develop and deploy LLM-based pipelines involving RAG, agentic workflows,
+    and PEFT techniques (LoRA, QLoRA)
+  - Architect governance layer from data to AI model output using Databricks Unity
+    Catalog
+  - Design and deploy prompt and response guardrails for responsible AI
+  - Utilize AWS and Azure cloud services including IAM, monitoring, load balancing,
+    autoscaling, and container registries
+  - Implement DevOps practices using Docker, Kubernetes, Terraform, and CloudFormation
+    for CI/CD
+  - Translate business requirements into technical specifications and own technical
+    execution
+  - Collaborate with cross-functional teams, conduct code reviews, and guide software
+    design best practices
+  use_cases:
+  - LLM-based solution pipelines for consulting and technology clients
+  - RAG and hybrid search systems for enterprise knowledge retrieval
+  - Agentic workflow automation for business process optimization
+  - Responsible AI deployment with guardrails for production environments
+  - Scalable AI-powered applications serving thousands of users in healthcare and
+    life sciences
+  skills:
+    genai: [RAG, Agentic workflows, PEFT / LoRA / QLoRA, Prompt engineering, LangChain,
+      DSPy, OpenAI API, Anthropic API, AWS Bedrock]
+    ml: []
+    web: [FastAPI, Django, React JS, Next.js, Tailwind CSS]
+    databases: [Vector DB, Hybrid Search, Redis, Redshift, AWS RDS, AWS S3]
+    data: []
+    cloud: [AWS, Azure, Databricks, Unity Catalog]
+    ops: [Docker, Kubernetes, Terraform, CloudFormation, Azure DevOps, CI/CD, Git]
+    languages: [Python, JavaScript, SQL]
+    domains: []
+    other: [Agile/Scrum]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8237390'
+  extracted_at: '2026-04-22T12:42:37.157641'

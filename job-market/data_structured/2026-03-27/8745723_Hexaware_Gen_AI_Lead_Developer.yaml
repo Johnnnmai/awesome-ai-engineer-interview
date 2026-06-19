@@ -1,0 +1,51 @@
+company:
+  name: Hexaware
+  stage: null
+  focus: |-
+    IT services and consulting specializing in digital
+    transformation and AI solutions
+position:
+  title: Gen AI Lead Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building and deploying AI
+      systems - fine-tuning LLMs, implementing RAG, building
+      generative AI pipelines, and deploying models. The engineer
+      works hands-on with models and AI architectures rather than
+      supporting infrastructure for others.
+  responsibilities:
+  - Develop, fine-tune, and optimize LLMs, multimodal models, and generative AI pipelines
+    for business use cases
+  - Build scalable AI/ML systems including data pipelines, model training workflows,
+    and inference services
+  - Evaluate and integrate open-source and commercial LLMs (GPT, Llama, Claude, Mistral)
+  - Implement RAG, vector databases, embeddings, and prompt engineering strategies
+  - Collaborate with product, engineering, and domain teams to translate business
+    problems into AI solutions
+  - Conduct experiments, benchmarking, and A/B testing to validate model performance
+  - Deploy models using cloud platforms (Azure) and MLOps tools
+  - Monitor, troubleshoot, and continuously improve AI systems in production
+  use_cases:
+  - Business process automation using generative AI
+  - Enterprise AI solutions for banking and financial services
+  - Risk and regulatory compliance applications
+  - Commercial and retail banking AI applications
+  - Credit card and retail banking use cases
+  skills:
+    genai: [LLMs, Transformers, RAG, Prompt Engineering, LangChain, LlamaIndex, Multimodal
+        AI, GPT, Llama, Claude, Mistral]
+    ml: [Fine-tuning, ML frameworks]
+    web: []
+    databases: [Vector Databases]
+    data: [Databricks, PySpark]
+    cloud: [Azure, Azure Data Factory, Azure Synapse]
+    ops: [MLflow, Kubeflow, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8745723'
+  extracted_at: '2026-03-27T14:20:54.251547'

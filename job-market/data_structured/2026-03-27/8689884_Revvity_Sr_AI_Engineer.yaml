@@ -1,0 +1,48 @@
+company:
+  name: Revvity
+  stage: Public
+  focus: |-
+    Health sciences solutions for scientists, researchers, and
+    clinicians
+position:
+  title: Sr. AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly developing AI-powered features,
+      prompt engineering strategies, and AI-driven tools using
+      LLMs. The engineer will build prototypes, proof-of-concepts,
+      and integrate AI models into systems, which is hands-on work
+      with AI/LLM technologies.
+  responsibilities:
+  - Develop prototypes and proof-of-concepts for AI-powered features that boost employee
+    productivity and creativity
+  - Contribute to prompt engineering strategies for various business applications
+  - Create AI-driven tools integrated into existing workflow systems
+  - Collaborate on AI model integration projects ensuring seamless user experiences
+  - Evaluate and benchmark AI performance against business KPIs and user satisfaction
+    metrics
+  - Build relationships across departments to understand AI opportunities and challenges
+  - Present work and findings to stakeholders, translating complex AI concepts
+  use_cases:
+  - Employee productivity enhancement
+  - Business process automation and transformation
+  - Enterprise workflow integration
+  - Creative tools for employees
+  - Cross-departmental AI solutions
+  skills:
+    genai: ['LLMs (ChatGPT, Claude)', prompt engineering]
+    ml: []
+    web: [Next.js]
+    databases: []
+    data: []
+    cloud: [AWS, SageMaker Studio]
+    ops: [Docker]
+    languages: [Python, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8689884'
+  extracted_at: '2026-03-27T14:05:32.326199'

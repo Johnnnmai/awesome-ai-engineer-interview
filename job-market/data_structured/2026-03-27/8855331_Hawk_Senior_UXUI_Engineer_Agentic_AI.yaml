@@ -1,0 +1,54 @@
+company:
+  name: Hawk
+  stage: Unknown
+  focus: |-
+    AI-powered anti-money laundering and fraud detection
+    technology
+position:
+  title: Senior UX/UI Engineer (Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is building UX/UI for agentic AI products
+      (LangGraph-based Investigation Agent) which requires
+      understanding how to surface agentic AI results,
+      explainability metrics, and autonomous AI workflows to
+      users. Working directly with AI agents and implementing
+      interfaces for AI-driven insights constitutes hands-on work
+      with AI systems.
+  responsibilities:
+  - Drive UX strategy, design, and frontend implementation for agentic AI workflow
+    automation and case management tools
+  - Build human/machine interfaces that surface agentic AI results and explainability
+    metrics for fraud and AML analysis
+  - Lead development of complex UI features including 360-degree customer views and
+    dynamic entity grouping workflows
+  - Architect and build scalable frontend components using React with shadcn/ui and
+    Material UI
+  - Partner with Product Management, Backend Engineering (FastAPI/LangGraph), and
+    Data Science on product roadmap
+  - Leverage agentic coding tools (Claude Code, Google Antigravity) to accelerate
+    development
+  - Establish frontend coding/design best practices across the application suite
+  use_cases:
+  - Anti-money laundering (AML) compliance investigation and case management
+  - Fraud detection and prevention workflows
+  - AI-powered investigation automation through agentic workflows
+  - Customer risk profiling and entity grouping for financial crime detection
+  - Explainable AI insights for human analyst decision-making
+  skills:
+    genai: [LangGraph, Claude Code, agentic AI workflows]
+    ml: []
+    web: [React, shadcn/ui, Material UI, FastAPI]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: [UX/UI design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8855331'
+  extracted_at: '2026-03-27T13:11:53.309156'

@@ -1,0 +1,50 @@
+company:
+  name: InnovationTeam
+  stage: unknown
+  focus: |-
+    Advanced AI and data-driven solutions across multiple
+    industries
+position:
+  title: Junior AI Engineer - Computer Vision
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on traditional computer vision and deep
+      learning (CNNs, object detection, segmentation) using
+      PyTorch/TensorFlow. While it involves deploying models to
+      production, there's no mention of LLMs, GenAI, RAG, or
+      agent-based systems - it's squarely in traditional ML/DL
+      territory.
+  responsibilities:
+  - Develop and train Computer Vision models for image and video analysis
+  - Implement solutions for object detection, image classification, segmentation,
+    and tracking
+  - Prepare and manage datasets, including data cleaning, labelling, and augmentation
+  - Optimize models for GPU performance, inference speed, and scalability
+  - Deploy AI models into production using APIs and containerized services
+  - Integrate Computer Vision models with broader AI and analytics platforms
+  - Collaborate with software engineers, data scientists, and product teams
+  - Maintain documentation and ensure code quality and reproducibility
+  use_cases:
+  - Image and video analytics
+  - Object detection and tracking
+  - Image classification
+  - Segmentation
+  - Real-time inference and video analytics
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, OpenCV, CNN, YOLO, Detectron2, GPU training and inference,
+      Vision Transformers, Deep Learning, CUDA]
+    web: []
+    databases: []
+    data: []
+    cloud: [OCI, AWS, Azure, GCP]
+    ops: [Docker, MLOps]
+    languages: [Python]
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8501245'
+  extracted_at: '2026-03-03T12:33:02.483971'

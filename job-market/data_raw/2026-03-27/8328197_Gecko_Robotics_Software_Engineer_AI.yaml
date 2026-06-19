@@ -1,0 +1,151 @@
+job_id: 8328197
+title: "Software Engineer | AI"
+company: Gecko Robotics
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Docker
+  - GCP
+  - Kubernetes
+  - Python
+  - SQL
+  - Vertexai
+company_size: 177 Employees
+description: |
+  What We Do
+  
+  Gecko Robotics is helping the world’s most important
+  organizations ensure the availability, reliability, and
+  sustainability of critical infrastructure. Gecko's complete
+  and connected solutions combine wall-climbing robots,
+  industry-leading sensors, and an AI-powered data platform to
+  provide customers with a unique window into the current and
+  future health of their physical assets. This enables real-
+  time decision making to increase the efficiency and safety
+  of operations, promote mission readiness, and protect the
+  environment and civilization from the effects of
+  infrastructure failure.
+  
+  Role at a Glance
+  
+  As an AI Focused Software Engineer, you will build and
+  evolve the data backbone of an agentic AI system leveraging
+  document intelligence, time-series IoT data, and customer
+  activity logs. This is a highly hands-on, end-to-end role
+  for someone who thrives in early-stage ambiguity, is
+  comfortable working close to models and customers, and wants
+  to directly shape how data-driven agents are built and
+  deployed for production.
+  
+  This role will initially focus on the power industry, where
+  your work will directly support the reliable operation of
+  power plants used by millions of people every day.
+  
+  What you will do
+  
+  You will design, implement, and agentic systems across the
+  full lifecycle, from data ingestion and processing to
+  building and tuning models for use by customers in the real
+  world. You’ll work directly with customers and internal
+  stakeholders to understand real problems, translate them
+  into technical solutions, and iterate quickly. You’ll build
+  agentic workflows, document processing pipelines, and sensor
+  data ingestion. You’ll contribute to feature engineering and
+  model experimentation when needed, and own systems in
+  production. You’ll make pragmatic architectural decisions,
+  improve reliability over time, and help define best
+  practices as the team and product scale.
+  
+  Technologies We Use
+  
+  - Python, React
+  - Cloud-native data and GenAI tooling (GCP, VertexAI, etc)
+  - Streaming and messaging systems
+  - Distributed processing frameworks
+  - Data warehouses, lakes, and object storage
+  - Time-series and NoSQL databases
+  - ML and AI tooling (feature stores, vector databases, model
+    pipelines)
+  - Docker, Kubernetes, and infrastructure-as-code tools
+  
+  About You
+  
+  You’re a builder who likes owning problems end to end—from
+  understanding customer needs to shipping and maintaining
+  production systems. You’re comfortable crossing boundaries
+  between software engineering, ML, and backend work, and
+  you’re energized by fast feedback loops and real-world
+  impact. You prefer pragmatic solutions over perfect ones,
+  communicate clearly with technical and non-technical
+  stakeholders, and enjoy helping shape both the product and
+  the engineering culture.
+  
+  Required Skills
+  
+  - 7+ years of experience in software engineering, backend
+    engineering, or adjacent roles
+  - Strong Python skills, proficient with ML packages and
+    distributed backends
+  - Experience building production data pipelines and systems
+    from scratch
+  - Comfort working with both structured and unstructured data
+  - Experience operating systems in production and owning
+    reliability
+  - Ability to work directly with customers or end users to
+    understand requirements
+  - Strong problem-solving skills in ambiguous, fast-moving
+    environments
+  
+  Preferred Skills
+  
+  - Experience with agentic AI systems or similar orchestration
+    frameworks for enterprise-grade reasoning and/or
+    automation
+  - Experience with document processing, NLP, or vector search
+  - Experience with time-series or IoT data
+  - Startup or early-stage product experience
+  - Experience making architectural tradeoffs under real-world
+    constraints
+  
+  Who We Are
+  
+  At Gecko, our people are our greatest investment. In
+  addition to competitive compensation packages, we offer
+  company equity, 401(k) matching, gender-neutral parental
+  leave, full medical, dental, and vision insurance, mental
+  health and wellness support, ongoing professional
+  development, family planning assistance, and flexible paid
+  time off.
+  
+  Gecko values collaboration, innovation, and partnership, and
+  we believe we do our best work when we're together in
+  person. We’re an office-first culture but understand that
+  sometimes you may need to work from home. Many people are in
+  the office five days a week, others need a bit more
+  flexibility. Ultimately, we care about the outcomes we
+  achieve - and creating a culture of autonomy and trust that
+  enables that impact.
+  
+  Gecko is committed to creating a culture of inclusion and
+  belonging, and we are proud to be an equal opportunity
+  employer.  We believe it is our collective responsibility to
+  uphold these values and encourage candidates from all
+  backgrounds to join us in our mission to protect today’s
+  infrastructure and give form to tomorrow’s. All qualified
+  applicants will be treated with respect and receive equal
+  consideration for employment without regard to race, color,
+  creed, religion, sex, gender identity, sexual orientation,
+  national origin, disability, uniform service, veteran
+  status, age, or any other protected characteristic per
+  federal, state, or local law. If you are passionate about
+  what you do and want to use your talents to support our
+  critical mission, we’d love to hear from you.
+industries:
+  - Artificial Intelligence
+  - Hardware
+  - Robotics
+  - Software
+posted_date: 2026-03-21
+url: "https://builtin.com/job/data-engineer-power/8328197"
+source: Built In

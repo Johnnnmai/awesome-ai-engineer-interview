@@ -1,0 +1,53 @@
+company:
+  name: Danaher Corporation
+  stage: Public
+  focus: |-
+    Life sciences, diagnostics, and biotechnology products and
+    solutions
+position:
+  title: Senior UI Software Engineer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a UI/UX engineering role focused on building user
+      interfaces for AI-powered applications, not working directly
+      on AI/ML model development. The role involves integrating
+      with AI endpoints and consuming AI services, but the core
+      work is frontend development - building the presentation
+      layer that exposes AI capabilities to users.
+  responsibilities:
+  - Lead design and implementation of user interfaces for AI-powered applications
+    with seamless integration of complex data and workflows
+  - Create wireframes, prototypes, and high-fidelity UI designs translating business
+    requirements into intuitive experiences
+  - Collaborate with product managers, engineers, and data scientists to translate
+    requirements into effective UI/UX solutions
+  - Conduct user research, usability testing, and iterative prototyping to validate
+    design concepts
+  - Integrate frontend components with APIs, AI endpoints, cloud services, and data
+    sources
+  - Develop and maintain design systems, style guides, and UI component libraries
+    for consistency across products
+  - Stay current with UI/UX and AI industry trends and emerging technologies
+  use_cases:
+  - AI-powered applications for life sciences and diagnostics
+  - Chatbots and conversational AI interfaces
+  - Agent-based systems and data-driven applications
+  - Enterprise AI tools for biotechnology workflows
+  - Digital experiences for medical and scientific products
+  skills:
+    genai: [Azure OpenAI, AWS Bedrock, LangChain, Semantic Kernel]
+    ml: []
+    web: [React, HTML5, CSS3, Tailwind CSS, Material UI, Bootstrap, REST APIs]
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [CI/CD, DevOps, Docker]
+    languages: [TypeScript, Node.js, Python, C#, Java]
+    domains: []
+    other: [Figma, Sketch, Adobe XD]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8337784'
+  extracted_at: '2026-03-03T11:42:51.014501'

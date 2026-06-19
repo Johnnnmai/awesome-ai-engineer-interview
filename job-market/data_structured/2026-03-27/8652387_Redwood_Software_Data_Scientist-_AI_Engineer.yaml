@@ -1,0 +1,58 @@
+company:
+  name: Redwood Software
+  stage: Established
+  focus: |-
+    Enterprise automation software for mission-critical business
+    processes and ERP orchestration
+position:
+  title: Data Scientist- AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, deploying, and maintaining AI-
+      driven predictive models using ML techniques and generative
+      AI. The position requires designing AI workflows, applying
+      ML/AI techniques for forecasting and predictions, and
+      deploying production-ready models with MLOps practices.
+      While focused on revenue analytics, it's hands-on work
+      building and implementing AI/ML systems.
+  responsibilities:
+  - Conduct in-depth analysis of sales cycles, conversion rates, customer churn using
+    AI-powered analytics and large-scale data processing
+  - Apply advanced statistical methods, machine learning, and AI techniques to forecast
+    revenue and predict customer behavior
+  - Design, develop, and deploy AI-driven predictive models for customer segmentation,
+    lead scoring, and automated decision-making
+  - Build scalable production-ready models using AI development frameworks and MLOps
+    best practices
+  - Collaborate with stakeholders to translate business problems into AI-powered data
+    science solutions
+  - Translate complex AI-derived data findings into clear narratives for executive
+    leadership
+  - Continuously evaluate, monitor, and refine models for accuracy, fairness, and
+    impact using automated retraining and experimentation platforms
+  - Champion responsible and effective use of AI across revenue analytics with transparency
+    and governance
+  use_cases:
+  - Revenue forecasting and growth prediction
+  - Customer churn prediction and retention optimization
+  - Customer segmentation and ideal customer profile identification
+  - Lead scoring enhancement and sales strategy optimization
+  - Upsell and cross-sell opportunity identification
+  - Automated decision-making processes for revenue operations
+  skills:
+    genai: [LLM copilots, Claude Code, ChatGPT, Gemini]
+    ml: [scikit-learn, numpy, AutoML]
+    web: []
+    databases: []
+    data: [pandas]
+    cloud: []
+    ops: [MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: [Salesforce, Marketing automation platforms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8652387'
+  extracted_at: '2026-03-27T14:23:20.593681'

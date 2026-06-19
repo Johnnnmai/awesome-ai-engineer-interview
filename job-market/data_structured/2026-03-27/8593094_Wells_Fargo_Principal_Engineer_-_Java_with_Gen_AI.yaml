@@ -1,0 +1,53 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: |-
+    GenAI-powered Open Banking platforms for Commercial and
+    Corporate Banking
+position:
+  title: Principal Engineer - Java with Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on work building and deploying
+      GenAI systems including LLM applications, RAG architectures,
+      vector databases, and agent frameworks. The position
+      involves integrating these AI capabilities directly into
+      production banking platforms, not just supporting
+      infrastructure for others.
+  responsibilities:
+  - Architect and scale enterprise-grade AI systems for global banking operations
+  - Design and implement high-performance distributed systems primarily in Java with
+    Spring Boot and microservices
+  - Integrate LLMs, RAG pipelines, and AI orchestration frameworks into enterprise
+    Java systems
+  - Deploy GenAI services embedded into core Java-based banking platforms
+  - Build RAG pipelines, agent orchestration layers, and AI service abstractions callable
+    from core Java systems
+  - Lead deep technical design reviews across backend, API, and AI integration layers
+  - Implement AI governance, risk, and model validation frameworks
+  - Partner with Product and Business leaders to shape AI-enabled banking capabilities
+  use_cases:
+  - GenAI-powered Open Banking platforms for Commercial Banking
+  - GenAI-powered Open Banking platforms for Corporate Banking
+  - Production-grade RAG pipelines for enterprise banking systems
+  - Agent orchestration layers for AI-enabled banking operations
+  - Secure and compliant Open Banking APIs for high-volume enterprise clients
+  - AI-augmented modernization of legacy Java banking systems
+  skills:
+    genai: [LLM applications, RAG architectures, Embeddings, Agent frameworks and
+        orchestration]
+    ml: []
+    web: [Spring Boot, REST APIs, Microservices, ReactJS, MicroFrontends]
+    databases: [Vector databases]
+    data: [Kafka]
+    cloud: [GCP, Azure]
+    ops: []
+    languages: [Java, Python]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8593094'
+  extracted_at: '2026-03-27T14:14:45.961350'

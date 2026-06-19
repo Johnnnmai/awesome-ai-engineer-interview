@@ -1,0 +1,56 @@
+company:
+  name: Arctic Wolf
+  stage: Late-stage (recognized in Forbes Cloud 100, CNBC Disruptor 50, Fortune Future
+    50)
+  focus: Cybersecurity managed detection and response services
+position:
+  title: Senior Staff Developer - AI Customer Engagement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI/ML systems including
+      multi-agent AI workflows, MCP servers, RAG implementations,
+      and advanced prompting techniques. The position is hands-on
+      with GenAI/LLM technology to create intelligent security
+      systems, not supporting infrastructure for others' AI work.
+  responsibilities:
+  - Own the technical roadmap and architecture for backend systems and full-stack
+    integrations
+  - Lead the design and development of scalable, high-performance microservices and
+    RESTful APIs
+  - Design and develop multi-agent AI workflows to automate and enhance complex cybersecurity
+    capabilities
+  - Architect and implement MCP (Model Context Protocol) servers and tools to support
+    AI-driven workflows
+  - Implement advanced prompting techniques, RAG, and few-shot learning to improve
+    detection accuracy and contextual reasoning
+  - Champion engineering excellence by enforcing best practices in code quality, security,
+    performance, and reliability
+  - Lead technical planning, backlog grooming, and code reviews to ensure alignment
+    with product and business goals
+  - Mentor and coach developers across experience levels, fostering a culture of growth,
+    innovation, and accountability
+  use_cases:
+  - Interactive AI security assistant for natural language queries about security
+    environments
+  - Automated cybersecurity threat detection and response
+  - Context-aware security analysis and reasoning for enterprise customers
+  - AI-powered security operations within the Arctic Wolf Unified Portal
+  - Multi-agent autonomous security systems for enterprise defense
+  skills:
+    genai: [RAG, Multi-agent architectures, MCP (Model Context Protocol), Prompt engineering,
+      Few-shot learning, Agentic AI workflows, LLMs]
+    ml: []
+    web: [RESTful APIs, React]
+    databases: [PostgreSQL, DynamoDB, Elasticsearch, Faiss]
+    data: [Kafka, RabbitMQ, SQS]
+    cloud: [AWS, AWS Lambda, AWS Bedrock, AWS API Gateway, AWS S3, AWS ECS]
+    ops: [Docker, Kubernetes, Terraform, CloudFormation, CI/CD, Git]
+    languages: [Python, Java, Go, TypeScript]
+    domains: [Cybersecurity]
+    other: [Microservices architecture, Distributed systems]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8490005'
+  extracted_at: '2026-03-03T11:36:32.594716'

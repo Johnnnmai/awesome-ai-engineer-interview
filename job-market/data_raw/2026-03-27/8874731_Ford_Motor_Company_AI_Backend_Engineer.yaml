@@ -1,0 +1,74 @@
+job_id: 8874731
+title: AI Backend Engineer
+company: Ford Motor Company
+location: Chennai, IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Docker
+  - GCP
+  - JSON
+  - Python
+  - Rest Apis
+company_size: 175,633 Employees
+description: |
+  We are an internal Cyber Red Team pioneering the use of
+  Agentic AI to simulate real-world adversaries. This AI-
+  driven role will heavily be dependent on automating real-
+  world attack workflows using Python and LLMs. We are looking
+  for a strong Python engineer who is curious about security
+  and wants to work on automating offensive techniques using
+  AI. Cyber Security background is NOT mandatory. You will
+  work directly with experienced Red Team professionals to
+  convert real attack logic into scalable, intelligent
+  systems.
+  
+  
+  Responsibilities
+  
+  RESPONSIBILITIES:
+  
+  - Build Python-based automation around offensive security
+    tools
+  - Integrate LLM APIs (OpenAI/Anthropic) into real workflows
+  - Design multi-step workflows (input → tool → AI → decision →
+    next step)
+  - Parse and enforce structured outputs (JSON) from AI models
+  - Maintain context/state across tasks and executions
+  - Develop internal APIs and wrappers for tools and services
+  - Continuously improve reliability (error handling, retries,
+    edge cases)
+  - Collaborate with security experts to translate attack
+    techniques into automation
+  
+  MUST HAVE SKILLS:
+  
+  - Strong Python experience (3–5 years)
+    - Experience in writing robust, production-grade Python. You
+      must be deeply comfortable with Object-Oriented
+      Programming, decorators, context managers, multi
+      threading and async logic.
+    - Write custom Python scripts and API wrappers (such as Model
+      Context Protocol servers)
+    - OOP, clean code, modular design
+    - Comfortable debugging real-world systems
+  - Experience with Docker (containerization)
+  - API & Backend Fundamentals
+    - REST APIs (build and consume)
+    - JSON handling, request/response lifecycle
+  - Hands-on experience with LLM APIs
+    - Gemini/OpenAI
+    - Able to send prompts, parse structured responses
+    - Exposure to LangChain / LangGraph / agent frameworks
+  - Familiarity with deploying code in GCP (Compute Engine or
+    Cloud Run)
+  
+  Qualifications
+  
+  ANY
+  
+  Position Number: 75058076 Actual Date Of Posting by
+  traviraj: 18th March
+posted_date: 2026-03-26
+url: "https://builtin.com/job/ai-backend-engineer/8874731"
+source: Built In

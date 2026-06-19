@@ -1,0 +1,48 @@
+company:
+  name: Backbase
+  stage: null
+  focus: Digital banking product suite for financial institutions
+position:
+  title: Senior AI Applied Software Engineer
+  ai_type:
+    type: unknown
+    reasoning: |-
+      Despite the job title containing "AI Applied Software
+      Engineer," the actual job description is for a frontend
+      engineer building digital banking products using Angular,
+      TypeScript, and JavaScript. There is no mention of AI/ML
+      technologies, model work, or AI-related responsibilities
+      anywhere in the description. The title appears to be
+      misleading or inaccurately posted.
+  responsibilities:
+  - Build digital banking products as part of a Product team in the R&D department
+  - Develop new and existing functionalities, proof of concepts, and technical improvements
+    for the Digital Banking platform
+  - Use Angular, TypeScript, and JavaScript ES6 to create omnichannel user experiences
+  - Craft HTML templates and write SASS using the Backbase Design System based on
+    Bootstrap
+  - Collaborate with architects, QA engineers, and team members to ensure implementation
+    follows technical vision and best practices
+  - Take ownership of the full software development lifecycle from idea to release
+  - Ensure code is clean, testable, maintainable, and cross-browser compatible
+  use_cases:
+  - Digital banking product development
+  - Omnichannel user experience for banking customers
+  - Frontend application development for fintech products
+  skills:
+    genai: []
+    ml: []
+    web: [Angular, HTML, SASS, Bootstrap, RxJS, Nx, Vue.js, Node.js, npm, Angular
+        CLI, CSS]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Webpack, Gulp, Grunt, Jenkins]
+    languages: [TypeScript, JavaScript ES6]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9037234'
+  extracted_at: '2026-04-22T13:24:55.107315'

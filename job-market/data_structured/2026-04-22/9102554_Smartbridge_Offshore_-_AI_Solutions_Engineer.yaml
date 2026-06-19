@@ -1,0 +1,50 @@
+company:
+  name: Smartbridge
+  stage: Unknown
+  focus: IT consulting and AI-driven business solutions
+position:
+  title: Offshore - AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, training, fine-tuning,
+      and deploying AI/ML models including LLMs. The engineer
+      works hands-on with LangChain, OpenAI, Azure AI, NLP, and
+      prompt engineering to develop AI-driven solutions. The core
+      responsibility is creating and optimizing AI systems, not
+      just supporting infrastructure for others.
+  responsibilities:
+  - Develop and customize AI-driven solutions to enhance business workflows and automate
+    processes
+  - Integrate AI services from providers such as Microsoft, OpenAI, and other leading
+    platforms into enterprise applications
+  - Design, train, and optimize AI models for predictive analytics, automation, and
+    intelligent decision-making
+  - Implement NLP, ML, and automation models to improve user experiences
+  - Collaborate with business users and developers to define AI integration needs
+    and solution requirements
+  - Perform data preprocessing, feature engineering, and fine-tuning of AI models
+  - Ensure AI models are secure, scalable, and optimized for performance
+  use_cases:
+  - Business workflow automation and process enhancement
+  - Predictive analytics and intelligent decision-making
+  - Enterprise AI integration for industries like Oil & Gas, Healthcare, and Food
+    & Beverage
+  - Natural language processing and conversational AI applications
+  - Intelligent automation of business processes
+  skills:
+    genai: [LangChain, OpenAI API, Prompt Engineering, Large Language Models (LLMs)]
+    ml: [Machine Learning, Data Preprocessing, Feature Engineering]
+    web: []
+    databases: []
+    data: [Power Query, ETL]
+    cloud: [Azure AI, AWS AI, Google Cloud AI]
+    ops: [Git, DevOps]
+    languages: [Python, R, SQL]
+    domains: [NLP]
+    other: [Power Automate, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9102554'
+  extracted_at: '2026-04-22T13:44:38.357042'

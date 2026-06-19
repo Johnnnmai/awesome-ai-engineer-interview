@@ -1,0 +1,52 @@
+company:
+  name: Edwards Lifesciences
+  stage: Public
+  focus: |-
+    Medical device company advancing patient care through
+    innovative heart valve treatments
+position:
+  title: Senior Engineer, AI/Machine Learning
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, developing, and
+      deploying AI/ML models (TensorFlow, PyTorch, deep learning
+      techniques like CNNs, RNNs, GANs) for both prototyping and
+      production. The engineer will design scalable AI/ML models,
+      optimize performance, and work hands-on with ML frameworks,
+      making this an ai-first role.
+  responsibilities:
+  - Design, develop, and deploy scalable AI/ML models for prototyping and production
+    environments
+  - Collaborate with cross-functional teams including data scientists, software engineers,
+    product managers, and business leads to define requirements and ideate AI/ML solutions
+  - Participate in agile development processes including sprint planning, stand-ups,
+    and prototype demos
+  - Drive research and experimentation to explore new AI/ML techniques, tools, and
+    frameworks
+  - Build end-to-end data pipelines for collecting, processing, and analyzing large-scale
+    datasets
+  - Ensure code and model development are well-documented following best engineering
+    practices
+  - Improve and optimize model performance ensuring robustness, scalability, and efficiency
+  use_cases:
+  - AI/ML-powered solutions for medical device and patient care innovation
+  - Enterprise automation and data-driven decision support
+  - Large-scale data processing and analytics for healthcare applications
+  - Scalable production AI/ML model deployment within IT infrastructure
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn, Keras, 'Deep Learning (CNNs, RNNs, GANs)']
+    web: []
+    databases: []
+    data: [Spark, Hadoop, Apache Kafka, Airflow]
+    cloud: [AWS]
+    ops: [Git]
+    languages: [Python, Java, C++, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9109622'
+  extracted_at: '2026-04-22T12:43:27.261630'

@@ -1,0 +1,48 @@
+company:
+  name: General Motors
+  stage: Public
+  focus: Automotive manufacturing and HR technology
+position:
+  title: Sr. AI/Automation Engineer -  HR Technology
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, building, and deploying custom
+      plugins and AI agents for Moveworks and Serval platforms
+      (Agentic AI platforms), which is hands-on work implementing
+      and deploying AI/agent solutions. The position requires
+      working directly with AI platforms to create intelligent
+      automations and integrations.
+  responsibilities:
+  - Design, build, and deploy custom plugins for Moveworks and Serval Agentic AI platforms
+  - Execute the HR Automation and AI product roadmap aligned with HR organization
+    goals
+  - Integrate AI agents with enterprise systems using APIs, webhooks, and OAuth authentication
+  - Conduct technical analysis and workshops with IT and Solution Architects to design
+    AI agent integrations
+  - Develop automation workflows leveraging JSON, XML, and structured data formats
+  - Lead successful implementation of AI agents and integrations with cross-functional
+    teams
+  - Prepare Solution Design documents for AI agents and supporting integrations
+  - Maintain integration and plugin roadmap including feature enhancements and updates
+  use_cases:
+  - HR workflow automation and intelligent process enhancement
+  - Employee self-service through AI-powered HR support
+  - Enterprise system integrations for HR platforms (Workday, ServiceNow)
+  - Agentic AI deployment for HR service delivery
+  skills:
+    genai: [Moveworks, Serval, Agentic AI]
+    ml: []
+    web: [REST APIs, SOAP, OAuth2, JWT, Postman, API integrations, Webhooks]
+    databases: []
+    data: [JSON, XML]
+    cloud: [Azure, AWS, GCP]
+    ops: [Automation Anywhere, UiPath, Jira, RPA]
+    languages: [Python, Java, C++]
+    domains: []
+    other: [ServiceNow, Workday HCM, Workday, PeopleSoft, Oracle, Concur]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8461654'
+  extracted_at: '2026-03-03T12:19:45.709098'

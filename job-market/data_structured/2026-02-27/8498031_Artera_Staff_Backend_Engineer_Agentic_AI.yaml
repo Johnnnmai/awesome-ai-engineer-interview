@@ -1,0 +1,55 @@
+company:
+  name: Artera
+  stage: Series B+
+  focus: |-
+    AI-powered virtual agents for healthcare patient
+    communication and engagement
+position:
+  title: Staff Backend Engineer, Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is ai-first because the role explicitly involves
+      building agentic AI systems and MCP (Model Context Protocol)
+      server infrastructure. The requirements include "Expert at
+      integrating LLMs and agentic tools like Claude Code" and the
+      position focuses on scaling platforms for "AI-driven patient
+      engagement" with virtual agents. This is hands-on work
+      building and deploying AI agent systems.
+  responsibilities:
+  - Define, evolve, and scale the platform powering next-generation patient communication
+    with agentic AI
+  - Lead execution on complex, multi-quarter initiatives including agentic AI and
+    MCP server infrastructure
+  - Serve as a domain expert in backend architecture, distributed systems, and high-throughput
+    IO
+  - Drive company-wide architectural patterns, platform strategy, and engineering
+    standards
+  - Independently design and deliver large-scale features impacting multiple products
+    or services
+  - Build distributed IO-intensive systems from scratch when needed
+  - Mentor engineers across teams on architecture, debugging, reliability, and AI-era
+    best practices
+  - Partner with product, design, and data/ML teams on technical solutions
+  use_cases:
+  - AI-powered virtual agents (voice and text) for patient communication
+  - Patient self-scheduling, intake, forms, and billing automation
+  - Healthcare patient journey support and engagement
+  - Front desk staff augmentation with autonomous digital workforce
+  - Multi-language patient communications across voice, text, and web channels
+  skills:
+    genai: [LLMs and agentic tools, MCP (Model Context Protocol), Claude Code]
+    ml: []
+    web: [Node.js, NEST]
+    databases: [PostgreSQL]
+    data: [Event-sourced architectures, Event-driven systems]
+    cloud: [AWS]
+    ops: [Docker, Microservices architecture, Distributed systems]
+    languages: [TypeScript, Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8498031'
+  extracted_at: '2026-03-03T11:51:53.666946'

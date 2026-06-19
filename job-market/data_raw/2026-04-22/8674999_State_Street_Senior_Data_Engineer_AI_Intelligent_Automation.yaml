@@ -1,0 +1,179 @@
+job_id: 8674999
+title: "Senior Data Engineer – AI & Intelligent Automation, Vice president"
+company: State Street
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - APIs
+  - Data Engineering
+  - Data Lakes
+  - Data Warehousing
+  - Elt
+  - ETL
+  - Python
+  - SQL
+  - Workflow Orchestration
+company_size: 39,782 Employees
+description: |
+  Role Overview
+  
+  We are hiring a senior, hands-on Data Engineer to play a
+  pivotal role in transforming Global Delivery operations
+  through data-driven automation, generative AI, and agent-
+  based systems. This is not a traditional data engineering
+  role.
+  
+  This role sits at the intersection of data engineering, AI
+  enablement, and business simplification, owning the end-to-
+  end data foundation that powers intelligent workflows used
+  directly in core operational processes. You will act as the
+  data owner and steward for high-impact simplification
+  initiatives, ensuring data quality, control, auditability,
+  and fitness-for-purpose across analytics, automation, and AI
+  decisioning.
+  
+  You will work closely with Product Owners, AI engineers, and
+  platform teams to design and operate production-grade data
+  pipelines and data products that enable scalable, secure,
+  and observable AI-driven workflows across the asset
+  servicing lifecycle.
+  
+  Key Responsibilities
+  
+  - Design, build, and operate scalable, resilient data
+    pipelines supporting operational analytics, reporting, and
+    AI-driven automation across cloud and on‑prem
+    environments.
+  - Model, store, and serve large-scale datasets optimized for
+    both analytical workloads and low-latency consumption by
+    AI and agent-based systems.
+  - Integrate data from multiple internal and external sources,
+    including vendor feeds, APIs, files, and enterprise
+    platforms.
+  - Ensure pipelines are observable, reliable, and production-
+    ready with clear ownership and operational rigor.
+  
+  - Act as Data Steward for assigned business services within GD
+    Simplification, accountable for:
+    - Data quality, consistency, lineage, and lifecycle management
+    - Business definitions, critical data elements (CDEs), and
+      calculation logic
+    - Data dictionaries, business glossaries, and metadata
+  - Define and enforce data standards, controls, and
+    documentation aligned with governance and platform
+    requirements.
+  - Translate business control requirements into data-level and
+    AI control mechanisms.
+  
+  AI & Agentic Systems Enablement
+  
+  - Enable AI and intelligent automation by ensuring high-
+    quality, well-governed inputs for training, inference, and
+    decisioning.
+  - Define agent action constraints, data quality gates, and
+    human‑in‑the‑loop triggers before automated actions are
+    executed.
+  - Ensure auditability and traceability through agent decision
+    logs, data lineage, and versioning of rules, prompts, and
+    models.
+  
+  Data Quality, Controls & Operations
+  
+  - Establish data quality rules and exception taxonomies.
+  - Monitor data quality dashboards, triage issues, and
+    coordinate remediation across upstream and downstream
+    teams.
+  - Ensure data quality and control checks are embedded before
+    AI-driven actions occur.
+  - Align data architecture and integrations with broader
+    ecosystem dependencies, cost considerations, and execution
+    plans.
+  
+  Collaboration & Influence
+  
+  - Partner closely with Product Owners to ensure data
+    definitions and metrics align with business intent and
+    measurable outcomes.
+  - Collaborate across engineering, AI, platform, and business
+    teams to identify and prioritize high-value simplification
+    and automation use cases.
+  - Communicate complex technical concepts clearly to non-
+    technical stakeholders and help drive adoption of AI-
+    enabled solutions across GD.
+  - Champion modern data and engineering practices across
+    organizational boundaries.
+  
+  Required Skills & Experience
+  
+  - 5–10+ years of hands-on experience in data engineering,
+    preferably in platform, infrastructure, or large-scale
+    enterprise environments.
+  - Strong engineering and systems mindset with experience
+    building production-grade data pipelines.
+  - Deep understanding of data lifecycle management, data
+    quality, metadata, and controls in regulated environments.
+  - Experience working closely with business stakeholders in
+    complex operational domains (e.g., fund accounting, middle
+    office, custody, payments, transfer agency).
+  
+  - Strong SQL skills for data validation and analysis.
+  - Working knowledge of Python (or similar) for data
+    processing, automation, or integration.
+  - Solid understanding of: ETL / ELT patterns, APIs and file-
+    based integrations (CSV, XML, vendor feeds), Data
+    warehouses, data lakes, and analytical data models,
+    Workflow orchestration and scheduling tools
+  - Experience with data cataloging, data quality tools, and
+    engineering documentation practices.
+  
+  - Experience supporting AI, ML, or generative AI systems
+    through data engineering and governance.
+  - Familiarity with concepts such as: Agent-based systems;
+    Human-in-the-loop workflows; Model/prompt grounding and
+    decision traceability
+  - Ability to think critically about data risks, controls, and
+    guardrails in AI-driven operational workflows.
+  
+  Education & Mindset
+  
+  - Degree in Computer Science, Engineering, or equivalent
+    practical experience in the financial services domain.
+  - Passion for being hands-on, owning outcomes end-to-end, and
+    building systems that materially change how work gets
+    done.
+  - Comfortable operating in a small, high-impact team with
+    significant visibility and influence across the
+    organization.
+  
+  About State Street
+  
+  Across the globe, institutional investors rely on us to help
+  them manage risk, respond to challenges, and drive
+  performance and profitability. We keep our clients at the
+  heart of everything we do, and smart, engaged employees are
+  essential to our continued success.
+  
+  We are committed to fostering an environment where every
+  employee feels valued and empowered to reach their full
+  potential. As an essential partner in our shared success,
+  you’ll benefit from inclusive development opportunities,
+  flexible work-life support, paid volunteer days, and vibrant
+  employee networks that keep you connected to what matters
+  most. Join us in shaping the future.
+  
+  As an Equal Opportunity Employer, we consider all qualified
+  applicants for all positions without regard to race, creed,
+  color, religion, national origin, ancestry, ethnicity, age,
+  disability, genetic information, sex, sexual orientation,
+  gender identity or expression, citizenship, marital status,
+  domestic partnership or civil union status, familial status,
+  military and veteran status, and other characteristics
+  protected by applicable law.
+  
+  Discover more information on jobs at StateStreet.com/careers
+  
+  Read our CEO Statement
+posted_date: 2026-04-08
+url: "https://builtin.com/job/senior-data-engineer-ai-intelligent-automation-vice-president/8674999"
+source: Built In

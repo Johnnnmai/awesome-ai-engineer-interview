@@ -1,0 +1,47 @@
+company:
+  name: PwC
+  stage: Public
+  focus: Global professional services and consulting firm
+position:
+  title: Applied AI Health System Engineer - Senior Manager
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience building RAG
+      pipelines and agentic AI workflows against clinical data
+      sources, delivering production AI/GenAI use cases, and
+      working with MLOps platforms and model governance. The
+      candidate is directly building and deploying AI/GenAI
+      solutions, not just supporting infrastructure for others.
+  responsibilities:
+  - Lead the creation of innovative AI solutions for healthcare systems
+  - Serve as a trusted advisor to enhance project outcomes
+  - Foster collaboration within dynamic teams to address complex healthcare challenges
+  - Drive operational excellence through creative problem-solving approaches
+  - Cultivate relationships with stakeholders to promote alignment on project goals
+  - Guide teams in navigating ambiguity and delivering impactful results
+  - Promote a culture of continuous improvement and professional development
+  - Uphold adherence to industry standards and practices in AI implementation
+  use_cases:
+  - AI-powered clinical data retrieval and reasoning via RAG pipelines
+  - Agentic AI workflows for healthcare operations automation
+  - Population health program acceleration using AI
+  - Revenue cycle optimization through AI-driven analytics
+  - Clinical workflow automation and intelligent decision support
+  - HIPAA-compliant GenAI deployment in health system environments
+  skills:
+    genai: [RAG pipelines, Agentic AI workflows]
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: [Databricks, Healthcare data warehousing]
+    cloud: [Azure OpenAI Service, AWS Bedrock, Google Vertex AI]
+    ops: [MLOps platforms, Model governance]
+    languages: []
+    domains: [Population health analytics]
+    other: [HIPAA compliance, Clinical workflow analysis, Revenue cycle management]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '9021332'
+  extracted_at: '2026-04-22T14:02:50.778620'

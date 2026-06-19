@@ -1,0 +1,54 @@
+company:
+  name: Nagarro
+  stage: Public
+  focus: Digital product engineering and IT services
+position:
+  title: Staff Engineer, CRM Salesforce (AI-enabled Application Development)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Salesforce CRM development role where AI tools are
+      used to enhance the development workflow (code generation,
+      testing, documentation), not to build AI systems themselves.
+      The role focuses on Salesforce development with AI
+      assistants augmenting the process rather than building,
+      training, or deploying ML models.
+  responsibilities:
+  - Write and review high-quality Salesforce code
+  - Integrate AI tools and generative AI coding assistants into Salesforce development
+    workflows
+  - Use AI for Apex, Lightning Web Components (LWC), Aura, and integration code generation
+    and optimization
+  - Implement AI-based code reviews, quality checks, and automated documentation generation
+  - Design, develop, and maintain Salesforce solutions using Apex, LWC, Aura Components,
+    SOQL/SOSL, Salesforce Flows, and REST/SOAP APIs
+  - Utilize Salesforce DX and DevOps tools to streamline development, deployment,
+    and CI/CD pipelines
+  - Work with AI-driven testing tools, prompt engineering, and ML model integration
+    via APIs
+  - Provide guidance on best practices for AI integration in Salesforce development
+  use_cases:
+  - CRM application development with AI-assisted coding workflows
+  - Salesforce solution development and customization
+  - Automated code generation and optimization for Salesforce platforms
+  - AI-enhanced software development lifecycle automation
+  - Predictive analytics integration in CRM systems
+  skills:
+    genai: [Prompt engineering, Generative AI coding assistants, Einstein GPT, Einstein
+        Next Best Action]
+    ml: [NLP, Predictive analytics, ML model integration via APIs]
+    web: [Salesforce Apex, Lightning Web Components (LWC), Aura Components, Salesforce
+        Flows, REST/SOAP APIs]
+    databases: [SOQL/SOSL]
+    data: []
+    cloud: []
+    ops: [Salesforce DX, CI/CD pipelines, Git version control, Jenkins, Azure DevOps,
+      GitHub Actions, AI-based testing tools, Static code analysis tools]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8862359'
+  extracted_at: '2026-03-27T14:31:10.945350'

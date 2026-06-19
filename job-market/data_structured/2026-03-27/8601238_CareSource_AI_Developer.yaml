@@ -1,0 +1,53 @@
+company:
+  name: CareSource
+  stage: null
+  focus: Healthcare managed care and insurance services
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is clearly ai-first as it involves hands-on work
+      building, deploying, and fine-tuning AI models including
+      LLMs, RAG systems, and agentic AI. The position requires
+      direct implementation of generative AI platforms, vector
+      databases, inference pipelines, and MLOps workflows - all
+      core AI/ML development activities.
+  responsibilities:
+  - Design and implement AI models and algorithms tailored to diverse business challenges
+  - Define and lead the architecture of Generative AI platforms including LLMs, vector
+    databases, and inference pipelines
+  - Maintain expertise in generative AI technologies including Knowledge Graphs, RAG,
+    embeddings, and semantic search
+  - Rapidly prototype proof-of-concept solutions to assess emerging technologies
+  - Train, validate, and fine-tune machine learning and deep learning models for optimal
+    performance
+  - Deploy models using cloud infrastructure and containerization technologies
+  - Implement and manage MLOps pipelines to automate model training, deployment, monitoring,
+    and lifecycle management
+  - Collaborate with data scientists, software engineers, and product teams to integrate
+    AI capabilities into production systems
+  use_cases:
+  - Healthcare business process optimization
+  - Knowledge graph-based information retrieval
+  - RAG-powered enterprise search and Q&A
+  - Predictive and prescriptive analytics for healthcare
+  - Natural language processing for healthcare data
+  - Computer vision and image processing applications
+  skills:
+    genai: [LangChain, LangGraph, OpenAI, LLaMA, RAG, GraphRAG, Knowledge Graphs,
+      Embeddings, Semantic search, LLM fine-tuning, GitHub Copilot]
+    ml: [TensorFlow, PyTorch, Scikit-learn, OpenCV]
+    web: [Streamlit]
+    databases: [Vector databases]
+    data: []
+    cloud: [Azure Cloud, AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD, MLOps, GitHub, Infrastructure as Code]
+    languages: [Python, SQL]
+    domains: [Natural Language Processing, Computer Vision]
+    other: [Agile methodologies]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8601238'
+  extracted_at: '2026-03-27T14:10:31.792739'

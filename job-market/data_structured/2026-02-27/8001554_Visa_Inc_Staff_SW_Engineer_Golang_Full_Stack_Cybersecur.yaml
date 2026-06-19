@@ -1,0 +1,53 @@
+company:
+  name: Visa Inc,
+  stage: Public
+  focus: Global payments network and cybersecurity AI solutions
+position:
+  title: Staff SW Engineer (Golang Full Stack) – Cybersecurity AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack software engineering role in Visa's
+      Cybersecurity AI CoE, focused on building web applications
+      and APIs that support AI/ML products. The role involves
+      general software engineering (front-end, back-end,
+      databases) rather than building, training, fine-tuning, or
+      deploying AI models directly. AI/ML exposure is listed only
+      as "preferred" qualifications, not core responsibilities.
+  responsibilities:
+  - Design, develop, and maintain robust, scalable web applications using modern front-end
+    and back-end technologies
+  - Collaborate with product managers, designers, and other developers to translate
+    business requirements into technical solutions
+  - Communicate with customers to gather requirements, provide technical support,
+    and deliver solutions
+  - Build and consume RESTful APIs and/or GraphQL endpoints
+  - Develop responsive user interfaces using frameworks such as React or Angular
+  - Implement server-side logic, database schemas, and data storage solutions using
+    Golang, Python, Java, or similar technologies
+  - Optimize applications for maximum speed and scalability
+  - Troubleshoot, debug, and upgrade existing software systems
+  - Write and maintain unit, integration, and end-to-end tests and participate in
+    code reviews
+  use_cases:
+  - Cybersecurity threat detection and protection
+  - Fraud prevention analytics
+  - Risk management solutions
+  - Enterprise security monitoring
+  - Payments network protection
+  skills:
+    genai: [GenAI tools]
+    ml: []
+    web: [HTML, CSS, React, Angular, REST APIs, GraphQL, Microservices]
+    databases: [MySQL, PostgreSQL, MongoDB, Redis, Cassandra]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Kubernetes, Docker, Git]
+    languages: [Golang, Python, Java, JavaScript]
+    domains: []
+    other: [AI/ML concepts]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8001554'
+  extracted_at: '2026-03-03T11:44:22.982610'

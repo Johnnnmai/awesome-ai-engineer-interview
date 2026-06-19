@@ -1,0 +1,59 @@
+company:
+  name: Celonis
+  stage: Late-stage private / Pre-IPO
+  focus: |-
+    Process Intelligence and process mining SaaS platform with
+    AI augmentation
+position:
+  title: Senior Applied AI Engineer  -Consumer Goods
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting and delivering LLM/agent
+      systems with RAG, tools, and guardrails, building agentic
+      systems, and implementing AI solutions for enterprise
+      clients. While customer-facing, the role requires hands-on
+      development and deployment of AI/ML systems including
+      generative AI techniques, making it ai-first rather than ai-
+      support.
+  responsibilities:
+  - Lead AI discovery and solutioning to translate supply chain challenges into innovative
+    AI solutions for CPG and fleet logistics clients
+  - Drive full customer lifecycle from technical discovery and demonstrations through
+    post-sale implementation and value realization
+  - Rapidly build creative AI prototypes in client hackathons to solve critical pain
+    points across inventory allocation and fleet routing
+  - Architect and deliver secure, scalable LLM/agent systems with RAG, tools, and
+    guardrails integrated with enterprise ERPs and IoT data streams
+  - Enable transformation from rules-based automation to autonomous AI agents powered
+    by Process Intelligence Platform
+  - Execute end-to-end Proof-of-Value projects ensuring seamless integration with
+    SAP, TMS, WMS, and telematics systems
+  - Serve as technical subject matter expert for CPG and Mobility Supply Chains across
+    the organization
+  use_cases:
+  - Predictive demand forecasting for consumer goods
+  - Route optimization and fleet lifecycle management
+  - Fleet predictive maintenance and dynamic asset allocation
+  - Direct Store Delivery (DSD) optimization
+  - Intelligent shipment exception handling and automated trade promotion deductions
+  - Automated extraction of data from vendor contracts and logistics documentation
+  - Autonomous fleet rebalancing
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, Prompt engineering, Multi-agent orchestration,
+      Few-shot learning, Fine-tuning, Function calling]
+    ml: [PyTorch, scikit-learn]
+    web: []
+    databases: []
+    data: [pandas, Databricks]
+    cloud: [AWS Bedrock, Azure AI, GCP Vertex AI, OpenAI]
+    ops: []
+    languages: [Python, Pydantic]
+    domains: []
+    other: [SAP, Transportation Management Systems (TMS), Warehouse Management Systems
+        (WMS), IoT/telematics data]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8485154'
+  extracted_at: '2026-03-27T14:08:35.660120'

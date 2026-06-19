@@ -1,0 +1,45 @@
+company:
+  name: Ecolab
+  stage: Public
+  focus: |-
+    Water, hygiene, and energy technology solutions for
+    industrial and institutional customers
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI
+      systems powered by LLMs, including implementing agentic
+      workflows, RAG pipelines, and embedding-based retrieval
+      solutions. The engineer works hands-on with LLM APIs, agent
+      orchestration frameworks, and vector databases to create
+      intelligent systems.
+  responsibilities:
+  - Build applications leveraging LLM APIs for summarization, Q&A, and decision support
+  - Implement agentic workflows for multi-step task automation
+  - Develop embedding pipelines integrated with vector stores for RAG and search optimization
+  - Deploy AI components into cloud platforms using containerized CI/CD practices
+  - Monitor model behaviors in production and optimize for performance and cost-efficiency
+  use_cases:
+  - Summarization of business content
+  - Question-answering systems
+  - Decision support for business operations
+  - Multi-step task automation via agentic workflows
+  - Semantic search and RAG-based retrieval
+  skills:
+    genai: [LLM APIs, Prompt engineering, Agent orchestration, RAG, Embeddings]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector databases, Snowflake]
+    data: [Databricks, Spark SQL, PySpark, Delta Lake]
+    cloud: [Azure]
+    ops: [CI/CD, Docker]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8671435'
+  extracted_at: '2026-04-22T12:47:17.568761'

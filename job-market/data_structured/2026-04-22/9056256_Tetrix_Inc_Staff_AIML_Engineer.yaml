@@ -1,0 +1,54 @@
+company:
+  name: Tetrix Inc
+  stage: Seed/Early-stage Startup
+  focus: |-
+    AI-native platform for institutional investors in private
+    markets (Bloomberg for private markets)
+position:
+  title: Staff AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and owning core AI/ML
+      systems including agentic AI workflows, LLM-based
+      extraction/normalization engines, and data gathering agents.
+      The engineer will design AI strategy, model choices, and
+      evaluation frameworks—clearly hands-on work building and
+      deploying AI systems.
+  responsibilities:
+  - Build and own core agentic AI workflows for automated document retrieval from
+    private portals
+  - Design and improve proprietary extraction and normalization engine processing
+    complex PDFs, Excels, and reports
+  - Build intelligent validation systems with full audit trails and data pipelines
+    converting unstructured data into structured insights
+  - Implement feedback loops and data gathering agents to improve AI system accuracy
+  - Help shape AI strategy, model choices, evaluation frameworks, and product direction
+  - Work directly with clients to pitch, design features, and gather feedback
+  - Champion best practices for security, robustness, and scalability and mentor future
+    team members
+  use_cases:
+  - Automated document retrieval from private market portals
+  - AI-powered extraction and normalization of complex financial documents (PDFs,
+    Excel, reports)
+  - Real-time portfolio analytics for institutional investors in alternative/private
+    markets
+  - Intelligent validation of extracted data with full audit trails
+  - Converting unstructured private market data into accurate structured insights
+  skills:
+    genai: [LLMs, AI Agents, Agentic AI Workflows, RAG, Prompt Engineering, AI Evaluation
+        Frameworks]
+    ml: [ML Feature Engineering]
+    web: []
+    databases: []
+    data: [Data Extraction Pipelines, Data Normalization, PDF Processing]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [B2B SaaS]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9056256'
+  extracted_at: '2026-04-22T13:15:24.713163'

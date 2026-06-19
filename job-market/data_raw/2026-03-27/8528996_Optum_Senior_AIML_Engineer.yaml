@@ -1,0 +1,117 @@
+job_id: 8528996
+title: Senior AI/ML Engineer
+company: Optum
+location: Gurugram, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Asr
+  - Autogen
+  - Azure Cognitive Search
+  - Azure Cognitive Services
+  - Azure Functions
+  - Azure Openai
+  - Azure Service Bus
+  - Azure Speech
+  - Cosmos Db
+  - Embeddings
+company_size: 160,000 Employees
+description: |
+  Requisition Number: 2345461 Optum is a global organization
+  that delivers care, aided by technology to help millions of
+  people live healthier lives. The work you do with our team
+  will directly improve health outcomes by connecting people
+  with the care, pharmacy benefits, data and resources they
+  need to feel their best. Here, you will find a culture
+  guided by inclusion, talented peers, comprehensive benefits
+  and career development opportunities. Come make an impact on
+  the communities we serve as you help us advance health
+  optimization on a global scale. Join us to start Caring.
+  Connecting. Growing together. Primary Responsibilities:
+  
+  - AI Engineering Projects: Architect, Design and implement
+    multi-agent AI systems that use LLMs, memory, and tools to
+    reason, plan, and act autonomously
+  - Function Calling & Orchestration: Build agent-based
+    solutions that use function calling, dynamic tool
+    integration, and orchestration frameworks like LangChain,
+    AutoGen, and Semantic Kernel
+  - Modular Agent Design: Leverage standards like Model Context
+    Protocol (MCP) to define reusable, secure, and composable
+    tool interfaces
+  - Voice-Driven Interfaces: Develop voice-first AI agents using
+    ASR (e.g. Whisper, Azure Speech), multi-turn conversation
+    orchestration, and high-quality TTS
+  - RAG & Memory Pipelines: Design and maintain Retrieval-
+    Augmented Generation (RAG) pipelines using vector
+    databases and Azure Cognitive Search
+  - Fraud Detection & ML Ops: Contribute to anomaly detection
+    and fraud modeling efforts, including ML model training,
+    real-time inference, and pipeline optimization
+  - Cloud-Native AI Deployment: Build, deploy, and monitor
+    scalable AI services on Azure, including Azure OpenAI,
+    Functions, Service Bus, Cosmos DB, and related tools
+  - Agentic UX & AI as an Interface: Drive innovation in agentic
+    user experiences, enabling AI to operate external tools
+    and services securely on behalf of users
+  - Mentorship & Collaboration: Review PRs, mentor junior
+    engineers, and collaborate across India and US time zones
+    in a distributed, agile environment
+  - Comply with the terms and conditions of the employment
+    contract, company policies and procedures, and any and all
+    directives (such as, but not limited to, transfer and/or
+    re-assignment to different work locations, change in teams
+    and/or work shifts, policies in regards to flexibility of
+    work benefits and/or work environment, alternative work
+    arrangements, and other decisions that may arise due to
+    the changing business environment). The Company may adopt,
+    vary or rescind these policies and directives in its
+    absolute discretion and without any limitation (implied or
+    otherwise) on its ability to do so
+  
+  Required Qualifications:
+  
+  - Bachelor's or higher in Computer Science, Engineering, or
+    related field
+  - 10+ years of total engineering experience, including 2+
+    years in AI/ML product engineering roles
+  - Proven experience building and shipping LLM-powered or
+    autonomous agent systems in production
+  - Experience with Azure AI stack (Azure OpenAI, Cognitive
+    Services, Functions, Service Bus, Cognitive Search)
+  - Experience with fraud detection models or anomaly detection
+    pipelines
+  - Deep understanding of LLM integration, tool calling, prompt
+    engineering, and context-aware task execution
+  - Solid Python development skills; proficiency with ML
+    frameworks like PyTorch, scikit-learn, Hugging Face
+  - Proven hands-on work with retrieval techniques (RAG,
+    semantic search, embeddings) and vector DBs
+  - Proven solid grasp of voice systems, including ASR, TTS, and
+    real-time audio/telephony integration
+  - Proven track record of contributing to robust, testable, and
+    scalable engineering systems
+  
+  At UnitedHealth Group, our mission is to help people live
+  healthier lives and make the health system work better for
+  everyone. We believe everyone-of every race, gender,
+  sexuality, age, location and income-deserves the opportunity
+  to live their healthiest life. Today, however, there are
+  still far too many barriers to good health which are
+  disproportionately experienced by people of color,
+  historically marginalized groups and those with lower
+  incomes. We are committed to mitigating our impact on the
+  environment and enabling and delivering equitable care that
+  addresses health disparities and improves health outcomes -
+  an enterprise priority reflected in our mission.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Healthtech
+  - Information Technology
+  - Machine Learning
+  - Software
+  - Analytics
+posted_date: 2026-03-16
+url: "https://builtin.com/job/senior-ai-ml-engineer/8528996"
+source: Built In

@@ -1,0 +1,134 @@
+job_id: 9114814
+title: Sr Software AI Engineer 3 - Context Engineering
+company: WEX Inc.
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Azure
+  - Ci/Cd Pipelines
+  - Gitops
+  - Java
+  - Opentelemetry
+  - Python
+  - Scala
+  - Terraform
+description: |
+  As an AI Platform Engineer (SDE 3), you will be a key
+  builder of the high-performance software foundation that
+  powers our enterprise AI. While your expertise lies in
+  distributed systems and cloud-native architecture, you will
+  apply these skills specifically to the "Context Layer"—the
+  specialized infrastructure required to fuel next-generation
+  Agentic AI workflows. You will work at the intersection of
+  systems programming and modern AI infrastructure to solve
+  practical problems in real-time data orchestration and
+  multi-cloud compute optimization. This is a "platform-as-a-
+  product" role where you build the tools and SDKs that enable
+  other engineers to build autonomous agents with ease.
+  
+  Key Responsibilities
+  
+  - AI Infrastructure Implementation: Contribute to the
+    development of a high-scale, AI-ready Data Lakehouse
+    optimized for AI Agent operations and low-latency context
+    retrieval.
+  - Agentic R&D & Prototyping: Hands-on prototyping of emerging
+    architectural patterns, such as Multi-Agent Orchestration
+    and autonomous long-term memory management.
+  - Engineering Excellence: Maintain high standards for code
+    quality and CI/CD, participating in cross-functional
+    architecture reviews and troubleshooting complex system
+    bottlenecks.
+  - Agentic Ecosystem Development: Build platform-level
+    interfaces for agentic workflows, focusing on "Host-to-
+    Server" communication and tool-execution environments.
+  - Contextual Fabric Construction: Develop systems that move
+    beyond basic search into Reasoning-based Retrieval,
+    helping the platform understand the intent behind an
+    agent's query.
+  - Protocol Integration: Implement emerging standards like the
+    Model Context Protocol (MCP) and Agentic RAG to ensure
+    interoperability between the platform and various LLM
+    providers.
+  
+  Qualifications & Experience
+  
+  Software Engineering & Systems
+  
+  - Experience: 6+ years of software engineering experience with
+    a focus on distributed systems.
+  - Core Languages: Proficiency in Java or Scala and Python.
+  - Framework Development: Experience building extensible APIs
+    and libraries used by other developers.
+  - Software-Defined Infrastructure: A preference for building
+    automated, software-defined infrastructure over manual
+    configuration.
+  
+  Agentic Development & AI Trends
+  
+  - Agentic Design: Hands-on experience with agent development
+    frameworks such as LangGraph or CrewAI and the transition
+    from static RAG to Agentic RAG.
+  - Interoperability: Knowledge of the Model Context Protocol
+    (MCP) and how it allows AI agents to interact with diverse
+    data sources.
+  - AI-Ops: Experience building "AI-native" features, including
+    automated LLM-based evaluations within the CI/CD pipeline.
+  - Safety & Governance: Understanding of Human-in-the-Loop
+    (HITL) triggers to ensure safety in autonomous systems.
+  
+  CI/CD & Cloud Operations
+  
+  - GitOps & Delivery: Experience with GitOps workflows (e.g.,
+    ArgoCD or Flux) to manage versioned platform
+    configurations and AI prompt templates.
+  - Infrastructure-as-Code (IaC): Proficiency in Terraform to
+    build reusable modules that enforce organizational
+    standards across cloud accounts.
+  - Modern Pipelines: Ability to design CI/CD pipelines (e.g.,
+    GitHub Actions) that integrate automated testing and
+    security scanning.
+  - Cloud Mastery (AWS & Azure): Hands-on experience navigating
+    and configuring AWS and Azure Management Consoles,
+    including core services like IAM, EC2/VMs, and S3/Blob
+    storage.
+  - Observability: Experience using OpenTelemetry (OTel) to
+    track system performance and AI-specific success metrics.
+  
+  Leadership & Education
+  
+  - Collaboration: A proven track record of collaborating across
+    autonomous teams to drive the adoption of new
+    technologies.
+  - Communication: Ability to clearly communicate technical
+    trade-offs to both fellow engineers and stakeholders.
+  
+  Education: Bachelor’s or Master’s degree in Computer Science
+  (Distributed Systems focus) preferred, or equivalent deep
+  industry experience.
+  
+  The base pay range represents the anticipated low and high
+  end of the pay range for this position. Actual pay rates
+  will vary and will be based on various factors, such as your
+  qualifications, skills, competencies, and proficiency for
+  the role. Base pay is one component of WEX's total
+  compensation package. Most sales positions are eligible for
+  commission under the terms of an applicable plan. Non-sales
+  roles are typically eligible for a quarterly or annual bonus
+  based on their role and applicable plan. WEX's comprehensive
+  and market competitive benefits are designed to support your
+  personal and professional well-being. Benefits include
+  health, dental and vision insurances, retirement savings
+  plan, paid time off, health savings account, flexible
+  spending accounts, life insurance, disability insurance,
+  tuition reimbursement, and more. For more information, check
+  out the "About Us" section.Pay Range: $140,200.00 -
+  $185,800.00
+industries:
+  - Fintech
+  - Payments
+posted_date: 2026-04-21
+url: "https://www.builtinla.com/job/sr-software-ai-engineer-3-context-engineering/9114814"
+source: Built In

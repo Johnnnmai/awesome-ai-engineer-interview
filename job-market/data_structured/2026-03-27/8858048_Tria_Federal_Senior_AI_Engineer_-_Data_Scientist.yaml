@@ -1,0 +1,58 @@
+company:
+  name: Tria Federal
+  stage: null
+  focus: |-
+    Digital services and technology solutions for federal
+    agencies, supporting veterans and healthcare
+position:
+  title: Senior AI Engineer - Data Scientist
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      operationalizing LLM solutions, RAG systems, and agentic
+      workflows. The engineer will architect LLMs for production,
+      build evaluation frameworks, implement LLMOps practices, and
+      develop knowledge graphs for RAG augmentation—all hands-on
+      work with AI/ML systems.
+  responsibilities:
+  - Design and maintain healthcare ontology to normalize CMS data across claims, providers,
+    and workflows
+  - Build and manage knowledge graphs (RDF/OWL or property graph) for semantic search,
+    inference, and RAG augmentation
+  - Architect and operationalize LLMs for production use cases including RAG, agentic
+    workflows, and MCP tools
+  - Build LLM evaluation and safety frameworks with automated testing and human-in-the-loop
+    reviews
+  - Design cost- and latency-aware pipelines with observability for performance and
+    reliability
+  - 'Implement LLMOps best practices: prompt versioning, CI/CD for artifacts, rollout
+    strategies, and A/B testing'
+  - Integrate vector databases and optimize chunking, embeddings, and retrieval for
+    high-quality responses
+  - Support productionalization of AI/ML workflows with automated quality checks and
+    lifecycle orchestration
+  use_cases:
+  - Healthcare data normalization across CMS claims, providers, and workflows
+  - Semantic search and inference over healthcare knowledge graphs
+  - RAG augmentation for complex healthcare data environments
+  - Agentic workflows for federal healthcare systems
+  - Enterprise AI capabilities for federal agencies serving veterans and service members
+  skills:
+    genai: [RAG architecture, Prompt engineering, LangChain, LlamaIndex, AWS Bedrock,
+      Agentic workflows, MCP tools, LLM evaluation]
+    ml: [Hugging Face, Embeddings]
+    web: []
+    databases: [Vector databases, Neo4j, AWS Neptune, TigerGraph, RDF/OWL, Snowflake]
+    data: [Databricks]
+    cloud: [AWS Cloud Services]
+    ops: [LLMOps, CI/CD, GitHub Actions, Jenkins, Terraform, Docker, Kubernetes, MLflow,
+      Model Registry, Prometheus, Grafana, Feature Store]
+    languages: [Python, SQL, Snowflake SQL]
+    domains: []
+    other: [SPARQL, Gremlin, Cypher, Knowledge graphs, Ontology design, Unity Catalog]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8858048'
+  extracted_at: '2026-03-27T13:57:01.677200'

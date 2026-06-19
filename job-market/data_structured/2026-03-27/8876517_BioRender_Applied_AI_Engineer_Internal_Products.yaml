@@ -1,0 +1,60 @@
+company:
+  name: BioRender
+  stage: Series B+
+  focus: |-
+    Scientific communication and visualization software for
+    researchers
+position:
+  title: Applied AI Engineer, Internal Products
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-powered products including
+      agents, tools, and workflows from scratch. The engineer will
+      design, build, and ship AI-driven solutions using LLM APIs
+      (OpenAI, Anthropic, Google), with explicit bonus points for
+      designing and orchestrating AI agents and multi-step AI
+      workflows. This is hands-on AI system building.
+  responsibilities:
+  - Partner with internal teams to build high-leverage automation and AI-powered systems
+    that meaningfully improve how work gets done
+  - Identify and own high-impact problems, translating business needs into well-designed
+    internal systems and tools
+  - Design, build, and ship automation and AI-driven solutions using appropriate levels
+    of engineering rigor
+  - Exercise sound judgment in choosing when to build, buy, or configure existing
+    tools versus custom engineering
+  - Evolve prototypes into reliable, production-ready systems with attention to correctness,
+    observability, and maintainability
+  - Embed with teams across Sales, Finance, People, Customer Success, and other functions
+    to understand workflows and friction points
+  - Partner closely with business and engineering stakeholders to ensure adoption,
+    trust, and long-term value
+  - Document patterns, share learnings, and enable others to safely extend or build
+    on created systems
+  use_cases:
+  - Automating repetitive tasks for internal teams using AI agents and workflows
+  - Building internal AI-powered tools for Sales, Finance, People, and Customer Success
+    teams
+  - Creating multi-step AI workflows and agents that amplify human judgment and decision-making
+  - Integrating SaaS tools and internal systems with AI capabilities
+  - Transforming business processes and workflows across multiple departments with
+    AI automation
+  skills:
+    genai: [OpenAI API, Anthropic Claude API, Google Gemini API, AI agents, Multi-step
+        AI workflows, Vercel AI SDK, Claude Agent SDK, OpenAI Agent SDK, Google Agent
+        SDK]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: [Airflow]
+    cloud: []
+    ops: [Zapier, Testing and monitoring]
+    languages: [Python, JavaScript, Node.js]
+    domains: []
+    other: [SaaS integrations, Low-code/no-code tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8876517'
+  extracted_at: '2026-03-27T13:32:06.936946'

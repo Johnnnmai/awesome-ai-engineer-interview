@@ -1,0 +1,50 @@
+company:
+  name: Chubb
+  stage: Public
+  focus: Global insurance and financial services provider
+position:
+  title: AI Engineer - Must be Mandarin and English Fluent
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, training, fine-
+      tuning, and deploying AI/ML systems - specifically LLMs with
+      techniques like LoRA/QLoRA/PEFT, architecting inference
+      pipelines, and building RAG systems. The position involves
+      end-to-end lifecycle of production-grade AI with hands-on
+      model work.
+  responsibilities:
+  - Lead LLM adaptation and fine-tuning for domain-specific tasks using LoRA, QLoRA,
+    and PEFT techniques
+  - Architect and optimize inference pipelines to minimize latency and maximize throughput
+    with quantization and caching strategies
+  - Build and maintain real-time AI pipelines using WebSockets and SSE for voice and
+    text applications
+  - Deploy and orchestrate models in containerized microservice architectures with
+    Docker/Kubernetes
+  - Implement monitoring, security, and scalability for production AI systems
+  - Collaborate with Business Analysts and stakeholders to translate commercial requirements
+    into technical solutions
+  use_cases:
+  - Voice agents with ASR/TTS capabilities
+  - Document processing and document intelligence
+  - Production-ready Retrieval-Augmented Generation systems
+  - Semantic search optimization
+  - Real-time AI applications for insurance/financial services
+  skills:
+    genai: [LoRA, QLoRA, PEFT, LLM fine-tuning, Prompt engineering, RAG, Semantic
+        search, ASR/TTS, Multimodal extraction]
+    ml: [GPU optimization, CUDA, Quantization]
+    web: [WebSockets, SSE]
+    databases: [Vector databases]
+    data: []
+    cloud: []
+    ops: [vLLM, Triton, TGI, Docker, Kubernetes, CI/CD, Linux]
+    languages: [Python]
+    domains: []
+    other: [OCR, Document Intelligence]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8752031'
+  extracted_at: '2026-03-27T16:08:23.587345'

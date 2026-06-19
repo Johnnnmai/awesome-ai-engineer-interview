@@ -1,0 +1,146 @@
+job_id: 8692226
+title: "Senior Platform Engineer, Infrastructure & AI"
+company: Blackbird Labs
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Bash
+  - Ci/Cd
+  - Cloudwatch
+  - Datadog
+  - Ecs Fargate
+  - Gradle
+  - Pagerduty
+  - Postgres
+  - Python
+company_size: 0 Employees
+description: |
+  About Blackbird:
+  
+  Blackbird Labs is a loyalty and payments platform
+  establishing meaningful connections between the world’s best
+  restaurants and their customers.
+  
+  Served up in 2022 by Ben Leventhal, co-founder of Eater and
+  Resy, Blackbird offers a fully customizable loyalty
+  programming platform for restaurants and a consumer app
+  designed to make every guest feel like a bonafide VIP no
+  matter where they dine. Backed by Union Square Ventures,
+  a16z, Amex Ventures, Variant Fund, and other forward-
+  thinking investors, Blackbird is out to revolutionize the
+  restaurant industry.
+  
+  About Our Team:
+  
+  At Blackbird, our values guide everything we do and our
+  talent principles define the key traits we seek in our
+  employees.
+  
+  We have passion for our product – committed to our mission
+  and instinctively think like and go the extra mile for our
+  customers. We are elite performers – striving for
+  excellence, going above and beyond to achieve exceptional
+  results, and learning quickly with horsepower, drive, and
+  grit. We make others better – taking initiative to elevate
+  others, giving and receiving feedback, and championing a
+  culture of growth. We hold one another accountable to living
+  out our talent principles as we march together to achieving
+  our mission.
+  
+  About the Job
+  
+  Blackbird is looking for a Senior Platform Engineer to own
+  the platforms and tooling that make our engineering team
+  fast, reliable, and AI-augmented. You'll be responsible for
+  the infrastructure powering APIs that handle payments,
+  loyalty, and blockchain transactions for thousands of
+  restaurants, as well as the developer experience layer that
+  helps our engineers ship with confidence every day.
+  
+  This is a high-leverage role. You'll own our AWS
+  infrastructure, CI/CD pipelines, observability stack, and
+  the emerging AI-assisted development workflows that are
+  becoming core to how we build software. You'll act as both a
+  technical owner and a multiplier: shipping platforms that
+  keep production humming while accelerating the velocity of
+  every engineer on the team.
+  
+  
+  
+  Responsibilities
+  
+  - Own and evolve our AWS infrastructure (Terraform)
+  - Maintain and improve CI/CD pipelines
+  - Drive observability across the platform, keeping systems
+    performant where it matters most
+  - Build and expand AI-assisted developer workflows; you'll own
+    this surface area
+  - Remove friction from shipping: local dev environments,
+    Gradle optimization, build caching, and whatever else is
+    slowing us down
+  - Push for the right technical investments at the right time;
+    we're moving fast and the landscape keeps changing
+  
+  
+  
+  Requirements
+  
+  - 5+ years building and operating production systems on AWS
+  - Strong Terraform proficiency
+  - Hands-on experience with container orchestration (ECS
+    Fargate or similar), CI/CD design, and deployment
+    automation
+  - Comfortable in the JVM ecosystem: Spring Boot, Gradle, JVM
+    tuning; Kotlin expertise not required
+  - Working knowledge of PostgreSQL operations and performance
+  - Experience with observability tooling (Datadog, CloudWatch,
+    PagerDuty, or equivalent)
+  - Python or Bash for scripting and automation
+  - High ownership instincts; this is a small team, scope is
+    fluid, and production will occasionally need your
+    attention
+  
+  Nice to Haves
+  
+  - You actively use AI coding agents (Claude Code, Copilot,
+    Cursor) and have opinions about what actually works
+  - Experience with blockchain infrastructure, web3 systems, or
+    HashiCorp Vault
+  - Background building developer platforms or internal tooling
+    other engineers rely on daily
+  
+   Pay Transparency Notice & Benefits
+  
+  Depending on your work location and experience the target
+  annual salary for this position can range from:
+  $180,000-$220,000 USD. Disclosure in accordance with New
+  York City's Pay Transparency Law.
+  
+  Full time offers from Blackbird may also include stock
+  options, benefits (including medical, dental, vision,
+  flexible time off, 401(k)), and some not-so-standard, extra-
+  fun perks — subject to applicable taxes and based on
+  eligibility.
+  
+  Commitment to Equal Opportunity
+  
+  Blackbird Labs is committed to diversity in its workforce
+  and is proud to be an Equal Opportunity Employer. All
+  qualified applicants will receive consideration for
+  employment without regard to race, color, religion, creed,
+  gender, national origin, age, disability, veteran status,
+  sex, gender expression or identity, sexual orientation or
+  any other basis protected by applicable law. Blackbird will
+  also consider for employment qualified applicants with
+  criminal histories in a manner consistent with applicable
+  law. For US applicants, you may view the Know Your Rights
+  notice here. Additionally, Blackbird participates in the
+  E-Verify program.
+  
+  Join us and find out what the best work of your career could
+  look like here at Blackbird.
+posted_date: 2026-03-09
+url: "https://builtin.com/job/senior-platform-engineer-infrastructure-ai/8692226"
+source: Built In

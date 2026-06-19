@@ -1,0 +1,53 @@
+company:
+  name: Enable Data Incorporated
+  stage: unknown
+  focus: Data and AI solutions on Azure cloud infrastructure
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and fine-
+      tuning AI models including LLMs, implementing RAG pipelines,
+      and developing ML/Generative AI applications. The position
+      requires hands-on work with model training, fine-tuning
+      (LoRA/QLoRA), vector search, and production deployment of AI
+      systems.
+  responsibilities:
+  - Design and build end-to-end data and AI pipelines using Azure Databricks
+  - Develop robust ETL/ELT workflows using Python (PySpark) and SQL
+  - Implement CI/CD pipelines for Databricks deployments including jobs, notebooks,
+    and workflows
+  - Integrate Databricks with Azure services including Data Lake, Blob Storage, Key
+    Vault, and Azure OpenAI
+  - Develop and deploy ML and Generative AI models including LLMs, embeddings, and
+    RAG pipelines
+  - Fine-tune LLMs using LoRA/QLoRA and integrate with Azure OpenAI or Hugging Face
+    models
+  - Implement vector search and retrieval pipelines using FAISS or Azure Cognitive
+    Search
+  - Collaborate with data scientists and platform teams to move models from experimentation
+    to production
+  use_cases:
+  - NLP applications
+  - Computer vision solutions
+  - Predictive analytics
+  - RAG-based retrieval and search systems
+  - Enterprise AI application deployment
+  skills:
+    genai: [Azure OpenAI, LLMs, RAG, LangChain, embeddings, vector search]
+    ml: [LoRA, QLoRA, Hugging Face]
+    web: []
+    databases: [FAISS, Azure Cognitive Search]
+    data: [PySpark, Airflow, ETL/ELT]
+    cloud: [Azure Databricks, Azure Data Lake, Azure Blob Storage, Azure Key Vault,
+      Azure Functions, Azure Machine Learning, Azure Cognitive Services]
+    ops: [MLflow, CI/CD, Azure DevOps, Terraform]
+    languages: [Python, SQL]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8676512'
+  extracted_at: '2026-03-27T15:35:58.887960'

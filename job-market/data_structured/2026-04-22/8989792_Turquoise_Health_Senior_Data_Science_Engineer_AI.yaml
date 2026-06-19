@@ -1,0 +1,52 @@
+company:
+  name: Turquoise Health
+  stage: Series C
+  focus: Price transparency platform for healthcare finance leaders
+position:
+  title: Senior Data Science Engineer, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily a data engineering position focused
+      on building data pipelines, data models, and data
+      infrastructure that support AI use cases. While it requires
+      familiarity with AI tooling (OpenAI APIs, vector DBs, RAG),
+      the core responsibilities center on data
+      engineering—unifying datasets, building ingestion pipelines,
+      and creating analytics-ready data models—rather than
+      directly building, training, fine-tuning, or deploying AI/ML
+      models.
+  responsibilities:
+  - Work cross-functionally with Product and subject matter experts to conceptualize,
+    prototype, and build data solutions
+  - Unify and augment multi-source healthcare datasets (claims, contract rates, demographics)
+    into high-quality analytics-ready data models
+  - Build and maintain data engineering systems that support AI use cases including
+    scalable ingestion pipelines and feature generation
+  - Contribute to building, maintaining, and testing data pipelines
+  - Draft internal and external technical documentation
+  - Seek and prioritize technical and product feedback from internal customers
+  - Iterate quickly with an eye towards delivering value
+  use_cases:
+  - Healthcare price transparency data infrastructure
+  - Multi-source healthcare data unification (claims, contract rates, demographics)
+  - Data pipelines powering AI-driven healthcare analytics products
+  - Feature generation for AI workloads in healthcare
+  - Supporting internal and external products with analytics-ready data models
+  skills:
+    genai: [OpenAI APIs, Embedding workflows, RAG architectures, LLM evaluation and
+        monitoring, Hallucination mitigation]
+    ml: []
+    web: []
+    databases: [Pinecone, Weaviate, Redshift]
+    data: [ETL/ELT workflows, Airflow, dbt, Data modeling, Data pipeline development]
+    cloud: [AWS S3]
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8989792'
+  extracted_at: '2026-04-22T13:39:08.783662'

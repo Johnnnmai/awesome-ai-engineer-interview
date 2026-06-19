@@ -1,0 +1,129 @@
+job_id: 9114817
+title: Software AI Engineer Mid-Level,  Context Engineering
+company: WEX Inc.
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - Azure
+  - Github Actions
+  - Gitlab Ci
+  - Grafana
+  - Java
+  - Jenkins
+  - MySQL
+  - Postgres
+  - Prometheus
+description: |
+  As an AI Platform Engineer (SDE 2), you will be a hands-on
+  developer responsible for building and maintaining the core
+  software components that power our AI and context
+  infrastructure. You will work on the "Context Layer"—the
+  plumbing that connects enterprise data to LLMs—ensuring that
+  our AI agents have the right information at the right time.
+  This role is ideal for a strong software engineer who wants
+  to specialize in the operational side of AI, focusing on
+  high-quality code, automated delivery, and cloud-native
+  systems.
+  
+  Key Responsibilities
+  
+  - Feature Development: Implement and maintain core services
+    for the AI Data Lakehouse, focusing on efficient data
+    retrieval and storage optimizations for AI workflows.
+  - Pipeline Automation: Build and support CI/CD pipelines to
+    automate the deployment of AI models, prompt templates,
+    and infrastructure updates.
+  - Agentic Support: Develop and test tool-execution
+    environments and API interfaces that allow AI agents to
+    interact with internal business systems safely.
+  - Operational Excellence: Participate in on-call rotations and
+    troubleshooting to ensure platform reliability. Write unit
+    tests, integration tests, and documentation for new
+    features.
+  - Context Retrieval: Work on the "Context Fabric" to implement
+    search and retrieval patterns (like RAG) that help agents
+    access secure enterprise data.
+  - Cloud Management: Assist in managing cloud resources across
+    AWS and Azure, ensuring environments are cost-effective
+    and secure.
+  
+  Qualifications & Experience
+  
+  Software Engineering Foundation
+  
+  - Experience: 3+ years of professional software development
+    experience.
+  - Core Skills: Strong proficiency in Python and either Java or
+    Scala. You write clean, maintainable, and well-documented
+    code.
+  - API Development: Experience building and consuming RESTful
+    APIs or gRPC services.
+  - Database Basics: Understanding of relational databases
+    (Postgres/MySQL) and familiarity with how data is stored
+    in a distributed environment.
+  
+  Cloud & CI/CD Mastery
+  
+  - Cloud Consoles: Hands-on experience navigating the AWS or
+    Azure Management Consoles. You should be comfortable
+    managing basic services like IAM, S3/Blob, and compute
+    instances.
+  - Infrastructure-as-Code (IaC): Basic experience with
+    Terraform. You can read, modify, and deploy infrastructure
+    modules.
+  - CI/CD Tools: Familiarity with GitHub Actions, GitLab CI, or
+    Jenkins. You understand how to automate the build-test-
+    deploy lifecycle.
+  - Observability: Basic experience with monitoring tools like
+    Prometheus, Grafana, or cloud-native solutions
+    (CloudWatch/Azure Monitor).
+  
+  AI & Agentic Interests (Specialized Focus)
+  
+  - LLM Awareness: Familiarity with LLM concepts and frameworks
+    like LangChain or LlamaIndex. You’ve experimented with or
+    built basic RAG-based applications.
+  - Emerging Protocols: A desire to learn and implement new
+    standards like the Model Context Protocol (MCP).
+  - Agentic Workflows: Interest in how autonomous agents
+    function, including tool-use (function calling) and state
+    management.
+  - Data Retrieval: Basic understanding of vector databases
+    (e.g., Pinecone, Milvus) and how search impacts AI
+    performance.
+  
+  Leadership & Education
+  
+  - Team Player: Ability to work effectively in an agile
+    environment, participating in sprint planning and daily
+    stand-ups.
+  - Continuous Learner: A strong desire to stay current with the
+    rapidly changing AI and cloud landscape.
+  - Education: Bachelor’s degree in Computer Science, Software
+    Engineering, or a related technical field.
+  
+  The base pay range represents the anticipated low and high
+  end of the pay range for this position. Actual pay rates
+  will vary and will be based on various factors, such as your
+  qualifications, skills, competencies, and proficiency for
+  the role. Base pay is one component of WEX's total
+  compensation package. Most sales positions are eligible for
+  commission under the terms of an applicable plan. Non-sales
+  roles are typically eligible for a quarterly or annual bonus
+  based on their role and applicable plan. WEX's comprehensive
+  and market competitive benefits are designed to support your
+  personal and professional well-being. Benefits include
+  health, dental and vision insurances, retirement savings
+  plan, paid time off, health savings account, flexible
+  spending accounts, life insurance, disability insurance,
+  tuition reimbursement, and more. For more information, check
+  out the "About Us" section.Pay Range: $124,700.00 -
+  $148,800.00
+industries:
+  - Fintech
+  - Payments
+posted_date: 2026-04-21
+url: "https://www.builtinla.com/job/software-ai-engineer-mid-level-context-engineering/9114817"
+source: Built In

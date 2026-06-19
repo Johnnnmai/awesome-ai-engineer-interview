@@ -1,0 +1,65 @@
+company:
+  name: RingCentral
+  stage: Public
+  focus: |-
+    Cloud communications and contact center solutions
+    (UCaaS/CCaaS)
+position:
+  title: AI Forward-Deployed Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that directly
+      builds, deploys, and iterates on agentic AI systems (AIR Pro
+      platform). The engineer designs multi-turn agent workflows,
+      implements prompt chains, RAG pipelines, and deploys
+      production-grade AI agents with direct accountability for
+      business outcomes. This is hands-on AI work, not merely
+      infrastructure or support.
+  responsibilities:
+  - Engage directly with strategic customers to discover requirements, map business
+    processes, and translate them into AI agent behaviors and workflows focused on
+    measurable ROI
+  - Design and implement multi-turn agent workflows including prompt chains, retrieval
+    pipelines, decision logic, fallback handling, and live-agent handoff rules
+  - Build integrations between AIR Pro and customer systems of record (CRMs, EHRs,
+    ERPs, ticketing platforms) using secure authentication protocols
+  - Implement compliance and safety controls including guardrails, PII handling, HIPAA,
+    and PCI controls appropriate to customer environments
+  - Own the end-to-end Agent Development Lifecycle by monitoring performance through
+    observability, metrics, and customer feedback, iterating on agent behavior
+  - Deploy monitoring, evaluation, and testing frameworks to enable ongoing measurement
+    and optimization of agent performance
+  - Serve as senior technical resource during pre-sales engagements including live
+    demonstrations, proof-of-concept builds, and RFP/RFQ responses
+  - Document integration patterns, platform limitations, and provide structured feedback
+    to Product and Engineering teams
+  use_cases:
+  - Automating enterprise voice and digital customer experience conversations with
+    measurable business outcomes
+  - AI agent-driven call routing, agent scripts, escalation paths, and back-office
+    handoffs for contact centers
+  - Enterprise compliance-aware AI deployments in healthcare, financial services,
+    retail, and insurance
+  - Production-grade agentic AI experiences with containment rate optimization and
+    cost per interaction reduction
+  - Integration of AI agents with enterprise systems (CRM, EHR, ERP, ticketing) for
+    end-to-end customer interaction automation
+  skills:
+    genai: [LLMs, Retrieval-Augmented Generation (RAG), Prompt engineering, Agent
+        orchestration frameworks, Prompt chains, Guardrails]
+    ml: []
+    web: [REST APIs, OAuth 2.0, SAML, SCIM]
+    databases: [Vector databases]
+    data: []
+    cloud: []
+    ops: [Observability and monitoring]
+    languages: [Python]
+    domains: []
+    other: [CRM integration, HIPAA compliance, PCI compliance, SIP, WebRTC, CCaaS/UCaaS,
+      Proof-of-concept development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8953701'
+  extracted_at: '2026-04-22T13:53:34.196749'

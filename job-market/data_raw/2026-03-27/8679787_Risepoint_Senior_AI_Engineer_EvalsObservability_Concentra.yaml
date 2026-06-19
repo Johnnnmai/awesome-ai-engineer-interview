@@ -1,0 +1,149 @@
+job_id: 8679787
+title: ​Senior AI Engineer (Evals/Observability Concentration)
+company: Risepoint
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - Azure
+  - "C#"
+  - Databricks
+  - GCP
+  - Java
+  - Langfuse
+  - Langsmith
+  - Llm Evaluation
+  - Opentelemetry
+description: |
+  Risepoint is an education technology company that provides
+  world-class support and trusted expertise to more than 100
+  universities and colleges. We primarily work with regional
+  universities, helping them develop and grow their high-ROI,
+  workforce-focused online degree programs in critical areas
+  such as nursing, teaching, business, and public service.
+  Risepoint is dedicated to increasing access to affordable
+  education so that more students, especially working adults,
+  can improve their careers and meet employer and community
+  needs.
+  
+  The Impact You Will Make
+  
+  
+  
+  Risepoint is developing an AI-powered Student Journey
+  Platform and is seeking a Senior AI Engineer with deep
+  expertise in Retrieval-Augmented Generation (RAG), multi-
+  agent architectures, and LLM evaluation frameworks. This
+  role focuses on designing, implementing, and
+  operationalizing AI systems with a strong emphasis on
+  structured evaluation (including LLM-as-Judge), measurable
+  quality, and production-grade reliability. The ideal
+  candidate has experience integrating LLMs with enterprise
+  data sources, building testable and observable AI workflows,
+  and improving system performance through rigorous evaluation
+  and iteration. This role contributes directly to a platform
+  that is central to the organization’s long-term strategy.
+  
+  How You Will Bring Our Mission to Life
+  
+  What You Will Do
+  
+  - Build and maintain evaluation frameworks (LLM-as-Judge,
+    rubric-based scoring, regression test suites) to measure
+    output quality, reliability, and drift with the
+    responsibility of debugging production level issues as
+    detected.
+  
+  - Architect and implement multi-agent workflows with clear
+    coordination, tool usage, and failure handling patterns.
+  
+  - Build structured observability into AI systems (tracing,
+    prompt/version tracking, evaluation logging, cost and
+    latency monitoring).
+  
+  - Define and enforce quality gates for AI features using
+    automated evals prior to production release.
+  
+  - Optimize inference performance (latency, token usage,
+    caching, batching, routing across models).
+  
+  - Collaborate with product and engineering teams to translate
+    business requirements into testable AI system designs.
+  
+  - Contribute to code reviews, architectural discussions, and
+    internal standards for AI development.
+  
+  - Design and implement Retrieval-Augmented Generation (RAG)
+    systems and Model Context Protocol (MCP) servers using
+    structured and unstructured enterprise data.
+  
+  - Develop and manage fine-tuning workflows (SFT, preference
+    optimization, or related techniques) including dataset
+    preparation, versioning, and validation.
+  
+  What Success Looks Like
+  
+  - RAG pipelines return grounded, source-attributed responses
+    with minimal hallucination.
+  
+  - Evals are automated, reproducible, and integrated into CI/CD
+    or release workflows.
+  
+  - Multi-agent workflows are observable, testable, and
+    maintainable as complexity increases.
+  
+  How Impact Will be Measured
+  
+  - AI systems demonstrate measurable improvements in quality
+    using defined evaluation benchmarks.
+  
+  - Fine-tuned models and/or programmatic solutions show
+    validated performance gains over baseline foundation
+    models.
+  
+  - AI systems meet defined SLAs for latency, reliability, and
+    cost.
+  
+  What You’ll Bring to the Team
+  
+  
+  
+  Experience That Matters Most
+  
+  - 3-5 years of full stack engineering experience with strong
+    fundamentals in object-oriented programming, applicable
+    design patterns, and AI-focused system design.
+  
+  - Professional experience in Python, C#, Java, or a similar
+    language used in production systems.
+  
+  - Experience with LLM evaluation and observability tooling
+    (e.g. Langfuse, LangSmith, OpenTelemetry-based tracing,
+    custom evaluation harnesses).
+  
+  - Experience implementing guardrails, policy enforcement, and
+    safety layers in AI driven systems while leveraging  LLM-
+    as-Judge for validation and continuous improvement.
+  
+  Experience That’s Great to Have
+  
+  - Familiarity with performance optimization techniques for
+    LLM-based systems (latency, caching, routing, batching).
+  
+  - Experience building production-grade RAG systems (retrieval
+    pipelines, chunking strategies, embeddings, reranking,
+    context construction).
+  
+  - Experience contributing to internal AI standards, reusable
+    frameworks, or platform-level tooling.
+  
+  - Experience deploying AI systems in cloud environments (AWS,
+    Azure, GCP). Experience in Databricks (model serving
+    endpoints, ML Flow)
+  
+  Risepoint is an equal-opportunity employer and supports a
+  diverse and inclusive workforce.
+posted_date: 2026-03-06
+url: "https://www.builtinla.com/job/senior-ai-engineer-evals-observability-concentration/8679787"
+source: Built In

@@ -1,0 +1,49 @@
+company:
+  name: Databricks
+  stage: Public
+  focus: Data and AI infrastructure platform for analytics and AI
+position:
+  title: Staff Software Engineer - AI Product (NYC)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building novel GenAI agent interfaces and
+      end-to-end generative AI products. While it's full-stack
+      engineering with heavy UI/UX focus, the core responsibility
+      is creating interfaces for GenAI agents that manage complex
+      workflows — directly building and shipping AI-powered
+      applications, not just supporting infrastructure for others'
+      AI work.
+  responsibilities:
+  - Create novel interfaces for GenAI agents that manage complex workflows with human-in-the-loop
+    transparency and inspectability
+  - Partner with product management, design, and engineering teams to build intuitive,
+    scalable, and extensible AI solutions
+  - Lead hands-on full-stack software development to create dynamic, user-centric
+    AI experiences
+  - Enable product-led growth through seamless onboarding and sharing capabilities
+  - Direct the future of intuitive agentic applications at Databricks in collaboration
+    with cross-functional teams
+  - Establish best practices for building valuable AI products across the team and
+    broader organization
+  use_cases:
+  - Vertical AI applications for technical and business users
+  - GenAI agent interfaces for complex workflow management
+  - Human-in-the-loop AI transparency and inspectability tools
+  - Product-led growth through AI-powered onboarding and sharing
+  skills:
+    genai: [GenAI product development]
+    ml: []
+    web: [React, Angular, Vue.js, HTML/CSS, Node.js]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [JavaScript, Python, Java, Scala, Go, C#, C++]
+    domains: []
+    other: [UI/UX for AI, Full-stack development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9066545'
+  extracted_at: '2026-04-22T12:42:55.944882'

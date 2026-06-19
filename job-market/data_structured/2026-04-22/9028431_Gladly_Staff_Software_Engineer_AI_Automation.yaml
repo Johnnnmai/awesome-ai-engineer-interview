@@ -1,0 +1,58 @@
+company:
+  name: Gladly
+  stage: Growth-stage (Series C+ or later, based on decade+ of operations and 300M+
+    conversations)
+  focus: |-
+    Customer experience AI platform for brand-customer
+    conversations
+position:
+  title: Staff Software Engineer, AI & Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is ai-first because it directly builds the
+      connective tissue for Gladly's AI — the integrations,
+      knowledge surfaces, and action pathways that enable the LLM
+      to function. The engineer designs how external systems
+      connect to the AI, builds context and action pathways for
+      the LLM, and works with MCP, embeddings, and vector search.
+      This is hands-on work building and extending AI system
+      capabilities.
+  responsibilities:
+  - Own the integration architecture and set technical direction for how external
+    systems connect to Gladly's AI
+  - Build context and action pathways for the LLM, expanding what the AI can see and
+    do across customer tech stacks
+  - Design and build tooling that lets customers stand up new integrations without
+    writing custom code
+  - Make AI actions easier for customers to configure and extend
+  - Partner with product and design on integration UX and customer-facing experience
+  - Ship features from idea to production with direct input from enterprise customers
+  - Mentor Senior engineers and raise the technical bar across the team
+  - Collaborate with product managers, designers, and customer-facing teams across
+    the company
+  use_cases:
+  - AI-powered customer service with real-time order lookup, inventory checks, and
+    return triggers
+  - Continuous cross-channel customer conversations with balanced AI and human interaction
+  - Integration platform connecting external systems (product catalogs, customer data)
+    to AI for contextual responses
+  - No-code/low-code tooling for customers to configure and extend AI actions and
+    integrations
+  - Enterprise customer experience automation at scale for major brands
+  skills:
+    genai: [MCP (Model Context Protocol), OpenAI API, Claude API, Embeddings]
+    ml: []
+    web: [React, REST APIs]
+    databases: [PostgreSQL, Vector search]
+    data: []
+    cloud: []
+    ops: [LangSmith, Datadog, SumoLogic]
+    languages: [TypeScript, Go]
+    domains: []
+    other: [Integration platform design, Copilot/Cursor/AI coding tools]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9028431'
+  extracted_at: '2026-04-22T12:49:30.150935'

@@ -1,0 +1,52 @@
+company:
+  name: Monzo Bank
+  stage: Series D/Private (established fintech with 5,000 employees)
+  focus: |-
+    Digital bank providing personal and business banking
+    services in the UK
+position:
+  title: Senior Staff Software Engineer, AI Customer Operations
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and deploying AI-
+      powered customer resolution systems, LLMs, and ML models for
+      customer support automation. The description explicitly
+      mentions "AI-driven resolution," "AI-powered experiences,"
+      and "maximising leverage of technologies like LLMs,
+      traditional machine learning" - all hands-on AI system
+      building work.
+  responsibilities:
+  - Build and deploy AI-powered customer resolution systems and self-service experiences
+  - Maximize leverage of LLMs and traditional ML for customer support automation
+  - Design and implement platforms for AI-human collaboration in customer journeys
+  - Lead architectural discussions for complex systems in the Customer Operations
+    collective
+  - Strengthen infrastructure and tooling to build consistent customer experiences
+    at scale
+  - Solve multi-faceted optimization problems across customer operations
+  - Mentor and up-level engineers across the collective
+  - Partner with Engineering Director and other ICs to provide technical leadership
+  use_cases:
+  - Automated customer problem detection and resolution
+  - AI-powered self-service customer support
+  - Proactive issue prevention and friction reduction
+  - Human-AI collaboration for complex customer journeys
+  - Automated workforce management with ML forecasting and scheduling
+  - Customer experience optimization at scale
+  skills:
+    genai: [LLMs]
+    ml: [Feast, Model training and deployment, Machine Learning]
+    web: [React]
+    databases: [Cassandra]
+    data: [Kafka]
+    cloud: [AWS, GCP]
+    ops: [Kubernetes, Docker]
+    languages: [Go]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8492197'
+  extracted_at: '2026-03-03T12:34:05.872352'

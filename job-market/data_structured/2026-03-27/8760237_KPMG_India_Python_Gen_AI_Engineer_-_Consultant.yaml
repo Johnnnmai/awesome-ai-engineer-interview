@@ -1,0 +1,46 @@
+company:
+  name: KPMG India
+  stage: Public
+  focus: Professional services and consulting firm
+position:
+  title: Python + Gen AI Engineer - Consultant
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs, GenAI frameworks
+      (LangChain, LlamaIndex), RAG pipeline design, and prompt
+      engineering. The engineer will build and deploy AI systems
+      using cloud AI services, with nice-to-have experience in
+      fine-tuning models using LoRA/QLoRA techniques.
+  responsibilities:
+  - Develop AI-powered software solutions using Python and GenAI technologies
+  - Design and implement RAG pipelines and vector store integrations
+  - Work with LLMs and GenAI frameworks including LangChain and LlamaIndex
+  - Implement prompt engineering strategies and model fine-tuning when required
+  - Collaborate with Technical Architects, Business Analysts, and other engineers
+    on product development
+  - Ensure development practices comply with KPMG best practices
+  - Deploy AI solutions on cloud platforms (Azure OpenAI, AWS Bedrock, GCP Vertex
+    AI)
+  - Quickly ramp up on new technologies as needed
+  use_cases:
+  - Enterprise AI solutions for KPMG clients
+  - RAG-based information retrieval and knowledge systems
+  - Custom AI application development for consulting engagements
+  - AI-powered automation and decision support systems
+  skills:
+    genai: [LangChain, LlamaIndex, Prompt Engineering, RAG, LoRA, QLoRA]
+    ml: [HuggingFace Transformers, PyTorch, TensorFlow, Fine-tuning]
+    web: [APIs]
+    databases: [Vector Stores]
+    data: []
+    cloud: [Azure OpenAI, AWS Bedrock, GCP Vertex AI]
+    ops: [MLflow, Weights & Biases, Distributed Systems]
+    languages: [Python, OOP, Async Programming]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8760237'
+  extracted_at: '2026-03-27T14:18:32.496527'

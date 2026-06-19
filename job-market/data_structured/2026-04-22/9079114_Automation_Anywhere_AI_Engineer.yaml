@@ -1,0 +1,55 @@
+company:
+  name: Automation Anywhere
+  stage: Public
+  focus: |-
+    Enterprise Agentic Process Automation and AI-powered
+    automation
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, configuring, and
+      deploying AI Agents and RAG systems on an enterprise GenAI
+      platform. The engineer works hands-on with LLM APIs, agent
+      frameworks (LangChain, LangGraph, AutoGen, CrewAI), vector
+      databases, and RAG pipelines — all core activities of
+      building and deploying AI/ML systems.
+  responsibilities:
+  - Build and maintain multi-agent workflows from solution design through production
+    deployment
+  - Design and operate end-to-end RAG systems; continuously monitor and improve retrieval
+    quality
+  - Develop and maintain RPA tasks; integrate AI agents with RPA and business logic
+  - Implement root-cause analysis, ERP/CRM/ITSM integrations, and robust error handling
+  - Configure agents and prompts with selected LLMs (Gemini/GPT-4) and integrate downstream
+    API tasks
+  - Write unit and integration tests; contribute to CI/CD pipelines and deployment
+    automation
+  - Collaborate with senior engineers; document pipelines, agent configurations, and
+    operational runbooks
+  use_cases:
+  - Enterprise knowledge base retrieval and question answering via RAG
+  - Intelligent process automation with AI agents orchestrating RPA workflows
+  - Document processing and understanding (DocAI/GenAI bots)
+  - Automated root-cause analysis for enterprise systems (ERP/CRM/ITSM)
+  - Enterprise-grade agentic process automation combining process discovery, RPA,
+    and orchestration
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, CrewAI, RAG, Prompt Engineering, OpenAI
+        API, Anthropic API, Gemini API, LoRA/QLoRA]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector Databases]
+    data: [Data Pipelines]
+    cloud: [AWS, Azure, GCP, Cloud AI Services]
+    ops: [LangSmith, Arize, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Automation Anywhere, UiPath, Microsoft Power Automate, RPA, ERP/CRM/ITSM
+        Integration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9079114'
+  extracted_at: '2026-04-22T13:10:46.124911'

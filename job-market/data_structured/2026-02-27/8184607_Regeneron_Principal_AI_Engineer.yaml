@@ -1,0 +1,53 @@
+company:
+  name: Regeneron
+  stage: Public
+  focus: |-
+    Biopharmaceutical company developing medicines for serious
+    diseases
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building, deploying, and fine-
+      tuning AI/ML models including LLMs, RAG systems, and GenAI
+      solutions. The position requires direct work with model
+      development, prompt engineering, and implementing agentic AI
+      patterns - all core AI-first activities.
+  responsibilities:
+  - Architect and develop large-scale, distributed AI systems for processing multi-modal
+    biological data
+  - Design, develop, and deploy AI models and algorithms to analyze biological and
+    pharmaceutical data
+  - Build and maintain machine learning models including image analysis, NLP, and
+    predictive modeling
+  - Evaluate, adopt, and integrate emerging AI technologies across the organization
+  - Design and optimize data pipelines for AI training and evaluation workflows
+  - Lead technical reviews, architectural decisions, and code quality standards across
+    AI projects
+  - Mentor and guide senior AI/ML engineers and data scientists in AI methodologies
+  - Implement and refine deep learning architectures and generative AI solutions
+  use_cases:
+  - Drug discovery and development acceleration
+  - Clinical research optimization
+  - Biological image analysis and computer vision
+  - Natural language processing for pharmaceutical data
+  - Predictive modeling for patient care and outcomes
+  - Multi-modal biological data analysis
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, RAG, Prompt Engineering, Fine-tuning, Agentic
+        AI patterns, OpenAI, Anthropic]
+    ml: [PyTorch, TensorFlow]
+    web: []
+    databases: [NoSQL databases]
+    data: [Databricks, Dataiku, Spark, Hadoop]
+    cloud: [AWS SageMaker, Google Vertex AI, Azure ML]
+    ops: [Docker, Kubernetes]
+    languages: [Python, Java, R, SQL]
+    domains: [NLP, Computer Vision, Biotechnology/Pharmaceutical]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8184607'
+  extracted_at: '2026-03-03T12:19:12.670691'

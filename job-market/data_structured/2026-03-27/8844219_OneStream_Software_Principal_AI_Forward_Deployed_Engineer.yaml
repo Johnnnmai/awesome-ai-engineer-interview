@@ -1,0 +1,55 @@
+company:
+  name: OneStream Software
+  stage: Public
+  focus: |-
+    Enterprise finance platform with embedded AI for financial
+    planning and forecasting
+position:
+  title: Principal AI Forward Deployed Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that directly
+      designs and delivers AI solutions at customer accounts,
+      including solution architecture, data pipeline
+      configuration, and implementation oversight for SensibleAI
+      products. While it emphasizes advisory and domain expertise
+      over deep ML engineering, the role involves hands-on
+      deployment and configuration of AI systems, making it ai-
+      first rather than ai-support.
+  responsibilities:
+  - Serve as primary strategic advisor to senior finance stakeholders, owning AI adoption
+    roadmaps from deployment through operational ownership
+  - Participate directly in design and delivery of AI use cases including solution
+    architecture, data pipeline configuration, and implementation oversight
+  - Lead adoption and change management strategy for AI-enabled finance processes
+  - Design and facilitate executive workshops connecting AI capabilities to measurable
+    financial outcomes
+  - Build 24-36 month AI roadmaps per account, sequencing use cases by business impact
+    and feasibility
+  - Shape FDE engagement model by producing reusable playbooks, templates, and frameworks
+  - Coordinate with AI Delivery to transition validated solutions into scalable production
+    workflows
+  - Channel field learnings and customer signal to AI Engineering and Product teams
+  use_cases:
+  - Financial planning and analysis (FP&A) automation
+  - Forecast accuracy improvement using AI
+  - Financial forecasting and predictive analytics
+  - Process efficiency optimization in finance workflows
+  - Enterprise financial planning transformation
+  skills:
+    genai: []
+    ml: [AI/ML concepts]
+    web: [REST APIs]
+    databases: [SQL]
+    data: [ETL/ELT, Data modeling]
+    cloud: []
+    ops: []
+    languages: [Python, C#]
+    domains: [Financial planning and forecasting]
+    other: [OneStream, Oracle EPM, SAP BPC/SAC]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8844219'
+  extracted_at: '2026-03-27T13:36:29.148776'

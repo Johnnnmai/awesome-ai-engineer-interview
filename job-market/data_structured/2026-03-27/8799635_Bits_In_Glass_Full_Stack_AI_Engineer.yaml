@@ -1,0 +1,58 @@
+company:
+  name: Bits In Glass
+  stage: null
+  focus: |-
+    Software consulting firm specializing in data solutions,
+    enterprise applications, Pega, Appian, Databricks, and AI
+position:
+  title: Full Stack AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and integrating AI/ML
+      capabilities including LLM-powered workflows, RAG systems,
+      and predictive models into production applications. The
+      engineer will directly work with AI models, prompt
+      engineering, and AI agent workflows, not just supporting
+      infrastructure.
+  responsibilities:
+  - Design and implement full stack features across digital products including asset
+    management platform and internal AI tools
+  - Build and integrate AI/ML capabilities into production applications including
+    LLM-powered workflows, MCP tool integrations, RAG, and predictive analytics
+  - 'Own features from concept through deployment: frontend UI, API design, backend
+    services, data pipelines, and AI model integration'
+  - Build responsive frontend interfaces using React/Next.js and scalable backend
+    services with Python/Node.js
+  - Work with cloud infrastructure on Azure including serverless functions, container
+    orchestration, and managed AI/ML services
+  - Partner with Product Management, Design, Business owners, and Data Engineering
+    to deliver high-impact features
+  - Collaborate on AI integration patterns, prompt engineering, and modern development
+    practices
+  use_cases:
+  - Real estate asset management platform (GPS)
+  - Property management and leasing optimization
+  - LLM-powered workflows and intelligent automation
+  - Retrieval-augmented generation (RAG) systems
+  - Predictive analytics for multi-billion dollar global portfolio
+  - Internal AI tools development
+  skills:
+    genai: [LLM integration, OpenAI API, Anthropic API, prompt engineering, function
+        calling, agent workflows, RAG, MCP (Model Context Protocol), embedding models,
+      Cursor, Codex, Claude Code]
+    ml: [predictive models]
+    web: [React, Next.js, TypeScript, RESTful APIs, microservices, event-driven architectures]
+    databases: [vector databases, relational databases, non-relational databases,
+      caching strategies]
+    data: [Databricks, Snowflake, data pipelines]
+    cloud: [Azure, AWS, GCP, Azure AI services, serverless functions]
+    ops: [Docker, Kubernetes, CI/CD, infrastructure as code, monitoring, logging]
+    languages: [Python, Node.js, Go]
+    domains: []
+    other: [Git, VS Code]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8799635'
+  extracted_at: '2026-03-27T15:33:14.394232'

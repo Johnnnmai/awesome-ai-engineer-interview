@@ -1,0 +1,49 @@
+company:
+  name: Rescale
+  stage: null
+  focus: |-
+    Digital engineering platform for HPC simulation and AI-
+    driven product development
+position:
+  title: Application Engineer, AI Physics
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and shipping AI Physics
+      capabilities, working with AI/ML pipelines, debugging models
+      and inference, and hardening AI POCs for production. While
+      customer-facing, it's a builder role focused on deploying
+      and refining AI systems, not just supporting them.
+  responsibilities:
+  - Build and ship AI Physics capabilities alongside the Rescale AI/ML team
+  - Turn real customer simulation data into AI-ready pipelines using the core AI Physics
+    product
+  - Execute and harden early AI Physics POCs so they are repeatable, reusable, and
+    production-ready
+  - Debug and resolve issues across data preprocessing, models, inference, and workflow
+    orchestration
+  - Work directly with customer engineers to understand their workflows and technical
+    constraints
+  - Close gaps between customer workflows and product capabilities, feeding learnings
+    back into the product roadmap
+  use_cases:
+  - AI-powered physics simulation for engineering workflows
+  - Transforming simulation data into AI-ready pipelines
+  - Scientific computing and R&D automation
+  - Aerospace, energy, life sciences, and manufacturing applications
+  skills:
+    genai: []
+    ml: [ML workflows, Model debugging, Inference]
+    web: []
+    databases: []
+    data: [Data pipelines, Engineering data]
+    cloud: []
+    ops: [Workflow orchestration]
+    languages: [Python]
+    domains: [Simulation workflows]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8826034'
+  extracted_at: '2026-03-27T15:57:50.204524'

@@ -1,0 +1,206 @@
+job_id: 8872285
+title: AI Product Engineer - Agentic AI Platforms (Financial Services)
+company: Capgemini
+location: Los Angeles, USA
+work_type: FULL_TIME
+level: Mid level
+skills:
+  - Anthropic
+  - Dspy
+  - Langchain
+  - Langgraph
+  - Openai
+  - Python
+  - Vector Databases
+description: |
+  Capgemini is at the forefront of Generative AI innovation,
+  helping Financial Services clients industrialize GenAI and
+  Agentic AI platforms at enterprise scale.
+  
+  We are seeking an experienced and innovative AI Product
+  Engineer – Agentic Platforms to join our Financial Services
+  Artificial Intelligence & Business Lines (FS‑ABL) practice.
+  This role is ideal for a consulting technologist with deep
+  expertise in modern GenAI tooling, agentic system design,
+  and enterprise SDLC, who can partner directly with clients
+  to envision, design, develop, and deploy Agentic AI
+  platforms in regulated environments.
+  
+  In this role, you will work at the intersection of client
+  advisory, AI product engineering, and delivery execution,
+  helping banks, insurers, and capital markets firms
+  transition from GenAI pilots to production‑grade, governed,
+  multi‑agent systems. You will apply leading GenAI frameworks
+  and LLM platforms — including Anthropic, OpenAI, LangChain,
+  LangGraph, DSPy, and vector databases—while operating across
+  the full Agentic SDLC.
+  
+  P&C Insurance knowledge and experience is a significant
+  plus. Additionally, familiarity with core insurance
+  platforms like Guidewire, DuckCreek or Majesco will be
+  extremely helpful to succeed in this role.
+  
+  We are looking for candidates across all levels of
+  experience and expertise - junior through senior level AI
+  Product Engineers.
+  
+  Requirements
+  
+  Client Advisory & Product Vision
+  
+  - Partner directly with Financial Services clients to
+    identify, prioritize, and shape Agentic AI use cases
+    across customer operations, underwriting, claims, risk,
+    compliance, finance, and technology.
+  
+  - Lead client workshops to define agent personas,
+    responsibilities, autonomy boundaries, human‑in‑the‑loop
+    checkpoints, and escalation logic.
+  
+  - Translate evolving business needs into agentic product
+    backlogs, roadmaps, and MVP definitions.
+  
+  - Support executive conversations around GenAI platform
+    strategy, operating models, vendor selection, and
+    scale‑out approaches.
+  
+  Agentic Platform & Architecture Design
+  
+  - Design and implement multi‑agent architectures using modern
+    GenAI tooling, including:
+  
+  - Planner, executor, reviewer/critic, and supervisor agents
+  
+  - Tool‑calling and function‑calling agents
+  
+  - Memory‑enabled agents (conversation, semantic, episodic, and
+    structured memory)
+  
+  - Leverage LangChain and LangGraph for agent orchestration,
+    workflows, and control flow.
+  
+  - Apply DSPy and declarative prompt optimization techniques
+    for repeatability, performance tuning, and regression
+    control.
+  
+  - Design agent interaction patterns such as hierarchical
+    agents, collaborating agents, and event‑driven agent
+    workflows.
+  
+  - Define standardized agent contracts, interfaces, and schemas
+    to enable reuse and scale.
+  
+  Agentic SDLC & Engineering Delivery
+  
+  - Own delivery across the full Software Development Lifecycle
+    (SDLC), extending it into a formal Agentic SDLC,
+    including:
+  
+  - Agent design specifications and behavior contracts
+  
+  - Prompt, policy, and tool versioning
+  
+  - Simulation environments and offline evaluation
+  
+  - Automated testing of agent flows and guardrails
+  
+  - Controlled rollout, telemetry‑driven optimization, and
+    continuous learning
+  
+  - Build production‑grade AI services primarily using Python,
+    integrating:
+  
+  - LLM providers such as Anthropic (Claude), OpenAI, and
+    open‑source models
+  
+  - Retrieval‑Augmented Generation (RAG) using vector databases
+    (e.g., Pinecone, FAISS, Milvus, Weaviate)
+  
+  - Implement CI/CD pipelines for agent code, prompts, and
+    policies.
+  
+  - Integrate GenAI agents with client systems via APIs,
+    workflow engines, event streams, and data platforms.
+  
+  Observability, Evaluation & Optimization
+  
+  - Implement agent observability including tracing, decision
+    logging, tool usage, and failure analysis.
+  
+  - Apply evaluation frameworks for hallucination detection,
+    consistency checks, and fitness scoring.
+  
+  - Design feedback loops incorporating human‑in‑the‑loop review
+    and reinforcement.
+  
+  - Monitor cost, latency, throughput, and behavioral drift
+    across deployed agents.
+  
+  Governance, Risk & Financial Services Compliance
+  
+  - Design Agentic AI platforms aligned with Financial Services
+    regulatory expectations, including:
+  
+  - Auditability and traceability of agent decisions
+  
+  - Model and prompt explainability
+  
+  - Data privacy and security controls
+  
+  - Resilience and fail‑safe mechanisms
+  
+  - Embed guardrails and policies addressing hallucination risk,
+    bias, unauthorized actions, and escalation failures.
+  
+  - Produce documentation supporting risk, compliance, internal
+    audit, and regulator engagement.
+  
+  Team Leadership & Firm Contribution
+  
+  - Provide technical leadership and mentorship to consulting
+    delivery teams.
+  
+  - Contribute to internal GenAI accelerators, agent frameworks,
+    and reusable assets.
+  
+  - Support RFPs, proposals, and client solution designs with
+    credible GenAI and agentic architectures.
+  
+  - Participate in thought leadership on Agentic SDLC, GenAI
+    engineering, and responsible autonomy.
+  
+  Benefits
+  
+  This position comes with competitive compensation and
+  benefits package:
+  
+  - Competitive salary and performance-based bonuses
+  - Comprehensive benefits package
+  - Career development and training opportunities
+  - Flexible work arrangements (remote and/or office-based)
+  - Dynamic and inclusive work culture within a globally known
+    group
+  - Private Health Insurance
+  - Retirement Benefits
+  - Paid Time Off
+  - Training & Development
+  - *Note: Benefits differ based on employee level
+  
+  About Capgemini
+  
+  Capgemini is a global leader in partnering with companies to
+  transform and manage their business by harnessing the power
+  of technology. The Group is guided everyday by its purpose
+  of unleashing human energy through technology for an
+  inclusive and sustainable future. It is a responsible and
+  diverse organization of over 420,000 team members in more
+  than 50 countries. With its strong 55-year heritage and deep
+  industry expertise, Capgemini is trusted by its clients to
+  address the entire breadth of their business needs, from
+  strategy and design to operations, fueled by the fast
+  evolving and innovative world of cloud, data, AI,
+  connectivity, software, digital engineering and platforms.
+  The Group €22.5 billion in revenues in 2025.
+posted_date: 2026-03-26
+url: "https://www.builtinla.com/job/ai-product-engineer-agentic-ai-platforms-financial-services/8872285"
+source: Built In

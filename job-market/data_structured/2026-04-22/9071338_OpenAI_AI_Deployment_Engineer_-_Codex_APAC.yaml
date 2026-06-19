@@ -1,0 +1,59 @@
+company:
+  name: OpenAI
+  stage: Late-stage (Private)
+  focus: |-
+    AI research and deployment company building general-purpose
+    AI systems
+position:
+  title: AI Deployment Engineer - Codex | APAC
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role at OpenAI focused
+      on deploying AI coding tools (Codex) directly to customers.
+      The engineer designs, validates, and scales advanced AI
+      workflows, builds demos and integrations using Codex, and
+      configures models for production use. Despite being
+      customer-facing, the role involves hands-on work deploying
+      and configuring AI systems, making it ai-first.
+  responsibilities:
+  - Serve as primary technical SME on OpenAI Codex for a portfolio of customers, embedding
+    deeply to enable engineering teams and build coding workflows
+  - Partner directly with customers to design and implement AI-enhanced development
+    workflows from rapid prototyping through scalable production rollout
+  - Build high-quality demos, reference implementations, and workflow automations
+    using Codex as part of the development process
+  - Lead large-format workshops, technical deep dives, and hands-on enablement sessions
+    for engineering organizations adopting AI coding tools
+  - Contribute technical content including examples, guides, patterns, and best practices
+    to the OpenAI Cookbook
+  - Gather high-fidelity product insights from customer deployments and translate
+    them into product proposals and model feedback for internal teams
+  - Influence customer strategy by framing how AI coding tools fit into their SDLC,
+    technical roadmap, and organizational workflows
+  - Serve as trusted advisor on solution architecture, operational readiness, model
+    configuration, security considerations, and best-practice adoption
+  use_cases:
+  - AI-assisted software development and coding workflows
+  - Intelligent code generation and automation across the software development lifecycle
+  - Enterprise adoption of AI coding tools for engineering teams
+  - AI-powered rapid prototyping and reference implementation development
+  - Developer productivity enhancement through AI coding agent integration
+  skills:
+    genai: ['AI coding tools (Codex, Copilot, Cursor, etc.)', Prompt engineering,
+      OpenAI API, Model configuration and evaluation]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [Cloud platforms (AWS/Azure/GCP)]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Solution architecture, Workshop delivery and technical training, Software
+        development lifecycle (SDLC), Customer-facing engineering, Technical writing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9071338'
+  extracted_at: '2026-04-22T13:05:11.969944'

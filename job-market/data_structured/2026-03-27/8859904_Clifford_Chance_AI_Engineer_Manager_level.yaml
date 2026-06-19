@@ -1,0 +1,50 @@
+company:
+  name: Clifford Chance
+  stage: Public
+  focus: |-
+    International law firm providing legal services and advice
+    globally
+position:
+  title: AI Engineer (Manager level)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying AI
+      systems, including developing generative AI solutions,
+      configuring Azure OpenAI models, working with NLU/LLM
+      applications, and building ML models. The position directly
+      implements and maintains AI/ML systems rather than just
+      supporting them.
+  responsibilities:
+  - Develop and maintain NLU/LLM-driven applications for internal and client-facing
+    use
+  - Monitor and improve performance of Natural Language Understanding models
+  - Further develop the firm's generative AI solutions using Azure AI ecosystem
+  - Build on-premises and cloud-based applications in Python aligned with enterprise
+    architecture
+  - Create architectural designs and documentation for AI applications
+  - Collaborate with legal technology advisors, innovation lab, and cross-functional
+    teams
+  - Identify emerging technologies relevant to the Data Science Lab
+  - Contribute to data science use case execution
+  use_cases:
+  - Natural Language Processing for legal document analysis
+  - Legal research and document intelligence
+  - Internal organization and service-based applications
+  - Legal technology solutions for practice areas
+  skills:
+    genai: [Azure OpenAI, GPT models, LLM applications]
+    ml: [Natural Language Processing (NLP), Deep Learning, Machine Learning]
+    web: []
+    databases: [Vector search]
+    data: [Databricks, Spark]
+    cloud: [Azure AI Services, Cognitive search, Document Intelligence]
+    ops: [Azure CI/CD, DevOps, Load testing]
+    languages: [Python]
+    domains: []
+    other: [Agile software development]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8859904'
+  extracted_at: '2026-03-27T13:44:11.913877'

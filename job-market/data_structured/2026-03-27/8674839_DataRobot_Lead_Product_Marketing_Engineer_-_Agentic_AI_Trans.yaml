@@ -1,0 +1,54 @@
+company:
+  name: DataRobot
+  stage: Series D+
+  focus: |-
+    Enterprise AI platform for predictive and generative AI
+    development and governance
+position:
+  title: Lead Product Marketing Engineer - Agentic AI Transformation
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a marketing/evangelism role focused on storytelling,
+      content creation, and market awareness for DataRobot's
+      Agentic AI platform. While it requires technical fluency and
+      understanding of agentic AI systems, the role does not
+      involve building, training, fine-tuning, or deploying AI
+      models. Instead, it's about communicating and translating AI
+      capabilities to the market.
+  responsibilities:
+  - Drive external engagement as a primary thought leader for DataRobot's Agentic
+    AI Platform
+  - Evangelize the Agentic AI platform story at live events, webinars, podcasts, and
+    online forums
+  - Build awareness through diverse media channels including social forums like Reddit,
+    Hackernews, and Discord
+  - Uncover and broadcast real-world customer success stories highlighting technical
+    architecture and business impact
+  - Develop strategic partnerships with NVIDIA, SAP, and Dell to create co-marketing
+    narratives
+  - Create high-impact content including live demo flows, executive presentations,
+    articles, and videos
+  use_cases:
+  - Enterprise agentic AI adoption and governance
+  - Automated decision-making systems
+  - Sophisticated business reasoning workflows
+  - AI developer and operator enablement
+  - Executive AI strategy and transformation
+  skills:
+    genai: [LLMs, generative AI, agent frameworks, agentic AI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [enterprise platforms, B2B software, technical communication, content creation,
+      public speaking, partnership development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8674839'
+  extracted_at: '2026-03-27T15:55:50.020825'

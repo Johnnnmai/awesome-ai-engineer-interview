@@ -1,0 +1,49 @@
+company:
+  name: CompuGroup Medical US
+  stage: Established
+  focus: |-
+    Digital healthcare solutions including EHR, billing,
+    payments, and revenue cycle management
+position:
+  title: Generative AI Developer (Fresher)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an entry-level role focused on developing AI-driven
+      applications using Generative AI and LLMs. The
+      responsibilities include hands-on work with prompt
+      engineering, RAG implementation, fine-tuning models,
+      building agentic AI workflows, and integrating AI models
+      into production systems.
+  responsibilities:
+  - Write clean, efficient, and well-documented code with guidance from senior engineers
+  - Assist in developing AI-driven applications using Generative AI and LLMs
+  - Experiment with prompt engineering and Retrieval-Augmented Generation (RAG) techniques
+  - Support fine-tuning and evaluation of pre-trained AI models
+  - Help integrate AI models into backend services and APIs
+  - Work on Agentic AI workflows to automate tasks and processes
+  - Monitor and support AI services in staging and production environments
+  - Collaborate with product, engineering, and QA teams to deliver quality solutions
+  use_cases:
+  - Digital healthcare solutions and e-health applications
+  - Electronic Health Records (EHR) enhancement with AI capabilities
+  - Healthcare information access and management
+  - Task and process automation in healthcare workflows
+  - Revenue Cycle Management (RCM) solutions
+  skills:
+    genai: [Prompt Engineering, RAG, LLMs, OpenAI, LangChain, Claude, Gemini, Agentic
+        AI]
+    ml: [NLP, Machine Learning, Fine-tuning]
+    web: [REST APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8123883'
+  extracted_at: '2026-03-03T12:05:49.465339'

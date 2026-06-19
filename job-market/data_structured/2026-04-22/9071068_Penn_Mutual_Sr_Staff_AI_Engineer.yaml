@@ -1,0 +1,59 @@
+company:
+  name: Penn Mutual
+  stage: Public
+  focus: Life insurance, annuities, and wealth management services
+position:
+  title: Sr Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly responsible for designing, building,
+      and maintaining production AI services including LLM-based
+      systems, RAG pipelines, vector search, and document
+      intelligence. The engineer hands-on implements AI solutions
+      using AWS Bedrock, SageMaker, and other AI/ML technologies,
+      making this clearly an ai-first role.
+  responsibilities:
+  - Design, implement, and maintain production AI services using AWS native technologies
+    such as Bedrock, SageMaker, Lambda, EventBridge, OpenSearch, S3, and DynamoDB
+  - Build and operate retrieval augmented generation (RAG) pipelines, including embedding
+    strategies, vector search, prompt orchestration, and response evaluation
+  - Engineer LLM-enabled APIs and workflows that integrate directly into enterprise
+    applications and data products
+  - Develop solutions for unstructured data and document intelligence, including extraction,
+    enrichment, classification, and search
+  - Apply software engineering best practices including CI/CD, automated testing,
+    infrastructure as code, and runtime observability to AI systems
+  - Collaborate with Architecture, Data, Platform, and Product teams to deliver AI
+    solutions aligned with enterprise direction
+  - Provide technical leadership through implementation, code reviews, and design
+    guidance for AI initiatives
+  - Implement AI solutions adhering to enterprise governance, security, privacy, and
+    model risk standards
+  use_cases:
+  - Document intelligence for unstructured insurance and financial data extraction,
+    enrichment, classification, and search
+  - Enterprise RAG-based question answering over domain data products
+  - LLM-powered APIs integrated into enterprise applications for Penn Mutual's Connected
+    Data Strategy
+  - Automated document processing and intelligent search for life insurance and wealth
+    management operations
+  skills:
+    genai: [RAG, LLM-based services, Prompt engineering/orchestration, Document intelligence,
+      Response evaluation for LLMs, Embedding strategies]
+    ml: []
+    web: [Microservices, API design]
+    databases: [OpenSearch, DynamoDB, Vector Search]
+    data: [Data architecture]
+    cloud: [AWS Bedrock, SageMaker, AWS Lambda, Amazon EventBridge, Amazon S3, Serverless
+        architecture, Event-driven architecture, AWS]
+    ops: [CI/CD, Infrastructure as Code, MLOps, Production observability, Automated
+        testing]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9071068'
+  extracted_at: '2026-04-22T13:07:19.479287'

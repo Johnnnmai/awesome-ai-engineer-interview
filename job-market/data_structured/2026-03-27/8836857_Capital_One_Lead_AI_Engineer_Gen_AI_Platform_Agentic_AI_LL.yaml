@@ -1,0 +1,53 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services leveraging AI/ML for customer
+    experiences
+position:
+  title: Lead AI Engineer (Gen AI Platform, Agentic AI & LLM Infrastructure & Orchestration)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and deploying GenAI
+      systems including foundation model training, LLM inference,
+      similarity search, guardrails, and LLM optimization
+      techniques. The position focuses on hands-on development of
+      AI infrastructure and orchestration systems, not just
+      supporting infrastructure for others.
+  responsibilities:
+  - Partner with cross-functional teams of engineers, research scientists, and product
+    managers to deliver AI-powered products
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    and observability
+  - Leverage Open Source and SaaS AI technologies including AWS Ultraclusters, Huggingface,
+    VectorDBs, Nemo Guardrails, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  - Build proprietary AI solutions that deliver value to millions of customers
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Fraud detection and informing customers about unusual charges
+  - Real-time customer question answering and support
+  - AI-powered products that change how associates work
+  - Enhancing banking products with transformative AI capabilities
+  - Responsible and scalable AI deployment across enterprise applications
+  skills:
+    genai: [LLM Inference, Similarity Search, Nemo Guardrails, Guardrails, LLM Optimization]
+    ml: [PyTorch, Huggingface, Foundation Model Training]
+    web: []
+    databases: [VectorDBs]
+    data: []
+    cloud: [AWS, AWS Ultraclusters, Cloud Platforms, Google Cloud, Azure]
+    ops: [Model Evaluation, Experimentation, Governance, Observability]
+    languages: [Python, Go, Scala, Java, C++, C#, Golang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8836857'
+  extracted_at: '2026-03-27T14:39:15.661516'

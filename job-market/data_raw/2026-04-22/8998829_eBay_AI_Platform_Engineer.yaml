@@ -1,0 +1,115 @@
+job_id: 8998829
+title: AI Platform Engineer
+company: eBay
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Cuda
+  - Go
+  - Python
+  - PyTorch
+  - Rust
+  - Sglang
+  - Triton
+  - Vllm
+company_size: 26,035 Employees
+description: |
+  At eBay, we're more than a global ecommerce leader — we’re
+  changing the way the world shops and sells. Our platform
+  empowers millions of buyers and sellers in more than 190
+  markets around the world. We’re committed to pushing
+  boundaries and leaving our mark as we reinvent the future of
+  ecommerce for enthusiasts.
+  
+  Our customers are our compass, authenticity thrives, bold
+  ideas are welcome, and everyone can bring their unique
+  selves to work — every day. We're in this together,
+  sustaining the future of our customers, our company, and our
+  planet.
+  
+  Join a team of passionate thinkers, innovators, and dreamers
+  — and help us connect people and build communities to create
+  economic opportunity for all.
+  
+  As an LLM Inference Engineer on our AI Platform team, you’ll
+  remove the compute-scaling bottleneck for production LLMs.
+  Your job is to make frontier-model inference fast,
+  efficient, reliable, and observable—the “last mile” from
+  GPUs to APIs that products depend on. This role sits at the
+  intersection of HPC, GPU systems, and MLOps, and requires
+  strong intuition for how model architecture, runtimes, and
+  hardware interact. What You’ll Do
+  
+  - Own production inference: Take models from handoff to
+    production-grade serving, including release engineering,
+    capacity planning, cost optimization, and incident
+    response.
+  - Tune inference performance: reduce end-to-end latency and
+    increase throughput across real production traffic
+    patterns.
+  - Optimize runtimes and servers: Scale inference across
+    heterogeneous GPU fleets; optimize stacks such as vLLM,
+    Triton, and related components (e.g., schedulers, KV
+    cache, batching, memory).
+  - Benchmark and measure: Build benchmarking suites, metrics,
+    and tooling to quantify latency, throughput, GPU
+    utilization, memory, and cost.
+  - Reliability and observability: Improve monitoring, tracing,
+    and alerting; participate in incident response and
+    postmortems to harden systems.
+  - Apply and ship new optimizations: Evaluate research and
+    implement pragmatic inference optimizations (e.g.,
+    quantization, paging, kernel/runtimes improvements).
+  - Partner cross-functionally: Work with data science and
+    product teams to translate business requirements into
+    performance and availability SLOs.
+  
+  What We’re Looking For
+  
+  - 5+ years of strong development experience
+  - Experience deploying and operating LLM inference services in
+    production.
+  - Strong production coding skills in Python plus Go or Rust
+    (systems-level implementation and debugging).
+  - Experience with ML frameworks and runtimes: PyTorch, vLLM,
+    SGLang  (and/or TensorRT).
+  - Knowledge of GPU architecture and performance (profiling,
+    memory bandwidth/latency tradeoffs); CUDA/kernel
+    programming is a strong plus.
+  - Solid understanding of LLM inference and optimization
+    techniques: continuous batching, KV cache management,
+    quantization, speculative decoding (nice-to-have), etc.
+  - 3+ years hands-on experience in performance optimization and
+    systems programming for AI/ML workloads.
+  - Demonstrated ability to deliver measurable production
+    improvements (e.g., 2X throughput, lower p95/p99 latency,
+    reduced GPU cost).
+  - Proven skill in root-cause analysis: finding bottlenecks
+    across model, runtime, networking, and infrastructure.
+  
+  Additional Details
+  
+  eBay is an equal opportunity employer. All qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, national origin, sex,
+  sexual orientation, gender identity, veteran status, and
+  disability, or other legally protected status. If you have a
+  need that requires accommodation, please contact us at
+  talent@ebay.com. We will make every effort to respond to
+  your request for accommodation as soon as possible. View our
+  accessibility statement to learn more about eBay's
+  commitment to ensuring digital accessibility for people with
+  disabilities.
+  
+  We use cookies to enhance your experience and may use AI
+  tools for administrative tasks in the hiring process. To
+  learn how we handle your personal data and use AI
+  responsibly, please visit our Talent Privacy Notice, Privacy
+  Center, and AI Hiring Guidelines.
+industries:
+  - eCommerce
+  - Retail
+posted_date: 2026-04-10
+url: "https://builtin.com/job/ai-platform-engineer/8998829"
+source: Built In

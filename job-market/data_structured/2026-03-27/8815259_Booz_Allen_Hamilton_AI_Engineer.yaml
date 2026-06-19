@@ -1,0 +1,50 @@
+company:
+  name: Booz Allen Hamilton
+  stage: Public
+  focus: |-
+    Management and technology consulting for government and
+    defense
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience with generative and
+      agentic AI technologies (LLMs, MCP, LangChain, LangGraph)
+      and involves designing/implementing AI solution
+      architectures. The position involves direct work with AI/ML
+      technologies including deep learning, computer vision, and
+      NLP, not just supporting infrastructure.
+  responsibilities:
+  - Design and implement AI solution architecture using various AI technologies and
+    methods
+  - Address clients' business problems and needs with AI solutions while complying
+    with company strategies
+  - Apply advanced technical expertise and full industry knowledge to projects
+  - Develop innovative solutions to complex AI problems
+  - Work independently without considerable direction
+  - Mentor and supervise team members as needed
+  - Gather requirements from customers and lead Agile teams
+  use_cases:
+  - Client business problem solving using AI solutions
+  - Computer vision applications
+  - Natural language processing systems
+  - Signal processing solutions
+  - Edge computing AI deployments
+  - Defense and government AI applications
+  skills:
+    genai: [LangChain, LangGraph, MCP, LLMs, Cursor, Windsurf]
+    ml: [Deep Learning, CUDA, RAPIDS]
+    web: [Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Edge Computing]
+    languages: [Python, C#, Java, C, C++, Rust]
+    domains: [Computer Vision, NLP, Signal Processing]
+    other: [Agile]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8815259'
+  extracted_at: '2026-03-27T14:53:29.880173'

@@ -1,0 +1,58 @@
+company:
+  name: Capgemini
+  stage: Public
+  focus: |-
+    Global technology consulting and business transformation
+    services
+position:
+  title: AI Product Engineer - Agentic AI Platforms (Financial Services)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, designing, and
+      deploying multi-agent AI systems and Agentic AI platforms
+      using LLMs, LangChain, LangGraph, DSPy, and RAG. The
+      position requires implementing agent architectures, prompt
+      optimization, and production-grade AI services - directly
+      working ON AI systems, not just supporting them.
+  responsibilities:
+  - Partner with Financial Services clients to identify, prioritize, and shape Agentic
+    AI use cases across operations, underwriting, claims, risk, and compliance
+  - Design and implement multi-agent architectures including planner, executor, reviewer/critic,
+    and supervisor agents using LangChain and LangGraph
+  - Apply DSPy and declarative prompt optimization techniques for performance tuning
+    and regression control
+  - Own delivery across the full Agentic SDLC including agent design specifications,
+    prompt versioning, simulation environments, and automated testing
+  - Build production-grade AI services using Python integrating LLM providers and
+    RAG with vector databases
+  - Implement agent observability including tracing, decision logging, and evaluation
+    frameworks for hallucination detection
+  - Design Agentic AI platforms aligned with Financial Services regulatory requirements
+    including auditability and explainability
+  - Provide technical leadership and mentorship to consulting delivery teams and contribute
+    to internal GenAI accelerators
+  use_cases:
+  - Customer operations automation for banks and insurers
+  - Underwriting process automation and decision support
+  - Claims processing and adjudication workflows
+  - Risk assessment and compliance monitoring
+  - Finance operations and reporting automation
+  - Enterprise-wide GenAI platform deployment in regulated financial environments
+  skills:
+    genai: [LangChain, LangGraph, DSPy, OpenAI API, Anthropic Claude, RAG, Multi-agent
+        systems, Prompt engineering]
+    ml: []
+    web: [APIs]
+    databases: [Pinecone, FAISS, Milvus, Weaviate, Vector databases]
+    data: []
+    cloud: []
+    ops: [CI/CD, Agent observability, LangSmith]
+    languages: [Python]
+    domains: [P&C Insurance]
+    other: [Guidewire, DuckCreek, Majesco]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8872285'
+  extracted_at: '2026-03-27T14:31:26.499028'

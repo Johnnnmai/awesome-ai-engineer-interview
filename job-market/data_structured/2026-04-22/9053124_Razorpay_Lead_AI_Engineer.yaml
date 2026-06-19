@@ -1,0 +1,60 @@
+company:
+  name: Razorpay
+  stage: Series F / Late Stage (raised $740M+)
+  focus: |-
+    Full-stack fintech company powering payments and financial
+    services
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is ai-first because it involves building and
+      operating a centralized AI inference platform that directly
+      handles LLM model routing, fallbacks, cost optimization, and
+      quality observability. While it's a platform role, the
+      engineer is working directly ON the infrastructure that
+      orchestrates and serves AI/LLM models — designing routing
+      rules based on token economics, building model gateways, and
+      managing LLM-specific infrastructure like shadow testing for
+      model swaps.
+  responsibilities:
+  - Build and operate a unified model gateway that abstracts provider complexity for
+    internal product teams, handling routing, provider selection, and fallback logic
+  - Design and implement intelligent routing that matches each request to the right
+    model based on task complexity, latency requirements, and cost targets
+  - Build resilience into the platform to handle provider outages, rate limits, and
+    latency spikes transparently for agentic workflows
+  - Own the observability layer across all AI-powered products including cost per
+    call, latency distributions, token usage, and quality signals
+  - Build infrastructure for safe model transitions including shadow testing, output
+    comparison, and gradual rollouts with automated quality checks
+  - Drive continuous cost efficiency through caching strategies, request optimization,
+    and per-team spend attribution
+  - Work directly with ML engineers and product teams to shape org-wide model selection,
+    cost, and quality decisions
+  use_cases:
+  - AI-native agentic payments processing
+  - AI-assisted fraud detection and real-time risk intelligence
+  - Agent-powered onboarding and dashboard experiences
+  - Automated reconciliation and smart payouts
+  - Predictive financial insights for businesses
+  - Centralized LLM inference orchestration for all agentic products
+  skills:
+    genai: [LiteLLM, Portkey, Langfuse, LangChain, LLM API routing and orchestration,
+      Prompt engineering]
+    ml: []
+    web: [API Gateway design, REST APIs]
+    databases: []
+    data: [Caching strategies, A/B testing]
+    cloud: []
+    ops: [Kubernetes, Prometheus, Grafana, OpenTelemetry, Docker, Distributed systems,
+      Load balancing, Circuit breakers, GPU workload scheduling, ML serving infrastructure]
+    languages: [Go, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9053124'
+  extracted_at: '2026-04-22T13:16:30.096782'

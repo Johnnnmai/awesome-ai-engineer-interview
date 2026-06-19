@@ -1,0 +1,54 @@
+company:
+  name: Blue Yonder
+  stage: null
+  focus: |-
+    Enterprise AI/ML platforms and supply chain software
+    solutions
+position:
+  title: Sr Support Engineer 1 – AI, LLM, Python, ML
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building and supporting MLOps
+      infrastructure and pipelines rather than directly working on
+      AI/ML models. The engineer enables data scientists by
+      operationalizing their models and managing the
+      platform/infrastructure layer, which is support work rather
+      than hands-on model building or fine-tuning.
+  responsibilities:
+  - Design, implement, and support AI/ML pipelines for training, testing, deployment,
+    and inference workflows
+  - Build and maintain MLOps frameworks for model versioning, experiment tracking,
+    and reproducibility
+  - Develop automation for model deployment, rollback, scaling, and lifecycle management
+  - Establish model monitoring frameworks for performance, drift detection, data quality,
+    and reliability
+  - Collaborate with Data Scientists to operationalize models into production-ready
+    systems
+  - Troubleshoot production issues related to AI models, pipelines, and infrastructure;
+    perform root cause analysis
+  - Implement logging, observability, and alerting mechanisms for AI services
+  - Support governance requirements such as model traceability, auditability, and
+    version control
+  use_cases:
+  - Enterprise-scale AI/ML platform operations
+  - Model lifecycle management from training to inference
+  - Production AI system stability and observability
+  - AI governance and compliance automation
+  - Standardized AI deployment and operations across the organization
+  skills:
+    genai: [OpenAI, LLMs, Generative AI]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Azure ML, Azure DevOps, MS Azure]
+    ops: [MLflow, CI/CD, Git, Docker, Kubernetes, Model Monitoring, Experiment Tracking]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8786802'
+  extracted_at: '2026-03-27T15:45:04.916290'

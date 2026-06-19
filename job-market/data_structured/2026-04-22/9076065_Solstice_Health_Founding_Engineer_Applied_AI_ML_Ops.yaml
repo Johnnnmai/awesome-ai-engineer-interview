@@ -1,0 +1,52 @@
+company:
+  name: Solstice Health
+  stage: Seed
+  focus: |-
+    Commercial engine for pharmaceutical marketing content
+    supply chain
+position:
+  title: Founding Engineer (Applied AI & ML Ops)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly responsible for building and deploying
+      AI/ML systems — specifically LLM pipelines, RAG
+      architectures, agents, and ML Ops infrastructure. The
+      engineer will work hands-on with prompt engineering, model
+      experimentation, and production deployment of LLM-based
+      solutions, making this an ai-first role.
+  responsibilities:
+  - Leverage prompt engineering, RAG, model experimentation, and benchmarking to optimize
+    platform performance on biopharma marketing data
+  - Build and maintain complex LLM pipelines that process proprietary commercial and
+    marketing data to produce compliant life sciences content
+  - Implement ML Ops best practices including CI/CD for ML, model versioning, automated
+    testing, and monitoring
+  - Develop LLM evaluation infrastructure to store, analyze, and iterate on LLM outputs
+    and client feedback
+  - Scope, architect, and build state-of-the-art agents and pipelines while supporting
+    customers directly
+  - Flex across the full stack (frontend, backend, infra) to build whatever is necessary
+    to support customers
+  use_cases:
+  - Automated generation of compliant life sciences marketing content using LLMs
+  - RAG-based retrieval and processing of biopharma commercial and brand data
+  - LLM-powered content supply chain optimization for pharmaceutical marketers
+  - Agentic AI pipelines for marketing content production and review
+  - LLM evaluation and benchmarking for quality assurance in regulated industries
+  skills:
+    genai: [Prompt Engineering, RAG, LLM Agents, GPT, Claude, Gemini, LLM Evaluation]
+    ml: []
+    web: [FastAPI]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Docker, CI/CD, Model Versioning, Automated Testing, Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Full-Stack Development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9076065'
+  extracted_at: '2026-04-22T13:00:17.001062'

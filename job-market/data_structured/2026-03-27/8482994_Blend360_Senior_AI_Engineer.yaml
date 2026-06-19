@@ -1,0 +1,47 @@
+company:
+  name: Blend360
+  stage: Unknown
+  focus: AI services provider offering data science and AI solutions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying AI
+      systems including RAG implementations, agentic frameworks
+      (LangChain, CrewAI), prompt engineering, and fine-tuning
+      techniques. The position requires direct development of AI
+      applications and solutions, not just supporting
+      infrastructure.
+  responsibilities:
+  - Design, develop, and deploy scalable AI solutions
+  - Implement Retrieval-Augmented Generation (RAG) and fine-tuning techniques
+  - Build and manage agentic frameworks using LangChain, CrewAI, and Google ADK
+  - Apply advanced prompt engineering techniques to solve complex problems with LLMs
+  - Implement MLOps best practices to streamline AI development workflows
+  - Monitor and trace AI application performance
+  - Collaborate across teams to align AI systems with traditional ML methodologies
+  - Work on end-to-end software engineering for scalable solutions
+  use_cases:
+  - Retrieval-Augmented Generation systems
+  - Agentic AI frameworks and multi-agent systems
+  - Enterprise AI application development
+  - LLM-based solution deployment
+  - AI performance monitoring and optimization
+  skills:
+    genai: [LangChain, CrewAI, Google ADK, RAG, Prompt Engineering, Fine-tuning]
+    ml: [Machine Learning fundamentals]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure OpenAI Service, Azure Machine Learning, Azure AI Search, Azure Cognitive
+        Search, Azure Data & Compute]
+    ops: [MLOps, CI/CD, Model deployment, Model monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8482994'
+  extracted_at: '2026-03-27T14:26:23.292867'

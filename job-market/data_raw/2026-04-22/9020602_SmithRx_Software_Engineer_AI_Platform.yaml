@@ -1,0 +1,150 @@
+job_id: 9020602
+title: Software Engineer, AI, Platform
+company: SmithRx
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - Docker
+  - Go
+  - GraphQL
+  - JavaScript
+  - Kubernetes
+  - Llm Apis
+  - Node.js
+  - SQL
+  - Typescript
+description: |
+  Who We Are:
+  
+  SmithRx is a rapidly growing, venture-backed Health-Tech
+  company.  Our mission is to disrupt the expensive and
+  inefficient Pharmacy Benefit Management (PBM) sector by
+  building a next-generation drug acquisition platform driven
+  by cutting edge technology, innovative cost saving tools,
+  and best-in-class customer service.  With hundreds of
+  thousands of members onboarded since 2016, SmithRx has a
+  solution that is resonating with clients all across the
+  country.
+  
+  We pride ourselves for our mission-driven and collaborative
+  culture that inspires our employees to do their best work.
+  We believe that the U.S healthcare system is in need of
+  transformation, and we come to work each day dedicated to
+  making that change a reality. At our core, we are guided by
+  our company values:
+  
+  - Integrity: Our purpose guides our actions and gives us
+    confidence in the path ahead. With unwavering honesty and
+    dependability, we embrace the pressure of challenging the
+    old and exemplify ethical leadership to create the new.
+  - Courage: We face continuous challenges with grit and
+    resilience. We embrace the discomfort of the unknown by
+    balancing autonomy with empathy, and ownership with
+    vulnerability. We boldly challenge the status quo to keep
+    moving forward—always.
+  - Together: The success of SmithRx reflects the strength of
+    our partnerships and the commitment of our team. Our
+    shared values bind us together and make us one. When one
+    falls, we all fall; when one rises, we all rise.
+  
+  Job Summary:
+  
+  As a Software Engineer, AI, you will be a key contributor in
+  SmithRx’s mission to build a next-generation, AI-native
+  pharmacy benefits platform. This is not a traditional MLE
+  role; we are looking for a product-focused, versatile
+  engineer who can help bridge the gap between cutting-edge
+  LLM capabilities and reliable, production-grade software.
+  You will help build and scale systems that leverage the
+  power of AI while maintaining the deterministic rigor
+  required for healthcare and financial transactions. You will
+  apply engineering best practices, coding standards, and
+  collaborate closely with the team on system design. We need
+  our engineers to be adaptable and driven, display strong
+  ownership qualities, and be enthusiastic to take on new
+  challenges as we continue to push technology forward.
+  
+  What you will do:
+  
+  - Develop and Maintain: Focus on discovering, designing,
+    developing, and maintaining SmithRx product features using
+    a varied technology stack such as Golang,
+    JavaScript/TypeScript, Node, GraphQL, and SQL (amongst
+    others), while leveraging CI/CD to iterate quickly.
+  - Collaborate on Design: Work with technical leads, senior
+    engineers, and stakeholders to translate requirements into
+    high-quality, AI-native software, actively contributing to
+    technical design and scoping discussions.
+  - Build the Stochastic/Deterministic Bridge: Help implement
+    the "safety rails" around LLMs, writing deterministic
+    software that effectively manages, validates, and wraps
+    the stochastic nature of AI models to ensure accuracy in
+    healthcare data.
+  - Uphold Best Practices: Consistently apply software
+    development best practices, design patterns, testing, and
+    automation, utilizing emerging AI technologies like
+    Claude-code, Copilot, or similar tools to accelerate
+    development.
+  - Leverage Cloud Infrastructure: Utilize AWS technologies,
+    like Lambda, Managed Kafka, and EKS, to handle various
+    types of jobs and batch processing.
+  - Support Production: Troubleshoot production issues by
+    participating in bug triage, assessing impact, and
+    collaborating with the team to implement short-term
+    mitigations and long-term root cause fixes.
+  - Drive Team Excellence: Foster a collaborative learning
+    culture by actively participating in code reviews, sharing
+    knowledge, and exploring innovative technologies alongside
+    the engineering team.
+  
+  What you will bring to SmithRx:
+  
+  - BS degree in computer science or applicable experience.
+  - 3-5 years of software development experience working on
+    server-side applications, specifically around API servers,
+    third-party integrations, and data processing.
+  - Strong experience in a compiled language such as GoLang or
+    Java is required.
+  - Proficiency with relational databases such as PostgreSQL,
+    including schema design and query optimization, is
+    required.
+  - Working knowledge of GraphQL APIs, CI/CD pipelines, the AWS
+    platform, Docker, and Kubernetes is a plus.
+  - AI Integration Experience: Familiarity or hands-on
+    experience with Agentic Frameworks, MCP, LLM APIs
+    (Anthropic/OpenAI), and basic Prompt Engineering/Evals.
+  - Communication: A collaborative approach to engineering,
+    capable of explaining technical trade-offs to teammates
+    and working effectively within a distributed team.
+  - Engineering Mindset: Ability to write clean, maintainable
+    code with an understanding of system performance, while
+    successfully navigating the ambiguity of a high-growth
+    startup.
+  - Positivity; non-dogmatic, team-first attitude.
+  - Flexibility; someone who is responsive and comfortable with
+    ambiguity.
+  - Experience at a high-growth startup is a plus.
+  
+  What SmithRx Offers You:
+  
+  - Highly competitive wellness benefits including Medical,
+    Pharmacy, Dental, Vision, and Life Insurance and AD&D
+    Insurance
+  - Flexible Spending Benefits
+  - 401(k) Retirement Savings Program
+  - Short-term and long-term disability
+  - Discretionary Paid Time Off
+  - Paid Company Holidays
+  - Wellness Benefits
+  - Commuter Benefits
+  - Paid Parental Leave benefits
+  - Employee Assistance Program (EAP)
+  - Well-stocked kitchen in office locations
+  - Professional development and training opportunities
+  
+  Location: US Remote
+posted_date: 2026-04-11
+url: "https://www.builtinla.com/job/software-engineer-ai-platform/9020602"
+source: Built In

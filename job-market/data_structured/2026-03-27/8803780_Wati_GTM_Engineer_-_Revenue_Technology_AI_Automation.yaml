@@ -1,0 +1,54 @@
+company:
+  name: Wati
+  stage: Series B
+  focus: |-
+    WhatsApp-first conversational growth platform for business
+    customer engagement
+position:
+  title: GTM Engineer - Revenue Technology (AI & Automation)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building of AI-powered systems
+      for lead qualification, enrichment, buying signal detection,
+      and intelligent automation. The tech stack includes LLM
+      APIs, prompt engineering, and AI agents, and the engineer
+      will actively develop AI-driven systems that automate
+      decision-making across GTM workflows.
+  responsibilities:
+  - Design and build systems to automate lead routing, pipeline movement, and lifecycle
+    workflows
+  - Build AI-powered systems to qualify and enrich leads, detect buying signals, and
+    prioritize accounts
+  - Create real-time signals for sales, expansion, and retention with deal risk surfacing
+    and next-best action recommendations
+  - Own systems end-to-end from discovery through build, rollout, adoption, and iteration
+  - Build sales automation workflows, account intelligence systems, and pipeline infrastructure
+  - Develop expansion and churn detection engines
+  - Transform CRM, product usage, campaign, and conversation data into actionable
+    insights with real-time intelligence
+  - Continuously improve conversion rates, speed to lead, pipeline velocity, and sales
+    productivity
+  use_cases:
+  - Automated lead qualification and enrichment using AI
+  - Buying signal detection and account prioritization
+  - Deal risk identification and next-best action recommendations
+  - Churn prediction and expansion opportunity detection
+  - Intelligent automation of GTM decision-making workflows
+  - Real-time revenue intelligence and insights generation
+  skills:
+    genai: [LLM APIs, Prompt Engineering, AI Agents]
+    ml: []
+    web: [REST APIs, Webhooks]
+    databases: []
+    data: [BI tools]
+    cloud: []
+    ops: []
+    languages: [JavaScript, Python, Node.js, SQL]
+    domains: []
+    other: [Clay, Zapier, Make, n8n, HubSpot, Intercom, Stripe, Chargebee, CRM platforms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8803780'
+  extracted_at: '2026-03-27T13:38:06.273290'

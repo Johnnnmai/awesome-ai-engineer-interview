@@ -1,0 +1,55 @@
+company:
+  name: NewRocket
+  stage: Unknown
+  focus: |-
+    AI-powered workflow solutions and consulting for ServiceNow
+    enterprise ecosystems
+position:
+  title: Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed AI Engineer role focused on
+      deploying and implementing AI solutions directly with
+      customers. The role involves hands-on work with agentic AI
+      workflows, LLM integrations, RAG systems, and AI-powered
+      automations - actively building and deploying AI systems,
+      not just supporting infrastructure.
+  responsibilities:
+  - Deploy and configure agentic AI workflows and AI-powered automations within client
+    ServiceNow environments
+  - Translate customer business requirements into technical architectures and implementation
+    plans
+  - Build demos, prototypes, and proof-of-concept implementations to validate AI-driven
+    workflows with clients
+  - Implement and integrate NewRocket Agent Packs and AI solutions into enterprise
+    environments
+  - Develop integrations between ServiceNow, enterprise systems, APIs, and AI services
+  - Implement AI orchestration, LLM integrations, and agentic decision models
+  - Contribute to development of NewRocket's AI platforms including Intelligence Platform
+    and Data Intelligence Platform
+  - Diagnose and resolve technical issues across AI workflows, integrations, and automation
+    pipelines
+  use_cases:
+  - Agentic AI workflows for enterprise automation
+  - AI-powered ServiceNow workflow integrations
+  - Intelligent automation and decision models
+  - RAG systems and semantic retrieval for enterprise data
+  - AI orchestration and LLM integrations in enterprise environments
+  - Reusable AI solution accelerators and agent packs
+  skills:
+    genai: [RAG systems, LLM integrations, Agentic AI workflows, Prompt engineering]
+    ml: [Embeddings]
+    web: [REST APIs, Microservices]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [ServiceNow scripting, JavaScript, TypeScript, Python]
+    domains: []
+    other: [ServiceNow, Enterprise integrations]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8857516'
+  extracted_at: '2026-03-27T15:17:48.709354'

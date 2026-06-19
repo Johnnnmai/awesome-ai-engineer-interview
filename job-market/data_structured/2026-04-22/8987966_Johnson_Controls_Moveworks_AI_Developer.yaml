@@ -1,0 +1,49 @@
+company:
+  name: Johnson Controls
+  stage: Public
+  focus: |-
+    Building technology and solutions for HVAC, fire, and
+    security systems
+position:
+  title: Moveworks AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on configuration and enhancement of
+      the Moveworks AI Assistant/chatbot, including configuring AI
+      paths, conversations, skills, and plugins. While it's more
+      of a configuration/development role on an existing AI
+      platform rather than building models from scratch, it
+      directly involves deploying and tuning an AI agent system
+      for HR use cases.
+  responsibilities:
+  - Configure and enhance the Moveworks AI Assistant/Chatbot for HR processes
+  - Partner with ServiceNow and Workday technical teams to support and maintain integrations
+  - Analyze chatbot interaction data and update AI Assistant skills
+  - Configure Moveworks paths and conversations based on defined requirements
+  - Enable and support Moveworks plugins and platform features
+  - Coordinate with Moveworks support on technical issues and platform-related questions
+  - Support enhancement delivery from concept through deployment including testing
+    coordination
+  - Document technical configurations, system changes, and enhancement activities
+  use_cases:
+  - HR process automation including onboarding and offboarding
+  - Employee self-service via AI-powered chatbot
+  - HR case management and inquiry resolution
+  - Integration of AI assistant with ServiceNow HR workflows and Workday HR data
+  skills:
+    genai: [Moveworks, Chatbot configuration]
+    ml: []
+    web: [ServiceNow, Workday, API integrations, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Unit testing, Integration testing]
+    languages: [SQL, Python]
+    domains: []
+    other: [Enterprise SaaS platforms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8987966'
+  extracted_at: '2026-04-22T14:15:30.969562'

@@ -1,0 +1,52 @@
+company:
+  name: PhysicsX
+  stage: Deep-tech company with roots in numerical physics and Formula One
+  focus: |-
+    AI-driven simulation software for engineering and
+    manufacturing industries
+position:
+  title: Senior AI Engineer - Applied
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying AI agents that
+      solve complex reasoning tasks using LLMs, tools, and data.
+      The engineer will design and implement agentic workflows,
+      work with agentic frameworks, and build production AI
+      solutions - all hands-on work with AI/agent systems.
+  responsibilities:
+  - Build and orchestrate AI Agents that chain LLMs, tools, and data to solve complex
+    reasoning tasks
+  - Design and implement complex agents leveraging surrogates and simulation tools
+    for customer problems
+  - Act as Customer Zero by dogfooding internal platform and providing feedback to
+    improve Developer Experience
+  - Implement systematic evaluation loops and deep tracing to ensure agents are reliable
+    and robust
+  - Drive product strategy by identifying common patterns across customers and deciding
+    platform vs application layer functionality
+  - Collaborate with domain experts like physicists to understand and codify their
+    mental models into agents
+  use_cases:
+  - Multi-physics simulation and engineering design optimization
+  - Manufacturing workflow automation and optimization
+  - Aerospace engineering simulation and design
+  - Semiconductor engineering challenges
+  - Deep learning surrogates for massive engineering problems
+  - Hardware innovation acceleration across advanced industries
+  skills:
+    genai: [AI Agents, LLMs, Agentic Frameworks]
+    ml: [Deep Learning]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [Kubernetes, Docker, Terraform, OTel, Agent Tracing]
+    languages: [Python, Go, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8787988'
+  extracted_at: '2026-03-27T15:10:43.649590'

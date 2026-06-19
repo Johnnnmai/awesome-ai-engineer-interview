@@ -1,0 +1,56 @@
+company:
+  name: DevRev
+  stage: Series B+
+  focus: |-
+    AI-native platform unifying data sources, tools, and
+    workflows with agentic actions
+position:
+  title: AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-powered platforms, designing
+      AI solutions, implementing LLM-based test generation
+      systems, and creating internal AI copilots. The candidate
+      will actively work with LLMs, intelligent agents, and AI-
+      powered tools - directly building and deploying AI systems,
+      not just supporting them.
+  responsibilities:
+  - Use AI and intelligent agents to accelerate test generation, test maintenance,
+    and coverage expansion
+  - Leverage LLMs to convert requirements, user stories, and production incidents
+    into automated test cases
+  - Design and implement robust API and system architecture for new AI applications
+  - Build or extend internal AI copilots to assist with test creation, debugging failures,
+    and analyzing logs and traces
+  - Evaluate and integrate AI-powered tools for test generation, flakiness detection,
+    and self-healing tests
+  - Establish coding standards, branching strategies, and review guidelines for QA
+    automation code
+  - Integrate test execution into CI/CD pipelines with fast feedback loops and real-time
+    reporting
+  - Analyze test failures and production escapes using AI-assisted root cause analysis
+  use_cases:
+  - AI-powered test case generation from requirements and user stories
+  - Intelligent test selection, prioritization, and execution optimization
+  - Automated test maintenance and self-healing tests
+  - AI-driven analytics for risk prediction and test investment guidance
+  - Internal AI copilots for test creation and debugging assistance
+  - Automated alerting with context and recommendations for test failures
+  skills:
+    genai: [LLMs, AI agents, Prompt engineering, Testim, Mabl, Diffblue]
+    ml: []
+    web: [Playwright, REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Git, Allure,
+      ReportPortal, TestRail, Percy, Applitools]
+    languages: [JavaScript, TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8726565'
+  extracted_at: '2026-03-27T16:10:23.458958'

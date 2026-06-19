@@ -1,0 +1,47 @@
+company:
+  name: Light (light.inc)
+  stage: Early-stage (backed by world-class investors, small team defining new category)
+  focus: |-
+    Smart Financial Platform replacing legacy ERPs with modern,
+    automated accounting and financial software
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience building products on
+      top of LLMs with working knowledge of how LLMs behave in
+      production. While it's a generalist engineering role (not
+      purely ML), the AI-native requirement and LLM production
+      experience indicate direct work deploying and building with
+      AI/LLM systems.
+  responsibilities:
+  - Build and ship production-ready software features end-to-end across the full stack
+  - Develop AI-powered products and features on top of large language models
+  - Solve customer problems from idea to production deployment
+  - Work with Kotlin backend and React frontend to deliver financial software
+  - Collaborate with customers to understand needs and iterate quickly
+  - Maintain data integrity in financial systems where accuracy is non-negotiable
+  - Ship early and often with small batches, learning from real user feedback
+  use_cases:
+  - Automated accounting for modern global companies
+  - Real-time financial reporting and analytics
+  - Financial workflow automation that moves at the speed of business
+  - Reconciliation and financial data integrity systems
+  - Modern ERP replacement for enterprise finance operations
+  skills:
+    genai: [LLMs, Agents]
+    ml: []
+    web: [React]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Terraform]
+    languages: [Kotlin, SQL]
+    domains: [Accounting concepts, Fintech systems]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7780832'
+  extracted_at: '2026-03-27T14:56:45.830680'

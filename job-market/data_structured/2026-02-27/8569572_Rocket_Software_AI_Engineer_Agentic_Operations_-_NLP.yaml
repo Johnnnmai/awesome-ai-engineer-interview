@@ -1,0 +1,52 @@
+company:
+  name: Rocket Software
+  stage: Public
+  focus: |-
+    Data modernization and enterprise data management solutions
+    for Fortune 500 companies
+position:
+  title: AI Engineer (Agentic Operations) - NLP
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, fine-tuning, and deploying
+      language models and ML models directly. The job explicitly
+      mentions "building, fine-tuning, and deploying state-of-the-
+      art models" and requires deep expertise in language models,
+      document understanding, and computational linguistics.
+  responsibilities:
+  - Consult with internal and external stakeholders to understand and frame model
+    requirements and potential applications
+  - Design, develop, and deploy machine learning models using distributed ML platforms
+  - Evaluate applicability of current research to problem domain and software solutions
+  - Collaborate with software engineers to integrate trained models into end-user
+    applications
+  - Develop analytic plans based on data sources, business needs, and timelines
+  - Manage deliverables across multiple projects in deadline-driven environments
+  - Present results, insights, and recommendations to technical and non-technical
+    stakeholders
+  - Recommend ongoing improvements to methods and algorithms
+  use_cases:
+  - Document understanding and analysis
+  - Code generation
+  - Information management
+  - Data intelligence
+  - Content automation
+  - Audit and analytics
+  skills:
+    genai: [language models, code generation]
+    ml: [document understanding, computational linguistics, image processing, distributed
+        machine learning]
+    web: []
+    databases: [SQL]
+    data: []
+    cloud: []
+    ops: [Linux]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8569572'
+  extracted_at: '2026-03-03T11:21:06.654082'

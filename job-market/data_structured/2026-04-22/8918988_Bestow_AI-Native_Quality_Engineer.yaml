@@ -1,0 +1,60 @@
+company:
+  name: Bestow
+  stage: Series C+
+  focus: |-
+    Vertical technology platform for life insurance
+    infrastructure and carrier modernization
+position:
+  title: AI-Native Quality Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves prototyping AI-assisted specification
+      generation, experimenting with prompt-driven verification
+      workflows, semantic regression detection, and integrating
+      AI-assisted tooling into test generation and failure
+      analysis. While it's a quality engineering role, 40% of the
+      work is dedicated to AI-enabled exploration using LLMs,
+      prompt engineering, RAG architectures, and agent frameworks
+      — directly working with and applying AI systems to
+      engineering workflows.
+  responsibilities:
+  - Contribute to API verification using REST testing tools and schema-based checks,
+    and translate structured examples into executable verification artifacts
+  - Support UI and integration test automation aligned with documented behavior, and
+    assist with test data setup and environment readiness
+  - Participate in Example Mapping and specification workshops, translating feature
+    ideas into structured scenarios and acceptance criteria
+  - Apply AI-assisted workflows to improve requirements clarity and consistency, identifying
+    ambiguity before it becomes rework
+  - Prototype AI-assisted approaches to specification generation and experiment with
+    prompt-driven verification workflows
+  - Explore semantic regression detection techniques and evaluate machine-interpretable
+    documentation strategies
+  - Integrate AI-assisted tooling into requirements, test generation, maintenance,
+    failure analysis, and reporting workflows
+  - Contribute to CI/CD verification workflows and improve signal quality from automated
+    feedback loops
+  use_cases:
+  - AI-assisted specification and test case generation from product requirements
+  - Prompt-driven verification workflows for software behavior validation
+  - Semantic regression detection to identify behavioral changes across software versions
+  - Machine-interpretable documentation for life insurance platform
+  - AI-powered failure analysis and reporting for engineering confidence
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, AutoGen, RAG, Prompt Engineering, LLM Experimentation,
+      Embeddings, Agent Pipelines, Structured Output Systems]
+    ml: [Evaluation Harnesses, Benchmarking Workflows]
+    web: [REST API Testing]
+    databases: [Pinecone, Weaviate, pgvector]
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [Behavior-Driven Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8918988'
+  extracted_at: '2026-04-22T12:28:28.895311'

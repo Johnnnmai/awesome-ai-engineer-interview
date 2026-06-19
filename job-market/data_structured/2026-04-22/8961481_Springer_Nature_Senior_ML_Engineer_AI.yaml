@@ -1,0 +1,52 @@
+company:
+  name: Springer Nature
+  stage: Public
+  focus: Academic publishing and research discovery solutions
+position:
+  title: Senior ML Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing, developing,
+      deploying, and fine-tuning AI/ML models including LLMs and
+      RAG applications. The engineer is hands-on with model
+      training, optimization, and deployment at scale, which
+      clearly qualifies as working directly ON AI/ML systems.
+  responsibilities:
+  - Design, develop, and deploy end-to-end AI/ML solutions ensuring scalability, efficiency,
+    and robustness
+  - Lead AI/ML initiatives collaborating with cross-functional teams including data
+    scientists, software engineers, and product managers
+  - Architect and optimize AI infrastructure including data pipelines, model training
+    workflows, and deployment systems
+  - Evaluate, benchmark, and fine-tune AI/ML models for optimal production performance
+  - Drive innovation by researching and implementing cutting-edge AI technologies
+    including Generative AI and LLMs
+  - Implement best practices for model monitoring, retraining, and maintenance
+  - Lead integration of AI/ML models into Springer Nature platforms to enhance user
+    experiences
+  - Develop and contribute to AI governance frameworks ensuring ethical and responsible
+    AI practices
+  use_cases:
+  - Enhancing the academic publishing cycle with AI-driven automation
+  - Improving operational efficiency and decision-making in editorial workflows
+  - Streamlining data accuracy and enabling new capabilities for researchers and educators
+  - Scientific discovery acceleration for the research community
+  - RAG-based applications for research knowledge retrieval and verification
+  - Intelligent decision-making across Springer Nature platforms
+  skills:
+    genai: [LLMs, RAG, Generative AI]
+    ml: [Model fine-tuning, Deep Learning, Machine Learning, Model training and optimization]
+    web: []
+    databases: []
+    data: []
+    cloud: [Google Cloud, AWS, Azure]
+    ops: [Docker, Kubernetes, CI/CD, Git, Model monitoring, Model deployment]
+    languages: [Python, R]
+    domains: [NLP, Computer Vision]
+    other: [Data Structures and Algorithms]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8961481'
+  extracted_at: '2026-04-22T13:32:01.825889'

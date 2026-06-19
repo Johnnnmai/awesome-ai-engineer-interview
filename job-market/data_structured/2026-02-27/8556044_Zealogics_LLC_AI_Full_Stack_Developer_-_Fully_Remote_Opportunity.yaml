@@ -1,0 +1,45 @@
+company:
+  name: Zealogics LLC
+  stage: null
+  focus: null
+position:
+  title: AI Full Stack Developer - Fully Remote Opportunity
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on implementation of LLM-powered
+      platforms, RAG pipelines, and AI agent frameworks. The
+      developer will directly build and deploy Generative AI and
+      Agentic AI systems, working with models and AI frameworks as
+      a core responsibility.
+  responsibilities:
+  - Architect and build enterprise-grade Generative AI and Agentic AI applications
+  - Implement LLM-powered platforms and RAG pipelines
+  - Develop AI agent frameworks using LangChain, CrewAI, and AutoGen
+  - Build cloud-native microservices using Azure and AWS
+  - Design and implement full-stack applications with .NET, Python, and Node.js
+  - Create and manage CI/CD pipelines and secure cloud infrastructures
+  - Work with vector search and AI/ML tools and frameworks
+  use_cases:
+  - Enterprise-grade Generative AI applications
+  - RAG-powered intelligent search and retrieval
+  - AI agent systems for automation
+  - Cloud-native AI microservices
+  - Intelligent and scalable business solutions
+  skills:
+    genai: [LangChain, CrewAI, AutoGen, Semantic Kernel, Azure OpenAI, Azure AI Foundry,
+      RAG, LLMs, Vector Search]
+    ml: [Hugging Face, TensorFlow, PyTorch, Keras]
+    web: [Angular, React]
+    databases: [SQL Server, PostgreSQL, Oracle, MySQL, MongoDB, Cosmos DB]
+    data: []
+    cloud: [Azure ML, Azure Cognitive Services, Azure AI Search, AWS]
+    ops: [CI/CD, DevSecOps, Cloud Infrastructure]
+    languages: [.NET, C#, Python, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8556044'
+  extracted_at: '2026-03-03T12:42:24.819695'

@@ -1,0 +1,53 @@
+company:
+  name: Seek (seekinsights.com)
+  stage: Seed
+  focus: |-
+    Marketplace for data apps and secure data application
+    exchange platform
+position:
+  title: Senior Software Engineer - Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing backend services and APIs that
+      integrate AI models, creating AI-powered workflows
+      (conversational querying, guided analytics), and connecting
+      AI features to the platform. With hands-on LLM integration
+      and RAG pipelines as key requirements, this is direct AI
+      implementation work.
+  responsibilities:
+  - Build full stack features with React, Python, and modern APIs that deliver high-quality
+    user experiences
+  - Design backend services and APIs that integrate AI models and external AI services
+    into the platform
+  - Create intuitive workflows powered by AI including conversational querying, assisted
+    discovery, and guided analytics
+  - Connect AI-driven features to Snowflake and the semantic modeling layer for seamless
+    data-driven apps
+  - Contribute to app store experiences with AI-powered recommendations and publishing
+    flows
+  - Ensure reliability at scale with strong testing, CI/CD pipelines, and observability
+  - Collaborate with product, design, and engineering peers to turn AI opportunities
+    into customer-ready features
+  use_cases:
+  - Natural language search for data applications
+  - Conversational querying and assisted data discovery
+  - Guided analytics workflows
+  - AI-powered app recommendations for marketplace
+  - Intelligent recommendations within the Insight Cloud platform
+  skills:
+    genai: [OpenAI API, Anthropic API, RAG pipelines, Agent frameworks]
+    ml: []
+    web: [React, REST APIs, API design]
+    databases: [Snowflake]
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8574428'
+  extracted_at: '2026-03-03T12:29:59.453019'

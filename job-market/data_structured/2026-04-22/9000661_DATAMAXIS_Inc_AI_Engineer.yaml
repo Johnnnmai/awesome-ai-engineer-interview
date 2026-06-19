@@ -1,0 +1,49 @@
+company:
+  name: DATAMAXIS, Inc
+  stage: unknown
+  focus: Enterprise AI solutions using Microsoft ecosystem
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI-
+      powered systems including RAG pipelines, AI search
+      experiences, and autonomous/assisted agents using Azure
+      OpenAI services. The engineer is hands-on with embeddings,
+      vector search, prompt engineering, and end-to-end AI system
+      design, which clearly places it in the ai-first category.
+  responsibilities:
+  - Design and build intelligent applications powered by AI
+  - Operationalize AI-powered search experiences using Azure AI Search
+  - Build and deploy autonomous and assisted AI agents
+  - Implement end-to-end AI search and agent systems
+  - Design and build ingestion pipelines including chunking and metadata enrichment
+  - Implement RAG pipelines with Azure OpenAI Service
+  - Performance tuning for latency, token optimization, embeddings, and caching
+  - Integrate with Azure cloud architecture services (App Service, AKS, Key Vault,
+    Monitor, DevOps)
+  use_cases:
+  - AI-powered enterprise search experiences
+  - Autonomous and assisted AI agents
+  - RAG-based question answering and information retrieval
+  - Intelligent document processing with ingestion pipelines
+  - Enterprise productivity apps integrated with Microsoft 365
+  skills:
+    genai: [Azure OpenAI Service, Embeddings, Azure AI Search, RAG pipelines, Prompt
+        Engineering]
+    ml: [Azure Machine Learning]
+    web: []
+    databases: [Vector search]
+    data: [Ingestion pipelines]
+    cloud: [Azure Cloud Architecture, Azure App Service, Azure Kubernetes Service
+        (AKS), Azure Key Vault]
+    ops: [Azure DevOps, Azure Monitor, Performance tuning]
+    languages: [.NET]
+    domains: []
+    other: [Power Platform, Power Automate, Microsoft Graph API, Microsoft 365 integration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9000661'
+  extracted_at: '2026-04-22T12:56:32.710724'

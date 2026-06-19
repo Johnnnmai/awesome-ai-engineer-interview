@@ -1,0 +1,49 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Data Engineer - Python, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly involves building and maintaining NLP
+      pipelines using Flair, BERT, and LLM-based models, as well
+      as deploying ML models with MLflow. The candidate is hands-
+      on with model inference APIs and NLP preprocessing, making
+      this an ai-first role focused on building and deploying
+      AI/NLP systems.
+  responsibilities:
+  - Develop and optimize ETL/data processing jobs using PySpark, Pandas, PyArrow,
+    and related libraries
+  - Build and maintain NLP pipelines using Flair, BERT, and LLM-based models
+  - Develop scalable ingestion and data transformation pipelines for AI and analytics
+    use cases
+  - Build and maintain Flask-based APIs for model inference and service integrations
+  - Manage and deploy ML models using MLflow for tracking and versioning
+  - Support CI/CD workflows using GitHub, LightSpeed Enterprise, and deployment pipelines
+  - Monitor application and system health using ITRS Geneos and maintain Autosys job
+    scheduling
+  - Write unit tests and improve automation test coverage using PyTest and unittest
+  use_cases:
+  - NLP pipeline processing for text analysis and classification
+  - Large-scale data transformation and ingestion for AI workloads
+  - Model inference serving via Flask APIs
+  - Automated ML model tracking and deployment lifecycle management
+  - ETL data processing for analytics and AI-driven applications
+  skills:
+    genai: [LLM frameworks]
+    ml: [Flair, BERT, HuggingFace Transformers, PyTorch, TensorFlow]
+    web: [Flask, FastAPI, REST APIs]
+    databases: [Redis]
+    data: [PySpark, Pandas, PyArrow, Polars, Dask, Airflow, Prefect]
+    cloud: [AWS ECS, boto3]
+    ops: [MLflow, CI/CD, GitHub, Docker, Kubernetes, Linux]
+    languages: [Python]
+    domains: [NLP]
+    other: [PyTest, unittest, Shell scripting, Regular expressions]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8672606'
+  extracted_at: '2026-04-22T12:59:33.495069'

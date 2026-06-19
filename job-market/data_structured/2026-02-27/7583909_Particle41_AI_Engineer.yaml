@@ -1,0 +1,55 @@
+company:
+  name: Particle41
+  stage: null
+  focus: AI/ML consulting and solutions development for clients
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building, training, fine-tuning,
+      and deploying AI/ML models including LLMs, RAG systems, and
+      agentic workflows. The position requires direct work on
+      generative-AI solutions and end-to-end model development
+      from training to production deployment.
+  responsibilities:
+  - 'Lead end-to-end development of AI/ML models: from data ingestion & preprocessing
+    to model training, evaluation, deployment and monitoring'
+  - Build generative-AI solutions (RAG, Agentic Workflows, MCP Servers, Conversation
+    AI Agents) aligned with business goals
+  - Work closely with data engineering teams to build/maintain data pipelines, feature
+    stores and orchestration frameworks
+  - Develop and integrate AI models into production systems (APIs, microservices,
+    cloud deployments)
+  - Optimize models/solutions for performance, scalability, robustness and cost-efficiency
+  - Monitor models/solutions' performance in production (drift, bias, fairness, reliability)
+    and implement remediation
+  - Document model design, experiments, data provenance and solution rationale
+  - Work directly with clients to understand problem statements, translate business
+    requirements into AI solutions, and clearly communicate results
+  use_cases:
+  - RAG-based information retrieval and question answering systems
+  - Agentic workflows and autonomous AI agents
+  - Conversational AI agents for customer interactions
+  - MCP Servers for AI model serving
+  - Text-to-Speech and Speech-to-Text applications
+  - Computer vision, time-series modeling, and multimodal AI solutions
+  skills:
+    genai: [LangChain, LangGraph, RAG, Agentic Workflows, MCP Servers, Conversation
+        AI Agents, Large Language Models (LLMs), Deepgram, ElevenLabs, Cartesia, LiveKit,
+      Agents SDKs]
+    ml: [PyTorch, TensorFlow, scikit-learn, Time-series modeling, ARIMA, Prophet,
+      Deep Learning]
+    web: [REST APIs, Microservices]
+    databases: [Pinecone, FAISS, Vector Databases]
+    data: []
+    cloud: []
+    ops: [MLflow, Kubeflow, SageMaker]
+    languages: [Python]
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7583909'
+  extracted_at: '2026-03-03T11:52:11.738376'

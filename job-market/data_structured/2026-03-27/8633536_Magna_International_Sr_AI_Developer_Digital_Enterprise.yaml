@@ -1,0 +1,57 @@
+company:
+  name: Magna International
+  stage: Public
+  focus: |-
+    Automotive mobility technology and complete vehicle
+    solutions
+position:
+  title: Sr. AI Developer, Digital Enterprise
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work building and
+      deploying AI/ML systems including RAG/agentic workflows,
+      managing training clusters and inference services, and
+      implementing GenAI/vision/NLP solutions. The position owns
+      the end-to-end AI platform lifecycle from infrastructure to
+      production deployment.
+  responsibilities:
+  - Design, build, and maintain AI/ML platform components including training clusters,
+    feature stores, inference services, GenAI, vision, RAG, and NLP systems
+  - Develop and manage infrastructure-as-code for scalable deployments using Terraform
+    and ARM templates
+  - Implement and operate CI/CD pipelines for automated model training, testing, and
+    deployment
+  - Integrate AI services with existing enterprise systems via APIs, messaging, and
+    data pipelines
+  - Monitor performance, reliability, and model drift while establishing alerting
+    and incident-response runbooks
+  - Optimize system performance through capacity planning, performance tuning, and
+    disaster-recovery strategies
+  - Write, review, and maintain high-quality, reusable code and libraries in C#, Python,
+    and Java
+  - Collaborate with cross-functional teams including architects, data scientists,
+    DevOps, and security teams
+  use_cases:
+  - Automotive enterprise AI platform infrastructure
+  - GenAI and vision systems for mobility technology
+  - RAG-based information retrieval and knowledge systems
+  - NLP applications for enterprise automation
+  - Scalable inference services for production AI models
+  skills:
+    genai: [LangChain, LangGraph, RAG, GenAI]
+    ml: [TensorFlow, PyTorch, scikit-learn]
+    web: []
+    databases: []
+    data: [Kafka, Databricks, Beam]
+    cloud: [Azure, Azure Monitor, Azure Data Factory]
+    ops: [Docker, Kubernetes, Helm, Terraform, ARM Templates, Jenkins, GitLab CI,
+      Argo CD, MLflow, Kubeflow, Prometheus, Grafana, ELK Stack]
+    languages: [Python, C#, Java]
+    domains: [Computer Vision, NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8633536'
+  extracted_at: '2026-03-27T15:32:01.727356'

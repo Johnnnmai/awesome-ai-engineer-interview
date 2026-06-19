@@ -1,0 +1,54 @@
+company:
+  name: ReadMe
+  stage: Series A
+  focus: Developer documentation and API experience platform
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building end-to-end AI systems
+      using LLMs, embeddings, retrieval pipelines, and structured
+      outputs. The engineer will design and implement RAG systems,
+      build grounding and retrieval layers, and own production AI
+      features — all hands-on work on AI/ML systems.
+  responsibilities:
+  - Design end-to-end AI systems combining LLMs, embeddings, retrieval pipelines,
+    and structured outputs into reliable product features
+  - Build grounding and retrieval layers indexing docs, OpenAPI specs, and customer
+    data for context-aware generation
+  - Define evaluation systems measuring accuracy, latency, cost, and user impact with
+    feedback loops for continuous improvement
+  - Handle real-world complexity including malformed specs, inconsistent docs, edge-case
+    APIs, and ambiguous user queries
+  - Make architectural tradeoffs between latency vs. quality, cost vs. coverage, and
+    deterministic vs. generative approaches
+  - Own production reliability including observability, fallbacks, rate limiting,
+    and safe degradation
+  - Work across the stack from model orchestration and backend systems to UI surfaces
+    that expose AI features
+  use_cases:
+  - Auto-generated documentation that watches code changes and keeps docs current
+    with PR-level suggestions and org-wide quality audits
+  - Conversational answers embedded in developer hubs grounded in real documentation
+    instead of search results
+  - Making APIs agent-ready by building systems that make API specs understandable
+    by both humans and AI agents
+  - Developer experience improvement through AI-powered interactive documentation
+    hubs
+  skills:
+    genai: [LLMs, RAG, Embeddings, Prompt engineering, Structured outputs]
+    ml: []
+    web: [OpenAPI, JSON, REST APIs]
+    databases: [Vector search]
+    data: []
+    cloud: []
+    ops: [Evaluation systems, Observability, Production reliability]
+    languages: [JavaScript, TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9009587'
+  extracted_at: '2026-04-22T12:34:10.141662'

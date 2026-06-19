@@ -1,0 +1,192 @@
+job_id: 8410032
+title: Senior Software Engineer, AI Products
+company: Airbnb
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Angular
+  - Java
+  - JavaScript
+  - Kotlin
+  - Meteor
+  - Next
+  - Preact
+  - Python
+  - React
+  - Ruby On Rails
+description: |
+  Airbnb was born in 2007 when two hosts welcomed three guests
+  to their San Francisco home, and has since grown to over 5
+  million hosts who have welcomed over 2 billion guest
+  arrivals in almost every country across the globe. Every
+  day, hosts offer unique stays and experiences that make it
+  possible for guests to connect with communities in a more
+  authentic way.
+  
+  The Community You Will Join
+  
+  The Airfam Products team exists to make every Airbnb
+  employee more productive through a unified digital
+  headquarters experience. As part of a 13-person cross-
+  functional team of engineers, designers, researchers, and
+  product managers, you'll work on platforms that serve
+  Airbnb's entire global workforce.
+  
+  Our portfolio includes One Airbnb (the company's internal
+  cultural hub with enterprise search, people profiles, and
+  AI-powered chat), OneChat (Airbnb's enterprise AI assistant
+  enabling secure LLM interactions), and a suite of tools that
+  power how employees discover information, connect with
+  colleagues, and get work done.
+  
+  You'll be joining the AI for Non-Developers workstream,
+  focused on expanding AI productivity tools to all Airbnb
+  employees—building OneChat Agents, deep research
+  capabilities, artifact creation tools, and task automation
+  that make AI accessible to everyone, regardless of technical
+  background.
+  
+  The Difference You Will Make
+  
+  As a Senior Software Engineer on the Airfam Products team,
+  you'll be instrumental in building Airbnb's next generation
+  of AI-powered employee experience platforms. Your work will
+  be a force multiplier for the entire company—every AI
+  feature you ship, every system you architect, and every
+  engineer you mentor will amplify productivity across
+  Airbnb's global workforce.
+  
+  You will:
+  
+  - Democratize AI by building tools that empower non-technical
+    employees to leverage the power of LLMs
+  - Drive innovation by taking AI prototypes from concept to
+    production at scale
+  - Shape the future of how Airbnb employees work, collaborate,
+    and discover information
+  
+  A Typical Day
+  
+  - Lead the technical design and implementation of LLM-powered
+    features for OneChat and enterprise AI tools, including
+    RAG pipelines, agent orchestration, and prompt
+    optimization
+  - Partner with product managers, designers, and cross-
+    functional teams to translate user problems into AI-
+    powered solutions that serve Airbnb's global workforce
+  - Architect and build production-ready AI/ML-integrated
+    systems, ensuring scalability, reliability, and low
+    latency across multi-cloud environments
+  - Develop and iterate on agentic AI capabilities, including
+    multi-step reasoning, tool use, and context-aware
+    decision-making
+  - Implement evaluation pipelines and quality systems to
+    measure model performance, safety, and user satisfaction
+  - Own production AI systems end-to-end, including deployment
+    strategies, monitoring, alerting, and incident response
+  - Collaborate with the DevAI team on AirChat SDK integrations,
+    MCP (Model Context Protocol) implementations, and Glean
+    Action Packs
+  - Mentor engineers (L6-L8) through design reviews,
+    architecture discussions, and pair programming sessions
+  - Stay current with emerging AI technologies and evaluate
+    their applicability to employee experience products
+  - Balance hands-on technical contributions with technical
+    leadership activities
+  
+  Your ExpertiseRequired:
+  
+  - 8+ years of software engineering experience, with
+    significant focus on building production AI/ML systems
+  - Deep understanding of Large Language Models (LLMs) including
+    fine-tuning, prompt engineering, embeddings, and
+    retrieval-augmented generation (RAG)
+  - Strong proficiency in Python and at least one additional
+    language (TypeScript, Go, or Java)
+  - Experience building and deploying production ML systems at
+    scale with high availability and low latency requirements
+  - Strong backend and distributed systems expertise, including
+    API design (REST, GraphQL) and cloud infrastructure (AWS,
+    GCP)
+  - Track record of shipping AI-powered products from prototype
+    to production
+  - Proven ability to collaborate cross-functionally and
+    influence without authority
+  - Excellent communication skills with ability to distill
+    complex technical concepts for diverse audiences
+  - BS in Computer Science, Engineering, or equivalent practical
+    experience
+  
+  Preferred:
+  
+  - Master's or PhD in Computer Science, Machine Learning, or
+    related field
+  - Experience with AI agent frameworks (LangChain, LangGraph,
+    or similar) and agentic development patterns
+  - Experience integrating foundation model APIs (OpenAI,
+    Anthropic/Claude, Google)
+  - Familiarity with ML evaluation systems, including LLM-as-a-
+    judge approaches
+  - Experience with containerization and orchestration
+    (Kubernetes), infrastructure-as-code (Terraform)
+  - Background in building enterprise-grade internal tools and
+    developer productivity platforms
+  - Experience with frontend technologies (React, Next.js) for
+    full-stack AI product development
+  - Publications at top AI/ML venues a plus
+  
+  Your Location:
+  
+  This position is US - Remote Eligible. The role may include
+  occasional work at an Airbnb office or attendance at
+  offsites, as agreed to with your manager. While the position
+  is Remote Eligible, you must live in a state where Airbnb,
+  Inc. has a registered entity. Click here for the up-to-date
+  list of excluded states. This list is continuously evolving,
+  so please check back with us if the state you live in is on
+  the exclusion list . If your position is employed by another
+  Airbnb entity, your recruiter will inform you what states
+  you are eligible to work from.
+  
+  Our Commitment To Inclusion & Belonging:
+  
+  Airbnb is committed to working with the broadest talent pool
+  possible. We believe diverse ideas foster innovation and
+  engagement, and allow us to attract creatively-led people,
+  and to develop the best products, services and solutions.
+  All qualified individuals are encouraged to apply.
+  
+  We strive to also provide a disability inclusive application
+  and interview process. If you are a candidate with a
+  disability and require reasonable accommodation in order to
+  submit an application, please contact us at:
+  reasonableaccommodations@airbnb.com. Please include your
+  full name, the role you’re applying for and the
+  accommodation necessary to assist you with the recruiting
+  process.
+  
+  We ask that you only reach out to us if you are a candidate
+  whose disability prevents you from being able to complete
+  our online application.
+  
+  How We'll Take Care of You:
+  
+  Our job titles may span more than one career level. The
+  actual base pay is dependent upon many factors, such as:
+  training, transferable skills, work experience, business
+  needs and market demands. The base pay range is subject to
+  change and may be modified in the future. This role may also
+  be eligible for bonus, equity, benefits, and Employee Travel
+  Credits.
+  
+  Pay Range
+  
+  $191,000—$223,000 USD
+industries:
+  - Real Estate
+  - Travel
+  - PropTech
+posted_date: 2026-03-26
+url: "https://www.builtinla.com/job/senior-software-engineer-biztech/8410032"
+source: Built In

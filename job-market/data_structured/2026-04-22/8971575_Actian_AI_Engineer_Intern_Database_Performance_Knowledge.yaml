@@ -1,0 +1,45 @@
+company:
+  name: Actian
+  stage: unknown
+  focus: Data management, integration, and analytics solutions
+position:
+  title: AI Engineer Intern, Database Performance Knowledge
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building a RAG (Retrieval-
+      Augmented Generation) pipeline that integrates with an LLM
+      to recommend database configuration changes. The intern will
+      be hands-on with GenAI techniques—specifically RAG
+      architecture and LLM integration—making this an ai-first
+      role.
+  responsibilities:
+  - Design and build a RAG pipeline to retrieve system performance information and
+    administrative documents
+  - Integrate retrieved data with an LLM to generate configuration change recommendations
+    for HCL Informix Database Server
+  - Work with database performance metrics and documentation as knowledge sources
+    for the RAG system
+  - Present capstone project outcomes in the Internship Showcase at the end of the
+    12-week program
+  use_cases:
+  - Database performance optimization through AI-driven configuration recommendations
+  - Automated analysis of system performance data for HCL Informix Database Server
+  - Knowledge retrieval from administrative documents to support database tuning decisions
+  - RAG-powered assistant for database administrators
+  skills:
+    genai: [RAG, LLM integration, Prompt engineering]
+    ml: []
+    web: [REST APIs]
+    databases: [HCL Informix Database Server, Vector databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: [Database performance tuning]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8971575'
+  extracted_at: '2026-04-22T12:51:22.663782'

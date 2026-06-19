@@ -1,0 +1,50 @@
+company:
+  name: Harness
+  stage: Series D+
+  focus: |-
+    AI-powered software delivery platform for testing,
+    deployment, security, and cost optimization
+position:
+  title: Staff Software Engineer - AI Assistant
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building GenAI-powered agentic
+      architecture, implementing RAG and agents for test
+      automation, prompt engineering with LLMs, and integrating
+      directly with AI services (Vertex AI, OpenAI). The engineer
+      will work hands-on building, deploying, and optimizing AI
+      systems.
+  responsibilities:
+  - Drive end-to-end design and implementation of AI-powered features
+  - Design, develop, and maintain integrations with AI and cloud systems including
+    Google Vertex AI, Azure, AWS, and OpenAI
+  - Build GenAI-based agentic architecture for AI-enabled user experience
+  - Apply prompt engineering techniques to leverage LLM capabilities
+  - Collaborate with product management, engineering teams, and ML engineers from
+    requirements through delivery
+  - Design and implement scalable AI services
+  - Develop generative AI-powered agent that automates developer tasks including test
+    case generation and automation test maintenance
+  use_cases:
+  - AI-powered QA assistant for automated test generation
+  - Natural language-driven test automation for web applications
+  - Automated test case generation and maintenance
+  - Reducing manual burden on developers, managers, and QA teams
+  - AI-driven innovation in software delivery lifecycle
+  skills:
+    genai: [OpenAI API, Google Vertex AI, Prompt Engineering, RAG, AI Agents]
+    ml: []
+    web: [REST APIs, RPC]
+    databases: [MongoDB, MySQL, Postgres]
+    data: []
+    cloud: [AWS, Azure]
+    ops: []
+    languages: [Python, JavaScript, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '3219370'
+  extracted_at: '2026-03-03T11:29:01.965464'

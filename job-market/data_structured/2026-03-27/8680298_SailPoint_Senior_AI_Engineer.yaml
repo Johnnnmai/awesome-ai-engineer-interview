@@ -1,0 +1,52 @@
+company:
+  name: SailPoint
+  stage: Public
+  focus: Identity security and governance for cloud enterprises
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      optimizing Generative AI solutions including RAG, fine-
+      tuning, agents, and distillation. The engineer will work
+      hands-on with foundation models, develop AI agents, and
+      optimize AI pipelines from ideation to production
+      deployment.
+  responsibilities:
+  - Design, develop, and deploy cutting-edge AI solutions with focus on Generative
+    AI and autonomous systems
+  - Build and optimize AI pipelines for robust training, evaluation, and deployment
+  - Develop and evaluate AI agents using existing models and tools
+  - Lead development of new foundation model-based capabilities from ideation to deployment
+  - Drive AI innovation by incorporating advancements in FM fine-tuning, prompt engineering,
+    and agent-based systems
+  - Establish frameworks for evaluating GenAI and agent-based features in production
+  - Collaborate with cross-functional teams to identify key use cases for GenAI in
+    identity governance
+  - Deliver integrations between traditional ML and agent-based systems for seamless
+    user experience
+  use_cases:
+  - Identity governance automation using AI
+  - Access management and provisioning decisions
+  - Autonomous identity security workflows
+  - GenAI-powered identity security features
+  - Graph ML for identity relationship analysis
+  - AI-driven visibility into digital workforce access
+  skills:
+    genai: [RAG, fine-tuning, prompt engineering, guardrails, distillation, agent
+        frameworks, LLMs, foundation models]
+    ml: [ML models in production, Graph ML]
+    web: []
+    databases: [Snowflake]
+    data: [Kafka, Airflow]
+    cloud: [AWS, SageMaker, Bedrock]
+    ops: []
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8680298'
+  extracted_at: '2026-03-27T15:23:00.815015'

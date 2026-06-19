@@ -1,0 +1,150 @@
+job_id: 8989370
+title: Senior Gen AI Developer - Vice President
+company: Citi
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ci/Cd
+  - Claude
+  - Deepspeed
+  - Docker
+  - Gemini
+  - Generative Ai
+  - Gptq
+  - Hugging Face
+  - Keras
+  - Kubernetes
+company_size: 223,850 Employees
+description: |
+  We are seeking an experienced Senior Generative AI Developer
+  to help drive the design, development, and integration of
+  state-of-the-art Generative AI solutions across our
+  enterprise Controls Technology platform. You will
+  collaborate with cross-functional teams, contribute deep
+  technical expertise, and play a key role in delivering
+  scalable AI solutions to enhance automation and operational
+  efficiency.
+  
+  Key Responsibilities:
+  
+  - Collaborate with AI architects, leads, and stakeholders to
+    design and implement generative AI solutions that address
+    business challenges.
+  - Develop, fine-tune, and optimize large language models
+    (LLMs), leveraging both parameter-efficient techniques and
+    full fine-tuning where applicable.
+  - Implement and experiment with advanced generative AI
+    methods, including prompt engineering and Retrieval-
+    Augmented Generation (RAG).
+  - Support the integration of AI models into production
+    environments, ensuring robust deployment, scalability, and
+    maintainability.
+  - Contribute to the development and optimization of real-time
+    and streaming AI solutions.
+  - Stay current with the latest advances in generative AI and
+    actively share knowledge with the team.
+  - Ensure adherence to ethical AI guidelines, data privacy, and
+    compliance standards.
+  - Mentor junior team members, provide code reviews, and foster
+    a culture of technical excellence.
+  
+  Required Technical Skills:
+  
+  - Strong hands-on experience with LLMs and fine-tuning methods
+    such as LoRA, QLoRA, Adapter/Prefix Tuning, and
+    instruction tuning.
+  - Practical knowledge of model optimization (compression,
+    quantization) and familiarity with tools such as
+    DeepSpeed, vLLM, GPTQ, or similar.
+  - Proficient in prompt engineering and familiarity with prompt
+    design tools/frameworks.
+  - Experience building RAG systems, including hybrid search and
+    multi-vector retrieval.
+  - Proficient with machine learning frameworks (PyTorch,
+    TensorFlow, Keras) and distributed training.
+  - Strong skills in NLP (NER, Dependency Parsing, Text
+    Classification, Topic Modeling), transfer learning, and
+    advanced learning paradigms.
+  - Experience with containerization (Docker), orchestration
+    (Kubernetes), and CI/CD pipelines for ML models.
+  - Familiarity with generative AI tools like LangChain,
+    LlamaIndex, Langgraph, Crew.ai, Autogen, Hugging Face, and
+    major GenAI APIs (OpenAI, Gemini, Claude, etc.).
+  - Solid understanding of AI compliance, guardrails, and
+    responsible AI practices.
+  - Strong skills in Python and experience with data
+    preprocessing, feature engineering, and API development.
+  
+  Required Soft Skills:
+  
+  - Strong collaboration skills to work effectively in cross-
+    functional teams.
+  - Analytical and proactive approach to problem-solving.
+  - Clear communication skills for both technical and non-
+    technical audiences.
+  - Eagerness to learn, innovate, and mentor less experienced
+    developers.
+  
+  Qualifications:
+  
+  - Bachelor’s or master’s degree in Computer Science, Data
+    Science, AI, or a related field.
+  - 5–7 years of experience in AI/ML, including significant
+    experience in Generative AI.
+  - Demonstrated portfolio of successful AI-driven projects in a
+    business environment.
+  - Experience working with AWS (or equivalent) cloud
+    infrastructure for AI/ML.
+  
+  ------------------------------------------------------
+  
+  Job Family Group:
+  
+  Technology
+  
+  ------------------------------------------------------
+  
+  Job Family:
+  
+  Applications Development
+  
+  ------------------------------------------------------
+  
+  Time Type:
+  
+  Full time
+  
+  ------------------------------------------------------
+  
+  Most Relevant Skills
+  
+  Please see the requirements listed above.
+  
+  ------------------------------------------------------
+  
+  Other Relevant Skills
+  
+  For complementary skills, please see above and/or contact
+  the recruiter.
+  
+  ------------------------------------------------------
+  
+  Citi is an equal opportunity employer, and qualified
+  candidates will receive consideration without regard to
+  their race, color, religion, sex, sexual orientation, gender
+  identity, national origin, disability, status as a protected
+  veteran, or any other characteristic protected by law.
+  
+  
+  
+  If you are a person with a disability and need a reasonable
+  accommodation to use our search tools and/or apply for a
+  career opportunity review Accessibility at Citi. View Citi’s
+  EEO Policy Statement and the Know Your Rights poster.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-04-09
+url: "https://builtin.com/job/senior-gen-ai-developer-vice-president/8989370"
+source: Built In

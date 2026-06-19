@@ -1,0 +1,54 @@
+company:
+  name: Chubb
+  stage: Public
+  focus: |-
+    Global insurance (P&C, life, reinsurance) and risk
+    management
+position:
+  title: Senior Principal AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, deploying, and
+      optimizing Large Language Models (LLMs), including pre-
+      training, fine-tuning, preference alignment, and deployment.
+      The engineer will design and serve LLMs, develop novel
+      datasets for LLM training, and build reusable pipelines for
+      generative AI workflows — all hands-on work on AI/ML model
+      systems.
+  responsibilities:
+  - Design, build, and serve LLMs to solve complex business challenges using Azure
+    CPU and GPU environments
+  - Research and implement state-of-the-art LLM techniques including pre-training,
+    fine-tuning, preference alignment, prompt engineering, and generative AI
+  - Develop novel datasets that enable LLMs to perform new tasks and build tooling/platforming
+    to collect samples at scale
+  - Build reusable pipelines, processes, and tools to streamline LLM and generative
+    AI workflows
+  - Ensure high quality code that meets business objectives, quality standards, and
+    development guidelines
+  - Manage project stakeholder expectations and communicate progress on deliverables
+  - React to shifting priorities without compromising deadlines and momentum
+  use_cases:
+  - AI-enabled digital transformation of P&C insurance globally
+  - LLM-powered automation of insurance business processes
+  - Semantic text extraction and NLP for insurance document understanding
+  - Scalable data processing pipelines for LLM training in the insurance domain
+  skills:
+    genai: ['LLM Engineering (pretraining, fine-tuning, alignment)', Prompt Engineering,
+      Generative AI]
+    ml: [PyTorch, Transformers (HuggingFace), TRL (Transformer Reinforcement Learning),
+      DeepSpeed, 'NLP techniques (text representation, semantic extraction)']
+    web: []
+    databases: []
+    data: [Data processing and collection pipelines]
+    cloud: [Azure (CPU & GPU environments)]
+    ops: [Kubernetes, Docker, Distributed high-throughput low-latency architectures]
+    languages: [Python]
+    domains: [P&C Insurance domain knowledge]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9106109'
+  extracted_at: '2026-04-22T14:06:20.135875'

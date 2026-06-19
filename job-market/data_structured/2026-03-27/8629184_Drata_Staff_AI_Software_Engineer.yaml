@@ -1,0 +1,54 @@
+company:
+  name: Drata
+  stage: Series B+ (implied by $100M ARR in 4 years, 600+ employees)
+  focus: |-
+    Compliance automation and trust management platform for
+    enterprises
+position:
+  title: Staff AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, designing, and owning
+      production LLM systems end-to-end including RAG, agentic
+      workflows, vector databases, and evaluation frameworks. The
+      engineer will work directly on AI architecture decisions,
+      model infrastructure, and workflow orchestration - not just
+      supporting infrastructure for others.
+  responsibilities:
+  - Design and own production AI systems end-to-end including LLM pipelines, RAG,
+    reranking, vector stores, and orchestration
+  - Design evaluation systems that measure retrieval quality, reasoning accuracy,
+    and end-to-end performance
+  - Analyze production outputs to identify failure patterns and root causes, turning
+    findings into technical recommendations
+  - Serve as the go-to technical voice for AI architecture decisions and influence
+    standards for LLM systems
+  - Mentor senior engineers through design reviews and hands-on collaboration
+  - Partner with product and compliance teams to translate domain complexity into
+    technical solutions
+  - Ship systems optimized for latency, cost, reliability, and auditability with safety
+    guardrails and human-in-the-loop workflows
+  - Evolve the AI stack over time from model infrastructure to workflow orchestration
+    to evaluation tooling
+  use_cases:
+  - Automating compliance workflows and trust-critical enterprise processes
+  - Intelligent document retrieval and reasoning for compliance requirements
+  - Enterprise compliance automation and audit trail generation
+  - Trust verification and evidence collection for security certifications
+  skills:
+    genai: [RAG, LLM pipelines, embeddings, reranking, agentic workflows, prompt engineering]
+    ml: [ML/AI systems]
+    web: []
+    databases: [Pinecone, FAISS, Chroma, vector databases, Snowflake]
+    data: [Temporal, Airflow]
+    cloud: []
+    ops: [LLM evaluation platforms, observability and monitoring]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8629184'
+  extracted_at: '2026-03-27T13:51:57.617644'

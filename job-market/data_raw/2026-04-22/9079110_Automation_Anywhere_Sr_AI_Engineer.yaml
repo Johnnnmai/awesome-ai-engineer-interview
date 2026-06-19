@@ -1,0 +1,137 @@
+job_id: 9079110
+title: Sr. AI Engineer
+company: Automation Anywhere
+location: Mumbai, IND
+work_type: FULL_TIME
+level: Mid level
+skills:
+  - AI
+  - Autogen
+  - Automation Anywhere
+  - AWS
+  - Azure
+  - Crewai
+  - GCP
+  - Gemini
+  - Gpt-4
+  - Langchain
+company_size: 6,564 Employees
+description: |
+  About Us
+  
+  Automation Anywhere is the leader in Agentic Process
+  Automation (APA), transforming how work gets done with AI-
+  powered automation. Its APA system, built on the industry’s
+  first Process Reasoning Engine (PRE) and specialized AI
+  agents, combines process discovery, RPA, end-to-end
+  orchestration, document processing, and analytics—all
+  delivered with enterprise-grade security and governance.
+  Guided by its vision to fuel the future of work, Automation
+  Anywhere helps organizations worldwide boost productivity,
+  accelerate growth, and unleash human potential.
+  
+  Job Description
+  
+  - We are looking for a full-stack associate to design,
+    configure, and deploy AI Agents and intelligent automation
+    solutions on an enterprise-grade Automation Anywhere GenAI
+    platform while leveraging RAG (Retrieval-Augmented
+    Generation) as the knowledge foundation for the Automation
+    Anywhere Enterprise Knowledge Base (EKB).
+  - Full-stack knowledge of candidate will be used to integrate
+    upstream full stack bots/APIs and downstream AAA
+    Enterprise RPA Gen1, Gen2 (DocAI), and Gen3 (GenAI) bots,
+    and vice versa.
+  - The Associate will define RAG success criteria (retrieval
+    accuracy, hallucination thresholds) and KPIs; inventory
+    knowledge sources (documents, databases) as an Enterprise
+    Knowledge Base.
+  - Data sourcing plan and design end-to-end Agent flows
+    covering triggers, KB retrieval, LLM calls, and actions.
+  - KB structure (chunking, fine-tuning) will be defined and
+    built using EKB. Prototype prompts and Agents will be
+    developed to produce functional test Chat/Agent
+    prototypes.
+  - Agents and Prompts will be configured with a selected LLM
+    (Gemini/GPT-4) to generate Agent configurations and prompt
+    templates. Downstream API tasks (RPA steps/external calls)
+    will be integrated, followed by UAT deployment (publish
+    Agent/KB).
+  - Upon successful UAT, the solution will be published to
+    Production via the Production Control Room, with BOT/Agent
+    monitoring as part of Hypercare.
+  
+  Qualifications
+  
+  - Education: Bachelor’s or Master’s in Computer Science,
+    AI/ML, Data Science, or equivalent practical experience.
+  - Experience: 1-3 years in software engineering; 1+ years
+    building AI-powered automation solutions in production.
+  - Certifications (Preferred): Cloud AI certifications (AWS,
+    Azure, GCP); RPA certifications such as UiPath or
+    Automation Anywhere.
+  - Scope & Growth Path: Implement designs under Senior Engineer
+    guidance; progress toward independent stakeholder
+    ownership.
+  
+  Agentic AI
+  
+  - Hands-on experience with LangChain, LangGraph, AutoGen, or
+    CrewAI.
+  - Core agent patterns: tool usage, memory, multi-step
+    reasoning, validation and guardrails.
+  - LLM APIs: OpenAI, Anthropic, Gemini, or open-source models;
+    structured prompt engineering.
+  
+  RAG & Vector Infrastructure
+  
+  - End-to-end RAG pipelines: ingestion, chunking, embedding,
+    vector stores, and retrieval evaluation.
+  - Hands-on with vector databases; ability to diagnose and
+    improve retrieval quality.
+  
+  RPA
+  
+  - Hands-on with UiPath, Automation Anywhere, or Microsoft
+    Power Automate.
+  - Bot workflows with exception handling, logging, and
+    enterprise system integrations.
+  
+  Engineering
+  
+  - Strong Python skills; experience with cloud AI services,
+    APIs, data pipelines, and event-driven systems.
+  
+  Nice to Have
+  
+  - Exposure to LoRA / QLoRA fine-tuning approaches.
+  - Agent observability and evaluation tooling such as LangSmith
+    or Arize.
+  
+  Responsibilities
+  
+  - Build and maintain multi-agent workflows from solution
+    design through production deployment.
+  - Implement root-cause analysis, ERP/CRM/ITSM integrations,
+    and robust error handling.
+  - Design and operate end-to-end RAG systems; continuously
+    monitor and improve retrieval quality.
+  - Develop and maintain RPA tasks; integrate AI agents with RPA
+    and business logic.
+  - Write unit and integration tests; contribute to CI/CD
+    pipelines and deployment automation.
+  - Collaborate with senior engineers; document pipelines, agent
+    configurations, and operational runbooks.
+  
+  All unsolicited resumes submitted to any
+  @automationanywhere.com email address, whether submitted by
+  an individual or by an agency, will not be eligible for an
+  agency fee.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Robotics
+  - Software
+posted_date: 2026-04-17
+url: "https://builtin.com/job/sr-ai-engineer/9079110"
+source: Built In

@@ -1,0 +1,54 @@
+company:
+  name: Version 1
+  stage: Public
+  focus: Technology consulting and transformation solutions provider
+position:
+  title: Senior AI Product & Research Engineer (Consultant)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying AI products
+      including LLMs, agentic systems, and RAG architectures. The
+      responsibilities explicitly include designing, prototyping,
+      and scaling enterprise-grade AI systems, leading applied
+      research on LLMs and agentic systems, and implementing model
+      development and deployment - all hands-on work directly on
+      AI/ML systems.
+  responsibilities:
+  - Translate business and research objectives into scalable AI product architectures
+  - Rapidly prototype AI-driven applications using modern AI coding agents and developer
+    copilots
+  - Design and implement enterprise-grade AI systems across model development, evaluation,
+    and deployment
+  - Lead applied research efforts across LLMs, agentic systems, retrieval architectures,
+    and applied ML
+  - Establish evaluation frameworks to measure model quality, safety, robustness,
+    and business impact
+  - Architect production-ready AI applications with strong observability, monitoring,
+    and iteration loops
+  - Advise on AI tooling, vendor selection, infrastructure alignment, and technical
+    roadmap decisions
+  - Mentor internal engineers on modern AI development workflows and best practices
+  use_cases:
+  - Enterprise-grade AI product development and deployment
+  - LLM-based applications and services
+  - Agentic AI systems and autonomous workflows
+  - Retrieval-augmented generation (RAG) architectures
+  - AI model evaluation and quality assurance frameworks
+  skills:
+    genai: [LLMs, RAG systems, fine-tuning, embeddings, orchestration frameworks,
+      agentic systems, AI coding agents]
+    ml: [model evaluation, applied ML]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Microsoft Azure, distributed systems, cloud-native architectures]
+    ops: [monitoring, observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8691178'
+  extracted_at: '2026-03-27T14:06:57.845376'

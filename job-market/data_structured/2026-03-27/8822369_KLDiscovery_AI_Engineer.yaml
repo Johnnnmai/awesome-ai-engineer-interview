@@ -1,0 +1,48 @@
+company:
+  name: KLDiscovery
+  stage: null
+  focus: |-
+    eDiscovery, compliance, and data management solutions for
+    legal and regulatory challenges
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves implementing RAG architectures, fine-
+      tuning approaches, deploying LLMs, building ML pipelines,
+      and model deployment. Hands-on work with prompt engineering,
+      model quantization, and inference optimization directly on
+      AI/ML systems.
+  responsibilities:
+  - Construct AI development and production infrastructure
+  - Implement AI solutions and analytical tools
+  - Curate datasets and conduct experiments
+  - Productize ML solutions and monitor model performance
+  - Develop code for integrating Data Science tools into products
+  - Collaborate with engineering teams to optimize solution implementation
+  - Research and implement best practices in data science and engineering
+  use_cases:
+  - eDiscovery and legal document processing
+  - Enterprise information governance
+  - Data management and compliance solutions
+  - Regulatory compliance and litigation support
+  - Document analysis and search
+  skills:
+    genai: [RAG, prompt engineering, LangChain, OpenAI embeddings, Cohere, semantic
+        search, Agentic AI]
+    ml: [PyTorch, TensorFlow, scikit-learn, fine-tuning, Hugging Face Transformers,
+      spaCy, model quantization, sentence-transformers]
+    web: []
+    databases: [Pinecone, pgvector, PostgreSQL]
+    data: [ETL]
+    cloud: [Azure]
+    ops: [CI/CD, Git, Azure DevOps, GitHub, Docker, ONNX, TensorRT, A/B testing, MLflow]
+    languages: [Python, C#]
+    domains: []
+    other: [pytest, unittest]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8822369'
+  extracted_at: '2026-03-27T15:15:59.102078'

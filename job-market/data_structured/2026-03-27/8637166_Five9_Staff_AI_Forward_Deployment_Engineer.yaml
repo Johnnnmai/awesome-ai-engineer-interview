@@ -1,0 +1,53 @@
+company:
+  name: Five9
+  stage: Public
+  focus: |-
+    Cloud contact center software and AI-powered customer
+    experience solutions
+position:
+  title: Staff AI Forward Deployment Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployment Engineer role focused on
+      deploying AI systems to customers. The role involves hands-
+      on work with NLP models, LLMs, conversational AI agents, RAG
+      patterns, and prompt engineering - directly building,
+      deploying, and optimizing AI systems for enterprise clients.
+      FDE roles that deploy AI solutions are classified as ai-
+      first.
+  responsibilities:
+  - Lead the design and deployment of NLP models and conversational AI agents for
+    enterprise clients
+  - Mentor a team of AI engineers and data scientists with technical guidance and
+    code reviews
+  - Act as primary technical point of contact for customers, translating business
+    requirements into technical roadmaps
+  - Oversee end-to-end data pipelines from data cleaning to implementing RAG patterns
+  - Define standards for testing virtual agent performance and ensure model accuracy
+    and ethical AI standards
+  - Collaborate with US-based Engineering and Product teams to influence global product
+    roadmap
+  use_cases:
+  - Conversational AI agents for contact centers
+  - Enterprise customer service automation
+  - NLP-powered customer experience
+  - Retrieval-augmented generation for knowledge access
+  - Virtual agent performance optimization
+  skills:
+    genai: [Large Language Models (LLMs), Prompt Engineering, RAG (Retrieval-Augmented
+        Generation), LangChain, Conversational AI]
+    ml: [NLP, PyTorch, HuggingFace, Model Evaluation]
+    web: []
+    databases: []
+    data: [A/B Testing]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8637166'
+  extracted_at: '2026-03-27T15:44:20.430870'

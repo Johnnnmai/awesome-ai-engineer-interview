@@ -1,0 +1,53 @@
+company:
+  name: Airtable
+  stage: Late-stage private (valued at $11B in 2021)
+  focus: No-code app platform for business processes
+position:
+  title: AI Analytics Engineer (Business Analytics)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      While this is an analytics engineer role at its core, it
+      explicitly involves building AI-powered systems, natural
+      language data access tools, and AI-assisted reporting
+      workflows. The role goes beyond traditional analytics to
+      implement AI-native analytics with LLMs, prompt engineering,
+      and AI-powered pattern detection in financial data.
+  responsibilities:
+  - Design and maintain trusted data models for core financial metrics including ACV,
+    ARR, billings, revenue recognition, and cost allocation
+  - Develop and govern dbt data pipelines with data integrity standards and SLAs for
+    timely financial data delivery
+  - Build and optimize dashboards delivering real-time, self-serve insights across
+    revenue, expenses, budget variance, and forecasting
+  - Enable data independence for Finance stakeholders by building scalable self-service
+    datasets in Looker and Omni
+  - Establish AI Business Context layer for financial use cases, translating accounting
+    logic and metric definitions into AI-interpretable formats
+  - Develop tools for natural language access to financial data and AI-assisted reporting
+  - Design and implement AI-powered workflows that surface patterns, anomalies, and
+    changes in financial data proactively
+  - Serve as primary data partner for FP&A, Accounting, and Finance leadership on
+    strategic analysis
+  use_cases:
+  - Natural language querying of financial data by non-technical stakeholders
+  - AI-assisted financial reporting and automated insights generation
+  - Proactive anomaly detection and pattern recognition in financial metrics
+  - Self-service analytics for revenue performance and forecasting
+  - Real-time financial dashboards for budget variance and expense tracking
+  skills:
+    genai: [LLMs, Prompt Engineering, Claude, ChatGPT, Context Engineering]
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: [dbt, Looker, Omni, Databricks, Data Pipelines, BI Tools]
+    cloud: []
+    ops: []
+    languages: [SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8817557'
+  extracted_at: '2026-03-27T13:54:23.690571'

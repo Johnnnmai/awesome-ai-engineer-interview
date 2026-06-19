@@ -1,0 +1,52 @@
+company:
+  name: SmartRecruiters
+  stage: Acquired (by SAP)
+  focus: AI-powered recruiting and talent acquisition platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building AI systems - specifically
+      agentic workflows, LLM-based conversational systems, and
+      autonomous AI agents. The position involves model training,
+      fine-tuning, evaluation, and deployment, with direct work on
+      LLMs and NLP systems.
+  responsibilities:
+  - Architect and build agentic workflows combining LLMs, reasoning components, and
+    data pipelines for adaptive conversational systems
+  - Lead design and development of ML/NLP products from ideation to production including
+    training, evaluation, optimization, and deployment
+  - Drive experimentation with agentic reasoning, coordination, and autonomous system
+    design
+  - Collaborate with product and engineering teams to integrate intelligent agents
+    into recruiting workflows
+  - Guide technical decisions, mentor engineers, and define best practices for scalable
+    ML systems
+  - Contribute to NLP and conversational intelligence stack focusing on reliability
+    and personalization
+  - Identify opportunities to automate and innovate within the chat-based ecosystem
+  use_cases:
+  - Intelligent conversational systems for recruiting industry
+  - AI recruiting assistants for hiring teams
+  - Personalized recruiting and hiring experiences
+  - Autonomous AI agents for talent acquisition
+  - Context-aware recruiting experiences at scale
+  skills:
+    genai: [LLM fine-tuning, Agentic workflows, Conversational AI, Multi-agent systems,
+      Chatbots]
+    ml: [NLP, PyTorch, TensorFlow, scikit-learn, Hugging Face, Deep learning, Model
+        training and evaluation]
+    web: []
+    databases: []
+    data: [Data quality management]
+    cloud: []
+    ops: [ML pipelines, ML observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8820152'
+  extracted_at: '2026-03-27T14:17:20.955312'

@@ -1,0 +1,49 @@
+company:
+  name: TIAA
+  stage: Public
+  focus: Financial services and retirement planning
+position:
+  title: Associate - AI | ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role combines LLM prompt engineering (designing,
+      optimizing prompts, maintaining prompt libraries) with
+      traditional ML work (building supervised learning models,
+      model deployment). The position involves hands-on work
+      directly on AI/ML systems, including prompt optimization for
+      LLMs and developing/deploying ML models.
+  responsibilities:
+  - Design, develop, and optimize prompts for Large Language Models (LLMs)
+  - Collaborate with data scientists to define, test and optimize prompts for AI systems
+  - Create and improve AI models and algorithms, maintain prompt libraries for NLP
+    applications
+  - Develop, validate, and maintain supervised machine learning models including regression
+    and classification
+  - Conduct exploratory data analysis and partner with data engineering teams on data
+    preparation
+  - Apply model explainability techniques and communicate findings to stakeholders
+  - Deploy models into production and establish monitoring frameworks
+  - Mentor team members and contribute to knowledge sharing
+  use_cases:
+  - Natural language processing applications
+  - Supervised learning for regression and classification tasks
+  - Financial services predictive modeling
+  - Model deployment and production monitoring
+  - Business intelligence and actionable insights generation
+  skills:
+    genai: [Prompt Engineering, Large Language Models (LLMs), NLP]
+    ml: [scikit-learn, XGBoost, LightGBM, SHAP, SMOTE]
+    web: []
+    databases: []
+    data: [pandas, NumPy, matplotlib]
+    cloud: [AWS, Azure, GCP]
+    ops: [Git, MLflow, Kubeflow, Domino Lab]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8877163'
+  extracted_at: '2026-03-27T14:12:57.476719'

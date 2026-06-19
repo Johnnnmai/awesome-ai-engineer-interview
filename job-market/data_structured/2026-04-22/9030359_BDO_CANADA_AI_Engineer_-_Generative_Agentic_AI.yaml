@@ -1,0 +1,54 @@
+company:
+  name: BDO CANADA
+  stage: Public
+  focus: Professional services and advisory firm in Canada
+position:
+  title: AI Engineer - Generative & Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, designing, and
+      deploying Generative and Agentic AI systems including LLMs,
+      RAG pipelines, agentic frameworks, and vector databases. The
+      engineer will be hands-on with model fine-tuning,
+      orchestration frameworks, and production-grade AI system
+      delivery.
+  responsibilities:
+  - Build scalable and robust AI-driven applications using LLMs and agentic frameworks
+  - Implement vector database solutions to enable semantic search, RAG, and knowledge
+    management
+  - Develop orchestration pipelines with frameworks like LangChain, Semantic Kernel,
+    AutoGen, Agno, and Parlant
+  - Integrate workflow automation platforms (n8n, dify.ai, Power Automate) with AI
+    systems for end-to-end business solutions
+  - Apply LLM evaluation methodologies using platforms like Arize, DeepEval, or IBM
+    WatsonX for benchmarking and monitoring
+  - Establish best practices for testing, performance tuning, and evaluation of agentic/LLM-based
+    workflows
+  - Collaborate with cross-functional teams including data scientists, software engineers,
+    and product owners
+  - Translate business requirements into technical designs and deliver working AI-powered
+    applications in production
+  use_cases:
+  - Semantic search and knowledge management using vector databases
+  - Retrieval augmented generation (RAG) for enterprise knowledge access
+  - Agentic AI workflows for business process automation
+  - LLM-powered application development for enterprise clients
+  - Workflow automation integrating AI with enterprise software ecosystems
+  skills:
+    genai: [LangChain, Semantic Kernel, AutoGen, Agno, Parlant, Pydantic AI, RAG,
+      LLM fine-tuning, Prompt engineering]
+    ml: []
+    web: [REST APIs]
+    databases: [Pinecone, Weaviate, Milvus, FAISS]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [Arize, DeepEval, IBM WatsonX, MLflow, Docker, CI/CD]
+    languages: [Python, .NET]
+    domains: []
+    other: [n8n, dify.ai, Power Automate, Distributed systems, System design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9030359'
+  extracted_at: '2026-04-22T13:50:55.321199'

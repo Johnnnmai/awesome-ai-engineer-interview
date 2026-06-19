@@ -1,0 +1,166 @@
+job_id: 8981900
+title: Junior AI Engineer
+company: eClerx LLC
+location: New York, USA
+work_type: FULL_TIME
+level: Mid level
+skills:
+  - Fastapi
+  - Git
+  - Java
+  - JavaScript
+  - Jax
+  - JSON
+  - Next.Js
+  - Python
+  - PyTorch
+  - React
+company_size: 12,544 Employees
+description: |
+  Junior AI Engineer
+  
+  Location: New York, US
+  
+  Type: Full-time
+  
+  Department: Financial Markets
+  
+  Job Summary
+  
+  eClerx supports global financial institutions across trade
+  support, financial crime compliance, client lifecycle, asset
+  servicing, settlements & clearing, and data/document
+  operations—often at large scale and under strict accuracy
+  and compliance expectations.
+  
+  You’ll join a team building AI-powered tools (agentic
+  workflows + GenAI capabilities) that help streamline
+  operations, improve control effectiveness, and reduce manual
+  effort—while remaining audit-ready and secure.
+  
+  Responsibilities
+  
+  - Build agentic & GenAI tools for Financial Markets use cases
+    - Develop agentic AI workflows that can plan, execute, and
+      validate steps across operational processes (e.g.,
+      exception triage, document checks, workflow routing, and
+      knowledge-assisted decisioning).
+    - Build GenAI features such as summarization, classification,
+      extraction, drafting, and Q&A for financial operations,
+      with a focus on reliability and traceability.
+    - Create RAG pipelines to ground LLM outputs in approved
+      knowledge sources (policies, SOPs, regulatory artifacts,
+      client documentation, historical cases).
+  - Engineer production-grade integrations
+    - Implement tool-calling / function-calling patterns so agents
+      can safely interact with internal systems (case
+      management, CRMs/ERPs, data services, document
+      repositories) and produce structured outputs.
+    - Build backend services and APIs that package AI capabilities
+      into reusable components (internal tools and/or client-
+      facing solutions).
+    - Write clean, maintainable code with strong engineering
+      hygiene: unit tests, integration tests, code review
+      participation, CI/CD readiness, and documentation.
+  - Quality, evaluation, and responsible deployment
+    - Design lightweight evaluation harnesses and test suites
+      (golden datasets, regression tests, prompt/version
+      tracking, and error analysis) to continuously improve
+      accuracy and consistency.
+    - Implement guardrails and human-in-the-loop checkpoints where
+      appropriate (especially for compliance-sensitive
+      decisions).
+    - Collaborate with domain SMEs (ops, compliance, risk) to
+      translate requirements into measurable system behavior
+      and acceptance criteria.
+  
+  Eligibility Requirements
+  
+  - 2+ years’ experience building production software with
+    strong hands-on coding ownership.
+  - Strong Python programming skills with comfort working in a
+    shared professional codebase; familiarity with Java or
+    TypeScript/JavaScript is a plus
+  - Foundational understanding of LLMs: attention mechanisms,
+    tokenization, context windows, and inference trade-offs
+  - Practical experience with LLM/GenAI development: prompt and
+    context design, structured outputs, tool calling, and
+    agentic workflows
+  - Familiarity with common engineering practices: Git, REST
+    APIs, logging basics, and data handling (JSON, SQL)
+  - Ability to work in ambiguous problem spaces and iterate
+    quickly with feedback from product and ops stakeholders
+  - Preferred Qualifications
+    - Personal projects, open-source contributions, or research on
+      ML or applied ML
+    - Experience building RAG systems: chunking strategies,
+      embedding models, vector stores (e.g. FAISS), and
+      retrieval evaluation
+    - Hands-on experience with agentic orchestration frameworks
+      such as LangGraph or LangChain-style state machines,
+      deployed into real APIs or services
+    - Exposure to financial services operations (capital markets
+      ops, KYC/ client lifecycle, AML/compliance,
+      reconciliations, exceptions processing).
+    - Experience with intelligent document processing pipelines:
+      PDF parsing, schema mapping, and field validation
+    - Familiarity with deep learning frameworks (PyTorch,
+      TensorFlow, or JAX) and strong applied ML fundamentals
+    - Knowledge of responsible AI concepts: privacy,
+      explainability, and evaluation discipline
+    - Full-stack development experience (e.g. React, Next.js,
+      FastAPI) is a meaningful bonus.
+  
+  In the US, the target base salary for this role is
+  $100,000-$120,000. Compensation is based on a range of
+  factors that include relevant experience, knowledge, skills,
+  other job-related qualifications, and geography. We expect
+  the majority of candidates who are offered roles at our
+  company to fall throughout the range based on these factors
+  
+  How to Apply
+  
+  - Click "Apply Now" to submit your resume through our career
+    site
+  - Be sure to include any relevant experience that aligns with
+    the role.
+  - Qualified candidates will be contacted by a member of our
+    recruitment team for next steps
+  - Please include your github and LinkedIn profile
+  
+  About eClerx
+  
+  eClerx is a leading provider of productized services,
+  bringing together people, technology and domain expertise to
+  amplify business results. The firm provides business process
+  management, automation, and analytics services to a number
+  of Fortune 2000 enterprises, including some of the world’s
+  leading financial services, communications, retail, fashion,
+  media & entertainment, manufacturing, travel & leisure, and
+  technology companies. Incorporated in 2000, eClerx is traded
+  on both the Bombay and National Stock Exchanges of India.
+  The firm employs more than 19,000 people across Australia,
+  Canada, France, Germany, Switzerland, Egypt. India, Italy,
+  Netherlands, Peru, Philippines, Singapore, Thailand, the UK,
+  and the USA.
+  
+  For more information, visit www.eclerx.com
+  
+  You can also find us on:
+  
+  https://www.linkedin.com/company/eclerx/
+  
+  https://www.indeed.com/cmp/Eclerx/about
+  
+  https://www.glassdoor.com/eClerx
+  
+  eClerx is an Equal Opportunity Employer. All qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, national origin,
+  disability or protected veteran status, or any other legally
+  protected basis, in accordance with applicable law. We are
+  also committed to protecting and safeguarding your personal
+  data. Please find our policy here
+posted_date: 2026-04-07
+url: "https://builtin.com/job/junior-ai-engineer/8981900"
+source: Built In

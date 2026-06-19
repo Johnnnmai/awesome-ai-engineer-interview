@@ -1,0 +1,52 @@
+company:
+  name: Cargill
+  stage: Public
+  focus: Global food and agriculture corporation
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing and building AI-enabled
+      solutions, implementing and deploying AI models, and
+      specifically working with generative AI software solutions.
+      The engineer applies ML, generative AI, and automation
+      directly to build and deploy models into production.
+  responsibilities:
+  - Design and build AI-enabled solutions for data management and data governance
+    capabilities
+  - Implement and deploy AI and machine learning models to solve business problems
+    and derive actionable insights
+  - Apply generative AI engineering patterns to design, develop, test, integrate,
+    and maintain AI software solutions
+  - Conduct data extraction, integration, and analysis from various data sources to
+    identify trends and patterns
+  - Improve data quality, metadata management, master data, data classification, lineage,
+    and governance workflows using AI
+  - Incorporate security practices in AI applications and ensure data compliance
+  - Collaborate with cross-functional teams including Data Engineering, Architecture,
+    Security, and Business teams
+  - Document development work and communicate techniques and results to technical
+    and non-technical audiences
+  use_cases:
+  - Data quality improvement through AI automation
+  - Metadata management and master data management
+  - Data classification and lineage tracking
+  - Governance workflows automation
+  - Data compliance and trust verification
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning, Model Deployment]
+    web: []
+    databases: []
+    data: [Data Engineering, Data Analysis, ETL]
+    cloud: []
+    ops: [AI Security]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8363901'
+  extracted_at: '2026-03-03T12:02:51.709853'

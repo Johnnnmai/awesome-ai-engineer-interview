@@ -1,0 +1,58 @@
+company:
+  name: PDI Technologies
+  stage: null
+  focus: |-
+    Technology solutions for convenience retail and petroleum
+    brands, providing loyalty programs, shopper insights, and
+    market intelligence
+position:
+  title: Gen AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is ai-first because it involves hands-on work
+      building, deploying, and integrating generative AI systems
+      including LLMs, RAG architectures, prompt engineering, and
+      vector-based retrieval systems. The position directly works
+      ON AI models and systems, not just supporting infrastructure
+      for others.
+  responsibilities:
+  - Design, build, and deploy intelligent AI-driven platform capabilities that enable
+    automation and advanced decision-making
+  - Integrate generative AI capabilities including prompt engineering, RAG architectures,
+    and intelligent workflows into platform services
+  - Utilize Large Language Models (LLMs), embeddings, and vector-based retrieval systems
+    to build context-aware solutions
+  - Develop frameworks and methodologies for validating AI system performance including
+    accuracy, reliability, and safety evaluation
+  - Design and implement automated validation strategies for AI-driven features including
+    automated test generation and model evaluation
+  - Develop and maintain scalable automation frameworks for validating platform services
+    and APIs
+  - Integrate automated testing into CI/CD pipelines for continuous testing and faster
+    feedback loops
+  - Collaborate cross-functionally with engineering, product, and data teams to deliver
+    scalable AI-enabled solutions
+  use_cases:
+  - Automation of business processes in convenience retail and petroleum industries
+  - Contextual insights and intelligent decision-making for retail operations
+  - Enhanced customer engagement through AI-powered loyalty programs
+  - Real-time market intelligence and shopper insights
+  - Operational efficiency improvements for convenience retail brands
+  skills:
+    genai: [Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt
+        Engineering, Embeddings, AI Workflow Orchestration]
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: [Vector Databases]
+    data: [Data Pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, Docker, Selenium, Cypress, TestNG, JUnit, Postman, REST Assured]
+    languages: [Python, Java, JavaScript, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8789485'
+  extracted_at: '2026-03-27T16:01:11.934664'

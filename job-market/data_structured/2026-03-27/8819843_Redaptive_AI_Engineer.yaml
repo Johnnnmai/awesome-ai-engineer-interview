@@ -1,0 +1,50 @@
+company:
+  name: Redaptive
+  stage: Series C+
+  focus: |-
+    Energy-as-a-Service provider for energy-saving equipment and
+    sustainability solutions
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and deploying Agentic
+      AI, Generative AI, and ML systems from POC to production.
+      The position requires hands-on AI model development,
+      architecting AI solutions, and integrating AI across
+      business units, which is core AI-first work.
+  responsibilities:
+  - Champion the AI/ML roadmap and drive strategic planning for all AI initiatives
+    across business units
+  - Architect and develop Proof-of-Concept solutions for Agentic AI, Generative AI,
+    and ML
+  - Perform hands-on AI model development and data wrangling using Python and MLflow
+  - Drive continuous improvement through Agentic AI, Generative AI, and predictive
+    modeling
+  - Collaborate with product management, engineering, and business stakeholders to
+    deliver impactful solutions
+  - Develop and document standards for ethical and regulatory-compliant AI usage
+  - Participate in Agile development processes (Scrum and Kanban)
+  use_cases:
+  - Energy efficiency optimization and sustainability for Fortune 500 clients
+  - Real-time data analytics powered by IoT/event data from energy equipment
+  - Predictive modeling for energy consumption and savings
+  - Integration of AI with SaaS applications for energy management
+  - Automated decision-making through Agentic AI for energy portfolio management
+  skills:
+    genai: [Agentic AI, Generative AI, LangChain]
+    ml: [Statistical modeling, Machine learning algorithms]
+    web: []
+    databases: []
+    data: [Databricks, Data mining]
+    cloud: [AWS]
+    ops: [MLflow, Real-time inference, Batch inference, Scrum, Kanban]
+    languages: [Python]
+    domains: []
+    other: [IoT integration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8819843'
+  extracted_at: '2026-03-27T15:03:46.965605'

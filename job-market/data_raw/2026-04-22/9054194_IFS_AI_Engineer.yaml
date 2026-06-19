@@ -1,0 +1,210 @@
+job_id: 9054194
+title: AI Engineer
+company: IFS
+location: London, GBR
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - Ci/Cd
+  - Docker
+  - Fastapi
+  - GCP
+  - GraphQL
+  - Python
+  - React
+  - Rest
+  - SQL
+company_size: 6,788 Employees
+description: |
+  Company Description
+  
+  IFS is a billion-dollar revenue company with 7000+ employees
+  on all continents. Our leading AI technology is the backbone
+  of our award-winning enterprise software solutions, enabling
+  our customers to be their best when it really matters–at the
+  Moment of Service™. Our commitment to internal AI adoption
+  has allowed us to stay at the forefront of technological
+  advancements, ensuring our colleagues can unlock their
+  creativity and productivity, and our solutions are always
+  cutting-edge.
+  
+  At IFS, we’re flexible, we’re innovative, and we’re focused
+  not only on how we can engage with our customers but on how
+  we can make a real change and have a worldwide impact. We
+  help solve some of society’s greatest challenges, fostering
+  a better future through our agility, collaboration, and
+  trust.
+  
+  We celebrate diversity and understand our responsibility to
+  reflect the diverse world we work in. We are committed to
+  promoting an inclusive workforce that fully represents the
+  many different cultures, backgrounds, and viewpoints of our
+  customers, our partners, and our communities. As a truly
+  international company serving people from around the globe,
+  we realize that our success is tantamount to the respect we
+  have for those different points of view.
+  
+  By joining our team, you will have the opportunity to be
+  part of a global, diverse environment; you will be joining a
+  winning team with a commitment to sustainability; and a
+  company where we get things done so that you can make a
+  positive impact on the world.
+  
+  We’re looking for innovative and original thinkers to work
+  in an environment where you can #MakeYourMoment so that we
+  can help others make theirs. With the power of our AI-driven
+  solutions, we empower our team to change the status quo and
+  make a real difference.
+  
+  If you want to change the status quo, we’ll help you make
+  your moment. Join Team Purple. Join IFS.
+  
+  Job Description
+  
+  Role Summary
+  
+  We are looking for a AI (Fullstack) Engineer to help evolve
+  IFS.ai Logistics into an agent‑first, AI‑native product.
+  
+  This is not a traditional “add AI to an existing system”
+  role.
+  
+  You will design and build LLM‑powered agents,
+  simulation‑driven workflows, and AI‑native product
+  capabilities that sit at the core of our logistics
+  optimization platform.
+  
+  You will work across frontend, backend, data, and
+  infrastructure, owning problems end‑to‑end and shaping how
+  we build software — not just what we build.
+  
+  
+  
+  What You’ll Work On
+  
+  AI‑Native & Agent‑First Development
+  
+  - Design and build LLM‑driven agents to support planning,
+    optimization, and decision‑making workflows
+  - Develop agent orchestration patterns (tools, memory,
+    evaluation, guardrails)
+  - Build and maintain RAG pipelines, structured prompting, and
+    retrieval strategies
+  - Treat simulation as a first‑class design tool (using
+    synthetic data, scenario replay, and state machines to
+    validate logic)
+  
+  Fullstack Product Engineering
+  
+  - Build end‑to‑end product features spanning:
+    - Backend services (Python / TypeScript)
+    - APIs (REST / GraphQL / FastAPI)
+    - Frontend experiences (React)
+  - Create human‑in‑the‑loop interfaces for AI systems (review,
+    override, explainability)
+  - Collaborate closely with Product and Design to ship usable,
+    explainable AI features
+  
+  Platform & Engineering Quality
+  
+  - Own services in production: performance, reliability,
+    observability, and cost
+  - Design systems that are secure, testable, and compliant by
+    default
+  - Use infrastructure‑as‑code and modern CI/CD practices
+  - Champion simulation‑led design, testability, and fast
+    feedback loops
+  
+  
+  
+  
+  
+  What Success Looks Like (6–12 Months)
+  
+  - AI agents are shipping as core product capabilities, not
+    experiments
+  - Simulation and synthetic data are actively used to design
+    and validate features
+  - Product teams can move faster because AI systems are
+    observable, testable, and trusted
+  - Engineering quality improves without slowing delivery
+  
+  
+  
+  Why IFS.ai Logistics
+  
+  IFS.ai Logistics is building the next generation of
+  logistics optimization software — combining AI, simulation,
+  and human expertise to reduce cost, emissions, and
+  complexity in global supply chains.
+  
+  You’ll work on hard problems, with real‑world impact,
+  alongside a team that values design‑led thinking, technical
+  depth, and autonomy.
+  
+  
+  
+  Qualifications
+  
+  What We’re Looking For
+  
+  Core Experience
+  
+  - Strong fullstack engineer with deep backend capability
+  - Production experience with Python and/or TypeScript
+  - Experience owning systems from concept to production
+  - Comfortable working in small, high‑ownership teams
+  
+  AI & Data (Practical, Not Theoretical)
+  
+  - Hands‑on experience with:
+    - LLMs and modern AI tooling
+    - RAG systems, embeddings, vector search
+    - Agentic patterns (tools, planners, evaluators)
+  - Experience productionising ML/AI systems (monitoring,
+    failure modes, iteration)
+  - Pragmatic mindset: understands where AI adds value — and
+    where it doesn’t
+  
+  Ways of Working
+  
+  - Agent‑first, spec‑driven, or simulation‑led mindset
+  - Comfortable operating with ambiguity
+  - Strong collaborator with Product, Design, and other
+    engineers
+  - Bias toward shipping, learning, and iterating
+  
+  Nice to Have (But Not Required)
+  
+  - Experience with logistics, optimization, or simulation‑heavy
+    domains
+  - Background in data engineering or ML platforms
+  - Experience building developer tools or internal platforms
+  - Exposure to regulated or security‑conscious environments
+  
+  Tech Stack
+  
+  - Backend: Python (Django / FastAPI), TypeScript (Node.js)
+  - Frontend: React
+  - AI: LLMs, RAG pipelines, agent frameworks
+  - Infra: Cloud (AWS / GCP), Docker, CI/CD, IaC
+  - Data: SQL, event‑driven systems, analytics pipelines
+  
+  
+  
+  Additional Information
+  
+  We embrace flexibility and hybrid work opportunities to
+  support diverse needs and lifestyles, while also valuing
+  inclusive workplace experiences. By fostering a sense of
+  community, we drive innovation, strengthen connections, and
+  nurture belonging. Our commitment ensures you can work in a
+  way that suits you best, while also engaging with colleagues
+  to share ideas and build meaningful relationships.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-04-15
+url: "https://builtin.com/job/ai-engineer/9054194"
+source: Built In

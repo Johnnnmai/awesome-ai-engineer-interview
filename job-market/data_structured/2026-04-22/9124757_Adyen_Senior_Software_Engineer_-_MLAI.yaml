@@ -1,0 +1,55 @@
+company:
+  name: Adyen
+  stage: Public
+  focus: |-
+    Financial technology platform providing payments, data, and
+    financial products
+position:
+  title: Senior Software Engineer - ML/AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying
+      production-ready GenAI models, RAG systems, and AI-powered
+      prototypes and products. The engineer will own end-to-end
+      development of bespoke AI tools including NLP chatbots and
+      knowledge management systems, with hands-on work using LLMs,
+      vector databases, and GenAI frameworks.
+  responsibilities:
+  - Proactively discover high-impact AI opportunities by engaging with product and
+    engineering teams across Adyen
+  - Design and rapidly build AI prototypes (MVPs) to demonstrate value for internal
+    operational challenges
+  - Own end-to-end development of bespoke AI tools that solve problems unique to Adyen's
+    payment-processing scale
+  - Drive the AI roadmap by translating ambiguous business problems into tangible
+    initiatives from ideation through deployment
+  - Lead and mentor engineers through code reviews, knowledge sharing, and raising
+    the bar on software creation processes
+  - Push the boundaries of the tech stack by building custom enhancements and integrations
+    for internal systems and external AI platforms
+  use_cases:
+  - NLP-powered chatbot for democratizing data discovery across Adyen's data landscape
+    using natural language queries
+  - Knowledge management system that ingests and indexes internal conversations to
+    reduce repetitive questions and make undocumented knowledge discoverable
+  - Optimizing merchant experience through intelligent AI solutions
+  - Enhancing pricing models using AI-driven approaches
+  - Improving internal workflows with custom AI tools for operational efficiency
+  skills:
+    genai: [LangChain, LangGraph, RAG, LLM integration, Embedding models, Semantic
+        search]
+    ml: []
+    web: []
+    databases: [Pinecone, Weaviate, Qdrant]
+    data: [Spark, Hadoop, Kafka, Airflow]
+    cloud: []
+    ops: [Docker, Kubernetes, CI/CD, Git, MLOps]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9124757'
+  extracted_at: '2026-04-22T13:35:07.715683'

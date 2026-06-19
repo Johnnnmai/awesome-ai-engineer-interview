@@ -1,0 +1,50 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Legal, tax, accounting, compliance, and media information
+    services
+position:
+  title: Senior Software Engineer - AI II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and deploying AI/ML
+      systems, including domain-specific adaptation of models,
+      optimizing AI performance, and implementing MLOps/LLMOps
+      practices. The requirement to build AI Agents and work with
+      document analysis, CV, and NLP indicates hands-on work with
+      AI models and systems.
+  responsibilities:
+  - Lead technical execution of AI projects including architecture decisions and roadmap
+    alignment
+  - Optimize AI performance through domain-specific adaptation of third-party models
+    and algorithms
+  - Deliver scalable AI/ML solutions using MLOps and LLMOps best practices
+  - Design and implement continuous monitoring of application and user behavior for
+    product insights
+  - Stay current with AI developments and promote learning and adoption of relevant
+    technologies
+  - Act as thought leader by contributing to internal forums and influencing technical
+    direction
+  use_cases:
+  - Document analysis and processing
+  - Computer vision applications
+  - Natural language processing solutions
+  - AI agent development and deployment
+  skills:
+    genai: [AI Agents]
+    ml: [TensorFlow, PyTorch, scikit-learn, NumPy, Pandas, Matplotlib]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [MLOps, LLMOps]
+    languages: [Python, .NET, C#]
+    domains: [Computer Vision, NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8506019'
+  extracted_at: '2026-03-03T12:56:44.847680'

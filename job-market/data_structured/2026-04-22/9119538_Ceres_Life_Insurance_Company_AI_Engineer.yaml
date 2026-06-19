@@ -1,0 +1,56 @@
+company:
+  name: Ceres Life Insurance Company
+  stage: Startup (backed by Westaim and CC Capital)
+  focus: Technology-driven life insurance/annuity carrier (insurtech)
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, fine-tuning, and
+      deploying LLMs and ML models — including prompt engineering,
+      model selection/fine-tuning, and building MLOps pipelines.
+      The engineer works hands-on with generative AI and NLP/LLM
+      capabilities across core business pipelines, making this
+      clearly an ai-first role.
+  responsibilities:
+  - Evaluate, select, and fine-tune large language models and specialty AI frameworks
+    for document summarization, risk scoring, and other use cases
+  - Craft and optimize prompts for automated eApp summarization, policy recommendation
+    engines, and conversational assistants
+  - Build reproducible, scalable MLOps pipelines for model training, validation, monitoring,
+    and versioning
+  - Create robust APIs and microservices to surface AI capabilities such as chatbots,
+    document ingestion, and predictive alerts within agent portals and internal dashboards
+  - Automate operational tasks such as licensing checks, claims triage, and commission
+    forecasting using AI-driven workflows
+  - Instrument A/B tests and performance metrics to monitor model accuracy, latency,
+    and user satisfaction
+  - Collaborate with Data Engineering and Analytics teams on feature engineering,
+    data preprocessing, and real-time data access
+  - Embed AI governance practices including bias mitigation, privacy controls, and
+    audit trails in accordance with industry regulations
+  use_cases:
+  - Automated electronic application (eApp) summarization using LLMs
+  - Policy recommendation engines for annuity products
+  - Conversational assistants and customer service chatbots for agent portals
+  - Risk scoring models using transformer architectures
+  - Claims triage automation
+  - Commission forecasting using predictive models
+  skills:
+    genai: [LLM fine-tuning, Prompt engineering, OpenAI API, Anthropic API, RAG, LangChain]
+    ml: [PyTorch, TensorFlow, Transformer architectures, Model training and validation,
+      NLP]
+    web: [FastAPI, REST APIs, Microservices]
+    databases: []
+    data: []
+    cloud: [SageMaker]
+    ops: [MLflow, Kubeflow, Docker, Kubernetes, CI/CD for ML, A/B testing]
+    languages: [Python, SQL]
+    domains: [Insurance/financial services domain knowledge, Risk modeling]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9119538'
+  extracted_at: '2026-04-22T13:54:21.561909'

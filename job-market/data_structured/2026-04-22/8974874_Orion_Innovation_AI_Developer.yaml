@@ -1,0 +1,55 @@
+company:
+  name: Orion Innovation
+  stage: Unknown
+  focus: |-
+    Global business and technology services firm delivering
+    digital transformation and product development
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on building and deploying
+      agentic AI systems, including designing autonomous agents,
+      implementing multi-agent orchestration with LangGraph,
+      building RAG pipelines, and optimizing LLM performance. The
+      developer works directly on AI/LLM models and frameworks,
+      not just supporting infrastructure.
+  responsibilities:
+  - Design and develop autonomous agents capable of independent planning, tool-use,
+    context & prompt engineering, and self-correction
+  - Implement multi-agent orchestration using LangGraph for task delegation, conflict
+    resolution, and collaborative reasoning between specialized agents
+  - Build sophisticated RAG pipelines with episodic and semantic memory to maintain
+    context over long interactions
+  - Architect and deploy AI services across AWS (Bedrock/SageMaker) and Azure (OpenAI
+    Service/Foundry) with high availability and cost optimization
+  - Implement evaluation frameworks (Ragas, TruLens) and safety guardrails to prevent
+    hallucinations and ensure responsible agent behavior
+  - Optimize LLM latency and throughput using prompt caching, quantization, and specialized
+    model routing
+  - Perform prompt engineering and context engineering for AI agent systems
+  use_cases:
+  - Autonomous multi-agent systems for complex business problem solving
+  - Enterprise AI workflow deployment across multi-cloud environments
+  - Knowledge-graph-enhanced RAG for long-context business interactions
+  - Agentic AI solutions for industries including financial services, telecom, life
+    sciences, and more
+  skills:
+    genai: [LangGraph, RAG, Prompt Engineering, Function Calling, MCP (Model Context
+        Protocol), LoRA, QLoRA, Ragas, TruLens]
+    ml: [Quantization]
+    web: [FastAPI]
+    databases: [Pinecone, Weaviate, Milvus, pgvector, Neo4j, CosmosDB, PostgreSQL]
+    data: []
+    cloud: [AWS Bedrock, AWS SageMaker, AWS Lambda, AWS Step Functions, AWS S3, Azure
+        OpenAI Service, Azure AI Search]
+    ops: [Docker, Kubernetes, CI/CD, LLMOps]
+    languages: [Python, TypeScript, Asyncio, Pydantic]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8974874'
+  extracted_at: '2026-04-22T13:23:06.854848'

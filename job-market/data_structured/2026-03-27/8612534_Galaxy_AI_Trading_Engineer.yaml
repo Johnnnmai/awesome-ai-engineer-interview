@@ -1,0 +1,54 @@
+company:
+  name: Galaxy
+  stage: null
+  focus: |-
+    Digital assets trading platform and data center
+    infrastructure for AI and high-performance computing
+position:
+  title: AI & Trading Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying machine
+      learning models applied to financial time-series data,
+      including feature engineering, model training, and
+      evaluation. The engineer will work hands-on on an AI-enabled
+      systematic trading platform, applying ML techniques to
+      production systems.
+  responsibilities:
+  - Build and evolve core components of an AI-enabled systematic trading platform
+  - Develop and maintain robust backtesting and simulation infrastructure with transaction
+    costs, slippage, and market impact modeling
+  - Partner with quantitative researchers and traders to productionize trading strategies
+    and models
+  - Design tools and workflows that improve research speed, reliability, and reproducibility
+  - Apply machine learning techniques to financial time-series data including feature
+    engineering, model training, and evaluation
+  - Implement monitoring, post-trade analytics, and performance attribution systems
+  - Provide technical leadership through architecture decisions, code reviews, and
+    mentorship
+  use_cases:
+  - AI-driven systematic trading platform
+  - Financial time-series prediction and modeling
+  - Backtesting and simulation of trading strategies
+  - Automated trading strategy execution and deployment
+  - Post-trade performance analytics and attribution
+  - Risk management and portfolio optimization
+  skills:
+    genai: []
+    ml: [PyTorch, scikit-learn, Machine Learning, Feature Engineering, Model Training
+        and Evaluation, Time-series Analysis]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems, GPU Computing, Production Systems]
+    languages: [Python, C++, Rust, Java]
+    domains: []
+    other: [Backtesting Frameworks, Systematic Trading, Quantitative Finance, Market
+        Microstructure, Risk Management, Signal Research]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8612534'
+  extracted_at: '2026-03-27T15:27:39.789861'

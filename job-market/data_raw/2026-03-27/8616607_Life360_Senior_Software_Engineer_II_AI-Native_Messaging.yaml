@@ -1,0 +1,242 @@
+job_id: 8616607
+title: Senior Software Engineer II (AI-Native), Messaging
+company: Life360
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Apache Kafka
+  - AWS
+  - Ci/Cd
+  - Java
+  - Protocol Buffers
+  - Spring Boot
+  - Terraform
+description: |
+  About Life360
+  
+  Life360’s mission is to keep people close to the ones they
+  love. Our category-leading mobile app,Tile tracking devices,
+  and Pet GPS tracker empower members to protect the people,
+  pets, and things they care about most with a range of
+  services, including location sharing, safe driver reports,
+  and crash detection with emergency dispatch. Life360 serves
+  approximately 95.8 million monthly active users (MAU), as of
+  December 31, 2025, across more than 180 countries.
+  
+  Life360 delivers peace of mind and enhances everyday family
+  life with seamless coordination for all the moments that
+  matter, big and small. By continuing to innovate and deliver
+  for our customers, we have become a household name and the
+  must-have mobile-based membership for families (and those
+  friends that basically are family).
+  
+  Life360 has more than 500 (and growing!) remote-first
+  employees. For more information, please visit life360.com.
+  
+  Life360 is a Remote First company, which means a remote work
+  environment will be the primary experience for all
+  employees. All positions, unless otherwise specified, can be
+  performed remotely (within the US and Canada) regardless of
+  any specified location above.
+  
+  About The Team
+  
+  The Messaging team owns the backbone of Life360’s real-time
+  infrastructure, powering the event streaming and data
+  pipelines that keep millions of families connected. We
+  process billions of events every day, enabling everything
+  from location updates to safety alerts through reliable,
+  high-throughput streaming systems.
+  
+  Our work sits at the center of Life360’s technical
+  ecosystem. We collaborate closely with mobile, backend, and
+  data teams to build scalable, resilient infrastructure while
+  tackling complex distributed systems challenges like schema
+  evolution, data consistency, zero-downtime migrations, and
+  platform reliability at scale. We are a platform-focused,
+  AI-Native team. AI is a core collaborator across the full
+  product lifecycle: messaging architecture, protocol design,
+  performance at scale, and incident response. We move faster,
+  build more resiliently, and go deeper on the hard problems
+  of distributed messaging because of it.
+  
+  The team is currently leading major innovation initiatives,
+  including migrating from MSK to Confluent Cloud, managing
+  organization-wide schema registries and protocol buffer
+  definitions, and building the next generation of streaming
+  services. Our stack includes Kafka and Kafka Streams, Spring
+  Boot microservices, Go-based tooling, and a modern cloud-
+  native platform on AWS.
+  
+  About the Job
+  
+  You'll help define and deliver the next generation of Kafka-
+  first streaming infrastructure, driving the solution to meet
+  the next company goal for high availability on scale.
+  
+  As a Senior Software Engineer on the Messaging team, you'll
+  build and maintain the streaming infrastructure that powers
+  Life360's real-time features. This role is hands-on and
+  collaborative - you'll design services, write code,
+  troubleshoot production issues, and help shape the team's
+  technical direction. We're looking for someone who enjoys
+  working in a distributed systems environment, values clear
+  communication, and thrives on solving complex problems
+  alongside a small, focused team. We work AI-natively -
+  you'll be expected to direct AI agents as a core part of
+  your daily workflow, not as an afterthought.
+  
+  What You'll Do
+  
+  - Design, build, and maintain streaming services using Kafka,
+    Spring Boot, and Spring Cloud Stream
+  - Develop and manage Kafka connectors for data integration
+    (DynamoDB, S3, custom sinks/sources)
+  - Own schema management and evolution using Protocol Buffers,
+    Schema Registry, and multi-language code generation
+  - Support ongoing platform migrations, including multi-cluster
+    consumption patterns and infrastructure transitions
+  - Build monitoring, observability, and operational tooling to
+    ensure system reliability
+  - Collaborate with cross-functional teams on API design, data
+    contracts, and integration patterns
+  - Write infrastructure as code using Terraform and automate
+    deployments through CI/CD pipelines
+  - Participate in on-call rotation and incident response
+  - Mentor team members and contribute to team processes,
+    technical standards, and help evolve the team's AI-native
+    engineering practices
+  - Work with AI (Claude Code) as a first-class collaborator -
+    orchestrating agents to scaffold services, generate IaC,
+    draft schema definitions, and accelerate code review
+  - Apply agentic workflows to reduce overall cycle time and
+    operational overhead
+  
+  For candidates based in the US, the salary range for this
+  position is $148,000 to $216,500 USD.
+  
+  Note: We take into consideration an individual's background
+  and experience in determining final salary- therefore, base
+  pay offered may vary considerably depending on geographic
+  location, job-related knowledge, skills, and experience. The
+  compensation package includes a wide range of medical,
+  dental, vision, financial, and other benefits, as well as
+  equity.
+  
+  What We're Looking ForTechnical foundation:
+  
+  - 6+ years of backend software engineering experience
+  - Strong proficiency with Java and Spring Boot (this is our
+    primary stack)
+  - Experience with Apache Kafka or similar distributed
+    streaming platforms
+  - Solid understanding of distributed systems concepts:
+    consistency, fault tolerance, replication, and data
+    durability
+  - Comfortable with cloud infrastructure (AWS preferred) and
+    containerized deployments
+  - Familiarity with agentic workflows, prompt/eval engineering
+  - Bachelor's Degree in a technical field, or equivalent
+    experience
+  
+  What matters most to us:
+  
+  - Problem-solving mindset - You structure ambiguous problems
+    precisely before reaching for a tool, AI or otherwise
+  - Collaborative approach - You communicate clearly, work well
+    across teams, and value diverse perspectives
+  - Ownership mentality - You take responsibility for your work
+    from design through production and beyond
+  - AI-native working style - You use AI tooling (Claude Code or
+    equivalent) as a genuine development partner: delegating
+    discrete tasks, reviewing outputs critically, and running
+    parallel workstreams rather than hand-holding one agent at
+    a time
+  - Thoughtful communication - You can explain technical
+    tradeoffs and articulate ideas effectively
+  
+  We believe culture fit and problem-solving ability matter
+  more than checking every technical box. We're happy to help
+  you grow into areas where you have less experience.
+  
+  Nice-to-Have
+  
+  - Experience with Go (we use it for CLI tools and some
+    services)
+  - Familiarity with gRPC and Protocol Buffers
+  - Background in stream processing frameworks (Kafka Streams,
+    Flink)
+  - Experience with schema registries and schema evolution
+    strategies
+  - Knowledge of Confluent Platform or Confluent Cloud
+  - Understanding of CI/CD patterns, GitHub Actions, and
+    artifact management (Maven, Nexus)
+  - Experience with observability tooling (Prometheus, Grafana,
+    DataDog)
+  - Previous work on large-scale platform migrations or
+    infrastructure modernization projects
+  
+  Our Benefits
+  
+  - Competitive pay and benefits.
+  - Medical, dental, vision, life and disability insurance plans
+    (100% paid for US employees). We offer supplemental plans
+    for medical and dental for Canadian employees.
+  - 401(k) plan with company matching program in the US and RRSP
+    with DPSP plan for Canadian employees.
+  - Employee Assistance Program (EAP) for mental wellness.
+  - Flexible PTO and 12 company wide days off throughout the
+    year.
+  - Learning & Development programs.
+  - Equipment, tools, and reimbursement support for a productive
+    remote environment.
+  - Free Life360 Platinum Membership for your preferred circle.
+  
+  Life360 Values
+  
+  Our company’s mission driven culture is guided by our shared
+  values to create a trusted work environment where you can
+  bring your authentic self to work and make a positive
+  difference
+  
+  - Be a Good Person - We have a team of high integrity people
+    you can trust.
+  - Be Direct With Respect - We communicate directly, even when
+    it’s hard.
+  - Members Before Metrics - We focus on building an exceptional
+    experience for families.
+  - High Intensity High Impact - We do whatever it takes to get
+    the job done.
+  
+  Our Commitment to Diversity
+  
+  We believe that different ideas, perspectives and
+  backgrounds create a stronger and more creative work
+  environment that delivers better results. Together, we
+  continue to build an inclusive culture that encourages,
+  supports, and celebrates the diverse voices of our
+  employees. It fuels our innovation and connects us closer to
+  our customers and the communities we serve. We strive to
+  create a workplace that reflects the communities we serve
+  and where everyone feels empowered to bring their authentic
+  best selves to work.
+  
+  We are an equal opportunity employer and value diversity at
+  Life360. We do not discriminate on the basis of race,
+  religion, color, national origin, gender, sexual
+  orientation, age, marital status, veteran status, disability
+  status or any legally protected status.
+  
+  We encourage people of all backgrounds to apply. We believe
+  that a diversity of perspectives and experiences create a
+  foundation for the best ideas. Come join us in building
+  something meaningful. Even if you don’t meet 100% of the
+  below qualifications, you should still seriously consider
+  applying!
+industries:
+  - Kids + Family
+  - Mobile
+posted_date: 2026-03-26
+url: "https://www.builtinla.com/job/senior-software-engineer-ii-messaging-cloud/8616607"
+source: Built In

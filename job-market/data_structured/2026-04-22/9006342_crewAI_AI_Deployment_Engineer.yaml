@@ -1,0 +1,56 @@
+company:
+  name: crewAI
+  stage: Series A
+  focus: Multi-agent AI orchestration platform for enterprises
+position:
+  title: AI Deployment Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly deploying, building, and
+      integrating multi-agent AI systems using CrewAI's platform.
+      The engineer develops custom agents, tools, and processes,
+      works with RAG patterns, LLM configuration, and prompt
+      engineering—all hands-on AI/agent work, making this ai-first
+      despite the customer-facing nature.
+  responsibilities:
+  - Lead technical integration of CrewAI's platform into enterprise customer systems
+    including API integrations, data pipelines, and custom workflows
+  - Develop and integrate custom AI agents, tools, and processes using Python and
+    CrewAI's libraries
+  - Troubleshoot complex technical issues spanning container orchestration, networking,
+    LLM configuration, and tool integrations
+  - Monitor deployed AI solutions for performance, reliability, and business value,
+    iterating on agent roles and workflows
+  - Act as the primary technical point of contact for enterprise customers post-sale,
+    conducting onboarding and training
+  - Create and maintain deployment runbooks, best practices guides, and architecture
+    documentation
+  - Provide structured feedback to Product and Engineering based on real-world deployment
+    patterns and feature requests
+  - Proactively identify expansion opportunities by mapping customer business objectives
+    to additional CrewAI capabilities
+  use_cases:
+  - Enterprise multi-agent AI system deployment and integration
+  - Custom AI agent and workflow development for business automation
+  - Production AI system monitoring, optimization, and reliability
+  - LLM configuration and RAG pipeline implementation for enterprise customers
+  - Scalable agentic AI infrastructure deployment in containerized environments
+  skills:
+    genai: [CrewAI, RAG, Prompt Engineering, LLM Configuration, Multi-Agent Systems,
+      AI Agent Frameworks]
+    ml: []
+    web: [REST APIs, Authentication Flows]
+    databases: [SQL, NoSQL]
+    data: [Data Pipelines]
+    cloud: [Cloud Platforms]
+    ops: [Docker, Kubernetes, Container Orchestration, Distributed Systems, Observability,
+      CI/CD]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9006342'
+  extracted_at: '2026-04-22T13:17:46.995661'

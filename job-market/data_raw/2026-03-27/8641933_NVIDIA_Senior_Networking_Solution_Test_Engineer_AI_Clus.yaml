@@ -1,0 +1,119 @@
+job_id: 8641933
+title: Senior Networking Solution Test Engineer – AI Cluster Debugging
+company: NVIDIA
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ansible
+  - Bash
+  - Dpu
+  - Ethernet
+  - Infiniband
+  - Linux
+  - Nccl
+  - Nic
+  - Nvlink
+  - Python
+company_size: 21,960 Employees
+description: |
+  We are looking for a Senior Networking Test Engineer with
+  strong system‑level debugging skills to join our End‑to‑End
+  Verification team! You will work on pioneering NVLink,
+  Ethernet and InfiniBand ‑ based AI clusters. Additionally,
+  you will ow complex issues across hardware, system software
+  and AI workloads.
+  
+  What you’ll be doing:
+  
+  - Design and review test and product requirements across the
+    NVLink, Ethernet and InfiniBand / NIC / DPU / Switch
+    portfolio, focusing on large‑scale AI cluster behavior.
+  - Build and maintain realistic customer‑like testbeds,
+    including heterogeneous hardware, OS / driver combinations
+    and complex network fabrics.
+  - Own end‑to‑end cluster troubleshooting: reproduce customer
+    scenarios, triage across the stack and drive issues to
+    root cause and fix.
+  - Read and understand relevant source code to identify
+    defects, validate fixes and improve logging and
+    instrumentation.
+  - Collaborate closely with development teams to debug NCCL,
+    RoCE/RDMA and related networking components using logs,
+    code inspection and targeted experiments.
+  - Define tests and guide the automation team to implement
+    robust, debuggable suites that produce actionable logs,
+    metrics and traces.
+  - Run Regression, Performance, Functional and Scale testing,
+    analyze results and provide clear, data‑driven reports to
+    collaborators.
+  - Profile and benchmark deep learning training and inference
+    workloads, correlating model‑level metrics with system and
+    network telemetry to uncover bottlenecks.
+  
+  What we need to see:
+  
+  - B.A./B.Sc. in Computer Science, Electrical Engineering, or
+    equivalent IT/Network/Systems experience.
+  - 8+ years of hands‑on networking or system‑level testing and
+    debugging on Linux.
+  - Strong Linux networking and debugging skills (for example
+    perf, tcpdump, ethtool, iproute2).
+  - Proven production‑grade debugging experience: forming
+    hypotheses, running experiments, and driving issues to
+    root cause under pressure.
+  - Expertise in host‑side NIC validation and tuning (offloads,
+    queues, interrupts, firmware/driver interactions).
+  - Strong knowledge of AI networking libraries (such as NCCL)
+    and protocols (such as RoCE and RDMA), including
+    performance and correctness debugging.
+  - Ability to read and reason about source code (C/C++/Python
+    or similar) and collaborate closely with developers on
+    fixes.
+  - Solid scripting and automation skills with Bash / Python /
+    Ansible for setup, log collection, and experiment
+    orchestration.
+  - Fast learner, familiar with modern AI tools and workflows,
+    able to adapt quickly.
+  - Excellent analytical, problem‑solving and communication
+    skills, with strong ownership and a collaborative
+    approach.
+  
+  Ways to stand out from the crowd:
+  
+  - Hands‑on debugging of collective communication libraries
+    (for example NCCL) or large‑scale LLM training / inference
+    clusters.
+  - Experience with large cluster environments (tens to
+    thousands of GPUs or nodes), including incident response
+    and post‑mortem analysis.
+  - Deep expertise in tuning and debugging congestion control
+    and lossless Ethernet for AI workloads (for example DCQCN,
+    ECN, PFC).
+  - Familiarity with NVIDIA networking technologies (for example
+    BlueField / BF3, ConnectX NICs) and their software stack
+    and diagnostics.
+  - Experience debugging issues that span multiple layers
+    (L2/L3, transport, AI frameworks) or contributing to
+    open‑source networking / AI systems.
+  
+  At NVIDIA, we value diversity and are committed to creating
+  an inclusive environment for all employees. We do not
+  discriminate on the basis of race, religion, color, national
+  origin, sex, gender, gender expression, sexual orientation,
+  age, marital status, veteran status, or disability status.
+  We provide reasonable accommodations to ensure all
+  individuals can participate in the job application or
+  interview process, perform essential job functions, and
+  receive other benefits and privileges of employment. Join us
+  and be part of a team that's pushing the boundaries of
+  technology and making a real impact in the world.
+industries:
+  - Artificial Intelligence
+  - Computer Vision
+  - Hardware
+  - Robotics
+  - Metaverse
+posted_date: 2026-03-19
+url: "https://builtin.com/job/senior-networking-solution-test-engineer-ai-cluster-debugging/8641933"
+source: Built In

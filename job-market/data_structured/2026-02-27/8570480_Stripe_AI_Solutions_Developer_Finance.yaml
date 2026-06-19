@@ -1,0 +1,59 @@
+company:
+  name: Stripe
+  stage: Late-stage private / Pre-IPO
+  focus: |-
+    Financial infrastructure platform for payments and business
+    operations
+position:
+  title: AI Solutions Developer, Finance
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building, operationalizing, and
+      deploying AI agents for Finance use cases using Agentic AI
+      tools. The developer creates agents, designs knowledge
+      layers, builds data pipelines that feed agents, and hands
+      off working AI solutions to Finance teams—this is hands-on
+      work deploying AI systems, not just supporting
+      infrastructure.
+  responsibilities:
+  - Build and operationalize AI agents for Finance use cases using Agentic Solutions
+    and automation tools, delivering end-to-end solutions from prototype to handoff
+  - Design reusable knowledge layers, validation patterns, and data quality frameworks
+    to improve agent accuracy and reliability
+  - Collaborate with Engineering to scope custom tools and integrations via MCP when
+    platform capabilities are insufficient
+  - Scope automation opportunities independently and navigate platform constraints
+    through creative workarounds
+  - Enable Finance teams through training, documentation, and self-service tooling
+    for long-term ownership
+  - Write and optimize SQL queries for data extraction, transformation, and validation
+    that feed agent workflows
+  - Establish monitoring and observability for deployed agents including metrics,
+    alerting, and incident response
+  - Serve as the escalation point for technical issues and document learnings and
+    best practices for reuse
+  use_cases:
+  - Finance process automation using AI agents
+  - Controllership workflow automation
+  - Treasury and tax operations automation
+  - Finance Operations and Facilities automation
+  - Financial data validation and reconciliation
+  - Knowledge layer creation for Finance domain accuracy
+  skills:
+    genai: [Agentic AI, Prompt engineering, LLM tools, Model Context Protocol (MCP),
+      Conversational interfaces]
+    ml: []
+    web: []
+    databases: []
+    data: [Databricks, ETL/ELT processes, Data pipelines]
+    cloud: []
+    ops: [Version control]
+    languages: [SQL, Python]
+    domains: [Finance domain knowledge]
+    other: [Low-code automation tools, RPA, Workflow automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8570480'
+  extracted_at: '2026-03-03T11:52:54.587703'

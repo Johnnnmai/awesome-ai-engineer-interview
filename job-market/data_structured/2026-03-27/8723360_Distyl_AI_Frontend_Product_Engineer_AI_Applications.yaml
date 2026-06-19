@@ -1,0 +1,52 @@
+company:
+  name: Distyl AI
+  stage: Series B or later
+  focus: |-
+    Applied AI technology company deploying AI-native operations
+    for large enterprises
+position:
+  title: Frontend Product Engineer, AI Applications
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building interfaces for operators to
+      interact with, guide, evaluate, and improve AI systems in
+      production. It includes integrating applications with LLMs,
+      evaluation pipelines, and AI infrastructure, making it
+      hands-on work deploying and working with AI systems.
+  responsibilities:
+  - Design and ship interfaces where operators interact with AI systems for knowledge
+    capture tools, evaluation workflows, and AI configuration interfaces
+  - Collaborate with AI Strategists and customer domain experts to understand real
+    operational workflows
+  - Translate workflows into product experiences that allow operators to interact
+    with and guide AI systems
+  - Move quickly from idea to prototype to production deployment
+  - Integrate applications with LLMs, evaluation pipelines, and internal AI infrastructure
+  - Use user interactions and system behavior to refine product experience and AI
+    systems
+  - Understand how interface design affects system behavior, feedback quality, and
+    user trust
+  use_cases:
+  - Knowledge capture tools for enterprise operations
+  - Evaluation and feedback workflows for AI systems
+  - AI configuration and control interfaces
+  - Workflow orchestration tools
+  - Custom applications for enterprise use cases in telecom, healthcare, insurance,
+    and manufacturing
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: [React, API-driven architectures, Modern component libraries]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Evaluation pipelines]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8723360'
+  extracted_at: '2026-03-27T14:16:10.196020'

@@ -1,0 +1,168 @@
+job_id: 8520039
+title: "Principal Machine Learning Engineer (Personalization, Matchmaking, & Player Experience AI) - Publishing Platform"
+company: Riot Games
+location: Los Angeles, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Flink
+  - Jax
+  - Kafka
+  - PyTorch
+  - Ray
+  - Redis
+  - Sagemaker
+  - TensorFlow
+  - Vertex Ai
+description: |
+  Riot Data Scientists combine their wide technical expertise
+  across data processing, automation, machine learning ("ML"),
+  artificial intelligence ("AI"), and experimental design to
+  inform decisions and develop data-powered products.
+  
+  As a Principal Machine Learning Engineer on the Publishing
+  Platform Data team, you will define and drive the modeling
+  architecture that powers personalization, matchmaking, and
+  social experiences across Riot’s player ecosystem. You’ll
+  partner closely with Product, Data Engineering, and Software
+  Engineering to transform large-scale social graph,
+  matchmaking, and behavioral data into adaptive, fair, and
+  player-centric AI systems. Your work shapes how players
+  connect, discover communities, and experience matchmaking
+  that feels meaningful and equitable.
+  
+  Responsibilities:
+  
+  - Define and lead the modeling architecture for
+    personalization, matchmaking, social graph
+    recommendations, and player/community discovery.
+  - ‘Architect multi-model systems combining skill, preference,
+    trust, and safety signals for fair and meaningful
+    matchmaking
+  - Develop models for skill inference, player behavior
+    prediction, trust & safety signals, and multi-objective
+    optimization across fairness, latency, and experience
+    quality.
+  - Build and optimize real-time inference systems for
+    personalized content, store offers, matchmaking, and
+    player interactions at global scale.
+  - Drive adoption of advanced modeling approaches including
+    contextual bandits, reinforcement learning, graph ML, and
+    session-aware personalization.
+  - Partner with Data Engineering and Product to shape data
+    schemas, feature pipelines, telemetry standards, and model
+    observability across the ML lifecycle.
+  - Define Responsible AI standards and implement fairness
+    audits, bias mitigation, transparency, and safety
+    mechanisms for matchmaking and social systems.
+  - Lead post-launch evaluations of algorithmic impact on player
+    sentiment, community health, and ecosystem stability.
+  - Set organization-wide standards for model optimization
+    (latency, throughput, memory), multi-model orchestration,
+    and drift detection.
+  - Mentor senior ML engineers and data scientists, influencing
+    system design, experimentation strategy, and modeling
+    craft across organizations.
+  - Represent the ML discipline in cross-functional design
+    reviews, driving alignment on technical decisions, data
+    contracts, and long-term strategy
+  
+  Required Qualifications:
+  
+  - 10+ years in ML/Applied AI; 3+ years in principal/staff-
+    level technical leadership.
+  - Experience with large-scale, real-time ML systems
+    (recommendations, personalization, matchmaking).
+  - Expertise in graph ML, RL, and representation learning.
+  - Proficiency in PyTorch, TensorFlow, JAX, and modern
+    data/serving tools (Ray, Kafka, Flink, Redis).
+  - Strong grounding in A/B testing, experiment design, and
+    experience metrics.
+  - Track record of setting ML strategy and standards across
+    teams.
+  
+  Desired Qualifications:
+  
+  - Professional background in gaming, player modeling, or
+    social ecosystems.
+  - Experience with trust & safety, toxicity detection, or
+    community health models.
+  - Familiarity with Vertex AI, SageMaker, or internal large-
+    scale inference systems.
+  - Experience integrating ML systems with live-service game
+    backends.
+  
+  For this role, you'll find success through craft expertise
+  and a collaborative spirit that prioritizes the delight of
+  players. We will look at your past studies and experience,
+  but for this role, we also look for dedicated people with a
+  personal relationship with games. If you embody player
+  empathy and care about players' experiences, this is the
+  role for you!
+  
+  Our Perks:
+  
+  Riot focuses on work/life balance, shown by our open paid
+  time off policy and other perks such as flexible work
+  schedules. We offer medical, dental, and life insurance,
+  parental leave for you, your spouse/domestic partner, and
+  children, and a 401k with company match. Check out our
+  benefits pages for more information.
+  
+  At Riot Games, we put players first. That mission drives
+  every decision in our quest to create games and experiences
+  that make it better to be a player. Whether you’re working
+  directly on a new player-facing experience or you’re
+  supporting the company as a whole, everyone at Riot is part
+  of our mission. And just like in our games, we’re better
+  when we work together. Our goal is to create collaborative
+  teams where you are empowered to bring your unique
+  perspective everyday. If that sounds like the kind of place
+  you want to work, we’re looking forward to your application.
+  
+  It’s our policy to provide equal employment opportunity for
+  all applicants and members of Riot Games, Inc. Riot Games
+  makes reasonable accommodations for handicapped and disabled
+  Rioters and does not unlawfully discriminate on the basis of
+  race, color, religion, sex, sexual orientation, gender
+  identity or expression, national origin, age, handicap,
+  veteran status, marital status, criminal history, or any
+  other category protected by applicable federal and state
+  law. We consider for employment all qualified applicants,
+  including those with criminal histories, in a manner
+  consistent with applicable federal, state and local law,
+  including the California Fair Chance Act, the City of Los
+  Angeles Fair Chance Initiative for Hiring Ordinance, the Los
+  Angeles County Fair Chance Ordinance for Employers, the San
+  Francisco Fair Chance Ordinance, and the Washington Fair
+  Chance Act.
+  
+  Per the Los Angeles County Fair Chance Ordinance, the
+  following core duties may create a basis for disqualifying
+  candidates with relevant criminal histories:
+  
+  - Safeguarding confidential and sensitive Company data
+  - Communication with others, including Rioters and third
+    parties such as vendors, and/or players, including minors
+  - Accessing Company assets, secure digital systems, and
+    networks
+  - Ensuring a safe interactive environment for players and
+    other Rioters
+  
+  These duties are directly related to essential operations,
+  safety, trust, and compliance obligations within our
+  organization. Please note that job duties may evolve based
+  on business needs and additional responsibilities may be
+  assigned as necessary to maintain operational efficiency and
+  security.
+  
+  (Los Angeles Only) Base salary range between $251,700.00 -
+  $351,900.00 USD + incentive compensation + equity + 401K
+  with company match + medical, dental, vision, and life
+  insurance + short and long-term disability + open PTO.
+industries:
+  - eCommerce
+  - Gaming
+posted_date: 2026-03-15
+url: "https://www.builtinla.com/job/principal-data-scientist-personalization-matchmaking-player-experience-ai-publishing-platform/8520039"
+source: Built In

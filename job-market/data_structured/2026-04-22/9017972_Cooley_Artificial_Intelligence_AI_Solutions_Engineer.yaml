@@ -1,0 +1,57 @@
+company:
+  name: Cooley
+  stage: Established (Law Firm)
+  focus: |-
+    Leading technology law firm innovating digital legal
+    practice
+position:
+  title: Artificial Intelligence (“AI”) Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and implementing GenAI-
+      powered workflows, including RAG, agentic techniques,
+      advanced prompting, and MCP server integrations. The
+      engineer is hands-on with AI systems—designing, prototyping,
+      and deploying AI workflow automations, not merely supporting
+      infrastructure for others.
+  responsibilities:
+  - Design, develop, and test legal workflow automations combining deterministic scripting
+    with AI workflows including prompting, RAG, and agentic techniques
+  - Elicit attorney requirements, map end-to-end processes, define decision points,
+    and produce acceptance criteria and test cases
+  - Rapidly build and iterate proofs-of-concept validating feasibility of repeatable
+    AI-powered processes
+  - Create and maintain knowledge sources of truth (playbooks, templates, clause libraries)
+    and implement retrieval strategies with citation traceability
+  - Evaluate AI and technology components and design measurable validation workflows
+    to test use cases and assess feasibility
+  - Build RPA workflows and API integrations to measure and report adoption and performance
+  - Design and maintain knowledge applications ensuring substantive legal content
+    accuracy
+  - Coordinate training, support, documentation and engage with end-users to gather
+    feedback
+  use_cases:
+  - Legal workflow automation combining deterministic logic with AI steps
+  - Retrieval-augmented generation for legal knowledge and document retrieval
+  - Agentic workflows for multi-step legal process automation
+  - Document automation and expert knowledge systems for law practice
+  - Validation and testing of AI use cases in legal domain
+  skills:
+    genai: [RAG (Retrieval-Augmented Generation), Agentic workflows, Prompt engineering,
+      MCP servers, Generative AI]
+    ml: []
+    web: [API integrations]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Agile methodologies]
+    languages: [Python]
+    domains: []
+    other: [RPA (Robotic Process Automation), 'Document automation (docx, xlsx, pdf,
+        pptx)', Microsoft Office suite, iManage, Business analysis, Knowledge management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9017972'
+  extracted_at: '2026-04-22T13:01:19.885122'

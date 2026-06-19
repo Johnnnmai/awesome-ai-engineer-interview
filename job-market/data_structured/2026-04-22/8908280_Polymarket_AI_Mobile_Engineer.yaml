@@ -1,0 +1,57 @@
+company:
+  name: Polymarket
+  stage: Unknown
+  focus: |-
+    Peer-to-peer prediction market platform for real-world event
+    outcomes
+position:
+  title: AI Mobile Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI-powered systems
+      including orchestration pipelines that use LLMs for code
+      generation, automated testing, code review, and autonomous
+      development workflows. The engineer is hands-on with LLMs,
+      agents, and AI-driven automation — not just supporting
+      infrastructure for others' AI work.
+  responsibilities:
+  - Build AI-powered development workflows that automate the mobile development lifecycle
+    from issue creation to pull requests and code review
+  - Own and build mobile-specific AI tooling addressing compilation constraints, CI
+    on macOS, and simulator workflows
+  - Optimize and re-architect existing tooling stack including Slack bots, ticketing
+    systems, codegen tools, and CI pipelines
+  - Develop orchestration systems connecting LLMs, design systems, and codebases into
+    cohesive pipelines that reason about and modify mobile codebases
+  - Collaborate with the iOS team to identify bottlenecks and build tools that improve
+    developer velocity
+  - Experiment with cutting-edge AI tooling, continuously evaluating new models, frameworks,
+    and approaches
+  - Contribute to mobile codebase during high-priority moments to support product
+    development
+  use_cases:
+  - Automated mobile development pipeline from ticket creation to code generation
+    and review
+  - AI-driven code generation for native iOS and mobile applications
+  - Autonomous orchestration of LLMs with design systems and mobile codebases
+  - Developer productivity automation via Slack bots, CI pipelines, and ticketing
+    integration
+  - AI-assisted mobile testing and quality assurance
+  skills:
+    genai: [LLM orchestration, AI agents, Code generation, Prompt engineering, Cursor,
+      Claude API]
+    ml: []
+    web: [Slack API]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, macOS build systems, Mobile build systems, Docker]
+    languages: [Swift, Kotlin, TypeScript]
+    domains: []
+    other: [iOS development, Android development, Figma API, Linear API]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8908280'
+  extracted_at: '2026-04-22T13:56:29.878036'

@@ -1,0 +1,52 @@
+company:
+  name: Morgan Stanley
+  stage: Public
+  focus: |-
+    Global financial services: investment banking, wealth
+    management, securities
+position:
+  title: Senior Software Engineer (AI/ML)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the job title mentioning "AI/ML," the core
+      responsibilities focus on backend engineering for accounting
+      and P&L platforms using Java, Scala, and Python. AI/ML is
+      mentioned only as a secondary "learn and apply" area where
+      it adds value, not as a primary responsibility. The role is
+      building data-intensive business-critical systems that may
+      eventually incorporate AI-assisted analytics, but the
+      engineer is not directly building, training, or deploying ML
+      models.
+  responsibilities:
+  - Build and operate backend services using Java, Scala, and Python
+  - Deploy services on Databricks and cloud platforms
+  - Design secure, scalable APIs for finance workflows and analytics
+  - Collaborate with Finance, Product Control, and UI/reporting teams
+  - Apply strong engineering fundamentals including data structures, testing, and
+    code quality
+  - Learn and apply AI/ML and prompt-based approaches where they add value to the
+    platform
+  - Modernize legacy and spreadsheet-driven workflows into a cloud-native web platform
+  use_cases:
+  - Accounting workflow consolidation and automation
+  - P&L reporting and daily sign-off
+  - Exception analysis for finance teams
+  - AI-assisted analytics for finance workflows
+  - Data quality management across financial systems
+  skills:
+    genai: [Prompt engineering]
+    ml: [AI/ML]
+    web: [Angular, API design]
+    databases: []
+    data: [Databricks]
+    cloud: [Cloud-native services]
+    ops: []
+    languages: [Java, Scala, Python]
+    domains: []
+    other: [Power BI, Tableau]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9058848'
+  extracted_at: '2026-04-22T12:27:23.270559'

@@ -1,0 +1,49 @@
+company:
+  name: Bristol Myers Squibb
+  stage: Public
+  focus: |-
+    Pharmaceutical company transforming patients' lives through
+    science and biotechnology
+position:
+  title: Software Development Engineer III, AI Data Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves developing and deploying generative AI
+      solutions, building RAG pipelines, fine-tuning deep learning
+      models, and implementing AI agents. The position requires
+      hands-on work with LLMs, vector databases, and ML model
+      development - all direct work ON AI systems rather than
+      support infrastructure.
+  responsibilities:
+  - Develop and deliver AI-powered solutions to accelerate drug delivery to patients
+  - Develop ML pipelines that can rapidly incorporate new modeling approaches
+  - Partner with business and IT groups to scale and operationalize AI solutions for
+    competitive advantage
+  - Educate business stakeholders on practical AI applications to drive adoption
+  - Serve as knowledge expert in foundation models and communicate insights to technical
+    and non-technical audiences
+  - Stay current with emerging trends in data science and machine learning to drive
+    innovation
+  use_cases:
+  - Accelerating drug discovery and bringing medicines to patients faster
+  - Market Access and Health Economics and Outcomes Research (HEOR)
+  - Business decision-making through data-driven insights
+  - Competitive advantage in pharmaceutical industry
+  skills:
+    genai: [Generative AI, Prompt engineering, RAG pipelines, LangChain, LlamaIndex,
+      AI agents]
+    ml: [PyTorch, TensorFlow, Hugging Face, Fine-tuning deep learning models]
+    web: []
+    databases: [Vector databases]
+    data: [Data visualization, Data mining, Unstructured data processing]
+    cloud: [AWS, GCP, Azure]
+    ops: [MLflow, MLOps, GitHub]
+    languages: [Python, R, SQL]
+    domains: [Vision models]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8862899'
+  extracted_at: '2026-03-27T13:43:20.386336'

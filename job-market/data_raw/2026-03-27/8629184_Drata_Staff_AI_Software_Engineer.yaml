@@ -1,0 +1,249 @@
+job_id: 8629184
+title: Staff AI Software Engineer
+company: Drata
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Airflow
+  - Chroma
+  - Faiss
+  - Llms
+  - Orchestration Systems
+  - Pinecone
+  - Python
+  - Rag
+  - Temporal
+  - Typescript
+description: |
+  Our Mission & Values: At Drata, we help companies earn and
+  keep the trust of their users, customers, partners, and
+  prospects. We’re the proof layer that shows great companies
+  deserve the trust they aim to build.
+  
+  We live our values every day. Built on Trust means
+  consistency is everything. Act with Integrity by always
+  doing the right thing. Being Customer-Obsessed keeps the
+  people we serve at the center of our work. Competitive Fire
+  drives us to push ourselves harder than anyone else.
+  Diversity brings unique perspectives that lead to better
+  solutions. Automation First ensures we save time and money
+  by making efficiency a priority.
+  
+  Our Culture & Work Style 🚀
+  
+  At Drata, we’re not just building software - we’re building
+  a mindset. Everything we do springs from:
+  
+  - Be a Driver (Owner‑Operator Mentality): Own your work.
+    Improve relentlessly. Deliver results.
+  - Move at Drata Speed (Precision & Velocity): Fast decisions.
+    Quick learning. Immediate impact.
+  - Stay Mission-Driven (Customer‑Obsessed): Challenge
+    assumptions. Deliver value. Stay hungry.
+  
+  If you thrive when you’re empowered, energized, and working
+  with smart, mission-driven people where you’ll feel at home
+  here.
+  
+  Why Join The Drata Team?
+  
+  The best way to understand the Driver’s Mindset is to see it
+  in action. We’re an award-winning, mission-driven team of
+  600+ people worldwide, united by a culture that values
+  trust, speed, and continuous growth.
+  
+  - See the Speed: Watch our CEO, Adam Markowitz, discuss the
+    hyper-growth journey, from $0 to $100M ARR in just four
+    years
+  - Hear the Voice of the Team: Explore our "Life at Drata" page
+    for employee testimonials on our collaborative and the
+    growth opportunities available.
+  - Experience the Impact: See why we are consistently
+    recognized on Fortune's Best Workplaces lists.
+  - Connect with Us on Socials: LinkedIn - follow us for company
+    updates, employee stories, and career news.
+  
+  While we’re ideally looking for someone who can join us in a
+  hybrid capacity from our San Francisco office, we know great
+  talent isn’t limited by zip code. We’ll consider remote
+  candidates across the U.S. who are a strong match for the
+  role.
+  
+  Job Summary:
+  
+  At Drata, we’re rethinking how compliance gets done, and AI
+  is a core part of that. We’re looking for a Staff AI
+  Engineer to help shape how intelligent systems power trust-
+  critical enterprise workflows.
+  
+  This isn’t a “build a feature and move on” role. You’ll help
+  define how AI is architected across the company. You’ll make
+  foundational decisions about what we build, how we measure
+  quality, and where we invest. From early research to
+  production deployment, you’ll own systems end-to-end, and
+  your judgment will directly influence our technical
+  direction.
+  
+  You’ll work at the intersection of LLMs, retrieval systems,
+  agentic workflows, and real-world compliance challenges,
+  partnering closely with product, platform, and security
+  teams to build AI that’s powerful, reliable, and
+  responsible.
+  
+  What you’ll Do:
+  
+  Shape the Architecture
+  
+  - Design and own production AI systems end-to-end (LLM
+    pipelines, RAG, reranking, vector stores, orchestration).
+  - Make thoughtful build/don’t-build decisions based on real
+    data.
+  - Evolve our AI stack over time, from model infrastructure to
+    workflow orchestration to evaluation tooling.
+  
+  Raise the Quality Bar
+  
+  - Design evaluation systems that measure retrieval quality,
+    reasoning accuracy, end-to-end performance.
+  - Build tooling that helps the team iterate confidently and
+    catch regressions early.
+  - Define how we measure success across the platform.
+  
+  Investigate Deeply & Decide with Evidence
+  
+  - Analyze production outputs to identify failure patterns and
+    root causes.
+  - Turn complex findings into clear technical recommendations.
+  - Know when to push forward and when to pause based on data.
+  
+  Lead Across Teams
+  
+  - Be the go-to technical voice for AI architecture decisions.
+  - Influence standards for how LLM systems are built, tested,
+    deployed, and monitored.
+  - Mentor senior engineers through design reviews and hands-on
+    collaboration.
+  - Partner with product and compliance teams to translate
+    domain complexity into clean technical solutions.
+  
+  Build Responsible, Production-Ready AI
+  
+  - Ship systems optimized for latency, cost, reliability, and
+    auditability.
+  - Embed safety guardrails, confidence thresholds, and human-
+    in-the-loop workflows.
+  - Ensure outputs are traceable and explainable.
+  
+  What you’ll bring:
+  
+  - 10+ years of software engineering experience, including 3+
+    years working directly on ML/AI systems.
+  - Real ownership of production LLM systems.
+  - Deep experience with RAG, embeddings, reranking, vector
+    databases (Pinecone, FAISS, Chroma, etc.), and agentic
+    workflows.
+  - Experience designing evaluation frameworks and using
+    quantitative analysis to improve system performance.
+  - Strong Python skills (TypeScript is a plus).
+  - A track record of making architectural decisions that shape
+    team direction.
+  - Experience operating AI systems in production -
+    observability, reliability, cost tradeoffs.
+  - The ability to break down ambiguous, high-stakes problems
+    into structured investigations.
+  - Clear communication skills and comfort working cross-
+    functionally.
+  
+  Nice to have:
+  
+  - Experience in compliance, security, or other regulated
+    domains.
+  - Familiarity with enterprise data platforms or Snowflake-
+    based analytics.
+  - Experience with orchestration systems like Temporal or
+    Airflow.
+  - Experience building or using LLM evaluation platforms (e.g.,
+    Braintrust).
+  - Contributions to technical communities or published work.
+  
+  Why this role matters:
+  
+  You won’t just ship features - you’ll help define how AI is
+  built at Drata.
+  
+  Your work will:
+  
+  - Set the architectural foundation for our AI systems.
+  - Establish the quality bar that lets us move fast with
+    confidence.
+  - Ensure our technical investments are grounded in evidence.
+  - Raise the technical bar across the AI organization.
+  
+  How we support you: At Drata, our people are our strongest
+  advantage—and we prove it with support that exceeds industry
+  standards. Our total rewards package is designed to power
+  your well-being, accelerate your growth, and keep your work-
+  life balance thriving.
+  
+  Explore how we invest in your Life at Drata.
+  
+  - Shared Success: We provide stock equity to ensure that as
+    the company grows, you share directly in that success.
+    Equity gives every employee a sense of ownership and the
+    opportunity to celebrate our wins together—because your
+    contributions don’t just support our progress; they help
+    drive our collective success.
+  - Health & Wellness: Up to 100% employer-paid premiums for
+    medical, dental, and vision coverage for employees and
+    their dependents, along with comprehensive wellness
+    benefits and healthcare concierge services designed to
+    support your needs beyond traditional insurance.
+  - Financial Well-being: A comprehensive suite of financial
+    benefits, including a 401(k) plan, company-paid life and
+    disability insurance, tax-advantaged spending accounts,
+    and a range of discounted voluntary offerings to help you
+    customize and strengthen your overall financial position.
+  - Family Support: We want to support you in life's most
+    important moments, so we offer a paid Parental Leave
+    policy, after six months of employment. Employees also
+    receive access to Kindbody fertility and family-building
+    benefits and dedicated leave specialists who help guide
+    you through the entire process.
+  - Growth & Development: Generous annual stipends for both
+    professional and personal development, empowering you to
+    invest in your continued growth. You’ll also have access
+    to a wide range of internal learning opportunities,
+    ensuring you can build new skills, deepen your expertise,
+    and advance your career with confidence.
+  - Time Off & Flexibility: We believe that to do your best
+    work, you should get the time you need for rest,
+    rejuvenation and recovery. Drata offers a flexible
+    vacation policy, paid holidays, and other perks to
+    recharge.
+  
+  This role will receive a competitive base salary, benefits,
+  and stock, typically in the form of Restricted Stock Units
+  (RSUs). The applicable salary range for this role is:
+  $200,700 - $271,500, subject to change.
+  
+  Tier 1: $200,700 - $271,500
+  
+  Tier 2: $180,600 - $244,400
+  
+  Tier 3: $170,000 - $217,200
+  
+  You can view which tier applies to where you plan to work
+  here. A variety of factors are considered when determining
+  someone’s leveling and compensation–including a candidate’s
+  professional background and experience. These ranges may be
+  modified in the future and final offer amounts may vary from
+  the amounts listed above.
+industries:
+  - Security
+  - Software
+  - Cybersecurity
+  - Automation
+posted_date: 2026-03-02
+url: "https://www.builtinla.com/job/staff-ai-software-engineer/8629184"
+source: Built In

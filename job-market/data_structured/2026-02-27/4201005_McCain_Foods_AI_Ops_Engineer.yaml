@@ -1,0 +1,52 @@
+company:
+  name: McCain Foods
+  stage: null
+  focus: |-
+    Global food manufacturing company specializing in frozen
+    potato products
+position:
+  title: AI Ops Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, training, and
+      deploying generative AI models (GPT, VAE, GANs) and deep
+      learning systems. The engineer will directly implement AI
+      solutions, optimize model performance, and build ML
+      pipelines rather than just supporting AI infrastructure.
+  responsibilities:
+  - Design, develop, and implement generative AI models and algorithms using GPT,
+    VAE, and GANs
+  - Collaborate with cross-functional teams to define AI project requirements aligned
+    with business goals
+  - Optimize existing generative AI models for improved performance, scalability,
+    and efficiency
+  - Develop and maintain AI pipelines including data preprocessing, feature extraction,
+    model training, and evaluation
+  - Drive DevOps and MLOps practices covering CI/CD and monitoring of AI models
+  - Implement monitoring and logging tools to ensure AI model performance and reliability
+  - Apply trusted AI practices to ensure fairness, transparency, and accountability
+    in AI systems
+  - Provide technical mentorship and guidance to junior team members
+  use_cases:
+  - Automate business processes using AI/ML
+  - Improve decision-making through AI-driven insights
+  - Image recognition and object detection
+  - Natural language processing applications
+  - Innovation and digital transformation in food manufacturing
+  skills:
+    genai: [GPT, BERT, Transformer models, Hugging Face]
+    ml: [TensorFlow, PyTorch, Keras, scikit-learn, VAE, GANs, SpaCy, NLTK]
+    web: []
+    databases: [Postgres]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Git, CI/CD, MLflow]
+    languages: [Python, R, SQL]
+    domains: [NLP, Computer Vision]
+    other: [Matplotlib, Seaborn, Plotly, Agile, Scrum]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4201005'
+  extracted_at: '2026-03-03T11:53:34.959006'

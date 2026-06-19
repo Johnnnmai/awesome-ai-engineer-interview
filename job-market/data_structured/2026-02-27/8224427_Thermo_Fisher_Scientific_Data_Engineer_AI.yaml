@@ -1,0 +1,55 @@
+company:
+  name: Thermo Fisher Scientific
+  stage: Public
+  focus: |-
+    Life sciences research, diagnostics, and laboratory
+    solutions
+position:
+  title: Data Engineer AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on work with Generative AI
+      technologies including applying GenAI techniques to build
+      prototypes, developing with LangChain/LangGraph/OpenAI APIs,
+      and working with fine-tuning, embeddings, and LLM
+      evaluation. While it has data engineering components, the
+      explicit AI requirements and responsibilities make this an
+      AI-first role.
+  responsibilities:
+  - Perform data analysis, exploration, and preparation to support business use cases
+  - Build and develop data pipelines in Python/Databricks and collaborate with cloud
+    data platforms
+  - Apply Generative AI techniques to compose prototypes, develop insights, and improve
+    solutions
+  - Work with diverse teams to grasp requirements and convert them into data-driven/AI-driven
+    results
+  - Conduct unit testing, validation, and data quality checks for datasets, pipelines,
+    and AI outputs
+  - Build and develop RESTful APIs to enable communication between different software
+    components
+  - Follow agile and DevOps practices for continuous development, testing, and deployment
+  - Contribute to data governance, documentation, and guidelines for balanced data
+    and AI solutions
+  use_cases:
+  - Life sciences research acceleration
+  - Laboratory efficiency improvement
+  - Patient diagnostics enhancement
+  - Drug development and delivery to market
+  - Analytical problem solving
+  skills:
+    genai: [LLM frameworks, LangGraph, LangChain, OpenAI APIs, embeddings, LLM evaluation]
+    ml: [transformers, fine-tuning]
+    web: [RESTful APIs]
+    databases: []
+    data: [PySpark, Databricks, pandas]
+    cloud: [AWS, Azure, GCP]
+    ops: [DataOps, MLOps, AI/GenAI Ops, DevOps]
+    languages: [Python, SQL]
+    domains: []
+    other: [Power BI, Tableau]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8224427'
+  extracted_at: '2026-03-03T12:15:08.822285'

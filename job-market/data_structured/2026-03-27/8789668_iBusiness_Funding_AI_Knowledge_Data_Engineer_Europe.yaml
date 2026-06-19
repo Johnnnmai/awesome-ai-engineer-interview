@@ -1,0 +1,56 @@
+company:
+  name: iBusiness Funding
+  stage: Unknown
+  focus: |-
+    Financial technology company providing AI, automation, and
+    software infrastructure for banks, credit unions, and
+    lenders
+position:
+  title: AI Knowledge Data Engineer (Europe)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying AI
+      systems, specifically RAG workflows with LLMs, knowledge
+      graphs, cognitive memory architectures, and training data
+      operations for LLM fine-tuning. The position requires
+      directly implementing retrieval mechanisms, optimizing LLM
+      systems, and designing AI agent memory systems.
+  responsibilities:
+  - Architect, implement, and optimize RAG workflows by integrating local LLMs with
+    retrieval mechanisms
+  - Design, build, and maintain scalable data pipelines for ingesting, transforming,
+    indexing, and retrieving data
+  - Design and scale addressable services and tools for LLMs and Agents to orchestrate
+    workflows
+  - Orchestrate and scale training data operations including data curation, versioning,
+    and lineage tracking for LLM training and fine-tuning
+  - Develop and maintain ontologies, knowledge graphs, and semantic data models
+  - Implement and optimize knowledge retrieval strategies including dense/sparse retrieval
+    and ranking algorithms
+  - Design cognitive memory systems for AI agents enabling persistent knowledge retention
+  - Evaluate and integrate new technologies in LLMs, RAG, information retrieval, and
+    knowledge representation
+  use_cases:
+  - Financial technology infrastructure for banks, credit unions, and lenders
+  - Enterprise knowledge retrieval and contextual information access
+  - AI agent systems with persistent memory and contextual awareness
+  - Retrieval-augmented generation for diverse business applications
+  - Domain-specific knowledge integration and reasoning
+  skills:
+    genai: [RAG, LLMs, Llama, Prompt engineering, Vector search, AI agents]
+    ml: [TensorFlow, PyTorch, LLM fine-tuning]
+    web: []
+    databases: [FAISS, Pinecone, Weaviate, Milvus, Elasticsearch]
+    data: [Knowledge graphs, Ontologies, RDF, OWL, SPARQL, Spark, Airflow, Data pipelines,
+      Distributed data processing, Information retrieval]
+    cloud: []
+    ops: [Kubeflow]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8789668'
+  extracted_at: '2026-03-27T13:59:46.724066'

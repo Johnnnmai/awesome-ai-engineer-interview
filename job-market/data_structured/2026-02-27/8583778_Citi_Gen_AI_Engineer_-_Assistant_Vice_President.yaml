@@ -1,0 +1,49 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global financial services and banking institution
+position:
+  title: Gen AI Engineer - Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is ai-first because it involves hands-on
+      implementation and fine-tuning of generative AI models,
+      prompt engineering, developing AI-powered workflows, and
+      deploying AI models to production. The position requires
+      direct work with LLMs, RAG systems, and fine-tuning
+      techniques like LoRA/QLoRA.
+  responsibilities:
+  - Implement and fine-tune generative AI models under guidance of senior team members
+  - Contribute to prompt engineering and development of AI-powered workflows
+  - Assist with deployment, monitoring, and maintenance of AI models in production
+    environments
+  - Collaborate with data scientists and engineers to ensure seamless integration
+    of AI capabilities
+  - Perform data preprocessing, feature engineering, and API development for AI applications
+  - Participate in code reviews, testing, and documentation to ensure quality and
+    reliability
+  - Stay updated with advancements in GenAI and share relevant learnings with the
+    team
+  use_cases:
+  - Controls technology solutions for banking/financial services
+  - AI-powered workflow automation
+  - Generative AI feature development and product integration
+  - Enterprise AI-driven applications
+  skills:
+    genai: [LoRA, QLoRA, prompt engineering, fine-tuning, RAG, hybrid search, LangChain,
+      LlamaIndex, LLMs]
+    ml: [PyTorch, TensorFlow, Keras, Hugging Face]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker]
+    languages: [Python]
+    domains: []
+    other: [Git]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8583778'
+  extracted_at: '2026-03-03T11:59:22.354634'

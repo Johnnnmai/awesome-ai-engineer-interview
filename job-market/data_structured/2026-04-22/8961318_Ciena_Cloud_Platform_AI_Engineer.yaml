@@ -1,0 +1,56 @@
+company:
+  name: Ciena
+  stage: Public
+  focus: High-speed optical networking and connectivity solutions
+position:
+  title: Cloud Platform & AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      While the role involves using and maintaining AWS AI
+      services like Bedrock and SageMaker, the primary focus is on
+      cloud platform infrastructure — automation, security,
+      compliance, governance, and reliability. The AI component is
+      one of several responsibilities within a broader cloud
+      platform engineering role, and the position is about
+      enabling internal teams to use AI services rather than
+      building or training models directly.
+  responsibilities:
+  - Design and evolve automation frameworks for public cloud infrastructure deployments
+    at scale
+  - Enable secure cloud adoption by automating governance, audit, security, and compliance
+    controls
+  - Use, develop and maintain AI services across AWS platform (Cloud Native)
+  - Build and maintain infrastructure and application monitoring to detect, prevent,
+    and respond to incidents
+  - Drive cloud reliability, performance, and cost optimisation through best practices
+    and continuous improvement
+  - Develop tools and mechanisms that eliminate repetitive operational tasks and improve
+    engineering efficiency
+  - Review code, assess technical implementations, and provide actionable feedback
+    to improve platform tooling
+  - Participate in on-call rotations and serve as an escalation point for cloud service
+    incidents
+  use_cases:
+  - Cloud infrastructure automation and governance at scale
+  - Secure multi-account AWS platform management
+  - Internal AI service enablement using AWS Bedrock and SageMaker
+  - Infrastructure and application monitoring and incident response
+  - Cloud cost optimization and operational efficiency
+  skills:
+    genai: []
+    ml: [AI/ML Concepts]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, AWS Bedrock, AWS SageMaker]
+    ops: [Infrastructure as Code (IaC), CI/CD, Docker, Kubernetes, Terraform, Cloud
+        Security]
+    languages: [Python, JavaScript, TypeScript, Java, Go, Ruby]
+    domains: []
+    other: [DNS, Load Balancing, SSL/TLS, TCP/IP, SOLID Design Principles]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8961318'
+  extracted_at: '2026-04-22T12:37:19.825016'

@@ -1,0 +1,58 @@
+company:
+  name: BlackRock
+  stage: Public
+  focus: Investment management and financial technology services
+position:
+  title: AI-Augmented Full Stack Engineer, Aladdin Engineering, Post Trade Accounting
+    - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on work building and deploying
+      agentic AI systems, including multi-agent orchestration
+      using frameworks like LangChain, LangGraph, AutoGen, and
+      CrewAI. The position involves architecting autonomous task
+      execution pipelines and integrating LLMs into production
+      applications, which is direct work ON AI systems rather than
+      supporting infrastructure.
+  responsibilities:
+  - Design, develop, and maintain web applications across frontend and backend using
+    AI-powered development tools for accelerated delivery
+  - Architect, build, and operationalize agentic AI workflows including multi-agent
+    orchestration and autonomous task execution pipelines
+  - Provide technical leadership incorporating AI-assisted development practices into
+    product roadmap and team standards
+  - Implement responsive UI applications using Angular with API-first backend integration
+  - Collaborate with cross-functional teams across multiple offices and countries
+    to deliver high-quality software solutions
+  - Integrate AI-assisted testing, code review, and documentation generation into
+    standard SDLC workflows
+  - Manage stakeholders to drive business decisions and communicate value of AI-augmented
+    development
+  - Ensure scale, resilience, and stability through risk identification, AI-assisted
+    code reviews, and robust test suites
+  use_cases:
+  - Automating complex post-trade investment lifecycle operational processes
+  - Investment accounting and reporting platform automation
+  - Performance calculation engines for investment portfolios
+  - Client reporting systems and reconciliation platforms
+  - Derivative management systems
+  - Engineering productivity augmentation through AI-assisted development workflows
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, CrewAI, Google ADK, RAG, Prompt Engineering,
+      Multi-agent Orchestration, OpenAI API, Anthropic API, Azure OpenAI, Google Vertex
+        AI, GitHub Copilot, MCP (Model Context Protocol)]
+    ml: []
+    web: [Angular, Spring, NodeJS, Express, REST APIs]
+    databases: [Sybase, NoSQL databases]
+    data: [Event-driven Processing]
+    cloud: [Azure, AWS, GCP]
+    ops: [Azure DevOps, CI/CD, Docker, Microservices Architecture]
+    languages: [Java, Python, JavaScript, TypeScript, SQL]
+    domains: [Investment Accounting, Post-trade Operations, Financial Services]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8125455'
+  extracted_at: '2026-03-27T13:22:47.889842'

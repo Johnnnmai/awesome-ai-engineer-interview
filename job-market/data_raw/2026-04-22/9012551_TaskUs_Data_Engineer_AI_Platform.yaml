@@ -1,0 +1,111 @@
+job_id: 9012551
+title: Data Engineer (AI Platform)
+company: TaskUs
+location: 
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Airflow
+  - AWS
+  - Kafka
+  - Python
+  - Spark
+  - SQL
+company_size: 10,564 Employees
+description: |
+  About TaskUs: TaskUs is a provider of outsourced digital
+  services and next-generation customer experience to fast-
+  growing technology companies, helping its clients represent,
+  protect and grow their brands. Leveraging a cloud-based
+  infrastructure, TaskUs serves clients in the fastest-growing
+  sectors, including social media, e-commerce, gaming,
+  streaming media, food delivery, ride-sharing, HiTech,
+  FinTech, and HealthTech.
+  
+  The People First culture at TaskUs has enabled the company
+  to expand its workforce to approximately 45,000 employees
+  globally. Presently, we have a presence in twenty-three
+  locations across twelve countries, which include the
+  Philippines, India, and the United States.
+  
+  It started with one ridiculously good idea to create a
+  different breed of Business Processing Outsourcing (BPO)! We
+  at TaskUs understand that achieving growth for our partners
+  requires a culture of constant motion, exploring new
+  technologies, being ready to handle any challenge at a
+  moment’s notice, and mastering consistency in an ever-
+  changing world.
+  
+  What We Offer: At TaskUs, we prioritize our employees' well-
+  being by offering competitive industry salaries and
+  comprehensive benefits packages. Our commitment to a People
+  First culture is reflected in the various departments we
+  have established, including Total Rewards, Wellness, HR, and
+  Diversity. We take pride in our inclusive environment and
+  positive impact on the community. Moreover, we actively
+  encourage internal mobility and professional growth at all
+  stages of an employee's career within TaskUs. Join our team
+  today and experience firsthand our dedication to supporting
+  People First.
+  
+  Role: Data Engineer (AI Platform) Experience: 3–8 years
+  
+  About the Role
+  
+  You will build the data backbone of our AI platform—enabling
+  scalable ingestion, transformation, and access to structured
+  and unstructured data (e.g., transcripts, metadata).
+  
+  Responsibilities
+  
+  - Build and maintain data ingestion pipelines (batch +
+    streaming)
+  - Design ETL/ELT workflows for transcripts and metadata
+  - Implement data normalization, tagging, and enrichment
+    pipelines
+  - Manage storage layers (S3, data lakes, vector stores)
+  - Enable secure, API-based access to customer data (VPC-based)
+  - Ensure data quality, reliability, and observability
+  
+  Required Skills
+  
+  - Strong experience with Python / SQL
+  - Experience with data pipeline tools (Airflow, Spark, Kafka,
+    etc.)
+  - Hands-on AWS experience (S3, Glue, Lambda, Kinesis, Athena)
+  - Understanding of data modeling and schema design
+  - Experience with APIs and data integration
+  
+  Nice to Have
+  
+  - Experience with vector databases (Pinecone, OpenSearch,
+    etc.)
+  - Exposure to GenAI pipelines / embeddings workflows
+  - Knowledge of data privacy and governance practices
+  
+  Impact
+  
+  You will enable reliable, scalable, and secure data flow
+  powering all AI capabilities.
+  
+  How We Partner To Protect You: TaskUs will neither solicit
+  money from you during your application process nor require
+  any form of payment in order to proceed with your
+  application. Kindly ensure that you are always in
+  communication with only authorized recruiters of TaskUs.
+  
+  DEI: In TaskUs we believe that innovation and higher
+  performance are brought by people from all walks of life. We
+  welcome applicants of different backgrounds, demographics,
+  and circumstances. Inclusive and equitable practices are our
+  responsibility as a business. TaskUs is committed to
+  providing equal access to opportunities. If you need
+  reasonable accommodations in any part of the hiring process,
+  please let us know.
+  
+  We invite you to explore all TaskUs career opportunities and
+  apply through the provided URL
+  https://www.taskus.com/careers/.
+posted_date: 2026-04-10
+url: "https://builtin.com/job/data-engineer-ai-platform/9012551"
+source: Built In

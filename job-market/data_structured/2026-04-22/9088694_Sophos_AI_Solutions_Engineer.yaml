@@ -1,0 +1,48 @@
+company:
+  name: Sophos
+  stage: Public (acquired Secureworks, 600K+ orgs)
+  focus: |-
+    Cybersecurity solutions: MDR, endpoint, network, email, and
+    cloud security
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development of AI-powered
+      agents, workflows, and automation solutions. The engineer
+      will build production-grade AI agents, develop scalable
+      agentic solutions, and guide the Sales AI roadmap — all
+      directly working on AI systems (agents/automations), not
+      just supporting infrastructure.
+  responsibilities:
+  - Guide and develop the Sales AI roadmap, defining strategy and priorities for AI-powered
+    solutions
+  - Build production-grade AI agents and automations that improve Sales performance
+  - Develop scalable agentic solutions for use across the sales organization
+  - Enable citizen developers across Sales to leverage AI tools and workflows
+  - Serve as the primary AI subject matter expert for the organization
+  - Collaborate with Sales, Sales Engineering, Operations, IT Enterprise Architecture,
+    and Development teams
+  - Ensure AI solutions are practical, secure, scalable, and outcome-driven
+  use_cases:
+  - AI-powered sales enablement and performance optimization
+  - Automated sales workflows and agent-driven processes
+  - Citizen developer empowerment across the sales organization
+  - Intelligent automation across the customer lifecycle
+  skills:
+    genai: [AI Agents, Agentic Workflows, Prompt Engineering, LLM Integration]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [Cloud Platforms]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Solution Architecture, AI Product Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9088694'
+  extracted_at: '2026-04-22T13:20:27.939230'

@@ -1,0 +1,199 @@
+job_id: 9088306
+title: Senior Python Engineer, AI
+company: eBay
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Asyncio
+  - Ci/Cd
+  - Containerized Deployment
+  - Fastapi
+  - Python
+  - Rest Apis
+description: |
+  At eBay, we're more than a global ecommerce leader — we’re
+  changing the way the world shops and sells. Our platform
+  empowers millions of buyers and sellers in more than 190
+  markets around the world. We’re committed to pushing
+  boundaries and leaving our mark as we reinvent the future of
+  ecommerce for enthusiasts.
+  
+  Our customers are our compass, authenticity thrives, bold
+  ideas are welcome, and everyone can bring their unique
+  selves to work — every day. We're in this together,
+  sustaining the future of our customers, our company, and our
+  planet.
+  
+  Join a team of passionate thinkers, innovators, and dreamers
+  — and help us connect people and build communities to create
+  economic opportunity for all.
+  
+  About the team and the role:
+  
+  WHI Solutions, Inc., an eBay company, operates Nexpart, a
+  B2B marketplace built for professional automotive and truck
+  parts businesses. Nexpart plays a critical role in helping
+  customers efficiently source and purchase the parts they
+  need to keep their operations running smoothly and serve
+  their own customers with speed and confidence. The Nexpart
+  engineering team builds and evolves the technology behind
+  this marketplace. We are seeking a Senior Python Engineer,
+  AI to help design, develop, and maintain scalable backend
+  services, integrations, and platform capabilities that
+  support critical business workflows and ongoing product
+  innovation. We are seeking an engineer with strong Python
+  backend experience and a track record of building reliable,
+  scalable services. In this role, you will work with cross-
+  functional partners to develop practical solutions that
+  support critical workflows and improve the performance and
+  resilience of the platform.
+  
+  What you will accomplish:
+  
+  - Define technical requirements in partnership with product,
+    business, and engineering stakeholders
+  - Design, develop, and maintain Python-based applications &
+    services that power core platform workflows
+  - Build and integrate scalable APIs and microservices for
+    internal and external consumers
+  - Own backend system design for service reliability,
+    scalability, maintainability, and operational excellence
+  - Optimize performance using distributed technologies (e.g.,
+    caching, message queues, event-driven architectures)
+  - Implement robust observability (logging, tracing, metrics),
+    troubleshoot production issues, and improve system
+    resiliency
+  - Participate in code reviews as both a contributor and
+    reviewer; contribute to engineering standards and best
+    practices
+  - Collaborate closely with development, QA, and business teams
+    to deliver high-quality releases
+  - Create and maintain system and technical documentation as
+    needed
+  - Leverage AI-powered development tools to improve
+    productivity, code quality, and delivery speed
+  
+  Applied AI/LLM Focus
+  
+  - Build and productionalize LLM-enabled features (e.g.,
+    workflow automation, intelligent routing, summarization,
+    extraction)
+  - Design tool/function-calling services and orchestration
+    layers for multi-step tasks
+  - Implement RAG-style retrieval patterns (embeddings, vector
+    search, ranking) where it improves reliability and
+    accuracy
+  - Develop evaluation and quality frameworks for AI outputs
+    (offline evals, regression tests, safety/reliability
+    checks)
+  - Collaborate on responsible AI practices: guardrails, data
+    handling, deterministic behaviors, and auditability
+  
+  What you will bring:
+  
+  - BA/BS in Computer Science or a related field, or equivalent
+    practical experience
+  - 5+ years of professional Python development experience in
+    production environments
+  - Strong experience building asynchronous, API-driven
+    microservices (e.g., FastAPI, asyncio)
+  - Solid understanding of scalable backend architectures and
+    service-to-service integrations
+  - Experience with distributed systems patterns (queues,
+    caching, pub/sub, background processing)
+  - Strong understanding of REST APIs,
+    authentication/authorization, and secure system design
+  - Experience with CI/CD pipelines and containerized deployment
+    workflows
+  - Strong familiarity with Git and modern version control
+    workflows
+  - Excellent English communication skills, both written and
+    verbal
+  - Ability to work effectively in cross-functional, fast-paced
+    environments
+  
+  Preferred Qualifications:
+  
+  - Experience integrating LLM APIs in production and building
+    robust, testable AI-enabled services
+  - Familiarity with prompt design, structured outputs,
+    tool/function calling, and conversation/workflow state
+    management
+  - Experience with embeddings, vector databases, retrieval
+    pipelines, and/or ranking approaches
+  - Experience building AI evaluation harnesses (golden
+    datasets, regression testing, quality metrics)
+  - Exposure to ML concepts relevant to applied product systems
+    (classification, extraction, ranking, personalization)
+  - Experience with real-time or conversational interfaces (chat
+    and/or voice) and streaming systems
+  - Proficiency in Spanish (or other major marketplace
+    languages) to help evaluate and validate multilingual AI
+    outputs
+  - Experience supporting high-traffic, consumer-facing
+    applications
+  
+  Why You’ll Love Working Here
+  
+  - Build backend systems that support a global marketplace at
+    scale
+  - Work on high-impact platform capabilities that increasingly
+    leverage LLM/AI/ML
+  - Opportunity to influence technical direction and
+    architecture
+  - A culture that values innovation, ownership, and continuous
+    learning
+  - Competitive compensation and comprehensive benefits
+  
+  Additional Details
+  
+  The base pay range for this position is expected in the
+  range below:
+  
+  $118,800 - $205,600
+  
+  Base pay offered may vary depending on multiple
+  individualized factors, including location, skills, and
+  experience. The total compensation package for this position
+  may also include other elements, including a target bonus
+  and restricted stock units (as applicable) in addition to a
+  full range of medical, financial, and/or other benefits
+  (including 401(k) eligibility and various paid time off
+  benefits, such as PTO and parental leave). Details of
+  participation in these benefit plans will be provided if an
+  employee receives an offer of employment.
+  
+  If hired, employees will be in an “at-will position” and the
+  Company reserves the right to modify base salary (as well as
+  any other discretionary payment or compensation program) at
+  any time, including for reasons related to individual
+  performance, Company or individual department/team
+  performance, and market factors.
+  
+  eBay is an equal opportunity employer. All qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, national origin, sex,
+  sexual orientation, gender identity, veteran status, and
+  disability, or other legally protected status. If you have a
+  need that requires accommodation, please contact us at
+  talent@ebay.com. We will make every effort to respond to
+  your request for accommodation as soon as possible. View our
+  accessibility statement to learn more about eBay's
+  commitment to ensuring digital accessibility for people with
+  disabilities. It is unlawful in Massachusetts to require or
+  administer a lie detector test as a condition of employment
+  or continued employment. An employer who violates this law
+  shall be subject to criminal penalties and civil liability.
+  
+  We use cookies to enhance your experience and may use AI
+  tools for administrative tasks in the hiring process. To
+  learn how we handle your personal data and use AI
+  responsibly, please visit our Talent Privacy Notice, Privacy
+  Center and AI Hiring Guidelines.
+industries:
+  - eCommerce
+  - Retail
+posted_date: 2026-04-17
+url: "https://www.builtinla.com/job/senior-python-engineer-ai/9088306"
+source: Built In

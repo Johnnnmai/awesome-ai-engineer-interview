@@ -1,0 +1,54 @@
+company:
+  name: Herald
+  stage: Series A
+  focus: Digital infrastructure for commercial insurance via API
+position:
+  title: Senior Software Engineer -AI Products
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs and ML models,
+      including building classification pipelines, data extraction
+      models, and model orchestration for the Babbix AI-native
+      platform. The engineer will work directly with LLMs, vector
+      databases, and AI technologies to build and ship AI-driven
+      capabilities.
+  responsibilities:
+  - Build core AI-product features for enterprise brokers, owning large new areas
+    within the product
+  - Work across backend, frontend, and interact with LLMs and ML models for model
+    orchestration
+  - Transform messy email submissions into structured, actionable data using AI pipelines
+  - Deliver experiments at high velocity to engage customers across the entire product
+    lifecycle
+  - Build reusable frontend components, API patterns, and data flows to accelerate
+    product development
+  - Contribute to internal tooling, testing infrastructure, and CI/CD to improve velocity
+    and reliability
+  - Collaborate directly with clients to gather feedback and translate it into product
+    improvements
+  - Help evolve Google Cloud Platform-based architecture as new product features are
+    launched
+  use_cases:
+  - Commercial insurance submission automation and quote generation
+  - Email-to-structured-data transformation for insurance documents
+  - Broker workflow orchestration from inbox to quote-ready submissions
+  - Classification and data extraction from unstructured insurance communications
+  - AI-native platform for insurance broker productivity
+  skills:
+    genai: [LLMs]
+    ml: [Classification pipelines, Data extraction models, Model evaluation, Human-in-the-loop
+        review workflows]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [Google Cloud Platform, Amazon Web Services, Microsoft Azure]
+    ops: [Docker, CI/CD]
+    languages: [Python, JavaScript, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8597005'
+  extracted_at: '2026-03-03T11:56:39.177211'

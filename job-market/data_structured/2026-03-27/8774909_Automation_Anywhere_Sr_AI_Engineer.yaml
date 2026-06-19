@@ -1,0 +1,55 @@
+company:
+  name: Automation Anywhere
+  stage: null
+  focus: |-
+    Agentic Process Automation (APA) with AI-powered automation,
+    RPA, and specialized AI agents
+position:
+  title: Sr. AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI
+      systems including multi-agent workflows using
+      LangChain/LangGraph, AutoGen, or CrewAI, implementing RAG
+      pipelines, and working with LLM APIs. The position requires
+      building production-ready AI implementations, not just
+      supporting infrastructure.
+  responsibilities:
+  - Build and maintain multi-agent workflows from solution design documents into production-ready
+    implementations
+  - Implement tool integrations with APIs, ERP, CRM, and ITSM systems with error handling
+    and graceful degradation
+  - Build end-to-end RAG pipelines including ingestion, chunking, embedding, vector
+    store setup, and retrieval evaluation
+  - Monitor and improve retrieval quality and integrate RAG as knowledge backend for
+    agents
+  - Develop and maintain RPA task bots and implement AI agent to RPA handoff logic
+  - Write unit and integration tests, contribute to CI/CD pipelines and prompt versioning
+  - Monitor deployed systems and participate in incident response for agent failure
+    modes
+  - Participate in stakeholder use-case discovery and document pipelines and agent
+    configurations
+  use_cases:
+  - Enterprise process automation using AI agents
+  - Agentic Process Automation (APA) for workflow orchestration
+  - Document processing and knowledge retrieval via RAG
+  - Hybrid RPA and AI agent automation workflows
+  - Business process discovery and automation
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, CrewAI, OpenAI API, Anthropic API, Google
+        Gemini API, Prompt Engineering, RAG, LoRA, QLoRA]
+    ml: []
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS AI Services, Azure AI Services, GCP AI Services]
+    ops: [LangSmith, Arize, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [UiPath, Automation Anywhere, Power Automate]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8774909'
+  extracted_at: '2026-03-27T15:53:15.885065'

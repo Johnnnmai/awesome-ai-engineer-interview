@@ -1,0 +1,53 @@
+company:
+  name: Conga
+  stage: null
+  focus: |-
+    Configure, Price, Quote, Contract Lifecycle Management,
+    Document Automation platform
+position:
+  title: Staff Software Engineer- AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work with generative AI
+      systems, including end-to-end development from data
+      collection and model training to deployment and
+      optimization. The position requires building GenAI solutions
+      using frameworks like LangChain/LangGraph and deploying AI
+      models at scale.
+  responsibilities:
+  - Design, develop, and optimize high-quality code for complex AI/ML software applications
+    and systems
+  - Lead end-to-end development of generative AI solutions, from data collection and
+    model training to deployment and optimization
+  - Take ownership of architecture and technical decisions for AI/ML projects
+  - Mentor junior engineers and review code for adherence to best practices
+  - Lead execution and delivery of features, managing project scope, timelines, and
+    priorities
+  - Contribute to architectural design and planning of new features ensuring scalability
+    and reliability
+  - Design and implement robust test suites and advocate for CI/CD pipelines
+  - Monitor and maintain health of deployed services, perform root cause analysis
+    for incidents
+  use_cases:
+  - Configure, Price, Quote (CPQ) automation with AI capabilities
+  - Contract Lifecycle Management with intelligent document processing
+  - Document Automation powered by generative AI
+  - Enterprise business process automation on unified data platform
+  - AI-enhanced CRM and ERP integration solutions
+  skills:
+    genai: [LangChain, LangGraph]
+    ml: [TensorFlow, PyTorch, Transformers, Generative models]
+    web: [FastAPI]
+    databases: [BigQuery, MongoDB, PostgreSQL, MSSQL, Snowflake]
+    data: [Kafka, DataFlow]
+    cloud: [GCP, AWS, Azure, Vertex AI]
+    ops: [Docker, Kubernetes, CI/CD, Terraform, GitHub Actions, MLOps, GKE]
+    languages: [Python]
+    domains: [NLP]
+    other: [PyTest, Celery]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8672577'
+  extracted_at: '2026-03-27T14:27:49.026815'

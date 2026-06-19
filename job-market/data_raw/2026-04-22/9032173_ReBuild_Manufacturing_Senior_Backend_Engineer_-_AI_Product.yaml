@@ -1,0 +1,227 @@
+job_id: 9032173
+title: Senior Backend Engineer - AI Product
+company: "Re:Build Manufacturing"
+location: Los Angeles, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Anthropic Claude
+  - Celery
+  - Docker
+  - Fastapi
+  - GCP
+  - Langchain
+  - Langgraph
+  - Openai
+  - Postgres
+  - Python
+description: |
+  The Opportunity
+  
+  If you've worked alongside hardware teams, you know the
+  damage that results from a missed change request or critical
+  context that was never relayed to the right person. Reflow
+  exists to close that gap. We're building the first AI-
+  powered platform purpose-built for hardware product
+  development, one that listens across the tools teams already
+  use, maintains a structured picture of every program, and
+  proactively coordinates across disciplines when things
+  inevitably change.
+  
+  This is a ground-floor opportunity for a hands-on backend
+  engineer to build the core services and AI infrastructure
+  powering this platform, with the support of a parent company
+  leading innovation in engineering and manufacturing.
+  
+  Who We're Looking For
+  
+  We're seeking a backend engineer who ships reliable, well-
+  designed systems and takes ownership of the services they
+  build. The ideal candidate has production experience with
+  Python, FastAPI, and PostgreSQL, and is comfortable building
+  everything from REST APIs to background task pipelines to AI
+  agent infrastructure. You should already be using AI coding
+  tools like Cursor, Copilot, or Claude to accelerate your
+  work, with excitement about building the backend that powers
+  the first AI-native platform for complex hardware
+  development.
+  
+  This senior engineer will work alongside our engineering
+  team, AI researchers, and head of product to build the
+  services that turn unstructured inputs (call transcripts,
+  emails, documents, datasheets) into structured engineering
+  artifacts (requirements, project plans, dependencies),
+  orchestrate ambient AI agents for proactive coordination,
+  and serve real-time project intelligence to users. The role
+  is hands-on - you will be coding daily while contributing to
+  system design decisions and helping establish backend
+  engineering best practices as we grow.
+  
+  What You'll Do
+  
+  Your day-to-day responsibilities will include:
+  
+  ● Designing and implementing RESTful APIs with OpenAPI specs
+  and auto-generated client SDKs using SQLAlchemy and Postgres
+  
+  ● Developing ingestion pipelines using Celery and Redis that
+  connect to tools teams already use (file storage, messaging,
+  email) and extract structured engineering artifacts from
+  unstructured inputs
+  
+  ● Building and extending agentic AI workflows using
+  LangChain, LangGraph, and related frameworks for structured
+  data extraction, risk detection, dependency analysis, and
+  proactive team coordination
+  
+  ● Integrating LLM APIs (Anthropic Claude, OpenRouter) with
+  streaming (SSE), error handling, and cost optimization
+  
+  ● Deploying and operating services on GCP (Cloud Run, Cloud
+  SQL, Memorystore) with Terraform
+  
+  ● Writing well-tested, maintainable code and participating
+  in code reviews to establish engineering best practices
+  
+  Technical Requirements
+  
+  Must Have:
+  
+  ● 5+ years building production backend systems, with 3+
+  years in Python
+  
+  ● Demonstrated proficiency using AI coding tools (Cursor,
+  Copilot, Claude, etc.) to accelerate development
+  
+  ● Strong experience with FastAPI or similar async Python web
+  frameworks
+  
+  ● Production experience with PostgreSQL, including schema
+  design, migrations, and query optimization
+  
+  ● Hands-on experience with task queues and background
+  processing (Celery, Redis, or similar)
+  
+  ● Understanding of API design, authentication patterns
+  (OIDC/JWT), and service architecture
+  
+  ● Experience with containerized deployments (Docker) and
+  CI/CD pipelines
+  
+  ● Ability to balance rapid iteration with maintainable,
+  well-tested code
+  
+  Highly Valuable:
+  
+  ● Have worked in early-stage 0 to 1 startup environments
+  
+  ● Production experience integrating LLM APIs (Anthropic,
+  OpenAI, etc.) and building AI-powered features with agent
+  orchestration frameworks (LangChain, LangGraph, or similar)
+  
+  ● Hands-on experience with GCP services (Cloud Run, Cloud
+  SQL, Pub/Sub, Secret Manager) and Infrastructure-as-code
+  experience with Terraform
+  
+  ● Experience with data ingestion pipelines and ETL workflows
+  
+  ● Background in B2B SaaS platforms, project management
+  tools, or workflow automation products
+  
+  ● Understanding of hardware development, engineering
+  workflows, or project management concepts (phases, gates,
+  dependencies)
+  
+  What We Offer
+  
+  Real Impact: The opportunity to build purpose-built tooling
+  for an entire industry that has never had it
+  
+  Customer Access: Direct exposure to hundreds of real
+  hardware projects annually through Re:Build's engineering
+  and manufacturing companies
+  
+  Technical Growth: Hands-on work with cutting-edge AI
+  technologies solving novel technical challenges
+  
+  Autonomy: Backed by Re:Build while operating with startup
+  independence
+  
+  Benefits: Full health/dental/vision, bonus program, generous
+  401K, paid time off, annual learning stipend
+  
+  Equity & Growth: Participation in Re:Build's LTIP equity
+  program and opportunity for founder equity in potential
+  spin-out
+  
+  Compensation & Location
+  
+  Location: Remote-first, with preference for candidates in
+  Boston, Seattle, Los Angeles, or other cities with Re:Build
+  offices
+  
+  Compensation: Base salary range of $165,000 to $215,000 with
+  performance bonus and long-term incentive plan offered.
+  Potential equity stake under independent spinout scenario.
+  
+  Please note this role is restricted to US citizens or lawful
+  permanent residents only due to exposure to export
+  controlled information.
+  
+  About Re:Build Manufacturing
+  
+  Re:Build Manufacturing is a growing family of industrial and
+  engineering businesses combining enabling technologies,
+  operational superiority, and strategic M&A to build
+  America's next generation industrial company. At Re:Build we
+  deploy deep expertise in engineering, operations management,
+  and technology to supercharge the performance of our member
+  companies. We harness deep professional expertise and a
+  candid, principled operating culture to drive differentiated
+  outcomes. Ours is a fast-paced environment where individuals
+  can stretch and be challenged to pursue their fullest
+  potential.
+  
+  Re:Build was founded to pioneer a profitable model for the
+  revitalization of US manufacturing. We've assembled a
+  powerful set of complementary capabilities and lines of
+  business that enable us to pursue a wide range of end
+  markets. Our acquired businesses are grounded in build-to-
+  print and by-the-hour engineering and design services, and
+  we're using their combined
+  
+  expertise to migrate to increasingly sophisticated program
+  development and production, as well as the generation of our
+  own products. Our unique set of capabilities lend themselves
+  to highly complex systems and products, and we offer
+  customers a range of services including product and systems
+  design, automation, fabrication, assembly, and large volume
+  contract manufacturing. Our customers span a wide array of
+  industries including aerospace, defense, mobility,
+  healthcare, pharma, biotech, clean tech, chemicals, energy,
+  lifestyle, food production, and industrial equipment.
+  
+  We want to work with people that reflect the communities in
+  which we operate
+  
+  Re:Build Manufacturing is proud to be an Equal Employment
+  Opportunity and Affirmative Action employer. We do not
+  discriminate based upon race, color, religion, gender,
+  gender identity or expression, sexual orientation, national
+  origin, genetics, disability, age, veteran status, marital
+  status, parental status, cultural background, organizational
+  level, work styles, tenure and life experiences. Or for any
+  other reason.
+  
+  Re:Build is committed to providing reasonable accommodations
+  for qualified individuals with disabilities in our job
+  application procedures. If you need assistance or an
+  accommodation due to a disability, you may contact us at
+  accommodations.ta@ReBuildmanufacturing.com or you may call
+  us at 617.909.6275.
+industries:
+  - Automation
+  - Manufacturing
+posted_date: 2026-04-13
+url: "https://www.builtinla.com/job/senior-backend-engineer-ai-product/9032173"
+source: Built In

@@ -1,0 +1,57 @@
+company:
+  name: E.L.F. Beauty
+  stage: Public
+  focus: |-
+    Beauty and cosmetics company with multi-brand portfolio
+    including e.l.f. Cosmetics, skincare, and lifestyle beauty
+    brands
+position:
+  title: Lead, AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, deploying, and
+      fine-tuning AI models including LLMs, implementing RAG
+      systems, and managing the full model lifecycle. The position
+      requires direct work with LLM APIs, vector databases, and
+      fine-tuning techniques, making it an ai-first role.
+  responsibilities:
+  - Design and develop production-grade AI and machine learning models for real-world
+    applications including recommendation engines, NLP, computer vision, and forecasting
+  - Lead model lifecycle management from experimentation and prototyping to deployment
+    and monitoring
+  - Collaborate with cross-functional teams including product, data engineering, MLOps,
+    and business to define AI-driven features and services
+  - Perform feature engineering, data wrangling, and exploratory data analysis on
+    large-scale structured and unstructured datasets
+  - Build and maintain scalable AI infrastructure using cloud services and MLOps best
+    practices
+  - Mentor junior AI engineers in model development, evaluation, and deployment
+  - Continuously improve model performance by leveraging new research, retraining
+    on new data, and optimizing pipelines
+  - Stay current with latest developments in AI, machine learning, and deep learning
+    through research and conferences
+  use_cases:
+  - Recommendation engines for beauty products
+  - Natural language processing applications
+  - Computer vision systems
+  - Demand and sales forecasting
+  - AI assistants and multi-agent systems
+  - Enterprise AI solutions across the organization
+  skills:
+    genai: [RAG, Prompt engineering, LoRA, QLoRA, LLM fine-tuning, Multi-agent systems,
+      OpenAI API, Anthropic API]
+    ml: []
+    web: [React]
+    databases: [Qdrant, AWS RDS, MySQL, MariaDB]
+    data: []
+    cloud: [AWS, AWS Bedrock, AWS ECS]
+    ops: [CloudWatch, Terraform, AWS CDK, CI/CD]
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8464419'
+  extracted_at: '2026-03-03T12:08:21.416007'

@@ -1,0 +1,55 @@
+company:
+  name: Conga
+  stage: null
+  focus: |-
+    Business process automation platform for CPQ, contract
+    lifecycle management, and document automation with AI
+    capabilities
+position:
+  title: Manager,Software Engineer-AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role leads a team building statistical and machine
+      learning models that support product features, including
+      responsibility for ML model training, versioning,
+      evaluation, monitoring, and productionizing ML models. The
+      hands-on nature of building and deploying ML systems,
+      including generative AI, NLP, and personalization solutions,
+      places this firmly in ai-first.
+  responsibilities:
+  - Lead and mentor a team of software engineers working on next generation AI solutions
+  - Drive strategy, vision and roadmap for building robust, scalable AI/ML foundations
+    and platforms including feature stores, distributed ML training, and model versioning
+  - Productionize ML models and integrate them into real-time and batch applications
+  - Collaborate with data science partners and domain engineering teams to build AI/ML
+    foundations for personalization, NLP, forecasting, recommendations, and generative
+    AI
+  - Provide architectural guidance and technical oversight for AI/ML systems ensuring
+    scalability, security, and production readiness
+  - Partner with Product, Data Science, ML-Ops, and DevOps teams to accelerate delivery
+    and innovation
+  - Manage cross-functional teams to achieve strategic and tactical business outcomes
+    using agile practices
+  use_cases:
+  - Personalization and recommendations
+  - Natural language processing (NLP)
+  - Forecasting and predictive analytics
+  - Generative AI applications
+  - Document automation and intelligent contract management
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn, HuggingFace Transformers]
+    web: [RESTful API design, Microservices architecture, Spring]
+    databases: [BigQuery]
+    data: [DataFlow]
+    cloud: [GCP, GKE, GCS, Vertex AI, AWS, Azure]
+    ops: [MLflow, Kubeflow, Terraform, GitHub Actions, Concourse, Ansible]
+    languages: [Python, Java, Scala, C#]
+    domains: []
+    other: [PyTest, xUnit, Selenium]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8672576'
+  extracted_at: '2026-03-27T14:14:01.709326'

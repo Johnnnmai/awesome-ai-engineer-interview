@@ -1,0 +1,191 @@
+job_id: 8971326
+title: "Intermediate Backend Engineer, SSCS: AI Governance"
+company: GitLab
+location: IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Clickhouse
+  - GraphQL
+  - Postgres
+  - Python
+  - Rspec
+  - Ruby On Rails
+company_size: 2,500 Employees
+description: |
+  GitLab is the intelligent orchestration platform for
+  DevSecOps. GitLab enables organizations to increase
+  developer productivity, improve operational efficiency,
+  reduce security and compliance risk, and accelerate digital
+  transformation. More than 50 million registered users and
+  more than 50% of the Fortune 100* trust GitLab to ship
+  better, more secure software faster.
+  
+  The same principles built into our products are reflected in
+  how our team works: we embrace AI as a core productivity
+  multiplier, with all team members expected to incorporate AI
+  into their daily workflows to drive efficiency, innovation,
+  and impact. GitLab is where careers accelerate, innovation
+  flourishes, and every voice is valued. Our high-performance
+  culture is driven by our values and continuous knowledge
+  exchange, enabling our team members to reach their full
+  potential while collaborating with industry leaders to solve
+  complex problems. Co-create the future with us as we build
+  technology that transforms how the world develops software.
+  
+  *Fortune 500® is a registered trademark of Fortune Media IP
+  Limited, used under license. Claim based on GitLab data.
+  Fortune 100 refers to the top 20% ranked companies in the
+  2025 Fortune 500 list, published in June 2025. Fortune and
+  Fortune Media IP Limited are not affiliated with, and do not
+  endorse products or services of GitLab.
+  
+  An overview of this role
+  
+  As an Intermediate Backend Engineer on the AI Governance
+  team at GitLab, you'll help build a paid product designed
+  for regulated enterprise organizations that need to audit,
+  govern, and demonstrate compliance for AI agent usage inside
+  GitLab. This is product work with direct customer impact.
+  You'll contribute to features that support visibility into
+  how AI agents and related tools are used, and you'll help
+  lay the foundation for governance controls that enterprise
+  customers rely on.
+  
+  You'll join a small team with clear product direction,
+  technical guidance from experienced backend engineers, and
+  meaningful ownership from the start. This role is well
+  suited for an engineer with experience in backend
+  development who writes solid tests and wants to grow by
+  shipping real features in an evolving product area. You'll
+  work in GitLab's all-remote, asynchronous environment,
+  collaborating across teams as the AI Governance roadmap
+  continues to expand.
+  
+  What you’ll do
+  
+  - Implement well-scoped backend features across the AI
+    Governance product area, including event normalization
+    utilities, storage layer enhancements, API endpoint
+    additions, export support, and registry integrations,
+    delivering production-ready work that ships on schedule.
+  - Build and maintain automated test coverage for your work
+    using RSpec or equivalent tools to improve reliability and
+    support safe, consistent releases.
+  - Grow your knowledge of AI governance, agent-related product
+    architecture, and integration patterns through hands-on
+    delivery and teamwork so you can contribute more
+    effectively as the roadmap evolves.
+  - Work closely with senior and staff engineers to deliver
+    solutions that are reliable, maintainable, and aligned
+    with the product direction and release goals.
+  - Work asynchronously with cross-functional partners and
+    nearby engineering teams working on related governance and
+    AI capabilities to help maintain smooth delivery across
+    teams.
+  - Take ownership of your scoped work and deliver with a high
+    level of follow-through in a fast-moving product area,
+    closing tasks with clear status updates and consistent
+    execution.
+  
+  What you’ll bring
+  
+  - Demonstrated backend development experience building and
+    shipping production features.
+  - Proficiency with Ruby on Rails and solid fundamentals in
+    PostgreSQL.
+  - Experience building and maintaining automated test coverage
+    with RSpec or an equivalent testing framework.
+  - Experience communicating clearly in writing with teammates
+    in an async environment.
+  - Demonstrated ability to drive scoped work through completion
+    and follow through on commitments.
+  - Experience with, or exposure to, audit event systems,
+    telemetry pipelines, or compliance-focused tooling.
+  - Experience learning new technical domains and applying that
+    understanding to product development.
+  - Additional experience with GraphQL APIs, event-driven
+    architecture patterns, Python, or data-focused databases
+    such as ClickHouse.
+  
+  About the team
+  
+  You'll join the AI Governance team within GitLab's Secure,
+  Scale, and Compliance area. We focus on helping
+  organizations gain visibility into and govern AI usage
+  inside GitLab. Our work spans two broad problem spaces:
+  visibility, such as audit events, usage tracking, and
+  observability, and policy controls, such as controls that
+  help protect projects and meet compliance requirements.
+  
+  We are building this team alongside a parallel AI Governance
+  team, with both groups contributing to different parts of a
+  fast-changing roadmap. You'll work with a distributed group
+  of engineers and collaborate with adjacent AI and Continuous
+  Delivery teams as we integrate governance capabilities more
+  deeply into the platform. It's an interesting team for
+  engineers who want to work on emerging product challenges at
+  the intersection of AI, compliance, and large-scale
+  enterprise software. For more on how related teams work, see
+  Team Handbook Page.
+  
+  
+  
+  Remote-Global
+  
+  How GitLab Supports Full-Time Employees
+  
+  - Benefits to support your health, finances, and well-being
+  - Flexible Paid Time Off
+  - Team Member Resource Groups
+  - Equity Compensation & Employee Stock Purchase Plan
+  - Growth and Development Fund
+  - Parental leave
+  - Home office support
+  
+  Please note that we welcome interest from candidates with
+  varying levels of experience; many successful candidates do
+  not meet every single requirement. Additionally, studies
+  have shown that people from underrepresented groups are less
+  likely to apply to a job unless they meet every single
+  qualification. If you're excited about this role, please
+  apply and allow our recruiters to assess your application.
+  
+  Country Hiring Guidelines: GitLab hires new team members in
+  countries around the world. All of our roles are remote,
+  however some roles may carry specific location-based
+  eligibility requirements. Our Talent Acquisition team can
+  help answer any questions about location after starting the
+  recruiting process.
+  
+  Privacy Policy: Please review our Recruitment Privacy
+  Policy. Your privacy is important to us.
+  
+  GitLab is proud to be an equal opportunity workplace and is
+  an affirmative action employer. GitLab’s policies and
+  practices relating to recruitment, employment, career
+  development and advancement, promotion, and retirement are
+  based solely on merit, regardless of race, color, religion,
+  ancestry, sex (including pregnancy, lactation, sexual
+  orientation, gender identity, or gender expression),
+  national origin, age, citizenship, marital status, mental or
+  physical disability, genetic information (including family
+  medical history), discharge status from the military,
+  protected veteran status (which includes disabled veterans,
+  recently separated veterans, active duty wartime or campaign
+  badge veterans, and Armed Forces service medal veterans), or
+  any other basis protected by law. GitLab will not tolerate
+  discrimination or harassment based on any of these
+  characteristics. See also GitLab’s EEO Policy and EEO is the
+  Law. If you have a disability or special need that requires
+  accommodation, please let us know during the recruiting
+  process.
+industries:
+  - Cloud
+  - Security
+  - Software
+  - Cybersecurity
+  - Automation
+posted_date: 2026-04-07
+url: "https://builtin.com/job/intermediate-backend-engineer-sscs-ai-governance/8971326"
+source: Built In

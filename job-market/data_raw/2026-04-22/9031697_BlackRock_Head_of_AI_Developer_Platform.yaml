@@ -1,0 +1,236 @@
+job_id: 9031697
+title: Head of AI Developer Platform
+company: BlackRock
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Agile
+  - AI
+  - Ci/Cd
+  - Context Graphs
+  - Development Tools
+  - Observability
+  - Sdlc
+  - Testing Tools
+company_size: 25,000 Employees
+description: |
+  About this role
+  
+  Aladdin is BlackRock’s unified technology and data platform
+  used by BlackRock and many of the world’s largest Asset
+  Managers and Investors. The Aladdin Platform Engineering
+  organization is the Engineering Pillar within Aladdin
+  responsible for building and operating the technology
+  platform that powers Aladdin and includes the Developer
+  Platform, the Core Platform and the Control Platform. Within
+  Aladdin Platform Engineering, we are looking to bring on a
+  senior technology leader to be the Head of AI Developer
+  Platform.
+  
+  Responsibilities
+  
+  1. Own AI Native SDLC & Engineering Productivity
+  
+  - Define and operationalize an AIfirst, agent driven SDLC
+    embedded into the Developer Platform, spanning design,
+    build, test, release, and operate phases, including:
+    - Agent assisted design, code generation, refactoring, and
+      documentation
+    - Agent driven test generation, coverage analysis, defect
+      intelligence, and built-in quality and resilience
+      signals
+    - Intelligent release validation, change risk assessment, and
+      deployment readiness
+    - Continuous functional, integration, regression, performance,
+      and resilience testing orchestrated as first-class SDLC
+      stages rather than post hoc controls
+    - Continuous learning loops that improve software, delivery
+      workflows, and AI agents over time
+  - AI Vendor, Tooling & Platform Integration
+    - Drive evaluation, selection, and governance of AI developer
+      tools and vendors integrated into the AI Developer
+      Platform, ensuring capabilities are secure, production
+      grade, and aligned to Aladdin’s architecture, risk
+      posture, and engineering standards.
+    - Ensure AI tools are platform integrated rather than point
+      solutions, delivered through standardized onboarding,
+      quality gates, observability, lifecycle management, and
+      Responsible AI controls in partnership with Risk,
+      Security, Legal, and Architecture.
+  - Lead adoption of PDLC agents delivered through the Developer
+    Platform, aligned to core engineering personas and
+    architecture/design principles:
+    - Developers:
+    - Testers / QE:
+    - Operators / SREs:
+    - Ensure quality, resilience, and risk prevention are embedded
+      as default behaviors within PDLC agents, rather than
+      treated as separate processes or late-stage controls.
+  
+  2. Own the evolution of continuous validation capabilities
+  across the SDLC, including:
+  
+  - Performance, load, spike, and concurrency testing integrated
+    into CI/CD pipelines
+  - Chaos engineering and fault injection experiments executed
+    in preproduction environments
+  - Game Day testing and operational readiness simulations to
+    validate incident response, observability, and recovery
+    paths
+  - Establish clear skill expectations and enablement paths for
+    developers, testers, and operators working in an AI
+    augmented delivery model,
+  
+  
+  
+  3. AI Developer Platform Context Engineering & Enablement
+  
+  - Own the workforce enablement and distribution layer for the
+    Developer Platform (through IDEs), ensuring AI
+    capabilities and PDLC agents are delivered as secure,
+    reusable, composable platform services within Engineering
+    Services rather than fragmented tools.
+  - Lead context engineering and context graph strategy for the
+    Developer Platform , including:
+    - Defining and evolving enterprise context graphs
+    - Ensuring AI agents and PDLC agents have governed access to
+      the right context at the right time, with controlled
+      blast radius
+  - Driving reuse of context primitives across SDLC, agent-based
+    validation, and operational workflows
+  
+  4. Own platform level capabilities for test data and
+  environment management, including:
+  
+  - Production aligned preproduction environments that enable
+    reliable end-to-end validation
+  - Repeatable, governed test data strategies (refresh,
+    reset/replay, synthetic data) that support functional,
+    performance, and resilience testing
+  - Pre-Prod Environment stability, drift detection, and
+    telemetry-based health signals as inputs to release
+    decisions
+  
+  - Be a Champion and Lead governance for context ownership,
+    freshness, versioning, and reuse to prevent drift and
+    repeated failures at scale.
+  
+  5. Engineering Excellence, Culture & Leadership
+  
+  - Build and lead a high-performance, globally distributed AI
+    Developer Platform organization within Engineering
+    Services.
+  - Evangelize AI native, agent driven delivery practices across
+    Aladdin while balancing innovation, operational stability,
+    and risk discipline.
+  
+  7. Governance, Risk & Responsible AI
+  
+  - Own policy, governance, and control frameworks for AI usage
+    and PDLC agents within the Developer Platform, ensuring
+    alignment with firmwide risk, compliance, and Responsible
+    AI standards.
+  - Own and mitigate technology and AI related risks for the
+    Developer Platform, representing Engineering Services in
+    risk and control governance forums.
+  
+  8. Collaboration & Enterprise Impact
+  
+  - Work closely with business leaders, product managers, domain
+    architects, and delivery teams to translate business
+    requirements into scalable, secure AI Developer Platform
+    and PDLC agent capabilities.
+  - Collaborate with Platform Engineering, Product Engineering,
+    Product leadership to ensure the Developer Platform meets
+    the growth demands of Aladdin’s clients and partners.
+  
+  For New York, NY Only the salary range for this position is
+  USD$275,000.00 - USD$350,000.00 . Additionally, employees
+  are eligible for an annual discretionary bonus, and benefits
+  including healthcare, leave benefits, and retirement
+  benefits. BlackRock operates a pay-for-performance
+  compensation philosophy and your total compensation may vary
+  based on role, location, and firm, department and individual
+  performance.
+  
+  Our benefits To help you stay energized, engaged and
+  inspired, we offer a wide range of benefits including a
+  strong retirement plan, tuition reimbursement, comprehensive
+  healthcare, support for working parents and Flexible Time
+  Off (FTO) so you can relax, recharge and be there for the
+  people you care about.
+  
+  Our hybrid work model
+  
+  BlackRock’s hybrid work model is designed to enable a
+  culture of collaboration and apprenticeship that enriches
+  the experience of our employees, while supporting
+  flexibility for all. Employees are currently required to
+  work at least 4 days in the office per week, with the
+  flexibility to work from home 1 day a week. Some business
+  groups may require more time in the office due to their
+  roles and responsibilities. We remain focused on increasing
+  the impactful moments that arise when we work together in
+  person – aligned with our commitment to performance and
+  innovation. As a new joiner, you can count on this hybrid
+  model to accelerate your learning and onboarding experience
+  here at BlackRock.
+  
+  About BlackRock
+  
+  At BlackRock, we are all connected by one mission: to help
+  more and more people experience financial well-being.  Our
+  clients, and the people they serve, are saving for
+  retirement, paying for their children’s educations, buying
+  homes and starting businesses. Their investments also help
+  to strengthen the global economy: support businesses small
+  and large; finance infrastructure projects that connect and
+  power cities; and facilitate innovations that drive
+  progress.
+  
+  This mission would not be possible without our smartest
+  investment – the one we make in our employees. It’s why
+  we’re dedicated to creating an environment where our
+  colleagues feel welcomed, valued and supported with
+  networks, benefits and development opportunities to help
+  them thrive.
+  
+  For additional information on BlackRock, please visit
+  @blackrock | Twitter: @blackrock | LinkedIn:
+  www.linkedin.com/company/blackrock
+  
+  BlackRock is proud to be an equal opportunity workplace. We
+  are committed to equal employment opportunity to all
+  applicants and existing employees, and we evaluate qualified
+  applicants without regard to race, creed, color, national
+  origin, sex (including pregnancy and gender
+  identity/expression), sexual orientation, age, ancestry,
+  physical or mental disability, marital status, political
+  affiliation, religion, citizenship status, genetic
+  information, veteran status, or any other basis protected
+  under applicable federal, state, or local law. View the
+  EEOC’s Know Your Rights poster and its supplement and the
+  pay transparency statement.
+  
+  
+  
+  BlackRock is committed to full inclusion of all qualified
+  individuals and to providing reasonable accommodations or
+  job modifications for individuals with disabilities. If
+  reasonable accommodation/adjustments are needed throughout
+  the employment process, please email
+  Disability.Assistance@blackrock.com. All requests are
+  treated in line with our privacy policy.
+  
+  BlackRock will consider for employment qualified applicants
+  with arrest or conviction records in a manner consistent
+  with the requirements of the law, including any applicable
+  fair chance law.
+industries:
+  - Fintech
+  - Information Technology
+  - Financial Services
+posted_date: 2026-04-13
+url: "https://builtin.com/job/head-ai-developer-platform/9031697"
+source: Built In

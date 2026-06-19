@@ -1,0 +1,57 @@
+company:
+  name: Boeing
+  stage: Public
+  focus: Aerospace manufacturing, defense products, and space systems
+position:
+  title: Experienced AI/ML Engineer - Predictive Maintenance
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on traditional ML/DL for predictive
+      maintenance of aircraft systems - anomaly detection, fault
+      classification, RUL estimation, and prognostics. While
+      LLMs/RAG are mentioned as skills, the core work is physics-
+      based modeling and classical ML techniques for aircraft
+      health monitoring, not building or deploying LLM-based
+      systems.
+  responsibilities:
+  - Analyze aircraft fleet operational data to design and prototype diagnostic and
+    prognostic solutions for aircraft sub-systems
+  - Apply Prognostics & Health Monitoring techniques to assess health state and monitor
+    component failures for aircraft systems
+  - Develop algorithms to estimate Remaining Useful Life (RUL) and identify early-stage
+    degradation patterns
+  - Implement anomaly detection, fault isolation and health prediction using physics,
+    probabilistic, and machine learning approaches in Python and MATLAB/Simulink
+  - Build and productionize ML models (anomaly detection, RUL, fault classification)
+    using TensorFlow, PyTorch, scikit-learn with MLOps practices
+  - Implement edge/cloud architectures and scalable storage for fleet-scale telemetry
+    and real-time analytics
+  - Apply explainable AI, privacy-preserving methods, and federated learning where
+    appropriate
+  - Execute AI testing, verification & validation including simulation, adversarial
+    checks, and post-deployment monitoring
+  use_cases:
+  - Predictive maintenance for commercial and military aircraft systems
+  - Aircraft Prognostics & Health Management (PHM) and health monitoring
+  - Remaining Useful Life (RUL) estimation for aircraft components
+  - Anomaly detection and fault isolation in aircraft subsystems
+  - Fleet-scale telemetry analytics and real-time monitoring
+  - Diagnostics and prognostics for aviation systems
+  skills:
+    genai: [LLMs, RAG (Retrieval-Augmented Generation), GenAI]
+    ml: [TensorFlow, PyTorch, scikit-learn, MATLAB/Simulink, Federated learning, Explainable
+        AI, Kalman Filter, Probabilistic modelling]
+    web: [GoJS]
+    databases: [NoSQL databases, Vector databases, Time-series databases, Data lakes]
+    data: [Pandas, NumPy, Power BI, Tableau]
+    cloud: []
+    ops: [Docker, Kubernetes, MLOps, DevOps]
+    languages: [Python, SQL]
+    domains: [NLP, Image preprocessing]
+    other: [Digital twin]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8659688'
+  extracted_at: '2026-03-27T13:11:41.927076'

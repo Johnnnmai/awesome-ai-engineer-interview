@@ -1,0 +1,56 @@
+company:
+  name: PlayStation
+  stage: Public
+  focus: |-
+    Interactive gaming entertainment, digital store and commerce
+    platform
+position:
+  title: Senior ML/AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, deploying, and
+      orchestrating LLM-based systems including agentic workflows,
+      using tools like LangChain and vector databases. The
+      candidate will architect and implement intelligent
+      automation systems powered by generative AI, making this an
+      ai-first role focused on directly building and deploying
+      AI/ML solutions.
+  responsibilities:
+  - Architect, build, test, and monitor AWS-based workflows to solve critical business
+    problems using ML and AI
+  - Design, optimize, and deploy large-scale automation efforts utilizing LLMs and
+    generative AI
+  - Develop microservices for ML-driven applications using Python or Java ensuring
+    scalability and resilience
+  - Orchestrate and evaluate agentic workflows for intelligent automation
+  - Ensure high levels of service availability through on-call rotation and disaster
+    recovery best practices
+  - Deploy all work in automated, repeatable fashion optimizing infrastructure for
+    cost and efficiency
+  - Partner with DevOps, data science, and data engineering teams to deploy scalable
+    AI solutions
+  use_cases:
+  - Automating business workflows using LLMs and generative AI
+  - Trust and security for PlayStation digital store transactions
+  - Fraud prevention and risk management
+  - Customer experience optimization
+  - Payment processing support
+  - Commerce ecosystem protection
+  skills:
+    genai: [LangChain, LLM APIs, Agentic workflows, Multi-modal LLM systems, Prompt
+        evaluation frameworks]
+    ml: []
+    web: [Microservices]
+    databases: [Vector databases, DynamoDB]
+    data: [Kinesis, Airflow, Kafka, Flink, Spark, dbt]
+    cloud: [AWS, EKS/ECS, Lambda, SNS, SQS]
+    ops: [Kubernetes, Docker, MLflow, Terraform, CI/CD, Datadog, Splunk]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7830498'
+  extracted_at: '2026-03-03T12:47:29.579455'

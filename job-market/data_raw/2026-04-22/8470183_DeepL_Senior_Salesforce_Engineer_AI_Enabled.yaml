@@ -1,0 +1,251 @@
+job_id: 8470183
+title: Senior Salesforce Engineer (AI Enabled)
+company: DeepL
+location: London, GBR
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Apex
+  - Flows
+  - Lightning Web Components
+  - Salesforce
+  - Salesforce Apis
+  - SOQL
+company_size: 1,265 Employees
+description: |
+  Meet DeepL
+  
+  DeepL is a global AI product and research company focused on
+  building secure, intelligent solutions to complex business
+  problems. Over 200,000 business customers and millions of
+  individuals across 228 global markets today trust DeepL's
+  Language AI platform for human-like translation, improved
+  writing and real-time voice translation. Founded in 2017 by
+  CEO Jaroslaw “Jarek” Kutylowski, DeepL now has over 1,000
+  passionate employees and is supported by world-renowned
+  investors including Benchmark, IVP, and Index Ventures.
+  
+  Our goal is to become the global leader in trusted,
+  intelligent AI technology, building products that drive
+  better communication, foster connections, and create a
+  meaningful impact. To achieve this, we need talented people
+  like you to join our journey. If you’re ready to shape the
+  future of AI and grow your career in a fast-moving, purpose-
+  driven environment, DeepL is your next destination.
+  
+  What sets us apart
+  
+  What sets us apart is our blend of cutting-edge AI
+  technology, meaningful work, and a culture where people
+  truly thrive. We’re a team of innovators, researchers, and
+  creators driven by a shared purpose to unlock human
+  potential by making work simpler, smarter, and more
+  connected.
+  
+  When we share what it’s like to work at DeepL, the reactions
+  are overwhelmingly positive. This might be because of our
+  technology that helps millions of people and businesses
+  communicate and work better every day, or because of the
+  trust, curiosity, and care that shape our culture.
+  
+  What we know for sure is this: being part of DeepL means
+  joining a team dedicated to innovation, growth, and well-
+  being. Discover more about life at DeepL
+  onLinkedIn,Instagram, and our Blog.
+  
+  Meet the team behind this journey
+  
+  DeepL is continuing to evolve its Salesforce platform to
+  better support go-to-market operations. This role is a
+  hands-on Salesforce Developer position, focused on building
+  and maintaining reliable solutions across Salesforce and
+  supporting integrations within the GTM systems landscape.
+  
+  You will work primarily on Salesforce development and
+  configuration, contributing to solutions that improve GTM
+  efficiency and data quality. You will collaborate closely
+  with senior engineers, the Salesforce Manager, and cross-
+  functional stakeholders to implement well-defined designs
+  and follow established platform standards.
+  
+  What will you be doing at DeepL?
+  
+  DeepL is an AI company. This is not a traditional Salesforce
+  role.
+  
+  We are building an AI-enabled, engineering-led Salesforce
+  platform that underpins our global go-to-market operations.
+  This role is for engineers who don’t just build solutions,
+  but use AI to rethink how solutions are designed, delivered,
+  and scaled.
+  
+  You will be expected to:
+  
+  - Use tools like ChatGPT and Claude Code daily
+  - Accelerate delivery, testing, documentation, and analysis
+    using AI
+  - Challenge existing approaches and introduce new, more
+    efficient ways of working
+  
+  If you are not actively using AI in your current role, this
+  is not the right position.
+  
+  The roleThis is a senior IC role with architectural
+  influence.
+  
+  You will:
+  
+  - Design first, build second
+  - Own delivery end-to-end
+  - Raise the engineering bar across the platform
+  - Introduce scalable patterns across Salesforce and the wider
+    GTM ecosystem
+  
+  This is a high-accountability role. Output, clarity of
+  thinking, and engineering quality matter more than activity.
+  
+  Your responsibilities1. Solution Delivery
+  
+  - Build across Apex, LWC, Flows, and integrations
+  - Make deliberate trade-offs (not defaulting to Flows or code
+    blindly)
+  - Deliver across Lead → Opportunity → Q2C → Renewals
+  
+  2. AI-Enabled Engineering
+  
+  - Use AI tools to:
+    - Accelerate development (code generation, refactoring)
+    - Improve testing (test case generation, edge case
+      identification)
+    - Enhance documentation (auto-generating and maintaining
+      design artefacts)
+    - Analyse requirements and propose better solutions
+  - Demonstrate how AI improves your output, not just that you
+    use it
+  
+  3. Design & Architecture
+  
+  - Produce clear, structured design artefacts before building
+  - Explicitly document trade-offs:
+    - Declarative vs Apex
+    - Sync vs Async
+    - Native vs Integrated
+  - Build for scale, not just for delivery
+  
+  4. Integrations & Data
+  
+  - Design robust, observable integrations
+  - Define clear data contracts between systems
+  - Own failure handling and recovery strategies
+  
+  5. Engineering Standards
+  
+  - Contribute to DevOps, documentation, and delivery standards
+  - Reduce technical debt
+  - Act as a technical reviewer and mentor
+  
+  Qualities we look for
+  
+  - Salesforce Platform Developer I (minimum)
+  - Strong Apex, LWC, and data modelling capability
+  - Proven experience designing scalable Salesforce solutions
+  - Experience with APIs and integrations
+  
+  What differentiates you (this is what we actually hire on)
+  
+  1. AI-Native Mindset
+  
+  - You already use tools like ChatGPT or Claude Code in your
+    daily workflow
+  - You can clearly explain:
+    - Where AI helps
+    - Where it doesn’t
+    - How it changes your approach to engineering
+  
+  2. Communication
+  
+  - You can explain complex systems simply
+  - You can walk through trade-offs clearly
+  - You can defend your decisions
+  
+  3. Engineering Thinking
+  
+  - You think in systems, not tickets
+  - You consider scale, failure modes, and maintainability
+  - You design before building
+  
+  Nice to Have
+  
+  - Quote-to-Cash / subscription billing experience
+  - DevOps tooling (e.g. Gearset, Copado)
+  - Experience in high-growth or compliance-driven environments
+  
+  What we offer
+  
+  - Diverse and internationally distributed team: joining our
+    team means becoming part of a large, global community with
+    people of more than 90 nationalities. We're more than just
+    colleagues; we're a group of professionals with a shared
+    mission to connect diverse cultures. Our global presence
+    is growing–we've doubled in size nearly every year, with
+    our employees based in the UK, Germany, the Netherlands,
+    Poland, the US, and Japan, and we continue to expand our
+    network.
+  - Open communication, regular feedback: as a language-focused
+    company, we value the importance of clear, honest
+    communication. We value smooth collaboration, direct and
+    actionable feedback, and believe that leading with empathy
+    and growth mindset makes us better together.
+  - Hybrid work, flexible hours: we offer a hybrid work
+    schedule, with team members coming into the office twice a
+    week. This allows you to engage directly with your team
+    and experience the unique energy of our workspace, while
+    still enjoying the flexibility and comfort of working from
+    home. With flexible working hours and trust in your
+    productivity, we are in sync with your team’s general
+    locations and time zones to foster effective and seamless
+    collaboration.
+  - Virtual Shares - An ownership mindset in every role. We
+    believe everyone should share in our success, and that’s
+    why every employee receives Virtual Shares, linking your
+    contribution directly to DeepL’s growth and rewarding you
+    with a stake in our future.
+  - Regular in-person team events: we bond over vibrant events
+    that are as unique as our team, from local team and
+    business unit gatherings, to new-joiner on-boardings, to
+    company-wide events that bring us all together–literally.
+  - Monthly full-day hacking sessions: every month, we have Hack
+    Fridays, where you can spend your time diving into a
+    project you're passionate about and get the opportunity to
+    work with other teams–we value your initiatives, impact,
+    and creativity.
+  - 30 days of annual leave: we value your peace of mind. With
+    30 days off (excluding public holidays) and access to
+    mental health resources, we make sure you're as strong
+    mentally as you are professionally.
+  - Competitive benefits: just as our team spans the globe, so
+    does our benefits package. We've crafted it to reflect the
+    diversity of our team and tailored it to align with your
+    unique location, to ensure you feel supported every step
+    of the way.
+  
+  If this role and our mission resonate with you, but you're
+  hesitant because you don't check all the boxes, don't let
+  that hold you back. At DeepL, it's all about the value you
+  bring and the growth we can foster together. Go ahead,
+  apply—let's discover your potential together. We can't wait
+  to meet you!
+  
+  We are an equal opportunity employer
+  
+  You are welcome at DeepL for who you are - we appreciate
+  authenticity here. Our product is for everyone, and so is
+  our workplace. The more voices we have represented and
+  amplified in our business, the more we will all succeed,
+  contribute, and think forward! So bring us your personal
+  experience, your perspectives, and your background. It’s in
+  our diversity that we will find the power to break down
+  language barriers in the world.
+posted_date: 2026-04-15
+url: "https://builtin.com/job/salesforce-engineer/8470183"
+source: Built In

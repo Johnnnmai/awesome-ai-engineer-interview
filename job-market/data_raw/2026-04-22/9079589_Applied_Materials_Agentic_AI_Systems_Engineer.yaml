@@ -1,0 +1,178 @@
+job_id: 9079589
+title: Agentic AI Systems Engineer
+company: Applied Materials
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - C++
+  - Java
+  - Python
+company_size: 23,282 Employees
+description: |
+  Who We Are
+  
+  Applied Materials is a global leader in materials
+  engineering solutions used to produce virtually every new
+  chip and advanced display in the world. We design, build and
+  service cutting-edge equipment that helps our customers
+  manufacture display and semiconductor chips – the brains of
+  devices we use every day. As the foundation of the global
+  electronics industry, Applied enables the exciting
+  technologies that literally connect our world – like AI and
+  IoT. If you want to push the boundaries of materials science
+  and engineering to create next generation technology, join
+  us to deliver material innovation that changes the world.
+  
+  What We Offer
+  
+  Location:
+  
+  Bangalore,IND
+  
+  You’ll benefit from a supportive work culture that
+  encourages you to learn, develop, and grow your career as
+  you take on challenges and drive innovative solutions for
+  our customers. We empower our team to push the boundaries of
+  what is possible—while learning every day in a supportive
+  leading global company. Visit our Careers website to learn
+  more.
+  
+  At Applied Materials, we care about the health and wellbeing
+  of our employees. We’re committed to providing programs and
+  support that encourage personal and professional growth and
+  care for you at work, at home, or wherever you may go. Learn
+  more about our benefits.
+  
+  As a Software Engineer at Applied Materials, you’ll dive
+  deep into ground-breaking technologies—like machine learning
+  and AI—to craft novel software solutions that solve our
+  customers’ high-value problems. Our Software Engineers are
+  responsible for designing, prototyping, developing, and
+  debugging software solutions for semiconductor equipment
+  components and devices to ensure quality and functionality.
+  You'll develop software documentation and test procedures,
+  troubleshoot software problems, and communicate with
+  internal customers to understand project requirements. As
+  part of our team, you'll contribute your expertise in
+  intricate systems, deciphering code, and anticipating
+  software behaviors to ensure Applied remains the leader in
+  the semiconductor and display sectors.
+  
+  Applied Materials is the leader in materials engineering
+  solutions used to produce virtually every new chip and
+  advanced display in the world. Our expertise in modifying
+  materials at atomic levels and on an industrial scale
+  enables customers to transform possibilities into reality.
+  At Applied Materials, our innovations make possible the
+  technology shaping the future.
+  
+  The software industry evolved from basic text editors to
+  full-fledged IDEs. We are now entering the next shift:
+  Agentic Development Environments (ADEs)—where AI agents are
+  first-class contributors across the software development
+  lifecycle.
+  
+  We are building the systems that make this future real.
+  
+  Role Overview
+  
+  As an Agentic AI Systems Engineer, you will design and build
+  the platform foundations that enable autonomous, always-on
+  AI agents to collaborate with engineers at scale. This role
+  is for engineers who think in systems, abstractions, and
+  long-term leverage—not just features.
+  
+  You will work at the intersection of developer platforms,
+  distributed systems, and applied AI, shaping how agentic
+  engineering operates across the organization.
+  
+  Key Platform Areas
+  
+  MCP Platform Layer Build and evolve the Model Context
+  Protocol (MCP) layer that provides AI agents with
+  structured, secure, and low-latency access to internal
+  tools, data, documentation, and the developer's lifecycle.
+  
+  Skill Marketplace Design systems that convert tribal
+  knowledge into composable, portable “skills.” These skills
+  can be loaded by agents on demand, making any engineer or
+  agent productive in any repository instantly.
+  
+  What You Will Build
+  
+  - Skill Pack FrameworkArchitect and ship the end-to-end skill
+    framework, including authoring, versioning, distribution,
+    and runtime loading across Java, Python, C++, and web-
+    based codebases. Skills are the core
+    differentiator—encapsulated expertise that travels with
+    the agent.
+  - Multi-Agent RuntimeDesign and implement a multi-agent
+    execution environment with persistent background agents,
+    swarm coordination, and cross-agent context sharing.
+    Enable agents to operate continuously and in parallel, not
+    as one-shot invocations.
+  - Agent-Aware Code IntelligenceDevelop deep code understanding
+    systems such as semantic code search, dependency-aware
+    context modeling, and structural codebase analysis. Move
+    beyond text-based retrieval toward true program-level
+    reasoning.
+  
+  Responsibilities
+  
+  - Own and evolve the MCP platform, unifying code,
+    documentation, and developer lifecycle MCPs into a single,
+    dependable context infrastructure.
+  - Partner with product, domain, service, and backend platform
+    teams to deliver foundational agentic systems.
+  - Define technical direction for agentic infrastructure across
+    domain and shared platforms.
+  - Establish architecture standards, verification methods, and
+    trust models for agent-generated code at organizational
+    scale.
+  - Mentor engineers in agentic development practices and raise
+    the bar for how teams build and ship with AI agents.
+  
+  Must-Have Qualifications
+  
+  - Proven experience building and operating developer tooling
+    or platform infrastructure (SDKs, CLIs, APIs, runtimes) in
+    large-scale engineering environments.
+  - Strong proficiency in at least one major programming
+    language (e.g., Java, Python, C++) with hands-on
+    experience integrating AI/ML models into developer
+    workflows.
+  - Solid system design expertise for highly reliable,
+    observable, developer-facing services and agentic systems.
+  
+  Additional Information
+  
+  Time Type:
+  
+  Full time
+  
+  Employee Type:
+  
+  Assignee / Regular
+  
+  Travel:
+  
+  Yes, 20% of the Time
+  
+  Relocation Eligible:
+  
+  Yes
+  
+  Applied Materials is an Equal Opportunity Employer.
+  Qualified applicants will receive consideration for
+  employment without regard to race, color, national origin,
+  citizenship, ancestry, religion, creed, sex, sexual
+  orientation, gender identity, age, disability, veteran or
+  military status, or any other basis prohibited by law.
+industries:
+  - Artificial Intelligence
+  - Semiconductor
+  - Manufacturing
+posted_date: 2026-04-17
+url: "https://builtin.com/job/agentic-ai-systems-engineer/9079589"
+source: Built In

@@ -1,0 +1,50 @@
+company:
+  name: Chubb
+  stage: Public
+  focus: |-
+    Global insurance company providing commercial and personal
+    property and casualty insurance
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, training, and fine-
+      tuning LLMs and Generative AI systems. The candidate will
+      own the entire process from data collection to model
+      deployment and work on developing conversational AI and
+      decision-making systems.
+  responsibilities:
+  - Develop and improve Generative AI systems to enable high quality decision making,
+    refine answers for queries, and enhance automated communication capabilities
+  - Own the entire process of data collection, training, and deploying machine learning
+    models
+  - Research and implement cutting-edge techniques in deep learning, NLP and Generative
+    AI to build state-of-the-art models
+  - Work closely with Data Scientists and Machine Learning Engineers to design and
+    implement end-to-end solutions
+  - Optimize and streamline deep learning training pipelines
+  - Develop performance metrics to track the efficiency and accuracy of deep learning
+    models
+  use_cases:
+  - Conversational AI for insurance customer interactions
+  - Automated communication capabilities for insurance operations
+  - Decision-making support systems for insurance processes
+  - Query refinement and answer generation for insurance domain
+  skills:
+    genai: [Large Language Models, Generative AI, Fine-tuning]
+    ml: [PyTorch, TensorFlow, Keras, Hugging Face Transformers, NLP, Deep Learning,
+      Model Training]
+    web: []
+    databases: []
+    data: [Large dataset processing]
+    cloud: [Azure]
+    ops: []
+    languages: [Python, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8861746'
+  extracted_at: '2026-03-27T15:44:49.747405'

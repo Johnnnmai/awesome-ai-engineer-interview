@@ -1,0 +1,122 @@
+job_id: 8785522
+title: Gen AI Engineer
+company: Dentsu Creative
+location: Pune, IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Coding
+  - Debugging
+  - Software Development
+  - Unit Testing
+company_size: 6,507 Employees
+description: |
+  We are seeking a Generative AI/ML Engineer to design, build,
+  and deploy intelligent AI solutions leveraging Large
+  Language Models (LLMs), Retrieval-Augmented Generation
+  (RAG), agentic workflows, and edge computing. You will work
+  hands-on with cloud-native AI services, LLMOps pipelines,
+  and enterprise-grade deployment patterns to solve business
+  problems.
+  
+  Job Description:
+  
+  Key Responsibilities
+  
+  - Design, develop, and fine-tune LLM-powered applications for
+    enterprise use cases.
+  
+  - Experience in evaluating LLM applications and developing
+    observability frameworks
+  
+  - Implement RAG pipelines using vector databases, embeddings,
+    and optimized retrieval strategies.
+  
+  - Build agentic AI workflows with multi-step reasoning, tool
+    calling, and integration with APIs.
+  
+  - Integrate GenAI solutions into multi-cloud or hybrid cloud
+    environments (AWS, Azure, GCP).
+  
+  - Develop and optimize edge AI deployments for low-latency use
+    cases.
+  
+  - Create data strategy, ingestion, transformation, enrichment,
+    validations, quality checks via pipelines for AI
+    ingestion, preprocessing, and governance.
+  
+  - Implement AI safety, bias mitigation, and compliance
+    measures.
+  
+  - Work closely with LLMOps teams to enable continuous
+    integration & deployment of AI models.
+  
+  - Write well-documented, production-ready code in Python,
+    Node.js, Rust .
+  
+  - Benchmark and evaluate model performance, latency, and cost-
+    efficiency.
+  
+  Required Skills
+  
+  - Proficient in cloud AI services (e.g. AWS Bedrock/SageMaker,
+    Azure AI Foundry, Google Vertex AI, Anthropic, OpenAI
+    APIs).
+  
+  - Strong proficiency with Python and LLM frameworks (e.g.
+    PromptFlow, LangGraph, LlamaIndex, HuggingFace, PyTorch,
+    TensorFlow).
+  
+  - Hands-on experience with vector DBs (e.g. Pinecone,
+    Weaviate, Milvus, FAISS, Azure Cognitive Search).
+  
+  - Experience building RAG-based and agentic AI solutions.
+  
+  - Familiarity with Edge AI frameworks (e.g. NVIDIA Jetson, AWS
+    IoT Greengrass, Azure Percept).
+  
+  - Multi-modal AI (text, image, speech, video) experience.
+  
+  - Strong grasp of APIs, microservices, and event-driven
+    architectures.
+  
+  - Knowledge of AI governance (data privacy, model
+    explainability, security).
+  
+  - Experience in containerized deployments (Docker, Kubernetes,
+    serverless AI functions).
+  
+  Preferred Skills
+  
+  - Generative agents with memory and planning capabilities.
+  
+  - Real-time AI streaming with WebSockets or Kafka.
+  
+  - Prior contributions to open-source GenAI projects.
+  
+  - Experience in build, test and deploy various ML models
+  
+  - Experience in building MCP, A2A protocol
+  
+  Location:
+  
+  Pune
+  
+  Brand:
+  
+  Merkle
+  
+  Time Type:
+  
+  Full time
+  
+  Contract Type:
+  
+  Permanent
+industries:
+  - AdTech
+  - Marketing Tech
+  - Software
+posted_date: 2026-03-25
+url: "https://builtin.com/job/gen-ai-engineer/8785522"
+source: Built In

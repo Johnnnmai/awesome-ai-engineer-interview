@@ -1,0 +1,49 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: Multinational banking and financial services
+position:
+  title: Senior Software Engineer, Python & Gen AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      While the job title mentions "Gen AI," the actual
+      responsibilities are primarily traditional software
+      engineering (designing, coding, testing, debugging). The
+      GenAI-related requirements are limited to using AI-assisted
+      coding tools like GitHub Copilot and having an
+      "understanding" of GenAI/Agentic development — not building,
+      deploying, or fine-tuning AI models. The core work is
+      general SWE in a banking technology context.
+  responsibilities:
+  - Lead moderately complex technical initiatives and deliverables
+  - Design, code, test, debug, and document technology projects including upgrades
+    and deployments
+  - Review and resolve moderately complex technical challenges requiring in-depth
+    evaluation of technologies
+  - Lead projects and provide guidance to less experienced staff
+  - Collaborate with peers and mid-level managers to resolve technical challenges
+    and achieve goals
+  - Contribute to large scale planning of strategies within the technology domain
+  - Implement and deliver technology solutions in a fast-paced banking environment
+  use_cases:
+  - Banking settlement systems technology
+  - Secured finance technology implementations
+  - Repo and securities lending systems
+  - Prime Finance technology solutions
+  skills:
+    genai: [GitHub Copilot, GenAI, Agentic development]
+    ml: []
+    web: [React]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python, TypeScript, C#]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9094728'
+  extracted_at: '2026-04-22T14:06:00.462783'

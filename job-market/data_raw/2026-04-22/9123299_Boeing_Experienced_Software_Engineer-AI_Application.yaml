@@ -1,0 +1,203 @@
+job_id: 9123299
+title: Experienced Software Engineer-AI Application
+company: Boeing
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - Azure
+  - Ml
+  - Ocr
+  - Postgres
+  - Python
+company_size: 170,000 Employees
+description: |
+  Job Description At Boeing, we innovate and collaborate to
+  make the world a better place. We're committed to fostering
+  an environment for every teammate that's welcoming,
+  respectful and inclusive, with great opportunity for
+  professional growth. Find your future with us. Overview As a
+  leading global aerospace company, Boeing develops,
+  manufactures and services commercial airplanes, defense
+  products and space systems for customers in more than 150
+  countries. As a top U.S. exporter, the company leverages the
+  talents of a global supplier base to advance economic
+  opportunity, sustainability and community impact. Boeing's
+  diverse team is committed to innovating for the future,
+  leading with sustainability, and cultivating a culture based
+  on the company's core values of safety, quality and
+  integrity. Technology for today and tomorrow The Boeing
+  India Engineering & Technology Center (BIETC) is a 5500+
+  diverse engineering workforce that contributes to global
+  aerospace growth. Our engineers deliver cutting-edge R&D,
+  innovation, and high-quality engineering work in global
+  markets, and leverage new-age technologies such as AI/ML,
+  IIoT, Cloud, Model-Based Engineering, and Additive
+  Manufacturing, shaping the future of aerospace. People-
+  driven culture At Boeing, we believe creativity and
+  innovation thrives when every employee is trusted,
+  empowered, and has the flexibility to choose, grow, learn,
+  and explore. We offer variable arrangements depending upon
+  business and customer needs, and professional pursuits that
+  offer greater flexibility in the way our people work. We
+  also believe that collaboration, frequent team engagements,
+  and face-to-face meetings bring diverse perspectives and
+  thoughts - enabling every voice to be heard and every
+  perspective to be respected. No matter where or how our
+  teammates work, we are committed to positively shaping
+  people's careers and being thoughtful about employee
+  wellbeing. With us, you can create and contribute to what
+  matters most in your career, community, country, and world.
+  Join us in powering the progress of global aerospace
+  Position Overview: Boeing India Software Engineering team is
+  currently looking to hire Experienced Software Engineer - AI
+  Application to join their team in Bengaluru, India. As a
+  Software Engineer, you will be part of the Boeing Global
+  Services Digital Solutions team, which develops software
+  applications and products that create direct value to its
+  customers. We provide re-vamped work environments focused on
+  delivering data-driven solutions at a rapidly increased pace
+  over traditional development. Be a part of our passionate
+  and motivated team who are excited to use the latest
+  software technologies for modern web application
+  development. Through our products we deliver innovative
+  solutions to our global customer base at an accelerated
+  pace. This role will be based out of Bengaluru, India.
+  Position Responsibilities:
+  
+  - Design and build source-centric AI workflows that generate
+    outputs strictly grounded in approved enterprise
+    documentation.
+  - Develop retrieval-augmented generation pipelines with hybrid
+    retrieval, metadata filtering, reranking, and citation
+    traceability.
+  - Implement explainability features including provenance,
+    citations, evidence mapping, confidence signaling, and
+    unsupported-answer handling.
+  - Build multimodal document intelligence workflows for PDFs,
+    scanned documents, tables, diagrams, images, and technical
+    figures.
+  - Create human-in-the-loop review systems to approve, reject,
+    edit, and provide structured feedback on AI-generated
+    outputs.
+  - Design and maintain feedback learning loops to improve
+    prompts, retrieval quality, evaluations, and curated fine-
+    tuning datasets.
+  - Support revision-aware content intelligence, including
+    source versioning, comparison, stale artifact detection,
+    and downstream impact analysis.
+  - Develop secure, enterprise-grade, multi-tenant Azure-native
+    applications with robust governance, auditability, and
+    role-based access control.
+  - Sprint Planning: Estimate user stories and tasks accurately
+    during Sprint Planning and contribute to Backlog
+    refinement meetings.
+  - Collaboration: Work closely with the Product Owner to ensure
+    code and acceptance tests meet desired functionality;
+    raise impediments and risks to relevant stakeholders.
+  - Customer Engagement: Maintain relationships with customers
+    and partners, demonstrating excellent communication and
+    presentation skills.
+  - Agile Environment: Exhibit a strong ability to work in an
+    Agile environment, with some travel required.
+  - Mentorship: Mentor junior team members and support the
+    development of internal competencies, acting as a sought-
+    after expert.
+  
+  Employers will not sponsor applicants for employment visa
+  status. Basic Qualifications (Required Skills/Experience):
+  
+  - Bachelor degree in Engineering, Engineering Technology
+    (including Manufacturing Technology), Computer Science,
+    Data Science, Mathematics, Physics, Chemistry, or non-US
+    equivalent qualifications directly related to the work
+    statement.
+  - Proven experience in Python programing language
+  - Proven experience in building source-grounded AI
+    applications with a focus on citation, provenance, and
+    explainability, including multimodal AI/document
+    intelligence pipelines for OCR and layout extraction.
+  - Experience designing human feedback loops for AI systems,
+    including review workflows, feedback capture, and
+    iterative prompt or model improvement.
+  - Experience building and maintaining evaluation frameworks
+    for LLM applications, including retrieval relevance,
+    grounded Ness, hallucination detection, and regression
+    testing.
+  - Strong experience with PostgreSQL and metadata-rich schema
+    design for AI applications.
+  - Experience with Microsoft Entra ID, enterprise RBAC, and
+    secure multi-tenant application design.
+  - Hands-on experience with hybrid retrieval architectures
+    (vector and keyword search, metadata filtering) and
+    familiarity with Azure AI Search or equivalent platforms.
+  - Experience designing human feedback loops for AI systems and
+    maintaining evaluation frameworks for LLM applications,
+    including aspects like retrieval relevance and
+    hallucination detection.
+  - Strong experience with PostgreSQL and designing metadata-
+    rich schemas for AI applications.
+  
+  Preferred Qualifications (Desired Skills/Experience):
+  
+  - Experience in implementing citation-aware user experiences,
+    evidence panels, and document-grounded conversational
+    interfaces, along with building review and approval
+    workflows for generated artifacts.
+  - Proficiency with multimodal LLMs for reasoning involving
+    images, diagrams, and tables, as well as experience in
+    fine-tuning and preference optimization for enterprise AI
+    tasks.
+  - Knowledge of AI observability and tracing tools, LLM safety
+    engineering, refusal design, and confidence calibration,
+    along with familiarity with evaluation metrics like
+    Recall@K and citation accuracy.
+  - Experience in setting up CI/CD pipelines that accommodate
+    both traditional application code and AI lifecycle needs,
+    including prompt/config versioning and evaluation gates.
+  
+  Typical Education & Experience: Education/experience
+  typically acquired through advanced education (e.g.
+  Bachelor) and typically 8 or more years' related work
+  experience or an equivalent combination of education and
+  experience (e.g. Master +7 years' related work experience.
+  Relocation: This position does offer relocation within
+  INDIA. Applications for this position will be accepted until
+  Apr. 30, 2026 Export Control Requirements: This is not an
+  Export Control position. Education Bachelor's Degree or
+  Equivalent Required Relocation This position offers
+  relocation based on candidate eligibility. Visa Sponsorship
+  Employer will not sponsor applicants for employment visa
+  status. Shift Not a Shift Worker (India) Equal Opportunity
+  Employer: We are an equal opportunity employer. We do not
+  accept unlawful discrimination in our recruitment or
+  employment practices on any grounds including but not
+  limited to; race, color, ethnicity, religion, national
+  origin, gender, sexual orientation, gender identity, age,
+  physical or mental disability, genetic factors, military and
+  veteran status, or other characteristics covered by
+  applicable law. We have teams in more than 65 countries, and
+  each person plays a role in helping us become one of the
+  world's most innovative, diverse and inclusive companies. We
+  are proud members of the Valuable 500 and welcome
+  applications from candidates with disabilities. Applicants
+  are encouraged to share with our recruitment team any
+  accommodations required during the recruitment process.
+  Accommodations may include but are not limited to:
+  conducting interviews in accessible locations that
+  accommodate mobility needs, encouraging candidates to bring
+  and use any existing assistive technology such as screen
+  readers and offering flexible interview formats such as
+  virtual or phone interviews.
+industries:
+  - Aerospace
+  - Information Technology
+  - Software
+  - Cybersecurity
+  - Design
+  - Defense
+  - Manufacturing
+posted_date: 2026-04-22
+url: "https://builtin.com/job/experienced-software-engineer-ai-application/9123299"
+source: Built In

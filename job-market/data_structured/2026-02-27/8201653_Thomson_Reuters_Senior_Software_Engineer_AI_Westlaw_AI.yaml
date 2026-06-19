@@ -1,0 +1,54 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Legal, tax, accounting, compliance information services and
+    software
+position:
+  title: Senior Software Engineer – AI (Westlaw AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting and implementing AI systems
+      including RAG, custom AI agents, and multi-step reasoning
+      pipelines. The engineer will integrate AI models into
+      production and adapt them for specialized domains - this is
+      hands-on work building and deploying AI/LLM systems
+      directly.
+  responsibilities:
+  - Architect and implement advanced AI systems including RAG pipelines and custom
+    AI agents with multi-step reasoning
+  - Integrate AI models into production software through robust APIs and scalable
+    data pipelines
+  - Adapt AI models and techniques to specialized domains like legal, tax, and compliance
+  - Evaluate and prototype cutting-edge AI techniques and conduct proof-of-concept
+    projects
+  - Provide technical leadership by breaking down requirements and mentoring junior
+    engineers
+  - Implement comprehensive testing frameworks and monitoring systems for AI model
+    performance
+  - Ensure data governance, bias analysis, and security standards
+  - Collaborate with AI researchers, designers, and product teams to translate AI
+    capabilities into real-world applications
+  use_cases:
+  - Legal research and expert systems for law professionals
+  - Tax compliance and analysis systems
+  - Regulatory compliance automation
+  - Information retrieval and search for professional content
+  - AI-powered decision support for legal and financial professionals
+  skills:
+    genai: [RAG, AI agents, LLMs, OpenAI API, Anthropic API, Prompt engineering, Embeddings]
+    ml: [AI/ML frameworks]
+    web: [REST APIs]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, LLMOps, MLflow]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8201653'
+  extracted_at: '2026-03-03T11:44:55.646809'

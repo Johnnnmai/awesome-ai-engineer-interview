@@ -1,0 +1,54 @@
+company:
+  name: hyperexponential
+  stage: Series B/C (backed by a16z, Highland Europe, Battery Ventures)
+  focus: AI-powered insurance pricing and underwriting platform
+position:
+  title: Research Engineer - AI Team
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly evaluating, testing, and
+      improving AI agent systems for insurance pricing and
+      underwriting. The Research Engineer designs evaluation
+      frameworks for AI agents, runs experiments on AI systems,
+      builds test suites that stress-test AI agents, and bridges
+      research into production AI capabilities. While not training
+      models from scratch, they work hands-on with AI agents and
+      systems in an applied capacity, directly measuring and
+      improving agent performance.
+  responsibilities:
+  - Design and maintain evaluation frameworks for automated measurement of AI agent
+    performance across hundreds of insurance scenarios
+  - Conduct structured technology assessments evaluating emerging AI capabilities
+    against product needs, producing technical briefs and competitive analyses
+  - Run disciplined experiments decomposing ambiguous research questions into testable
+    hypotheses with statistical rigor
+  - Build comprehensive test suites covering actuarial edge cases, underwriting workflows,
+    and pricing logic that stress-test AI systems
+  - Translate research findings into engineering action by identifying performance
+    gaps and recommending technical approaches
+  - Maintain domain fluency in insurance by staying current with actuarial concepts,
+    underwriting practices, and pricing methodologies
+  use_cases:
+  - AI-powered insurance pricing and underwriting decision support
+  - Domain-specific AI peer programmer for insurance (actuarial science copilot)
+  - Agentic workflows for specialty insurance operations
+  - Automated evaluation of AI agent reliability in complex insurance scenarios
+  - De-risking major AI technical investments through rigorous applied research
+  skills:
+    genai: [AI agent evaluation, LLM evaluation frameworks, Agentic workflows]
+    ml: [Statistical analysis and experimentation, Model performance evaluation, AI/ML
+        stack]
+    web: [REST APIs]
+    databases: []
+    data: [Experiment design and hypothesis testing]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Domain-specific AI (actuarial/insurance)]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8994217'
+  extracted_at: '2026-04-22T12:58:37.010081'

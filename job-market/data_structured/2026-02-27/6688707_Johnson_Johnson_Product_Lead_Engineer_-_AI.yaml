@@ -1,0 +1,53 @@
+company:
+  name: Johnson & Johnson
+  stage: Public
+  focus: |-
+    Healthcare innovation across pharmaceuticals and medical
+    technology
+position:
+  title: Product Lead Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves designing, developing, and
+      implementing AI and generative AI solutions to address
+      business problems. The hands-on nature of building AI/GenAI
+      systems, combined with technical architecture
+      responsibilities and collaboration with data scientists,
+      clearly positions this as an ai-first role.
+  responsibilities:
+  - Lead the design, development, and implementation of AI and generative AI solutions
+    for Safety, Regulatory, and Clinical functions
+  - Collaborate with multi-functional teams to integrate cloud computing and automation
+    technologies into products and services
+  - Stay current with AI, cloud computing, and automation advancements to enhance
+    product offerings
+  - Develop and maintain product roadmaps aligned with customer needs and market trends
+  - Work hands-on with business partners, data scientists, and software engineers
+    to define technical requirements
+  - Optimize product performance and scalability using cloud infrastructure and automation
+    tools
+  - Analyze product performance metrics and user feedback for continuous improvement
+  - Provide technical guidance and mentorship to junior engineers
+  use_cases:
+  - Safety monitoring and pharmacovigilance for drug development
+  - Regulatory compliance and approval processes
+  - Clinical trial optimization and management
+  - Healthcare workflow automation
+  - Drug development lifecycle support
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning, Neural Networks]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, Google Cloud]
+    ops: [Kubernetes, Docker, CI/CD]
+    languages: [Python, Java, C#, C++]
+    domains: []
+    other: [Data Structures]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6688707'
+  extracted_at: '2026-03-03T11:27:52.703982'

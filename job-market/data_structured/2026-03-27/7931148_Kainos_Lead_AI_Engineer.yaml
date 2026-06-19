@@ -1,0 +1,46 @@
+company:
+  name: Kainos
+  stage: null
+  focus: Digital services transformation and Workday solutions
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves productionizing AI/ML solutions and
+      deploying models to production environments with MLOps
+      practices. The position requires hands-on work deploying and
+      integrating AI models into production systems, including
+      optional experience with LLMs and generative AI solutions,
+      making it an ai-first role.
+  responsibilities:
+  - Bridge the gap between data science and software engineering to productionise
+    AI and ML solutions
+  - Deploy and integrate AI models into production systems for Workday product offerings
+  - Optimize performance and maintain reliability of AI-driven features
+  - Build data pipelines and integrate AI solutions with enterprise data systems
+  - Design and deploy cloud-based AI solutions using cloud-native AI tools
+  - Implement MLOps practices including CI/CD pipelines, model versioning, and monitoring
+  - Collaborate with cross-functional teams including data scientists, software engineers,
+    and product teams
+  use_cases:
+  - Enhance Workday product offerings with AI-driven features
+  - Enterprise HR and workforce management AI solutions
+  - Production AI/ML systems integration
+  - Cloud-based AI solution deployment
+  skills:
+    genai: [OpenAI GPT]
+    ml: [Hugging Face Transformers, CNNs, RNNs, Transformers]
+    web: []
+    databases: []
+    data: [data pipelines]
+    cloud: [AWS, Azure, GCP, SageMaker, Vertex AI, Azure ML Studio]
+    ops: [Docker, Kubernetes, CI/CD, MLOps, model versioning]
+    languages: [Python, Java, C++]
+    domains: []
+    other: [Workday APIs]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7931148'
+  extracted_at: '2026-03-27T13:18:15.911780'

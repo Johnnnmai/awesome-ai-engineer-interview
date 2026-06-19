@@ -1,0 +1,52 @@
+company:
+  name: Product.ai
+  stage: Self-funded (profitable for over a decade)
+  focus: |-
+    Building a truth engine for shopping - verified product
+    research
+position:
+  title: Software Engineer - AI Commerce
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack software engineering role at an AI
+      company where the engineer builds consumer-facing product
+      surfaces (React frontend, Node/Python backend, PostgreSQL).
+      AI/LLMs are used as development tools to multiply output,
+      not as the thing being built. The engineer is not building,
+      training, fine-tuning, or deploying AI models — they're
+      building web products powered by AI that others have
+      created.
+  responsibilities:
+  - Build and ship consumer-facing product surfaces end-to-end from React frontend
+    through Node/Python backend to PostgreSQL
+  - Use AI-assisted development workflows to write code, tests, and documentation
+    at high velocity
+  - Own full-stack feature delivery including data model design, API development,
+    UI implementation, and impact measurement
+  - Practice product-minded engineering by solving user problems, pushing back on
+    weak requirements, and iterating based on data
+  - Autonomously own quality end-to-end including testing, deployment, and monitoring
+    with no separate QA or ops teams
+  - Make foundational contributions to shared codebase infrastructure using appropriate
+    technology choices
+  use_cases:
+  - AI-powered product research and truth verification for shopping
+  - Consumer-facing commerce surfaces that provide verified product information
+  - Ground truth product data systems at scale serving millions of customers
+  skills:
+    genai: []
+    ml: []
+    web: [React, Node.js, REST APIs]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: [Testing, Monitoring]
+    languages: [Python]
+    domains: []
+    other: [AI-assisted development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8952761'
+  extracted_at: '2026-04-22T13:46:06.439196'

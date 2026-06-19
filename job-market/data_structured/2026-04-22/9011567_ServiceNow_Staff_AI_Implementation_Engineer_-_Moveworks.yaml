@@ -1,0 +1,56 @@
+company:
+  name: ServiceNow
+  stage: Public
+  focus: |-
+    AI-enhanced cloud-based enterprise workflow automation
+    platform
+position:
+  title: Staff AI Implementation Engineer - Moveworks
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves deploying, building, tuning, and
+      launching AI Agents on the Moveworks Platform, including
+      LLM-based systems design, prompt engineering, and context
+      engineering. The engineer directly works on AI solutions
+      (not just infrastructure supporting them), making this ai-
+      first despite the customer-facing implementation focus.
+  responsibilities:
+  - Partner with customers through the entire delivery lifecycle of AI Agents on the
+    Moveworks Platform including vision, solution design, building, tuning, and launch
+  - Architect and design high-impact technical AI solutions on the Moveworks platform
+    to solve complex customer business challenges
+  - Integrate the Moveworks Platform with customer enterprise systems in a secure
+    and performant manner
+  - Collaborate with engineering and product teams on new product rollouts, synthesizing
+    customer feedback to drive product decisions
+  - Consult with customers to shape their Agentic AI roadmap using creative solution
+    design
+  - Develop and deliver compelling solution narratives through architecture diagrams,
+    solution proposals, and presentations
+  - Upskill customer teams to leverage the product independently and serve as a trusted
+    technical advisor
+  use_cases:
+  - Enterprise AI agent deployment for IT service management and employee support
+  - Agentic AI workflow automation for large enterprises
+  - Integration of AI assistants with enterprise systems like ServiceNow, Jira, Workday,
+    and Okta
+  - Customer-facing AI solution design and implementation for business process automation
+  - Enterprise copilot experiences leveraging LLM-based systems
+  skills:
+    genai: [Prompt Engineering, LLM-based Systems Design, Context Engineering, AI
+        Agents]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: [Workato, Data Modeling]
+    cloud: [AWS Lambda, Azure Functions]
+    ops: [Linux]
+    languages: [Python, JavaScript, Golang]
+    domains: []
+    other: [ServiceNow, Jira Service Desk, Workday, Okta, Zendesk, iPaaS]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9011567'
+  extracted_at: '2026-04-22T12:50:08.715442'

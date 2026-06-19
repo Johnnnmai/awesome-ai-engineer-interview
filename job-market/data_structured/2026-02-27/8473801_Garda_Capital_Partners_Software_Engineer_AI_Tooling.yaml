@@ -1,0 +1,54 @@
+company:
+  name: Garda Capital Partners
+  stage: Established
+  focus: |-
+    Multi-billion dollar alternative investment firm deploying
+    relative value strategies across fixed income markets
+position:
+  title: Software Engineer (AI Tooling)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building production systems that
+      integrate LLM APIs and AI capabilities, including backend
+      infrastructure for AI-powered tools like API gateways,
+      vector search, and chat backends. While it explicitly states
+      no ML/deep learning research experience is required, the
+      hands-on work of integrating and deploying AI/LLM systems
+      makes this ai-first.
+  responsibilities:
+  - Build internal applications and services that integrate LLM APIs and other AI
+    capabilities into firm workflows
+  - Develop backend infrastructure for AI-powered tools including API gateways, vector
+    search, chat backends, and monitoring
+  - Create automation workflows and integrations between AI platforms and internal
+    systems
+  - Implement data processing pipelines that prepare and route information to AI services
+  - Build and maintain integrations with vendor AI platforms and third-party tools
+  - Work with stakeholders across trading, research, and operations to understand
+    requirements and gather feedback
+  - Support and improve existing AI-powered applications and workflows
+  - Collaborate with infrastructure teams to ensure solutions are secure, scalable,
+    and well-monitored
+  use_cases:
+  - Internal workflow automation for research, trading, and operations teams
+  - AI-powered search and chat interfaces for firm knowledge
+  - Data processing and routing to AI services for financial analysis
+  - Integration of AI capabilities into fixed income trading workflows
+  - Automation of capital markets and investment management processes
+  skills:
+    genai: [LLM APIs, Chat backends]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector search, Databases]
+    data: [Data processing pipelines]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Fixed income, Capital markets, Trading operations, Investment management]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8473801'
+  extracted_at: '2026-03-03T12:30:15.608165'

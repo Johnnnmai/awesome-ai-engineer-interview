@@ -1,0 +1,50 @@
+company:
+  name: Beghou Consulting
+  stage: null
+  focus: |-
+    Life sciences commercialization consulting with analytics
+    and AI solutions
+position:
+  title: Associate, AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI/ML
+      pipelines, LLM-based copilots, and GenAI/Agentic AI
+      frameworks. The engineer will do hands-on work with model
+      development, feature engineering, and implementing RAG
+      techniques - all core AI development activities.
+  responsibilities:
+  - Design and implement AI/ML pipelines solving life sciences problems (territory
+    alignment, rep scheduling, patient segmentation, incentive compensation)
+  - Lead data ingestion, feature engineering, and model development across structured
+    and unstructured data sources
+  - Build and deploy scalable AI services and LLM-based copilots for field force,
+    MSLs, and commercial analytics teams
+  - Implement GenAI and Agentic AI frameworks for commercial automation
+  - Collaborate with DevOps and cloud teams to deploy models on AWS/Azure
+  - Conduct technical reviews and mentor junior AI team members
+  - Present technical concepts and outcomes to internal stakeholders and client teams
+  use_cases:
+  - Territory alignment and rep scheduling optimization for pharmaceutical sales
+  - Patient segmentation for life sciences
+  - Incentive compensation optimization
+  - Field force and MSL copilots for commercial teams
+  - Commercial analytics automation
+  - Customer insights and engagement improvement
+  skills:
+    genai: [LangChain, RAG, GenAI frameworks, Agentic AI, LLMs]
+    ml: [Transformers, PyTorch, TensorFlow, scikit-learn, Hugging Face]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, Databricks]
+    ops: [MLflow, Docker, Git, CI/CD, MLOps]
+    languages: [Python, NumPy, pandas, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8712793'
+  extracted_at: '2026-03-27T14:33:43.174085'

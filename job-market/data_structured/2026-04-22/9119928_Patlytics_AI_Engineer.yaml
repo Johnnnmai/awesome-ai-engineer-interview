@@ -1,0 +1,56 @@
+company:
+  name: Patlytics
+  stage: Series B
+  focus: |-
+    AI-native patent intelligence platform for IP protection and
+    monetization
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying LLM pipelines,
+      agentic workflows, retrieval systems, and fine-tuning models
+      for patent intelligence applications. The engineer works
+      hands-on with model selection, prompt architecture, evals
+      frameworks, and production inference optimization — all core
+      AI/LLM system building.
+  responsibilities:
+  - Develop and deploy scalable AI/ML algorithms for IP applications
+  - Design and iterate on multi-step LLM pipelines for patent claim analysis, infringement
+    detection, and prior art search
+  - Build and maintain evals frameworks with success metrics, golden datasets, and
+    regression testing
+  - Develop retrieval systems (vector search, BM25 hybrids, re-ranking) optimized
+    for patent corpus characteristics
+  - Architect and ship agentic workflows with tool use, memory, and multi-turn reasoning
+    for IP research tasks
+  - Develop data classification techniques and post-training on latest LLMs
+  - Manage cost, latency, and quality tradeoffs for production inference including
+    prompt caching and model migration
+  - Build monitoring tools for data pipeline performance, data quality, and production
+    models
+  use_cases:
+  - Patent claim analysis and structured output generation
+  - Patent infringement detection across large document corpora
+  - Prior art search using hybrid retrieval over patent databases
+  - Agentic IP research workflows with multi-turn reasoning and tool use
+  - Citation-backed patent intelligence for litigation support
+  skills:
+    genai: [LLM pipelines, Prompt engineering, RAG, Agentic workflows, Fine-tuning,
+      Structured output, Re-ranking, Claude API, OpenAI API, Gemini API, Prompt caching,
+      Model routing]
+    ml: [scikit-learn, Pandas, ML pipeline lifecycle, Post-training]
+    web: [API design, Async processing]
+    databases: [Vector search, BM25]
+    data: [Spark, Data pipelines]
+    cloud: [AWS, GCP]
+    ops: [Evals frameworks, Model monitoring]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9119928'
+  extracted_at: '2026-04-22T13:10:45.084493'

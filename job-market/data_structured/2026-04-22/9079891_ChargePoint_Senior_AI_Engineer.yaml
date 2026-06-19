@@ -1,0 +1,54 @@
+company:
+  name: ChargePoint
+  stage: Public
+  focus: EV charging network infrastructure and solutions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, architecting, and
+      deploying production AI systems including Voice AI, Computer
+      Vision, Conversational AI, and LLM-based solutions (RAG,
+      LangChain, fine-tuning with LoRA/QLoRA). The engineer works
+      hands-on with models and AI frameworks to create AI-powered
+      products, making this clearly an ai-first role.
+  responsibilities:
+  - Lead the development of AI solutions across Voice AI, Computer Vision, and Conversational
+    AI domains
+  - Architect and build production-grade AI systems for monitoring, analytics, customer
+    support, and intelligent automation
+  - Design, build, and deploy AI-powered solutions to improve experiences for EV drivers
+    and operators
+  - Develop LLM-based systems with RAG architectures, prompt engineering, and low-latency
+    inference
+  - Build and optimize data pipelines for massive datasets (50TB+) supporting AI workloads
+  - Collaborate with cross-functional teams to integrate AI solutions into EV charging
+    infrastructure
+  - Optimize system performance including latency reduction and cost optimization
+    for AI services
+  use_cases:
+  - Voice AI for customer support and telephony integrations in EV charging
+  - Computer vision for EV charging infrastructure monitoring and analytics
+  - Conversational AI to enhance customer support experiences for EV drivers
+  - Intelligent automation across EV charging network operations
+  - Semantic search and retrieval over EV charging data using RAG architectures
+  - NOC (Network Operations Center) monitoring and analytics platform enhancement
+  skills:
+    genai: [LangChain, LangGraph, Amazon Bedrock, OpenAI APIs, Prompt Engineering,
+      RAG, LoRA/QLoRA, RLHF]
+    ml: []
+    web: [FastAPI, Django]
+    databases: [Elasticsearch, Vector Search, Qdrant, ChromaDB, Pinecone, PostgreSQL,
+      Redis, MongoDB]
+    data: [Kafka, RabbitMQ, Airflow, DBT, ClickHouse, Trino, Iceberg]
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: [Computer Vision, Voice AI]
+    other: [Genesys, SIP, Microservices Architecture, Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9079891'
+  extracted_at: '2026-04-22T13:19:02.203374'

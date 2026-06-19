@@ -1,0 +1,52 @@
+company:
+  name: NTT DATA
+  stage: Public
+  focus: |-
+    Global business and technology services provider
+    specializing in enterprise-scale AI, cloud, security, and
+    digital infrastructure
+position:
+  title: AI Engineer
+  ai_type:
+    type: unknown
+    reasoning: |-
+      Despite the job title "AI Engineer" and NTT DATA being
+      described as a leading AI provider, the actual job
+      description and responsibilities are for a generic Software
+      Applications Development Engineer. The responsibilities
+      focus on traditional application development, database
+      maintenance, and code optimization with no mention of AI/ML
+      model work, LLMs, or AI-specific technologies. The required
+      skills are conventional programming languages (Java, C++,
+      Python) and SQL, with no AI/ML frameworks mentioned.
+  responsibilities:
+  - Develop applications that accomplish client objectives and user needs
+  - Design and write code for applications and maintain application databases
+  - Analyze and edit existing software applications to improve functionality and fix
+    problems
+  - Remodel and adapt applications to optimize performance
+  - Test applications extensively to ensure they are error and bug-free
+  - Install applications and act as technical advisor to clients
+  - Communicate with technical stakeholders about project limitations and requirements
+  - Produce software documentation following company processes
+  use_cases:
+  - General application development for internal organization and external clients
+  - Software optimization and performance improvement
+  - Cross-platform application adaptation for new hardware
+  - Database maintenance and management
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [SQL]
+    data: []
+    cloud: []
+    ops: [Linux, Unix, Windows]
+    languages: [Java, Python, C++, C, Perl]
+    domains: []
+    other: [Scrum]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7069744'
+  extracted_at: '2026-03-03T11:20:06.102091'

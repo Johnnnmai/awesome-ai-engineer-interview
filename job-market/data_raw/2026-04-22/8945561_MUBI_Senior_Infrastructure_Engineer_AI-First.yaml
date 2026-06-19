@@ -1,0 +1,176 @@
+job_id: 8945561
+title: Senior Infrastructure Engineer (AI-First)
+company: MUBI
+location: London, GBR
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Argocd
+  - AWS
+  - Chef
+  - Datadog
+  - Go
+  - Grafana
+  - Helm
+  - Jenkins
+  - Kafka
+  - Kubernetes
+company_size: 412 Employees
+description: |
+  About MUBI
+  
+  MUBI is a global streaming service, production company and
+  film distributor dedicated to elevating great cinema. To
+  make this possible, we create, curate, acquire and champion
+  visionary films, bringing them to audiences all over the
+  world. We have a team of brilliant, dedicated and passionate
+  people to help bring our mission to life. From London to New
+  York, Istanbul to Paris, and Berlin to Mexico - we work
+  together to realize MUBI’s vision.
+  
+  That’s where you come in! Join our global team and help us
+  make great cinema accessible to everyone, everywhere.
+  
+  About the Role
+  
+  This isn't a traditional DevOps role, and it's not an ML
+  infrastructure role. You're an infrastructure engineer who
+  builds and ships software — internal tools, services, and
+  agentic automation that solve real infrastructure problems.
+  Think automated incident response, intelligent
+  observability, MCP servers that connect infrastructure
+  systems, and support ticket triaging. You apply agentic
+  patterns to the messy operational world, not train models or
+  manage GPUs.
+  
+  We're looking for someone senior — you architect systems,
+  mentor other engineers, and lead by example. You've built
+  real applications and tools in the infra space before, not
+  just configured existing ones. You don't hesitate to poke
+  around unfamiliar systems, take full ownership of problems,
+  and drive them to completion.
+  
+  Our infrastructure team operates on SRE principles: we build
+  reliable, automated systems and eliminate toil. We also
+  build and maintain the platforms that let the rest of
+  engineering deploy, scale, and monitor their services.
+  You'll own problems end-to-end, from bare-metal CDN servers
+  to Kubernetes clusters to the AI-powered workflows that tie
+  everything together. You use AI tools in your own workflow
+  too — not as a novelty, but as a core part of how you build.
+  
+  Small team, high autonomy, direct impact.
+  
+  Hybrid in London (2-3 days/week). Remote considered for
+  strong candidates outside London.
+  
+  Where you'll have impact:
+  
+  Build & Ship — Agentic Infrastructure
+  
+  - Design and build agentic workflows for infrastructure
+    operations — incident response, observability, support
+    ticket triaging
+  - Build and maintain MCP servers and AI-powered automation
+    that connects infrastructure systems
+  - Assess and own the security surface of agentic tools and
+    workflows you build — understand what you're exposing and
+    how to lock it down
+  - Build internal tools and services that make the engineering
+    team faster
+  - Prototype rapidly using AI-assisted development workflows
+  - Collaborate with product engineers — you're a peer, not a
+    support function
+  - Write production-quality code, not just glue scripts
+  
+  Platform & Infrastructure
+  
+  - Design, run, and evolve our EKS clusters — the primary
+    platform for all MUBI services
+  - Build and improve CI/CD pipelines (Jenkins, ArgoCD, Helm)
+  - Operate and extend our in-house bare-metal CDN spanning
+    multiple global locations
+  - Manage cloud infrastructure on AWS using Terraform and Chef
+  - Build and maintain Kubernetes operators and controllers to
+    automate platform workflows
+  - Design and operate data pipelines and event-driven
+    architectures using Kafka
+  - Maintain and improve observability (ELK, Prometheus,
+    Grafana, Datadog)
+  - Define and uphold SLO commitments — own availability and
+    reliability targets
+  - Automate everything worth automating
+  
+  Tech stack
+  
+  - Cloud: AWS, Kubernetes (currently EKS)
+  - IaC: Terraform, Chef
+  - CI/CD: Jenkins, ArgoCD, Helm, Kustomize
+  - Observability: ELK Stack, Prometheus with Thanos, Grafana,
+    Datadog
+  - Streaming/Messaging: Kafka
+  - Servers: Nginx (with Lua), bare-metal CDN
+  - Databases: MariaDB, PostgreSQL
+  - AI/Agents: Claude, MCP, agentic workflow tooling
+  - Languages: Language-agnostic — strong fundamentals matter
+    more than specific languages
+  
+  What you'll bring
+  
+  - 5+ years in infrastructure, platform engineering, or DevOps
+  - Interest or experience in building agentic workflows, AI-
+    powered automation, or working with LLM APIs
+  - Strong software engineering skills — you've built and
+    shipped applications and tools in the infrastructure
+    space, not just configured existing systems
+  - Strong Kubernetes experience — you understand the internals,
+    not just kubectl apply
+  - Deep Linux and networking knowledge — you're comfortable
+    running, debugging, and automating bare-metal servers, not
+    just clicking around a cloud console
+  - Security-minded — you think about the attack surface of what
+    you build, especially when integrating AI and agentic
+    tools into infrastructure
+  - Deep understanding of distributed systems, high
+    availability, and SLO-driven operations
+  - Technical leadership — you architect solutions, mentor
+    engineers, and raise the bar for the team
+  - Infrastructure as code experience (Terraform)
+  
+  Nice-to-haves:
+  
+  - Experience building Kubernetes operators, controllers, or
+    custom platform abstractions
+  - AWS or other cloud provider experience
+  - Experience with bare-metal servers or CDN operations
+  - Background in backend or full-stack development
+  - Ruby, Python, or Go experience
+  - Experience with Kafka or event-driven architectures
+  - Data pipeline design and operations
+  - Experience building with LLM APIs, MCP, or agentic
+    frameworks
+  - Familiarity with AI-powered operational tooling (AIOps,
+    intelligent alerting, automated runbooks)
+  - Video streaming domain knowledge
+  
+  Don't meet every requirement? Please apply anyway. We're
+  looking for curious, capable people who want to build great
+  things. If you think you'd thrive here, we'd love to talk.
+  
+  We want to make cinema accessible to everyone. We believe
+  people from different backgrounds bring different ideas that
+  foster innovation and engagement, allowing us to attract
+  great people to develop the best experience for our users.
+  
+  MUBI is committed to being an Equal Opportunity Employer.
+  That means it's our responsibility to ensure that all
+  candidates are not discriminated against in our hiring
+  processes and our employment decisions based on their race,
+  color, religion, nationality or ethnic origin, age, gender
+  identity or expression, sex, marital status, physical or
+  mental disability, socioeconomic background, sexual
+  orientation, family or parental status, or any other
+  applicable characteristic.
+posted_date: 2026-04-15
+url: "https://builtin.com/job/senior-infrastructure-engineer-ai-first/8945561"
+source: Built In

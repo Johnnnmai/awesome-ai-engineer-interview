@@ -1,0 +1,49 @@
+company:
+  name: Filevine
+  stage: Growth (rapid growth mentioned, recognized by Deloitte and Inc.)
+  focus: |-
+    Legal AI platform for legal operations and workflow
+    automation
+position:
+  title: Senior Front-End Engineer (AI Forms Platform)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a front-end engineering role building UI components
+      for an AI product, not working directly on AI/ML systems.
+      The engineer connects to AI services via APIs and uses AI
+      tools to assist development, but does not build, train,
+      fine-tune, or deploy models themselves.
+  responsibilities:
+  - Build responsive, high-performance web interfaces for complex form rendering,
+    data entry, and validation using modern JavaScript frameworks
+  - Collaborate with product designers to translate wireframes into pixel-perfect,
+    accessible user experiences
+  - Connect front-end components with backend APIs and AI services to display real-time
+    form mapping results and validation errors
+  - Write unit and integration tests for UI components to ensure defect-free releases
+  - Optimize application speed and rendering performance for large, multi-page forms
+  - Use AI-driven development tools to generate boilerplate code, write tests, and
+    troubleshoot styling issues
+  use_cases:
+  - Legal form filling, editing, and filing for lawyers and paralegals
+  - Complex legal workflow automation
+  - Real-time form mapping and validation
+  - AI-first legal operations platform
+  skills:
+    genai: []
+    ml: []
+    web: [React, Vue, Angular, Svelte, HTML5, CSS3, SASS, LESS, Jest, Cypress, Playwright,
+      WCAG, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8681691'
+  extracted_at: '2026-03-27T13:25:12.959370'

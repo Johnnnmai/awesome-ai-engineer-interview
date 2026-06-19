@@ -1,0 +1,58 @@
+company:
+  name: Diligent
+  stage: Public
+  focus: |-
+    Governance, risk and compliance (GRC) SaaS platform
+    leveraging AI agents
+position:
+  title: Forward Deployment Engineer - Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      iterating on AI agents for enterprise customers. The
+      engineer prototypes agents, builds evaluation
+      infrastructure, designs golden datasets, handles agent
+      regressions, and implements guardrails/tracing — all hands-
+      on work with agentic AI systems, not supporting
+      infrastructure for others.
+  responsibilities:
+  - Embed with enterprise customers to understand their risk, audit, and compliance
+    workflows and identify opportunities for agentic automation
+  - Run discovery workshops and rapidly prototype AI agents tested with real practitioners
+    in customer environments
+  - Build and maintain evaluation infrastructure, golden datasets, and guardrails
+    to ensure agent reliability in production
+  - Debug agent failures including silent regressions, context window degradation,
+    and prompt instability
+  - Ship production-ready agents that internal audit and compliance teams can trust
+    for end-to-end multi-step workflows
+  - Feed patterns learned from customer engagements back into the platform to generalize
+    agent capabilities
+  - Shape the agent roadmap and influence technical decisions spanning Product and
+    Engineering
+  - Travel regularly to enterprise customer sites across EU and US markets for on-site
+    embedded engagements
+  use_cases:
+  - Autonomous AI agents for internal audit programme planning and execution
+  - AI agents for risk management and control landscape assessment
+  - AI agents for compliance teams navigating regulatory obligations
+  - Agentic automation of complex multi-step GRC workflows end to end
+  - Enterprise GRC decision support requiring explainable, auditable AI outputs
+  skills:
+    genai: [Agent Development Life Cycle, LLM agents, Prompt engineering, RAG, Agent
+        guardrails]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability and tracing, Evaluation infrastructure, Regression testing]
+    languages: [Python]
+    domains: [Enterprise GRC domain knowledge]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8775074'
+  extracted_at: '2026-04-22T13:40:27.605247'

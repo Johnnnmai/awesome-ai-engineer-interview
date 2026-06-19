@@ -1,0 +1,54 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Full Stack Engineer (AI & Agentic AI Systems) – Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on engineering of AI-powered
+      features including RAG pipelines, vector databases, prompt
+      engineering, MCP, and agentic systems using Google Gemini
+      LLM and Vertex AI. The position requires building autonomous
+      agents that reason, plan, and act with minimal human
+      intervention, which is core AI/ML work.
+  responsibilities:
+  - Design and deliver end-to-end solutions spanning architecture, system design,
+    and high-quality coding across full-stack environments
+  - Build responsive, modular UI applications using React with complex AI-driven workflows
+    and real-time interactions
+  - Develop scalable, high-performance backend services in Java/Python with resilient
+    APIs and microservices architectures
+  - Engineer AI-powered features leveraging Google Gemini LLM, Vertex AI, RAG pipelines,
+    MCP, and advanced prompt engineering
+  - Implement secure REST and GraphQL APIs with reliability, versioning discipline,
+    and clean integration patterns
+  - Drive CI/CD practices with automated testing, code quality gates, containerization,
+    and cloud-native deployments
+  - Optimize system performance through profiling, load-testing, caching strategies,
+    and distributed system tuning
+  - Collaborate with AI scientists, architects, and product teams to translate business
+    challenges into production-ready agentic systems
+  use_cases:
+  - Autonomous agentic systems that reason, plan, and act with minimal human intervention
+  - AI-driven workflows integrated into full-stack applications
+  - RAG pipelines for intelligent information retrieval and generation
+  - Real-time AI-powered interactions in banking/financial services
+  - Production-ready intelligent automation systems
+  skills:
+    genai: [Google Gemini LLM, RAG pipelines, MCP, Prompt engineering, Context engineering]
+    ml: []
+    web: [React, REST APIs, GraphQL, OAuth, Microservices]
+    databases: [Vector databases, SQL, Oracle, PostgreSQL, MongoDB]
+    data: []
+    cloud: [Vertex AI]
+    ops: [CI/CD, Docker, Kubernetes, Automated testing]
+    languages: [Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8701667'
+  extracted_at: '2026-03-27T14:51:09.127779'

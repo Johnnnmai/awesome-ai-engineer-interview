@@ -1,0 +1,111 @@
+job_id: 8676512
+title: Lead AI Engineer
+company: Enable Data Incorporated
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Azure Databricks
+  - Azure Devops
+  - Azure Services
+  - Ci/Cd
+  - Mlflow
+  - Python
+  - SQL
+company_size: 19 Employees
+description: |
+  Primary Responsibilities:
+  
+  
+  
+  This role focuses on building production-ready AI
+  applications and deploying them on Azure Databricks and
+  Azure cloud infrastructure. You will work end-to-end: from
+  data ingestion and model integration to scalable deployment,
+  monitoring, and ongoing optimization.
+  
+  The expectation is to convert AI ideas into reliable,
+  governed, and cost-efficient applications that run in
+  production. You will design data and AI pipelines, integrate
+  models (including ML and Generative AI), and deploy them
+  using Databricks workflows and Azure-native services.
+  
+  Success in this role requires strong hands-on experience
+  with Azure Databricks, Python, SQL, and Azure services,
+  along with a clear understanding of how AI systems fail in
+  production—and how to prevent it. You will collaborate
+  closely with data scientists, platform engineers, and
+  business stakeholders to ensure AI applications are usable,
+  scalable, and maintainable beyond the first release.
+  
+  Key Responsibilities
+  
+  - Design and build end-to-end data and AI pipelines using
+    Azure Databricks.
+  - Develop robust ETL/ELT workflows using Python (PySpark) and
+    SQL.
+  - Implement CI/CD pipelines for Databricks deployments (jobs,
+    notebooks, workflows).
+  - Integrate Databricks with Azure services (Data Lake, Blob
+    Storage, Key Vault, Azure OpenAI, Azure Functions, etc.).
+  - Optimize jobs for performance, cost, and reliability.
+  - Build reusable, modular code.
+  - Collaborate with data scientists and platform teams to move
+    models from experimentation to production.
+  - Implement logging, monitoring, and error handling for
+    production pipelines.
+  - Develop and deploy ML and Generative AI models (LLMs,
+    embeddings, RAG pipelines) for NLP, computer vision, and
+    predictive analytics.
+  - Fine-tune LLMs using LoRA/QLoRA and integrate with Azure
+    OpenAI or Hugging Face models.
+  - Implement vector search and retrieval pipelines using FAISS
+    or Azure Cognitive Search.
+  - Ensure responsible AI practices, including bias detection
+    and model governance.
+  
+  Good to Have (Strong Advantage)
+  
+  - Experience with ML and Generative AI workloads on
+    Databricks.
+  - RAG, embeddings, or inference pipelines.
+  - Terraform / ARM / Bicep for infrastructure.
+  - Databricks Asset Bundles.
+  - Airflow or ADF orchestration.
+  - Production monitoring and cost optimization experience.
+  - Knowledge of LangChain or similar frameworks for AI
+    application development.
+  - Experience with Azure AI services (Azure Machine Learning,
+    Azure Cognitive Services).
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  Requirements
+  
+  - Azure Databricks (jobs, workflows, clusters, Unity Catalog
+    preferred).
+  - Python (PySpark-heavy, not just pandas).
+  - SQL (complex joins, window functions, analytical queries).
+  - Azure Cloud (ADLS Gen2, ADF, Key Vault, IAM concepts).
+  - Pipeline orchestration & deployment (CI/CD, environment
+    promotion).
+  - Azure DevOps.
+  - Strong understanding of ML lifecycle and MLOps best
+    practices.
+  - Experience with model deployment using MLflow or similar
+    frameworks.
+  
+  📩 Interested? Please share your resume at:
+  Pavithra.tr@enabledata.com
+industries:
+  - Cloud
+  - Database
+posted_date: 2026-03-06
+url: "https://builtin.com/job/lead-ai-engineer/8676512"
+source: Built In

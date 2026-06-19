@@ -1,0 +1,57 @@
+company:
+  name: Antares Capital LP
+  stage: Unknown
+  focus: |-
+    Financial services and lending firm providing capital
+    solutions
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building and deploying production AI
+      systems with direct work on RAG pipelines, vector databases,
+      LLM orchestration, and embedding strategies. The engineer
+      will design, implement, and operate AI capabilities - not
+      just support them.
+  responsibilities:
+  - Design and implement robust RAG pipelines integrating domain datasets, embeddings,
+    and retrieval strategies to deliver accurate, auditable responses
+  - Lead the evaluation and integration of vector databases (e.g., FAISS, Pinecone,
+    Milvus) and tune indexing/embedding strategies for performance and relevance
+  - Architect and orchestrate combinations of LLMs and tools (routing, ensemble prompts,
+    function-calling, guardrails) to optimize quality, latency, and cost
+  - 'Drive an ontology-driven approach: model and map enterprise data to real-world
+    business concepts and steward canonical vocabularies, taxonomies, and knowledge
+    graphs'
+  - Partner with data and platform teams to establish and evolve a semantic layer
+    that aligns data products with business entities, definitions, and policies
+  - Develop secure data access patterns (role-based permissions, PII minimization)
+    and implement content filtering, redaction, and safety controls
+  - Build evaluation frameworks (automated tests, offline/online metrics, human-in-the-loop
+    review) and maintain datasets for regression benchmarking
+  - Implement CI/CD and containerization for AI services; instrument telemetry, tracing,
+    and feature flags for safe progressive delivery
+  use_cases:
+  - Enterprise knowledge retrieval and search for financial data
+  - Decision-making support across the firm using AI-powered insights
+  - Ontology-driven semantic layer for business entity mapping
+  - Secure and auditable AI responses for regulated financial services
+  - Automated evaluation and benchmarking of AI system performance
+  skills:
+    genai: [RAG, LLM orchestration, Embedding generation, Prompt engineering, Function
+        calling, Guardrails]
+    ml: []
+    web: [REST, GraphQL]
+    databases: [FAISS, Pinecone, Milvus, Vector databases]
+    data: [Databricks, Spark, Delta Lake, ETL/ELT, Knowledge graphs]
+    cloud: [Microsoft Fabric, Azure]
+    ops: [CI/CD, Docker, Kubernetes, Terraform, MLOps, A/B testing]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8603650'
+  extracted_at: '2026-03-27T14:20:34.257806'

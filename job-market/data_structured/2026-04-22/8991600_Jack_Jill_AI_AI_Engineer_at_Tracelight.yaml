@@ -1,0 +1,48 @@
+company:
+  name: Jack & Jill AI
+  stage: Seed
+  focus: AI operating system for financial modeling
+position:
+  title: AI Engineer at Tracelight
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and optimizing AI
+      agents, evaluation pipelines, supervised fine-tuning (SFT),
+      and reinforcement learning (RL) strategies. The engineer
+      will own development of intelligent agents for financial
+      modeling, making this hands-on AI system building work.
+  responsibilities:
+  - Build and optimize high-performance AI agents using MCP, custom skills, and optimized
+    context windows to automate complex financial modeling tasks
+  - Lead technical ownership of evaluation pipelines, data collection, supervised
+    fine-tuning (SFT), and reinforcement learning (RL) to improve model performance
+  - Ship high-quality code at an intense pace using advanced AI tools like Claude
+    Code and Cursor
+  - Develop intelligent agents for an Excel AI agent platform used by top-tier consulting
+    firms and PE funds
+  - Design and implement fine-tuning strategies to make models smarter and more reliable
+    for strategic decision-making
+  - Contribute to a high-frequency product iteration cycle in a fast-growing startup
+    environment
+  use_cases:
+  - Automating complex financial modeling tasks via AI agents
+  - Excel AI agent for top-tier consulting firms and PE funds
+  - Intelligent agents for strategic decision-making automation
+  - AI operating system for financial modeling workflows
+  skills:
+    genai: [MCP, AI agents, Claude Code, Cursor, Prompt engineering]
+    ml: [Supervised fine-tuning (SFT), Reinforcement learning (RL)]
+    web: [React]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Evaluation pipelines]
+    languages: [TypeScript, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8991600'
+  extracted_at: '2026-04-22T13:35:41.247158'

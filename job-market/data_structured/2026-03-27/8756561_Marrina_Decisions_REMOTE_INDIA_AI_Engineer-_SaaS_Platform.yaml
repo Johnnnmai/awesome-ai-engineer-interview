@@ -1,0 +1,53 @@
+company:
+  name: Marrina Decisions
+  stage: Series A
+  focus: |-
+    AI-driven SaaS platform for content generation and
+    compliance
+position:
+  title: 'REMOTE (INDIA):   AI Engineer- SaaS Platform'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly hands-on with LLM/VLM pipelines in
+      production - maintaining, optimizing, and fine-tuning
+      models, implementing prompt engineering strategies, and
+      building feedback loops for AI evaluation. The position
+      involves core AI infrastructure work including model routing
+      and continuous improvement of AI outputs.
+  responsibilities:
+  - Maintain and optimize LLM- and VLM-powered services for content generation, compliance
+    scoring, and campaign testing
+  - Manage and scale Flask/FastAPI microservices ensuring high uptime and low latency
+  - Maintain Dramatiq queues for async AI workflows, campaign generation, and pipeline
+    orchestration
+  - Deploy, monitor, and debug Uvicorn/Gunicorn-based hosting in production environments
+  - Integrate with OpenRouter and equivalent LLM routing tools to balance cost, latency,
+    and quality
+  - Design and refine prompt engineering strategies for reliability, context-awareness,
+    and compliance
+  - Build and maintain feedback pipelines for AI model evaluation including human-in-the-loop
+    scoring and automated quality checks
+  - Track token consumption, latency, and error rates to ensure production-grade performance
+  use_cases:
+  - Content generation using LLMs/VLMs
+  - Compliance scoring automation
+  - Campaign testing and generation
+  - AI model evaluation and quality assurance
+  - Production AI pipeline optimization
+  skills:
+    genai: [LLMs, VLMs, Prompt engineering, OpenRouter]
+    ml: [Fine-tuning]
+    web: [Flask, FastAPI, Uvicorn, Gunicorn, REST API, Microservices]
+    databases: []
+    data: [Dramatiq, Celery]
+    cloud: [AWS, GCP]
+    ops: [Docker, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8756561'
+  extracted_at: '2026-03-27T14:39:48.850099'

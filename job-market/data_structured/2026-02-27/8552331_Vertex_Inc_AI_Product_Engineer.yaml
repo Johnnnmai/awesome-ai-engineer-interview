@@ -1,0 +1,46 @@
+company:
+  name: Vertex, Inc.
+  stage: Public
+  focus: Tax software and AI-driven tax solutions
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves conceptualizing, designing, and
+      implementing production-ready AI products using ML and
+      generative AI technologies. Responsibilities include
+      developing and deploying AI-driven products from concept to
+      production, creating AI systems, and implementing techniques
+      from ML/GenAI research papers.
+  responsibilities:
+  - Develop and deploy AI-driven products from concept to production
+  - Create proof-of-concept systems and scalable prototypes using ML and generative
+    AI
+  - Manage cross-functional teams to bring AI solutions to life
+  - Collaborate with stakeholders to identify pain points and design effective solutions
+  - Stay abreast of the latest ML/GenAI advancements and apply novel techniques
+  - Implement techniques from ML/GenAI research papers
+  - Build stable, truthful, and helpful AI systems
+  use_cases:
+  - AI-driven tax solutions for external customers
+  - Internal workflow automation and optimization
+  - AI-powered natural language processing applications
+  - Computer vision systems
+  - Generative AI applications for tax and business processes
+  skills:
+    genai: [generative AI]
+    ml: [machine learning, natural language processing, computer vision]
+    web: [full-stack development, backend development, frontend development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: [tax software]
+    other: [UI/UX design, product development]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8552331'
+  extracted_at: '2026-03-03T12:34:18.787621'

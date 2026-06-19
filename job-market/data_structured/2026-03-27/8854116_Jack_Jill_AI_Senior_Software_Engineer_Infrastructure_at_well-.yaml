@@ -1,0 +1,46 @@
+company:
+  name: Jack & Jill AI
+  stage: Series B
+  focus: Multi-modal AI data curation and indexing platform
+position:
+  title: Senior Software Engineer (Infrastructure) at well-funded Series B AI startup
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role builds backend infrastructure and data systems
+      that SUPPORT machine learning workflows, but does not
+      involve directly building, training, fine-tuning, or
+      deploying AI/ML models. The work focuses on scaling data
+      infrastructure, not hands-on ML engineering.
+  responsibilities:
+  - Architect and build backend systems for high-performance data management handling
+    billions of data points
+  - Design and maintain performant systems using Python, Rust, and Clickhouse
+  - Scale infrastructure to handle massive volumes of unstructured data for machine
+    learning workflows
+  - Take full ownership of projects from architectural decisions through deployment
+    and monitoring
+  - Solve complex scaling challenges related to querying and manipulating massive
+    datasets at global scale
+  - Ensure platform remains fast and reliable during hyper-growth phase
+  use_cases:
+  - Managing billions of data points for ML workflows
+  - Processing and indexing massive volumes of unstructured data
+  - Multi-modal AI data curation and indexing
+  - High-performance querying and manipulation of global-scale datasets
+  skills:
+    genai: []
+    ml: []
+    web: [Backend systems design]
+    databases: [PostgreSQL, Clickhouse]
+    data: []
+    cloud: []
+    ops: [Large-scale distributed systems]
+    languages: [Python, Rust, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8854116'
+  extracted_at: '2026-03-27T16:05:01.664834'

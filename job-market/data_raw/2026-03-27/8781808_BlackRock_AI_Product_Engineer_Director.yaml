@@ -1,0 +1,300 @@
+job_id: 8781808
+title: AI Product Engineer, Director
+company: BlackRock
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - APIs
+  - AWS
+  - Azure
+  - Cassandra
+  - Docker
+  - GCP
+  - Google Agent Development Kit
+  - Java
+  - Kubernetes
+company_size: 25,000 Employees
+description: |
+  About this role
+  
+  At BlackRock, technology is fundamental to how we serve
+  clients and operate at scale. Aladdin—our industry‑leading,
+  end‑to‑end investment management platform—embodies this by
+  combining deep financial expertise with advanced data and AI
+  capabilities.
+  
+  We are seeking a Director of AI Platform / Engineering to
+  provide technical and strategic leadership within the
+  Aladdin AI Engineering organization. In this role, you will
+  be responsible for shaping the direction of Aladdin’s AI
+  platform, leading high‑impact engineering initiatives, and
+  ensuring the delivery of scalable, reliable, and responsible
+  AI solutions across investment, operations, and data science
+  workflows.
+  
+  This role requires a blend of hands‑on technical depth,
+  architectural leadership, and people and delivery
+  leadership. You will work closely with senior engineering
+  leaders, product managers, data scientists, and business
+  stakeholders to translate AI strategy into production‑grade
+  platforms and services.
+  
+  
+  
+  Key Responsibilities
+  
+  Technical & Architectural Leadership
+  
+  - Set the technical vision and architecture for Aladdin’s AI
+    platform, including LLM‑powered and agentic AI systems.
+  
+  - Lead the design and evolution of scalable AI/ML platform
+    services, APIs, and microservices that support Aladdin’s
+    global user base.
+  
+  - Drive architectural decisions across distributed systems,
+    ensuring reliability, scalability, security, and
+    operational excellence.
+  
+  - Establish and enforce engineering standards, design
+    patterns, and best practices across AI platform teams.
+  
+  - Ensure AI solutions are built with strong considerations for
+    governance, observability, resilience, and responsible AI.
+  
+  Delivery & Execution
+  
+  - Own delivery outcomes for multiple concurrent initiatives,
+    balancing near‑term execution with long‑term platform
+    evolution.
+  
+  - Partner with product management to define roadmaps,
+    prioritize investments, and align execution with business
+    outcomes.
+  
+  - Oversee production readiness, including design reviews, risk
+    assessments, release management, and operational support.
+  
+  - Drive continuous improvement in engineering workflows,
+    quality, and delivery predictability.
+  
+  People & Organizational Leadership
+  
+  - Lead, mentor, and develop senior engineers, technical leads,
+    and managers.
+  
+  - Build a strong engineering culture centered on ownership,
+    rigor, collaboration, and technical excellence.
+  
+  - Support hiring, onboarding, performance management, and
+    succession planning.
+  
+  - Act as a senior technical voice across leadership forums and
+    architectural reviews.
+  
+  Stakeholder & Cross‑Functional Collaboration
+  
+  - Partner closely with platform, product, data science, and
+    infrastructure leaders.
+  
+  - Communicate complex technical concepts clearly to senior
+    leadership and non‑technical stakeholders.
+  
+  - Represent Aladdin AI Engineering in cross‑organizational
+    initiatives and governance forums.
+  
+  
+  
+  Required Qualifications
+  
+  AI / ML‑Specific Qualifications
+  
+  - Proven experience leading teams that build AI‑driven
+    platforms and applications, including solutions leveraging
+    large language models (LLMs), AI Agents, agent tools and
+    agent skills.
+  
+  - Strong hands‑on familiarity with LLM frameworks such as
+    LangChain, LlamaIndex, Semantic Kernel, or equivalent.
+  
+  - Experience with Google Agent Development Kit (ADK) or
+    comparable agent frameworks, including designing,
+    orchestrating, and operating agent‑based systems in
+    production.
+  
+  - Deep understanding of agentic AI architectures, including
+    multi‑agent coordination, tool invocation, and stateful
+    reasoning workflows.
+  
+  - Experience with prompt engineering and prompt tuning at
+    scale, including performance, reliability, and safety
+    optimization.
+  
+  - Strong understanding of ML model evaluation, monitoring, and
+    behavioral drift management in production systems.
+  
+  - Experience integrating vector databases (e.g., Faiss,
+    Chroma) into AI system architectures.
+  
+  - Solid understanding of MLOps practices, including model
+    lifecycle management, deployment pipelines, and
+    observability.
+  
+  - Experience leveraging AInative code editors and IDEs (e.g.,
+    Copilotenabled IDEs, agentassisted development
+    environments, or similar AIaugmented tooling) to improve
+    developer productivity, code quality, and delivery
+    velocity.
+  
+  - Experience establishing best practices and guardrails for
+    the responsible use of AInative development tools,
+    including considerations for security, IP protection,
+    compliance, and code quality.
+  
+  - Ability to evaluate and guide adoption of emerging AIpowered
+    developer tools, balancing innovation with
+    maintainability, governance, and platform standards.
+  
+  - Strong awareness of responsible AI principles, governance,
+    and risk management when deploying AI systems in regulated
+    environments.
+  
+  
+  
+  Core Engineering & Leadership Qualifications
+  
+  - B.S. or M.S. in Computer Science, Engineering, or a related
+    field.
+  
+  - 10+ years of software engineering experience, including
+    significant leadership of large‑scale, distributed
+    systems.
+  
+  - Proven track record of technical leadership, owning platform
+    architecture and multi‑team delivery.
+  
+  - Deep expertise in object‑oriented programming, particularly
+    Java and Python.
+  
+  - Strong experience designing and operating scalable APIs,
+    microservices, and distributed systems in production.
+  
+  - Extensive experience with cloud platforms (Azure preferred;
+    AWS or GCP acceptable).
+  
+  - Strong understanding of event‑driven architectures,
+    messaging systems (e.g., Kafka), and asynchronous
+    processing.
+  
+  - Experience with containerization and orchestration
+    technologies such as Docker and Kubernetes.
+  
+  - Hands‑on experience with relational and NoSQL datastores,
+    including Cassandra.
+  
+  - Strong grasp of Agile delivery models, SDLC governance, and
+    operational excellence.
+  
+  - Demonstrated ability to influence across teams and senior
+    leadership.
+  
+  Why BlackRock
+  
+  Joining BlackRock means becoming part of a firm that
+  oversees more than $14 trillion in assets and operates at
+  the intersection of finance and technology. As a Director in
+  Aladdin AI Engineering, you will play a critical role in
+  shaping the future of AI‑powered investment management at
+  global scale.
+  
+  For New York, NY Only the salary range for this position is
+  USD$240,000.00 - USD$300,000.00 . Additionally, employees
+  are eligible for an annual discretionary bonus, and benefits
+  including healthcare, leave benefits, and retirement
+  benefits. BlackRock operates a pay-for-performance
+  compensation philosophy and your total compensation may vary
+  based on role, location, and firm, department and individual
+  performance.
+  
+  Our benefits To help you stay energized, engaged and
+  inspired, we offer a wide range of benefits including a
+  strong retirement plan, tuition reimbursement, comprehensive
+  healthcare, support for working parents and Flexible Time
+  Off (FTO) so you can relax, recharge and be there for the
+  people you care about.
+  
+  Our hybrid work model
+  
+  BlackRock’s hybrid work model is designed to enable a
+  culture of collaboration and apprenticeship that enriches
+  the experience of our employees, while supporting
+  flexibility for all. Employees are currently required to
+  work at least 4 days in the office per week, with the
+  flexibility to work from home 1 day a week. Some business
+  groups may require more time in the office due to their
+  roles and responsibilities. We remain focused on increasing
+  the impactful moments that arise when we work together in
+  person – aligned with our commitment to performance and
+  innovation. As a new joiner, you can count on this hybrid
+  model to accelerate your learning and onboarding experience
+  here at BlackRock.
+  
+  About BlackRock
+  
+  At BlackRock, we are all connected by one mission: to help
+  more and more people experience financial well-being.  Our
+  clients, and the people they serve, are saving for
+  retirement, paying for their children’s educations, buying
+  homes and starting businesses. Their investments also help
+  to strengthen the global economy: support businesses small
+  and large; finance infrastructure projects that connect and
+  power cities; and facilitate innovations that drive
+  progress.
+  
+  This mission would not be possible without our smartest
+  investment – the one we make in our employees. It’s why
+  we’re dedicated to creating an environment where our
+  colleagues feel welcomed, valued and supported with
+  networks, benefits and development opportunities to help
+  them thrive.
+  
+  For additional information on BlackRock, please visit
+  @blackrock | Twitter: @blackrock | LinkedIn:
+  www.linkedin.com/company/blackrock
+  
+  BlackRock is proud to be an equal opportunity workplace. We
+  are committed to equal employment opportunity to all
+  applicants and existing employees, and we evaluate qualified
+  applicants without regard to race, creed, color, national
+  origin, sex (including pregnancy and gender
+  identity/expression), sexual orientation, age, ancestry,
+  physical or mental disability, marital status, political
+  affiliation, religion, citizenship status, genetic
+  information, veteran status, or any other basis protected
+  under applicable federal, state, or local law. View the
+  EEOC’s Know Your Rights poster and its supplement and the
+  pay transparency statement.
+  
+  
+  
+  BlackRock is committed to full inclusion of all qualified
+  individuals and to providing reasonable accommodations or
+  job modifications for individuals with disabilities. If
+  reasonable accommodation/adjustments are needed throughout
+  the employment process, please email
+  Disability.Assistance@blackrock.com. All requests are
+  treated in line with our privacy policy.
+  
+  BlackRock will consider for employment qualified applicants
+  with arrest or conviction records in a manner consistent
+  with the requirements of the law, including any applicable
+  fair chance law.
+industries:
+  - Fintech
+  - Information Technology
+  - Financial Services
+posted_date: 2026-03-17
+url: "https://builtin.com/job/ai-platform-engineer-director/8781808"
+source: Built In

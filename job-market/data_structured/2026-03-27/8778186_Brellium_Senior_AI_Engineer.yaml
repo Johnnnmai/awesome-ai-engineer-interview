@@ -1,0 +1,50 @@
+company:
+  name: Brellium
+  stage: Series A
+  focus: |-
+    AI-powered healthcare compliance and clinical risk
+    mitigation platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is core AI engineering work focused on building,
+      deploying, and optimizing LLM-powered pipelines, agentic
+      systems, RAG architectures, and evaluation frameworks. The
+      engineer directly works on the "intelligence engine" that
+      transforms clinical data through AI systems.
+  responsibilities:
+  - Design and improve LLM-powered pipelines and agent architectures
+  - Build robust evaluation and benchmarking frameworks to measure output quality
+    and regression
+  - Optimize for latency, cost, determinism, and output quality across high daily
+    volume
+  - Implement retrieval-augmented generation (RAG) and tool-use strategies
+  - Ship production-grade AI systems at scale
+  - Collaborate with backend and product teams to integrate AI capabilities into the
+    core platform
+  use_cases:
+  - Real-time medical review for clinical and compliance risk detection
+  - Transforming raw session data into clinically structured outputs
+  - Healthcare provider compliance monitoring and alignment
+  - Clinical best practices alignment for patient visits
+  - Medical diagnostic error prevention
+  - Data-driven care quality improvement
+  skills:
+    genai: [prompt engineering, LLM systems, RAG, agentic systems, structured extraction,
+      tool calling, evaluation frameworks, function calling]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8778186'
+  extracted_at: '2026-03-27T13:24:22.379710'

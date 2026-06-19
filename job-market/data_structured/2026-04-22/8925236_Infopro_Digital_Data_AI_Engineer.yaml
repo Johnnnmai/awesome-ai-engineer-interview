@@ -1,0 +1,53 @@
+company:
+  name: Infopro Digital
+  stage: null
+  focus: |-
+    B2B information and technology group across specialist
+    media, data and platforms
+position:
+  title: Data & AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is titled "Data & AI Engineer" but the actual
+      responsibilities focus entirely on data pipelines, ETL
+      workflows, and structured dataset management. There is no
+      mention of building, training, fine-tuning, or deploying
+      AI/ML models. The "AI" in the title appears aspirational or
+      refers to working near AI-adjacent data work, making this an
+      ai-support role.
+  responsibilities:
+  - Develop and maintain data pipelines and automated workflows for collecting and
+    processing data
+  - Design, manage and optimise structured datasets used across the organisation
+  - Write scripts and services to extract, transform and load data from various sources
+  - Support journalists, analysts and product teams with accessing and working with
+    data
+  - Ensure data quality, consistency and reliability across datasets
+  - Identify opportunities to improve automation and efficiency in data workflows
+  - Collaborate with internal stakeholders including developers, designers, UX specialists
+    and product teams
+  - Contribute to the development of new data products, tools and services
+  use_cases:
+  - Data collection and processing for editorial and research teams at Risk.net
+  - Automated data ingestion and transformation from public, internal and third-party
+    sources
+  - Structured dataset management for analysis, reporting and product development
+  - Data-driven product development for B2B information platforms
+  - Benchmarking data products for financial markets and risk industry
+  skills:
+    genai: []
+    ml: []
+    web: [PHP Symfony, Drupal, jQuery, Vue.js]
+    databases: [Snowflake]
+    data: [ETL, Data pipelines, Structured data management]
+    cloud: [AWS, Google Cloud]
+    ops: [Git, Docker]
+    languages: [Python, PHP, SQL, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8925236'
+  extracted_at: '2026-04-22T13:49:18.883877'

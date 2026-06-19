@@ -1,0 +1,180 @@
+job_id: 8703076
+title: Applied AI Engineer II
+company: Amigo
+location: New York, USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Ai Platforms
+  - Datadog
+  - Llms
+  - Pydantic
+  - Python
+company_size: 30 Employees
+description: |
+  About Amigo
+  
+  Amigo partners with healthcare organizations to deploy
+  robust AI infrastructure that directly serves patients and
+  providers. Our agents handle clinical workflows and patient
+  engagement across the entire journey: pre-visit intake, care
+  navigation, post-visit care plans, patient monitoring, and
+  more.
+  
+  We own outcomes, not just delivery. For our customers, we're
+  responsible for agent performance: clinical safety,
+  continuous improvement, measurable patient outcomes. Agents
+  operate autonomously within bounded clinical domains, with
+  clear scope and handoff protocols. That scope expands as we
+  validate performance across populations.
+  
+  We're backed by Tier 1 investors like General Catalyst, GSV
+  Ventures, SVA, and CohoVC. Our work is validated with
+  leading academic medical institutions. Our agents have
+  reached 3M+ patient encounters and are on track to 10x this
+  year.
+  
+  About this role
+  
+  As an Agent Engineer II at Amigo, you'll independently
+  design and implement production AI agents for healthcare
+  customers. You'll architect context graphs that model
+  complex clinical workflows, design agent personalities that
+  maintain clinical safety, and build evaluation frameworks
+  that catch problems before patients encounter them. This
+  role requires you to make design tradeoffs -- balancing
+  conversation quality, clinical safety, and system
+  reliability -- with minimal oversight.
+  
+  What you'll do
+  
+  - Design context graphs (hierarchical state machines) that
+    model multi-step clinical workflows -- choosing between
+    linear arcs and routing hubs, calibrating state density,
+    and preventing conversation loops
+  - Architect agent identities: background, motivations,
+    expertise, behaviors, and communication patterns that
+    produce clinically safe and engaging conversations
+  - Build dynamic behavior sets that inject contextual
+    instructions at runtime -- designing trigger conditions,
+    choosing override modes, and testing activation patterns
+  - Design user memory systems by defining extraction dimensions
+    that are bounded, orthogonal, and actionable -- preventing
+    the dimension overlap and storage explosion that collapse
+    memory systems
+  - Write tool integration specs that define when tools fire,
+    what parameters they receive, and how results persist in
+    conversation context
+  - Diagnose production conversation failures by reading prompt
+    logs, tracing routing decisions, and identifying root
+    causes across the agent-graph-behavior stack
+  - Design evaluation suites: metrics that resist gaming
+    (Goodhart's Law), personas that represent real patient
+    populations, and scenarios that test edge cases
+  - Run coverage-optimized simulations using frontier and
+    heatmap algorithms to systematically test all reachable
+    states and transitions
+  - Process complex customer feedback -- categorizing issues
+    into agent design problems, context graph flow issues,
+    platform bugs, and knowledge gaps
+  
+  What we're looking for
+  
+  - 2-4 years of production software engineering experience
+  - Strong Python skills including Pydantic models, async
+    patterns, and building reliable systems that interact with
+    external APIs
+  - Experience with LLMs, prompt engineering, or building on AI
+    platforms
+  - Ability to design systems by reasoning about competing
+    constraints -- you understand that boundary constraints
+    matter more than action guidelines, and that quality
+    trumps speed
+  - Experience working directly with customers or domain experts
+    to translate requirements into technical implementations
+  - Debugging skills across multiple system layers -- you can
+    trace a problem from user-visible symptom to root cause
+    across logs, prompts, and configuration
+  - Understanding of testing methodologies -- you think about
+    what to measure, not just whether tests pass
+  - Clear technical communication for both engineering and
+    clinical audiences
+  
+  Nice to have
+  
+  - Experience in regulated industries (healthcare, finance,
+    legal)
+  - Background with state machine design, finite automata, or
+    conversation flow modeling
+  - Experience with simulation frameworks or synthetic data
+    generation
+  - Understanding of distributed systems and observability
+    (Datadog, structured logging)
+  - Familiarity with compliance requirements (HIPAA, SOC 2)
+  - Experience with voice/TTS systems and audio-specific
+    constraints
+  
+  Benefits
+  
+  Health & Wellness
+  
+  - Comprehensive health, dental, and vision insurance
+  - Daily catered lunch and dinner
+  - Mental health support and wellness coaching
+  - Flexible wellness stipend for fitness, therapy, or personal
+    growth
+  
+  Growth & Development
+  
+  - Annual learning budget for courses, books, or conferences
+  - Conference attendance budget for professional development
+  - Annual team offsite
+  - Academic collaboration opportunities
+  - Unlimited PTO
+  
+  Our Core Values
+  
+  - Patients Win, We WinIf patients aren't getting better care,
+    we haven't earned the right to scale. Every internal
+    decision gets pressure-tested: does this make patients'
+    lives better? If we can't draw the line, we question why
+    we're doing it.
+  - High Standards, High CareWe hold a high bar for the team
+    because patients are counting on us to get this right. But
+    high standards only work with genuine investment in each
+    other. You can take risks, admit mistakes, and challenge
+    ideas—not despite our standards, but because of them.
+  - Thoughtful UrgencyWe move fast by default, but speed without
+    judgment is recklessness. The discipline is knowing which
+    decisions are reversible vs. not. In healthcare AI, the
+    companies that win will be fast everywhere they can be and
+    careful everywhere they must be. We build the muscle to do
+    both.
+  - Intensely MeasuredWe instrument patient outcomes, provider
+    ROI, system performance, and clinical accuracy. But data
+    without action is surveillance. Every metric should have
+    an owner, a threshold, and a response plan. If we're
+    measuring something but never acting on it, we stop
+    measuring it.
+  
+  Who Builds With Us
+  
+  - Low ego: Politics and territory don't interest you. The best
+    ideas win, regardless of who has them.
+  - Direct: You say the hard thing, challenge ideas openly, and
+    commit fully once decided.
+  - High agency: You thrive on trust rather than instruction.
+    When you see something is broken, you fix it. You don’t
+    file tickets and wait for someone else.
+  - Bar of excellence: You hold yourself to a bar most people
+    wouldn't, and you want teammates who do the same.
+  - Skeptical: You push back on rules that don’t make sense and
+    question assumptions that haven’t earned their place.
+industries:
+  - Artificial Intelligence
+  - Enterprise Web
+  - Healthtech
+  - Software
+posted_date: 2026-03-10
+url: "https://builtin.com/job/applied-ai-engineer-ii/8703076"
+source: Built In

@@ -1,0 +1,53 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Python Software Engineer - Generative AI Products and Platform - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building the foundational backend systems
+      for 'Citi Assist,' a Generative AI assistant platform. While
+      it's a software engineering role, the core purpose is
+      building GenAI products and platforms (LLM-powered
+      assistant), and the job requires direct experience with
+      Generative AI concepts and LLMs. The engineer is building
+      the systems that power GenAI capabilities, making this ai-
+      first.
+  responsibilities:
+  - Build and deliver Python backend services for Citi Assist, a GenAI digital assistant
+    for all Citi employees
+  - Own features end-to-end from ideation through production deployment with high
+    autonomy
+  - Implement security best practices and AI safety measures in all code and systems
+  - Conduct and participate in constructive code reviews and collaborate closely with
+    team members
+  - Maintain engineering craftsmanship through clean code, meaningful commits, and
+    rigorous CI/CD practices
+  - Deploy and manage containerized applications on Kubernetes/OpenShift infrastructure
+  - Communicate progress proactively and drive work forward without detailed specifications
+  - Build platforms and guidance that enable the broader organization to adopt GenAI
+    safely and effectively
+  use_cases:
+  - Enterprise GenAI digital assistant (Citi Assist) serving hundreds of thousands
+    of bank employees globally
+  - Centralized GenAI platform enabling safe and scalable AI adoption across a large
+    organization
+  - AI safety and compliance infrastructure for responsible GenAI deployment in banking
+  skills:
+    genai: [GitHub Copilot, LLMs]
+    ml: []
+    web: [Node.js, React, Next.js]
+    databases: [Postgres]
+    data: [Apache Airflow, Dagster]
+    cloud: []
+    ops: [Kubernetes, OpenShift, Docker/Containers, CI/CD, Tekton, Harness, GitHub]
+    languages: [Python, TypeScript, Go, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8926580'
+  extracted_at: '2026-04-22T13:43:57.094886'

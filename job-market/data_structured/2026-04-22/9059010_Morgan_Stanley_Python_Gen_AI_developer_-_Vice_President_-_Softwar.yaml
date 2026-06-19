@@ -1,0 +1,50 @@
+company:
+  name: Morgan Stanley
+  stage: Public
+  focus: Global financial services and investment banking
+position:
+  title: Python Gen AI developer - Vice President - Software Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves building GenAI solutions,
+      agents, and tools, and leveraging Generative AI tools and
+      coding assistants. The candidate will work with GenAI coding
+      assistants in agent mode and build GenAI-powered products
+      for risk alerts and SDLC tools, making this a hands-on AI
+      system building role.
+  responsibilities:
+  - Staff, develop and lead one or more teams within the CDRR Technology department
+  - Build GenAI solutions, agents, and tools for risk alerts and software development
+    lifecycle products
+  - Design, develop, and implement scalable solutions using primarily Python and some
+    Java as part of an Agile squad
+  - Leverage Generative AI tools and coding assistants to enhance development velocity
+    and solution quality
+  - Collaborate with global teams to translate business requirements into robust technical
+    solutions
+  - Participate in Agile meetings, deliver project status, and adapt to evolving regulatory
+    and business requirements
+  - Write comprehensive tests to ensure code reliability and maintainability
+  - Analyze multiple sets of information to create summaries for various stakeholders
+  use_cases:
+  - Risk alert generation and management using GenAI
+  - Software development lifecycle automation with AI-powered agents and tools
+  - GenAI coding assistance to accelerate development workflows
+  - Non-financial risk monitoring and alerting solutions
+  skills:
+    genai: [GenAI coding assistants, Agent mode]
+    ml: []
+    web: []
+    databases: [PostgreSQL, MongoDB, RDBMS, NoSQL]
+    data: []
+    cloud: []
+    ops: [CI/CD, Containerization, Observability tools, DevOps]
+    languages: [Python, Java]
+    domains: []
+    other: [Unit testing, Agile]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9059010'
+  extracted_at: '2026-04-22T13:03:41.419267'

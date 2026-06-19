@@ -1,0 +1,53 @@
+company:
+  name: Arctic Wolf
+  stage: Public
+  focus: Cybersecurity managed detection and response platform
+position:
+  title: Senior Quality Engineer - AI Integrations
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and maintaining test
+      frameworks for GenAI and AI/ML applications, including LLM
+      prompt-response consistency testing, hallucination
+      detection, evaluation pipelines for LLM
+      accuracy/bias/toxicity, and regression testing for AI
+      inference APIs. While it's a quality engineering role, the
+      core work includes hands-on validation and evaluation of
+      AI/LLM systems using tools like LangChain and Ragas.
+  responsibilities:
+  - Create and extend software frameworks and tools to run, monitor, and report on
+    automated tests
+  - Review testing strategies, approaches, and test plans and provide insight to development
+    teams
+  - Architect, design and build software to automate a variety of testing methods
+    (API validation, performance/load testing, fuzzing)
+  - Develop and maintain test frameworks for GenAI-based and AI/ML applications including
+    model validation and LLM prompt-response consistency
+  - Implement evaluation pipelines to test LLM accuracy, latency, bias, toxicity,
+    and reliability
+  - Work as part of a team of highly skilled software professionals on distributed
+    microservices systems
+  use_cases:
+  - Security operations platform ingesting 600B+ events daily for threat detection
+  - Real-time analysis and threat detection across on-premise and cloud platforms
+  - LLM prompt-response consistency validation and hallucination detection
+  - AI inference API regression testing and reliability assurance
+  - Automated quality assurance for cybersecurity intelligence distillation
+  skills:
+    genai: [LangChain, Ragas, LLM evaluation, Prompt-response consistency testing,
+      Hallucination detection]
+    ml: []
+    web: [Selenium, Playwright, OpenAPI]
+    databases: [Postgres]
+    data: []
+    cloud: [AWS Bedrock, AWS Lambda, AWS SQS, AWS S3]
+    ops: [Docker, Kubernetes, CI/CD, Locust, CATS, Linux]
+    languages: [Python]
+    domains: []
+    other: [Distributed systems, Microservices architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8184039'
+  extracted_at: '2026-04-22T14:14:10.364116'

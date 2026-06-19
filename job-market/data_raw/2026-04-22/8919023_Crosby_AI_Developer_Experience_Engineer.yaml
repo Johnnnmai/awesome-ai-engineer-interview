@@ -1,0 +1,136 @@
+job_id: 8919023
+title: AI Developer Experience Engineer
+company: Crosby
+location: New York, USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Anthropic
+  - APIs
+  - Llms
+  - Openai
+  - Python
+company_size: 30 Employees
+description: |
+  About Crosby AI
+  
+  Crosby is an AI-first legal platform reimagining corporate
+  legal services from the ground up. We are a team of
+  technologists and legal experts who build proprietary
+  technology and human-in-the-loop workflows that meaningfully
+  improve how lawyers and machines work together — delivering
+  speed, consistency, and quality across high-stakes work.
+  
+  Our systems review complex documents faster and with
+  exceptional accuracy, combining advanced AI with structured
+  legal expertise. Clients receive AI-powered redlines,
+  commentary, and negotiation guidance within hours, at a
+  predictable, volume-based price.
+  
+  Backed by Sequoia, Index Ventures, and Bain Capital
+  Ventures, we're building the end-to-end contracting platform
+  for the next generation of fast-growing companies.
+  
+  The Team
+  
+  The Engineering team builds the core systems,
+  infrastructure, and developer tooling that power Crosby’s
+  AI-first platform. We work across backend, frontend, and AI
+  systems to enable fast iteration, high-quality outputs, and
+  reliable production systems.
+  
+  We prioritize speed, leverage, and strong engineering
+  foundations — investing in systems that make the entire team
+  more effective.
+  
+  The Role
+  
+  As an AI Developer Experience Engineer at Crosby, you'll
+  play a critical role in building the internal systems that
+  enable our team to develop, evaluate, and ship AI features
+  quickly and reliably. You’ll focus on improving the
+  developer experience around LLMs, data, and experimentation
+  — creating tools and infrastructure that accelerate
+  iteration while maintaining quality.
+  
+  You’ll partner closely with engineers, data scientists, and
+  researchers to streamline workflows across prompting,
+  evaluation, fine-tuning, and deployment. This role is for
+  someone who is obsessed with leverage — building systems
+  that make other engineers dramatically more productive.
+  
+  Responsibilities
+  
+  - Build AI developer tooling: Design and implement internal
+    tools for prompt management, evaluation, experimentation,
+    and model iteration.
+  - Improve iteration speed: Create systems that enable rapid
+    testing, debugging, and comparison of model outputs across
+    different approaches.
+  - Own evaluation infrastructure: Develop frameworks for
+    benchmarking, regression testing, and monitoring AI system
+    performance.
+  - Streamline data workflows: Build pipelines and tooling to
+    support data collection, labeling, and feedback loops for
+    model improvement.
+  - Support production systems: Partner with engineering teams
+    to ensure AI features are reliable, observable, and easy
+    to maintain in production.
+  - Enable the team: Identify bottlenecks in the development
+    process and build systems that increase developer velocity
+    and confidence.
+  
+  Who You Are
+  
+  - 3–7+ years of software engineering experience, ideally
+    working on developer tools, infrastructure, or platform
+    teams
+  - Strong proficiency in Python and experience building backend
+    systems and internal tooling
+  - Hands-on experience working with LLMs, APIs (e.g., OpenAI,
+    Anthropic), and modern AI workflows
+  - Experience building systems for experimentation, evaluation,
+    or data pipelines
+  - Strong systems thinking with the ability to design tools
+    that scale across teams
+  - Highly pragmatic with a focus on improving developer
+    velocity and real-world outcomes
+  - Strong communicator who can work closely with engineers,
+    researchers, and product teams
+  - Proactive, resourceful, and excited about building
+    foundational systems in a fast-moving environment
+  
+  Equal Opportunity
+  
+  Crosby is an equal opportunity employer. We do not
+  discriminate based upon race, religion, color, national
+  origin, sex (including pregnancy, childbirth, reproductive
+  health decisions, or related medical conditions), sexual
+  orientation, gender identity, gender expression, age, status
+  as a protected veteran, status as an individual with a
+  disability, genetic information, political views or
+  activity, or other applicable legally protected
+  characteristics.
+  
+  Background checks for applicants will be administered in
+  accordance with applicable law, and qualified applicants
+  with arrest or conviction records will be considered for
+  employment consistent with those laws, including the New
+  York City Fair Chance Act.
+  
+  Pursuant to New York Labor Law Section 194-b, the US Pay
+  Range for this position is listed below. Final compensation
+  will be determined based on skills, experience, and
+  qualifications.
+  
+  Compensation Range: $180k–$250k
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Legal Tech
+  - Natural Language Processing
+  - Professional Services
+  - Software
+posted_date: 2026-03-31
+url: "https://builtin.com/job/ai-developer-experience-engineer/8919023"
+source: Built In

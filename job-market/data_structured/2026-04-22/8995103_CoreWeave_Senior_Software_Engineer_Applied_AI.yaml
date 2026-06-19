@@ -1,0 +1,51 @@
+company:
+  name: CoreWeave
+  stage: 'Public (Nasdaq: CRWV)'
+  focus: Cloud infrastructure platform purpose-built for AI workloads
+position:
+  title: Senior Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI/LLM-
+      powered applications, including AI-native analytics
+      platforms, text-to-SQL interfaces, copilots, and automated
+      insight-generation systems. The engineer integrates AI/LLM
+      capabilities into production applications, which constitutes
+      hands-on work with AI models and systems.
+  responsibilities:
+  - Design and build production-grade, full-stack AI-native analytics platforms and
+    applications
+  - Develop AI-enabled user experiences with scalable backend services and intuitive
+    interfaces
+  - Integrate AI/LLM capabilities into real-world applications across the full stack
+  - Build and maintain frontend applications using React and Next.js
+  - Develop backend services deployed on Kubernetes with a focus on performance and
+    reliability
+  - Build APIs and services (REST, gRPC) that make data accessible and actionable
+  - Implement software development best practices including CI/CD, automated testing,
+    and observability
+  - Transform complex data into operational capability through intelligent interfaces
+    and automation
+  use_cases:
+  - AI-native analytics platforms (e.g., UNION) for internal data-driven decision-making
+  - Capacity planning and scenario modeling applications
+  - Text-to-SQL interfaces for self-service data access
+  - AI copilots and automated insight-generation systems
+  - Governed data embedding into operational workflows
+  skills:
+    genai: [LLM integration, Text-to-SQL, AI copilots, Prompt engineering]
+    ml: []
+    web: [React, Next.js, REST, gRPC]
+    databases: [SQL]
+    data: [Spark, Kafka]
+    cloud: []
+    ops: [Docker, Kubernetes, Helm, CI/CD]
+    languages: [Python, Go, Java, C#, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8995103'
+  extracted_at: '2026-04-22T13:14:41.469929'

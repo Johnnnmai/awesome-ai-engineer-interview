@@ -1,0 +1,49 @@
+company:
+  name: Nexthink
+  stage: Growth (1300+ customers, 1000+ employees)
+  focus: Digital employee experience management software for IT teams
+position:
+  title: Senior AI & ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development of AI/ML systems
+      including LLMs, RAG, multi-agent systems, and NLP models in
+      production. The engineer will own end-to-end design,
+      development, and operation of production-grade AI solutions,
+      including model selection, training, fine-tuning, and MLOps
+      practices.
+  responsibilities:
+  - Lead end-to-end design, development, and operation of production-grade AI/ML solutions
+    including ML, NLP, LLM, RAG, and multi-agent systems
+  - Make key architectural decisions across model selection, training strategies,
+    retrieval mechanisms, orchestration layers, and infrastructure
+  - Create evaluations and define metrics of success using cutting-edge AI platforms
+  - Implement and manage MLOps practices for deployment, monitoring, and maintenance
+    of models in production
+  - Collaborate with software engineers, data scientists, and product teams to align
+    AI capabilities with business needs
+  - Mentor and coach junior AI engineers, fostering a culture of learning and knowledge
+    sharing
+  use_cases:
+  - Digital employee experience management for IT leaders
+  - Proactive IT issue detection and diagnosis across applications and networks
+  - Real-time analytics and automation for enterprise endpoints
+  - AI-powered IT operations and employee support automation
+  skills:
+    genai: [LLM, RAG, Multi-agent systems, Prompt engineering]
+    ml: [ML/NLP models, Model fine-tuning, Supervised/unsupervised learning, Reinforcement
+        learning, Text classification, Embeddings, Semantic search]
+    web: []
+    databases: [Retrieval systems]
+    data: []
+    cloud: [AWS, Cloud-based AI deployments]
+    ops: [MLOps, Experiment tracking, CI/CD for models, Model monitoring]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8555262'
+  extracted_at: '2026-03-03T12:54:11.873901'

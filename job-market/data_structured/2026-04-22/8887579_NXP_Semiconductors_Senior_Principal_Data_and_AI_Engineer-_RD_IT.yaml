@@ -1,0 +1,59 @@
+company:
+  name: NXP Semiconductors
+  stage: Public
+  focus: Semiconductor design and manufacturing
+position:
+  title: Senior Principal Data and AI Engineer- R&D IT
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on design, building, and
+      operationalizing of production-grade Predictive, Generative,
+      and Agentic AI solutions including RAG, LLMs, vector stores,
+      and agent-based architectures. The engineer directly builds
+      and deploys AI systems, not just supporting infrastructure
+      for others.
+  responsibilities:
+  - Define and evolve the technical roadmap by translating R&D needs into prioritized
+    backlog items with attention to reliability, security, and cost
+  - Shape the architecture of the R&D data and AI platform, defining technology choices
+    and design patterns for scalable Lakehouse and GenAI workloads
+  - Design, build, and operationalize production-grade Predictive, Generative, and
+    Agentic AI solutions including reference architectures
+  - Lead major platform initiatives including lakehouse modernization, migration from
+    AWS Glue to Databricks, and integration of AI capabilities
+  - Design and deliver large-scale ETL/ELT pipelines using AWS, Databricks, and Delta
+    Lake with proper schema management and data lifecycle practices
+  - Implement observability, monitoring, and evaluation for data and AI systems while
+    optimizing performance and cost efficiency
+  - Develop reusable frameworks, templates, and libraries for data and AI development
+    with best practices for versioning and reproducibility
+  - Embed security, governance, and compliance controls across data and AI solutions
+    including responsible AI guardrails
+  use_cases:
+  - AI-powered intelligent assistants for R&D engineering teams
+  - Automated workflows turning complex semiconductor R&D data into actionable insights
+  - Production-grade RAG and Agentic AI systems for enterprise knowledge retrieval
+  - Predictive AI models for optimizing new product introductions in semiconductor
+    R&D
+  - Scalable self-service data and AI platform for cross-engineering organization
+    use
+  - Lakehouse-based data platform enabling governed access to structured and unstructured
+    R&D data
+  skills:
+    genai: [RAG (Retrieval-Augmented Generation), LLMs, Agentic AI, MCP (Model/Agent
+        Control Patterns), Vector stores, Prompt engineering, Multimodal AI]
+    ml: [Predictive AI]
+    web: []
+    databases: [Delta Lake, Lakehouse architecture]
+    data: [Databricks, ETL/ELT pipelines, Data governance, Data observability]
+    cloud: [AWS, AWS S3, AWS Glue, AWS Athena, AWS Lake Formation]
+    ops: [Infrastructure-as-Code, CI/CD, MLOps, Docker]
+    languages: [Python, SQL]
+    domains: []
+    other: [Scrum/Agile]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8887579'
+  extracted_at: '2026-04-22T13:56:50.706841'

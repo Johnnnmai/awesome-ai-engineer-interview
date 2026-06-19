@@ -1,0 +1,88 @@
+job_id: 8903126
+title: Technology Engineer - AI/ML Platform
+company: Global Software Solutions Group
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Ansible
+  - AWS
+  - Bedrock
+  - Grafana
+  - Groovy
+  - Helm
+  - Jenkins
+  - Kubernetes
+  - Openshift
+  - Prometheus
+company_size: 160 Employees
+description: |
+  We are seeking a highly skilled Technology Engineer
+  specializing in AI/ML Platforms, MLOps, and GenAI
+  infrastructure to design, build, and scale next-generation
+  AI systems. The ideal candidate will have strong experience
+  in containerized environments, model serving, and cloud-
+  based AI architecture, with a focus on performance,
+  scalability, and resilience.
+  
+  RequirementsKey Responsibilities
+  
+  - Design, build, and maintain containerized applications using
+    OpenShift, OpenShift AI, Kubernetes, and Helm Charts
+  - Deploy and optimize AI inference engines such as Triton
+    Inference Server and vLLM for high-performance model
+    serving
+  - Lead end-to-end model lifecycle management, including
+    deployment, monitoring, scaling, and retraining workflows
+  - Implement monitoring, logging, and alerting systems using
+    Prometheus and Grafana
+  - Collaborate on GenAI and LLM-based projects, including
+    Agentic AI solutions
+  - Build and automate CI/CD pipelines using Jenkins, Groovy,
+    Ansible, and Terraform
+  - Develop automation scripts and internal tools using Python
+  - Architect and manage AI/ML solutions on AWS, leveraging
+    services like SageMaker and Bedrock (preferred)
+  - Build and enhance AI platforms across on-premise and cloud
+    environments
+  - Ensure systems are highly scalable, fault-tolerant, and
+    performance-optimized
+  - Contribute to architecture design, platform roadmap, and
+    strategic technical decisions
+  
+  Required Skills & Qualifications
+  
+  - Bachelor’s or Master’s degree in Computer Science,
+    Engineering, or related field
+  - Strong hands-on experience with:
+  - Experience with CI/CD tools (Jenkins, Groovy, Ansible,
+    Terraform)
+  - Proficiency in Python scripting and automation
+  - Experience with monitoring tools like Prometheus and Grafana
+  - Solid understanding of distributed systems, microservices,
+    and cloud-native architecture
+  - Hands-on experience with AWS Cloud services (SageMaker,
+    Bedrock preferred)
+  
+  Preferred Qualifications
+  
+  - Experience working on GenAI / LLM / Agentic AI use cases
+  - Knowledge of GPU acceleration and performance tuning
+  - Exposure to hybrid cloud (on-prem + cloud) AI platforms
+  - Familiarity with enterprise-scale AI platform engineering
+  
+  What We Offer
+  
+  - Opportunity to work on cutting-edge AI/GenAI platforms
+  - Exposure to large-scale enterprise AI deployments
+  - Collaborative and innovation-driven engineering environment
+  - Competitive compensation and growth opportunities
+industries:
+  - Fintech
+  - Payments
+  - Software
+  - Financial Services
+  - Automation
+posted_date: 2026-03-30
+url: "https://builtin.com/job/technology-engineer-ai-ml-platform/8903126"
+source: Built In

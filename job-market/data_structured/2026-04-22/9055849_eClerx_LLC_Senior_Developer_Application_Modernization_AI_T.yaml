@@ -1,0 +1,58 @@
+company:
+  name: eClerx LLC
+  stage: Public
+  focus: |-
+    Business process management, automation, and analytics
+    services for enterprises
+position:
+  title: Senior Developer (Application Modernization / AI Transformation)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience building LLM-based
+      solutions including RAG, LangChain, LlamaIndex, agentic AI
+      frameworks, and vector databases. The developer is expected
+      to build practical AI solutions and leverage AI-enabled
+      tools for code analysis, refactoring, and migration —
+      directly working with and implementing AI/GenAI systems.
+  responsibilities:
+  - Partner with business and technology stakeholders to identify opportunities for
+    AI-driven automation and modernization
+  - Analyze legacy applications, architecture, codebases, and integrations to define
+    re-engineering and migration strategies
+  - Leverage AI-enabled development tools to improve code analysis, refactoring, documentation,
+    test generation, and migration productivity
+  - Modernize legacy systems into modular, API-driven, microservices-based, or cloud-ready
+    architectures
+  - Perform hands-on development across .NET, Python, Java, and Go, delivering scalable
+    and maintainable solutions
+  - Contribute to SDLC activities end to end, including design, development, testing,
+    deployment, and release support
+  - Strengthen CI/CD, automated testing, and DevOps practices to improve release quality
+    and speed
+  - Document solutions clearly and communicate recommendations to both technical and
+    non-technical stakeholders
+  use_cases:
+  - AI-driven legacy application modernization and migration for a global financial
+    institution
+  - Automated code analysis, refactoring, and documentation using LLM-based tools
+  - Intelligent test generation and defect remediation via AI-assisted SDLC
+  - Enterprise application re-engineering from monolithic to microservices/cloud-native
+    architectures
+  - AI-enabled automation of enterprise software delivery pipelines
+  skills:
+    genai: [RAG, LangChain, LlamaIndex, Agentic AI frameworks]
+    ml: []
+    web: [REST APIs, Microservices, Event-driven architecture]
+    databases: [Vector databases, Neo4j]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [CI/CD, DevOps, Automated testing]
+    languages: [Python, Java, .NET, Go, SQL]
+    domains: []
+    other: [Graph-based reasoning, Agile]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9055849'
+  extracted_at: '2026-04-22T13:32:12.797266'

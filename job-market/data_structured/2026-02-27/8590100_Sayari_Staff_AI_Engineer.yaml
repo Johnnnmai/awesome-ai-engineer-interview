@@ -1,0 +1,52 @@
+company:
+  name: Sayari
+  stage: Venture-backed
+  focus: |-
+    Global corporate data provider and commercial intelligence
+    platform for financial crime prevention
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building production
+      applications with LLMs including prompt engineering, RAG,
+      fine-tuning, and agentic workflows. The position leads AI
+      feature architecture and establishes LLM evaluation
+      frameworks, making it directly focused on implementing and
+      deploying AI systems.
+  responsibilities:
+  - Architect classical and AI powered solutions that are robust, scalable, and thoroughly
+    tested
+  - Collaborate with Product and Design teams to evolve platform roadmap and translate
+    product goals into tractable features
+  - Lead technical architecture decisions for AI features, balancing research ambitions
+    with production reliability
+  - Establish evaluation frameworks and best practices for working with large language
+    models in high-stakes, accuracy-critical domains
+  - Act as a multiplier for the engineering team through hands-on mentoring, deep
+    code reviews, and technical training on AI skillsets
+  - Oversee team deliverables while ensuring code quality and maintainability
+  use_cases:
+  - Anti-money laundering (AML) detection and prevention
+  - Sanctions evasion identification
+  - Corporate transparency and registry analysis
+  - Financial fraud detection and investigation
+  - Cross-border trade safety and compliance
+  - Commercial intelligence for financial institutions and governments
+  skills:
+    genai: [Prompt engineering, RAG, LLM fine-tuning, Agentic workflows]
+    ml: []
+    web: [REST APIs]
+    databases: [PostgreSQL, Cassandra, Elasticsearch, Graph databases, Cypher, NoSQL]
+    data: [Spark]
+    cloud: [GCP, AWS, Azure]
+    ops: [Kubernetes]
+    languages: [TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8590100'
+  extracted_at: '2026-03-03T12:51:25.105307'

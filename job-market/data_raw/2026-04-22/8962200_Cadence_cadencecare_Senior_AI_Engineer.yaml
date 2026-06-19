@@ -1,0 +1,149 @@
+job_id: 8962200
+title: Senior AI Engineer
+company: Cadence (cadence.care)
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - Anthropic
+  - Ci/Cd
+  - Llm Apis
+  - Ml
+  - Openai
+  - Rag Systems
+  - Vector Stores
+description: |
+  Re‑architecting U.S. healthcare demands speed, precision,
+  and an obsession with details. Cadence is building a remote
+  care delivery system that keeps older people healthy, out of
+  the hospital, and at home. By pairing each patient with a
+  dedicated clinical team that reviews their health every day,
+  versus every few months, we catch issues early and intervene
+  before they escalate. The result: measurably better outcomes
+  for patients and less administrative burden for clinicians.
+  
+  Today, Cadence supports tens of thousands of  active
+  patients nationwide. Our AI‑powered system and scalable
+  clinical model enable proactive, population‑level care.
+  We’re among the fastest‑growing companies in healthtech, and
+  we’re just getting started.
+  
+  We're looking for a Senior AI Engineer to design and ship
+  production agents that synthesize real-time clinical data,
+  surface proactive care recommendations, and take action on
+  behalf of clinicians. You will take agent architectures from
+  prototype to production in a domain where reliability
+  directly affects patient outcomes.
+  
+  You'll own the full lifecycle of AI-powered clinical
+  workflows: retrieval, reasoning, tool use, evaluation, and
+  safety guardrails. If you've built agentic systems at scale
+  and want your work to matter beyond engagement metrics, we’d
+  love to speak with you.
+  
+  WHAT YOU’LL DO:
+  
+  - Design, build, and deploy clinical AI agents that reason
+    over patient context, invoke tools, and generate care
+    recommendations.
+  - Own reliability, observability, and cost efficiency of LLM-
+    powered workflows at scale.
+  - Build and optimize RAG pipelines over clinical knowledge
+    bases, treatment protocols, and real-time patient data.
+  - Develop evaluation frameworks: offline benchmarks, safety
+    tests, regression suites, and LLM-as-judge pipelines wired
+    into CI/CD.
+  - Design multi-step agent orchestration: planning, memory,
+    tool use, error recovery, and human-in-the-loop escalation
+    paths.
+  - Collaborate with clinical, product, and engineering teams to
+    translate patient care needs into AI system design.
+  - Stay at the forefront of AI and engineering best practices,
+    continuously pushing the team to raise the bar on quality,
+    performance, and architecture.
+  
+  WHAT YOU’LL NEED:
+  
+  - Bachelor's or Master’s degree in Computer Science,
+    Engineering or related field, or equivalent work
+    experience
+  - 5+ years of software engineering experience, with 2+ years
+    building AI/ML-powered systems in production
+  - Hands-on experience with LLM APIs (OpenAI, Anthropic, open-
+    source models) including prompt engineering, tool use /
+    function calling, and structured outputs
+  - Experience building RAG systems: embeddings, vector stores,
+    retrieval optimization, and grounding
+  - Experience in a high-growth, fast-paced environment with
+    end-to-end ownership from design through production
+  
+  NICE TO HAVE:
+  
+  - Experience with agent frameworks or orchestration patterns
+    (tool calling, planners, multi-agent coordination)
+  - Fine-tuning experience (SFT, RLHF, LoRA) on domain-specific
+    tasks
+  - Healthcare or regulated-industry experience (HIPAA, SOC 2,
+    clinical data handling)
+  
+  WHO WE ARE:
+  
+  We move fast, raise standards, and own outcomes. We hire
+  drivers, not passengers – people who take initiative, solve
+  problems, and sweat the details because lives depend on it.
+  Momentum matters in healthcare where slow decisions cost
+  lives. At Cadence, we set a high bar and back each other
+  relentlessly to clear it. If you’re ready to do the best
+  work of your career and make a real impact in healthcare,
+  join us.
+  
+  WHAT YOU’LL GET:
+  
+  - Autonomy to tackle big, complex problems that matter
+  - An opportunity to improve lives every single day
+  - A chance to shape a category‑defining company at scale
+  - Medical, dental, and vision insurance
+  - Competitive total compensation and meaningful equity
+  - TelaDoc (virtual primary care)
+  - National and local discounts powered by TriNet
+  - Unlimited PTO and paid holidays
+  - Remote equipment setup and home office stipend
+  - Paid Parental Leave
+  - 401K and 401K match
+  - Charitable Donation Match program
+  - Location: Remote
+  
+  Noteworthy Our job titles may span more than one career
+  level. The base pay for this role typically ranges between
+  $180,000 – $245,000 annual base salary. Total compensation
+  includes base salary and equity. The actual base pay is
+  determined by a variety of factors, including experience,
+  skills, training, and business needs. Compensation may vary
+  based on market location and is subject to change.
+  
+  Cadence is committed to equal opportunity and fairness
+  regardless of race, color, religion, sex, gender identity,
+  sexual orientation, nation of origin, ancestry, age,
+  physical or mental disability, country of citizenship,
+  medical condition, marital or domestic partner status,
+  family status, family care status, military or veteran
+  status or any other basis protected by local, state or
+  federal laws.
+  
+  A notice to Cadence applicants: Our Talent team only directs
+  candidates to apply through our official careers page at
+  https://www.cadence.care/our-team.  Cadence will never refer
+  you to external websites, ask for payment or personal
+  information, or conduct interviews via messaging apps. We
+  receive all applications through our website and anyone
+  suggesting otherwise is not with Cadence.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Machine Learning
+  - Software
+  - Telehealth
+posted_date: 2026-04-06
+url: "https://www.builtinla.com/job/senior-ai-engineer/8962200"
+source: Built In

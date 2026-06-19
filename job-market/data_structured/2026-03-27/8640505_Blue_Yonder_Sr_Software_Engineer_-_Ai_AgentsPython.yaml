@@ -1,0 +1,46 @@
+company:
+  name: Blue Yonder
+  stage: Public
+  focus: Supply chain planning and AI-powered SaaS solutions
+position:
+  title: Sr Software Engineer - Ai Agents,Python
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting, designing, and deploying AI
+      Agents using RAG, LangChain/LangGraph, and Vector DBs. The
+      position requires hands-on work building conversational AI
+      solutions and implementing AI-driven capabilities, which is
+      direct work ON AI systems rather than support work.
+  responsibilities:
+  - Architect, design, and deploy AI Agents and conversational AI solutions
+  - Develop and maintain machine learning models using TensorFlow, Keras, and PyTorch
+  - Implement RAG architectures with Vector DBs and LangChain/LangGraph
+  - Build and maintain GitHub-based CI/CD pipelines and automation workflows
+  - Develop and maintain data pipelines and ETL processes to support AI and ML workflows
+  - Implement evaluation models, observability, and feedback loops for AI performance
+    optimization
+  - Integrate AI-driven capabilities into enterprise SaaS supply chain platforms
+  - Provide technical guidance and mentorship to engineering teams
+  use_cases:
+  - Conversational AI for enterprise applications
+  - Supply chain planning optimization
+  - Customer experience improvement through AI
+  - Operational efficiency enhancement via AI/ML solutions
+  - Enterprise SaaS platform AI integration
+  skills:
+    genai: [LangChain, LangGraph, RAG, Vector DB, Azure AI]
+    ml: [TensorFlow, Keras, PyTorch]
+    web: []
+    databases: [Oracle DB, Vector databases]
+    data: [ETL, Data pipelines]
+    cloud: []
+    ops: [GitHub Actions, CI/CD, Docker, Kubernetes, Terraform, Langfuse, ELK Stack]
+    languages: [Python, Java, SQL, Unix Shell Scripting, PowerShell]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8640505'
+  extracted_at: '2026-03-27T14:10:47.762046'

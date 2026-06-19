@@ -1,0 +1,51 @@
+company:
+  name: Eigen Labs
+  stage: Series B+ (well-funded crypto infrastructure company)
+  focus: |-
+    Building verifiable trust and coordination infrastructure
+    for AI agents using crypto/blockchain
+position:
+  title: Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on building AI agent systems —
+      runtimes, orchestration, LLM pipelines, and autonomous
+      workflows. The engineer will directly design, build, and
+      optimize agent behavior, tool use, memory, and coordination
+      systems, making this an ai-first role centered on
+      constructing production agentic AI.
+  responsibilities:
+  - Build agent runtimes and orchestration systems including planning, tool use, memory,
+    and coordination
+  - Implement reliability patterns for agents including retries, failure handling,
+    and state management
+  - Build observability infrastructure for agents including tracing, debugging, and
+    evaluation
+  - Optimize agent execution for cost-aware performance and production-grade reliability
+  - Integrate LLMs, APIs, and external data into coherent working systems
+  - Define and build developer-facing tools and SDKs for building, debugging, and
+    extending agent behavior
+  use_cases:
+  - Autonomous AI agents acting as economic actors on-chain
+  - Verifiable agent execution for trust and attribution in high-stakes scenarios
+  - Multi-agent coordination and orchestration in production environments
+  - Agent-based developer platform (EigenCloud) for verifiable compute and execution
+  - Agentic companies — software entities that operate, earn, and coordinate on blockchain
+  skills:
+    genai: [LangChain, AutoGen, CrewAI, LLM pipelines, Prompt engineering, RAG, Multi-agent
+        orchestration]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector databases]
+    data: [Temporal, Airflow, Dagster]
+    cloud: []
+    ops: [Distributed systems, Observability and tracing]
+    languages: [Python, Go, TypeScript, Rust]
+    domains: []
+    other: [Blockchain/crypto, SDK development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8936191'
+  extracted_at: '2026-04-22T13:22:02.860745'

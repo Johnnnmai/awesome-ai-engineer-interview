@@ -1,0 +1,49 @@
+company:
+  name: Central
+  stage: Early-stage
+  focus: |-
+    AI agents and human experts for back-office automation
+    (payroll, benefits, compliance, accounting, taxes)
+position:
+  title: Software Engineer - AI Employee
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly states "AI is part of the DNA at
+      Central" and involves "leverage[ing] it in a variety of ways
+      to automate things that were previously impossible." As an
+      early engineer at an AI agent company, this role involves
+      building and architecting the AI systems that power
+      Central's back-office automation platform.
+  responsibilities:
+  - Architect mission-critical workflows designing and maintaining stateful, end-to-end
+    systems with data integrity and compliance requirements
+  - Ship incremental, production-ready features rapidly with real user feedback iteration
+  - Own core platform areas as technical product lead setting standards for code quality,
+    observability, testing, and operations
+  - Partner with Product and Support to translate user pain points into scalable solutions
+  - Leverage AI to automate previously impossible tasks and create new user experiences
+  - Design large-scale stateful architectures with complex domain modeling and data
+    schemas
+  use_cases:
+  - Automating back-office work for startups including payroll, benefits, compliance,
+    accounting, and taxes
+  - AI agents that perform actual work rather than just providing software tools
+  - State management for multi-step financial and compliance workflows
+  - Data reconciliation and audit trails for regulatory compliance
+  skills:
+    genai: [AI agents, LLM integration]
+    ml: []
+    web: [API design]
+    databases: [Postgres]
+    data: [Workflow orchestration]
+    cloud: []
+    ops: [Docker, Kubernetes, Observability tools]
+    languages: [Python]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8833121'
+  extracted_at: '2026-03-27T14:51:23.014131'

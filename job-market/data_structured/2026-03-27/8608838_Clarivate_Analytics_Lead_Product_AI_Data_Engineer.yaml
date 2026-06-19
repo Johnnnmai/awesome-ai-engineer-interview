@@ -1,0 +1,53 @@
+company:
+  name: Clarivate Analytics
+  stage: Public
+  focus: Data intelligence and analytics for research and innovation
+position:
+  title: Lead Product AI Data Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building data pipelines and
+      architecture that enable AI/ML workloads, but does not
+      involve directly building, training, or deploying AI models.
+      The work is about preparing and delivering AI-ready data
+      infrastructure that other teams consume, which is a
+      supporting function rather than hands-on AI development.
+  responsibilities:
+  - Define and evolve enterprise-level product data architecture across multiple product
+    lines ensuring scalability, reliability, and AI/ML readiness
+  - Architect scalable ETL/ELT pipelines and distributed data workflows for analytics,
+    AI, and product intelligence
+  - Develop and enforce dimensional data modeling standards including star schemas
+    and snowflake schemas across the organization
+  - Design and maintain fact and dimension tables ensuring proper grain, SCD handling,
+    hierarchical dimensions, and high-performance queries
+  - Establish data architecture principles, naming conventions, and best practices
+    for ETL/ELT, event tracking, and AI pipelines
+  - Serve as the technical authority guiding architecture decisions to meet product,
+    platform, and AI requirements
+  - Manage data architecture and technical leadership for product and AI data enablement
+    with focus on data quality and reliability
+  use_cases:
+  - Product analytics and business intelligence
+  - AI-driven product capabilities and features
+  - Data intelligence solutions for research insights
+  - Enterprise data warehousing and dimensional modeling
+  - AI/ML workload data preparation and pipelines
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Relational database design, Snowflake]
+    data: [Dimensional data modeling, Star schemas, Snowflake schemas, ETL/ELT pipelines,
+      Databricks, dbt, Airflow, Fivetran, Segment]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [SQL, Python]
+    domains: []
+    other: [Power BI, Tableau]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8608838'
+  extracted_at: '2026-03-27T14:01:02.547437'

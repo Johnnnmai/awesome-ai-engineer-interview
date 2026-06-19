@@ -1,0 +1,159 @@
+job_id: 9109761
+title: AI Engineer - India
+company: Pulsora
+location: IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ai Development Tools
+  - Github Copilot
+  - Java
+  - Langchain
+  - Langgraph
+  - Llms
+  - Python
+  - React
+  - Rest Apis
+company_size: 115 Employees
+description: |
+  Founded in 2021, Pulsora the “Enterprise Sustainability
+  Platform”, is a well-funded Silicon Valley software startup.
+  It is dedicated to empowering purpose-driven enterprises to
+  manage and improve their environmental, social, and
+  governance (ESG) and overall sustainability footprint with
+  an integrated, comprehensive, flexible, and innovative
+  technology platform built for compliance, tracking, and
+  insight. We are well funded, have amazing customers across
+  industries and geographies, established strategic
+  partnerships with leading ERP and consulting firms, and are
+  growing fast!
+  
+  About the job
+  
+  We are seeking a highly skilled and experienced AI/ML
+  Developer to join our team. The ideal candidate will be a
+  specialist in the rapidly evolving field of Large Language
+  Models (LLMs) and generative AI, with a strong background in
+  developing, integrating, and optimizing complex agentic and
+  RAG-based systems.
+  
+  What you will do
+  
+  - LLM Integration & Development: Design, develop, and deploy
+    production-grade applications leveraging various LLMs,
+    context optimization, etc.
+  - Agentic Workflows: Architect and implement sophisticated,
+    multi-step and multi-agent workflows using frameworks like
+    LangChain and LangGraph.
+  - Retrieval Augmented Generation (RAG): Build and optimize RAG
+    pipelines, including implementing and managing embeddings,
+    vector databases, and advanced rerankers to enhance
+    response quality and relevance.
+  - Vibe Coding: Use code generation applications (e.g. Replit,
+    Cursor, Google AI Studio, Git Hub Copilot in Agent mode,
+    etc.) to create full applications (including frontend and
+    backend), generate tests, perform testing and integrate
+    them in the core product without writing any code.
+  - LLM Fine Tuning: Lead efforts in LLM fine-tuning (e.g.,
+    LoRA, QLoRA) for specific domain knowledge and tasks, and
+    implement strategies for and efficiency.
+  - Prompt Engineering: Develop and refine advanced prompt
+    engineering techniques to maximize model performance,
+    consistency, and safety.
+  - Full-Stack Development: Own end-to-end implementation from
+    frontend to the backend.
+  - Java (Plus): Expose AI/LLM functionality written in Python
+    using Java services, leverage multi-threading capabilities
+    in Java to augment AI/LLM functionality developed in
+    Python
+  - Code Quality & Productivity: Utilize AI-powered development
+    tools (e.g., GitHub Copilot, etc.) to efficiently
+    generate, refactor, and optimize high-quality code.
+  - Collaboration: Work closely with team leads managers, QA,
+    product managers and team in the US (this will require the
+    willingness to partially work US working hours)
+  
+  About you
+  
+  - Undergraduate degree in Computer Science or similar
+    Engineering field, advanced degree is a plus
+  - 5+ years of professional experience in software development,
+    with a minimum of 2 years focused on AI/ML development,
+    particularly with LLMs
+  - Strong proficiency in Python and its relevant data science
+    libraries (e.g., Pandas, NumPy, Scikit-learn)
+  - Proven experience integrating and working with major LLM
+    APIs - both public and private/local, e.g., Gemini,
+    OpenAI, Anthropic, Llama, Ollama, etc., including hands-on
+    experience using techniques for LLM efficiency
+  - At least 1 year of deep practical experience with LangChain
+    and LangGraph for building complex LLM applications and
+    agentic workflows using autonomous agents, tools, memory
+    management, parallelization, etc.
+  - Solid understanding and implementation experience with RAG
+    architectures, vector DBs, vector search, embeddings, and
+    reranking mechanisms
+  - Experience leveraging AI Copilot or similar generative AI
+    coding tools for accelerated development, code generation,
+    refactoring, optimization, and vibe coding to create
+    integrated backend and frontend applications
+  - Experience creating UI using React and integrating the UI
+    with the backend using REST APIs is a big plus
+  - Hands-on experience with Java, especially integrating Java
+    modules with Python modules is a nice to have, but not
+    necessary
+  
+  A little more about how you like to work
+  
+  - Strong collaboration across a small team, including great
+    communication with both onshore and offshore departments
+    and translating vague requirements into actionable
+    systems.
+  - Self-motivated and proactive—you create momentum without
+    needing direction
+  - A strong problem solver who can navigate ambiguity
+  - A builder who cares about shipping real, working products
+  - Comfortable with ownership, accountability, and high
+    expectations
+  - Thrives outside of traditional work structures
+  - You own the quality of the product you build
+  
+  Why this role?
+  
+  - High ownership and autonomy
+  - Opportunity to build products end-to-end using AI-first
+    workflows
+  - Work at the cutting edge of AI-driven software development
+  - Work with multiple leading-edge technologies
+  - Fast-moving, execution-focused culture
+  
+  Why work at Pulsora?
+  
+  We believe that progress happens by bringing together people
+  from all walks of life who have the drive and the influence
+  to improve our world now and for the next generations!
+  
+  - Ideally have industry and market knowledge of ESG and
+    sustainability
+  - The company will pay with salary, equity, and benefits
+  - You’ll get to work on problems that are hard and important
+  - You get to work on a solution that helps the planet and
+    helps us all
+  - You’ll be joining an extraordinary team at the beginning of
+    an extraordinary journey
+  - Hybrid-friendly work environment, in office 2-3 times per
+    week (for those in New York, San Francisco Bay Area, and
+    Munich)
+  
+  Pulsora Core Values
+  
+  - Compassionate candor
+  - Transparency
+  - Embrace diversity and cultivate belonging
+  - Make a positive impact
+  - Delight customers
+  
+  Join us and become a driver for positive change!
+posted_date: 2026-04-21
+url: "https://builtin.com/job/ai-engineer-india/9109761"
+source: Built In

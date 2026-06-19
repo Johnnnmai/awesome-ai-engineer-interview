@@ -1,0 +1,134 @@
+job_id: 8804778
+title: Generative AI Solutions Developer
+company: KX
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Airflow
+  - AWS
+  - Azure
+  - Azure Openai
+  - Bedrock
+  - Clickhouse
+  - Fastapi
+  - GCP
+  - JavaScript
+  - Kdb+/Q
+company_size: 513 Employees
+description: |
+  About KX
+  
+  KX software powers the time-aware data-driven decisions that
+  enable fast-moving companies to outpace competitors,
+  realizing the full potential of their AI investments. The KX
+  platform delivers transformational value by addressing data
+  challenges related to completeness, timeliness and
+  efficiency, ensuring companies understand change over time
+  and can achieve faster, more accurate insights at any scale,
+  cost-effectively.
+  
+  KX is essential to the operations of the world's top
+  investment banks, aerospace and defence, high-tech
+  manufacturing, healthcare and life sciences, automotive and
+  fleet telematics organizations. The company has established
+  offices and a robust customer base across North America,
+  Europe, and Asia Pacific.
+  
+  Overview Of The Role
+  
+  Own the end-to-end technical design for large-language-model
+  (LLM) and generative-AI solutions across NVIDIA, AWS, Azure
+  and GCP stacks. You will translate business use-cases into
+  secure, scalable architectures, lead reference
+  implementations, and mentor delivery teams for enterprise
+  deployments—especially in financial-services environments.
+  
+  Key Responsibilities
+  
+  - Shape multi-cloud architectures for training, fine-tuning
+    and serving LLMs (e.g., NeMo, Bedrock, Azure OpenAI,
+    Vertex AI).
+  - Define MLOps/GitOps patterns for model lifecycle, vector–DB
+    indexing, retrieval-augmented generation (RAG) and guard-
+    railing. Benchmark and cost-optimize GPU, Grace Hopper and
+    CPU clusters (TCO & carbon impact).Build production
+    pipelines in Python (FastAPI, LangChain, Ray, Triton,
+    Airflow).
+  - Establish security and compliance controls (encryption, IAM,
+    SOC 2, FINRA,GDPR).
+  - Support pre-sales and proofs-of-concept with capital-markets
+    clients.
+  
+  Skills
+  
+  Programming
+  
+  - Python (must-have)
+  - JavaScript / TypeScript (for web + full-stack AI apps)
+  - Writing clean, testable code
+  
+  Math & ML Basics
+  
+  - Linear algebra (vectors, matrices, embeddings)
+  - Probability & statistics
+  - ML concepts: overfitting, loss functions, training vs
+    inference
+  
+  Data Skills
+  
+  - Data cleaning & preprocessing
+  - Pandas, NumPy
+  - SQL basics
+  
+  Essential Experience
+  
+  - 10-15 yrs building cloud-native data or ML platforms on AWS,
+    Azure and/or GCP. Deep expertise in Python plus one of Go,
+    Java
+  - or C++.Hands-on with embedding models, tokenizer
+    optimisation, prompt orchestration and OpenAI/Anthropic
+    APIs. Prior delivery of enterprise Gen-AI systems (risk
+    analytics, chatbots, document generation etc.).Solid
+    grounding in distributed systems (K8s, service mesh,
+    Kafka, Redis, GPU scheduling).
+  
+  Preferred Qualifications
+  
+  - Experience with kdb+/q, ClickHouse or similar time-series
+    stores. Contributions to open-source AI frameworks or
+    NVIDIA NGC containers. Working knowledge of SRE/FinOps
+    best practice.
+  
+  Location & Workplace Type
+  
+  This position takes on a Hybrid working model based in
+  Ontario, Canada.
+  
+  
+  
+  Why Choose KX
+  
+  Data Driven: We lead with instinct and follow fact.
+  
+  Naturally Curious: We lean in, listen and learn fast.
+  
+  All In: We take ownership, take on challenges and give it
+  our all.
+  
+  Benefits
+  
+  - Competitive Salary
+  - Individually tailored training and skills development
+  - Private healthcare package and Employee Assistance Programme
+  - Enhanced maternity and paternity package
+  - Wellness Days and Volunteer Days
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Software
+  - Database
+  - Big Data Analytics
+posted_date: 2026-03-19
+url: "https://builtin.com/job/generative-ai-solutions-developer/8804778"
+source: Built In

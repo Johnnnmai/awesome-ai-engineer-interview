@@ -1,0 +1,57 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services with AI/ML-powered customer
+    experiences
+position:
+  title: Senior Lead AI Engineer (Gen AI Platform Services, Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      optimizing AI systems including foundation model training,
+      LLM inference, similarity search, guardrails, and model
+      evaluation. The engineer will work hands-on with LLMs,
+      introduce optimization techniques for production AI systems,
+      and contribute to foundational AI infrastructure — all core
+      AI-first responsibilities.
+  responsibilities:
+  - Partner with cross-functional teams of engineers, research scientists, and product
+    managers to deliver AI-powered products
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    and observability
+  - Leverage Open Source and SaaS AI technologies such as AWS Ultraclusters, Huggingface,
+    VectorDBs, Nemo Guardrails, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  - Lead and mentor an engineering team and influence cross-functional stakeholders
+  - Stay abreast of latest AI research and apply novel techniques in production environments
+  use_cases:
+  - Real-time personalized banking customer experiences
+  - Fraud detection and informing customers about unusual charges
+  - Real-time customer question answering and support
+  - AI-powered internal tools for associates to improve productivity
+  - Scalable Gen AI platform services for enterprise-wide AI adoption
+  - Agentic AI systems for banking automation
+  skills:
+    genai: [LLM Inference, Similarity Search, Guardrails, RAG, Agentic AI, Prompt
+        Engineering]
+    ml: [Huggingface, PyTorch, Foundation Model Training, LLM Optimization]
+    web: []
+    databases: [VectorDBs]
+    data: []
+    cloud: [AWS, AWS Ultraclusters, Google Cloud, Azure]
+    ops: [Nemo Guardrails, Model Evaluation, ML Observability, Docker, Kubernetes,
+      Experimentation]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8978116'
+  extracted_at: '2026-04-22T14:06:19.276037'

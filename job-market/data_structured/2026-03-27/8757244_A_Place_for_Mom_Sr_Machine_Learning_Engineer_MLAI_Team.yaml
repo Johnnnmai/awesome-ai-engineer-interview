@@ -1,0 +1,54 @@
+company:
+  name: A Place for Mom
+  stage: null
+  focus: |-
+    Senior care referral platform connecting families with
+    senior living communities and home care agencies
+position:
+  title: Sr. Machine Learning Engineer — ML/AI Team
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying LLM-
+      powered applications, RAG systems, and prompt engineering in
+      production, as well as traditional ML model development. The
+      engineer will design, implement, and maintain AI/ML systems
+      hands-on, making it clearly an ai-first role.
+  responsibilities:
+  - Design and develop machine learning and LLM-powered systems using modern GenAI
+    architectures including RAG, prompt engineering, embeddings, and vector databases
+  - Transform data science prototypes into production-grade ML and GenAI systems
+  - Construct optimized data pipelines to feed both traditional ML models and LLM-based
+    systems
+  - Implement and monitor model and data quality checks to ensure accuracy and consistency
+    in production
+  - Manage the full model lifecycle including retraining, performance monitoring,
+    and continuous improvement
+  - Partner with Product, Engineering and Business stakeholders to translate requirements
+    into scalable AI/ML and GenAI solutions
+  - Create and maintain documentation for ML and GenAI systems including prompt libraries,
+    evaluation frameworks, and architectural decisions
+  - Establish and promote best practices across MLOps, LLMOps and AI system governance
+  use_cases:
+  - Senior care search and matching using ML/LLM systems
+  - Personalized recommendations for families seeking care options
+  - Processing and analyzing structured and unstructured data for business insights
+  - Retrieval-Augmented Generation for care-related information systems
+  - Data-driven optimization of referral and resource allocation
+  skills:
+    genai: [RAG, Prompt Engineering, Embeddings, LLM-powered applications, Evaluation
+        frameworks]
+    ml: [PyTorch, TensorFlow, Keras, XGBoost, Scikit-learn]
+    web: []
+    databases: [Vector Databases]
+    data: [Databricks, Spark, ETL]
+    cloud: [AWS]
+    ops: [MLOps, LLMOps, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8757244'
+  extracted_at: '2026-03-27T14:07:34.670896'

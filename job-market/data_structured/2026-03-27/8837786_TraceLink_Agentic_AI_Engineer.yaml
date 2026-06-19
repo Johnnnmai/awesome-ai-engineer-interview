@@ -1,0 +1,55 @@
+company:
+  name: TraceLink
+  stage: Late-stage (founded 2009, 800+ employees, 1300+ customers)
+  focus: |-
+    Pharmaceutical supply chain digitization and compliance
+    software
+position:
+  title: Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and implementing
+      agentic AI/GenAI systems, multi-agent workflows, RAG
+      pipelines, and fine-tuning approaches for language models.
+      The engineer will work hands-on with LLMs, agents, and AI
+      system deployment - not just supporting infrastructure.
+  responsibilities:
+  - Design and implement agentic AI / GenAI systems for automating supply chain workflows
+  - Build and maintain backend services and integrations using Python and/or Java
+  - Develop multi-agent workflows including tool execution, routing, agent collaboration
+    patterns, and task orchestration
+  - Create testing and validation strategies for AI systems including evaluation datasets
+    and regression testing
+  - Implement and improve knowledge base systems including RAG pipelines and retrieval
+    quality improvements
+  - Experiment with lightweight fine-tuning approaches for small language models (SLMs)
+    and RL-inspired improvement loops
+  - Partner with product and domain teams to translate supply chain needs into working
+    software
+  - Participate in code reviews, documentation, and operational support for production
+    systems
+  use_cases:
+  - Supply chain workflow automation
+  - Multi-agent task orchestration and collaboration
+  - Knowledge retrieval and RAG-based question answering
+  - Pharmaceutical supply chain compliance and visibility
+  - Enterprise decision support systems
+  - NLP/GenAI task optimization through reinforcement learning approaches
+  skills:
+    genai: [LLMs, agent workflows, tool calling, multi-step reasoning, RAG, embedding-based
+        search, hybrid search, reranking, fine-tuning SLMs]
+    ml: [NLP, reinforcement learning]
+    web: [APIs and services]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [distributed systems, event-driven systems]
+    languages: [Python, Java]
+    domains: [supply chain, life sciences]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8837786'
+  extracted_at: '2026-03-27T13:32:22.707851'

@@ -1,0 +1,57 @@
+company:
+  name: Philips
+  stage: Public
+  focus: Health technology and medical devices improving lives
+position:
+  title: Senior Software Design Quality Engineer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is a Design Quality Engineer focused on ensuring
+      compliance, safety, and quality assurance of AI-enabled
+      medical products. While it involves AI governance,
+      validation strategy oversight, and understanding of
+      foundation models, the core work is quality engineering and
+      regulatory compliance — not building, training, fine-tuning,
+      or deploying AI models. The engineer works NEAR AI
+      (overseeing quality and compliance) rather than ON AI
+      systems directly.
+  responsibilities:
+  - Lead Design Quality Engineering activities across the full software product lifecycle
+    from concept to commercialization
+  - Drive compliance with design control processes including ISO 13485, IEC 62304,
+    ISO 14971, and AI regulation frameworks such as EU AI Act
+  - Oversee quality planning, documentation, and reviews for software and AI-enabled
+    solutions including foundation models and prompt engineering
+  - Ensure robust validation strategies for AI models including dataset quality, model
+    performance, bias detection, and continuous learning
+  - Oversee risk management activities per ISO 14971 including hazard analyses, FMEAs,
+    fault tree analyses, cybersecurity risk assessments, and AI-specific risks
+  - Conduct expert-level design reviews on architecture, algorithms, code, test strategy,
+    and verification/validation evidence
+  - Serve as a quality SME during regulatory submissions and audits
+  - Mentor teams in quality engineering best practices and champion a Quality by Design
+    culture across R&D
+  use_cases:
+  - Quality assurance and compliance for AI-enabled medical devices
+  - Risk management and safety validation for healthcare AI products
+  - AI model governance including training pipeline reproducibility and bias detection
+  - Regulatory submissions and audit support for AI-enabled medical software
+  - Design assurance for deep neural networks in healthcare applications
+  skills:
+    genai: [Foundation Models, Prompt Engineering]
+    ml: [Deep Neural Networks]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Selenium, JUnit, Automated Testing]
+    languages: [C++, C#, Python]
+    domains: [ISO 13485, IEC 62304, ISO 14971, EU AI Act, FDA Regulatory Compliance,
+      IEEE 1633]
+    other: [Agile Methodologies, FMEA, Risk Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8901276'
+  extracted_at: '2026-04-22T13:04:20.494738'

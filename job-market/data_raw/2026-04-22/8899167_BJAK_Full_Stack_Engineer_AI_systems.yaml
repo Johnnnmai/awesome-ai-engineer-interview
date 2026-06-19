@@ -1,0 +1,126 @@
+job_id: 8899167
+title: Full Stack Engineer, AI systems
+company: BJAK
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Anthropic
+  - Docker
+  - Kubernetes
+  - Next.Js
+  - Node.js
+  - NoSQL
+  - Open-Source Llms
+  - Openai
+  - Python
+  - PyTorch
+description: |
+  About the Role
+  
+  A1 is building a proactive AI chat app for everyday users to
+  bring intelligence to conversations, errands, organising and
+  workflows. Unlike traditional chat-based applications, our
+  product focuses on achieving high reliability for long-
+  running workflows, persistent context, and real-world task
+  completion. The system must handle multi-step reasoning,
+  interact with external tools, and remain reliable despite
+  non-deterministic model behavior.
+  
+  We are looking for a Full Stack Engineer - AI Systems to
+  build the product layer that turns these capabilities into
+  usable, production-grade workflows. This includes designing
+  how agents operate, fail, recover, and deliver consistent
+  value to users.
+  
+  Focus
+  
+  - Build end-to-end product features across frontend, backend,
+    and AI integrations
+  - Design agent workflows that handle planning, tool use,
+    failure, and recovery across multiple steps.
+  - Integrate LLMs, memory, and external tools into systems that
+    behave reliably under real-world conditions
+  - Design real-time AI interactions with streaming, partial
+    results, and tight latency constraints
+  - Improve system reliability, observability, and fallback
+    mechanisms
+  - Collaborate closely with ML, backend, and product teams to
+    ship features end-to-end
+  - Continuously iterate based on real usage and failure modes
+  
+  Ideal Experiences
+  
+  - Strong experience in full stack engineering (frontend +
+    backend)
+  - Solid understanding of system design and API architecture
+  - Experience working with LLMs, RAG systems, or AI-powered
+    applications
+  - Ability to handle ambiguity and make pragmatic engineering
+    decisions
+  - Strong ownership - able to take features from idea to
+    production
+  - Comfort working in fast-moving environments with evolving
+    requirements
+  
+  Outcomes
+  
+  - Own and ship AI-native product features that move beyond
+    chat into persistent, goal-driven workflows
+  - Design and deploy agent workflows that reliably complete
+    multi-step tasks across tools and sessions
+  - Reduce latency and improve responsiveness of AI interactions
+    while maintaining output quality
+  - Build robust fallback and recovery mechanisms for LLM and
+    tool failures in production environments
+  - Improve the success rate and reliability of AI-driven
+    workflows through iteration, evaluation, and monitoring
+  - Establish patterns and abstractions for integrating LLMs,
+    memory, and external tools into scalable product systems
+  - Contribute to a product experience where AI feels proactive,
+    consistent, and dependable over time
+  
+  Tech Stack
+  
+  - Next.js
+  - Python
+  - NodeJs
+  - Pytorch
+  - OpenAI / Anthropic / open-source LLMs
+  - SQl & noSQL
+  - Kubernetes
+  - Docker
+  
+  How We Work
+  
+  The best products today in the world were built by small,
+  world class teams. We are a high talent density and hands-on
+  team. We make decisions collectively, move at rapid speed,
+  striking a balance between shipping high quality work and
+  learning. Joining our team requires the ability to bring
+  structure, exercise judgment, and execute independently. Our
+  goal is to put in hands of our users a truly magical product
+  
+  Interview process
+  
+  If there appears to be a fit, we'll reach to schedule 3, but
+  no more than 4 interviews.
+  
+  Applications are evaluated by our technical team members.
+  Interviews will be conducted via virtual meetings and/or
+  onsite.
+  
+  We value transparency and efficiency, so expect a prompt
+  decision. If you've demonstrated the exceptional skills and
+  mindset we're looking for, we'll extend an offer to join us.
+  This isn't just a job offer; it's an invitation to be part
+  of a team that's bringing AI to have practical benefits to
+  billions globally.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-03-29
+url: "https://www.builtinla.com/job/full-stack-engineer-ai-systems/8899167"
+source: Built In

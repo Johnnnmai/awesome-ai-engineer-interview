@@ -1,0 +1,56 @@
+company:
+  name: PhysicsX
+  stage: null
+  focus: |-
+    AI-driven simulation software for engineering and
+    manufacturing across advanced industries
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role focused on building and deploying
+      AI agents, agentic infrastructure, and LLM-based systems.
+      The position involves architecting production-grade agent
+      platforms, working with frameworks like LangGraph/LangChain,
+      and implementing agent observability, deployment, and
+      governance - all direct hands-on work with AI/LLM systems.
+  responsibilities:
+  - Architect the Agentic stack within the PhysicsX simulation platform ecosystem
+  - Build production-grade platform enabling Product teams, FDEs, and customers to
+    compose advanced AI workflows
+  - Own agent observability implementation including deep tracing, cost tracking,
+    and lifecycle monitoring
+  - Deliver intuitive agent deployment lifecycle with auth, discoverability, and resource
+    management
+  - Architect secure sandboxing environments to isolate and allow agents to operate
+    safely
+  - Implement agent evaluation stack empowering domain experts to annotate traces
+    and create reproducible evaluation datasets
+  - Implement robust agent governance with identity and access patterns for regulated
+    enterprise environments
+  - Set strategic direction for platform critical infrastructure and lead key implementation
+    efforts
+  use_cases:
+  - AI-driven multi-physics simulation for engineering and manufacturing
+  - Deep learning surrogates for solving massive engineering challenges
+  - Simulation and design tools for Aerospace & Defense industries
+  - Engineering workflow automation in Manufacturing and Semiconductor sectors
+  - Hardware innovation acceleration through AI inference across engineering lifecycle
+  skills:
+    genai: [LangGraph, LangChain, PydanticAI, MCP, Prompt engineering, Agentic architectures,
+      Temporal]
+    ml: [Deep learning]
+    web: []
+    databases: [Vector databases, Pinecone, Weaviate]
+    data: []
+    cloud: []
+    ops: [Kubernetes, Docker, Terraform, LangSmith, Arize, OTel]
+    languages: [Python, Go, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8787986'
+  extracted_at: '2026-03-27T14:54:17.668187'

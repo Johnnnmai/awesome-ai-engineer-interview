@@ -1,0 +1,45 @@
+company:
+  name: Mercari
+  stage: Public
+  focus: C2C marketplace platform for buying and selling
+position:
+  title: Software Engineer, Fullstack (AI Enablement Team)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a general fullstack software engineering role on an
+      "AI Enablement Team" that builds APIs and web applications
+      using Go and TypeScript. While the team supports AI
+      initiatives, the role itself involves standard
+      backend/frontend development, microservices, and database
+      work - not hands-on work with models, agents, or LLMs.
+  responsibilities:
+  - Design, development, and operation of APIs using Go and TypeScript
+  - Improve services and measure effectiveness using quantitative and qualitative
+    analysis on user behavior logs
+  - Microservice performance tuning, monitoring, and alert handling
+  - Collaborate with PMs on development lifecycle including plan, design, implementation,
+    QA, and release
+  - Investigate inquiries from customer support or other development teams
+  - Conduct system operation tasks including on-call alert response
+  use_cases:
+  - C2C marketplace enabling peer-to-peer buying and selling
+  - Mobile payment services through Merpay platform
+  - API development for platform services and features
+  - Microservice infrastructure for marketplace operations
+  skills:
+    genai: []
+    ml: []
+    web: [Node.js, React, Angular, Microservices, REST API]
+    databases: [MySQL, NoSQL]
+    data: []
+    cloud: [GCP, AWS]
+    ops: [Docker, Kubernetes, Linux]
+    languages: [Go, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8847353'
+  extracted_at: '2026-03-27T13:25:47.750026'

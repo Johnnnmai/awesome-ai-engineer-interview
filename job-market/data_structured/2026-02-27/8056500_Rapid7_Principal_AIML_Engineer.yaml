@@ -1,0 +1,53 @@
+company:
+  name: Rapid7
+  stage: Public
+  focus: |-
+    Cybersecurity and threat detection protecting attack
+    surfaces
+position:
+  title: Principal AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and owning end-to-end
+      architectures for ML, LLMs, and agentic AI systems,
+      including RAG pipelines, LLM orchestration, and multi-agent
+      workflows. The position requires hands-on mastery of
+      LangChain, LangGraph, and building production-grade AI
+      systems at scale.
+  responsibilities:
+  - Own the end-to-end system architecture for AI, ML, and Agentic platforms ensuring
+    reliability, scalability, and security
+  - Design complex data ingestion pipelines, feature stores, and inference microservices
+    bridging research and production
+  - Establish architectural standards and reference patterns for LLM orchestration,
+    RAG systems, and multi-agent workflows
+  - Lead architectural reviews as the final technical authority making critical trade-offs
+    across accuracy, latency, cost, and reliability
+  - Mentor Staff and Senior engineers fostering growth in architectural thinking and
+    technical rigor
+  - Ensure long-term technical health and security of AI systems across multiple teams
+  use_cases:
+  - Embedding AI intelligence into security workflows for attack surface protection
+  - Malware behavior modeling using deep learning for NLP and sequence-based problems
+  - Enterprise-scale LLM orchestration and multi-agent systems
+  - RAG-based retrieval systems for cybersecurity applications
+  - Automated threat detection and response with guardrails for autonomous systems
+  skills:
+    genai: [LangChain, LangGraph, RAG, LLM orchestration, Multi-agent workflows, Promptfoo,
+      HELM]
+    ml: [Deep learning, NLP, Feature stores]
+    web: []
+    databases: [Vector databases]
+    data: [Data ingestion pipelines]
+    cloud: [AWS Bedrock, AWS SageMaker, AWS EKS, AWS Lambda]
+    ops: [Model registries, Drift detection, Automated retraining, Terraform, CI/CD,
+      Inference microservices, MLOps]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8056500'
+  extracted_at: '2026-03-03T12:12:16.345054'

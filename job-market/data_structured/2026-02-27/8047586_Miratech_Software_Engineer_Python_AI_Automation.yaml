@@ -1,0 +1,46 @@
+company:
+  name: Miratech
+  stage: Private
+  focus: |-
+    Global IT services and consulting for enterprise digital
+    transformation
+position:
+  title: Software Engineer | Python | AI Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on implementation of LLMs and AI
+      agents to build intelligent automation solutions. The
+      engineer will directly work with LLMs, AI agent
+      technologies, and AWS Bedrock to automate contact center
+      routing systems, which is core AI/LLM development work.
+  responsibilities:
+  - Automate existing contact center routing systems using AI agent technologies
+  - Design and implement cloud-native automation solutions using Python and LLMs
+  - Leverage AWS or Azure services including compute, storage, and serverless functions
+    to build scalable solutions
+  - Collaborate with cross-functional teams to ensure high-quality deliverables aligned
+    with business requirements
+  - Create and maintain technical documentation to ensure continuity and clarity
+  - Provide timely updates to team leads and stakeholders on project progress
+  use_cases:
+  - Contact center routing automation using AI agents
+  - Legacy system modernization with LLMs
+  - Intelligent customer journey optimization
+  - Scalable cloud-native automation for regulated industries
+  skills:
+    genai: [LLMs, AI agents, prompt engineering, AWS Bedrock]
+    ml: []
+    web: [React]
+    databases: [AWS DynamoDB, AWS S3]
+    data: []
+    cloud: [AWS, AWS Lambda]
+    ops: [CI/CD]
+    languages: [Python, Node.js, Java]
+    domains: []
+    other: [Genesys Engage, Amazon Connect]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8047586'
+  extracted_at: '2026-03-03T12:36:15.755379'

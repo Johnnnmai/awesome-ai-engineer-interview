@@ -1,0 +1,52 @@
+company:
+  name: Pfizer
+  stage: Public
+  focus: Global pharmaceutical and biotechnology company
+position:
+  title: Software Engineer (AI Backend Services) - Evergreen Role
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI
+      systems — specifically designing backend services for LLM
+      integration, model serving, inference, and orchestration of
+      AI agents using frameworks like LangChain, Langfuse, and
+      litellm. The engineer works hands-on with generative AI
+      pipelines and production LLM deployments, making this an ai-
+      first role.
+  responsibilities:
+  - Design and implement Python-based backend services on FastAPI for AI workloads
+    including LLM integration and generative AI pipelines
+  - Own end-to-end design and delivery of APIs and microservices for model serving,
+    inference, and orchestration of AI agents
+  - Architect and maintain AWS-based infrastructure for AI workloads with focus on
+    scalability and reliability
+  - Lead integration efforts for LLMs and generative AI models into production systems
+    using LangChain, Langfuse, and litellm
+  - Establish monitoring, logging, and observability best practices for AI backend
+    services
+  - Optimize backend performance for large-scale AI applications
+  - Mentor Software Engineer II team members through code reviews and technical guidance
+  - Collaborate with cross-functional teams and influence technical direction across
+    multiple projects
+  use_cases:
+  - LLM integration and inference for generative AI applications
+  - Model serving and deployment of AI agents at scale
+  - Generative AI pipeline orchestration for pharmaceutical/enterprise use cases
+  - Scalable API infrastructure for AI/ML workloads in production
+  skills:
+    genai: [LangChain, Langfuse, litellm]
+    ml: []
+    web: [FastAPI, Microservices Architecture, REST API Design]
+    databases: []
+    data: []
+    cloud: [AWS, AWS Lambda, Amazon EKS, AWS API Gateway]
+    ops: [Docker, Kubernetes, Terraform, CloudFormation, MLOps]
+    languages: [Python]
+    domains: []
+    other: [Distributed Systems, Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8890833'
+  extracted_at: '2026-04-22T13:24:39.519600'

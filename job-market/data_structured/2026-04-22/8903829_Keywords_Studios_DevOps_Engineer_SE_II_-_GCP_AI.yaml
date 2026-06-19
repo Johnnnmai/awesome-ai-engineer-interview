@@ -1,0 +1,57 @@
+company:
+  name: Keywords Studios
+  stage: Public
+  focus: |-
+    Game development services and player support platform
+    (Helpshift)
+position:
+  title: DevOps Engineer SE II - GCP & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      While this role involves building deployment pipelines for
+      AI agents and managing vector databases and model endpoints,
+      the core function is DevOps/infrastructure engineering. The
+      engineer is not building, training, or fine-tuning models
+      themselves — they are enabling and supporting AI workloads
+      through infrastructure, CI/CD, monitoring, and security.
+      This is platform/infrastructure work that supports AI teams
+      rather than hands-on AI/ML development.
+  responsibilities:
+  - Own Helpshift production services with complete monitoring coverage, troubleshoot
+    and fix production issues
+  - Design and maintain scalable GCP infrastructure using Terraform and Infrastructure
+    as Code practices
+  - Build deployment pipelines for AI agents, managing vector databases (Vertex AI
+    Search, Pinecone, Weaviate, ElasticSearch) and model endpoints
+  - Implement Security-by-Design including IAM least-privilege access, secret management,
+    and automated vulnerability scanning for AI workloads
+  - Architect high-velocity CI/CD pipelines for traditional microservices and AI model
+    prompts/configurations
+  - Set up comprehensive monitoring for system health and LLM-specific metrics (latency,
+    token usage, cost)
+  - Optimize GCP costs and manage resource quotas for GPU/TPU-intensive AI tasks
+  - Establish and optimize cross-cloud connectivity between AWS and GCP deployments
+  use_cases:
+  - Deploying and serving AI agents and LLM-based applications at scale
+  - Managing vector databases for semantic search and retrieval-augmented generation
+  - Monitoring LLM inference performance including token consumption, latency, and
+    error rates
+  - Cost-optimized GPU/TPU resource management for AI workloads on GCP
+  - Secure CI/CD automation for AI model configurations and microservices
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Pinecone, Weaviate, ElasticSearch, Vertex AI Search]
+    data: []
+    cloud: [GCP, GKE, Cloud Run, Vertex AI, AWS, GCS]
+    ops: [Terraform, Ansible, Docker, Kubernetes, CI/CD, LLMOps, DevSecOps, IAM]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8903829'
+  extracted_at: '2026-04-22T13:31:40.194766'

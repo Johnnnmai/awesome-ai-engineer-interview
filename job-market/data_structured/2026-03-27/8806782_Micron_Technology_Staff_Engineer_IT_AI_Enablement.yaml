@@ -1,0 +1,58 @@
+company:
+  name: Micron Technology
+  stage: Public
+  focus: |-
+    Memory and storage solutions leader accelerating AI and data
+    transformation
+position:
+  title: Staff Engineer, IT, AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying AI-driven tools,
+      AI agents, and multi-agent workflows using RAG, semantic
+      chunking, and MCP. The engineer will work hands-on with AI
+      platforms (Copilot Studio, Azure AI Foundry, AWS Bedrock)
+      and implement agent orchestration, which is direct AI system
+      development.
+  responsibilities:
+  - Build and deploy AI-driven tools and workflows using platforms like Copilot Studio,
+    UiPath, and automation frameworks
+  - Connect AI agents with enterprise systems including SharePoint, M365, external
+    APIs, and knowledge bases
+  - Design intelligent automation solutions to improve efficiency for repetitive business
+    tasks
+  - Integrate agents with identity platforms using OAuth2, OIDC, SAML, Entra ID, and
+    AD FS for secure access control
+  - Implement multi-agent workflows for complex tasks including decision-making and
+    collaborative problem-solving
+  - Design and manage context-aware systems using MCP, prompt engineering, and memory
+    management for LLMs
+  - Collaborate with cybersecurity teams to enforce data protection, threat modeling,
+    and compliance standards
+  - Partner with cross-functional teams to enable AI literacy and create best-practice
+    documentation
+  use_cases:
+  - Enterprise-wide AI adoption and productivity enhancement
+  - Business process automation and workflow optimization
+  - Integration of AI agents with enterprise systems (SharePoint, M365)
+  - Multi-agent collaborative systems for decision-making
+  - Knowledge management and retrieval-augmented generation
+  - Secure AI agent interactions with identity and access management
+  skills:
+    genai: [Copilot Studio, RAG, semantic chunking, Model Context Protocol, prompt
+        engineering, multi-agent systems, agent orchestration]
+    ml: []
+    web: [API development]
+    databases: []
+    data: []
+    cloud: [Azure AI Foundry, AWS Bedrock, Google Vertex AI]
+    ops: []
+    languages: [.NET, C#, Python, Java, SQL, PowerShell, Unix shell scripting]
+    domains: []
+    other: [UiPath, SharePoint, M365, OAuth2, OIDC, SAML, Entra ID, AD FS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8806782'
+  extracted_at: '2026-03-27T14:38:39.023455'

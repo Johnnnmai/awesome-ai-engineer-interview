@@ -1,0 +1,54 @@
+company:
+  name: Guidewire Software
+  stage: Public
+  focus: Cloud-based SaaS platform for P&C insurance industry
+position:
+  title: Senior Software Engineer- AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, building, and operating an
+      AI/ML agent platform with RAG capabilities, LLM
+      orchestration frameworks, and vector databases. The engineer
+      will directly implement and deploy GenAI/LLM solutions,
+      build agentic workflows, and create production-grade AI
+      services - all hands-on work building and deploying AI
+      systems.
+  responsibilities:
+  - Design, develop, and operate scalable microservices for AI/ML agents and RAG components
+    runtime and serving layer
+  - Implement and maintain LLM orchestration frameworks (LangChain, LangGraph, AWS
+    Strands, Google ADK) and integrate with enterprise applications
+  - Build and optimize secure data ingestion and indexing pipelines for RAG using
+    vector and graph databases
+  - Develop secure, scalable data connectors for enterprise systems like Oracle, Salesforce,
+    Workday, and Snowflake
+  - Collaborate with Security teams to embed access controls, auditability, and privacy
+    into AI/ML services
+  - Design and implement automated evaluation frameworks to measure LLM performance
+    and integrate into CI/CD pipelines
+  - Contribute to Agentic Platform and GenAI enablement roadmap by optimizing engineering
+    workflows and championing AI fluency
+  use_cases:
+  - AI agent platform for internal business teams
+  - RAG-based enterprise search and knowledge retrieval
+  - Automated workflows for P&C insurance operations
+  - Employee experience enhancement through AI-powered tools
+  - Citizen developer enablement for safe AI capability building
+  skills:
+    genai: [LangChain, LangGraph, AWS Strands, Google ADK, RAG, LLM orchestration,
+      MCP (Model Context Protocol)]
+    ml: []
+    web: [Microservices]
+    databases: [Pinecone, Weaviate, Neo4j, Oracle, Snowflake]
+    data: []
+    cloud: [AWS Bedrock, Google Vertex AI, AWS]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python, TypeScript, Node.js]
+    domains: []
+    other: [Salesforce, Workday]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8846855'
+  extracted_at: '2026-03-27T16:08:40.532360'

@@ -1,0 +1,56 @@
+company:
+  name: Pager Health
+  stage: null
+  focus: |-
+    Connected health platform delivering AI-powered healthcare
+    experiences for patients, members, and teams
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      maintaining LLM-powered agents and applications in
+      production. The engineer will implement RAG pipelines,
+      orchestrate multi-step agent workflows, build tool
+      integrations, and own the full lifecycle of agent systems -
+      all hands-on work with AI models.
+  responsibilities:
+  - Build agentic applications and workflows using LLM frameworks, models, and guardrails
+    provided by Data Science team
+  - Design and implement tool integrations, function-calling patterns, and orchestration
+    logic for agents to take actions across internal systems and external APIs
+  - Translate agent specifications and prompt strategies into robust, deployable services
+  - Implement RAG pipelines including vector store integration, chunking strategies,
+    and retrieval optimization
+  - Own the full lifecycle of agent systems from prototype through production including
+    testing, monitoring, logging, and iteration
+  - Build evaluation and observability infrastructure to measure agent quality, latency,
+    cost, and safety in production
+  - Work with platform and infrastructure teams to deploy, scale, and maintain agent
+    services in cloud environments (GCP/Vertex AI, AWS Bedrock, Azure OpenAI)
+  - Contribute to internal tooling, SDKs, and shared libraries that accelerate agent
+    development across the organization
+  use_cases:
+  - Healthcare navigation and care coordination through intelligent agents
+  - Patient engagement and health experience optimization
+  - Orchestration of healthcare enterprise workflows
+  - Integration of healthcare systems and APIs through agent actions
+  - Clinical and administrative task automation
+  skills:
+    genai: [Claude API, GPT/OpenAI API, Gemini API, LangChain, LangGraph, CrewAI,
+      RAG, Function calling, Agent frameworks, Multi-agent systems, Prompt engineering]
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: [Pinecone, Weaviate, pgvector, Vector databases]
+    data: []
+    cloud: [GCP, Vertex AI, AWS Bedrock, Azure OpenAI]
+    ops: [LangSmith, RAGAS, CI/CD, MLOps, Async architectures]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8865869'
+  extracted_at: '2026-03-27T15:57:40.331942'

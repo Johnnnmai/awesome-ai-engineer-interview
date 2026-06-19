@@ -1,0 +1,53 @@
+company:
+  name: BlackRock
+  stage: Public
+  focus: Investment management and financial services
+position:
+  title: Artificial Intelligence Engineer, Portfolio Management Group, Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI-
+      powered research applications including RAG pipelines,
+      agentic workflows, model fine-tuning, and vector search. The
+      engineer will own the technical vision and implementation of
+      AI systems from POC to production, directly working with
+      LLMs and GenAI technologies.
+  responsibilities:
+  - Design architectures for AI-powered research applications leveraging Generative
+    AI capabilities including RAG, agentic workflows, search, and model fine-tuning
+  - Partner with investors to translate open-ended research questions into feasible
+    AI-driven product concepts
+  - Lead the lifecycle from POC to MVP to production for AI applications, including
+    data pipelines and backend integration
+  - Own the end-to-end user experience of investor-facing research apps, including
+    intuitive front-end UI designs
+  - Evaluate emerging models and APIs; define best practices for prompts, safety,
+    reliability, and testing
+  - Leverage enterprise data engines, orchestration frameworks, and secure production
+    practices with engineering teams
+  - Implement monitoring, observability, evaluation frameworks, and data-quality safeguards
+    for GenAI-powered research applications
+  use_cases:
+  - AI-powered investment research applications for portfolio managers
+  - RAG and agentic workflows for investment research workflows
+  - Entity extraction and text2sql for financial data analysis
+  - Vector search and embeddings for investment-related information retrieval
+  - Alpha-generative investment insights across asset classes
+  skills:
+    genai: [RAG pipelines, agentic workflows, prompt engineering, model fine-tuning,
+      embeddings, vector search, text2sql, LLM workflows, entity extraction]
+    ml: [ML systems]
+    web: [full-stack development, front-end development]
+    databases: []
+    data: [data pipelines]
+    cloud: [cloud platforms]
+    ops: [evaluation frameworks, monitoring, observability]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7986841'
+  extracted_at: '2026-03-03T12:48:39.446472'

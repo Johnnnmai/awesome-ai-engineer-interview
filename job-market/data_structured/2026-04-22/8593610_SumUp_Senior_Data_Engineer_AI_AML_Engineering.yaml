@@ -1,0 +1,52 @@
+company:
+  name: SumUp
+  stage: Late-stage (Virtual Stock Options, 4M+ merchants, 3000+ employees)
+  focus: |-
+    Fintech providing payment and financial tools for small
+    businesses
+position:
+  title: Senior Data Engineer – AI AML Engineering
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role that builds and maintains
+      data pipelines, data quality frameworks, and regulatory
+      reporting infrastructure that feed into AI/ML systems (Risk
+      Decision Center). The engineer does not build, train, fine-
+      tune, or deploy models directly — they create the data
+      foundations that enable AI-driven decisioning. The role is
+      clearly supporting AI work rather than performing it.
+  responsibilities:
+  - Build and operate production-grade Python data pipelines powering AI-driven decisioning
+    and near real-time analytics within Risk Decision Center and SAR Studio
+  - Own data quality end-to-end including designing validations, monitoring, alerting,
+    and SLAs for analysts, data scientists, and AI systems
+  - Build and maintain scalable regulatory reporting pipelines with full audit trails,
+    versioning, and reproducible outputs
+  - Define and document data architecture, dataset ownership, and lineage to reduce
+    knowledge silos
+  - Collaborate with Data Platform and cross-functional teams of data scientists,
+    ML engineers, software engineers, and analysts to ship safely in production
+  use_cases:
+  - Automating fraud and AML case investigations (up to 90%) via Risk Decision Center
+    / SumUp Sentinel
+  - AI-driven risk decisioning for financial crime prevention
+  - Near real-time analytics for fraud and anti-money laundering operations
+  - Regulatory reporting with full audit trails for compliance submissions
+  - SAR (Suspicious Activity Report) generation via SAR Studio
+  skills:
+    genai: []
+    ml: []
+    web: [API design]
+    databases: []
+    data: [Data modeling, Data pipelines, Data quality & validation]
+    cloud: [AWS S3, AWS EKS, AWS Athena, AWS Keyspaces]
+    ops: [Docker, Git]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8593610'
+  extracted_at: '2026-04-22T13:52:36.339543'

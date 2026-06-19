@@ -1,0 +1,132 @@
+job_id: 8834789
+title: Senior Software Engineer - AI/ML
+company: Flexera
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Amazon Bedrock
+  - AWS
+  - Azure
+  - Databricks
+  - Django
+  - Docker
+  - Fastapi
+  - Flask
+  - Github Actions
+  - Hugging Face
+company_size: 2,000 Employees
+description: |
+  Flexera saves customers billions of dollars in wasted
+  technology spend. A pioneer in Hybrid ITAM and FinOps,
+  Flexera provides award-winning, data-oriented SaaS solutions
+  for technology value optimization (TVO), enabling IT,
+  finance, procurement and cloud teams to gain deep insights
+  into cost optimization, compliance and risks for each
+  business service. Flexera One solutions are built on a set
+  of definitive customer, supplier and industry data, powered
+  by our Technology Intelligence Platform, that enables
+  organizations to visualize their Enterprise Technology
+  Blueprint™ in hybrid environments—from on-premises to SaaS
+  to containers to cloud.
+  
+  We’re transforming the software industry.  We’re Flexera.
+   With more than 50,000 customers across the world, we’re
+  achieving that goal. But we know we can’t do any of that
+  without our team.  Ready to help us re-imagine the industry
+  during a time of substantial growth and ambitious plans? 
+  Come and see why we’re consistently recognized by Gartner,
+  Forrester and IDC as a category leader in the marketplace.
+  Learn more at flexera.com
+  
+  We are looking for a Senior AI/ML Engineer to design and
+  deploy generative AI and machine learning solutions across
+  AWS, Azure, and Databricks environments. The role combines
+  software engineering, machine learning, and cloud
+  architecture to build production AI systems. You will
+  collaborate with data scientists, engineers, product
+  managers, and business stakeholders to deliver impactful AI
+  solutions.
+  
+  Key Responsibilities
+  
+  Generative AI and LLM Integration Build production
+  applications using Amazon Bedrock models such as Claude,
+  Titan, Llama, and Mistral. Develop AI agents using Bedrock
+  Agents, action groups, guardrails, and Prompt Flow
+  orchestration. Design prompt engineering strategies,
+  evaluation frameworks, and responsible AI controls including
+  filtering and bias detection.
+  
+  RAG and Vector Search Design scalable retrieval augmented
+  generation architectures. Implement vector search using
+  OpenSearch Serverless and pgvector with Aurora PostgreSQL or
+  Amazon RDS. Develop embedding pipelines, chunking
+  strategies, hybrid search, re ranking, and metadata
+  filtering.
+  
+  Cloud Architecture Build serverless AI systems using Lambda,
+  API Gateway, Step Functions, and EventBridge. Develop ML
+  pipelines using SageMaker, Feature Store, and SageMaker
+  Pipelines. Design data pipelines using Glue, Athena, and
+  Redshift. Implement secure VPC architectures and
+  infrastructure as code using AWS CDK or CloudFormation. Set
+  up observability using CloudWatch and X Ray.
+  
+  Production Engineering Create CI/CD pipelines using GitHub
+  Actions. Implement model testing, monitoring, versioning,
+  and deployment strategies. Build alerting and incident
+  response for ML pipelines.
+  
+  Required Qualifications
+  
+  Education Bachelor’s degree in Computer Science, Machine
+  Learning, Data Science, Mathematics, or related field.
+  
+  Experience 5+ years in machine learning, data engineering,
+  or software engineering. 3+ years working with cloud
+  platforms such as AWS, Azure, or Databricks. 2+ years
+  working with generative AI and large language models.
+  Experience deploying ML systems in production and building
+  RAG systems with vector databases.
+  
+  Technical Skills Strong Python and SQL skills. Experience
+  with PyTorch, TensorFlow, or Hugging Face. Familiar with
+  LangChain, LlamaIndex, or Semantic Kernel. Experience
+  building APIs using FastAPI, Flask, or Django. Knowledge of
+  Docker and CI/CD tools.
+  
+  Preferred AWS Solutions Architect certification. Experience
+  with conversational AI, document processing, recommendation
+  systems, NLP, computer vision, or time series.
+  
+  Flexera is proud to be an equal opportunity employer. 
+  Qualified applicants will be considered for open roles
+  regardless of age, ancestry, color, family or medical care
+  leave, gender identity or expression, genetic information,
+  marital status, medical condition, national origin, physical
+  or mental disability, political affiliation, protected
+  veteran status, race, religion, sex (including pregnancy),
+  sexual orientation, or any other characteristic protected by
+  local/national laws, policies and/or regulations. 
+  
+  Flexera understands the value that results from employing a
+  diverse, equitable, and inclusive workforce. We recognize
+  that equity necessitates acknowledging past exclusion and
+  that inclusion requires intentional effort. Our DEI
+  (Diversity, Equity, and Inclusion) council is the driving
+  force behind our commitment to championing policies and
+  practices that foster a welcoming environment for all.
+  
+  We encourage candidates requiring accommodations to please
+  let us know by emailing careers@flexera.com.
+industries:
+  - Big Data
+  - Cloud
+  - Information Technology
+  - Software
+  - Business Intelligence
+  - Cybersecurity
+posted_date: 2026-03-23
+url: "https://builtin.com/job/senior-software-engineer-ai-ml/8834789"
+source: Built In

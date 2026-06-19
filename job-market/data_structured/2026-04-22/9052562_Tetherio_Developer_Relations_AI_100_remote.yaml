@@ -1,0 +1,58 @@
+company:
+  name: Tether.io
+  stage: Late-stage/Private (established, market leader in stablecoins)
+  focus: |-
+    Digital finance, stablecoins, blockchain technology, and AI
+    solutions
+position:
+  title: Developer Relations AI (100% remote)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Developer Relations role focused on community
+      building, content creation, and evangelism for QVAC, an AI
+      development platform. While the role requires AI/ML
+      knowledge (llama.cpp, ggml, LLMs) and involves promoting AI
+      tools, the core work is developer advocacy and education —
+      not directly building, training, fine-tuning, or deploying
+      AI models. The role supports AI adoption by enabling
+      developers, making it ai-support.
+  responsibilities:
+  - Build and nurture relationships with developers, partners, and open-source communities
+    through AMAs, office hours, webinars, and online engagement
+  - Create and maintain high-quality technical content including blog posts, tutorials,
+    sample apps, videos, documentation, and SDK guides
+  - Develop demos, prototypes, and reference implementations showcasing real-world
+    use cases of QVAC platform
+  - Advocate for the company's technology stack at industry events, developer meetups,
+    and online communities
+  - Collect and synthesize developer feedback to inform product and engineering teams,
+    providing structured feedback loops
+  - Partner with engineering, product management, and marketing to align developer
+    needs with product strategy and support launch strategies
+  - Represent the company as a credible technical voice through public speaking, open-source
+    contributions, and community engagement
+  - Support initial technical discussions with potential customers and partners
+  use_cases:
+  - Privacy-focused AI applications running entirely on local devices
+  - Local-first AI inference using llama.cpp and ggml for GPU architectures
+  - Developer enablement for building AI-driven applications with SDKs and APIs
+  - Reducing reliance on cloud-based AI infrastructure for data privacy
+  - Digital finance and blockchain-integrated AI tooling
+  skills:
+    genai: [Llama.cpp, ggml, LLMs, Chatbots, Prompt engineering]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Git/GitHub]
+    languages: [JavaScript, TypeScript, Node.js, Python]
+    domains: []
+    other: [SDK development, Technical writing, Open-source contributions, Public
+        speaking]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9052562'
+  extracted_at: '2026-04-22T13:10:21.061023'

@@ -1,0 +1,144 @@
+job_id: 8876962
+title: Sr. AI Quality Engineer
+company: UP.Labs
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - Datadog
+  - Elk
+  - Honeycomb
+  - Jaeger
+  - Llm
+  - Opentelemetry
+  - Python
+  - SQL
+description: |
+  The Company:
+  
+  Groundtruth is building a first-of-its-kind AI billing
+  platform backed by one of the largest companies in the
+  transportation and logistics industry. Our platform
+  automates accuracy and trust in complex freight transactions
+  by transforming messy, unstructured data – like complex
+  email chains, documents, telematics, and contracts – into a
+  clear, reliable system of record that drives accurate
+  billing.
+  
+  The Role:
+  
+  We’re hiring a hybrid AI QA + Product Analyst to own end-to-
+  end quality for our AI-powered inference system. This role
+  sits at the intersection of LLM inference quality, event-
+  driven backend state-machines, and freight domain logic.
+  
+  You will define what “correct” means, build the quality
+  measurement and regression approach to enforce it, and lead
+  deep-dive investigations when edge cases or customer-
+  specific rules break downstream behavior. The goal is to
+  make our system more accurate, more diagnosable, and more
+  reliable as email volume and customer complexity scales.
+  
+  What you’ll do:
+  
+  Own end-to-end system quality
+  
+  - Develop and maintain a quality rubric for key use cases and
+    exception types. (what “right” looks like, and what
+    failure looks like).
+  - Build and curate golden datasets (representative emails +
+    expected structured output + expected final outcome),
+    including customer-specific variations.
+  - Own ongoing quality review in dev and production: regularly
+    inspect high-volume outputs, diagnose what’s breaking and
+    why, and convert discoveries into concrete roadmap items
+    and regression coverage.
+  - Define and execute regression tests for new model changes,
+    backend logic changes, or customer-specific use cases.
+  
+  Investigate and diagnose issues across the full stack of the
+  product
+  
+  - Triage quality incidents and ambiguous failures by tracing
+    through:
+    - email ingestion/parsing
+    - prompts / model outputs / normalization steps / data
+      contracts
+    - intermediate structured representations
+    - event streams and state-machine transitions
+    - final audit exception generation and downstream reporting
+  - Use logs, traces, event histories, and data queries to
+    isolate root cause.
+  - Produce high-signal findings reports: minimal reproduction,
+    suspected component, evidence, impact, and recommended
+    fix.
+  
+  Build scalable quality operations
+  
+  - Create a repeatable triage playbook and classification
+    system for quality issues
+  - Define monitoring & dashboards for quality signals (volume
+    anomalies, exception drift, per-customer error hotspots).
+  - Partner with engineering/AI to improve observability
+    (correlation IDs, structured logging, traceability from
+    email → state transitions).
+  
+  Act as a product/domain translator
+  
+  - Understand freight billing workflows and how real-world
+    documents and communication map to our system’s model of
+    “truth”.
+  - Convert customer-specific requirements into testable rules
+    and expected outcomes.
+  - Identify systemic gaps where “reality” doesn’t fit the
+    current schema, and propose product changes.
+  
+  Required qualifications:
+  
+  - Experience in roles that blend quality + investigation +
+    systems thinking (examples: QA engineer in distributed
+    systems, product analyst with deep debugging, LLM quality
+    analyst, solutions engineer owning incident triage).
+  - Demonstrated experience evaluating AI/LLM output quality
+    (extraction/classification, structured outputs, tool
+    calling, RAG, prompt-driven pipelines, or similar).
+  - Strong technical ability to debug production issues using:
+    - log/trace tools (Datadog, ELK, Honeycomb,
+      OpenTelemetry/Jaeger, etc.)
+    - SQL and/or Python for analysis and repro
+    - event-driven architectures and workflows/state machines (or
+      similar distributed workflow systems)
+  - Ability to write crisp requirements and acceptance criteria,
+    and translate ambiguity into test cases.
+  - Comfort operating in messy, high-volume, edge-case-heavy
+    environments.
+  
+  Nice-to-have qualifications:
+  
+  - Freight/logistics/audit/billing domain experience (carrier
+    invoices, accessorials, detention, lumper, fuel surcharge,
+    tenders, BOLs, rate confirmations, PODs, etc.).
+  - Experience designing evaluation metrics (precision/recall,
+    drift detection, per-customer or per-use-case scorecards).
+  - Familiarity with workflow engines/state machines and
+    distributed systems failure modes (event ordering,
+    retries, dedupe, idempotency, partial failure).
+  - Experience with annotation/labeling workflows, taxonomy
+    design, and building human-in-the-loop QA processes.
+  
+  Traits that matter in this role:
+  
+  - High ownership: you don’t stop at “it’s broken,” you drive
+    it to root cause and resolution.
+  - Comfortable with ambiguity and edge cases; systematic in
+    building clarity.
+  - Able to communicate across product, engineering, ML, and
+    operations.
+industries:
+  - Angel or VC Firm
+  - Automotive
+  - Transportation
+posted_date: 2026-03-26
+url: "https://www.builtinla.com/job/sr-ai-quality-engineer/8876962"
+source: Built In

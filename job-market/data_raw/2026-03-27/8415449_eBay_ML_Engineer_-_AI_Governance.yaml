@@ -1,0 +1,146 @@
+job_id: 8415449
+title: ML Engineer - AI Governance
+company: eBay
+location: Amsterdam, NLD
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - C++
+  - Python
+  - PyTorch
+  - Spark
+  - TensorFlow
+company_size: 26,035 Employees
+description: |
+  At eBay, we're more than a global ecommerce leader — we’re
+  changing the way the world shops and sells. Our platform
+  empowers millions of buyers and sellers in more than 190
+  markets around the world. We’re committed to pushing
+  boundaries and leaving our mark as we reinvent the future of
+  ecommerce for enthusiasts.
+  
+  Our customers are our compass, authenticity thrives, bold
+  ideas are welcome, and everyone can bring their unique
+  selves to work — every day. We're in this together,
+  sustaining the future of our customers, our company, and our
+  planet.
+  
+  Join a team of passionate thinkers, innovators, and dreamers
+  — and help us connect people and build communities to create
+  economic opportunity for all.
+  
+  About the role & team:
+  
+  eBay Core AI is seeking a highly skilled and motivated ML
+  Engineer (GenAI Evaluation & Monitoring) in our Amsterdam
+  office. You will have deep expertise in Applied Science and
+  at least one of the following domains: GenAI Evaluation,
+  Natural Language Processing (NLP), Agentic Systems,
+  Information Retrieval, or Large Language Models (LLMs). We
+  work in small, focused, collaborative project teams and
+  partner with eBay product, engineering, science, platform,
+  and responsible AI teams to deliver scalable, compliant, and
+  high-impact AI products.
+  
+  In this role, you will focus on developing GenAI evaluation
+  and monitoring tools, conducting science and ML engineering
+  reviews of AI applications and automating those reviews, and
+  defining ML engineering and scientific standards and anti-
+  patterns.
+  
+  Do you want to shape how GenAI is built and shipped across
+  one of the world’s largest e-commerce platforms? This is a
+  unique opportunity to join a team that defines the technical
+  standards for AI application development at eBay,
+  influencing multiple AI products by reviewing their
+  solutions, establishing best practices and anti-patterns for
+  GenAI systems, and building evaluation and monitoring tools
+  that enable developers to create robust, scalable, and safe
+  AI applications.
+  
+  What you will accomplish:
+  
+  - Design, develop, and deploy advanced AI governance tooling,
+    such as evaluation and monitoring tools for LLM and VLM
+    applications, content moderation systems, and related
+    solutions.
+  - Review GenAI applications (e.g., LLM/VLM/Conversational
+    Search/Agentic Systems) from a science and ML engineering
+    perspective, and define ML engineering and scientific best
+    practices and anti-patterns in model development,
+    validation, testing, and deployment to ensure high-quality
+    and scalable AI solutions at eBay.
+  - Conduct research on the latest technologies and
+    methodologies in AI governance for LLM/VLM/Agentic
+    applications to drive innovation within the team.
+  - Design and build scalable pipelines and workflows for
+    evaluation, monitoring, reproducible datasets, and
+    experimentation.
+  - Write maintainable Python code and ensure evaluation
+    processes are reliable and automated.
+  
+  What you will bring:
+  
+  - Master’s degree or PhD in Computer Science, Engineering,
+    Mathematics, or a related field.
+  - Demonstrated experience in machine learning, with strong
+    hands-on experience building at least one of the
+    following: LLMs, VLMs, Conversational Search systems,
+    Agentic Systems, or Content Moderation solutions.
+  - Proficiency in Python and frameworks such as PyTorch,
+    TensorFlow, or similar.
+  - Solid understanding of machine learning algorithms, model
+    architectures, training techniques, and building
+    performant inference pipelines. Experience with model
+    inference optimization techniques and libraries is a plus.
+  - Experience with data preprocessing, feature engineering,
+    model evaluation metrics, and large-scale data processing
+    frameworks such as Spark.
+  - Excellent analytical and problem-solving skills, and the
+    ability to work in a fast-paced, dynamic environment.
+  - Strong communication and collaboration skills, with the
+    ability to explain complex technical concepts to non-
+    technical collaborators, propose creative solutions, and
+    support tracking and delivery within release plans.
+  - Publication record in top AI conferences or journals is a
+    strong plus.
+  - Experience with AI safety, LLM/VLM/agent guards, content
+    moderation, and policy-driven GenAI evaluation is a strong
+    plus.
+  
+  What we offer:
+  
+  - An opportunity to work on innovative research in GenAI
+    evaluation and monitoring, making significant
+    contributions to both the field and real-world
+    applications.
+  - A collaborative and supportive work environment where
+    innovation and creativity are encouraged.
+  - Access to state-of-the-art resources and tools to support
+    your research and development work.
+  
+  Additional Details
+  
+  eBay is an equal opportunity employer. All qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, national origin, sex,
+  sexual orientation, gender identity, veteran status, and
+  disability, or other legally protected status. If you have a
+  need that requires accommodation, please contact us at
+  talent@ebay.com. We will make every effort to respond to
+  your request for accommodation as soon as possible. View our
+  accessibility statement to learn more about eBay's
+  commitment to ensuring digital accessibility for people with
+  disabilities.
+  
+  We use cookies to enhance your experience and may use AI
+  tools for administrative tasks in the hiring process. To
+  learn how we handle your personal data and use AI
+  responsibly, please visit our Talent Privacy Notice, Privacy
+  Center, and AI Hiring Guidelines.
+industries:
+  - eCommerce
+  - Retail
+posted_date: 2026-03-24
+url: "https://builtin.com/job/applied-researcher-llms/8415449"
+source: Built In

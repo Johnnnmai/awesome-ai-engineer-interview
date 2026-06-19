@@ -1,0 +1,53 @@
+company:
+  name: RingCentral
+  stage: Public
+  focus: |-
+    Cloud communication and collaboration platform with AI
+    capabilities
+position:
+  title: Software Development Engineer in Test - AI ML
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a quality engineering/test role that validates AI
+      systems rather than building them. The role focuses on
+      testing frameworks, hallucination detection, and LLM
+      evaluation tools - supporting AI development through quality
+      assurance rather than directly building, training, or
+      deploying models.
+  responsibilities:
+  - Design and implement comprehensive test strategies for AI-driven features, focusing
+    on model accuracy, hallucination detection, and reliability of agentic workflows
+  - Build and maintain scalable automation frameworks using Playwright, Selenium,
+    and modern JS-based runners to support AI platform validation
+  - Setup and maintain complex test environments, integrating automated AI evaluations
+    into Jenkins/GitLab CI pipelines
+  - Lead R&D efforts to choose the best tools for performance, API, and scalability
+    testing of AI microservices
+  - Conduct code reviews, establish coding standards, and provide technical guidance
+    on AI testing best practices
+  - Collaborate with Architects, Data Scientists, and Product Managers to define quality
+    standards for non-deterministic AI outputs
+  use_cases:
+  - Real-time voice and video understanding and transcription
+  - AI-powered summarization and context retrieval across communication sessions
+  - Autonomous agent validation and testing
+  - LLM accuracy and hallucination detection for communication AI
+  - Agentic workflow reliability testing
+  skills:
+    genai: [LLM evaluation, LLM prompting, AI agents testing]
+    ml: [Model-based testing]
+    web: [Playwright, Selenium, Testcafe, Cypress, PyTest, Jest, Mocha, Cucumber,
+      Behave]
+    databases: []
+    data: [Data-Driven Testing]
+    cloud: []
+    ops: [LangSmith, Ragas, Arize Phoenix, Jenkins, GitLab CI]
+    languages: [Java, Python, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8876557'
+  extracted_at: '2026-03-27T13:59:59.757495'

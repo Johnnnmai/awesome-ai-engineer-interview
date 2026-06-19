@@ -1,0 +1,50 @@
+company:
+  name: Netomi
+  stage: Series B
+  focus: |-
+    Agentic AI platform for enterprise customer experience
+    automation
+position:
+  title: Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves configuring, deploying, and scaling
+      Agentic AI solutions for enterprise customers, with hands-on
+      work on AI agent optimization and performance. While it's
+      customer-facing, it's similar to a Forward Deployed Engineer
+      role that directly deploys and configures AI systems rather
+      than just supporting them.
+  responsibilities:
+  - Scope projects and provide effort estimations and timelines with sales and CSM
+    teams
+  - Lead discovery calls with customers and cross-functional teams
+  - Design solution architecture for moderate to complex projects requiring multi-product
+    integrations
+  - Perform complex configuration and troubleshooting of Netomi's AI agent solutions
+  - Analyze customer health metrics and create plans to optimize AI Agent performance
+  - Lead business discussions regarding Netomi's value proposition at various customer
+    organizational levels
+  - Collaborate with cross-functional teams for troubleshooting during and post deployment
+  - Ensure project and process documentation in centralized repository
+  use_cases:
+  - Enterprise customer experience automation
+  - Agentic automation for customer journey workflows
+  - Customer service AI agents for large global brands
+  - Autonomous agent-based operations for enterprises
+  skills:
+    genai: []
+    ml: []
+    web: [Postman, API Integrations, Swagger]
+    databases: [SQL]
+    data: []
+    cloud: []
+    ops: [Datadog]
+    languages: [JavaScript, Python, Node.js]
+    domains: []
+    other: [JSON, OAuth, JWT, Zapier, Salesforce, Zendesk, HubSpot, ServiceNow, Workday]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8383562'
+  extracted_at: '2026-03-03T12:49:13.603021'

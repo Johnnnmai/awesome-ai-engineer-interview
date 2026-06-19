@@ -1,0 +1,59 @@
+company:
+  name: Omada Health
+  stage: Late-stage / Pre-IPO
+  focus: |-
+    Digital chronic condition management and behavioral health
+    platform
+position:
+  title: Senior IT Engineer, AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building MCP servers, writing AI
+      skills, composing tool bundles for AI agents, and deploying
+      agentic integrations. The engineer is hands-on with MCP
+      (Model Context Protocol) ecosystem development, connecting
+      SaaS tools to AI agents, and building AI-driven automation
+      capabilities — not merely supporting infrastructure for
+      others who build AI.
+  responsibilities:
+  - Build and configure MCP servers integrating SaaS and internal applications into
+    Omada's MCP ecosystem
+  - Write skills and compose tool bundles that expose actions and data to AI agents
+    in a composable way
+  - Deploy role-appropriate tool bundles to ABAC groups, managing access and least-privilege
+    permissions
+  - Partner with department champions across the company to identify AI-driven automation
+    opportunities in their workflows
+  - Drive AI adoption across the company by shipping integrations that fit how teams
+    actually work
+  - Maintain security, governance, and compliance standards for MCP integrations in
+    a HIPAA-regulated health data environment
+  - Create reusable patterns, shared templates, and documentation to scale the MCP
+    ecosystem
+  - Gather usage signals and feedback from champions to iterate on integrations and
+    measure adoption
+  use_cases:
+  - AI-assisted workflow automation across enterprise departments
+  - Connecting SaaS tools and internal systems to AI agents via MCP servers
+  - Agentic automation for business processes like HR, finance, and operations
+  - Role-scoped AI tool bundles that give teams contextually relevant AI capabilities
+  - Enterprise AI governance and secure access control for LLM-based agent deployments
+  - Internal developer enablement and AI adoption across a healthcare organization
+  skills:
+    genai: [MCP (Model Context Protocol), AI agents, Agentic frameworks]
+    ml: []
+    web: [REST APIs, OAuth, Webhooks]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [HIPAA compliance]
+    other: [ABAC (Attribute-Based Access Control), SSO/SAML/OIDC/SCIM, Tines, n8n,
+      iPaaS platforms, AI governance, SaaS integration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9028910'
+  extracted_at: '2026-04-22T13:26:34.953672'

@@ -1,0 +1,44 @@
+company:
+  name: Jack & Jill AI
+  stage: Series B
+  focus: |-
+    AI-powered patent technology platform for drafting and
+    litigation
+position:
+  title: AI Engineer ($100K-$400K + Equity) at Solve Intelligence
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing and implementing LLM-powered
+      systems, agents, and evaluation pipelines - direct hands-on
+      work building and deploying AI/LLM systems for patent
+      automation. This is core AI engineering work.
+  responsibilities:
+  - Design and implement state-of-the-art LLM-powered systems and agents
+  - Build evaluation pipelines for AI systems
+  - Automate complex patent drafting and litigation workflows
+  - Architect and scale backend infrastructure using Python and PostgreSQL
+  - Support global user base and massive document volumes
+  - Collaborate with founding team on foundational technical decisions
+  - Ship high-impact features to production in rapid cycles
+  use_cases:
+  - Automated patent drafting
+  - Patent litigation workflow automation
+  - AI-powered intellectual property processing
+  - Large-scale document analysis and generation
+  skills:
+    genai: [LLMs, AI agents, RAG, Prompt Engineering]
+    ml: [ML/AI systems]
+    web: []
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8853804'
+  extracted_at: '2026-03-27T13:56:36.588336'

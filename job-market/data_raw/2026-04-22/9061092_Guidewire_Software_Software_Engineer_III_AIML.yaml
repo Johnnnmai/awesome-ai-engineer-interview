@@ -1,0 +1,196 @@
+job_id: 9061092
+title: Software Engineer III (AI/ML)
+company: Guidewire Software
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Docker
+  - DynamoDB
+  - JavaScript
+  - Kubernetes
+  - Langchain
+  - Llamaindex
+  - Postgres
+  - Python
+  - Typescript
+description: |
+  Summary
+  
+  About Guidewire Guidewire is a global leader in cloud-based
+  platforms for property and casualty (P&C) insurers,
+  combining digital, core, analytics, and AI to deliver
+  innovative solutions that help insurers modernize and
+  thrive. Our mission is to transform the way the world’s P&C
+  insurers do business, and we are committed to customer
+  success, continuous improvement, and a culture of
+  collaboration and inclusion. Your Career. Your Adventure. At
+  Guidewire, we believe great work happens when people are
+  empowered to engage meaningfully, innovate boldly, and grow
+  with purpose and efficiency. Whether you are building the
+  future of insurance tech or your own career, every
+  experience here is backed by trust, support, and real
+  opportunity. The Opportunity Are you passionate about
+  building large-scale, next-generation Generative AI (GenAI)
+  capabilities? Do you thrive in cross-functional teams
+  tackling mission-critical business challenges? Are you
+  experienced in designing agentic workflows and integrating
+  state-of-the-art LLM, ML, and MCP (Model Context Protocol)
+  technologies? Join our highly collaborative Solution
+  Engineering and Operations team to design and deliver
+  intelligent, next-generation services and solutions powered
+  by cutting-edge AI innovation.
+  
+  Job Description
+  
+  What You’ll Do
+  
+  - Design, build, and maintain scalable microservices and APIs
+    that power AI capabilities across core solutions and
+    offerings.
+  - Develop Generative AI pipelines using frameworks such as
+    LangChain, LlamaIndex, and MCP-based integrations to
+    enable context-aware reasoning and action orchestration.
+  - Collaborate with ML engineers and data scientists to
+    integrate and operationalize models from providers like
+    OpenAI and Anthropic.
+  - Design and deploy ML models that drive predictive insights,
+    anomaly detection, and automated decision-making.
+  - Design and extend MCP servers to define, expose, and manage
+    tools accessible to LLMs.
+  - Implement continuous evaluation and retraining workflows to
+    ensure models remain accurate and relevant as business
+    data evolves.
+  - Work closely with platform teams to align ML and GenAI
+    components with enterprise standards for security,
+    reliability, and performance.
+  - Ensure scalability, performance, and security of AI
+    workloads in multi-tenant cloud environments (AWS,
+    Kubernetes).
+  - Participate in architecture reviews and define MCP-compliant
+    interfaces for consistent, safe model–tool interactions.
+  - At Guidewire, we foster a culture of curiosity, innovation,
+    and responsible use of AI—empowering our teams to
+    continuously leverage emerging technologies and data-
+    driven insights to enhance productivity and outcomes
+  
+  What You’ll Bring
+  
+  - 5+ years of software engineering experience, with exposure
+    to AI/ML and backend platform development.
+  - Proficiency in Python, TypeScript, or JavaScript, with
+    strong coding and debugging skills.
+  - Hands-on experience with cloud and container technologies
+    such as AWS, Docker, and Kubernetes.
+  - Familiarity with AI orchestration frameworks (LangChain,
+    LangGraph, CrewAI) and GenAI design patterns such as RAG,
+    ReAct, and agent-based reasoning.
+  - Experience building or integrating MCP servers to manage
+    tools, context, and state across LLMs and external
+    systems.
+  - Expertise with LLM APIs (OpenAI, Claude, Gemini, etc.) and
+    multi-model orchestration.
+  - Strong foundation in API design, microservice architecture,
+    and event-driven systems.
+  - Knowledge of authentication and security standards,
+    including OAuth2, JWT, and secure coding practices.
+  - Experience with databases such as PostgreSQL or DynamoDB.
+  - Passion for building intelligent platforms that leverage AI
+    to improve efficiency, reliability, and automation.
+  - BS/MS in Computer Science or a related field, or equivalent
+    professional experience.
+  - Demonstrated ability to embrace AI and apply it to your
+    current role as well as data-driven insights to drive
+    innovation, productivity, and continuous improvement.
+  
+  Bonus Skills
+  
+  - Experience with additional AI/ML frameworks or cloud
+    platforms.
+  - Exposure to insurance technology or enterprise SaaS
+    environments.
+  - Contributions to open-source AI/ML projects.
+  - Experience with ethical AI and governance best practices.
+  
+  What’s in it for You
+  
+  - Flexible work environment, including hybrid options.
+  - Comprehensive health and wellness benefits.
+  - Paid time off programs, including volunteer time off.
+  - Market-competitive pay and incentive programs.
+  - Continual development and internal career growth
+    opportunities.
+  - In-person orientation process for all new hires, fostering
+    connection and collaboration from day one.
+  
+   The US base salary range for this full-time position is
+  $113,000 - $169,000 . Your base pay will depend on your
+  experience, skills, education, training, and location among
+  other factors. All full-time positions or part-time roles
+  working 30 hours or more a week at Guidewire are eligible
+  for benefits that support their health and well-being
+  including health, dental, and vision insurance, paid time
+  off, and a company sponsored retirement plan. In addition,
+  some roles may be eligible for the annual company bonus
+  plan, commissions, and/or long term incentive awards which
+  are contingent on a variety of factors including, but not
+  limited to, company and employee performance.
+  
+  Disability Accommodations and Guidewire’s Appeals Process.
+  Guidewire provides accommodations to the hiring process to
+  create a fair opportunity for candidates with disabilities
+  to contend for open positions. Accommodation requests should
+  be directed to Accommodations@guidewire.com. If things do
+  not go as hoped, we invite you to use our appeals process.
+  Guidewire promises to independently review any denied
+  accommodation and any decision not to offer you the
+  position. The appeals process is the same in either case.
+  Within five business days of receiving a notice of denial of
+  an accommodation, or receiving a notice of your non-
+  selection for a vacancy, e-mail Accommodations@guidewire.com
+  to make an appeal. Guidewire will assign a new decision-
+  maker to review the request and/or hiring decision, who will
+  then notify you in writing of a decision within 10 business
+  days.
+  
+  About Guidewire
+  
+  Guidewire is the platform P&C insurers trust to engage,
+  innovate, and grow efficiently. We combine digital, core,
+  analytics, and AI to deliver our platform as a cloud
+  service. More than 540+ insurers in 40 countries, from new
+  ventures to the largest and most complex in the world, run
+  on Guidewire.
+  
+  As a partner to our customers, we continually evolve to
+  enable their success. We are proud of our unparalleled
+  implementation track record with 1600+ successful projects,
+  supported by the largest R&D team and partner ecosystem in
+  the industry. Our Marketplace provides hundreds of
+  applications that accelerate integration, localization, and
+  innovation.
+  
+  For more information, please visit www.guidewire.com and
+  follow us on Twitter: @Guidewire_PandC.
+  
+  Guidewire Software, Inc. is proud to be an equal opportunity
+  and affirmative action employer. We are committed to an
+  inclusive workplace, and believe that a diversity of
+  perspectives, abilities, and cultures is a key to our
+  success. Qualified applicants will receive consideration
+  without regard to race, color, ancestry, religion, sex,
+  national origin, citizenship, marital status, age, sexual
+  orientation, gender identity, gender expression, veteran
+  status, or disability. All offers are contingent upon
+  passing a criminal history and other background checks where
+  it's applicable to the position.
+industries:
+  - Cloud
+  - Information Technology
+  - Insurance
+  - Software
+  - Analytics
+posted_date: 2026-04-16
+url: "https://www.builtinla.com/job/software-engineer-iii-ai-ml/9061092"
+source: Built In

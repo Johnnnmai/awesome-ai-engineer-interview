@@ -1,0 +1,52 @@
+company:
+  name: Lingaro
+  stage: null
+  focus: |-
+    Data science and AI consulting services for enterprise
+    clients
+position:
+  title: ML/AI Engineer - GCP, Azure
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and delivering GenAI solutions,
+      implementing LLM/ML models into production, and building
+      ML/MLOps/LLMOps frameworks. The engineer works directly on
+      building, deploying, and operationalizing AI/ML systems
+      including RAG, prompt engineering, and LLM automation,
+      making it an ai-first role.
+  responsibilities:
+  - Implement Machine Learning models into production in collaboration with Data Science
+    teams
+  - Design and deliver GenAI solutions including LLM-based automation for scale and
+    efficiency
+  - Design, deliver, and manage industrialized data processing pipelines
+  - Define and implement best practices for ML model lifecycle, MLOps, and LLMOps
+  - Implement AI/MLOps/LLMOps frameworks and support Data Science teams in best practices
+  - Gather and apply knowledge of modern techniques, tools, and frameworks in ML Architecture
+    and Operations
+  - Gather technical requirements, estimate planned work, and present solutions to
+    internal and external clients
+  - Create technical documentation
+  use_cases:
+  - GenAI solution delivery for enterprise clients
+  - LLM-based automation for operational scale and efficiency
+  - Production ML model deployment and lifecycle management
+  - Industrialized data processing pipelines for AI/ML workloads
+  skills:
+    genai: [RAG, Prompt Engineering, ChatGPT/OpenAI, Gemini]
+    ml: [LLM/ML model productionization]
+    web: [REST APIs, Microservices]
+    databases: [Data Warehouse, Data Lake]
+    data: [Databricks, Spark, PySpark, Hive, Data Pipeline Design]
+    cloud: [GCP, Azure, AzureML, AzureAI]
+    ops: [MLOps, LLMOps, CI/CD, Docker, Kubernetes, GitHub Actions, GitLab, Azure
+        DevOps]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8987781'
+  extracted_at: '2026-04-22T12:29:06.003871'

@@ -1,0 +1,58 @@
+company:
+  name: Mastercard
+  stage: Public
+  focus: |-
+    Global payments technology company powering digital
+    transactions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting, developing, and deploying
+      AI/ML systems end-to-end, including predictive modeling,
+      building production-ready models, and maintaining ML
+      pipelines. The engineer works directly on building,
+      training, evaluating, and deploying ML models, making this
+      clearly an ai-first role.
+  responsibilities:
+  - Architect, build, and maintain AI/ML systems including predictive modelling and
+    decisioning solutions for optimization use cases
+  - Prototype new algorithms, run experiments, evaluate performance against metrics,
+    and deliver production-ready models
+  - Perform data ingestion, aggregation, processing, and feature engineering on high-volume,
+    high-dimensional datasets
+  - Identify common use-case patterns and promote scalable AI delivery via reusable
+    models, shared components, and microservices
+  - Deploy models into production; design scalable training/inference pipelines and
+    deployment frameworks
+  - Automate training, testing, deployment, and updates using CI/CD best practices;
+    manage model versioning and performance monitoring
+  - Ensure AI solutions follow industry standards and Mastercard practices for data
+    management, privacy, and responsible AI
+  - Collaborate with global stakeholders to define business problems and mentor junior
+    team members
+  use_cases:
+  - Product optimization through predictive modeling and decisioning
+  - Sales enablement via data-driven insights and AI-powered recommendations
+  - Digital payment performance tracking and optimization across products and regions
+  - Large-scale analytical capabilities for global markets
+  - Business problem solving through ML objectives derived from ambiguous challenges
+  skills:
+    genai: []
+    ml: [TensorFlow, Keras, PyTorch, XGBoost, scikit-learn, Logistic Regression, Decision
+        Trees, Gradient Boosting, Neural Networks, CNN, LSTM, Time Series Analysis,
+      K-Means, PCA]
+    web: [Microservices]
+    databases: []
+    data: [Spark, Hadoop, Hive, Feature Engineering]
+    cloud: []
+    ops: [CI/CD, Docker, GPU Computing, MLOps]
+    languages: [Python, R, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8935058'
+  extracted_at: '2026-04-22T14:20:12.226803'

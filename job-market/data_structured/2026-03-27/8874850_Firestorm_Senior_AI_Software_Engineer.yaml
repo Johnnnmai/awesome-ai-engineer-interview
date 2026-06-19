@@ -1,0 +1,56 @@
+company:
+  name: Firestorm
+  stage: VC-backed
+  focus: |-
+    Autonomous aerial systems and mission-adaptable defense
+    vehicles
+position:
+  title: Senior AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development of AI-enabled
+      systems including building agentic workflows, LLM-enabled
+      applications, tool use/function calling, RAG, and structured
+      outputs. The position requires production AI/ML experience
+      and involves building, deploying, and operating AI systems
+      in production environments.
+  responsibilities:
+  - Lead hands-on development of AI-enabled software systems from concept to deployment
+    with rapid iteration and engineering rigor
+  - Build and maintain agentic workflows including tool use, state handling, retries,
+    and human-in-the-loop gates with safety constraints
+  - Define and enforce structured output contracts including schemas, validations,
+    and compatibility expectations
+  - Establish build and release discipline with versioning, reproducibility, CI quality
+    gates, and rollback-ready releases
+  - Drive operational readiness including observability, auditability, failure-mode
+    handling, and secure service behavior
+  - Integrate AI systems with existing platforms while maintaining governance boundaries
+  - Identify and mitigate high-risk failure modes in AI workflows with guardrails,
+    validation layers, and safe defaults
+  - Produce technical documentation and decision records for team onboarding and consistent
+    engineering behavior
+  use_cases:
+  - Autonomous aerial systems for defense applications
+  - Mission-adaptable vehicles for U.S. ally nations
+  - AI-enabled defense procurement and capability delivery
+  - Real-time AI integration with aerial systems
+  - Safety-critical AI workflows for defense environments
+  skills:
+    genai: [LangChain, agents, function calling, RAG, structured outputs, prompt engineering,
+      LLM-as-judge]
+    ml: [Fine-tuning, LoRA, multimodal AI]
+    web: [REST APIs, FastAPI]
+    databases: [Postgres, vector databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, monitoring, alerting, Docker, Kubernetes]
+    languages: [Python, Go, Java, C++, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8874850'
+  extracted_at: '2026-03-27T15:07:00.138999'

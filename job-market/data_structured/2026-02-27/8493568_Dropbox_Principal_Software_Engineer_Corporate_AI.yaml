@@ -1,0 +1,56 @@
+company:
+  name: Dropbox
+  stage: Public
+  focus: |-
+    Cloud storage and collaboration platform with AI-powered
+    productivity tools
+position:
+  title: Principal Software Engineer, Corporate AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role because it involves directly
+      leading the design, development, and deployment of AI
+      systems, intelligent services, and AI platforms. The role
+      requires driving innovation in intelligence models,
+      distributed training, and optimization techniques, as well
+      as enhancing search/NLP capabilities - all hands-on AI
+      system building work.
+  responsibilities:
+  - Define, drive, and communicate the technical vision for intelligence, AI, and
+    data initiatives aligned with organizational objectives
+  - Lead the design, development, and deployment of high performance AI systems, data
+    pipelines, and intelligent services from conception through production
+  - Make strategic architectural decisions to address complex AI, data, and platform
+    challenges balancing short-term delivery with long-term resilience
+  - Architect, evolve, and scale AI, automation, and intelligence platforms enabling
+    advanced analytics, personalization, search, and intelligent decision making
+  - Drive innovation in intelligence models, distributed training, optimization techniques,
+    and data engineering
+  - Enhance search and discovery capabilities using intelligent algorithms, natural
+    language processing, and modern data systems
+  - Evaluate, select, and integrate emerging technologies in AI, ML, and automation
+  - Provide mentorship and technical guidance to engineers and data scientists, fostering
+    continuous learning and technical excellence
+  use_cases:
+  - Advanced analytics and intelligent decision making
+  - Personalization systems
+  - Enterprise search and discovery
+  - Intelligent automation workflows
+  - Data-driven productivity enhancement
+  skills:
+    genai: [Search algorithms]
+    ml: [Machine Learning, Artificial Intelligence, Distributed training, Model optimization]
+    web: []
+    databases: []
+    data: [Data pipelines, Data engineering, ETL]
+    cloud: []
+    ops: [CI/CD, Automated testing]
+    languages: [Python, Java, Go, Scala]
+    domains: [Natural Language Processing]
+    other: [Scalable systems architecture, Enterprise AI adoption]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8493568'
+  extracted_at: '2026-03-03T12:52:28.869973'

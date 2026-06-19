@@ -1,0 +1,197 @@
+job_id: 8929452
+title: Applied AI Engineer - GCP Vertex AI or AWS Bedrock
+company: Appian Corporation
+location: Chennai, IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Aws Bedrock
+  - BigQuery
+  - Gcp Vertex Ai
+  - Google Cloud Sdk
+  - Langchain
+  - Llamaindex
+  - Openai Sdk
+  - Pgvector
+  - Pinecone
+  - Python
+company_size: 2,100 Employees
+description: |
+  Here at Appian, our values of Intensity and Excellence
+  define who we are. We set high standards and live up to
+  them, ensuring that everything we do is done with care and
+  quality. We approach every challenge with ambition and
+  commitment, holding ourselves and each other accountable to
+  achieve the best results. When you join Appian, you’ll be
+  part of a passionate team dedicated to accomplishing hard
+  things, together.
+  
+  About the Team At Business Technology, we use Appian to run
+  Appian. We are launching our first internal AI team to build
+  the foundation for how our global company works. This team
+  won't just use AI, they will build the brain of the
+  enterprise, spanning everything from predictive intelligence
+  in our data warehouse to the GenAI infrastructure that
+  powers our internal autonomous agents.
+  
+  We are hiring a founding group of engineers to kickstart
+  this mission. As an AI Engineer on this team, you won’t be
+  maintaining legacy systems; you’ll be building from the
+  ground up. You will own the full spectrum of AI: crafting
+  predictive ML models to find insights in our data warehouse
+  and architecting GenAI systems that allow any employee to
+  interact with enterprise knowledge through intelligent
+  agents.
+  
+  If you want to be part of the original team that defines
+  internal AI for a leading automation company, this is your
+  moment.
+  
+  PLEASE NOTE: This is a junior to midlevel role and is aimed
+  at people with 1 years to 4 years total experience.
+  
+  What you’ll do:
+  
+  - Build the AI Platform: Design, deploy, and scale GenAI
+    infrastructure on GCP Vertex AI (preferred) or AWS
+    Bedrock.
+  - Build & Operate MCP Servers: Develop and maintain Model
+    Context Protocol (MCP) servers that expose enterprise
+    systems (databases, APIs, internal tools) as structured,
+    AI-consumable capabilities.
+  - Design the Tool Layer: Build the tool registry and
+    invocation framework that allows agents to interact with
+    internal systems safely and reliably including schema
+    design, access controls, and error handling.
+  - Engineer Agent-to-Agent Infrastructure: Architect the
+    communication and coordination layer that allows
+    specialized agents to delegate tasks, share context, and
+    compose into larger autonomous workflows.
+  - Own the Retrieval Layer: Architect and operate RAG systems,
+    including vector stores, embedding pipelines, chunking
+    strategies, and retrieval evaluation frameworks.
+  - Establish AI Reliability: Instrument AI systems with
+    logging, tracing, latency monitoring, and evaluation hooks
+    so agents can be trusted, debugged, and improved in
+    production.
+  
+  Required Qualifications:
+  
+  - AI Infrastructure Experience: Professional experience
+    building and deploying production-grade GenAI systems on
+    GCP Vertex AI or AWS Bedrock including LLM APIs, agent
+    frameworks, and RAG pipelines.
+  - Python Mastery: Deep proficiency in Python and common AI/ML
+    libraries (e.g., LangChain, LlamaIndex, OpenAI SDK, Google
+    Cloud AI SDK).
+  - Agentic Systems: Hands-on experience building multi-step,
+    tool-calling AI agents that operate reliably in production
+    including tool schema design, structured outputs, and
+    failure handling.
+  - MCP or Tool Protocol Experience: Familiarity with Model
+    Context Protocol (MCP) or equivalent patterns for exposing
+    enterprise resources to AI systems as callable,
+    permissioned tools.
+  - Vector & Retrieval Systems: Experience with vector databases
+    (Pinecone, pgvector, or similar) and embedding-based
+    retrieval at scale.
+  - Technical Foundation: B.S. in Computer Science, Engineering,
+    or a related technical field.
+  - The Pioneer Mindset: A self-starter who is excited to be
+    part of a "first-of-its-kind" team and thrives in
+    environments where you are building the playbook.
+  
+  Preferred Qualifications:
+  
+  - Multi-Agent Architectures: Experience designing
+    orchestrator/subagent patterns, agent handoff protocols,
+    or systems where multiple AI models coordinate to complete
+    complex tasks (e.g., using frameworks like LangGraph,
+    CrewAI, or AutoGen).
+  - AI Observability: Experience with LLM evaluation frameworks,
+    prompt regression testing, or agent trace monitoring (e.g.
+    custom eval pipelines).
+  - Data Warehouse Integration: Familiarity with SQL and pulling
+    data from Snowflake or BigQuery to ground AI agents in
+    live business context.
+  - Appian Exposure: Experience with the Appian platform or
+    interest in integrating AI agents into low-code automation
+    workflows.
+  - Predictive ML (Nice to Have): Some familiarity with ML
+    fundamentals is a plus, but not a focus of this role.
+  
+  This role is based at our Chennai office in Brigade World
+  Trade Center Chennai. Appian was built on a culture of in-
+  person collaboration, which we believe is a key driver of
+  our mission to be the best. Employees hired for this
+  position are expected to be in the office 5 days a week to
+  foster that culture and ensure we continue to thrive through
+  shared ideas and teamwork. We believe being in the office
+  provides more opportunities to come together and celebrate
+  working with the exceptional people across Appian.
+  
+  Tools and Resources
+  
+  - Training and Development: During onboarding, we focus on
+    equipping new hires with the skills and knowledge for
+    success through department-specific training. Continuous
+    learning is a central focus at Appian, with dedicated
+    mentorship and the First-Friend program being widely
+    utilized resources for new hires.
+  - Growth Opportunities: Appian provides a diverse array of
+    growth and development opportunities, including our
+    leadership program tailored for new and aspiring managers,
+    a comprehensive library of specialized department training
+    through Appian University, skills based training, and
+    tuition reimbursement for those aiming to advance their
+    education. This commitment ensures that employees have
+    access to a holistic range of development opportunities.
+  - Community: We’ll immerse you into our community rooted in
+    respect starting on day one. Appian fosters inclusivity
+    through our 8 employee-led affinity groups. These groups
+    help employees build stronger internal and external
+    networks by planning social, educational, and outreach
+    activities to connect with Appianites and larger
+    initiatives throughout the company.
+  
+  Benefits
+  
+  Appian offers a comprehensive benefits package designed to
+  support your health, wellbeing, and financial future.
+  Benefits may include health coverage, Employee Assistance
+  Program (EAP) with free mental health support, life and
+  disability insurance, an Employee Stock Purchase Program
+  (ESPP), a retirement/pension plan, wellness dollars, tuition
+  reimbursement, family-forming benefits and more. Benefits
+  vary by country—please ask your Talent Acquisition contact
+  for details specific to the location you are applying to.
+  
+  About Appian
+  
+  Appian provides process automation technology. We automate
+  complex processes in large enterprises and governments. Our
+  platform is known for its unique reliability and scale.
+  We’ve been automating processes for 25 years and understand
+  enterprise operations like no one else. For more
+  information, visit appian.com. [Nasdaq: APPN]
+  
+  Follow Appian: LinkedIn, Youtube, Instagram, Facebook
+  
+  Appian is an equal opportunity employer that strives to
+  attract and retain the best talent. All qualified applicants
+  will receive consideration for employment without regard to
+  any characteristic protected by applicable federal, state,
+  or local law.
+  
+  Appian provides reasonable accommodations to applicants in
+  accordance with all applicable laws. If you need a
+  reasonable accommodation for any part of the employment
+  process, please contact us by email at
+  ReasonableAccommodations@appian.com. Please note that only
+  inquiries concerning a request for reasonable accommodation
+  will be responded to from this email address.
+  
+  Appian's Applicant & Candidate Privacy Notice
+posted_date: 2026-04-01
+url: "https://builtin.com/job/applied-ai-engineer-gcp-vertex-ai-or-aws-bedrock/8929452"
+source: Built In

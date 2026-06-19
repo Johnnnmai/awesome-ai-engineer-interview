@@ -1,0 +1,46 @@
+company:
+  name: Quora
+  stage: Private
+  focus: |-
+    AI platform (Poe) for chatting with multiple LLMs and
+    knowledge sharing (Quora)
+position:
+  title: AI Engineer New Grad 2025-2026 - Poe (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building, deploying, and
+      optimizing LLM applications including RAG systems, prompt
+      engineering, and agentic workflows. The engineer takes end-
+      to-end ownership of applied AI systems from prototyping to
+      production deployment at scale.
+  responsibilities:
+  - Work on AI engineering tasks including prompt engineering, retrieval-augmented
+    generation, and agentic workflow optimization
+  - Improve existing applied AI systems for the Poe product
+  - Identify new opportunities to apply emerging AI capabilities across Poe
+  - Take end-to-end ownership of applied AI systems from prototyping to deployment
+  - Build data pipelines and perform model optimization and evaluation
+  - Develop tools and abstractions for other developers to build upon
+  - Collaborate with product team to uncover new AI opportunities
+  use_cases:
+  - Bot/app routing and recommendation for AI model selection
+  - Agent flow orchestration and optimization
+  - Retrieval-augmented generation (RAG) systems
+  - Multi-LLM chat platform enabling users to interact with various AI models
+  skills:
+    genai: [Prompt Engineering, RAG, LLM applications, Agentic workflows]
+    ml: [Transformer models, Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8207287'
+  extracted_at: '2026-03-03T11:24:27.490397'

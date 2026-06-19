@@ -1,0 +1,111 @@
+job_id: 8926425
+title: Software Engineer, AI Gateway
+company: Vercel
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - APIs
+  - Cloud Infrastructure
+  - JavaScript
+  - Typescript
+company_size: 0 Employees
+description: |
+  About Vercel:
+  
+  Vercel gives developers the tools and cloud infrastructure
+  to build, scale, and secure a faster, more personalized web.
+  As the team behind v0, Next.js, and AI SDK, Vercel helps
+  customers like Ramp, Supreme, PayPal, and Under Armour build
+  for the AI-native web.
+  
+  Our mission is to enable the world to ship the best
+  products. That starts with creating a place where everyone
+  can do their best work. Whether you're building on our
+  platform, supporting our customers, or shaping our story:
+  You can just ship things.
+  
+  About the Role: As a member of the AI Gateway Team, you will
+  be responsible for developing and enhancing our AI Gateway
+  platform, which provides a unified API for accessing
+  hundreds of AI models from multiple providers. You will
+  collaborate with a remote and distributed team of engineers
+  to build reliable, low-latency systems that handle rate
+  limiting, intelligent failovers, and seamless integrations,
+  enabling developers to ship AI-powered applications without
+  managing provider-specific complexities. This role focuses
+  on ensuring production-ready reliability for AI workloads,
+  including automatic fallbacks during outages and consistent
+  performance across providers like OpenAI, Anthropic, Google,
+  and more.
+  
+  
+  
+  What You Will Do:
+  
+  - Contribute to the design, implementation, and maintenance of
+    the AI Gateway platform, emphasizing features like unified
+    API endpoints, rate limit management, and intelligent
+    failover mechanisms to boost uptime and reliability.
+  - Write clean, efficient, and well-documented code, conducting
+    thorough testing to ensure low-latency responses and
+    stability for high-volume AI inference requests.
+  - Collaborate with cross-functional teams, including product
+    managers, AI researchers, and infrastructure engineers, to
+    integrate new AI providers and models while addressing
+    scalability and performance challenges.
+  - Engage with the open-source community, contribute to AI SDK
+    and related projects, and align with Vercel's ethos of
+    fostering developer tools.
+  - Gather user feedback and analytics to drive innovations in
+    AI Gateway, such as enhanced billing unification,
+    provider-agnostic authentication, and analytics for usage
+    insights.
+  
+  About You:
+  
+  - You have at least 5+ years of relevant experience
+  - Strong proficiency in JavaScript/TypeScript and experience
+    with backend development, APIs, and cloud infrastructure
+  - Experience with AI/ML integrations, API gateways,
+    distributed systems, or handling high-throughput services
+    (e.g., rate limiting, caching, failovers)
+  - Experience contributing to or participating in open source
+    projects
+  - Excellent communication skills and the ability to work
+    effectively in a collaborative team environment
+  
+  Benefits:
+  
+  - Competitive compensation package, including equity.
+  - Inclusive Healthcare Package.
+  - Learn and Grow - we provide mentorship and send you to
+    events that help you build your network and skills.
+  - Flexible Time Off.
+  - We will provide you the gear you need to do your role, and a
+    WFH budget for you to outfit your space as needed.
+  
+  The San Francisco, CA base pay range for this role is
+  $196,000-$294,000. Actual salary will be based on job-
+  related skills, experience, and location. Compensation
+  outside of San Francisco may be adjusted based on employee
+  location. The total compensation package may include
+  benefits, equity-based compensation, and eligibility for a
+  company bonus or variable pay program depending on the role.
+  Your recruiter can share more details during the hiring
+  process. Vercel is committed to fostering and empowering an
+  inclusive community within our organization. We do not
+  discriminate on the basis of race, religion, color, gender
+  expression or identity, sexual orientation, national origin,
+  citizenship, age, marital status, veteran status, disability
+  status, or any other characteristic protected by law. Vercel
+  encourages everyone to apply for our available positions,
+  even if they don't necessarily check every box on the job
+  description.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Software
+posted_date: 2026-04-01
+url: "https://builtin.com/job/software-engineer-ai-gateway/8926425"
+source: Built In

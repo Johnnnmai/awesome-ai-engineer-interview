@@ -1,0 +1,47 @@
+company:
+  name: Zensar Technologies
+  stage: Public
+  focus: Digital solutions and experience engineering for enterprises
+position:
+  title: Senior API Engineer (React, AEM, Cloud, DevOps & AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the job title mentioning "AI," the actual
+      responsibilities and qualifications focus entirely on
+      backend engineering with Node.js, Kafka, databases, AWS, and
+      DevOps. There is no mention of building, training, fine-
+      tuning, or deploying AI/ML models. The AI mention in the
+      title appears to be peripheral or a buzzword addition rather
+      than a core responsibility.
+  responsibilities:
+  - Design, build, and own scalable backend systems using Node.js
+  - Architect and optimize event-driven systems using Kafka
+  - Design efficient data models and access patterns using PostgreSQL, DynamoDB, and
+    MongoDB
+  - Design and implement serverless solutions using AWS Lambda
+  - Drive AWS architecture decisions, performance optimization, and reliability improvements
+  - Lead API design, code reviews, and backend best practices
+  - Perform root cause analysis, handle production escalations, and drive resolutions
+  - Mentor engineers and provide technical guidance
+  use_cases:
+  - Scalable backend API systems
+  - Event-driven data architectures
+  - Serverless cloud computing solutions
+  - Enterprise digital experience platforms
+  skills:
+    genai: []
+    ml: []
+    web: [Node.js, React, Next.js, REST API design]
+    databases: [PostgreSQL, DynamoDB, MongoDB]
+    data: [Kafka]
+    cloud: [AWS, AWS Lambda]
+    ops: [CI/CD, DevOps]
+    languages: []
+    domains: []
+    other: [AEM (Adobe Experience Manager)]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8960928'
+  extracted_at: '2026-04-22T13:22:11.789444'

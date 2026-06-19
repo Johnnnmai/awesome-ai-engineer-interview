@@ -1,0 +1,57 @@
+company:
+  name: OpenAI
+  stage: Public
+  focus: |-
+    AI research and deployment company building general-purpose
+    AI systems
+position:
+  title: Partner AI Deployment Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying
+      Generative AI applications using the OpenAI API. The Partner
+      ADE builds hands-on prototypes, implements AI solutions, and
+      leads technical deployment of GenAI applications for
+      enterprise customers. While customer-facing, the role
+      requires hands-on work building and deploying AI solutions,
+      making it ai-first.
+  responsibilities:
+  - Embed with systems integrators as technical lead to ideate and build novel applications
+    on the OpenAI API for their customers
+  - Work with senior stakeholders to identify high-value GenAI applications and build
+    a qualified backlog for AI roadmaps
+  - Build hands-on prototypes and deliver strategic guidance to accelerate customer
+    time to value
+  - Forge and manage relationships with SI and customer stakeholders to ensure successful
+    deployment and scale of applications
+  - Codify solution packages and architectural patterns to accelerate deployment for
+    customers and partners
+  - Lead technical support during partners' initial projects and mentor their technical
+    teams toward self-sufficiency
+  - Scale the Partner Solutions Architect function by sharing knowledge, codifying
+    best practices, and contributing to open-source repositories
+  - Validate, synthesize, and deliver high-signal feedback to Product and Research
+    teams
+  use_cases:
+  - Customer service automation
+  - Automated content generation
+  - Novel enterprise applications using latest OpenAI models
+  - Industry-specific GenAI solutions for enterprise customers
+  - Enterprise AI adoption strategy and deployment
+  skills:
+    genai: [OpenAI API, Generative AI, RAG, Prompt engineering]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: [Solutions architecture, Technical consulting, Prototyping]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6988464'
+  extracted_at: '2026-04-22T12:28:11.292578'

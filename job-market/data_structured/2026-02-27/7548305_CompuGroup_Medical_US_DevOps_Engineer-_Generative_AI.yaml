@@ -1,0 +1,50 @@
+company:
+  name: CompuGroup Medical US
+  stage: Established
+  focus: |-
+    Digital healthcare solutions, EHR, and revenue cycle
+    management services
+position:
+  title: DevOps Engineer- Generative AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct deployment and management of AI
+      agents and AI systems, requiring hands-on experience with
+      prompt engineering using GPT-4o, Claude 3.5 Sonnet, and
+      Gemini. The position goes beyond infrastructure support by
+      actively leading AI agent deployments and requiring
+      Generative AI development expertise.
+  responsibilities:
+  - Design, deploy, and manage on-premises and cloud environments for QA and production
+  - Lead deployments of AI agents and enterprise applications into scalable infrastructure
+  - Define system requirements and design system and network architectures with documentation
+  - Write, maintain, and debug Python scripts and automation tools for deployment
+    pipelines
+  - Monitor and maintain production API and microservice ecosystems
+  - Participate in risk analysis and develop Risk Management Plans
+  - Collaborate with engineering teams to troubleshoot issues and optimize CI/CD pipelines
+  - Build, enhance, and integrate new services across platforms using Python, .NET,
+    SQL Server, and Angular
+  use_cases:
+  - AI agent deployment for healthcare applications
+  - Electronic Health Records (EHR) systems
+  - Healthcare billing and payment services
+  - Revenue Cycle Management (RCM) automation
+  - Digital healthcare information access and utilization
+  skills:
+    genai: [GPT-4o, Claude 3.5 Sonnet, Gemini, Prompt Engineering, AI Agents]
+    ml: []
+    web: [Angular, REST APIs, Microservices]
+    databases: [SQL Server]
+    data: []
+    cloud: [Cloud Infrastructure]
+    ops: [CI/CD, Docker, Kubernetes, On-premises Infrastructure]
+    languages: [Python, C#, SQL]
+    domains: []
+    other: [Lucidchart, System Architecture Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7548305'
+  extracted_at: '2026-03-03T12:06:04.183006'

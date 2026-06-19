@@ -1,0 +1,52 @@
+company:
+  name: Gartner
+  stage: Public
+  focus: |-
+    Enterprise research, advisory services, and business
+    insights
+position:
+  title: Sr Software Engineer - ML/AI Development - 4to6yrs
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building of AI-powered systems
+      including LLM applications, RAG systems, conversational AI,
+      and model training/fine-tuning. The engineer will directly
+      implement AI/ML models, design MCP servers for AI agents,
+      and deploy ML pipelines - all core AI development work.
+  responsibilities:
+  - Build sophisticated AI-powered systems for intelligent, personalized client experiences
+    at scale
+  - Design and implement Model Context Protocol (MCP) servers for AI agent integration
+    with enterprise systems
+  - Develop user profiling and personalization models to deliver tailored experiences
+  - Support AI/ML application development including model training, inference, and
+    ML/data pipeline deployment
+  - Build and deploy RAG systems and conversational AI solutions
+  - Work with cloud providers AWS and Azure for AI/ML infrastructure
+  - Create POCs of AI/ML technologies and establish best practices for coding standards
+  - Drive algorithm enhancements and optimizations based on business requirements
+  use_cases:
+  - Content and feed personalization for client experiences
+  - Conversational AI systems and chatbots
+  - Search and recommendation systems
+  - User profiling and behavior-based personalization
+  - AI agent orchestration and tool integration
+  - Enterprise AI-powered intelligent systems
+  skills:
+    genai: [LLMs, Generative AI, LangChain, LangGraph, LlamaIndex, RAG, Prompt engineering,
+      AI agents, Model Context Protocol (MCP)]
+    ml: [PyTorch, TensorFlow, Hugging Face, LLM fine-tuning, Natural Language Processing]
+    web: [FastAPI, Flask]
+    databases: [Vector databases, Relational databases]
+    data: []
+    cloud: [AWS, Azure, AWS Bedrock, Azure AI Foundry]
+    ops: []
+    languages: [Python, SQL]
+    domains: [Recommendation systems]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8240775'
+  extracted_at: '2026-03-03T11:13:58.175815'

@@ -1,0 +1,45 @@
+company:
+  name: JetBrains
+  stage: Public
+  focus: Developer tools and IDEs with AI-powered coding assistance
+position:
+  title: QA Engineer (AI Assistant Features)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA Engineer role focused on testing AI Assistant
+      features, not building or training AI/ML models. The role
+      involves functional testing, writing test cases, and
+      reproducing bugs for an AI-powered product. While the
+      candidate should have an interest in ML, the core work is
+      quality assurance and testing of an already-built AI system.
+  responsibilities:
+  - Perform functional, exploratory, and regression testing of AI Assistant features
+  - Design test cases and write specifications for AI-powered features
+  - Reproduce bugs and verify fixes in the AI Assistant plugin
+  - Communicate with the team and internal/external users
+  - Participate in feature discussions and planning for AI Assistant
+  - Work with data, perform online experiments, and measure feature impact on end
+    users
+  use_cases:
+  - AI-powered code completion and code generation
+  - AI-assisted debugging and refactoring
+  - AI-driven general coding assistance via chat
+  - AI-enhanced VCS operations in JetBrains IDEs
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data analysis]
+    cloud: []
+    ops: []
+    languages: [Java, Kotlin]
+    domains: []
+    other: [Functional testing, Exploratory testing, Regression testing, Test case
+        design, Testing methodologies]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9099482'
+  extracted_at: '2026-04-22T14:08:50.042597'

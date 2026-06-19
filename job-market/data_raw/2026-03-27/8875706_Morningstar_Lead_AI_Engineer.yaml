@@ -1,0 +1,111 @@
+job_id: 8875706
+title: Lead AI Engineer
+company: Morningstar
+location: Navi Mumbai, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Ci/Cd
+  - CloudFormation
+  - Docker
+  - Kubernetes
+  - Python
+  - SQL
+  - Terraform
+company_size: 11,500 Employees
+description: |
+  Job Description - Lead AI Engineer About the Role As a Lead
+  AI Engineer, you will be responsible for building and
+  scaling the production systems that bring our AI products to
+  life. You will lead the design and implementation of AI-
+  powered services that enable investors worldwide to assess
+  the Environmental, Social, and Governance (ESG) performance
+  of companies. Your focus will be on production-grade AI
+  engineering: model and LLM inference services,
+  orchestration, retrieval pipelines, scalable APIs, and
+  robust data workflows. Responsibilities
+  
+  - Lead the development and scaling of inference endpoints and
+    APIs for classic ML models and LLMs.
+  - Own end-to-end delivery of AI services from prototype to
+    production: design, build, deploy, and operate.
+  - Develop and maintain CI/CD pipelines; automate deployments
+    on AWS (e.g., Bedrock, Lambda, EKS, S3, etc.).
+  - Design and maintain data pipelines, queues, and event-driven
+    workflows to support AI products.
+  - Integrate vector databases, retrieval pipelines, and RAG
+    patterns into production-grade systems.
+  - Build and maintain orchestration layers and microservices in
+    Python; contribute to platform services.
+  - Establish and maintain monitoring, observability, alerting,
+    and cost-aware operations for AI services.
+  - Implement strong engineering practices: testing strategies,
+    documentation, runbooks, and reliability standards.
+  - Collaborate with AI researchers and product engineering
+    teams to productize prototypes and deliver measurable
+    outcomes.
+  - Mentor and guide engineers; drive code quality, design
+    reviews, and operational excellence.
+  
+  Qualifications
+  
+  - Strong programming skills in Python (APIs, services,
+    pipelines).
+  - 7+ years of experience in AI engineering, MLOps, backend
+    engineering, or related roles, with significant production
+    ownership.
+  - Hands-on experience deploying and operating LLMs in
+    production, with awareness of evaluation, limitations, and
+    cost implications.
+  - Solid knowledge of AWS services (Bedrock, Lambda, EKS, S3,
+    etc.).
+  - Experience with CI/CD, containerization (Docker/Kubernetes),
+    and infrastructure automation.
+  - Understanding of microservices architectures, queues/events,
+    and scalable system design.
+  - Working knowledge of ML concepts (precision/recall,
+    latency/throughput trade-offs, inference performance).
+  - Experience with SQL databases (e.g., PostgreSQL).
+  - Strong communication skills, a product-first mindset, and
+    the ability to translate ambiguity into execution.
+  
+  Nice to Have
+  
+  - Experience with JavaScript/TypeScript.
+  - Experience with Harness.
+  - Familiarity with monitoring/observability tools (CloudWatch,
+    Prometheus, Grafana).
+  - Infrastructure-as-code experience (Terraform,
+    CloudFormation).
+  - Experience with web crawlers or large-scale data ingestion.
+  
+  Equal Opportunity & Work Environment Morningstar is an equal
+  opportunity employer. Morningstar's hybrid work environment
+  gives you the opportunity to collaborate in-person each week
+  as we've found that we're at our best when we're purposely
+  together on a regular basis. In most of our locations, our
+  hybrid work model is four days in-office each week. A range
+  of other benefits are also available to enhance flexibility
+  as needs change. No matter where you are, you'll have tools
+  and resources to engage meaningfully with your global
+  colleagues. Morningstar's hybrid work environment gives you
+  the opportunity to collaborate in-person each week as we've
+  found that we're at our best when we're purposely together
+  on a regular basis. In most of our locations, our hybrid
+  work model is four days in-office each week. A range of
+  other benefits are also available to enhance flexibility as
+  needs change. No matter where you are, you'll have tools and
+  resources to engage meaningfully with your global
+  colleagues. I10_MstarIndiaPvtLtd Morningstar India Private
+  Ltd. (Delhi) Legal Entity
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Enterprise Web
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-03-26
+url: "https://builtin.com/job/lead-ai-engineer/8875706"
+source: Built In

@@ -1,0 +1,53 @@
+company:
+  name: Trimble
+  stage: Public
+  focus: Geospatial and positioning technology solutions
+position:
+  title: Staff software Engineer -  Snowflake/AI Automation Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is ai-support because it focuses on building data
+      pipelines and infrastructure on Snowflake to support AI
+      initiatives, rather than building or deploying AI/ML models
+      directly. The engineer prepares datasets and enables AI/ML
+      analytics but does not work hands-on with model development,
+      training, or deployment.
+  responsibilities:
+  - Design, build, and optimize Snowflake-based data models and pipelines to support
+    Revenue AI and automation use cases
+  - Develop scalable solutions to automate revenue recognition, forecasting, analytics,
+    and reporting
+  - Integrate Snowflake with ERP systems like Salesforce and Oracle to enable end-to-end
+    Quote-to-Revenue workflows
+  - Support AI/ML-enabled analytics by preparing high-quality, governed datasets for
+    advanced modeling and automation
+  - Collaborate with Finance, Revenue Accounting, IT, and Data Science teams to translate
+    business requirements into technical solutions
+  - Ensure data accuracy, reconciliation, and compliance with SOX and audit requirements
+  - Optimize Snowflake performance, cost management, and security best practices
+  - Contribute to documentation, controls, and operational runbooks for enterprise
+    data platforms
+  use_cases:
+  - Revenue recognition automation
+  - Financial forecasting and analytics
+  - Quote-to-Revenue workflow automation
+  - ERP data integration and reconciliation
+  - Compliance and audit-ready revenue processes
+  skills:
+    genai: [Cortex Analyst]
+    ml: []
+    web: []
+    databases: [Snowflake, Snowflake Intelligence]
+    data: [ETL/ELT, dbt, Airflow]
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD]
+    languages: [SQL, Python]
+    domains: []
+    other: [Oracle EBS, Oracle Cloud ERP, SAP, NetSuite, RevPro, Data governance,
+      Salesforce]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8582723'
+  extracted_at: '2026-03-03T11:47:51.446684'

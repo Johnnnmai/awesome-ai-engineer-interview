@@ -1,0 +1,147 @@
+job_id: 8386521
+title: "Front End Engineer – AI & LLM Powered Data Platforms"
+company: Modo Energy
+location: London, GBR
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Ci/Cd
+  - Cypress
+  - Docker
+  - Git
+  - Jest
+  - Material Ui
+  - Next.Js
+  - Playwright
+  - React
+  - Typescript
+company_size: 40 Employees
+description: |
+  About Modo Energy
+  
+  The energy transition is the biggest infrastructure buildout
+  in human history. Modo Energy is the data platform at the
+  centre of it.
+  
+  We build the benchmarking, forecasting, and valuation tools
+  that the world's most serious energy investors, developers,
+  and operators depend on to make decisions. If a battery gets
+  financed, built, or traded anywhere in the world, there's a
+  good chance Modo data was in the room.
+  
+  Founded in 2019, we're 75+ people across London, New York,
+  Sydney, and Madrid; $30M Series B, AI-native, and moving
+  fast.
+  
+  This is a rare chance to join a category-defining company at
+  the moment it's scaling globally.
+  
+  The Role
+  
+  We're hiring a Frontend Engineer to lead the architectural
+  evolution of our UI. You'll define the design patterns,
+  component abstractions, and typing contracts that allow the
+  wider engineering team to ship features quickly without
+  compromising the architecture.
+  
+  Our frontend is where massive datasets, predictive models,
+  and AI systems become usable - fast, data-heavy interfaces
+  that let users explore energy markets, interrogate datasets,
+  and interact with complex forecasting models in real time.
+  The stack is TypeScript, React, and Next.js in a modern
+  monorepo architecture built for rapid, AI-assisted
+  development.
+  
+  What You'll Do
+  
+  - Lead the technical direction for our frontend monorepo -
+    state management, routing, and module boundaries within
+    Next.js and TypeScript
+  - Design and develop our internal UI component library (built
+    on MUI) - reusable, strictly typed abstractions that serve
+    as building blocks for the engineering team and AI agents
+  - Build and improve high-performance, low-latency interfaces -
+    profiling performance, minimising re-renders, and keeping
+    the platform responsive under heavy data loads
+  - Set the architectural patterns and coding standards that
+    govern development, including oversight of high-volume AI-
+    assisted contributions
+  - Act as the primary technical authority for frontend -
+    guiding the team on UI best practices and effective use of
+    AI coding tools
+  
+  What We're Looking For
+  
+  The Essentials
+  
+  - 3+ years of professional frontend development experience
+  - Strong proficiency in TypeScript, React, and modern
+    JavaScript
+  - Hands-on experience with Next.js
+  - Experience with Material UI (MUI) or a comparable component
+    library
+  - Strong eye for UI/UX - you can bridge the gap between design
+    and engineering and build polished, production-quality
+    interfaces
+  - Solid understanding of testing principles with frameworks
+    such as Jest, Cypress, or Playwright
+  - Proficient with Git, Docker, and CI/CD workflows
+  - Familiarity with monorepo structures and tools (Turborepo,
+    Yarn Workspaces, or similar)
+  
+  Nice To Have
+  
+  - Familiarity with Python and/or energy forecasting models
+  - Experience in energy markets or data-heavy analytical
+    products
+  - Startup or scale-up background
+  
+  Compensation, Legal, & Equal Opportunity
+  
+  - Benefits: Salary sacrifice pension with 3% employer
+    contribution; 25 days annual leave (excluding bank
+    holidays), plus 5 flexible days to be taken on a Monday or
+    a Friday; top-tier private healthcare and dental coverage.
+  - Compensation: £70k - £90k per year
+  - The salary range listed reflects industry benchmarks for
+    this role. Modo Energy's policy is to pay top of personal
+    market - if you're exceptional, we'll make it work.
+  - Modo Energy is an equal opportunity employer. Employment
+    decisions are made on the basis of qualifications, merit,
+    and business need. We do not discriminate on the basis of
+    age, national origin, physical or mental disability, race,
+    religion, pregnancy, sexual orientation, gender identity,
+    veteran status, or any other characteristic protected
+    under applicable UK law, including the Equality Act 2010.
+  
+  If you require assistance or a reasonable accommodation
+  during the application or interview process, please contact
+  us at careers@modoenergy.com
+  
+  What You Can Expect From Us
+  
+  At Modo Energy, we believe that exceptional work deserves
+  exceptional reward. We're a high-performance team;
+  ambitious, collaborative, and genuinely motivated by the
+  scale of what we're trying to build.
+  
+  You'll have real ownership from day one, work alongside some
+  of the brightest people in the industry, and be part of a
+  company that's defining a new category in the global energy
+  market. We're hybrid: everyone works Tuesday to Thursday in
+  office, with Monday and Friday flexible. We offer top-of-
+  market compensation, equity for every employee, and the
+  space to take your career wherever you want it to go.
+  
+  We're looking for people who want to do the best work of
+  their careers. If that's you, we want to talk.
+industries:
+  - Fintech
+  - Information Technology
+  - Payments
+  - Consulting
+  - Energy
+  - Financial Services
+posted_date: 2026-03-26
+url: "https://builtin.com/job/front-end-engineer/8386521"
+source: Built In

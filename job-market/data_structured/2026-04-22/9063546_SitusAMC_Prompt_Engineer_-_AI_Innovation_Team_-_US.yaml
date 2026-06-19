@@ -1,0 +1,49 @@
+company:
+  name: SitusAMC
+  stage: Established
+  focus: Commercial real estate services and technology solutions
+position:
+  title: Prompt Engineer - AI Innovation Team - US
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI agents, crafting
+      prompts, and overseeing the design of advanced agents for
+      the commercial real estate division. The prompt engineer is
+      hands-on with AI model development, testing, and deployment,
+      making this an ai-first role focused on GenAI/LLM systems.
+  responsibilities:
+  - Develop AI agents and sophisticated prompts to drive AI-driven solutions in commercial
+    real estate
+  - Integrate AI solutions with existing internal and third-party systems
+  - Ensure AI models are scalable, reliable, compliant, and address ethical AI concerns
+    and industry regulations
+  - Participate in Quality Assurance, volume testing, and bias testing of AI agents
+    including creating test plans
+  - Collaborate with delivery teams to enhance product offerings and streamline workflows
+    through AI-powered insights
+  - Support business personnel tasked with advancing AI initiatives
+  - Translate complex business needs into actionable AI use cases
+  - Ensure AI development follows SitusAMC standard processes and procedures
+  use_cases:
+  - Operational efficiency enhancement in commercial real estate
+  - Customer engagement optimization through AI agents
+  - Digital transformation of the commercial real estate division
+  - AI-powered decision-making and workflow streamlining
+  - Bias detection and ethical integrity validation of AI models
+  skills:
+    genai: [prompt engineering, AI agents]
+    ml: [bias testing]
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Quality Assurance testing]
+    languages: [Python, SQL]
+    domains: []
+    other: [Agile methodologies, analytical skills]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9063546'
+  extracted_at: '2026-04-22T12:40:52.490022'

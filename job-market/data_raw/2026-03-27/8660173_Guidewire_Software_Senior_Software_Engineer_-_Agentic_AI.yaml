@@ -1,0 +1,148 @@
+job_id: 8660173
+title: Senior Software Engineer - Agentic AI
+company: Guidewire Software
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Asyncio
+  - AWS
+  - Azure
+  - Docker
+  - Elasticsearch
+  - GCP
+  - Kubernetes
+  - Langchain
+  - Langgraph
+  - Llm Apis
+company_size: 3,400 Employees
+description: |
+  Summary
+  
+  Join Guidewire as a Senior Software Engineer, Guidewire Data
+  Platform and be part of the team building our next-
+  generation AI platform. This platform provides the analytics
+  ready dataset essential that power modern, intelligent
+  insurance applications.  You will design and scale multi-
+  agent and RAG-based systems that power production features
+  across our Data Platform & Products. As part of Guidewire
+  Data Platform, you’ll help build the AI and data foundation
+  that enables these outcomes, working on high-impact
+  initiatives spanning Agentic AI, GraphRAG, and advanced
+  analytics that power next-generation insurance workflows. We
+  are looking for a Senior Software Engineer, to design,
+  implement, and scale multi-agent AI systems and advanced RAG
+  architectures that power production features across
+  Guidewire’s Data Platform products. You will own critical
+  services end-to-end—from architecture and experimentation
+  through deployment, observability, and continuous
+  optimization in cloud-native environments.
+  
+  Job Description
+  
+  What You Will Do
+  
+  - Design, implement, and operate multi-agent systems using
+    frameworks such as LangGraph, LangChain, or similar, to
+    solve complex, non-linear business workflows
+  - Implement advanced reasoning patterns (Chain-of-Thought,
+    ReAct, Plan-and-Execute, tool-use) so agents can decompose
+    high-level goals into executable plans and coordinate
+    safely with tools, services, and data sources.
+  - Build robust agentic loops using Python AsyncIO, including
+    concurrency control, timeout handling, and graceful
+    degradation strategies for long-running or multi-step
+    tasks.
+  
+  - Architect and optimize end-to-end RAG pipelines, including
+    document ingestion, chunking strategies tuned to insurance
+    documents, hybrid search (semantic + keyword), and
+    retrieval-time re-ranking.
+  - Implement query expansion, result fusion, and
+    personalization strategies to maximize answer accuracy and
+    reliability for production use cases.
+  
+  - Use the Model Context Protocol (MCP) or similar standards to
+    define and implement connectors between agents and
+    Guidewire’s data sources, APIs, knowledge bases, and
+    external tools.
+  
+  - Optimize for token usage, latency, and throughput while
+    preserving reasoning quality, applying strategies such as
+    caching, retrieval pre-filtering, dynamic model routing,
+    and hierarchical prompting.
+  
+  - Uphold and model Guidewire’s culture of determination,
+    collaboration, continuous improvement, and bravery in how
+    you design, build, and ship AI systems.
+  
+  What We’re Looking For
+  
+  - Strong software engineering background (typically 8+ years)
+    with production experience in building distributed
+    systems, APIs, or data-intensive applications.
+  - Expert-level Python skills, including AsyncIO for concurrent
+    and high-throughput workflows, plus familiarity with
+    TypeScript/Node.js for building modern AI middleware and
+    integration services.
+  - Hands-on experience with at least one major AI orchestration
+    framework (e.g., LangChain, LangGraph, LlamaIndex,
+    AutoGen, CrewAI) and building multi-step or tool-using
+    agents in production.
+  - Proven experience designing and operating RAG pipelines:
+    vector stores, embeddings, chunking strategies, hybrid
+    search (semantic + lexical), and re-ranking or scoring
+    strategies.
+  - Experience with at least one vector database or search
+    engine (e.g., OpenSearch, Elasticsearch, Pinecone,
+    Weaviate, PGVector, or similar) and one relational or
+    NoSQL database.
+  - Production experience integrating with one or more LLM APIs
+    (OpenAI, Anthropic, Gemini) and working with open-source
+    models (Llama 3+, Mistral, etc.), including evaluation and
+    prompt engineering.
+  - Solid understanding of cloud-native development (Docker,
+    Kubernetes) and at least one major cloud platform (AWS,
+    Azure, or GCP), ideally including AI-specific services
+    (e.g., Bedrock).
+  
+  About Guidewire
+  
+  Guidewire is the platform P&C insurers trust to engage,
+  innovate, and grow efficiently. We combine digital, core,
+  analytics, and AI to deliver our platform as a cloud
+  service. More than 540+ insurers in 40 countries, from new
+  ventures to the largest and most complex in the world, run
+  on Guidewire.
+  
+  As a partner to our customers, we continually evolve to
+  enable their success. We are proud of our unparalleled
+  implementation track record with 1600+ successful projects,
+  supported by the largest R&D team and partner ecosystem in
+  the industry. Our Marketplace provides hundreds of
+  applications that accelerate integration, localization, and
+  innovation.
+  
+  For more information, please visit www.guidewire.com and
+  follow us on Twitter: @Guidewire_PandC.
+  
+  Guidewire Software, Inc. is proud to be an equal opportunity
+  and affirmative action employer. We are committed to an
+  inclusive workplace, and believe that a diversity of
+  perspectives, abilities, and cultures is a key to our
+  success. Qualified applicants will receive consideration
+  without regard to race, color, ancestry, religion, sex,
+  national origin, citizenship, marital status, age, sexual
+  orientation, gender identity, gender expression, veteran
+  status, or disability. All offers are contingent upon
+  passing a criminal history and other background checks where
+  it's applicable to the position.
+industries:
+  - Cloud
+  - Information Technology
+  - Insurance
+  - Software
+  - Analytics
+posted_date: 2026-03-05
+url: "https://builtin.com/job/senior-software-engineer-agentic-ai/8660173"
+source: Built In

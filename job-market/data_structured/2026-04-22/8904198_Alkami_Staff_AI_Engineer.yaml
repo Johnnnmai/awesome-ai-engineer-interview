@@ -1,0 +1,61 @@
+company:
+  name: Alkami
+  stage: Public
+  focus: |-
+    Digital banking SaaS platform for U.S. banks and credit
+    unions
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, designing, and deploying
+      agentic workflows, multi-agent systems, AI-powered code
+      generation frameworks, and agent-based orchestration
+      pipelines using tools like MCP, A2A protocols, and agentic
+      platforms. The engineer is hands-on implementing AI/LLM-
+      based systems (agents, automation pipelines, AI-assisted
+      development tools), which constitutes working directly ON AI
+      systems.
+  responsibilities:
+  - Drive adoption of AI-assisted software development practices across the SDLC
+  - Implement context-driven AI code generation using tools such as GitHub Copilot,
+    Claude Code, and enterprise code assistants
+  - Architect and implement agentic workflows to automate bug detection, code quality
+    validation, test generation, and release readiness
+  - Build agent-based orchestration pipelines using tools such as n8n, OpenClaw, and
+    emerging agent orchestration platforms
+  - Implement engineering automation using multi-agent systems, A2A protocols, and
+    Model Context Protocol (MCP)
+  - Design and deploy AI-powered development lifecycle solutions including AI-assisted
+    code reviews, automated testing, and AI-driven root cause analysis
+  - Lead initiatives to modernize legacy applications using AI-assisted refactoring
+    and migration
+  - Apply AI models to codebase understanding, architecture reconstruction, and automated
+    migration strategies
+  use_cases:
+  - AI-assisted software development and code generation across the SDLC
+  - Agentic automation of engineering processes (bug detection, testing, CI/CD)
+  - AI-powered legacy application modernization and refactoring
+  - Intelligent code review and quality engineering
+  - AI-driven root cause analysis and operational anomaly detection
+  - Automated documentation synthesis and refactoring
+  skills:
+    genai: [GitHub Copilot, Claude Code, Model Context Protocol (MCP), Agentic workflow
+        orchestration, Multi-agent systems, A2A protocols, Prompt engineering, LLM-based
+        developer tools, n8n, Cursor]
+    ml: []
+    web: [Vue.js, REST API]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Infrastructure as Code (IaC), CI/CD, Docker, Observability platforms, Terraform]
+    languages: [Python, Java, .NET, JavaScript]
+    domains: []
+    other: [Microservices architecture, Distributed systems, Responsible AI, AI ethics
+        and governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8904198'
+  extracted_at: '2026-04-22T13:29:29.919676'

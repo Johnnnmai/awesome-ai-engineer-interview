@@ -1,0 +1,59 @@
+company:
+  name: Tether.io
+  stage: Established (stablecoin market leader)
+  focus: |-
+    Digital finance, stablecoins (USDT), Bitcoin mining, and
+    AI/peer-to-peer technology
+position:
+  title: AI & Optimization Engineer (100% Remote)
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on building and deploying traditional
+      ML/AI models (anomaly detection, predictive maintenance,
+      time-series analysis) and mathematical optimization for
+      Bitcoin mining operations. There is no mention of LLMs,
+      GenAI, agents, or RAG — the focus is squarely on classical
+      ML, optimization, and data-driven operational efficiency for
+      industrial/IoT systems.
+  responsibilities:
+  - Define and lead the AI strategy for MOS and MDK platforms focused on operational
+    efficiency and measurable business outcomes
+  - Design standardized data baselines and schemas for mining-site telemetry and events
+    to support AI/ML use cases
+  - Build and deploy ML/AI and optimization models for performance optimization, anomaly
+    detection, predictive maintenance, and energy-efficiency insights
+  - Collaborate with MOS and MDK engineering teams to embed AI models into platform
+    workflows and APIs
+  - Continuously evaluate and improve model performance in production, handling model
+    drift and evolving conditions
+  - Collaborate with site-operations teams to validate results and align with leadership
+    on AI roadmap and KPIs
+  - Promote a data-driven, efficiency-first culture within the Mining Software team
+  - Document systems, architecture, and modelling assumptions clearly
+  use_cases:
+  - Predictive failure and maintenance for Bitcoin mining hardware
+  - Anomaly detection in mining-site telemetry and sensor data
+  - Energy-efficiency optimization for Bitcoin mining operations
+  - Performance optimization of mining equipment and operations
+  - Operational automation recommendations for mining sites
+  - Signal processing and feature extraction from electrical, thermal, and vibration
+    sensor data
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, Scikit-Learn, Time-series modeling, Anomaly detection,
+      Predictive modeling, Optimization (linear/non-linear programming), Signal processing,
+      Feature engineering, Classification models]
+    web: [Node.js, REST APIs]
+    databases: []
+    data: [Data modeling and schema design, ETL / data pipelines]
+    cloud: []
+    ops: [Docker, Model deployment and monitoring]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9052620'
+  extracted_at: '2026-04-22T12:44:28.609378'

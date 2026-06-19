@@ -1,0 +1,54 @@
+company:
+  name: Edwards Lifesciences
+  stage: Public
+  focus: |-
+    Medical devices and technologies for cardiovascular patient
+    care
+position:
+  title: Senior Engineer, AI & Machine Learning
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves developing and implementing AI/ML models,
+      building RAG workflows, working with Agent Studio and
+      copilots, and deploying ML models in production. The
+      engineer will work directly on building, implementing, and
+      optimizing AI/ML systems including GenAI capabilities like
+      RAG and agents within Palantir AIP.
+  responsibilities:
+  - Develop and implement end-to-end AI/ML models and workflows within the Palantir
+    Foundry and AIP environment
+  - Leverage Palantir AIP features including Agent Studio, RAG workflows, and copilots
+    to ground models in relevant data sources
+  - Design, implement, and optimize advanced machine learning algorithms to solve
+    complex business problems
+  - Lead the development and deployment of scalable and efficient ML models in production
+    environments
+  - Build end-to-end data pipelines for collecting, processing, and analyzing large-scale
+    datasets
+  - Collaborate with cross-functional teams including data scientists, software engineers,
+    and product managers to deliver ML solutions
+  - Conduct research on open-source tools and ML techniques relevant to the medical
+    domain
+  - Mentor junior engineers and contribute to team processes and best practices
+  use_cases:
+  - Proactive care and smart recovery for cardiovascular disease patients
+  - Connected solutions for patient monitoring and care improvement
+  - Medical domain AI applications for clinical decision support
+  - Desktop, web and mobile software powered by AI engines for healthcare
+  skills:
+    genai: [Palantir AIP, Agent Studio, RAG]
+    ml: [TensorFlow, PyTorch, Scikit-learn, Keras, CNNs, RNNs, GANs]
+    web: []
+    databases: []
+    data: [Hadoop, Spark, Apache Kafka, Airflow]
+    cloud: [Palantir Foundry, AWS]
+    ops: [Git, MLflow, Kubeflow, Docker, Kubernetes]
+    languages: [Python, Java, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7997810'
+  extracted_at: '2026-03-03T11:42:08.990707'

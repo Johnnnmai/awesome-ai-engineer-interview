@@ -1,0 +1,183 @@
+job_id: 8883724
+title: Full Stack AI Engineer
+company: Create Music Group
+location: Los Angeles, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Deepeval
+  - Docker
+  - Fastapi
+  - GCP
+  - Kubernetes
+  - Langchain
+  - Langgraph
+  - Mcp
+  - Next.Js
+description: |
+  Established in 2015, Create Music Group is a leading music
+  and entertainment company. The company operates as a record
+  label, distribution company, and entertainment network which
+  generates over 15 billion music streams each month on DSP’s.
+  Named #2 on the Inc 5000 Fastest Growth Companies in America
+  in 2020, the company has grown exponentially by leveraging
+  its owned IP with its media and technology platform. The
+  company works with superstar artists, major and independent
+  record labels, and global media brands. It operates a number
+  of companies including Label Engine, one of the largest
+  independent music distribution platforms in the world, with
+  over 75,000 artists and 5,000 label clients; and
+  Flighthouse, a digital entertainment brand focused on Gen Z,
+  which has more than 300 million followers across social
+  media. Create Music Group is based in Hollywood, CA and has
+  400 employees worldwide.
+  
+  Job Summary
+  
+  We are building CreateOS — a next-generation operating
+  system for modern record labels — and AI is at the center of
+  it. As a Full Stack AI Engineer, you will own the end-to-end
+  design and delivery of AI-powered features that make
+  CreateOS intelligent. This means building the agentic
+  workflows, APIs, and interfaces through which users interact
+  with AI copilots, predictive tools, and automated pipelines
+  — from first concept to production deployment.
+  
+  This is a high-ownership role for someone who thinks in full
+  systems. You won't hand work off at the API boundary —
+  you'll own the experience from the data layer to the UI. You
+  will work directly with the VP of AI & ML Engineering and
+  sit at the intersection of product, engineering, and applied
+  AI. Your immediate impact will be on three of CMG's highest-
+  priority AI initiatives: M&A catalog valuation tooling, AI-
+  driven A&R discovery surfaces, and marketing automation
+  agents — each directly tied to revenue growth and
+  competitive differentiation.
+  
+  You'll work in close collaboration with the ML Engineer, who
+  owns the intelligence layer (models, features, evaluation).
+  You own the application and orchestration layer that brings
+  that intelligence to users.
+  
+  Responsibilities
+  
+  Agentic AI & LLM Systems (Primary Ownership)
+  
+  - Design, build, and maintain modular AI agents that automate
+    multi-step workflows across CreateOS (contracts,
+    accounting, distribution, metadata)
+  - Own RAG pipelines, retrieval architectures, and semantic
+    search systems grounded in CreateOS's structured business
+    data (contracts, royalty statements, catalog metadata,
+    etc.)
+  - Implement guardrails, evaluation frameworks, and human-in-
+    the-loop controls for agentic systems
+  - Integrate LLMs (OpenAI, Anthropic, or open-source models)
+    into user-facing features across CreateOS modules
+  
+  Full Stack Development
+  
+  - Design, build, and maintain scalable, production-grade
+    applications across the frontend and backend
+  - Build intuitive, AI-native user experiences including chat
+    interfaces, copilot-style tools, and workflow automation
+    surfaces within CreateOS
+  - Own features end-to-end — from data modeling and API design
+    to UI implementation and deployment
+  
+  Platform & Infrastructure
+  
+  - Deploy and maintain services using containerization and
+    cloud platforms
+  - Ensure AI-powered features are reliable, observable, and
+    performant in production
+  - Collaborate with the ML Engineer to integrate model outputs
+    and feature pipelines cleanly into product surfaces
+  - Maintain high code quality standards through unit and
+    integration testing, code reviews, and CI/CD pipeline
+    ownership
+  - Partner with Data Engineering (who owns pipeline
+    infrastructure) to consume and integrate internal data
+    pipelines (dbt, Airflow), third-party API feeds (DSPs,
+    distributors), webhook and event-driven data flows, and
+    ETL outputs into CreateOS product surfaces
+  
+  Iteration & Product Thinking
+  
+  - Rapidly prototype and evaluate new AI-powered features based
+    on internal user feedback
+  - Contribute to technical architecture decisions with a bias
+    toward shipping and learning
+  - Communicate tradeoffs clearly across engineering, product,
+    and business stakeholders
+  - Other duties as assigned
+  
+  Qualifications
+  
+  - 5+ years of software engineering experience with a track
+    record of shipping production applications
+  - Hands-on experience building and owning agentic or multi-
+    step AI workflows in production
+  - Strong proficiency in a modern frontend framework (React,
+    Next.js) and a backend language (Python or Node.js)
+  - Hands-on experience integrating LLMs or AI APIs into user-
+    facing products
+  - Familiarity with RAG systems, vector databases, and
+    embedding-based retrieval
+  - Experience designing and documenting RESTful APIs
+  - Proficiency in relational databases (PostgreSQL or similar);
+    comfortable writing and optimizing SQL queries
+  - Solid understanding of Kubernetes, containerization
+    (Docker), and DevOps practices — including CI/CD
+    pipelines, observability, and deployment workflows
+  - Experience with AI evaluation practices — LLM output quality
+    assessment, hallucination detection, and building eval
+    frameworks for agentic systems
+  - Proficiency with AI-native development tools (Cursor, Claude
+    Code, or similar)
+  - Ability to work independently and own features from concept
+    to deployment
+  
+  Preferred Qualifications
+  
+  - Previous experience at a startup or as an early/founding
+    engineer
+  - Portfolio of personal or professional AI projects — RAG
+    systems, LLM agents, copilot-style tools (GitHub links
+    welcome)
+  - Familiarity with the music industry, rights management, or
+    royalties workflows
+  - Experience with AI-native development tools (Cursor, Claude
+    Code, or similar)
+  - Knowledge of data privacy, compliance, and responsible AI
+    deployment considerations
+  
+  Tech Stack
+  
+  - Frontend: React, Next.js, TypeScript, Tailwind CSS
+  - Backend: Python (FastAPI), Node.js
+  - AI & Agent Frameworks: LangChain, LangGraph, DeepEval, MCP
+  - Vector & Retrieval: Pinecone, Weaviate, or similar
+  - Databases & APIs: PostgreSQL, Snowflake, RESTful API design
+  - Infrastructure: Docker, Kubernetes, GCP or AWS, Supabase
+  - Collaboration & Dev Tools: GitHub, Linear, Cursor / Claude
+    Code
+  
+  Pay Scale
+  
+  - US Remote - $140,000 - $170,000 USD
+  - The final compensation within this range will be determined
+    based on the candidate’s location, experience, skills, and
+    overall fit for the role.
+  
+  Fair Chance Policy
+  
+  In accordance with the Los Angeles County Fair Chance
+  Ordinance, we will consider employment for qualified
+  applicants with criminal histories. We evaluate candidates
+  based on their qualifications and the nature of the offense
+  in relation to the job for which they are applying.
+posted_date: 2026-03-27
+url: "https://www.builtinla.com/job/full-stack-ai-engineer/8883724"
+source: Built In

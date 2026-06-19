@@ -1,0 +1,40 @@
+company:
+  name: Flatiron School
+  stage: null
+  focus: Tech education and bootcamp programs for career switchers
+position:
+  title: AI Engineer Training Program (No Tech Background Needed)
+  ai_type:
+    type: unknown
+    reasoning: |-
+      This is not a traditional job role but rather a paid
+      training program/apprenticeship for career switchers with no
+      tech background. Participants will learn software
+      engineering and AI/data science, but they are not being
+      hired to work ON AI systems - they are students in an
+      educational program.
+  responsibilities:
+  - Complete Flatiron School's Software Engineering and AI & Data Science bootcamp
+    programs
+  - Contribute to real software projects during paid apprenticeship with employer
+    partner
+  - Collaborate in sprint-based workflows and participate in code reviews
+  - Build a portfolio of production-level work
+  - Receive mentorship from experienced engineers and product leaders
+  use_cases: []
+  skills:
+    genai: [AI]
+    ml: []
+    web: []
+    databases: []
+    data: [Data Science]
+    cloud: []
+    ops: [Agile Development]
+    languages: []
+    domains: []
+    other: [Software Engineering]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8856770'
+  extracted_at: '2026-03-27T13:54:07.993451'

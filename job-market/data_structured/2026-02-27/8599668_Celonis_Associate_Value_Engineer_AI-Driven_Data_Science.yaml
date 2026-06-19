@@ -1,0 +1,54 @@
+company:
+  name: Celonis
+  stage: Series B+
+  focus: Process Intelligence and process mining SaaS platform
+position:
+  title: Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves prototyping and developing AI solutions
+      including LLM-based solutions and traditional machine
+      learning for customers. As a Value Engineer, the person
+      actively builds and deploys AI/ML solutions on the Celonis
+      platform to address customer business challenges, which is
+      hands-on AI work rather than support.
+  responsibilities:
+  - Consult with customers using systems analysis to identify core business challenges
+    and determine how Celonis can drive impactful solutions
+  - Prototype and develop AI solutions tailored to customer needs, including both
+    traditional machine learning and LLM-based solutions
+  - Develop and modify Celonis data models using SQL and analyses using PQL to create
+    compelling prototypes
+  - Lead proof-of-concept projects within the Celonis platform to demonstrate tangible
+    value
+  - Present the Celonis AI value proposition and vision to customers and align solutions
+    with their AI strategy
+  - Collaborate with customers and partners to design and build Celonis solutions
+    ensuring positive ROI
+  - Establish trusted advisor relationships with customers through technical expertise
+    and business acumen
+  - Partner with implementation services team to ensure successful value realization
+    for customers
+  use_cases:
+  - Process intelligence and process mining for business optimization
+  - AI-driven business process analysis and improvement
+  - Machine learning solutions for enterprise business challenges
+  - LLM-based solutions for process intelligence applications
+  - Proof-of-concept development for enterprise AI value demonstration
+  skills:
+    genai: [LLM-based solutions]
+    ml: [Machine Learning]
+    web: []
+    databases: [SQL]
+    data: [Data Analytics]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [PQL, Microsoft Power BI, Tableau, SAP, Oracle, Process Mining]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8599668'
+  extracted_at: '2026-03-03T11:47:02.400941'

@@ -1,0 +1,51 @@
+company:
+  name: Hexaware Technologies
+  stage: Public
+  focus: IT services and consulting with AI/ML solutions
+position:
+  title: Gen AI Lead Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing and architecting GenAI
+      solutions including LLM deployments, RAG systems, and
+      multimodal AI applications. The lead developer works hands-
+      on with LLM architectures, transformer models, and
+      generative AI patterns, making this an ai-first role focused
+      on building and deploying AI systems.
+  responsibilities:
+  - Design end-to-end AI/ML architecture including data ingestion, model training,
+    inference, and monitoring systems
+  - Architect scalable GenAI solutions including LLM deployments, RAG systems, and
+    multimodal AI applications
+  - Define technical standards, best practices, and governance frameworks for AI/ML
+    implementations
+  - Lead architectural reviews and provide technical guidance to development teams
+  - Design integration patterns between AI services and existing enterprise systems
+  - Evaluate and recommend AI/ML technologies, platforms, and vendor solutions
+  - Create technical roadmaps aligned with business objectives and AI strategy
+  - Assess technical feasibility of AI use cases and provide effort estimations
+  use_cases:
+  - Enterprise LLM deployments and inference systems
+  - RAG-based retrieval-augmented generation solutions
+  - Multimodal AI applications combining text, image, and other data modalities
+  - Integration of AI services with enterprise systems via microservices and event-driven
+    architecture
+  - Scalable GenAI solution delivery for business clients
+  skills:
+    genai: [LangChain, LangGraph, RAG, Prompt Engineering, Azure AI Foundry, Copilot
+        Studio]
+    ml: [PyTorch, TensorFlow, Hugging Face]
+    web: [Microservices Architecture, API Design, Event-Driven Systems]
+    databases: []
+    data: []
+    cloud: [Azure, Azure ML]
+    ops: [Docker, Kubernetes, MLOps]
+    languages: [Python]
+    domains: []
+    other: [Distributed Systems]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8956865'
+  extracted_at: '2026-04-22T13:34:29.806059'

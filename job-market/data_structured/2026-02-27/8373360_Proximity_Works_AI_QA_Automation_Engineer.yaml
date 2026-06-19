@@ -1,0 +1,52 @@
+company:
+  name: Proximity Works
+  stage: Growing/Scaling
+  focus: |-
+    Global technology consultancy building AI-driven platforms
+    at scale
+position:
+  title: AI QA Automation Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA role focused on testing AI systems rather than
+      building, training, or deploying them. The role builds test
+      frameworks and validates AI outputs (RAG, agents, LLMs) but
+      doesn't involve hands-on model development, fine-tuning, or
+      deployment. It supports AI teams by ensuring quality of
+      their systems.
+  responsibilities:
+  - Build and maintain automation test suites for AI APIs, agentic workflows, and
+    RAG-based systems
+  - Implement LLM evaluation tests covering accuracy, consistency, determinism, and
+    performance characteristics
+  - Collaborate with ML, backend, and full-stack engineering teams to validate releases
+    and ensure production readiness
+  - Contribute to regression, reliability, and performance testing across AI and platform
+    services
+  - Design test strategies for non-deterministic AI behavior including guardrails,
+    fallback paths, and quality thresholds
+  - Continuously improve test coverage, tooling, and automation frameworks for AI-driven
+    systems
+  use_cases:
+  - RAG pipeline validation and testing
+  - AI agent workflow testing
+  - LLM behavior evaluation and quality assurance
+  - API quality testing for AI-powered systems
+  - Non-deterministic AI system validation with guardrails and fallback paths
+  skills:
+    genai: [RAG testing, LLM evaluation frameworks]
+    ml: []
+    web: []
+    databases: [Vector search testing]
+    data: []
+    cloud: []
+    ops: [CI/CD integration, Performance testing, Load testing]
+    languages: [Python, JavaScript]
+    domains: []
+    other: [API testing, Integration testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8373360'
+  extracted_at: '2026-03-03T11:26:21.771946'

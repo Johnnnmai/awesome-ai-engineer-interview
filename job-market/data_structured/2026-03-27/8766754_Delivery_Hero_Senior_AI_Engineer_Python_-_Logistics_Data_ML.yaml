@@ -1,0 +1,48 @@
+company:
+  name: Delivery Hero
+  stage: Public
+  focus: Global local delivery platform for food, grocery and retail
+position:
+  title: Senior AI Engineer, Python - (Logistics, Data & ML)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building LLM-powered agents, RAG
+      pipelines, and production AI applications. The position is
+      hands-on with implementing, deploying, and scaling AI
+      systems including agent platforms, vector databases, and LLM
+      workloads - directly working ON AI systems rather than
+      supporting them.
+  responsibilities:
+  - Build and scale AI agents with reasoning, tool calling, and service integration
+    capabilities
+  - Develop and maintain RAG pipelines using vector databases and semantic retrieval
+    systems
+  - Design and implement evaluation frameworks and safety guardrails for agent behavior
+    and model performance
+  - Implement observability, monitoring, and cost visibility for LLM and agent workloads
+  - Collaborate with data scientists, ML engineers, and platform engineers on AI system
+    integration
+  - Optimize AI systems for performance, reliability, and cost efficiency at scale
+  use_cases:
+  - Last-mile delivery optimization for riders, customers, and merchants
+  - Intelligent automation for delivery operations
+  - Enterprise knowledge access through RAG systems
+  - Grocery and retail delivery expansion
+  - Global delivery platform efficiency across 70+ countries
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, LLM-powered agents, RAG]
+    ml: [Hugging Face, PyTorch]
+    web: []
+    databases: [Vector databases]
+    data: [Kafka]
+    cloud: [AWS, GCP]
+    ops: [Kubernetes, Terraform, MLflow, Kubeflow]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8766754'
+  extracted_at: '2026-03-27T15:26:28.459458'

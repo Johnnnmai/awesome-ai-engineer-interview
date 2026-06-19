@@ -1,0 +1,59 @@
+company:
+  name: dentsu
+  stage: Public
+  focus: |-
+    Global marketing and advertising agency powering customer
+    engagement for brands
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying LLM-based
+      applications, fine-tuning models, implementing agentic
+      frameworks, and working directly with transformer
+      architectures. The engineer will build AI systems including
+      multimodal experiences, intelligent agents, and knowledge-
+      grounded solutions - all core AI development work.
+  responsibilities:
+  - Build conversational and non-conversational, multimodal, and agentic AI applications
+    using LLMs and frameworks such as LangChain, LangGraph, LlamaIndex, and AutoGen
+  - Design AI workflows incorporating reasoning, planning, tool-use, memory, grounding,
+    and external system integrations
+  - Develop Knowledge Graph-assisted AI systems including entity extraction, linking,
+    and KG-augmented retrieval
+  - Transform models into scalable APIs and microservices using Python, FastAPI/Flask,
+    and Docker
+  - Deploy and monitor ML/AI systems in AWS/Azure/GCP, optimizing for cost, latency,
+    and reliability
+  - Build and optimize transformer-based and multimodal models using deep learning
+    frameworks like PyTorch and TensorFlow
+  - Implement fine-tuning, alignment (RLHF/RLAIF), LoRA/QLoRA, pruning, and model
+    evaluation pipelines
+  - Mentor junior engineers and contribute to internal best practices, reusable components,
+    and R&D initiatives
+  use_cases:
+  - Intelligent agents for customer engagement
+  - Multimodal AI experiences for global brands
+  - Personalization systems for marketing
+  - Knowledge-grounded AI solutions
+  - Conversational AI and dialogue systems
+  - Enterprise-grade AI integration
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, AutoGen, LLM fine-tuning, RAG, Prompt
+        engineering, LoRA, QLoRA, RLHF/RLAIF]
+    ml: [PyTorch, TensorFlow, Deep learning, Transformer architecture, Multimodal
+        models]
+    web: [FastAPI, Flask, Django]
+    databases: [MongoDB, Vector search]
+    data: [Apache Spark, Hadoop]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: [Knowledge graphs, Information retrieval]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8498765'
+  extracted_at: '2026-03-03T11:53:16.920190'

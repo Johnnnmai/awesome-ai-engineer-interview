@@ -1,0 +1,53 @@
+company:
+  name: Husch Blackwell
+  stage: Established
+  focus: Full-service litigation and business law firm
+position:
+  title: Legal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work designing, building, and
+      optimizing AI-powered workflows and prompts for legal
+      applications. The engineer directly creates and iterates on
+      AI solutions using legal AI platforms, configuring and
+      deploying AI systems to practice groups. This is hands-on AI
+      work, not infrastructure or support.
+  responsibilities:
+  - Design, develop, and iterate AI workflows tailored to specific practice areas
+    and legal use cases
+  - Partner with attorneys and IT teams to translate legal processes into effective
+    AI-enabled solutions
+  - Document prompt libraries, workflow configurations, and best practices for scalability
+    and knowledge sharing
+  - Serve as a resource to practice groups to identify opportunities for AI-driven
+    improvement
+  - Test AI outputs for accuracy, completeness, and adherence to legal, ethical, and
+    firm standards
+  - Collaborate with training teams to develop resources that help attorneys effectively
+    use AI tools
+  - Track and report project status, adoption metrics, and outcomes to leadership
+  - Support compliance with firm AI governance policies in all implementations
+  use_cases:
+  - Legal document generation and review automation
+  - Practice area-specific AI workflows
+  - Legal research and analysis assistance
+  - Client service enhancement through AI-powered legal delivery
+  - Knowledge management and template alignment
+  skills:
+    genai: [Prompt Engineering, AI Workflow Development, Legora, Harvey, CoCounsel,
+      Microsoft Copilot, Legal AI Platforms]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: [Legal Workflows]
+    other: [NetDocuments]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8498033'
+  extracted_at: '2026-03-03T12:13:38.662631'

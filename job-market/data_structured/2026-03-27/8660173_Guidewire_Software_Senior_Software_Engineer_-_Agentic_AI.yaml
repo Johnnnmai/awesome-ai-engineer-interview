@@ -1,0 +1,56 @@
+company:
+  name: Guidewire Software
+  stage: Public
+  focus: Cloud-based software platform for P&C insurance industry
+position:
+  title: Senior Software Engineer - Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying multi-
+      agent systems and RAG architectures using frameworks like
+      LangGraph, LangChain, and implementing advanced reasoning
+      patterns. The engineer will design, implement, and operate
+      AI systems end-to-end, working hands-on with LLMs, agents,
+      and RAG pipelines in production.
+  responsibilities:
+  - Design, implement, and operate multi-agent systems using frameworks such as LangGraph
+    and LangChain to solve complex business workflows
+  - Implement advanced reasoning patterns including Chain-of-Thought, ReAct, Plan-and-Execute,
+    and tool-use for agent coordination
+  - Build robust agentic loops using Python AsyncIO with concurrency control and graceful
+    degradation strategies
+  - Architect and optimize end-to-end RAG pipelines including document ingestion,
+    chunking, hybrid search, and re-ranking
+  - Implement query expansion, result fusion, and personalization strategies for production
+    use cases
+  - Use Model Context Protocol (MCP) to define and implement connectors between agents
+    and data sources, APIs, and tools
+  - Optimize for token usage, latency, and throughput using caching, retrieval pre-filtering,
+    and dynamic model routing
+  use_cases:
+  - Next-generation insurance workflow automation
+  - Analytics-ready dataset generation for intelligent insurance applications
+  - Complex non-linear business workflow automation for P&C insurers
+  - Document intelligence and search for insurance documents
+  - Production AI features across Guidewire's Data Platform products
+  skills:
+    genai: [LangGraph, LangChain, LlamaIndex, AutoGen, CrewAI, Model Context Protocol
+        (MCP), Chain-of-Thought reasoning, ReAct reasoning, Plan-and-Execute reasoning,
+      Tool-use/function calling, RAG, GraphRAG, Prompt engineering, OpenAI API, Anthropic
+        API, Gemini API, 'Open-source LLMs (Llama, Mistral)', Hybrid search, Re-ranking
+        and scoring]
+    ml: [Embeddings]
+    web: [REST APIs]
+    databases: ['Vector databases (Pinecone, Weaviate, PGVector)', OpenSearch, Elasticsearch]
+    data: []
+    cloud: [AWS, Azure, GCP, AWS Bedrock]
+    ops: [Docker, Kubernetes]
+    languages: [Python, AsyncIO, TypeScript, Node.js]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8660173'
+  extracted_at: '2026-03-27T15:19:15.543861'

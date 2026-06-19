@@ -1,0 +1,50 @@
+company:
+  name: Okta
+  stage: Public
+  focus: Identity and access management security platform
+position:
+  title: IT Automation and AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building agentic AI workflows using
+      LangGraph and Gemini Enterprise, implementing RAG pipelines,
+      orchestrating LLM interactions, and deploying multi-agent
+      systems. The engineer is hands-on with model integration,
+      prompt engineering, and function calling — all core AI/LLM
+      development work.
+  responsibilities:
+  - Build and maintain stateful multi-agent systems using LangGraph to solve complex
+    business tasks
+  - Implement and optimize LLM interactions using Gemini Enterprise with prompt engineering
+    and function calling
+  - Design and manage agent state, persistence, and human-in-the-loop checkpoints
+    for reliable decision-making
+  - Write production-ready Python code to build APIs and services powering the internal
+    AI ecosystem
+  - Develop RAG pipelines to provide agents with accurate, real-time enterprise context
+  - Deploy and manage services on GCP using Docker, Kubernetes, and Terraform
+  - Promote engineering best practices for testing AI logic, security, and CI/CD pipelines
+  use_cases:
+  - Internal AI transformation through agentic workflows for global workforce
+  - Automated enterprise decision-making with stateful multi-agent systems
+  - Retrieval-Augmented Generation for enterprise knowledge access
+  - IT automation and process orchestration for business operations
+  - Secure identity management infrastructure enhanced with AI capabilities
+  skills:
+    genai: [LangGraph, LangChain, Gemini Enterprise, GPT-4, Prompt Engineering, RAG,
+      Function Calling, Multi-Agent Systems]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [GCP]
+    ops: [Docker, Kubernetes, Terraform, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8874570'
+  extracted_at: '2026-04-22T13:42:06.629657'

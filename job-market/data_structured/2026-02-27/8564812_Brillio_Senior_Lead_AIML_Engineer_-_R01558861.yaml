@@ -1,0 +1,55 @@
+company:
+  name: Brillio
+  stage: null
+  focus: Digital transformation and technology consulting services
+position:
+  title: Senior Lead AI/ML Engineer - R01558861
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves implementing and deploying an autonomous
+      AI software engineering platform (Devin.ai), including
+      configuring AI agents, integrating LLM-based coding tools,
+      and defining AI-driven engineering workflows. The consultant
+      will work directly on deploying and optimizing AI systems
+      for enterprise adoption.
+  responsibilities:
+  - Lead configuration and environment setup of Devin.ai autonomous AI platform in
+    enterprise settings
+  - Integrate Devin with developer tools including GitHub, CI/CD pipelines, Jira/ServiceNow,
+    and internal repositories
+  - Configure access controls, role-based permissions, secure networking, and governance
+    frameworks for AI use
+  - Define integration of Devin into SDLC, DevOps, QA, and engineering workflows
+  - Develop templates, SOPs, and best practices for autonomous task execution, code
+    generation, automated testing, and deployment
+  - Conduct enablement sessions, hands-on training, and workshops for engineering
+    teams on AI-driven workflows
+  - Serve as SME for AI-driven engineering workflows and provide recommendations on
+    scaling DevOps and automated development
+  - Support early-stage pilots, use case discovery, and enterprise-scale rollout of
+    AI platform
+  use_cases:
+  - Autonomous AI software engineering and code generation
+  - Automated code review and testing
+  - Enterprise-scale AI copilot deployment and adoption
+  - AI-driven software delivery process optimization
+  - Automated development workflow enablement
+  skills:
+    genai: [Devin.ai, GitHub Copilot, AWS CodeWhisperer, LLM-based coding tools, AI
+        agents]
+    ml: []
+    web: [GitHub]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, Jenkins, GitHub Actions, Azure DevOps, Docker, Kubernetes, Terraform,
+      DevSecOps]
+    languages: [Python, Bash, YAML]
+    domains: []
+    other: [Jira, ServiceNow]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8564812'
+  extracted_at: '2026-03-03T11:29:19.983348'

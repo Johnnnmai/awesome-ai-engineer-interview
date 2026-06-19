@@ -1,0 +1,54 @@
+company:
+  name: Watershed
+  stage: Series B+
+  focus: |-
+    Enterprise sustainability platform for climate and ESG data
+    management
+position:
+  title: Forward Deployed Sustainability Engineer, Sustainability AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI
+      systems — specifically co-developing agent skills, prompts,
+      and workflows, building AI-assisted scripts and prototypes,
+      and working hands-on with LLMs and agent workflows for
+      Watershed's AI products. While customer-facing, the FDSE is
+      actively constructing and iterating on AI agents and
+      workflows, making this ai-first.
+  responsibilities:
+  - Embed directly with product and engineering teams and customers to drive adoption
+    through beta and GA stages
+  - Co-develop agent skills, prompts, and workflows that unlock new sustainability
+    use cases
+  - Build AI-assisted scripts and prototypes that solve novel sustainability problems
+    for customers
+  - Work directly with customers by joining calls, embedding in workflows, and running
+    experiments
+  - Close the feedback loop between customers and product by identifying what works
+    and what to build next
+  - Partner with Customer Org leaders to package use cases and playbooks for scaling
+    across teams
+  use_cases:
+  - Scope 3 decarbonization through Product Footprints using AI agents
+  - Automated sustainability data management and reporting (CSRD, ESG)
+  - Agent-driven workflows for corporate sustainability measurement and action
+  - AI-assisted sustainability problem solving and prototyping
+  - Supply chain emissions tracking and decarbonization planning
+  skills:
+    genai: [LLM agents and workflows, Prompt engineering]
+    ml: []
+    web: []
+    databases: []
+    data: [Data pipelines]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: [Corporate sustainability, Scope 1/2/3 emissions, ESG reporting, Product
+        footprints, Supply chain decarbonization]
+    other: [Excel, Prototyping]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8956210'
+  extracted_at: '2026-04-22T13:43:35.361741'

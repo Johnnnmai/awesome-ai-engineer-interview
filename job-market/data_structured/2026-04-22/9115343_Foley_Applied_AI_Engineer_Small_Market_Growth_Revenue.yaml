@@ -1,0 +1,55 @@
+company:
+  name: Foley
+  stage: Growth stage
+  focus: |-
+    SaaS platform for safety-sensitive hiring, compliance, and
+    risk management
+position:
+  title: Applied AI Engineer, Small Market Growth & Revenue Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI-driven revenue
+      systems using LLMs, agents, RAG, and AI orchestration
+      frameworks (LangChain, LangGraph, CrewAI). The engineer will
+      design and ship production-grade AI systems that automate
+      sales workflows and create intelligent engagement systems,
+      making this a hands-on AI building role.
+  responsibilities:
+  - Build AI-driven revenue systems that capture, qualify, and convert inbound demand
+    into measurable revenue
+  - Design self-service and e-commerce experiences using AI to guide customers from
+    interest to purchase
+  - Automate and augment sales workflows, reducing manual effort and accelerating
+    deal velocity
+  - Develop multi-channel engagement systems across email, SMS, and web that adapt
+    to user behavior in real time
+  - Own measurement and optimization, using data and AI to continuously improve conversion
+    and funnel performance
+  - Partner cross-functionally with Growth, Sales, and RevOps to build scalable, production-ready
+    systems
+  use_cases:
+  - AI-driven lead qualification and conversion automation
+  - Intelligent self-service e-commerce experiences guiding customers from interest
+    to purchase
+  - Multi-channel personalized engagement across email, SMS, and web
+  - Automated sales workflow augmentation to reduce manual effort and accelerate deal
+    velocity
+  - Real-time conversion funnel optimization using AI
+  skills:
+    genai: [LLMs, AI agents, RAG, LangChain, LangGraph, CrewAI]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Telemetry and observability]
+    languages: [Python, SQL]
+    domains: []
+    other: [HubSpot, Salesforce, CRM platforms, Marketing automation, Lead scoring
+        systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9115343'
+  extracted_at: '2026-04-22T13:47:43.148351'

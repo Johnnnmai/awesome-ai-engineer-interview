@@ -1,0 +1,54 @@
+company:
+  name: dentsu
+  stage: Public
+  focus: Global advertising and media conglomerate
+position:
+  title: Associate Director, AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying multi-agent AI
+      systems using LLM orchestration frameworks, implementing
+      RAG, prompt engineering, and agent architectures for client-
+      facing products. The engineer writes production code for AI
+      agents, not just supporting infrastructure for others' AI
+      work.
+  responsibilities:
+  - Design and build multi-agent systems using LLM orchestration frameworks for client-facing
+    AI products
+  - Implement end-to-end AI orchestration use cases ensuring reliability, maintainability,
+    and high-quality delivery
+  - Build agentic wrappers and interfaces around data science models (MMM, forecasting,
+    incrementality) for conversational access
+  - Configure Genie spaces to enable client data exploration and self-service analytics
+  - Develop reusable agent components, prompt templates, and tool-use libraries to
+    accelerate future deployments
+  - Evaluate LLM providers based on capability, cost, and latency and recommend optimal
+    options for each use case
+  - Write production-grade Python with error handling, observability, CI/CD integration,
+    and deployment automation
+  - Collaborate with offshore engineering team on architecture direction, design patterns,
+    and coding standards
+  use_cases:
+  - Conversational AI interfaces for marketing mix modeling and forecasting models
+  - Automated client-facing workflows powered by multi-agent systems
+  - Client data exploration and self-service analytics via Genie spaces
+  - Agentic access to marketing intelligence data and incrementality analysis
+  - Reusable AI agent deployments for advertising and media clients
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, CrewAI, RAG, Prompt Engineering, Function
+        Calling, Agent Orchestration, Embeddings]
+    ml: []
+    web: [API Architecture]
+    databases: [Vector Databases]
+    data: [Databricks, Databricks Genie]
+    cloud: [Azure]
+    ops: [Docker, Kubernetes, CI/CD, MLOps, Model Serving]
+    languages: [Python]
+    domains: []
+    other: [Distributed Systems]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8966361'
+  extracted_at: '2026-04-22T13:35:26.356634'

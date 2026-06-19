@@ -1,0 +1,50 @@
+company:
+  name: Hiya Inc.
+  stage: Growth (40%+ YoY, established partnerships with major carriers)
+  focus: |-
+    AI-powered voice security and spam/call protection for
+    consumers and businesses
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work directly with AI systems
+      including fine-tuning LLMs, prompt engineering, building
+      multi-agent systems, and implementing AI orchestration. The
+      engineer will develop and deploy AI solutions into
+      production products, not just support infrastructure for
+      others.
+  responsibilities:
+  - Integrate AI solutions into existing products and workflows
+  - Conduct model evaluations, prompt engineering, and fine-tuning of large language
+    models (LLMs)
+  - Implement and manage AI orchestration including agent-based systems
+  - Collaborate with cross-functional teams to translate business requirements into
+    technical solutions
+  - Design and implement AI-powered applications and interfaces
+  - Shape technical direction and best practices for LLM application development
+  - Stay at the forefront of AI research and incorporate state-of-the-art techniques
+  use_cases:
+  - Voice call security and spam protection
+  - AI voice analysis for threat detection
+  - Multi-agent systems for voice intelligence
+  - LLM-powered voice applications
+  - Call authentication and trust verification
+  skills:
+    genai: [Prompt engineering, LangChain, AutoGen, AI orchestration, Agent-based
+        systems, RAG, Foundation model APIs, n8n]
+    ml: [LLM fine-tuning, Model evaluation, Open source models, ML engineering]
+    web: []
+    databases: []
+    data: [Data science]
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [Kubernetes, Containerization]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8349500'
+  extracted_at: '2026-03-03T11:45:24.192825'

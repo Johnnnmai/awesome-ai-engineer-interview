@@ -1,0 +1,54 @@
+company:
+  name: Cepheid
+  stage: Public (Danaher subsidiary)
+  focus: |-
+    Cloud software and services for BioPharma R&D and
+    manufacturing
+position:
+  title: Principal Test AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on testing and quality assurance of
+      AI/ML systems, not building, training, or deploying models
+      directly. The Principal AI Test Engineer defines testing
+      strategies, validation approaches, and test frameworks for
+      AI products — enabling and assuring the quality of AI
+      systems built by others. This is a quality/testing role that
+      supports AI development rather than hands-on model work.
+  responsibilities:
+  - Define and own the end-to-end testing strategy for AI/ML systems, establishing
+    standards for model quality, robustness, fairness, explainability, and regulatory
+    compliance
+  - Design and lead validation approaches for AI models and data pipelines including
+    bias detection, drift monitoring, adversarial testing, and failure-mode analysis
+  - Architect scalable automated test frameworks for AI systems leveraging MLOps,
+    CI/CD, synthetic data, and observability tooling
+  - Act as subject-matter expert for AI testing, mentoring engineers and partnering
+    with data science, platform, legal, and product teams
+  - Translate complex AI risks and quality metrics into clear insights for senior
+    stakeholders to shape product decisions
+  - Drive continuous improvement of AI quality, reliability, and trustworthiness across
+    the expanding AI product portfolio
+  use_cases:
+  - AI/ML quality assurance for BioPharma scientific informatics software
+  - Bias detection and fairness validation for AI models in regulated (GxP) environments
+  - Drift monitoring and adversarial testing for production AI systems
+  - Automated testing of AI model pipelines and integrations in cloud platforms
+  - Regulatory compliance validation for AI-driven BioPharma decision support tools
+  skills:
+    genai: []
+    ml: [AI/ML testing, Bias detection, Drift monitoring, Adversarial testing]
+    web: []
+    databases: []
+    data: [Synthetic data]
+    cloud: [Cloud platforms]
+    ops: [MLOps, CI/CD, Test automation frameworks, Observability tooling]
+    languages: [Python]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9073225'
+  extracted_at: '2026-04-22T12:41:52.531924'

@@ -1,0 +1,56 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Trusted content and technology for legal, tax, accounting,
+    and media professionals
+position:
+  title: Automation and AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building agentic AI workflows
+      using LangGraph and AWS AgentCore, implementing custom RAG
+      pipelines, and deploying them to production. The developer
+      works hands-on with LLMs, vector databases, and agentic
+      orchestration frameworks — clearly building and deploying AI
+      systems.
+  responsibilities:
+  - Implement LangGraph agentic workflows on AWS AgentCore including state graphs,
+    tool orchestration, conditional routing, and error recovery
+  - Build end-to-end custom RAG pipelines covering chunking strategy, embeddings,
+    vector retrieval, and accuracy evaluation
+  - Write production-grade Python code with FastAPI, Pydantic, testing, and proper
+    error handling
+  - Build Low Code automations using Microsoft Copilot Studio and Power Automate when
+    appropriate
+  - Own assigned components in production including monitoring, debugging, and optimizing
+    agent failures such as context issues, tool errors, hallucination, and retrieval
+    degradation
+  - Collaborate with the Lead on architecture translation and implementation planning
+  - Mentor Associate Developers through code reviews and pair programming
+  - Contribute to rapid POC delivery alongside the Architect and Lead
+  use_cases:
+  - Agentic workflow automation for enterprise business processes
+  - Custom RAG-based knowledge retrieval and question answering systems
+  - NL-to-SQL query and insight generation patterns
+  - Low code automation for enterprise workflows via Copilot Studio and Power Automate
+  - Multi-model LLM orchestration across OpenAI, Claude, Gemini, and Llama providers
+  skills:
+    genai: [LangGraph, LangChain, AWS AgentCore, RAG, MCP, A2A, OpenAI API, Claude
+        API, Gemini API, Llama, Promptfoo]
+    ml: [RAGAS, DeepEval]
+    web: [FastAPI, Pydantic]
+    databases: [Pinecone, ChromaDB, OpenSearch, FAISS, Snowflake]
+    data: []
+    cloud: [AWS Bedrock]
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [Microsoft Copilot Studio, Power Automate, Claude Code, GitHub Copilot,
+      Cursor, Cline, SAP HANA, Salesforce connectors, OCR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9006361'
+  extracted_at: '2026-04-22T13:23:49.862429'

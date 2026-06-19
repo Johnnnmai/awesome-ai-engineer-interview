@@ -1,0 +1,54 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU computing and AI hardware/software platforms
+position:
+  title: Software CSP Co-Sell Specialist – Hyperscale AI and Developer Ecosystem
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a strategic partnership and go-to-market role
+      focused on ecosystem development and co-sell strategy with
+      cloud service providers. While it requires deep knowledge of
+      AI/ML and GPU technologies, the role involves driving
+      adoption and partnerships rather than building, training, or
+      deploying AI systems directly.
+  responsibilities:
+  - Develop and execute joint co-sell and ecosystem strategy with CSP partners, aligning
+    engineering integrations to revenue priorities
+  - Build relationships with CSP engineering leaders, architects, and developer communities
+    to accelerate integration of NVIDIA AI and GPU technologies
+  - Identify and prioritize CSP services and applications that can benefit from GPU
+    acceleration for AI, Generative AI, HPC, and analytics workloads
+  - Partner with enablement teams to develop and deliver technical workshops, demos,
+    and solution content for developer and field sales audiences
+  - Translate developer and engineering feedback into actionable product insights
+    and roadmap input
+  - Support strategic customer opportunities with technical guidance and architectural
+    validation
+  - Drive joint go-to-market initiatives connecting engineering integration with field
+    execution and pipeline development
+  - Represent NVIDIA at industry conferences, CSP developer events, and technical
+    summits
+  use_cases:
+  - GPU-accelerated AI workloads in cloud environments
+  - Generative AI services deployed through CSP platforms
+  - High-performance computing (HPC) applications on cloud infrastructure
+  - Advanced analytics workloads using GPU acceleration
+  - Developer ecosystem enablement for AI/ML platforms
+  skills:
+    genai: [Generative AI]
+    ml: [AI/ML, GPU technologies]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, Cloud-native architectures, AI infrastructure]
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7809456'
+  extracted_at: '2026-03-27T15:46:32.502598'

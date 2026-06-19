@@ -1,0 +1,49 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU computing, AI hardware and software platforms
+position:
+  title: AI and FSI Developer Technology Engineer - New College Grad 2026
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly optimizing and accelerating AI
+      workloads on NVIDIA GPUs and CPUs, including profiling
+      performance bottlenecks, optimizing inference, and working
+      with TensorRT/TensorRT-LLM. The engineer works ON AI systems
+      — accelerating, optimizing, and deploying AI models at the
+      hardware/software level.
+  responsibilities:
+  - Research, design, and develop techniques to accelerate high-performance AI workloads
+    for financial services on NVIDIA CPUs and GPUs
+  - Collaborate with technical experts to analyze, optimize, and scale complex AI
+    and HPC workloads for modern architectures
+  - Profile and eliminate performance bottlenecks across the full stack from algorithms
+    to kernels to system-level behavior
+  - Publish and present work at conferences, talks, and blogs to educate the developer
+    community
+  - Influence the design of future hardware architectures, system software, libraries,
+    and programming models through cross-team collaboration
+  use_cases:
+  - Accelerating AI and HPC workloads for financial services industry (FSI)
+  - Inference optimization and deployment of optimized AI models in production
+  - Optimizing machine learning methods including decision trees, time series models,
+    and Monte Carlo simulations
+  - Financial data modeling, pricing and risk simulation, portfolio optimization
+  - GPU kernel and system-level performance optimization for AI workloads
+  skills:
+    genai: []
+    ml: [CUDA, GPU architecture, Parallel programming, Inference optimization]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [TensorRT, TensorRT-LLM, cuTile, Performance profiling]
+    languages: [C/C++, Python]
+    domains: []
+    other: [Linear algebra, Algorithm design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9010743'
+  extracted_at: '2026-04-22T13:41:25.036455'

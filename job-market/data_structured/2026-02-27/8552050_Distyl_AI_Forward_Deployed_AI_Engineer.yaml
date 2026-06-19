@@ -1,0 +1,53 @@
+company:
+  name: Distyl AI
+  stage: Series A
+  focus: |-
+    Production-grade AI systems for Fortune 500 operational
+    workflows
+position:
+  title: Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role because Forward Deployed AI
+      Engineers build, deploy, and operate production AI systems
+      including agents, retrieval systems, and compound AI
+      workflows. They work directly with models, prompts, and
+      agent logic—not just supporting infrastructure for others.
+  responsibilities:
+  - Own the behavior and performance of AI systems deployed for customers
+  - Design and implement compound AI workflows combining models, agents, retrieval,
+    evaluation, and execution into production-ready systems
+  - Operate on live systems by measuring behavior, identifying failure modes, and
+    iterating to improve quality and reliability
+  - Design prompts and agent logic, build evaluation frameworks, and integrate feedback
+    loops
+  - Integrate AI systems into customer data platforms, APIs, and existing applications
+  - Work directly with customer stakeholders to reason about system behavior, tradeoffs,
+    and limitations
+  - Take accountability for production outcomes and adapt systems as requirements
+    evolve
+  use_cases:
+  - Core operational workflows for Fortune 500 companies
+  - Insurance industry applications
+  - Consumer packaged goods (CPG) industry solutions
+  - Non-profit sector implementations
+  - Enterprise GenAI production deployments
+  - Customer data platform integrations
+  skills:
+    genai: [LLMs, Agents, RAG/Retrieval, Prompt Engineering, Evaluation frameworks,
+      OpenAI API, AI tools]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Data platforms]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [System design]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8552050'
+  extracted_at: '2026-03-03T11:14:34.902711'

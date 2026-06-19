@@ -1,0 +1,53 @@
+company:
+  name: Human Agency
+  stage: Growth stage (scaling rapidly)
+  focus: |-
+    AI strategy consulting and implementation services helping
+    organizations integrate AI solutions
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building AI-native products and
+      systems, including architecting agent-driven workflows,
+      shipping production systems with LLMs and orchestration
+      frameworks, and deploying AI-powered tools. The engineer
+      will work hands-on with LLMs, agent frameworks, and AI
+      tooling to build and deploy real AI systems.
+  responsibilities:
+  - Ship AI-powered products and tools from zero to production for internal operations
+    and client-facing venture products
+  - Architect scalable AI systems with orchestration, error handling, observability,
+    and production-ready infrastructure
+  - Build across full stack including frontend, backend, infrastructure, LLM integration,
+    and agent frameworks
+  - Collaborate directly with venture and client teams to understand requirements
+    and make technical decisions
+  - Stay current with AI tooling landscape and bring opinionated perspective on what
+    tools to use
+  - Push boundaries on what's possible with AI by treating agents, models, and orchestration
+    as foundational infrastructure
+  use_cases:
+  - Agent-driven workflows replacing manual work
+  - AI-powered automation platforms
+  - LLM-integrated applications for clients
+  - AI-native venture products
+  - Internal operational tooling and automation
+  skills:
+    genai: [OpenAI API, Anthropic API, LangChain, LlamaIndex, Agent frameworks, Prompt
+        engineering, LLM orchestration]
+    ml: []
+    web: [FastAPI]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8630429'
+  extracted_at: '2026-03-27T14:59:56.759156'

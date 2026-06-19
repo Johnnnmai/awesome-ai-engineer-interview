@@ -1,0 +1,54 @@
+company:
+  name: Appnovation
+  stage: Unknown
+  focus: |-
+    Global digital partner delivering strategy, design,
+    engineering and managed services
+position:
+  title: Sr. Manager/ Director AI Software Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on USING AI design tools (v0.dev,
+      bolt.new, Lovable) to accelerate traditional full-stack
+      development, not building, training, fine-tuning, or
+      deploying AI/ML models. The AI tools are productivity
+      enhancers for frontend/backend development workflows rather
+      than the core technical deliverable.
+  responsibilities:
+  - Direct the adoption of AI design tools (v0.dev, bolt.new, Lovable) to compress
+    development lifecycle from weeks to days
+  - Define and enforce technical standards for production-ready full-stack applications
+    ensuring scalability, performance, and accessibility
+  - Lead integration of Figma-based design systems with AI-driven development for
+    automated handoff processes
+  - Manage ticket-driven workflow in Jira, optimizing team velocity and ensuring technical
+    documentation meets enterprise requirements
+  - Act as a bridge between Strategy, Creative, and Technology departments for AI-powered
+    solutions
+  - Oversee implementation of backend services (Supabase, SQL/NoSQL) and secure authentication
+    frameworks (OAuth, JWT)
+  - Design and implement RESTful APIs and backend services using platforms like Supabase
+  - Mentor and lead a high-performance team of developers and AI builders
+  use_cases:
+  - Rapid prototyping and concept-to-production application development
+  - AI-augmented frontend development with automated design-to-code workflows
+  - Enterprise-grade full-stack application delivery at accelerated speeds
+  - Design system integration and automated handoff processes
+  - Cross-functional digital solution delivery for enterprise clients
+  skills:
+    genai: [v0.dev, bolt.new, Lovable]
+    ml: []
+    web: [React, Vue, Nuxt, RESTful APIs, GraphQL, OAuth, JWT, Tailwind]
+    databases: [Supabase, SQL, NoSQL]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Jira]
+    languages: [TypeScript, Python, PHP, NodeJS]
+    domains: []
+    other: [Figma, N8N]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8573119'
+  extracted_at: '2026-03-03T11:27:31.124823'

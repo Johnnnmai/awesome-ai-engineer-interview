@@ -1,0 +1,52 @@
+company:
+  name: Mastercard
+  stage: Public
+  focus: Global payments technology and digital transactions
+position:
+  title: Lead Software Engineer, Backend (Java/Python & AI/LLM)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend engineering role that builds
+      infrastructure and services to support AI features, not to
+      build/train AI models. The role focuses on creating APIs,
+      microservices, and data pipelines that enable AI integration
+      - the candidate works NEAR AI by exposing AI capabilities
+      through backend systems, but doesn't build, train, or fine-
+      tune models themselves.
+  responsibilities:
+  - Lead backend services for AI features by building and maintaining backend components
+    and APIs for generative AI use cases
+  - Create scalable microservices in Java or Python to expose AI capabilities, handle
+    requests, and integrate model outputs into applications
+  - Integrate generative AI technologies by working with data science and ML teams
+    to productionize models and connect them to the platform
+  - Build service interfaces, manage data formats, integrate external APIs, and implement
+    supporting data flows such as caching or context retrieval
+  - Ensure quality, performance, and security by writing tests, profiling performance,
+    resolving bottlenecks, and setting up monitoring and alerts
+  - Collaborate cross-functionally with product, design, and data science teams in
+    an agile environment
+  - Mentor junior engineers through code reviews and knowledge sharing while promoting
+    clean coding and best practices
+  use_cases:
+  - Generative AI features for payments and commerce applications
+  - Backend infrastructure for AI-powered financial services
+  - APIs that expose AI/ML model capabilities to applications
+  - Data flows and caching for AI inference systems
+  skills:
+    genai: [OpenAI APIs, LLM integration, Prompt engineering]
+    ml: [TensorFlow, PyTorch, ML model inference]
+    web: [Spring Boot, FastAPI, REST APIs, Microservices]
+    databases: [Vector databases, PostgreSQL, NoSQL databases, Caching systems]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, CI/CD, Terraform]
+    languages: [Java, Python, Go, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8709168'
+  extracted_at: '2026-03-27T14:35:49.407909'

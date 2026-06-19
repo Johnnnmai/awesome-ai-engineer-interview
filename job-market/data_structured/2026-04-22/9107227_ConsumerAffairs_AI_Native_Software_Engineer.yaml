@@ -1,0 +1,52 @@
+company:
+  name: ConsumerAffairs
+  stage: null
+  focus: Consumer reviews and product comparison platform
+position:
+  title: AI Native, Software Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a general full-stack software engineering role at a
+      consumer-focused company where AI tools (Cursor, Copilot,
+      Claude) are used as productivity aids for coding, not for
+      building AI/ML systems. The engineer uses AI assistants to
+      accelerate their development workflow but does not build,
+      train, fine-tune, or deploy AI/ML models or agents. The core
+      work is traditional back-end/front-end development.
+  responsibilities:
+  - Design, build, test, and maintain back-end systems and APIs ensuring scalability,
+    reliability, and performance
+  - Work closely with front-end engineers, product managers, and designers to implement
+    features across the full stack
+  - Deliver clean, efficient, and well-documented code aligned with best practices
+    and coding standards
+  - Design and optimize database schemas, queries, and data storage solutions to support
+    application performance
+  - Identify and resolve back-end issues promptly to maintain system reliability
+  - Participate in peer code reviews providing constructive feedback to ensure code
+    quality and maintainability
+  - Work across a multi-service architecture spanning Django/Python backend, React
+    frontends, and a shared component library
+  - Own features end-to-end from database schema to UI component
+  use_cases:
+  - Consumer reviews and product comparison web platform
+  - Full-stack feature development for customer-facing web application
+  - API development for multi-service architecture
+  - Database schema management and optimization for application performance
+  skills:
+    genai: [Cursor, GitHub Copilot, Claude]
+    ml: []
+    web: [Django, React, RESTful APIs, GraphQL, CSS, WordPress]
+    databases: [SQL, NoSQL]
+    data: []
+    cloud: [AWS, Azure, Google Cloud]
+    ops: [Docker, Kubernetes, Git, CI/CD, Automated Testing]
+    languages: [Python, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9107227'
+  extracted_at: '2026-04-22T12:35:02.230748'

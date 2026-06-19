@@ -1,0 +1,54 @@
+company:
+  name: Visa Inc,
+  stage: Public
+  focus: |-
+    Global payments technology facilitating transactions between
+    consumers, merchants, and financial institutions
+position:
+  title: Staff SW Engineer (6 - 9 years' experience in Java, Spring Boot, Kafka, Gen
+    AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend software engineering role focused on
+      building payment systems and transaction platforms. While it
+      mentions "understanding of Generative AI concepts in the
+      context of SDLC," this appears to be a nice-to-have
+      knowledge area rather than hands-on work building,
+      deploying, or fine-tuning AI/ML systems. The core work
+      involves Java, Spring Boot, Kafka, and distributed systems
+      for payments infrastructure.
+  responsibilities:
+  - Design and develop code and systems that handle global-scale payment processing
+    with focus on scalability, security, and reusability
+  - Collaborate cross-functionally to create design artifacts and develop software
+    solutions for Visa technical offerings
+  - Contribute to product quality improvements and new business flows in agile squads
+  - Develop robust and scalable products for end-user merchants, B2B, and business
+    to government solutions
+  - Build next generation Payment Services, Transaction Platforms, Real-Time Payments,
+    and Buy Now Pay Later Technology
+  - Apply programming languages and standard processes to fulfill technical requirements
+  - Analyze bugs and apply debugging tools to verify assumptions and resolve issues
+  use_cases:
+  - Global payment processing and transaction platforms
+  - Real-time payments infrastructure
+  - Buy Now Pay Later technology
+  - B2B and business to government payment solutions
+  - E-commerce payment systems
+  skills:
+    genai: [Generative AI concepts]
+    ml: []
+    web: [Spring Boot, RESTful Web Services, Angular, React, HTML]
+    databases: [JPA, Hibernate, NoSQL databases, ORMB]
+    data: [Kafka, RabbitMQ]
+    cloud: []
+    ops: [Docker, Kubernetes]
+    languages: [Java, SQL, C++, C#]
+    domains: []
+    other: [JUnit, Karate]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8594392'
+  extracted_at: '2026-03-03T12:08:37.517511'

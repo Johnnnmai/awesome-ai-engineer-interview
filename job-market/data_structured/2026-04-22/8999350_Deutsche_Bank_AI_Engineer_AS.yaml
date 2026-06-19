@@ -1,0 +1,57 @@
+company:
+  name: Deutsche Bank
+  stage: Public
+  focus: Global investment banking and financial services
+position:
+  title: AI Engineer, AS
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, fine-tuning, and
+      deploying AI/LLM solutions including Gemini models,
+      conversational AI agents, and agentic AI workflows using
+      LangGraph and ADK. The engineer works hands-on with models,
+      orchestrating AI systems, and implementing RAG/agent
+      patterns — squarely placing this as an ai-first role.
+  responsibilities:
+  - Design, develop, and implement AI-powered applications and services using Python,
+    FastAPI/Flask, and Google VertexAI
+  - Integrate and fine-tune large language models, specifically the Gemini Model,
+    for NLP tasks and generative AI applications
+  - Develop and enhance conversational AI agents with natural language understanding
+    and response generation
+  - Implement Agentic AI patterns and orchestrate complex AI workflows using ADK and
+    LangGraph
+  - Design and implement API integrations with internal and external systems following
+    REST principles
+  - Deploy and manage AI solutions on GCP leveraging CloudRun/GKE, BigQuery, CloudSQL,
+    and Cloud Composer
+  - Write clean, maintainable code using TDD and follow best practices for software
+    development and AgentOps
+  - Stay current with AI/ML/NLP advancements and collaborate with cross-functional
+    agile teams to deliver AI products
+  use_cases:
+  - Intelligent automation for banking operations
+  - Conversational AI agents for financial services
+  - NLP-driven solutions for complex business challenges
+  - Agentic AI workflows for operational efficiency
+  - Digital transformation in investment banking
+  skills:
+    genai: [Gemini Model, LLM fine-tuning, Conversational AI, Agentic AI, LangGraph,
+      ADK (Agent Development Kit)]
+    ml: [scikit-learn]
+    web: [FastAPI, Flask, REST APIs, Streamlit]
+    databases: [BigQuery, CloudSQL]
+    data: [Cloud Composer, pandas, NumPy]
+    cloud: [Google VertexAI, Google Cloud Platform (GCP), CloudRun/GKE, Google Cloud
+        Storage (GCS)]
+    ops: [Test-Driven Development (TDD), AgentOps, 'CI/CD (Jenkins, GitHub Actions,
+        TeamCity)', Terraform]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: [Scrum/Kanban]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8999350'
+  extracted_at: '2026-04-22T13:18:17.896262'

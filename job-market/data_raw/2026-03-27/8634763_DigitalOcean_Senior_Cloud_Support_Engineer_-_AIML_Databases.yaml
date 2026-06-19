@@ -1,0 +1,358 @@
+job_id: 8634763
+title: "Senior Cloud Support Engineer - AI/ML & Databases"
+company: DigitalOcean
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - C++
+  - CloudFormation
+  - Go
+  - Gpu
+  - Gradientai
+  - Kubernetes
+  - Pulumi
+  - Python
+  - Rust
+  - Terraform
+company_size: 1,400 Employees
+description: |
+  Dive in and do the best work of your career at DigitalOcean.
+  Journey alongside a strong community of top talent who are
+  relentless in their drive to build the simplest scalable
+  cloud. If you have a growth mindset, naturally like to think
+  big and bold, and are energized by the fast-paced
+  environment of a true industry disruptor, you’ll find your
+  place here.  We value winning together—while learning,
+  having fun, and making a profound difference for the
+  dreamers and builders in the world.
+  
+  We are seeking an exceptional Senior Cloud Support Engineer
+  to join our AI/ML Support team at DigitalOcean. This is our
+  highest individual contributor level within the Support
+  organization, representing the pinnacle of technical
+  expertise, customer advocacy, and strategic impact.
+  
+  As a Senior Cloud Support Engineer, you will serve as the
+  ultimate technical authority for our most complex customer
+  challenges, particularly around Kubernetes (K8S) and
+  GPU/GradientAI workloads. You'll bridge the gap between deep
+  support expertise and solutions architecture, designing
+  sophisticated cloud infrastructure solutions while
+  maintaining the customer-first mentality that defines our
+  Support organization. This role combines the architectural
+  thinking of a Solutions Architect with the hands-on
+  troubleshooting excellence and customer empathy expected
+  from our Support team. You will also participate in an
+  operational on-call rotation to support critical incidents
+  and escalations.
+  
+  What You'll DoTechnical Leadership & Expertise
+  
+  - Serve as the ultimate escalation point for the most complex,
+    business-critical customer issues across Kubernetes,
+    GPU/GradientAI, and AI/ML infrastructure, coordinating
+    cross-functional responses that span Engineering, Product,
+    and Operations
+  - Architect enterprise-grade solutions for customers building
+    large-scale AI/ML workloads on DigitalOcean, including
+    multi-cluster Kubernetes deployments, distributed GPU
+    training infrastructure, and hybrid/multi-cloud
+    architectures
+  - Lead technical discovery and solution design for strategic
+    accounts, conducting deep-dive architectural reviews,
+    performance optimization workshops, and proof-of-concept
+    implementations
+  - Drive resolution of systemic technical challenges by
+    identifying patterns across customer issues, partnering
+    with Engineering to implement platform-level improvements,
+    and advocating for product enhancements that eliminate
+    entire classes of problems
+  - Research and evaluate emerging technologies in the AI/ML and
+    cloud infrastructure space, identifying opportunities for
+    DigitalOcean to differentiate and expand our capabilities
+  
+  Customer Impact & Strategic Partnerships
+  
+  - Act as a trusted technical advisor to our highest-value
+    customers and strategic partners, building deep
+    relationships with their technical teams and understanding
+    their business objectives
+  - Design and deliver Professional Services engagements for
+    enterprise customers requiring sophisticated AI/ML
+    infrastructure implementations, managing complex project
+    timelines, stakeholder expectations, and technical
+    deliverables
+  - Conduct executive technical briefings and workshops that
+    articulate DigitalOcean's platform capabilities,
+    architectural best practices, and roadmap vision to
+    C-level and VP-level stakeholders
+  - Partner strategically with Customer Success to drive
+    expansion opportunities, prevent churn through proactive
+    technical guidance, and transform technical challenges
+    into growth opportunities
+  - Influence product strategy by synthesizing customer
+    insights, competitive intelligence, and technical trends
+    into actionable recommendations for Product and
+    Engineering leadership
+  
+  Organizational Leadership
+  
+  - Mentor and develop IC1-IC3 engineers through structured
+    coaching, technical reviews, pair troubleshooting
+    sessions, and career development guidance
+  - Design and implement support frameworks including escalation
+    workflows, troubleshooting methodologies, automation
+    tools, and operational best practices that elevate team
+    capabilities
+  - Create authoritative technical documentation including
+    architectural reference guides, troubleshooting runbooks,
+    customer-facing solution guides, and internal training
+    curricula
+  - Lead critical incident response for platform-wide or high-
+    impact customer issues, coordinating cross-functional war
+    rooms and ensuring timely, effective resolution
+  - Represent the Support organization in cross-functional
+    initiatives, product design reviews, and strategic
+    planning sessions, ensuring the voice of the customer
+    influences critical decisions
+  
+  Domain Specialization
+  
+  Primary Focus Areas:
+  
+  - Kubernetes (K8S): Expert-level architecture,
+    troubleshooting, and optimization for production workloads
+  - GPU/GradientAI: Deep expertise in GPU infrastructure,
+    distributed training, inference optimization, and
+    Generative AI for our GradientAI platform
+  
+  Valuable Additional Expertise:
+  
+  - Bare Metal Infrastructure: Hardware provisioning, server
+    configuration, performance tuning
+  - Advanced Networking: BGP, VPNs, load balancing, network
+    security, and complex multi-region architectures
+  
+  What You'll Add to DigitalOceanRequired Experience &
+  Expertise
+  
+  Technical Background
+  
+  - 7+ years of progressive experience in technical support,
+    solutions engineering, DevOps, or site reliability
+    engineering roles with consistent demonstration of
+    technical leadership
+  - 5+ years in senior technical customer-facing roles with
+    proven ability to manage enterprise customer relationships
+    and complex technical engagements
+  - Expert-level Kubernetes knowledge: Production-scale
+    architecture design, cluster operations, advanced
+    troubleshooting, performance optimization, security
+    hardening, and networking (CNI, service meshes, ingress
+    controllers)
+  - Deep GPU/AI/ML infrastructure expertise: Multi-GPU and
+    multi-node training, distributed computing frameworks, GPU
+    resource management, inference optimization, and
+    production ML deployment patterns
+  
+  AI/ML Technical Depth
+  
+  - Advanced understanding of production AI/ML pipelines
+    including model training, optimization, deployment, and
+    monitoring at scale
+  - Extensive experience with major ML frameworks (PyTorch,
+    TensorFlow, Hugging Face) including distributed training
+    strategies and production deployment patterns
+  - Expertise in GPU optimization techniques: CUDA programming
+    concepts, TensorRT, vLLM, model quantization (INT4, INT8,
+    FP8), and inference performance tuning
+  - Deep knowledge of MLOps practices: CI/CD for ML, model
+    versioning, experiment tracking, feature stores, and
+    production monitoring
+  - Experience with large-scale distributed AI/ML workloads
+    including data parallelism, model parallelism, and mixed-
+    precision training
+  
+  Cloud Infrastructure & Architecture
+  
+  - Proven experience designing fault-tolerant, scalable cloud
+    architectures with deep consideration for cost
+    optimization, security, compliance, and operational
+    excellence
+  - Expert-level Linux system administration: Kernel tuning,
+    performance profiling, security hardening, advanced
+    troubleshooting, and automation
+  - Advanced networking expertise: Deep understanding of TCP/IP,
+    routing protocols, load balancing, CDNs, VPNs, network
+    security, and troubleshooting complex network issues
+  - Strong programming skills in Python with experience in at
+    least one additional systems language (Go, Rust, C++, or
+    similar)
+  - Extensive experience with infrastructure-as-code (Terraform,
+    CloudFormation, Pulumi) and configuration management tools
+  
+  Professional Skills
+  
+  - Exceptional communication abilities: Can translate highly
+    complex technical concepts into clear, actionable guidance
+    for audiences ranging from junior engineers to C-level
+    executives
+  - Demonstrated leadership capabilities including mentoring
+    team members, leading cross-functional initiatives, and
+    influencing without direct authority
+  - Strong consultative approach: Ability to discover underlying
+    customer needs, challenge assumptions respectfully, and
+    craft solutions that balance technical excellence with
+    business pragmatism
+  - Track record of driving organizational improvement through
+    process design, automation, documentation, and strategic
+    initiatives
+  
+  Bare Metal & Networking (Highly Valued)
+  
+  - Bare Metal infrastructure expertise: Server provisioning,
+    hardware troubleshooting, BIOS/firmware management, RAID
+    configuration, and performance tuning
+  - Advanced networking knowledge: BGP, VLANs, network
+    automation, traffic engineering, and datacenter networking
+    concepts
+  
+  Preferred QualificationsTechnical Certifications &
+  Credentials
+  
+  - Kubernetes certifications: CKA (Certified Kubernetes
+    Administrator), CKAD, or CKS (Certified Kubernetes
+    Security Specialist)
+  - Advanced cloud certifications: AWS Solutions Architect
+    Professional, GCP Professional Cloud Architect, Azure
+    Solutions Architect Expert
+  - GPU/AI certifications: NVIDIA DLI certifications, CUDA
+    programming certifications, or similar specialized
+    credentials
+  
+  Community & Thought Leadership
+  
+  - Open-source contributions to AI/ML projects, Kubernetes
+    ecosystem, or infrastructure tools
+  - Published technical content: Blog posts, whitepapers,
+    solution guides, or technical documentation demonstrating
+    thought leadership
+  - Speaking experience at technical conferences, meetups, or
+    webinars on topics related to cloud infrastructure, AI/ML,
+    or DevOps
+  - Active participation in technical communities (CNCF,
+    Kubernetes SIGs, AI/ML forums, cloud-native communities)
+  
+  Specialized Experience
+  
+  - Experience with observability platforms: Prometheus,
+    Grafana, Datadog, New Relic, or similar
+    monitoring/alerting systems
+  - Multi-cloud or hybrid-cloud architecture experience:
+    Designing solutions that span AWS, GCP, Azure, and on-
+    premises infrastructure
+  - Experience with DigitalOcean or Paperspace products as a
+    user or customer
+  - Database expertise: Experience with both relational
+    (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis) databases
+    at scale
+  - Security & compliance knowledge: Experience with SOC2,
+    HIPAA, GDPR, or other compliance frameworks in cloud
+    environments
+  
+  Key Success MetricsTechnical Impact
+  
+  - Reduction in escalation resolution time for critical
+    customer issues through improved processes, documentation,
+    and cross-team collaboration
+  - Customer satisfaction scores (CSAT/NPS) for your direct
+    engagements, particularly with strategic accounts
+  - Platform stability improvements driven by your
+    identification of systemic issues and advocacy for product
+    enhancements
+  
+  Strategic Influence
+  
+  - Product roadmap impact: Measurable influence on product
+    decisions through customer feedback synthesis and
+    technical requirements advocacy
+  - Expansion & retention metrics: Technical contribution to
+    account growth, renewal success, and churn prevention for
+    strategic customers
+  - Professional Services revenue: Successful delivery of PS
+    engagements that drive customer success and recurring
+    revenue
+  
+  Organizational Development
+  
+  - Team capability growth: Measurable improvement in team
+    technical skills, response times, and customer
+    satisfaction through your mentorship and process
+    improvements
+  - Knowledge base impact: Usage and effectiveness of
+    documentation, runbooks, and training materials you create
+  - Cross-functional collaboration: Effectiveness in partnering
+    with Engineering, Product, Sales, and Customer Success
+    teams
+  
+  *This job is located in Hyderabad/ Bengaluru, India
+  
+  JR: 2026-7534
+  
+  #LI-Hybrid
+  
+  Why You’ll Like Working for DigitalOcean
+  
+  - We innovate with purpose. You’ll be a part of a cutting-edge
+    technology company with an upward trajectory, who are
+    proud to simplify cloud and AI so builders can spend more
+    time creating software that changes the world. As a member
+    of the team, you will be a Shark who thinks big, bold, and
+    scrappy, like an owner with a bias for action and a
+    powerful sense of responsibility for customers, products,
+    employees, and decisions.
+  - We prioritize career development. At DO, you’ll do the best
+    work of your career. You will work with some of the
+    smartest and most interesting people in the industry. We
+    are a high-performance organization that will always
+    challenge you to think big. Our organizational development
+    team will provide you with resources to ensure you keep
+    growing. We provide employees with reimbursement for
+    relevant conferences, training, and education. All
+    employees have access to LinkedIn Learning's 10,000+
+    courses to support their continued growth and development.
+  - We care about your well-being. Regardless of your location,
+    we will provide you with a competitive array of benefits
+    to support you from our Employee Assistance Program to
+    Local Employee Meetups to flexible time off policy, to
+    name a few. While the philosophy around our benefits is
+    the same worldwide, specific benefits may vary based on
+    local regulations and preferences.
+  - We reward our employees. The salary range for this position
+    is based on market data, relevant years of experience, and
+    skills. You may qualify for a bonus in addition to base
+    salary; bonus amounts are determined based on company and
+    individual performance. We also provide equity
+    compensation to eligible employees, including equity
+    grants upon hire and the option to participate in our
+    Employee Stock Purchase Program.
+  - DigitalOcean is an equal-opportunity employer. We do not
+    discriminate on the basis of race, religion, color,
+    ancestry, national origin, caste, sex, sexual orientation,
+    gender, gender identity or expression, age, disability,
+    medical condition, pregnancy, genetic makeup, marital
+    status, or military service.
+  
+  Application Limit: You may apply to a maximum of 3 positions
+  within any 180-day period. This policy promotes better role-
+  candidate matching and encourages thoughtful applications
+  where your qualifications align most strongly.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Software
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-03-03
+url: "https://builtin.com/job/senior-cloud-support-engineer-ai-ml-databases/8634763"
+source: Built In

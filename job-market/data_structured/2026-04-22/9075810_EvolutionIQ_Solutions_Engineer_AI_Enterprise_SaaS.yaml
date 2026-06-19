@@ -1,0 +1,56 @@
+company:
+  name: EvolutionIQ
+  stage: Series B+
+  focus: |-
+    AI-powered insurance claims technology for accuracy and
+    efficiency
+position:
+  title: Solutions Engineer (AI Enterprise SaaS)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Solutions Engineer role focused on data
+      onboarding, data management, and client implementations for
+      an AI/ML SaaS company. The role works alongside ML and
+      Engineering teams but does not directly build, train, fine-
+      tune, or deploy AI/ML models. AI/ML familiarity is listed
+      only as a "plus," and the core responsibilities center on
+      data pipelines, client integrations, and operational
+      support.
+  responsibilities:
+  - Lead data onboarding and data transfer for client implementations
+  - Develop and document data onboarding requirements and processes while building
+    operational frameworks for continuous improvement
+  - Collaborate with Product, Engineering and ML teams to deliver scalable data onboarding
+    and data health solutions
+  - Contribute to the design, cleanup and maintenance of client data and data architecture
+    for EIQ data ingestion processes
+  - Collaborate with Sales to provide technical and operational guidance during the
+    sales cycle
+  - Partner with Product, Engineering and CS teams to support client custom integrations
+    and scope custom product requests
+  - Provide technical triage and escalation oversight across all product modules to
+    client stakeholders
+  - Identify opportunities for tools and automation to scale workflows for CS and
+    other teams
+  use_cases:
+  - AI-powered insurance claims handling optimization
+  - Enterprise client data onboarding and integration
+  - Data quality monitoring and health management for insurance claims
+  - Client implementation and deployment of AI SaaS products in the insurance industry
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Google BigQuery, RDBMS]
+    data: [Pandas, dbt, Looker, Looker Studio, ETL pipelines]
+    cloud: []
+    ops: []
+    languages: [SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9075810'
+  extracted_at: '2026-04-22T13:35:33.401761'

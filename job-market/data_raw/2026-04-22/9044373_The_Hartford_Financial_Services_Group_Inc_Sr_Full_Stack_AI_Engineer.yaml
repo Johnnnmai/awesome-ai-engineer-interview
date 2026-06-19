@@ -1,0 +1,312 @@
+job_id: 9044373
+title: Sr. Full Stack AI Engineer
+company: The Hartford Financial Services Group, Inc.
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - .Net
+  - Angular
+  - AWS
+  - Docker
+  - DynamoDB
+  - GCP
+  - Github Actions
+  - Gitlab Ci
+  - Java
+  - Jenkins
+company_size: 20,002 Employees
+description: |
+  Senior Staff Software Engineer - IE07HE
+  
+  We’re determined to make a difference and are proud to be an
+  insurance company that goes well beyond coverages and
+  policies. Working here means having every opportunity to
+  achieve your goals – and to help others accomplish theirs,
+  too. Join our team as we help shape the future.
+  
+  
+  
+  # Full Stack Engineer — AI-Augmented Development
+  
+  
+  
+  ## Position Summary
+  
+  
+  
+  We are seeking a highly skilled Full Stack Engineer who
+  combines deep software engineering expertise with advanced
+  proficiency in AI-powered development tools. This role is
+  focused on hands-on building and delivery — a practitioner
+  who ships production-quality code end-to-end across the
+  stack while leveraging AI to accelerate development
+  velocity, improve code quality, and drive innovation.
+  
+  
+  
+  This role will have a Hybrid work schedule, with the
+  expectation of working in an office (Columbus, OH, Chicago,
+  IL, Hartford, CT or Charlotte, NC) 3 days a week (Tuesday
+  through Thursday).
+  
+  
+  
+  ---
+  
+  
+  
+  ## Key Responsibilities
+  
+  
+  
+  ### Hands-On Build & Delivery
+  
+  - Own features from concept through production release,
+    writing and shipping high-quality code daily
+  
+  - Build, test, deploy, and iterate rapidly across frontend,
+    backend, APIs, and data layers
+  
+  - Troubleshoot and resolve production issues, performance
+    bottlenecks, and complex bugs
+  
+  - Implement and maintain CI/CD pipelines, automated testing,
+    and deployment automation
+  
+  - Contribute to architectural decisions and design discussions
+    as a practitioner, ensuring designs translate into solid
+    implementations
+  
+  - Own system reliability, performance, and security for the
+    services you build
+  
+  
+  
+  ### Full Stack Implementation
+  
+  - Build and ship modern frontend applications using frameworks
+    such as React, Angular, or Vue.js with TypeScript
+  
+  - Develop, deploy, and operate robust backend services using
+    Java (Spring Boot), Node.js, Python, or .NET
+  
+  - Implement and optimize RESTful APIs, GraphQL endpoints, and
+    event-driven integrations
+  
+  - Configure and manage cloud-native infrastructure (AWS or
+    GCP) including containers, serverless, and infrastructure-
+    as-code
+  
+  - Build and tune data layers across relational and NoSQL
+    databases, caching, and message queues
+  
+  - Write clean, well-tested, production-ready code with a focus
+    on maintainability and operational excellence
+  
+  
+  
+  ### AI-Augmented Development
+  
+  - Leverage AI coding assistants (GitHub Copilot, Cursor,
+    Claude Opus, etc.) to dramatically accelerate development
+    workflows
+  
+  - Use AI tools for code generation, refactoring, test writing,
+    documentation, and code review
+  
+  - Integrate large language model (LLM) APIs and AI/ML services
+    into applications (e.g., OpenAI, GCP Vertex, AWS Bedrock)
+  
+  - Design and implement RAG (Retrieval-Augmented Generation)
+    pipelines, prompt engineering strategies, and AI-powered
+    features
+  
+  - Evaluate, select, and champion AI tools and practices that
+    improve team productivity
+  
+  - Develop custom agents, workflows, and automations using AI
+    platforms and frameworks (Vertex Studio, Semantic Kernel,
+    CrewAI, etc.)
+  
+  - Establish guardrails, security practices, and governance for
+    responsible AI usage in engineering
+  
+  
+  
+  ### Technical Leadership & Mentorship
+  
+  - Influence engineering culture by evangelizing AI-augmented
+    development practices
+  
+  - Train and upskill team members on effective use of AI tools
+    in their daily workflows
+  
+  - Contribute to internal knowledge bases, tech talks, and
+    communities of practice
+  
+  - Partner with product, design, and data science teams to
+    identify AI-driven opportunities
+  
+  
+  
+  ---
+  
+  
+  
+  ## Required Qualifications
+  
+  
+  
+  - **Experience:** 10+ years of professional software
+    engineering experience, with 5+ years in hands-on full
+    stack delivery roles
+  
+  - **Education:** Bachelor's degree in Computer Science,
+    Software Engineering, or related field (or equivalent
+    experience)
+  
+  - **Frontend:** Expert-level proficiency building production
+    applications with modern JavaScript/TypeScript frameworks
+    (React, Angular, or Vue.js), HTML5, CSS3, responsive
+    design, and accessibility standards
+  
+  - **Backend:** Deep hands-on experience building and operating
+    services with Java/Spring Boot, Node.js/Express,
+    Python/FastAPI/Django, or C#/.NET
+  
+  - **Cloud & DevOps:** Strong hands-on experience deploying and
+    operating on cloud platforms (AWS, GCP, or Azure),
+    containerization (Docker, Kubernetes), and CI/CD tooling
+    (Jenkins, GitHub Actions, GitLab CI)
+  
+  - **Data:** Proficiency building and optimizing data layers
+    with SQL and NoSQL databases (PostgreSQL, MongoDB,
+    DynamoDB, Redis), data modeling, and query tuning
+  
+  - **API Implementation:** Proven track record building RESTful
+    APIs, GraphQL services, gRPC endpoints, or event-driven
+    integrations (Kafka, RabbitMQ)
+  
+  - **AI Tools Proficiency:**
+  
+    - Advanced daily usage of AI coding assistants (GitHub
+      Copilot, Cursor, or equivalent)
+  
+    - Experience integrating LLM APIs (OpenAI, Anthropic, GCP
+      Vertex Service) into production applications
+  
+    - Familiarity with prompt engineering, fine-tuning,
+      embeddings, and vector databases
+  
+    - Track record of measurably improving team velocity through
+      AI tool adoption
+  
+  - **Testing:** Strong testing practices including unit,
+    integration, and end-to-end testing with modern frameworks
+  
+  - **Architecture:** Working knowledge of distributed systems,
+    microservices, and event-driven patterns; ability to
+    contribute to and implement architectural designs
+  
+  
+  
+  ---
+  
+  
+  
+  ## Preferred Qualifications
+  
+  
+  
+  - Experience building AI/ML-powered product features
+    (chatbots, intelligent search, recommendation engines,
+    content generation)
+  
+  - Familiarity with AI orchestration frameworks (LangChain,
+    Semantic Kernel, AutoGen, CrewAI)
+  
+  - Experience with agent-based AI architectures and autonomous
+    workflows
+  
+  - Contributions to open-source projects or published technical
+    content
+  
+  - Experience in regulated industries (insurance, finance,
+    healthcare) with security and compliance requirements
+  
+  - Certifications in cloud platforms (AWS Solutions Architect,
+    GCP Professional Cloud Architect, etc.)
+  
+  
+  
+  ---
+  
+  
+  
+  ## Technical Competencies
+  
+  
+  
+  | Domain | Expected Proficiency |
+  
+  |---|---|
+  
+  | Frontend Development | Expert |
+  
+  | Backend Development | Expert |
+  
+  | Cloud & Infrastructure | Advanced |
+  
+  | CI/CD & DevOps | Advanced |
+  
+  | System Design & Architecture | Advanced |
+  
+  | AI Tools & Copilots | Expert |
+  
+  | LLM Integration & Prompt Engineering | Advanced |
+  
+  | Security & Compliance | Advanced |
+  
+  | Testing & Quality | Expert |
+  
+  | Mentorship & Leadership | Advanced |
+  
+  
+  
+  ---
+  
+  Candidate must be authorized to work in the US without
+  company sponsorship. The company will not support the STEM
+  OPT I-983 Training Plan endorsement for this position.
+  
+  
+  
+  Compensation
+  
+  The listed annualized base pay range is primarily based on
+  analysis of similar positions in the external market. Actual
+  base pay could vary and may be above or below the listed
+  range based on factors including but not limited to
+  performance, proficiency and demonstration of competencies
+  required for the role. The base pay is just one component of
+  The Hartford’s total compensation package for employees.
+  Other rewards may include short-term or annual bonuses,
+  long-term incentives, and on-the-spot recognition. The
+  annualized base pay range for this role is:
+  
+  $127,600 - $191,400
+  
+  Equal Opportunity
+  Employer/Sex/Race/Color/Veterans/Disability/Sexual
+  Orientation/Gender Identity or Expression/Religion/Age
+  
+  About Us | Our Culture | What It’s Like to Work Here | Perks
+  & Benefits
+industries:
+  - Fintech
+  - Payments
+  - Financial Services
+posted_date: 2026-04-14
+url: "https://builtin.com/job/sr-full-stack-ai-engineer/9044373"
+source: Built In

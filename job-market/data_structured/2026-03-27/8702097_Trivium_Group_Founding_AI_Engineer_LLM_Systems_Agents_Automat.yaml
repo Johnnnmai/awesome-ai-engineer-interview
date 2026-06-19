@@ -1,0 +1,57 @@
+company:
+  name: Trivium Group
+  stage: Early-Stage Startup
+  focus: |-
+    AI-powered marketing and patient engagement automation for
+    healthcare practices
+position:
+  title: Founding AI Engineer (LLM Systems, Agents, Automation)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, designing, and
+      deploying AI agents and LLM-based automation systems
+      including RAG implementations, prompt chains, and agent
+      frameworks. The engineer will own end-to-end development of
+      AI-powered modules using OpenAI, Anthropic APIs, LangChain,
+      and CrewAI.
+  responsibilities:
+  - Design, build, and deploy AI agent modules from architecture through production
+  - Ship new agent capabilities on 4-5 week sprint cadence including SEO, patient
+    journey, and ad deployment agents
+  - Build LLM-based automation using OpenAI and Anthropic APIs with prompt chains
+    and tool-use patterns
+  - Integrate with third-party APIs including GoHighLevel, NexHealth, OpenDental,
+    Stripe, Meta Ads, and Google Ads
+  - Implement evaluation pipelines and observability tools such as Langfuse and Weights
+    & Biases
+  - Manage CI/CD, deployment, and monitoring for all agent services
+  - Iterate on existing AI voice scheduling system built with OpenAI Realtime API
+  - Contribute to architecture decisions including data models, agent state machines,
+    and error handling
+  use_cases:
+  - Automated SEO content production and search growth for healthcare practices
+  - Patient communication workflows including appointment reminders, follow-ups, and
+    reactivation
+  - Digital marketing campaign automation with programmatic creation and budget optimization
+  - AI voice scheduling system for inbound and outbound call automation
+  - Multi-step messaging orchestration and patient engagement automation
+  - Lead attribution tracking and CRM integration for healthcare marketing
+  skills:
+    genai: [OpenAI API, Anthropic API, LangChain, CrewAI, Prompt engineering, Function
+        calling, RAG, Structured output parsing, Agent frameworks, OpenAI Realtime
+        API, ElevenLabs]
+    ml: []
+    web: [API integration, REST APIs, Webhooks]
+    databases: []
+    data: []
+    cloud: [Railway]
+    ops: [Langfuse, Weights & Biases, CI/CD, Docker, GitHub]
+    languages: [Python, TypeScript, Node.js]
+    domains: []
+    other: [GoHighLevel, NexHealth, OpenDental, Stripe, Meta Ads, Google Ads, Slack]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8702097'
+  extracted_at: '2026-03-27T15:54:52.620025'

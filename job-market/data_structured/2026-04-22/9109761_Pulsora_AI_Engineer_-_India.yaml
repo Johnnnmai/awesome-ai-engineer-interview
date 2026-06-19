@@ -1,0 +1,55 @@
+company:
+  name: Pulsora
+  stage: Well-funded startup (founded 2021)
+  focus: Enterprise sustainability and ESG management platform
+position:
+  title: AI Engineer - India
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, deploying, fine-
+      tuning, and optimizing LLMs and generative AI systems. The
+      core responsibilities include developing agentic workflows
+      with LangChain/LangGraph, building RAG pipelines, fine-
+      tuning LLMs with LoRA/QLoRA, and deploying production-grade
+      LLM applications—all hands-on AI model and agent development
+      work.
+  responsibilities:
+  - Design, develop, and deploy production-grade applications leveraging various LLMs
+    with context optimization
+  - Architect and implement multi-step and multi-agent workflows using LangChain and
+    LangGraph
+  - Build and optimize RAG pipelines including embeddings, vector databases, and advanced
+    rerankers
+  - Lead LLM fine-tuning efforts using techniques like LoRA and QLoRA for domain-specific
+    tasks
+  - Develop and refine advanced prompt engineering techniques to maximize model performance
+    and safety
+  - Use AI-powered code generation tools to create full applications including frontend
+    and backend
+  - Own end-to-end full-stack implementation from frontend to backend
+  - Integrate AI/LLM Python functionality with Java services and collaborate with
+    cross-functional teams
+  use_cases:
+  - ESG and sustainability data management and compliance
+  - Enterprise sustainability reporting and tracking
+  - Domain-specific LLM fine-tuning for ESG/sustainability knowledge
+  - Agentic workflow automation for sustainability insights
+  - RAG-based enterprise search and information retrieval
+  skills:
+    genai: [LangChain, LangGraph, RAG, LoRA, QLoRA, Prompt Engineering, LLM Fine-Tuning,
+      OpenAI API, Anthropic API, Gemini, Ollama, Agentic Workflows, Embeddings, Reranking]
+    ml: [Pandas, NumPy, Scikit-learn]
+    web: [React, REST APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, Java]
+    domains: []
+    other: [GitHub Copilot, Cursor, Replit, Google AI Studio]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9109761'
+  extracted_at: '2026-04-22T12:44:32.157270'

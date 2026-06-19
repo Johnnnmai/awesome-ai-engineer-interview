@@ -2,37 +2,110 @@
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Stars](https://img.shields.io/github/stars/Johnnnmai/awesome-ai-engineer-interview?style=social)](https://github.com/Johnnnmai/awesome-ai-engineer-interview)
 
-> A curated, bilingual (EN/中文) collection of resources for AI and ML engineer interview preparation — covering LLM system design, GenAI fundamentals, behavioral questions, salary benchmarks, and company-specific guides.
+> A curated, data-driven, bilingual (EN/中文) field guide to AI engineering roles, interviews, and career growth — covering LLM system design, GenAI fundamentals, behavioral questions, salary benchmarks, company-specific guides, and learning paths.
 
-**What makes this different?**
-- 🌐 **Bilingual** — English + Chinese ([中文版](zh/README.md))
-- 🎯 **AI-native** — built around LLM, RAG, agents, and modern AI stacks (not retrofitted ML)
-- 💰 **Salary data** — real compensation benchmarks by company, level, and role
-- 🏢 **Company guides** — Anthropic, OpenAI, Google DeepMind, Meta FAIR, NVIDIA, Databricks, Amazon AGI
-- 📖 **Real debriefs** — anonymized first-person interview experiences
-- 📊 **Difficulty-rated** — every question tagged Easy/Medium/Hard with time estimates
+**[中文版 / Chinese Version](zh/README.md)**
+
+Based on real data: **2,445+ job descriptions**, **51 company interview processes**, real interview experiences, and patterns synthesized from practitioner stories.
+
+**What makes this different from other repos?**
+
+- **Data-driven** — every insight comes from analyzing real job descriptions and interview data, not guesswork
+- **Bilingual** — full English + Chinese coverage ([中文版](zh/README.md))
+- **AI-native** — built around LLM, RAG, agents, and modern AI stacks (not retrofitted ML)
+- **Salary data** — real compensation benchmarks by company, level, and role
+- **Company guides** — Anthropic, OpenAI, Google DeepMind, Meta FAIR, NVIDIA, Databricks, Amazon AGI, and 44 more
+- **Real debriefs** — anonymized first-person interview experiences
+- **Difficulty-rated** — every question tagged Easy/Medium/Hard with time estimates
+- **Study plans** — structured 30/60/90-day plans for different backgrounds
+- **Learning paths** — transition guides from DE, DS, MLE, backend, frontend, and PM roles
+- **Books by the author** — 30+ role-specific interview playbooks ([full list](BOOKS.md))
 
 ---
 
 ## Contents
 
+- [The AI Engineer Role](#the-ai-engineer-role)
+- [Interview Preparation](#interview-preparation)
+- [Learning Paths](#learning-paths)
+- [Portfolio](#portfolio)
+- [Job Market Data](#job-market-data)
 - [Study Plans](#study-plans)
+- [Salary & Compensation](#salary--compensation)
+- [Company-Specific Guides](#company-specific-guides)
+- [Real Interview Debriefs](#real-interview-debriefs)
 - [LLM Fundamentals & GenAI](#llm-fundamentals--genai)
 - [ML System Design](#ml-system-design)
 - [Classical ML & Statistics](#classical-ml--statistics)
 - [Coding for ML/AI Roles](#coding-for-mlai-roles)
 - [Behavioral Questions for AI Roles](#behavioral-questions-for-ai-roles)
-- [Salary & Compensation](#salary--compensation)
-- [Company-Specific Guides](#company-specific-guides)
-- [Real Interview Debriefs](#real-interview-debriefs)
 - [LLM Evaluation & Testing](#llm-evaluation--testing)
 - [AI Safety & Ethics](#ai-safety--ethics)
 - [Tools & Frameworks](#tools--frameworks)
 - [Books & Courses](#books--courses)
+- [Awesome Resources](#awesome-resources)
 - [Communities & Forums](#communities--forums)
 - [Complete Interview Prep Library](#complete-interview-prep-library)
 - [Contributing](#contributing)
+
+---
+
+## The AI Engineer Role
+
+Understanding what the role actually is — based on analysis of 2,445 real job descriptions.
+
+- [My vision of the role](role/01-my-vision.md) — how AI engineering compares with DS/ML/DE roles, CRISP-DM for AI
+- [Skills analysis](role/02-skills.md) — top skills, job types, cloud platforms, frameworks extracted from job postings
+- [Responsibilities](role/03-responsibilities.md) — patterns extracted from 5,694+ job responsibilities
+- [Use cases](role/04-use-cases.md) — 4,525 real use cases showing what companies build with AI
+- [Reality vs. job postings](role/05-reality-vs-postings.md) — what candidates experience vs. what's advertised
+
+---
+
+## Interview Preparation
+
+Everything you need to prepare, from process overview to company-specific data.
+
+- [Interview process](interview/01-interview-process.md) — common patterns, step counts, time estimates, AI use in hiring, key takeaways
+- [Interview questions](interview/02-questions.md) — consolidated from 100+ sources
+  - [Theory](interview/questions/theory.md) — LLMs, RAG, agents, ML fundamentals, company-specific questions
+  - [AI system design](interview/questions/04-ai-system-design.md) — system design for AI applications
+  - [Behavioral](interview/questions/05-behavioral.md) — values, leadership, problem-solving
+- [Skills that get you hired](interview/03-get-hired.md) — baseline expectations, differentiators, and portfolio strategy
+- [After the interview](interview/04-after-the-interview.md) — handling offers, rejections, and salary negotiation
+- [Interview trends](interview/05-trends.md) — realistic assessments, AI cheating, AI-proctored rounds
+- [Company-by-company data](interview/data/) — individual interview process descriptions for 51 companies, linked to source job postings
+
+---
+
+## Learning Paths
+
+What to learn and in what order, based on where you're coming from.
+
+- [General learning path](learning-paths/) — core skills and recommended order
+- [From Data Engineer](learning-paths/from-data-engineer.md) — smoothest transition, 3-4 months
+- [From Data Scientist](learning-paths/from-data-scientist.md) — evaluation is your superpower, add engineering
+- [From ML Engineer](learning-paths/from-ml-engineer.md) — easiest transition, replace model call with API call
+- [From Backend Engineer](learning-paths/from-backend-engineer.md) — 2-3 months, add AI on top of engineering
+- [From Frontend Engineer](learning-paths/from-frontend-engineer.md) — backend first, then AI, unique full-stack advantage
+- [From Product Manager](learning-paths/from-pm.md) — leverage product sense, add technical depth
+
+---
+
+## Portfolio
+
+- [Project ideas](portfolio/) — real project examples that demonstrate AI engineering skills, mapped to frequently-requested patterns from job descriptions
+
+---
+
+## Job Market Data
+
+2,445 job descriptions scraped from builtin.com covering LA, NY, London, Amsterdam, Berlin, and India.
+
+- [Structured job descriptions](job-market/data_structured/) — YAML files grouped by scrape date
+- [Raw extracted postings](job-market/data_raw/) — original extracted data grouped by scrape date
 
 ---
 
@@ -62,6 +135,162 @@
 **From Data Science:** Skip classical ML review. Focus weeks 1-3 on engineering practices (MLOps, CI/CD for models, production serving). Weeks 4-8 on LLM-specific system design. Weeks 9-12 on coding (LeetCode ML patterns) and behavioral.
 
 **From Academia:** Focus weeks 1-4 on industry framing (business impact, production constraints, cost modeling). Weeks 5-8 on system design (scale, latency, reliability — not just accuracy). Weeks 9-12 on behavioral (translate research into STAR stories) and salary negotiation.
+
+---
+
+## Salary & Compensation
+
+### AI/ML Engineer Compensation (2025-2026 US Market)
+
+| Company | Level | Role | Base | Stock (annual) | Bonus | Total TC |
+|---------|-------|------|------|---------------|-------|----------|
+| Google | L4 (mid) | MLE | $160-185K | $80-120K | 15% | $280-380K |
+| Google | L5 (senior) | MLE | $195-230K | $150-250K | 15% | $400-550K |
+| Google | L6 (staff) | MLE | $240-280K | $250-450K | 15% | $570-830K |
+| Meta | E4 (mid) | MLE | $165-190K | $80-130K | 10% | $280-390K |
+| Meta | E5 (senior) | MLE | $200-240K | $150-300K | 15% | $410-620K |
+| Meta | E6 (staff) | MLE | $250-300K | $300-500K | 20% | $630-900K |
+| Amazon | L5 (mid) | Applied Scientist | $150-175K | $60-100K | sign-on | $240-330K |
+| Amazon | L6 (senior) | Applied Scientist | $175-210K | $120-200K | sign-on | $340-480K |
+| OpenAI | L3 (mid) | Research Engineer | $200-250K | PPUs | — | $350-600K+ |
+| OpenAI | L4 (senior) | Research Engineer | $275-350K | PPUs | — | $500K-1M+ |
+| Anthropic | Mid | Research Engineer | $200-260K | equity | — | $350-550K |
+| Anthropic | Senior | Research Engineer | $275-350K | equity | — | $500-800K+ |
+| NVIDIA | Mid | ML Engineer | $160-200K | $80-140K | 10% | $280-400K |
+| NVIDIA | Senior | ML Engineer | $200-250K | $150-300K | 15% | $400-640K |
+| Databricks | Mid | ML Engineer | $170-200K | $100-160K | — | $300-400K |
+| Databricks | Senior | ML Engineer | $210-260K | $180-350K | — | $430-680K |
+
+*Data sourced from [levels.fyi](https://levels.fyi), Blind, and public H1B records. Ranges represent 25th-75th percentile. Stock values fluctuate.*
+
+### Role Differentiation
+
+| Role | Core Interview Focus | Typical Companies |
+|------|---------------------|-------------------|
+| **ML Engineer (MLE)** | ML system design, production ML, MLOps, coding | All Big Tech, startups |
+| **Applied Scientist** | Research depth, paper implementation, novel methods | Amazon, Microsoft, Meta |
+| **AI Engineer** | LLM integration, RAG, agents, prompt engineering, evaluation | OpenAI, Anthropic, startups |
+| **Research Scientist** | Novel research, paper publication, experimental design | DeepMind, FAIR, Anthropic |
+| **MLOps Engineer** | Infrastructure, pipelines, monitoring, serving systems | All companies with ML at scale |
+
+### Negotiation Resources
+
+- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) - Haseeb Qureshi's viral negotiation guide.
+- [Levels.fyi Negotiation Guide](https://www.levels.fyi/blog/how-to-negotiate-salary.html) - Data-backed negotiation strategies.
+- [Rora Negotiation](https://www.teamrora.com/) - Free negotiation coaching for Big Tech offers.
+- [Candor Salary Negotiation](https://candor.co/guides/salary-negotiation) - Step-by-step negotiation framework.
+
+---
+
+## Company-Specific Guides
+
+### Anthropic
+
+**Interview Process:** Recruiter screen -> Technical phone screen (coding + ML) -> Onsite (4-5 rounds: coding, ML depth, system design, research discussion, values/behavioral).
+
+**What They Look For:** Deep understanding of AI safety, alignment research, and responsible AI development. Strong coding + ML fundamentals. Passion for building safe, beneficial AI systems.
+
+**Key Topics:** Constitutional AI, RLHF/DPO, red-teaming, interpretability, scaling laws, evaluation methodology. Be prepared to discuss alignment research papers.
+
+**Resources:** [Anthropic Research](https://www.anthropic.com/research), [Claude Documentation](https://docs.anthropic.com/), [Core Views on AI Safety](https://www.anthropic.com/news/core-views-on-ai-safety)
+
+### OpenAI
+
+**Interview Process:** Recruiter screen -> Technical screen (coding) -> Onsite (4-6 rounds: coding, ML/AI depth, system design, past project deep-dive, behavioral).
+
+**What They Look For:** Strong engineering fundamentals combined with deep AI/ML knowledge. Ability to work on novel problems with ambiguity. Track record of shipping AI products or publishing research.
+
+**Key Topics:** Transformer architectures, scaling laws, RLHF, multi-modal models, inference optimization, evaluation design. Expect questions about GPT architecture and training methodology.
+
+**Resources:** [OpenAI Research](https://openai.com/research/), [OpenAI Cookbook](https://cookbook.openai.com/), [API Documentation](https://platform.openai.com/docs)
+
+### Google DeepMind
+
+**Interview Process:** Recruiter screen -> Phone screens (2: coding + ML) -> Onsite (5 rounds: 2 coding, ML breadth, ML depth/system design, Googleyness/leadership).
+
+**What They Look For:** Strong algorithmic fundamentals (L5+ needs system design). Research depth in at least one area (NLP, CV, RL, optimization). Publication track record valued but not required for engineering roles.
+
+**Key Topics:** Transformer variants, reinforcement learning, optimization theory, distributed training, Gemini/PaLM architecture, TPU programming.
+
+**Resources:** [DeepMind Publications](https://deepmind.google/research/publications/), [Google AI Blog](https://blog.research.google/)
+
+### Meta FAIR / GenAI
+
+**Interview Process:** Recruiter screen -> Phone screen (coding) -> Onsite (4-5 rounds: 2 coding, ML system design, ML depth, behavioral).
+
+**What They Look For:** Strong coding (data structures + algorithms at medium-hard LeetCode level). ML system design at scale (billions of users). Experience with large-scale distributed training.
+
+**Key Topics:** Recommendation systems, ranking models, Llama model family, PyTorch ecosystem, multi-modal AI, content understanding at scale.
+
+**Resources:** [Meta AI Research](https://ai.meta.com/research/), [PyTorch Documentation](https://pytorch.org/docs/), [Llama Models](https://ai.meta.com/llama/)
+
+### NVIDIA
+
+**Interview Process:** Recruiter screen -> Technical phone screen -> Onsite (4-5 rounds: coding, ML/DL depth, system design, team fit).
+
+**What They Look For:** Deep understanding of GPU architecture, CUDA programming, model optimization. Experience with inference optimization (TensorRT, Triton). Hardware-software co-design thinking.
+
+**Key Topics:** GPU memory hierarchy, CUDA kernels, mixed-precision training, model parallelism (tensor/pipeline/data), TensorRT optimization, Triton Inference Server.
+
+**Resources:** [NVIDIA Developer Blog](https://developer.nvidia.com/blog), [CUDA Programming Guide](https://docs.nvidia.com/cuda/)
+
+### Databricks
+
+**Interview Process:** Recruiter screen -> Technical screen -> Onsite (4 rounds: coding, ML, system design, behavioral).
+
+**What They Look For:** Data engineering + ML intersection. Experience with large-scale data processing. Understanding of lakehouse architecture, Spark, and MLflow.
+
+**Key Topics:** Spark optimization, Delta Lake, MLflow lifecycle, feature stores, model serving, Unity Catalog, Mosaic ML training infrastructure.
+
+**Resources:** [Databricks Engineering Blog](https://www.databricks.com/blog/category/engineering), [MLflow Documentation](https://mlflow.org/docs/latest/)
+
+### Amazon AGI / AWS AI
+
+**Interview Process:** Recruiter screen -> Phone screen -> Onsite (5 rounds: 2 coding, ML system design, behavioral/LP, hiring manager).
+
+**What They Look For:** Customer obsession applied to AI. LP-driven behavioral answers. Ability to deliver ML solutions at Amazon scale. Bias for action over perfection.
+
+**Key Topics:** 16 Leadership Principles (know them cold), Alexa/Bedrock/SageMaker architecture, recommendation systems, NLP at scale, frugality in model serving.
+
+**Resources:** [Amazon Science](https://www.amazon.science/), [AWS AI/ML Blog](https://aws.amazon.com/blogs/machine-learning/)
+
+> **See also:** [Company-by-company interview data](interview/data/) for detailed process descriptions from 51 companies.
+
+---
+
+## Real Interview Debriefs
+
+> **Note:** These are anonymized first-person accounts. Details have been modified to protect privacy while preserving the learning value. [Submit your own debrief](CONTRIBUTING.md#interview-debriefs)
+
+### Debrief #1: Senior MLE at a Large AI Lab (Offer Received)
+
+**Timeline:** Applied -> Recruiter screen (1 week) -> Phone screen (2 weeks) -> Onsite (3 weeks) -> Offer (1 week). Total: ~7 weeks.
+
+**Rounds:**
+1. **Coding (45 min):** Medium LeetCode — graph traversal + optimization. Finished with 10 min to spare. Interviewer tested edge cases.
+2. **ML Depth (45 min):** Deep dive on transformer architecture. Asked to explain KV cache, rotary positional embeddings, and flash attention. Follow-up: "How would you modify the attention mechanism for very long contexts?"
+3. **System Design (60 min):** "Design a real-time toxicity detection system for a chat platform." Covered data pipeline, model selection, serving architecture, human-in-the-loop feedback, and cost analysis.
+4. **Research Discussion (45 min):** Discussed my past project on fine-tuning LLMs for domain-specific tasks. Deep questions on evaluation methodology and failure modes.
+5. **Behavioral (45 min):** Standard STAR questions but all AI-contextualized: "Tell me about a time your model caused an unexpected negative impact."
+
+**What Worked:** Quantified everything with numbers. For system design, included a cost model ($/query) which the interviewer specifically called out as strong. Prepared 8 STAR stories specifically about ML projects.
+
+**What I'd Change:** Should have asked more clarifying questions in the system design round — I jumped to architecture too quickly.
+
+### Debrief #2: AI Engineer at a Mid-Stage Startup (Offer Received)
+
+**Timeline:** Referral -> Phone screen (3 days) -> Take-home (1 week deadline) -> Onsite (1 week) -> Offer (2 days). Total: ~3 weeks.
+
+**Rounds:**
+1. **Phone Screen (30 min):** Conversational. "What's your experience with RAG?" "Walk me through a production AI system you built." No coding.
+2. **Take-Home (4 hours):** Build a RAG pipeline over a provided dataset. Evaluate with precision@5 and answer quality. Submit code + 1-page writeup.
+3. **Onsite — Technical Review (60 min):** Walk through take-home code. Deep questions on chunking strategy, embedding choice, and why I used hybrid retrieval.
+4. **Onsite — System Design (45 min):** "Design our AI-powered search from scratch." Focused on practical constraints: budget, team size, time to ship.
+5. **Onsite — Founder Chat (30 min):** Culture fit, motivation, career goals. "Why a startup over Big Tech?"
+
+**What Worked:** The take-home was my best performing round. I over-invested in evaluation (built a mini eval harness) which impressed them.
+
+**What I'd Change:** Should have researched the company's product more deeply before the founder chat.
 
 ---
 
@@ -105,7 +334,7 @@
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - Best practices for getting reliable results from GPT models.
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) - Community-maintained comprehensive guide covering techniques, applications, and research.
 
-### Interview Questions — LLM Fundamentals *(Original)*
+### Interview Questions — LLM Fundamentals
 
 | # | Question | Difficulty | Time |
 |---|----------|-----------|------|
@@ -148,18 +377,18 @@ Every ML system design answer should cover these 5 areas:
 
 **Architecture:**
 ```
-Documents → Chunker (recursive, 512 tokens) → Embeddings (BGE-large)
-                                                      ↓
-User Query → Query Rewriter → Hybrid Retrieval (dense + BM25) → Reranker (cross-encoder)
-                                                                          ↓
-                                                              LLM (Claude/GPT-4) + Citations → Response
+Documents -> Chunker (recursive, 512 tokens) -> Embeddings (BGE-large)
+                                                      |
+User Query -> Query Rewriter -> Hybrid Retrieval (dense + BM25) -> Reranker (cross-encoder)
+                                                                          |
+                                                              LLM (Claude/GPT-4) + Citations -> Response
 ```
 
 **Key decisions:**
 - **Chunking:** Recursive with 512-token windows, 50-token overlap. Legal docs need section-aware splitting (by clause/paragraph, not arbitrary).
 - **Retrieval:** Hybrid (dense embeddings + BM25) outperforms dense-only by 15-20% on legal text. Use Reciprocal Rank Fusion to merge results.
 - **Reranking:** Cross-encoder reranker on top-50 retrieved chunks reduces noise before LLM context window.
-- **Cost:** At 10M docs × 5 chunks/doc × $0.0001/embedding = $5K one-time. Serving: ~$0.05/query with caching.
+- **Cost:** At 10M docs x 5 chunks/doc x $0.0001/embedding = $5K one-time. Serving: ~$0.05/query with caching.
 - **Evaluation:** Precision@K on golden test set, human eval on citation accuracy, latency P95 < 3s.
 
 ### Worked Example: Design an AI Customer Support Agent
@@ -168,11 +397,11 @@ User Query → Query Rewriter → Hybrid Retrieval (dense + BM25) → Reranker (
 
 **Architecture:**
 ```
-Ticket → Intent Classifier → Router
-                               ├─ FAQ (retrieval from KB) → Response
-                               ├─ Order Status (tool call: order API) → Response  
-                               ├─ Refund (tool call: payment API + approval logic) → Response
-                               └─ Escalation (confidence < 0.85) → Human Agent
+Ticket -> Intent Classifier -> Router
+                               |-- FAQ (retrieval from KB) -> Response
+                               |-- Order Status (tool call: order API) -> Response
+                               |-- Refund (tool call: payment API + approval logic) -> Response
+                               +-- Escalation (confidence < 0.85) -> Human Agent
 ```
 
 **Key decisions:**
@@ -181,7 +410,7 @@ Ticket → Intent Classifier → Router
 - **Evaluation:** Resolution rate, customer satisfaction score, escalation rate, time-to-resolution. A/B test against human-only baseline.
 - **Cost modeling:** GPT-4o at ~$0.03/ticket vs human agent at ~$5/ticket. Break-even at 167 tickets/day.
 
-### Interview Questions — System Design *(Original)*
+### Interview Questions — System Design
 
 | # | Question | Difficulty | Time |
 |---|----------|-----------|------|
@@ -240,7 +469,7 @@ Ticket → Intent Classifier → Router
 
 Most repos treat behavioral as an afterthought. In reality, behavioral rounds are **elimination rounds** — technical skills get you to the final round, but behavioral determines the offer.
 
-### AI-Context Behavioral Questions *(Original)*
+### AI-Context Behavioral Questions
 
 | # | Question | Framework | Difficulty |
 |---|----------|----------|-----------|
@@ -272,160 +501,6 @@ Most repos treat behavioral as an afterthought. In reality, behavioral rounds ar
 
 ---
 
-## Salary & Compensation
-
-### AI/ML Engineer Compensation (2025-2026 US Market)
-
-| Company | Level | Role | Base | Stock (annual) | Bonus | Total TC |
-|---------|-------|------|------|---------------|-------|----------|
-| Google | L4 (mid) | MLE | $160-185K | $80-120K | 15% | $280-380K |
-| Google | L5 (senior) | MLE | $195-230K | $150-250K | 15% | $400-550K |
-| Google | L6 (staff) | MLE | $240-280K | $250-450K | 15% | $570-830K |
-| Meta | E4 (mid) | MLE | $165-190K | $80-130K | 10% | $280-390K |
-| Meta | E5 (senior) | MLE | $200-240K | $150-300K | 15% | $410-620K |
-| Meta | E6 (staff) | MLE | $250-300K | $300-500K | 20% | $630-900K |
-| Amazon | L5 (mid) | Applied Scientist | $150-175K | $60-100K | sign-on | $240-330K |
-| Amazon | L6 (senior) | Applied Scientist | $175-210K | $120-200K | sign-on | $340-480K |
-| OpenAI | L3 (mid) | Research Engineer | $200-250K | PPUs | — | $350-600K+ |
-| OpenAI | L4 (senior) | Research Engineer | $275-350K | PPUs | — | $500K-1M+ |
-| Anthropic | Mid | Research Engineer | $200-260K | equity | — | $350-550K |
-| Anthropic | Senior | Research Engineer | $275-350K | equity | — | $500-800K+ |
-| NVIDIA | Mid | ML Engineer | $160-200K | $80-140K | 10% | $280-400K |
-| NVIDIA | Senior | ML Engineer | $200-250K | $150-300K | 15% | $400-640K |
-| Databricks | Mid | ML Engineer | $170-200K | $100-160K | — | $300-400K |
-| Databricks | Senior | ML Engineer | $210-260K | $180-350K | — | $430-680K |
-
-*Data sourced from [levels.fyi](https://levels.fyi), Blind, and public H1B records. Ranges represent 25th-75th percentile. Stock values fluctuate.*
-
-### Role Differentiation
-
-| Role | Core Interview Focus | Typical Companies |
-|------|---------------------|-------------------|
-| **ML Engineer (MLE)** | ML system design, production ML, MLOps, coding | All Big Tech, startups |
-| **Applied Scientist** | Research depth, paper implementation, novel methods | Amazon, Microsoft, Meta |
-| **AI Engineer** | LLM integration, RAG, agents, prompt engineering, evaluation | OpenAI, Anthropic, startups |
-| **Research Scientist** | Novel research, paper publication, experimental design | DeepMind, FAIR, Anthropic |
-| **MLOps Engineer** | Infrastructure, pipelines, monitoring, serving systems | All companies with ML at scale |
-
-### Negotiation Resources
-
-- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) - Haseeb Qureshi's viral negotiation guide.
-- [Levels.fyi Negotiation Guide](https://www.levels.fyi/blog/how-to-negotiate-salary.html) - Data-backed negotiation strategies.
-- [Rora Negotiation](https://www.teamrora.com/) - Free negotiation coaching for Big Tech offers.
-- [Candor Salary Negotiation](https://candor.co/guides/salary-negotiation) - Step-by-step negotiation framework.
-
----
-
-## Company-Specific Guides
-
-### Anthropic
-
-**Interview Process:** Recruiter screen → Technical phone screen (coding + ML) → Onsite (4-5 rounds: coding, ML depth, system design, research discussion, values/behavioral).
-
-**What They Look For:** Deep understanding of AI safety, alignment research, and responsible AI development. Strong coding + ML fundamentals. Passion for building safe, beneficial AI systems.
-
-**Key Topics:** Constitutional AI, RLHF/DPO, red-teaming, interpretability, scaling laws, evaluation methodology. Be prepared to discuss alignment research papers.
-
-**Resources:** [Anthropic Research](https://www.anthropic.com/research), [Claude Documentation](https://docs.anthropic.com/), [Core Views on AI Safety](https://www.anthropic.com/news/core-views-on-ai-safety)
-
-### OpenAI
-
-**Interview Process:** Recruiter screen → Technical screen (coding) → Onsite (4-6 rounds: coding, ML/AI depth, system design, past project deep-dive, behavioral).
-
-**What They Look For:** Strong engineering fundamentals combined with deep AI/ML knowledge. Ability to work on novel problems with ambiguity. Track record of shipping AI products or publishing research.
-
-**Key Topics:** Transformer architectures, scaling laws, RLHF, multi-modal models, inference optimization, evaluation design. Expect questions about GPT architecture and training methodology.
-
-**Resources:** [OpenAI Research](https://openai.com/research/), [OpenAI Cookbook](https://cookbook.openai.com/), [API Documentation](https://platform.openai.com/docs)
-
-### Google DeepMind
-
-**Interview Process:** Recruiter screen → Phone screens (2: coding + ML) → Onsite (5 rounds: 2 coding, ML breadth, ML depth/system design, Googleyness/leadership).
-
-**What They Look For:** Strong algorithmic fundamentals (L5+ needs system design). Research depth in at least one area (NLP, CV, RL, optimization). Publication track record valued but not required for engineering roles.
-
-**Key Topics:** Transformer variants, reinforcement learning, optimization theory, distributed training, Gemini/PaLM architecture, TPU programming.
-
-**Resources:** [DeepMind Publications](https://deepmind.google/research/publications/), [Google AI Blog](https://blog.research.google/)
-
-### Meta FAIR / GenAI
-
-**Interview Process:** Recruiter screen → Phone screen (coding) → Onsite (4-5 rounds: 2 coding, ML system design, ML depth, behavioral).
-
-**What They Look For:** Strong coding (data structures + algorithms at medium-hard LeetCode level). ML system design at scale (billions of users). Experience with large-scale distributed training.
-
-**Key Topics:** Recommendation systems, ranking models, Llama model family, PyTorch ecosystem, multi-modal AI, content understanding at scale.
-
-**Resources:** [Meta AI Research](https://ai.meta.com/research/), [PyTorch Documentation](https://pytorch.org/docs/), [Llama Models](https://ai.meta.com/llama/)
-
-### NVIDIA
-
-**Interview Process:** Recruiter screen → Technical phone screen → Onsite (4-5 rounds: coding, ML/DL depth, system design, team fit).
-
-**What They Look For:** Deep understanding of GPU architecture, CUDA programming, model optimization. Experience with inference optimization (TensorRT, Triton). Hardware-software co-design thinking.
-
-**Key Topics:** GPU memory hierarchy, CUDA kernels, mixed-precision training, model parallelism (tensor/pipeline/data), TensorRT optimization, Triton Inference Server.
-
-**Resources:** [NVIDIA Developer Blog](https://developer.nvidia.com/blog), [CUDA Programming Guide](https://docs.nvidia.com/cuda/)
-
-### Databricks
-
-**Interview Process:** Recruiter screen → Technical screen → Onsite (4 rounds: coding, ML, system design, behavioral).
-
-**What They Look For:** Data engineering + ML intersection. Experience with large-scale data processing. Understanding of lakehouse architecture, Spark, and MLflow.
-
-**Key Topics:** Spark optimization, Delta Lake, MLflow lifecycle, feature stores, model serving, Unity Catalog, Mosaic ML training infrastructure.
-
-**Resources:** [Databricks Engineering Blog](https://www.databricks.com/blog/category/engineering), [MLflow Documentation](https://mlflow.org/docs/latest/)
-
-### Amazon AGI / AWS AI
-
-**Interview Process:** Recruiter screen → Phone screen → Onsite (5 rounds: 2 coding, ML system design, behavioral/LP, hiring manager).
-
-**What They Look For:** Customer obsession applied to AI. LP-driven behavioral answers. Ability to deliver ML solutions at Amazon scale. Bias for action over perfection.
-
-**Key Topics:** 16 Leadership Principles (know them cold), Alexa/Bedrock/SageMaker architecture, recommendation systems, NLP at scale, frugality in model serving.
-
-**Resources:** [Amazon Science](https://www.amazon.science/), [AWS AI/ML Blog](https://aws.amazon.com/blogs/machine-learning/)
-
----
-
-## Real Interview Debriefs
-
-> **Note:** These are anonymized first-person accounts. Details have been modified to protect privacy while preserving the learning value. [Submit your own debrief →](CONTRIBUTING.md#interview-debriefs)
-
-### Debrief #1: Senior MLE at a Large AI Lab (Offer Received)
-
-**Timeline:** Applied → Recruiter screen (1 week) → Phone screen (2 weeks) → Onsite (3 weeks) → Offer (1 week). Total: ~7 weeks.
-
-**Rounds:**
-1. **Coding (45 min):** Medium LeetCode — graph traversal + optimization. Finished with 10 min to spare. Interviewer tested edge cases.
-2. **ML Depth (45 min):** Deep dive on transformer architecture. Asked to explain KV cache, rotary positional embeddings, and flash attention. Follow-up: "How would you modify the attention mechanism for very long contexts?"
-3. **System Design (60 min):** "Design a real-time toxicity detection system for a chat platform." Covered data pipeline, model selection, serving architecture, human-in-the-loop feedback, and cost analysis.
-4. **Research Discussion (45 min):** Discussed my past project on fine-tuning LLMs for domain-specific tasks. Deep questions on evaluation methodology and failure modes.
-5. **Behavioral (45 min):** Standard STAR questions but all AI-contextualized: "Tell me about a time your model caused an unexpected negative impact."
-
-**What Worked:** Quantified everything with numbers. For system design, included a cost model ($/query) which the interviewer specifically called out as strong. Prepared 8 STAR stories specifically about ML projects.
-
-**What I'd Change:** Should have asked more clarifying questions in the system design round — I jumped to architecture too quickly.
-
-### Debrief #2: AI Engineer at a Mid-Stage Startup (Offer Received)
-
-**Timeline:** Referral → Phone screen (3 days) → Take-home (1 week deadline) → Onsite (1 week) → Offer (2 days). Total: ~3 weeks.
-
-**Rounds:**
-1. **Phone Screen (30 min):** Conversational. "What's your experience with RAG?" "Walk me through a production AI system you built." No coding.
-2. **Take-Home (4 hours):** Build a RAG pipeline over a provided dataset. Evaluate with precision@5 and answer quality. Submit code + 1-page writeup.
-3. **Onsite — Technical Review (60 min):** Walk through take-home code. Deep questions on chunking strategy, embedding choice, and why I used hybrid retrieval.
-4. **Onsite — System Design (45 min):** "Design our AI-powered search from scratch." Focused on practical constraints: budget, team size, time to ship.
-5. **Onsite — Founder Chat (30 min):** Culture fit, motivation, career goals. "Why a startup over Big Tech?"
-
-**What Worked:** The take-home was my best performing round. I over-invested in evaluation (built a mini eval harness) which impressed them.
-
-**What I'd Change:** Should have researched the company's product more deeply before the founder chat.
-
----
-
 ## LLM Evaluation & Testing
 
 ### Resources
@@ -436,7 +511,7 @@ Most repos treat behavioral as an afterthought. In reality, behavioral rounds ar
 - [DeepEval](https://github.com/confident-ai/deepeval) - Unit testing framework for LLM applications — test hallucination, relevance, toxicity.
 - [Ragas](https://docs.ragas.io/) - Evaluation framework specifically for RAG pipelines.
 
-### Interview Questions — Evaluation *(Original)*
+### Interview Questions — Evaluation
 
 | # | Question | Difficulty | Time |
 |---|----------|-----------|------|
@@ -498,7 +573,7 @@ Most repos treat behavioral as an afterthought. In reality, behavioral rounds ar
 **Books**
 - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) by Chip Huyen - The best book on production ML systems.
 - [Deep Learning](https://www.deeplearningbook.org/) by Goodfellow, Bengio, Courville - The comprehensive reference for DL theory.
-- [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) by Aurélien Géron - Practical ML with Scikit-Learn, Keras, and TensorFlow.
+- [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) by Aurelien Geron - Practical ML with Scikit-Learn, Keras, and TensorFlow.
 - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka - Build GPT from the ground up.
 
 **Courses**
@@ -533,9 +608,23 @@ Most repos treat behavioral as an afterthought. In reality, behavioral rounds ar
 
 ---
 
+## Awesome Resources
+
+Curated collection of resources compiled from researching content for this field guide:
+
+- [Practitioner interview stories](awesome.md#ai-interview-experiences) - first-person accounts from candidates and interviewers
+- [AI system design guides](awesome.md#architecture-lessons-and-patterns-2025-2026) - production architecture patterns and lessons learned
+- [Company engineering blogs](awesome.md) - technical blogs from AI-first companies
+- [Books and courses](awesome.md) - additional learning resources
+- [Case study collections](awesome.md) - real-world AI deployment case studies
+
+See **[awesome.md](awesome.md)** for the complete list.
+
+---
+
 ## Complete Interview Prep Library
 
-> Beyond AI/ML — the full 0-to-1 Playbook series covers 30+ career paths. [See all books →](BOOKS.md)
+> Beyond AI/ML — the full 0-to-1 Playbook series covers 30+ career paths. [See all books](BOOKS.md)
 
 <details>
 <summary><strong>Finance & Consulting</strong></summary>
@@ -591,8 +680,8 @@ Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md
 
 ### How to Contribute
 
-1. **Add a resource:** Fork → add entry in appropriate section → submit PR
-2. **Submit an interview debrief:** Use the [debrief template](CONTRIBUTING.md#interview-debriefs) → submit PR
+1. **Add a resource:** Fork this repo, add entry in appropriate section, submit PR
+2. **Submit an interview debrief:** Use the [debrief template](CONTRIBUTING.md#interview-debriefs), submit PR
 3. **Translate to Chinese:** Help expand the [zh/](zh/) directory
 4. **Fix a broken link:** Found a dead link? Open an issue or submit a fix
 

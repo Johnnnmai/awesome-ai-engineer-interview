@@ -1,0 +1,57 @@
+company:
+  name: Barclays
+  stage: Public
+  focus: Banking and financial services
+position:
+  title: Director, Principal Engineer - Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on architect role focused on building and
+      deploying LLMs, agentic AI systems, and AI/ML platforms. Key
+      responsibilities include fine-tuning LLMs, implementing
+      agentic frameworks (LangGraph, LangChain, CrewAI),
+      agentizing existing systems with MCP/A2A protocols, and
+      architecting production ML pipelines. The role involves
+      direct work on AI models and systems, not just supporting
+      infrastructure.
+  responsibilities:
+  - Serve as primary code-level reviewer and hands-on architect for complex AI/ML
+    systems and frameworks
+  - Define and enforce technology roadmaps, best practices, and standards for AI/ML
+    adoption across the organization
+  - Conduct and guide research on context/prompt engineering techniques and translate
+    into reusable engineering frameworks
+  - Architect and maintain robust data pipelines and data processing workflows for
+    model training and tuning
+  - Implement and champion MLOps tools and practices for seamless integration of ML
+    models and LLMs into production
+  - Lead the effort to agentize existing systems by incorporating agentic frameworks
+    and integrating via A2A and MCP protocols
+  - Partner with cross-functional teams to integrate AI/ML solutions into products
+    and services
+  - Mentor and coach engineers on advanced AI/ML techniques, best practices, and architecture
+    design
+  use_cases:
+  - Customer experience enhancement in banking and financial services
+  - Streamlining business operations through AI-driven automation
+  - Agentic AI systems for front-end and back-end application integration
+  - LLM-powered solutions with domain-specific knowledge
+  - Production-grade AI/ML platforms for enterprise scale
+  skills:
+    genai: [LangGraph, LangChain, CrewAI, Strands SDK, Google ADK, MCP protocol, A2A
+        protocol, Prompt engineering, LLM training and fine-tuning, Agentic AI frameworks]
+    ml: [PyTorch, Deep learning, Natural language processing, Reinforcement learning]
+    web: []
+    databases: []
+    data: [Data pipelines]
+    cloud: [Cloud services]
+    ops: [Docker, Kubernetes, MLOps, CI/CD, Git, Jenkins]
+    languages: [Python, R]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8098915'
+  extracted_at: '2026-03-27T16:12:57.529067'

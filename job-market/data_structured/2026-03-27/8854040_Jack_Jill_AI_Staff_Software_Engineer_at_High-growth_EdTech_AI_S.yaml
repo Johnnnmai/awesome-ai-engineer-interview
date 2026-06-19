@@ -1,0 +1,46 @@
+company:
+  name: Jack & Jill AI
+  stage: Series A
+  focus: |-
+    Gamified learning platform for education with social
+    mechanics
+position:
+  title: Staff Software Engineer at High-growth EdTech AI Startup
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a frontend/full-stack software engineering role at
+      an EdTech company that happens to be AI-focused. The role
+      focuses on building user-facing features with
+      React/TypeScript, not working on AI/ML systems themselves.
+      The candidate builds the product UI/UX, not the underlying
+      AI technology.
+  responsibilities:
+  - Build and maintain user-facing features with focus on performance, usability,
+    and delightful interactions
+  - Collaborate closely with designers and product managers to translate complex designs
+    into high-quality code
+  - Own features end-to-end from technical design and implementation to daily production
+    releases and iteration
+  - Report directly to CEO and own major frontend initiatives while contributing across
+    the full stack
+  use_cases:
+  - Gamified learning platform
+  - Social learning mechanics for education
+  - Scalable global learning platform
+  skills:
+    genai: []
+    ml: []
+    web: [React, Tailwind, Full-stack development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8854040'
+  extracted_at: '2026-03-27T14:23:57.569266'

@@ -1,0 +1,56 @@
+company:
+  name: Pfizer
+  stage: Public
+  focus: |-
+    Global pharmaceutical company focused on vaccines,
+    medicines, and biotechnology
+position:
+  title: AI/ML Engineer - Vaccine Research
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, training, and
+      deploying AI/ML models including generative and foundation
+      models for protein/antigen engineering. The engineer takes
+      models from concept through validation and deployment,
+      working hands-on with predictive modeling, generative AI,
+      and ML system design - all core AI-first work.
+  responsibilities:
+  - Design, develop, and deploy AI systems that directly influence vaccine discovery
+    and development decisions, informing antigen selection, experimental prioritization,
+    and clinical study design
+  - Lead AI initiatives spanning antigen discovery and optimization, experimental
+    design, translational modeling, clinical trial simulation, and patient stratification
+  - Apply state-of-the-art generative and foundation models to protein and antigen
+    engineering
+  - Architect reliable ML pipelines using modern MLOps practices across cloud and
+    HPC environments with attention to reproducibility and governance
+  - Integrate multimodal datasets including omics, immunological data, clinical evidence,
+    and scientific literature to uncover biological insights
+  - Mentor scientists and engineers, fostering AI-enabled experimentation culture
+    across the organization
+  - Publish and present at scientific conferences, engaging with the broader AI and
+    life-sciences community
+  use_cases:
+  - Vaccine antigen discovery and optimization for viral and bacterial vaccines
+  - Protein and antigen engineering using generative AI models
+  - Clinical trial simulation and patient stratification for vaccine development
+  - Translational modeling to guide experimental and clinical decision-making
+  - Operational forecasting and portfolio analytics for vaccine pipeline
+  - Integration of multimodal biological data to uncover insights for vaccine strategy
+  skills:
+    genai: [Generative AI]
+    ml: [PyTorch, TensorFlow, Foundation models, Predictive modeling, ML system design]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud environments]
+    ops: [MLOps, HPC]
+    languages: [Python]
+    domains: [Computational biology, Immunology, Vaccine R&D]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8812127'
+  extracted_at: '2026-03-27T13:28:57.806635'

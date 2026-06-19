@@ -1,0 +1,51 @@
+company:
+  name: Weave
+  stage: null
+  focus: |-
+    Building AI-powered applications and ML infrastructure for
+    data-driven products
+position:
+  title: Staff Machine Learning Engineer, Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building ML infrastructure, models, and
+      platforms directly - including LLMs, RAG, prompt
+      engineering, fine-tuning, and multi-modal models. The
+      position focuses on creating AI-powered applications and
+      enabling teams to build AI features, with hands-on work on
+      GenAI technologies and model development.
+  responsibilities:
+  - Design and develop machine learning infrastructure, tooling, and models for world-class
+    experiences
+  - Build internal products and platforms to enable teams to incorporate AI into features
+    and customer-facing products
+  - Consult with teams on ML patterns, anti-patterns, and tradeoffs for customer experiences
+  - Build scalable, resilient services for data integration, event processing, and
+    platform extensions
+  - Contribute to product functionality serving large amounts of data and traffic
+  - Coach and collaborate across teams, sharing expertise and best practices
+  - Work with stakeholders to translate product goals into engineering plans
+  use_cases:
+  - Natural language processing and understanding at scale
+  - Real-time audio models including transcription and speech synthesis
+  - AI-powered customer-facing product features
+  - Large-scale data integration and processing
+  - Multi-modal AI applications
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, Fine Tuning, LLM evaluations, Multi-modal
+        models, Model Context Protocol (MCP)]
+    ml: [Jupyter, ASR pipelines, Speech synthesis]
+    web: []
+    databases: [Postgres]
+    data: [Dagster]
+    cloud: [AWS, GCP, GKE]
+    ops: [Triton Server, MLFlow, KubeFlow, DVC, Kubernetes, Docker]
+    languages: [Python, SQL]
+    domains: [Natural Language Processing]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8706711'
+  extracted_at: '2026-03-27T15:11:45.982620'

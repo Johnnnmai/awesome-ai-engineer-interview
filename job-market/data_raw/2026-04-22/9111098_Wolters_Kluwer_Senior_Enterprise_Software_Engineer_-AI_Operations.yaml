@@ -1,0 +1,228 @@
+job_id: 9111098
+title: Senior Enterprise Software Engineer -AI Operations
+company: Wolters Kluwer
+location: Chennai, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Amazon Bedrock
+  - Amazon Ec2
+  - Amazon Eks
+  - Amazon S3
+  - AWS
+  - Aws Cdk
+  - Aws Lambda
+  - Azure Ai
+  - Azure Bicep
+  - Azure
+company_size: 18,996 Employees
+description: |
+  About the Role
+  
+  We are seeking an exceptional Senior AI Engineer with 6-8
+  years of experience to architect and deliver enterprise-
+  grade AI systems at scale, with primary focus on Amazon
+  Bedrock and Microsoft Azure AI Foundry -- the two leading
+  managed cloud AI platforms. This is a staff-level individual
+  contributor position for engineers who can drive technical
+  strategy, mentor cross-functional teams, and translate the
+  latest advances in generative AI into high-impact production
+  systems.
+  
+  You will operate as a principal builder and technical
+  authority across our most ambitious AI initiatives: multi-
+  agent orchestration pipelines, RAG-powered knowledge
+  systems, LLM fine-tuning workflows, and cloud-native AI
+  infrastructure. You will own decisions that reach millions
+  of users and set the engineering benchmark for AI excellence
+  across the organization.
+  
+  This role intentionally avoids SageMaker-centric workflows
+  in favor of the latest serverless and managed AI services --
+  Amazon Bedrock AgentCore, Amazon Nova, Amazon S3 Vectors,
+  Microsoft Foundry, and Azure AI Agent Service -- enabling
+  faster iteration, lower infrastructure overhead, and access
+  to frontier models.
+  
+  Key Responsibilities
+  
+  Technical Leadership & AI Architecture
+  
+  - Own end-to-end architecture of cloud-native AI systems on
+    AWS and Azure, from raw data ingestion through LLM
+    serving, evaluation, and continuous monitoring.
+  - Establish AI engineering standards, model governance
+    frameworks, and cloud design patterns adopted across
+    multiple product teams.
+  - Lead critical cross-platform design decisions: when to use
+    AWS Bedrock vs. Azure AI Foundry, which foundation model
+    best fits performance and cost constraints, and when to
+    fine-tune vs. prompt-engineer.
+  - Evaluate and rapidly prototype with emerging AWS and Azure
+    AI capabilities (Amazon Nova 2, Bedrock Reinforcement
+    Fine-Tuning, Azure GPT-5-Codex, Foundry Agent Service) to
+    keep the organization at the frontier.
+  - Drive technical design reviews, architecture critiques, and
+    risk assessments for high-stakes AI deployments.
+  
+  AWS  Amazon Bedrock & Generative AI Engineering
+  
+  - Architect enterprise applications using Amazon Bedrock as
+    the primary LLM serving and orchestration platform --
+    leveraging the full model catalog including Amazon Nova 2
+    (Lite, Pro, Sonic, Omni), Anthropic Claude, Mistral Large
+    3, and Amazon Bedrock Marketplace models.
+  - Build production multi-agent systems using Amazon Bedrock
+    AgentCore: design agent boundaries with Policy controls,
+    implement episodic Memory for long-horizon reasoning, and
+    configure AgentCore Gateway for secure tool integrations
+    with Salesforce, Slack, and internal APIs.
+  - Implement browser-based workflow automation agents with
+    Amazon Nova Act, achieving 90%+ task reliability for form
+    filling, data extraction, QA testing, and enterprise UI
+    automation workflows.
+  - Design and deploy RAG pipelines using Amazon Bedrock
+    Knowledge Bases with Amazon S3 Vectors as the primary
+    vector store -- supporting up to 2 billion vectors per
+    index with 100ms query latencies at up to 90% lower cost
+    than specialized vector databases.
+  - Apply Amazon Bedrock Reinforcement Fine-Tuning for domain-
+    specific model customization, achieving up to 66% accuracy
+    gains over base models without requiring labeled datasets
+    or deep ML expertise.
+  - Leverage Amazon Bedrock Model Distillation to create task-
+    specific models that run up to 500% faster and cost 75%
+    less, with minimal accuracy trade-off.
+  - Implement Amazon Bedrock Intelligent Prompt Routing and
+    Prompt Caching to reduce inference costs by up to 30%
+    while maintaining response quality.
+  - Apply Amazon Bedrock Guardrails for responsible AI
+    enforcement: content filtering, hallucination prevention,
+    PII redaction, and compliance controls across all
+    production LLM endpoints.
+  - Develop and manage Kiro-based agentic development workflows:
+    context-aware, session-persistent autonomous agents for
+    coding and operational task automation.
+  
+  AZURE  Microsoft Foundry & Azure AI Engineering
+  
+  - Build and deploy intelligent applications on Microsoft
+    Foundry (formerly Azure AI Studio), the unified platform
+    for model access, fine-tuning, evaluation, and agent
+    deployment at enterprise scale.
+  - Integrate and orchestrate frontier models through Foundry
+    Models: Azure OpenAI GPT-4.1 (1M token context), o3 /
+    o4-mini reasoning models, GPT-5-Codex for multimodal code
+    reasoning, Anthropic Claude (Sonnet 4.5, Opus 4.1), and
+    Mistral Large 3.
+  - Design and operate multi-agent systems using Microsoft Agent
+    Framework (Semantic Kernel + AutoGen runtime), building
+    stateful long-running agents deployed via Hosted Agents
+    and published to Microsoft 365 Copilot with one-click.
+  - Build agentic workflows with Azure AI Agent Service,
+    connecting agents to enterprise data via Azure AI Search
+    (RAG), line-of-business APIs through Azure API Management,
+    and real-time data through Azure Event Hubs.
+  - Leverage Microsoft Foundry Control Plane for fleet-wide
+    agent observability, governance, policy enforcement, and
+    compliance auditing across all deployed AI agents.
+  - Implement Deep Research agents in Microsoft Foundry Agent
+    Service as composable, programmable research engines
+    embedded in multi-agent workflows and enterprise
+    applications.
+  - Use Foundry Tools (unified suite of prebuilt AI capabilities
+    for audio, video, image, document, and text) to accelerate
+    development of intelligent agents without rebuilding
+    common AI tasks.
+  - Apply Azure AI Foundry Model Router to dynamically route
+    prompts to the optimal model (GPT-4.1, o4-mini, Phi-4) at
+    runtime, minimizing costs while preserving quality SLAs.
+  - Configure NSP-protected private deployments using VNETs,
+    private endpoints, and BYO Key Vault connections for
+    regulated-industry AI workloads on Foundry.
+  
+  Cross-Platform Infrastructure & MLOps
+  
+  - Architect AWS-native training infrastructure using EC2
+    Trainium3 UltraServers (Trn3) -- AWS's 3nm AI chip
+    delivering 4x performance over Trn2 -- for large-scale
+    model training and inference at lower cost.
+  - Build and manage containerized model serving on Amazon EKS
+    with Karpenter autoscaling, integrated with Triton
+    Inference Server for multi-model, multi-framework
+    inference optimization.
+  - Implement fully serverless inference using AWS Lambda
+    Managed Instances for on-demand LLM endpoint invocations
+    without infrastructure provisioning.
+  - Establish IaC-driven ML platform provisioning using AWS CDK
+    (Python) and Azure Bicep/Terraform, ensuring all AI
+    environments are version-controlled, reproducible, and
+    auditable.
+  - Design cross-cloud observability stacks: Amazon CloudWatch +
+    AWS X-Ray on AWS; Azure Monitor + Application Insights on
+    Azure -- with unified dashboards for model drift
+    detection, latency SLOs, and cost alerting.
+  - Implement MLflow (serverless via SageMaker AI integration or
+    self-hosted on EKS) for experiment tracking, model
+    versioning, and lifecycle management across both AWS and
+    Azure workloads.
+  - Champion cloud cost optimization: AWS Spot instance
+    strategies and Bedrock Intelligent Prompt Routing for AWS
+    workloads; Azure Developer Training tier and Serverless
+    API pay-as-you-go for Azure workloads.
+  
+  Evaluation, Safety & Responsible AI
+  
+  - Define and own the organization's AI evaluation framework --
+    automated pipelines measuring model accuracy, fairness,
+    bias, toxicity, hallucination rate, and safety across both
+    AWS Bedrock and Azure Foundry deployments.
+  - Lead red-teaming, adversarial robustness testing, and
+    jailbreak analysis using Amazon Bedrock Guardrails and
+    Azure AI Content Safety before every production launch.
+  - Establish model risk management: model cards, prompt audit
+    trails, production monitoring dashboards, and incident
+    response runbooks for AI systems.
+  - Collaborate with Legal, Compliance, and the AI Ethics board
+    to meet regulatory requirements (EU AI Act, NIST AI RMF,
+    ISO 42001, SOC 2 Type II).
+  
+  Mentorship & Organizational Influence
+  
+  - Serve as principal technical mentor for mid and junior AI
+    engineers: conducting code reviews, architecture design
+    sessions, and cloud platform enablement workshops.
+  - Represent the team at executive forums, customer briefings,
+    and external AI conferences.
+  - Partner with Product, Research, Data Science, and Platform
+    Engineering to align AI roadmap with business objectives
+    and cloud investment strategy.
+  - Drive org-wide knowledge sharing via internal tech talks,
+    open-source contributions, technical blog posts, and
+    AWS/Azure certification mentorship programs.
+  - Lead technical hiring: define role requirements, design AI
+    cloud-focused interview loops, and make recommendations
+    for senior and staff-level candidates.
+  
+  Our Interview Practices
+  
+  To maintain a fair and genuine hiring process, we kindly ask
+  that all candidates participate in interviews without the
+  assistance of AI tools or external prompts. Our interview
+  process is designed to assess your individual skills,
+  experiences, and communication style. We value authenticity
+  and want to ensure we’re getting to know you—not a digital
+  assistant. To help maintain this integrity, we ask to remove
+  virtual backgrounds and include in-person interviews in our
+  hiring process. Please note that use of AI-generated
+  responses or third-party support during interviews will be
+  grounds for disqualification from the recruitment process.
+  
+  Applicants may be required to appear onsite at a Wolters
+  Kluwer office as part of the recruitment process.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-04-21
+url: "https://builtin.com/job/senior-enterprise-software-engineer-ai-operations/9111098"
+source: Built In

@@ -1,0 +1,61 @@
+company:
+  name: Viral Nation
+  stage: Unknown
+  focus: |-
+    Social-first ecosystems for brand marketing and influencer
+    marketing
+position:
+  title: AI Integration Engineer, AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development and deployment of
+      AI/ML models, agentic workflows, and RAG pipelines. The
+      engineer will build agent ecosystems using Google ADK/MCP,
+      implement LLM integrations with Gemini, and develop RAG
+      pipelines - all core AI/ML implementation work, not support
+      functions.
+  responsibilities:
+  - Transform reference architectures into scalable, deployable code using Python,
+    GKE, and Cloud Run
+  - Build agentic ecosystems using Google ADK and Model Context Protocol (MCP) with
+    Agent-to-Agent orchestration patterns
+  - Apply advanced prompt engineering and context engineering techniques to optimize
+    LLM performance
+  - Develop and tune high-fidelity RAG pipelines using Google RAG Engine and Agent
+    Engine for influencer marketing workflows
+  - Apply machine learning techniques for automated anomaly detection, forecasting,
+    and trend analysis on large datasets
+  - Generate and query high-dimensional video and text embeddings to extract insights
+    from social media content
+  - Integrate Gemini and Model Garden LLMs into production applications with token
+    limit and context window optimization
+  - Implement MLOps practices to track agent performance, cost-efficiency, and ethical
+    AI safeguards
+  use_cases:
+  - Influencer marketing workflow automation
+  - Social media content analysis and insights extraction
+  - Automated anomaly detection in marketing data
+  - Trend forecasting and analysis
+  - Semantic search and classification of video and text content
+  skills:
+    genai: [Google ADK (Agent Development Kit), Model Context Protocol (MCP), Prompt
+        Engineering, RAG (Retrieval Augmented Generation), Gemini LLM, Google Model
+        Garden, Google RAG Engine, Google Agent Engine, Chain-of-Thought prompting,
+      ReAct prompting]
+    ml: [Classical ML algorithms, Regression analysis, Forecasting, Anomaly detection,
+      Embeddings]
+    web: []
+    databases: [Vector Databases, Snowflake Cortex Analyst, Snowflake Cortex Search]
+    data: []
+    cloud: [Vertex AI Pipelines, GKE (Google Kubernetes Engine), Cloud Run, GCP (Google
+        Cloud Platform), GCP IAM]
+    ops: [GitHub Actions, CI/CD, MLOps, Docker]
+    languages: [Python, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8435734'
+  extracted_at: '2026-03-03T12:14:51.763273'

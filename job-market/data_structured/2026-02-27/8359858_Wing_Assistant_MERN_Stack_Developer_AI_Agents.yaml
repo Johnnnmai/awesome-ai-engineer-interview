@@ -1,0 +1,46 @@
+company:
+  name: Wing Assistant
+  stage: Series B or later
+  focus: Building agentic AI solutions for SMBs globally
+position:
+  title: MERN Stack Developer (AI Agents)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires experience building AI Agents
+      from 0-1 and working with LLMs. While it's a full-stack
+      role, the company is dedicated to building agentic AI and
+      the developer will directly implement and integrate AI/LLM
+      capabilities into production products.
+  responsibilities:
+  - Build responsive, user-friendly interfaces using modern JavaScript frameworks
+    (React, Vue)
+  - Develop RESTful or GraphQL APIs using Node.js, Python, or similar back-end technologies
+  - Design and maintain databases (SQL or NoSQL) for efficient data storage and scalability
+  - Integrate AI/LLM model outputs and APIs into production applications
+  - Implement third-party integrations including payment services and cloud providers
+  - Set up CI/CD pipelines and manage containerized services in cloud environments
+  - Work with LLMs to produce qualitative and quantitative evaluations on content
+  - Build and deploy AI Agents from concept to production
+  use_cases:
+  - Agentic AI solutions for SMBs
+  - AI-driven insights and automation for domain-specific tasks
+  - Content evaluation and analysis using LLMs
+  - Third-party API integrations to enhance platform capabilities
+  - Large-scale web platform development
+  skills:
+    genai: [GPT API, Claude API, AI Agents]
+    ml: []
+    web: [React, Vue, Node.js, RESTful APIs, GraphQL, Laravel, Symfony]
+    databases: [PostgreSQL, MySQL, MongoDB, DynamoDB]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, GitHub Actions, GitLab CI, Jenkins]
+    languages: [JavaScript, TypeScript, Python, PHP]
+    domains: []
+    other: [Cursor AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8359858'
+  extracted_at: '2026-03-03T12:04:18.517408'

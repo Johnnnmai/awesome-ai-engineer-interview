@@ -1,0 +1,57 @@
+company:
+  name: Cadence (cadence.care)
+  stage: Series B+
+  focus: |-
+    Remote care delivery system for proactive healthcare of
+    older adults
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on designing, building, and
+      deploying production AI agents that reason over clinical
+      data, use tools, and generate care recommendations. The
+      engineer owns the full lifecycle of LLM-powered workflows
+      including RAG pipelines, agent orchestration, and safety
+      guardrails — all hands-on work with LLMs and agentic
+      systems.
+  responsibilities:
+  - Design, build, and deploy clinical AI agents that reason over patient context,
+    invoke tools, and generate care recommendations
+  - Own reliability, observability, and cost efficiency of LLM-powered workflows at
+    scale
+  - Build and optimize RAG pipelines over clinical knowledge bases, treatment protocols,
+    and real-time patient data
+  - Develop evaluation frameworks including offline benchmarks, safety tests, regression
+    suites, and LLM-as-judge pipelines wired into CI/CD
+  - Design multi-step agent orchestration including planning, memory, tool use, error
+    recovery, and human-in-the-loop escalation paths
+  - Collaborate with clinical, product, and engineering teams to translate patient
+    care needs into AI system design
+  - Continuously push the team to raise the bar on quality, performance, and architecture
+    by staying at the forefront of AI best practices
+  use_cases:
+  - Synthesizing real-time clinical data for proactive care recommendations
+  - Automated clinical reasoning over patient context to surface care actions
+  - RAG-based retrieval from clinical knowledge bases and treatment protocols
+  - Population-level proactive healthcare monitoring and early intervention
+  - Reducing administrative burden for clinicians through AI-powered clinical workflows
+  skills:
+    genai: ['LLM APIs (OpenAI, Anthropic)', Prompt engineering, Tool use / function
+        calling, Structured outputs, RAG systems, Embeddings, Agent frameworks and
+        orchestration patterns, Multi-agent coordination, LLM-as-judge evaluation]
+    ml: ['Fine-tuning (SFT, RLHF, LoRA)']
+    web: []
+    databases: [Vector stores]
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python]
+    domains: [Clinical data handling]
+    other: [HIPAA compliance, SOC 2]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8962200'
+  extracted_at: '2026-04-22T13:24:11.627214'

@@ -1,0 +1,58 @@
+company:
+  name: Kyndryl
+  stage: Public
+  focus: |-
+    IT infrastructure services and mission-critical technology
+    operations
+position:
+  title: Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on building, deploying, and
+      operationalizing agentic AI systems, including RAG, multi-
+      agent orchestration, and autonomous workflows. The engineer
+      directly works with LLM frameworks (LangChain, LlamaIndex,
+      AutoGen, CrewAI) to engineer, evaluate, and deploy AI agents
+      into production—placing it firmly in the ai-first category.
+  responsibilities:
+  - Design, build, and deploy agentic AI systems using multi-agent orchestration,
+    RAG, and advanced reasoning techniques
+  - Translate complex business challenges into agentic workflows and autonomous AI
+    solutions
+  - Evaluate AI systems for accuracy, scalability, safety, and reliability in production
+    environments
+  - Integrate and operationalize agentic AI into enterprise applications, workflows,
+    and business processes
+  - Develop and apply data governance policies ensuring security, privacy, accuracy,
+    and trustworthiness of AI solutions
+  - Manage and deliver multiple AI initiatives simultaneously across the full lifecycle
+    from design to deployment
+  - Collaborate with cross-functional teams and communicate AI concepts to both technical
+    and non-technical stakeholders
+  use_cases:
+  - Autonomous enterprise workflow automation using multi-agent orchestration
+  - Retrieval-augmented generation for enterprise knowledge retrieval and decision
+    support
+  - Business process automation and optimization across domains like cybersecurity,
+    financial services, and IT operations
+  - Production-grade AI agent deployment for real-world enterprise complexity
+  - Enterprise data management and AI-driven insight generation for mission-critical
+    systems
+  skills:
+    genai: [LangChain, LlamaIndex, AutoGen, CrewAI, Prompt Flow, RAG, Multi-agent
+        orchestration, Agent autonomy patterns, Prompt engineering]
+    ml: [Hugging Face, Statistical modeling]
+    web: [API orchestration]
+    databases: []
+    data: []
+    cloud: [Azure AI Studio, AWS, GCP, Azure, Cloud-native AI platforms]
+    ops: [MLOps, LLMOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8973733'
+  extracted_at: '2026-04-22T12:35:30.672085'

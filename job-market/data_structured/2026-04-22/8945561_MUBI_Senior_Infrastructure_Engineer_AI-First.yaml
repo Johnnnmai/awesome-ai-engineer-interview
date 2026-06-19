@@ -1,0 +1,54 @@
+company:
+  name: MUBI
+  stage: Series D+
+  focus: |-
+    Global streaming service, production company, and film
+    distributor
+position:
+  title: Senior Infrastructure Engineer (AI-First)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role explicitly involves building agentic workflows,
+      MCP servers, and AI-powered automation for infrastructure
+      operations. The engineer designs and ships agentic systems
+      (incident response, observability, ticket triaging) using
+      LLM APIs and agentic patterns — not just supporting AI work
+      done by others, but directly building and deploying AI-
+      driven solutions.
+  responsibilities:
+  - Design and build agentic workflows for infrastructure operations including incident
+    response, observability, and support ticket triaging
+  - Build and maintain MCP servers and AI-powered automation connecting infrastructure
+    systems
+  - Assess and own the security surface of agentic tools and workflows
+  - Design, run, and evolve EKS Kubernetes clusters as the primary platform for all
+    services
+  - Build and improve CI/CD pipelines using Jenkins, ArgoCD, and Helm
+  - Operate and extend bare-metal CDN spanning multiple global locations
+  - Manage cloud infrastructure on AWS using Terraform and Chef
+  - Build and operate data pipelines and event-driven architectures using Kafka
+  use_cases:
+  - Automated incident response for infrastructure operations
+  - Intelligent observability and monitoring automation
+  - Support ticket triaging using agentic workflows
+  - MCP servers connecting disparate infrastructure systems
+  - AI-powered platform automation eliminating operational toil
+  - Internal developer tooling to accelerate engineering velocity
+  skills:
+    genai: [MCP (Model Context Protocol), Claude API, Agentic workflows, LLM APIs]
+    ml: []
+    web: [Nginx]
+    databases: [PostgreSQL, MariaDB]
+    data: [Kafka]
+    cloud: [AWS]
+    ops: [Kubernetes (EKS), Terraform, Chef, Docker, Jenkins, ArgoCD, Helm, Kustomize,
+      ELK Stack, Prometheus, Grafana, Datadog]
+    languages: [Python, Ruby, Go, SQL]
+    domains: [Video streaming]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8945561'
+  extracted_at: '2026-04-22T13:41:17.474331'

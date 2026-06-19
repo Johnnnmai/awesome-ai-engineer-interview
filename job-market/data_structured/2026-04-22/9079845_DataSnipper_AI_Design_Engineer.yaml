@@ -1,0 +1,51 @@
+company:
+  name: DataSnipper
+  stage: Bootstrapped unicorn ($1B valuation)
+  focus: AI-powered audit and finance automation inside Excel
+position:
+  title: AI Design Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily a Design Engineer focused on bridging
+      design and frontend development, with AI used as an enabler
+      for design workflows (vibe coding, AI SDLC). The candidate
+      doesn't build, train, fine-tune, or deploy AI/ML models
+      directly. Instead, they set up AI-assisted design
+      environments and workflows for product/design teams, making
+      this an ai-support role.
+  responsibilities:
+  - Build and foster an AI-enabled product and design team at DataSnipper
+  - Create and maintain AI design and vibe coding environments using tools like Figma
+    MCP, Claude Code, and similar
+  - Help build the AI software development lifecycle, specifically for design steps
+  - Set up and manage repositories for AI-led design
+  - Own and evolve the frontend of the design system, ensuring scalability and consistency
+  - Connect the design system with tools so designers, engineers, and product managers
+    can experiment with components
+  - Establish strong collaboration channels between design, engineering, and product
+    teams
+  - Work closely with designers, teaching them code while leveraging user insights
+    in development
+  use_cases:
+  - AI-powered audit and finance workflow automation inside Excel
+  - Excel Agent that operates on real documents and audit evidence with full traceability
+  - AI-driven design workflows and rapid prototyping for product teams
+  - AI-assisted software development lifecycle for design steps
+  - Bridging design and engineering through AI-enabled tooling and environments
+  skills:
+    genai: [Figma MCP, Claude Code, Cursor, AI-driven workflows]
+    ml: []
+    web: [Design Systems, Frontend Development, React]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: [Prototyping tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9079845'
+  extracted_at: '2026-04-22T13:11:46.415822'

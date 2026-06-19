@@ -1,0 +1,49 @@
+company:
+  name: unstructured.io
+  stage: Series B
+  focus: |-
+    Platform for transforming unstructured data into LLM-ready
+    formats
+position:
+  title: AI Engineer - Public Sector
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first as it involves building
+      production RAG pipelines, agentic workflows, and multimodal
+      data processing systems from scratch. The engineer will
+      design, implement, and deploy AI solutions including fine-
+      tuning models and architecting complete systems, not just
+      supporting others' AI work.
+  responsibilities:
+  - Design and implement production-grade RAG pipelines and agentic workflows using
+    Python
+  - Build systems that handle real-world messy data including PDFs, scanned documents,
+    images, and full motion video
+  - Evaluate new models including LLMs, embedding models, and object detection models
+  - Prototype approaches for SBIR and government deliverables and run experiments
+  - Deploy AI solutions to AWS GovCloud environments
+  - Document architectures and contribute to technical reports for contract deliverables
+  - Participate in pre-sales calls to architect solutions for complex client needs
+  use_cases:
+  - Government and military data processing and analysis
+  - Multimodal document understanding and extraction
+  - Enterprise RAG systems for classified environments
+  - Agentic workflows for complex government requirements
+  - Air-gapped AI deployment for secure environments
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, RAG pipelines, DSPy]
+    ml: [Sentence-Transformers, spaCy, GLiNER, Transformers, fine-tuning, object detection]
+    web: [FastAPI]
+    databases: [Pinecone, Weaviate, Chroma, pgvector, Neo4J, Elasticsearch]
+    data: []
+    cloud: [AWS, SageMaker, Bedrock, S3, Lambda]
+    ops: [RAGAS, DeepEval, Arize Phoenix, Docker]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8692157'
+  extracted_at: '2026-03-27T13:18:30.355623'

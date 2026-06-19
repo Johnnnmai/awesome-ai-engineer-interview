@@ -1,0 +1,192 @@
+job_id: 8868065
+title: AI Optimization Engineer
+company: Datacor, Inc.
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - C++
+  - Cplex
+  - Google Or-Tools
+  - Gurobi
+  - Java
+  - Python
+description: |
+  About Us:
+  
+  Datacor is the leading provider of software solutions,
+  including ERP, CRM, Asset Tracking, Simulation and
+  Formulation, to the process manufacturing space. We are on a
+  mission to better equip the industry with software solutions
+  and move it forward by building thoughtful, intuitive
+  products that solve our customers’ most difficult problems.
+  
+  We are passionate about serving our customers and helping
+  them use data as a competitive advantage. Our customers make
+  products that extend and sustain lives by sanitizing,
+  fertilizing, beautifying, cleaning, and recycling the world
+  we live in. We at Datacor help our customers make those
+  products you use every day more safely, cost effectively and
+  more efficiently through our technology platforms and
+  applications.
+  
+  The Role:
+  
+  At our core, we empower top talent with the autonomy to
+  craft innovative solutions that make a real difference
+  helping our users become better, faster, smarter, and more
+  efficient.
+  
+  We are looking for an AI Optimization Engineer to lead and
+  define our optimization capabilities across our product
+  suite. Your mission: reinvent how some of the country's
+  leading process manufacturers and distributors manage their
+  end-to-end operations from inbound ingredient arrivals
+  through production sequencing to outbound fleet and delivery
+  optimization.
+  
+  This is a greenfield role with real depth and full ownership
+  you will set the technical direction, establish the
+  algorithmic foundation, and drive delivery from design
+  through production deployment. You will shape how Datacor
+  approaches optimization across many customers, each
+  operating under their own unique set of business constraints
+  and operational realities. Critically, this role spans
+  multiple Datacor products and cross-functional teams giving
+  you rare visibility and influence across the full business,
+  not just a single product or vertical. You'll lead and
+  collaborate directly with product managers, engineers, and
+  domain experts in a fast-moving team that values your
+  judgment and expertise driving initiatives from problem
+  framing through MVP and into production, seeing your work
+  run in the real world, on the screens of operators making
+  high-stakes decisions every day.
+  
+  If you are energized by hard combinatorial problems, want to
+  build and own a solver capability from the ground up, and
+  care about delivering things that create real impact this is
+  the role for you.
+  
+  Responsibilities:
+  
+  · Define and lead the technical strategy for optimization
+  use cases across Datacor's product portfolio.
+  
+  · Translate complex, real-world operational constraints into
+  rigorous mathematical models.
+  
+  · Design, implement, and benchmark optimization algorithms
+  including exact methods, metaheuristics (simulated
+  annealing, tabu search, genetic algorithms), and commercial
+  solvers (OR-Tools, Gurobi, CPLEX, or equivalent).
+  
+  · Make principled tradeoffs between solution quality,
+  computational cost, and real-time responsiveness.
+  
+  · Collaborate closely with product, engineering, and design
+  teams to ensure the solver doesn't just work algorithmically
+  it becomes a solution that real users can understand, trust,
+  and act on every day.
+  
+  · Drive end-to-end delivery of optimization solutions from
+  prototype to production working across cross-functional
+  teams.
+  
+  · Integrate optimization engines into production software
+  via APIs and enterprise data pipelines.
+  
+  · Serve as the internal authority on optimization methods
+  communicating algorithm design, performance, and tradeoffs
+  clearly to both technical and business audiences.
+  
+  · Stay ahead of advances in OR, combinatorial optimization,
+  and applied AI and bring new ideas and thinking that push
+  our capabilities forward.
+  
+  Qualifications Required:
+  
+  · Master's degree in Operations Research, Industrial
+  Engineering, Computer Science, Applied Mathematics, or a
+  related quantitative field with 3+ years of hands-on
+  industry experience, or a PhD in a related field.
+  
+  · Proven track record of taking optimization solutions from
+  problem definition to production with measurable business
+  impact across domains such as supply chain, logistics,
+  production scheduling, vehicle routing, or related fields.
+  
+  · Proficiency with at least one major OR/optimization
+  framework: Google OR-Tools, Gurobi, CPLEX, HiGHS, SCIP, or
+  equivalent.
+  
+  · Strong programming skills in Python; C++ or Java a plus.
+  
+  · Hands-on experience with cloud platforms, particularly
+  AWS, including deploying and scaling computational
+  workloads.
+  
+  · Familiarity with Large Language Models (LLMs) and
+  generative AI, and an awareness of how they can complement
+  optimization workflows.
+  
+  · Exceptional communication skills able to translate complex
+  algorithmic concepts into clear, business-relevant terms for
+  non-technical stakeholders, and convey the value of your
+  work in a way that resonates across the organization.
+  
+  · Ability to model ambiguous, real-world constraints
+  rigorously and defend and advocate for design decisions at
+  all levels of the organization.
+  
+  · Genuinely curious you ask why the problem exists, not just
+  how to solve it, and you bring that curiosity into every
+  stage of the work.
+  
+  · Strong product ownership mindset you take responsibility
+  for outcomes, not just outputs, and care about whether your
+  solution actually works for the people using it.
+  
+  · Outcomes-driven you measure success by the real-world
+  impact your work delivers, not by the sophistication of the
+  technology or elegance of the process behind it. The goal is
+  results that matter to the business and the customer.
+  
+  Preferred:
+  
+  · Impactful experience in one or more of the following:
+  transportation, logistics, supply chain, fleet management,
+  manufacturing or mill production scheduling, or the agri-
+  food industry.
+  
+  · Familiarity with geospatial data and road network routing
+  APIs (e.g., Google Maps Platform, HERE, Mapbox).
+  
+  · Experience leading optimization work within an Agile,
+  cross-functional product team.
+  
+  · Comfort integrating optimization outputs into enterprise
+  software workflows and ERP data models.
+  
+  EOE Statement:
+  
+  Datacor is an Equal Opportunity Employer and does not
+  discriminate on the basis or race, color, religion, sex,
+  national origin, age, disability, veteran status, or any
+  other protected characteristic.
+  
+  Use of AI During Interviews:
+  
+  At Datacor, we value thoughtful problem-solving and
+  authentic perspectives. To ensure a fair and consistent
+  evaluation process, we ask that candidates do not use
+  generative AI tools or outside assistance during live
+  interviews unless explicitly stated otherwise. We're
+  interested in hearing your experience, your approach, and
+  how you think through challenges.
+industries:
+  - Software
+  - Manufacturing
+posted_date: 2026-03-25
+url: "https://www.builtinla.com/job/ai-optimization-engineer/8868065"
+source: Built In

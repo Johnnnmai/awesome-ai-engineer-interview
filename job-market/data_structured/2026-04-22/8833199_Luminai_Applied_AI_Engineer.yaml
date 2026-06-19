@@ -1,0 +1,46 @@
+company:
+  name: Luminai
+  stage: Series B
+  focus: AI automation platform for healthcare operations workflows
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves training, fine-tuning, and
+      optimizing ML models, designing experiments for AI
+      benchmarks, and building AI automation systems. The engineer
+      works ON the AI/ML systems that power Luminai's platform,
+      making this an ai-first role.
+  responsibilities:
+  - Design experiments and test ideas to optimize key internal AI benchmarks
+  - Design and improve evaluation frameworks to accelerate experimentation speed and
+    direction
+  - Train, fine-tune, and optimize machine learning models with rigorous evaluation
+    and testing
+  - Collaborate on core product development to deliver higher platform capabilities
+  - Set up observability and monitoring systems to safety check model behavior in
+    critical settings
+  - Drive technical projects in ambitious environments to build a reliable AI automation
+    platform
+  use_cases:
+  - Automating mission-critical healthcare operational workflows
+  - End-to-end workflow automation across healthcare systems
+  - Reducing manual labor-intensive SOPs in health systems
+  - Deploying executable AI automations in production healthcare environments
+  skills:
+    genai: []
+    ml: [ML model training and fine-tuning, Model evaluation and testing]
+    web: []
+    databases: []
+    data: [Distributed computing]
+    cloud: []
+    ops: [Observability and monitoring, ML model production deployment]
+    languages: [Python]
+    domains: []
+    other: [Algorithms and data structures, System design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8833199'
+  extracted_at: '2026-04-22T13:42:08.195176'

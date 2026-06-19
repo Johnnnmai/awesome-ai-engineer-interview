@@ -1,0 +1,56 @@
+company:
+  name: Diligent
+  stage: Private (established company with 100+ engineers)
+  focus: |-
+    Governance, risk and compliance (GRC) SaaS solutions with AI
+    integration
+position:
+  title: Principal Software Engineer (Python, AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience building and shipping
+      AI-enabled systems into production, including RAG pipelines,
+      agentic frameworks, and LLM orchestration. The position
+      involves owning AI architectural decisions end-to-end and
+      designing AI-enabled systems with built-in governance, not
+      just supporting others who work on AI.
+  responsibilities:
+  - Set technical direction for AI-enabled platform, architecting secure, scalable,
+    serverless systems on AWS
+  - Define patterns and governance practices that multiple engineering teams adopt
+    across the organization
+  - Own AI architectural decisions end-to-end with built-in governance, monitoring,
+    and regulatory readiness
+  - Lead architectural discussions and design reviews with clear trade-offs around
+    performance, security, reliability, and maintainability
+  - Act as organization's AI thought leader, educating teams on model behavior, agentic
+    systems, and responsible AI practices
+  - Mentor and stretch senior and staff engineers, building technical leadership depth
+    across the organization
+  - Drive platform evolution by identifying cross-cutting pain points and leading
+    design of reusable solutions
+  - Shape engineering strategy with broad organizational impact across multiple teams
+    and products
+  use_cases:
+  - Governance, risk and compliance (GRC) platform with AI capabilities
+  - RAG pipelines for enterprise knowledge retrieval
+  - Agentic systems for workflow automation
+  - LLM orchestration for AI-enabled decision support
+  - AI-powered insights for board members and C-Suite
+  skills:
+    genai: [RAG pipelines, agentic frameworks, LLM orchestration, prompt engineering]
+    ml: []
+    web: [RESTful APIs, microservices]
+    databases: []
+    data: []
+    cloud: [AWS, serverless architectures]
+    ops: [Terraform, CDK, Infrastructure as Code, monitoring and observability]
+    languages: [Python, TypeScript, Node.js]
+    domains: []
+    other: [AI governance, security architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8626020'
+  extracted_at: '2026-03-27T13:30:16.919267'

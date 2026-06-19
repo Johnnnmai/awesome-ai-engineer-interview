@@ -1,0 +1,55 @@
+company:
+  name: Guidewire Software
+  stage: Public
+  focus: Cloud-based platform for property and casualty insurance
+position:
+  title: Software Engineer III (AI/ML)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building GenAI pipelines using
+      LangChain/LlamaIndex, designing agentic workflows, deploying
+      ML models, building MCP servers, and integrating LLM APIs.
+      The engineer is hands-on with model integration,
+      orchestration, and operationalization—clearly working ON AI
+      systems, not just supporting them.
+  responsibilities:
+  - Design, build, and maintain scalable microservices and APIs that power AI capabilities
+    across core solutions
+  - Develop Generative AI pipelines using LangChain, LlamaIndex, and MCP-based integrations
+    for context-aware reasoning and action orchestration
+  - Collaborate with ML engineers and data scientists to integrate and operationalize
+    models from OpenAI and Anthropic
+  - Design and deploy ML models for predictive insights, anomaly detection, and automated
+    decision-making
+  - Design and extend MCP servers to define, expose, and manage tools accessible to
+    LLMs
+  - Implement continuous evaluation and retraining workflows to keep models accurate
+    as business data evolves
+  - Ensure scalability, performance, and security of AI workloads in multi-tenant
+    cloud environments (AWS, Kubernetes)
+  - Participate in architecture reviews and define MCP-compliant interfaces for consistent
+    model-tool interactions
+  use_cases:
+  - Generative AI-powered intelligent services for P&C insurance platform
+  - Context-aware reasoning and action orchestration via agentic workflows
+  - Predictive analytics and anomaly detection for insurance operations
+  - Automated decision-making for insurance processes
+  - LLM tool integration via MCP servers for enterprise AI workflows
+  skills:
+    genai: [LangChain, LlamaIndex, LangGraph, CrewAI, MCP (Model Context Protocol),
+      RAG, ReAct, Agent-based reasoning, OpenAI API, Claude API, Gemini API]
+    ml: [ML model deployment, Model evaluation and retraining]
+    web: [Microservices, REST API, Event-driven architecture]
+    databases: [PostgreSQL, DynamoDB]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: [OAuth2, JWT]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9061092'
+  extracted_at: '2026-04-22T13:17:12.461593'

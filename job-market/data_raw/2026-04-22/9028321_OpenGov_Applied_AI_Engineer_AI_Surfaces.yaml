@@ -1,0 +1,193 @@
+job_id: 9028321
+title: Applied AI Engineer, AI Surfaces
+company: OpenGov
+location: 
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Ci/Cd
+  - Docker
+  - Fastapi
+  - Flask
+  - Python
+company_size: 922 Employees
+description: |
+  OpenGov is the leader in AI and ERP solutions for local and
+  state governments in the U.S. More than 2,000 cities,
+  counties, state agencies, school districts, and special
+  districts rely on the OpenGov Public Service Platform to
+  operate efficiently, adapt to change, and strengthen the
+  public trust. Category-leading products include enterprise
+  asset management, procurement and contract management,
+  accounting and budgeting, billing and revenue management,
+  permitting and licensing, and transparency and open data.
+  These solutions come together in the OpenGov ERP, allowing
+  public sector organizations to focus on priorities and
+  deliver maximum ROI with every dollar and decision in sync.
+  Learn about OpenGov’s mission to power more effective and
+  accountable government and the vision of high-performance
+  government for every community at OpenGov.com.
+  
+  Job Summary
+  
+  OpenGov is seeking an Applied AI Engineer, AI Surfaces to
+  own the API and middleware layer that connects OpenGov’s AI
+  capabilities to the applications and workflows end users
+  depend on. You will be among the first members of our Pune
+  AI engineering team, with real ownership over how AI
+  features reach production surfaces across the organization.
+  
+  This is a software engineering role first. You bring strong
+  backend and API fundamentals, including clean service
+  design, production reliability, and the full lifecycle of a
+  deployed application, and apply them to the integration
+  challenges that sit between our AI platform and our internal
+  tooling/applications. System integration experience is a
+  genuine plus, but not a prerequisite. What matters is that
+  you build things that work reliably for real users, and that
+  you are motivated to grow your AI engineering skills in a
+  fast-moving environment.
+  
+  You will work closely with the Sr. AI Platform Engineer to
+  surface AI capabilities through scalable, observable, and
+  maintainable interfaces, and collaborate with product and
+  frontend teams to deliver AI-powered experiences that are
+  fast, trustworthy, and built to last.
+  
+  Core Responsibilities
+  
+  - Design, build, and maintain the REST APIs, MCP Servers, and
+    middleware services that expose AI capabilities (including
+    but not limited to RAG pipelines, agent workflows, and
+    data services) to OpenGov’s end-user applications.
+  - Build and maintain backend services using Python (FastAPI,
+    Flask) that support AI-driven workflows and enterprise
+    integrations.
+  - Own reliability, performance, and observability of AI-
+    powered services: logging, latency monitoring, error
+    handling, and graceful degradation under load.
+  - Integrate AI features into OpenGov’s existing application
+    surfaces, working with well-defined interfaces from the AI
+    platform team rather than rebuilding the model layer.
+  - Collaborate with product and frontend teams to deliver AI-
+    native user experiences that meet production standards for
+    usability, performance, and security.
+  - Implement authentication, authorization, and secure access
+    patterns across internal AI tools and APIs.
+  - Support integration of AI workflows into enterprise
+    platforms such as Slack, Salesforce, and other SaaS
+    systems.
+  - Containerize and deploy services using Docker and cloud-
+    native infrastructure; contribute to CI/CD pipeline
+    development and maintenance.
+  - Support rapid prototyping of AI-powered features while
+    maintaining a clear and disciplined path from prototype to
+    production-grade deployment.
+  - Actively develop AI engineering knowledge on the job. you
+    will grow into an AI integration specialist, not just an
+    API application engineer.
+  
+  Required Experience
+  
+  - Bachelor’s degree in Computer Science, Engineering, or a
+    related field.
+  - 3–6 years of experience in software engineering, backend
+    development, or platform engineering roles.
+  - Strong Python skills with hands-on experience building and
+    maintaining production REST APIs using FastAPI, Flask, or
+    equivalent frameworks.
+  - Familiarity with Model Context Protocol (MCP) and experience
+    building and/or consuming MCP-compatible tool servers.
+  - Proven ability to design, deploy, and operate production
+    application services, not just internal prototypes or
+    demos.
+  - Solid understanding of API design patterns, versioning,
+    authentication and authorization, and service reliability
+    fundamentals (retries, timeouts, circuit breakers).
+  - Comfortable with containerized deployment (Docker) and/or
+    Snowflake SPCS.
+  - Experience building and maintaining CI/CD pipelines and Git-
+    based release workflows.
+  - Strong debugging and troubleshooting skills across backend
+    and infrastructure layers.
+  - Collaborative by default: works well with product, frontend,
+    and data teams without creating bottlenecks.
+  - Growth orientation: genuinely motivated to develop AI
+    engineering skills on the job.
+  
+  Nice to Have
+  
+  - Experience integrating LLM APIs (OpenAI, Anthropic, Gemini,
+    etc.) into production application services.
+  - Familiarity with LangChain, Snowflake Cortex or similar AI
+    application frameworks.
+  - Experience building AI-powered internal tools, copilots, or
+    enterprise dashboards.
+  - Experience integrating with enterprise platforms such as
+    Slack, Salesforce, Workday, NetSuite, or similar SaaS
+    systems.
+  - Familiarity with Snowflake data architecture or Snowflake-
+    hosted APIs.
+  - Understanding of async patterns and streaming API responses
+    (SSE, WebSockets) relevant to AI-powered UX.
+  - Experience collaborating with cross-functional, non-
+    technical stakeholders.
+  
+  Why OpenGov?
+  
+  A Mission That Matters.
+  
+  At OpenGov, public service is personal. We are passionate
+  about our mission to power more effective and accountable
+  government. Government that operates efficiently, adapts to
+  change, and strengthens public trust.  Some people say this
+  is boring.  We think it’s the core of our democracy.
+  
+  Opportunity to Innovate
+  
+  The next great wave of innovation is unfolding with AI, and
+  it will impact everything—from the way we work to the way
+  governments interact with their residents. Join a trusted
+  team with the passion, technology, and expertise to drive
+  innovation and bring AI to local government. We’ve touched
+  2,000 communities so far, and we’re just getting started.
+  
+  A Team of Passionate, Driven People
+  
+  This isn’t your typical 9-to-5 job; we operate in a fast-
+  paced, results-driven environment where impact matters more
+  than simply clocking in and out. Our global team of 800+
+  employees is united in our commitment to challenge the
+  status quo. OpenGov is headquartered in San Francisco and
+  has offices in Atlanta, Boston, Buenos Aires, Chicago,
+  Dubuque, Plano, and Pune.
+  
+  A Place to Make Your Mark
+  
+  We pride ourselves on our performance-based culture, where
+  every employee is encouraged to jump in head-first and take
+  action to help us improve. If you have a great idea, we want
+  to hear it. Excellent performance is recognized and
+  rewarded, and we love to promote from within.
+  
+  Benefits That Work for You
+  
+  Enjoy an award-winning workplace with the benefits to match,
+  including:
+  
+  - Comprehensive healthcare options for individuals and
+    families
+  - Flexible vacation policy and paid company holidays
+  - 401(k) with company match
+  - Paid parental leave, wellness stipends, and HSA
+    contributions
+  - Professional development and growth opportunities
+  - A collaborative office environment with weekly catered
+    lunches.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Software
+posted_date: 2026-04-13
+url: "https://builtin.com/job/applied-ai-engineer-ai-surfaces/9028321"
+source: Built In

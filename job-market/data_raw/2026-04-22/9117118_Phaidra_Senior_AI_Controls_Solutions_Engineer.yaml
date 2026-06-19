@@ -1,0 +1,259 @@
+job_id: 9117118
+title: Senior AI Controls Solutions Engineer
+company: Phaidra
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - Bacnet
+  - Data Center Cooling Control
+  - Hvac
+  - Modbus
+  - Plc
+  - Python
+  - Reinforcement Learning
+description: |
+  About Phaidra
+  
+  Phaidra is building the future of industrial automation.
+  
+  The world today is filled with static, monolithic
+  infrastructure. Factories, power plants, buildings, etc.
+  operate the same they've operated for decades — because the
+  controls programming is hard-coded. Thousands of lines of
+  rules and heuristics that define how the machines interact
+  with each other. The result of all this hard-coding is that
+  facilities are frozen in time, unable to adapt to their
+  environment while their performance slowly degrades.
+  
+  Phaidra creates AI-powered control systems for the
+  industrial sector, enabling industrial facilities to
+  automatically learn and improve over time. Specifically:
+  
+  - We use reinforcement learning algorithms to provide this
+    intelligence, converting raw sensor data into high-value
+    actions and decisions.
+  - We focus on industrial applications, which tend to be well-
+    sensorized with measurable KPIs — perfect for
+    reinforcement learning.
+  - We enable domain experts (our users) to configure the AI
+    control systems (i.e. agents) without writing code. They
+    define what they want their AI agents to do, and we do it
+    for them.
+  
+  Our team has a track record of applying AI to some of the
+  toughest problems. From achieving superhuman performance
+  with DeepMind's AlphaGo, to reducing the energy required to
+  cool Google's Data Centers by 40%, we deeply understand AI
+  and how to apply it in production for massive impact.
+  
+  Phaidra’s ability to achieve its mission is determined by
+  our ability to work together — as defined by our core
+  values: Transparency, Collaboration, Operational Excellence,
+  Ownership, and Empathy. We seek individuals who embody these
+  values, as they are instrumental in ensuring our team
+  consistently delivers excellence and fosters an engaging and
+  supportive culture
+  
+  Phaidra is based in the USA, but we are 100% remote with no
+  physical office. We hire employees internationally with the
+  help of our partner, OysterHR. Our team is currently located
+  throughout the USA, Canada, UK, Sweden, Spain, Portugal, the
+  Netherlands, Singapore, Australia, and India.
+  
+  Who You Are
+  
+  As an AI Controls Solutions Engineer, you'll play a critical
+  role in operationalizing and scaling Phaidra's solutions for
+  enterprise data center customers.
+  
+  We are seeking a team member located in the following area:
+  USA.
+  
+  Responsibilities
+  
+  You will work closely with the Technical Program Managers
+  (TPMs) and Data Scientists (DSs), as the technical experts
+  for Phaidra's customers. Your role is to use Phaidra's
+  platform and tools to put AI into production.
+  
+  This role can be broken down into two concrete areas of
+  responsibility:
+  
+  - As the subject matter expert, (SME), you will use Phaidra’s
+    products and your knowledge of the customers' needs to
+    create a model of the facility for ingestion by our
+    product lineup. This will require working closely with our
+    Data Science team. You’ll create a representation of the
+    facility in Mort system builder, map tag data, review our
+    Insights logic for facility specific requirements, and
+    assist in analyzing and triaging these systems in the
+    support phase.
+  - You will work with the product team to identify and define
+    product requirements based upon each customer’s
+    specification and needs. You will work closely with other
+    AI Controls Solutions Engineers and the Product team to
+    ensure our automated tools enable Phaidra to scale across
+    thousands of customers.
+  
+  *This role can include 25% travel
+  
+  Key Qualifications
+  
+  - 10-15 years of work experience as a controls engineer,
+    programmer, or equivalent
+  - Possesses expertise in HVAC and Data Center cooling control
+    methodologies and strategies and displays knowledge of
+    chiller plant fundamentals, configurations, and sequence
+    of operations
+  - Ability to operate as an Solutions Engineer independently.
+  - Understanding of applied thermodynamics for cooling systems,
+    refrigeration systems, and hydronics.
+  - Experience designing, programming, or strong working
+    knowledge of industrial and commercial control systems and
+    protocols such as BACnet and Modbus.
+  - Understanding the applications and control strategies of air
+    side chilled water and direct expansion cooling systems.
+  - Ability to troubleshoot, triage, and analyze issues with
+    control systems and equipment.
+  - Strong proficiency in working with data center operations
+    teams and contributing to solving field operations related
+    problems and challenges.
+  - Experience programming control systems with PLC, ladder
+    logic, text, or block programming languages.
+  - Ability to analyze the performance and viability of your
+    engineered solutions.
+  - Passion for problem solving and using scalable solutions to
+    solve repeat problems.
+  - Ability to translate a combination of customer-stated and
+    customer-implied needs into coherent needs documentation
+    for use by the software development team.
+  - Good educational background in one or more related
+    disciplines pertinent to your area of expertise. Example
+    disciplines include Mechanical Engineering, Computer
+    Science, Software Engineering, Control Theory, Applied
+    Mathematics and other various engineering and applied
+    science fields.
+  - Ability to read and write Python scripts (in collaboration
+    with the software engineering team) to implement Insights
+    and scrappy tooling.
+  - Ability to work independently to resolve onboarding or
+    support tickets by coordinating with the right people or
+    providing direct solutions. You will possesses deep
+    knowledge of Phaidra’s pipelines and effectively identify
+    and addresses issues and manage risks actively.
+  - Exhibits excellent communication skills and has the ability
+    to explain complex domain specific concepts to non-domain
+    experts and also explain complex AI and ML specific
+    concepts to non-AI/ML specific customers.
+  - Ability to own and manage large sections of documentation,
+    fostering a culture of high standards in documentation and
+    communication.
+  - Ability to understand customers well and drive a culture of
+    pragmatic urgency and customer satisfaction.
+  - Ability to lead the deployment and support of multiple
+    Solutions, perhaps in parallel.
+  - Ability to own project delivery within team, work as an
+    independent contributor, and rally other individuals on
+    the team to accomplish substantial tasks that cannot be
+    completed independently.
+  - Ability to mentor peers, delegate within team, handle
+    project stakeholders, build relationships with other
+    departments within Phaidra, and collaborate with their
+    manager on the roadmap, backlog, and work planning.
+  - Shares our company values: Collaboration, Transparency,
+    Operational Excellence, Ownership, & Empathy
+  
+  Preferred Skills & Experience
+  
+  - Experience with rapidly prototyping new technologies and
+    converting into commercially viable products.
+  - Experience building, owning, and operating your own
+    codebases/services.
+  - Experience architecting services within cloud platforms.
+  - Experience applying AI and ML in controls applications.
+  - Experience with statistics, analytics, etc.
+  - Experience with domain relevant optimization problems and
+    solutions.
+  - Familiarity with markup languages like Xml, Json, or Yaml.
+  
+  Onboarding
+  
+  In your first 30 days...
+  
+  - You will have a solid understanding of what Phaidra does and
+    how we do it.
+  - You will have met with team members across Phaidra and
+    started building relationships that will help you be
+    successful at your job.
+  - You will have become proficient at navigating the Solution
+    team’s processes and software tools.
+  
+  By your first 60 days...
+  
+  - You will introduce yourself to our customers
+  - You will understand our customer onboarding process
+  - You will dig into Mort, our project workflow tool
+  - You will build a toy system from scratch
+  
+  By your first 90 days...
+  
+  - You will participate in troubleshooting issues
+  - You will participate in customer onboarding and new system
+    creation
+  - You will create and refine business processes
+  - You will attend site visits
+  
+  General Interview Process
+  
+  All of our interviews are held via Google Meet, and an
+  active camera connection is required.
+  
+  - Meeting with People Operations team member (30 minutes)
+  - Meeting with Hiring Manager (60 minutes)
+  - Meeting with Data Science team member (30 minutes)
+  - Meeting with Technical Program Manager (30 minutes)
+  - Culture fit interview with Phaidra’s co-founders (30
+    minutes)
+  
+  Base Salary
+  
+  US Residents:
+  
+  - Tier 1 (Largest highest-cost metros): $140,000 - $192,500
+  - Tier 2 (Other major metros): $133,000 - $182,875
+  - Tier 3 (Mid-sized metro areas): $126,000 - $173,250
+  - Tier 4 (All other locations): $119,000 - $163,625
+  
+  In addition to base salary, this position is eligible for
+  equity. Final salary will be determined based on several
+  factors, including a candidate’s qualifications, skills,
+  competencies, experience, expertise, education and location.
+  In some cases, final compensation may fall outside the
+  posted range. Salary ranges are regularly reviewed and may
+  be adjusted in response to market trends.
+  
+  Benefits & Perks
+  
+  - Fast-paced, team-oriented environment where your work
+    directly shapes the company’s direction.
+  - We are a 100% remote company.
+  - Competitive compensation & meaningful equity.
+  - Outsized responsibilities & professional development.
+  - Training is foundational; functional, customer immersion,
+    and development training.
+  - Medical, dental, and vision insurance (exact benefits vary
+    by region).
+  - Unlimited paid time off, with a required minimum of 20 days
+    per year.
+  - Paid parental leave (exact benefits vary by region).
+  - Flexible stipends to support your workspace, well-being, and
+    continued professional development.
+  - Company MacBook.
+  
+  Please note: Not all of Phaidra’s benefits and perks listed
+  above apply to temporary employees such as interns.
+posted_date: 2026-04-21
+url: "https://www.builtinla.com/job/senior-ai-controls-solutions-engineer/9117118"
+source: Built In

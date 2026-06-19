@@ -1,0 +1,52 @@
+company:
+  name: DataCamp
+  stage: Startup (growth stage)
+  focus: Online education platform for data and AI skills
+position:
+  title: Principal AI Engineer - AI Creator
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and evolving the core AI
+      tutoring system, including prompt architectures, agentic
+      workflows, and real-time adaptive behaviors. The engineer
+      will work hands-on with LLM-based systems, designing agentic
+      workflows, prompt engineering, and productionizing novel
+      model interactions — all core AI-first work.
+  responsibilities:
+  - Build and evolve the core AI tutoring system, including prompt architectures,
+    agentic workflows, and real-time adaptive behaviors
+  - Run rigorous experimentation and evaluation, developing custom metrics and frameworks
+    to measure learning effectiveness and improve model reliability
+  - Design and implement scalable, maintainable software, integrating AI capabilities
+    with platform systems, content pipelines, and user experience components
+  - Collaborate cross-functionally with educators, content creators, and product teams
+    to translate pedagogical goals into technical solutions
+  - Prototype and productionize novel model interactions, leveraging emerging research
+    and capabilities to advance the tutor's intelligence
+  - Ensure quality, safety, and observability through monitoring, testing, guardrails,
+    and iterative refinement of model behavior
+  - Share knowledge and elevate teammates, contributing to a culture of clarity, simplicity,
+    and continuous learning
+  use_cases:
+  - Adaptive AI tutoring system delivering personalized learning at scale
+  - Real-time adaptive learning experiences based on learner behavior and progress
+  - AI-powered content creation and experimentation platform for learners
+  - Agentic workflows for intelligent tutoring interactions
+  - Automated evaluation and measurement of learning effectiveness
+  skills:
+    genai: [Prompt Engineering, Agentic Workflows, LLM-based Systems, RAG, Guardrails]
+    ml: [Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud Environments]
+    ops: [CI/CD, Monitoring and Observability]
+    languages: [Python]
+    domains: [Learning Science]
+    other: [Software Engineering]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8869248'
+  extracted_at: '2026-04-22T12:28:04.465555'

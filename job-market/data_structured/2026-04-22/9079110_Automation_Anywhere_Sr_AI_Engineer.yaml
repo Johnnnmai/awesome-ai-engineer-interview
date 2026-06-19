@@ -1,0 +1,57 @@
+company:
+  name: Automation Anywhere
+  stage: Late-stage / Public
+  focus: |-
+    Agentic Process Automation platform combining AI agents,
+    RPA, and document processing
+position:
+  title: Sr. AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, configuring, and
+      deploying AI Agents and RAG systems on Automation Anywhere's
+      GenAI platform. The engineer works hands-on with LLMs, agent
+      frameworks (LangChain, LangGraph), vector databases, and
+      prompt engineering — all core AI/GenAI system building
+      activities.
+  responsibilities:
+  - Build and maintain multi-agent workflows from solution design through production
+    deployment
+  - Design and operate end-to-end RAG systems including ingestion, chunking, embedding,
+    vector stores, and retrieval evaluation
+  - Configure and deploy AI Agents with LLMs (Gemini/GPT-4) and prompt templates on
+    the GenAI platform
+  - Integrate AI agents with upstream/downstream systems including RPA bots, ERP/CRM/ITSM
+    platforms, and external APIs
+  - Develop and maintain RPA tasks with exception handling, logging, and enterprise
+    system integrations
+  - Define RAG success criteria and KPIs including retrieval accuracy and hallucination
+    thresholds
+  - Write unit and integration tests and contribute to CI/CD pipelines and deployment
+    automation
+  - Collaborate with senior engineers and document pipelines, agent configurations,
+    and operational runbooks
+  use_cases:
+  - Enterprise Knowledge Base powered by RAG for organizational knowledge retrieval
+  - Intelligent process automation combining AI agents with RPA workflows
+  - Document processing and understanding via DocAI and GenAI agents
+  - Multi-agent orchestration for enterprise business process automation
+  - Automated ERP/CRM/ITSM integrations with AI-driven decision making
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, CrewAI, Prompt Engineering, RAG, OpenAI
+        API, Anthropic API, Gemini, LoRA]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS AI Services, Azure AI Services, GCP AI Services]
+    ops: [LangSmith, Arize, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [UiPath, Automation Anywhere, Microsoft Power Automate, ERP/CRM/ITSM Integration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9079110'
+  extracted_at: '2026-04-22T13:34:53.734241'

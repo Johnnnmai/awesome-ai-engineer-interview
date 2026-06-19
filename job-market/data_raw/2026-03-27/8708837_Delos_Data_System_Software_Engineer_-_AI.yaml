@@ -1,0 +1,118 @@
+job_id: 8708837
+title: System Software Engineer - AI
+company: Delos Data
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - C++
+  - Cuda
+  - Deepspeed
+  - Dynamo/Trt-Llm
+  - Jax
+  - Linux
+  - Python
+  - PyTorch
+  - Sglang
+  - Vllm
+description: |
+  System Software Engineer - AI
+  
+  About us:
+  
+  We are a stealth-mode startup building foundational
+  technology to address performance, scalability, and
+  resiliency challenges in large-scale AI data center
+  clusters. We are backed by top-tier VC firms and notable
+  angel investors.
+  
+  The company is led by experienced builders and operators who
+  have founded companies, taken them to scale, and exited
+  successfully. We work with a strong sense of unity and
+  shared responsibility, and we expect trust, integrity, and
+  respect in how we collaborate and make decisions. We hold
+  ourselves accountable to one another and to the quality of
+  the work we deliver.
+  
+  Headquartered in Silicon Valley, we operate across a mix of
+  remote and on-site locations in the U.S. and Canada. We aim
+  to create an environment where people are treated fairly,
+  supported in their growth, and are empowered to do
+  meaningful work alongside others who take the craft
+  seriously.
+  
+  We are looking for:
+  
+  We are looking for a talented System Software Engineer to
+  help us redefine the infrastructure layer of AI. In this
+  role, you will bridge the gap between high-level AI
+  frameworks and low-level system software. You will be
+  responsible for designing and implementing the communication
+  and execution primitives that allow large-scale AI models to
+  run efficiently across thousands of GPUs. We are looking for
+  a "builder" who thrives in the early stages of a product’s
+  lifecycle and is passionate about solving the "hard" systems
+  problems of the generative AI era.
+  
+  Key Responsibilities:
+  
+  - Collaborate across the stack to influence the design of our
+    foundational technology, ensuring it meets the needs of
+    next-generation AI models.
+  - Identify and resolve performance bottlenecks in distributed
+    training and inference workloads through deep-dive
+    analysis of the software-hardware interface.
+  - Conduct rigorous performance benchmarking and
+    characterization on multi-node clusters.
+  
+  Required Skills and Qualifications:
+  
+  - Strong proficiency in C++ and Python, with a deep
+    understanding of systems programming fundamentals (memory
+    management, concurrency, OS internals).
+  - Proficient in a Linux development environment.
+  
+  Desired Skills:
+  
+  - Experience with GPU programming (CUDA) and performance
+    optimization for parallel architectures.
+  - Familiarity with distributed AI frameworks (PyTorch, JAX, or
+    DeepSpeed) and/or inference engines (vLLM, SGLang,
+    Dynamo/TRT-LLM).
+  - Hands-on experience with large-scale cluster orchestration
+    and telemetry tools.
+  
+  Education:
+  
+  - Bachelor's or Master's degree in Computer Engineering,
+    Computer Science, or a related field.
+  
+  Compensation:
+  
+  Target base salary for this role is $140,000 - $200,000 per
+  year + meaningful equity + benefits + 401k. Our salary
+  ranges are determined by role, level, experience, and
+  location.
+  
+  We are an equal opportunity employer. We value a range of
+  perspectives and experiences and make employment decisions
+  based on merit and business needs. We do not discriminate on
+  the basis of legally protected characteristics.
+  
+  Agency Note:
+  
+  We do not accept resumes from agencies or search firms.
+  Please do not forward candidate profiles through our careers
+  page, email, LinkedIn messages, or directly to company
+  employees. Any resumes submitted will be deemed the property
+  of the company, and no fees will be paid in the event the
+  candidate is hired.
+  
+  #LI-EW1
+industries:
+  - Artificial Intelligence
+  - Hardware
+  - Semiconductor
+posted_date: 2026-03-10
+url: "https://www.builtinla.com/job/system-software-engineer-ai/8708837"
+source: Built In

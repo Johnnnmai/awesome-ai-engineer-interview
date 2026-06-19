@@ -1,0 +1,135 @@
+job_id: 8804541
+title: Lead AI Platform Engineer
+company: Prolific
+location: GBR
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - GCP
+  - Github Actions
+  - Kubernetes
+  - Mlflow
+  - Terraform
+  - Vertex Ai
+company_size: 0 Employees
+description: |
+  Lead AI Platform Engineer
+  
+  The Role
+  
+  As a Lead AI Platform Engineer, you will be the backbone of
+  our AI production lifecycle. You will bridge the gap between
+  research and real-world application, ensuring our Data
+  Scientist, AI Researchers, Product teams and others in the
+  company have the high-performance infrastructure, automated
+  pipelines, and deployment strategies needed to ship state-
+  of-the-art models and agents at scale.
+  
+  Who We’re Looking For
+  
+  - 5+ years experience with cloud infrastructure and
+    infrastructure as code.
+  - Previous experience with the ML and LLM lifecycle -
+    training, hosting, optimisation, observability.
+  - Used to working closely with researchers and data scientists
+    - taking experiments from worksheets into production.
+  - Strong grasp of ML fundamentals and modern GenAI stack.
+  
+  What You’ll be Doing
+  
+  Infrastructure & Platform Engineering
+  
+  - Infrastructure as Code (IaC): Design and maintain scalable
+    cloud environments (GCP/AWS) using Terraform.
+  
+  - Resource Provisioning: Manage GPU/TPU resource allocation
+    for training, fine-tuning, and interactive notebooks.
+  - Custom Tooling: Build internal services and CLI tools to
+    streamline the developer experience for the AI team.
+  
+  ML & LLM Orchestration
+  
+  - Automated Pipelines: Design CI/CD and training pipelines
+    using tools such as GitHub Actions, MLFlow, Vertex AI
+    Pipelines. Ensure high quality training data (e.g.
+    introducing a feature store).
+  - Deployment Methodology: Develop reusable patterns for model
+    serving. Managing service deployments to Kubernetes.
+  - Vector Infrastructure: Manage and optimize vector databases
+    and embedding pipelines for RAG-based systems.
+  - Observability and Reliability: Model drift monitoring,
+    resource utilisation, LLM and agent tracing.
+  
+  Performance & Optimization
+  
+  - Inference Optimization: Implement techniques to reduce
+    latency and increase throughput (quantisation,
+    distillation, etc…)
+  - Cold Start Mitigation: Solve scaling bottlenecks for
+    serverless or containerized model deployments.
+  - Cost Management: Optimize GPU utilization and cloud spend
+    without compromising performance.
+  
+  AI Enablement
+  
+  - Support AI Agent Deployment: Define and create tooling and
+    service templates around agent deployment (tool libraries,
+    tracing, default agent frameworks, skills, etc…).
+  - Enablement for non-technical agent users: Help create
+    workflows and guidance on no-code/low-code agent platforms
+    (n8n, LangSmith, or similar). Create tooling and policies
+    to enable safe usage of local agents such as Claude code.
+  
+  
+  
+  Why Prolific is a great place to work
+  
+  We've built a unique platform that connects researchers and
+  companies with a global pool of participants, enabling the
+  collection of high-quality, ethically sourced human
+  behavioral data and feedback. This data is the cornerstone
+  of developing more accurate, nuanced, and aligned AI
+  systems.
+  
+  We believe that the next leap in AI capabilities won't come
+  solely from scaling existing models but from integrating
+  diverse human perspectives and behaviors into AI
+  development. By providing this crucial human data
+  infrastructure, Prolific is positioning itself at the
+  forefront of the next wave of AI innovation—one that
+  reflects the breadth and the best of humanity.
+  
+  Working for us will place you at the forefront of AI
+  innovation, providing access to our unique human data
+  platform and opportunities for groundbreaking research. Join
+  us to enjoy a competitive salary, benefits, and remote
+  working within our impactful, mission-driven culture.
+  
+  
+  
+  Links to more information on Prolific
+  
+  Benefits
+  
+  External Handbook
+  
+  Website
+  
+  Youtube
+  
+  
+  
+  Privacy Statement
+  
+  By submitting your application, you agree that Prolific may
+  collect your personal data for recruiting and global
+  organization planning. Prolific's Candidate Privacy Notice
+  explains what personal information Prolific may process,
+  where Prolific may process your personal information, its
+  purposes for processing your personal information, and the
+  rights you can exercise over Prolific use of your personal
+  information.
+posted_date: 2026-03-23
+url: "https://builtin.com/job/senior-mlops-engineer/8804541"
+source: Built In

@@ -1,0 +1,46 @@
+company:
+  name: Swayable
+  stage: Series A (backed by Y Combinator, post-2018 founding)
+  focus: AI platform measuring public opinion and advertising impact
+position:
+  title: 'Senior AI/ML Engineer: Python & Scientific Computing'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and maintaining the AI,
+      machine learning, and data analysis engine that powers
+      Swayable's core product. The engineer will productize AI/ML
+      models and work on high-performance scientific computing
+      systems, placing them hands-on with ML model development and
+      deployment.
+  responsibilities:
+  - Advance the state-of-the-art analytics engine powering Swayable's core product
+  - Productize AI, machine learning, and data analysis capabilities across the platform
+  - Build, maintain, and continuously improve tools, techniques, and architecture
+    for high-performance computing
+  - Design and optimize distributed, parallel computing systems
+  - Collaborate with engineers, data scientists, and research staff to build new features
+  - Solve novel problems spanning software engineering, data visualization, and science
+  - Maintain ML/AI Ops tooling and keep systems current with evolving best practices
+  use_cases:
+  - Measuring public opinion and message/advertising impact on audiences
+  - Automated data science for campaign and brand analytics
+  - Combatting disinformation and protecting democracy through data-driven insights
+  - Supporting consumer brand growth through advertising effectiveness measurement
+  - Academic and civic research analysis on climate, human rights, and elections
+  skills:
+    genai: []
+    ml: [NumPy, SciPy, scikit-learn, Pandas, Machine Learning, Scientific Computing]
+    web: [Flask, Vue.js, Node.js, GraphQL]
+    databases: [MongoDB]
+    data: [Celery]
+    cloud: []
+    ops: [Distributed Computing, Parallel Computing, AI/ML Ops]
+    languages: [Python]
+    domains: []
+    other: [Test-Driven Development, Software Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8890880'
+  extracted_at: '2026-04-22T12:56:28.779188'

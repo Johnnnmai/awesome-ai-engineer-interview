@@ -1,0 +1,51 @@
+company:
+  name: Trimble
+  stage: Public
+  focus: Construction technology and AECO solutions
+position:
+  title: Agentic Artificial Intelligence Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building a foundational Agentic AI
+      Platform, including backend components for AI agents,
+      orchestration, and working with LLMs. The position requires
+      hands-on implementation of agentic AI systems with
+      frameworks like LangChain, LlamaIndex, and RAG techniques,
+      making it direct work on AI systems.
+  responsibilities:
+  - Design, implement, test, and deploy backend components for the agentic AI platform
+    including APIs, services, orchestration, and data persistence
+  - Design and deploy user-facing features and internal tools using modern frontend
+    technologies including React
+  - Develop core libraries, SDKs, and components to enable efficient development and
+    deployment of AI agents
+  - Contribute to technical design and architecture discussions for new features and
+    system improvements
+  - Collaborate with principal engineers, product managers, UX/UI designers, and AI
+    researchers to deliver full-stack solutions
+  - Implement and improve monitoring, logging, and alerting across the full stack
+  - Troubleshoot and debug complex issues in production environments spanning frontend,
+    backend, and infrastructure layers
+  use_cases:
+  - Agentic AI platform for powering next-generation applications across Trimble's
+    construction and AECO segment
+  - AI-powered products for construction industry (AECO + Field Solutions)
+  - Intelligent agents for business operations transformation
+  - Developer tools and interfaces for AI/ML platforms
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, Large Language Models, Agentic AI frameworks]
+    ml: []
+    web: [React, FastAPI, REST APIs, Redux, Zustand, Webpack, Vite]
+    databases: [Vector databases, Pinecone, Weaviate]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, Terraform, CI/CD, MLOps]
+    languages: [Python, TypeScript, JavaScript, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7683539'
+  extracted_at: '2026-03-03T11:18:20.311350'

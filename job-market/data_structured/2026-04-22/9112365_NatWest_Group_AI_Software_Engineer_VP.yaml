@@ -1,0 +1,52 @@
+company:
+  name: NatWest Group
+  stage: Public
+  focus: Major UK banking and financial services group
+position:
+  title: AI Software Engineer, VP
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires hands-on experience with LLMs
+      (OpenAI, Azure OpenAI, Anthropic, Llama), ML frameworks
+      (PyTorch, TensorFlow, Transformers), and deep learning
+      architectures including NLP and vector embeddings. The
+      software engineer will be designing, building, and
+      implementing systems that directly leverage these AI/ML
+      technologies.
+  responsibilities:
+  - Design, produce, test and implement working software across the full system lifecycle
+    within a permanent feature team
+  - Develop knowledge of the associated platform across business, applications, data
+    and infrastructure disciplines
+  - Apply Agile methods to software development on the backlog, producing resilient
+    and long-lived software
+  - Deliver intentional architecture and formulate emergent design through innovative
+    ideas, experimentation and prototyping
+  - Design and develop software with a focus on automation of build, test and deployment
+    activities
+  - Liaise with principal engineers, architects and key stakeholders to align platform
+    capabilities with business objectives
+  - Build AI/ML-powered solutions leveraging LLMs and deep learning frameworks
+  use_cases:
+  - Building AI-powered software solutions for banking and financial services
+  - Implementing LLM-based applications using OpenAI, Azure OpenAI, Anthropic and
+    Llama models
+  - Developing NLP and deep learning solutions for business process automation
+  - Creating intelligent systems using vector embeddings and ML algorithms
+  skills:
+    genai: [OpenAI API, Azure OpenAI, Anthropic, Llama]
+    ml: [PyTorch, TensorFlow, Transformers, NumPy, Pandas, Deep Learning, Vector Embeddings]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python]
+    domains: [NLP]
+    other: [Agile, Full Stack Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9112365'
+  extracted_at: '2026-04-22T13:37:37.023982'

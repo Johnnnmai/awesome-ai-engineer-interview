@@ -1,0 +1,44 @@
+company:
+  name: Nebius
+  stage: Public
+  focus: Cloud computing platform serving the AI economy
+position:
+  title: Site Reliability Engineer (SRE) AI Infrastructure (Early Career)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an infrastructure/platform role supporting AI
+      workloads, not building AI systems. The SRE works on network
+      infrastructure, Kubernetes, and operational tooling that
+      enables AI cloud services. There's no direct work on models,
+      training, or AI system development.
+  responsibilities:
+  - Assist in day-to-day SRE operations tasks in network infrastructure
+  - Deploy tested and approved changes following clear instructions
+  - Execute small and well-defined tasks from the backlog
+  - Work on small SRE projects including tests and technical documentation
+  - Track and update Jira tasks according to progress
+  - Study network and system fundamentals including Linux Kernel, eBPF, traffic control
+  - Learn container and platform fundamentals including Kubernetes and Terraform
+  - Learn configuration management and automation basics
+  use_cases:
+  - AI cloud infrastructure for customers
+  - Network infrastructure operations
+  - Container and platform services for AI workloads
+  - Cloud computing platform reliability
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes, Terraform, Helm, Docker, Linux, eBPF]
+    languages: [Python, Go, C++]
+    domains: []
+    other: [Git, Networking, Jira]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8765256'
+  extracted_at: '2026-03-27T13:14:28.606010'

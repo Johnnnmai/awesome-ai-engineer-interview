@@ -1,0 +1,48 @@
+company:
+  name: Wolters Kluwer
+  stage: Public
+  focus: |-
+    Information services and software solutions for legal, tax,
+    finance, and healthcare
+position:
+  title: Senior Product Software Engineer (.netcore, Angular, AI)-  Pune & Chennai
+    candidates can apply
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a general software engineering role focused on
+      .NET/Angular web development. Despite the job title
+      mentioning AI, the actual requirements and responsibilities
+      are centered on traditional full-stack web development with
+      no AI/ML frameworks, tools, or hands-on model work
+      mentioned.
+  responsibilities:
+  - Design and develop responsive web applications using Angular and .NET Core
+  - Build and maintain microservices architecture using .NET Core
+  - Develop data visualizations and dashboards using Power BI
+  - Implement cloud-native solutions using Docker, Kubernetes, and Azure services
+  - Configure and manage Azure DevOps pipelines for CI/CD
+  - Write unit and integration tests following BDD and TDD practices
+  - Work with both SQL and NoSQL databases for data management
+  - Collaborate using Agile methodologies like Scrum and SAFe
+  use_cases:
+  - Enterprise software solutions development
+  - Data visualization and business intelligence dashboards
+  - Cloud-native microservices applications
+  - Secure web application development for business domains
+  skills:
+    genai: []
+    ml: []
+    web: [.NET Core, ASP.NET MVC, Angular, React, WebAPI, WCF, REST, Node.js, NestJS]
+    databases: [MS SQL, NoSQL databases]
+    data: [Power BI]
+    cloud: [Microsoft Azure, Azure DevOps]
+    ops: [Docker, Kubernetes, Dapr, Git]
+    languages: [TypeScript]
+    domains: []
+    other: [Microsoft Visual Studio, Visual Studio Code, UML]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8728103'
+  extracted_at: '2026-03-27T15:04:31.784390'

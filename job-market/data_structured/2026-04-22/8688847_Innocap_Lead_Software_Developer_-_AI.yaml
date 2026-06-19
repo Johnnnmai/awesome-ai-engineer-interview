@@ -1,0 +1,54 @@
+company:
+  name: Innocap
+  stage: Public
+  focus: |-
+    Managed account platform services for alternative
+    investments
+position:
+  title: Lead Software Developer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and architecting LLM-
+      based workflows, AI agents, RAG systems, and agentic AI
+      patterns. The Tech Lead is hands-on with Azure OpenAI,
+      Anthropic Claude, and LLM orchestration frameworks, making
+      this an ai-first role focused on deploying and implementing
+      AI solutions.
+  responsibilities:
+  - Lead the design and development of AI-driven applications using C#, .NET/.NET
+    Core, and cloud-native services
+  - Architect and implement LLM-based workflows, AI agents, and automation pipelines
+  - Implement Agentic AI patterns and retrieval-augmented generation (RAG) solutions
+  - Drive AI coding practices using GitHub Copilot, Claude Code, and other AI coding
+    assistants
+  - Collaborate with data engineering teams on Azure Databricks, Data Factory, and
+    ML pipelines
+  - Ensure code quality through automated unit testing, debugging, and performance
+    optimizations
+  - Guide the team through code reviews, architectural decisions, and AI best practices
+  - Work with DevOps engineers to manage CI/CD pipelines, Dockerized applications,
+    and Kubernetes deployments
+  use_cases:
+  - AI-powered workflows for alternative investment management
+  - LLM-based automation pipelines for asset management operations
+  - Agentic AI for institutional client services and allocators
+  - RAG-based knowledge retrieval for financial data and instruments
+  - AI-assisted development workflows for engineering teams
+  skills:
+    genai: [Azure OpenAI, Anthropic Claude, GitHub Copilot, Claude Code, Agentic AI,
+      LLM orchestration, RAG, Prompt engineering]
+    ml: [HuggingFace]
+    web: [.NET / .NET Core, REST APIs, Microservices]
+    databases: [SQL Server, Azure SQL, Azure Data Lake, Delta Lake]
+    data: [Azure Databricks, Azure Data Factory]
+    cloud: [Azure Cloud Services]
+    ops: [Docker, Kubernetes, CI/CD, Azure DevOps, Git]
+    languages: [C#]
+    domains: [BFSI domain knowledge]
+    other: [Agile/Scrum]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8688847'
+  extracted_at: '2026-04-22T12:50:34.769284'

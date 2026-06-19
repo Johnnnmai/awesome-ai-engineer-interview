@@ -1,0 +1,57 @@
+company:
+  name: Regal
+  stage: Series A
+  focus: |-
+    AI Agent Platform for customer communications (voice AI
+    agents for support, sales, operations)
+position:
+  title: AI Forward Deployed Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role focused on
+      deploying Voice AI Agents into production for customers. The
+      role involves hands-on work with AI agents—shaping
+      conversational experiences, refining voice prompts, guiding
+      AI agent settings, and building reporting to measure AI
+      Agent performance. While the engineer doesn't train models
+      from scratch, they are directly deploying, configuring, and
+      optimizing AI systems for production use, qualifying as ai-
+      first.
+  responsibilities:
+  - Execute end-to-end customer deployments by integrating AI Agents into customer
+    systems and workflows
+  - Collaborate with customers to define goals and translate insights into measurable
+    deployment plans
+  - Architect technical integrations using APIs, webhooks, and databases to connect
+    Regal into customer systems
+  - Guide creation and refinement of voice prompts and AI agent settings for conversational
+    quality
+  - Build reporting to measure AI Agent performance and create A/B test roadmaps for
+    continuous improvement
+  - Manage stakeholder communication with weekly status updates, timeline management,
+    and risk mitigation
+  - Surface new use cases and expansion opportunities to drive long-term customer
+    partnerships
+  use_cases:
+  - Voice AI agents for customer support automation
+  - Voice AI agents for sales outreach and engagement
+  - AI-powered customer communications and operations
+  - Post-call analysis and conversational quality optimization
+  - Automated customer onboarding and interaction workflows
+  skills:
+    genai: [Prompt Engineering, Conversational Design, Voice AI]
+    ml: []
+    web: [APIs, Webhooks, REST APIs]
+    databases: []
+    data: [A/B Testing, Data Integration]
+    cloud: []
+    ops: []
+    languages: [SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9103432'
+  extracted_at: '2026-04-22T13:22:57.561188'

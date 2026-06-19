@@ -1,0 +1,58 @@
+company:
+  name: Tether.io
+  stage: Late Stage
+  focus: |-
+    Stablecoin issuer and digital finance infrastructure with
+    AI, energy, and education divisions
+position:
+  title: Developer Relations AI (100% remote Worldwide)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Developer Relations role focused on community
+      building, content creation, and evangelism for QVAC, a
+      platform for building AI applications. While the role
+      requires AI/ML knowledge (LLMs, llama.cpp, ggml) and
+      involves promoting an AI development platform, the core work
+      is advocacy, education, and community engagement—not
+      directly building, training, fine-tuning, or deploying AI
+      models. The role works NEAR AI to enable developers to use
+      AI tools.
+  responsibilities:
+  - Build and nurture relationships with developers, partners, and open-source communities
+    through AMAs, office hours, webinars, and online engagement
+  - Create and maintain high-quality technical content including blog posts, tutorials,
+    sample apps, videos, documentation, and SDK guides
+  - Develop demos, prototypes, and reference implementations showcasing real-world
+    use cases for QVAC platform
+  - Advocate for the company's AI technology stack at industry events, developer meetups,
+    and online communities
+  - Collect and synthesize developer feedback to inform product and engineering teams
+  - Partner closely with engineering, product management, and marketing to align developer
+    needs with product strategy
+  - Support launch strategies for new developer-facing features, APIs, and SDKs
+  - Represent the company as a credible technical voice through public speaking, open-source
+    contributions, and community engagement
+  use_cases:
+  - Privacy-focused AI application development running on local devices
+  - Local-first AI inference without cloud dependency using llama.cpp and ggml
+  - Developer onboarding and enablement for AI/ML SDKs and APIs
+  - AI-driven chatbot and LLM integration for developer tools
+  - Reducing infrastructure costs for AI through peer-to-peer and local deployment
+  skills:
+    genai: [LLMs, Chatbots, AI-driven SDKs and APIs]
+    ml: [ggml]
+    web: [Node.js, API development]
+    databases: []
+    data: []
+    cloud: []
+    ops: [llama.cpp]
+    languages: [JavaScript, TypeScript]
+    domains: []
+    other: [SDK design and documentation, Technical writing, Open-source contributions,
+      Developer experience, Cursor, Codex, Public speaking, Community management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9052734'
+  extracted_at: '2026-04-22T13:36:59.755950'

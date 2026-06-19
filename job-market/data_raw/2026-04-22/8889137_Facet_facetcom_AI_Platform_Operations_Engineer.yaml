@@ -1,0 +1,155 @@
+job_id: 8889137
+title: "AI Platform & Operations Engineer"
+company: Facet (facet.com)
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - AWS
+  - Ci/Cd
+  - Faas
+  - GCP
+  - Go
+  - Node.js
+  - Python
+  - Terraform
+  - Typescript
+description: |
+  Facet was founded in 2016 on the belief that objective,
+  personalized financial advice is essential to living well.
+  Our mission is to empower people to live more enriched lives
+  by delivering a new standard of advice. By removing asset
+  minimums, we provide holistic planning that goes far beyond
+  investments to address every way money impacts life. To
+  achieve this, we leverage a "human-plus-tech" approach,
+  combining the expertise of CFP® professionals with cutting-
+  edge AI and automation. This model allows Facet to integrate
+  advice into our members’ entire financial picture—all for an
+  affordable, flat membership fee.
+  
+  Our commitment to innovation and member success has earned
+  national recognition, including being ranked the #1 Best
+  Financial Advisory Firm 2025 by USA TODAY and named to
+  Newsweek’s list of America’s Top Financial Advisory Firms
+  2025. With an A+ BBB Rating and a Trustpilot “Excellent”
+  score (as of Sept. 16, 2025)*, we are proud to be redefining
+  the industry for our members and our team alike.
+  
+  Why Join the Facet Security & Platform Engineering Team?
+  
+  - Reinvent the Experience: Have the agency to build new ways
+    of working by treating the platform as a product, directly
+    improving experience throughout the company via self-
+    service and high-leverage automation.
+  - Work with Cutting-Edge Technologies: Work at the technical
+    forefront, leveraging best-in-class serverless and AI
+    infrastructure (FaaS, LLMs, Vector Databases) to redefine
+    financial services.
+  - Directly Drive Company Growth: Your foundational work in
+    speed, security, and scalability is the engine that
+    enables Facet's rapid growth and delivers superior
+    financial outcomes for thousands of members.
+  
+  What You’ll Do:
+  
+  - AI Infrastructure Orchestration: Design and maintain the
+    infrastructure required to power AI features, including
+    vector database management, model deployment pipelines,
+    and secure integration with LLM providers.
+  - Platform Architecture: Build and evolve our Internal
+    Platforms, focusing on self-service, automation, and
+    reducing cognitive load for internal teams.
+  - Serverless & Event-Driven Systems: Optimize and secure our
+    100% cloud-native environment, developing and deploying
+    scalable serverless and event-driven architectures (AWS
+    Lambda, Google Cloud Functions, EventBridge, Pub/Sub).
+  - DevSecOps: Implement automated security guardrails within
+    the CI/CD pipeline. You will lead the "Identity/IAM
+    Architecture" to ensure least-privilege access and build
+    automated compliance checks into our Infrastructure-as-
+    Code (Terraform).
+  - AI Guardrails: Develop and enforce technical guardrails for
+    our internal AI platform to manage data privacy, cost
+    controls, and ethical usage monitoring.
+  - Reliability & Automation: Drive a "manual-is-a-bug" culture
+    by automating environment provisioning, incident response,
+    and performance monitoring.
+  
+  RequirementsBasic Qualifications
+  
+  - Experience: 4-8 years of experience in a Platform, DevOps,
+    or Site Reliability Engineering role.
+  - Cloud Native: Deep experience with AWS and/or GCP,
+    specifically focused on serverless architectures. (Note:
+    We are a Kubernetes-free environment; expertise in
+    Serverless/FaaS is essential).
+  - Infrastructure-as-Code: Expert-level proficiency with
+    Terraform and a "policy-as-code" mindset.
+  - Security Focus: Practical experience designing IAM
+    architectures and implementing automated security
+    scanning/compliance in CI/CD.
+  - Scripting & Logic: Proficiency in at least one modern
+    language (Python, Go, or TypeScript/Node.js) to build
+    custom tooling and integrations.
+  
+  Preferred Qualifications
+  
+  - AI/ML Ops: Experience supporting production AI workflows
+    (e.g., Pinecone, LangChain, OpenAI API integrations).
+  - Identity Management: Familiarity with modern AuthN/AuthZ
+    protocols and providers (e.g., Okta, Auth0, AWS IAM
+    Identity Center).
+  - Event-Driven Design: Experience building or maintaining
+    high-scale event buses and asynchronous messaging systems.
+  - Product Mindset: Experience treating "The Platform" as a
+    product, with a focus on improving the Developer
+    Experience (DX).
+  
+  Benefits
+  
+  - Competitive Compensation: $160,000 - 180,000 base salary +
+    bonus
+  - Ownership: Equity in a rapidly growing company on the path
+    to becoming the "Next Great Financial Services Company".
+  - Flexibility: Remote-first culture—work from anywhere in the
+    U.S..
+  - Time Off: Flexible Paid Time Off (PTO).
+  - Comprehensive Benefits and Perks: Medical, dental, vision,
+    401(k) match, disability, paid parental leave, wellness
+    reimbursement, and education reimbursement programs.
+  
+  *Facet was ranked #1 Best Financial Advisory Firm 2025 by
+  USA TODAY in April 2025 who partnered with Statista to rank
+  the top 500 RIAs. Recommendations were collected via an
+  independent survey among over 30,000 individuals. self-
+  recommendations were prohibited, and no compensation was
+  provided for the ranking.  Facet has been Accredited with
+  the Better Business Bureau® since June 2025, and as of
+  February 2026 holds an A+ BBB Rating. This Accreditation
+  does not imply BBB approval or endorsement. Plant-A Insights
+  Group and Newsweek partnered to identify America's Top
+  Financial Advisory Firms 2025. This analysis was performed
+  with data as of September 2024 and reviewed over 15,000
+  financial advisories registered with the SEC. These rankings
+  prepared by Plant-A reflect editorial content and no
+  compensation was provided by Facet in connection with
+  America's Top Financial Advisory Firms 2025." As of February
+  25, 2026; Facet has a 4.8 star rating with TrustPilot.com.
+  TrustPilot uses a formula for calculation that considers
+  three factors: time span, frequency, and Bayesian average.
+  After the calculation, a TrustScore is then visualized into
+  a star rating from 1 to 5 stars, including half stars.
+  Facet’s star rating is calculated from reviews from January
+  of 2022 to present day. Daily star rating may fluctuate.
+  Companies on Trustpilot aren't allowed to offer incentives
+  or pay to hide reviews and Facet has not made any payments
+  in offer or receipt of any reviews. Please see additional
+  information
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-04-22
+url: "https://www.builtinla.com/job/ai-platform-operations-engineer/8889137"
+source: Built In

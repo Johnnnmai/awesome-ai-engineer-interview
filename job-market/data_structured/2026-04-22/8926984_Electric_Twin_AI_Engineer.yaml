@@ -1,0 +1,43 @@
+company:
+  name: Electric Twin
+  stage: Seed
+  focus: LLM-driven synthetic population simulations for enterprise
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI agent systems,
+      designing cognitive architectures, implementing context
+      engineering and memory systems for LLM-driven synthetic
+      populations. The engineer works hands-on with LLMs to create
+      behavioral simulations and deploy them, making this a core
+      AI-building role.
+  responsibilities:
+  - Research and build AI agent systems that power synthetic populations
+  - Design agent cognitive architectures for realistic behavioral simulations
+  - Implement context engineering and memory systems for AI agents
+  - Ensure AI systems operate reliably at scale in production environments
+  - Collaborate with engineering team to scale LLM-driven infrastructure
+  - Build robust backend infrastructure to deploy agents in enterprise settings
+  use_cases:
+  - Realistic behavioral simulations using synthetic populations
+  - LLM-driven agent cognitive architectures
+  - Enterprise-scale AI agent deployment
+  - Context engineering and memory management for AI agents
+  skills:
+    genai: [LLMs, AI agents, Context engineering, Memory systems, Prompt engineering]
+    ml: []
+    web: [Backend engineering]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Infrastructure scaling]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8926984'
+  extracted_at: '2026-04-22T13:40:12.593894'

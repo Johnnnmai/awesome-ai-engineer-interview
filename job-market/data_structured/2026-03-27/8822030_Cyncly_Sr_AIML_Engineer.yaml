@@ -1,0 +1,49 @@
+company:
+  name: Cyncly
+  stage: Private Equity-backed
+  focus: |-
+    End-to-end software solutions for customizable products and
+    spaces design industry
+position:
+  title: Sr. AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and deploying AI/ML models,
+      specifically computer vision and LLM-based solutions. The
+      position requires hands-on work with deep learning
+      frameworks (TensorFlow, PyTorch), building models, and
+      integrating them into production systems via APIs.
+  responsibilities:
+  - Design and deploy AI and computer vision models for production use
+  - Build REST APIs using FastAPI that integrate AI solutions into client applications
+  - Design and optimize Vector Database schemas and write efficient queries
+  - Create POCs to demonstrate AI technology capabilities for business needs
+  - Build and maintain CI/CD pipelines using Azure DevOps for AI model deployment
+  - Ensure cloud deployments are efficient and scalable using Docker, Kubernetes,
+    and Azure AKS
+  - Implement security, privacy, and compliance standards for AI solutions
+  - Mentor interns, freshers, and other AI/ML engineers on the team
+  use_cases:
+  - Space and interior design automation
+  - Product visualization and customization for Kitchen & Bath, Furniture, Windows,
+    and Flooring industries
+  - Image processing for design applications
+  - Personalized customer experiences using AI
+  - Connecting designers, retailers, and manufacturers through AI-enhanced content
+  skills:
+    genai: [LLMs]
+    ml: [TensorFlow, PyTorch, OpenCV, scikit-image, Pillow]
+    web: [FastAPI, Flask, REST API, Streamlit]
+    databases: [MongoDB, Vector Database, SQL Server]
+    data: []
+    cloud: [Azure Cloud, Azure Machine Learning, Azure Container Registry, Azure Storage]
+    ops: [Docker, Kubernetes, Azure DevOps, AKS (Azure Kubernetes Service), Conda]
+    languages: [Python]
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8822030'
+  extracted_at: '2026-03-27T16:05:57.878990'

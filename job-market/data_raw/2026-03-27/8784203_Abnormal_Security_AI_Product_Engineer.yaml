@@ -1,0 +1,131 @@
+job_id: 8784203
+title: AI Product Engineer
+company: Abnormal Security
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - APIs
+  - Autogen
+  - Crewai
+  - Langgraph
+  - Llms
+  - Next.Js
+  - Python
+  - React
+description: |
+  About the Role
+  
+  Abnormal Security is building AI-native systems that
+  transform how enterprise GTM teams operate — and we're doing
+  it by shipping real products on a weekly cadence.
+  
+  The AI Transformation Engineering team is the infrastructure
+  layer that makes this possible: we build and maintain the
+  platforms, integrations, and tooling that power a growing
+  fleet of AI agents operating across Sales, Customer Success,
+  and Marketing.
+  
+  As an AI Product Engineer, you'll work at the intersection
+  of platform engineering and direct product delivery. Some
+  weeks you're extending agent infrastructure — building new
+  tools, connectors, and APIs that let AI agents do things
+  they couldn't do before. Other weeks you're shipping GTM
+  tooling directly, moving fast because the shortest path to
+  impact is writing the code yourself.
+  
+  You'll collaborate closely with AI Product Managers who
+  define and build automations weekly, unblocking them with
+  new platform capabilities and partnering on what to build
+  next.
+  
+  This is a high-visibility, high-autonomy role. You'll demo
+  your work every Friday. Your systems will be used by a
+  700-person GTM org. You'll work closely with engineering and
+  product leadership and have line-of-sight to the CEO’s
+  priorities.
+  
+  What You Will Do
+  
+  - Build and extend agent platform capabilities — new tools,
+    APIs, data connectors, and integrations that expand what
+    AI agents can do without manual intervention
+  - Ship self-serviceable GTM tooling that enables non-technical
+    users to set up their own AI-initiated LLM workflows.
+  - Partner with AI Product Managers on platform requirements —
+    translate their roadmap blockers into well-scoped
+    engineering deliverables with reliable timelines
+  - Identify and build reusable infrastructure — proactively
+    design horizontal capabilities that accelerate multiple
+    product workstreams at once
+  - Own reliability and observability for the systems you build
+    — you're not handing off to an ops team
+  - Demo your work weekly and communicate clearly to technical
+    and non-technical stakeholders alike
+  
+  The Ideal Candidate
+  
+  You're an engineer who ships things. You've built LLMs and
+  agents in production — not as a side experiment, but as the
+  core of what you were delivering. You have strong product
+  instincts alongside engineering depth: you ask "who is this
+  for and what do they actually need?" before writing code.
+  You move fast without being careless, and you use AI coding
+  tools as force multipliers, not crutches.
+  
+  You're motivated by ownership and velocity. You'd rather
+  have a small surface area and full accountability than a
+  large team and a ticket queue.
+  
+  Must Haves
+  
+  - 2+ years of software engineering experience (strong
+    internship and project portfolios considered)
+  - Demonstrated experience building with LLMs, agents, or AI
+    APIs in a real product context — show us something that
+    shipped
+  - Proficiency in Python; comfort picking up new frameworks
+    quickly
+  - Experience integrating external APIs and building data
+    pipelines
+  - Strong written communication — you can write a clear spec
+    and a clear async update
+  - Ability to work with high autonomy, minimal oversight, and
+    surface blockers proactively
+  
+  Nice to Have
+  
+  - Frontend or full-stack experience (React/Next.js) for
+    building internal tools and dashboards
+  - Familiarity with agentic frameworks (LangGraph, CrewAI,
+    Autogen) or production-scale prompt engineering
+  - Prior experience in a startup or high-velocity small team
+  - Open source contributions or a public portfolio of AI
+    projects
+  
+  #LI-ML1
+  
+  Actual compensation will be determined based on several non-
+  discriminatory factors including skills, experience,
+  qualifications, and geographic location. In addition to base
+  salary, this role may be eligible for bonus or incentive
+  compensation, equity, and a comprehensive benefits package.
+  
+  Base salary range:
+  
+  $149,200—$214,500 USD
+  
+  Abnormal AI is an equal opportunity employer. Qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, national origin,
+  disability, protected veteran status or other
+  characteristics protected by law. For our EEO policy
+  statement please click here. If you would like more
+  information on your EEO rights under the law, please click
+  here.
+industries:
+  - Security
+  - Cybersecurity
+posted_date: 2026-03-17
+url: "https://www.builtinla.com/job/ai-product-engineer/8784203"
+source: Built In

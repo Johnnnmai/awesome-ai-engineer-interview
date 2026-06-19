@@ -1,0 +1,59 @@
+company:
+  name: Synechron
+  stage: Public
+  focus: |-
+    Global digital consulting firm for financial services and
+    technology
+position:
+  title: AI/ML Data Engineer | Unstructured Data, PySpark, Vector Search, Retrieval-Augmented
+    Generation (RAG), Cloud (AWS/Azure/GCP)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building, implementing, and
+      supporting RAG architectures, vector search systems,
+      embedding workflows, and semantic search pipelines. The
+      candidate works hands-on with LangChain, FAISS, Hugging Face
+      Transformers, and is involved in prompt engineering, fine-
+      tuning, and inference deployment. This goes beyond
+      supporting AI infrastructure to actively building and
+      deploying AI/ML systems.
+  responsibilities:
+  - Design, develop, and optimize scalable data pipelines for unstructured data supporting
+    AI/ML applications and retrieval systems
+  - Build and integrate document classification, enrichment, and metadata tagging
+    workflows to prepare high-quality data for model consumption
+  - Implement and support RAG architectures for semantic search, question-answering,
+    and document retrieval workflows
+  - Engineer and manage embeddings, document chunking, and vector database integrations
+    supporting enterprise search capabilities
+  - Collaborate with AI architects, data scientists, and platform teams to deliver
+    end-to-end data solutions for intelligent applications
+  - Automate data ingestion, processing, and deployment workflows for efficiency and
+    reproducibility
+  - Conduct system performance monitoring, troubleshoot issues, and implement continuous
+    improvements
+  - Ensure systems adhere to security, compliance, and data governance standards
+  use_cases:
+  - Retrieval-Augmented Generation (RAG) for enterprise question-answering
+  - Semantic search and document retrieval across unstructured data
+  - Document classification, enrichment, and metadata tagging
+  - Enterprise search powered by vector databases and embeddings
+  - AI-driven insights from unstructured data sources (PDFs, emails, forms)
+  - Automated data pipeline orchestration for AI/ML workflows
+  skills:
+    genai: [LangChain, RAG, Prompt Engineering]
+    ml: [Hugging Face Transformers, Spark MLlib, Fine-tuning, Embeddings]
+    web: []
+    databases: [FAISS, MongoDB, DynamoDB, PostgreSQL, MySQL, BigQuery, Vector Databases]
+    data: [PySpark, Apache Airflow, Prefect]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Terraform]
+    languages: [Python, SQL, Java, Scala]
+    domains: [NLP]
+    other: [Data Governance, Data Quality]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9124237'
+  extracted_at: '2026-04-22T14:12:13.225599'

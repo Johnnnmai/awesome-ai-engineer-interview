@@ -1,0 +1,52 @@
+company:
+  name: Circles (circles.co)
+  stage: Series B+ (backed by Peak XV, Warburg Pincus, Founders Fund, EDBI)
+  focus: |-
+    Global telco SaaS platform and travel tech solutions
+    including eSIM roaming
+position:
+  title: Senior Software Quality Engineer (AI-Accelerated) - Jetpac
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role focuses on building AI-assisted testing systems
+      that use LLMs to generate, execute, and validate tests. The
+      role explicitly involves generating test cases using
+      LLMs/tools in Python and working with AI-assisted workflows
+      for test generation, which is direct hands-on work with AI
+      models and tools.
+  responsibilities:
+  - Build AI-assisted test generation systems from APIs to user flows across web and
+    mobile platforms
+  - Design and maintain fast, parallel test execution pipelines integrated into CI/CD
+  - Implement smart validation approaches beyond strict assertions for complex testing
+    scenarios
+  - Build and maintain end-to-end test coverage across critical user journeys
+  - Generate high-quality synthetic test data and scenarios including multi-product
+    flows
+  - Ensure tests are high-signal, low-flake, and trusted by developers
+  - Improve coverage across frontend, backend, and app layers without increasing manual
+    effort
+  use_cases:
+  - AI-assisted test generation for web and mobile user flows
+  - Automated testing for e-commerce flows (browse, cart, checkout, payments)
+  - API and backend service validation for telco/travel platform
+  - Synthetic data generation for pricing, rewards, and promotions testing
+  - Multi-entity scenario testing for bundles and complex product configurations
+  skills:
+    genai: [LLM-based test generation]
+    ml: []
+    web: [API testing, Web testing]
+    databases: []
+    data: [Synthetic data generation]
+    cloud: []
+    ops: [CI/CD pipelines, Automated testing frameworks, End-to-end testing, Performance
+        testing]
+    languages: [Python]
+    domains: []
+    other: [Mobile app testing, Distributed systems testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8881748'
+  extracted_at: '2026-03-27T14:54:31.794158'

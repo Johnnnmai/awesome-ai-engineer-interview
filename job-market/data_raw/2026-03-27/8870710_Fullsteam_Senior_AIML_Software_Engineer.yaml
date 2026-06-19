@@ -1,0 +1,146 @@
+job_id: 8870710
+title: Senior AI/ML Software Engineer
+company: Fullsteam
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Fastapi
+  - Hugging Face Transformers
+  - Python
+  - PyTorch
+  - Scikit-Learn
+description: |
+  It's fun to work in a company where people truly BELIEVE in
+  what they're doing!
+  
+  Fullsteam is a leading provider of vertical software and
+  embedded payments technology dedicated to helping businesses
+  flourish by providing their customers with seamless
+  experiences. With a dynamic and growing team of over 1,900
+  employees, we are committed to driving innovation and
+  delivering best-in-class software and payment solutions that
+  empower small and medium-sized businesses across numerous
+  industries. Our purpose is to help our customers grow their
+  businesses and delight their customers. Join us and be a
+  part of a forward-thinking company that values growth,
+  excellence, and the success of our clients.
+  
+  We are seeking a talented and experienced Senior AI Software
+  Engineer specializing in Artificial Intelligence to lead the
+  development and integration of advanced AI solutions into
+  our products.  As a Lead Engineer, you will be responsible
+  for designing and implementing high-quality, scalable AI.
+  Models and collaborating with cross-functional teams to push
+  the boundaries of AI in software development.  Your work
+  will focus on building cutting-edge applications leveraging
+  Machine Learning (ML), Natural Language Processing (NLP) and
+  Generative AI to deliver exceptional experiences and
+  solutions to our users.
+  
+  Primary Responsibilities:
+  
+  - Build production software – Design and implement scalable
+    backend services, APIs, and data pipelines with a focus on
+    reliability, performance, and maintainability
+  - Develop agentic systems – Create autonomous agents that
+    leverage LLMs to reason, use tools, and orchestrate
+    complex multi-step workflows
+  - Architect for scale – Design systems that handle real-time
+    AI inference, converation state, and tool execution with
+    proper error handling and recovery
+  - Design, develop, and deploy machine learning models that
+    drive product features, improve user engagement, and
+    enhance decision-making processes
+  - Collaborate cross-functionally – Partner with Product,
+    Design, and Engineering teams to define requirements and
+    deliver AI-powered features.
+  - Maintain engineering excellence – Write clean, well-tested
+    code; conduct thorough code reviews; champion best
+    practices across the team
+  - Stay current – Evaluate emerging agentic frameworks,
+    patterns, and tools; prototype new approaches to solve
+    real problems
+  
+  Skills & Competencies:
+  
+  Software Engineering (Core):
+  
+  - Strong fundamentals in system design, API design, and
+    distributed systems
+  - Clean code practices, SOLID principles, and testable
+    architecture
+  - Async programming, concurrency, and performance
+    optimization, Caching
+  - Database design (relational and vector stores)
+  - CI/CD, observability, and production operations
+  
+  Agentic Systems:
+  
+  - Agent architecture – orchestration, planning, tool use,
+    memory management
+  - LLM integration – prompt engineering, function calling,
+    context management
+  - RAG pipelines – embeddings, vector search, retrieval
+    strategies
+  - Reliability patterns for non-deterministic AI systems
+  
+  ML:
+  
+  - Basic understanding of ML concepts – training, inference,
+    evaluation, overfitting/underfitting
+  - Familiarity with embeddings and how vector representations
+    work
+  - Experience fine-tuning or adapting pre-training models for
+    specific use cases
+  - Exposure to ML frameworks (PyTorch, Hugging Face
+    Transformers, scikit-learn) at a foundational level
+  - Understanding of model evaluation metrics (precision recall,
+    F1, perplexity)
+  - Awareness of when to use off-the-shelf models vs. custom
+    training
+  
+  Nice to Have:
+  
+  - Experience with agent orchestration frameworks (LangGraph,
+    AutoGen, custom implementations)
+  - Background in vector databases and semantic search
+  - Familiarity with AI safety and guardrail patterns
+  - Experience mentoring engineers or leading technical
+    initiatives
+  
+  Minimum Qualifications:
+  
+  - Bachelor’s Degree in computer science, engineering or
+    related technical field
+  - 6+ years in professional software engineering experience
+  - 2+ years building applications that integrate LLMs or
+    agentic systems
+  - Proficiency in Python with experience in modern frameworks
+    (FastAPI, async/await)
+  - Experience with cloud platforms (AWS preferred – Lambda,
+    Bedrock, OpenSearch)
+  - Proven track record of shipping and operating production
+    systems
+  - Strong debugging, troubleshooting, and problem-solving
+    skills
+  - Excellent communication skills with an ability to work with
+    global, cross-functional teams, and stakeholders
+  
+  Fullsteam supports an inclusive workplace that values
+  diversity of thought, experience, and background. Fullsteam
+  is an Equal Opportunity/Affirmative Action employer. All
+  qualified applicants will receive consideration for
+  employment without regard to race, religion, color, national
+  origin, ancestry, age, physical or mental disability, sex,
+  sexual orientation, gender identity/expression, pregnancy,
+  veteran status, marital status, creed, status with regard to
+  public assistance, genetic status or any other status
+  protected by federal, state, or local law.
+industries:
+  - Fintech
+  - Software
+posted_date: 2026-03-26
+url: "https://www.builtinla.com/job/senior-ai-ml-software-engineer/8870710"
+source: Built In

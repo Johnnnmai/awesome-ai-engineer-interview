@@ -1,0 +1,55 @@
+company:
+  name: Accuris
+  stage: Established
+  focus: Enterprise information services and data analytics solutions
+position:
+  title: Agentic AI Engineer (Remote, 6-Month Contract)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building agentic AI systems,
+      multi-step AI workflows with tool selection and reasoning,
+      and developing AI-powered business solutions. The engineer
+      will work hands-on with LLM APIs, agentic architectures, and
+      AI frameworks like LangChain to create production-grade AI
+      systems.
+  responsibilities:
+  - Design and build agentic systems that orchestrate across ERP, CRM, data warehouse,
+    HRIS, and BI platforms
+  - Develop multi-step AI workflows including tool selection, data retrieval, reasoning,
+    and response generation
+  - Build and extend enterprise integrations, including authentication (OAuth, SSO)
+    and RBAC enforcement
+  - Deliver AI-powered business solutions such as pricing engines, SDR automation,
+    contract workflows, and executive dashboards
+  - Implement governance frameworks including audit logging, data lineage, and PII
+    protection
+  - Partner with business teams to translate workflows into AI-enabled solutions
+  - Drive adoption through reusable prompts, tools, and training for non-technical
+    users
+  use_cases:
+  - Enterprise workflow automation across Finance, Sales, Marketing, Legal, RevOps,
+    Product, HR, and Customer Experience
+  - Pricing engines for automated pricing decisions
+  - SDR automation for sales development processes
+  - Contract workflow automation and contract lifecycle management
+  - Executive dashboards with natural language querying
+  - Unified natural-language-driven experience across CRM, ERP, HRIS, and data platforms
+  skills:
+    genai: [LangChain, MCP, LLM APIs and SDKs, Agentic architectures, Tool use and
+        function calling, Multi-step AI workflows, Prompt engineering]
+    ml: []
+    web: [OAuth, SSO/SAML, REST APIs]
+    databases: [Data warehouses]
+    data: [Data lineage]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [CRM systems, ERP systems, HRIS systems, BI tools, RBAC and row-level security,
+      PII protection]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8816631'
+  extracted_at: '2026-03-27T15:58:13.388480'

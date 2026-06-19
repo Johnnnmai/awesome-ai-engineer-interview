@@ -1,0 +1,54 @@
+company:
+  name: GE Vernova
+  stage: Public
+  focus: |-
+    Energy technology company focused on nuclear and power
+    generation solutions
+position:
+  title: AI Design Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct work on building, deploying, and
+      fine-tuning AI/ML models including LLMs, vision AI, and
+      predictive analytics. The engineer will develop AI
+      algorithms, conduct prompt fine-tuning, and integrate
+      generative AI models into production systems - all hands-on
+      AI development work.
+  responsibilities:
+  - Develop custom tools and utilities for generative AI pipelines including data
+    preprocessing, model evaluation dashboards, and content visualization
+  - Collaborate with data scientists on prompt engineering and prompt fine-tuning
+    experiments to improve model performance
+  - Integrate generative AI models into existing applications and services via APIs
+  - Deploy AI solutions across cloud environments and enterprise platforms
+  - Design and implement test suites for AI models with QA engineers
+  - Collaborate cross-functionally with data engineers, DevOps, and product teams
+    to align project goals
+  - Maintain documentation for tools, APIs, and integration procedures
+  - Develop and implement AI algorithms for vision AI, predictive analytics, and anomaly
+    detection use cases
+  use_cases:
+  - Factory vision systems for quality inspection
+  - Error analysis and predictive maintenance in nuclear/energy operations
+  - Procedural automation for industrial processes
+  - Anomaly detection in energy systems
+  - LLM-based applications for domain-specific solutions
+  skills:
+    genai: [LLM-based applications, prompt engineering, prompt fine-tuning, generative
+        AI]
+    ml: [machine learning, deep learning, statistical modeling, vision AI, predictive
+        analytics, anomaly detection, model development, pre-training]
+    web: [API development]
+    databases: [relational databases, NoSQL databases]
+    data: [data preprocessing]
+    cloud: [cloud AI platforms]
+    ops: [MLOps, Git, testing frameworks]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8878721'
+  extracted_at: '2026-03-27T13:59:23.687808'

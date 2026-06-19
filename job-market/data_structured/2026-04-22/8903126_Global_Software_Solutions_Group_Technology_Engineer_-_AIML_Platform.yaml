@@ -1,0 +1,52 @@
+company:
+  name: Global Software Solutions Group
+  stage: Unknown
+  focus: Enterprise software solutions and AI platform engineering
+position:
+  title: Technology Engineer - AI/ML Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves deploying and optimizing AI
+      inference engines (Triton, vLLM), leading model lifecycle
+      management, collaborating on GenAI/LLM/Agentic AI solutions,
+      and building AI platforms on AWS (SageMaker, Bedrock). The
+      engineer is hands-on with model serving, inference
+      optimization, and GenAI infrastructure — core AI/ML systems
+      work, not just support infrastructure.
+  responsibilities:
+  - Design, build, and maintain containerized AI/ML applications using OpenShift,
+    Kubernetes, and Helm Charts
+  - Deploy and optimize AI inference engines such as Triton Inference Server and vLLM
+    for high-performance model serving
+  - Lead end-to-end model lifecycle management including deployment, monitoring, scaling,
+    and retraining workflows
+  - Implement monitoring, logging, and alerting systems using Prometheus and Grafana
+  - Collaborate on GenAI, LLM-based, and Agentic AI solution projects
+  - Build and automate CI/CD pipelines using Jenkins, Groovy, Ansible, and Terraform
+  - Architect and manage AI/ML solutions on AWS leveraging SageMaker and Bedrock
+  - Contribute to AI platform architecture design, roadmap, and strategic technical
+    decisions
+  use_cases:
+  - High-performance model serving and inference at enterprise scale
+  - GenAI and LLM-based application deployment
+  - Agentic AI solution development and deployment
+  - Enterprise AI platform engineering across hybrid cloud environments
+  - Automated model lifecycle management and retraining workflows
+  skills:
+    genai: [GenAI/LLM, Agentic AI]
+    ml: [GPU acceleration]
+    web: [Microservices]
+    databases: []
+    data: []
+    cloud: [AWS, SageMaker, Bedrock]
+    ops: [OpenShift, OpenShift AI, Kubernetes, Helm Charts, Triton Inference Server,
+      vLLM, Prometheus, Grafana, Jenkins, Ansible, Terraform, CI/CD, Docker]
+    languages: [Groovy, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8903126'
+  extracted_at: '2026-04-22T12:28:11.430006'

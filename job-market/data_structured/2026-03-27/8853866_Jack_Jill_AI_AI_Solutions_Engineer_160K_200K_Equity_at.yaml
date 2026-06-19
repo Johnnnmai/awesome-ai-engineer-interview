@@ -1,0 +1,51 @@
+company:
+  name: Jack & Jill AI
+  stage: VC-backed
+  focus: |-
+    No-code AI agent toolkit platform turning human knowledge
+    into trustworthy AI
+position:
+  title: AI Solutions Engineer ($160K – $200K + Equity) at V7
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and implementing custom AI
+      agent workflows, building prompt engineering solutions, and
+      integrating various LLMs (GPT, Claude, Gemini) into client
+      environments. The position requires hands-on work with LLM-
+      based projects and AI accuracy measurement, making it a
+      direct AI implementation role.
+  responsibilities:
+  - Lead technical discovery and POCs to design and implement custom no-code AI agent
+    workflows for enterprise customers
+  - Build Python-based data pipelines and prompt engineering solutions integrating
+    LLMs like GPT, Claude, and Gemini
+  - Serve as primary technical point of contact for up to 10 concurrent enterprise
+    projects
+  - Translate customer feedback into product requirements for the engineering team
+  - Bridge sales and product teams to accelerate growth of V7 Go platform
+  - Design sophisticated LLM workflows for enterprise clients in finance and legal
+    sectors
+  use_cases:
+  - Enterprise AI agent deployment for finance sector
+  - Enterprise AI agent deployment for legal sector
+  - Complex multi-modal data processing
+  - No-code AI agent workflow creation
+  - Document processing at scale (tens of millions of documents)
+  skills:
+    genai: [Prompt Engineering, LLM Integration, OpenAI API, Claude API, Gemini API,
+      AI Agents, RAG]
+    ml: []
+    web: [API Integration]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Cloud Architecture]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8853866'
+  extracted_at: '2026-03-27T14:56:31.386416'

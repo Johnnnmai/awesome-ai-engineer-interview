@@ -1,0 +1,51 @@
+company:
+  name: Vanilla
+  stage: Seed
+  focus: AI-powered estate planning and wealth transfer platform
+position:
+  title: Software Engineer - AI Applications
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building applied AI applications
+      using LLMs, including integrating models, fine-tuning,
+      creating training/evaluation pipelines, and building RAG
+      systems. The engineer will work hands-on with AI/LLM
+      technologies to deploy production applications, not just
+      support infrastructure.
+  responsibilities:
+  - Build applied AI applications using Large Language Models with focus on high accuracy
+    rates
+  - Construct services to ingest and process structured results from AI models
+  - Build models and services that ingest data, extract key information, and surface
+    insights
+  - Develop tooling for model training, evaluation, inference serving, monitoring
+    and alerting
+  - Create and optimize model training pipelines using latest ML frameworks and open
+    source tools
+  - Design and implement database schemas and optimize query performance
+  - Extract, transform, and load data from disparate sources into centralized systems
+  - Collaborate with engineering teams, subject matter experts, product managers,
+    and designers
+  use_cases:
+  - Estate planning document creation and automation
+  - Scenario modeling for wealth transfer
+  - Client visualization and data extraction
+  - Streamlining and replacing archaic estate planning workflows
+  - Information extraction from structured and unstructured data sources
+  skills:
+    genai: [OpenAI API, Anthropic API, LangChain, LangGraph, RAG, Prompt engineering]
+    ml: [LLM fine-tuning, NLP, Model training and evaluation]
+    web: [REST APIs, Microservices, API design]
+    databases: [Database design and optimization]
+    data: [ETL and data pipelines]
+    cloud: []
+    ops: [AI observability and monitoring, Inference serving]
+    languages: [Python, JavaScript, Go, Rust, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8832981'
+  extracted_at: '2026-03-27T15:51:46.349352'

@@ -1,0 +1,51 @@
+company:
+  name: Accellor
+  stage: Unknown
+  focus: |-
+    Technology consulting for high-tech, healthcare, retail, and
+    telecom industries
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and fine-
+      tuning LLMs and GenAI solutions using RAG, prompt
+      engineering, and orchestration tools like LangChain. The
+      developer will work hands-on with models, implementing
+      production AI systems rather than supporting infrastructure.
+  responsibilities:
+  - Design, develop, and implement GenAI solutions using LLMs to address business
+    needs using Python
+  - Collaborate with stakeholders to identify GenAI integration opportunities and
+    translate requirements into scalable solutions
+  - Preprocess and analyze unstructured data for model training, fine-tuning, and
+    evaluation
+  - Apply prompt engineering, fine-tuning, and RAG techniques to optimize LLM outputs
+  - Deploy GenAI models and APIs into production environments ensuring performance
+    and scalability
+  - Monitor and maintain deployed solutions incorporating improvements based on feedback
+  - Stay up to date with latest GenAI, LLMs, and orchestration tools advancements
+  - Write clean, maintainable code and contribute to code reviews and best practices
+  use_cases:
+  - GenAI solutions for business challenges
+  - Document and text processing with LLMs
+  - Retrieval-Augmented Generation systems
+  - Multi-agent AI workflows
+  skills:
+    genai: [OpenAI, LLaMA, Mistral, Ollama, LM Studio, RAG, LangChain, LlamaIndex,
+      LangGraph, Prompt engineering, Multi-agent frameworks]
+    ml: [Fine-tuning]
+    web: []
+    databases: [FAISS, Pinecone, Vector databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8120989'
+  extracted_at: '2026-03-27T14:49:04.138889'

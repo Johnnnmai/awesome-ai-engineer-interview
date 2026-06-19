@@ -1,0 +1,57 @@
+company:
+  name: Knotch
+  stage: Growth-stage
+  focus: |-
+    B2B content intelligence and AI-powered marketing
+    optimization platform
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying
+      production AI agents using LLM orchestration frameworks
+      (LangGraph, LangChain). The engineer will work on agentic
+      patterns, RAG pipelines, and build consequential AI systems
+      that enterprise clients depend on—clearly hands-on work
+      building and deploying AI/ML systems.
+  responsibilities:
+  - Develop and deploy AI agents that automate complex workflows across the Knotch
+    platform
+  - Build the internal tools and infrastructure that power, monitor, and maintain
+    these agents in production
+  - Design and implement backend and frontend services, APIs, and data pipelines,
+    integrating AI functionality into user-facing features
+  - Contribute to system architecture and core platform design alongside the broader
+    engineering team
+  - Design and maintain a suite of evaluations and benchmarks to measure agent accuracy,
+    reliability, and cost-effectiveness
+  - Optimize inference pipelines and backend systems for speed, scalability, and cost
+  - Own the AI safety and governance layer including guardrails, audit logging, fallback
+    logic, and access controls
+  - Collaborate closely with Product, Data Engineering, Backend, and Frontend teams
+    to align AI capabilities with product direction
+  use_cases:
+  - Content performance optimization for enterprise brands
+  - Marketing automation through AI agents
+  - Content intelligence and engagement analytics
+  - Autonomous content planning and execution across digital channels
+  - B2B content strategy optimization using proprietary data
+  skills:
+    genai: [LangGraph, LangChain, RAG pipelines, Prompt engineering, Multi-agent orchestration,
+      Tool/function calling, MCP, Claude API, PEFT, LoRA, Guardrails AI, NeMo Guardrails,
+      LlamaGuard]
+    ml: [NLP concepts, Tokenization, Embeddings, Semantic similarity]
+    web: [FastAPI, REST APIs]
+    databases: [Snowflake, Pinecone, pgvector, Weaviate]
+    data: [Data pipelines, ETL]
+    cloud: []
+    ops: [Docker, Kubernetes, Inference optimization, Agent monitoring and observability]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8779536'
+  extracted_at: '2026-03-27T13:27:40.814725'

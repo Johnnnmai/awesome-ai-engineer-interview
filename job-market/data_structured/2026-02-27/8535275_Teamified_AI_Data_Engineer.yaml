@@ -1,0 +1,46 @@
+company:
+  name: Teamified
+  stage: Growing
+  focus: Remote team building services with technology products
+position:
+  title: AI Data Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI solutions including
+      designing AI data architecture, optimizing AI augmentation
+      models, working with context builders and prompt builders,
+      and implementing RAG orchestration pipelines using LangChain
+      and vector databases. The position requires hands-on work
+      developing and deploying AI models and algorithms.
+  responsibilities:
+  - Design and develop AI data architecture and API using Python Django Framework
+  - Manage RDBMS, NoSQL (MongoDB), and Vector (Pinecone) databases with proper data
+    governance
+  - Collaborate with leadership and architects to integrate AI solutions into the
+    Teamified Platform
+  - Optimize AI augmentation models, context builders, and prompt builders for performance
+    and scalability
+  - Conduct research on latest AI and data engineering advancements
+  - Implement RAG orchestration pipelines and AI-powered features
+  use_cases:
+  - AI-augmented recruitment and team building platform
+  - Vector search and semantic matching for candidate placement
+  - AI-powered context building and prompt systems
+  - Intelligent data architecture for remote team management
+  skills:
+    genai: [LangChain, RAG Orchestration Pipelines]
+    ml: []
+    web: [Django]
+    databases: [MongoDB, Pinecone, Vector Databases, SQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Replit]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8535275'
+  extracted_at: '2026-03-03T12:22:29.713159'

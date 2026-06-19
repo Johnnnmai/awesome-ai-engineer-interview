@@ -1,0 +1,62 @@
+company:
+  name: Pattern
+  stage: Growth/E-commerce accelerator
+  focus: |-
+    Ecommerce accelerator helping global brands grow across
+    marketplaces using AI-powered data intelligence and creative
+    automation
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and operating
+      production AI systems including agentic workflows, LLM-based
+      classification engines, generative pipelines, and retrieval
+      systems. The engineer works daily with LLMs, embeddings, and
+      diffusion models, designing and deploying them as core
+      components of the product — not as supporting
+      infrastructure.
+  responsibilities:
+  - Own one or two critical systems end-to-end, driving architecture, implementation,
+    and operational health
+  - Design and build production AI systems including retrieval pipelines, agentic
+    workflows, generative pipelines, and classification engines
+  - Drive cross-system technical decisions including data contracts, API boundaries,
+    and shared infrastructure
+  - Set engineering standards through code reviews, design documents, and architectural
+    RFCs
+  - Build intelligent agents for data collection, product intelligence normalization,
+    and marketplace analytics
+  - Partner with product and stakeholders to frame and solve problems end-to-end
+  - Mentor and elevate engineers through pairing, review rigor, and raising production-ready
+    standards
+  use_cases:
+  - Agentic competitive intelligence — automated discovery and monitoring of product
+    and competitor data across marketplaces
+  - Product attribute normalization — turning messy unstructured product data into
+    consistent taxonomy using LLMs and vector search
+  - Marketplace behavioral analytics — modeling what drives customer purchase decisions
+    using consumer behavior and competitive data
+  - Creative automation at scale — generating marketplace-ready imagery, video, and
+    copy from structured product intelligence
+  - Closed-loop ecosystem connecting data collection, intelligence analysis, creative
+    generation, and brand strategy
+  skills:
+    genai: [LLMs, LangGraph, Embeddings, Agentic workflows, RAG/retrieval pipelines,
+      Prompt engineering, AWS Bedrock]
+    ml: [Diffusion models, Computer vision, NLP, Classification pipelines]
+    web: [FastAPI, React/Next.js, SQLAlchemy]
+    databases: [PostgreSQL, Redis, Snowflake, DynamoDB, Vector databases]
+    data: []
+    cloud: ['AWS (ECS, Lambda, S3, SQS/SNS, Step Functions)']
+    ops: [Terraform, Docker, Temporal, Apache Airflow (Astronomer), Celery, RunPod,
+      Replicate, Fal]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [Distributed systems design, Event-driven architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9096220'
+  extracted_at: '2026-04-22T12:40:00.498238'

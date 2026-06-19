@@ -1,0 +1,53 @@
+company:
+  name: Zensar Technologies
+  stage: Public
+  focus: IT services and digital solutions provider
+position:
+  title: Senior Full Stack Developer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is primarily a full-stack web developer role that
+      requires some AI-related skills (prompt engineering, Gen AI
+      tools) as supplementary competencies. The core
+      responsibilities are building web applications, APIs, and
+      managing databases using Python, FastAPI, React, and AWS. AI
+      tools like GitHub Co-pilot and Cursor are mentioned for
+      enhancing development efficiency, not for building or
+      deploying AI/ML models.
+  responsibilities:
+  - Design, build, and maintain efficient server-side applications using Python and
+    FastAPI
+  - Develop high-performance APIs with FastAPI, integrating with AWS cloud services
+    such as SQS and Lambda
+  - Build engaging and responsive user interfaces using React JS and Angular JS
+  - Manage and optimize data storage solutions using MongoDB
+  - Utilize prompt engineering and AI-driven development tools like GitHub Co-pilot
+    and Cursor to enhance development efficiency and integrate AI features
+  - Apply DevOps practices including CI/CD pipelines for deployment
+  - Troubleshoot existing scripts, perform bug fixes, and conduct application performance
+    tuning
+  - Collaborate with cross-functional teams in Agile and Scrum environment using Jira
+    and Git
+  use_cases:
+  - AI-assisted software development using Co-pilot and Cursor
+  - Prompt engineering for system and user prompts in applications
+  - Integration of GenAI tools and agentic workflows into web applications
+  - Full-stack web application development with AI-enhanced features
+  skills:
+    genai: [Prompt Engineering, GitHub Co-pilot, Cursor, Gen AI tools, Agentic development
+        workflows]
+    ml: []
+    web: [FastAPI, Django, Flask, RESTful APIs, React JS, Angular JS]
+    databases: [MongoDB]
+    data: [Kafka]
+    cloud: [AWS, AWS SQS, AWS Lambda]
+    ops: [CI/CD, DevOps, Git, Jira]
+    languages: [Python]
+    domains: []
+    other: [Agile, Scrum, Security domain knowledge]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9004603'
+  extracted_at: '2026-04-22T13:26:29.994109'

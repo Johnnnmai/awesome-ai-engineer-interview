@@ -1,0 +1,50 @@
+company:
+  name: Nexaminds
+  stage: Startup
+  focus: |-
+    AI solutions provider transforming businesses with
+    intelligent systems
+position:
+  title: Jr. AI Engineer (GenAI / Hyperscaler / Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on with building, fine-tuning, and
+      deploying LLM-based systems including RAG pipelines and
+      Agentic AI. The engineer directly works with foundation
+      models, implements AI solutions, and deploys them on
+      hyperscaler platforms.
+  responsibilities:
+  - Design and develop GenAI and Agentic AI solutions using modern LLM frameworks
+  - Build and implement real-world use cases leveraging LLMs such as Anthropic Claude,
+    Google Gemini, AWS Nova, and Meta Llama
+  - Develop backend tools and services to support AI-driven applications
+  - Work with AWS Bedrock and SageMaker for model deployment, orchestration, and optimization
+  - Utilize Azure AI Foundry services for AI solution development on Azure
+  - Implement Retrieval-Augmented Generation (RAG) pipelines using Vector Databases
+    and embeddings
+  - Perform fine-tuning and optimization of foundation models
+  - Manage token usage, prompt engineering, and context optimization for LLM applications
+  use_cases:
+  - GenAI and Agentic AI solutions for enterprise applications
+  - LLM-based use cases with multiple foundation models
+  - RAG-powered intelligent search and retrieval systems
+  - Scalable AI solutions deployed on cloud platforms
+  - AI-driven backend services and applications
+  skills:
+    genai: [Agentic AI, MCP, RAG, Prompt engineering, LLM frameworks, Anthropic Claude,
+      Google Gemini, AWS Nova, Meta Llama]
+    ml: [Fine-tuning foundation models, Embeddings]
+    web: [REST APIs, Microservices]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS Bedrock, AWS SageMaker, Azure AI Foundry]
+    ops: [Docker, Kubernetes, MLOps, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8818879'
+  extracted_at: '2026-03-27T15:10:26.591169'

@@ -1,0 +1,57 @@
+company:
+  name: Wolters Kluwer
+  stage: Public
+  focus: |-
+    Legal AI platform and software for legal and compliance
+    professionals
+position:
+  title: Legal Engineer (Libra - Legal AI Assistant) (m/f/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a forward-deployed role focused on building,
+      configuring, and optimizing AI-powered workflows and Libra
+      Assistants. The role involves translating legal expertise
+      into prompts, structured data, and workflows to ensure AI
+      outputs are accurate. While not building models from
+      scratch, they actively configure and deploy AI solutions
+      directly to customers.
+  responsibilities:
+  - Collaborate with Sales, Customer Success, Product, and Engineering to design and
+    test AI-powered workflows and Libra Assistants across key legal domains
+  - Partner directly with clients to understand use cases, map processes, and configure
+    tailored AI solutions
+  - Translate legal expertise into structured data, prompts, and workflows to ensure
+    AI outputs are accurate and legally robust
+  - Support customer pilots and proof-of-concepts by adapting Libra's capabilities
+    to real legal documents, templates, and research workflows
+  - Act as a trusted advisor to clients, guiding them through best practices for AI-assisted
+    legal work
+  - Create content and learning materials for the Libra Academy to drive adoption
+    and user success
+  - Provide actionable insights to Product and Engineering teams to improve prompt
+    quality, accuracy, and domain coverage
+  - Stay informed on legal tech trends and emerging AI capabilities to influence roadmap
+    priorities
+  use_cases:
+  - Legal research automation for law firms and corporate legal departments
+  - AI-powered legal document drafting and review
+  - Workflow automation for legal teams
+  - Legal reasoning and compliance assistance
+  - Client-facing legal solution deployment
+  skills:
+    genai: [prompt engineering, workflow automation]
+    ml: []
+    web: [SaaS]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [German, English]
+    domains: [legal domain expertise]
+    other: [agile methodologies]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8583179'
+  extracted_at: '2026-03-03T11:16:13.043031'

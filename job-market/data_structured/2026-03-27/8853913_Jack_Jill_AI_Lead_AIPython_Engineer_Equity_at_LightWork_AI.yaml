@@ -1,0 +1,45 @@
+company:
+  name: Jack & Jill AI
+  stage: Seed
+  focus: AI startup transforming real estate technology
+position:
+  title: Lead AI/Python Engineer (+ Equity) at LightWork AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves leading the full AI lifecycle from
+      research and prototyping to deployment of scalable AI
+      systems using state-of-the-art ML models. The position
+      requires hands-on work designing, deploying, and
+      transitioning AI prototypes to production, which is core
+      AI/ML development work.
+  responsibilities:
+  - Design and deploy scalable AI systems using state-of-the-art machine learning
+    models and Python-based architectures
+  - Lead the end-to-end development cycle, transitioning innovative prototypes into
+    robust, production-ready features
+  - Collaborate within a small, agile team to solve complex technical challenges within
+    the real estate domain
+  - Drive innovation from research and prototyping to real-world deployment of scalable
+    AI systems
+  - Experiment with state-of-the-art models and shape the company's product roadmap
+  use_cases:
+  - Real estate technology transformation
+  - Scalable AI systems for property industry
+  - Production ML model deployment in real estate domain
+  skills:
+    genai: []
+    ml: [machine learning, AI/ML development]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8853913'
+  extracted_at: '2026-03-27T13:41:07.224793'

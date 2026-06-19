@@ -1,0 +1,51 @@
+company:
+  name: Wolters Kluwer
+  stage: Public
+  focus: |-
+    Professional information, software solutions, and services
+    for healthcare, tax, accounting, financial and corporate
+    compliance, legal and regulatory sectors
+position:
+  title: Senior Product Software Engineer (Agentic AI) - Hybrid (NYC) R0054891
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role explicitly requires hands-on experience building
+      agentic AI systems using frameworks like LangChain, AutoGen,
+      and CrewAI, implementing RAG pipelines, and designing multi-
+      agent workflows. The position involves direct work on AI
+      agents, LLM implementation, and agentic systems - core AI/ML
+      development work.
+  responsibilities:
+  - Design and develop complex software applications with agentic AI capabilities
+  - Lead agentic workflow design and optimization for team efficiency
+  - Implement LLMs with vector databases, embeddings, and RAG pipelines
+  - Design multi-agent orchestration systems with tool use and autonomous workflows
+  - Evaluate model performance, mitigate hallucinations, and design safe action loops
+  - Collaborate with cross-functional teams on design specifications
+  - Create comprehensive testing routines for AI-powered applications
+  - Optimize software performance and resolve complex technical issues
+  use_cases:
+  - Agentic AI workflow automation for corporate compliance
+  - Multi-agent systems for financial and legal information processing
+  - RAG-based intelligent document retrieval and analysis
+  - Autonomous workflow design for enterprise software
+  - AI-powered decision support for professional services
+  skills:
+    genai: [LangChain, AutoGen, CrewAI, RAG, Prompt Engineering, ReAct prompting,
+      Chain-of-Thought, Multi-agent orchestration, LLM architecture and inference,
+      Embeddings]
+    ml: [TensorFlow, PyTorch, Reinforcement Learning]
+    web: [REST APIs]
+    databases: [Vector databases, Relational databases]
+    data: []
+    cloud: []
+    ops: [Source code repository management, Agile methodology]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8632813'
+  extracted_at: '2026-03-27T14:32:29.225667'

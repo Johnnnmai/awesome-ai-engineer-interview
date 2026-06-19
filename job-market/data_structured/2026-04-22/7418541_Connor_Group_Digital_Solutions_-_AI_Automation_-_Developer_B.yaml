@@ -1,0 +1,56 @@
+company:
+  name: Connor Group
+  stage: null
+  focus: |-
+    Specialized professional services for accounting advisory,
+    digital solutions, and financial operations
+position:
+  title: 'Digital Solutions - AI & Automation - Developer (Boomi + Workato) (Location:
+    India)'
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is titled "AI & Automation" but the actual work
+      involves integration development using Boomi and Workato
+      (iPaaS platforms). The developer builds integration
+      processes between third-party applications and supports
+      existing integrations. While it falls under the company's
+      "Digital Solutions" umbrella, there is no hands-on work with
+      AI/ML models, LLMs, or any AI systems — it's primarily an
+      integration/automation developer role that supports business
+      automation initiatives.
+  responsibilities:
+  - Design, develop, deploy, and maintain integration processes between 3rd party
+    applications using Dell Boomi AtomSphere or Workato
+  - Manage, monitor, sustain, troubleshoot, and support existing integration implementations
+    for clients
+  - Support developers and architects in creating design, development, and maintenance
+    documentation for each client
+  - Establish and maintain strong working relationships with external and internal
+    IT partners
+  - Manage development of integration solutions including unit testing, configuration,
+    business readiness, and production support
+  - Work on implementations in an agile fashion and adapt to established methodologies
+    and processes
+  use_cases:
+  - Integration between cloud and on-premise enterprise applications (NetSuite, Salesforce)
+  - Finance and accounting process automation for clients
+  - Enterprise application integration via iPaaS platforms
+  - Digital solutions implementation for finance, accounting, and operations departments
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs, SOAP, JSON, XML, WSDL, XSD]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Agile methodology]
+    languages: [SQL]
+    domains: []
+    other: [Dell Boomi AtomSphere, Workato, NetSuite, Salesforce, iPaaS integration,
+      SaaS]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7418541'
+  extracted_at: '2026-04-22T13:55:43.789850'

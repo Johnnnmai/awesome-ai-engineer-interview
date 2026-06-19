@@ -1,0 +1,57 @@
+company:
+  name: Fortive
+  stage: Public
+  focus: |-
+    Diversified industrial technology and enterprise software
+    solutions
+position:
+  title: Senior Software Engineer, AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on design, development, and
+      deployment of AI-powered automation solutions using LLMs,
+      agent frameworks, and GenAI APIs. The engineer builds
+      prototypes and production-ready AI systems end-to-end, from
+      discovery to deployment, directly working with models and AI
+      tooling rather than just supporting infrastructure.
+  responsibilities:
+  - Own end-to-end delivery of AI-powered automation projects from discovery to deployment
+    across business units
+  - Translate ambiguous business problems into concrete AI/ML opportunities and build
+    prototypes and MVP solutions
+  - Implement solutions using LLMs, agent frameworks, workflow automation, REST APIs,
+    and cloud services
+  - Collaborate with cross-functional teams including business stakeholders, SMEs,
+    and global engineering teams to scale successful pilots
+  - Create reusable templates, documentation, code modules, and training resources
+    to accelerate AI adoption
+  - Establish a repeatable build-enable-transition-replicate model for global AI adoption
+    across the enterprise
+  - Drive alignment with responsible AI, data governance, and enterprise engineering
+    standards
+  - Influence internal tooling, AI platform strategy, and long-term architectural
+    decisions
+  use_cases:
+  - Intelligent document processing automation
+  - Ticket triage automation using AI
+  - Automated reporting and analytics
+  - Internal business workflow automation across functional teams
+  - Enterprise-wide AI enablement and productivity improvement
+  skills:
+    genai: [LLMs, Agent frameworks, OpenAI API, Azure OpenAI, AWS Bedrock, Prompt
+        engineering, LLM orchestration, Copilot CLI, Claude Code]
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: []
+    data: [Workflow orchestration tools]
+    cloud: [AWS, Azure, GCP]
+    ops: [DevOps, MLOps, Docker]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9084765'
+  extracted_at: '2026-04-22T13:44:58.566848'

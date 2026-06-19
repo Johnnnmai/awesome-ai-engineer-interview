@@ -1,0 +1,58 @@
+company:
+  name: Mastercard
+  stage: Public
+  focus: |-
+    Global payments technology company powering digital
+    transactions
+position:
+  title: AI Consultant (Principal AI Engineer)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and implementing end-to-end
+      Agentic AI architectures including agent orchestration, RAG
+      patterns, tool-using agents, and model integration. While
+      architecture-focused and customer-facing, the role requires
+      hands-on AI solution design and technical guidance on
+      building and deploying agentic systems, not just enabling
+      infrastructure for others.
+  responsibilities:
+  - Engage directly with partners and customers to understand their system architectures
+    and lead technical discovery sessions on applying Agentic AI solutions
+  - Design end-to-end architectures for Agentic AI systems including agent orchestration,
+    data flows, model integration, APIs, and security boundaries
+  - Convert business and technical requirements into clear solution architectures,
+    reference designs, and implementation guidance
+  - Advise on data requirements, data readiness, and integration of AI models with
+    enterprise systems including RAG, tool-using agents, and human-in-the-loop workflows
+  - Apply Responsible AI principles including data governance, security, safety controls,
+    and contribute to standards and reference architectures
+  - Collaborate with product, engineering, and platform teams to align partner needs
+    with product capabilities and support pilots and proofs of concept
+  - Produce architecture diagrams, documentation, and presentations explaining technical
+    trade-offs to technical and non-technical stakeholders
+  - Track emerging tools, frameworks, and architectural patterns in generative and
+    Agentic AI and guide partners on practical adoption
+  use_cases:
+  - Agentic AI solution design and implementation for enterprise partners
+  - Agent orchestration and multi-agent system architectures
+  - Retrieval augmented generation (RAG) implementations
+  - Tool-using agent workflows and integrations
+  - Human-in-the-loop AI systems
+  - Enterprise AI integration with existing data landscapes and systems
+  skills:
+    genai: [Agentic AI, RAG, LLM-based systems, Prompt engineering, Agent orchestration]
+    ml: [Embeddings]
+    web: [Microservices, API design]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Enterprise security]
+    languages: [Python, Java, JavaScript, TypeScript]
+    domains: []
+    other: [Distributed systems, Responsible AI, Data governance]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8614892'
+  extracted_at: '2026-03-27T16:14:18.050583'

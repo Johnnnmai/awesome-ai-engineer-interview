@@ -1,0 +1,87 @@
+job_id: 8935697
+title: Senior Systems Engineer, Workers AI
+company: Cloudflare
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - HTTP
+  - Kubernetes
+  - Nomad
+  - Rust
+  - Tcp
+  - Websocket
+company_size: 4,400 Employees
+description: |
+  Available Locations: Austin, TX or London, UK (Hybrid) About
+  the role  You'll design and build the core infrastructure
+  that powers AI inference across Cloudflare's global network
+  - real-time voice, frontier open LLMs, and customer-deployed
+  models running on a heterogeneous fleet of GPUs and next-
+  generation accelerators in hundreds of cities worldwide.
+  Working alongside AI/ML engineers, hardware partners, and
+  Cloudflare product teams, you'll solve hard problems in
+  distributed systems and high-performance computing: sub-
+  second model cold starts, multi-accelerator workload
+  scheduling, efficient KV cache management, and a model
+  deployment platform serving both Cloudflare and customers
+  bringing their own models. We're building an AI inference
+  platform embedded in the fabric of the internet - something
+  that doesn't exist yet - and this role puts you at the
+  center of it. We're looking for high-agency systems
+  engineers who are energized by foundational infrastructure
+  problems and want to define how AI runs at the edge of the
+  network. Role Responsibilities
+  
+  - Develop and maintain core components of the serverless
+    inference platform to ensure high availability and
+    scalability for Cloudflare users.
+  - Optimize the model scheduling system to significantly
+    increase efficiency and resource utilization across our
+    inference infrastructure.
+  - Implement improvements to the inference request routing
+    logic to enhance overall performance and reduce latency
+    for end-users.
+  - Drive significant, measurable improvements in the platform's
+    reliability and resilience by identifying and mitigating
+    systemic risks.
+  - Expand and refine the observability stack, including
+    metrics, logging, and tracing, and fine-tune alerts to
+    proactively identify and resolve production issues.
+  - Lead complex, cross-functional technical projects from
+    initial concept and design through final deployment and
+    operationalization.
+  - Act as a mentor to junior engineers and actively contribute
+    to cultivating a strong, collaborative engineering culture
+    within the team.
+  
+   Role Requirements  Must-Have Skills
+  
+  - Experience in systems engineering, with a focus on
+    distributed, high-performance systems.
+  - Expert proficiency in Rust programming, particularly in an
+    asynchronous environment.
+  - Deep understanding and hands-on experience with relevant
+    networking and application protocols (e.g., TCP, HTTP,
+    WebSocket).
+  - Experience with scaling and performance optimization
+    techniques, including load balancing and caching in a
+    distributed environment.
+  
+  
+  Nice-to-Have Skills
+  
+  - Demonstrable experience with container orchestration
+    platforms, specifically Kubernetes and/or Nomad.
+  - Familiarity with the challenges and architectures involved
+    in large-scale inference serving (e.g., LLM and diffusion
+    models).
+industries:
+  - Cloud
+  - Information Technology
+  - Security
+  - Software
+  - Cybersecurity
+posted_date: 2026-04-16
+url: "https://builtin.com/job/senior-systems-engineer-workers-ai/8935697"
+source: Built In

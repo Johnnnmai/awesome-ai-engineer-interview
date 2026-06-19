@@ -1,0 +1,122 @@
+job_id: 8757760
+title: "Senior Software Engineer : Power Bi Developer, Python AI/ML"
+company: Wells Fargo
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Azure
+  - Django
+  - Docker
+  - Elk
+  - Fastapi
+  - Flask
+  - GCP
+  - Git
+  - Git Action
+company_size: 205,000 Employees
+description: |
+  In this role, you will:
+  
+  - Lead moderately complex initiatives and deliverables within
+    technical domain environments
+  - Contribute to large scale planning of strategies
+  - Design, code, test, debug, and document for projects and
+    programs associated with technology domain, including
+    upgrades and deployments
+  - Review moderately complex technical challenges that require
+    an in-depth evaluation of technologies and procedures
+  - Resolve moderately complex issues and lead a team to meet
+    existing client needs or potential new clients needs while
+    leveraging solid understanding of the function, policies,
+    procedures, or compliance requirements
+  - Collaborate and consult with peers, colleagues, and mid-
+    level managers to resolve technical challenges and achieve
+    goals
+  - Lead projects and act as an escalation point, provide
+    guidance and direction to less experienced staff
+  
+  Required Qualifications:
+  
+  - 4+ years of Software Engineering experience, or equivalent
+    demonstrated through one or a combination of the
+    following: work experience, training, military experience,
+    education
+  
+  Desired Qualifications:
+  
+  - Bachelor's or master's degree in computer science, Software
+    Engineering, or a related field.
+  - Strong Knowledge and experience with Tableau, PowerBI,
+    Grafana or any other visualization tools
+  - Professional experience in Python software development.
+  - Strong proficiency in Python and related frameworks (e.g.,
+    Django, Flask, FastAPI).
+  - Knowledge and Experience with Python AI/ML libraries
+  - Extensive experience with relational and/or NoSQL databases
+    (e.g., PostgreSQL, MySQL, MongoDB).
+  - Solid understanding of software design principles and
+    patterns.
+  - Experience with version control systems (e.g., Git).
+  - Experience with cloud platforms (e.g., AWS, Azure, GCP).
+  - Experience with containerization and orchestration (e.g.
+    Docker, Kubernetes, OpenShift).
+  - Strong knowledge of RESTful API design.
+  - Excellent problem-solving and debugging skills.
+  - Strong communication and collaboration skills.
+  - Experience with message queues (e.g., RabbitMQ, Kafka).
+  - Experience with CI/CD pipelines (e.g., Jenkins, GitLab CI,
+    Git Action).
+  
+  Job Expectations: Site Reliability Engineering:
+  
+  - Good understanding about SRE practices (Reliability,
+    Observability, Availability, TOIL Automation)
+  - Experience working with Observability tools (Splunk,
+    Grafana, Prometheus, ELK)
+  - Knowledge and good understanding on Reliability concepts
+    (SLI, SLO, SLI, Error budget)
+  
+  Design and Development:
+  
+  - Develop high-quality, scalable, and maintainable Python code
+    for backend services, APIs, and applications.
+  - Architect and implement robust solutions that meet business
+    requirements and Non-functional requirements.
+  - Participate in code reviews and provide constructive
+    feedback to ensure code quality and code hygiene.
+  - Write unit and integration tests to ensure code reliability
+    and stability.
+  
+  Collaboration and Communication:
+  
+  - Collaborate effectively with product owner, designers, and
+    other engineers to deliver high-quality software.
+  - Communicate technical concepts clearly and concisely to both
+    technical and non-technical stakeholders.
+  - Participate in agile development processes, including sprint
+    planning, daily stand-ups, and retrospectives.
+  
+  Performance and Optimization:
+  
+  - Identify and resolve performance bottlenecks and optimize
+    code for efficiency.
+  - Monitor and troubleshoot production systems to ensure uptime
+    and reliability.
+  - Implement and maintain CI/CD pipelines for automated testing
+    and deployment.
+  
+  Database and API Interaction:
+  
+  - Design and implement efficient database schemas and queries
+    (SQL or NoSQL).
+  - Build and consume RESTful or GraphQL APIs.
+  - Work with message queues and other asynchronous processing
+    systems.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-03-24
+url: "https://builtin.com/job/senior-software-engineer-power-bi-developer/8757760"
+source: Built In

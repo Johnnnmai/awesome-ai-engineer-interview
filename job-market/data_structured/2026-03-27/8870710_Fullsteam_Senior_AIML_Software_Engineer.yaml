@@ -1,0 +1,53 @@
+company:
+  name: Fullsteam
+  stage: Growth/Established
+  focus: Vertical software and embedded payments technology for SMBs
+position:
+  title: Senior AI/ML Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI
+      systems including agentic systems with LLMs, RAG pipelines,
+      and fine-tuning models. The engineer will create autonomous
+      agents, implement ML models, and design real-time AI
+      inference systems - all hands-on work with AI/ML systems.
+  responsibilities:
+  - Design and implement scalable backend services, APIs, and data pipelines with
+    focus on reliability, performance, and maintainability
+  - Create autonomous agents that leverage LLMs to reason, use tools, and orchestrate
+    complex multi-step workflows
+  - Design systems that handle real-time AI inference, conversation state, and tool
+    execution with proper error handling and recovery
+  - Design, develop, and deploy machine learning models that drive product features
+    and enhance decision-making processes
+  - Partner with Product, Design, and Engineering teams to define requirements and
+    deliver AI-powered features
+  - Write clean, well-tested code and conduct thorough code reviews while championing
+    best practices
+  - Evaluate emerging agentic frameworks, patterns, and tools and prototype new approaches
+    to solve real problems
+  use_cases:
+  - Autonomous agents for complex multi-step workflow orchestration
+  - Natural language processing and understanding
+  - Conversational AI systems with real-time inference
+  - AI-powered product features for small and medium-sized businesses
+  - Semantic search and retrieval-augmented generation
+  - Decision-making enhancement through ML models
+  skills:
+    genai: [LangGraph, AutoGen, Prompt engineering, Function calling, RAG, LLM integration,
+      Agent architecture]
+    ml: [PyTorch, Hugging Face Transformers, scikit-learn, Model fine-tuning]
+    web: [FastAPI, API design]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, AWS Lambda, AWS Bedrock, AWS OpenSearch]
+    ops: [CI/CD, Observability]
+    languages: [Python]
+    domains: [NLP]
+    other: [SOLID principles, Distributed systems, Async programming, Caching]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8870710'
+  extracted_at: '2026-03-27T15:54:31.954676'

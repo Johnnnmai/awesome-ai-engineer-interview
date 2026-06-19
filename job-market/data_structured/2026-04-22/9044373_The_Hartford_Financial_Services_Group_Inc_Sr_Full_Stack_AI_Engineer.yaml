@@ -1,0 +1,60 @@
+company:
+  name: The Hartford Financial Services Group, Inc.
+  stage: Public
+  focus: Insurance and financial services company
+position:
+  title: Sr. Full Stack AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and integrating AI
+      systems, including designing RAG pipelines, integrating LLM
+      APIs into production applications, developing custom agents
+      and workflows using frameworks like CrewAI and Semantic
+      Kernel, and implementing prompt engineering strategies.
+      While it's a full-stack engineering role, the AI-augmented
+      development responsibilities involve hands-on work with
+      LLMs, agents, and AI services — not just using AI tools as a
+      developer aid.
+  responsibilities:
+  - Own features from concept through production release, shipping high-quality code
+    daily across the full stack
+  - Build, test, deploy, and iterate rapidly across frontend, backend, APIs, and data
+    layers
+  - Integrate LLM APIs and AI/ML services (OpenAI, GCP Vertex, AWS Bedrock) into production
+    applications
+  - Design and implement RAG pipelines, prompt engineering strategies, and AI-powered
+    product features
+  - Develop custom agents, workflows, and automations using AI platforms and frameworks
+    (Vertex Studio, Semantic Kernel, CrewAI)
+  - Leverage AI coding assistants to accelerate development workflows and improve
+    team productivity
+  - Establish guardrails, security practices, and governance for responsible AI usage
+    in engineering
+  - Train and mentor team members on effective use of AI tools and evangelize AI-augmented
+    development practices
+  use_cases:
+  - AI-powered chatbots for insurance customer interactions
+  - Intelligent search across enterprise knowledge bases
+  - Recommendation engines for insurance products and services
+  - Automated content generation for insurance documentation
+  - AI-augmented developer productivity and code quality improvement
+  - Autonomous agent-based workflows for insurance operations
+  skills:
+    genai: [OpenAI API, Anthropic API, RAG, Prompt Engineering, Semantic Kernel, CrewAI,
+      LangChain, AutoGen, Embeddings, GitHub Copilot, Cursor]
+    ml: [Fine-tuning]
+    web: [React, Angular, Vue.js, Spring Boot, Node.js, FastAPI, Django, Express,
+      REST APIs, GraphQL, gRPC, HTML5, CSS3]
+    databases: [Vector Databases, PostgreSQL, MongoDB, DynamoDB, Redis]
+    data: [Kafka, RabbitMQ]
+    cloud: [AWS Bedrock, GCP Vertex AI, AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions]
+    languages: [TypeScript, JavaScript, Java, Python, .NET, C#, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9044373'
+  extracted_at: '2026-04-22T12:28:51.472388'

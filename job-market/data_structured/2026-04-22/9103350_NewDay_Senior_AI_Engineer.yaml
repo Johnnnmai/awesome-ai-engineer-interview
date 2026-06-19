@@ -1,0 +1,50 @@
+company:
+  name: NewDay
+  stage: Large/Established
+  focus: |-
+    UK financial services company offering credit cards and
+    consumer lending
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, designing, and
+      delivering production-grade AI systems using LLMs and
+      agentic systems. The engineer will work hands-on building
+      LLM-powered and agent-based solutions from concept to
+      production, making it a clear ai-first role.
+  responsibilities:
+  - Design and implement AI systems end-to-end, contributing to technical direction
+    and architecture
+  - Build LLM-powered and agent-based solutions from concept through to production
+  - Contribute to engineering standards, patterns, and reusable components across
+    use cases
+  - Make informed technical decisions on models, tooling, infrastructure, and system
+    design
+  - Ensure systems are robust, observable, and production-ready with evaluation, monitoring,
+    and guardrails
+  - Provide technical guidance and mentorship to engineers contributing to AI initiatives
+  - Translate business priorities into robust, production-ready AI systems
+  use_cases:
+  - Embedding AI into core business processes at a financial services company
+  - LLM-powered automation of enterprise workflows
+  - Agent-based multi-step AI systems for business problem solving
+  - Production AI systems driving measurable business outcomes across the organization
+  skills:
+    genai: [LLMs, Agentic systems, Prompt engineering, LLM orchestration, RAG, LLM
+        evaluation, Guardrails]
+    ml: []
+    web: [APIs, System design]
+    databases: []
+    data: []
+    cloud: [Cloud architectures]
+    ops: [LLMOps, MLOps, Production monitoring]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9103350'
+  extracted_at: '2026-04-22T14:09:28.077247'

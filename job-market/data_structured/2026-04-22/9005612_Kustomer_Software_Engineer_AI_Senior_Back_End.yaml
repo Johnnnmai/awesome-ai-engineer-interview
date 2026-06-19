@@ -1,0 +1,50 @@
+company:
+  name: Kustomer
+  stage: Series B
+  focus: |-
+    Conversational CRM platform with AI-powered customer
+    experience
+position:
+  title: Software Engineer, AI (Senior, Back End)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, building, and deploying AI
+      agents and automation that are core participants in the
+      software development lifecycle. The engineer will directly
+      implement AI-powered tooling and agentic systems, making
+      this a hands-on AI building role rather than a support role.
+  responsibilities:
+  - Design, build, and deploy AI agents and automation that accelerate every phase
+    of the SDLC from code generation and review through testing, deployment, and monitoring
+  - Make AI and agentic participants a core part of how software gets built at Kustomer
+  - Evaluate and incorporate cutting-edge AI and automation tooling to continuously
+    push quality, efficiency, reliability, and development velocity
+  - Partner with engineers across teams to identify friction, design solutions, and
+    iterate quickly on AI-powered developer tools
+  - Champion best practices that drive real adoption of AI-powered tools across the
+    engineering organization
+  - Define the direction and foundational tooling for a new AI-driven developer experience
+    team as the founding engineer
+  use_cases:
+  - AI-accelerated software development lifecycle (code generation, review, testing,
+    deployment, monitoring)
+  - AI-powered end-to-end testing automation
+  - Developer experience and tooling modernization for engineering teams
+  - AI agents as active participants in software engineering workflows
+  skills:
+    genai: [AI agents, Prompt engineering]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [ECS]
+    ops: [Terraform, Docker, CI/CD]
+    languages: [Go, Python, JavaScript]
+    domains: []
+    other: [Developer tooling, Full-stack development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9005612'
+  extracted_at: '2026-04-22T13:52:04.596577'

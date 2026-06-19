@@ -1,0 +1,59 @@
+company:
+  name: Expedia Group
+  stage: Public
+  focus: Global travel technology platform and online travel agency
+position:
+  title: Principal Software Development Engineer - Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Principal GenAI Engineer role focused on building
+      production-grade AI systems using LLMs, RAG, agentic
+      workflows, and ML. The engineer will directly design,
+      implement, and operate GenAI architectures, retrieval
+      pipelines, multi-agent workflows, and guardrails — all
+      hands-on work on AI systems.
+  responsibilities:
+  - Design and implement cloud-native, cost-efficient GenAI architectures (services,
+    APIs, data paths, and infrastructure) that are production-ready, observable, and
+    resilient
+  - Create shared GenAI platform capabilities such as model routing/gateways, prompt/config
+    management, retrieval services, evaluation harnesses, and libraries for multiple
+    product teams
+  - Build ingestion and retrieval pipelines (chunking, embeddings, metadata, hybrid
+    retrieval, reranking) for RAG-based knowledge systems
+  - Design multi-step and multi-agent workflows for complex tasks using orchestration
+    frameworks (e.g., n8n, Temporal, AWS Step Functions)
+  - Implement reliability guardrails including hallucination reduction, structured
+    outputs, tool use constraints, and robust fallback strategies
+  - Define offline and online evaluation strategies including golden datasets, regression
+    testing, LLM-as-judge, and safety/red team testing
+  - Design governance, security, and access controls for autonomous agent systems
+    including identity, least-privilege access, and audit trails
+  - Lead proof-of-concepts and drive transition into hardened, supported production
+    products with defined scope, metrics, and operational readiness
+  use_cases:
+  - Corporate and business-critical accounting workflow acceleration using GenAI
+  - Finance domain knowledge retrieval and evidence-based Q&A via RAG
+  - Automated triage and routing of financial tasks using multi-agent workflows
+  - Anomaly detection and forecasting integration for finance operations
+  - Map-reduce analysis and verification loops for complex financial data processing
+  - Secure tool-augmented agents for SQL querying, calculations, and internal API
+    automation
+  skills:
+    genai: [RAG, Agentic Workflows, Prompt Engineering, LLM Systems, Model Routing/Gateways,
+      Structured Outputs, Guardrails, Embeddings, Reranking, LLM-as-Judge]
+    ml: [TensorFlow]
+    web: [Microservices, REST APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, AWS Step Functions]
+    ops: [Kubernetes, Docker, Temporal, n8n, CI/CD]
+    languages: [Python, Java, Kotlin, SQL]
+    domains: []
+    other: [Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9118061'
+  extracted_at: '2026-04-22T14:18:20.463773'

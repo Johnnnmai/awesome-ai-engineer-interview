@@ -1,0 +1,217 @@
+job_id: 8769194
+title: Software Engineer, AI
+company: Stord
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Azure
+  - GCP
+  - Kafka
+  - Langchain
+  - Langgraph
+  - Modal.Com
+  - Node.js
+  - Postgres
+  - Typescript
+description: |
+  Stord is The Consumer Experience Company, powering seamless
+  checkout through delivery for today's leading brands. Stord
+  is rapidly growing and is on track to double our revenue in
+  the next 18 months. To meet and exceed this target, Stord is
+  strategically scaling teams across the entire company, and
+  seeking energetic experts to help us achieve our mission.
+  
+  By combining comprehensive commerce-enablement technology
+  with high-volume fulfillment services, Stord provides brands
+  a platform to compete with retail giants. Stord manages over
+  $10 billion of commerce annually through its fulfillment,
+  warehousing, transportation, and operator-built software
+  suite including OMS, Pre- and Post-Purchase, and WMS
+  platforms. Stord is leveling the playing field for all
+  brands to deliver the best consumer experience at scale.
+  
+  With Stord, brands can increase cart conversion, improve
+  unit economics, and drive sustained customer loyalty.
+  Stord’s end-to-end commerce solutions combine best-in-class
+  omnichannel fulfillment and shipping with leading technology
+  to ensure fast shipping, reliable delivery promises, easy
+  access to more channels, and improved margins on every
+  order.
+  
+  Hundreds of leading DTC and B2B companies like AG1, True
+  Classic, Native, Seed Health, quip, goodr, Sundays for Dogs,
+  and more trust Stord to deliver industry-leading consumer
+  experiences on every order. Stord is headquartered in
+  Atlanta with facilities across the United States, Canada,
+  and Europe. Stord is backed by top-tier investors including
+  Kleiner Perkins, Franklin Templeton, Founders Fund, Strike
+  Capital, Baillie Gifford, and Salesforce Ventures.
+  
+  Stord is building the operating system for the modern supply
+  chain — a unified platform handling Order Management,
+  Warehouse Management, Transportation, and Consumer
+  Experience for brands doing over $10B in commerce annually.
+  AI is not a future roadmap item here. It is actively
+  reshaping how we operate — and LLM-powered features and
+  autonomous agents are at the center of that transformation.
+  This role is for engineers who have built and shipped AI-
+  powered products in production — not engineers who are
+  curious about AI. You will design and build the agent
+  frameworks, LLM-powered features, and backend services that
+  bring AI capabilities into daily use by hundreds of
+  logistics operations. You will work directly with our
+  Director of AI Products and partner with Data Scientists and
+  ML Engineers to move fast from model to product. If you are
+  the kind of engineer who has already shipped LLM-powered
+  features, who gets excited about what agentic AI can do in a
+  complex operational domain, and who wants to define the AI
+  foundation of a platform at scale — this role was built for
+  you.
+  
+  Why This Role
+  
+  - Direct line from your work to shipped AI features powering
+    real logistics operations
+  - Greenfield opportunity: you will shape how AI — including
+    agents and LLM-powered workflows — is integrated across
+    the platform, not inherit legacy patterns
+  - Collaborate closely with Data Scientists and ML Engineers —
+    this is a full-stack AI team, not siloed experimentation
+  - Opportunity to define internal standards and tooling that
+    other engineers build on top of
+  - Work at a company where AI investment is a board-level
+    mandate, not a pet project
+  
+  What You'll Build
+  
+  This is a sample of what you'll work on — the scope will
+  evolve as we grow and as you help shape what's next.
+  
+  LLM-Powered Features and Agents
+  
+  - Conversational AI and agentic workflows for logistics
+    operators and brand customers
+  - LLM-powered features using OpenAI, Anthropic Claude, and
+    Cloudflare Workers AI — with proper prompt engineering,
+    tool use, rate limiting, fallback handling, and cost
+    controls
+  - Agent frameworks that orchestrate multi-step AI workflows
+    across supply chain domains
+  - Recommendation engines that surface actionable intelligence
+    to operations teams
+  
+  Production AI Features
+  
+  - Demand forecasting APIs that connect ML model outputs to
+    inventory management workflows
+  - Intelligent routing services that leverage ML predictions
+    for logistics optimization
+  - Real-time anomaly detection pipelines for supply chain
+    monitoring
+  
+  AI Platform Infrastructure
+  
+  - Fault-tolerant Node.js services that consume predictions
+    from Modal.com, Vertex AI, and other ML platforms
+  - Real-time data pipelines feeding ML models at production
+    scale
+  - Developer abstractions that make AI capabilities easy for
+    product engineers to integrate
+  - Caching, optimization, and serving strategies for low-
+    latency inference
+  - Observability, alerting, and experimentation infrastructure
+    for AI features
+  
+  Cross-Functional Impact
+  
+  - Partner with the Director of AI Products on technical
+    strategy and architecture decisions
+  - Work with Data Scientists to translate model requirements
+    into production-ready integration contracts
+  - Support product teams in implementing AI features within
+    their domains
+  - Mentor other engineers on AI integration patterns and best
+    practices
+  
+  What We're Looking For
+  
+  Required
+  
+  - LLM and agent development (2+ years): Proven production
+    experience building and deploying LLM-powered features —
+    not just API integration, but full product delivery
+    including prompt engineering, tool use, agent
+    orchestration, and reliability at scale.
+  - TypeScript / Node.js (3+ years): Production experience
+    building scalable backend services. This is your primary
+    environment.
+  - AI frameworks: Hands-on experience with LangChain,
+    LangGraph, or equivalent agent orchestration frameworks.
+  - ML platform integration: Hands-on experience consuming
+    predictions from Modal.com, Vertex AI, or similar
+    inference platforms.
+  - Distributed systems: Fault tolerance, async patterns,
+    message queues (Kafka or equivalent), event-driven
+    architecture.
+  - API design: RESTful and event-driven integration experience
+    — both building and consuming.
+  - Database: Advanced SQL with PostgreSQL. You can write a
+    query that matters.
+  - Cloud: Hands-on GCP, AWS, or Azure. GCP preferred given our
+    stack.
+  - High agency: You operate with minimal direction. You
+    identify the right problem, propose solutions, and drive
+    to done.
+  - Product mindset: You optimize for user impact, not just code
+    elegance. Reliability and delivery matter to you.
+  
+  Strongly Preferred
+  
+  - Vector databases and semantic search (Pinecone, Weaviate,
+    pgvector, or equivalent)
+  - Feature stores and real-time ML serving patterns
+  - Cloudflare Workers / edge inference experience
+  - A/B testing and experimentation infrastructure
+  
+  Nice to Have
+  
+  - Elixir / Phoenix — we run a mixed stack and cross-
+    pollination is valued
+  - Event sourcing patterns
+  - Contributions to open source AI, TypeScript, or Node.js
+    projects
+  - Domain experience in logistics, supply chain, or operations-
+    heavy B2B contexts
+  
+  What Success Looks Like
+  
+  In your first 30 days, you have made a meaningful
+  contribution to production — not a small fix, but something
+  that moves the product. You understand our stack, our AI
+  architecture, and our roadmap, and you have already started
+  shaping how we approach problems. By 90 days, you are a
+  trusted technical voice on the AI team, driving architecture
+  decisions and setting patterns that others follow. By six
+  months, you have shipped multiple AI-powered features end to
+  end, you are raising the bar for how AI is built and
+  deployed at Stord, and you are actively mentoring others on
+  what good looks like.
+  
+  About Stord
+  
+  Stord is a cloud-based supply chain platform that enables
+  brands to compete and grow through end-to-end logistics
+  solutions. We process over $10B in commerce annually and
+  operate across Order Management (OMS), Warehouse Management
+  (WMS), Transportation Management (TMS), Consumer Experience,
+  and Demand Planning. We are backed by leading investors and
+  are rapidly scaling our engineering organization to match
+  our ambitions.
+industries:
+  - Logistics
+  - Software
+posted_date: 2026-03-16
+url: "https://www.builtinla.com/job/senior-software-engineer-ai/8769194"
+source: Built In

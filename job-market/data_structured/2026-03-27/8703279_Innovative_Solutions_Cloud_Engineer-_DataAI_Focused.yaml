@@ -1,0 +1,52 @@
+company:
+  name: Innovative Solutions
+  stage: null
+  focus: AWS cloud solutions and data/AI consulting services
+position:
+  title: Cloud Engineer- Data/AI Focused
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building production-ready GenAI
+      applications using Amazon Bedrock, implementing RAG
+      pipelines with vector databases, and developing AI agents
+      using LangChain/LlamaIndex. The position requires hands-on
+      experience deploying AI applications from concept to
+      production.
+  responsibilities:
+  - Implementing data pipelines using AWS services such as Glue, Lambda, Step Functions,
+    and EMR
+  - Creating and maintaining data extraction, transformation, and loading processes
+  - Configuring and optimizing AWS database services including RDS, Aurora, Redshift,
+    and DynamoDB
+  - Designing and building production-ready Generative AI applications using Amazon
+    Bedrock and foundation models
+  - Building and optimizing RAG pipelines with vector databases
+  - Developing AI agents and multi-agent orchestration systems using frameworks like
+    LangChain or LlamaIndex
+  - Documenting technical solutions and providing knowledge transfer to customers
+  - Assisting with proof-of-concept implementations for customer engagements
+  use_cases:
+  - Customer data insights and analytics
+  - Enterprise AI application development
+  - Intelligent data solutions
+  - RAG-based information retrieval systems
+  - Multi-agent AI orchestration systems
+  skills:
+    genai: [Amazon Bedrock, Anthropic Claude, RAG, LangChain, LlamaIndex, AI agents,
+      LLMs, embeddings]
+    ml: []
+    web: []
+    databases: [vector databases, Amazon RDS, Amazon Aurora, Amazon Redshift, Amazon
+        DynamoDB]
+    data: [AWS Glue, Amazon EMR, ETL/ELT]
+    cloud: [AWS, AWS Lambda, AWS Step Functions, Amazon S3]
+    ops: []
+    languages: [SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8703279'
+  extracted_at: '2026-03-27T13:52:25.495196'

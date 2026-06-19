@@ -1,0 +1,158 @@
+job_id: 8611948
+title: Software Engineer - Applied AI
+company: WorkOS
+location: 
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Ai Systems
+  - APIs
+  - Event Systems
+  - Llms
+  - Rag Architectures
+  - Webhooks
+company_size: 48 Employees
+description: |
+  About WorkOS 🚀
+  
+  WorkOS builds modern developer tools and APIs that make it
+  easy for companies to become Enterprise Ready. Our platform
+  powers authentication, identity, authorization, and other
+  critical infrastructure that developers need to securely
+  scale their products to large organizations. We recently
+  raised a $100M Series C, valuing the company at $2B, led by
+  Meritech and Sapphire with participation from Greenoaks,
+  Craft, Abstract, and Audacious. WorkOS powers enterprise
+  features for many of the fastest-growing AI companies,
+  including OpenAI, Cursor, and Perplexity, Vercel, and Plaid.
+  As AI reshapes software, WorkOS is at the frontier of Human
+  and Agent Authentication, Identity, and Access
+  Control—helping companies answer a new critical question:
+  who are your agents, and what are they allowed to do? Our
+  fast-growing customer base includes hundreds of modern
+  software companies building the next generation of
+  enterprise-ready products.
+  
+  About the Role
+  
+  We’re building an Applied AI team to dramatically increase
+  productivity across Engineering, Sales, Support, and
+  Operations.
+  
+  As an Applied AI Engineer, you’ll design and ship production
+  AI systems that change how WorkOS builds, sells, and
+  supports software. Your focus is internal: building durable
+  tools and workflows that teammates rely on every day.
+  
+  You’ll work on a small, high‑ownership team that:
+  
+  - Chooses problems based on measurable impact.
+  - Moves from idea → prototype → production in days or weeks.
+  - Adapts quickly as models, tools, and best practices evolve.
+  
+  This is a 0→1 role with company‑wide visibility.
+  
+  What you’ll do
+  
+  - Work closely with Engineering, Sales, Support, and Ops to
+    uncover high‑leverage internal problems where AI can
+    remove bottlenecks or unlock new workflows.
+  - Design and build tools that become part of people’s daily
+    work – agents, automations, and workflows that are stable,
+    observable, and easy to maintain.
+  - Use LLMs, embeddings, retrieval, and tool‑calling to plug
+    into docs, Slack, GitHub, CRM, analytics, support systems,
+    and internal services.
+  - Replace repetitive, multi‑step manual processes with
+    orchestrated, AI‑driven flows that span multiple apps and
+    data sources.
+  - Stay current on new models and tooling, run focused
+    experiments, and help the team converge on patterns,
+    libraries, and infra that compound over time.
+  
+  Example problems you might work on
+  
+  - Turning noisy, cross‑tool workflows (tickets, Slack threads,
+    docs) into a single agent that handles triage, routing,
+    and suggested actions.
+  - Building AI‑assisted engineering workflows that shorten the
+    loop from “bug report or idea in Slack” to changes safely
+    deployed in production.
+  - Designing a GTM agent that helps reps research accounts,
+    prepare meetings, and follow up using context from CRM,
+    product usage, and prior conversations.
+  
+  What we’re looking for
+  
+  - You’ve taken AI‑powered systems from idea to production and
+    through at least one iteration cycle with real users.
+  - Strong engineering fundamentals. You’re comfortable owning
+    services, data flows, and integrations end‑to‑end. This
+    role must pass our engineering interview loop.
+  - Experience with LLM APIs, embeddings, retrieval / RAG‑style
+    architectures, and structured tool‑calling (or agents),
+    even if not all in production yet.
+  - You’re comfortable stitching together APIs, webhooks, event
+    systems, and internal tools, and you think about failure
+    modes, observability, and ownership.
+  - Bias toward action. You care less about showing off a model
+    and more about removing real bottlenecks, saving hours, or
+    unlocking workflows the company couldn’t do before.
+  - Comfort with ambiguity and fast change. You enjoy working in
+    areas where the problem, the tools, and the “right”
+    patterns are evolving quickly – and you’re excited to help
+    define them.
+  
+  Nice to have
+  
+  - Prior work with enterprise SaaS, identity / auth, or
+    security‑sensitive systems.
+  - Exposure to MCP or similar protocols for connecting AI
+    agents to real systems.
+  
+  Benefits (US Only) 💖
+  
+  At WorkOS, we offer resources that emphasize personal and
+  familial well-being. We offer healthcare coverage for you
+  and your family, including medical, dental, and vision. We
+  offer parental leave, paid-time off and fully remote working
+  arrangements.
+  
+  Benefits include:
+  
+  - Competitive pay
+  
+  - Substantial equity grants
+  
+  - Healthcare insurance (Medical, Dental and Vision) for you
+    and your family
+  
+  - 401k matching
+  
+  - Wellness and fitness monthly allowances
+  
+  - PTO + paid holidays + unlimited sick leave
+  
+  - Autonomy and flexibility with remote work
+  
+  Please inquire directly with our recruiting team for
+  benefits available to those working outside the US.
+  
+  Equal Opportunity Employer
+  
+  WorkOS is an equal opportunity employer, committed to
+  diversity and inclusiveness. We will consider all qualified
+  applicants without regard to race, color, nationality,
+  gender, gender identity or expression, sexual orientation,
+  religion, disability or age.
+  
+  We may use artificial intelligence (AI) tools to support
+  parts of the hiring process, such as reviewing applications,
+  analyzing resumes, or assessing responses. These tools
+  assist our recruitment team but do not replace human
+  judgment. Final hiring decisions are ultimately made by
+  humans. If you would like more information about how your
+  data is processed, please contact us.
+posted_date: 2026-03-25
+url: "https://builtin.com/job/applied-ai-engineer/8611948"
+source: Built In

@@ -1,0 +1,51 @@
+company:
+  name: Upwork
+  stage: Public
+  focus: |-
+    Global marketplace connecting businesses with freelance and
+    contingent talent
+position:
+  title: Lead AI Engineer, NLQ & Agentic Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying agentic
+      frameworks, natural language querying systems powered by
+      LLMs, and prompt/LLM evaluation strategies. The engineer
+      will design, implement, and optimize AI-powered systems
+      including multi-agent orchestration and LLM-based solutions,
+      which is hands-on work with AI models and agents.
+  responsibilities:
+  - Design and implement scalable agentic frameworks that coordinate multiple AI agents
+    to deliver accurate and reliable outcomes
+  - Build and optimize natural language query solutions providing compliant, intuitive,
+    self-service access to enterprise data
+  - Develop and maintain evaluation frameworks for LLMs and prompts, driving improvements
+    in accuracy, scalability, and resilience
+  - Integrate AI orchestration with Python, SQL, and Snowflake data pipelines
+  - Build AI-powered summarization and explanation tools that enhance reporting, insights,
+    and executive reviews
+  - Collaborate cross-functionally with product, analytics, and business teams to
+    ensure solutions meet measurable business goals
+  use_cases:
+  - Natural language querying over enterprise data for self-service analytics
+  - Multi-agent orchestration for automated business workflows
+  - AI-powered summarization and explanation of reports and dashboards
+  - Democratizing data access across the organization for non-technical stakeholders
+  - LLM and prompt evaluation to ensure production-grade accuracy and reliability
+  skills:
+    genai: [LLMs, Prompt Engineering, Agentic Frameworks, RAG, Natural Language Querying]
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: [Data Engineering]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8332456'
+  extracted_at: '2026-04-22T13:47:03.179957'

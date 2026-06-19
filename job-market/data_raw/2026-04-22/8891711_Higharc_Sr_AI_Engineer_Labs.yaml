@@ -1,0 +1,126 @@
+job_id: 8891711
+title: Sr. AI Engineer, Labs
+company: Higharc
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - Llm
+  - Ml
+  - Vector Db
+description: |
+  About Us
+  
+  Higharc is a VC-backed startup that is changing how new
+  homes are designed and built. Join a founding team who’ve
+  shipped products for Autodesk, Electronic Arts, Nike, and
+  Apple. We have raised a total of $83M with support from top-
+  notch venture capital firms and more than 18 strategic
+  investors—industry leaders in construction, building
+  products manufacturing, and distribution.
+  
+  We are hiring a Senior AI Engineer as a foundational member
+  of Higharc Labs. This is a role for an entrepreneurial AI
+  engineer who can move from problem definition to shipped
+  software quickly, building agent workflows that are useful,
+  reliable, and safe in production.
+  
+  What You'll Do
+  
+  You will work across product, design, ML, and engineering to
+  identify the right bets, build production-safe prototypes,
+  validate with users, and either hand off successful,
+  product-ready betas or sunset with shared learnings. Expect
+  to:
+  
+  - Own AI experiments end-to-end: shape hypotheses, define
+    success criteria, build, ship, measure, and iterate
+  - Partner with ML Engineering to productize ML prototypes and
+    harden them for production, while leading graduation
+    criteria across technical readiness and product readiness:
+    contracts, failure modes, eval harnesses, user validation,
+    reliability, controlled model updates, and cost controls
+  - Design agent action schemas and tool contracts that make
+    model behavior predictable under real-world variance
+  - Build retrieval systems (RAG) for agent context:
+    chunking/indexing strategies, vector search quality, and
+    grounding behavior
+  - Build orchestration systems for agent workflows: stateful
+    sessions, streaming, async job coordination, and failure
+    recovery
+  - Build evaluation loops that combine deterministic
+    validation, domain heuristics, and model-based review
+  - Design human-in-the-loop flows for approvals, intervention,
+    and safe execution of high-impact actions
+  - Talk directly with users and internal stakeholders to refine
+    problem framing and validate assumptions early
+  
+  About You
+  
+  You are excited to have unusual autonomy and greenfield
+  scope in a company with real revenue and customers. You
+  thrive in ambiguity, don't mind that some experiments get
+  killed, and are energized by the challenge of building
+  something new inside an established organization. If that
+  sounds like a feature and not a bug, let's go!
+  
+  You have:
+  
+  - 7+ years experience shipping production software, including
+    customer-facing AI/LLM features
+  - Ownership of ambiguous, high-impact problems from concept
+    through deployment and iteration
+  - Experience building AI agent systems: tool use, context
+    management, and orchestration loops
+  - Experience designing and operating RAG systems, including
+    vector DB-backed retrieval pipelines
+  - Experience defining or operating evaluation systems for non-
+    deterministic AI outputs
+  - Strong backend systems skills, including stateful services
+    and real-time/streaming workflows
+  - Experience managing AI costs in production (model selection,
+    context budgeting, caching, and usage controls)
+  - Experience collaborating across research, ML platform, and
+    product teams to move models into production
+  - Product engineering instincts: you can simplify scope and
+    prioritize what creates measurable value
+  - Clear written and verbal communication in a remote, async
+    environment
+  
+  A major plus if you also bring:
+  
+  - Experience as a technical founder or early engineer at a
+    high-growth SaaS company
+  - ML depth: fine-tuning, rigorous model evaluation, and the
+    ability to apply current ML/LLM research in product
+    systems
+  
+  While we've identified the core experience and skills
+  required above, please still apply if you have more or
+  different experience than this! We will use your previous
+  experience and performance across the series of interviews
+  to establish appropriate level within our organization in a
+  fair and equitable way.
+  
+  Working at Higharc
+  
+  Higharc has been remote first since our founding in 2018. We
+  offer flexible hours so you can do your best work without
+  missing out on life. Higharc offers competitive salaries
+  with significant equity, in a fast-growing, well-funded
+  company.  Personal healthiness is an important value for us-
+  we provide comprehensive medical, dental, and vision
+  coverage, with unlimited PTO, and meaningful
+  maternity/paternity leave to all U.S based employees that
+  are full-time. You'll also have access to other big-company
+  benefits such like short and long-term disability plans and
+  a 401K. Haven't worked remotely before? We provide a stipend
+  to create the ideal home office.
+industries:
+  - Sales
+  - Software
+  - Design
+posted_date: 2026-04-22
+url: "https://www.builtinla.com/job/sr-ai-engineer-labs/8891711"
+source: Built In

@@ -1,0 +1,261 @@
+job_id: 8942702
+title: Senior AI Engineer - Monetization Platform
+company: Yahoo
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - BigQuery
+  - Google Adk
+  - GCP
+  - Langchain
+  - Langgraph
+  - Pydantic
+  - Python
+  - PyTorch
+  - Spark
+  - Vertex Ai
+description: |
+  Yahoo serves as a trusted guide for hundreds of millions of
+  people globally, helping them achieve their goals online
+  through our portfolio of iconic products. For advertisers,
+  Yahoo Advertising offers omnichannel solutions and powerful
+  data to engage with our brands and deliver results.
+  
+  A Little About Us
+  
+  We are an industry-leading direct-to-consumer and ad tech
+  solution for advertisers and publishers. Our innovative ad
+  tech gives one-stop access to Yahoo, Inc.’s trusted data,
+  high-quality inventory and demand, creative ad experiences,
+  and industry-leading machine learning at global scale.
+  
+  The Consumer Monetization team’s charter is to Find,
+  Evaluate, Build, and Scale new monetization, subscription,
+  and internal campaign tools and products, ad formats and
+  functionalities across all Yahoo brands including Yahoo
+  Homepage, Yahoo Sports, Yahoo Finance, Yahoo News, and AOL.
+  This team is uniquely positioned to identify growth and
+  revenue generation opportunities, design and implement
+  solutions across consumer products and advertising platforms
+  including video, display, native, and search.
+  
+  A Lot About You
+  
+  As part of the Consumer Monetization Platform Engineering
+  team, you will be the technical lead for building
+  production-grade ML/AI models and inference systems that
+  power our measurement intelligence platform. You will design
+  and implement causal measurement models (brand uplift, sales
+  uplift), multi-touch attribution systems (path to
+  conversion), and AI agent architectures that automate
+  advertising intelligence at scale.
+  
+  You are a rare hybrid: you have the data science foundation
+  to design statistically rigorous experiments and build
+  sophisticated models, AND the software engineering skills to
+  ship those models as production services. You think in
+  PyTorch and Pydantic, you build agentic workflows with
+  LangChain/LangGraph and Google ADK, and you leverage
+  knowledge graphs and GraphRAG to give AI systems structured
+  reasoning over complex advertising data.
+  
+  Our Big Data footprints are among the largest few in the
+  world, at double-digit petabyte scale. Developing ML systems
+  at this scale presents challenges in efficient feature
+  engineering, distributed model training, low-latency
+  inference, and building AI agents that operate reliably in
+  high-stakes revenue environments.
+  
+  If you are someone who is commitment to building ML systems
+  that directly drive business outcomes, enjoys bridging the
+  gap between research and production, and wants to shape the
+  future of AI-powered advertising—we want to hear from you!
+  
+  Your Day
+  
+  - Design, train, and deploy brand uplift models using causal
+    inference techniques (difference-in-differences, synthetic
+    control groups, propensity score matching) to measure
+    advertising effectiveness for brand campaigns
+  - Build sales uplift and ROAS measurement systems that connect
+    ad exposure to downstream conversion and purchase events,
+    enabling closed-loop attribution reporting for performance
+    advertisers
+  - Develop multi-touch attribution and path-to-conversion
+    models using Markov chains, Shapley values, and deep
+    learning approaches to accurately value impressions across
+    the full consumer journey
+  - Design and implement feature engineering pipelines—from raw
+    event data through feature computation, storage, and real-
+    time serving—that power all measurement and optimization
+    models
+  - Build and optimize model training pipelines using PyTorch,
+    with experiment tracking, hyperparameter tuning, and
+    automated retraining workflows on large-scale advertising
+    datasets
+  - Deploy models as low-latency inference services using Vertex
+    AI, with Pydantic-based API contracts, model versioning,
+    A/B testing, and canary deployment patterns
+  - Build agentic AI systems using LangChain, LangGraph, and
+    Google Agent Development Kit (ADK) for autonomous
+    advertising intelligence—including yield optimization
+    agents, publisher intelligence tools, and measurement
+    reporting agents
+  - Design and implement knowledge graph-powered reasoning
+    systems using GraphRAG architectures that enable AI agents
+    to reason over structured advertising data, audience
+    relationships, and campaign context
+  - Develop contextual bandit and reinforcement learning agents
+    for dynamic yield optimization, including floor pricing,
+    header bidding configuration, and demand partner
+    allocation
+  - Build behavioral embedding models that transform raw user
+    signals into dense vector representations for audience
+    intelligence, lookalike modeling, and real-time targeting
+  - Collaborate with data scientists, product managers, and
+    platform engineers to translate business problems into ML
+    solutions with measurable impact
+  - Establish ML observability: model performance monitoring,
+    drift detection, automated alerting, and continuous
+    improvement loops for all production models
+  - Lead technical design reviews and mentor team members on ML
+    engineering best practices, model architecture decisions,
+    and production deployment patterns
+  
+  Qualifications
+  
+  - BS with 7+ years of relevant industry experience, or
+    M.S./Ph.D. in Computer Science, Statistics, Machine
+    Learning, or a related quantitative field with 5+ years of
+    relevant industry experience.
+  - Strong foundations in machine learning, statistical
+    modeling, causal inference, and experimental design
+  - 5+ years of experience building and deploying production ML
+    systems (not just research/prototyping)—from feature
+    engineering and model training through inference serving
+    and monitoring
+  - Proficiency in Python with strong software engineering
+    practices: PyTorch for model development, Pydantic for
+    data validation and API contracts, and production-quality
+    code with testing and CI/CD
+  - Experience with LLM application development frameworks:
+    LangChain, LangGraph, or equivalent agent orchestration
+    frameworks for building multi-step AI workflows
+  - Experience with cloud ML platforms, preferably Google Cloud
+    (Vertex AI, BigQuery ML, Dataflow) for training, serving,
+    and managing ML models at scale
+  - Experience with feature engineering and feature store
+    patterns for large-scale ML systems
+  - Proficiency in SQL and experience working with petabyte-
+    scale data warehouses (BigQuery, Spark, etc.)
+  - Experience with deep learning architectures: embeddings,
+    transformers, sequence models, or graph neural networks
+  - Strong understanding of A/B testing, uplift modeling, and
+    causal inference methodologies
+  - Self-driven, challenge-loving, detail-oriented, with
+    excellent communication skills and the ability to
+    translate complex ML concepts for cross-functional
+    stakeholders
+  
+  Nice to Have
+  
+  - Experience with Google Agent Development Kit (ADK) or
+    similar agent-native development frameworks
+  - Experience with knowledge graphs, graph databases (Neo4j,
+    Spanner Graph), and GraphRAG architectures for structured
+    reasoning
+  - Experience with contextual bandits, reinforcement learning,
+    or multi-armed bandit algorithms in production
+    environments
+  - Experience in ad tech, programmatic advertising, or
+    publisher-side monetization (measurement, attribution,
+    yield optimization)
+  - Experience with causal ML methods: difference-in-
+    differences, synthetic control, instrumental variables,
+    propensity score methods
+  - Experience with privacy-enhancing technologies, differential
+    privacy, federated learning, or clean room computation
+  - Experience with MLOps tooling: MLflow, Kubeflow, Weights &
+    Biases, or Vertex AI Pipelines
+  - Background in NLP, information retrieval, or recommendation
+    systems
+  - Experience with distributed training (Horovod, DeepSpeed,
+    FSDP) for large-scale models
+  
+  Strategic Alignment
+  
+  This initiative aligns with our business goals and positions
+  us for sustained success in the evolving digital advertising
+  landscape to support our O&O publisher sites to increase
+  their Revenue and profitability. The measurement
+  intelligence models this engineer will build are the
+  competitive moat that differentiates our platform—proving
+  advertising effectiveness through causal measurement,
+  optimizing revenue through learned policies, and enabling
+  the agentic AI future where intelligent agents automate the
+  full media buying and selling lifecycle.
+  
+  The material job duties and responsibilities of this role
+  include those listed above as well as adhering to Yahoo
+  policies; exercising sound judgment; working effectively,
+  safely and inclusively with others; exhibiting
+  trustworthiness and meeting expectations; and safeguarding
+  business operations and brand integrity.
+  
+  At Yahoo, we offer flexible hybrid work options that our
+  employees love! While most roles don’t require regular
+  office attendance, you may occasionally be asked to attend
+  in-person events or team sessions. You’ll always get notice
+  to make arrangements. Your recruiter will let you know if a
+  specific job requires regular attendance at a Yahoo office
+  or facility. If you have any questions about how this
+  applies to the role, just ask the recruiter!
+  
+  Yahoo is proud to be an equal opportunity workplace. All
+  qualified applicants will receive consideration for
+  employment without regard to, and will not be discriminated
+  against based on age, race, gender, color, religion,
+  national origin, sexual orientation, gender identity,
+  veteran status, disability or any other protected category.
+  Yahoo will consider for employment qualified applicants with
+  criminal histories in a manner consistent with applicable
+  law. Yahoo is dedicated to providing an accessible
+  environment for all candidates during the application
+  process and for employees during their employment. If you
+  need accessibility assistance and/or a reasonable
+  accommodation due to a disability, please submit a request
+  via the Accommodation Request Form
+  (www.yahooinc.com/careers/contact-us.html) or call
+  +1.866.772.3182. Requests and calls received for non-
+  disability related issues, such as following up on an
+  application, will not receive a response.
+  
+  We believe that a diverse and inclusive workplace
+  strengthens Yahoo and deepens our relationships. When you
+  support everyone to be their best selves, they spark
+  discovery, innovation and creativity. Among other efforts,
+  our 11 employee resource groups (ERGs) enhance a culture of
+  belonging with programs, events and fellowship that help
+  educate, support and create a workplace where all feel
+  welcome.
+  
+  The compensation for this position ranges from $128,250.00 -
+  $266,875.00/yr and will vary depending on factors such as
+  your location, skills and experience.The compensation
+  package may also include incentive compensation
+  opportunities in the form of discretionary annual bonus or
+  commissions. Our comprehensive benefits include healthcare,
+  a great 401k, backup childcare, education stipends and much
+  (much) more.
+  
+  Currently work for Yahoo? Please apply on our internal
+  career site.
+industries:
+  - AdTech
+  - Digital Media
+  - Information Technology
+  - Other
+posted_date: 2026-04-02
+url: "https://www.builtinla.com/job/senior-ai-engineer-monetization-platform/8942702"
+source: Built In

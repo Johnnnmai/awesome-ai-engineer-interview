@@ -1,0 +1,49 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global financial services and banking
+position:
+  title: Gen AI Developer
+  ai_type:
+    type: unknown
+    reasoning: |-
+      Despite the job title containing "Gen AI", the actual job
+      description describes a generic Applications Development
+      Intermediate Programmer Analyst role with no mention of
+      AI/ML technologies, frameworks, or responsibilities. The
+      title appears disconnected from the detailed description,
+      making the true nature unclear.
+  responsibilities:
+  - Participate in establishment and implementation of new or revised application
+    systems and programs
+  - Identify and define necessary system enhancements using script tools and analyzing/interpreting
+    code
+  - Consult with users, clients, and technology groups on issues and recommend programming
+    solutions
+  - Apply fundamental knowledge of programming languages for design specifications
+  - Analyze applications to identify vulnerabilities and security issues, conduct
+    testing and debugging
+  - Serve as advisor or coach to new or lower level analysts
+  - Identify problems, analyze information, and implement solutions
+  - Act as SME to senior stakeholders and team members
+  use_cases:
+  - Financial services application development
+  - Application system analysis and programming
+  - System security and vulnerability analysis
+  - Customer exposure systems support
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: [Financial services domain knowledge]
+    other: [Scripting tools, Application security testing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8478165'
+  extracted_at: '2026-03-03T12:46:50.038882'

@@ -1,0 +1,45 @@
+company:
+  name: Constructor Knowledge Labs
+  stage: null
+  focus: |-
+    Neuromorphic materials research and autonomous scientific
+    discovery
+position:
+  title: AI Researcher / Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI agents that can reason,
+      design experiments, and perform autonomous scientific
+      discovery - directly working on AI systems with LLMs and
+      agent architectures. The focus is on creating AI that
+      functions as a scientist, not supporting infrastructure for
+      others' AI work.
+  responsibilities:
+  - Build and integrate AI agents that autonomously explore scientific hypotheses
+  - Connect AI reasoning systems to simulation and data analysis pipelines
+  - Design infrastructure for managing experiments, simulations, and results
+  - Develop tools for automated analysis, comparison of models, and visualization
+  - Collaborate closely with experimentalists and researchers across Europe
+  use_cases:
+  - Autonomous scientific discovery for materials research
+  - AI-driven hypothesis generation and testing
+  - Neuromorphic materials investigation for energy-efficient computing
+  - Closed-loop automation from hypothesis to theory refinement
+  - Self-driving laboratory systems
+  skills:
+    genai: [LLMs, AI agents]
+    ml: [ML frameworks, Simulations, Bayesian methods]
+    web: []
+    databases: []
+    data: [Data pipelines]
+    cloud: [Cloud infrastructure]
+    ops: []
+    languages: [Python]
+    domains: [Computational physics, Materials modeling]
+    other: [Experiment design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8736891'
+  extracted_at: '2026-03-27T15:35:42.223233'

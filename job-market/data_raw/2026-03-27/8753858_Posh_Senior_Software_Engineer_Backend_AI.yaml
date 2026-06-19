@@ -1,0 +1,140 @@
+job_id: 8753858
+title: Senior Software Engineer, Backend (AI)
+company: Posh
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Java
+  - Node.js
+  - Python
+  - Terraform
+  - Typescript
+company_size: 65 Employees
+description: |
+  About Posh
+  
+  We are all social creatures, but the dominant “social”
+  companies today have evolved into digital loneliness
+  machines, driving isolation, anxiety, and mental health
+  challenges around the world.
+  
+  Human connection is lost. Posh is a beacon guiding us back.
+  
+  Posh enables anyone to build an IRL community based on
+  shared interests, while connecting consumers with the
+  communities of people just like them. Founded by event
+  organizers who were frustrated with the growing loneliness
+  epidemic and the tools available to build their own event
+  brand, we’ve built the ultimate platform for launching,
+  monetizing, and finding IRL communities of people just like
+  you. In just 5 years, Posh has grown to a team of 65,
+  expanded to 7M+ users, secured $70m in venture funding, and
+  facilitated over $300M in transactions.
+  
+  About the Role
+  
+  We're looking for a Senior Backend Engineer to join our AI
+  Platform team, a small, fast-moving group building the
+  backend infrastructure that powers AI-native product
+  experiences at Posh.
+  
+  This is a backend systems and infrastructure role. You'll
+  design, build, and scale the services, APIs, and cloud
+  infrastructure that our AI features run on. You won't be
+  training models. You'll be building the reliable, performant
+  platform that makes our AI products work in production.
+  
+  Your work will include architecting data flows, building
+  evaluation pipelines, deploying containerized services, and
+  integrating AI capabilities into our core product. You'll
+  collaborate closely with frontend engineers and product
+  managers to ship experimental features to a large, highly
+  engaged user base.
+  
+  What You'll Do
+  
+  - Design and Scale Backend Services: Build and maintain
+    scalable backend services and APIs that power AI-driven
+    features, writing production code primarily in Java, and
+    Python.
+  - Own Cloud Infrastructure: Define, deploy, and manage AI
+    infrastructure using Terraform on a major cloud platform
+    (AWS). Scale container-based solutions while ensuring
+    reliability and performance.
+  - Build Evaluation Pipelines: Create robust frameworks to
+    evaluate AI system quality and continuously improve model
+    performance.
+  - Optimize for Cost, Latency, and Performance: Make pragmatic,
+    business-aware decisions about the tradeoffs between model
+    quality, response time, and infrastructure cost when
+    working with managed AI services.
+  - Integrate Across the Stack: Collaborate with core
+    engineering by occasionally working in TypeScript
+    (Node.js) to connect AI features into Posh's main
+    application.
+  - Support Agent Architecture: Build the backend systems and
+    data flows that power our multi-step, autonomous AI
+    workflows, ensuring they are reliable, observable, and
+    scalable.
+  
+  What We're Looking For
+  
+  - 3 to 6+ years of backend or full-stack engineering
+    experience, with a track record of shipping high-quality,
+    scalable systems in fast-paced environments.
+  - Deep expertise in Python and its ecosystem for web services
+    and data processing.
+  - Strong experience with Infrastructure as Code (Terraform), a
+    major cloud platform (GCP, AWS, or Azure), and deploying
+    containerized applications.
+  - Comfort operating in a 0→1 environment where you'll help
+    define new patterns and practices for AI-native product
+    development.
+  
+  Bonus Points
+  
+  - Experience with managed AI services (Vertex AI, AWS Bedrock,
+    etc.), working with LLMs in production, or building
+    evaluation frameworks (RAGAs, LangSmith, DeepEval).
+  - Familiarity with agentic frameworks (LangGraph, CrewAI,
+    Strands) or multi-agent system design.
+  - Background in MLOps, data engineering, or experience at
+    consumer, marketplace, or event-driven platforms.
+  
+  Why This Role Matters
+  
+  We believe AI will reshape how people plan and participate
+  in real-world experiences. The companies that integrate AI
+  directly into their product to create visible, daily value
+  will define the next generation of consumer software. At
+  Posh, we're not building infrastructure for others. We're
+  leading our category with a product that feels intelligent,
+  personal, and effortlessly useful. And we're just getting
+  started.
+  
+  Posh provides equal employment opportunities to all
+  employees and applicants for employment and prohibits
+  discrimination and harassment of any type without regard to
+  race, color, religion, age, sex, national origin, disability
+  status, genetics, protected veteran status, sexual
+  orientation, gender identity or expression, or any other
+  characteristic protected by federal, state or local laws.
+  
+  This policy applies to all terms and conditions of
+  employment, including recruiting, hiring, placement,
+  promotion, termination, layoff, recall, transfer, leaves of
+  absence, compensation and training.
+  
+  Posh is committed to providing reasonable accommodations for
+  qualified individuals with disabilities in our job
+  application procedures. Please let us know if you need
+  assistance or accommodation due to a disability
+industries:
+  - Events
+  - Social Media
+  - Software
+posted_date: 2026-03-13
+url: "https://builtin.com/job/senior-software-engineer-backend-ai/8753858"
+source: Built In

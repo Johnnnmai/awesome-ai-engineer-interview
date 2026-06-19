@@ -1,0 +1,57 @@
+company:
+  name: Intapp
+  stage: Public
+  focus: |-
+    AI-powered cloud platform for professional and financial
+    services
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is explicitly focused on building production AI
+      agent systems using LangGraph and LangChain, designing agent
+      workflows, and orchestrating multi-step AI processes. The
+      job description even clarifies "this role focuses on
+      building production AI agents and orchestration systems, not
+      training models, working on LLM research, or semantic
+      machine learning," confirming hands-on work deploying and
+      building with AI/LLM systems.
+  responsibilities:
+  - Develop and maintain AI agent systems using LangGraph and LangChain for complex,
+    multi-step enterprise workflows
+  - Design agent workflows, tool routing strategies, and execution pipelines for long-running
+    tasks and multi-agent coordination
+  - Take ownership of technical challenges from discovery through deployment, collaborating
+    across teams to solve problems
+  - Translate business problems into reliable AI-driven processes combining LLM reasoning,
+    structured data, and external APIs
+  - Extend, customize, and optimize LangGraph and related frameworks for scalable,
+    maintainable agent systems
+  - Partner with engineers, product teams, and designers to ship AI-powered features
+    integrated with existing platforms
+  - Ensure long-term sustainability through thoughtful architecture, testing, and
+    documentation
+  use_cases:
+  - AI-powered CRM automation for professional and financial services firms
+  - Complex long-running task automation across enterprise applications
+  - Multi-step workflow orchestration for data products
+  - Industry-specific cloud platform transformation for professional services
+  - Workflow automation through AI agent coordination
+  skills:
+    genai: [LangGraph, LangChain, CrewAI, AutoGen, LLM reasoning and orchestration,
+      AI agent systems, Prompt engineering]
+    ml: []
+    web: [REST APIs]
+    databases: [PostgreSQL, Vector databases]
+    data: []
+    cloud: [Azure, AWS, Google Cloud]
+    ops: [Docker, GitHub Actions, Azure Pipelines, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8942953'
+  extracted_at: '2026-04-22T13:49:49.367790'

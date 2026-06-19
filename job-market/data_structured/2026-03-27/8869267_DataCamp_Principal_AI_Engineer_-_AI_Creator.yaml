@@ -1,0 +1,52 @@
+company:
+  name: DataCamp
+  stage: null
+  focus: Online learning platform for data and AI skills education
+position:
+  title: Principal AI Engineer - AI Creator
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and evolving the core AI
+      tutoring system, including prompt architectures, agentic
+      workflows, and real-time adaptive behaviors. The position
+      requires hands-on work with LLM-based systems, prompt
+      engineering, and designing agentic workflows, which is
+      directly working ON AI systems.
+  responsibilities:
+  - Build and evolve the core AI tutoring system, including prompt architectures,
+    agentic workflows, and real-time adaptive behaviors
+  - Run rigorous experimentation and evaluation, developing custom metrics and frameworks
+    to measure learning effectiveness and improve model reliability
+  - Design and implement scalable, maintainable software, integrating AI capabilities
+    with platform systems, content pipelines, and user experience components
+  - Collaborate cross-functionally with educators, content creators, and product teams
+    to translate pedagogical goals into technical solutions
+  - Prototype and productionize novel model interactions, leveraging emerging research
+    and capabilities to advance the tutor's intelligence
+  - Ensure quality, safety, and observability through monitoring, testing, guardrails,
+    and iterative refinement of model behavior
+  - Share knowledge and elevate teammates, contributing to a culture of clarity, simplicity,
+    and continuous learning
+  use_cases:
+  - Personalized AI tutoring at scale
+  - Real-time adaptive learning experiences
+  - Interactive learning through hands-on building and experimentation
+  - Transforming knowledge into practical application
+  - One-on-one tutoring simulation using AI
+  skills:
+    genai: [prompt engineering, agentic workflows, LLM-based systems, guardrails]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [cloud environments]
+    ops: [CI/CD, monitoring, testing]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8869267'
+  extracted_at: '2026-03-27T15:17:14.212101'

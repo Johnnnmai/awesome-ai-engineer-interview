@@ -1,0 +1,56 @@
+company:
+  name: Lila Sciences
+  stage: Early-stage (Seed/Startup)
+  focus: |-
+    Building scientific superintelligence to accelerate
+    discovery across medicine, materials, and energy
+position:
+  title: Staff / Principal Research Engineer, AI Safety, Technical Mitigations
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI safety
+      systems including classifiers, post-training safeguards,
+      refusal classifiers, and automated red-teaming systems for
+      frontier-class language models. The engineer will design and
+      implement technical mitigations and safety systems that
+      operate on and around the models themselves, making this a
+      hands-on AI/ML role.
+  responsibilities:
+  - Set the build and research strategy for Lila's safety systems across scientific
+    data pipelines, safety post-training, refusal classifiers, automated red-teaming,
+    and monitoring systems
+  - Conduct initial safeguards experimentation and buildout tailored to Lila's specific
+    scientific needs
+  - Lead safety systems research to advance mitigations beyond state-of-the-art for
+    in silico and lab-based scientific workflows
+  - Partner with domain-specific experts (bio, chem, materials), eval teams, core
+    AI, lab automation, and product teams
+  - Contribute to scientific capability evaluation and restriction research efforts
+  - Contribute to external communications on Lila's safety efforts
+  - Eventually build and lead a small team to execute the safety build and research
+    agenda
+  use_cases:
+  - Safety systems for frontier-class language models integrated with narrow scientific
+    tools
+  - Automated red-teaming and safety testing for scientific AI capabilities
+  - Refusal classifiers and safety post-training for scientific superintelligence
+  - Monitoring systems for in silico and lab-based scientific workflows
+  - Risk mitigation for lab-based automation powered by AI models
+  skills:
+    genai: [Large language models, Prompt engineering]
+    ml: [ML safety systems, Post-training techniques, Classifier development, Red-teaming
+        / adversarial testing, PyTorch]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Production ML systems, Monitoring systems]
+    languages: [Python]
+    domains: ['Scientific domains (biology, chemistry, materials science)']
+    other: [Research methodology]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8981454'
+  extracted_at: '2026-04-22T14:11:32.651879'

@@ -1,0 +1,52 @@
+company:
+  name: Celonis
+  stage: null
+  focus: |-
+    Process Intelligence platform using process mining and AI
+    technology
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and prototyping AI solutions
+      with GenAI architectures (RAG, prompt engineering, agents)
+      and LLM orchestration frameworks for customers. While
+      customer-facing, it's hands-on work designing and deploying
+      AI applications, not just enabling others.
+  responsibilities:
+  - Identify high-impact AI opportunities by working with enterprise customers to
+    understand strategic priorities and operational challenges
+  - Design AI-powered solution architectures combining Celonis Process Intelligence
+    platform with modern AI technologies
+  - Rapidly build prototypes and proof-of-value solutions demonstrating tangible outcomes
+    to stakeholders
+  - Lead AI innovation through workshops, hackathons, and innovation sessions with
+    customers
+  - Partner with customer teams to ensure successful implementation, adoption, and
+    value realization from AI deployments
+  - Build deep domain expertise in specific industries (e.g., supply chain, finance)
+    and scale knowledge across the organization
+  use_cases:
+  - Process intelligence and mining for business operations
+  - AI-powered business process optimization and transformation
+  - Supply chain and finance process automation
+  - Enterprise operational efficiency and productivity improvement
+  - Generative AI applications with business process context
+  skills:
+    genai: [RAG, Prompt Engineering, Agent-based systems, LangChain, LlamaIndex, LLM
+        orchestration frameworks, OpenAI, Generative AI applications]
+    ml: []
+    web: []
+    databases: []
+    data: [Databricks]
+    cloud: [Microsoft AI]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8527659'
+  extracted_at: '2026-03-27T14:06:36.972338'

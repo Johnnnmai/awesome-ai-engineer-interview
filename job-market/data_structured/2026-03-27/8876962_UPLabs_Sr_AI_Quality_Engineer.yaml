@@ -1,0 +1,56 @@
+company:
+  name: UP.Labs
+  stage: null
+  focus: |-
+    AI billing platform for transportation and logistics that
+    automates accuracy in freight transactions
+position:
+  title: Sr. AI Quality Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves evaluating LLM output quality, debugging
+      AI inference systems, and ensuring accuracy of AI-powered
+      extraction/classification pipelines. The work directly
+      supports and validates LLM/GenAI systems, making it ai-first
+      rather than just infrastructure support.
+  responsibilities:
+  - Develop and maintain quality rubrics for key use cases and exception types to
+    define correct behavior
+  - Build and curate golden datasets with representative emails, expected structured
+    outputs, and expected outcomes
+  - Conduct ongoing quality review in development and production, diagnosing issues
+    and converting discoveries into roadmap items
+  - Define and execute regression tests for model changes, backend logic changes,
+    and customer-specific use cases
+  - Triage quality incidents by tracing through email ingestion, prompts, model outputs,
+    state-machine transitions, and downstream reporting
+  - Create repeatable triage playbooks and classification systems for quality issues
+  - Define monitoring dashboards for quality signals including volume anomalies, exception
+    drift, and per-customer error hotspots
+  - Act as product/domain translator converting customer requirements into testable
+    rules and expected outcomes
+  use_cases:
+  - Automating accuracy and trust in complex freight transactions
+  - Transforming unstructured data from email chains, documents, telematics, and contracts
+    into structured records
+  - AI-powered inference for freight billing workflows
+  - Extraction and classification of structured outputs from messy email data
+  - Driving accurate billing through AI-powered system of record
+  skills:
+    genai: [LLM quality evaluation, prompt engineering, RAG, structured outputs evaluation]
+    ml: [precision/recall metrics, drift detection]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Datadog, ELK Stack, Honeycomb, OpenTelemetry, Jaeger, event-driven architectures,
+      state machines]
+    languages: [SQL, Python]
+    domains: [freight billing workflows]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8876962'
+  extracted_at: '2026-03-27T14:55:05.783440'

@@ -1,0 +1,42 @@
+company:
+  name: Jack & Jill AI
+  stage: Seed
+  focus: Generative Audio Workstation for music creation
+position:
+  title: Backend Engineer (£60k-£100k + Equity) at Mozart AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend engineering role focused on database
+      migrations, payments, and media pipelines. While the company
+      builds a Generative Audio Workstation (an AI product), the
+      role itself works ON infrastructure that SUPPORTS AI, not
+      directly on AI/ML models or systems.
+  responsibilities:
+  - Lead end-to-end migration from non-relational to relational databases with zero-data-loss
+    cutovers
+  - Own the payments and entitlements backbone using Stripe and RevenueCat for subscription
+    lifecycles
+  - Architect high-concurrency REST APIs and media processing pipelines with CDN delivery
+  - Scale infrastructure to support millions of users and 100k+ creators
+  - Implement canonical schema design and manage database architecture
+  use_cases:
+  - Generative audio workstation for music creation
+  - Real-time collaboration for music producers
+  - Subscription-based creative tools with cross-platform support
+  skills:
+    genai: []
+    ml: []
+    web: [Node.js, REST APIs]
+    databases: [PostgreSQL, NoSQL]
+    data: []
+    cloud: []
+    ops: [CDN, CI/CD]
+    languages: [TypeScript, SQL]
+    domains: []
+    other: [Stripe, RevenueCat]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8853791'
+  extracted_at: '2026-03-27T15:23:11.683215'

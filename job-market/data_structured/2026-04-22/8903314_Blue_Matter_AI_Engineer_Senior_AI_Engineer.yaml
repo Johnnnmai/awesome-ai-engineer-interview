@@ -1,0 +1,59 @@
+company:
+  name: Blue Matter
+  stage: Growing/Scaled (not specified)
+  focus: Management consultancy for the biopharmaceutical industry
+position:
+  title: AI Engineer / Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      integrating AI/ML solutions including LLMs, Generative AI
+      applications, RAG, and AI agents for both internal and
+      client-facing use. The engineer works hands-on with models,
+      APIs, and AI frameworks to deliver end-to-end AI-powered
+      solutions, making this clearly an ai-first role.
+  responsibilities:
+  - Design, develop, and deploy AI/ML solutions and Generative AI applications to
+    support commercial data and analytics for life sciences companies
+  - Integrate third-party AI APIs (OpenAI, Anthropic, Google Gemini, Hugging Face)
+    into internal and client-facing applications
+  - Build proof-of-concepts and rapid prototypes for product launch analytics, drug
+    discovery, patient analytics, and data operations
+  - Develop and maintain internal AI-powered tools that streamline workflows and automate
+    operational processes
+  - Build client-facing tools and services leveraging AI for actionable insights,
+    interactive dashboards, and intelligent recommendations
+  - Design and implement data pipelines and ETL processes to support AI model training,
+    fine-tuning, and inference workflows
+  - Investigate and evaluate emerging AI frameworks, tools, and models to continuously
+    improve AI capabilities
+  - Collaborate with onshore/offshore teams and clients to gather requirements, provide
+    technical guidance, and deliver AI-powered solutions
+  use_cases:
+  - Product launch analytics for life sciences companies
+  - Drug discovery support through AI-driven approaches
+  - Patient analytics and insights generation
+  - Commercial data and analytics for biopharmaceutical clients
+  - Automated operational workflow tools for consulting teams
+  - AI-powered interactive dashboards and intelligent recommendations for client decision
+    support
+  skills:
+    genai: [OpenAI API, Anthropic API, Google Gemini, LangChain, LlamaIndex, Hugging
+        Face Transformers, Prompt Engineering, RAG (Retrieval-Augmented Generation),
+      AI Agent Frameworks, Fine-tuning, Generative AI]
+    ml: [PyTorch, TensorFlow, NLP]
+    web: [FastAPI, Flask, Streamlit, Gradio, React, REST APIs, GraphQL]
+    databases: [Snowflake, Redshift, Databricks]
+    data: [Airflow, dbt, ETL]
+    cloud: [AWS, Azure, GCP, Azure OpenAI, SageMaker, Google Vertex AI, AWS S3, AWS
+        Lambda]
+    ops: [Git]
+    languages: [Python, SQL]
+    domains: []
+    other: [Agile/Scrum, JIRA]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8903314'
+  extracted_at: '2026-04-22T13:59:25.402241'

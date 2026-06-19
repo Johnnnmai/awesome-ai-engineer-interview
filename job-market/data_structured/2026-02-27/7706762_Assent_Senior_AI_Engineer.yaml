@@ -1,0 +1,53 @@
+company:
+  name: Assent
+  stage: Series B+ (US$350M funding, US$100M+ ARR)
+  focus: Supply chain sustainability SaaS platform for manufacturers
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, deploying, and
+      optimizing AI systems including LLMs, RAG pipelines, and
+      agent-based architectures. The engineer will architect AI
+      solutions and operationalize multi-agent systems, which is
+      hands-on work with AI models and agents.
+  responsibilities:
+  - Design, build, and optimize advanced AI solutions including LLMs, RAG pipelines,
+    and agent-based architectures
+  - Deploy, orchestrate, and manage multi-agent systems for enterprise-scale use cases
+    using frameworks like MCP, LangChain Agents, CrewAI, and AutoGen
+  - Establish practices for agent state management, role coordination, monitoring,
+    retraining, and rollback
+  - Implement policies, controls, and observability to bound agent behavior and align
+    with Responsible AI standards
+  - Connect agents with APIs, microservices, and message-driven systems for seamless
+    collaboration
+  - Apply governance, fairness, security, and compliance controls for safe and ethical
+    agent operations
+  - Partner with product managers, designers, and engineers to co-create AI features
+    that deliver business value
+  - Evaluate and adopt emerging AI tools and frameworks to strengthen AI platform
+    strategy
+  use_cases:
+  - Supply chain sustainability intelligence and insights
+  - Enterprise-scale multi-agent automation systems
+  - RAG-based knowledge retrieval for supply chain data
+  - Intelligent features integrated into sustainability products
+  - Automated compliance and risk detection in supply chains
+  skills:
+    genai: [LLMs, RAG, LangChain, CrewAI, AutoGen, MCP, A2A/ADK, Agent-based architectures]
+    ml: []
+    web: [Angular, Microservices, APIs]
+    databases: []
+    data: [Kafka, RabbitMQ, Solace PubSub+]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, CI/CD, Infrastructure-as-Code]
+    languages: [Python, C#, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7706762'
+  extracted_at: '2026-03-03T12:09:19.216324'

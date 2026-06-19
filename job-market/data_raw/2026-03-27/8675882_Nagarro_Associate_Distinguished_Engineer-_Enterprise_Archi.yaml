@@ -1,0 +1,156 @@
+job_id: 8675882
+title: Associate Distinguished Engineer- Enterprise Architect (Azure AI)
+company: Nagarro
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Azure Ai
+  - Azure Ai Foundry
+  - Azure Openai
+  - Ci/Cd
+  - Microsoft Copilot
+  - Microsoft Fabric
+  - Mlops
+  - Power Platform
+company_size: 19,994 Employees
+description: |
+  Company Description
+  
+  We are a Digital Product Engineering company that is scaling
+  in a big way! We build products, services, and experiences
+  that inspire, excite, and delight. We work at scale — across
+  all devices and digital mediums, and our people exist
+  everywhere in the world (18000+ experts across 37 countries,
+  to be exact). Our work culture is dynamic and non-
+  hierarchical. We are looking for great new colleagues. That
+  is where you come in!
+  
+  Job Description
+  
+  - Preferred location is NYC, but open to candidates located in
+    the East Coast
+  
+  Role Overview
+  
+  The Solution Architect serves as the technical lead and
+  platform owner for the AI Adoption initiative. This role
+  designs and governs the AI Landing Zone, oversees
+  integrations, ensures security and compliance, and provides
+  technical direction for all AI use cases and platform
+  components. The Solution Architect ensures that the AI
+  platform is scalable, secure, interoperable, and aligned
+  with IT standards, supporting both pilot development and
+  long-term institutionalization.
+  
+  Key Responsibilities
+  
+  AI Platform & Landing Zone Architecture
+  
+  - Architect the AI Landing Zone, including Azure OpenAI, Azure
+    AI Foundry, Power Platform, Microsoft Fabric, and
+    Microsoft Copilot services.
+  - Ensure the platform is secure, compliant, and designed to
+    scale across academic, administrative, research, and
+    healthcare environments.
+  - Define and enforce governance, identity/SSO integration, and
+    infrastructure requirements.
+  
+  Security, Compliance & Responsible AI Controls
+  
+  - Implement architectural controls to support FERPA,
+    accessibility (WCAG/508), privacy, and institutional
+    policy requirements.
+  - Ensure solutions incorporate responsible AI checks, fairness
+    validation, and observability.
+  
+  Integration & Data Architecture
+  
+  - Design integration patterns with core client systems (SIS,
+    LMS, SSO, APIs, data sources).
+  - Collaborate with the Data/Technology Lead to define secure
+    data pipelines, connectors, and access patterns.
+  - Ensure interoperability and reliability across departments
+    and technical environments.
+  
+  Use Case Technical Design & Feasibility
+  
+  - Evaluate technology options (Azure OpenAI, Copilot, Power
+    Platform, Fabric) for each use case.
+  - Define technical requirements, constraints, and
+    architectural components for low, medium, and high-
+    complexity use cases.
+  - Provide technical guidance to developers and ML engineers
+    during design, build, and deployment.
+  
+  Platform Maturity, Monitoring & MLOps
+  
+  - Establish CI/CD pipelines, monitoring dashboards, cost
+    transparency mechanisms, and lifecycle management
+    processes.
+  - Set standards for performance, security, reliability, and
+    operational readiness.
+  - Support the evolution of the platform from early pilots to
+    scalable enterprise services.
+  
+  Technical Leadership & Quality Assurance
+  
+  - Review prototypes, solution designs, integrations, and
+    deployments for technical completeness and architectural
+    alignment.
+  - Ensure consistency of implementation across teams and
+    phases.
+  - Provide coaching and guidance to development and engineering
+    teams.
+  
+  Collaboration & Engagement
+  
+  The Solution Architect works closely with the Functional
+  Consultant to ensure technical designs meet functional
+  needs, with the Data/Technology Lead on integrations and
+  data architecture, and with developers on implementation.
+  The role supports the Project Manager with technical
+  sequencing and risk mitigation and engages governance groups
+  and ITS stakeholders as needed.
+  
+  Qualifications
+  
+  Required Skills & Experience
+  
+  - Expertise in cloud/enterprise architecture, preferably
+    across Azure AI services.
+  - Strong understanding of identity, security, compliance
+    frameworks, and data governance.
+  - Experience designing scalable AI or cloud platforms and
+    integrating enterprise systems.
+  - Ability to evaluate technical feasibility, optimize
+    performance, and implement MLOps/CI-CD.
+  - Strong communication skills for translating complex
+    technical concepts to non-technical stakeholders.
+  
+  Good to have skills: AI Application Solution Design
+  (Strong), Metasonic, Microsoft Azure Artificial Inteligence
+  and Machine Learning (Expert), Microsoft Fabric (Expert)
+  
+  Additional Information
+  
+  Salary Range for NYC based candidates: $170K Gross - $220K
+  Gross (includes base + bonuses), depending on skills and
+  years of experience.
+  
+  Disclaimer: Nagarro is an equal opportunity employer. We
+  celebrate diversity and are committed to creating an
+  inclusive environment for all employees. All qualified
+  applicants will be afforded equal employment opportunities
+  without discrimination based on race, creed, color, national
+  origin, sex, age, disability, or marital status.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Machine Learning
+  - Software
+  - Virtual Reality
+  - Analytics
+posted_date: 2026-03-06
+url: "https://builtin.com/job/associate-distinguished-engineer-enterprise-architect-azure-ai/8675882"
+source: Built In

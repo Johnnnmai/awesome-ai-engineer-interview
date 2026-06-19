@@ -1,0 +1,137 @@
+job_id: 9120781
+title: Senior AI Engineer
+company: Esko
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Autogen
+  - Crewai
+  - G-Eval
+  - Generative Ai
+  - Haystack
+  - Jax
+  - Langchain
+  - Langgraph
+  - Llamaindex
+  - Milvus
+company_size: 1,654 Employees
+description: |
+  Imagine yourself…
+  
+  - Growing your expertise and expanding your skillset with
+    every project.
+  - Collaborating with a vibrant, inclusive, global team.
+  - Joining a company with a proven track record of success and
+    an exciting future.
+  
+  It’s all possible with a role at Esko. Esko, a Veralto
+  company, is a global provider of integrated software and
+  hardware solutions that accelerate the go-to-market process
+  of packaged goods. Our integrated platform and comprehensive
+  tools empower retailers, pre-media and trade shops,
+  manufacturers, and converters to manage best-in-class
+  packaging design and print processes.
+  
+  Innovation in the is built into the DNA of our business:
+  every day, we challenge ourselves to be better by seeking
+  out new ways to elevate our products, our processes, and our
+  people.
+  
+  We also know that innovation and ingenuity starts with
+  prioritizing a diverse workforce and a deeply inclusive
+  workplace. We encourage people from all backgrounds to apply
+  to our positions. 
+  
+  Reporting to the Engineering Manager, the Senior AI Engineer
+  is responsible for leading the design, optimization, and
+  governance of Esko’s Generative AI ecosystem, enabling
+  scalable, reliable, and production-grade AI capabilities
+  across products. This role is in Bangalore, India on Hybrid
+  model, with (Quarterly once visit to the office for 2
+  weeks).
+  
+  In this role, a typical day will look like:
+  
+  - Design and scale agentic AI systems to support long-running,
+    complex workflows using orchestration frameworks such as
+    LangGraph, CrewAI, or AutoGen.
+  - Develop systematic evaluation and benchmarking pipelines
+    using G‑Eval, RAGAS, and LLM‑as‑a‑Judge approaches to
+    measure performance, hallucinations, and latency.
+  - Implement advanced retrieval-augmented generation (RAG)
+    strategies, including multi-stage re‑ranking, hybrid
+    search, and query expansion for high-precision knowledge
+    retrieval.
+  - Optimize model inference performance using quantization
+    approaches such as AWQ and GGUF, along with caching
+    strategies for cost‑efficient high throughput.
+  - Collaborate closely with Data Science and DevOps teams to
+    transition experimental prototypes into hardened,
+    production-ready APIs.
+  - Implement safety guardrails, red‑teaming workflows, and
+    alignment mechanisms to ensure outputs meet industry
+    regulations and brand‑safety standards.
+  
+  We offer
+  
+  - Flexible working hours
+  - Professional onboarding and training options
+  - Powerful team looking forward to working with you
+  - Career coaching and development opportunities
+  - Health and Insurance benefits.
+  
+  The essential requirements of the job include:
+  
+  - Bachelor’s or Master’s degree in Computer Science,
+    Artificial Intelligence, or a related quantitative field.
+  - Minimum of 6 years of overall software engineering
+    experience, with at least 3 years focused on LLM
+    application development and deployment.
+  - Hands-on experience with parameter-efficient fine-tuning
+    techniques such as LoRA and QLoRA.
+  - Strong proficiency in PyTorch or JAX.
+  - Expert-level experience with LangChain, LlamaIndex, or
+    Haystack, along with scaling vector databases such as
+    Pinecone, Weaviate, or Milvus.
+  - Proven experience building custom evaluation datasets and
+    tracking experiments using tools such as Weights & Biases
+    or MLflow.
+  - Strong understanding of LLMOps, including CI/CD pipelines,
+    prompt versioning, and model endpoint management.
+  
+  Esko is proud to be part of the Product Quality & Innovation
+  segment of Veralto (NYSE: VLTO), a $5B global leader
+  dedicated to ensuring access to clean water, safe food and
+  medicine, and trusted essential goods. When you join
+  Veralto’s global network of associates, you join a culture
+  where purpose meets possibility—where the work you do has an
+  everyday impact on the resources the world relies on.
+  Together, we’re Safeguarding the World’s Most Vital
+  Resources™.
+  
+  @KaranGadi
+  
+  At Veralto, we value diversity and the existence of
+  similarities and differences, both visible and not, found in
+  our workforce, workplace and throughout the markets we
+  serve.  Our associates, customers and shareholders
+  contribute unique and different perspectives as a result of
+  these diverse attributes.
+  
+  
+  Unsolicited Assistance
+  
+  We do not accept unsolicited assistance from any headhunters
+  or recruitment firms for any of our job openings. All
+  resumes or profiles submitted by search firms to any
+  employee at any of the Veralto companies, in any form
+  without a valid, signed search agreement in place for the
+  specific position, approved by Talent Acquisition, will be
+  deemed the sole property of Veralto and its companies. No
+  fee will be paid in the event the candidate is hired by
+  Veralto and its companies because of the unsolicited
+  referral.
+posted_date: 2026-04-22
+url: "https://builtin.com/job/senior-ai-engineer/9120781"
+source: Built In

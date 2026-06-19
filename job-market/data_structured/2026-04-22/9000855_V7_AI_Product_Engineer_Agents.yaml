@@ -1,0 +1,49 @@
+company:
+  name: V7
+  stage: Series A/B (backed by leading investors, growing fast)
+  focus: |-
+    AI platforms for building no-code AI agents for professional
+    teams
+position:
+  title: AI Product Engineer (Agents)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building, deploying, and tuning LLM
+      agents and AI solutions. The engineer will use LangGraph and
+      cutting-edge AI frameworks to build agents for document
+      understanding, search, and image recognition, going from
+      prototype to production. This is hands-on work with models
+      and agents, not supporting infrastructure.
+  responsibilities:
+  - Build LLM agents for document understanding, search, and image recognition from
+    prototype to production
+  - Write clean, tested Python code that scales for working AI features
+  - Collaborate with AI and product teams to iterate on customer-facing solutions
+  - Manage multiple projects using LangGraph and cutting-edge AI frameworks
+  - Build agents, tune models, and ship AI solutions that power the entire platform
+  - Work with multi-modal data to deliver verifiable outputs with transparent AI logic
+  use_cases:
+  - Document understanding and processing for legal, finance, insurance, and accounting
+    teams
+  - Multi-modal AI search across enterprise data
+  - Image recognition integrated into agent workflows
+  - No-code AI agent deployment for non-technical professional users
+  - Verifiable AI outputs with transparent logic for compliance and accuracy
+  skills:
+    genai: [LangGraph, 'LLM APIs (OpenAI, Anthropic, Google)', Prompt Engineering,
+      RAG, AI Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Document Understanding, Image Recognition, NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9000855'
+  extracted_at: '2026-04-22T12:50:37.065775'

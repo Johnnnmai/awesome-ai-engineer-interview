@@ -1,0 +1,48 @@
+company:
+  name: Teamified
+  stage: Growth (200+ employees)
+  focus: |-
+    Remote team building and management platform with AI-
+    enhanced technology products
+position:
+  title: Senior AI Data Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and implementing AI
+      solutions including optimizing AI augmentation models,
+      context builders, and prompt builders. The requirements
+      explicitly mention RAG orchestration pipelines, LangChain,
+      and vector databases - all core AI/GenAI development
+      technologies.
+  responsibilities:
+  - Design and develop AI data architecture and APIs using Python and Django Framework
+  - Manage RDBMS, NoSQL (MongoDB), and Vector (Pinecone) databases with proper data
+    governance
+  - Collaborate with leadership and software architects to integrate AI solutions
+    into the Teamified Platform
+  - Optimize AI augmentation models, context builders, and prompt builders for performance
+    and scalability
+  - Conduct research on latest advancements in AI and data engineering
+  - Implement RAG orchestration pipelines and AI-powered features
+  use_cases:
+  - AI-powered remote team management platform
+  - RAG-based knowledge retrieval and context building
+  - AI augmentation for team building and hiring processes
+  - Vector search and semantic data retrieval
+  skills:
+    genai: [RAG Orchestration Pipelines, LangChain, Prompt Engineering]
+    ml: []
+    web: [Django]
+    databases: [SQL, MongoDB, Pinecone, Vector Databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6872445'
+  extracted_at: '2026-03-03T11:31:15.672919'

@@ -1,0 +1,53 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Healthcare technology, care delivery, and pharmacy benefits
+position:
+  title: AI or ML Engineer - G25, 26, 27, 28, 29, 30
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing, developing, and
+      deploying ML models and AI solutions, including work with
+      NLP, computer vision, deep learning, LLMs, and ASR. The
+      engineer is hands-on building and deploying intelligent
+      systems, which clearly falls under ai-first.
+  responsibilities:
+  - Design, develop, and deploy machine learning models and algorithms into production
+    environments
+  - Apply AI/ML techniques including NLP, NLU, computer vision, deep learning, and
+    automatic speech recognition
+  - Utilize deep learning to enable systems to perceive, learn, and respond to complex
+    scenarios
+  - Adapt AI/ML technologies to domains such as robotics, interactive systems, and
+    intelligent automation
+  - Work with large-scale data processing frameworks and data analysis platforms
+  - Apply statistical methods, experimental design, optimization, and probability
+    theory to develop robust AI solutions
+  - Collaborate with cross-functional teams to identify, prioritize, and execute AI/ML
+    initiatives
+  - Communicate technical concepts to both technical and non-technical audiences and
+    stakeholders
+  use_cases:
+  - Healthcare AI solutions for improving health outcomes
+  - Natural language understanding and semantic analysis for healthcare data
+  - Computer vision for medical or operational applications
+  - Intelligent automation and interactive systems
+  - Automatic speech recognition systems
+  - Recommender systems for healthcare services
+  skills:
+    genai: [Large Language Models]
+    ml: [TensorFlow, PyTorch, Scikit-learn, Keras, Deep Learning, Reinforcement Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud platforms]
+    ops: [MLflow, Git, Jenkins, Docker, Kubernetes, CI/CD]
+    languages: [Python, R, Java]
+    domains: [NLP, Computer Vision]
+    other: [Data structures and algorithms]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9030566'
+  extracted_at: '2026-04-22T14:02:50.822912'

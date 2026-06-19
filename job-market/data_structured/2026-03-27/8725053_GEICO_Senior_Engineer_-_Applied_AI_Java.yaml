@@ -1,0 +1,54 @@
+company:
+  name: GEICO
+  stage: Public
+  focus: Insurance company providing auto and general coverage
+position:
+  title: Senior Engineer - Applied AI (Java)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying AI
+      systems including agents, agentic workflows, RAG patterns,
+      and MCP integrations. The position requires implementing AI-
+      powered capabilities and integrating LLMs, vector databases,
+      and knowledge graphs into production systems.
+  responsibilities:
+  - Design, develop, and maintain scalable microservices using Java 21+ and Spring
+    Boot 3.4.x to power AI-enabled applications
+  - Contribute to architecture and implementation of applied AI solutions across enterprise
+    workflows including automation, document intelligence, and intelligent assistants
+  - Build and integrate AI agents and agentic workflows that orchestrate tools, APIs,
+    reasoning steps, and business logic
+  - Implement RAG patterns, Model Context Protocol (MCP) integrations, and agent skills
+    to enhance AI application capabilities
+  - Develop systems meeting high standards for scalability, resilience, performance,
+    and availability in production environments
+  - Leverage knowledge graphs and vector databases to enhance reasoning, entity relationships,
+    and context retrieval in AI workflows
+  - Collaborate with product, engineering, operations, and analytics partners to translate
+    business needs into technical designs
+  - Contribute to engineering best practices for reliability, interpretability, safety,
+    governance, and monitoring of production AI systems
+  use_cases:
+  - Document intelligence and processing
+  - Enterprise workflow automation
+  - Intelligent assistants for customer and associate support
+  - Decision support systems
+  - Fraud detection and anomaly detection
+  skills:
+    genai: [Spring AI, LangChain4j, RAG, MCP, AI agents, agentic workflows, LangChain,
+      LlamaIndex, Claude, Cursor, Codex]
+    ml: [Hugging Face]
+    web: [Spring Boot, Spring Cloud, RESTful APIs]
+    databases: [Pinecone, Weaviate, Milvus, pgvector]
+    data: [knowledge graphs]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, Temporal]
+    languages: [Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8725053'
+  extracted_at: '2026-03-27T15:52:55.842343'

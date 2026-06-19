@@ -1,0 +1,141 @@
+job_id: 8789668
+title: AI Knowledge Data Engineer (Europe)
+company: iBusiness Funding
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Airflow
+  - Elasticsearch
+  - Faiss
+  - Kubeflow
+  - Milvus
+  - Pinecone
+  - Python
+  - PyTorch
+  - Spark
+  - TensorFlow
+description: |
+  About iBusiness
+  
+  iBusiness is a leading financial technology company
+  transforming the way banks, credit unions, and lenders
+  innovate. As a pioneer in secure AI, automation, and AI
+  software development, iBusiness builds infrastructure and
+  platforms that empower financial institutions to modernize
+  faster—without sacrificing compliance or security. Its
+  technology enables seamless digital transformation across
+  lending, banking, and customer experience systems, giving
+  institutions the tools to compete and innovate at enterprise
+  scale.
+  
+  Join us and be part of a team that’s transforming the
+  finance industry and empowering businesses to thrive!
+  
+  Position Description
+  
+  We are seeking an experienced expert AI Knowledge Data
+  Engineer to design, implement, and scale state-of-the-art AI
+  systems that combine large language models (LLMs), advanced
+  retrieval techniques, cognitive memory architectures,
+  including knowledge representation, and data fusion. In this
+  role, you will orchestrate robust data pipelines, architect
+  scalable training data solutions, and build the foundational
+  knowledge bases that power next-generation AI agents. You
+  will collaborate with cross-functional teams to ensure our
+  systems efficiently retrieve, contextualize, and generate
+  accurate information for diverse business applications.
+  
+  Major Areas of Responsibility
+  
+  - Architect, implement, and optimize retrieval-augmented
+    generation (RAG) workflows by integrating local LLMs
+    (e.g., Llama) with retrieval mechanisms (vector search,
+    Elasticsearch, FAISS, Weaviate).
+  - Design, build, and maintain scalable data pipelines for
+    ingesting, transforming, indexing, and retrieving
+    structured and unstructured data from diverse sources.
+  - Design, build, and scale addressable services and tools
+    specifications that can be leveraged by LLMs and Agents to
+    orchestrate workflows.
+  - Orchestrate and scale training data operations, including
+    data curation, versioning, and lineage tracking for large-
+    scale LLM training and fine-tuning.
+  - Develop and maintain ontologies, knowledge graphs, and
+    semantic data models to structure and integrate domain-
+    specific knowledge for improved retrieval and reasoning.
+  - Implement and optimize knowledge retrieval strategies
+    (dense/sparse retrieval, ranking algorithms) to maximize
+    system accuracy and relevance.
+  - Aggregate disparate knowledge bases and heterogeneous data
+    into a fused approach for access to relevant contextual
+    information.
+  - Design cognitive memory systems for AI agents, enabling
+    persistent knowledge retention and contextual awareness
+    across interactions.
+  - Collaborate with AI researchers, data scientists, and
+    engineers to align knowledge architecture with business
+    objectives and ensure data quality.
+  - Evaluate and integrate new technologies and research
+    advancements in LLMs, RAG, information retrieval, and
+    knowledge representation.
+  - Maintain clear and comprehensive documentation of models,
+    pipelines, and workflows.
+  
+  Required Knowledge, Skills, and Abilities
+  
+  - Bachelor’s or Master’s degree in Computer Science, Data
+    Science, Machine Learning, or a related field.
+  - Proven experience designing and scaling data pipelines and
+    training data workflows for LLMs or similar AI systems.
+  - Strong background in information retrieval systems, vector
+    search technologies, and RAG frameworks (e.g., FAISS,
+    Pinecone, Elasticsearch, Milvus).
+  - Proficiency in programming (Python) and machine learning
+    libraries (TensorFlow, PyTorch).
+  - Experience with ontologies, knowledge graphs, and semantic
+    technologies (RDF, OWL, SPARQL).
+  - Familiarity with distributed data processing and
+    orchestration tools (e.g., Spark, Airflow, Kubeflow).
+  - Excellent analytical, problem-solving, and communication
+    skills.
+  - Ability to work collaboratively in a cross-functional, fast-
+    paced environment.
+  
+  Nice To Haves
+  
+  - Experience with LLM fine-tuning, prompt engineering, and RAG
+    optimization.
+  - Familiarity with data-centric AI principles and training
+    data quality assessment.
+  - Experience with cloud platforms and scalable storage
+    solutions.
+  - Background in cognitive memory architectures or AI agent
+    design.
+  
+  The anticipated salary range for this position is $180,000 -
+  $240,000 annually, depending on experience and
+  qualifications. iBusiness Funding provides a comprehensive
+  benefits package, including medical, dental, and vision
+  coverage; 401(k) with company match, and paid time off.
+  
+  Conclusion:
+  
+  This job description is intended to convey information
+  essential to understanding the scope of the job and the
+  general nature and level of work performed by job holders
+  within this job. This job description is not intended to be
+  an exhaustive list of qualifications, skills, efforts,
+  duties, responsibilities, or working conditions associated
+  with the position.
+  
+  
+  
+  The company is an equal opportunity employer and will
+  consider all applications without regard to race, sex, age,
+  color, religion, national origin, veteran status,
+  disability, genetic information, or any other characteristic
+  protected by law.
+posted_date: 2026-03-18
+url: "https://www.builtinla.com/job/ai-knowledge-data-engineer-europe/8789668"
+source: Built In

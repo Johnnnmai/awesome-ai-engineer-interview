@@ -1,0 +1,50 @@
+company:
+  name: ChargePoint
+  stage: Public
+  focus: |-
+    EV charging network with hardware, software, and mobile
+    solutions
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on building, deploying, and fine-
+      tuning LLM/ML systems including Voice AI, Computer Vision,
+      and Conversational AI. The position involves direct work
+      with LLM engineering, RAG architectures, model fine-tuning
+      (LoRA/QLoRA), and building production-grade AI systems - all
+      core AI/ML development work.
+  responsibilities:
+  - Lead development of AI solutions across Voice AI, Computer Vision, and Conversational
+    AI domains
+  - Architect and build production-grade AI systems for monitoring and analytics platform
+  - Design and deploy AI-powered solutions that improve customer support experiences
+  - Enable intelligent automation across EV charging infrastructure
+  - Collaborate with cross-functional teams to build AI solutions for EV drivers and
+    operators
+  - Build LLM systems with focus on low-latency inference, caching, and observability
+  use_cases:
+  - Voice AI for customer support and interactions
+  - Computer Vision for EV charging infrastructure monitoring
+  - Conversational AI for enhanced customer experiences
+  - Intelligent automation of EV charging operations
+  - AI-powered monitoring and analytics platform
+  skills:
+    genai: [LangChain, LangGraph, Amazon Bedrock, OpenAI APIs, prompt engineering,
+      RAG architectures, embedding-based retrieval]
+    ml: [visual transformers, LoRA, QLoRA, RLHF, model fine-tuning]
+    web: [FastAPI, Django]
+    databases: [Elasticsearch, vector search, hybrid search, Qdrant, ChromaDB, Pinecone,
+      PostgreSQL, Redis, MongoDB, ClickHouse, Trino]
+    data: [Kafka, RabbitMQ, Airflow, DBT, Iceberg]
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD, observability]
+    languages: [Python]
+    domains: [Computer Vision]
+    other: [Genesys, SIP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8502571'
+  extracted_at: '2026-03-03T12:25:48.922069'

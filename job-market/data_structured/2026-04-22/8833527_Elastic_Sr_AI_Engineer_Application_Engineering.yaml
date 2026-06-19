@@ -1,0 +1,57 @@
+company:
+  name: Elastic
+  stage: Public
+  focus: |-
+    Search AI platform for enterprise search, security, and
+    observability
+position:
+  title: Sr. AI Engineer, Application Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      orchestrating AI/LLM-based intelligent agents and automated
+      workflows using the Elastic Agent Builder platform. The
+      engineer designs custom agentic AI solutions, performs
+      prompt engineering, integrates LLMs, and handles model
+      deployment and agent orchestration — all hands-on work on AI
+      systems.
+  responsibilities:
+  - Own end-to-end technical delivery of AI solutions including coding, system configuration,
+    and issue resolution
+  - Design and implement scalable production systems with LLM-based intelligent agents
+    and automated workflows
+  - Build custom intelligent agents using the Elastic Agent Builder platform tailored
+    to stakeholder requirements
+  - Manage the full data lifecycle including data modeling, processing pipelines,
+    and integration strategies optimized for AI applications
+  - Identify and resolve technical challenges across data integration, model deployment,
+    and agent orchestration
+  - Embed with client teams to understand operational challenges and translate requirements
+    into technical designs
+  - Rapidly develop proofs-of-concept and MVPs, iterating based on client feedback
+  - Apply and promote engineering best practices for code quality, scalability, security,
+    and maintainability
+  use_cases:
+  - Custom intelligent agent deployment for enterprise customers
+  - Automated business workflow orchestration using LLMs
+  - Conversational AI solutions for enterprise environments
+  - Data integration and processing pipelines for AI applications on Salesforce platform
+  - AI-driven search and observability solutions
+  skills:
+    genai: [LangChain, LlamaIndex, Prompt Engineering, Agentic Frameworks, LLM Integration,
+      Conversational AI]
+    ml: []
+    web: []
+    databases: [Salesforce Data Cloud, Snowflake, BigQuery, Elasticsearch]
+    data: [Databricks, Data Modeling, ETL/Data Pipelines]
+    cloud: []
+    ops: []
+    languages: [JavaScript, Java, Python, SQL]
+    domains: []
+    other: [Salesforce Platform]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8833527'
+  extracted_at: '2026-04-22T13:39:29.288909'

@@ -1,0 +1,59 @@
+company:
+  name: 4M Analytics
+  stage: Series A
+  focus: |-
+    Creating a global map of the subsurface using cutting-edge
+    products and technology
+position:
+  title: AI Revenue Operations Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and building agentic AI
+      workflows, prompt libraries, and custom AI integrations,
+      with deep hands-on fluency in LLMs (especially Claude) and
+      agentic workflows. The position requires creating AI-powered
+      systems, templates, and automation that directly use AI
+      capabilities, not just supporting infrastructure for others'
+      AI work.
+  responsibilities:
+  - Own 4M's GTM AI roadmap and identify emerging AI tools, models, and workflows
+    for competitive advantage
+  - Define architecture for AI integration across the GTM stack including CRM enrichment,
+    forecasting, and outreach automation
+  - Build proof-of-concepts quickly, evaluate impact rigorously, and scale successful
+    AI solutions across the team
+  - Design and deliver AI enablement programs that build genuine AI fluency across
+    the GTM team
+  - Create AI-powered templates, playbooks, and automation for account research, outreach
+    personalization, and pipeline preparation
+  - Own the GTM tech stack with an AI-first lens, evaluating and optimizing sales
+    automation and CRM tools
+  - Build and maintain AI-augmented reporting infrastructure with real-time visibility
+    into pipeline health
+  - Serve as execution partner to the CRO, using AI to accelerate board materials,
+    pipeline reviews, and strategic recommendations
+  use_cases:
+  - Automating account research and prospect intelligence gathering
+  - AI-powered sales outreach personalization and content generation
+  - Real-time pipeline health monitoring and forecasting
+  - Automated CRM enrichment and data quality management
+  - Competitive intelligence synthesis and strategic analysis
+  - Executive briefing and QBR content generation
+  skills:
+    genai: [Claude (Anthropic), LLMs, Agentic workflows, Prompt engineering, AI-native
+        GTM platforms]
+    ml: []
+    web: [APIs]
+    databases: [Salesforce, HubSpot, CRM platforms]
+    data: [Analytics platforms]
+    cloud: []
+    ops: [No-code/low-code automation]
+    languages: []
+    domains: []
+    other: [Sales automation tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8710746'
+  extracted_at: '2026-03-27T14:05:03.712125'

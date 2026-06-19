@@ -1,0 +1,148 @@
+job_id: 8593610
+title: Senior Data Engineer – AI AML Engineering
+company: SumUp
+location: Berlin, DEU
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - APIs
+  - Aws Athena
+  - Aws Eks
+  - Aws Keyspaces
+  - Aws S3
+  - Ci/Cd
+  - Docker
+  - Git
+  - Github Actions
+  - Graphdbs
+company_size: 2,750 Employees
+description: |
+  📍 Berlin, Germany | Full-time | Office-first
+  
+  Team description
+  
+  The AI AML Engineering squad sits at the heart of SumUp's
+  Risk & Compliance tribe, building the data products and
+  engineering solutions that protect millions of small
+  businesses from financial crime. We're in the middle of
+  something genuinely new: Risk Decision Center (RDC), also
+  known as SumUp Sentinel, is our flagship product designed to
+  automate up to 90% of fraud and AML case investigations —
+  and it can only work if the data underneath it is correct,
+  complete, and trusted. This role exists because we can't
+  build reliable automation on shaky foundations, and we need
+  an engineer who cares deeply about getting that right.
+  
+  What you'll do
+  
+  - Build and operate production-grade Python data pipelines
+    that power AI-driven decisioning and near real-time
+    analytics within Risk Decision Center and SAR Studio
+  - Own data quality end-to-end: designing validations,
+    monitoring, alerting, and clear SLAs so that analysts,
+    data scientists, and AI systems can rely on what they're
+    seeing
+  - Build and maintain scalable regulatory reporting pipelines,
+    supporting recurring submissions and ad-hoc regulator
+    requests with full audit trails, versioning, and
+    reproducible outputs
+  - Define and document data architecture, dataset ownership,
+    and lineage to reduce knowledge silos and improve
+    operational maturity across the squad
+  - Collaborate closely with Data Platform and a cross-
+    functional team of data scientists, ML engineers, software
+    engineers, and analysts to ship safely in production
+  
+  You'll be great for this role if…
+  
+  - Strong proficiency in Python data engineering, with a track
+    record of building and operating scalable pipelines in
+    production environments
+  - Solid SQL and data modelling skills, with a genuine quality
+    mindset: experience setting standards, writing
+    validations, and keeping data trustworthy at scale
+  - Experience working with AWS technologies such as S3, EKS,
+    Athena, or Keyspaces, and comfort with containers
+    (Docker), version control (Git), and API design
+  - Ability to navigate a complex, multi-stakeholder
+    environment, balancing competing priorities while keeping
+    critical work on track
+  - Comfort operating under ambiguity and shifting deadlines
+    without sacrificing data reliability or correctness
+  
+  
+  
+  Why you should join SumUp
+  
+  - 🌎 Opportunity to work with SumUppers globally on large-scale
+    fintech products used by millions of businesses worldwide,
+    from our Berlin office. This involves an office-first
+    setup
+  - 🌈 Commitment to Diversity and Inclusion: Be part of a
+    workplace that values and promotes diversity, fostering an
+    inclusive environment where everyone's perspectives are
+    respected and embraced
+  - 🚀 Enrolment in our Virtual Stock Option programme: you will
+    own a stake in SumUp's future success
+  - 📚 A dedicated annual L&D budget of €2000 for your individual
+    development, which can be used to attend conferences
+    and/or advance your career through further education
+  - 💶 A corporate pension scheme where we match up to 20% of
+    your contributions
+  - 🏖️ Generous time off: enjoy 28 days of paid leave plus
+    public holidays and special leave days
+  - 🏃 Numerous other benefits, such as Urban Sports Club
+    subsidy, Kita placement assistance, and subsidised office
+    lunches
+  - 🌴 Break4me: 1-month sabbatical after 3 years of service
+  - 🔗 Referral Bonus: earn additional rewards by referring
+    talented individuals to join the SumUp team
+  
+  About SumUp
+  
+  Be empowered to do more that matters.
+  
+  At SumUp, we're on a mission to empower small businesses
+  across the globe by providing simple and affordable tools
+  that allow them to thrive. Today, over 4 million businesses
+  in 37 markets rely on SumUp as their financial partner to
+  manage payments, finance, and customer relationships.
+  
+  Our commitment to small businesses is reflected in our
+  diverse team of over 3,000 SumUppers from over 90
+  nationalities, united by global collaboration and an
+  innovative mindset. Our core values lay the foundation for
+  who we are and what we stand for, shaping our work culture
+  and driving our success. We foster inclusivity and a
+  continuous learning culture, providing a safe space for
+  personal and professional growth. Our differences make us
+  unique and strong as we strive to create an environment
+  where everyone belongs and feels supported, no matter how
+  they identify.
+  
+  SumUp is proud to be an Equal Employment Opportunity
+  employer, actively seeking and embracing diversity in our
+  workforce. We don't make hiring or employment decisions
+  based on race, colour, religion or religious belief, ethnic
+  or national origin, nationality, sex, gender, gender
+  identity, sexual orientation, disability, age or any other
+  basis protected by applicable laws or prohibited by company
+  policy. Our commitment extends beyond recruitment to
+  creating a safe and respectful workplace where harassment of
+  any form is strictly prohibited. Discover more about our
+  culture and opportunities on our careers website, and follow
+  our journey on LinkedIn, Instagram, and TikTok.
+  
+  Job Application Tip
+  
+  We recognise that candidates feel they need to meet 100% of
+  the job criteria in order to apply for a job. Please note
+  that this is only a guide. If you don’t tick every box, it’s
+  ok too because it means you have room to learn and develop
+  your career at SumUp.
+industries:
+  - Fintech
+  - Payments
+posted_date: 2026-04-19
+url: "https://builtin.com/job/senior-data-engineer/8593610"
+source: Built In

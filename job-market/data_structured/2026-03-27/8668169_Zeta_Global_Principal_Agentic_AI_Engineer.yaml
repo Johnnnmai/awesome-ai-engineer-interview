@@ -1,0 +1,57 @@
+company:
+  name: Zeta Global
+  stage: Public
+  focus: |-
+    AI-powered marketing cloud platform for customer acquisition
+    and retention
+position:
+  title: Principal Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building agentic AI workflows
+      using RAG and tool-using patterns, implementing production-
+      grade AI systems, and creating agent-based decision-making
+      systems. The engineer will work hands-on with LLMs, agentic
+      patterns, and agent operations (AgentOps) including
+      evaluation and monitoring.
+  responsibilities:
+  - Build bidder-adjacent agentic workflows that recommend and execute campaign control
+    actions including targeting constraints, budget and pacing levers, bid modifiers,
+    supply/inventory selection, and creative routing
+  - Implement production-grade RAG systems with retrieval from policies, playbooks,
+    campaign history, aggregates, and near-real-time telemetry while optimizing grounding
+    and reducing hallucinations
+  - Create safe tool and action interfaces with idempotent execution, audit logs,
+    dry-run and approval gates, rate limits, and rollback/fallback behaviors
+  - Own AgentOps including evaluation harnesses, regression suites, online A/B experimentation,
+    and outcome metrics (CPA/ROAS, pacing, quality, margin)
+  - Add end-to-end observability with tracing for prompts, retrieval, tool calls,
+    and latency, plus reliability patterns including timeouts, circuit breakers, and
+    safe defaults
+  - Partner with Backend, Bidding, Data Platform, DS/Optimization, Product, and SRE
+    teams to define boundaries between deterministic per-request bidding and agent-driven
+    control-plane decisions
+  use_cases:
+  - Campaign performance optimization through agentic decision-making
+  - Real-time bid modification and budget pacing in programmatic advertising
+  - Automated targeting constraint adjustments and supply/inventory selection
+  - Creative routing and campaign control automation
+  - Low-latency AdTech decisioning with closed-loop observe-reason-act-evaluate workflows
+  skills:
+    genai: [LangChain, RAG, embeddings, hybrid retrieval, reranking, tool use, agentic
+        patterns, structured outputs, multi-step loops, LLMs]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [streaming/eventing]
+    cloud: [AWS]
+    ops: [microservices, A/B testing, monitoring, observability, distributed systems]
+    languages: [Java, Go, Python]
+    domains: [programmatic advertising, DSP/SSP/RTB]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8668169'
+  extracted_at: '2026-03-27T13:40:22.167557'

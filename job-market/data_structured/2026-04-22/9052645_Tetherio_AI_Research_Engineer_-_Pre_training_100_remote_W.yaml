@@ -1,0 +1,50 @@
+company:
+  name: Tether.io
+  stage: Public
+  focus: |-
+    Digital finance, stablecoins (USDT), blockchain technology,
+    and AI research
+position:
+  title: AI Research Engineer - Pre training (100% remote Worldwide)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on pre-training large language
+      models at scale, including designing architectures, running
+      distributed training on thousands of GPUs, and advancing LLM
+      performance. The engineer works hands-on building and
+      optimizing AI models, making this clearly ai-first.
+  responsibilities:
+  - Conduct pre-training of AI models on large distributed servers with thousands
+    of NVIDIA GPUs
+  - Design, prototype, and scale innovative architectures to enhance model intelligence
+  - Independently and collaboratively execute experiments, analyze results, and refine
+    methodologies for optimal performance
+  - Investigate, debug, and improve both model efficiency and computational performance
+  - Contribute to the advancement of training systems to ensure seamless scalability
+    and efficiency on target platforms
+  - Explore and implement novel techniques in data curation and pre-training optimization
+  use_cases:
+  - Pre-training large-scale language models across various scales (small, large,
+    multi-modal)
+  - Enhancing intelligence and efficiency of LLM architectures
+  - Scaling AI model training on distributed GPU infrastructure
+  - Data curation and baseline strengthening for pre-training pipelines
+  - Resolving pre-training bottlenecks to push the limits of AI performance
+  skills:
+    genai: []
+    ml: [PyTorch, Hugging Face, Large-scale distributed training, LLM pre-training,
+      Transformer architectures, CUDA, Model optimization, Multi-modal models]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [NVIDIA GPU computing, Distributed systems]
+    languages: [Python]
+    domains: [NLP, Machine Learning]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9052645'
+  extracted_at: '2026-04-22T13:18:17.527684'

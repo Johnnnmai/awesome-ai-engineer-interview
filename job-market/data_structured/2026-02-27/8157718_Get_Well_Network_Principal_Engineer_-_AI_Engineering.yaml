@@ -1,0 +1,55 @@
+company:
+  name: Get Well Network
+  stage: Series D+
+  focus: |-
+    AI-native healthcare technology for clinical insight,
+    patient engagement, and care orchestration
+position:
+  title: Principal Engineer - AI Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building, deploying, and fine-
+      tuning LLMs and agentic systems using frameworks like
+      CrewAI, LangChain, and LangGraph. The position requires
+      hands-on work with model training, inference optimization,
+      and multimodal AI system design - all core AI/ML development
+      activities.
+  responsibilities:
+  - Design, develop, and implement AI solutions leveraging unimodal and multimodal
+    Large Language Models (LLMs) and agentic systems
+  - Build and integrate agentic systems using frameworks like CrewAI, LangChain, and
+    LangGraph for autonomous decision-making and workflow automation
+  - Execute model training, fine-tuning, and optimization of inference engines for
+    high-performance AI systems
+  - Optimize cloud-based AI infrastructure for scalability, performance, and reliability
+  - Establish and maintain rigorous testing and validation protocols for AI models
+  - Implement and manage monitoring solutions using tools like Langfuse, Prometheus,
+    and Grafana
+  - Ensure AI solutions adhere to healthcare regulatory standards (HIPAA, GDPR) and
+    ethical AI guidelines
+  - Serve as primary liaison between AI engineering teams and product teams
+  use_cases:
+  - Healthcare AI solutions for clinical insight and decision support
+  - Patient engagement and care orchestration automation
+  - Autonomous workflow automation in healthcare settings
+  - Multimodal AI systems for healthcare applications
+  - Connected intelligence for health system care delivery
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, Large Language Models (LLMs), Multimodal
+        AI, Agentic Systems, MCP, Prompt Engineering]
+    ml: [PyTorch, TensorFlow, Hugging Face, Model Training, Fine-tuning, Inference
+        Optimization]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Langfuse, Prometheus, Grafana]
+    languages: [Python, C++]
+    domains: [Healthcare]
+    other: [HIPAA Compliance, GDPR Compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8157718'
+  extracted_at: '2026-03-03T12:55:14.170724'

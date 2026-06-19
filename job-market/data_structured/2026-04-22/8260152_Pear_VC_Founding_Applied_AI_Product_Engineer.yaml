@@ -1,0 +1,46 @@
+company:
+  name: Pear VC
+  stage: Seed
+  focus: Autonomous browser agents for QA testing
+position:
+  title: Founding Applied AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Spur builds autonomous browser agents that think, explore,
+      validate, and self-heal — these are AI/LLM-powered agents.
+      The role involves shipping end-to-end features for this AI
+      agent product, and bonus points include having built LLM
+      products. The core product is an AI agent system, making
+      this an ai-first role.
+  responsibilities:
+  - Ship end-to-end features from design through deployment and production ownership
+  - Work directly with users to gather feedback and turn it into rapid improvements
+  - Build and operate both frontend and backend code for the autonomous browser agent
+    platform
+  - Launch new features and iterate quickly with product, engineering, design, and
+    founders
+  - Shape product direction based on customer interactions and feedback
+  - Rapidly prototype and iterate on LLM-powered browser agent capabilities
+  use_cases:
+  - Autonomous browser agents for QA testing and validation
+  - Self-healing test automation that mimics real user behavior
+  - Exploratory testing through AI agents that think and navigate autonomously
+  - Developer tooling for digital teams to ship with confidence
+  - Reducing QA cycle time from months to days for enterprise customers
+  skills:
+    genai: [LLM product development]
+    ml: []
+    web: [Next.js, React, Frontend development, Backend development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8260152'
+  extracted_at: '2026-04-22T13:38:13.526379'

@@ -1,0 +1,48 @@
+company:
+  name: Diligent
+  stage: Late-stage / PE-backed (established SaaS company with 1M+ users)
+  focus: Governance, risk and compliance (GRC) SaaS platform
+position:
+  title: AI Solution Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI/GenAI
+      systems including RAG pipelines, copilots, agents, and
+      automation workflows using LLMs. The engineer takes AI
+      solutions from concept to production, working hands-on with
+      LLMs, prompt engineering, and GenAI tools—clearly building
+      ON AI systems.
+  responsibilities:
+  - Build and scale backend services, APIs, and integrations embedding AI/GenAI into
+    enterprise systems (CRM, ERP, BI)
+  - Develop LLM-powered solutions including RAG pipelines, copilots, agents, and automation
+    workflows
+  - Take AI solutions from concept through design, build, test, deploy, and monitor
+    in production
+  - Collaborate with architects and business stakeholders to translate requirements
+    into practical AI implementations
+  - Create and manage data pipelines to enable reliable, high-quality AI workflows
+  - Ensure solutions are secure, scalable, observable, and aligned with best practices
+  use_cases:
+  - AI-powered copilots and agents for enterprise GRC workflows
+  - Intelligent automation of sales, finance, and customer success processes
+  - RAG-based knowledge retrieval integrated into CRM, ERP, and BI platforms
+  - AI-driven governance, risk, and compliance decision support
+  - Automated workflow transformation leveraging LLMs for board and executive users
+  skills:
+    genai: [RAG pipelines, Prompt engineering, LangChain, OpenAI APIs, AI agents]
+    ml: [Scikit-learn]
+    web: [REST APIs, Webhooks]
+    databases: []
+    data: [Data pipelines]
+    cloud: [AWS]
+    ops: [CI/CD, Docker, Containerization, MLOps/LLMOps]
+    languages: [Python, Java, C#, Node.js]
+    domains: []
+    other: [CRM/ERP integration, AI governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9025019'
+  extracted_at: '2026-04-22T14:08:35.673006'

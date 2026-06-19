@@ -1,0 +1,53 @@
+company:
+  name: AVEVA
+  stage: Public
+  focus: |-
+    Industrial software for energy, manufacturing, and
+    infrastructure sectors
+position:
+  title: Lead Forward Deployed Engineer, Industrial AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on technical lead role that involves
+      developing, prototyping, and deploying AI solutions into
+      real-world industrial environments. The position explicitly
+      requires "demonstrated hands-on experience deploying or
+      integrating AI/ML solutions" and includes developing AI-
+      enabled demos, prototypes, and proof-of-value solutions.
+  responsibilities:
+  - Provide industrial domain expertise to guide AI tool, platform, and roadmap decisions
+    and development
+  - Work directly with internal and external customers to gather feedback and refine
+    AI solutions
+  - Drive investigations into applying advanced AI capabilities to industrial problems
+  - Identify and define industrial use cases for AI applications
+  - Develop AI-enabled demos, prototypes, and proof-of-value solutions for industrial
+    problems
+  - Collaborate with cross-functional teams to integrate AI capabilities into industrial
+    software systems
+  - Evaluate the performance and impact of AI models in operational environments
+  - Support and mentor junior team members
+  use_cases:
+  - Industrial manufacturing optimization and automation
+  - Energy sector AI applications
+  - Infrastructure monitoring and management
+  - Asset-intensive industry operations
+  - Predictive maintenance for industrial equipment
+  - Safety-critical and compliance-driven industrial systems
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, scikit-learn]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, MLflow, Edge computing]
+    languages: [Python, SQL]
+    domains: [Manufacturing systems, Industrial automation, Energy systems]
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8314039'
+  extracted_at: '2026-03-27T13:32:35.610432'

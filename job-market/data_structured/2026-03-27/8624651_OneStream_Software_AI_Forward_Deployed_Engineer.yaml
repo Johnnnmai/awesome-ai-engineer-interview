@@ -1,0 +1,50 @@
+company:
+  name: OneStream Software
+  stage: Public
+  focus: Enterprise finance platform with embedded AI for CFOs
+position:
+  title: AI Forward Deployed Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that designs,
+      implements, and deploys AI solutions (SensibleAI Forecast,
+      Studio, Agents) directly to customers. FDEs working hands-on
+      with AI systems to implement and harden AI solutions for
+      production deployment are classified as ai-first, not ai-
+      support.
+  responsibilities:
+  - Design, implement, and harden cross-product AI solutions spanning SensibleAI Forecast,
+    Studio, and Agents
+  - Deliver hands-on AI-focused implementations and expansion projects for enterprise
+    customers
+  - Orchestrate the SensibleAI Portfolio with OneStream core to deliver modular solutions
+    for financial and analytics requirements
+  - Produce reusable demos, implementations, workflows, best practices, and instructional
+    videos
+  - Diagnose and resolve AI solution field issues and document decisions and trade-offs
+  - Collaborate with AI Delivery to harden solutions for production and with AI Engineering
+    to channel learnings into roadmaps
+  - Engage with finance and data teams and facilitate workshops and office hours
+  use_cases:
+  - Financial forecasting and planning automation
+  - Enterprise financial planning and analysis (FP&A)
+  - AI-powered financial decision support
+  - Corporate performance management (CPM/EPM)
+  - Data-driven analytics for finance teams
+  skills:
+    genai: [LLM applications]
+    ml: [machine learning]
+    web: [REST APIs]
+    databases: []
+    data: [ETL/ELT, data modeling, data visualization]
+    cloud: []
+    ops: [containerization]
+    languages: [SQL, Python, C#]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8624651'
+  extracted_at: '2026-03-27T13:32:59.008565'

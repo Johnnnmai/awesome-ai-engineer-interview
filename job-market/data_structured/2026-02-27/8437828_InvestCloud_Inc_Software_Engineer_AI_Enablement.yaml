@@ -1,0 +1,49 @@
+company:
+  name: InvestCloud, Inc.
+  stage: Established
+  focus: Financial technology platform for wealth management
+position:
+  title: Software Engineer (AI Enablement)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an infrastructure/platform role that builds systems
+      FOR data scientists and AI teams, not directly working on
+      models. The responsibilities focus on APIs, data pipelines,
+      ETL processes, and infrastructure to support ML workloads -
+      classic enablement work. While the team integrates AI
+      solutions, the engineer builds the platforms and pipelines
+      rather than building, training, or fine-tuning models
+      themselves.
+  responsibilities:
+  - Develop and maintain robust APIs, microservices, and data pipelines that support
+    data science and AI workloads
+  - Design and implement efficient database schemas and data storage solutions
+  - Build and optimize ETL processes for data ingestion, transformation, and delivery
+  - Create scalable infrastructure for model training, evaluation, and deployment
+  - Collaborate with data scientists to implement and productionize machine learning
+    models
+  - Ensure high performance, reliability, and security of backend systems
+  - Participate in code reviews and contribute to engineering best practices
+  - Integrate AI and ML solutions into the InvestCloud product suite
+  use_cases:
+  - Enhanced intelligence for financial advisor and client experiences
+  - Data-driven insights for wealth management
+  - Production ML model deployment for financial applications
+  - AI-powered analytics for financial data
+  skills:
+    genai: [Generative AI, AI Assistants]
+    ml: [Machine Learning]
+    web: [RESTful APIs, FastAPI, Jakarta EE, Angular]
+    databases: [SQL, NoSQL, Snowflake]
+    data: [Databricks, ETL, Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, CI/CD, Git]
+    languages: [Python, Java, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8437828'
+  extracted_at: '2026-03-03T12:28:56.904814'

@@ -1,0 +1,53 @@
+company:
+  name: Innovaccer
+  stage: Series D/E (based on scale - 1,600+ hospitals, 54M patients, $1.5B savings)
+  focus: Healthcare data platform and analytics solutions
+position:
+  title: 3214-Software Development Engineer-I(AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building agentic frameworks,
+      developing AI agents, constructing RAG systems, and
+      deploying ML/DL models including transformers and GANs. The
+      position requires hands-on work with LLMs, fine-tuning, and
+      building generative AI pipelines - all core AI/ML
+      development activities.
+  responsibilities:
+  - Design and build scalable AI platform architecture to support ML development,
+    agentic frameworks, and robust self-serve AI pipelines
+  - Develop agentic frameworks and a catalog of AI agents tailored to healthcare use
+    cases
+  - Design and deploy high-performance, low-latency AI applications
+  - Build and optimize ML/DL models, including generative models like Transformers
+    and GANs
+  - Construct and manage data ingestion and transformation pipelines for scalable
+    AI solutions
+  - Conduct experiments, statistical analysis, and derive insights to guide development
+  - Collaborate with data scientists, engineers, product managers, and business stakeholders
+    to translate AI innovations into real-world applications
+  - Partner with business leaders and clients to understand pain points and co-create
+    scalable AI-driven solutions
+  use_cases:
+  - Personalizing treatments based on clinical and behavioral history of patients
+  - Predictive analytics for healthcare outcomes
+  - Healthcare data insights and decision support
+  - AI agents for healthcare workflow automation
+  - Clinical and operational intelligence
+  skills:
+    genai: [LangChain, CrewAI, Autogen, LLMs, Prompt engineering, Fine-tuning SLMs,
+      RAG, Agentic frameworks, Embedding models]
+    ml: [Transformers, GANs, Reinforcement learning]
+    web: [FastAPI, API development]
+    databases: [FAISS, ChromaDB, Snowflake]
+    data: []
+    cloud: [Databricks, Azure ML, SageMaker, AWS, Azure]
+    ops: [Docker, Kubernetes]
+    languages: [Python, SQL]
+    domains: [Healthcare data]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6872538'
+  extracted_at: '2026-03-03T12:07:47.949694'

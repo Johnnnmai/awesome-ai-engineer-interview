@@ -1,0 +1,53 @@
+company:
+  name: Harman
+  stage: Public
+  focus: |-
+    Connected car, enterprise, and ecosystem technology
+    solutions
+position:
+  title: Foundational Engineer - AI & Machine Learning
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, fine-tuning, and
+      deploying LLMs and GenAI models, developing agentic AI
+      workflows, and implementing RAG-based systems. The engineer
+      works hands-on across the full AI lifecycle from model
+      development to production deployment, making this a clear
+      ai-first role.
+  responsibilities:
+  - Design, train, and optimize ML models for prediction, classification, and analytical
+    use cases
+  - Build, fine-tune, and deploy open-source LLMs including GPT, Llama, Mistral, T5,
+    Falcon, BERT, and ViT
+  - Apply prompt engineering and build RAG-based AI assistants and chatbots
+  - Develop agentic AI workflows using LangChain, LangGraph, CrewAI, Autogen, or PhiData
+  - Deploy and manage models using MLflow, Kubeflow, SageMaker, Docker, and Kubernetes
+  - Monitor model performance, drift, and ensure scalability and robustness in production
+  - Collaborate with cross-functional teams to align ML solutions with business and
+    product goals
+  - Document model architectures, workflows, and experiments
+  use_cases:
+  - Prediction, classification, and analytical use cases using ML models
+  - Conversational AI assistants and chatbots powered by RAG
+  - Autonomous agentic AI workflows for enterprise automation
+  - Generative AI applications using fine-tuned open-source LLMs
+  - Scalable production AI solutions across car, enterprise, and connected ecosystems
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, Autogen, PhiData, RAG, Prompt Engineering,
+      Agentic AI Workflows]
+    ml: [PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, Fine-tuning
+        LLMs, Reinforcement Learning]
+    web: []
+    databases: []
+    data: [Spark, Pandas, NumPy]
+    cloud: [SageMaker, AWS, GCP, Azure]
+    ops: [MLflow, Kubeflow, Docker, Kubernetes, Git]
+    languages: [Python, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9114789'
+  extracted_at: '2026-04-22T14:05:01.559619'

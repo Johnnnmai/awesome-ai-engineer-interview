@@ -1,0 +1,55 @@
+company:
+  name: Renesas Electronics
+  stage: Public
+  focus: |-
+    Automotive semiconductors and SoCs for software-defined
+    vehicles
+position:
+  title: Sr Staff Engineer, AI Compiler
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building AI compilers, graph
+      optimization, and code generation for NPUs - core work ON AI
+      systems. The position focuses on optimizing how AI workloads
+      are compiled and executed on hardware, which is fundamental
+      AI infrastructure work, not support work.
+  responsibilities:
+  - Lead AI compiler architecture across model ingestion, graph optimization, lowering,
+    code generation, and runtime integration
+  - Design and implement graph-level optimizations including operator fusion, quantization-aware
+    rewrites, memory-aware scheduling, and partitioning
+  - Drive performance optimization for target NPUs including tiling, tensor layout,
+    and multi-core execution strategies
+  - Partner with SoC and AI accelerator architects to influence hardware features
+    through compiler insights
+  - Own performance KPIs for real automotive AI workloads using simulators, profilers,
+    and silicon-correlated models
+  - Ensure compiler outputs meet automotive requirements including real-time behavior,
+    determinism, and quality expectations
+  - Mentor senior engineers and set technical direction without people-management
+    responsibilities
+  use_cases:
+  - Perception and sensor fusion for autonomous vehicles
+  - In-vehicle AI assistants
+  - Advanced driver assistance systems (ADAS)
+  - In-vehicle infotainment (IVI)
+  - Automotive gateway and SDV workloads
+  skills:
+    genai: []
+    ml: [MLIR, LLVM, TVM, graph optimization, NPU optimization, CNNs, transformers,
+      AI inference, quantization, operator fusion, tensor layout optimization, multi-core
+        execution, hardware-software co-design, heterogeneous computing]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C++, Python]
+    domains: [automotive functional safety]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8775004'
+  extracted_at: '2026-03-27T15:02:56.721746'

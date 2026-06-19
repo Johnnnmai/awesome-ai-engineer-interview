@@ -1,0 +1,55 @@
+company:
+  name: SmartRecruiters
+  stage: Acquired (by SAP)
+  focus: AI-powered recruiting and talent acquisition platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, designing, and
+      deploying agentic AI workflows, LLM fine-tuning, NLP
+      systems, and autonomous AI agents for conversational
+      recruiting systems. The engineer will architect agentic
+      workflows, lead ML/NLP product development from training to
+      deployment, and drive experimentation with agentic reasoning
+      — all hands-on AI/ML work.
+  responsibilities:
+  - Architect and build agentic workflows combining LLMs, reasoning components, and
+    data pipelines for adaptive conversational systems
+  - Lead design and development of advanced ML/NLP products from ideation to production
+    including training, evaluation, optimization, and deployment
+  - Drive experimentation with new approaches for agentic reasoning, coordination,
+    and autonomous system design
+  - Collaborate with product and engineering teams to integrate intelligent agents
+    into real-world recruiting workflows
+  - Guide technical decisions, mentor engineers, and define best practices for scalable
+    ML systems
+  - Contribute to the evolution of NLP and conversational intelligence stack focusing
+    on reliability and personalization
+  - Identify opportunities to automate, improve, and innovate within the chat-based
+    ecosystem
+  use_cases:
+  - Intelligent conversational AI assistants for recruiting
+  - Agentic workflows for autonomous recruiting task automation
+  - Personalized recruiting and hiring experiences at enterprise scale
+  - NLP-driven chat systems for talent acquisition
+  - Context-aware recruiting agent coordination and reasoning
+  skills:
+    genai: [LLM fine-tuning, Agentic AI workflows, Prompt engineering, Multi-agent
+        systems, Conversational AI]
+    ml: [PyTorch, TensorFlow, scikit-learn, Hugging Face, NLP, Model training and
+        evaluation, Deep learning]
+    web: []
+    databases: []
+    data: [ML pipelines, Data quality management]
+    cloud: []
+    ops: [ML observability, Model deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9108870'
+  extracted_at: '2026-04-22T12:33:39.341324'

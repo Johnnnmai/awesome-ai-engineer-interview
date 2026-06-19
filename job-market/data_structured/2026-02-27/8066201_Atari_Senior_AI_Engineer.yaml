@@ -1,0 +1,57 @@
+company:
+  name: Atari
+  stage: Public
+  focus: |-
+    Video game development and hardware, expanding into AI-
+    driven solutions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and fine-
+      tuning AI/ML systems including LLMs, RAG implementations,
+      and agentic AI systems. The engineer will work hands-on with
+      models, frameworks, and orchestration tools to create
+      production AI systems.
+  responsibilities:
+  - Design, develop, and deploy production AI/ML models for intelligent automation,
+    predictive systems, pattern recognition, and decision support
+  - Research and experiment with state-of-the-art AI techniques including deep learning,
+    NLP, computer vision, and RL
+  - Build and optimize ML infrastructure including training pipelines, model serving,
+    data preprocessing, and monitoring frameworks
+  - Integrate LLMs using LangChain and LlamaIndex to create conversational systems,
+    document processing, and automated workflows
+  - Design agentic AI systems that autonomously interact with tools, APIs, and services
+    for multi-step tasks
+  - Build integrations between AI systems and third-party applications via RESTful
+    APIs, webhooks, and event-driven architectures
+  - Establish ML best practices including versioning, A/B testing, monitoring, and
+    continuous improvement processes
+  - Mentor junior engineers, conduct code reviews, and build strong AI engineering
+    culture
+  use_cases:
+  - Intelligent automation for gaming operations
+  - Predictive analytics and pattern recognition systems
+  - Conversational AI systems and chatbots
+  - Document processing and automated workflows
+  - Cross-platform intelligent automation
+  - Decision support systems
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, Prompt engineering, Agentic AI systems, OpenAI
+        API, Anthropic API]
+    ml: [PyTorch, TensorFlow, scikit-learn, Deep learning, Fine-tuning]
+    web: [RESTful APIs, Microservices]
+    databases: [Pinecone, Weaviate, ChromaDB]
+    data: []
+    cloud: [AWS, Azure, GCP, Azure OpenAI]
+    ops: []
+    languages: [Python, JavaScript, TypeScript]
+    domains: [NLP, Computer Vision, Reinforcement Learning]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8066201'
+  extracted_at: '2026-03-03T12:21:26.108451'

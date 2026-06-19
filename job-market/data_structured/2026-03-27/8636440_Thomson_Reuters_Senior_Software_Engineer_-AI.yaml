@@ -1,0 +1,49 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Legal, tax, accounting, compliance information and software
+    solutions
+position:
+  title: Senior Software Engineer -AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and deploying AI
+      systems including RAG architectures, custom AI agents with
+      multi-step reasoning, and multi-component AI pipelines. The
+      position requires hands-on work integrating AI models into
+      production and adapting models for specialized domains.
+  responsibilities:
+  - Architect and implement advanced AI systems including multi-component pipelines,
+    RAG, and custom AI agents
+  - Integrate AI models into production software through APIs and scalable data pipelines
+  - Adapt AI models and techniques to specialized domains like legal, tax, and compliance
+  - Evaluate and prototype cutting-edge AI techniques to solve business challenges
+  - Contribute to MLOps and LLMOps practices in design and implementation
+  - Implement comprehensive testing frameworks and monitoring systems for AI model
+    performance
+  - Optimize AI system performance considering latency and resource usage
+  - Mentor junior engineers and act as a thought leader in AI technologies
+  use_cases:
+  - Expert solutions for legal professionals
+  - Tax compliance and advisory systems
+  - Risk assessment and management tools
+  - Regulatory compliance automation
+  - Knowledge retrieval and intelligent search across professional domains
+  skills:
+    genai: [RAG, AI agents, OpenAI API, Anthropic API]
+    ml: [PyTorch, TensorFlow, Embeddings]
+    web: [REST APIs]
+    databases: [Vector databases]
+    data: [Data pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, MLOps, LLMOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8636440'
+  extracted_at: '2026-03-27T13:46:41.625906'

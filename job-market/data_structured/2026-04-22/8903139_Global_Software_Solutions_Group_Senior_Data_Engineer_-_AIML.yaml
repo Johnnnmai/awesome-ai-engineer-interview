@@ -1,0 +1,50 @@
+company:
+  name: Global Software Solutions Group
+  stage: Unknown
+  focus: Global software solutions and technology platform services
+position:
+  title: Senior Data Engineer - AI/ML
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is a Senior Data Engineer focused on building data
+      pipelines and infrastructure that enable AI/ML work. While
+      it mentions MLOps/LLMOps collaboration, the core
+      responsibilities center on data streaming, ETL/ELT
+      pipelines, and data platform management — enabling work for
+      data scientists rather than directly building, training, or
+      fine-tuning models.
+  responsibilities:
+  - Design and implement real-time data streaming pipelines using Kafka and related
+    technologies
+  - Build and maintain scalable data engineering solutions on Cloudera Data Platform
+  - Develop and optimize ETL/ELT pipelines for large-scale structured and unstructured
+    data
+  - Collaborate with data scientists to deploy and manage ML models via MLOps/LLMOps
+    frameworks
+  - Implement and manage CI/CD pipelines for data and ML workflows
+  - Work with OpenShift/Kubernetes for containerized deployments
+  - Ensure data quality, governance, and security best practices
+  - Monitor, troubleshoot, and optimize data workflows and infrastructure
+  use_cases:
+  - Real-time data streaming and ingestion for AI/ML systems
+  - MLOps/LLMOps pipeline operationalization and deployment
+  - Scalable data platform management for advanced analytics
+  - AI-driven analytics enablement in banking/financial services
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Data warehousing]
+    data: [Apache Kafka, Cloudera Data Platform, ETL/ELT pipelines, Apache Spark,
+      Hive, Data modeling]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, LLMOps, CI/CD, Jenkins, GitLab, OpenShift, Kubernetes]
+    languages: [Python, Scala, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8903139'
+  extracted_at: '2026-04-22T12:35:08.667751'

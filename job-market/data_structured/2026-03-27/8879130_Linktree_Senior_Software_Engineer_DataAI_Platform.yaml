@@ -1,0 +1,49 @@
+company:
+  name: Linktree
+  stage: Growth stage (implied by 70M+ users, rapid growth, 48,000 new accounts daily)
+  focus: |-
+    Link-in-bio platform for creators to curate, grow, and
+    monetize their digital presence
+position:
+  title: Senior Software Engineer, Data/AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role builds data platforms and infrastructure that
+      SUPPORT AI/ML systems rather than directly building,
+      training, or deploying models. The engineer creates
+      frameworks, tools, and services for ML/AI engineers and data
+      scientists to use, including data pipelines, warehouses, and
+      experimentation platforms. The work enables others to work
+      on AI rather than hands-on model/agent development.
+  responsibilities:
+  - Deliver and apply data, ML, and AI technologies for real-world applications
+  - Build and maintain event ingestion, event SDKs, data warehouses, data pipelines,
+    and data integrations
+  - Design performant, scalable systems for internal teams to self-serve their data
+    needs
+  - Contribute to Linktree's experimentation platform
+  - Evangelize best practices for data, ML, and AI across the company
+  - Drive adoption of data, ML, and AI best practices organization-wide
+  use_cases:
+  - Semantic search for content discovery
+  - Recommender systems for personalized experiences
+  - Content understanding and analysis
+  - Self-serve data platform for internal teams
+  - Experimentation platform for rapid testing and iteration
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Snowflake, data warehousing]
+    data: [dbt, data pipelines, event ingestion]
+    cloud: [AWS]
+    ops: [CDK]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8879130'
+  extracted_at: '2026-03-27T14:14:15.212949'

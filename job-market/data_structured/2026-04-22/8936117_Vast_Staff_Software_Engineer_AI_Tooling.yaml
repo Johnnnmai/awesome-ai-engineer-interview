@@ -1,0 +1,59 @@
+company:
+  name: Vast
+  stage: Private (Post-Series funding, revenue-generating)
+  focus: |-
+    Developing commercial artificial-gravity space stations for
+    human habitation
+position:
+  title: Staff Software Engineer, AI Tooling
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting and building full-stack AI
+      applications, implementing AI pipelines (RAG, content
+      safety, output formatting), integrating LLM APIs, building
+      MCP servers/gateways, and defining the technical direction
+      for AI platforms. The engineer is directly working on
+      building, deploying, and maintaining production AI systems,
+      making this an ai-first role.
+  responsibilities:
+  - Define the technical direction and long-term roadmap for Vast's internal AI platforms
+    and tooling
+  - Architect and lead the development of full-stack AI applications serving diverse
+    use-cases across the company
+  - Establish engineering best practices, design patterns, and quality standards for
+    AI systems development
+  - Build and maintain production-grade integrations connecting AI models with internal
+    tools, data sources, and workflows
+  - Design and implement pipelines for AI response enforcement, content safety, and
+    output formatting
+  - Drive evaluation and adoption of emerging AI frameworks, models, and patterns
+    to improve internal tooling
+  - Collaborate cross-functionally with IT Infrastructure, security, and business
+    stakeholders to integrate AI tooling
+  - Ensure reliability, observability, and scalability of production AI systems
+  use_cases:
+  - Internal AI tooling to support design and build of artificial-gravity human-rated
+    space stations
+  - AI-powered integrations connecting internal tools, data sources, and workflows
+  - Content safety and output formatting pipelines for AI responses
+  - RAG-based knowledge retrieval and question-answering for internal teams
+  - AI platform enabling diverse use-cases across engineering and business functions
+  skills:
+    genai: [LLM API integration, MCP (Model Context Protocol), Prompt engineering,
+      RAG (Retrieval-Augmented Generation), OpenWebUI, AI pipeline development, Large
+        language model architectures]
+    ml: []
+    web: [Svelte, SvelteKit, Full-stack development]
+    databases: [Vector databases]
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8936117'
+  extracted_at: '2026-04-22T14:04:37.783385'

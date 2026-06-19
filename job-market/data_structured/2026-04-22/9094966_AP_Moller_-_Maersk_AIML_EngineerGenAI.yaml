@@ -1,0 +1,59 @@
+company:
+  name: A.P. Moller - Maersk
+  stage: Public
+  focus: Global container shipping and integrated logistics services
+position:
+  title: AI/ML Engineer(GenAI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on designing, building, and
+      deploying Generative AI systems including LLM-powered
+      applications, RAG systems, agentic frameworks, and AI
+      copilots. The engineer will work hands-on with large
+      language models, retrieval-augmented generation, prompt
+      engineering, and AI agents, making this a clear ai-first
+      role.
+  responsibilities:
+  - Design, implement, and deploy production-grade Generative AI solutions that enhance
+    operational intelligence and automation across terminal workflows
+  - Develop LLM-powered systems including retrieval-based reasoning, AI copilots,
+    and task-oriented AI agents for complex operational environments
+  - Design robust data pipelines enabling reliable context retrieval, semantic understanding,
+    and grounded response generation
+  - Build and maintain end-to-end GenAI solution lifecycles from data preparation
+    through deployment, monitoring, and iteration
+  - Implement structured evaluation frameworks to measure output quality, reliability,
+    latency, cost efficiency, and hallucination risk
+  - Enhance system robustness through prompt design, tool integration, validation
+    layers, and guardrail mechanisms
+  - Collaborate with stakeholders to translate operational challenges into structured
+    AI problem statements with measurable success criteria
+  - Own delivery of solutions within defined architectural patterns and engineering
+    standards
+  use_cases:
+  - Automating complex workflows in container terminal operations
+  - Enhancing operational intelligence for global terminal decision-making
+  - Optimizing yard flows and vessel operations through AI-driven insights
+  - Building AI copilots and task-oriented agents for logistics scheduling and optimization
+  - Semantic search and retrieval-based reasoning over terminal operational data
+  - Intelligent decision support for container shipping and supply chain management
+  skills:
+    genai: [LLMs and Transformer architectures, Retrieval-Augmented Generation (RAG),
+      Embedding-based semantic search, Prompt engineering, AI agents, Agentic AI frameworks,
+      Structured reasoning workflows]
+    ml: [Deep Learning, Machine Learning Pipelines]
+    web: []
+    databases: [Vector databases]
+    data: [Statistical Analysis, Data Engineering, Apache Spark]
+    cloud: [Cloud environments]
+    ops: [Docker, CI/CD pipelines, Monitoring and observability, Model Deployment,
+      Version Control]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: [Object-Oriented Programming, Design patterns, Unit testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9094966'
+  extracted_at: '2026-04-22T13:36:39.685896'

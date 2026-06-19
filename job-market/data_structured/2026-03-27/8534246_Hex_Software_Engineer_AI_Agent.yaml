@@ -1,0 +1,46 @@
+company:
+  name: Hex
+  stage: null
+  focus: |-
+    Data analytics and business intelligence platform with
+    integrated AI features
+position:
+  title: Software Engineer, AI Agent
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is building AI-powered features and agents
+      directly - specifically "Magic AI features" and "scalable
+      agent infrastructure powering data agents." The engineer
+      will work on context/model prompting and agent
+      infrastructure, which is hands-on work building and
+      deploying AI systems.
+  responsibilities:
+  - Build AI-powered features for Hex's Magic AI product line
+  - Partner with Research team on context and model prompting strategies
+  - Build and maintain scalable agent infrastructure for data agents
+  - Develop experimentation tooling for rapid AI feature delivery
+  - Integrate AI features across the Hex platform
+  - Collaborate with product engineering teams on platform integration
+  - Lead major product initiatives in the AI/agent space
+  use_cases:
+  - Data analytics workflow augmentation and acceleration
+  - AI-powered data understanding and exploration
+  - Intelligent agents for data analysis tasks
+  - Automated insights and analytics assistance
+  skills:
+    genai: [AI agents, model prompting, agent infrastructure]
+    ml: []
+    web: [React, systems design]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8534246'
+  extracted_at: '2026-03-27T15:41:49.376485'

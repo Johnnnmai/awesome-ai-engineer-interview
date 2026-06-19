@@ -1,0 +1,51 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI
+      systems including foundation model training, LLM inference,
+      optimization techniques, and working with core ML frameworks
+      like PyTorch and Huggingface. The position is hands-on with
+      model development and deployment, not supporting
+      infrastructure or data pipelines.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products that transform
+    customer interactions
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training and LLM inference
+  - Implement similarity search, guardrails, model evaluation, experimentation, governance,
+    and observability systems
+  - Leverage Open Source and SaaS AI technologies including AWS Ultraclusters, Huggingface,
+    VectorDBs, and PyTorch
+  - Invent and apply LLM optimization techniques to improve scalability, cost, latency,
+    and throughput of production AI systems
+  - Contribute to technical vision and long-term roadmap of foundational AI systems
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Fraud detection and unusual charge notifications
+  - Real-time customer question answering and support
+  - AI-powered products for banking associates and customers
+  - Scalable AI infrastructure for enterprise-wide AI deployment
+  skills:
+    genai: [LLM inference, Nemo Guardrails, Guardrails, LLM optimization]
+    ml: [PyTorch, Huggingface, Foundation model training]
+    web: []
+    databases: [VectorDBs, Similarity search]
+    data: []
+    cloud: [AWS, AWS Ultraclusters, Google Cloud, Azure]
+    ops: [Model evaluation, Experimentation, Observability]
+    languages: [Python, Go, Scala, Java, C++, C#, Golang]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8500555'
+  extracted_at: '2026-03-03T11:33:23.644391'

@@ -1,0 +1,52 @@
+company:
+  name: Posh
+  stage: Series B
+  focus: |-
+    Platform for building and discovering IRL communities and
+    events
+position:
+  title: Senior Software Engineer, Backend (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and deploying sophisticated
+      Multi-Agent Systems, building evaluation frameworks, and
+      managing fine-tuning pipelines for AI-powered features. The
+      position explicitly focuses on moving beyond RAG to create
+      autonomous systems, which is hands-on work building and
+      deploying AI/LLM systems.
+  responsibilities:
+  - Design, build, and maintain scalable backend services and APIs for AI-powered
+    features using Python
+  - Architect and implement complex, hierarchical Multi-Agent Systems that perform
+    sophisticated, multi-step tasks
+  - Build robust frameworks to evaluate AI systems quality and manage fine-tuning
+    pipelines
+  - Define, deploy, and manage AI infrastructure using Terraform and container-based
+    serverless solutions
+  - Analyze tradeoffs between model performance, latency, and cost for managed AI
+    services
+  - Collaborate with core engineering teams using TypeScript (Node.js) to integrate
+    AI features into the main application
+  use_cases:
+  - AI-native community building and event discovery experiences
+  - Multi-agent systems for planning real-world experiences
+  - Autonomous user assistance for IRL community engagement
+  - Intelligent personalization for event recommendations
+  - Consumer-facing AI features for marketplace and event-driven platform
+  skills:
+    genai: [LangGraph, CrewAI, Multi-Agent Systems, RAG]
+    ml: [LLM fine-tuning, Model evaluation]
+    web: [Node.js, APIs]
+    databases: []
+    data: []
+    cloud: [GCP, AWS, Azure, Vertex AI, AWS Bedrock, Serverless]
+    ops: [Terraform, LangSmith, RAGAs, Containerization]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8443001'
+  extracted_at: '2026-03-03T11:25:47.068730'

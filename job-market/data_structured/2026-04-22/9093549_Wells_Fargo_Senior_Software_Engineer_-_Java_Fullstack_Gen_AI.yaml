@@ -1,0 +1,47 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: Major multinational banking and financial services company
+position:
+  title: Senior Software Engineer - Java Fullstack, Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires hands-on experience developing
+      solutions leveraging GenAI tools and knowledge of Agentic AI
+      concepts. While the title includes "Java Fullstack" and many
+      responsibilities are general software engineering, the GenAI
+      requirements indicate direct involvement in building AI-
+      powered solutions, making this an ai-first role.
+  responsibilities:
+  - Participate in technology domain projects including installation, upgrades, and
+    deployment efforts
+  - Design, code, test, debug, and document moderately complex projects and programs
+  - Develop solutions leveraging GenAI tools and Agentic AI concepts
+  - Review and analyze technical assignments related to technology domain deliverables
+  - Identify opportunities for service quality and availability improvements
+  - Present recommendations for resolving issues and escalate as needed to meet SLAs
+  - Develop Web APIs and work with ETL and reporting tools
+  - Exercise independent judgment regarding security and compliance requirements
+  use_cases:
+  - GenAI-powered solutions for financial services applications
+  - Agentic AI implementations for enterprise workflows
+  - Automated data processing and reporting within banking domain
+  - Full-stack application development with AI integration
+  skills:
+    genai: [GenAI tools, Agentic AI]
+    ml: []
+    web: [Java Springboot, Angular, Web API development]
+    databases: [Oracle, SQL Server]
+    data: [Kafka, SSIS, SSRS, Tableau]
+    cloud: [Azure, GCP]
+    ops: [Automated testing frameworks, TDD/BDD frameworks, CI/CD, Git, GitHub, Jenkins,
+      DevOps]
+    languages: [Java, SQL]
+    domains: []
+    other: [JIRA/Confluence, Agile delivery]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9093549'
+  extracted_at: '2026-04-22T13:27:32.083865'

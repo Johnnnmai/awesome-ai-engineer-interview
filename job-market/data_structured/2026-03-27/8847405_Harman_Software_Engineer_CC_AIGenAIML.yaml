@@ -1,0 +1,51 @@
+company:
+  name: Harman
+  stage: Public
+  focus: |-
+    Connected car technology, audio systems, and in-vehicle
+    infotainment solutions
+position:
+  title: Software Engineer, C/C++, AI/GenAI/ML
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on improving developer productivity and
+      workflows, with AI-based tools being one component among
+      many automation approaches. The engineer uses existing AI
+      productivity tools to help other developers work more
+      efficiently, rather than building, training, fine-tuning, or
+      deploying AI/ML models themselves.
+  responsibilities:
+  - Analyze software development workflows related to design, implementation, and
+    unit verification to identify inefficiencies
+  - Leverage AI-based productivity tools to improve developer workflows, consistency,
+    and efficiency
+  - Create and maintain dashboards and reports providing visibility into development
+    efficiency and quality metrics
+  - Develop automation and internal tooling solutions that reduce manual effort and
+    improve consistency
+  - Participate in pilots and experiments to validate new tools, automation, or workflow
+    changes
+  - Work closely with development teams to understand real-world pain points and constraints
+  - Share learnings and best practices through documentation and technical discussions
+  use_cases:
+  - Developer productivity improvement and workflow optimization
+  - Automation of software development lifecycle tasks
+  - Engineering efficiency metrics and insights
+  - AI-assisted development tooling
+  skills:
+    genai: [AI-based productivity tools]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD pipelines, DevOps, Git]
+    languages: [C/C++, Python, SQL, Scripting]
+    domains: [Automotive Software Development Frameworks]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8847405'
+  extracted_at: '2026-03-27T13:34:12.300325'

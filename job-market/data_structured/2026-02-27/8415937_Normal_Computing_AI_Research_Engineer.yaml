@@ -1,0 +1,50 @@
+company:
+  name: Normal Computing
+  stage: null
+  focus: |-
+    Foundational software and hardware for semiconductor
+    industry and AI infrastructure
+position:
+  title: AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and implementing
+      agentic LLMs, multi-agent systems, and reinforcement
+      learning approaches for code generation. The position
+      requires hands-on work designing agents, running
+      experiments, and creating research prototypes that get
+      productionized.
+  responsibilities:
+  - Design and implement multi-agent and RL approaches for agentic code generation
+    and tool-use
+  - Build research prototypes that integrate with nectar and collaborate to productionize
+    wins
+  - Create evaluation suites including task specs, pass/fail checkers, coverage, and
+    cost/latency dashboards
+  - Acquire and curate datasets from PDFs, logs, and tables; generate synthetic data;
+    maintain data cards and licensing
+  - Analyze experiments with disciplined ablations; document results and decisions
+  - Stay current on LLM agents, RL techniques, constrained decoding, and program synthesis
+  use_cases:
+  - Agentic code generation tool (nectar) for complex technical documents
+  - Multi-agent systems for code generation and tool-use
+  - Processing chip specifications and semiconductor technical documents
+  - Program synthesis and automated code generation
+  skills:
+    genai: [LangGraph, AutoGen, CrewAI, Constrained Decoding]
+    ml: [PyTorch, JAX, HuggingFace Transformers, Reinforcement Learning, RLHF/RLAIF,
+      CleanRL, RLlib]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Program Synthesis]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8415937'
+  extracted_at: '2026-03-03T12:48:22.617024'

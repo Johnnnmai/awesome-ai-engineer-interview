@@ -1,0 +1,52 @@
+company:
+  name: Future (futureplc.com)
+  stage: Public
+  focus: Global specialist media company with 200+ media brands
+position:
+  title: AI Engineer, Open Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly responsible for designing and
+      implementing AI-driven capabilities including an Auto-
+      Moderation Service using LLMs, RAG, and agentic systems. The
+      engineer will build autonomous agent architectures and embed
+      intelligent agents into the platform's core, which is hands-
+      on work building and deploying AI systems.
+  responsibilities:
+  - Design and implement the Auto-Moderation Service for content safety and brand
+    protection
+  - Build AI-driven capabilities using LLMs and automation frameworks to scale creator
+    workflows
+  - Design autonomous agent architectures with memory, safety guardrails, and task
+    performance capabilities
+  - Integrate intelligent agents and automated decision-making into the platform's
+    core architecture
+  - Collaborate with Full Stack Developers to embed AI services into the Open Platform
+    ecosystem
+  - Implement LLMOps practices including model selection, quality assurance, and performance
+    monitoring
+  - Design and implement process automation solutions using workflow tools and custom
+    scripting
+  use_cases:
+  - Auto-moderation of content for brand safety at scale
+  - Automated content review and approval workflows for creators
+  - Intelligent agent-driven decision making for platform governance
+  - Scaling creator ecosystem from dozens to thousands safely
+  - Automating creator workflow processes
+  skills:
+    genai: [LLMs, RAG, embeddings, CrewAI, LangGraph, Google Gen AI/ADK, Cursor, Copilot]
+    ml: [NLP]
+    web: [REST APIs, GraphQL, microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: [LLMOps, EVALs frameworks, Temporal.io, n8n, Git, CI/CD]
+    languages: [Python, TypeScript, Node.js, Go, Java, PHP]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8848434'
+  extracted_at: '2026-03-27T16:15:07.325178'

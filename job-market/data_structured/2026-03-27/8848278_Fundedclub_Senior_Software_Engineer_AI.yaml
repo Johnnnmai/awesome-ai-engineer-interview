@@ -1,0 +1,52 @@
+company:
+  name: Funded.club
+  stage: Funded startup (early-stage based on WealthTech startup description)
+  focus: |-
+    WealthTech startup transforming financial industry through
+    technology and AI-driven applications
+position:
+  title: Senior Software Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on implementation of AI systems
+      including agentic systems, LLM integration, LangChain
+      frameworks, and AI-powered workflows. While primarily a
+      software engineering role, it directly involves building and
+      deploying AI/ML capabilities rather than just supporting
+      infrastructure for AI work.
+  responsibilities:
+  - Design, develop, and maintain scalable backend systems supporting data-intensive
+    financial applications
+  - Build and optimize high-performance OLTP systems for transaction-heavy workloads
+  - Implement and maintain AI-enabled features, including development of agentic systems
+    and AI-powered workflows
+  - Apply modern AI engineering practices including LLM integration, evaluation frameworks
+    (Evals), and guardrails
+  - Develop services using C#, Python, and Node.js within modern microservice architectures
+  - Work with AWS cloud infrastructure to deploy and manage production-grade services
+  - Contribute to system architecture and design ensuring reliability, scalability,
+    and maintainability
+  - Collaborate with data and engineering teams on data pipeline and OLAP system design
+  use_cases:
+  - AI-powered financial applications and workflows
+  - Agentic systems for financial services
+  - WealthTech platform with intelligent automation
+  - Transaction processing and financial data systems
+  - Scalable financial infrastructure with AI capabilities
+  skills:
+    genai: [LangChain, LLM integration, Agentic systems, Evals, Guardrails]
+    ml: []
+    web: [Microservice architectures]
+    databases: [OLTP systems, OLAP system design]
+    data: [Data pipelines]
+    cloud: [AWS]
+    ops: [Distributed systems]
+    languages: [C#, Python, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8848278'
+  extracted_at: '2026-03-27T15:05:17.147640'

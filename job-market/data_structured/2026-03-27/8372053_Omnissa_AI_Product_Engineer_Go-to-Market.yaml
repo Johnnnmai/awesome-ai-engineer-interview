@@ -1,0 +1,53 @@
+company:
+  name: Omnissa
+  stage: Private Equity backed
+  focus: |-
+    End User Computing solutions (Workspace ONE, Horizon) for
+    secure digital workspaces
+position:
+  title: AI Product Engineer, Go-to-Market
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly working with AI agents and LLMs
+      to build and deploy software solutions. The engineer manages
+      AI agents (Salesforce Agentforce, Cursor.ai) to autonomously
+      generate, test, and deploy code, requiring deep
+      understanding of how to prompt and orchestrate LLMs for
+      complex architectural logic.
+  responsibilities:
+  - Partner with Product Management to deconstruct business requirements into technical
+    specifications and solution designs
+  - Manage and direct AI agents (Cursor.ai, Salesforce Agentforce) as digital workforce
+    to generate, test, and deploy code
+  - Design, develop, and deploy features on Salesforce platform using APEX, LWC, and
+    AI frameworks
+  - Own execution of product backlog, reviewing and refining AI-generated code for
+    quality, security, and efficiency
+  - Collaborate cross-functionally with Product Management and Go-to-Market teams
+    to demonstrate prototypes and iterate on feedback
+  - Monitor and evaluate performance of Customer Success systems including AI agents
+    and automated workflows
+  use_cases:
+  - Go-to-Market automation for Marketing, Sales, Customer Success, and Support organizations
+  - Salesforce platform development (Sales Cloud, Service Cloud) using AI-assisted
+    code generation
+  - Customer Success system automation and optimization
+  - Internal application development for Back Office and Front Office IT systems
+  skills:
+    genai: [Salesforce Agentforce, Cursor.ai, Claude Code, OpenAI Codex, LLM orchestration,
+      prompt engineering]
+    ml: []
+    web: [Salesforce Lightning Web Components (LWC)]
+    databases: []
+    data: []
+    cloud: [Sales Cloud, Service Cloud]
+    ops: []
+    languages: [Salesforce APEX]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8372053'
+  extracted_at: '2026-03-27T15:12:27.736014'

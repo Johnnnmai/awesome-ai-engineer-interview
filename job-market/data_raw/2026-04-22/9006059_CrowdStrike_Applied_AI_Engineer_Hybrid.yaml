@@ -1,0 +1,179 @@
+job_id: 9006059
+title: Applied AI Engineer (Hybrid)
+company: CrowdStrike
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Go
+  - JavaScript
+  - Langchain
+  - Langgraph
+  - Mcp
+  - Python
+  - React
+company_size: 10,000 Employees
+description: |
+  As a global leader in cybersecurity, CrowdStrike protects
+  the people, processes and technologies that drive modern
+  organizations. Since 2011, our mission hasn’t changed —
+  we’re here to stop breaches, and we’ve redefined modern
+  security with the world’s most advanced AI-native platform.
+  We work on large scale distributed systems, processing
+  almost 3 trillion events per day and this traffic is growing
+  daily. Our customers span all industries, and they count on
+  CrowdStrike to keep their businesses running, their
+  communities safe and their lives moving forward. We’re also
+  a mission-driven company. We cultivate a culture that gives
+  every CrowdStriker both the flexibility and autonomy to own
+  their careers. We’re always looking to add talented
+  CrowdStrikers to the team who have limitless passion, a
+  relentless focus on innovation and a fanatical commitment to
+  our customers, our community and each other. Ready to join a
+  mission that matters? The future of cybersecurity starts
+  with you.
+  
+  About the Role:
+  
+  We are building an AI-first applied engineering team focused
+  on transforming how operations and infrastructure teams work
+  at scale. As a Senior Applied AI Engineer, you will take
+  cutting-edge AI methods and turn them into production
+  systems that directly improve reliability, velocity, and
+  efficiency for engineering organizations.
+  
+  This role requires a blend of deep AI engineering expertise
+  and strong software engineering discipline. You will work
+  with LLMs, orchestration frameworks (LangChain, LangGraph,
+  MCP), retrieval pipelines, and evaluation harnesses to build
+  copilots, automated decision engines, and large-scale
+  migration frameworks. You’ll be responsible for ensuring
+  these systems are trustworthy, measurable, and safe—with
+  clear evaluation gates, grounding, and hallucination
+  detection before rollout.
+  
+  Success in this role means moving beyond prototypes and
+  delivering AI applications that engineers rely on daily:
+  copilots that triage incidents, systems that recommend
+  adaptive configurations, services that automate multi-repo
+  code migrations, and evaluators that keep models
+  accountable. You will collaborate closely with SRE,
+  Security, and various Infrastructure Foundations teams.
+  
+  What You’ll Do:
+  
+  - Build and ship LLM-powered systems that reduce toil,
+    accelerate remediation, and improve decision-making in
+    operations contexts.
+  - Design and maintain evaluation frameworks: hallucination
+    tests, regression harnesses, benchmarks, and quality gates
+    for safe rollout.
+  - Develop retrieval-augmented pipelines (RAG) and data
+    strategies for grounding on logs, telemetry, runbooks, and
+    system metadata.
+  - Engineer AI copilots and natural-language interfaces to
+    interact with operational data and workflows.
+  - Create frameworks for large-scale automation such as safe
+    code migration and transformation pipelines.
+  - Apply adaptive AI techniques to optimize system
+    configurations, predict anomalies, and recommend
+    preventive actions.
+  - Partner across teams — collaborate with AI Platform
+    (inference/serving), SRE/Infra/Data Service/DC
+    (operational context), and Security (safe usage) while
+    focusing your work on application logic, correctness,
+    evaluation, and safety.
+  - Implement guardrails and safety systems: prompt injection
+    defenses, PII filtering, constrained decoding, and model
+    observability.
+  - Build developer-facing SDKs and APIs in Python/Go;intuitive
+    UIs in JavaScript/React for human-in-the-loop workflows.
+  - Leverage modern orchestration frameworks (LangChain,
+    LangGraph, MCP, semantic routers) to coordinate multi-
+    step, tool-augmented workflows.
+  
+  What You'll Need:
+  
+  - 6+ years of total experience in development with strong
+    programming skills in JS, Python or Go.Proven experience
+    shipping LLM-based systems into production with measurable
+    impact.
+  - Expertise in evaluation and testing of LLMs (benchmarks,
+    hallucination/regression tests, grounding metrics).
+  - Hands-on experience with LLM orchestration frameworks:
+    LangChain, LangGraph, MCP, agent frameworks, or
+    equivalent.
+  - Deep understanding of RAG pipelines: embeddings, retrieval
+    quality metrics, re-ranking, and grounding
+    precision/recall.
+  - Ability to translate ambiguous operational problems into AI-
+    first solutions with clear KPIs.
+  
+  Bonus:
+  
+  - Experience with fine-tuning/adapters (LoRA, QLoRA, continual
+    learning) and safety tuning.
+  - Exposure to inference optimization and serving, partnering
+    with platform teams on latency, scaling, and resilience.
+  - Experience building AI copilots/assistants for engineers.
+  - Frontend development in JavaScript/React for lightweight
+    human-in-the-loop tooling.
+  - Knowledge of reinforcement learning, adaptive systems, or
+    optimization methods
+  
+  #LI-SM2
+  
+  #LI-VJ1
+  
+  Benefits of Working at CrowdStrike:
+  
+  - Market leader in compensation and equity awards
+  - Comprehensive physical and mental wellness programs
+  - Competitive vacation and holidays for recharge
+  - Paid parental and adoption leaves
+  - Professional development opportunities for all employees
+    regardless of level or role
+  - Employee Networks, geographic neighborhood groups, and
+    volunteer opportunities to build connections
+  - Vibrant office culture with world class amenities
+  - Great Place to Work Certified™ across the globe
+  
+  CrowdStrike is proud to be an equal opportunity employer. We
+  are committed to fostering a culture of belonging where
+  everyone is valued for who they are and empowered to
+  succeed. We support veterans and individuals with
+  disabilities through our affirmative action program.
+  
+  CrowdStrike is committed to providing equal employment
+  opportunity for all employees and applicants for employment.
+  The Company does not discriminate in employment
+  opportunities or practices on the basis of race, color,
+  creed, ethnicity, religion, sex (including pregnancy or
+  pregnancy-related medical conditions), sexual orientation,
+  gender identity, marital or family status, veteran status,
+  age, national origin, ancestry, physical disability
+  (including HIV and AIDS), mental disability, medical
+  condition, genetic information, membership or activity in a
+  local human rights commission, status with regard to public
+  assistance, or any other characteristic protected by law. We
+  base all employment decisions--including recruitment,
+  selection, training, compensation, benefits, discipline,
+  promotions, transfers, lay-offs, return from lay-off,
+  terminations and social/recreational programs--on valid job
+  requirements.
+  
+  If you need assistance accessing or reviewing the
+  information on this website or need help submitting an
+  application for employment or requesting an accommodation,
+  please contact us at recruiting@crowdstrike.com for further
+  assistance.
+industries:
+  - Cloud
+  - Computer Vision
+  - Information Technology
+  - Sales
+  - Security
+  - Cybersecurity
+posted_date: 2026-04-09
+url: "https://builtin.com/job/applied-ai-engineer-hybrid/9006059"
+source: Built In

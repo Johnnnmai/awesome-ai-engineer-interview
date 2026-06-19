@@ -1,0 +1,185 @@
+job_id: 9028431
+title: "Staff Software Engineer, AI & Automation"
+company: Gladly
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Go
+  - Postgres
+  - React
+  - Typescript
+description: |
+  About Gladly
+  
+  For business leaders who want to get AI right, Gladly is the
+  only customer experience AI that delivers the cost savings
+  they need AND the customer devotion that drives lasting
+  business value. With over a decade of singular CX focus and
+  trusted by the world's most customer-centric brands
+  including Crate & Barrel, Breeze Airways, and Ulta Beauty,
+  Gladly was designed for devotion, not deflection: purpose-
+  built to engage customers and turn every conversation into
+  lasting relationship equity. The result is experiences that
+  are radically personal and effortlessly scalable,
+  emotionally intelligent and operationally efficient.
+  
+  At the heart of our simply powerful platform, Gladly
+  maintains one continuous conversation across all channels
+  while striking the perfect balance of AI and human
+  connection. With 300M+ conversations powered globally,
+  $510M+ cumulative cost savings delivered for customers, and
+  a 65% increase in CSAT scores, this is a team where your
+  work has real impact at scale. Learn more at www.gladly.ai.
+  
+  The Team
+  
+  The AI Knowledge team owns the surface that makes Gladly's
+  AI actually useful. Our AI is only as good as what it can
+  see and what it can do, and we control both. We build the
+  integrations that give the AI real-world context (customer
+  data, product catalogs, external systems) and the
+  integrations that let it take action on a customer's behalf.
+  If the AI can look up an order, check inventory, or trigger
+  a return, our team built the path.
+  
+  We provide all the Knowledge and Connectors that our AI
+  needs to be effective. We are a small, senior team that
+  ships fast, debates openly, and goes deep on root causes. We
+  over-communicate, we care about the craft, and we expect a
+  lot of each other. If you want a front-row seat to how AI
+  gets applied in a real product at real scale, this is the
+  team.
+  
+  The Opportunity
+  
+  We are looking for a Staff Software Engineer, ideally
+  bordering on Principal, to be the most senior individual
+  contributor on the AI Knowledge team. This is a deeply
+  technical, high-autonomy seat, not a management role. You
+  will own the full connector and knowledge surface that feeds
+  Gladly's AI, and you will set the direction for how that
+  surface evolves over time.
+  
+  Your first six months will likely center on two things:
+  making the actions our AI can take easier for customers to
+  configure and extend, and building tooling that lets
+  customers stand up new integrations without writing custom
+  code. You will work shoulder to shoulder with product,
+  design, and customer-facing teams, and you will have real
+  customers on the other end of your decisions.
+  
+  You are the kind of engineer who owns problems end to end,
+  keeps digging when everyone else has accepted an answer, and
+  raises the bar of the team around you without being asked.
+  You are comfortable moving between domains, you enjoy
+  mentoring, and you use AI coding tools every day because
+  they make you faster, not because it is trendy.
+  
+  What You'll Do
+  
+  - Own the integration architecture. Set the technical
+    direction for how external systems connect to Gladly's AI.
+    Evolve what exists, design what doesn't, and know when to
+    do which.
+  - Build the connective tissue for AI. The LLM needs context to
+    be useful and pathways to take action. You will build
+    both, expanding what the AI can see and what it can do
+    across the customer's full tech stack.
+  - Solve product-level problems, not just technical ones.
+    Partner with product and design on how integrations should
+    feel for customers, not just how they work under the hood.
+    Your work does not stop at the API boundary.
+  - Ship at a high bar, fast. Features go from idea to
+    production with direct input from customers like Crate &
+    Barrel and REI. You will build, iterate, and ship, not
+    design in a vacuum.
+  - Mentor and raise the bar. Demo your work, share what you
+    learn, and help Senior engineers grow into Staff. You will
+    be the senior technical IC the rest of the team looks to.
+  - Collaborate across the company. Work closely with product
+    managers, designers, and customer-facing teams to solve
+    problems that matter to the business.
+  
+  What We're Looking For
+  
+  - 8+ years of full-stack engineering experience with a track
+    record of shipping large-scale product. Comfortable across
+    the stack.
+  - Proven Staff or Principal-level ownership. You have owned
+    domains end to end, made architectural decisions
+    independently, and driven projects to completion with
+    minimal oversight.
+  - Daily, hands-on use of AI coding tools (Copilot, Cursor,
+    Claude, or similar) as part of how you build. You have
+    opinions on where they help, where they get in the way,
+    and when to override them.
+  - A strong track record of turning ambiguous ideas into
+    shipped product, especially in 0-to-1 settings.
+  - Deep experience with, or real willingness to learn,
+    TypeScript, React, Go, and PostgreSQL.
+  - The ability to go deep on root cause rather than stopping at
+    the first plausible answer. You are the person others
+    bring the hardest bugs to.
+  - Strong communication skills. You can zoom out and explain a
+    system at a high level of abstraction, and zoom in and
+    debug a specific behavior in the code.
+  - A customer-centric mindset. You care about what you are
+    building and who you are building it for.
+  
+  Bonus Points For
+  
+  - Experience building integration platforms, API ecosystems,
+    or developer-facing tools
+  - Familiarity with protocols like MCP (Model Context Protocol)
+    or similar LLM integration patterns
+  - Hands-on experience with LLMs (OpenAI, Claude, etc.),
+    embeddings, or vector search in production
+  - Familiarity with operational tools like DataDog, SumoLogic,
+    and LangSmith
+  - Open source work, public talks, or thought leadership in AI
+    or engineering
+  
+  Compensation
+  
+  $183,000 to $246,000 annual salary + equity + benefits
+  
+  For cash compensation, we set standard ranges for all
+  U.S.-based roles based on function, level, and geographic
+  location, benchmarked against similar-stage growth
+  companies. In order to be compliant with local legislation,
+  as well as to provide greater transparency to candidates, we
+  share salary ranges on all job postings regardless of
+  desired hiring location. Final offer amounts are determined
+  by multiple factors, including geographic location as well
+  as candidate experience and expertise, and may vary from the
+  amounts listed above.
+  
+  Why Join Gladly?
+  
+  Gladly is redefining customer experience AI — designed for
+  devotion, not deflection. We put people at the center of
+  everything we build, from our platform to our culture. When
+  you join us, you'll enjoy:
+  
+  - Competitive salaries, stock options, and comprehensive
+    benefits
+  - Generous paid time off, parental leave, and home office
+    stipends
+  - A fully remote work environment with opportunities for in-
+    person team gatherings
+  - A strong commitment to professional growth and an inclusive
+    workplace where diverse perspectives thrive
+  - A company where AI is not a buzzword. We build AI products
+    and we expect our team to use AI tools daily
+  
+  We're a team that believes in transparency, collaboration,
+  and the idea that the best work happens when talented people
+  genuinely enjoy working together. Top talent, good vibes, no
+  politics. If this role excites you but you don't meet every
+  qualification, we still encourage you to apply. The
+  perspectives and experiences you bring matter more than
+  checking every box.
+posted_date: 2026-04-13
+url: "https://www.builtinla.com/job/staff-software-engineer-ai-automation/9028431"
+source: Built In

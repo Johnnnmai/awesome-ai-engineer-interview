@@ -1,0 +1,52 @@
+company:
+  name: Riverflex
+  stage: Unknown
+  focus: Digital product consulting and software development
+position:
+  title: AI Full Stack/Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires hands-on experience
+      implementing LLM APIs and developing RAG applications,
+      including work with embeddings and vector search. While the
+      job title says "Full Stack/Product Engineer," the AI-
+      specific requirements (LLM APIs, RAG, embeddings, vector
+      search) indicate direct work building AI-powered features,
+      making this ai-first.
+  responsibilities:
+  - Design and develop scalable web applications using modern front-end and back-end
+    technologies (React, Node.js, Python)
+  - Take ownership of the full software development lifecycle, including architecture,
+    development, testing, and deployment
+  - Write clean, well-documented, and testable code following best practices
+  - Collaborate with designers, product managers, and clients to shape features from
+    concept to implementation
+  - Review code, mentor junior engineers, and contribute to improving engineering
+    practices
+  - Integrate third-party APIs and services securely and efficiently, including LLM
+    APIs
+  - Drive continuous delivery and DevOps improvements (CI/CD, cloud infra-as-code,
+    automated testing)
+  - Contribute to technical documentation and team knowledge-sharing
+  use_cases:
+  - RAG-powered applications using embeddings and vector search
+  - Client-facing digital products leveraging AI capabilities
+  - Internal tools and prototypes using LLM integration
+  - Business transformation solutions across industries
+  skills:
+    genai: [LLM APIs, RAG, Embeddings]
+    ml: []
+    web: [React, Node.js, Vue, RESTful APIs, Microservices]
+    databases: [PostgreSQL, MongoDB, Vector Search]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9082874'
+  extracted_at: '2026-04-22T14:03:07.198580'

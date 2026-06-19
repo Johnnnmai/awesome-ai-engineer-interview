@@ -1,0 +1,46 @@
+company:
+  name: eBay
+  stage: Public
+  focus: Global ecommerce marketplace connecting buyers and sellers
+position:
+  title: AI/ML Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying ML models
+      and GenAI tools in production environments. The position
+      requires hands-on experience with PyTorch, TensorFlow, and
+      LLMs for developing AI-driven compliance detection systems.
+  responsibilities:
+  - Build large-scale applications, low-latency APIs, data pipelines, and foundational
+    architectures supporting business operations
+  - Design and implement highly configurable, metadata-driven platforms for ingesting
+    attributes, rules, models, and policies
+  - Develop machine learning models and GenAI tools to generate insights and improve
+    customer experiences
+  - Partner with architects, business leaders, and industry experts on scalable solutions
+  - Own the entire software lifecycle including design, development, testing, and
+    experimentation
+  - Mentor and lead junior team members
+  use_cases:
+  - Automated detection of prohibited and restricted items on marketplace
+  - Counterfeit product identification and compliance
+  - Regulatory compliance monitoring across 190+ markets
+  - Platform trust and safety enforcement
+  - Customer protection through AI-driven item assessment
+  skills:
+    genai: [LLMs, GenAI]
+    ml: [PyTorch, TensorFlow]
+    web: [RESTful APIs, GraphQL]
+    databases: [SQL, NoSQL]
+    data: [Spark, Flink, Kafka, Hadoop, HDFS, MapReduce, Hive]
+    cloud: []
+    ops: []
+    languages: [Java, Scala, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6638229'
+  extracted_at: '2026-03-03T12:50:34.750673'

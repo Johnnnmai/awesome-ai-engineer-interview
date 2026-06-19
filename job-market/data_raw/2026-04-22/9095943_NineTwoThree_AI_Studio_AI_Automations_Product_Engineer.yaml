@@ -1,0 +1,254 @@
+job_id: 9095943
+title: AI Automations Product Engineer
+company: NineTwoThree AI Studio
+location: 
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AI
+  - Ai-Augmented Low-Code Platforms
+  - Anthropic Api
+  - Aws Lambda
+  - Claude Code
+  - Fastapi
+  - Gradio
+  - Python
+company_size: 52 Employees
+description: |
+  NineTwoThree AI Studio is a premier product design,
+  engineering, and marketing firm specializing in custom AI,
+  web, and mobile applications for established brands and
+  funded startups. We are based in Massachusetts but with an
+  American and European staff and a strong, collaborative
+  remote culture.
+  
+  We’re a team that loves doing good work with great people.
+  Our relatively small size keeps us fast and nimble. The
+  wealth of knowledge, experience and talent paired with
+  proven recipes and best practices allows us to find
+  opportunities to help new products succeed.
+  
+  With a portfolio of over 150 launched products over 13
+  years, NineTwoThree has garnered recognition as a top AI
+  agency in the U.S., earning accolades such as inclusion in
+  the Inc. 5000 list for four consecutive years and being
+  named among the top 50 AI firms alongside industry leaders
+  like Microsoft, NVIDIA, and IBM. We’ve built AI and ML tech
+  for big brands like Consumer Reports, FanDuel, and Nara, as
+  well as startups in legal tech, logistics, education, and
+  more.
+  
+  Job description
+  
+  Building, shipping, and supporting AI-powered tools and
+  automations for 923 AI Automation clients. The role sits at
+  the intersection of product thinking and AI engineering —
+  closer to “product manager who builds confidently with
+  modern AI development tools” than “AI research engineer.”
+  You'll work with tools like Claude Code, the Anthropic API,
+  and AI-augmented low-code platforms to deliver real systems
+  to real clients, end-to-end.
+  
+  You'll probably enjoy this role if you:
+  
+  - Like framing complex, ambiguous problems and working through
+    them to clear solutions
+  - Enjoy ideating, building, and seeing things ship — then
+    explaining clearly how and why they work
+  - Prefer direct interaction with a mentor over distant
+    management
+  - Want autonomy and trust, not oversight for its own sake
+  - Want to understand why you're building something, not just
+    what to build
+  - Are energised by seeing the whole picture — how a project
+    connects to a client's business, a team's operations, and
+    an emerging practice
+  
+  You'll probably find this role frustrating if you:
+  
+  - Prefer to work deep in code with minimal client or
+    stakeholder contact — the role sits in the middle of
+    client delivery, not behind it
+  - Are looking for a role with highly structured processes,
+    detailed specifications, and predictable work — this
+    department is actively shaping its own way of working, and
+    the person in this seat will be part of that shaping
+  
+  Requirements1. Strategy & Growth
+  
+  - Pattern Contribution — Surfacing new approaches, tools, and
+    workflows discovered during client delivery, and
+    contributing them to the department's knowledge base and
+    operating models. Ideas are validated on real client work
+    before they become standard.
+  - Continuous R&D — Spending dedicated, reported hours testing
+    new AI tools, models, and frameworks relevant to active or
+    upcoming client work. Findings are shared with the
+    Practice Lead and the wider department.
+  - Practice Building — Helping shape the way the department
+    works as it scales — contributing to project templates,
+    runbooks, evaluation approaches, and reusable components
+    seeded from real delivered work.
+  
+  2. Solutions Engineering & Client Delivery
+  
+  This is the centre of gravity of the role. You'll be working
+  alongside the Practice Lead and Account Manager on scoping,
+  shaping, and solutioning new client engagements, then owning
+  the delivery against those shaped briefs.
+  
+  - Discovery & Shaping Support — Joining discovery calls and
+    shaping sessions with the Practice Lead to translate vague
+    business problems into viable AI-driven solutions.
+    Initially, you'll join these calls to learn the pattern;
+    over time, you'll take more of them directly as direction
+    and confidence grow.
+  - Technical Feasibility — Evaluating client data, systems, and
+    APIs to determine what's genuinely achievable within a
+    proposed time budget. Flagging risks, rabbit holes, and
+    integration blockers early, before commitments are made to
+    the client.
+  - Demo Build-Out — Building working demos for prospective
+    clients that demonstrate the proposed solution against
+    their real problem, ready to be presented on proposal
+    calls.
+  - Proposal & Scope Input — Contributing technical detail to
+    proposals and statements of work — architecture approach,
+    milestones, success criteria — which the Practice Lead
+    translates into client-facing documents.
+  - Client Onboarding & Education — Helping client teams
+    understand and confidently use the systems we deliver.
+    This includes walkthroughs, training sessions where
+    relevant, and clear handover documentation.
+  
+  3. Technical Execution
+  
+  You'll own the technical delivery of client projects end-to-
+  end, inside the department's established approach.
+  
+  - Project Setup & Architecture — Standing up new client
+    projects — repository, environments, tooling, third-party
+    accounts — following the department's conventions.
+    Designing the architecture of individual projects in line
+    with 923's engineering and deployment standards.
+  - System & Process Design — Designing the end-to-end system:
+    how data flows in, how AI components fit into the
+    pipeline, where humans sit in the loop, what the output
+    looks like, and how the user actually engages with it.
+    Thinking in terms of the job the system does for the
+    client, not just the components that make it up.
+  - Agentic Design & Trade-offs — Making considered decisions
+    about when to use agentic approaches versus deterministic
+    pipelines versus human-in-the-loop steps. Understanding
+    the trade-offs and being able to explain them clearly to
+    the Practice Lead and to clients.
+  - Hands-on Build — Writing the code that makes the system
+    work, using AI development tools fluently. Python-first
+    stack, typically lightweight web frameworks (FastAPI,
+    Gradio) and serverless runtimes (AWS Lambda). AI-augmented
+    practice is expected and welcomed - the role is defined by
+    what ships, and real  progress for our clients.
+  - Prompt Engineering & Model Selection — Designing and
+    refining the prompts, system instructions, and model
+    choices that drive AI behaviour. Balancing accuracy, cost,
+    latency, and privacy against the client's real
+    constraints.
+  - Data Engineering — Cleaning, structuring, and processing
+    client data into a form the AI layer can work with.
+    Building the ingestion and processing layers that feed the
+    AI components.
+  - Deployment — Working directly with 923's DevOps team to
+    deploy services to client cloud accounts following 923's
+    deployment standards — source control conventions, commit
+    and PR protocols, secrets management, environment setup,
+    and handover protocols.
+  - Validation Before Production — Testing AI outputs against
+    real client data before go-live. Building the dry-run and
+    validation patterns that let clients sign off on output
+    quality before we enable production writes. Post-
+    deployment observability is set up to 923 standards.
+  
+  4. Project & Quality Management
+  
+  - Project Tracking — Working from the department's Monday.com
+    board, following established task, branch, and PR
+    conventions. Tickets are written by the Practice Lead
+    during onboarding; over time, you'll draft your own and
+    the Practice Lead will review.
+  - Client Communication — Joining and running technical
+    portions of weekly client meetings. Initially alongside
+    the Practice Lead and Account Manager; over time, running
+    technical calls solo where the direction is clear. The
+    Account Manager owns the relationship; you own technical
+    clarity.
+  - Code Review — Submitting clean PRs that pass pre-commit
+    checks and link to tracked work. Engaging in constructive,
+    question-based review with the Practice Lead and 923
+    engineering peers.
+  - Quality Assurance — Testing AI outputs for failure modes,
+    hallucinations, and edge-case behaviour before anything
+    reaches a client. Implementing the validation patterns the
+    department uses to build client trust.
+  - Handover & Documentation — Completing the delivery checklist
+    before any project closes — documented architecture,
+    credentials handover, runbook, walkthrough video, and
+    third-party account transfer to client billing.
+  
+  5. Working Inside the Department
+  
+  The department is small, AI-augmented, and shaping its own
+  way of working as it scales. There's a clear mechanism for
+  new ideas and patterns to become part of how we work —
+  they're tried on real client projects, validated, and then
+  adopted. Until they are, we work the way we work. That's not
+  a constraint on creativity; it's how we stay coherent as a
+  team while we grow.
+  
+  - Tooling — Using the department's stack — Monday.com for
+    tasks, Notion for capture, Harvest for time, Slack for
+    communication, Fathom for meeting intelligence, the
+    department's Claude skill library for recurring workflows.
+    Friction with the tooling is surfaced to the Practice Lead
+    rather than worked around.
+  - Idea Flow — Ideas, improvements, and concerns flow through
+    the Practice Lead, who carries them forward to the wider
+    923 leadership team as appropriate.
+  - Documentation — Contributing to the department's operating
+    model and shared framework as patterns stabilise from real
+    delivery.
+  
+  Benefits
+  
+  - 100% remote job
+  
+  - Annual paid vacation: 20 working days per year during the
+    first 3 years, further increasing to 25 days in later
+    years
+  - Paid sick leave and holidays
+  - Reimbursement of expenses for professional development
+    courses/certifications (up to 100% in agreement with the
+    Manager)
+  - Well-being budget
+  - Team and atmosphere: we hire people we trust, so you'll be
+    the part of a strong positive engineering culture, a
+    tightly-knit team of professionals with a good sense of
+    humor
+  
+  Hiring process:
+  
+  We value your time and ours and make the process fast and
+  easy. Our interview process takes the following steps: HR
+  interview, test challenge, second interview with Practice
+  Lead and CTO, third interview with CEO (optional), Offer.
+  
+  Join us!
+industries:
+  - Artificial Intelligence
+  - Marketing Tech
+  - Mobile
+  - Software
+  - Design
+  - App development
+posted_date: 2026-04-20
+url: "https://builtin.com/job/ai-automations-product-engineer/9095943"
+source: Built In

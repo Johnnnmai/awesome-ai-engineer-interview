@@ -1,0 +1,55 @@
+company:
+  name: athenahealth
+  stage: null
+  focus: |-
+    Healthcare IT solutions and revenue cycle management
+    analytics
+position:
+  title: SMTS - Java Fullstack Engineer with AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on ML work including designing and
+      developing ML models, training, testing, and validating
+      models using frameworks, feature engineering, and selecting
+      appropriate ML/DL models. While it's a fullstack role, the
+      AI/ML responsibilities go beyond support—they involve actual
+      model development and deployment.
+  responsibilities:
+  - Own the complete design, development, and implementation of assigned areas
+  - Design, develop, implement, and support solutions built on Java and Angular
+  - Design and develop machine learning models and AI solutions to address business
+    problems
+  - Select appropriate machine learning or deep learning models based on problem context
+    and data availability
+  - Develop, train, test, and validate models using established methodologies and
+    frameworks
+  - Collaborate with analytics teams, developers, and domain experts to acquire, clean,
+    and preprocess large datasets
+  - Conduct feature engineering and exploratory data analysis to ensure data quality
+    and model readiness
+  - Apply security-first mindset in design and development with compliance to data
+    privacy regulations
+  use_cases:
+  - Revenue Cycle Management (RCM) analytics and outcomes improvement
+  - Healthcare IT solutions for providers
+  - AI-driven solutions for complex customer challenges
+  - Advanced analytics for business growth
+  - Customer experience enhancement through AI-based solutions
+  skills:
+    genai: []
+    ml: [Machine Learning Algorithms, Statistical Modelling, Deep Learning, Feature
+        Engineering]
+    web: [Spring Boot, Angular]
+    databases: [SQL Server, RDBMS]
+    data: [Power BI, SSAS, Exploratory Data Analysis]
+    cloud: []
+    ops: [Test Automation]
+    languages: [Java, Python]
+    domains: []
+    other: [Object-Oriented Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8065993'
+  extracted_at: '2026-03-03T12:52:11.474936'

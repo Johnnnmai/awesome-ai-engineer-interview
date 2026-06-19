@@ -1,0 +1,195 @@
+job_id: 8887579
+title: "Senior Principal Data and AI Engineer- R&D IT"
+company: NXP Semiconductors
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - AWS
+  - Azure
+  - Data Governance Frameworks
+  - Flink
+  - GCP
+  - Genai
+  - Hadoop
+  - Kafka
+  - Ml
+company_size: 21,993 Employees
+description: |
+  Shape the future of AI-powered R&D at NXP
+  
+  Are you ready to build the next generation of data and AI
+  platforms at NXP?
+  
+  As a Data & AI Engineering Lead, you will play a pivotal
+  role in accelerating and optimizing NXP’s New Product
+  Introductions by designing, implementing, and
+  operationalizing advanced, production-grade data and AI
+  solutions. Your work will empower R&D teams with scalable
+  platforms, intelligent assistants, and automated workflows
+  that turn complex data into actionable insights.
+  
+  Working closely with data engineers, data scientists,
+  solution architects, and domain experts, you will help
+  define the future of data & AI capabilities within NXP R&D.
+  You will take ownership of delivering robust, secure, and
+  highly available data and AI applications used across the
+  engineering organization.
+  
+  What you will do as a Data & AI Engineering Lead at NXP
+  
+  As a senior technical leader within the team, you will shape
+  and evolve the R&D data platform and AI solutions owned by
+  this group. You will explore new ideas, modernize existing
+  capabilities, and drive the platform forward through
+  architectural leadership, hands-on delivery, and close
+  collaboration across disciplines.
+  
+  Your key responsibilities
+  
+  - Product Ownership & Backlog Contribution: Support the
+    definition and evolution of the technical roadmap by
+    translating R&D needs into well-scoped, prioritized
+    backlog items, providing technical input to
+    prioritization, and ensuring reliability, security, cost,
+    and operational improvements are explicitly represented.
+  - Platform Architecture & Strategy: Shape the architecture of
+    the R&D data and AI platform in close collaboration with
+    solution architects, defining technology choices, design
+    patterns, and standards that enable scalable Lakehouse and
+    GenAI workloads with governed self-service, security, and
+    long-term maintainability.
+  - AI & GenAI Enablement: Design, build, and operationalize
+    production-grade Predictive, Generative and Agentic AI
+    solutions, defining reference architectures for AI
+    workloads and collaborating with data scientists and
+    domain experts to turn experimental use cases into robust,
+    scalable, and secure production systems.
+  - Large-Scale Platform & AI Initiatives: Lead major
+    initiatives such as lakehouse modernization, migration
+    from AWS Glue to Databricks, and the integration of AI
+    capabilities into existing platforms, enabling reusable
+    data, features, and AI components across R&D.
+  - Data Engineering & Lakehouse Development: Design and deliver
+    large-scale ETL/ELT pipelines using AWS, Databricks, Delta
+    Lake, and distributed compute patterns, while ensuring
+    consistent schema management, versioning, and data
+    lifecycle practices across structured, semi-structured,
+    and unstructured data.
+  - AI Operations, Reliability & Cost Control: Implement
+    observability, monitoring, and evaluation for data and AI
+    systems, optimize performance and cost efficiency, and
+    lead incident investigations to drive long-term stability,
+    reliability, and continuous improvement.
+  - Engineering Excellence & Reusability: Develop reusable
+    frameworks, templates, and libraries for data and AI
+    development, and promote best practices around versioning,
+    evaluation, reproducibility, and lifecycle management.
+  - Security, Governance & Compliance: Embed strong security,
+    governance, and compliance controls across data and AI
+    solutions, defining access models, data classifications,
+    and responsible AI guardrails in partnership with Cyber
+    Security and Legal teams.
+  - Leadership & Mentoring: Mentor engineers through
+    architectural guidance, design and code reviews, and
+    elevate team maturity by driving technical standards and a
+    culture of engineering excellence.
+  - Operational Maturity: Continuously improve operational
+    processes for data and AI platforms by turning production
+    learnings into automation, documentation, and platform
+    enhancements.
+  
+  What you bring
+  
+  You can describe yourself as follows:
+  
+  Education & Experience
+  
+  - Education: Master’s degree (or equivalent practical
+    experience) in Data Engineering, Computer Science,
+    Software Engineering, or a related technical field.
+  - Data Engineering Experience: 10+ years of professional
+    experience building and operating large-scale data
+    platforms in enterprise environments with distributed data
+    processing.
+  - Generative & Agentic AI: 2+ years of hands-on experience
+    designing and delivering Generative and Agentic AI
+    solutions, including concepts such as LLMs, Retrieval-
+    Augmented Generation (RAG), and Model/Agent Control
+    Patterns (e.g. MCP). Experience with Predictive AI is a
+    big plus.
+  - AWS Data Lake Experience: Extensive experience with AWS-
+    native data lake services, including S3, Glue, Athena, and
+    Lake Formation, covering ETL orchestration, cataloging,
+    governance, retention, aggregation, backfilling,
+    enrichment and secure access management.
+  - Databricks & Migration Expertise: Deep hands-on experience
+    designing ETL pipelines on Databricks, including proven
+    success migrating existing cloud-native data lakes and
+    workflows to the Databricks platform.
+  - Delta Lake Expertise: Strong understanding of Delta Lake
+    internals, including schema evolution, time travel, table
+    optimization, and performance tuning at scale.
+  - High‑Tech Domain Experience (Plus): Background and
+    experience in high‑tech, R&D‑intensive environments,
+    especially within semiconductor or automotive domains, is
+    a strong plus.
+  
+  Technical Skills
+  
+  - Architecture & Design: Proven ability to define scalable
+    data architectures, lakehouse patterns, and influence
+    long-term platform strategy.
+  - Cloud & Automation: Strong experience with cloud-native
+    engineering on AWS. Hands-on experience with
+    Infrastructure-as-Code, CI/CD pipelines, and DevOps /
+    MLOps best practices.
+  - Programming: Advanced proficiency in Python and SQL, with a
+    focus on building robust, maintainable, and reusable code.
+  - GenAI Development: Experience working with various large
+    language model families. Hands-on knowledge of RAG
+    pipelines, vector stores, orchestration frameworks, and
+    agent-based architectures. Familiarity with multimodal AI
+    solutions is a strong plus.
+  - Data Quality & Governance: Strong command of data
+    observability, lineage, metadata management, quality
+    frameworks, and secure access patterns.
+  - Performance & Cost Optimization: Expertise in cluster and
+    workload tuning, orchestration strategies, storage
+    optimization, and cost management in large-scale data lake
+    and lakehouse environments.
+  
+  Professional Attributes
+  
+  - Mentorship & People Development: Proven experience mentoring
+    and guiding engineers, fostering technical excellence,
+    confidence, and continuous growth within the team.
+  - Technical Leadership: Comfortable guiding engineers at all
+    levels through architectural decisions, code reviews, and
+    best practices.
+  - Strategic Problem-Solving: Able to own complex technical
+    challenges and design scalable, long-term solutions rather
+    than short-term fixes.
+  - Stakeholder Mindset: Strong communicator who can translate
+    complex technical concepts into business and R&D value.
+  - Team-Oriented: A collaborative engineer who raises the
+    overall maturity of the team and contributes to a
+    constructive, inclusive engineering culture.
+  - Agile Ways of Working: Champions Agile and Scrum ways of
+    working, enabling iterative delivery, effective backlog
+    refinement, sprint planning, and strong cross functional
+    collaboration.
+  
+  More information about NXP in India...
+  
+  #LI-7013
+industries:
+  - Automotive
+  - Internet of Things
+  - Mobile
+  - Semiconductor
+  - Industrial
+posted_date: 2026-04-09
+url: "https://builtin.com/job/it-architect-data-and-ai-r-d-it/8887579"
+source: Built In

@@ -1,0 +1,51 @@
+company:
+  name: Cepheid
+  stage: Public
+  focus: |-
+    Life sciences, diagnostics, and biotechnology devices and
+    solutions
+position:
+  title: Senior AI Engineer, Device Intelligence (m/f/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work building and
+      implementing AI systems including LLMs, agentic workflows,
+      and computer vision technologies. The engineer will design,
+      implement, and lead technical AI projects from end-to-end,
+      working directly on model development and AI architecture
+      for imaging devices.
+  responsibilities:
+  - Develop AI-driven product improvements and create new products for Danaher devices
+    with focus on imaging devices
+  - Design and implement advanced AI systems including agentic workflows, LLMs, and
+    computer vision technologies
+  - Translate product concepts into concrete AI architectures aligned with product
+    success criteria and KPIs
+  - Lead technical implementation of complex AI projects spanning multi-quarter timelines
+  - Drive innovation in the AI software stack to maximize value extraction from instruments
+  - Collaborate with business stakeholders and subject matter experts to build comprehensive
+    AI roadmaps for imaging products
+  use_cases:
+  - Extract meaningful insights from life sciences and diagnostic device data
+  - Enhance instrument automation through AI systems
+  - Imaging analysis for life sciences and healthcare applications
+  - Uplevel user capabilities on Danaher devices across Life Sciences, Diagnostics
+    and Biotechnology sectors
+  skills:
+    genai: [Agentic Systems, LLMs, RAG]
+    ml: [Foundation Models, Convolutional Neural Networks, TensorFlow, PyTorch, OpenCV,
+      AI evaluation methods, Multimodal AI]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [Docker, Kubernetes, GPUs, TPUs]
+    languages: [Python, C++]
+    domains: [Computer Vision]
+    other: [Medical device regulatory processes]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8469739'
+  extracted_at: '2026-03-03T12:07:08.857613'

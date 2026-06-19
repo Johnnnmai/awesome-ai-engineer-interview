@@ -1,0 +1,36 @@
+company:
+  name: Oleria
+  stage: null
+  focus: |-
+    Appears to be an identity/access management or cybersecurity
+    company based on the name "Oleria"
+position:
+  title: AI Applications Engineer — GTM
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The job description provided is extremely vague and contains
+      no meaningful details about the role's responsibilities,
+      required skills, or technical focus. The content is mostly
+      boilerplate legal/HR text (equal opportunity, POSH Act, data
+      protection). Without substantive job content, it's
+      impossible to classify the AI type, extract skills, or
+      determine responsibilities.
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8956797'
+  extracted_at: '2026-04-22T13:00:02.554333'

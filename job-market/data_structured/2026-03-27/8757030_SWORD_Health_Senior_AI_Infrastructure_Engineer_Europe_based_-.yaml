@@ -1,0 +1,49 @@
+company:
+  name: SWORD Health
+  stage: Series D or later (raised $500M+)
+  focus: |-
+    AI-powered healthcare platform for pain, women's health,
+    movement, and mental health
+position:
+  title: Senior AI Infrastructure Engineer (Europe based - Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly working on AI systems - optimizing LLM
+      inference, deploying real-time voice AI agents, and serving
+      ML models in production. While it's infrastructure-focused,
+      the work involves hands-on AI deployment, inference
+      optimization, and GPU orchestration which is
+      building/deploying AI systems, not just supporting them.
+  responsibilities:
+  - Own and build infrastructure for deploying and serving AI models in production
+    at scale
+  - Optimize LLM inference performance for real-time conversational AI applications
+  - Deploy and scale real-time voice AI agents for healthcare interactions
+  - Design and manage GPU clusters serving millions of AI sessions
+  - Build systems for real-time computer vision inference for movement analysis
+  - Enable low-latency voice interactions and video processing for AI agents
+  - Implement model serving infrastructure with focus on speed, scale, and reliability
+  use_cases:
+  - Real-time computer vision for movement analysis in physical therapy
+  - Conversational AI for patient interactions and health guidance
+  - Voice AI agents for healthcare delivery and member engagement
+  - AI-powered pain care assessment and treatment
+  - Women's health, movement health, and mental health AI applications
+  skills:
+    genai: [Voice AI]
+    ml: [Real-time video processing, CUDA, PyTorch]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [LLM inference optimization, Model serving, GPU orchestration, Docker, Kubernetes,
+      TensorRT, VLLM, Triton Inference Server]
+    languages: [Python]
+    domains: [Computer vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8757030'
+  extracted_at: '2026-03-27T15:42:43.106269'

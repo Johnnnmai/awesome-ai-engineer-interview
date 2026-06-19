@@ -1,0 +1,51 @@
+company:
+  name: Zensar Technologies
+  stage: Public
+  focus: Digital solutions and IT services for enterprise clients
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI systems -
+      designing and developing AI agents using
+      LangChain/LangGraph, fine-tuning LLMs like GPT and Llama,
+      and implementing RAG techniques. The engineer will directly
+      work with models and agents, not just support
+      infrastructure.
+  responsibilities:
+  - Design and develop AI agents using frameworks like LangChain, LangGraph, Langflow,
+    and MCP Servers
+  - Fine-tune and optimize large language models (LLMs) such as GPT models and Llama
+    for diverse applications
+  - Implement RAG techniques and integrate vector databases like Qdrant and ChromaDB
+  - Enhance AI agent operations with tools like langfuse and litellm for robust security
+    and guardrails
+  - Utilize cloud platforms (AWS, Google Cloud, Azure) and databases (Postgres, Neo4j,
+    Clickhouse) for scalable AI solutions
+  - Optimize workflows and data processing with technologies like Apache Airflow,
+    Redis, Mlflow, Minio, and Apache Kedro
+  - Apply prompt engineering techniques and CI/CD processes for efficient development
+  - Collaborate with cross-functional teams to align AI solutions with business goals
+  use_cases:
+  - Network automation
+  - AI agent development for telecommunications
+  - Enterprise AI solutions
+  - Intelligent data retrieval and processing
+  skills:
+    genai: [LangChain, LangGraph, Langflow, MCP Servers, GPT models, Llama, RAG, prompt
+        engineering, litellm]
+    ml: []
+    web: []
+    databases: [Qdrant, ChromaDB, Postgres, Neo4j, Clickhouse, Redis]
+    data: [Apache Airflow, Apache Kedro, PySpark]
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [MLflow, Minio, CI/CD, langfuse]
+    languages: [Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8720502'
+  extracted_at: '2026-03-27T15:21:17.341343'

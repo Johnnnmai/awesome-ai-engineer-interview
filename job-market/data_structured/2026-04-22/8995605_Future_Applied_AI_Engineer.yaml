@@ -1,0 +1,53 @@
+company:
+  name: Future
+  stage: Growth (merged with Autograph in 2025)
+  focus: Digital personal training and fitness coaching platform
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and shipping AI-powered
+      features, including AI agents with tool-calling LLM systems,
+      prompt engineering, evaluation harnesses, and deploying LLM-
+      based services to production. The engineer owns the full
+      lifecycle of AI systems from experimentation to deployment,
+      making this clearly an ai-first role.
+  responsibilities:
+  - Build and ship AI agents with tool-calling LLM systems, structured output, parallel
+    API orchestration, and streaming responses
+  - Design evaluation harnesses and quality scoring systems using Langfuse to measure
+    safety, effectiveness, and personalization
+  - Own the full agent lifecycle from prototyping through validation, deployment,
+    monitoring, and iteration
+  - Improve system reliability, latency, and cost through prompt caching, token budgets,
+    retry logic, and observability
+  - Build tools and API integrations used by agents, including exercise search and
+    structured workout submission with Pydantic validation
+  - Partner with cross-functional teams to identify high-impact AI opportunities and
+    iterate based on data
+  use_cases:
+  - AI-powered personalized fitness coaching and workout planning
+  - Intelligent exercise search and recommendation
+  - Automated workout plan generation and submission
+  - Personalized motivation and accountability through conversational AI agents
+  - Scalable digital coaching experience serving the nation's largest personal training
+    provider
+  skills:
+    genai: [LangChain, LangGraph, LLM tool/function calling, Prompt engineering, Structured
+        output generation, AI agents, LLM-as-a-judge evaluation]
+    ml: []
+    web: [JSON Schema, HTTP APIs, Streaming protocols (SSE)]
+    databases: []
+    data: []
+    cloud: ['AWS (Bedrock, ECR, CloudFront, S3, Cognito)']
+    ops: [Terraform, CDK, Langfuse, OpenTelemetry, Datadog, Prompt caching, Docker
+        (ECR)]
+    languages: [Python, Async Python, Pydantic]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8995605'
+  extracted_at: '2026-04-22T13:18:03.478384'

@@ -1,0 +1,62 @@
+company:
+  name: VideoAmp
+  stage: Growth/Late-stage (established company with 1000+ advertisers, 11 agency
+    groups)
+  focus: |-
+    Ad measurement and optimization platform for TV and digital
+    media
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building and operating
+      agentic AI workflow systems, MCP servers, LLM abstraction
+      layers, and agent APIs. The engineer will design, build, and
+      ship production AI infrastructure including tool discovery
+      systems and multi-provider LLM integrations — all hands-on
+      work with LLMs and agents.
+  responsibilities:
+  - Design, build, and operate AI infrastructure and universal tool layers supporting
+    customer and internal workflows
+  - Lead development of scenario evaluation frameworks including golden scenario design,
+    automated CI/CD evaluation pipelines, and regression detection for agentic workflow
+    quality
+  - Architect and implement tool discovery systems (deferred loading, search-tools,
+    semantic filtering) enabling scalable multi-step agentic workflows
+  - Partner with internal engineering teams to promote API-first designs for both
+    programmatic and agentic consumers
+  - Own full SDLC of new Agent APIs from design through production, testing, releases,
+    and enhancement
+  - Facilitate weekly AI office hours as internal expert on LLM tooling, agentic patterns,
+    and tool configuration
+  - Contribute to multi-provider LLM abstraction layers ensuring flexibility across
+    Anthropic, Snowflake, Databricks, and other providers
+  - Author, review, and drive technical requirements documentation for new solutions
+  use_cases:
+  - AI-powered media measurement and advertising optimization
+  - Agentic workflow systems bridging platform APIs and AI-powered experiences for
+    adtech
+  - Automated scenario evaluation and regression detection for non-deterministic AI
+    systems
+  - Scalable multi-step agent orchestration for media planning and buying workflows
+  - Developer enablement and tooling for internal teams adopting AI-native development
+    patterns
+  skills:
+    genai: [MCP (Model Context Protocol), 'LLM APIs (Anthropic, OpenAI)', Prompt Engineering,
+      Function Calling / Tool Use, Multi-step Agent Orchestration, Agentic Workflow
+        Systems, LangChain / LangGraph]
+    ml: []
+    web: [REST API Design, FastAPI]
+    databases: [Snowflake, BigQuery]
+    data: []
+    cloud: [Cloud Infrastructure, AWS]
+    ops: [CI/CD Pipelines, Docker, Evaluation Frameworks for Non-deterministic Systems]
+    languages: [Golang, Python, SQL]
+    domains: [AdTech / Media Measurement]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8923292'
+  extracted_at: '2026-04-22T12:49:52.278520'

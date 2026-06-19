@@ -1,0 +1,150 @@
+job_id: 9039251
+title: Principal Software Engineer (AI)
+company: Beckman Coulter Diagnostics
+location: Woking, GBR
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - AWS
+  - Cloud Software
+  - Databricks
+  - Llm
+  - Ml
+  - Rag
+company_size: 10,526 Employees
+description: |
+  Bring more to life.
+  
+  At IDBS, one of Danaher’s 15+ operating companies, our work
+  saves lives—and we’re all united by a shared commitment to
+  innovate for tangible impact.
+  
+  IDBS helps BioPharma organizations unlock the potential of
+  AI/ML to improve the lives of patients. As a trusted long-
+  term partner to 80% of the top 20 global BioPharma
+  companies, IDBS delivers powerful cloud software and
+  services specifically designed to meet the evolving needs of
+  the BioPharma sector.
+  
+  IDBS leverages 35 years of scientific informatics expertise
+  to help organizations design, execute and orchestrate
+  processes, manage, contextualize and structure data and gain
+  valuable insights throughout the product lifecycle, from R&D
+  through manufacturing. Known for its signature IDBS
+  E-WorkBook software, IDBS has extended its flexible,
+  scalable solutions to the IDBS Polar and PIMS cloud
+  platforms to help scientists make smarter decisions with
+  assured confidence in both GxP and non GxP environments.
+  
+  The Principal Software Engineer (AI) will provide technical
+  leadership in the design and delivery of production-grade,
+  GenAI-enabled capabilities across IDBS platforms. The role
+  focuses on applying large language models to real enterprise
+  data: scientific, clinical, and operational to enable AI--
+  driven discoverability, summarisation, reporting, and
+  decision support.
+  
+  Operating at principal level, you will be hands on, guiding
+  teams through the transition from POC to early adoption and
+  general release and help establish sustainable AI
+  engineering practices across the department.
+  
+  The engineer will collaborate closely with data scientists,
+  bioinformaticians, and domain experts to deliver intelligent
+  solutions for knowledge extraction, decision support, and
+  workflow automation.
+  
+  In this role, you will have the opportunity to:
+  
+  - Lead the delivery of AI-enabled platform capabilities that
+    accelerate insight and decision making across drug
+    discovery, clinical development, and commercial
+    operations.
+  - Design and productionise scalable GenAI solutions using
+    approaches such as retrieval augmented generation (RAG),
+    MCP-style integrations, and selectively applied agentic
+    patterns, balancing capability, cost, performance, and
+    trust to deliver measurable value from proof‑of‑concept
+    through early adoption and general release.
+  - Translate scientific and business use cases into robust AI
+    system designs that integrate cleanly with data platforms,
+    workflows, and APIs.
+  - Establish engineering best practices for GenAI/LLM
+    applications, including system design patterns, evaluation
+    approaches, reliability, scalability, and maintainability
+    standards across the AI engineering lifecycle.
+  - Act as a technical leader by mentoring engineers,
+    influencing architectural direction, and driving the
+    successful delivery and adoption of GenAI capabilities
+    across IDBS platforms.
+  
+  The essential requirements of the job include:
+  
+  - Designing, building, and operating LLM-powered capabilities
+    such as document summarisation, retrieval augmented
+    generation (RAG), and question answering over enterprise
+    datasets.
+  - Developing AI-ready data foundations, including unstructured
+    data pipelines, metadata extraction and enrichment, and
+    hybrid architectures using vector stores alongside
+    relational databases.
+  - Proven ability to deploy AI systems into production
+    environments, with effective monitoring of model
+    behaviour, data drift, cost, and latency, and the judgment
+    to make pragmatic trade‑offs for reliability, scalability,
+    and enterprise adoption.
+  - Establishing robust operational practices, including
+    versioning of prompts, models, and data, and implementing
+    feature flags and controlled rollout strategies for AI
+    capabilities.
+  - Collaborating effectively with cross-functional partners
+    (e.g., data science and domain experts), provide technical
+    leadership, and mentor others while driving delivery in
+    complex environments.
+  
+  Desirable (but not essential):
+  
+  - Experience applying GenAI solutions in life sciences /
+    biopharma contexts, including scientific, clinical, or
+    regulated (GxP-aligned) environments.
+  - Familiarity with building AI capabilities that support
+    knowledge extraction, decision support, and workflow
+    automation across enterprise data ecosystems, including
+    cloud‑based platforms such as Databricks and AWS.
+  - Experience defining or contributing to organisational best
+    practices for AI engineering, including evaluation
+    methods, governance, and scalable adoption approaches for
+    generative/agentic AI.
+  
+  IDBS, a Danaher operating company, offers a broad array of
+  comprehensive, competitive benefit programs that add value
+  to our lives. Whether it’s a health care program or paid
+  time off, our programs contribute to life beyond the job.
+  Check out our benefits at Danaher Benefits Info.
+  
+  Join a winning team today. Together, we’ll accelerate the
+  real-life impact of tomorrow’s science and technology. We
+  partner with customers across the globe to help them solve
+  their most complex challenges, architecting solutions that
+  bring the power of science to life.
+  
+  For more information, visit www.danaher.com.
+  
+  #LI-Hybrid
+  
+  Join our winning team today. Together, we’ll accelerate the
+  real-life impact of tomorrow’s science and technology. We
+  partner with customers across the globe to help them solve
+  their most complex challenges, architecting solutions that
+  bring the power of science to life.
+  
+  For more information, visit www.danaher.com.
+industries:
+  - Healthtech
+  - Other
+  - Software
+  - Biotech
+posted_date: 2026-04-14
+url: "https://builtin.com/job/principal-software-engineer-ai/9039251"
+source: Built In

@@ -1,0 +1,58 @@
+company:
+  name: ResortPass
+  stage: Series B
+  focus: Day access marketplace for luxury hotel experiences
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, deploying, and iterating on AI
+      agents and LLM-based applications in production, including
+      agent orchestration, prompt engineering, and model serving.
+      The engineer will own the full ML model lifecycle and
+      directly build production AI systems like AI concierges and
+      voice booking assistants.
+  responsibilities:
+  - Design, build, and iterate on AI agents that handle complex, multi-step workflows
+    including automated booking, guest communication via SMS and voice, and partner
+    integrations
+  - Build and maintain real-time and batch data infrastructure including pipelines,
+    feature stores, and model-serving layers for ML models and AI systems
+  - Develop evaluation and observability frameworks for AI agents including logging,
+    human-in-the-loop feedback loops, and quality metrics
+  - Integrate AI capabilities directly into Ruby on Rails backend, ensuring agents
+    and models are deployed reliably
+  - 'Own the full lifecycle of ML models in production: data collection, training,
+    evaluation, deployment, monitoring, and iteration'
+  - Collaborate with Product and Business teams to identify high-impact AI opportunities
+    and translate them into technical projects
+  - Help shape AI strategy and technical roadmap as one of the earliest dedicated
+    AI hires
+  use_cases:
+  - AI Concierge for post-booking guest assistance via SMS and chat with personalized
+    upsell opportunities
+  - Voice AI Booking Assistant that calls hotel spas and front desks to book appointments
+    on behalf of guests
+  - Conversational natural language search for discovering hotel day passes based
+    on guest preferences
+  - Search ranking, pricing optimization, and personalization for the hotel day pass
+    marketplace
+  - Automated guest and partner workflow automation
+  skills:
+    genai: [LangChain, LlamaIndex, Retell AI, prompt engineering, AI agents, agent
+        orchestration]
+    ml: [PyTorch]
+    web: [Ruby on Rails]
+    databases: [Algolia, Redshift]
+    data: [dbt, ETL pipelines]
+    cloud: [AWS, AWS ECS, AWS Lambda, AWS SageMaker]
+    ops: [Datadog, feature stores, model serving]
+    languages: [Python, Ruby, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8737270'
+  extracted_at: '2026-03-27T13:41:45.324574'

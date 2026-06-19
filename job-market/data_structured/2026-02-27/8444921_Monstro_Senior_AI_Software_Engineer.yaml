@@ -1,0 +1,53 @@
+company:
+  name: Monstro
+  stage: Not specified
+  focus: |-
+    AI-powered governance and intelligence infrastructure for
+    financial institutions
+position:
+  title: Senior AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, deploying, and
+      fine-tuning AI systems directly - including agentic
+      workflows, RAG pipelines, model deployment (both commercial
+      APIs and self-hosted), and model adaptation using
+      LoRA/QLoRA. The engineer will work ON the AI models and
+      systems themselves, not just supporting infrastructure.
+  responsibilities:
+  - Design and implement autonomous AI agents with planning, memory, and tool-use
+    capabilities
+  - Deploy and manage self-hosted open-weight LLMs and integrate commercial model
+    APIs
+  - Build RAG pipelines with chunking, indexing, and retrieval strategies for financial
+    content
+  - Adapt foundation models using LoRA, QLoRA, and parameter-efficient fine-tuning
+    techniques
+  - Develop evaluation frameworks and automated testing pipelines for AI systems
+  - Implement monitoring for model drift, latency, and output quality in production
+  - Write clean, maintainable, well-tested production code and design APIs
+  - Mentor junior engineers and collaborate with product managers on AI capabilities
+  use_cases:
+  - Financial guidance and personalized support for individuals
+  - Governed AI operations for financial institutions
+  - Explainable AI systems for regulated financial domain
+  - Autonomous agents for financial planning and decision-making
+  - Retrieval-augmented generation grounded in financial data
+  skills:
+    genai: [LangChain, LangGraph, RAG, Prompt engineering, Agentic workflows, Anthropic
+        Claude API, OpenAI API]
+    ml: [LoRA, QLoRA, PEFT, Instruction tuning, LLaMA, Mistral, Qwen]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: []
+    ops: [vLLM, TGI, Triton, Docker, Kubernetes, CI/CD]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8444921'
+  extracted_at: '2026-03-03T11:32:45.587527'

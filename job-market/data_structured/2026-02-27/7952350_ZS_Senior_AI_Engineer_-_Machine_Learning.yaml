@@ -1,0 +1,52 @@
+company:
+  name: ZS
+  stage: null
+  focus: |-
+    Management consulting and technology firm focused on
+    healthcare and life sciences
+position:
+  title: Senior AI Engineer - Machine Learning
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on traditional ML engineering - building
+      ML pipelines, feature engineering, model training, and
+      MLOps. The requirements emphasize PySpark, MLflow,
+      SageMaker, and distributed computing for traditional ML
+      workloads, with no mention of LLMs, GenAI frameworks, or
+      modern AI agents.
+  responsibilities:
+  - Build, refine and use ML engineering platforms and components
+  - Scale machine learning algorithms to work on massive datasets and strict SLAs
+  - Build and orchestrate model pipelines including feature engineering, inferencing
+    and continuous model training
+  - Implement MLOps including model KPI measurements, tracking, model drift and model
+    feedback loops
+  - Collaborate with client-facing teams to understand business context and contribute
+    to technical requirement gathering
+  - Write production-ready code that is testable and accounts for edge cases
+  - Ensure highest quality deliverables by following architecture guidelines and participating
+    in code reviews
+  - Research and evaluate latest architecture patterns through proof-of-concepts and
+    prototypes
+  use_cases:
+  - Healthcare and life sciences data analytics
+  - Large-scale ML predictions for business outcomes
+  - Real-time model inferencing pipelines
+  - Client-specific custom ML solutions
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [PySpark, Airflow, Spark]
+    cloud: [SageMaker, AWS, Azure, GCP, Azure ML]
+    ops: [MLflow, Kubeflow]
+    languages: [Python, Scala, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7952350'
+  extracted_at: '2026-03-03T11:21:19.465338'

@@ -1,0 +1,162 @@
+job_id: 8185758
+title: Senior Software Engineer (AI Engineer)
+company: Fluxon
+location: Gurugram, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - C++
+  - Docker
+  - Firestore
+  - GCP
+  - Gcp Cloud Monitoring Suite
+  - Genkit
+  - Google Adk
+  - Java
+  - JavaScript
+company_size: 94 Employees
+description: |
+  Who we are
+  
+  At Fluxon, we believe that how you build matters as much as
+  what you build. We help businesses navigate their most
+  important technology decisions with confidence, and take
+  responsibility for seeing them through. Founded by ex-
+  Googlers and startup veterans, we’re proud to partner with
+  teams behind some of the most ambitious products, including
+  Google, OpenAI, Anthropic, Walmart and Stripe.
+  
+  Our work spans strategy, design, and engineering — often in
+  complex, AI-driven environments — where clarity, speed and
+  quality are the standard. We use AI intentionally, applying
+  it only where it adds real value and expands what’s
+  possible. Care shapes everything we do.
+  
+  Inside Fluxon, you’ll find a global, remote-first team of
+  experienced builders, who are curious, kind and serious
+  about their craft. We’re building a place where people can
+  take ownership, solve problems that matter and do work
+  they’re proud to stand behind. If you want to do your best
+  work alongside people who care as much as you do, you’ll
+  feel at home here.
+  
+  The role is open to candidates based in Gurgaon, India.
+  
+  About the role
+  
+  As an AI Engineer at Fluxon, you’ll take the lead in
+  designing, building and deploying AI-powered applications
+  for our clients.
+  
+  You'll be responsible for:
+  
+  - System Architecture: Design and implement end-to-end AI
+    systems and their parts, including data ingestion,
+    preprocessing, model inference, and output structuring
+  - Generative AI Development: Build and optimize RAG
+    (Retrieval-Augmented Generation) systems and Agentic
+    workflows using frameworks like LangChain, LangGraph, ADK
+    (Agent Development Kit), Genkit
+  - Production Engineering: Deploy models to production
+    environments (AWS/GCP/Azure) using Docker and Kubernetes,
+    ensuring high availability and scalability
+  - Evaluation & Monitoring: Implement feedback loops to
+    evaluate model performance (accuracy, hallucinations,
+    relevance) and set up monitoring for drift in production
+  - Collaboration: Work closely with other engineers to
+    integrate AI endpoints into the core product and with
+    product managers to define AI capabilities
+  - Model Optimization: Fine-tune open-source models (e.g.,
+    Llama, Mistral) for specific domain tasks and optimize
+    them for latency and cost
+  
+  You'll work with technologies including:
+  
+  Languages
+  
+  - Python (Preferred)
+  - Java / C++ / Scala / R / JavaScript
+  
+  AI / ML
+  
+  - LangChain
+  - LangGraph
+  - Google ADK
+  - Genkit
+  - OpenAI API
+  - LLM - Large Language Model
+  - Vertex AI
+  
+  Cloud & Infrastructure
+  
+  - Platforms: Google Cloud Platform (GCP) or Amazon Web
+    Services (AWS)
+  - Storage: Google Cloud Storage (GCS) or AWS S3
+  - Orchestration: Temporal, Kubernetes
+  
+  Data Stores
+  
+  - PostgreSQL
+  - Firestore
+  - MongoDB
+  
+  Monitoring & Observability
+  
+  - GCP Cloud Monitoring Suite
+  
+  Qualifications
+  
+  - 5+ years of industry experience in software engineering
+    roles
+  - Strong proficiency in Python or any preferred AI programming
+    language such as Scala, Javascript and Java
+  - Strong understanding of Transformer architectures,
+    embeddings, and vector similarity search
+  - Experience integrating with LLM provider APIs (OpenAI,
+    Anthropic, Google Vertex AI)
+  - Hands-on experience with agent workflows like LangChain,
+    LangGraph
+  - Experience with Vector Databases and traditional SQL / NoSQL
+    databases
+  - Familiarity with cloud platforms, preferably GCP or AWS
+  - Understanding of patterns like RAG (Retrieval-Augmented
+    Generation), few-shot prompting, and Fine-Tuning
+  - Solid understanding of software development practices
+    including version control (Git) and CI/CD
+  
+  Nice to have:
+  
+  - Experience with Google Cloud Platform (GCP) services,
+    specifically Vertex AI, Firestore, and Cloud Functions
+  - Knowledge of prompt engineering techniques (Chain-of-
+    Thought, ReAct, Tree of Thoughts)
+  - Experience building "Agentic" workflows where AI can execute
+    tools or API calls autonomously
+  
+  What we offer
+  
+  - Remote-first, flexible work with a budget to set up a work
+    space that works for you
+  - Localized healthcare coverage to support you and your
+    family’s wellbeing
+  - Flexible paid time off with a minimum of 3 weeks per year
+    (plus holidays)
+  - "No internal meetings" Fridays, so you can focus on deep,
+    uninterrupted work
+  - A professional growth budget for learning that matters to
+    you –  whether it’s developing your technical skills or
+    learning a new language
+  - A monthly wellness allowance to support your physical and
+    mental health
+  - Annual company offsites, where we gather in person to build
+    meaningful connections
+  - A competitive salary that reflects your expertise, impact
+    and experience
+  - Profit-sharing, so you can benefit directly from the value
+    we build together
+  - A paid sabbatical program, designed for rest, renewal and
+    fresh perspective
+posted_date: 2026-03-06
+url: "https://builtin.com/job/senior-software-engineer/8185758"
+source: Built In

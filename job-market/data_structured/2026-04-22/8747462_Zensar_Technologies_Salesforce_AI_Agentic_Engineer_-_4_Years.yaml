@@ -1,0 +1,54 @@
+company:
+  name: Zensar Technologies
+  stage: Public
+  focus: IT services and technology consulting for enterprises
+position:
+  title: Salesforce AI & Agentic Engineer - 4+ Years
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI
+      capabilities including RAG patterns, agentic workflows,
+      prompt engineering, and integrating LLMs (Einstein, GPT,
+      Anthropic) into Salesforce applications. The engineer works
+      hands-on with models, agents, and AI workflows rather than
+      supporting others who build AI.
+  responsibilities:
+  - Build and integrate Einstein, GPT, and Salesforce AI capabilities into business
+    workflows
+  - Design agentic capabilities such as autonomous workflows, reasoning chains, and
+    dynamic task execution within Salesforce apps
+  - Develop LWC, Apex, Flows, and platform events to deliver AI-augmented user experiences
+  - Implement RAG patterns and integrate external data sources for enhanced AI responses
+  - Work with prompts, prompt templates, grounding strategies, embeddings, vector
+    search, and knowledge augmentation
+  - Implement, test, and refine AI copilots, AI assistants, service bots, and conversational
+    experiences
+  - Collaborate with architects to define AI governance, trust, safety, and responsible
+    use guardrails
+  - Build integrations with external AI platforms (OpenAI, Azure OpenAI, Anthropic,
+    etc.)
+  use_cases:
+  - AI-powered autonomous workflows within Salesforce CRM applications
+  - Conversational AI assistants and service bots for customer support
+  - Contextual AI assistance and reasoning chains for business users
+  - RAG-enhanced AI responses grounded in enterprise knowledge and external data
+  - AI copilots for Salesforce platform users
+  skills:
+    genai: [Salesforce Einstein, Prompt Builder, Copilot Studio, RAG, Prompt Engineering,
+      Agentic Frameworks, Embeddings, OpenAI API, Azure OpenAI, Anthropic API, Model
+        Builder, Grounding Strategies, Knowledge Augmentation]
+    ml: []
+    web: [LWC (Lightning Web Components), REST APIs]
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Apex]
+    domains: []
+    other: [Salesforce Flows]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8747462'
+  extracted_at: '2026-04-22T13:47:48.388320'

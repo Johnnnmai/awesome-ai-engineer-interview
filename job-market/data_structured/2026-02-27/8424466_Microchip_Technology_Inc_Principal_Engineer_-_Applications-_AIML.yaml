@@ -1,0 +1,56 @@
+company:
+  name: Microchip Technology Inc.
+  stage: Public
+  focus: |-
+    Semiconductor company designing microcontrollers,
+    microprocessors, and FPGA platforms
+position:
+  title: Principal Engineer - Applications- AI/ML
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on Edge AI and TinyML deployment on
+      resource-constrained embedded systems (MCUs, FPGAs). The
+      work involves training, tuning, and optimizing ML models for
+      edge hardware using TensorFlow, PyTorch, ONNX - traditional
+      ML/DL techniques for embedded deployment, not LLMs or
+      generative AI systems.
+  responsibilities:
+  - Develop embedded applications demonstrating Edge AI capabilities on Microchip
+    MCU, MPU, and FPGA platforms
+  - Create reference solutions and proof-of-concept demos for customer Edge AI applications
+    including sensor analytics using TinyML
+  - Train and tune AI models for efficient execution on resource-constrained embedded
+    hardware platforms
+  - Use and deploy AI models using TensorFlow Lite, TensorFlow, ONNX, and PyTorch
+    technologies
+  - Collaborate with product management and software engineers to define requirements
+    and develop data methodologies for Edge AI models
+  - Provide technical presentations and training to customers and stakeholders on
+    Edge AI solutions
+  - Provide feedback on improvements to Microchip's hardware, software, tools and
+    documentation for Edge AI
+  - Stay current with latest advancements in AI/ML and edge computing technologies
+  use_cases:
+  - Sensor analytics on MCU platforms using TinyML
+  - Edge AI deployment on resource-constrained embedded systems
+  - Predictive maintenance applications (circuit breakers, appliances, power supplies)
+  - Gas and water leakage detection systems
+  - Real-time sensor data processing at the edge
+  skills:
+    genai: []
+    ml: [TensorFlow, TensorFlow Lite, PyTorch, ONNX, Keras, TinyML, MPLAB Machine
+        Learning Development Suite]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [MPLAB IDE, IAR Workbench, Keil MDK, CI/CD]
+    languages: [Python, Embedded C]
+    domains: []
+    other: [ARM Cortex (M0-M7), DSP, MCU, FPGA, RTOS, Zephyr, I2C, SPI, UART]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8424466'
+  extracted_at: '2026-03-03T11:36:55.231570'

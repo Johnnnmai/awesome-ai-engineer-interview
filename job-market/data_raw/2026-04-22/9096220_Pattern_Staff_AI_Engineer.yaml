@@ -1,0 +1,175 @@
+job_id: 9096220
+title: Staff AI Engineer
+company: Pattern
+location: Pune, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Apache Airflow
+  - AWS
+  - Celery
+  - Computer Vision
+  - Diffusion Models
+  - DynamoDB
+  - Fastapi
+  - Langgraph
+  - Llms
+  - Next.Js
+company_size: 501 Employees
+description: |
+  About The Team:
+  
+  
+  
+  Pattern is an ecommerce accelerator that helps global brands
+  grow across marketplaces. We're the AI Transformation Team
+  -- a small R&D group building the connected system of
+  technologies that powers data collection, intelligence,
+  creative automation, and brand strategy across Pattern's
+  operations. We design, build, and operate an ecosystem of
+  interconnected systems that form a closed loop: collecting
+  raw web data, normalizing it into structured intelligence,
+  analyzing marketplace behavior, and activating insights
+  through creative automation and brand strategy. Pattern's
+  rich data assets -- marketplace analytics, consumer behavior
+  signals, and product intelligence across thousands of brands
+  -- flow directly into this ecosystem. We move fast, ship to
+  production, and give engineers uncommon autonomy over hard
+  problems. AI is not a feature we bolt on -- it is the core
+  of what we build. Every engineer on this team works daily
+  with LLMs, embeddings, agentic workflows, and generative
+  pipelines -- and builds them into scalable, production-grade
+  systems. We share what works, challenge each other
+  technically, and raise the bar together.
+  
+  The Role
+  
+  - We're looking for a Staff Software Engineer to own critical
+    systems and shape the technical direction of our
+    intelligence ecosystem.
+  - You'll go deep on one or two systems -- designing their
+    internals, scaling their infrastructure, hardening their
+    reliability -- while driving architectural decisions that
+    ripple across the full platform.
+  - This is a hands-on role with broad influence. You'll ship
+    code daily -- often in partnership with AI coding tools
+    like Claude Code -- driving them to produce robust, test-
+    driven code at a pace that multiplies your impact.
+  - You'll set technical standards through reviews and design
+    docs, and collaborate closely with engineers across the
+    team.
+  - We expect you to mentor, uplift, and make the people around
+    you better.
+  - You'll operate at the intersection of three pillars: deep
+    business understanding and customer obsession, leveraging
+    generative AI to solve real problems, and designing
+    architecture that is robust and scalable.
+  - Your decisions here directly shape products used by global
+    brands. This is a hybrid role based in Pune. Competitive
+    compensation and benefits
+  
+  Systems You'll Shape
+  
+  - You won't be limited to a single domain. Our ecosystem spans
+    multiple interconnected systems -- here is where a Staff
+    engineer makes an impact:
+  - Agentic Data Collection & Competitive Intelligence -- Know
+    everything about a brand's digital presence before a human
+    asks. Build intelligent agents that discover, collect, and
+    keep product and competitor data fresh across marketplaces
+    at scale.
+  - Product Intelligence & Attribute Normalization -- Make every
+    product across Pattern's ecosystem describable,
+    searchable, and comparable. Build the semantic engine that
+    turns messy, unstructured product data into a consistent
+    taxonomy using LLMs, vector search, and hierarchical
+    classification.
+  - Marketplace Behavioral Analytics -- Answer the question:
+    what makes a customer buy one product over another?
+    Combine consumer behavior data, competitive analysis, and
+    attention modeling to surface the attributes that actually
+    drive conversion.
+  - Creative Automation & Generative Pipelines -- Turn
+    structured product intelligence into marketplace-ready
+    content at scale. Build the systems that connect data to
+    AI-generated imagery, video, and copy -- from model
+    training to quality assurance to final output.
+  - Cross-System Architecture -- Make the ecosystem greater than
+    the sum of its parts. Design the shared contracts,
+    communication patterns, and feedback loops that keep these
+    systems connected, observable, and self-improving.
+  
+  Our Stack
+  
+  - Languages & Frameworks: Python, FastAPI, SQLAlchemy,
+    React/Next.js, TypeScript
+  - Cloud & Infrastructure: AWS (we use a lot of it -- ECS,
+    Lambda, S3, SQS/SNS, Bedrock, Step Functions, and more),
+    Terraform
+  - Data: PostgreSQL, Redis, Snowflake, DynamoDB, vector
+    databases
+  - ●AI/ML: LLMs, diffusion models, computer vision, NLP,
+    speech-to-text -- deployed across AI infrastructure
+    providers (RunPod, Replicate, Fal, and others) ●
+    Orchestration: Temporal, Apache Airflow (Astronomer),
+    LangGraph, Celery
+  
+  What You'll Do
+  
+  - Own one or two systems end-to-end: understand the users and
+    stakeholders who depend on them, then drive the
+    architecture, implementation, operational health, and
+    evolution.
+  - Drive cross-system technical decisions -- data contracts,
+    API boundaries, shared infrastructure, and integration
+    patterns across the ecosystem.
+  - Design and build production AI systems: retrieval pipelines,
+    agentic workflows, generative pipelines, and
+    classification engines with the right cost/latency/quality
+    trade-offs.
+  - Set engineering standards through code reviews, design
+    documents, and architectural RFCs. Your work becomes the
+    reference implementation.
+  - Partner with product, design, and stakeholders to frame
+    problems worth solving -- then solve them end-to-end.
+  - Identify and eliminate systemic bottlenecks -- whether in
+    architecture, tooling, process, or team velocity.
+  - Elevate the engineers around you through pairing, review
+    rigor, and raising the bar on what "production-ready"
+    means.
+  
+  You Should Have
+  
+  - Deep experience building, operating, and evolving production
+    software systems (typically 8+ years)
+  - Track record of owning systems -- not just features -- and
+    making architectural decisions that held up over time.
+  - Strong AI/ML engineering skills: you have built production
+    systems that use LLMs, embeddings, classification
+    pipelines, or generative models -- not just prototypes.
+  - Excellent systems design instincts: distributed systems,
+    data modeling, API design, event-driven architecture, and
+    the judgment to know when simplicity beats sophistication.
+  - Backend depth (Python, SQL, cloud infrastructure) with
+    enough full-stack range to move confidently anywhere in
+    the codebase.
+  
+  Even Better If You Bring
+  
+  - Product sense and user empathy -- you care about whether the
+    system actually solves the problem, not just whether it
+    runs.
+  - Communication that scales: you write clear design docs, give
+    precise code reviews, and can explain complex trade-offs
+    to both engineers and non-engineers.
+  - Comfort with ambiguity and R&D pace. Some of what we build
+    has no precedent -- you find that energizing, not
+    unsettling.
+industries:
+  - eCommerce
+  - Logistics
+  - Software
+  - Analytics
+posted_date: 2026-04-20
+url: "https://builtin.com/job/staff-ai-engineer/9096220"
+source: Built In

@@ -1,0 +1,57 @@
+company:
+  name: Turing
+  stage: Late Stage / Growth
+  focus: |-
+    AI research acceleration and enterprise AI systems
+    deployment
+position:
+  title: Principal Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed AI Engineer role that directly
+      involves building, fine-tuning, and deploying LLM-based
+      systems including RAG, multi-agent architectures, and prompt
+      engineering for enterprise customers. The role requires
+      hands-on work designing and deploying GenAI applications,
+      making it clearly ai-first.
+  responsibilities:
+  - Build technical roadmaps from business requirements and own delivery of GenAI
+    solutions for Fortune 500 customers
+  - Lead engineering teams toward technical roadmaps ensuring timely execution and
+    customer satisfaction
+  - Design, develop, fine-tune, and deploy LLM-based solutions using RAG, prompt engineering,
+    and agent-based architectures
+  - Maintain high-quality Python codebases using LangChain/LangGraph with focus on
+    reusability, scalability, and performance
+  - Deploy GenAI applications on cloud platforms (Azure, GCP, AWS) with robust CI/CD
+    processes
+  - Collaborate cross-functionally with product owners, data scientists, and business
+    SMEs to deliver impactful AI products
+  - Provide technical leadership, mentoring, and knowledge-sharing to the engineering
+    team
+  - Stay current with LLM research advancements and experiment with emerging techniques
+    to improve model performance
+  use_cases:
+  - Multi-agent LLM systems for enterprise business processes
+  - Retrieval-augmented generation (RAG) systems for enterprise knowledge access
+  - Open source LLM deployments for major enterprises
+  - Custom GenAI application development for Fortune 500 customers
+  - Mission-critical AI workflow integration for enterprise clients
+  skills:
+    genai: [LangChain, LangGraph, RAG, Prompt Engineering, Agent-based architectures,
+      LLM fine-tuning]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, GCP, AWS]
+    ops: [CI/CD, Docker]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '9060244'
+  extracted_at: '2026-04-22T13:51:49.013468'

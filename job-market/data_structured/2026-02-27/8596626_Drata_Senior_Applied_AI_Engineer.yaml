@@ -1,0 +1,56 @@
+company:
+  name: Drata
+  stage: Series B+ (implied by $100M ARR in 4 years, 600+ employees)
+  focus: Compliance automation and security software platform
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and optimizing AI
+      systems including RAG architectures, agentic systems,
+      embedding models, and evaluation frameworks. The engineer
+      will prototype GenAI workflows, design retrieval strategies,
+      and implement ranking/reranking systems - all core AI/ML
+      work directly on models and AI systems.
+  responsibilities:
+  - Design and evaluate information retrieval and reasoning strategies across RAG,
+    agents, and ML including chunking, embedding models, hybrid search, and multi-step
+    workflows
+  - Prototype GenAI workflows and agentic systems that map and reason over compliance
+    objects like controls, risks, and requirements
+  - Explore ML and probabilistic approaches including classifiers, ranking models,
+    graph prediction, and calibration where GenAI is not optimal
+  - Build and maintain evaluation frameworks including golden datasets, automated
+    quality metrics, and regression detection
+  - Implement and tune ranking and reranking systems using cross-encoders, LLM-based
+    rerankers, and learning-to-rank approaches
+  - Run experiments to validate hypotheses and quantify improvements before production
+    rollout
+  - Debug failure modes and build error taxonomies across retrieval, reasoning, and
+    generation
+  - Collaborate with AI and Software Engineers to hand off validated approaches for
+    productionization
+  use_cases:
+  - Vendor Risk Management (VRM) Agent for compliance document analysis
+  - AI-powered Question Answering (AIQA) for compliance queries
+  - Trust Agent for automated trust verification
+  - Policy-to-control mapping and regulatory summarization
+  - Document retrieval and understanding from large compliance artifact sets
+  skills:
+    genai: [RAG, LangChain, embedding models, LLM-based rerankers, agentic systems]
+    ml: [information retrieval, cross-encoders, learning-to-rank, classifiers, graph/link
+        prediction, NLP]
+    web: []
+    databases: [vector databases]
+    data: [A/B testing, statistical analysis]
+    cloud: []
+    ops: [evaluation metrics]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8596626'
+  extracted_at: '2026-03-03T11:43:30.483292'

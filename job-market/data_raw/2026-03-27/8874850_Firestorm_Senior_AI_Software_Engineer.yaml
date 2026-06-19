@@ -1,0 +1,268 @@
+job_id: 8874850
+title: Senior AI Software Engineer
+company: Firestorm
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - C++
+  - Go
+  - Java
+  - Python
+  - Rust
+description: |
+  Who We Are
+  
+  At Firestorm, we’re on a mission to revolutionize how
+  defense solutions are designed and delivered. Our goal is to
+  empower U.S. ally nations to effectively deter aggressors —
+  regardless of their defense budget — through innovative,
+  cost-efficient technologies. We call this vision
+  “democratized deterrence.” As a VC-backed company at the
+  intersection of defense and Silicon Valley, we’re pioneering
+  the development of mission-adaptable aerial vehicles that
+  put power back into the hands of operators. By prioritizing
+  operator effectiveness, we’re pioneering a new era of aerial
+  vehicle design. We aim to upend the traditional defense
+  procurement model by delivering world-class capabilities at
+  a fraction of the usual cost. Join us at Firestorm as we
+  redefine defense procurement, making cutting-edge technology
+  accessible to all at a fraction of the cost.
+  
+  
+  
+  About the Role
+  
+  
+  
+  At Firestorm, we are building autonomous aerial systems that
+  operate where they are needed most, when they are needed
+  most. Our mission requires speed, ingenuity, and a
+  relentless commitment to engineering excellence. We move
+  fast, test constantly, and deliver capability that performs
+  in the real world, not just in simulation.
+  
+  We are looking for a Senior AI Software Engineer who is
+  excited to build, test, and deliver production-grade AI-
+  enabled software systems. This is a hands-on role, working
+  on end-to-end delivery from early prototypes through
+  hardened deployments. You will potentially lead a small team
+  in the future. This role blends strong software engineering
+  fundamentals with modern AI system development: turning
+  ambiguous user intent into reliable, structured outputs;
+  integrating safely with existing internal systems; and
+  building the validation, observability, and governance
+  required for high-integrity environments. This is not a
+  research-only role. You will ship, iterate quickly, and set
+  the technical and execution standard for a team operating
+  under demanding timelines.
+  
+  If you want to build systems that matter, own your work end
+  to end, and be part of a team that values bold thinking
+  grounded in rigorous engineering, Firestorm is the place to
+  do it.
+  
+  
+  
+  What You'll Do
+  
+  - Lead hands-on development of AI-enabled software systems
+    from concept to deployment, balancing rapid iteration with
+    engineering rigor
+  - Support end-to-end delivery across product and engineering
+    concerns: requirements intake, decomposition into
+    structured outputs, validation, and release readiness
+  - Build and maintain agentic workflows (tool use, state
+    handling, retries, human-in-the-loop gates) with clear
+    safety and quality constraints
+  - Define and enforce structured output contracts (schemas,
+    validations, compatibility expectations) to reduce
+    brittleness and enable long-term evolution
+  - Establish build and release discipline: versioning
+    conventions, reproducibility practices, CI quality gates,
+    and rollback-ready releases
+  - Drive operational readiness: observability, auditability,
+    failure-mode handling, and secure-by-default service
+    behavior
+  - Partner with adjacent engineering teams to integrate with
+    existing platforms without bypassing governance boundaries
+  - Set team execution cadence: sprint planning, technical
+    prioritization, code reviews, and operational response
+    expectations
+  - Identify high-risk failure modes in AI workflows and ship
+    mitigations (guardrails, validation layers, permissioning,
+    throttling, and safe defaults)
+  - Produce clear technical documentation and decision records
+    that enable fast onboarding and consistent engineering
+    behavior
+  
+  Minimum Qualifications
+  
+  
+  
+  - Bachelor’s degree in Computer Science, Engineering, or
+    related field (or equivalent practical experience)
+  - U.S. Citizenship and the ability to obtain and maintain a
+    U.S. Government security clearance
+  - 8+ years of experience building and shipping production
+    software systems (services, platforms, or distributed
+    systems)
+  - 4+ years of production AI/ML experience, including ownership
+    of real-world reliability, safety, and performance
+    outcomes
+  - Demonstrated experience shipping LLM-enabled applications to
+    production (e.g., tool use/function calling, structured
+    outputs, retrieval-augmented generation, robust error
+    handling and fallback strategies)
+  - Experience designing AI evaluation and quality gates
+    (offline eval harnesses, regression suites, golden sets,
+    automated grading, CI integration)
+  - Experience operating AI systems in production (monitoring,
+    alerting, quality/regression tracking, latency/cost
+    controls, incident response)
+  - Strong proficiency in Python and at least one
+    backend/systems language (e.g., Go, Java, C++, Rust)
+  - Experience designing and evolving structured interfaces
+    (schemas, validation, versioning, migrations,
+    compatibility)
+  - Experience implementing safety/security controls for AI
+    systems (authZ, auditability, data handling boundaries,
+    prompt-injection/abuse mitigation, least-privilege tool
+    access)
+  - Proven ability to lead execution in a fast-paced environment
+    while staying highly hands-on
+  - Excellent communication and documentation skills
+  
+  Preferred Qualifications
+  
+  - Experience with LLM evaluation techniques (LLM-as-judge,
+    rubric-based scoring, pairwise comparisons, calibrated
+    metrics, red-teaming)
+  - Experience building agent frameworks (planning, tool
+    routing, state machines, multi-step workflows, fallback
+    strategies, HITL approvals)
+  - Experience with model adaptation (prompt optimization, fine-
+    tuning, adapters/LoRA) and the tradeoffs between prompting
+    vs tuning
+  - Experience with multimodal AI (vision + language) and/or
+    integrating AI with real-time systems
+  - Experience with AI security (prompt injection defenses, tool
+    sandboxing, data exfiltration prevention, policy
+    enforcement)
+  - Familiarity with software supply chain practices (dependency
+    hygiene, artifact provenance concepts, secure release
+    workflows)
+  - Experience working on safety- or mission-critical systems
+    where correctness, traceability, and auditable behavior
+    matter
+  
+  
+  
+  Work Environment
+  
+  - Remote (U.S.) with the option to be based at our
+    Headquarters in San Diego, CA. We welcome candidates who
+    are local or open to relocating; relocation assistance is
+    available and may be included in the offer package where
+    appropriate
+  - Willingness to travel up to 10% domestically for testing and
+    demonstrations
+  
+  Compensation
+  
+  US Salary Range: $175,000 - $245,000 USD
+  
+  The posted salary range reflects an estimate based on a
+  variety of compensation factors, including but not limited
+  to relevant experience, education, certifications,
+  specialized skills, geographic location, and business needs.
+  Actual compensation may vary, and this range is subject to
+  change as our compensation structure or market conditions
+  evolve.
+  
+  
+  
+  Benefits & Perks
+  
+  
+  
+  Our culture fosters collaboration, respect, and trust,
+  empowering passionate people to do their best work. We offer
+  a competitive salary, comprehensive benefits, and
+  opportunities for career growth. In addition to an
+  opportunity to take part in an innovative, collaborative and
+  fast-growing business with a highly motivated and skilled
+  team, we also take pride in taking care of our employees.
+  Here are just a few ways that we show our appreciation:
+  
+  - We offer comprehensive medical, dental, and visions plans
+  - 401(k) Retirement Savings Plan to invest in your long-term
+    retirement goals
+  - Equity grants for new hires
+  - Unlimited PTO
+  - Extremely generous company holiday calendar, including a
+    holiday hiatus in November, & December
+  - Generous Parental Leave
+  - Lifestyle Spending Account
+  - FSA
+  - DCFSA
+  - HSA
+  - Hospital Indemnity insurance
+  - Critical Illness insurance
+  - Accident insurance
+  - Basic Life/AD&D, short-term and long-term disability
+    insurance, 100% covered by Firestorm. Plus, the option to
+    purchase additional life insurance for you and your family
+  - Mental Health Resources: We provide free mental health
+    resources 24/7 including therapy and more. Additional
+    work-life services, such as free legal and financial
+    support, are available to you as well
+  
+  Export Control Compliance
+  
+  
+  
+  To conform to U.S. government export control regulations,
+  including the International Traffic in Arms Regulations
+  (ITAR) and Export Administration Regulations (EAR), you must
+  be a U.S. citizen, lawful permanent resident of the U.S.,
+  protected individual as defined by 8 U.S.C. 1324b(a)(3), or
+  otherwise eligible to obtain the required authorizations
+  from the U.S. Department of State or U.S. Department of
+  Commerce.
+  
+  
+  
+  Equal Opportunity Statement
+  
+  
+  
+  Firestorm is an equal opportunity employer, committed to
+  creating a diverse and inclusive workplace, and upholding
+  equitable hiring practices. All qualified applicants will
+  receive consideration for employment without regard to race,
+  color, religion, sex, sexual orientation, gender identity,
+  national origin, disability, protected veteran status, or
+  any other characteristic under federal, state, or local law,
+  including those with a criminal history, in a manner
+  consistent with the requirements of applicable state and
+  local laws, including the CA Fair Chance Initiative for
+  Hiring Ordinance. We actively encourage members of
+  recognized minorities, women, Veterans, and those with
+  disabilities to apply, and we work to create a welcoming and
+  supportive environment for all applicants throughout the
+  interview process.
+  
+  
+  
+  Firestorm is committed to fostering an inclusive and
+  accessible work environment. If you require accommodations
+  or assistance during the application process, please don’t
+  hesitate to reach out to us at careers@launchfirestorm.com
+  so we can provide the support you need.
+industries:
+  - Aerospace
+  - Defense
+posted_date: 2026-03-26
+url: "https://www.builtinla.com/job/senior-ai-software-engineer/8874850"
+source: Built In

@@ -1,0 +1,52 @@
+company:
+  name: Prudential plc
+  stage: Public
+  focus: Health insurance joint venture in India
+position:
+  title: PHI - Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting and building an "Agentic AI
+      Stack" with agentic workflows for claims adjudication,
+      developing predictive fraud models, and creating AI-native
+      systems using LangGraph, CrewAI, Vertex AI, and Gemini
+      models. The role directly works on deploying AI models and
+      building AI-powered autonomous systems, not just supporting
+      infrastructure.
+  responsibilities:
+  - Architect proprietary Agentic AI Stack to replace external SaaS platforms and
+    achieve technology sovereignty
+  - Build AI-native Claims Management System with agentic workflows for automated
+    clinical scrutiny and rule-based adjudication
+  - Develop in-house predictive Fraud, Waste & Abuse (FWA) risk engine with proprietary
+    fraud signatures and real-time pattern analysis
+  - Create Provider Network Control Tower with bidirectional data interoperability
+    using HL7 FHIR and ABDM standards
+  - Design backend pipelines to ingest and validate medical data via NHCX
+  - Implement Straight-Through Processing systems with near-zero manual intervention
+  - Enable automated provider onboarding, tariff updates, and network insights through
+    agentic backends
+  - Build and deploy AI models and ML-backed workflows on GCP Vertex AI
+  use_cases:
+  - Health insurance claims adjudication and straight-through processing
+  - Fraud, Waste & Abuse detection with predictive risk scoring
+  - Provider network management and trust scoring
+  - Automated clinical scrutiny and medical data validation
+  - Real-time risk analysis at point of care
+  skills:
+    genai: [LangGraph, CrewAI, Agentic workflows, Gemini models]
+    ml: [ML-backed workflows, Predictive risk models, Scoring models]
+    web: []
+    databases: []
+    data: []
+    cloud: [Vertex AI, BigQuery ML, Document AI, Cloud-native microservices]
+    ops: [Distributed systems]
+    languages: [Python, Go, Java]
+    domains: []
+    other: [HL7 FHIR, ABDM protocols, NHCX]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8561275'
+  extracted_at: '2026-03-03T11:40:41.229765'

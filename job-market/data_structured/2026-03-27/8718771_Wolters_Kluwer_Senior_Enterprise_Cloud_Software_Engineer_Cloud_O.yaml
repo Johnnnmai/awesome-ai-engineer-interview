@@ -1,0 +1,57 @@
+company:
+  name: Wolters Kluwer
+  stage: Public
+  focus: Information services and professional information solutions
+position:
+  title: Senior Enterprise Cloud Software Engineer (Cloud Operations, AI Engineering,
+    Azure & AWS)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on cloud operations and infrastructure
+      engineering with AI-assisted tooling as an enhancement, not
+      as the primary focus. The role builds and operates cloud
+      platforms, leveraging AI services to augment operational
+      workflows rather than building, training, or deploying AI/ML
+      models directly. AI is used to accelerate and improve cloud
+      operations, not as the core deliverable.
+  responsibilities:
+  - Design and build enterprise-grade cloud services, APIs, and automation platforms
+    using Python-first stack
+  - Develop cloud-native tooling and services using Azure and AWS SDKs for provisioning
+    and lifecycle management
+  - Implement Infrastructure-as-Code frameworks using Terraform, Ansible, ARM/Bicep,
+    and CloudFormation
+  - Build and operate high-availability, fault-tolerant architectures across hybrid
+    and multi-cloud environments
+  - Apply AI-assisted CloudOps practices including anomaly detection, predictive insights,
+    and automated remediation
+  - Design and operate intelligent runbooks and AI agents for safe and auditable operational
+    decisions
+  - Integrate approved GenAI and ML services into operational workflows with governance
+    compliance
+  - Design and maintain CI/CD pipelines for infrastructure and platform automation
+  use_cases:
+  - Cloud infrastructure automation and self-healing systems
+  - AI-assisted cloud operations with anomaly detection and predictive insights
+  - Enterprise cloud platform standardization and governance
+  - Infrastructure-as-Code provisioning at scale
+  - Intelligent runbooks and automated remediation workflows
+  - Multi-cloud and hybrid cloud management
+  skills:
+    genai: [GenAI services]
+    ml: [ML services]
+    web: [FastAPI, Django, Flask, REST APIs, GraphQL]
+    databases: []
+    data: []
+    cloud: [Azure, AWS, AKS, EKS]
+    ops: [Terraform, Ansible, ARM/Bicep, CloudFormation, Docker, Kubernetes, Azure
+        DevOps, GitHub Actions, GitLab CI/CD, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8718771'
+  extracted_at: '2026-03-27T16:05:36.988030'

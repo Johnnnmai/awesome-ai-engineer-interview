@@ -1,0 +1,53 @@
+company:
+  name: Uniphore
+  stage: null
+  focus: |-
+    B2B AI-native company providing multimodal enterprise AI
+    solutions combining Generative AI, Knowledge AI, and Emotion
+    AI
+position:
+  title: Senior Softwae Engineer (Java/Go with AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience building LLM-based
+      features including RAG, vector search, and working with
+      agent frameworks like LangChain and LangGraph. The position
+      involves directly implementing and deploying AI/ML services,
+      not just supporting infrastructure for others' AI work.
+  responsibilities:
+  - Design, develop, test, and maintain scalable backend and frontend components for
+    enterprise-grade SaaS applications
+  - Translate product and business requirements into clear technical designs and implementation
+    plans
+  - Contribute to system and API design, ensuring maintainability, performance, and
+    scalability
+  - Write high-quality, well-documented, and testable code following best practices
+  - Participate in peer code reviews and provide constructive feedback
+  - Collaborate effectively with cross-functional and multi-region teams to deliver
+    features within agreed timelines
+  - Support and improve existing systems through refactoring, optimization, and bug
+    fixes
+  - Build and integrate LLM-based features including RAG and vector search
+  use_cases:
+  - Enterprise-grade SaaS applications with AI capabilities
+  - Customer experience optimization through multimodal AI
+  - Voice, video, and text data capture and analysis
+  - LLM-powered features with RAG and vector search
+  - Workflow automation and AI co-pilot systems
+  skills:
+    genai: [MCP, RAG, LangChain, LangGraph]
+    ml: ['LLM fine-tuning (LoRA, QLoRA)']
+    web: [REST APIs, WebSockets, gRPC]
+    databases: [Postgres, MongoDB, Vector search, Redis, ClickHouse]
+    data: [Kafka]
+    cloud: []
+    ops: [MLOps/LLMOps, Linux]
+    languages: [Java, Python, Go, Rust]
+    domains: []
+    other: [Microservices architecture, Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8344074'
+  extracted_at: '2026-03-03T11:12:52.089668'

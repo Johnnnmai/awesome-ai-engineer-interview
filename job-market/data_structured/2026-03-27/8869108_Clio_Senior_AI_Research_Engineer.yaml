@@ -1,0 +1,49 @@
+company:
+  name: Clio
+  stage: null
+  focus: |-
+    Legal AI technology platform combining legal operating
+    system with legal intelligence for law firms
+position:
+  title: Senior AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly working with LLMs for retrieval
+      systems, fine-tuning, evaluation, and building agentic
+      infrastructure. The position focuses on advancing Vincent AI
+      through applied research on LLMs, information retrieval, and
+      agent orchestration - all core AI/ML work.
+  responsibilities:
+  - Lead research projects on LLMs and advanced information retrieval for legal applications
+  - Design and implement production-quality prototypes demonstrating research innovations
+  - Drive transition of research innovations from prototype to production deployment
+  - Develop retrieval systems with hybrid sparse/dense embeddings and query augmentation
+  - Build agentic infrastructure for legal workflow automation with guardrails
+  - Design evaluation frameworks for retrieval systems and agents with human-in-the-loop
+    processes
+  - Create mechanisms for grounding and validating LLM responses in legal sources
+  - Contribute to strategic research planning and cross-functional collaboration
+  use_cases:
+  - Legal document search and retrieval across vast legal corpora
+  - Legal research with authoritative result ranking
+  - Automated legal task execution through AI agents
+  - Legal workflow automation with traceability and guardrails
+  - Trustworthy AI responses grounded in legal sources for legal professionals
+  skills:
+    genai: [Prompt engineering, Prompt chaining, Agent orchestration frameworks, RAG,
+      Vector embeddings]
+    ml: [LLM fine-tuning, LLM evaluation, Learning to rank]
+    web: []
+    databases: []
+    data: [Information retrieval systems]
+    cloud: []
+    ops: [LLM inference optimization]
+    languages: [Python]
+    domains: [NLP, Legal AI]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8869108'
+  extracted_at: '2026-03-27T13:23:39.133302'

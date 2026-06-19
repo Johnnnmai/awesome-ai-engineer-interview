@@ -1,0 +1,55 @@
+company:
+  name: GE Healthcare
+  stage: Public
+  focus: |-
+    Global medical technology and digital solutions innovator
+    for healthcare
+position:
+  title: Senior AI Engineer, Enterprise AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying GenAI and
+      Agentic AI solutions including RAG models, agent workflows,
+      and LLM orchestration. The position involves hands-on work
+      with AI/ML models including fine-tuning, orchestration, and
+      integration into end-user applications, which is core AI-
+      first work.
+  responsibilities:
+  - Design and develop RAG models, agent workflows, and multi-step reasoning models
+  - Perform unstructured data analysis and integrate ML/GenAI models into end-user
+    applications
+  - Lead AI engineering projects from ideation through implementation ensuring robust,
+    scalable solutions
+  - Collaborate cross-functionally with data engineering, ML engineering, data science,
+    and business stakeholders
+  - Apply best practices in data preparation, feature engineering, model selection,
+    validation, and deployment
+  - Stay current with AI advancements and identify opportunities to improve existing
+    models and processes
+  - Translate complex AI concepts into actionable insights for business partners
+  - Share knowledge through mentorship and contribute to team learning
+  use_cases:
+  - Commercial excellence and sales optimization
+  - Logistics and supply chain optimization
+  - Inventory management and forecasting
+  - Manufacturing innovation and operational optimization
+  - Financial analytics and decision support
+  - Quality management and operational excellence
+  skills:
+    genai: [MCP, A2A, LLM foundational models, LangGraph, RAG, AI Agent design and
+        orchestration, LLM fine-tuning]
+    ml: [Deep Learning, Transformers, Self-Supervised Learning, feature engineering]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS Bedrock, Azure AI Foundry]
+    ops: [LangSmith, model deployment]
+    languages: []
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8022962'
+  extracted_at: '2026-03-03T12:15:47.017603'

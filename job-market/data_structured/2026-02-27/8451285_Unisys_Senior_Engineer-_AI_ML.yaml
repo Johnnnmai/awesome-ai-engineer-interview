@@ -1,0 +1,48 @@
+company:
+  name: Unisys
+  stage: Public
+  focus: IT services and enterprise technology solutions
+position:
+  title: Senior Engineer- AI/ ML
+  ai_type:
+    type: unknown
+    reasoning: |-
+      Despite the job title mentioning "AI/ML", the actual
+      responsibilities describe a generic software applications
+      engineering role focused on build/deployment, requirements
+      design, coding, testing, and defect fixing. There are no
+      specific mentions of AI/ML work such as model building,
+      training, fine-tuning, deploying AI systems, or working with
+      AI/ML frameworks. The role appears to be standard software
+      engineering.
+  responsibilities:
+  - Provide software applications engineering support for complex applications and
+    project areas
+  - Perform build and deployment for application development efforts
+  - Design requirements that are effective, timely and comply with project standards
+  - Configure, program and test applications and technical architecture components
+  - Fix defects and performance-related problems
+  - Deploy QAT or UAT environments independently
+  - Participate in code reviews and collaborate with developers, designers, and architects
+  - Lead efforts in process improvement and technical automation areas
+  use_cases:
+  - Software application development and deployment
+  - Application testing and quality assurance
+  - Defect resolution and performance optimization
+  - Pre-production environment management
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Application Deployment]
+    languages: []
+    domains: []
+    other: [Software Engineering, Testing & QA, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8451285'
+  extracted_at: '2026-03-03T12:45:28.172158'

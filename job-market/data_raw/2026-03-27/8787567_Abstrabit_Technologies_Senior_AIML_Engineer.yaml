@@ -1,0 +1,89 @@
+job_id: 8787567
+title: Senior AI/ML Engineer
+company: Abstrabit Technologies
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Ai Frameworks
+  - Python
+  - Rag Pipelines
+  - Vector Databases
+company_size: 12 Employees
+description: |
+  Company Description
+  
+  We specialize in building intelligent AI agents that
+  transform the way businesses operate. Our focus is on
+  designing AI-driven solutions tailored to real-world use
+  cases across industries – from customer engagement and sales
+  automation to knowledge management and workflow
+  optimization.
+  
+  Job Description
+  
+  Job Overview We are seeking a highly skilled Senior AI
+  Engineer specializing in agent-based systems and advanced AI
+  architectures. The ideal candidate will have deep expertise
+  in designing scalable, production-grade multi-agent systems,
+  implementing advanced reasoning capabilities, and building
+  robust, secure, and intelligent AI solutions.
+  
+  Key Responsibilities:
+  
+  Architecture & System Design
+  
+  - Designing multi-agent architectures (supervisor,
+    hierarchical, collaborative patterns)
+  - Building fault-tolerant, production-grade agent systems with
+    error recovery, fallback strategies, and human-in-the-loop
+    escalation
+  - Architecting scalable RAG systems (hybrid search, query
+    decomposition, agentic retrieval)
+  - Designing agent evaluation and benchmarking frameworks from
+    scratch
+  - Security and safety patterns for autonomous agents
+    (sandboxing, permission scoping, content filtering)
+  
+  Advanced Agent Capabilities
+  
+  - Complex workflow orchestration — agents that plan, delegate,
+    self-correct, and iterate
+  - Multi-modal agent development (vision, audio, document
+    understanding)
+  - Implementing advanced reasoning patterns (ReAct, reflection,
+    tree-of-thought, self-critique loops)
+  - Building custom tool ecosystems — MCP servers, plugin
+    architectures, dynamic tool selection
+  - Knowledge graph integration and structured knowledge
+    management for agents
+  - Fine-tuning and distillation of models for domain-specific
+    agent behaviors
+  
+  Qualifications
+  
+  Required Qualifications
+  
+  - Bachelor’s or Master’s degree in Computer Science,
+    Artificial Intelligence, or a related field
+  - 2- 5 years of experience in AI/ML engineering, with a focus
+    on LLMs or agent-based systems
+  - Strong experience in system design and scalable architecture
+  - Proficiency in Python and modern AI frameworks
+  - Hands-on experience with RAG pipelines and vector databases
+  - Familiarity with model fine-tuning, evaluation, and
+    deployment
+  
+  Additional Information
+  
+  Why Join Us
+  
+  - Work on cutting-edge AI agent technologies
+  - Opportunity to design next-generation intelligent systems
+  - Collaborative and innovation-driven environment
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+posted_date: 2026-03-18
+url: "https://builtin.com/job/senior-ai-ml-engineer/8787567"
+source: Built In

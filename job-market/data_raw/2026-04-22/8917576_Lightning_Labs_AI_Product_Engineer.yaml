@@ -1,0 +1,112 @@
+job_id: 8917576
+title: AI Product Engineer
+company: Lightning Labs
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Claude Code
+  - Codex
+  - Cursor
+description: |
+  Lightning Labs builds the infrastructure that makes Bitcoin
+  work as a global payment network. Our protocols: the
+  Lightning Network, Taproot Assets, and L402, are used by
+  developers all around the world and are increasingly the
+  rails that AI agents use to pay for services, stream value,
+  and transact autonomously. We are looking for an AI Product
+  Engineer to help us move faster everywhere at once.
+  
+  Location: San Francisco Bay Area ideal. Remote considered
+  for strong candidates, with proximity to US time zones
+  
+  The Role
+  
+  This is not a single-product role. You will move across the
+  company, picking up whatever project has the most leverage
+  that week: building a demo that shows developers what
+  L402-powered agentic commerce looks like, automating a
+  workflow that saves the business development team hours of
+  manual work, standing up an MCP server that gives AI agents
+  access to our APIs, or shipping a feature in Terminal Web.
+  You are the person we point at a problem and trust to come
+  back with something that works.
+  
+  The ideal candidate is someone who builds and ships
+  constantly, using AI-native tools as a natural part of how
+  they work. You have strong product instincts, you don't just
+  write code, you understand why something matters and who
+  it's for. You're comfortable being dropped into an
+  unfamiliar codebase on Monday and demoing a working
+  prototype by Friday.
+  
+  What You'll Do
+  
+  Build demos and developer experiences that show what's
+  possible on Lightning. End-to-end working applications that
+  showcase Lightning payments, L402-gated APIs, Taproot
+  Assets, and agentic workflows. These demos are how we
+  communicate the value of our platform to developers and
+  partners.
+  
+  Automate and augment internal workflows by partnering with
+  engineering, product, business development, and marketing
+  teams to identify where AI can eliminate manual work. Build
+  the tools, scripts, MCP servers, and integrations that make
+  the whole company faster.
+  
+  Ship features across products including Terminal Web, LND,
+  and new products. You'll write production code, not just
+  prototypes, but you'll also know when a prototype is the
+  right answer.
+  
+  Work autonomously with minimal direction. Understand the
+  company's priorities, identify where you can have the most
+  impact, and execute. Context switch across projects and
+  teams while maintaining quality.
+  
+  What We're Looking For
+  
+  - You build and ship production-quality software. You have a
+    portfolio, GitHub profile, or set of projects that
+    demonstrate this, we'd love to see them.
+  - You use AI-native development tools (Claude Code, Cursor,
+    Codex, or similar) as part of your daily workflow, not as
+    a novelty.
+  - You're comfortable across the full stack. Our work spans
+    TypeScript, React, Go, Python, and whatever else the
+    problem requires. Go experience is a plus.
+  - You have strong product instincts and can translate between
+    technical and non-technical contexts. You'll work directly
+    with business development, marketing, and product, not
+    just engineering.
+  - You're familiar with agentic AI patterns: tool use, MCP,
+    multi-step workflows, and integrating LLMs into real
+    systems.
+  - You're self-directed with a bias toward action. You thrive
+    in ambiguous, fast-moving environments and have a track
+    record of delivering.
+  
+  Nice to Have
+  
+  - Understanding of Bitcoin, the Lightning Network, L402, or
+    Taproot Assets. We care more about curiosity and
+    willingness to learn than existing knowledge.
+  - Experience building developer-facing demos, sample
+    applications, or technical content.
+  - Contributions to open source projects.
+  - Experience at a small, high-growth company where wearing
+    many hats was the norm.
+  
+  How to Apply
+  
+  We strongly encourage you to include links to projects,
+  demos, repos, or anything else that shows how you build. A
+  strong portfolio speaks louder than a keyword-optimized
+  resume.
+industries:
+  - Blockchain
+  - Software
+posted_date: 2026-03-31
+url: "https://www.builtinla.com/job/ai-special-projects-engineer/8917576"
+source: Built In

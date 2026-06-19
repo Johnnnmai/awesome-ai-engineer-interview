@@ -1,0 +1,52 @@
+company:
+  name: Trimble
+  stage: Public
+  focus: |-
+    Technology solutions for AECO (Architecture, Engineering,
+    Construction, Operations) industry
+position:
+  title: Lead Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is building an Agentic AI Platform that powers AI
+      agents, which involves hands-on work with LLMs and agent
+      systems. The position requires implementing backend services
+      for agent orchestration and developing AI agent tooling,
+      which is direct work on AI systems rather than support
+      infrastructure.
+  responsibilities:
+  - Design, implement, test, and deploy robust backend components for the agentic
+    AI platform including APIs, services, orchestration, and data persistence
+  - Design and deploy user-facing features and internal tools using modern frontend
+    technologies including React, TypeScript, JavaScript, HTML, and CSS
+  - Develop core libraries, SDKs, and components across the stack to enable efficient
+    development and deployment of AI agents and associated tooling
+  - Write high-quality, maintainable, and well-tested code for both backend and frontend
+    systems
+  - Implement and improve monitoring, logging, and alerting across the full stack
+  - Participate actively in code reviews for both frontend and backend code
+  - Collaborate closely with backend specialists, frontend developers, designers,
+    and AI researchers on architectural direction
+  use_cases:
+  - Agentic AI platform for AECO industry applications
+  - Intelligent agents for business operations transformation
+  - Agent interaction interfaces and internal tools
+  - Testing environments for AI agents
+  - Scalable infrastructure for next-generation AI applications
+  skills:
+    genai: [LLMs, Agentic AI, Agent orchestration]
+    ml: []
+    web: [React, HTML, CSS, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript, Java, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7440537'
+  extracted_at: '2026-03-03T11:34:58.897218'

@@ -1,0 +1,49 @@
+company:
+  name: Jack & Jill AI
+  stage: VC-backed (likely Seed/Series A)
+  focus: |-
+    AI Assurance platform for fairness and transparency
+    compliance
+position:
+  title: Product Engineer (£100k-120k+ + Equity) at Warden AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role involves building web applications and data
+      pipelines that ANALYZE AI systems for bias and fairness, not
+      building or deploying the AI models themselves. The engineer
+      creates the platform infrastructure (APIs, dashboards,
+      monitoring) that assesses AI compliance, making this an AI-
+      support role.
+  responsibilities:
+  - Design and ship end-to-end features using TypeScript, React, and Python to analyze
+    large datasets for AI bias and factual accuracy
+  - Partner directly with customers to implement reliable API connectors and tailor
+    integration strategies for AI talent platforms
+  - Build automated data pipelines and instrumented monitoring for real-time audit
+    reports
+  - Generate public trust dashboards for enterprise clients
+  - Partner with CTO to architect and build core platform infrastructure
+  - Prototype and harden production-grade compliance reporting systems
+  use_cases:
+  - AI fairness and bias detection in enterprise systems
+  - Compliance reporting for EU AI Act and NYC bias laws
+  - Real-time audit reporting for HR AI vendors
+  - Public trust dashboards for AI transparency
+  - Factual accuracy verification of AI systems
+  skills:
+    genai: [Claude]
+    ml: []
+    web: [React, Next.js, API connectors]
+    databases: []
+    data: [Data pipelines]
+    cloud: []
+    ops: [Monitoring]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Cursor]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8854109'
+  extracted_at: '2026-03-27T16:10:04.393278'

@@ -1,0 +1,55 @@
+company:
+  name: SandboxAQ
+  stage: Growth capital-backed (emerged from Alphabet in 2022)
+  focus: |-
+    AI solutions for life sciences, financial services,
+    navigation, and cybersecurity using Large Quantitative
+    Models
+position:
+  title: AI Sim - Staff ML Research Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role is squarely focused on building and optimizing
+      traditional ML/DL models (not LLMs/agents) for computational
+      chemistry and drug discovery. The core work involves
+      distributed training of ML models, GPU-level optimizations,
+      and scaling scientific codebases for "Large Quantitative
+      Models" — which are physics-based and ML models for
+      molecular simulation, not generative AI/LLM systems.
+  responsibilities:
+  - Architect and scale scientific ML algorithms by translating research papers into
+    robust, production-grade code
+  - Lead ideation, benchmarking, and execution of complex datasets and ML models integrated
+    into large-scale simulation frameworks
+  - Implement advanced software and hardware optimizations to maximize efficiency
+    of ML pipelines across distributed cloud GPU environments
+  - Drive software through the entire product lifecycle from foundational research
+    and implementation to launch and long-term support
+  - Transition high-impact research prototypes into robust, production-ready products
+  - Orchestrate distributed training pipelines on large-scale GPU infrastructure
+  - Pioneer hardware-level optimizations pushing the boundaries of computational chemistry
+  use_cases:
+  - Drug discovery and molecular design through in silico simulation
+  - Materials discovery using physics-based and ML models
+  - Computational chemistry simulation and optimization
+  - Large Quantitative Model (LQM) training and deployment for scientific applications
+  - Structure prediction and generative chemistry for biopharma
+  skills:
+    genai: ['Agentic coding tools (Claude Code, Codex)']
+    ml: [PyTorch, TensorFlow, Distributed training on cloud GPUs, GPU optimization,
+      CUDA, Model training and optimization]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud platforms (AWS/GCP/Azure)]
+    ops: [MLOps, Model monitoring]
+    languages: [Python]
+    domains: [Computational chemistry, Drug discovery, Biopharma, Structure prediction
+        models, Generative chemistry models]
+    other: [Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8922225'
+  extracted_at: '2026-04-22T13:18:56.138228'

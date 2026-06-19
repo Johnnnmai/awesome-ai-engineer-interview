@@ -1,0 +1,124 @@
+job_id: 8825161
+title: Data/AI Engineer
+company: Acrisure
+location: London, GBR
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ci/Cd
+  - Databricks
+  - JavaScript
+  - Llm
+  - Ml
+  - Python
+  - Spark
+  - SQL
+  - Typescript
+company_size: 3,983 Employees
+description: |
+  About Acrisure
+  
+  A global fintech leader, Acrisure empowers millions of
+  ambitious businesses and individuals with the right
+  solutions to grow boldly forward. Bringing cutting-edge
+  technology and top-tier human support together, we connect
+  clients with customized solutions across a range of
+  insurance, reinsurance, payroll, benefits, cybersecurity,
+  mortgage services – and more.
+  
+  In the last twelve years, Acrisure has grown in revenue from
+  $38 million to almost $5 billion and employs over 19,000
+  colleagues in more than 20 countries. Acrisure was built on
+  entrepreneurial spirit. Prioritizing leadership,
+  accountability, and collaboration, we equip our teams to
+  work at the highest levels possible.
+  
+  Acrisure is seeking a Data/AI Engineer to join our growing
+  team and focus on our International entities. In 2026, the
+  primary focus will be the design and delivery of global KPIs
+  across multiple international entities. This will involve
+  integrating data from over 20 systems, establishing
+  standardized KPI definitions, performing data transformation
+  and modelling, and developing scalable dashboards and
+  reporting solutions. Parallel and subsequent phases will
+  focus on workflow automation, the rollout of AI-enabled
+  capabilities, and broader operational optimisation
+  initiatives.
+  
+  Responsibilities:
+  
+  - Design and deliver scalable data pipelines using a mix of
+    lowcode and codebased tooling to establish a robust,
+    governed data foundation.
+  
+  - Translate complex insurance and brokerage workflows into
+    scalable data and technology solutions, ensuring they are
+    aligned to business processes and measurable outcomes.
+  
+  - Model core business concepts and relationships in a unified
+    data model, using structured objects, links,
+    transformations, and governed logic.
+  
+  - Build decision centric operational applications focused on
+    business value, workflow efficiency, and KPI visibility,
+    leveraging modern development frameworks and analytics
+    tooling.
+  
+  - Develop and deploy safe, reliable, and auditable AIdriven
+    solutions, including agents, automations, and decision-
+    support capabilities, using appropriate governance,
+    testing, and monitoring practices.
+  
+  - Collaborate with cross-functional technical and business
+    teams to ensure solutions are scalable, reusable, and
+    deliver clear return on investment
+  
+  
+  
+  Required Qualifications
+  
+  - 5–10+ years of experience building data-driven products
+  
+  - Demonstrated success delivering production use cases in
+    regulated or data-sensitive domains (financial services or
+    insurance preferred).
+  
+  - Strong coding experience in Python and
+    TypeScript/JavaScript; SQL proficiency.
+  - Bachelor’s or Master’s degree in Computer Science,
+    Engineering, Mathematics, or a related technical field.
+  - Equivalent industry experience building production-grade
+    data and AI systems accepted.
+  
+  Preferred Qualifications
+  
+  - Prior experience in the insurance domain, particularly in
+    underwriting, placement, claims, or finance.
+  
+  - Familiarity with ML/LLM concepts such as retrieval-augmented
+    generation, agent design, and human-in-the-loop models.
+  
+  - Demonstrated enablement leadership: building reusable
+    templates, documentation, and coaching cross-functional
+    teams.
+  
+  - Experience with event-driven architectures, API
+    integrations, CI/CD, and infrastructure-as-code in cloud
+    environments.
+  
+  - Effective communicator with a systems-thinking mindset and
+    ability to translate business workflows into scalable
+    solutions.
+  - Exposure to Palantir Foundry and AIP is advantageous and
+    will enhance your impact across our data ecosystem.
+  - Advanced degree or certifications in cloud computing, AI/ML,
+    data engineering, or solution architecture.
+  - Familiarity with Spark, Databricks, or similar distributed
+    processing frameworks.
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-03-25
+url: "https://builtin.com/job/data-ai-engineer/8825161"
+source: Built In

@@ -1,0 +1,50 @@
+company:
+  name: Zimperium
+  stage: null
+  focus: |-
+    Enterprise mobile security with ML-based threat defense for
+    iOS, Android and Windows devices
+position:
+  title: AI Software Engineer (Python/Java) - India
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building scalable infrastructure
+      platforms, automation frameworks, and cloud-native services
+      that support production environments. While the company uses
+      ML for mobile threat detection, the role itself involves
+      backend development, cloud infrastructure, and platform
+      reliability - not working directly on ML models or AI
+      systems.
+  responsibilities:
+  - Design, develop, and maintain backend services using Java and Python
+  - Build scalable microservices and APIs supporting cloud infrastructure platforms
+  - Develop automation tools for infrastructure provisioning, monitoring, and operational
+    workflows
+  - Design and operate scalable systems on cloud platforms (AWS, GCP, OCI, Azure)
+  - Implement Infrastructure-as-Code using Terraform, Helm, or CloudFormation
+  - Build internal tools for monitoring, alerting, and operational observability
+  - Improve system reliability through automation and self-healing mechanisms
+  - Collaborate with DevOps, SRE, Security, and Product Engineering teams
+  use_cases:
+  - Mobile threat defense and cybersecurity protection
+  - Enterprise security platform infrastructure
+  - Real-time on-device protection against mobile cyberattacks and malware
+  - Cloud infrastructure automation and platform reliability
+  - Scalable backend services for security applications
+  skills:
+    genai: []
+    ml: []
+    web: [microservices, REST APIs]
+    databases: [PostgreSQL, Elasticsearch, Redis]
+    data: [Kafka, Kinesis]
+    cloud: [AWS, GCP, Azure, OCI]
+    ops: [Docker, Kubernetes, Terraform, Helm, CloudFormation, CI/CD, Linux]
+    languages: [Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8780868'
+  extracted_at: '2026-03-27T16:15:23.421770'

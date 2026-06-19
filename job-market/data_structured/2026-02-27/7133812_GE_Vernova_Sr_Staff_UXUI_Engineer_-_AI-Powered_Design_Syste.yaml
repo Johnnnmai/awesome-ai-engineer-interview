@@ -1,0 +1,59 @@
+company:
+  name: GE Vernova
+  stage: Public
+  focus: Energy technology and electrification for zero-carbon future
+position:
+  title: Sr. Staff UX/UI Engineer - AI-Powered Design Systems
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on designing and implementing user
+      interfaces FOR AI-powered applications, not building or
+      deploying AI models. The work involves creating UX patterns
+      for AI features, building front-end components that consume
+      AI APIs, and designing interaction patterns. While it
+      requires understanding AI capabilities, the core work is
+      front-end development and design, not hands-on model
+      development or deployment.
+  responsibilities:
+  - Design and prototype user interfaces that make complex AI capabilities accessible
+    and intuitive for users
+  - Transform designs into production-ready code using modern front-end frameworks
+    like React, Vue, and Angular
+  - Build reusable UI components that handle AI states including loading, streaming
+    responses, and error handling
+  - Implement real-time interfaces for AI features including chat interfaces, live
+    previews, and progressive disclosure
+  - Create design systems and component libraries that standardize AI interaction
+    patterns across products
+  - Develop interactive visualizations for AI model outputs, confidence scores, and
+    decision explanations
+  - Design conversational interfaces, prompt builders, and feedback mechanisms for
+    AI-powered features
+  - Partner with AI/ML engineers to understand technical constraints and possibilities
+    for design implementation
+  use_cases:
+  - Chat interfaces and conversational AI interactions
+  - Semantic search and recommendation systems
+  - AI-generated content display and interaction
+  - Real-time streaming AI responses with progressive disclosure
+  - AI model output visualization with confidence scores and explanations
+  - Prompt builders and AI parameter controls for non-technical users
+  skills:
+    genai: [Figma AI, Framer AI, Galileo AI, GitHub Copilot, prompt engineering]
+    ml: []
+    web: [Figma, Sketch, Adobe Creative Suite, Principle, ProtoPie, React, Next.js,
+      Vue.js, Angular, Tailwind CSS, Storybook, Material-UI, Ant Design, Shadcn/ui,
+      Framer Motion, GSAP, Lottie, D3.js, Chart.js, Recharts, Three.js]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Jest, React Testing Library, Playwright, Git]
+    languages: [TypeScript, HTML5, CSS3]
+    domains: []
+    other: [VS Code, WCAG 2.1 AA, Section 508]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7133812'
+  extracted_at: '2026-03-03T12:01:49.883349'

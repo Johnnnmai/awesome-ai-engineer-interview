@@ -1,0 +1,48 @@
+company:
+  name: Jack & Jill AI
+  stage: Series A
+  focus: AI-powered gamified learning platform for education
+position:
+  title: AI Engineer (£170k + Equity) at Gizmo.ai
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and shipping
+      production-ready AI features using LLMs, implementing prompt
+      engineering, and building LLM evaluation frameworks. The
+      engineer will work hands-on with advanced LLMs (GPT-5,
+      Gemini) to design and deploy AI-powered features, which
+      constitutes direct work on AI systems.
+  responsibilities:
+  - Design and implement production AI features using advanced prompt engineering
+    with the latest LLMs in a TypeScript backend
+  - Build and maintain robust LLM evaluation frameworks to systematically assess model
+    performance and improve system accuracy
+  - Collaborate in a small, high-calibre engineering team to own features end-to-end
+    from design through global deployment
+  - Ship production-ready AI features that serve over 1.5 million monthly users
+  - Shape the product roadmap alongside the CEO, contributing to AI-driven learning
+    experiences
+  use_cases:
+  - AI-powered gamified learning platform helping users learn anything through cognitive
+    science
+  - Automated content generation and personalized learning experiences using LLMs
+  - LLM-based educational features for 1.5 million monthly active users
+  - Scaling an AI-driven education product with $5M ARR to serve 1 billion people
+  skills:
+    genai: [Prompt Engineering, LLM APIs (OpenAI/Gemini), LLM Evaluation Frameworks,
+      GPT-5, Gemini]
+    ml: []
+    web: [Backend Development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8853785'
+  extracted_at: '2026-04-22T12:28:20.046098'

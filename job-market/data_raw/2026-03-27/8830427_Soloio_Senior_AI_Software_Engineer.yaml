@@ -1,0 +1,134 @@
+job_id: 8830427
+title: Senior AI Software Engineer
+company: Solo.io
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - A2A
+  - Ai Tooling
+  - Containers
+  - Envoy
+  - Go
+  - Istio
+  - Kubernetes
+  - Mcp
+  - Protocols
+  - Standards
+description: |
+  Who we are.
+  
+  Solo empowers teams to build and scale their AI
+  infrastructure using cloud-native tech. Most companies have
+  shifted from asking 'How can we make AI useful?' and are
+  instead now asking 'How do we take our AI projects to
+  production?'. A recent MIT study reveals a shocking 95% of
+  GenAI projects never make it there or fail to deliver
+  positive ROI. At Solo, our AI initiatives are helping teams
+  bridge that gap from pilot to production.
+  
+  With our roots in critical cloud infrastructure (gateways,
+  proxies, service mesh) trusted by Fortune 500s, Solo is
+  uniquely positioned to lead AI's next wave. As a nimble
+  startup, we innovate faster, our engineers contribute to
+  high-impact OSS (we're a top CNCF contributor) and solve
+  real scalability challenges.
+  
+  Solo is a VC-backed company, founded in 2017 by Idit Levine.
+  In 2021, Solo was valued at $1B. Solo’s customers are some
+  of the largest in the world, spanning all geographies and
+  industries. Solo’s team has deep expertise in Cloud
+  Computing, Linux, Containers, Kubernetes, Service Mesh,
+  APIs, AI, Security, Networking, Microservice Applications
+  and Infrastructure Modernization.
+  
+  About the role.
+  
+  This role will have opportunities to contribute to both our
+  cloud networking stack and our AI products, as the line
+  between the two is beginning to fade. Dive into OSS projects
+  like kagent (kagent.dev) for Kubernetes-based AI
+  orchestration, agentgateway (agentgateway.dev) which
+  redefines proxies for AI workflows, and kgateway
+  (kgateway.dev), our CNCF project handling billions of API
+  calls. All of these projects integrate seamlessly with
+  Istio’s Ambient Mesh (ambientmesh.io), a sidecar-less mesh
+  pioneered by Solo to make service meshes easy and resource-
+  efficient - driving a massive surge in adoption. You will
+  have chances to work with customers, contribute to open
+  source, and shape the future of AI infrastructure.
+  
+  You will work with the latest cloud and container
+  technologies like Kubernetes, Envoy, and Istio - as well as
+  with AI tooling, protocols and standards like MCP, A2A and
+  more! You will review customer feedback in order to promote
+  adoption and simplify usability of complex technology.
+  
+  This is a remote role for applicants based in the US.
+  Unfortunately we are unable to sponsor work visas for this
+  role at this time.
+  
+  Job Description:
+  
+  - Deliver high-quality solutions to the complex technical
+    problems our customers are facing.
+  - Manage and optimize our APIs within the ever-evolving
+    landscape of cloud-native environments, maintaining a
+    seamless user experience.
+  - Transform ambiguous requirements into actionable tasks,
+    focusing on high-impact deliverables that provide the most
+    value for our users.
+  - Challenge the status quo by proposing ambitious and
+    innovative solutions, driving our product forward.
+  - Introduce and uphold best practices to ensure the health and
+    maintainability of our codebase.
+  - Act as a mentor and guide, offering constructive feedback
+    during code and design reviews to foster growth within the
+    team.
+  - Participate in the hiring process, helping identify and
+    recruit top talent so that our engineering team can
+    continue to scale successfully.
+  
+  Job Requirements:
+  
+  - 5+ years of experience as a software engineer
+  - 2+ years working with Containers, Kubernetes, and Golang
+  - Experienced in building server side software in production
+    and recognizes the challenges, complexities and tradeoffs
+    to be made when building and deploying new systems to
+    production.
+  
+  Bonus Experience
+  
+  - Istio or other service mesh platforms
+  - Worked directly on a proxy before, such as Envoy Proxy
+  - Having built k8s controllers and operators
+  - Worked with Agentic frameworks and protocols such as, ADK,
+    MCP, A2A
+  - Experience working with GlooShot
+  - Implemented or used the kubernetes gateway API
+  
+  What you’ll love about Solo.
+  
+  At Solo, our culture is all about hiring great people,
+  creating a fun and fast-paced work culture, and letting our
+  teams work with our customers to successfully solve their
+  challenges.
+  
+  Solo works collaboratively with our customers, partners and
+  open source communities to deliver technology innovation,
+  technology solutions, architectural best-practices, and
+  hands-on education. Solo uses a unique engagement model with
+  our customers that allows us to quickly make them
+  successful, and continue to work closely with them as their
+  production environments grow.
+  
+  Solo is an Equal Opportunity Employer. All qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, sexual orientation,
+  gender identity, national origin, or protected veteran
+  status and will not be discriminated against on the basis of
+  disability.
+posted_date: 2026-03-20
+url: "https://www.builtinla.com/job/senior-ai-software-engineer/8830427"
+source: Built In

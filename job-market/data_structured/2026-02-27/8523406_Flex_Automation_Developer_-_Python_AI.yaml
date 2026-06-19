@@ -1,0 +1,50 @@
+company:
+  name: Flex
+  stage: Public
+  focus: Diversified manufacturing partner for market-leading brands
+position:
+  title: Automation Developer - Python + AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves developing and integrating AI/ML models
+      into business workflows, with hands-on work using Langchain,
+      OpenAI, TensorFlow/PyTorch, and applying NLP, generative AI,
+      and prompting techniques. The position focuses on building
+      AI-driven intelligent automation solutions directly, not
+      just supporting infrastructure.
+  responsibilities:
+  - Design, develop, and deploy Python-based automation solutions for enterprise business
+    processes
+  - Analyze existing business workflows and identify automation and optimization opportunities
+  - Build scalable automation frameworks that improve efficiency, accuracy, and turnaround
+    time
+  - Develop and integrate AI/ML models into business workflows for intelligent decision-making
+  - Apply NLP and data analytics to automate document processing, emails, tickets,
+    and reports
+  - Integrate automation solutions with enterprise applications, databases, and APIs
+  - Monitor automation performance using KPIs, metrics, and dashboards
+  - Provide technical guidance and mentoring to junior automation engineers
+  use_cases:
+  - Business process automation for enterprise workflows
+  - Document processing and OCR using NLP
+  - Email and ticket automation
+  - Chatbots and conversational AI
+  - Demand forecasting and optimization
+  - Web search and document search
+  skills:
+    genai: [Langchain, OpenAI, Prompt engineering, Generative AI]
+    ml: [NLP, TensorFlow, PyTorch, scikit-learn, NumPy, Pandas]
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [Git, CI/CD, Docker, Linux/Unix]
+    languages: [Python, SQL]
+    domains: [OCR]
+    other: [UiPath, Power Automate]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8523406'
+  extracted_at: '2026-03-03T11:55:43.221519'

@@ -1,0 +1,48 @@
+company:
+  name: Aledade
+  stage: Established (founded 2014, largest network of independent primary care)
+  focus: |-
+    Value-based primary care network empowering independent
+    practices
+position:
+  title: Principal Engineer - AI Products & Platform, Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting and building "next-
+      generation agentic and AI-enabled experiences" and shaping
+      "AI-powered product ecosystem." The Principal Engineer will
+      be hands-on in designing and implementing AI systems from V0
+      through V2, directly working on AI/agent architecture at
+      scale.
+  responsibilities:
+  - Architect next-generation agentic and AI-enabled experiences for the product ecosystem
+  - Make critical technical decisions on complex distributed AI systems
+  - Set technical direction across horizontal product space and guide engineering
+    teams
+  - Build systems from V0 through V2 that are production-ready
+  - Mentor engineers and promote engineering excellence across teams
+  - Align technical strategies with business goals through cross-functional collaboration
+  - Evaluate new technologies and lead innovation initiatives
+  use_cases:
+  - AI-powered healthcare products for independent primary care practices
+  - Agentic AI experiences for healthcare workflow automation
+  - AI-enabled platform scaling to millions of users worldwide
+  - Value-based care optimization and decision support
+  - Healthcare data integration and intelligence
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [SQL]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD pipelines]
+    languages: [Java, Python, Scala, C#, C++, Go]
+    domains: []
+    other: [Distributed systems, System design]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8738401'
+  extracted_at: '2026-03-27T15:08:22.632365'

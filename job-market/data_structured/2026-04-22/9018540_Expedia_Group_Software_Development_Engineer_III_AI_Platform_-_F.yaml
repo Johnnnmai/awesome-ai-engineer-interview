@@ -1,0 +1,53 @@
+company:
+  name: Expedia Group
+  stage: Public
+  focus: |-
+    Global travel technology platform powering bookings and
+    experiences
+position:
+  title: Software Development Engineer III, AI Platform - Finance Products
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI/ML
+      systems including prompt engineering, RAG architectures, and
+      agentic workflows. The engineer owns end-to-end technical
+      execution of AI products from design through production,
+      requiring deep expertise in LLMs and ML engineering. This is
+      directly working ON AI systems, not just supporting
+      infrastructure.
+  responsibilities:
+  - Design and build end-to-end AI products and deployment pipelines
+  - Own technical architecture for AI workflows including prompt engineering, RAG,
+    and agentic systems
+  - Develop and review backend services, APIs, and data pipelines powering AI products
+  - Translate complex Finance problems into scalable AI system designs
+  - Ensure AI solutions meet standards for performance, reliability, security, and
+    governance
+  - Drive production readiness including monitoring, logging, evaluation, and cost
+    control
+  - Establish best practices for AI development, deployment, and maintenance
+  - Partner closely with Product and stakeholders to shape technical solutions
+  use_cases:
+  - AI-powered financial analysis and decision support for Finance teams
+  - Automated financial data processing and insights generation
+  - RAG-based knowledge retrieval for financial data and reports
+  - Agentic AI workflows for finance operations automation
+  - Scalable AI capabilities reusable across multiple finance use cases
+  skills:
+    genai: [Prompt Engineering, RAG, Agentic Systems, LangChain, LlamaIndex, Semantic
+        Kernel, Langflow, OpenAI, Claude, Gemini, Llama, LLMs]
+    ml: [ML Engineering]
+    web: [API Design, Distributed Systems, REST APIs]
+    databases: []
+    data: [Data Pipelines, Semantic Modeling, Time-series Logic]
+    cloud: [Cloud-native Architectures]
+    ops: [CI/CD, MLOps, Containers, Monitoring and Evaluation]
+    languages: [Python, SQL, Java]
+    domains: []
+    other: [AI Security and Compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9018540'
+  extracted_at: '2026-04-22T12:28:49.705617'

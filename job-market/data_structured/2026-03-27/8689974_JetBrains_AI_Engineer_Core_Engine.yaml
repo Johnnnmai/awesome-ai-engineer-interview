@@ -1,0 +1,42 @@
+company:
+  name: JetBrains
+  stage: Public
+  focus: Developer tools and IDEs for software development
+position:
+  title: AI Engineer (Core Engine)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and implementing AI coding
+      agents and agentic tools from scratch, working directly with
+      LLMs, prompt engineering, and AI agents. The position
+      focuses on building production AI systems that provide
+      deeper context about codebases, which is hands-on work with
+      AI/LLM models and agents.
+  responsibilities:
+  - Translate product needs into agentic tools and services and ship them to production
+  - Scale prototypes to large numbers of users
+  - Improve and test semantic search service
+  - Build evaluation pipelines for code retrieval and coding task performance
+  - Design and implement AI coding agents from scratch
+  use_cases:
+  - AI coding agents with deeper codebase context
+  - Code retrieval for improved agent speed and task performance
+  - Semantic search across hundreds of thousands of repositories
+  - Code intelligence and insight extraction beyond simple snippets
+  skills:
+    genai: [Prompt Engineering, Tool Engineering, AI Agents, LLM]
+    ml: [NLP]
+    web: []
+    databases: []
+    data: [Information Retrieval, Semantic Search]
+    cloud: []
+    ops: []
+    languages: [Python, Kotlin]
+    domains: [Code Intelligence, AST, Symbol Graphs]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8689974'
+  extracted_at: '2026-03-27T13:46:27.836705'

@@ -1,0 +1,46 @@
+company:
+  name: HighLevel
+  stage: Growth/Scale (2M+ businesses, 1500+ employees)
+  focus: |-
+    AI-powered white-label sales & marketing platform for
+    agencies and businesses
+position:
+  title: Software Development Engineer in Test III - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an SDET/QA role focused on testing AI-powered
+      products, not building or deploying AI systems. The role
+      involves validating AI features, testing RAG pipelines, and
+      ensuring quality of AI integrations, but does not include
+      building, training, fine-tuning, or deploying AI models.
+  responsibilities:
+  - Design, develop, and maintain automation frameworks and test strategies for AI
+    products
+  - Test and validate AI-powered features including OpenAI, Claude, and other AI integrations
+  - Evaluate and improve RAG flows ensuring accuracy and performance
+  - Leverage AI automation tools to optimize test coverage and efficiency
+  - Collaborate with developers, product managers, and AI researchers on quality releases
+  - Own tasks end-to-end working independently to deliver on commitments
+  - Mentor and guide junior SDETs fostering a culture of quality and continuous learning
+  use_cases:
+  - Testing and validating AI-powered marketing platform features
+  - RAG pipeline quality assurance and performance evaluation
+  - AI integration testing with LLM platforms
+  - Test automation for AI-driven sales and marketing tools
+  skills:
+    genai: [OpenAI API, Claude, RAG pipelines, LLM testing]
+    ml: []
+    web: [Playwright, Cypress, Selenium, REST APIs, GraphQL, gRPC, Postman]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD pipelines, MLOps pipelines, AI system monitoring]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4029239'
+  extracted_at: '2026-03-03T12:51:56.813327'

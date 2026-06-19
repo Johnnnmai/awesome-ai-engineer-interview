@@ -1,0 +1,54 @@
+company:
+  name: Airtable
+  stage: null
+  focus: No-code app platform for accelerating business processes
+position:
+  title: AI Analytics Engineer (Marketing Analytics)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is building data infrastructure and BI dashboards
+      for marketing analytics, not building or deploying AI/ML
+      models. While the candidate must be "AI-native" in using
+      tools like Claude and ChatGPT to accelerate their work, AI
+      is a productivity tool for the job rather than the primary
+      work output. The role focuses on dbt pipelines, data
+      modeling, and dashboards that enable marketing decisions.
+  responsibilities:
+  - Design and maintain canonical data models for core marketing metrics, managing
+    the full lifecycle from prototyping to production
+  - Develop and govern dbt data pipelines, establishing data integrity standards and
+    SLAs for Marketing data delivery
+  - Build and optimize dashboards for campaign performance, funnel conversion, pipeline
+    contribution, and lead scoring
+  - Drive data independence for Marketing stakeholders by eliminating reliance on
+    ad-hoc data requests and manual reporting
+  - Establish the AI Business Context layer for marketing use cases and lead development
+    of natural language data access tools
+  - Serve as the primary data partner for marketing managers, demand generation teams,
+    and leadership
+  - Translate complex data insights into clear business recommendations via dashboards,
+    memos, and presentations
+  use_cases:
+  - Marketing campaign performance analytics and optimization
+  - Funnel conversion tracking and analysis
+  - Pipeline attribution and contribution reporting
+  - Lead scoring model support and visibility
+  - Self-serve analytics and data access for marketing teams
+  - Natural language data querying for non-technical stakeholders
+  skills:
+    genai: [Claude, ChatGPT, Cursor, Gemini]
+    ml: []
+    web: []
+    databases: []
+    data: [SQL, dbt, Looker, Omni, Databricks, pandas, Tableau, Hex]
+    cloud: []
+    ops: [GitHub]
+    languages: [Python]
+    domains: []
+    other: [Salesforce, Marketo]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8817556'
+  extracted_at: '2026-03-27T15:52:05.872638'

@@ -1,0 +1,52 @@
+company:
+  name: Voyfai
+  stage: Series A
+  focus: AI-powered logistics and technology solutions across Europe
+position:
+  title: Senior AI Engineer (m/f/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on designing, building,
+      deploying, and maintaining LLM-powered and GenAI systems.
+      The engineer will work hands-on with foundation models,
+      fine-tuning, RAG pipelines, agents, and LLMOps — all core
+      AI-first activities. This is not a support role; it involves
+      building and owning AI systems end-to-end.
+  responsibilities:
+  - Design, develop and deploy LLM-powered and GenAI features for real-world, high-impact
+    use cases
+  - Build and own end-to-end GenAI pipelines, including prompt design, model selection
+    or fine-tuning, evaluation and deployment
+  - Integrate foundation models into production systems with a focus on latency, cost,
+    reliability and quality
+  - Collaborate with Product Managers and Engineers to translate ambiguous business
+    problems into scalable AI solutions
+  - Own production AI systems, including monitoring, evaluation, guardrails and feedback
+    loops
+  - Contribute to architectural decisions around AI platforms, retrieval systems,
+    vector databases and LLMOps tooling
+  - Raise the technical bar through code quality, documentation and mentoring
+  use_cases:
+  - LLM-powered GenAI features for logistics operations
+  - RAG pipelines for information retrieval and knowledge access
+  - AI agents and tool-using models for automated logistics workflows
+  - Production GenAI systems for real-time business decision support
+  - Retrieval systems and vector databases for enterprise search in logistics
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, LangChain, LlamaIndex, Agents, Fine-tuning,
+      Guardrails]
+    ml: [PyTorch]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [Cloud Deployment]
+    ops: [LLMOps, MLOps, Model Evaluation]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9028270'
+  extracted_at: '2026-04-22T13:42:54.273440'

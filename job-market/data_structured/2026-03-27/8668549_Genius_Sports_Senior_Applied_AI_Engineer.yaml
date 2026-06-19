@@ -1,0 +1,54 @@
+company:
+  name: Genius Sports
+  stage: null
+  focus: |-
+    Sports technology and data solutions for fans, broadcasts,
+    and live sports experiences
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and implementing production-
+      grade multimodal AI agents, LLM integration, and agentic
+      systems (sensor agents, specialist agents, decision logic).
+      The position requires hands-on work with AI models including
+      fine-tuning, prompt engineering, and building AI-powered
+      products like Audio Intelligence and automated tagging
+      systems.
+  responsibilities:
+  - Build and maintain multimodal agents processing audio/video/text streams
+  - Implement streaming-friendly pipelines with chunking, normalization, time-sync,
+    and async execution
+  - Develop prompt-as-code with JSON contracts, schema validation, and deterministic
+    post-processing
+  - Improve system robustness under noisy inputs
+  - Partner with product and domain leads to translate sport rules into validation
+    logic
+  - Contribute to evaluation workflow with test cases and regression checks for prompts
+    and model routing
+  - Stay current with emerging GenAI technologies and best practices
+  - Mentor team members in data engineering principles
+  use_cases:
+  - Converting broadcast and radio feeds into structured real-time signals
+  - Audio Intelligence for sports content analysis
+  - Semi-automated broadcast-to-data tagging
+  - Highlight and momentum signal generation for sports events
+  - Real-time event candidate detection from multimodal sources
+  skills:
+    genai: [LLMs, Multimodal AI, Prompt Engineering, RAG, Agents, Gemini, ChatGPT,
+      Claude]
+    ml: [Audio ML, Speech Recognition, Acoustic Event Detection]
+    web: []
+    databases: []
+    data: [Kafka, Pulsar, Flink]
+    cloud: [AWS Bedrock, Google Vertex AI]
+    ops: [Git, Evaluation/Monitoring]
+    languages: [Python, Java, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8668549'
+  extracted_at: '2026-03-27T15:49:09.968283'

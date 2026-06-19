@@ -1,0 +1,49 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: Financial services and commercial/investment banking
+position:
+  title: Lead Software Engineer - Data Engineering/Generative AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building Gen AI solutions and wrapper
+      capabilities, with explicit requirements for 2+ years using
+      LLMs for automation and hands-on experience with GenAI use
+      cases. The position involves directly implementing AI/LLM
+      solutions alongside data engineering work.
+  responsibilities:
+  - Design, develop, and maintain metadata-driven data engineering frameworks
+  - Build, enhance, and troubleshoot data pipelines, APIs, and Gen AI solutions with
+    wrapper capabilities
+  - Lead complex technology initiatives with companywide impact
+  - Drive implementation of scalable, high-performance data solutions using Python,
+    Java, Gen AI, SQL, Apache Spark, Iceberg, Dremio, Power BI and Autosys
+  - Develop standards and companywide best practices for engineering large-scale technology
+    solutions
+  - Collaborate with cross-functional teams on data center exit migrations and DPC
+    onboarding
+  - Support modernization of current tech stack and Gen AI solution development
+  - Lead projects and teams while serving as a peer mentor
+  use_cases:
+  - Financial data processing and transformation for Profit View project
+  - Automation using LLMs for data engineering workflows
+  - Large-scale batch processing and big data pipeline optimization
+  - Metadata-driven data engineering framework development
+  - Enterprise finance data delivery and management
+  skills:
+    genai: [LLMs, GenAI]
+    ml: []
+    web: [REST APIs]
+    databases: [Iceberg, Delta, Dremio, RDBMS, Object store]
+    data: [Apache Spark, Hive, Hadoop, Data Warehousing]
+    cloud: [GCP, AWS, Azure]
+    ops: [Autosys, CI/CD]
+    languages: [Python, Java, SQL]
+    domains: []
+    other: [Power BI, Unix Shell scripting]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8514538'
+  extracted_at: '2026-03-03T12:36:58.239952'

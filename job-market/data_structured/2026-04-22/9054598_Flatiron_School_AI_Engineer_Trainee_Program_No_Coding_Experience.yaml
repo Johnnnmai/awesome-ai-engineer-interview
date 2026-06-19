@@ -1,0 +1,44 @@
+company:
+  name: Flatiron School
+  stage: Acquired (by We Work, now independent)
+  focus: Tech education and bootcamp programs
+position:
+  title: AI Engineer Trainee Program (No Coding Experience Needed)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a training/apprenticeship program for career
+      switchers with no prior coding experience. Participants
+      learn software engineering and AI/data science through
+      bootcamp coursework, but they are not directly building,
+      training, fine-tuning, or deploying AI models. The AI
+      component is educational exposure rather than hands-on AI
+      system development, making this an ai-support role at best.
+  responsibilities:
+  - Complete Software Engineering and AI & Data Science bootcamp programs
+  - Contribute to real software projects during a paid apprenticeship with an employer
+    partner
+  - Collaborate in sprint-based workflows and participate in code reviews
+  - Build a portfolio of production-level work
+  - Receive mentorship from experienced engineers and product leaders
+  use_cases:
+  - Learning software engineering foundations
+  - Understanding how software engineering and data intersect in AI-enabled products
+  - Building production-level software projects
+  - Applying data-informed thinking to engineering problems
+  skills:
+    genai: [AI & Data Science fundamentals]
+    ml: []
+    web: [Software Engineering]
+    databases: []
+    data: [Data Science]
+    cloud: []
+    ops: [Agile Development]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9054598'
+  extracted_at: '2026-04-22T13:15:35.288700'

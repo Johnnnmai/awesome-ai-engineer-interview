@@ -1,0 +1,43 @@
+company:
+  name: Toast
+  stage: Public
+  focus: Restaurant management and point-of-sale platform
+position:
+  title: Senior Software Engineer, Voice AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves implementing LLMs and AI inference for
+      real-world Voice AI applications, building the core Voice AI
+      stack with low-latency AI and audio processing. The position
+      directly works on deploying AI-powered voice ordering and
+      answering products, which is hands-on work with AI/LLM
+      systems.
+  responsibilities:
+  - Design, scope, and implement cutting-edge Voice AI solutions using a mix of technologies
+  - Improve quality, performance, usability, and scalability of the Voice AI product
+  - Collaborate with Design and Product stakeholders to achieve product-market fit
+  - Drive discovery of high-impact opportunities and turn them into reality
+  - Implement LLMs and AI inference for real-world voice applications
+  - Work across teams to ensure seamless integration within the product ecosystem
+  use_cases:
+  - Voice ordering for restaurants allowing guests to place orders via phone
+  - Voice answering for restaurant phone lines
+  - Low-latency real-time voice processing for restaurant operations
+  - Consumer-facing voice experiences for restaurant guests
+  skills:
+    genai: [LLMs, AI inference]
+    ml: [Audio processing]
+    web: [React, CSS, Tailwind, Bootstrap]
+    databases: [Database design]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Git]
+    languages: [Java, Kotlin, Python]
+    domains: []
+    other: [Figma]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8827799'
+  extracted_at: '2026-03-27T15:07:52.398015'

@@ -1,0 +1,53 @@
+company:
+  name: Veracross
+  stage: unknown
+  focus: |-
+    SaaS-based School Information Systems for K-12 independent
+    schools
+position:
+  title: AI Operations Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role focused on building, deploying, and
+      operating AI/LLM systems end-to-end. The engineer will ship
+      agentic AI products, build prompt strategies, maintain AWS
+      AI infrastructure (Bedrock), implement guardrails, and
+      optimize LLM performance—all direct hands-on work with AI
+      systems.
+  responsibilities:
+  - Design and ship agentic AI products to optimize and automate school operations
+  - Build systems using school-specific data with prompt strategies and reusable libraries
+  - Integrate AI capabilities into existing Ruby on Rails applications via APIs and
+    SDKs
+  - Curate and maintain AWS AI infrastructure including Bedrock and GuardRails
+  - Evaluate and select models, benchmarking quality, latency, and cost
+  - Optimize prompts, caching, batching, and workflows to improve performance and
+    reduce spend
+  - Design guardrails to prevent hallucinations, bias, and inappropriate outputs
+  - Detect and redact PII in AI inputs/outputs with safety protocols for K-12
+  - Instrument AI systems with logging, metrics, tracing, and build observability
+    dashboards
+  - Create evaluation datasets and automated testing pipelines
+  use_cases:
+  - Automating school operations with agentic AI products
+  - K-12 education management and administration
+  - Student health record processing
+  - School communication and community engagement
+  - Safe AI operations for regulated educational environments
+  skills:
+    genai: [Prompt Engineering, Agentic AI, LLM Operations]
+    ml: []
+    web: [Ruby on Rails, APIs]
+    databases: [SQL Server, Postgres, MySQL]
+    data: []
+    cloud: [AWS Bedrock, AWS GuardRails, AWS]
+    ops: [A/B Testing]
+    languages: [Python]
+    domains: []
+    other: [PII Detection and Redaction]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8709626'
+  extracted_at: '2026-03-27T15:28:21.767974'

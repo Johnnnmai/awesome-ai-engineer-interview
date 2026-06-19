@@ -1,0 +1,50 @@
+company:
+  name: AlphaSense
+  stage: Series B+ (founded 2011, 2000+ employees, acquired Tegus in 2024)
+  focus: |-
+    AI-powered market intelligence and search platform for
+    enterprise decision-making
+position:
+  title: Staff AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building infrastructure and platforms
+      that SUPPORT AI systems rather than directly building,
+      training, or fine-tuning models. The engineer will architect
+      distributed systems, establish engineering practices, and
+      collaborate with ML engineers to productionize AI
+      capabilities, but the core work is platform/infrastructure
+      rather than hands-on AI/ML development.
+  responsibilities:
+  - Architect and implement distributed systems that power AI agents processing thousands
+    of requests per hour
+  - Establish comprehensive testing strategies, observability systems, and CI/CD pipelines
+  - Mentor engineering teams on building reliable production systems
+  - Own the technical roadmap for the AI platform and make architectural decisions
+  - Collaborate with ML engineers and researchers to productionize AI capabilities
+  - Drive platform evolution and system reliability improvements
+  use_cases:
+  - AI-powered market intelligence search
+  - Enterprise decision-making support
+  - Content analysis across research, filings, transcripts, and expert calls
+  - AI agents processing enterprise customer requests at scale
+  - Multi-source content intelligence and insights extraction
+  skills:
+    genai: [LLM Applications, Agent Frameworks, Prompt Engineering, RAG Patterns,
+      OpenAI API, Anthropic API, Google AI]
+    ml: []
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [Kubernetes, Docker, CI/CD, Microservices, Infrastructure as Code, Distributed
+        Systems, Observability Systems]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7867495'
+  extracted_at: '2026-03-03T12:51:40.195693'

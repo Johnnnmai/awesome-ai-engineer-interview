@@ -1,0 +1,58 @@
+company:
+  name: GE Healthcare
+  stage: Public
+  focus: Healthcare technology and medical imaging systems
+position:
+  title: Senior Cloud and AI Integration engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role explicitly involves building MCP servers, context
+      providers, orchestration layers for LLM interactions, prompt
+      engineering pipelines, and implementing AI guardrails. While
+      it doesn't involve training or fine-tuning models, it
+      directly works on integrating and operationalizing AI
+      capabilities (LLMs, RAG, Agentic AI) into applications,
+      which constitutes hands-on work building AI-driven systems.
+  responsibilities:
+  - Design, develop, and maintain scalable microservices-based applications on a major
+    cloud provider
+  - Implement Infrastructure as Code (IaC) using Terraform, Pulumi, or native cloud
+    frameworks
+  - Develop and maintain CI/CD pipelines for automated build, test, security scanning,
+    and deployment
+  - Implement context providers, adapters, and orchestration layers enabling reliable
+    interactions between applications and AI models
+  - Develop pipelines for prompt engineering, context retrieval, tool invocation,
+    rate limiting, and response orchestration
+  - Design and build MCP (Model Context Protocol) servers and supporting components
+    to integrate enterprise systems, data sources, and workflows with LLMs
+  - Implement guardrails, validation, monitoring, and safety measures to ensure responsible
+    AI usage
+  - Collaborate with Data Science, Applied AI, Platform, and Product teams to deliver
+    end-to-end features
+  use_cases:
+  - Integrating enterprise healthcare systems and data sources with LLMs via MCP servers
+  - Automating intelligent workflows in healthcare applications using LLMs and Agentic
+    AI
+  - Operationalizing AI-driven features in cloud-native medical technology platforms
+  - Building context retrieval and prompt orchestration pipelines for production AI
+    systems
+  - Ensuring responsible and safe AI usage in healthcare-sensitive environments
+  skills:
+    genai: [LLMs, RAG, Agentic AI, MCP (Model Context Protocol), Prompt Engineering,
+      AI Guardrails]
+    ml: []
+    web: [Microservices Architecture, REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Terraform, Pulumi, CI/CD, Infrastructure as Code]
+    languages: [Python, TypeScript]
+    domains: [DICOM, Healthcare Systems]
+    other: [Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8977815'
+  extracted_at: '2026-04-22T12:51:18.792626'

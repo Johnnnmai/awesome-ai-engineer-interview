@@ -1,0 +1,51 @@
+company:
+  name: Boeing
+  stage: Public
+  focus: |-
+    Aerospace manufacturing - commercial airplanes, defense
+    products, and space systems
+position:
+  title: Experienced Software Engineer - AI-ML (GenAI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires building and deploying GenAI/LLM-powered
+      solutions, developing ML/DL models, and working with LLMs,
+      agentic systems, and information retrieval. This is hands-on
+      AI/ML development work, not support infrastructure.
+  responsibilities:
+  - Develop innovative machine learning and deep learning models to provide actionable
+    insights for aircraft and fleet efficiency
+  - Apply statistical, probabilistic, and deep learning techniques to airplane health
+    management, manufacturing, automation, and supply chain
+  - Design and develop scalable AI/ML solutions including Large Language Models, agentic
+    systems, and information retrieval systems
+  - Drive the MLOps lifecycle by establishing and maintaining robust pipelines for
+    model deployment and monitoring
+  - Mentor and guide junior data scientists on technical work and career growth
+  - Collaborate with international teams of software developers and research engineers
+  - Perform proof-of-concepts and help adopt new tools and technologies
+  - Document research results and provide progress reports and project summaries
+  use_cases:
+  - Aircraft health management and predictive maintenance
+  - Fleet operational efficiency and performance optimization
+  - Manufacturing automation and productivity improvement
+  - Supply chain optimization
+  - Engineering productivity enhancement
+  - Aircraft lifecycle simulation for customers
+  skills:
+    genai: [Large Language Models, Agentic systems, Information retrieval systems]
+    ml: [PyTorch, TensorFlow, Deep learning, Machine learning, Scikit-learn]
+    web: []
+    databases: [PostgreSQL, MongoDB]
+    data: [Airflow, Kafka, Spark]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, Docker, Kubernetes, CI/CD, MLflow]
+    languages: [Python, R, SQL]
+    domains: [NLP, Computer Vision]
+    other: [Tableau, Power BI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8648363'
+  extracted_at: '2026-03-27T14:44:32.085170'

@@ -1,0 +1,52 @@
+company:
+  name: Wolters Kluwer
+  stage: Public
+  focus: |-
+    Legal information services and AI-powered legal workspace
+    for lawyers in Europe
+position:
+  title: Senior AI Engineer (Libra - Legal AI Assistant) (m/f/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building end-to-end AI-driven product
+      features using LLM APIs, developing RAG systems, and
+      implementing agent orchestration systems for legal
+      workflows. The engineer will directly work on deploying,
+      optimizing, and maintaining AI/LLM-powered systems at the
+      core of the product.
+  responsibilities:
+  - Design, implement, and maintain AI-driven product features end-to-end using LLM
+    APIs
+  - Develop chat-based UX flows and AI integrations powering core functionality
+  - Build and optimize RAG systems including document parsing, semantic chunking,
+    and retrieval pipelines
+  - Build scalable backend systems using FastAPI and modern Python tooling
+  - Design and implement agent orchestration systems for complex multi-step legal
+    workflows
+  - Build infrastructure for evaluations and benchmarking with continuous monitoring
+  - Ensure high security, reliability, and data privacy standards across all systems
+  - Collaborate with Product and Legal Engineering to prototype, test, and refine
+    new AI use cases
+  use_cases:
+  - Legal research acceleration for lawyers
+  - Legal document drafting assistance
+  - RAG-based legal knowledge retrieval
+  - Agent orchestration for multi-step legal workflows
+  - Chat-based legal AI assistant interface
+  skills:
+    genai: [LLM APIs, RAG, agent orchestration, semantic chunking, retrieval pipelines]
+    ml: []
+    web: [FastAPI]
+    databases: []
+    data: [document parsing]
+    cloud: []
+    ops: [Langfuse]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8660713'
+  extracted_at: '2026-03-27T14:40:02.812748'

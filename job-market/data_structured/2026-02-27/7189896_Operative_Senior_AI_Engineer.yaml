@@ -1,0 +1,51 @@
+company:
+  name: Operative
+  stage: Established
+  focus: |-
+    AdTech SaaS platform for media advertising revenue
+    management
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role focused on building and deploying
+      agentic AI systems using LLMs, Langchain, LangGraph, and
+      MCP. The engineer will integrate LLMs into production
+      applications, create agentic workflows, and work hands-on
+      with model deployment and optimization.
+  responsibilities:
+  - Design and develop scalable Python/Java services for AI-driven features in advertising
+    management platform
+  - Integrate Large Language Models using Langchain, LangGraph, and other AI frameworks
+    to create agentic workflows
+  - Build and maintain data pipelines and backend APIs for AI agentic capabilities
+  - Deploy and scale AI applications using Docker containers across AWS/GCP/Azure
+    cloud environments
+  - Work directly with media company customers to translate workflow pain points into
+    AI solutions
+  - Contribute to architecture decisions and code reviews for AI systems
+  - Develop roadmap items and lead implementation for AI features from proof-of-concept
+    to production
+  use_cases:
+  - Automating business workflows for media companies
+  - Optimizing advertising operations for major media companies
+  - Processing $8.5B in digital and $60B+ in global TV ad revenue
+  - Agentic AI workflow automation for advertising
+  - Revenue optimization for 300+ media clients across 25+ countries
+  skills:
+    genai: [Langchain, LangGraph, LlamaIndex, Model Context Protocol, LLMs]
+    ml: []
+    web: [FastAPI, Flask, Streamlit]
+    databases: [OpenSearch, SQLAlchemy]
+    data: [Pandas]
+    cloud: [AWS, GCP, Azure]
+    ops: [Langfuse, InspectAI, LangSmith, Docker]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7189896'
+  extracted_at: '2026-03-03T11:28:31.542189'

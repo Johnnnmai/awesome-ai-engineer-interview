@@ -1,0 +1,55 @@
+company:
+  name: Anaplan
+  stage: Public
+  focus: |-
+    AI-infused scenario planning and business decision-making
+    platform
+position:
+  title: Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying GenAI features
+      including LLM integration, prompt engineering, RAG
+      implementation, and agentic workflows. The engineer works
+      hands-on with models, building production-ready AI features
+      from end-to-end, making this clearly an ai-first role.
+  responsibilities:
+  - Develop end-to-end GenAI features including backend API services, model integration,
+    monitoring, evaluations and deployments
+  - Integrate and optimize LLMs for business planning use cases including prompt engineering
+    and RAG implementation
+  - Build conversational interfaces and agentic workflows to make complex planning
+    tasks accessible through natural language
+  - Implement evaluation frameworks to measure and improve GenAI feature quality across
+    accuracy, latency, and user satisfaction
+  - Design and develop APIs exposing AI capabilities to Anaplan's platform and third-party
+    integrations
+  - Optimize model inference pipelines for performance, cost, and scalability in production
+    environments
+  - Implement monitoring, logging, and observability for GenAI systems to track usage,
+    errors, and model behaviour
+  - Collaborate with data scientists to productionize ML models and forecasting algorithms
+  use_cases:
+  - Business planning and scenario analysis powered by GenAI
+  - Conversational interfaces for complex enterprise planning tasks
+  - Agentic workflows for automating business decision-making processes
+  - LLM-powered natural language access to planning and analytics data
+  - Forecasting and recommender systems for enterprise planning
+  skills:
+    genai: [LangChain, LlamaIndex, Haystack, RAG, Prompt Engineering, Agents]
+    ml: [PyTorch, TensorFlow, Transformers, Fine-tuning]
+    web: [React, TypeScript, RESTful APIs, Microservices]
+    databases: [Pinecone, Weaviate, Qdrant, Vector Databases]
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, CI/CD, vLLM, TensorRT, Ray, LangSmith, W&B, MLflow,
+      A/B Testing]
+    languages: [Python]
+    domains: [NLP, Time-series Analysis, Recommender Systems, Forecasting]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9077686'
+  extracted_at: '2026-04-22T14:15:04.306351'

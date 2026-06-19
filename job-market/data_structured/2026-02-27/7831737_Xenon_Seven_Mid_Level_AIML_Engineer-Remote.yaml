@@ -1,0 +1,46 @@
+company:
+  name: Xenon Seven
+  stage: null
+  focus: |-
+    IT solutions development and on-demand tech resources for
+    enterprises and startups
+position:
+  title: Mid Level AI/ML Engineer-Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves executing and delivering enterprise
+      agentic AI solutions, working with RAG pipelines,
+      embeddings/vector databases, and NLP/Transformers. This is
+      hands-on work building and deploying AI systems
+      (specifically agentic AI), not just supporting
+      infrastructure.
+  responsibilities:
+  - Execute and deliver enterprise agentic AI solutions under guidance of senior engineers
+  - Contribute to solution building, model development, and integration
+  - Support Agile practices including sprint planning, estimation, and documentation
+  - Collaborate with cross-functional teams including data scientists, DevOps, and
+    product owners
+  - Implement APIs, cloud-native deployments, and monitoring solutions
+  - Focus on execution, optimization, and delivery of AI solutions
+  use_cases:
+  - Enterprise agentic AI solutions
+  - RAG pipeline implementation
+  - NLP and transformer-based applications
+  - Cloud-native AI deployments
+  skills:
+    genai: [RAG pipelines, NLP/Transformers]
+    ml: [scikit-learn, PyTorch, TensorFlow]
+    web: []
+    databases: [embeddings/vector databases]
+    data: [Pandas]
+    cloud: [AWS, Azure]
+    ops: [Docker, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7831737'
+  extracted_at: '2026-03-03T11:44:04.358461'

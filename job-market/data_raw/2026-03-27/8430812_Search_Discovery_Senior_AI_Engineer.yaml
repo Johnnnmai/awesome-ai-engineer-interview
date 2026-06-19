@@ -1,0 +1,139 @@
+job_id: 8430812
+title: Senior AI Engineer
+company: Search Discovery
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Fastapi
+  - Git
+  - GCP
+  - GraphQL
+  - Grpc
+  - Langchain
+  - Langgraph
+  - Llamaindex
+  - Pinecone
+  - Postgres
+company_size: 195 Employees
+description: |
+  WE’RE HIRING! If you love data and are looking for unlimited
+  growth opportunities, we want to talk with you about joining
+  Further.
+  
+  Further is a data, cloud, and AI company whose focus is
+  helping companies turn raw data into the right decisions. We
+  have an award winning culture of extraordinary people. Our
+  purpose is to enable people to thrive so that businesses can
+  thrive. We believe that the work you do should matter - it
+  should be meaningful to you professionally and personally,
+  and it should have a positive impact on both you and our
+  clients.  If this sounds exciting to you, let’s chat!
+  
+  SENIOR AI ENGINEER
+  
+  We are hiring a Senior AI Engineer to lead the development
+  of our cloud-based (Google Cloud), commercial AI products.
+  You will bridge the gap between experimental data science
+  prototypes and production-grade software. You will architect
+  the robust systems and LLMOps workflows necessary to
+  transform AI models into reliable, enterprise-ready
+  applications. By designing stable backend architectures and
+  seamless integration layers, you will ensure our AI
+  solutions are not just functional, but ethical, efficient,
+  and high-value products that meet the rigorous demands of
+  our commercial clients.
+  
+  What experience should you have:
+  
+  - 6+ years of software engineering experience with at least 3
+    years dedicated to AI/ML application development.
+  - Expert proficiency in Python AI application development and
+    modern API architecture (REST, GraphQL, gRPC) using
+    enterprise standards like static type checking and data
+    validation.
+  - Deep experience building production applications with LLM
+    frameworks such as LangChain, LangGraph or LlamaIndex.
+  - Hands-on expertise with vector databases (Pinecone,
+    Weaviate, PostgreSQL) and search algorithms.
+  - Strong understanding of LLMOps principles, including model
+    registry, versioning, and serving infrastructure
+    specifically in Google Cloud.
+  - Experience in Typescript development for prototyping and
+    integrations
+  - Proficiency with git workflows and understanding of standard
+    application development processes
+  
+  Preferred Qualifications
+  
+  - Knowledge of advanced prompt engineering and fine-tuning
+    techniques (LoRA, PEFT).
+  - Experience optimizing inference costs and latency for large-
+    scale deployments.
+  - Previous experience in a client-facing consulting role,
+    managing diverse stakeholders and navigating complex
+    organizational structures.
+  - Any Google Cloud Professional Certification
+  
+  What you’ll be doing in this role:
+  
+  - Lead the implementation of rigorous evaluation frameworks to
+    monitor model performance, drift, and cost in real-time.
+  - Architect and develop high-performance backend services and
+    APIs using Python (FastAPI) to serve large language models
+    at scale.
+  - Design advanced Retrieval-Augmented Generation (RAG)
+    systems, selecting and managing vector databases and
+    optimizing embedding strategies for accuracy and speed.
+  - Establish comprehensive model observability and guardrail
+    systems to monitor real-time performance, detect
+    distribution drift, and implement automated safety filters
+    that mitigate hallucinations, bias, and toxic outputs in
+    production environments.
+  - Build robust integration layers that connect AI agents
+    securely to external enterprise systems, CRMs, and legacy
+    databases.
+  - Conduct code reviews, provide technical guidance, and foster
+    a culture of continuous learning and innovation within the
+    engineering team.
+  - Collaborate with infrastructure teams to define deployment
+    strategies, ensuring solutions scale dynamically under
+    load.
+  - Define the end-to-end architecture for AI products on cloud
+    platforms (preferably Google Cloud Platform), ensuring
+    high availability, security, and cost-effectiveness.
+  
+  What you’ll need to accomplish in your first year:
+  
+  - Develop reusable internal libraries and architectural
+    patterns and standards to accelerate the delivery of AI
+    solutions across multiple client engagements.
+  - Mentor engineers on best practices for building
+    deterministic software around probabilistic AI models.
+  
+  Our total rewards program is designed for your protection,
+  peace of mind, and overall well-being. In addition to our
+  outstanding basics, we offer a net-zero cost medical option,
+  company contributions to your HSA, fertility support, fully-
+  paid parental leave, a monthly stipend for your lifestyle
+  spending account, and much more.
+  
+  Apply today or check out all our opportunities!
+  
+  #LI-Remote
+  
+  #LI-Hybrid
+  
+  #LI-Onsite
+  
+  By submitting your application, you consent to our
+  collection, processing and disclosure of the contained
+  personal data in accordance with our data practices. If you
+  are a resident of the U.S. state of California, you can read
+  about our data practices and your related privacy rights
+  here. If you are a resident of the European Economic Area,
+  Switzerland or the United Kingdom, you can read about our
+  data practices and your related privacy rights here.
+posted_date: 2026-03-04
+url: "https://builtin.com/job/senior-ai-engineer/8430812"
+source: Built In

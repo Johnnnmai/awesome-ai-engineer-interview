@@ -1,0 +1,48 @@
+company:
+  name: Flatiron School
+  stage: null
+  focus: |-
+    Technology education and bootcamp programs for software
+    engineering, data science, and AI
+position:
+  title: Accelerated AI Engineer Work-Study Program - Bletchley Fellowship
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an apprenticeship program combining coursework with
+      work placement. Apprentices learn about AI/ML through a
+      bootcamp but the actual work at host companies is general
+      software engineering - contributing to software products,
+      writing code, debugging, and feature development. The role
+      supports AI products without directly building or deploying
+      AI systems.
+  responsibilities:
+  - Attend and complete the Flatiron School Data Science & AI Bootcamp as part of
+    the apprenticeship
+  - Contribute to software projects for host company
+  - Write clean, maintainable and testable code using modern frameworks and tools
+  - Collaborate in sprint-based workflows and participate in code reviews
+  - Support feature development, debugging, documentation, and QA processes
+  - Build portfolio of production-level work while growing technical and collaborative
+    skills
+  - Receive ongoing mentorship from senior developers and product leaders
+  use_cases:
+  - General software product development for host companies
+  - Feature development and debugging for production systems
+  - Building production-level software portfolio pieces
+  skills:
+    genai: []
+    ml: [machine learning]
+    web: [frontend web development, backend web development]
+    databases: [SQL, NoSQL]
+    data: [data science]
+    cloud: []
+    ops: [testing and debugging]
+    languages: [Python, JavaScript, Java]
+    domains: []
+    other: [agile development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8856763'
+  extracted_at: '2026-03-27T15:45:19.215034'

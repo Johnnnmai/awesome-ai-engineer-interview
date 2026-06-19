@@ -1,0 +1,56 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Full Stack Engineer (AI & Agentic AI Systems)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building AI-powered features
+      using Google Gemini LLM, Vertex AI, RAG pipelines, MCP,
+      prompt engineering, and vector databases, as well as
+      architecting agentic AI systems. The engineer is hands-on
+      with LLMs, agents, and AI-driven workflows, making this an
+      ai-first role despite being titled as a Full Stack Engineer.
+  responsibilities:
+  - Design and deliver end-to-end solutions spanning architecture, system design,
+    low-level design, and high-quality coding across full-stack environments
+  - Build responsive, modular UI applications using React, integrating complex AI-driven
+    workflows and real-time interactions
+  - Develop scalable, high-performance backend services in Java/Python, implementing
+    resilient APIs, event-driven patterns, and microservices architectures
+  - Engineer AI-powered features leveraging Google Gemini LLM, Vertex AI, ADK, vector
+    databases, RAG pipelines, MCP, context engineering, and advanced prompt engineering
+    techniques
+  - Implement secure, well-structured REST and GraphQL APIs ensuring reliability,
+    versioning discipline, and clean integration patterns
+  - Optimize system performance and scalability through profiling, load-testing, caching
+    strategies, and distributed system tuning
+  - Drive robust CI/CD practices integrating automated testing, code quality gates,
+    containerization, and cloud-native deployment pipelines
+  - Collaborate cross-functionally with AI scientists, architects, and product teams
+    to translate business challenges into production-ready, intelligent agentic systems
+  use_cases:
+  - Autonomous agentic AI systems that reason, plan, and act with minimal human intervention
+  - AI-driven workflows integrated into full-stack enterprise applications for banking
+  - RAG-powered intelligent search and retrieval using vector databases
+  - Intelligent automation of complex business challenges in financial services
+  - Real-time AI-powered user interactions in production-ready web applications
+  skills:
+    genai: [Google Gemini LLM, RAG pipelines, MCP, Prompt engineering, Context engineering,
+      ADK, Agentic AI, A2A]
+    ml: []
+    web: [React, GraphQL, REST APIs, FastAPI]
+    databases: [Vector databases, Oracle, PostgreSQL, MongoDB]
+    data: []
+    cloud: [Vertex AI, Cloud-native deployment]
+    ops: [Docker, CI/CD, Jenkins, SonarQube]
+    languages: [Java, Python, SQL]
+    domains: []
+    other: [OAuth, Microservices]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9005852'
+  extracted_at: '2026-04-22T14:17:45.557354'

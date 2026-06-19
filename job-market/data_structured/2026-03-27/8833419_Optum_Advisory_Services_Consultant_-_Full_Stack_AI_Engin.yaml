@@ -1,0 +1,53 @@
+company:
+  name: Optum
+  stage: Public
+  focus: |-
+    Healthcare technology and services company delivering care,
+    pharmacy benefits, and health optimization globally
+position:
+  title: Advisory Services Consultant - Full Stack AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience building and
+      integrating AI/ML and LLM-based solutions, RAG pipelines,
+      and AI agents. The engineer will design and implement AI-
+      powered features, LLM workflows, RAG systems, and agents,
+      directly working on AI systems rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Design, build, and maintain end-to-end enterprise applications using modern frontend
+    and backend frameworks
+  - Design and implement AI-powered features including LLM-based workflows, retrieval-augmented
+    generation (RAG), agents and prompt-driven systems
+  - Develop scalable backend services and APIs (REST/GraphQL) to support AI-driven
+    use cases
+  - Integrate AI models into applications using APIs and SDKs (open-source or enterprise-approved)
+  - Collaborate on model evaluation, prompt tuning, and experimentation to improve
+    quality and accuracy
+  - Apply responsible AI principles including security, privacy, explainability and
+    bias mitigation
+  - Deploy and operate applications in cloud environments using CI/CD pipelines
+  - Monitor application and AI system performance, reliability and cost
+  use_cases:
+  - Healthcare AI-powered applications
+  - LLM-based workflows for healthcare operations
+  - Retrieval-augmented generation (RAG) systems for healthcare data
+  - AI agents for healthcare use cases
+  - Enterprise AI solutions with PHI/PII compliance
+  skills:
+    genai: [RAG, LLM integration, AI agents, Prompt engineering]
+    ml: [PyTorch, TensorFlow, scikit-learn]
+    web: [React, Angular, Node.js, REST APIs, GraphQL]
+    databases: [Vector databases, SQL databases]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [CI/CD, DevOps, Infrastructure as code, LLM Ops, Observability]
+    languages: [Python, Java]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8833419'
+  extracted_at: '2026-03-27T15:39:45.062670'

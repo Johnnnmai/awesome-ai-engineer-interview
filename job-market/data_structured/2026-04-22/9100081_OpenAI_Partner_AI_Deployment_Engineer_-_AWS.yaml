@@ -1,0 +1,56 @@
+company:
+  name: OpenAI
+  stage: Public
+  focus: |-
+    AI research and deployment company building general-purpose
+    AI
+position:
+  title: Partner AI Deployment Engineer - AWS
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and building end-to-end AI
+      architectures with OpenAI and AWS services, creating
+      prototypes and reference implementations, and guiding
+      customers through production deployment of GenAI systems.
+      While it's a partner-facing role, it requires hands-on
+      building of AI solutions and establishing best practices for
+      production-ready GenAI systems, making it ai-first.
+  responsibilities:
+  - Serve as senior technical counterpart to AWS field leadership, building trust
+    across regions and teams
+  - Lead technical strategy for large, high-stakes enterprise engagements from ideation
+    to production deployment
+  - Design and communicate end-to-end AI architectures leveraging OpenAI and AWS services
+  - Build prototypes, POCs, and reference implementations to accelerate adoption of
+    OpenAI-powered solutions
+  - Establish best practices for scalable, secure, and production-ready GenAI systems
+  - Enable AWS and partners through workshops, playbooks, reference architectures,
+    and demos
+  - Develop reusable solution patterns and assets for independent deployment by AWS
+    teams and SIs
+  - Partner with Alliances, Product, Engineering, and GTM teams to align strategy
+    and deliver field-to-product insights
+  use_cases:
+  - Enterprise GenAI application deployment on AWS
+  - Production-scale AI system architecture and implementation
+  - Joint OpenAI-AWS customer solution development
+  - Partner ecosystem enablement for AI solution delivery
+  - Reference architecture and reusable pattern creation for GenAI systems
+  skills:
+    genai: [GenAI Systems, OpenAI API, Prompt Engineering, RAG]
+    ml: [AI/ML Systems]
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Amazon Bedrock, Amazon SageMaker]
+    ops: [Docker, Kubernetes, Terraform]
+    languages: [Python]
+    domains: []
+    other: [Solutions Architecture, Enterprise Sales Support, Prototyping, Technical
+        Consulting, Partner Ecosystem Management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9100081'
+  extracted_at: '2026-04-22T13:09:11.731848'

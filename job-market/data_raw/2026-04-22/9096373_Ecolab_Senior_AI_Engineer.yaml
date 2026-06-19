@@ -1,0 +1,154 @@
+job_id: 9096373
+title: Senior AI Engineer
+company: Ecolab
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Application Insights
+  - Autogen
+  - Azure Ai Search
+  - Azure Ai Studio
+  - Azure Devops
+  - Azure Functions
+  - Azure Openai
+  - Datadog
+  - Docker
+  - Fastapi
+company_size: 29,154 Employees
+description: |
+  Role Summary
+  
+  As a Senior AI Engineer, you will design, build, deploy, and
+  support production-grade GenAI and agentic AI solutions that
+  integrate large language models (LLMs), retrieval-based
+  patterns, APIs, and enterprise workflows. You will play a
+  hands-on engineering role in delivering scalable, reliable,
+  and maintainable AI-powered product capabilities, while
+  partnering closely with Lead AI Engineers, Team Leads,
+  architects, and cross-functional product teams.
+  
+  This role is ideal for an engineer with strong technical
+  depth in LLM-powered application development, RAG, and
+  cloud-native AI delivery, who can independently implement
+  solution components, contribute to engineering standards,
+  and help operationalize AI systems in real business
+  environments.
+  
+  Key Responsibilities
+  
+  - Design, develop, test, and deploy LLM-powered application
+    components and AI-enabled services for enterprise use
+    cases
+  - Build and optimize retrieval-augmented generation (RAG)
+    pipelines, including document ingestion, chunking,
+    embeddings, retrieval strategies, and response grounding
+  - Implement agentic AI workflows using orchestration
+    frameworks and reusable design patterns for task
+    execution, tool usage, and context handling
+  - Develop AI-enabled APIs and backend services using
+    technologies such as Python, FastAPI, Azure Functions,
+    containerized services, and REST-based integration
+    patterns (or equivalent platforms and frameworks)
+  - Work with Azure OpenAI, Azure AI Studio, Semantic Kernel,
+    LangChain, AutoGen, Azure AI Search, or equivalent tools
+    to build scalable GenAI solutions
+  - Collaborate with Lead AI Engineers and architects to
+    translate solution designs into robust technical
+    implementations
+  - Integrate AI services with enterprise systems, APIs,
+    workflow platforms, and downstream applications
+  - Implement logging, tracing, monitoring, and basic
+    operational controls using tools such as Application
+    Insights, OpenTelemetry, Azure Monitor, Datadog, New
+    Relic, or equivalent observability platforms
+  - Participate in design reviews, code reviews, testing, and
+    release activities to maintain quality and engineering
+    discipline
+  - Contribute to reusable assets such as prompt patterns,
+    orchestration templates, shared components, developer
+    utilities, and engineering accelerators
+  - Troubleshoot production issues, improve reliability, and
+    support continuous improvement of deployed AI capabilities
+  - Stay current with advancements in LLM tooling, agent
+    frameworks, prompt engineering, retrieval approaches, and
+    applied AI engineering practices
+  
+  Required Qualifications
+  
+  - 5 to 8+ years of experience in software engineering, AI/ML
+    engineering, or AI solution delivery, including hands-on
+    work in building and deploying intelligent applications
+  - Practical experience delivering GenAI, LLM-powered, or AI-
+    enabled solutions in development, pilot, or production
+    environments
+  - Strong technical foundation in Python and modern backend
+    engineering patterns, with experience building APIs,
+    services, and application components
+  - Hands-on experience with LLM platforms and AI development
+    tools such as Azure OpenAI, Azure AI Studio, OpenAI API,
+    AWS Bedrock, Google Vertex AI, or equivalent
+  - Experience working with orchestration frameworks such as
+    Semantic Kernel, LangChain, AutoGen, or equivalent
+    approaches for prompt workflows, tool calling, and agent
+    coordination
+  - Strong working knowledge of retrieval-augmented generation
+    (RAG), embeddings, vector search, and grounding patterns
+    using platforms such as Azure AI Search, Pinecone,
+    Weaviate, FAISS, or equivalent
+  - Experience building and deploying cloud-native AI services
+    using tools such as Azure Functions, Azure Container Apps,
+    FastAPI, Docker, GitHub, Azure DevOps, or equivalent
+    engineering and deployment platforms
+  - Solid understanding of CI/CD, containerization, automated
+    testing, and secure deployment practices for modern AI-
+    enabled applications
+  - Familiarity with observability and operational tooling such
+    as Application Insights, OpenTelemetry, Azure Monitor,
+    Datadog, or New Relic, or equivalent monitoring platforms
+  - Experience integrating AI services with REST APIs,
+    enterprise workflows, backend systems, or downstream
+    business applications
+  - Strong problem-solving skills and ability to translate
+    solution requirements into well-structured technical
+    implementations
+  - Strong ownership mindset across the SDLC, including design,
+    build, testing, deployment, support, and continuous
+    improvement
+  - Good collaboration and communication skills, with the
+    ability to work effectively with engineers, architects,
+    product owners, and platform teams
+  
+  Preferred Qualifications
+  
+  - Experience implementing agentic AI workflows involving
+    multi-step reasoning, tool orchestration, structured
+    prompting, or reusable workflow patterns
+  - Exposure to Model Context Protocol (MCP), agent-to-agent
+    (A2A) interaction patterns, or similar approaches to
+    context exchange and distributed agent communication
+  - Familiarity with Microsoft AI Foundry, Azure Machine
+    Learning, Azure AI / Copilot Studio, or equivalent
+    enterprise AI experimentation and solution development
+    platforms
+  - Experience with enterprise integrations, including workflow
+    tools, API management layers, business systems, or event-
+    driven architectures
+  - Experience contributing to reusable GenAI accelerators,
+    prompt libraries, orchestration templates, internal
+    developer tooling, or shared engineering utilities
+  - Familiarity with AI governance, safety, evaluation, and
+    cost-management practices, including token usage
+    awareness, prompt safety, and quality monitoring
+  - Working knowledge of TypeScript or C#, in addition to
+    Python, for integration into broader enterprise technology
+    stacks
+  - Experience operating in a build-own-operate product
+    environment with expectations around supportability,
+    reliability, and iterative enhancement
+  - Ability to clearly communicate technical decisions,
+    implementation trade-offs, and design considerations to
+    both technical and non-technical stakeholders
+posted_date: 2026-04-20
+url: "https://builtin.com/job/senior-ai-engineer/9096373"
+source: Built In

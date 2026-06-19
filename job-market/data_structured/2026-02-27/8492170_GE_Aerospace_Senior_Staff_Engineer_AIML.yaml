@@ -1,0 +1,53 @@
+company:
+  name: GE Aerospace
+  stage: Public
+  focus: Aerospace and defense, aviation engine technologies
+position:
+  title: Senior Staff Engineer – AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires significant hands-on design, development,
+      and deployment of AI/ML models. The engineer will build,
+      test, and deploy models, architect AI/ML solutions, and work
+      directly on model development, validation, and monitoring
+      throughout the AI/ML lifecycle.
+  responsibilities:
+  - Lead end-to-end AI/ML projects from problem framing and scoping through deployment
+    and sustainment
+  - Coordinate local and global cross-functional teams to deliver robust, scalable
+    AI/ML solutions
+  - Partner with aerospace engineering teams to translate engineering problems into
+    AI/ML use cases
+  - Architect production-grade AI/ML solutions selecting appropriate models, methods,
+    tools, and platforms
+  - Directly contribute to hands-on implementation including building, testing, and
+    deploying models
+  - Provide expert guidance on AI/ML methods including model development, validation,
+    and deployment
+  - Mentor and coach engineers and data scientists on best practices
+  - Drive innovation and contribute to IP through invention disclosures and patents
+  use_cases:
+  - Predictive modeling for aerospace engineering applications
+  - Anomaly detection in mechanical and aerospace systems
+  - Surrogate modeling for engineering design optimization
+  - Computer vision for quality and safety inspection
+  - Physics-informed ML for aerospace simulations
+  - Improving Safety, Quality, Delivery, and Cost in aerospace manufacturing
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, scikit-learn, Predictive modeling, Deep learning, Anomaly
+        detection, Physics-informed ML, Surrogate modeling, Optimization]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Model deployment]
+    languages: [Python]
+    domains: [Computer vision]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8492170'
+  extracted_at: '2026-03-03T11:57:17.451328'

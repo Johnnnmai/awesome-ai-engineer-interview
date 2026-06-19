@@ -1,0 +1,51 @@
+company:
+  name: Barclays
+  stage: Public
+  focus: Global financial services and banking
+position:
+  title: AI Lead Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience with GenAI frameworks
+      (LangGraph, LangChain, CrewAI), developing and deploying
+      Agentic AI solutions using cloud AI services (AWS Bedrock,
+      Azure AI Foundry, GCP Vertex AI), writing prompts for LLM
+      Agents, and integrating LLM models into applications. The
+      position involves directly building and deploying AI
+      systems.
+  responsibilities:
+  - Design, develop and improve AI-powered software solutions using GenAI and Agentic
+    AI frameworks
+  - Develop and deploy Agentic AI solutions using cloud-native services like AWS Bedrock,
+    Azure AI Foundry, or GCP Vertex AI
+  - Lead full-stack software development and integrate LLM models into software applications
+  - Collaborate with product managers, designers, and engineers to define requirements
+    and devise AI solution strategies
+  - Write efficient prompts that provide accurate context for LLM Agents
+  - Implement AI solutions for legacy code transformation and software development
+  - Develop APIs and scalable cloud-based software applications
+  - Contribute to strategy, drive requirements, and manage team resources and budgets
+  use_cases:
+  - Digital landscape transformation and innovation for banking services
+  - Legacy code transformation using AI
+  - Customer experience enhancement through AI-powered solutions
+  - Agentic AI solutions for business process automation
+  - LLM-powered application integration
+  skills:
+    genai: [LangGraph, LangChain, CrewAI, Strands SDK, Google ADK, MCP, A2A protocols,
+      Prompt engineering, LLM Agents]
+    ml: []
+    web: [React, Angular, Node.js, RESTful APIs, HTML/CSS]
+    databases: [MySQL, PostgreSQL, MongoDB, Redis]
+    data: []
+    cloud: [AWS Bedrock, Azure AI Foundry, GCP Vertex AI, AWS, Azure, GCP]
+    ops: [Git, CI/CD]
+    languages: [Python, Java, GoLang, C#, JavaScript, SQL]
+    domains: []
+    other: [Scrum/Agile]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8572299'
+  extracted_at: '2026-03-03T12:23:55.609411'

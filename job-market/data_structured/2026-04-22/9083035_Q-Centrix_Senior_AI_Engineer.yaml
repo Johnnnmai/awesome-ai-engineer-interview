@@ -1,0 +1,47 @@
+company:
+  name: Q-Centrix
+  stage: Growth stage (24 years in business, established company)
+  focus: Clinical data management and intelligence for healthcare
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      maintaining LLM-powered extraction pipelines for clinical
+      text. The engineer develops, tests, and deploys LLM
+      solutions, automates prompt execution, and monitors
+      production AI models — all hands-on work with AI/LLM
+      systems.
+  responsibilities:
+  - Develop, test, and deploy LLM-powered extraction pipelines for clinical text at
+    scale
+  - Automate prompt execution, result validation, and error handling to enhance reliability
+  - Monitor and maintain production AI models ensuring uptime, accuracy, and compliance
+  - Collaborate with product, data, engineering, and clinical teams to integrate AI
+    outputs into real-world solutions
+  - Evaluate and integrate third-party AI solutions when appropriate
+  - Stay current with advancements in LLM deployment, model serving, and responsible
+    AI practices
+  use_cases:
+  - Extracting structured data from unstructured medical charts using LLMs
+  - Automating clinical data processing to improve healthcare data efficiency
+  - Clinical text extraction and intelligence at enterprise scale
+  - Ensuring compliance and responsible AI in regulated healthcare data processing
+  - Connecting and structuring fragmented healthcare data into actionable insights
+  skills:
+    genai: [LLM deployment, Prompt engineering, RAG / LLM pipelines]
+    ml: [Applied Machine Learning]
+    web: []
+    databases: []
+    data: [Data engineering, Pipeline automation]
+    cloud: [Cloud platforms]
+    ops: [Model monitoring]
+    languages: [Python]
+    domains: [EHR integration, Healthcare data]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9083035'
+  extracted_at: '2026-04-22T14:04:54.812737'

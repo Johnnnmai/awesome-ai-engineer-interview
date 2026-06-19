@@ -1,0 +1,323 @@
+job_id: 8666589
+title: AI/ML Engineer III
+company: Astreya
+location: IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Airflow
+  - Docker
+  - Gcp Vertex Ai
+  - Git
+  - Huggingface
+  - Jupyter
+  - Kubernetes
+  - Mlflow
+  - Postman
+  - Python
+company_size: 1,958 Employees
+description: |
+  Scope:
+  
+  - Translate business goals into measurable ML goals (KPIs,
+    acceptance thresholds) in collaboration with PMs and data
+    scientists.
+  - Lead the translation of ambiguous product needs into clear
+    ML metrics and success criteria.
+  - Own the full lifecycle from prototyping (incl. deep learning
+    and GenAI) to deployment and monitoring.
+  - Develop and maintain observability dashboards and alerts
+    tied to ML metrics and feature drift.
+  - Run and safeguard models in real time
+  - Champion cross-functional collaboration & governance
+  - Pilot new ML tools/frameworks, leading integration into
+    production where appropriate.
+  - Architect data strategy, championing reproducibility,
+    traceability, and quality across the ML stack
+  - Spearhead adoption of emerging ML trends; run strategic POCs
+    and lead production rollouts of state-of-the-art
+    techniques.
+  - Act as a cross-org ML thought leader—aligning product,
+    infra, legal, and UX on responsible ML.
+  
+  Key Deliverables by Level
+  
+  Level
+  
+  Title
+  
+  Key Deliverables
+  
+  Level 3
+  
+  AI/ML Engineer III
+  
+  - Scalable ML pipelines with automated training, validation,
+    and deployment workflows
+  - Deployed ML solutions integrated with Astreya’s managed
+    service platforms (e.g., NLP for ticket routing)
+  - Dashboards for monitoring inference quality and data drift
+  - MLOps pipelines with CI/CD practices
+  
+  Essential Duties and Responsibilities (All Levels):
+  
+  - Assist in data cleaning, feature engineering, testing basic
+    ML models, write and debug simple scripts
+  - Develop ML modules, assist in deployment, support data
+    pipelines, contribute to documentation and unit testing
+  - Support data preparation, model training under guidance,
+    debug code, attend knowledge sessions
+  - Develop and maintain smaller AI modules (e.g., anomaly
+    detection), assist in deployments, write technical
+    documentation
+  - Lead development of scalable ML models, integrate into ITSM
+    systems, ensure compliance and performance
+    metricsArchitect end-to-end AI platforms, oversee cross-
+    domain projects (e.g., NLP for service desk, CV for asset
+    tracking)
+  - Lead ML solution design, own production deployments,
+    optimize inference models, drive MLOps practices
+  - Architect end-to-end solutions for AI-driven services (e.g.,
+    IT ticket routing, network anomaly detection), lead AI
+    projects
+  
+  Education and/or Work Experience Requirements:
+  
+  Minimum Requirements:
+  
+  - Bachelor’s degree in Computer Science,Data Science, IT, or a
+    related field.Master’s preferred or equivalent experience
+    for senior levels
+  - Level 3: 4–6 years experience in ML/AI implementation and
+    deployment
+  
+  Preferred Certifications (All Levels):
+  
+  - Google Cloud Professional Machine Learning Engineer
+  - TensorFlow Developer Certificate
+  
+  Knowledge, Skills & Abilities (KSAs):
+  
+  - Machine Learning techniques (regression, classification,
+    clustering)
+  - Deep Learning architectures (CNNs, RNNs, Transformers, LLMs)
+  - NLP (tokenization, BERT, prompt engineering)
+  - Big Data fundamentals (Spark, Hadoop)
+  - Model interpretability, ethics in AI, bias detection
+  - Cloud-native AI services (GCP Vertex AI)
+  - Data governance, security, and ethical AI practices
+  - Programming: Python, Apps Script, SQL
+  - Frameworks: TensorFlow, PyTorch, scikit-learn, HuggingFace
+  - Tools: Git, Docker, Kubernetes, Airflow, MLflow,Jupyter,
+    Postman
+  - Data pipeline skills: SQL, Pandas, data APIs
+  - Deployment: Flask/FastAPI, CI/CD, REST APIs, cloud functions
+  - Strong analytical and debugging skills
+  - Translate business problems into AI solutions
+  - Communicate effectively with technical and non-technical
+    stakeholders
+  - Work under Agile or DevOps-based workflows
+  - Stay current with research and emerging technologies
+  - Rapidly learn new AI concepts and tools
+  - Translate business challenges into ML solutions
+  - Communicate technical findings to non-technical stakeholders
+  - Handle ambiguity and balance research with delivery
+  - Collaborate across globally distributed teams
+  
+  Competency
+  
+  Technical Expertise
+  
+  Understands basic ML/DL principles
+  
+  Codes in Python/R
+  
+  Familiarity with AI/ML tools such as Jupyter, scikit-learn,
+  or TensorFlow (basic use)
+  
+  Applies supervised/unsupervised ML methods
+  
+  Proficient in TensorFlow/PyTorch
+  
+  Uses cloud ML services
+  
+  Familiar with ML pipelines
+  
+                              Documents technical solutions
+  and contributes to code reviews
+  
+  
+  Designs and builds production-grade models
+  
+                                Uses MLflow, Airflow, CI/CD
+  tools
+  
+                      Experience with model deployment and
+  monitoring
+  
+                            Owns end-to-end AI/ML solutions
+  including architecture, training, deployment, and monitoring
+  
+  
+  
+  Leads development of enterprise-wide AI/ML strategies and
+  platforms
+  
+  Drives model optimization at scale
+  
+                         Understands data engineering best
+  practices
+  
+  Defines org-wide AI/ML standards
+  
+  Oversees architecture for reusable platforms
+  
+  Directs ML model governance and compliance
+  
+  Evaluates and mitigates risks related to fairness, privacy,
+  and regulatory requirements
+  
+  Problem Solving & Innovation
+  
+  Solves small coding and data cleaning problems
+  
+  Ability to analyze and clean datasets
+  
+  
+  Identifies root causes in data/model issues
+  
+  Applies ML solutions to scoped problems
+  
+  Effective in debugging and troubleshooting code and data
+  issues
+  
+  Selects and tunes algorithms for real-world impact
+  
+  Innovates within team on novel use cases
+  
+  Anticipates platform-wide AI needs
+  
+  Designs scalable solutions to business-wide problems
+  
+  Champions reusability and standardization across teams
+  
+  Designs AI architectures integrated into critical systems
+  (e.g., service desks, observability)
+  
+  Drives disruptive AI innovation
+  
+  Aligns AI/ML initiatives with enterprise transformation
+  goals
+  
+  Provides strategic oversight for all AI initiatives and
+  cross-org alignment
+  
+  
+  Collaboration & Communication
+  
+  Good communication and team collaboration skills
+  
+  
+  Shares ideas in meetings
+  
+  Communicates findings clearly to peers
+  
+  Contributes to documentation and demos
+  
+  Collaborates cross-functionally to integrate models into
+  services
+  
+  Explains model behavior to technical and semi-technical
+  audiences
+  
+  Coaches junior team members
+  
+                            Interprets results and presents
+  actionable insights to stakeholders
+  
+  Builds trust with cross-functional teams and leadership
+  
+                                          Acts as primary AI
+  contact for programs
+  
+  Engages with external partners/vendors on AI innovation
+  
+  
+  Tracks simple work using task tools
+  
+  Documents code and data usage
+  
+  Delivers discrete ML components
+  
+  Manages tasks independently
+  
+  Leads projects through design, development, testing, and
+  rollout
+  
+  Owns project timeline and quality
+  
+  Familiar with advanced ML topics (e.g., transformers,
+  reinforcement learning, LLM fine-tuning)
+  
+  Coordinates complex programs and integrations
+  
+  Leads cross-functional AI initiatives
+  
+  Drives data quality and governance initiatives for reliable
+  model outcomes
+  
+  Facilitates cross-functional solutioning between product,
+  IT, and operations
+  
+  Oversees multi-team programs
+  
+  Owns delivery of strategic AI initiatives across departments
+  
+  Defines AI success metrics, compliance frameworks, and model
+  governance structures
+  
+  Strategic Thinking & Leadership
+  
+  Understands team mission
+  
+  Adopts best practices
+  
+  Takes direction and accepts feedback constructively
+  
+  
+  Builds and evaluates supervised/unsupervised models
+  independently
+  
+  Provides input on technical direction
+  
+                            Mentors junior engineers
+  
+                            Designs scalable models and
+  pipelines for production use
+  
+  
+  
+  Defines best practices and technical vision
+  
+                              Influences product and
+  engineering roadmap
+  
+  Balances model performance with business objectives and
+  ethical guidelines
+  
+  Sets the AI/ML vision and roadmap aligned with business
+  growth goals
+  
+  Establishes AI strategy, ethics, and governance
+  
+  Influences external clients and industry engagement
+  
+  Physical Requirements:
+  
+  
+  - Travel occasionally required for team collaboration, client
+    meetings, or workshops
+  - Flexibility to work across global time zones when needed
+posted_date: 2026-03-05
+url: "https://builtin.com/job/ai-ml-engineer-iii/8666589"
+source: Built In

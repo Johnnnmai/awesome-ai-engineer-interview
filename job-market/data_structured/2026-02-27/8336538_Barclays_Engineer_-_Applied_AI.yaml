@@ -1,0 +1,48 @@
+company:
+  name: Barclays
+  stage: Public
+  focus: Global financial services and banking
+position:
+  title: Engineer - Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience with GenAI and
+      Agentic AI frameworks (LangGraph/LangChain, CrewAI), working
+      directly with LLM models, writing prompts, and familiarity
+      with fine-tuning techniques. The position involves building
+      and deploying AI systems, not just supporting them.
+  responsibilities:
+  - Design, develop and improve AI-powered software solutions utilizing GenAI and
+    Agentic AI frameworks
+  - Build and deploy LLM-based applications using frameworks like LangGraph, LangChain,
+    and CrewAI
+  - Develop REST-based APIs and services using frameworks like FastAPI or Springboot
+  - Collaborate with product managers, designers, and engineers to define requirements
+    and devise solution strategies
+  - Implement effective unit testing practices and participate in code reviews
+  - Stay informed of AI/ML technology trends and contribute to technical communities
+  - Ensure secure coding practices and compliance with banking regulations
+  use_cases:
+  - Building AI agents and agentic systems for banking operations
+  - Developing LLM-powered applications for customer and internal use
+  - Implementing conversational AI and automated decision systems
+  - Creating intelligent automation for financial services
+  - Building context-aware AI assistants for banking workflows
+  skills:
+    genai: [LangGraph, LangChain, CrewAI, Strands SDK, Google ADK, MCP, A2A protocols,
+      LLM Models, Prompt Engineering]
+    ml: [Model Fine-tuning, Reinforcement Learning]
+    web: [FastAPI, Spring Boot, REST APIs]
+    databases: [PostgreSQL, MongoDB, SQL, NoSQL]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python, Java, GoLang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8336538'
+  extracted_at: '2026-03-03T12:04:03.293957'

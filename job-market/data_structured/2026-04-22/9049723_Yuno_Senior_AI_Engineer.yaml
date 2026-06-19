@@ -1,0 +1,58 @@
+company:
+  name: Yuno
+  stage: Series B
+  focus: Payment orchestration infrastructure for global transactions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on building, deploying, and
+      fine-tuning LLM-powered applications, agentic systems, and
+      RAG pipelines. The engineer will architect autonomous AI
+      systems, fine-tune models using proprietary data, and build
+      multi-agent workflows — all hands-on work directly on AI/ML
+      systems.
+  responsibilities:
+  - Architect, build, and deploy LLM-powered applications that augment and automate
+    key workflows across customer service, product development, and internal operations
+  - Design autonomous AI systems capable of executing technical analysis, testing,
+    troubleshooting, and decision-making at scale
+  - Lead fine-tuning and contextual optimization of AI models using proprietary company
+    data
+  - Identify areas across the company where AI can generate efficiency gains and build
+    systems that enable scaling without exponential headcount growth
+  - Continuously refine AI system performance through structured feedback loops, observability
+    metrics, and user interaction data
+  - Collaborate with data, product, and infrastructure teams to define the long-term
+    AI roadmap
+  - Experiment with emerging AI technologies to identify new capabilities for strategic
+    advantage
+  - Ensure adherence to privacy, compliance, and ethical AI principles in all model
+    development
+  use_cases:
+  - AI-powered customer service automation for payment orchestration
+  - Autonomous AI agents for technical analysis, testing, and troubleshooting
+  - Internal agentic workflows to optimize critical company processes and reduce manual
+    work
+  - AI-driven tools for accelerating product development and innovation
+  - Fine-tuned domain-specific AI models for fintech/payment optimization
+  - Intelligent decision engines for payment experience optimization
+  skills:
+    genai: ['LLMs (GPT, Claude, Gemini)', RAG, LangChain, LangGraph, CrewAI, LlamaIndex,
+      'Fine-tuning (SFT, LoRA)', Prompt engineering, AI Agents & Multi-Agent Systems,
+      Context optimization & embedding strategies, Knowledge retrieval systems]
+    ml: [PyTorch, TensorFlow, JAX, Hugging Face]
+    web: [RESTful APIs]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [LangSmith, LangFuse, MLOps, CI/CD, Model serving & inference optimization]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9049723'
+  extracted_at: '2026-04-22T13:58:47.538459'

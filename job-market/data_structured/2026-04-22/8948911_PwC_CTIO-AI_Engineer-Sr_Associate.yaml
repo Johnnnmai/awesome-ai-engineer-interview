@@ -1,0 +1,48 @@
+company:
+  name: PwC
+  stage: Public
+  focus: |-
+    Professional services, consulting, data and analytics
+    engineering
+position:
+  title: CTIO-AI Engineer-Sr Associate
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves developing and implementing AI solutions,
+      deploying LLMs into production, designing RAG pipelines, and
+      working with orchestration tools like LangChain and
+      LlamaIndex for agent-based systems. These are hands-on
+      activities building and deploying AI/GenAI systems directly.
+  responsibilities:
+  - Build and nurture meaningful relationships with clients
+  - Develop and implement AI solutions that enhance product offerings
+  - Utilize advanced analytical techniques to drive innovation
+  - Design and optimize RAG pipelines for production use
+  - Deploy LLMs into production environments
+  - Mentor junior team members and lead technical discovery
+  - Collaborate with cross-functional teams to achieve project goals
+  - Uphold the firm's ethical standards and advocate for responsible AI principles
+  use_cases:
+  - Client-facing AI solution development and deployment
+  - Production LLM deployment for business applications
+  - RAG pipeline design and optimization for enterprise clients
+  - Agent-based AI system development
+  - Data-driven decision making through predictive models and analytics
+  skills:
+    genai: [Prompt Engineering, LLM Deployment, RAG Pipelines, LangChain, LlamaIndex,
+      Agent-based Systems]
+    ml: [Machine Learning, Predictive Modeling, Statistical Analysis]
+    web: []
+    databases: []
+    data: [Data Visualization]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8948911'
+  extracted_at: '2026-04-22T13:11:00.355444'

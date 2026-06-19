@@ -1,0 +1,50 @@
+company:
+  name: MongoDB
+  stage: Public
+  focus: Database platform for AI era with vector search capabilities
+position:
+  title: AI Staff Developer Advocate
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Developer Advocate role focused on promoting
+      MongoDB's AI capabilities to the community, not building AI
+      systems. The role involves teaching, creating content,
+      speaking at events, and helping developers use MongoDB's AI
+      features like vector search. While it requires AI/ML
+      expertise and experience building AI solutions, the day-to-
+      day work is advocacy and education, not hands-on AI/ML
+      development.
+  responsibilities:
+  - Build expertise on MongoDB's AI capabilities including vector search and Voyage
+    AI embedding models
+  - Engage with developer community at meetups, events, hackathons, and conferences
+  - Speak at strategic AI events and lead workshops at conferences like AWS re:Invent
+  - Create tutorials, articles, videos, workshops, and code examples for developers
+  - Provide feedback to Product and Technology teams as the voice of the developer
+  - Partner with AI companies to create content and co-host virtual and in-person
+    events
+  - Lead sessions with customer teams to evaluate AI use cases and provide MongoDB
+    recommendations
+  - Support community engagement with user groups, Champions, and influencer programs
+  use_cases:
+  - Vector search for AI applications
+  - Embedding models and rerankers for RAG applications
+  - AI agent development with database integration
+  - Enterprise AI application data layer
+  skills:
+    genai: [embedding models, agentic solutions, Voyage AI]
+    ml: []
+    web: []
+    databases: [vector search, MongoDB]
+    data: []
+    cloud: [AWS, Google Cloud, Microsoft Azure]
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: [content creation, public speaking]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8695321'
+  extracted_at: '2026-03-27T16:03:03.201965'

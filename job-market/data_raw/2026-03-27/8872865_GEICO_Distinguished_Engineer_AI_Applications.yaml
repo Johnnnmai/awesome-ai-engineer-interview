@@ -1,0 +1,321 @@
+job_id: 8872865
+title: Distinguished Engineer, AI Applications
+company: GEICO
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - Airflow
+  - Arize Phoenix
+  - AWS
+  - Azure
+  - Claude
+  - Elasticsearch
+  - Generative Ai
+  - Gpt
+  - Kafka
+company_size: 26,259 Employees
+description: |
+  At GEICO, we offer a rewarding career where your ambitions
+  are met with endless possibilities.
+  
+  Every day we honor our iconic brand by offering quality
+  coverage to millions of customers and being there when they
+  need us most. We thrive through relentless innovation to
+  exceed our customers’ expectations while making a real
+  impact for our company through our shared purpose.
+  
+  When you join our company, we want you to feel valued,
+  supported and proud to work here. That’s why we offer The
+  GEICO Pledge: Great Company, Great Culture, Great Rewards
+  and Great Careers.
+  
+  GEICO is seeking a Distinguished Engineer (AI Platforms) to
+  join our AI organization. This individual will serve as one
+  of the most senior technical authorities driving the
+  architecture, evolution, and long-term technical strategy of
+  GEICO’s Generative AI and virtual agent platforms. This
+  platform directly supports productivity and service quality
+  for 20K+ contact center employees across claims, service,
+  and sales.
+  
+  In this role, you will operate with enterprise-wide
+  technical influence, shaping foundational AI platform
+  capabilities that enable large-scale, production-grade GenAI
+  and agentic workflows across GEICO. You will work closely
+  with senior engineers, architects, product leaders, and
+  executives to define and evolve durable, scalable, and
+  extensible AI systems that underpin multiple lines of
+  business.
+  
+  
+  
+  The ideal candidate brings a proven track record of
+  designing and architecting complex, multi-system AI/ML
+  platforms at scale, deep hands-on expertise, and a strong
+  passion for Generative AI technologies in real-world
+  production environments.
+  
+  
+  
+  Key Responsibilities
+  
+  Enterprise Architecture & Technical Authority
+  
+  - Define, own, and evolve the foundational architecture for
+    GEICO’s Generative AI and agentic workflow platforms.
+  
+  - Serve as a final technical authority on complex
+    architectural decisions impacting multiple products,
+    teams, and business domains.
+  
+  - Design interconnected, high-performance, and durable
+    platform components that power end-to-end GenAI workflows,
+    including:
+  
+  - Knowledge curation and management
+  
+  - Search and retrieval systems
+  
+  - Prompt and context management
+  
+  - Workflow orchestration and action execution
+  
+  - Semantic and knowledge graph systems
+  
+  Platform & GenAI Applications Strategy, Architecture, and
+  Business Impact
+  
+  - Establish and drive multi-year technical strategy and
+    roadmaps for both AI platform capabilities and Generative
+    AI (GenAI) applications in close partnership with product
+    and business leaders.
+  
+  - Balance speed, scalability, reliability, and extensibility
+    while ensuring platforms and GenAI applications can
+    support future AI use cases, evolving business needs, and
+    organizational growth.
+  
+  - Influence investment decisions by evaluating build vs. buy
+    tradeoffs and architectural choices for both the
+    underlying platform and GenAI applications.
+  
+  - Define the reference architecture and best practices for
+    GenAI application development, deployment, and
+    integration, ensuring alignment with overall enterprise
+    architecture.
+  
+  - Collaborate with business stakeholders to identify high-
+    impact GenAI application opportunities and develop
+    strategies to maximize business value and measurable
+    outcomes.
+  
+  - Continuously assess and communicate the business impact of
+    GenAI applications, providing clear metrics and feedback
+    loops to inform ongoing strategy and platform evolution.
+  
+  System & Technology Evaluation
+  
+  - Lead evaluation and selection of core technologies,
+    frameworks, and infrastructure components with a emphasis
+    on building and scaling Generative AI applications,
+    including LLM orchestration(e.g., LangChain, LlamaIndex),
+    agentic workflows, RAG systems, and
+    evaluation/observability tooling, while partnering on
+    underling AI platform infrastructure and services to
+    support production readiness.
+  
+  - Ensure architectural consistency and technical rigor across
+    open-source, cloud-agnostic, and managed service
+    integrations.
+  
+  Cross-Organization Influence
+  
+  - Collaborate across engineering, data science, ML, product,
+    and design organizations to align on platform and GenAI
+    application direction, technical standards, and business
+    objectives.
+  
+  - Drive alignment across teams by translating complex
+    technical and business concepts into clear architectural
+    guidance and decision frameworks.
+  
+  - Partner with senior technical and business leaders across
+    departments to promote enterprise-wide adoption of GenAI
+    best practices and maximize organizational impact.
+  
+  Technical Leadership & Problem Solving
+  
+  - Tackle the most complex and ambiguous technical and business
+    challenges affecting system-wide and application-specific
+    performance, reliability, and scalability.
+  
+  - Lead deep technical reviews, architectural assessments, and
+    design discussions for critical AI and GenAI application
+    initiatives.
+  
+  - Guide platform and GenAI application evolution through
+    hands-on engagement when necessary, especially in high-
+    impact or high-risk areas.
+  
+  Mentorship & Technical Stewardship
+  
+  - Mentor senior engineers and technical leads, setting a high
+    bar for architectural thinking, engineering quality, and
+    technical decision-making for both platform and GenAI
+    application initiatives.
+  
+  - Establish and reinforce best practices for platform and
+    GenAI application design, reliability, observability, and
+    operational excellence.
+  
+  - Contribute to internal documentation, architectural
+    standards, and technical knowledge sharing for both the AI
+    platform and GenAI applications.
+  
+  Minimum Qualifications
+  
+  - Master’s degree or higher in Computer Science, Engineering,
+    Statistics, or a related field.
+  
+  - 10+ years of professional software engineering experience,
+    with deep expertise in large-scale distributed systems.
+  
+  - Extensive experience architecting and building multi-
+    component AI/ML platforms using technologies such as:
+  
+  - Search and retrieval systems (e.g., Elasticsearch, Qdrant,
+    Milvus, Pinecone,Weaviate)
+  
+  - Data platforms (e.g., Snowflake, relational and NoSQL
+    databases, and feature stores)
+  
+  - Streaming and distributed processing (e.g., Kafka, Spark,
+    Ray)
+  
+  - Workflow orchestration (e.g., Airflow, Temporal, Prefect)
+  
+  - LLM orchestration and application frameworks ( e.g.,
+    LangChain, Llamaindex)
+  
+  - Observability, evaluation, and tracing for GenAI systems
+    (e.g., LangSmith, Arize Phoenix, Weights & Biases,
+    OpenTelemetry)
+  
+  - Vector databases, embedding pipelines, and retrieval-
+    augmented generation (RAG) architectures
+  
+  - Agentic frameworks and multi-agent systems for complex task
+    execution
+  
+  - Strong background in full software development lifecycle
+    ownership, including CI/CD, Kubernetes, monitoring, and
+    production operations.
+  
+  - Deep experience with major cloud platforms such as AWS and
+    Azure.
+  
+  - Demonstrated hands-on experience building production systems
+    using LLMs and Generative AI technologies (e.g., GPT,
+    Llama, Mistral, Claude) to power conversational and
+    agentic workflows.
+  
+  
+  
+  Annual Salary
+  
+  $210,000.00 - $350,000.00
+  
+  The above annual salary range is a general guideline.
+  Multiple factors are taken into consideration to arrive at
+  the final hourly rate/ annual salary to be offered to the
+  selected candidate. Factors include, but are not limited to,
+  the scope and responsibilities of the role, the selected
+  candidate’s work experience, education and training, the
+  work location as well as market and business considerations.
+  
+  
+  
+  At this time, GEICO will not sponsor a new applicant for
+  employment authorization for this position.
+  
+  
+  
+  The GEICO Pledge:
+  
+  Great Company: At GEICO, we help our customers through
+  life’s twists and turns. Our mission is to protect people
+  when they need it most and we’re constantly evolving to stay
+  ahead of their needs.
+  
+  We’re an iconic brand that thrives on innovation, exceeding
+  our customers’ expectations and enabling our collective
+  success. From day one, you’ll take on exciting challenges
+  that help you grow and collaborate with dynamic teams who
+  want to make a positive impact on people’s lives.
+  
+  Great Careers: We offer a career where you can learn, grow,
+  and thrive through personalized development programs,
+  created with your career – and your potential – in mind.
+  You’ll have access to industry leading training,
+  certification assistance, career mentorship and coaching
+  with supportive leaders at all levels.
+  
+  Great Culture: We foster an inclusive culture of shared
+  success, rooted in integrity, a bias for action and a
+  winning mindset. Grounded by our core values, we have an an
+  established culture of caring, inclusion, and belonging,
+  that values different perspectives. Our teams are led by
+  dynamic, multi-faceted teams led by supportive leaders,
+  driven by performance excellence and unified under a shared
+  purpose.
+  
+  As part of our culture, we also offer employee engagement
+  and recognition programs that reward the positive impact our
+  work makes on the lives of our customers.
+  
+  Great Rewards: We offer compensation and benefits built to
+  enhance your physical well-being, mental and emotional
+  health and financial future.
+  
+  - Comprehensive Total Rewards program that offers personalized
+    coverage tailor-made for you and your family’s overall
+    well-being.
+  - Financial benefits including market-competitive
+    compensation; a 401K savings plan vested from day one that
+    offers a 6% match; performance and recognition-based
+    incentives; and tuition assistance.
+  - Access to additional benefits like mental healthcare as well
+    as fertility and adoption assistance.
+  - Supports flexibility- We provide workplace flexibility as
+    well as our GEICO Flex program, which offers the ability
+    to work from anywhere in the US for up to four weeks per
+    year.
+  
+  The equal employment opportunity policy of the GEICO
+  Companies provides for a fair and equal employment
+  opportunity for all associates and job applicants regardless
+  of race, color, religious creed, national origin, ancestry,
+  age, gender, pregnancy, sexual orientation, gender identity,
+  marital status, familial status, disability or genetic
+  information, in compliance with applicable federal, state
+  and local law. GEICO hires and promotes individuals solely
+  on the basis of their qualifications for the job to be
+  filled.
+  
+  GEICO reasonably accommodates qualified individuals with
+  disabilities to enable them to receive equal employment
+  opportunity and/or perform the essential functions of the
+  job, unless the accommodation would impose an undue hardship
+  to the Company. This applies to all applicants and
+  associates. GEICO also provides a work environment in which
+  each associate is able to be productive and work to the best
+  of their ability. We do not condone or tolerate an
+  atmosphere of intimidation or harassment. We expect and
+  require the cooperation of all associates in maintaining an
+  atmosphere free from discrimination and harassment with
+  mutual respect by and for all associates and applicants.
+posted_date: 2026-03-26
+url: "https://builtin.com/job/distinguished-engineer-ai-applications/8872865"
+source: Built In

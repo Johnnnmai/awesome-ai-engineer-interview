@@ -1,0 +1,49 @@
+company:
+  name: Saviynt
+  stage: null
+  focus: |-
+    Enterprise Identity Cloud platform for security and
+    compliance
+position:
+  title: Senior Engineer - Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, deploying, and
+      optimizing Agentic AI systems using LLMs. The engineer will
+      work hands-on with foundation models (GPT, Claude, Llama),
+      implement RAG and prompt engineering, develop multi-agent AI
+      workflows, and build inference pipelines - all core AI-first
+      activities.
+  responsibilities:
+  - Design and implement multi-agent AI workflows for enterprise identity use cases
+  - Develop microservices and APIs with focus on scalability and resilience using
+    Kubernetes and HPA
+  - Work with foundation models (GPT, Claude, Llama) to build domain-specific AI features
+  - Apply RAG and prompt engineering techniques for enterprise identity use cases
+  - Develop cost-efficient inference pipelines with AWS Bedrock and Azure OpenAI
+  - Implement observability (metrics, traces, logs) into deployed systems
+  - Develop and deploy solutions in multi-cloud environments (AWS, Azure)
+  - Integrate with secure messaging and orchestration systems (Kafka, RabbitMQ, Istio)
+  use_cases:
+  - Enterprise identity and access management automation
+  - AI-driven security and compliance solutions
+  - Multi-agent workflows for identity governance
+  - Domain-specific AI features for enterprise identity use cases
+  - RAG-based enterprise search and retrieval
+  skills:
+    genai: [LangChain, LangGraph, GPT, Claude, Llama, RAG, Prompt Engineering]
+    ml: [Transformers]
+    web: []
+    databases: [PostgreSQL, Redis, Vector Databases]
+    data: [Kafka, RabbitMQ]
+    cloud: [AWS Bedrock, Azure OpenAI, AWS, Azure]
+    ops: [Kubernetes, Docker, Prometheus, Grafana, ELK, Istio]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7463674'
+  extracted_at: '2026-03-03T11:49:54.946420'

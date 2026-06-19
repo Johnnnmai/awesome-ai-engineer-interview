@@ -1,0 +1,47 @@
+company:
+  name: CrackaJack Digital Solutions
+  stage: Unknown
+  focus: Digital solutions company accelerating AI adoption
+position:
+  title: Java Gen AI  Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing and implementing AI-
+      driven solutions, Agentic workflows, and working with LLMs
+      and AI tools in a hands-on capacity. The engineer is
+      expected to build, deploy, and integrate AI systems into
+      production, making this clearly an ai-first role.
+  responsibilities:
+  - Design and implement AI-driven solutions aligned with business and executive priorities,
+    ensuring interoperability with current applications
+  - Translate AI concepts into practical, production-ready implementations
+  - Collaborate with internal stakeholders and existing offshore teams to deliver
+    AI solutions
+  - Bridge gaps in AI expertise and scale AI knowledge across the organization
+  - Contribute to UI/web-based AI implementations using tools like Open WebUI or similar
+  - Integrate AI solutions with cloud platforms (AWS, Azure, GCP) and AI services
+  - Work with enterprise-scale AI projects and data pipelines
+  - Apply security best practices in AI applications
+  use_cases:
+  - AI-driven business solutions aligned with executive priorities
+  - Agentic workflow design and implementation
+  - AI-enabled web interfaces for internal or customer use
+  - Enterprise-scale AI project deployment and integration
+  - Knowledge scaling and AI adoption acceleration across the organization
+  skills:
+    genai: [LLMs, Agentic workflows, AI tools and frameworks, Open WebUI]
+    ml: []
+    web: []
+    databases: []
+    data: [Data pipelines]
+    cloud: [AWS, Azure, GCP, AI service integration]
+    ops: [Production deployment of AI systems]
+    languages: [Java]
+    domains: []
+    other: [AI security best practices]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9057553'
+  extracted_at: '2026-04-22T13:55:03.381693'

@@ -1,0 +1,46 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Gen AI Python Developer  - Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development with Generative AI
+      technologies, including implementing RAG systems and
+      integrating GenAI APIs like OpenAI and Gemini. The position
+      focuses on building and deploying AI-powered solutions, not
+      just supporting infrastructure.
+  responsibilities:
+  - Design, develop, and maintain Python code for Generative AI applications
+  - Integrate and leverage GenAI APIs (OpenAI, Gemini) to build innovative features
+    and products
+  - Implement and optimize Retrieval Augmented Generation (RAG) systems to enhance
+    AI model capabilities
+  - Develop and deploy backend services using Python frameworks (FastAPI, Flask, Django)
+  - Collaborate with cross-functional teams to define requirements and deliver solutions
+  - Write comprehensive unit and integration tests to ensure code quality
+  - Optimize application performance, scalability, and security
+  - Work with cloud container orchestration services like OpenShift ECS for deployment
+  use_cases:
+  - AI-powered financial applications and products
+  - Contextually relevant AI responses using RAG
+  - Innovative GenAI features for banking solutions
+  - Scalable AI backend services
+  skills:
+    genai: [OpenAI API, Gemini API, RAG, Generative AI]
+    ml: []
+    web: [FastAPI, Flask, Django]
+    databases: [Relational databases, NoSQL databases]
+    data: []
+    cloud: [OpenShift, ECS]
+    ops: [Git, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8740922'
+  extracted_at: '2026-03-27T14:21:07.950246'

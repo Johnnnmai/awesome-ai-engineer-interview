@@ -1,0 +1,51 @@
+company:
+  name: Mistral AI
+  stage: Series B
+  focus: Open-source LLMs and enterprise AI platform
+position:
+  title: Applied AI, Technical Lead, Forward Deployed AI Engineer - EMEA
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed AI Engineer role that involves
+      hands-on work deploying AI solutions including fine-tuning
+      LLMs, RAG systems, and agentic workflows. Despite being
+      customer-facing, the role requires delivering critical code,
+      designing complex AI systems, and directly implementing
+      AI/ML solutions for enterprise customers.
+  responsibilities:
+  - Deliver hands-on coding for complex AI projects, reviewing and optimizing AI solutions
+  - Lead technical teams of Applied AI Engineers in deploying GenAI applications across
+    industries
+  - Lead technical pre-sales discussions, translating customer requirements into actionable
+    AI solutions
+  - Design and implement complex AI systems including fine-tuning, RAG, and agentic
+    workflows
+  - Drive innovation by evaluating emerging AI tools and championing best practices
+    for deployment
+  - Collaborate with product, research, and engineering teams to integrate customer
+    feedback into product development
+  - Serve as primary technical point of contact for strategic enterprise customers
+    through the full lifecycle
+  use_cases:
+  - Enterprise AI adoption and integration
+  - Fine-tuned LLM applications for industry-specific needs
+  - RAG systems for enterprise knowledge retrieval
+  - Agentic workflows and autonomous AI systems
+  - Custom NLP applications deployed at scale
+  skills:
+    genai: [LangChain, RAG, Agentic systems]
+    ml: [PyTorch, Hugging Face, Fine-tuning LLMs]
+    web: [API design, Backend development]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7369041'
+  extracted_at: '2026-03-27T13:42:06.899169'

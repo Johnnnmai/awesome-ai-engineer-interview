@@ -1,0 +1,50 @@
+company:
+  name: Allstate
+  stage: Public
+  focus: Insurance and protection services provider
+position:
+  title: Senior AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly integrating and deploying
+      Generative AI models, fine-tuning LLMs for specific use
+      cases, and working with LangChain/RAG pipelines in
+      production. The engineer is hands-on with building and
+      deploying AI systems, not just supporting infrastructure for
+      others.
+  responsibilities:
+  - Design, develop, and maintain backend services and APIs using Java Spring Boot,
+    Node.js, or Python FastAPI
+  - Integrate and deploy Generative AI models (OpenAI, Hugging Face, LangChain) into
+    production environments
+  - Fine-tune and optimize LLMs for specific business use cases
+  - Build secure, scalable, and high-performance microservices
+  - Monitor and improve system performance, reliability, and scalability
+  - Implement CI/CD pipelines, containerization (Docker), and orchestration (Kubernetes)
+  - Deploy and manage applications on Microsoft Azure cloud platform
+  - Participate in code reviews, testing, and continuous integration processes
+  use_cases:
+  - Generative AI integration into enterprise insurance applications
+  - LLM fine-tuning for insurance-specific use cases
+  - RAG (Retrieval-Augmented Generation) pipelines for enterprise knowledge retrieval
+  - Multi-modal AI systems and agentic AI frameworks
+  - Backend API services supporting AI-powered features
+  skills:
+    genai: [LangChain, RAG, OpenAI API, Prompt Engineering, LLM Fine-Tuning, Embedding
+        Models, Agentic AI Frameworks]
+    ml: [Hugging Face]
+    web: [Java Spring Boot, FastAPI, Node.js, RESTful APIs, Microservices Architecture,
+      React, Angular]
+    databases: [Vector Databases]
+    data: []
+    cloud: [Microsoft Azure]
+    ops: [Docker, Kubernetes, CI/CD, MLOps]
+    languages: [Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8970148'
+  extracted_at: '2026-04-22T12:43:10.088682'

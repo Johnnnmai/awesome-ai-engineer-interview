@@ -1,0 +1,53 @@
+company:
+  name: Eagle
+  stage: Series A/B (backed by Lightspeed Venture Partners)
+  focus: |-
+    AI-native platform for engineering services and
+    infrastructure design
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is ai-first because the role involves directly building
+      AI systems, developing spatial reasoning models, creating
+      agents, and integrating LLMs/multimodal models into
+      production. The engineer will work hands-on with RAG
+      architectures, prompt engineering, and fine-tuning to build
+      AI-powered tools for civil engineering automation.
+  responsibilities:
+  - Collaborate directly with civil engineers to understand domain-specific workflows
+    and translate them into AI-powered tools
+  - Build AI systems that automate drafting, calculations, and documentation for engineering
+    workflows
+  - Develop spatial reasoning models that interpret blueprints and generate preliminary
+    designs for infrastructure projects
+  - Create agents that synthesize regulatory standards, run modeling simulations,
+    and automate repetitive engineering tasks
+  - Integrate LLMs and multimodal models into production workflows for engineering
+    teams
+  - Own the full lifecycle from prototyping and experimentation to deployment and
+    iteration
+  use_cases:
+  - Automating drafting, calculations, and documentation for civil engineering
+  - Spatial reasoning and blueprint interpretation for infrastructure design
+  - Regulatory standards synthesis and compliance automation
+  - Engineering task automation through AI agents
+  - Preliminary design generation for water, transportation, and utility projects
+  skills:
+    genai: [LLM applications, RAG architectures, Prompt engineering, Fine-tuning,
+      Multimodal models, Agents]
+    ml: [PyTorch, HuggingFace]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Computer vision]
+    other: [CAD file formats, Spatial data]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8601552'
+  extracted_at: '2026-03-27T13:39:21.770826'

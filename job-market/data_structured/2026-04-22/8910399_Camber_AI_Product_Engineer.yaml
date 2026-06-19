@@ -1,0 +1,54 @@
+company:
+  name: Camber
+  stage: Series B (raised $50M from a16z, Craft Ventures, YCombinator)
+  focus: |-
+    Building software to improve quality and accessibility of
+    healthcare
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is centered on building AI-powered products,
+      integrating LLMs into real workflows, building agent-based
+      workflows (LangGraph), and establishing AI direction for the
+      company. The engineer directly works with LLMs, evaluation
+      frameworks, and AI capabilities to ship production AI
+      systems — making this an ai-first role.
+  responsibilities:
+  - Rapidly prototype and ship AI-powered solutions to validate ideas and drive real
+    impact
+  - Own problems end-to-end from ambiguous idea to production system with minimal
+    oversight
+  - Build AI-powered products and tools that automate workflows, support decision
+    making, and improve internal and customer-facing experiences
+  - Operate across the stack including backend services, APIs, data pipelines, and
+    lightweight product surfaces
+  - Integrate AI capabilities such as LLMs into real workflows ensuring they are reliable,
+    observable, and cost-efficient
+  - Run fast feedback loops by testing, measuring, and iterating using evaluation
+    frameworks and real usage data
+  - Develop reusable patterns and tooling that enable faster experimentation and iteration
+    across the team
+  use_cases:
+  - Automating healthcare workflows for clinicians
+  - Supporting clinical decision-making with AI-powered tools
+  - Improving behavioral health operations through AI automation
+  - Building internal AI capabilities to improve company operations
+  - Streamlining manual work in healthcare settings
+  skills:
+    genai: [LLMs, LangGraph, Prompt engineering, Agent-based workflows]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: [Data pipelines]
+    cloud: [AWS]
+    ops: [Arize Phoenix, Promptfoo, OpenInference, Temporal]
+    languages: [Python]
+    domains: []
+    other: [Evaluation frameworks, HIPAA compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8910399'
+  extracted_at: '2026-04-22T14:01:24.319340'

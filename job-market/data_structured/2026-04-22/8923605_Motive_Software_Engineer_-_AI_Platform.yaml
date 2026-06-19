@@ -1,0 +1,56 @@
+company:
+  name: Motive
+  stage: Late-stage (serves nearly 100,000 customers including Fortune 500)
+  focus: |-
+    Fleet management, IoT, and physical operations platform with
+    AI capabilities
+position:
+  title: Software Engineer - AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a software engineering role focused on building
+      AI/ML platforms and distributed systems infrastructure that
+      support AI workloads. While it requires familiarity with AI
+      tools and platforms, the core work is designing and building
+      the platform/infrastructure layer, not directly building,
+      training, or fine-tuning models. The engineer builds the
+      systems that enable AI/ML capabilities for others.
+  responsibilities:
+  - Architect and build high-performance software and firmware for next-gen IoT and
+    AI/ML platforms
+  - Collaborate with executive and product teams to translate ideas into actionable
+    engineering plans
+  - Debug and optimize software on complex distributed systems ensuring security,
+    scalability, and resilience
+  - Develop automated end-to-end simulation and testing frameworks to validate system
+    integrity at scale
+  - Leverage AI-powered coding tools to enhance engineering productivity
+  - Act as a technical mentor fostering a culture of excellence across the engineering
+    team
+  - Drive rapid iteration and experimentation to solve real-time problems
+  use_cases:
+  - Fleet management and vehicle tracking for physical operations
+  - IoT platform for connected devices across transportation, construction, and energy
+    industries
+  - AI-powered automation of manual workloads for safety, operations, and finance
+    teams
+  - Large-scale distributed systems for processing and managing fleet-related data
+  - Observability and analytics for client-to-cloud monitoring
+  skills:
+    genai: [LangChain, LangGraph, Generative AI, Enterprise LLMs (Gemini/Claude),
+      Agent frameworks]
+    ml: [ML Platform development]
+    web: []
+    databases: [Snowflake]
+    data: []
+    cloud: [Cloud-native development]
+    ops: [CI/CD, Docker, Grafana, Datadog]
+    languages: [Golang, Python, Kotlin, C++]
+    domains: []
+    other: [Distributed systems, IoT platforms, Redash]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8923605'
+  extracted_at: '2026-04-22T12:53:24.246810'

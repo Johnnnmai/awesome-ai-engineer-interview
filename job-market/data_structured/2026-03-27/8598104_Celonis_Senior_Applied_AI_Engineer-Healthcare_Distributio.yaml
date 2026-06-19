@@ -1,0 +1,56 @@
+company:
+  name: Celonis
+  stage: Series D+
+  focus: |-
+    Process mining and Process Intelligence SaaS platform for
+    business operations
+position:
+  title: Senior Applied AI Engineer-(Healthcare Distribution)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying AI solutions
+      including LLM/agent systems with RAG, tools, and guardrails.
+      The engineer will architect autonomous AI agents, build
+      prototypes using generative AI techniques, and implement
+      solutions that directly use AI/ML technologies (LangChain,
+      OpenAI, multi-agent orchestration, fine-tuning) to solve
+      business problems. This is hands-on AI work, not just
+      supporting infrastructure.
+  responsibilities:
+  - Understand client AI strategy and translate healthcare distribution supply chain
+    requirements into innovative AI solutions with measurable impact
+  - Lead technical discovery and capability demonstrations during pre-sales cycles,
+    remaining involved post-sale to guide implementation and ensure value realization
+  - Rapidly build creative AI prototypes in client hackathons solving pain points
+    across inventory allocation, fleet routing, procurement, and customer service
+  - Design and implement autonomous AI agents using Celonis Process Intelligence Platform
+    for tasks like order-to-cash dispute resolution and warehouse exception management
+  - Architect and deliver secure, scalable LLM/agent systems with RAG, tools, and
+    guardrails integrated with enterprise ERPs, WMS, and TMS
+  - Serve as technical subject matter expert for Healthcare Distribution, scaling
+    domain knowledge across the organization
+  use_cases:
+  - Predictive demand forecasting for pharmaceutical distribution
+  - Warehouse optimization and distribution center throughput improvement
+  - Autonomous order-to-cash dispute resolution and backorder handling
+  - Intelligent chatbots for pharmacy and hospital customer support
+  - Automated extraction of data from vendor contracts and rebate agreements
+  - Fleet routing and transportation logistics optimization
+  skills:
+    genai: [LangChain, RAG, Multi-agent orchestration, Prompt engineering, Few-shot
+        learning, Fine-tuning, Function calling, LlamaIndex, OpenAI]
+    ml: [PyTorch, scikit-learn]
+    web: []
+    databases: []
+    data: [Pandas, Databricks]
+    cloud: [AWS Bedrock, Azure AI, GCP Vertex AI]
+    ops: []
+    languages: [Python, Pydantic]
+    domains: [Supply Chain Management, Healthcare Distribution]
+    other: [SAP EWM, Manhattan WMS, Blue Yonder]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8598104'
+  extracted_at: '2026-03-27T15:16:43.544767'

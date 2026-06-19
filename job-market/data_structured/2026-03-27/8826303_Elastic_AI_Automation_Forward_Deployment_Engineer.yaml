@@ -1,0 +1,58 @@
+company:
+  name: Elastic
+  stage: Public
+  focus: |-
+    Search AI Platform for search, security, and observability
+    solutions
+position:
+  title: AI Automation Forward Deployment Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that directly
+      builds, deploys, and implements AI/LLM-based intelligent
+      agents and automated workflows. The role requires hands-on
+      work with agentic frameworks (LangChain, LlamaIndex), prompt
+      engineering, and designing custom intelligent agents - all
+      direct work ON AI systems, not just enabling infrastructure
+      for others.
+  responsibilities:
+  - Own end-to-end technical delivery of AI solutions including writing code, configuring
+    systems, and resolving issues
+  - Design and implement scalable production systems with AI/LLM-based intelligent
+    agents and automated workflows
+  - Build custom intelligent agents using Elastic Agent Builder platform tailored
+    to unique business requirements
+  - Manage full data lifecycle from data model design to building processing pipelines
+    and integration strategies
+  - Identify, analyze, and resolve technical challenges across data integration, model
+    deployment, and agent orchestration
+  - Embed with client teams to understand challenges and translate requirements into
+    technical designs
+  - Perform debugging and root cause analysis for complex system interactions and
+    AI model behaviors
+  - Rapidly develop proofs-of-concept and MVPs, coding alongside client teams for
+    iterative refinement
+  use_cases:
+  - Intelligent agents and automated workflows for enterprise customers
+  - Conversational AI solutions for business process automation
+  - Custom agentic AI systems integrated with enterprise tool ecosystems
+  - AI-powered search and data processing in complex enterprise environments
+  - Automated business process optimization through intelligent agents
+  skills:
+    genai: [LangChain, LlamaIndex, Prompt engineering, Agentic frameworks, LLM integration,
+      Elastic Agent Builder]
+    ml: []
+    web: []
+    databases: [Salesforce Data Cloud, Snowflake, BigQuery]
+    data: [Databricks, Data modeling, Data pipelines]
+    cloud: []
+    ops: []
+    languages: [JavaScript, Java, Python]
+    domains: []
+    other: [Salesforce platform]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8826303'
+  extracted_at: '2026-03-27T15:32:17.830722'

@@ -1,0 +1,56 @@
+company:
+  name: Western Digital
+  stage: Public
+  focus: Data storage technology, HDDs, and flash memory solutions
+position:
+  title: Senior AI & Automation Engineer (6+ years Generative AI, Agentic AI, LLMs,
+    Python, APIs, MCP)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, deploying, and
+      optimizing AI-driven solutions including intelligent
+      chatbots, agentic AI systems, and LLM-powered automation.
+      The engineer works hands-on with prompt engineering, MCP,
+      agentic AI orchestration, and LLM optimization, making this
+      clearly an ai-first role.
+  responsibilities:
+  - Design, develop, and maintain intelligent chatbots and AI agents using platforms
+    such as Moveworks, Glean, and Microsoft Power Virtual Agents
+  - Build and manage Python-based automation scripts, backend services, and microservices
+    to support AI-driven workflows
+  - Implement and optimize LLM-powered solutions including prompt engineering, conversational
+    design, and contextual reasoning
+  - Apply agentic AI concepts including tool usage, multi-step reasoning, orchestration
+    patterns, and Model Context Protocol (MCP)
+  - Develop REST APIs and backend services to integrate AI solutions with enterprise
+    systems such as ServiceNow, Workday, and Microsoft 365
+  - Monitor, troubleshoot, and optimize AI agent performance, reliability, and response
+    accuracy using analytics, logging, and feedback loops
+  - Support workflow automation using Power Automate and Power Apps
+  - Mentor junior developers and support engineers transitioning into AI and automation
+    development
+  use_cases:
+  - Intelligent virtual agents for employee self-service across IT, HR, Procurement,
+    and Operations
+  - Enterprise workflow automation using AI-driven chatbots and agents
+  - Conversational AI for enterprise platforms like ServiceNow and Workday integrations
+  - Agentic AI orchestration for multi-step business process automation
+  - LLM-powered enterprise search and knowledge retrieval via Glean
+  skills:
+    genai: [Prompt Engineering, Agentic AI, Model Context Protocol (MCP), LLMs, Conversational
+        AI, Moveworks, Glean, Microsoft Power Virtual Agents, ChatGPT Enterprise]
+    ml: [NLP]
+    web: [REST APIs, Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: [LLMOps, Agile/Scrum]
+    languages: [Python]
+    domains: []
+    other: [Power Automate, Power Apps, ServiceNow, Workday, Microsoft 365]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8901309'
+  extracted_at: '2026-04-22T12:56:12.802008'

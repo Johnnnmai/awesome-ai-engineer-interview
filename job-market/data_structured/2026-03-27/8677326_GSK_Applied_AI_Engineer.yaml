@@ -1,0 +1,56 @@
+company:
+  name: GSK
+  stage: Public
+  focus: |-
+    Global biopharma company focused on specialty medicines,
+    vaccines, and drug discovery
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building, training, deploying,
+      and iterating on ML models including LLM-based applications,
+      agentic AI systems, and multi-agent architectures. The
+      engineer will develop production-ready AI services, RAG
+      pipelines, and knowledge graphs - all hands-on work with
+      AI/ML systems.
+  responsibilities:
+  - Provide tailored guidance to business units on AI/ML use cases, feasibility, model
+    selection, and deployment options in scientific domains
+  - Build, train, evaluate, and iterate on ML models for scientific and business problems
+    including NLP/LLM applications, knowledge graphs, causal inference, and predictive
+    modeling
+  - Package trained models into production-ready services (APIs, containerized deployments)
+    using cloud infrastructure
+  - Develop and maintain agentic AI systems, multi-agent architectures, and LLM-based
+    tools
+  - Co-design prototypes and proof-of-concepts with product and domain teams to validate
+    ideas quickly
+  - Run workshops, seminars, and hands-on training sessions to increase AI literacy
+    across the organization
+  - Embed within business/research units for time-limited engagements to accelerate
+    delivery and transfer skills
+  use_cases:
+  - Drug discovery acceleration
+  - Clinical data analysis and decision-making
+  - Genomics and biological data analysis
+  - Knowledge graph construction for scientific domains
+  - Predictive modeling for personalized medicines
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, RAG, LLM-based applications, Multi-agent
+        architectures]
+    ml: [PyTorch, TensorFlow, JAX, scikit-learn]
+    web: []
+    databases: []
+    data: [pandas, numpy, Knowledge graphs]
+    cloud: [GCP, AWS, Azure]
+    ops: [Docker, Kubernetes, MLflow, Weights & Biases, Git, CI/CD]
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8677326'
+  extracted_at: '2026-03-27T16:05:19.845884'

@@ -1,0 +1,54 @@
+company:
+  name: NTT DATA
+  stage: Public
+  focus: |-
+    Global technology services provider specializing in
+    enterprise AI, cloud, and digital infrastructure solutions
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly developing, fine-tuning, and
+      deploying LLMs, implementing prompt engineering strategies,
+      and building AI-powered solutions. The engineer works hands-
+      on with AI models throughout their lifecycle, from
+      prototyping to production deployment.
+  responsibilities:
+  - Develop, fine-tune, and deploy AI models including large language models (LLMs)
+    such as GPT-4 and open-source equivalents
+  - Design and implement prompt engineering strategies to enhance AI accuracy, consistency,
+    and reliability
+  - Engage with stakeholders and clients to understand business needs and translate
+    them into actionable AI solutions
+  - Rapidly prototype, test, and iterate AI applications using Python and relevant
+    frameworks
+  - Integrate AI solutions securely with enterprise systems (CRM, ERP, HRIS, finance
+    platforms) via API development
+  - Build and optimize end-to-end data pipelines for AI model data delivery
+  - Deploy and scale AI solutions within cloud environments (Azure, AWS, GCP)
+  - Implement DevOps and MLOps practices including automated deployment, testing,
+    monitoring, and version control
+  use_cases:
+  - Enterprise system integration with AI capabilities (CRM, ERP, HRIS, finance platforms)
+  - Knowledge management leveraging vector databases and semantic search
+  - Intelligent automation of business processes
+  - Client-facing AI solution prototyping and pilot project delivery
+  - Enterprise AI deployment with compliance (GDPR, HIPAA)
+  skills:
+    genai: [OpenAI GPT, LLM fine-tuning, Prompt engineering, Microsoft Copilot Studio,
+      Azure AI Foundry, Semantic Kernel]
+    ml: [NLP, Machine Learning]
+    web: [API development]
+    databases: [Vector databases]
+    data: [Data pipelines]
+    cloud: [Azure, AWS, GCP]
+    ops: [DevOps, MLOps]
+    languages: [Python, JavaScript, TypeScript, Java, C#]
+    domains: []
+    other: [GDPR compliance, HIPAA compliance, Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8701607'
+  extracted_at: '2026-03-27T14:00:14.940250'

@@ -1,0 +1,56 @@
+company:
+  name: Nextiva
+  stage: Established (founded 2008, 100K+ customers)
+  focus: |-
+    Business communications and customer experience platform
+    with AI-powered conversation tools
+position:
+  title: AI Software Engineer (Multimodal AI Agents)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves designing, developing, and
+      deploying multimodal AI agents (voice and chatbots) with
+      hands-on work on LLMs, NLP, speech recognition, and
+      conversational AI. The engineer will integrate large
+      language models, build agentic AI systems, and work on model
+      optimization and inference - all core AI-first activities.
+  responsibilities:
+  - Design, implement, and refine multimodal AI agents (voice and chatbots) for customer
+    experience products using NLP and speech recognition techniques
+  - Integrate large language models and AI/ML components into the Agentic AI Platform
+    for question answering, task automation, sentiment analysis, and recommendations
+  - Own the end-to-end development lifecycle of AI features from design to production
+    deployment
+  - Build and integrate multimodal interaction components including speech-to-text,
+    text-to-speech, and dialog management systems
+  - Optimize AI algorithms and agent frameworks for performance, scalability, and
+    reliability using data-driven methods
+  - Implement robust testing (unit, integration, end-to-end) for AI features and incorporate
+    ethical AI practices ensuring unbiased and compliant behavior
+  - Document AI agent designs, algorithms, and usage guidelines, and provide technical
+    mentorship to junior engineers
+  use_cases:
+  - Multimodal customer service automation through voice and chatbot AI agents
+  - Intelligent question answering and task automation for customer interactions
+  - Sentiment analysis and personalized recommendations in customer conversations
+  - Self-service resolution systems to improve customer experience
+  - Speech-to-text and text-to-speech integration for conversational interfaces
+  - Dialog management for human-like customer interactions
+  skills:
+    genai: [Large Language Models (LLMs), Conversational AI, Agentic SDKs]
+    ml: [PyTorch, TensorFlow, NLP, Deep Learning, BERT, Speech-to-Text (ASR), Text-to-Speech
+        (TTS)]
+    web: [Microservices Architecture, APIs, Backend Services]
+    databases: []
+    data: []
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [Docker, Kubernetes]
+    languages: [Python, Java, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8352821'
+  extracted_at: '2026-03-27T15:21:34.963226'

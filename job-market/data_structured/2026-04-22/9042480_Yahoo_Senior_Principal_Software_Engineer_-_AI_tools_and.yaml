@@ -1,0 +1,59 @@
+company:
+  name: Yahoo
+  stage: Public
+  focus: |-
+    Consumer email and media platform with hundreds of millions
+    of users
+position:
+  title: Senior Principal Software Engineer - AI tools and Adoption
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is about driving adoption of AI tools (Copilot,
+      Claude Code, Codex) across Yahoo's engineering organization
+      — it's focused on change management, tool evaluation, and
+      integrating AI into developer workflows. The engineer does
+      not build, train, fine-tune, or deploy ML/LLM models
+      themselves; they enable other engineers to use AI tools more
+      effectively. This is classic AI-support: working near AI but
+      not directly on AI systems.
+  responsibilities:
+  - Drive cultural transformation from AI-curious to AI-native engineering practices
+    across all engineering teams
+  - Evaluate and select emerging AI tools (Copilot, Claude Code, Codex) and make data-driven
+    recommendations based on legacy infrastructure
+  - Establish KPIs, track adoption progress, and implement interventions to accelerate
+    AI tool uptake across 400+ engineers
+  - Design technical frameworks for integrating AI tools into existing development
+    workflows and CI/CD pipelines
+  - Lead proof-of-concepts for coding agents performing standardized tasks across
+    various mail teams
+  - Partner with security and legal teams to ensure AI tool usage protects IP and
+    meets compliance requirements
+  - Establish best practices, guidelines, and guardrails for AI-assisted development
+  - Build communities of practice for knowledge sharing and foster peer-to-peer learning
+    around AI tools
+  use_cases:
+  - Developer productivity enhancement through AI-powered coding tools for 400+ engineers
+  - AI-assisted development workflow integration into Yahoo Mail's engineering pipelines
+  - Automated coding tasks via virtual engineer agents for standardized development
+    work
+  - Change management and adoption of AI tools across diverse engineering teams
+  - Cost and performance optimization of AI tool deployments at enterprise scale
+  skills:
+    genai: [GitHub Copilot, Claude Code, OpenAI Codex, Google Gemini, Anthropic Claude,
+      ChatGPT, Prompt Engineering, LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, DevOps, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: [Software Architecture]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9042480'
+  extracted_at: '2026-04-22T12:56:00.479285'

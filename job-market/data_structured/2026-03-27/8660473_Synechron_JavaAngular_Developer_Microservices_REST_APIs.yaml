@@ -1,0 +1,56 @@
+company:
+  name: Synechron
+  stage: null
+  focus: |-
+    Global digital transformation consulting and technology
+    services for financial services and enterprise sectors
+position:
+  title: Java/Angular Developer | Microservices, REST APIs, Cloud (AWS/Azure), AI
+    Integration, Leadership
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a traditional full-stack Java/Angular developer role
+      where AI tools (Amazon Q, Co-pilot) are mentioned only as
+      productivity aids for code assistance and automation. The
+      role does not involve building, training, fine-tuning, or
+      deploying AI/ML models - it's focused on enterprise
+      application development with Java and Angular, using AI
+      tools to support development workflows.
+  responsibilities:
+  - Design, develop, and maintain scalable Java and Angular-based enterprise applications
+  - Lead architectural discussions combining frontend (Angular) and backend (Spring
+    Boot) solutions for high availability and performance
+  - Integrate and leverage AI tools such as Co-pilot or Amazon Q for intelligent code
+    assistance and automation support
+  - Collaborate across teams to translate project requirements into technical specifications
+    and prototypes
+  - Write, review, and optimize code for responsiveness, security, and maintainability
+  - Support continuous integration, automated testing, and deployment pipelines for
+    rapid release cycles
+  - Troubleshoot and resolve complex issues related to application performance, security,
+    and integration
+  - Mentor junior team members and foster best practices in coding, testing, and development
+    processes
+  use_cases:
+  - Enterprise application development for business workflows
+  - Full-stack solutions for finance, banking, and fintech sectors
+  - Scalable microservices architecture for large-scale systems
+  - Secure REST/SOAP API integrations
+  - Automated CI/CD pipelines for rapid software delivery
+  skills:
+    genai: [Amazon Q, GitHub Copilot]
+    ml: []
+    web: [Spring Boot, Angular, REST APIs, SOAP, Spring Cloud]
+    databases: [MySQL, Oracle, SQL Server, MongoDB, Redis]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [Git, Maven, Jenkins, Docker, Kubernetes, GitLab CI, Azure DevOps]
+    languages: [Java, TypeScript, JavaScript, SQL, Python]
+    domains: []
+    other: [JUnit, Mockito, Jasmine, OAuth2, JWT, Hibernate, JPA]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8660473'
+  extracted_at: '2026-03-27T15:13:43.985514'

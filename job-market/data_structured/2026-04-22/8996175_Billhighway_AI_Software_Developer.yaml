@@ -1,0 +1,46 @@
+company:
+  name: Billhighway
+  stage: Unknown
+  focus: Software solutions for non-profit organizations
+position:
+  title: AI Software Developer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily a software developer position that
+      uses AI coding assistants as a productivity tool (50% of
+      coding tasks), but does not build, train, fine-tune, or
+      deploy AI/ML models. The candidate leverages AI tools like
+      agentic engineering for their software development work on
+      non-AI applications, making this an AI-support role.
+  responsibilities:
+  - Design, develop, unit test and support the re:Members suite of applications using
+    C#, SQL, JavaScript and other languages
+  - Ensure operational stability and resiliency of software applications pre- and
+    post-deployment
+  - Utilize AI coding assistants for at least 50% of coding, debugging, and documentation
+    tasks
+  - Use issue tracking systems (Jira) and source control (Git) following sound engineering
+    principles
+  - Handle periodic on-call duty and out-of-band requests
+  - Resolve complex issues and document root-cause analysis
+  use_cases:
+  - Non-profit organization management software
+  - Application development for member management suite
+  - AI-assisted software development and documentation
+  skills:
+    genai: [AI coding assistants, Agentic engineering]
+    ml: []
+    web: []
+    databases: [ER data modeling]
+    data: []
+    cloud: []
+    ops: [Jira, Git]
+    languages: [C#, SQL, JavaScript]
+    domains: []
+    other: [Object-oriented programming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8996175'
+  extracted_at: '2026-04-22T13:52:52.066049'

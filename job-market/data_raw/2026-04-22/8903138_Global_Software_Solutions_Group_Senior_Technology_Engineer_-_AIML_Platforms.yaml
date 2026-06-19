@@ -1,0 +1,90 @@
+job_id: 8903138
+title: Senior Technology Engineer - AI/ML Platforms
+company: Global Software Solutions Group
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ai/Ml Platforms
+  - Amazon Sagemaker
+  - Ansible
+  - AWS
+  - Aws Bedrock
+  - Grafana
+  - Groovy
+  - Helm Charts
+  - Jenkins
+  - Kubernetes
+company_size: 160 Employees
+description: |
+  We are seeking a highly skilled Senior Technology Engineer
+  with strong expertise in AI/ML platforms, MLOps, and
+  scalable inference systems. The ideal candidate will play a
+  critical role in designing, deploying, and optimizing AI-
+  driven solutions across on-premises and cloud environments,
+  with a focus on GenAI and LLM-based applications.
+  
+  RequirementsKey Responsibilities
+  
+  - Design, build, and maintain containerized applications using
+    OpenShift, OpenShift AI, Kubernetes, and Helm Charts.
+  - Integrate and optimize AI inference engines such as Triton
+    Inference Server and vLLM for high-performance model
+    serving.
+  - Lead end-to-end model lifecycle management, including
+    deployment, monitoring, scaling, and maintenance in
+    production environments.
+  - Implement robust monitoring and alerting frameworks using
+    Prometheus and Grafana.
+  - Collaborate on GenAI and Large Language Model (LLM)
+    initiatives, including Agentic AI systems.
+  - Develop and manage CI/CD pipelines using Jenkins, Ansible,
+    Groovy, and Terraform.
+  - Build automation tools and scripts using Python to improve
+    system efficiency and reliability.
+  - Architect and manage AI/ML solutions on AWS Cloud,
+    leveraging services such as Amazon SageMaker and AWS
+    Bedrock (preferred).
+  - Design and enhance AI platforms across hybrid environments
+    (on-premise and cloud).
+  - Ensure systems are scalable, resilient, and high-performing.
+  - Contribute to architecture design decisions and define the
+    future roadmap of AI platform capabilities.
+  
+  Required Skills & Experience
+  
+  - Strong experience in MLOps, AI/ML platform engineering, or
+    related roles.
+  - Expertise in container orchestration using
+    Kubernetes/OpenShift.
+  - Hands-on experience with AI inference optimization
+    (TensorRT, ONNX Runtime, Triton, vLLM).
+  - Proficiency in cloud platforms (AWS preferred).
+  - Experience with CI/CD and Infrastructure as Code tools
+    (Jenkins, Terraform, Ansible).
+  - Strong programming skills in Python.
+  - Knowledge of monitoring tools like Prometheus and Grafana.
+  - Experience working with LLMs, GenAI, or AI-based products is
+    highly desirable.
+  
+  Preferred Qualifications
+  
+  - Experience with GPU acceleration and performance tuning.
+  - Exposure to Agentic AI frameworks and LLM orchestration
+    tools.
+  - Familiarity with hybrid cloud architectures.
+  
+  Soft Skills
+  
+  - Strong problem-solving and analytical thinking
+  - Ability to work in fast-paced, collaborative environments
+  - Excellent communication and stakeholder management skills
+industries:
+  - Fintech
+  - Payments
+  - Software
+  - Financial Services
+  - Automation
+posted_date: 2026-03-30
+url: "https://builtin.com/job/senior-technology-engineer-ai-ml-platforms/8903138"
+source: Built In

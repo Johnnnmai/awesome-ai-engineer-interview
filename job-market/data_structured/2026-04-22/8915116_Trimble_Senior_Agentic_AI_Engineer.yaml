@@ -1,0 +1,59 @@
+company:
+  name: Trimble
+  stage: Public
+  focus: |-
+    Industrial technology for transportation, logistics,
+    construction, and geospatial solutions
+position:
+  title: Senior Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying LLM-powered
+      autonomous agents, RAG pipelines, embedding systems, and
+      GenAI microservices. The engineer will architect AI modules,
+      implement fine-tuning/RLHF, and work hands-on with vector
+      databases and prompt engineering frameworks like DSPy — all
+      core AI-first responsibilities.
+  responsibilities:
+  - Architect and code sophisticated AI modules including embedding pipelines, custom
+    chunkers, and advanced retrieval evaluators
+  - Integrate intelligent agent services with internal/external APIs and vector databases
+    to solve cross-service challenges
+  - Implement latest advancements in fine-tuning, RLHF, and prompt engineering frameworks
+    like DSPy
+  - Spearhead agile sprint deliveries and collaborate with cross-functional leaders
+    to define AI feature scope
+  - Perform peer reviews and contribute to shared utility libraries to boost development
+    velocity
+  - Architect and implement modular cloud-native microservices integrating GenAI into
+    production ecosystem
+  - Build robust CI/CD pipelines and use observability frameworks to monitor model
+    health and trace agent logic
+  - Develop comprehensive evaluation suites with traditional testing and LLM-based
+    evals to benchmark accuracy and safety
+  use_cases:
+  - Autonomous freight and logistics optimization through LLM-powered agents
+  - Intelligent supply chain automation for global transportation networks
+  - RAG-based retrieval and reasoning over transportation and logistics data
+  - Cross-service integration connecting shippers, carriers, brokers, and 3PLs via
+    AI agents
+  - Real-time monitoring and evaluation of AI agent performance in production logistics
+    systems
+  skills:
+    genai: [LangChain, LlamaIndex, DSPy, AutoGPT, RAG, Prompt Engineering, LLM Agents,
+      Fine-tuning, RLHF, Embedding Pipelines]
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: [Vector Databases, Hybrid Search, ANN Algorithms]
+    data: []
+    cloud: [Cloud-native Architecture]
+    ops: [Docker, Kubernetes, CI/CD, Datadog, Databricks, LLM Evaluation]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8915116'
+  extracted_at: '2026-04-22T14:01:49.513895'

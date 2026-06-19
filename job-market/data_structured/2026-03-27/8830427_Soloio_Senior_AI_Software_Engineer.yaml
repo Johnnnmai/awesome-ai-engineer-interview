@@ -1,0 +1,50 @@
+company:
+  name: Solo.io
+  stage: Series B+ (valued at $1B in 2021)
+  focus: |-
+    Cloud-native AI infrastructure, API gateways, service mesh,
+    and proxy solutions
+position:
+  title: Senior AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and contributing to AI
+      infrastructure products like kagent (Kubernetes-based AI
+      orchestration), agentgateway (AI proxy workflows), and
+      working with AI protocols like MCP and A2A. The role
+      combines deploying AI solutions with core infrastructure
+      work, making it ai-first rather than ai-support.
+  responsibilities:
+  - Build and contribute to AI infrastructure projects including kagent, agentgateway,
+    and kgateway
+  - Manage and optimize APIs within cloud-native environments for seamless user experience
+  - Deliver high-quality solutions to complex customer technical problems
+  - Transform ambiguous requirements into actionable high-impact deliverables
+  - Introduce and uphold best practices for codebase health and maintainability
+  - Act as mentor during code and design reviews
+  - Participate in hiring process to scale the engineering team
+  - Work with customers and contribute to open source projects
+  use_cases:
+  - Kubernetes-based AI orchestration and agent workflows
+  - AI proxy and gateway infrastructure for production AI workloads
+  - Service mesh integration for AI applications
+  - Cloud-native API management at scale
+  - Bridging AI projects from pilot to production
+  skills:
+    genai: [MCP, A2A, Agentic frameworks, ADK]
+    ml: []
+    web: [API gateways]
+    databases: []
+    data: []
+    cloud: [Kubernetes, Kubernetes controllers, Kubernetes operators, Kubernetes Gateway
+        API]
+    ops: [Envoy, Istio, Docker, Service mesh]
+    languages: [Golang]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8830427'
+  extracted_at: '2026-03-27T16:11:53.450166'

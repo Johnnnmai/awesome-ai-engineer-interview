@@ -1,0 +1,52 @@
+company:
+  name: Checkout.com
+  stage: Late-stage private / Series D+
+  focus: Global digital payments processing and fintech platform
+position:
+  title: Senior Software Engineer, AI Centre of Excellence
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, fine-tuning, and
+      deploying LLM-based applications (chatbots, assistants,
+      knowledge extraction tools), designing AI infrastructure,
+      and implementing GenAI solutions. The engineer works hands-
+      on with LLMs and AI frameworks like LangChain, making this
+      an ai-first role.
+  responsibilities:
+  - Partner with product managers, data scientists, and engineers to research, validate,
+    and deliver high-impact Generative AI use cases
+  - Design and build APIs and microservices that integrate AI capabilities into internal
+    and external workflows
+  - Develop, fine-tune, and deploy LLM-based applications including chatbots, assistants,
+    and knowledge extraction tools
+  - Architect scalable AI infrastructure on cloud platforms (AWS, GCP, or Azure) leveraging
+    containerisation and IaC
+  - Implement CI/CD pipelines and enforce best practices for secure, compliant AI
+    deployment
+  - Build intuitive interfaces that enable teams to interact effectively with AI-driven
+    features
+  - Continuously optimise performance, reliability, and scalability of AI systems
+  - Mentor peers and set engineering best practices within the AI Centre of Excellence
+  use_cases:
+  - AI-powered chatbots and virtual assistants for internal or customer use
+  - Knowledge extraction tools for business process automation
+  - Generative AI integration into payment processing workflows and products
+  - Streamlining internal business processes through AI-driven automation
+  - Enhancing product capabilities with AI-driven features
+  skills:
+    genai: ['LLMs (GPT, BERT, Llama, Gemini)', LangChain, PydanticAI, Prompt Engineering]
+    ml: [Model Fine-tuning]
+    web: [RESTful APIs, Microservices Design, React]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, Terraform, CI/CD]
+    languages: [Python, JavaScript, TypeScript, C#, Java, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8995077'
+  extracted_at: '2026-04-22T14:15:17.079683'

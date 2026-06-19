@@ -1,0 +1,53 @@
+company:
+  name: Micron Technology
+  stage: Public
+  focus: Memory and storage solutions for data centers and computing
+position:
+  title: Sr Engineer, IT, AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying AI agents,
+      implementing RAG systems, multi-agent workflows, and prompt
+      engineering. The engineer directly works ON AI systems
+      including Copilot Studio and agent orchestration, not just
+      supporting infrastructure.
+  responsibilities:
+  - Build and deploy AI-driven tools and workflows using Copilot Studio, UiPath, and
+    automation frameworks
+  - Connect AI agents with enterprise systems (SharePoint, M365), external APIs, and
+    knowledge bases
+  - Design intelligent automation solutions to improve efficiency for repetitive tasks
+  - Implement multi-agent workflows for complex tasks like decision-making and collaborative
+    problem-solving
+  - Design and manage context-aware systems using RAG, semantic chunking, and memory
+    persistence
+  - Integrate agents with identity platforms (OAuth2, OIDC, SAML, Entra ID) for secure
+    access control
+  - Partner with cross-functional teams to enable AI literacy and create best-practice
+    documentation
+  - Collaborate with cybersecurity teams to ensure AI solutions adhere to security
+    and compliance standards
+  use_cases:
+  - Enterprise AI adoption and enablement across business functions
+  - Process automation for repetitive enterprise tasks
+  - Knowledge retrieval and management with RAG systems
+  - Multi-agent decision-making and collaborative workflows
+  - Secure AI agent integration with enterprise identity systems
+  skills:
+    genai: [Copilot Studio, RAG, Prompt Engineering, Multi-agent systems, Agent orchestration,
+      Model Context Protocol (MCP), Semantic chunking]
+    ml: []
+    web: [API development]
+    databases: []
+    data: []
+    cloud: [Azure AI Foundry, AWS Bedrock, Google Vertex AI]
+    ops: []
+    languages: [Python, .Net/C#, Java, SQL, PowerShell, Unix shell scripting]
+    domains: []
+    other: [UiPath, SharePoint, M365, OAuth2, OIDC, SAML, Entra ID]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8806812'
+  extracted_at: '2026-03-27T13:47:58.076766'

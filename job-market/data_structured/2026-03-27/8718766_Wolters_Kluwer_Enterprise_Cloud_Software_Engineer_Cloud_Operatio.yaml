@@ -1,0 +1,58 @@
+company:
+  name: Wolters Kluwer
+  stage: Public
+  focus: Information services and professional solutions provider
+position:
+  title: Enterprise Cloud Software Engineer (Cloud Operations, AI Engineering)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on cloud operations automation and
+      infrastructure-as-code, with AI being used only as an
+      augmentation tool for existing workflows (alert enrichment,
+      operational insights). The position builds platforms and
+      automation frameworks that support cloud operations rather
+      than building, training, or deploying AI/ML models
+      themselves. AI is a secondary tool in the automation
+      toolkit, not the primary focus.
+  responsibilities:
+  - Design, develop, test, and maintain cloud automation solutions using Python, PowerShell,
+    Bash, and JavaScript to automate IT and CloudOps tasks
+  - Build reusable automation frameworks, libraries, and services using cloud SDKs,
+    APIs, and serverless technologies (AWS Lambda, Azure Functions)
+  - Lead Infrastructure-as-Code initiatives using Terraform, CloudFormation, ARM/Bicep,
+    and Ansible aligned with enterprise standards
+  - Develop and maintain CI/CD pipelines for infrastructure and automation using Azure
+    DevOps, GitHub Actions, Jenkins, or GitLab CI
+  - Design and automate solutions across AWS and Microsoft Azure supporting IaaS,
+    PaaS, containerized, and serverless workloads
+  - Integrate AI-driven automation into CloudOps workflows for alert enrichment, operational
+    insights, and basic remediation
+  - Develop and support automation for container platforms such as Docker, Kubernetes,
+    AKS, and EKS
+  - Build automation that enforces cloud governance including tagging standards, security
+    baselines, and policy-as-code guardrails
+  use_cases:
+  - Cloud operations automation replacing manual IT workflows
+  - Infrastructure provisioning, scaling, and lifecycle management
+  - Cloud governance and policy enforcement
+  - Alert enrichment and operational insights using AI
+  - Disaster recovery and backup automation
+  - Container platform management and orchestration
+  skills:
+    genai: [API-driven AI services]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS Lambda, Azure Functions, AWS, Azure, AKS, EKS]
+    ops: [Terraform, CloudFormation, ARM/Bicep, Ansible, Azure DevOps, GitHub Actions,
+      Jenkins, GitLab CI, Docker, Kubernetes, CI/CD, Infrastructure-as-Code]
+    languages: [Python, PowerShell, Bash, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8718766'
+  extracted_at: '2026-03-27T14:27:31.884985'

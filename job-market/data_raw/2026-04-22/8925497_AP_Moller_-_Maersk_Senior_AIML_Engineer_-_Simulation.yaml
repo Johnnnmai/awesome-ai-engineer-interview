@@ -1,0 +1,114 @@
+job_id: 8925497
+title: Senior AI/ML Engineer - Simulation
+company: A.P. Moller - Maersk
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Dash
+  - Docker
+  - Fastapi
+  - Flask
+  - Geopandas
+  - Git
+  - Google Maps
+  - Matplotlib
+  - Networkx
+  - Numpy
+company_size: 58,338 Employees
+description: |
+  Job Summary
+  
+  We are seeking a talented Simulation Engineer to join our
+  team, specializing in Digital Twin Simulation and Network
+  Optimization. This role involves designing and implementing
+  simulation models and optimization solutions to enhance
+  warehouse logistics, resource allocation, and network
+  efficiency. The ideal candidate will bring strong technical
+  expertise in Python, simulation modeling, and optimization
+  techniques, along with a passion for solving complex
+  operational challenges.
+  
+  Responsibilities
+  
+  - Develop and maintain digital twin simulations for warehouse
+    and logistics systems, modeling system states, events, and
+    resource interactions.
+  - Create and optimize network models to improve flow, resource
+    allocation, and operational performance.
+  - Collaborate with stakeholders to integrate simulation and
+    optimization solutions into existing workflows.
+  - Analyze simulation outputs to pinpoint inefficiencies and
+    recommend actionable improvements.
+  - Write modular, testable, and efficient code to support
+    simulation and optimization projects.
+  - Document processes, methodologies, and findings for
+    technical and non-technical audiences.
+  
+  Must-Have Technical Skills
+  
+  - Core Python: OOP, data structures, algorithms; writing
+    modular, testable, efficient code
+  - Data Manipulation & Numerical Computing: pandas for
+    cleaning/analysis; NumPy for computations
+  - Data Ingestion: fetching from REST APIs (requests) and
+    databases (SQL)
+  - Discrete-Event Simulation: DES principles; SimPy for
+    modeling states, events, resources (e.g. warehouse flows)
+  - Operations Research & Optimization: LP/MIP formulation;
+    Python libraries (OR-Tools, Pyomo, PuLP); familiarity with
+    VRP basics and assignment problems
+  - Graph Analytics: NetworkX for building/analyzing network
+    topologies and flows
+  - DevOps & Version Control: Git with CI/CD pipelines; Docker
+    containerization
+  - API Development: building/deploying REST services with Flask
+    or FastAPI
+  - Visualization: creating plots and dashboards using
+    Matplotlib, Seaborn, or Plotly
+  
+  Nice-to-Have Technical Skills
+  
+  - Advanced Routing & Heuristics: VRP variants (time windows,
+    Hours of Service); heuristics/meta-heuristics (Tabu
+    Search, Genetic Algorithms, Branch & Bound, Simulated
+    Annealing)
+  - Commercial Solvers: Gurobi or CPLEX and their Python APIs
+  - ML-Enhanced Simulations: integrating scikit-learn or
+    TensorFlow/PyTorch models for predictive maintenance or
+    anomaly detection in digital twins
+  - Alternative Simulation Paradigms: agent-based modeling, etc.
+  - Streaming & IoT: real-time data processing with kafka-
+    python; MQTT (paho-mqtt) for live twin updates
+  - Geospatial Processing & Visualization: GeoPandas, Shapely;
+    routing engines/APIs (OSRM, Google Maps, HERE); Folium for
+    maps
+  - Interactive Dashboards: Dash or Streamlit
+  - 3D Visualization: pyvista or vedo for complex digital-twin
+    renderings
+  
+  Maersk is committed to a diverse and inclusive workplace,
+  and we embrace different styles of thinking. Maersk is an
+  equal opportunities employer and welcomes applicants without
+  regard to race, colour, gender, sex, age, religion, creed,
+  national origin, ancestry, citizenship, marital status,
+  sexual orientation, physical or mental disability, medical
+  condition, pregnancy or parental leave, veteran status,
+  gender identity, genetic information, or any other
+  characteristic protected by applicable law. We will consider
+  qualified applicants with criminal histories in a manner
+  consistent with all legal requirements.
+  
+  
+  
+  We are happy to support your need for any adjustments during
+  the application and hiring process. If you need special
+  assistance or an accommodation to use our website, apply for
+  a position, or to perform a job, please contact us by
+  emailing  accommodationrequests@maersk.com.
+industries:
+  - Logistics
+  - Transportation
+posted_date: 2026-04-01
+url: "https://builtin.com/job/senior-ai-ml-engineer-simulation/8925497"
+source: Built In

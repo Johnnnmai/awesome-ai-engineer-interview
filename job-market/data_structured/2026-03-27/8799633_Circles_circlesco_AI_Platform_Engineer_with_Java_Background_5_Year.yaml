@@ -1,0 +1,53 @@
+company:
+  name: Circles (circles.co)
+  stage: Series B+
+  focus: |-
+    Global SaaS platform for telco operators to launch digital
+    brands
+position:
+  title: AI Platform Engineer with Java Background (5+ Years)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building AI/ML features
+      including RAG pipelines, AI agent workflows, and LLM
+      integrations. The position requires hands-on implementation
+      of production AI systems, not just supporting infrastructure
+      for others' AI work.
+  responsibilities:
+  - Architect, develop, and maintain complex enterprise-level applications using Java
+    Spring framework with AI/ML features integration
+  - Design, build, and maintain AI/ML components including RAG pipelines and AI agent
+    workflows
+  - Implement and manage integrations with Large Language Model APIs, handling rate
+    limiting, error handling, caching, and validation layers
+  - Lead the development of highly scalable and efficient backend services using Java
+    Spring framework
+  - Collaborate strategically with cross-functional teams to elicit requirements and
+    provide technical guidance
+  - Mentor junior developers and conduct rigorous code reviews including AI-related
+    concerns like prompt safety and cost optimization
+  - Diagnose, debug, and optimize applications to achieve peak performance
+  use_cases:
+  - Telco SaaS platform enhancement with AI capabilities
+  - Retrieval-Augmented Generation for telco information systems
+  - AI agent workflows for telco operations automation
+  - LLM-powered customer experiences for millions of global consumers
+  - Intelligent digital brand management and transformation tools
+  skills:
+    genai: [RAG, LLM APIs, Prompt Engineering, LangChain, LangGraph, AI Agents]
+    ml: [Embeddings]
+    web: [Spring Framework, Spring Boot, Spring MVC, Spring Security, REST APIs, Event-driven
+        architecture, Microservices]
+    databases: [SQL, NoSQL, Vector Databases, pgvector, Pinecone]
+    data: [Message queues]
+    cloud: [AWS, Azure]
+    ops: [Docker, Kubernetes, CI/CD, Maven, Gradle, Git]
+    languages: [Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8799633'
+  extracted_at: '2026-03-27T15:33:58.809675'

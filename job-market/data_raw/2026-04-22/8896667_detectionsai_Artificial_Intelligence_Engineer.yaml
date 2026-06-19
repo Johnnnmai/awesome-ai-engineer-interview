@@ -1,0 +1,125 @@
+job_id: 8896667
+title: Artificial Intelligence Engineer
+company: detections.ai
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Docker
+  - DynamoDB
+  - Fastapi
+  - GCP
+  - Github Actions
+  - Node.js
+  - Opensearch
+  - Python
+  - PyTorch
+description: |
+  Build the AI that makes detection engineers 10x more
+  effective. Create cutting-edge LLM research to power our
+  detection engineering community.
+  
+  At Detections.ai, we're on a mission to 10x detection
+  engineers. Security teams today are drowning in noisy tools
+  and patchwork workflows. We're changing that—by building
+  intuitive, AI-powered experiences that streamline how
+  detection engineers write, test, and manage detections.
+  
+  We combine deep expertise in cybersecurity, real-time
+  systems, and applied AI to rethink how detection work gets
+  done—from the ground up. Our team thrives on ownership,
+  speed, and building for real users.
+  
+  What You'll Do
+  
+  We're looking for an AI LLM Engineer to drive the
+  development and optimization of large language models that
+  power our intelligent detection engineering products. You'll
+  research, design, and implement cutting-edge LLM
+  capabilities—from retrieval-augmented generation to agentic
+  workflows—bringing AI into the critical path of security
+  operations.
+  
+  You'll:
+  
+  - Implement, fine-tune, and optimize state-of-the-art LLMs for
+    performance, accuracy, and security use cases
+  - Design and evaluate prompting strategies, flows, and
+    application logic for LLM-powered features
+  - Build and integrate advanced capabilities such as RAG,
+    function calling, and code interpreter technologies
+  - Design and deploy scalable ML pipelines for both batch and
+    real-time use cases
+  - Collaborate closely with ML engineers, product teams, and
+    detection engineers to align AI capabilities with business
+    goals
+  - Lead the incubation of new AI initiatives and drive
+    strategic technology choices in a microservices
+    architecture
+  - Stay current with the latest research in LLMs, agents, and
+    large-scale training methods, applying insights directly
+    into production systems
+  - Document methodologies, models, and results to share across
+    the team and company
+  
+  You're a fit if you:
+  
+  - Have 5+ years of experience in NLP, machine learning, or
+    data science
+  - Are strong in Python (R is a plus) and deep learning
+    frameworks (e.g., PyTorch, TensorFlow)
+  - Have hands-on experience building, testing, and deploying
+    LLMs such as GPT-4, Gemini, or similar
+  - Understand model training techniques, including data/model
+    parallelism and distributed training
+  - Are comfortable with cloud-native infrastructure (AWS or
+    GCP) and distributed computing
+  - Have experience with DevOps/MLOps/LLMOps practices
+  - Thrive in a high-context, low-process environment
+  
+  You'll stand out if you:
+  
+  - Hold a Master's or PhD in Computer Science, AI, or related
+    fields
+  - Have experience building GenAI solutions using RAG
+    frameworks or LLM agentic applications
+  - Bring direct experience applying AI in cybersecurity
+    workflows
+  - Have strong research-to-production skills, bridging advanced
+    ML concepts into deployable systems
+  
+  Our Stack
+  
+  - Frontend: React.js, Tailwind CSS, TypeScript
+  - Middle layer: Node.js, TypeScript
+  - Backend: Python (FastAPI)
+  - Infra & DevOps: AWS, GCP, Docker, Terraform, GitHub Actions
+  - Data: OpenSearch, DynamoDB
+  - AI Agents: Gemini, Anthropic, OpenAI
+  - Tooling: Figma, Storybook, CI/CD pipelines
+  
+  Why Join Us?
+  
+  - Build for real users: Work hand-in-hand with detection
+    engineers
+  - Own meaningful problems: Ship features that matter
+  - Move fast, without red tape: Small, high-context team
+  - Make an outsized impact: You'll help shape both product and
+    culture
+  
+  
+  
+  Ready to apply cutting-edge AI research to real-world
+  security challenges? Show us what you've built with LLMs and
+  tell us how AI can revolutionize detection engineering.
+  
+  - Apply now to help us build the future of AI-powered security
+    tooling.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Cybersecurity
+posted_date: 2026-03-28
+url: "https://www.builtinla.com/job/artificial-intelligence-engineer/8896667"
+source: Built In

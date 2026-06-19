@@ -1,0 +1,124 @@
+job_id: 9044622
+title: AI-Native Data Platform Engineer
+company: Farther
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Aws (S3
+  - Ecs
+  - Glue
+  - Lambda
+  - Opensearch)
+  - Python
+  - Redshift
+  - SQL
+company_size: 530 Employees
+description: |
+  Company Description
+  
+  Farther is a rapidly growing RIA that combines expert
+  advisors with cutting-edge technology - delivering a
+  comprehensive, tailored wealth management experience.
+  
+  Farther’s founders are leaders and innovators from the
+  private wealth industry who possess a unique blend of
+  traditional wealth management, fintech, and technology
+  production expertise. We’re backed by top-tier venture
+  capital firms, fintech investors, and industry leaders.
+  
+  Joining Farther means joining a collaborative team of
+  entrepreneurs who are passionate about helping their clients
+  and our teammates achieve more. If you’re the type who
+  breaks through walls to get things done the right way, we
+  want to build the future of wealth management with you.
+  
+  The Role
+  
+  As an AI-Native Data Platform Engineer at Farther, you will
+  design and own the canonical data foundations powering our
+  financial AI systems. This role sits at the core of our
+  platform — building the ontology, data contracts, and
+  reconciliation frameworks that enable intelligent agents to
+  operate safely and autonomously.
+  
+  AI systems only perform as well as the structure beneath
+  them. You will architect custodial data pipelines, canonical
+  financial models, and AI-ready schemas that support
+  embeddings, retrieval systems, and agent-driven workflows in
+  a regulated wealth management environment.
+  
+  We are building autonomous agents that reason over and act
+  on platform state — and you will define the data layer that
+  makes that possible.
+  
+  Your Impact
+  
+  - Design scalable ingestion pipelines across custodians
+    (Schwab, Fidelity, Pershing, etc.) and internal financial
+    systems
+  - Build and evolve canonical models for accounts, positions,
+    transactions, balances, corporate actions, and household
+    hierarchies
+  - Define financial data ontology and enforce strong data
+    contracts across services
+  - Implement reconciliation frameworks and golden-source
+    resolution across multi-vendor datasets
+  - Engineer AI-ready data layers optimized for embeddings,
+    vector search, and RAG architectures
+  - Structure financial datasets to improve prompt reliability
+    and LLM output consistency
+  - Architect closed-loop, agent-driven systems that monitor,
+    reason over, and autonomously remediate data
+    inconsistencies
+  - Implement observability, lineage, governance, and fine-
+    grained access controls across regulated datasets
+  
+  The Ideal Match
+  
+  - 5+ years building production-grade data platforms
+  - Deep SQL expertise and strong Python for data engineering
+  - Experience designing canonical schemas and resolving vendor
+    data inconsistencies
+  - Strong understanding of custodial financial data (positions,
+    trades, balances, performance, corporate actions)
+  - Familiarity with embeddings, vector databases, and retrieval
+    architectures
+  - Exposure to prompt engineering and structured context design
+    for LLM systems
+  - Knowledge of MLOps fundamentals (versioning, monitoring,
+    reproducibility)
+  - Comfortable with AWS data services (S3, Lambda, ECS, Glue,
+    Redshift, OpenSearch) and event-driven orchestration
+  - Strong ownership mindset and systems-level thinking
+  
+  Bonus Points
+  
+  - Wealth management or capital markets background
+  - Experience integrating OpenAI or Anthropic APIs into
+    production systems
+  - Experience designing retrieval schemas for AI agents
+  - Experience with authorization and policy platforms (e.g.,
+    OSO, Auth0)
+  - Experience implementing fine-grained access control for AI-
+    driven systems
+  - Familiarity with GitHub-based CI/CD workflows and automation
+  - Experience with data governance, lineage, and compliance
+    controls
+  
+  Why Join Us
+  
+  - Learn & grow through book clubs, seminars, and peer learning
+    sessions
+  - Full health benefits + 401(k) matching & Roth IRA options
+  - Unlimited PTO
+  - An amazing collaborative atmosphere between product, design,
+    and engineering to solve hard problems together
+  
+  Ready to disrupt wealth management? Let's talk!
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-04-14
+url: "https://builtin.com/job/ai-native-data-platform-engineer/9044622"
+source: Built In

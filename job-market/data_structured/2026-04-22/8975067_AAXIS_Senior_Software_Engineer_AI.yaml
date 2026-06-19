@@ -1,0 +1,53 @@
+company:
+  name: AAXIS
+  stage: Unknown
+  focus: Software development and IT services consulting
+position:
+  title: Senior Software Engineer, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is primarily a full-stack web engineering role
+      (React/Node.js) that uses AI tools to accelerate development
+      workflows. While the role involves integrating LLM APIs into
+      applications, the core focus is building web applications
+      with AI as a feature layer, not building, training, or fine-
+      tuning models. AI integration is secondary to the full-stack
+      development responsibilities.
+  responsibilities:
+  - Design, develop, and maintain scalable web applications using React.js and Node.js
+  - Build and consume RESTful APIs and GraphQL services
+  - Integrate AI/ML APIs and LLM-based features (OpenAI, Claude, Gemini) into web
+    applications
+  - Build intelligent features such as smart search, recommendations, chatbots, or
+    automation workflows
+  - Leverage AI coding tools (GitHub Copilot, ChatGPT, Cursor) to accelerate development
+    workflows
+  - Lead technical design discussions and contribute to system architecture decisions
+  - Conduct code reviews, mentor junior developers, and drive best practices around
+    CI/CD and DevOps
+  - Collaborate with Product Managers, QA, and cross-functional teams to deliver features
+  use_cases:
+  - Smart search functionality in web applications
+  - AI-powered recommendations
+  - Conversational chatbots integrated into web apps
+  - Automation workflows leveraging LLM APIs
+  - AI-accelerated software development workflows
+  skills:
+    genai: [OpenAI API, Claude API, Gemini API, GitHub Copilot, Cursor, Prompt Engineering,
+      LLM Fine-tuning]
+    ml: []
+    web: [React.js, Node.js, Express.js, Next.js, REST APIs, GraphQL, Redux, WebSockets,
+      Microservices]
+    databases: [MongoDB, PostgreSQL, MySQL, Redis]
+    data: [Kafka]
+    cloud: [AWS, Azure, GCP]
+    ops: [Git, Docker, Kubernetes, CI/CD]
+    languages: [JavaScript (ES6+), TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8975067'
+  extracted_at: '2026-04-22T14:16:47.425216'

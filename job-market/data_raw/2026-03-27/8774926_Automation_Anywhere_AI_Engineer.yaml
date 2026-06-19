@@ -1,0 +1,149 @@
+job_id: 8774926
+title: AI Engineer
+company: Automation Anywhere
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Mid level
+skills:
+  - Agent Patterns
+  - Anthropic
+  - Autogen
+  - Automation Anywhere
+  - Cloud Ai Services
+  - Gemini
+  - Langchain
+  - Langgraph
+  - Llm Apis
+  - Openai
+company_size: 6,564 Employees
+description: |
+  About Us
+  
+  Automation Anywhere is the leader in Agentic Process
+  Automation (APA), transforming how work gets done with AI-
+  powered automation. Its APA system, built on the industry’s
+  first Process Reasoning Engine (PRE) and specialized AI
+  agents, combines process discovery, RPA, end-to-end
+  orchestration, document processing, and analytics—all
+  delivered with enterprise-grade security and governance.
+  Guided by its vision to fuel the future of work, Automation
+  Anywhere helps organizations worldwide boost productivity,
+  accelerate growth, and unleash human potential.
+  
+  Job Role : AI Engineer
+  
+  Experience - 1-2 Years
+  
+  Full-Time · Bangalore · Hybrid
+  
+  Bachelor's or Master's in CS, AI/ML, Data Science or
+  equivalent
+  
+  practical experience
+  
+  EXPERIENCE
+  
+  1-2 years in software engineering; 1-2 years building AI-
+  powered or automation solutions in production
+  
+  Evidence of delivering complete, working solutions — not
+  just experimental or prototype work
+  
+  CERTIFICATIONS  (PREFERRED)
+  
+  Cloud AI certifications: AWS, Azure, or GCP
+  
+  RPA platform certifications: UiPath or Automation Anywhere
+  
+  SCOPE & GROWTH PATH
+  
+  Implements designs under Senior Engineer guidance
+  
+  Grows toward independent architecture ownership
+  
+  Develops fine-tuning expertise as a growth area in role
+  
+  Progresses toward leading stakeholder discovery
+  independently
+  
+  RESPONSIBILITIES
+  
+  Experience : 1-2 Years
+  
+  SKILLS:
+  
+  AGENTIC AI
+  
+  Hands-on with LangChain/LangGraph, AutoGen, or CrewAICore
+  agent patterns: tool use, memory, multi-step reasoning,
+  output validationLLM APIs (OpenAI, Anthropic, Gemini, or
+  open-source); structured prompt engineering
+  
+  RAG & VECTOR INFRASTRUCTURE
+  
+  End-to-end RAG pipelines: ingestion, chunking,
+  embedding,retrieval evaluation
+  
+  Familiarity with at least one vector database; ability to
+  diagnose & improve retrieval quality
+  
+  RPA
+  
+  Hands-on with UiPath, Automation Anywhere, or Power
+  AutomateBot workflows with exception handling, logging &
+  integration with agent layersENGINEERING
+  
+  Strong Python; cloud AI services; APIs, data pipelines &
+  event-driven systems
+  
+  NICE TO HAVE
+  
+  Exposure to LoRA/QLoRA fine-tuning (growth area); agent
+  observability tooling (LangSmith, Arize)
+  
+   EDUCATION
+  
+  AGENT DEVELOPMENT & IMPLEMENTATION
+  
+  Build and maintain multi-agent workflows from Solution
+  designs document into production-ready
+  implementationsImplement tool integrations (APIs, ERP, CRM,
+  ITSM) with error handling & graceful degradation
+  
+  Job Role : AI Engineer
+  
+  RAG & KNOWLEDGE SYSTEMS
+  
+  Build end-to-end RAG pipelines: ingestion, chunking,
+  embedding, vector store & retrieval evaluationMonitor and
+  improve retrieval quality; integrate RAG as knowledgebackend
+  for agents
+  
+  RPA & HYBRID AUTOMATION
+  
+  Develop and maintain RPA task bots; implement AI agent ↔ RPA
+  handoff logicPRODUCTION & QUALITY
+  
+  Write unit & integration tests; contribute to CI/CD
+  pipelines & prompt versioningMonitor deployed systems;
+  participate in incident response for agent failure modes
+  
+  COLLABORATION & GROWTH
+  
+  Work closely with Senior Engineers, taking increasing
+  ownership of components over timeParticipate in stakeholder
+  use-case discovery; document pipelines & agent
+  configurations clearly
+  
+  All unsolicited resumes submitted to any
+  @automationanywhere.com email address, whether submitted by
+  an individual or by an agency, will not be eligible for an
+  agency fee.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Robotics
+  - Software
+posted_date: 2026-03-17
+url: "https://builtin.com/job/ai-engineer/8774926"
+source: Built In

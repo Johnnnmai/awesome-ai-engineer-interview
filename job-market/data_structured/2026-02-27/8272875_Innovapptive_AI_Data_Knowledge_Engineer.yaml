@@ -1,0 +1,49 @@
+company:
+  name: Innovapptive
+  stage: Series B+"
+  focus: AI-powered Connected Worker Platform for industrial sector
+position:
+  title: AI Data & Knowledge Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and operationalizing RAG
+      systems, vector embedding pipelines, and retrieval
+      frameworks that directly power AI agents. The engineer works
+      hands-on with vector databases, embedding models, and
+      semantic search to enable AI capabilities, making this an
+      AI-first role.
+  responsibilities:
+  - Architect and implement data ingestion and embedding pipelines for structured
+    and unstructured content
+  - Build unified data schema connecting maintenance, production, and safety data
+    across enterprise systems
+  - Integrate vector databases into AI Platform for context-aware retrieval
+  - Implement RAG pipelines for document chunking, embedding, and retrieval
+  - Develop automated retraining and re-indexing mechanisms for data freshness
+  - Build AI data governance and observability with telemetry dashboards
+  - Collaborate with product and engineering teams on AI-driven search use cases
+  - Evaluate and implement emerging frameworks for knowledge graphs and embeddings
+  use_cases:
+  - Industrial knowledge retrieval for frontline workers
+  - Context-aware AI agents for maintenance operations
+  - Semantic search across SOPs, manuals, logs, and work orders
+  - RAG-powered question answering for industrial data
+  - Safety and compliance information retrieval
+  - Real-time integration of SCADA and sensor data for AI decision support
+  skills:
+    genai: [LangChain, LlamaIndex, Haystack, RAG, Vector Embeddings, Semantic Search]
+    ml: [OpenAI Embeddings, Cohere, Sentence Transformers]
+    web: []
+    databases: [Pinecone, Weaviate, Qdrant, Chroma, FAISS, DynamoDB, Redshift]
+    data: [Airflow, Kafka, Temporal]
+    cloud: [AWS S3]
+    ops: [Datadog, Sentry, MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: [SAP, Maximo, OSI PI, SCADA]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8272875'
+  extracted_at: '2026-03-03T11:25:32.602028'

@@ -1,0 +1,50 @@
+company:
+  name: SolarEdge Technologies
+  stage: Public
+  focus: |-
+    Smart energy technology - solar power, energy storage, and
+    intelligent energy management
+position:
+  title: Senior AI Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI/ML
+      systems, including LLM and agent-based infrastructure, RAG
+      systems, and model productionization. The engineer will work
+      hands-on with AI technologies to create and scale AI
+      solutions, not just support infrastructure.
+  responsibilities:
+  - Design reusable agentic AI infrastructure including RAG, tool orchestration, and
+    planning/execution flows
+  - Build robust retrieval services, embedding pipelines, and intelligent model-routing
+    solutions
+  - Implement comprehensive evaluation, monitoring, and cost-control frameworks for
+    system reliability and efficiency
+  - Optimize for latency, reliability, and token efficiency at scale in production
+    environments
+  - Productionize advanced ML models and integrate them with enterprise systems
+  - Collaborate with Data Science & Engineering teams on system architecture and technical
+    direction
+  use_cases:
+  - Clean energy optimization through AI
+  - Solar power systems intelligence
+  - Energy storage management
+  - Intelligent energy management
+  - Enterprise AI integration across global operations
+  skills:
+    genai: [RAG, LLMs, Agent-based systems, Embedding pipelines]
+    ml: [ML models]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud platforms]
+    ops: [Distributed systems, Monitoring and evaluation, Cost optimization]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8540679'
+  extracted_at: '2026-03-03T12:58:00.725610'

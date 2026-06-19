@@ -1,0 +1,47 @@
+company:
+  name: SmartBear
+  stage: null
+  focus: |-
+    Software quality assurance, test automation, API lifecycle
+    management, and observability with AI-driven solutions
+position:
+  title: Junior Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-first products including MCP
+      framework and Agentic AI offerings. The position requires
+      hands-on work with LLM/agent-based systems
+      (LangChain/LangGraph) and focuses on implementing AI
+      workflows atop existing products, which constitutes direct
+      work on AI systems.
+  responsibilities:
+  - Build new products and services including MCP framework with Agentic AI offerings
+  - Implement AI and MCP-style workflows atop SmartBear's existing products
+  - Rapidly validate feasibility of new AI use cases from research ideas
+  - Perform code reviews across front-to-back-end stack ensuring high engineering
+    quality
+  - Deliver working code on-time and own the experience post-production
+  - Measure success and iterate on technical designs to improve product experience
+  use_cases:
+  - API design and management automation
+  - Software testing automation
+  - Observability and monitoring workflows
+  - Agentic AI workflows for software development lifecycle
+  - MCP-style workflow automation
+  skills:
+    genai: [LangChain, LangGraph, LLM/agent-based systems, MCP]
+    ml: []
+    web: [Flask, FastAPI, HTTP, REST APIs, HTML/CSS]
+    databases: [NoSQL databases, Vector databases]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, GitHub]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8065015'
+  extracted_at: '2026-03-27T13:36:54.814413'

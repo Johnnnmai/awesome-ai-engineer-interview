@@ -1,0 +1,57 @@
+company:
+  name: Create Music Group
+  stage: 'Growth stage (Inc 5000 #2 in 2020, 400 employees)'
+  focus: |-
+    Music and entertainment company with technology platform for
+    record labels
+position:
+  title: Full Stack AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI
+      systems - specifically agentic workflows, RAG pipelines, and
+      LLM integrations. The engineer owns the application layer
+      that brings AI intelligence to users, including building AI
+      agents that automate workflows and implementing RAG
+      architectures. This is direct work ON AI systems, not just
+      supporting infrastructure.
+  responsibilities:
+  - Design, build, and maintain modular AI agents that automate multi-step workflows
+    across CreateOS (contracts, accounting, distribution, metadata)
+  - Own RAG pipelines, retrieval architectures, and semantic search systems grounded
+    in CreateOS's structured business data
+  - Implement guardrails, evaluation frameworks, and human-in-the-loop controls for
+    agentic systems
+  - Integrate LLMs (OpenAI, Anthropic, or open-source models) into user-facing features
+    across CreateOS modules
+  - Build intuitive, AI-native user experiences including chat interfaces, copilot-style
+    tools, and workflow automation surfaces
+  - Design, build, and maintain scalable, production-grade applications across frontend
+    and backend
+  - Deploy and maintain services using containerization and cloud platforms
+  - Collaborate with ML Engineer to integrate model outputs and feature pipelines
+    cleanly into product surfaces
+  use_cases:
+  - M&A catalog valuation tooling for music catalogs
+  - AI-driven A&R discovery surfaces for artist and repertoire identification
+  - Marketing automation agents for music promotion
+  - Contract analysis and automation workflows
+  - Royalty statement processing and metadata management
+  - Automated distribution and accounting workflows
+  skills:
+    genai: [LangChain, LangGraph, RAG, AI agents, OpenAI API, Anthropic API, MCP]
+    ml: []
+    web: [React, Next.js, FastAPI, Node.js, RESTful APIs, Tailwind CSS]
+    databases: [Pinecone, Weaviate, PostgreSQL, Snowflake]
+    data: [dbt, Airflow]
+    cloud: [GCP, AWS, Supabase]
+    ops: [Docker, Kubernetes, CI/CD, DeepEval]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8883724'
+  extracted_at: '2026-03-27T13:17:35.206501'

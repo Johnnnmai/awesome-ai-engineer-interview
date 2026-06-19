@@ -1,0 +1,58 @@
+company:
+  name: Fuel Cycle
+  stage: Growth stage (125-person team, established product, high-growth)
+  focus: |-
+    AI-native market research and decision intelligence platform
+    that automates customer insights
+position:
+  title: AI Process Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      maintaining Claude Code agents and agentic pipelines using
+      Claude API. The work is hands-on with LLMs - creating
+      production-grade agentic solutions, designing multi-step
+      agentic pipelines, and working with prompt engineering and
+      agent architecture. This is core AI/LLM development work,
+      not support work.
+  responsibilities:
+  - Expand and maintain production Claude Code agents across Marketing, Research delivery,
+    Community, Panels, Sales, and Finance
+  - Partner with department heads to map high-volume manual processes and design agentic
+    replacements
+  - Build and test multi-step agentic pipelines integrating Claude with tools like
+    Asana, Gong, and third-party APIs
+  - Contribute to shared system of memory, skills, and agents ensuring consistent
+    brand voice and process documentation
+  - Monitor deployed automations for accuracy, performance, and edge-case failures;
+    create playbooks for each agent
+  - Stay current on Claude API and agentic design patterns; surface improvements to
+    product and engineering leads
+  - Push automation knowledge through the organization and help teams build their
+    own automations
+  use_cases:
+  - Competitive intelligence automation
+  - Sales call synthesis from Gong recordings
+  - Feature launch and GTM campaign automation
+  - Research delivery automation
+  - Community and Panels operations automation
+  - Sales and Finance process automation
+  skills:
+    genai: [Claude API, Claude Code, Prompt Engineering, Agentic frameworks, LangChain,
+      CrewAI]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Git]
+    languages: [Python]
+    domains: []
+    other: [JSON, Zapier, Make/Integromat, n8n, Asana, Gong, Salesforce, HubSpot,
+      Notion]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8680012'
+  extracted_at: '2026-03-27T14:29:06.053669'

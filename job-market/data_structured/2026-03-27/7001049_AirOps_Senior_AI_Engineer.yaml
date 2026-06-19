@@ -1,0 +1,52 @@
+company:
+  name: AirOps
+  stage: Series A/B
+  focus: |-
+    End-to-end content engineering platform for AI-driven
+    marketing and SEO
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying LLM-
+      powered features including AI agents (SEO Strategy Agent)
+      and copilots (Workflow Builder Copilot), with hands-on work
+      in prompt engineering, RAG implementation, and model
+      optimization. The position is focused on creating AI systems
+      rather than just supporting infrastructure for AI.
+  responsibilities:
+  - Develop and integrate LLM-powered features including AI-assisted workflow automation,
+    code generation, and content strategy
+  - Optimize AI performance through prompt engineering, retrieval-augmented generation
+    (RAG), and evaluation frameworks
+  - Build and scale AI infrastructure ensuring low-latency responses, caching, and
+    cost-efficient model usage
+  - Implement AI observability and safeguards monitoring quality, security, and compliance
+  - Collaborate with product and engineering teams to deliver intuitive AI-driven
+    user experiences
+  - Stay ahead of AI advancements and continuously improve AI-powered capabilities
+  - Collaborate with early adopters to optimize model performance and usability
+  use_cases:
+  - AI-powered SEO strategy optimization for brands
+  - Content engineering and creation assistance
+  - Workflow automation and copilot experiences
+  - AI-driven content quality and citation optimization
+  - Code generation for workflow builders
+  skills:
+    genai: [GPT-4o, Claude, prompt engineering, RAG, LangChain, OpenAI SDK, OpenAI
+        Ada embeddings, Cohere embeddings]
+    ml: [Hugging Face]
+    web: []
+    databases: [pgvector, Weaviate, Pinecone]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7001049'
+  extracted_at: '2026-03-27T13:45:23.883401'

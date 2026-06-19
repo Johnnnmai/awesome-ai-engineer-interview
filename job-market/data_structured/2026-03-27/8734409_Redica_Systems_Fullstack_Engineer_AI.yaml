@@ -1,0 +1,54 @@
+company:
+  name: Redica Systems
+  stage: Start-up
+  focus: |-
+    SaaS data analytics platform for life sciences quality and
+    regulatory compliance
+position:
+  title: Fullstack Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves implementing Generative AI
+      functionalities including RAG, and working with LLM
+      frameworks (LangChain, LangGraph, LlamaIndex) to build AI
+      applications. The position is on the dedicated AI team
+      building AI-driven Quality and Regulatory Intelligence
+      platform.
+  responsibilities:
+  - Collaborate with Product Team to understand and solidify business requirements
+    and use cases for AI Applications
+  - Contribute to architecture, design, and implementation of Backend APIs (Python,
+    FastAPI) for Generative AI functionalities
+  - Contribute to architecture, design, and implementation of Frontend UI (React,
+    NextJS) for AI Applications
+  - Design AWS architecture and service stack to host AI frontend/backend applications
+    in a fault-tolerant manner
+  - Develop Unit, Integration, and E2E testing strategies for developed components
+  - Write correct and clean code following developer best practices
+  - Suggest improvements and optimizations to processes and implement them systematically
+  use_cases:
+  - AI-driven Quality and Regulatory Intelligence (QRI) platform for life sciences
+    industry
+  - Inspection preparation management for pharmaceutical companies
+  - Supplier quality monitoring
+  - Regulatory surveillance
+  - Risk signal quantification from suppliers
+  - Market opportunity identification and benchmarking
+  skills:
+    genai: [RAG, LangChain, LangGraph, LlamaIndex, OpenAI API, Anthropic API, Gemini
+        API, LLMs]
+    ml: []
+    web: [FastAPI, Flask, Django, React, Next.js]
+    databases: [Postgres, MySQL, DynamoDB, MongoDB]
+    data: []
+    cloud: [AWS, ECS, Lambda, EC2, API Gateway, CloudFront]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8734409'
+  extracted_at: '2026-03-27T13:19:57.943980'

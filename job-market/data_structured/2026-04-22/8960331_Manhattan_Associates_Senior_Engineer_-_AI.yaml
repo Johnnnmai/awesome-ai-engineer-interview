@@ -1,0 +1,57 @@
+company:
+  name: Manhattan Associates
+  stage: Public
+  focus: |-
+    Supply chain commerce technology connecting people to
+    consumer choices
+position:
+  title: Senior Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is responsible for end-to-end AI projects from
+      problem definition to model deployment and monitoring. It
+      involves hands-on work with ML/DL frameworks, training and
+      tuning models, implementing AI agent frameworks, Model
+      Context Protocol integrations, and deploying models to
+      production — clearly building and deploying AI systems
+      directly.
+  responsibilities:
+  - Frame business problems as AI/ML use cases with stakeholders, defining success
+    metrics and data requirements
+  - Ingest, clean, and transform data from multiple sources; build and maintain feature
+    pipelines for training and inference
+  - Select appropriate algorithms and train, tune, and validate models using best
+    practices including cross-validation and ablation
+  - Design experiments (A/B tests, offline metrics) to compare models and iterate
+    to improve performance
+  - Package and deploy models to production via APIs, batch jobs, and streaming; implement
+    CI/CD for ML with versioning and reproducible training
+  - Set up monitoring for drift, performance, latency, cost, and failures; retrain
+    or roll back models as conditions change
+  - Design and implement integrations using Model Context Protocol to connect AI models
+    with external tools, APIs, and data sources
+  - Develop AI-driven workflows using knowledge platforms and AI agent frameworks
+    such as Microsoft Copilot, Glean, and Google Agentspace
+  use_cases:
+  - Supply chain optimization using AI/ML models
+  - Warehouse management intelligence and automation
+  - Retail and commerce recommendation systems
+  - NLP-driven business process automation
+  - AI agent-driven workflows for enterprise knowledge platforms
+  skills:
+    genai: [Model Context Protocol (MCP), Microsoft Copilot, Glean, Google Agentspace]
+    ml: [TensorFlow, PyTorch, Hugging Face Transformers, SHAP, LIME]
+    web: []
+    databases: []
+    data: [Airflow]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, MLflow, DVC, CI/CD]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: [Jira, Bitbucket, Confluence, ServiceNow]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8960331'
+  extracted_at: '2026-04-22T12:45:58.430837'

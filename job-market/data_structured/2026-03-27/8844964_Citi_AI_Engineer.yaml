@@ -1,0 +1,53 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      implementing agentic AI frameworks and generative AI
+      solutions, including hands-on work with LLMs, agent-based
+      systems, and MCP integration. The position requires deep
+      technical expertise in AI principles and active development
+      of production-ready AI systems.
+  responsibilities:
+  - Design, implement, and deploy scalable agentic AI frameworks and generative AI
+    solutions for banking use cases
+  - Build full-stack applications integrating ML/LLM tools and services into comprehensive
+    AI solutions
+  - Champion MVP-first approach with rapid iterations, hypothesis testing, and A/B
+    experiments
+  - Design and implement metrics and evaluation strategies for AI system and agent
+    performance
+  - Explore, prototype, and integrate latest advancements in agent-based systems and
+    generative AI
+  - Engage with diverse stakeholders through effective communication and collaboration
+  - Create and integrate MCPs (Model Context Protocol) into agentic AI systems
+  - Design and implement robust APIs for AI services
+  use_cases:
+  - Banking sector AI solutions
+  - Agentic AI systems for financial services
+  - Enterprise-scale AI applications
+  - Autonomous AI agents for banking operations
+  - Generative AI applications in regulated financial environment
+  skills:
+    genai: [LangGraph, LangChain, AutoGen, CrewAI, Model Context Protocol (MCP), ChatGPT,
+      Claude, Gemini, Llama, Prompt engineering]
+    ml: [PyTorch, TensorFlow, Scikit-Learn, NumPy, Pandas]
+    web: [FastAPI, Django, Flask, Spring Boot, React, Angular, Next.js, Node.js, REST
+        APIs]
+    databases: [Oracle, Postgres, MongoDB]
+    data: [PySpark]
+    cloud: [AWS, Google Cloud]
+    ops: [Docker, Kubernetes, Git, CI/CD]
+    languages: [Python, Java, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8844964'
+  extracted_at: '2026-03-27T13:33:47.492714'

@@ -1,0 +1,237 @@
+job_id: 8648045
+title: Principal AI Engineer
+company: Pair Team
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Anthropic
+  - Braintrust
+  - Claude Agents Sdk
+  - Langfuse
+  - Langgraph
+  - Langsmith
+  - Mastra
+  - Openai
+description: |
+  About Pair Team
+  
+  Pair Team is building a new kind of healthcare system across
+  Medicaid, Medicare, and public assistance programs: one that
+  recognizes that access to housing, nutritious food, and
+  reliable transportation are just as critical to health as
+  having the right medications or seeing a doctor.
+  
+  As a public benefit corporation and AI-enabled medical
+  group, we partner with shelters, food pantries, and
+  community organizations to deliver “whole-person” care to
+  the 115 million Americans who rely on the safety net. We are
+  currently the largest complex care provider in California
+  with over 500 employees and are expanding nationally. Our
+  model replaces fragmented healthcare and social services
+  systems with one trusted relationship for all medical,
+  behavioral, and social needs.  We improve access, build
+  trust, and dramatically lower costs (52% fewer ER visits,
+  26% fewer hospitalizations). Our model is a rare combination
+  of saving tax payer dollars ($150B annually at scale) while
+  putting people on an upward life trajectory. At national
+  scale, this approach would save taxpayers.
+  
+  These outcomes are driven by the AI-first, whole-person
+  infrastructure we are building — a platform that connects
+  healthcare and social-service organizations into a unified
+  network. Leveraging our vast data and years of operational
+  experience, we are building the agentic infrastructure for
+  the safety net to coordinate care, automate operations, and
+  learn from every patient interaction to continuously improve
+  outcomes.
+  
+  Check out the AI-First Medicaid System we are building here.
+  
+  - Forbes: For Pair Team, Accessibility Is About Delivering
+    Healthcare To Those Who Need It The Most
+  - TechCrunch: Building for Medicaid’s regulatory moment with
+    Neil Batlivala from Pair Team
+  - Journal of General Internal Medicine: A Novel Intervention
+    for Medicaid Beneficiaries with Complex Needs
+  
+  About the Role
+  
+  As a Principal AI Engineer, you will help design and build
+  the architecture that enables this evolution, translating
+  complex care processes into reliable, production-grade AI
+  systems in close partnership with product and domain
+  experts.
+  
+  What You’ll Do
+  
+  - Lead the design and evolution of agentic systems that
+    participate directly in care delivery, helping coordinate
+    care, engage patients, and execute meaningful portions of
+    care workflows.
+  - Define and build architectural patterns for agent reasoning,
+    tool use, memory, and human-in-the-loop collaboration.
+  - Develop both reusable platform capabilities and product-
+    facing implementations, balancing long-term architecture
+    with rapid iteration.
+  - Own complex problem spaces end-to-end — from system design
+    and implementation through observability, evaluation, and
+    continuous improvement in production.
+  - Partner closely with product managers, operators, and domain
+    experts to translate complex real-world processes into
+    reliable agent behavior.
+  - Establish standards and best practices for agent evaluation,
+    safety, and operational reliability as these systems
+    evolve toward greater autonomy
+  - Mentor engineers and influence technical direction across
+    teams building agent-driven capabilities.
+  
+  Who You Are
+  
+  - Systems-Oriented Technical Leader: You think in systems, not
+    features. You make strong architectural decisions,
+    navigate trade-offs effectively, and help shape technical
+    direction across teams.
+  - Applied Agentic AI Builder: You’ve built and scaled
+    production agentic AI systems that perform meaningful work
+    beyond simple chat interfaces. You understand agent
+    behavior, tool orchestration, stateful workflows, and the
+    realities of operating AI systems in production.
+  - Product-Minded Engineer: You work closely with product
+    managers and domain experts to define problems and
+    translate ambiguity into clear technical solutions. You
+    care about outcomes, not just implementation.
+  - Strong Judgment in Ambiguity: You’re comfortable operating
+    in evolving problem spaces, balancing experimentation with
+    reliability and knowing when to prioritize speed versus
+    long-term investment.
+  - Data & Evaluation Driven: You use metrics, evaluation
+    frameworks, and operational feedback to guide decisions
+    and continuously improve system performance.
+  - Highly Autonomous Executor: You take ownership of complex
+    problem spaces end-to-end, balancing speed with
+    engineering rigor and iterating effectively based on real-
+    world feedback.
+  - Multiplying Presence: You elevate those around you —
+    mentoring engineers, establishing best practices, and
+    helping raise the bar for how AI systems are designed and
+    operated.
+  
+  What You’ll Need
+  
+  - 8+ years of experience building and shipping production
+    software systems, including experience operating at a
+    Principal IC level and driving technical direction across
+    complex systems
+  - Proven experience building and scaling multi-agent or agent-
+    driven systems in production and real-world operational
+    ownership (beyond simple LLM workflows).
+  - Hands-on experience with modern agent ecosystems, including
+    frameworks (e.g., LangGraph, Mastra, Claude Agents SDK),
+    observability/evals tooling (e.g., Langfuse, LangSmith,
+    Braintrust), MCP implementations, and leading AI SDKs
+    (e.g., OpenAI, Anthropic).
+  - Strong systems and backend architecture fundamentals, with
+    experience designing scalable, reliable systems and
+    handling infrastructure, performance, failure modes, cost,
+    and deployment concerns.
+  - Clear agentic evaluation mindset, including automated evals,
+    simulation-based testing, regression frameworks, metrics
+    design, and continuous improvement loops. Firsthand
+    experience addressing performance and reliability of
+    scaled agentic systems.
+  - AI-native builder with high velocity and ownership,
+    demonstrating intellectual curiosity, rapid adoption of
+    new tools, bias to action, and the ability to drive
+    ambiguous problems from concept to production.
+  - Strong cross-functional collaborator and communicator, able
+    to partner with Product, Operations, and domain experts to
+    deliver end-to-end systems with measurable real-world
+    impact.
+  - Force-multiplier technical leader, raising the bar for
+    clarity of thinking, system design standards, and team
+    execution.
+  
+  Nice to Have (Not Required)
+  
+  - Experience building conversational or voice-driven systems
+    (e.g., speech pipelines, telephony integrations, or real-
+    time conversational workflows).
+  - Experience working in healthcare or other regulated or high-
+    stakes domains.
+  
+  Our Values
+  
+  - Lead with integrity: We keep our commitments and take
+    responsibility for our actions. We are dependable and
+    choose authenticity over perfection.
+  - Embrace challenges: We leave our egos at the door and step
+    forward into discomfort instead of back into safety. We
+    help each other to learn and provide feedback using candor
+    and kindness.
+  - Break through walls: We go the extra mile for our patients,
+    partners and one another, and we run toward hard things.
+    We are resilient in our push for consistent improvement
+    and challenge the status quo.
+  - Act beyond yourself: We build each other up and respect
+    boundaries. We seek first to understand and assume
+    positive intent.
+  - Care comes first: We hold ourselves to the highest standards
+    for our patients. We are relentless in the pursuit of our
+    mission, and ensure that we are taking care of ourselves
+    in order to care for others.
+  
+  Because We Value You
+  
+  - Competitive salary: $240,000 - 260,000
+  - Equity compensation package
+  - Flexible vacation policy – take the time you need to
+    recharge
+  - Comprehensive medical, dental, and vision coverage
+  - 401(k)
+  - 100% company-sponsored short and long-term disability and
+    life insurance
+  - Subsidized backup childcare and caregiver supports through
+    Wellthy
+  - Work entirely from the comfort of your own home
+  - Monthly $100 work from home expense stipend
+  - We provide the equipment needed for the role
+  - Opportunity for rapid career progression with plenty of room
+    for personal growth!
+  - Travel reimbursements for any company retreats or leadership
+    offsites
+  
+  Pair Team is an Equal Opportunity Employer. At Pair Team, we
+  value diversity and strive to provide an inclusive
+  environment for all applicants and employees. All applicants
+  will be considered without regard to race, color, religion,
+  sex (including pregnancy, gender identity, and sexual
+  orientation), national origin, marital status, age,
+  disability, political affiliation, military service, genetic
+  information, or any other characteristic covered by federal,
+  state, or local law.
+  
+  Pair Team participates in E-Verify to verify employment
+  eligibility for new hires.  Any offer of employment at Pair
+  Team is conditioned upon passing a pre-employment background
+  check. Following a conditional job offer, candidates will
+  undergo comprehensive employment background checks,
+  including; criminal history, reference checks, and driving
+  records if a role requires vehicle use.
+  
+  We do not conduct any TA business outside of our
+  @pairteam.com emails. If you’re ever concerned about spam or
+  fraudulent activity, please reach out to
+  recruiting@pairteam.com.
+  
+  Note: Please be aware that while we sincerely appreciate
+  your interest, due to the high volume of requests, we're
+  unable to respond to general position inquiries via email.
+  To apply for a position with us, please submit your
+  application for the role you are interested in. Our team
+  regularly reviews applications and will reach out to
+  candidates whose qualifications align with our current
+  openings listed below. Thank you!
+posted_date: 2026-03-04
+url: "https://www.builtinla.com/job/ai-engineer/8648045"
+source: Built In

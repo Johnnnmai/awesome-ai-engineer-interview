@@ -1,0 +1,53 @@
+company:
+  name: Edwards Lifesciences
+  stage: Public
+  focus: Medical devices and technologies for cardiovascular patients
+position:
+  title: Principal Engineer, AI/ML - Pune
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work with AI/ML systems
+      including building data pipelines for training and
+      evaluating LLMs, deploying AI solutions at scale, optimizing
+      model performance, and working with GenAI initiatives. The
+      position requires deep expertise in ML frameworks and
+      production deployment of models.
+  responsibilities:
+  - Lead the design, development, and deployment of AI solutions at scale to solve
+    complex business problems in partnership with business SMEs, product managers,
+    data scientists, and other engineering teams
+  - Determine operational feasibility by evaluating analysis, problem definition,
+    requirements, solution development, and proposed solutions
+  - Build and maintain robust data pipelines for training, testing, and evaluating
+    various Large Language Models (LLM) and/or traditional machine learning models
+  - Engineer solutions based on various AI/ML frameworks and libraries
+  - Stay current with the latest GenAI and/or traditional AI/ML research and trends,
+    and incorporate them into product offerings
+  - Improve and optimize the performance of models, ensuring robustness, scalability,
+    and efficiency
+  - Provide technical leadership and mentorship to junior engineers and data scientists
+  - Ensure code and model development are well-documented and follow engineering best
+    practices
+  use_cases:
+  - Solving complex business problems in medical device/healthcare domain
+  - GenAI initiatives for healthcare operations
+  - Large Language Model applications
+  - Traditional machine learning model deployment
+  - Enterprise-scale AI solutions for medical technology company
+  skills:
+    genai: [LLMs, GenAI]
+    ml: [TensorFlow, PyTorch, Keras, Scikit-Learn, CNNs, RNNs, GANs]
+    web: []
+    databases: []
+    data: [Data pipelines]
+    cloud: [AWS]
+    ops: [Git]
+    languages: [Python, Java, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8777483'
+  extracted_at: '2026-03-27T14:01:31.808465'

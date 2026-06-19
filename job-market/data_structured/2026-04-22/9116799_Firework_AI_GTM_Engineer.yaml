@@ -1,0 +1,46 @@
+company:
+  name: Firework
+  stage: Series C+
+  focus: |-
+    AI and video commerce platform for enterprise brands and
+    retailers
+position:
+  title: AI GTM Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting, building, and operating AI-
+      powered autonomous agents for go-to-market operations. The
+      engineer directly builds and deploys AI agent systems,
+      making it ai-first. The focus is on creating autonomous
+      agents that supercharge GTM teams, which is hands-on AI
+      system development.
+  responsibilities:
+  - Architect, build, and operate AI-powered systems that fuel the go-to-market motion
+  - Build autonomous agents to supercharge GTM teams including SDRs, AEs, and marketers
+  - Enable personalization at scale for sales and marketing outreach
+  - Design AI solutions that help GTM teams move faster and focus on closing deals
+  - Grow enterprise pipelines through AI-driven automation and intelligence
+  - Operate at the intersection of AI engineering and revenue operations
+  use_cases:
+  - Autonomous sales development and outreach automation
+  - Personalized marketing at scale for enterprise brands
+  - Intelligent lead qualification and pipeline acceleration
+  - Agentic commerce systems for retail and brand engagement
+  - AI-powered revenue operations optimization
+  skills:
+    genai: [LLM APIs, LangChain, Autonomous Agents, RAG, Prompt Engineering]
+    ml: []
+    web: [REST APIs, FastAPI]
+    databases: [PostgreSQL, Vector Databases, Redis]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, CI/CD]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Salesforce, HubSpot, Sales Operations]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9116799'
+  extracted_at: '2026-04-22T13:01:13.952091'

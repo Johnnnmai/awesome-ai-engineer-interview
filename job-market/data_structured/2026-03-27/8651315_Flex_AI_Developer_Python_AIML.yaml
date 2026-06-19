@@ -1,0 +1,42 @@
+company:
+  name: Flex
+  stage: Public
+  focus: Diversified manufacturing partner for market-leading brands
+position:
+  title: AI Developer (Python + AI/ML)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI
+      systems, specifically Agentic AI solutions using CrewAI for
+      multi-agent workflows. The position requires hands-on work
+      designing autonomous AI agents and implementing LLM-based
+      applications.
+  responsibilities:
+  - Design, develop, and deploy AI/Agentic AI solutions using Python and CrewAI
+  - Build and manage multi-agent workflows for complex problem-solving
+  - Translate business requirements into AI-driven solutions
+  - Analyze data and generate actionable insights to support decision-making
+  - Optimize and maintain AI models and agent performance
+  - Document solutions, workflows, and best practices
+  use_cases:
+  - Autonomous multi-agent systems for manufacturing operations
+  - Goal-driven AI agents for complex problem-solving
+  - Business process automation through AI-driven solutions
+  - Data-driven decision support systems
+  skills:
+    genai: [CrewAI, Agentic AI, Prompt Engineering, LLM-based applications]
+    ml: [AI/ML frameworks]
+    web: [APIs]
+    databases: [SQL]
+    data: [Tableau, Data pipelines]
+    cloud: [Cloud-based AI services]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8651315'
+  extracted_at: '2026-03-27T13:25:24.858226'

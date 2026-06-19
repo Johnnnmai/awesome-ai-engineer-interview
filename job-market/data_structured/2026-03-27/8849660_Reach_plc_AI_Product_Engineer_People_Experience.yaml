@@ -1,0 +1,49 @@
+company:
+  name: Reach plc
+  stage: Public
+  focus: |-
+    Britain and Ireland's largest commercial news publisher with
+    120+ media brands
+position:
+  title: AI Product Engineer (People Experience)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role actively uses LLMs (Gemini) to generate code,
+      build internal tools, and architect AI solutions for
+      automation. The engineer directly deploys AI/LLM
+      capabilities to create working systems, not just supporting
+      infrastructure for others' AI work.
+  responsibilities:
+  - Use Gemini and other LLMs to generate Google Apps Script/JavaScript code for building
+    bespoke internal tools and self-service solutions
+  - Leverage Google Cloud Project environments to manage data and build structured
+    workflows that capture clean data
+  - Create data visualizations and dashboards using Looker Studio or Tableau to translate
+    technical data into narratives for stakeholders
+  - Identify and automate manual processes using Zapier, Power Automate, or custom
+    scripts
+  - Act as primary data supplier to Workforce Planning function, ensuring operational
+    data is clean and ready for predictive modeling
+  use_cases:
+  - Internal HR and People Experience automation
+  - Self-service employee tools and portals
+  - Workforce planning and predictive modeling data preparation
+  - Manual process automation to boost productivity
+  - Data visualization for executive stakeholder reporting
+  skills:
+    genai: [Gemini, LLM prompting]
+    ml: []
+    web: []
+    databases: [BigQuery]
+    data: [Looker Studio, Tableau]
+    cloud: [Google Cloud Platform]
+    ops: []
+    languages: [Google Apps Script, JavaScript]
+    domains: []
+    other: [Zapier, Power Automate, Google Sheets]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8849660'
+  extracted_at: '2026-03-27T13:45:45.894593'

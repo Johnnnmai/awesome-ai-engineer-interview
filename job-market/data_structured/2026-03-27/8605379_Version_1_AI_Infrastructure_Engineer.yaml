@@ -1,0 +1,46 @@
+company:
+  name: Version 1
+  stage: Established
+  focus: Technology and transformation consulting solutions
+position:
+  title: AI Infrastructure Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an infrastructure/platform role supporting AI
+      systems rather than building AI models directly. The focus
+      is on architecting and operating the underlying platforms
+      (Kubernetes, cloud, CI/CD) that enable AI workloads, not on
+      training models, fine-tuning LLMs, or implementing AI
+      algorithms.
+  responsibilities:
+  - Architect AI infrastructure spanning training, inference, and MLOps pipelines
+  - Build and operate production-grade AI platforms and systems
+  - Own reliability, security, and scalability of AI infrastructure
+  - Design and implement Kubernetes-based container orchestration for AI workloads
+  - Develop and maintain CI/CD pipelines for AI systems deployment
+  - Collaborate with AI teams to provide robust infrastructure for model development
+    and deployment
+  - Implement monitoring and observability for AI platform health
+  use_cases:
+  - Production AI system infrastructure and deployment
+  - MLOps pipeline enablement
+  - AI model training infrastructure
+  - AI inference and serving platforms
+  - Enterprise-grade AI platform reliability
+  skills:
+    genai: [AI coding assistants]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Microsoft Azure]
+    ops: [Kubernetes, CI/CD, MLOps, Docker]
+    languages: [Go, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8605379'
+  extracted_at: '2026-03-27T15:12:55.928099'

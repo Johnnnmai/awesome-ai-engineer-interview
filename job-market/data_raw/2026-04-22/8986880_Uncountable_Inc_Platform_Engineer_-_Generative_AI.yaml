@@ -1,0 +1,102 @@
+job_id: 8986880
+title: Platform Engineer - Generative AI
+company: Uncountable Inc
+location: 
+work_type: FULL_TIME
+level: Mid level
+skills:
+  - Flask
+  - Generative Ai
+  - Llms
+  - Postgres
+  - Python
+  - React
+  - Redux
+  - Sass
+  - Typescript
+company_size: 46 Employees
+description: |
+  Thank you for your interest in Uncountable Engineering!
+  
+  Description
+  
+  ‍Uncountable is seeking driven software engineers with a
+  focus on Generative AI deployment in software.
+  
+  Uncountable’s software platform is used by scientists in
+  leading scientific R&D organizations to structure and
+  analyze experimental data. Uncountable’s users are solving
+  critical problems in materials science, chemistry, biotech,
+  and other scientific fields, and our goal is to help them
+  solve those problems faster.
+  
+  Your role will be to bring the full power of ongoing
+  advances in LLMs to bear on real-world problems and friction
+  faced by scientists every day. You’ll be building AI-powered
+  search and visualization tools, next-generation UX that use
+  multimodal LLMs as the UI, intelligent research assistants,
+  and more. This is a unique opportunity to join the front-
+  line effort to accelerate scientific progress using LLMs and
+  generative AI.
+  
+  Primary Responsibility
+  
+  You will be responsible for:
+  
+  - Building specific LLM powered features end-to-end, including
+    both LLM-specific tasks (prompting, optimizing latency,
+    tuning/testing behavior) and traditional fullstack
+    development tasks (coding frontends/backends, designing
+    APIs and databases)
+  
+  - Developing a great in-house LLM stack to serve the evolving
+    needs of our product (API integration, testing,
+    observability, caching, infrastructure for fine-tuning and
+    inference, etc)
+  
+  Uncountable has a strong culture of continuous deployment
+  and fast iteration cycles. You’ll expect to ship your work
+  early and often to Uncountable’s users and iterate based on
+  their feedback.
+  
+  Many of the features you build will represent new and
+  unprecedented ways to use software, so you’ll wear various
+  hats as a designer, researcher, engineer, product manager,
+  and whatever else is needed to create an amazing product.
+  This is a great role for someone who is looking to grow
+  their skills and perspective quickly, or who wants to found
+  their own company in the future.
+  
+  Salary Range: $120K-$160K + Equity
+  
+  Requirements
+  
+  - ‍‍2 years of development experience
+  - Strong interest in Generative AI
+  - Solid computer science and software engineering fundamentals
+  
+  Preferred Qualifications
+  
+  - ‍‍B.S. in computer science
+  - Experience shipping software incorporating Generative AI to
+    users (e.g. started an LLM startup or shipped a side
+    project with real usage)
+  - Familiarity with fullstack web development
+  
+  Our Current Stack
+  
+  - Backend: Flask (Python), Postgres
+  - Frontend: React (Typescript), Redux, Sass
+  
+  Benefits
+  
+  - Competitive Salary and Equity
+  - Health and Dental Insurance
+  - 401K with Employer Contribution
+  
+  What's next? Learn more about Interviewing at Uncountable
+  
+  Learn more about our engineering team: Check out our blog
+posted_date: 2026-04-08
+url: "https://builtin.com/job/platform-engineer-generative-ai/8986880"
+source: Built In

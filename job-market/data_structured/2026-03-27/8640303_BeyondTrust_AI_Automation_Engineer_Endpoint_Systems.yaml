@@ -1,0 +1,50 @@
+company:
+  name: BeyondTrust
+  stage: null
+  focus: |-
+    Identity security and cybersecurity SaaS solutions for
+    privileged access management
+position:
+  title: AI & Automation Engineer, Endpoint Systems
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is about integrating and using AI tools for
+      endpoint management and IT operations, not building or
+      deploying AI/ML systems. The role involves consuming AI-
+      powered tools (Claude AI, AIOps, Copilot) to enhance
+      endpoint management workflows, but doesn't involve model
+      training, fine-tuning, or building AI systems from scratch.
+  responsibilities:
+  - Design, deploy, and manage modern endpoint environments across Windows & macOS
+  - Implement and maintain endpoint management platforms with automation-first mindset
+  - Develop automation workflows using scripting, APIs, and orchestration tools
+  - Integrate AI-powered tools for endpoint analytics, remediation, and security optimization
+  - Build self-healing and self-service solutions for common endpoint issues
+  - Collaborate with security teams to enforce compliance and endpoint protection
+    strategies
+  - Monitor endpoint health and telemetry to proactively identify and resolve issues
+  - Evaluate emerging AI and automation technologies for endpoint strategy improvements
+  use_cases:
+  - Endpoint analytics and monitoring
+  - Automated remediation for device issues
+  - Security and compliance enforcement across devices
+  - User experience optimization through AI-driven tools
+  - Self-healing and self-service endpoint solutions
+  - IT operations automation (AIOps)
+  skills:
+    genai: [Claude AI, Microsoft Copilot]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Intune, Jamf, AIOps, Microsoft Defender, Microsoft Autopilot, MDM/MAM platforms]
+    languages: [PowerShell, Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8640303'
+  extracted_at: '2026-03-27T14:20:11.123645'

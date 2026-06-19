@@ -1,0 +1,45 @@
+company:
+  name: Seekho
+  stage: Series B
+  focus: Micro-learning platform redefining education with AI
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on with LLMs, RAG, agents, and
+      conversational AI. The engineer will build AI POCs, create
+      evaluation frameworks, and convert them to production specs.
+      Direct model engineering work with prompting, RAG, and
+      agents makes this ai-first.
+  responsibilities:
+  - Drive Seekho's AI direction from an engineering lens
+  - Run weekly AI pipeline from idea to recommendation
+  - Build and demo AI POCs for retention, personalization, and engagement
+  - Evaluate build vs. buy vs. skip decisions backed by evidence
+  - Define evaluation frameworks with offline and online metrics
+  - Convert winning POCs into implementation-ready specs
+  - Shape Seekho's AI layer with practical, testable bets
+  use_cases:
+  - Retention optimization through AI-powered features
+  - Personalization for micro-learning content
+  - Engagement improvement via AI interventions
+  - Conversational AI for learning experiences
+  - Recommendation systems for content discovery
+  skills:
+    genai: [LLM Engineering, Prompt Engineering, RAG, Agents, Evaluation pipelines,
+      Conversational AI, OpenAI APIs, Anthropic APIs, Orchestration frameworks]
+    ml: [Ranking systems, Recommendation systems, Experimentation, Error analysis]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: []
+    ops: [Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8596189'
+  extracted_at: '2026-03-03T12:23:03.255977'

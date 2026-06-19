@@ -1,0 +1,99 @@
+job_id: 8976069
+title: AI Engineer
+company: Ford Motor Company
+location: Chennai, IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Ai-Ops
+  - Cloud Build
+  - Docker
+  - Fastapi
+  - Flask
+  - Generative Ai
+  - Google Cloud Platform
+  - Kubernetes
+  - Large Language Models
+  - Python
+company_size: 175,633 Employees
+description: |
+  In this role, you will act as a force multiplier for our
+  quantitative analytics teams. Your primary mission will be
+  to design, build, and deploy Generative AI tools and Large
+  Language Model (LLM) applications that assist our analytical
+  modelers in their day-to-day work. Whether it is building AI
+  co-pilots for code generation, creating automated model-
+  documentation generators, you will build the AI
+  infrastructure that makes our FC risk team faster, more
+  efficient, and more innovative.
+  
+  Responsibilities
+  
+  - Internal AI Tool Development: Architect and build LLM-
+    powered applications, AI agents, and workflow automations
+    specifically designed to assist model validators and
+    quantitative modelers (e.g., Independent validation
+    agents, code-generation agents, and Monitoring agents).
+  - AI-Ops & Infrastructure (LLMOps): Establish robust AI-Ops
+    pipelines to manage the end-to-end lifecycle of Generative
+    AI tools. Implement automated deployment, version control,
+    prompt tracking, and continuous monitoring for model
+    performance and hallucination mitigation.
+  - Cloud & CI/CD Engineering: Deploy highly available AI
+    microservices using Google Cloud Platform (GCP). Manage
+    CI/CD pipelines using Infrastructure as Code (e.g.,
+    Terraform, Cloud Build) to ensure seamless and secure
+    continuous integration.
+  - User-Centric Collaboration: Work closely with analytical
+    modelers to deeply understand their daily bottlenecks,
+    data prep challenges, and coding workflows, translating
+    those pain points into effective AI solutions.
+  - Security & Governance: Ensure all internal AI tools adhere
+    to Ford's strict data privacy, security, and compliance
+    standards, implementing guardrails for internal data
+    usage.
+  
+  Skills & Knowledge Required
+  
+  - LLM & GenAI Technologies: Strong hands-on experience with
+    LLM orchestration frameworks (e.g., LangChain, Google ADK,
+    MCP), and utilizing commercial or open-source foundation
+    models.
+  - AI-Ops / LLMOps: Proficiency in tools for monitoring,
+    tracing, and evaluating LLM outputs.
+  - Vector Databases: Experience working with vector search
+    technologies (e.g., GCP Vertex Vector Search, Sentence
+    Transformer, ColBERT) for retrieval using encoder based
+    models.
+  - Software Engineering: 4+ years of advanced hands-on
+    experience with Python programming and building robust
+    APIs (FastAPI, Flask) to serve AI models to end-users.
+  - Cloud Platform: Extensive experience in Google Cloud
+    Platform (GCP), specifically with Cloud Build, Cloud Run,
+    GCS, BigQuery.
+  - Analytics Workflow Understanding: Familiarity with the
+    general workflows of data scientists and modelers (data
+    wrangling, feature engineering, model validation) so you
+    can effectively build tools that serve them.
+  
+  Qualifications
+  
+  - Education: Master’s or Bachelor’s degree in Computer
+    Science, Software Engineering, Artificial Intelligence,
+    Data Science, or a related technical discipline.
+  - AI/Engineering Experience: 4–7 years of overall software
+    engineering or AI development experience (Python –
+    PyTorch, Pandas), with at least 1–2 years of dedicated,
+    hands-on experience building and deploying LLMs and GenAI
+    applications into production.
+  - DevOps/MLOps: Proven track record of implementing CI/CD for
+    machine learning/AI, containerization (Docker/Kubernetes),
+    and cloud infrastructure management.
+  - Good to Have (Optional):
+    - Previous exposure to the Banking, Financial Services, or
+      Credit Analytics industries.
+    - Familiarity with SAS to aid in building code-translation or
+      modernization tools for modelers.
+posted_date: 2026-04-07
+url: "https://builtin.com/job/ai-engineer/8976069"
+source: Built In

@@ -1,0 +1,46 @@
+company:
+  name: Tabs
+  stage: Series A
+  focus: |-
+    AI-native revenue platform automating contract-to-cash
+    lifecycle for finance teams
+position:
+  title: Software Engineer, AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building AI, ML, and automation features
+      from concept through release, with explicit requirements for
+      1+ years of AI/ML inference experience. The position works
+      directly on the AI team building AI-native products that
+      automate financial operations.
+  responsibilities:
+  - Build automation, AI, and ML features from concept through release and product
+    integration
+  - Generate new insights and solutions beyond pattern matching for unsolved problems
+  - Work closely with company leadership and founding team on high-impact projects
+  - Own full-stack development of AI-powered features
+  - Drive projects from ideation to completion with direct impact on market positioning
+  use_cases:
+  - Automating contract-to-cash lifecycle for finance teams
+  - Automated billing, collections, and revenue recognition
+  - Generating invoices directly from contracts
+  - Real-time payment reconciliation
+  - ASC 606 compliance automation
+  - Financial reporting and operational management automation
+  skills:
+    genai: []
+    ml: [AI/ML inference, Machine learning systems]
+    web: [Next.js, Full-stack development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8472106'
+  extracted_at: '2026-03-03T11:37:48.917168'

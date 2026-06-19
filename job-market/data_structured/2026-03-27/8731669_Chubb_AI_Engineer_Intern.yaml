@@ -1,0 +1,50 @@
+company:
+  name: Chubb
+  stage: Public
+  focus: Global property and casualty insurance
+position:
+  title: AI Engineer Intern
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying
+      AI/ML systems including LLMs, prompt engineering, fine-
+      tuning workflows, and agentic AI systems. The intern will
+      contribute across the AI product lifecycle from model
+      experimentation to production support, working directly on
+      AI solutions rather than just supporting infrastructure.
+  responsibilities:
+  - Build and test ML/AI solutions for business challenges in cloud environments
+  - Experiment with LLM techniques including prompt engineering, fine-tuning, and
+    evaluation
+  - Curate and prepare datasets for model training and evaluation
+  - Build and test AI service components including APIs, inference pipelines, and
+    integration layers
+  - Manage prompt versioning and testing workflows
+  - Explore agentic AI frameworks through prototyping projects
+  - Test agent behaviors, tool integrations, and multi-step workflows
+  - Support evaluation and observability efforts including prompt tracing and performance
+    logging
+  use_cases:
+  - AI-enabled digital solutions for property and casualty insurance
+  - LLM-based automation and decision support
+  - Agentic AI systems for multi-step workflows
+  - Production AI systems at enterprise scale
+  - Model inference and pipeline automation
+  skills:
+    genai: [LangChain, CrewAI, AutoGen, prompt engineering, GitHub Copilot, Cursor,
+      Claude Code]
+    ml: [fine-tuning, PyTorch, TensorFlow, Hugging Face Transformers, scikit-learn]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Git, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8731669'
+  extracted_at: '2026-03-27T15:18:48.640549'

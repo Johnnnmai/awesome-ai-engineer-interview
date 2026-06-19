@@ -1,0 +1,57 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services with AI/ML-powered customer
+    experiences
+position:
+  title: Sr. Lead AI Engineer (AI Foundations)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first: the engineer will design,
+      develop, and deploy AI system components including
+      foundation model training, LLM inference, similarity search,
+      guardrails, and LLM optimization techniques. The position
+      involves hands-on work building and optimizing proprietary
+      AI/ML systems at scale, not just supporting infrastructure
+      for others.
+  responsibilities:
+  - Partner with cross-functional teams of engineers, research scientists, technical
+    program managers, and product managers to deliver AI-powered products
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    experimentation, governance, and observability
+  - Leverage Open Source and SaaS AI technologies such as AWS Ultraclusters, Huggingface,
+    VectorDBs, Nemo Guardrails, and PyTorch to build production AI systems
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of large-scale production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  - Lead and mentor an engineering team and influence cross-functional stakeholders
+  - Stay abreast of the latest AI research and judiciously apply novel techniques
+    in production
+  use_cases:
+  - Real-time personalized banking customer experiences
+  - Fraud detection and informing customers about unusual charges
+  - Real-time customer question answering and support
+  - LLM-powered internal tools to change how associates work
+  - Scalable AI infrastructure to empower teams across Capital One to enhance products
+    with AI
+  skills:
+    genai: [LLM Inference, LLM Optimization, Nemo Guardrails, Guardrails]
+    ml: [Foundation Model Training, PyTorch, Huggingface, Similarity Search, Model
+        Evaluation]
+    web: []
+    databases: [VectorDBs]
+    data: []
+    cloud: [AWS, AWS Ultraclusters, Google Cloud, Azure]
+    ops: [AI Governance and Observability]
+    languages: [Python, Go, Java, Scala, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8943678'
+  extracted_at: '2026-04-22T12:27:37.768665'

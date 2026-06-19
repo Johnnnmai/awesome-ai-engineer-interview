@@ -1,0 +1,225 @@
+job_id: 9101006
+title: AI Engineer II
+company: Axle Informatics
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Docker
+  - Git
+  - Kubernetes
+  - Postgres
+  - Python
+description: |
+  (ID: 2026-1850)
+  
+  Axle is a bioscience and information technology company that
+  offers advancements in translational research, biomedical
+  informatics, and data science applications to research
+  centers and healthcare organizations nationally and abroad.
+  With experts in biomedical science, software engineering,
+  and program management, we focus on developing and applying
+  research tools and techniques to empower decision-making and
+  accelerate research discoveries. We work with some of the
+  top research organizations and facilities in the country
+  including multiple institutes at the National Institutes of
+  Health (NIH).
+  
+  Benefits We Offer:
+  
+  - 100% Medical, Dental & Vision Coverage for Employees
+  - Paid Time Off and Paid Holidays
+  - 401K match up to 5%
+  - Educational Benefits for Career Growth
+  - Employee Referral Bonus
+  - Flexible Spending Accounts:
+  
+  
+  
+  Role Summary
+  
+  Axle is seeking an AI Engineer II with experience designing
+  and delivering production AI systems to lead the development
+  of intelligent applications that support translational
+  research and scientific operations. This role involves
+  architecting retrieval-augmented generation (RAG) systems,
+  agentic pipelines, document understanding workflows, and the
+  shared platform services that make these systems reliable
+  and reusable.
+  
+  A significant portion of this role involves working directly
+  with clients — scientists, program managers, and operational
+  staff — who understand the problem domain but may not have a
+  technical background. You will partner with them to elicit
+  requirements, translate domain needs into well-defined
+  technical solutions, and ensure delivered software meets
+  their real-world needs. The role requires a self-directed
+  engineer who can make sound architectural decisions, take
+  ownership of technical components end-to-end, mentor junior
+  team members, and deliver iteratively while managing client
+  relationships and expectations.
+  
+  
+  
+  Key Responsibilities
+  
+  - Architect, develop, and maintain AI-powered applications in
+    Python, including conversational assistants, agentic
+    tools, and retrieval-augmented generation (RAG) systems.
+  - Design and optimize retrieval pipelines: embedding
+    generation, vector search, hybrid search, and reranking
+    against large domain-specific corpora.
+  - Build document ingestion and parsing pipelines that extract
+    structured content (text, tables, figures, citations) from
+    scientific and technical documents for downstream use by
+    AI systems.
+  - Integrate structured knowledge — ontologies, controlled
+    vocabularies, and knowledge graphs — with unstructured
+    text to produce evidence-grounded, provenance-aware AI
+    outputs.
+  - Develop and operate shared platform services that accelerate
+    delivery of new AI applications: model gateways, agent-
+    tool integrations, authentication, API key management, and
+    observability.
+  - Lead technical design decisions and establish best practices
+    for code quality, testing, evaluation, and deployment of
+    AI systems.
+  - Provision, deploy, monitor, and troubleshoot services on
+    Kubernetes and cloud infrastructure, including container
+    builds, manifests, and CI/CD pipelines.
+  - Design and maintain relational and vector databases,
+    including schema design, indexing, migrations, and
+    incremental data updates.
+  - Define and track quality metrics for AI systems (retrieval
+    quality, answer faithfulness, latency, cost) and drive
+    measurable improvements over time.
+  - Engage directly with non-technical clients to gather
+    requirements, clarify goals, manage expectations, and
+    validate that delivered solutions align with their
+    objectives.
+  - Translate high-level client and mission needs into
+    actionable technical specifications and development plans.
+  - Mentor junior engineers and contribute to a culture of
+    technical excellence.
+  - Participate in and help facilitate standups, sprint
+    planning, and cross-team review meetings across multiple
+    project streams.
+  
+  Required Skills & Qualifications
+  
+  - 5+ years of professional experience in software development,
+    with recent hands-on work building AI or ML-powered
+    applications.
+  - Strong proficiency in Python for application development,
+    scripting, and tooling.
+  - Demonstrated experience building retrieval-augmented
+    generation (RAG) systems, including embeddings, vector
+    search, and reranking.
+  - Experience integrating large language models (LLMs) into
+    production applications using modern agent or
+    orchestration frameworks.
+  - Experience with vector databases and semantic search.
+  - Demonstrated experience making architectural decisions and
+    owning technical direction for software projects.
+  - Experience with Docker, containerization workflows, and
+    Kubernetes for deploying and operating production
+    services.
+  - Experience with PostgreSQL and relational database design.
+  - Strong command of Linux development environments.
+  - Experience with Git/GitHub workflows, including branching,
+    pull requests, and code review practices.
+  - Proven ability to work independently, prioritize across
+    concurrent workstreams, and drive projects to completion
+    with minimal oversight.
+  
+  
+  
+  Preferred Qualifications
+  
+  - Experience with document parsing, OCR, and layout-aware
+    extraction for scientific or technical documents.
+  - Familiarity with knowledge graphs, ontologies, and
+    controlled vocabularies, including RDF, SPARQL, or graph
+    query languages.
+  - Experience with agent-tool integration frameworks, including
+    the Model Context Protocol (MCP).
+  - Experience with LLM observability, tracing, and evaluation
+    tooling.
+  - Experience with GPU computing (CUDA/NVIDIA) for embedding or
+    inference workloads.
+  - Experience with AWS (IAM, S3, deployment, general
+    infrastructure management).
+  - Familiarity with OIDC/OAuth authentication and API key
+    management in production systems.
+  - Background in biomedical informatics, translational
+    research, or health sciences.
+  - Experience with AI-assisted development tools (e.g., Claude
+    Code, GitHub Copilot).
+  - Familiarity with Jira or similar project management tools.
+  
+  
+  
+  Interpersonal Skills
+  
+  - Strong written and verbal communication skills, including
+    the ability to convey technical concepts to non-technical
+    collaborators and translate domain expertise into software
+    requirements.
+  - Skilled at requirements elicitation — able to ask the right
+    questions, listen actively, and bridge the gap between
+    what subject matter experts need and what engineering can
+    deliver.
+  - Ability to work effectively across multiple teams and
+    project streams with different leads, priorities, and
+    cadences.
+  - Comfortable operating in a large, cross-functional team
+    environment where coordination and alignment are
+    essential.
+  - Proactive in communicating progress, raising blockers, and
+    seeking input from teammates and stakeholders.
+  - Tactful and professional when engaging with clients and
+    external partners; able to navigate sensitive situations
+    and escalate appropriately.
+  - Receptive to feedback and committed to iterative
+    improvement.
+  
+  Disclaimer: The above description is meant to illustrate the
+  general nature of work and level of effort being performed
+  by individuals assigned to this position or job description.
+  This is not restricted as a complete list of all skills,
+  responsibilities, duties, and/or assignments required.
+  Individuals may be required to perform duties outside of
+  their position, job description or responsibilities as
+  needed.
+  
+  The diversity of Axle’s employees is a tremendous asset. We
+  are firmly committed to providing equal opportunity in all
+  aspects of employment and will not tolerate any illegal
+  discrimination or harassment based on age, race, gender,
+  religion, national origin, disability, marital status,
+  covered veteran status, sexual orientation, status with
+  respect to public assistance, and other characteristics
+  protected under state, federal, or local law and to deter
+  those who aid, abet, or induce discrimination or coerce
+  others to discriminate.
+  
+  Accessibility: If you need an accommodation as part of the
+  employment process please contact: careers@axleinfo.com
+  
+  This role has a market-competitive salary with an
+  anticipated base compensation range listed below. Actual
+  salaries will vary depending on a candidate’s experience,
+  qualifications, skills, and location.
+  
+  #IND
+  
+  Salary Range
+  
+  $120,000—$150,000 USD
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-04-20
+url: "https://www.builtinla.com/job/ai-engineer-ii/9101006"
+source: Built In

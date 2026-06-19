@@ -1,0 +1,51 @@
+company:
+  name: Jack & Jill AI
+  stage: VC-backed
+  focus: Fintech SaaS lending platform
+position:
+  title: AI Engineer at Lendable.co.uk
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and shipping LLM
+      integrations, agentic workflows, MCP integrations, and AI
+      connectors. The engineer works hands-on with LLM provider
+      APIs, embeddings, and AI application patterns to create
+      automated solutions. This is clearly an ai-first role
+      focused on implementing and deploying AI systems.
+  responsibilities:
+  - Build and maintain AI connectors and knowledge base pipelines for platforms like
+    Google Workspace, Slack, Snowflake, and Confluence
+  - Develop an internal automation platform using LLM provider APIs, n8n, and custom-built
+    solutions to enable non-engineers to experiment safely
+  - Implement agentic workflows, MCP integrations, and AWS Bedrock solutions for internal
+    operations
+  - Ship AI tools and automated workflows that reduce manual work for Finance, Compliance,
+    and Product teams
+  - Collaborate with PM and Engineering Lead to identify high-leverage opportunities
+    and iterate based on adoption metrics
+  - Own full lifecycle from problem discovery through to production deployment
+  use_cases:
+  - Internal AI automation platform for non-engineers to experiment with AI safely
+  - Knowledge base pipelines connecting enterprise tools (Google Workspace, Slack,
+    Confluence)
+  - Agentic workflows for Finance, Compliance, and Product team operations
+  - Automated workflows to reduce manual work across internal teams
+  - LLM-powered internal tooling with AWS Bedrock integrations
+  skills:
+    genai: [LLM Provider APIs, Embeddings, Agentic Workflows, MCP Integrations, RAG
+        / Knowledge Base Pipelines]
+    ml: []
+    web: [Full-stack Development]
+    databases: [Snowflake]
+    data: []
+    cloud: [AWS Bedrock]
+    ops: [Kubernetes]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [n8n, Google Workspace APIs, Slack APIs, Confluence APIs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8901898'
+  extracted_at: '2026-04-22T13:12:25.468698'

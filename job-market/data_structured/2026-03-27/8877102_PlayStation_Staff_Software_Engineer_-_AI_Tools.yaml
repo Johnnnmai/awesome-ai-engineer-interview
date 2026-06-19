@@ -1,0 +1,57 @@
+company:
+  name: PlayStation
+  stage: Public
+  focus: |-
+    Global gaming entertainment company - PlayStation consoles,
+    games, and services
+position:
+  title: Staff Software Engineer - AI Tools
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and implementing production LLM
+      integrations including prompting, RAG, tool calls,
+      guardrails, and observability. The engineer will directly
+      integrate AI systems (LLMs and related systems) into game
+      engines, editors, and backend services, making this hands-on
+      AI deployment work.
+  responsibilities:
+  - Build and maintain engine/editor plugins, runtime SDKs, and services that integrate
+    AI (LLMs and related systems) into game clients, servers, and build tools
+  - Ship performant, memory-aware C++ by profiling, optimizing, and debugging across
+    PC/console builds with tight frame budgets
+  - Design stable API surfaces for game teams (C++/C API, gRPC/HTTP) with versioning,
+    telemetry, and backward compatibility
+  - Stand up CI/CD for game builds and tools including artifact packaging, regression
+    suites, and distributed builds
+  - Implement production LLM integrations including prompting, RAG/tool calls, guardrails/safety,
+    observability, and cost controls
+  - Automate QA for tooling and in-engine features using engine test frameworks and
+    headless runs
+  - Collaborate with studio engineering, tech art, design, and QA to land integrations
+    across varied codebases and pipelines
+  - Document patterns, provide sample projects, and deliver internal training so solutions
+    scale across PlayStation Studios
+  use_cases:
+  - AI-powered game development tools and workflows
+  - LLM integrations for game engines and editors
+  - Automated game build and QA processes
+  - RAG and tool calling systems for game development
+  - AI safety and guardrails for production game systems
+  skills:
+    genai: [LLM integration, RAG, Prompt engineering]
+    ml: []
+    web: [gRPC, REST APIs, API design]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Perforce, Git, Automated testing, Telemetry and observability]
+    languages: [C++]
+    domains: []
+    other: [Game engine development, AAA game engines, Memory management, Concurrency,
+      Performance optimization]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8877102'
+  extracted_at: '2026-03-27T15:00:35.062516'

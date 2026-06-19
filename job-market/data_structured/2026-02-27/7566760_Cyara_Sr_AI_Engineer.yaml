@@ -1,0 +1,55 @@
+company:
+  name: Cyara
+  stage: Unknown
+  focus: |-
+    AI-powered customer experience assurance and testing
+    platform
+position:
+  title: Sr. AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying
+      AI/ML systems including RAG systems, LLM fine-tuning, prompt
+      engineering, and model evaluation. The position requires
+      integrating AI models into applications and working directly
+      with LLMs, making it an ai-first role focused on
+      implementing AI solutions.
+  responsibilities:
+  - Design and implement AI/ML solutions using LLMs including RAG systems, fine-tuning,
+    and prompt engineering
+  - Integrate AI/ML models into applications via APIs, microservices, and other integration
+    patterns
+  - Analyze and benchmark model performance across multiple datasets and use cases
+  - Apply ML and LLM/NLP evaluation techniques to assess model accuracy, hallucination,
+    relevance, and context
+  - Implement AI trustworthiness principles including interpretability, robustness,
+    and responsible AI practices
+  - Develop and maintain full-stack applications with NodeJS backend and React frontend
+  - Design and manage databases using Postgres and SQL
+  - Deploy and manage applications on AWS cloud infrastructure including AI services
+    like Bedrock and SageMaker
+  use_cases:
+  - Testing AI agents with AI agents to validate conversational AI interactions
+  - Customer experience assurance across voice, digital, messaging, and conversational
+    AI channels
+  - AI governance, trust validation, and compliance monitoring
+  - Continuous testing and monitoring of customer journeys
+  - Validating agentic AI systems making autonomous decisions in real time
+  skills:
+    genai: [Generative AI, LLMs, RAG systems, Prompt engineering, AI Agents, Agentic
+        AI, MCP]
+    ml: [Machine Learning, Natural Language Processing, Fine-tuning, Model evaluation]
+    web: [NodeJS, React]
+    databases: [Postgres, SQL]
+    data: []
+    cloud: [AWS, AWS Bedrock, AWS SageMaker]
+    ops: [Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7566760'
+  extracted_at: '2026-03-03T11:18:52.554370'

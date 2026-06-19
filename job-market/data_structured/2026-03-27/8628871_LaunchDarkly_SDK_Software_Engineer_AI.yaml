@@ -1,0 +1,48 @@
+company:
+  name: LaunchDarkly
+  stage: null
+  focus: |-
+    Feature management and experimentation platform for software
+    development
+position:
+  title: SDK Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building SDKs that directly enable
+      customers to control, monitor, and optimize their GenAI
+      functionality. The engineer works with AI SDKs (OpenAI,
+      Vercel AI SDK) and builds feature-rich agents with emphasis
+      on performance for managing GenAI features throughout their
+      lifecycle.
+  responsibilities:
+  - Develop open-source AI SDKs with new features and modern development practices
+  - Collaborate with engineering and product teams to implement and release major
+    features
+  - Improve developer experience touchpoints within the SDK
+  - Maintain open-source repositories actively
+  - Identify areas of improvement and advocate for best practices
+  - Shape technology and product decisions
+  use_cases:
+  - GenAI feature configuration and management
+  - AI model monitoring and observability
+  - GenAI functionality optimization and benchmarking
+  - Feature flagging for AI applications
+  - Developer experience for AI SDK integration
+  skills:
+    genai: [OpenAI SDK, Vercel AI SDK]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: [SDK development, Open-source development, Unit testing, Integration testing,
+      Load testing, Benchmarks]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8628871'
+  extracted_at: '2026-03-27T15:45:35.145932'

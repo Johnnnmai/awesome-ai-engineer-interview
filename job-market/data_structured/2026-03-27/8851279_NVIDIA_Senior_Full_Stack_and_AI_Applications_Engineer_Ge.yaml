@@ -1,0 +1,42 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU computing, gaming, and AI hardware/software platforms
+position:
+  title: Senior Full Stack and AI Applications Engineer, GeForce Now
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires 3+ years optimizing integration of AI
+      models into applications, including video and audio models.
+      Responsibilities include investigating AI products, owning
+      and standardizing AI workflows, and building AI applications
+      around GeForce Now and GDN (pixel streaming + AI product).
+  responsibilities:
+  - Build and redesign tooling, services, and workflows for all products on GeForce
+    Now
+  - Adapt and scale services for both internal and consumer-facing applications
+  - Investigate and develop future ideas for pixel streaming and AI product GDN
+  - Own and standardize AI workflows to streamline development and UI builds
+  - Collaborate with engineers, designers, and TPMs to bring products to life
+  use_cases:
+  - Cloud gaming and game streaming via GeForce Now
+  - Pixel streaming combined with AI capabilities
+  - AI-powered video and audio processing
+  - Internal and consumer-facing AI applications
+  skills:
+    genai: [AI model integration, LLMs]
+    ml: [Video AI models, Audio AI models]
+    web: [Full-stack development]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8851279'
+  extracted_at: '2026-03-27T15:09:18.192835'

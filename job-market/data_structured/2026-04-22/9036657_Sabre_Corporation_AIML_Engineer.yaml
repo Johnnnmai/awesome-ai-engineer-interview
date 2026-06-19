@@ -1,0 +1,48 @@
+company:
+  name: Sabre Corporation
+  stage: Public
+  focus: AI-native travel technology platform and data cloud
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building GenAI and agentic
+      AI components, including implementing RAG pipelines, prompt
+      engineering, embeddings, and agent tools using ADK on GCP
+      Vertex AI. The engineer is hands-on with AI/LLM workflows,
+      making this an ai-first position.
+  responsibilities:
+  - Implement GenAI workflows including prompt engineering, embeddings, and simple
+    RAG pipelines
+  - Build and integrate agent tools and simple planners using ADK framework
+  - Work with GCP services including Vertex AI, BigQuery, Cloud Storage, Pub/Sub,
+    and Cloud Run
+  - Write clean, documented code with unit tests and participate in code reviews
+  - Ensure basic observability through logging, error handling, and retries
+  - Apply Responsible AI principles including safety prompts and filters
+  - Follow security guidelines for IAM roles, secret management, and data handling
+  - Collaborate with senior engineers on architecture, design discussions, and documentation
+  use_cases:
+  - Agentic AI for travel retailing and distribution
+  - Intelligent and personalized travel experiences
+  - RAG-based knowledge retrieval for travel data cloud
+  - AI-powered insights for airlines, hoteliers, and agencies
+  - Agent-driven travel fulfillment workflows
+  skills:
+    genai: [Prompt Engineering, Embeddings, RAG, ADK (Agent Development Kit), Agent
+        Loops]
+    ml: []
+    web: [APIs and SDKs]
+    databases: [BigQuery]
+    data: [Pub/Sub]
+    cloud: [Vertex AI, Google Cloud Platform (GCP), Cloud Storage, Cloud Run, IAM]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Unit Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9036657'
+  extracted_at: '2026-04-22T13:51:09.776380'

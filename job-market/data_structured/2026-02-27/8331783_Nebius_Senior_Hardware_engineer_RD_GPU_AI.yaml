@@ -1,0 +1,52 @@
+company:
+  name: Nebius
+  stage: Public
+  focus: AI cloud infrastructure and computing platform
+position:
+  title: Senior Hardware engineer (R&D / GPU / AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role works ON hardware infrastructure (GPUs, servers,
+      networking) that SUPPORTS AI workloads, but doesn't build,
+      train, or deploy AI/ML models. The position involves
+      designing, deploying, and maintaining GPU-based cloud
+      systems that enable AI workloads, making it
+      infrastructure/platform support rather than direct AI work.
+  responsibilities:
+  - Participate in the design, deployment, and maintenance of high-performance cloud
+    systems optimized for AI workloads
+  - Arrange and perform hardware R&D tests and experiments on-site in data center
+    environments
+  - Troubleshoot and resolve complex system issues related to GPUs, networking (InfiniBand,
+    NVLink), PCIe, and server infrastructure
+  - Conduct deep investigations into hardware, software, and networking issues to
+    ensure optimal system performance and reliability
+  - Develop and execute test plans and methodologies for advanced GPU, InfiniBand,
+    and compute systems to benchmark and validate performance
+  - Collaborate closely with cross-functional engineering and operations teams to
+    improve system performance and reliability
+  - Monitor system performance and continuously fine-tune configurations for maximum
+    efficiency
+  use_cases:
+  - High-performance GPU cloud infrastructure for AI workloads
+  - Data center hardware R&D and validation
+  - GPU and networking performance optimization
+  - Server infrastructure for AI/ML computing
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Linux, Performance optimization]
+    languages: [Python, Bash]
+    domains: []
+    other: [GPU architecture, InfiniBand, NVLink, PCIe, Server architecture, Linux
+        kernel]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8331783'
+  extracted_at: '2026-03-03T12:18:05.049085'

@@ -1,0 +1,52 @@
+company:
+  name: Planet (weareplanet.com)
+  stage: Mature (35+ years)
+  focus: |-
+    Integrated technology and payments solutions for retail and
+    hospitality
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building, deploying, and operating
+      AI/ML systems including AI agents, prompts, retrieval
+      pipelines, and decision logic. The engineer owns the full
+      lifecycle of AI workflows in production and is accountable
+      for model behavior and outcomes. This is hands-on work with
+      LLMs and AI systems, not infrastructure support.
+  responsibilities:
+  - Design and build production-grade AI workflows integrated across internal systems
+    (HR, Finance, Ops, CRM)
+  - Implement orchestration logic including triggers, retries, fallbacks, and human-in-the-loop
+    mechanisms
+  - Develop and maintain AI agents, prompts, retrieval pipelines, and decision logic
+  - Own and monitor model behavior in production including accuracy, failure modes,
+    and edge case handling
+  - Improve model performance using evaluation frameworks, feedback loops, and real
+    usage data
+  - Define, track, and report success metrics for AI systems
+  - Work closely with Data Engineering to leverage shared platforms and infrastructure
+  - Contribute to shared standards, schemas, and best practices for AI systems
+  use_cases:
+  - AI-driven workflow automation for internal business operations (HR, Finance, Ops,
+    CRM)
+  - AI agents for decision support and automation
+  - Retrieval pipelines for enterprise knowledge access
+  - Automated decision systems with human-in-the-loop capabilities
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG/Retrieval Pipelines, AI Agents]
+    ml: [Classifiers, ML Inference, Model Evaluation]
+    web: [API Integration]
+    databases: []
+    data: [Temporal, Airflow]
+    cloud: [Step Functions]
+    ops: [Distributed Systems, MLOps, CI/CD, AI Evaluation Frameworks]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8524727'
+  extracted_at: '2026-03-03T12:47:47.589085'

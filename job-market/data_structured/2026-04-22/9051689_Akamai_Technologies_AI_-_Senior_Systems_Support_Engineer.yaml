@@ -1,0 +1,52 @@
+company:
+  name: Akamai Technologies
+  stage: Public
+  focus: |-
+    Cloud computing, cybersecurity, and content delivery network
+    services
+position:
+  title: AI - Senior Systems Support Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an IT systems support role that involves supporting
+      cloud and on-premises applications, including Azure AI
+      Foundry and Azure OpenAI services. While the role requires
+      understanding of LLM lifecycle management and monitoring
+      token usage, the primary function is operational support,
+      troubleshooting, and maintaining these systems—not building,
+      training, fine-tuning, or deploying AI models. The role
+      supports AI infrastructure rather than directly working on
+      AI/ML systems.
+  responsibilities:
+  - Provide support and mentorship to SAAS/Linux/on-premises application engineers
+    within the team
+  - Own problem resolution by collaborating with internal support, operations, and
+    engineering teams to investigate and troubleshoot complex problems
+  - Understand architecture, establish processes, and analyze technical issues on
+    on-premises and cloud applications
+  - Obtain certification in Azure to deepen cloud expertise
+  - Enhance system monitoring for faster error detection, improving performance, reliability,
+    and service restoration processes
+  - Monitor token usage and implement rate-limiting strategies for LLM services
+  use_cases:
+  - Operational support and troubleshooting for Azure AI and OpenAI service architectures
+  - LLM lifecycle management and token usage monitoring for enterprise AI services
+  - Cloud and on-premises application support for internal business functions
+  - System monitoring and performance optimization for production applications
+  skills:
+    genai: [LLM lifecycle management, Anthropic Claude]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, Azure AI Foundry, Azure OpenAI Service, Cloud Technologies]
+    ops: [Linux, Configuration Management tools, System monitoring]
+    languages: [SQL, Python, Shell scripting, Bash]
+    domains: []
+    other: [Rate limiting strategies]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9051689'
+  extracted_at: '2026-04-22T13:54:08.779421'

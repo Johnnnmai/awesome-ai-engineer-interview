@@ -1,0 +1,55 @@
+company:
+  name: Kroll
+  stage: Public
+  focus: Global risk and financial advisory solutions
+position:
+  title: Lead Engineer, AI-Native Product Development
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is AI-first because it centers on designing and
+      orchestrating multi-agent coding systems, using agentic
+      frameworks like Claude Code to build AI-enabled products.
+      The engineer is directly working with AI agents as core
+      building tools—orchestrating swarms of agents, architecting
+      guardrails for deterministic outputs, and embedding AI into
+      the build process itself.
+  responsibilities:
+  - Own end-to-end full-stack development of AI-enabled internal products for advisory
+    workflows
+  - Design and orchestrate multi-agent coding swarms for code generation, refactoring,
+    testing, and documentation
+  - Build repeatable AI-driven development pipelines combining human oversight with
+    AI execution
+  - Architect guardrails for deterministic outputs, version control integrity, and
+    testing validation
+  - Leverage AI across the entire SDLC including UX prototyping, schema design, test
+    generation, and CI/CD enhancement
+  - Partner with Product, AI Transformation leaders, and service line stakeholders
+    to prioritize high-impact workflow tools
+  - Collaborate with data and ML engineers when integrating models or AI services
+  - Ensure security, compliance, and governance alignment in all builds
+  use_cases:
+  - Internal tools that accelerate advisory professional workflows across valuation,
+    investigations, restructuring, cyber, and compliance
+  - Multi-agent orchestration for automated code generation, refactoring, testing,
+    and documentation
+  - AI-accelerated software development lifecycle reducing time-to-ship by 30-60%
+  - AI-driven product design, QA, and documentation automation
+  skills:
+    genai: [Claude Code, Multi-agent orchestration, Agentic coding frameworks, AI-driven
+        development pipelines]
+    ml: []
+    web: [React, Next.js, Node.js, FastAPI, REST API design]
+    databases: []
+    data: []
+    cloud: [Cloud-native architecture]
+    ops: [CI/CD pipelines, Automated testing frameworks, Docker]
+    languages: [Python]
+    domains: []
+    other: [Full-stack development, Enterprise security and governance]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8920249'
+  extracted_at: '2026-04-22T14:04:38.509554'

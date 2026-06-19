@@ -1,0 +1,91 @@
+job_id: 8860579
+title: AI Engineer
+company: Showpad
+location: Pune, IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - .Net Core
+  - Ai/Ml Models
+  - AWS
+  - Docker
+  - Hugging Face
+  - Kubernetes
+  - Langchain
+  - Microservices
+  - Node.js
+  - Openai
+company_size: 576 Employees
+description: |
+  Software Engineer (AI Focused)
+  
+  Summary: We are seeking a Mid-Level Software Engineer to
+  join our team and contribute to the design, development, and
+  deployment of modern, AI-driven applications. This role will
+  work across a cloud-native AWS environment using a
+  combination of Node.js and .NET Core, with a strong emphasis
+  on integrating and operationalizing AI capabilities. You
+  will collaborate with cross-functional teams to build
+  scalable services, integrate AI models, and help drive
+  innovation in how AI is applied across our products.
+  
+  Responsibilities:
+  
+  - Design, develop, and maintain scalable backend services
+    using Node.js and .NET Core
+  - Build and operate cloud-native applications within AWS
+    (e.g., Lambda, ECS/EKS, S3, API Gateway)
+  - Integrate AI/ML models into production systems, including
+    APIs and data pipelines
+  - Participate in model evaluation, benchmarking, and
+    performance analysis
+  - Contribute to fine-tuning and optimization of AI models for
+    specific business use cases
+  - Collaborate with data scientists and AI engineers to
+    productionize models
+  - Implement and maintain CI/CD pipelines and deployment
+    workflows
+  - Ensure high standards of code quality, testing, and
+    observability
+  - Troubleshoot, debug, and optimize system performance
+  - Contribute to architectural decisions and continuous
+    improvement initiatives
+  
+  Qualifications:
+  
+  - 3–6 years of professional software engineering experience
+  - Strong development experience in Node.js
+    (JavaScript/TypeScript) and .NET Core / C#
+  - Hands-on experience with AWS cloud services
+  - Experience building and consuming RESTful APIs and/or
+    microservices
+  - Familiarity with containerization (Docker) and orchestration
+    (Kubernetes or ECS)
+  - Solid understanding of software engineering principles,
+    design patterns, and testing practices
+  - Practical experience working with AI/ML systems in
+    production environments
+  - Understanding of model evaluation techniques and fine-tuning
+    approaches
+  - Experience working with LLMs or modern AI frameworks (e.g.,
+    OpenAI, Hugging Face, LangChain, Semantic Kernel) is
+    highly desirable
+  - Familiarity with vector databases, embeddings, or RAG
+    architectures is a plus
+  - Strong problem-solving and analytical thinking
+  - Ability to work collaboratively in a cross-functional team
+  - Good communication skills, with the ability to explain
+    technical concepts clearly
+  - Self-motivated with a willingness to learn and adapt in a
+    rapidly evolving AI landscape
+  
+  What We Offer:
+  
+  - Opportunity to work on cutting-edge AI-driven products
+  - Collaborative and innovative engineering culture
+  - Flexible working arrangements
+  - Competitive salary and benefits package
+  - Career growth opportunities in a rapidly expanding domain
+posted_date: 2026-03-25
+url: "https://builtin.com/job/ai-engineer/8860579"
+source: Built In

@@ -1,0 +1,56 @@
+company:
+  name: The Hartford Financial Services Group, Inc.
+  stage: Public
+  focus: Insurance and financial services
+position:
+  title: Lead AI Data Engineer - Hybrid
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on implementation of RAG
+      architectures, GenAI data pipelines, vector databases, and
+      agentic solutions using LangChain and LangGraph. The
+      position requires direct work on AI systems including
+      embedding strategies, prompt engineering, and integrating
+      retrieval mechanisms with LLMs - clearly building and
+      deploying AI solutions, not just supporting infrastructure.
+  responsibilities:
+  - Implement AI data pipelines combining structured, semi-structured, and unstructured
+    data for AI and Agentic solutions including pre-processing, extraction, chunking,
+    embedding, and grounding strategies
+  - Implement efficient Retrieval-Augmented Generation (RAG) architectures integrated
+    with enterprise data infrastructure
+  - Design, build, and maintain scalable real-time data streaming pipelines using
+    Apache Kafka, AWS Kinesis, Spark Streaming, or similar technologies
+  - Develop graph database solutions for complex data relationships supporting AI
+    systems
+  - Apply GenAI solutions to insurance-specific data use cases and challenges
+  - Ensure reliability, availability, and scalability of data pipelines through effective
+    monitoring, alerting, and incident management
+  - Mentor junior team members and engage in communities of practice to deliver high-quality
+    data and AI solutions
+  - Partner with architects and stakeholders to influence and implement the vision
+    for AI and data pipelines
+  use_cases:
+  - Insurance-specific data processing and analytics
+  - RAG-based information retrieval for enterprise knowledge
+  - Agentic AI solutions for business operations
+  - Real-time data streaming for insurance workflows
+  - Graph-based data relationship modeling for AI systems
+  - Enterprise AI data governance and compliance
+  skills:
+    genai: [RAG, LangChain, LangGraph, Prompt engineering]
+    ml: [PyTorch, TensorFlow, NLP, Computer Vision]
+    web: []
+    databases: [Snowflake, Neo4j, Neptune, MongoDB, DynamoDB, Spanner Graph]
+    data: [Apache Kafka, Spark Streaming, ETL/ELT]
+    cloud: [AWS Lambda, AWS S3, AWS EC2, AWS OpenSearch, AWS Kinesis, GCP Vertex AI]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '6291566'
+  extracted_at: '2026-03-03T11:20:56.219454'

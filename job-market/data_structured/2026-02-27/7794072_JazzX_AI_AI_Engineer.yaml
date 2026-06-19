@@ -1,0 +1,53 @@
+company:
+  name: JazzX AI
+  stage: Early-stage (backed by SAIGroup with $1B committed)
+  focus: |-
+    AI-native digital workers for enterprise intelligence,
+    starting with lending and due-diligence workflows
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on experimentation and development
+      with foundation models, AI agents, RAG, and reinforcement
+      learning to build an enterprise AGI platform. The engineer
+      will directly work with LLMs, agent frameworks, and
+      generative AI technologies to create production AI systems.
+  responsibilities:
+  - Systematically explore foundation models, agentic workflows, knowledge graphs,
+    and RAG to develop enterprise AI solutions
+  - Design and conduct experiments to probe the capabilities and limits of different
+    foundation models and frameworks
+  - Build tools and infrastructure necessary for conducting AI experiments and analyzing
+    results
+  - Develop and refine prototypes for the enterprise AGI platform based on research
+    findings
+  - Shape the architecture of the enterprise AI platform using quantitative and qualitative
+    insights
+  - Implement AI agent frameworks and collaborative problem-solving systems
+  - Establish best practices for leveraging and extending generative AI technologies
+    for enterprise use cases
+  use_cases:
+  - Enterprise digital workers for lending and due-diligence workflows
+  - Governed, self-improving AI systems that capture expert judgment
+  - Explainable decision-making systems for regulated industries
+  - Institutional intelligence that scales beyond individual expertise
+  - Knowledge graph and ontology-driven enterprise reasoning
+  skills:
+    genai: [LangChain, AutoGen, CrewAI, Foundation models, LLMs, RAG, AI agents, Prompt
+        engineering]
+    ml: [Reinforcement learning, Deep learning]
+    web: []
+    databases: []
+    data: [Knowledge graphs, Ontologies]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Prototyping]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7794072'
+  extracted_at: '2026-03-03T12:57:33.363392'

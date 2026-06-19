@@ -1,0 +1,55 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services with AI/ML-driven customer
+    experiences
+position:
+  title: Distinguished AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      optimizing AI/ML systems including LLM inference, foundation
+      model training, guardrails, and conversational AI
+      experiences. The engineer works hands-on with models, LLM
+      optimization techniques, and AI infrastructure at scale —
+      not merely supporting others who work on AI.
+  responsibilities:
+  - Architect and launch conversational experiences powered by state-of-the-art Generative
+    AI for millions of customers
+  - Partner with cross-functional teams of engineers, research scientists, program
+    managers, and product managers to deliver AI-powered products
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    and observability
+  - Leverage Open Source and SaaS AI technologies such as AWS Ultraclusters, Huggingface,
+    VectorDBs, Nemo Guardrails, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  use_cases:
+  - Conversational AI experiences for banking customers
+  - Real-time personalized customer experiences in banking
+  - Fraud detection and informing customers about unusual charges
+  - Real-time customer question answering
+  - AI-powered products that enhance how associates work and customers interact with
+    the bank
+  - Scalable AI infrastructure supporting multiple business lines
+  skills:
+    genai: [LLM Inference, RAG / Similarity Search, Guardrails, Prompt Engineering]
+    ml: [Huggingface, PyTorch, Foundation Model Training, LLM Optimization]
+    web: []
+    databases: [VectorDBs]
+    data: []
+    cloud: [AWS, AWS Ultraclusters]
+    ops: [Nemo Guardrails, Model Evaluation, Observability, Experimentation]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9006205'
+  extracted_at: '2026-04-22T13:23:36.978223'

@@ -1,0 +1,51 @@
+company:
+  name: Omnissa
+  stage: Private
+  focus: |-
+    AI-driven digital workspace platform for secure remote
+    access and endpoint management
+position:
+  title: Senior Engineer - Java (Backend, Cloud/AI Domain)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a general backend engineering role that mentions AI
+      as one of several possible domain areas (alongside
+      containers and security). The role focuses on building
+      enterprise software for secure application access, not on
+      building, training, or deploying AI/ML models. The candidate
+      can have experience in "AI technology, Containers OR Cloud"
+      suggesting AI is just one potential background, not the core
+      work.
+  responsibilities:
+  - Design and implement highly usable REST APIs adhering to standards and best practices
+  - Write and deploy containerized Java applications for enterprise-grade systems
+  - Work closely with product management and architects to deliver high-quality features
+  - Participate in component-level architectural design and code reviews
+  - Automate unit and integration tests within a CI/CD pipeline
+  - Contribute to design, development, and optimization of the Omnissa product for
+    secure application access
+  - Build high-performance, reliable, and scalable software supporting remote access
+    across cloud platforms
+  use_cases:
+  - Secure remote access to enterprise applications from any device
+  - Unified endpoint management and virtual app/desktop delivery
+  - Digital employee experience optimization
+  - Security and compliance management including MFA and SSO
+  - Application delivery across multi-cloud environments
+  skills:
+    genai: []
+    ml: []
+    web: [Spring, REST APIs, Netty, Angular, WebSocket]
+    databases: []
+    data: [Kafka]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Java, Python, Bash]
+    domains: []
+    other: [TCP/IP, TLS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8534972'
+  extracted_at: '2026-03-03T11:59:56.055067'

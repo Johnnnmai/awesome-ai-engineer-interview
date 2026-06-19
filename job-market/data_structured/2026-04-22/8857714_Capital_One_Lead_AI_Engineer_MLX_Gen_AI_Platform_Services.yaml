@@ -1,0 +1,55 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services with AI-driven customer
+    experiences
+position:
+  title: Lead AI Engineer ( MLX, Gen AI Platform Services, Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      optimizing AI/ML systems including foundation model
+      training, LLM inference, LLM optimization techniques, and
+      agentic AI platforms. The engineer works hands-on with
+      models, training, inference, and optimization — squarely
+      fitting ai-first.
+  responsibilities:
+  - Partner with cross-functional teams of engineers, research scientists, and product
+    managers to deliver AI-powered products
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    and observability
+  - Leverage open source and SaaS AI technologies such as AWS Ultraclusters, Huggingface,
+    VectorDBs, Nemo Guardrails, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  - Develop and apply techniques for optimizing training and inference software to
+    improve hardware utilization and cost
+  use_cases:
+  - Real-time personalized banking customer experiences
+  - AI-powered products that change how associates work and customers interact with
+    Capital One
+  - Fraud detection and informing customers about unusual charges
+  - Real-time customer question answering and interaction
+  - Scalable Gen AI platform services and agentic AI for enterprise use
+  skills:
+    genai: [LLM Inference, LLM Optimization, Agentic AI, Nemo Guardrails, Guardrails,
+      RAG]
+    ml: [PyTorch, Huggingface, Foundation Model Training]
+    web: []
+    databases: [Similarity Search, VectorDBs]
+    data: []
+    cloud: [AWS, AWS Ultraclusters, Google Cloud, Azure]
+    ops: [Model Evaluation, Observability, Experimentation, Governance]
+    languages: [Python, Go, Scala, Java, C++, C#, Golang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8857714'
+  extracted_at: '2026-04-22T12:32:34.829543'

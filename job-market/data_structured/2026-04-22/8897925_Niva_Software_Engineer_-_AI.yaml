@@ -1,0 +1,51 @@
+company:
+  name: Niva
+  stage: Seed/Early-stage (founding team member)
+  focus: |-
+    Universal identity layer for business verification and KYB
+    compliance
+position:
+  title: Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and designing a multi-agent
+      AI platform with LLMs, RAG techniques, and agent-based
+      systems. The engineer will work hands-on with language
+      models, agents, and evaluation frameworks — core AI/ML
+      system development, not supporting infrastructure.
+  responsibilities:
+  - Define AI strategy and influence product roadmap in collaboration with CEO and
+    CTO
+  - Design and develop a multi-agent AI platform that autonomously extracts, validates,
+    and reconciles business identity information from global sources
+  - Build robust evaluation frameworks to benchmark agent performance and ensure high-quality
+    AI outputs
+  - Engage directly with customers to understand needs and gather feedback to improve
+    AI-driven workflows
+  - Stay current with the latest developments in the AI ecosystem
+  - Help establish company culture as a founding team member
+  use_cases:
+  - Autonomous extraction, validation, and reconciliation of business identity information
+    from global sources
+  - Business verification for fintechs, banks, and public companies
+  - Fraud prevention and Know Your Business (KYB) compliance
+  - Instant and reliable borderless business verification
+  - Reducing time spent on business verification workflows
+  skills:
+    genai: [LLM agents, RAG techniques, Vector embeddings, GPT, Claude, Prompt engineering,
+      Chunking strategies, Relevance scoring]
+    ml: [Evaluation frameworks]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8897925'
+  extracted_at: '2026-04-22T12:31:59.074974'

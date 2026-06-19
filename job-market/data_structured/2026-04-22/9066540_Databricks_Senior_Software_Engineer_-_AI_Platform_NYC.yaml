@@ -1,0 +1,53 @@
+company:
+  name: Databricks
+  stage: Public
+  focus: |-
+    Data and AI infrastructure platform (Lakehouse, Spark,
+    MLflow)
+position:
+  title: Senior Software Engineer - AI Platform (NYC)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building end-to-end generative AI
+      products, including hands-on work with RAG, prompt design,
+      LLMs, and creating interfaces for GenAI agents. While it's a
+      full-stack software engineering position, the core focus is
+      on designing and shipping vertical AI applications with
+      direct involvement in AI/GenAI techniques, making it ai-
+      first.
+  responsibilities:
+  - Create novel interfaces for GenAI agents that manage complex workflows with human-in-the-loop
+    transparency and inspectability
+  - Partner with product management, design, and engineering teams to build intuitive,
+    scalable solutions driving user and business growth
+  - Lead hands-on full-stack software development to create dynamic, user-centric
+    AI experiences
+  - Enable product-led growth through seamless onboarding and sharing capabilities
+  - Direct the future of intuitive agentic applications at Databricks in collaboration
+    with cross-functional teams
+  - Drive strategy for end-to-end AI feature development by designing, building, and
+    maintaining scalable, reliable, performant systems
+  use_cases:
+  - Vertical AI applications for technical and business users
+  - GenAI agent interfaces for complex workflow management
+  - Human-in-the-loop AI systems with inspectability and transparency
+  - Product-led growth through AI onboarding and sharing features
+  - End-to-end generative AI product development
+  skills:
+    genai: [RAG (Retrieval-Augmented Generation), Prompt engineering, LLMs, AI quality
+        and safety monitoring, Generative AI product development]
+    ml: []
+    web: [React, Angular, Vue.js, Node.js, Full-stack development, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [JavaScript, HTML, CSS, Python, Java, Scala, Go, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9066540'
+  extracted_at: '2026-04-22T13:53:23.514720'

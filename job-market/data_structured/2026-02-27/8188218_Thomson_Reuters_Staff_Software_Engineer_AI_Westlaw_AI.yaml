@@ -1,0 +1,56 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Legal, tax, accounting, and compliance information services
+    and software
+position:
+  title: Staff Software Engineer – AI (Westlaw AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, architecting, and
+      deploying AI systems including RAG architectures, autonomous
+      AI agents, and multi-step reasoning systems. The position
+      requires hands-on work with LLMs, vector databases, and AI
+      model integration for production systems at enterprise
+      scale.
+  responsibilities:
+  - Design and implement complex enterprise-scale AI systems including multi-component
+    pipelines, advanced RAG architectures, and autonomous AI agents with multi-step
+    reasoning
+  - Architect scalable AI model integration strategies for production software through
+    APIs, distributed data pipelines, and microservices
+  - Lead adaptation and customization of AI models for specialized domains including
+    legal, tax, fraud, and compliance
+  - Evaluate and drive adoption of cutting-edge AI technologies to solve complex business
+    challenges
+  - Mentor engineering teams and champion MLOps and LLMOps practices across the organization
+  - Design comprehensive testing frameworks, monitoring systems, and observability
+    solutions for AI model performance
+  - Lead compliance initiatives ensuring adherence to ethical AI principles, security
+    standards, and regulatory requirements
+  - Partner with AI researchers, engineering leadership, and product teams to translate
+    AI capabilities into market-leading applications
+  use_cases:
+  - Legal research and expert systems for Westlaw platform
+  - Tax, accounting, and compliance expert systems
+  - Fraud detection and prevention systems
+  - Enterprise-grade AI-powered information retrieval and semantic search
+  - Autonomous AI agents for multi-step reasoning in regulated industries
+  skills:
+    genai: [RAG architectures, LLMs, autonomous AI agents, OpenAI API, Anthropic API]
+    ml: [PyTorch, TensorFlow, JAX]
+    web: [microservices, REST APIs]
+    databases: [vector databases]
+    data: [semantic search, information retrieval, distributed data pipelines]
+    cloud: [cloud deployments]
+    ops: [MLOps, LLMOps, monitoring and observability]
+    languages: [Python]
+    domains: []
+    other: [AI governance and compliance]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8188218'
+  extracted_at: '2026-03-03T12:48:55.483735'

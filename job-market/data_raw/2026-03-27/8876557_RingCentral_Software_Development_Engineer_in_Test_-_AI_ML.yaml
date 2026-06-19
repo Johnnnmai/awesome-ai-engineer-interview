@@ -1,0 +1,107 @@
+job_id: 8876557
+title: Software Development Engineer in Test - AI ML
+company: RingCentral
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Gitlab Ci
+  - Java
+  - JavaScript
+  - Jenkins
+  - Jest
+  - Mocha
+  - Playwright
+  - Pytest
+  - Python
+  - Selenium
+company_size: 7,000 Employees
+description: |
+  Senior Software Development Engineer in Test (SDET 4) - AI &
+  Agentic Platforms
+  
+  Location: Bengaluru, India | Type: Full-Time | Team:
+  Engineering
+  
+  Reimagine How The World Communicates with AI
+  
+  We are building the backbone for the next generation of
+  human communication. Imagine a system that doesn't just
+  transmit voice and video, but understands it in real-time,
+  transcribing, summarizing and retrieving context across
+  millions of concurrent sessions
+  
+  We are seeking a Senior SDET (Level 4) to spearhead the
+  quality engineering efforts for our next-generation AI and
+  Agentic applications. In this role, you will go beyond
+  traditional automation to build frameworks capable of
+  validating Large Language Models (LLMs), autonomous agents,
+  and complex platform integrations.
+  
+  Key Responsibilities
+  
+  - AI & Agentic Strategy: Design and implement comprehensive
+    test strategies for AI-driven features, focusing on model
+    accuracy, hallucination detection, and the reliability of
+    agentic workflows.
+  - Framework Development: Build and maintain scalable
+    automation frameworks using tools like Playwright,
+    Selenium, and modern JS-based runners (e.g., Testcafe,
+    Cypress) to support AI platform validation.
+  - Infrastructure & CI/CD: Setup and maintain complex test
+    environments, integrating automated AI evaluations into
+    Jenkins/GitLab CI pipelines.
+  - Advanced Testing: Lead R&D efforts to choose the best tools
+    for performance, API, and scalability testing of AI
+    microservices.
+  - Technical Leadership: Conduct code reviews, establish coding
+    standards, and provide technical guidance to the team on
+    AI testing best practices.
+  - Cross-functional Collaboration: Work closely with
+    Architects, Data Scientists, and Product Managers to
+    define "quality" in the context of non-deterministic AI
+    outputs.
+  
+  Required Qualifications
+  
+  - Experience: 10–15 years in software automation engineering.
+  - Core Tools: Proven mastery of Playwright and Selenium.
+  - AI Observability & Eval: Experience with LLM evaluation
+    tools (e.g., LangSmith, Ragas, or Arize Phoenix) and
+    model-based testing.
+  - AI/ML Testing: Experience or deep knowledge in testing AI
+    agents, LLM prompting, or data-driven systems.
+  - Programming: High proficiency in Java, Python and
+    JavaScript/TypeScript.
+  - Frameworks: Mastery of PyTest, Jest, or Mocha for building
+    modular, scalable test suites.
+  - Environment Management: 3+ years of experience in test
+    environment setup, maintenance, and CI/CD integration.
+  - Testing Methodologies: Strong background in BDD
+    (Cucumber/Behave), Data-Driven Testing, and
+    Performance/Scalability testing.
+  
+  Why You'll Love Working With Us
+  
+  - 🪐You’ll build things that scale globally
+  - You’ll work on real problems; scale, efficiency,
+    optimization.
+  - You’ll be part of a global team collaborating with top
+    engineers
+  - Hybrid work from our Bengaluru office + flexible hours.
+  - ❤ Full medical insurance for you and your family.
+  - Competitive compensation + performance bonuses
+  
+  RingCentral is an equal-opportunity employer that truly
+  values diversity.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Events
+  - Productivity
+  - Software
+  - Business Intelligence
+  - Conversational AI
+posted_date: 2026-03-26
+url: "https://builtin.com/job/software-development-engineer-test-ai-ml/8876557"
+source: Built In

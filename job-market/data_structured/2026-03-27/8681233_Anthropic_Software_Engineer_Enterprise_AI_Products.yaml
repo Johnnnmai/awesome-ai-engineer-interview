@@ -1,0 +1,51 @@
+company:
+  name: Anthropic
+  stage: Public Benefit Corporation
+  focus: |-
+    Building reliable, interpretable, and steerable AI systems
+    (Claude)
+position:
+  title: Software Engineer, Enterprise AI Products
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Engineers work directly with post-training researchers to
+      shape Claude itself, improving model capabilities for
+      specific tasks and domains. They design training data,
+      identify capability gaps, and collaborate on domain-specific
+      model improvements that ship in their products.
+  responsibilities:
+  - Build enterprise AI products like Cowork, plugins, and skills that make Claude
+    a daily-use tool for knowledge workers
+  - Collaborate with post-training researchers to improve Claude's performance on
+    domain-specific tasks
+  - Design and implement plugins and skills infrastructure for domain-specific capabilities
+  - Build vertical AI products for financial services, healthcare, and legal industries
+  - Design context and memory architecture for multi-agent collaboration across product
+    surfaces
+  - Build hybrid workflow systems where Claude agents and people collaborate asynchronously
+  - Develop Office add-ins and integrations with existing productivity software
+  - Instrument and diagnose activation funnels to improve enterprise user adoption
+  use_cases:
+  - Enterprise productivity and workflow automation across industries
+  - Financial services data retrieval, analysis, and institutional report generation
+  - Healthcare clinical documentation, prior authorization, and care coordination
+  - Legal document review, contract analysis, and regulatory compliance
+  - Office productivity integration with Excel and Word
+  - Multi-agent collaboration across different product surfaces
+  skills:
+    genai: [Claude API, agents, RAG, prompt engineering]
+    ml: [post-training, fine-tuning]
+    web: [FastAPI, REST APIs, React]
+    databases: [Postgres, vector databases]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Office JavaScript API, VSTO, HIPAA compliance, HL7/FHIR]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8681233'
+  extracted_at: '2026-03-27T14:59:16.829658'

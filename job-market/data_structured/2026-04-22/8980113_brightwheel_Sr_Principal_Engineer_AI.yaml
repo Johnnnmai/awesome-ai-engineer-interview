@@ -1,0 +1,57 @@
+company:
+  name: brightwheel
+  stage: Series C+ (backed by top-tier VCs, three-time Cloud 100)
+  focus: |-
+    Early education technology platform for childcare centers
+    and families
+position:
+  title: Sr. Principal Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on building and deploying AI-
+      powered capabilities: defining AI technical direction,
+      building reference architectures, creating shared AI
+      infrastructure (evaluation harnesses, retrieval patterns,
+      safety guardrails), making build-vs-buy decisions on models,
+      and rapidly prototyping AI features. The engineer works
+      directly with LLMs, vector search, orchestration/agent
+      frameworks, and fine-tuning decisions.
+  responsibilities:
+  - Own end-to-end delivery of AI-powered capabilities that drive company-level outcomes
+    like retention, enrollment conversion, and operational efficiency
+  - Define the AI technical direction by translating customer problems into practical
+    strategy, reference architectures, and a roadmap for multiple product teams
+  - Make build-versus-buy decisions on models, tooling, and differentiated capabilities
+    such as data flywheels and evaluation systems
+  - Rapidly prototype and ship reference implementations to prove feasibility, de-risk
+    decisions, and set the pace for the organization
+  - Build shared AI foundations including evaluation harnesses, retrieval and context
+    patterns, safety guardrails, observability, and developer experience
+  - Mentor senior engineers, lead design reviews, establish quality and safety standards,
+    and align stakeholders across teams
+  use_cases:
+  - Automating operational workflows for early education centers to save educator
+    time
+  - Improving enrollment conversion and family retention through AI-powered features
+  - Reducing support burden via intelligent automation and assistance
+  - Payment success optimization using AI-driven capabilities
+  - Building internal AI platform infrastructure to enable safe, reliable AI feature
+    delivery across teams
+  skills:
+    genai: [Large Language Models, Orchestration and Agent Frameworks, RAG, Prompt
+        Engineering, Safety Guardrails]
+    ml: [Fine-tuning, Model Evaluation, Classical ML/NLP, Data Flywheels]
+    web: [Ruby on Rails, React, Sidekiq]
+    databases: [Vector Search, PostgreSQL, Redis]
+    data: []
+    cloud: [AWS Bedrock, Amazon EKS, AWS S3, CloudFront, CloudWatch]
+    ops: [Docker, Kubernetes, GitHub Actions, FluxCD, AI Observability]
+    languages: [TypeScript, Swift, Kotlin, Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8980113'
+  extracted_at: '2026-04-22T13:33:14.520111'

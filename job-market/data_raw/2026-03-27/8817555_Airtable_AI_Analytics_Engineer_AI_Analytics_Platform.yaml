@@ -1,0 +1,222 @@
+job_id: 8817555
+title: "AI Analytics Engineer (AI & Analytics Platform)"
+company: Airtable
+location: 
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Chatgpt
+  - Claude
+  - Cursor
+  - Databricks
+  - Dbt
+  - Snowflake
+  - SQL
+company_size: 900 Employees
+description: |
+  Airtable is the no-code app platform that empowers people
+  closest to the work to accelerate their most critical
+  business processes. More than 500,000 organizations,
+  including 80% of the Fortune 100, rely on Airtable to
+  transform how work gets done.
+  
+  Airtable is building the infrastructure that makes AI-
+  powered analytics trustworthy and scalable — and we're
+  looking for an AI Analytics Engineer to help define what
+  that looks like from the ground up.
+  
+  This is a new role on a new team. Our Data Science &
+  Analytics org is standing up an AI & Analytics Platform
+  function to own the context layer, evaluation frameworks,
+  and adoption strategy behind our internal AI analytics tools
+  — including our natural-language-to-SQL capabilities,
+  Claude, and Omni Analytics. The goal: shift from a world
+  where analysts are the bottleneck for every data question to
+  one where the organization can self-serve with confidence.
+  
+  You'll be one of the first hires shaping this discipline.
+  That means you won't just use AI tools — you'll build the
+  systems that make them accurate, design the workflows that
+  make them trustworthy, and partner across the business to
+  drive adoption. If you're excited about working at the
+  intersection of data engineering, LLM tooling, and business
+  enablement — and you want to help define what the analytics
+  engineer role becomes in an AI-native world — this is the
+  role.
+  
+  What you'll do
+  
+  - Build and maintain context infrastructure: Translate
+    institutional business knowledge into structured formats —
+    business glossaries, DBT model enrichment, semantic layer
+    definitions in Omni Analytics — so that AI tools can
+    answer questions accurately, not just confidently.
+  - Design and run evaluation frameworks: Develop predefined
+    test cases, accuracy benchmarks, and validation workflows
+    that measure whether AI-generated insights are
+    trustworthy. Own the feedback loop between eval results
+    and context improvements.
+  - Build and orchestrate AI agent systems: Help design, build,
+    and iterate on the agent architectures that power our
+    analytics tools — including prompt pipelines, tool
+    orchestration, query routing logic, and guardrails that
+    determine when AI should answer autonomously vs. escalate
+    for human validation.
+  - Experiment and evaluate: Test prompt configurations, agent
+    behaviors, and model outputs across different use cases —
+    using eval results and accuracy metrics to drive
+    continuous improvement.
+  - Develop internal AI tooling and workflows: Build tools and
+    automations that improve DS&A's own efficiency —
+    identifying opportunities where AI can accelerate the
+    team's work and executing on them.
+  - Build automated insight generation systems: Design and
+    develop AI-powered systems that proactively surface
+    patterns, anomalies, and meaningful changes in business
+    data — delivering the right insights to the right people
+    without waiting to be asked. Think less "answer questions"
+    and more "anticipate them."
+  - Drive cross-functional adoption: Partner with GTM, Product,
+    Finance, and other teams to onboard users, field
+    questions, triage issues, and train stakeholders on how to
+    get the most out of our AI-powered analytics tools.
+  - Surface insights from usage patterns: Monitor query logs and
+    user behavior to identify gaps in context coverage,
+    recurring questions that should become standard reporting,
+    and opportunities to expand self-service capabilities.
+  
+  Who you are
+  
+  - Technically curious and AI-forward: You're energized by
+    LLMs, prompt engineering, and the evolving landscape of AI
+    tooling. You've experimented with tools like Claude,
+    ChatGPT, or Cursor — and you're eager to build systems
+    around them, not just use them.
+  - A builder at heart: You have a bias toward making things.
+    Whether it's a prototype, a pipeline, or a quick script to
+    test an idea — you default to building rather than
+    theorizing. You may not have deep software engineering
+    experience, but you're comfortable picking up new
+    technical skills and exploring unfamiliar domains,
+    especially with AI tooling accelerating what's possible.
+  - Analytically grounded: You're SQL-proficient and have
+    experience with modern data tools (dbt, Databricks,
+    Snowflake, or similar). You have strong intuition for when
+    data "looks wrong" and can validate query logic and
+    troubleshoot issues independently.
+  - Not married to legacy tooling: You're more interested in
+    what's emerging than what's established. You evaluate
+    tools based on what they enable, not how long they've been
+    around — and you're quick to adopt new approaches when
+    they're better.
+  - A clear communicator and strong writer: Context engineering
+    is fundamentally a writing discipline. You can translate
+    complex business logic into precise, structured
+    documentation that both humans and LLMs can interpret.
+  - Business-minded: You're genuinely curious about how the
+    business works — how we sell, how customers use the
+    product, what metrics matter and why. You ask "what
+    decision does this support?" not just "is the SQL
+    correct?"
+  - Energized by building something new: AI-powered analytics is
+    an emerging discipline — the best practices don't exist
+    yet. You're excited to learn as you go, experiment,
+    iterate, and help shape the playbook rather than follow
+    one.
+  - Independent and proactive: You can own workstreams end-to-
+    end — from scoping the problem, to building the solution,
+    to iterating based on feedback. You bring ideas to the
+    table and move things forward without waiting for step-by-
+    step direction.
+  - Experience: 2 - 4 years in data-related roles (analytics
+    engineer, data analyst, data scientist, or similar),
+    including experience partnering with business
+    stakeholders. Experience in SaaS or tech environments
+    preferred.
+  - Must-Have Skills
+    - Strong SQL proficiency and experience working with modern
+      data tools (dbt, Databricks, Snowflake, or similar)
+    - Clear, structured writing — can translate complex business
+      logic into documentation that both humans and LLMs can
+      interpret
+    - Hands-on experience with AI tools (Claude, ChatGPT, Cursor,
+      or similar) beyond casual use — has applied them to
+      build or accelerate real work
+    - Cross-functional communication — can partner with non-
+      technical stakeholders to understand needs, triage
+      issues, and drive adoption
+    - Builder mindset — comfortable picking up new technical
+      skills, prototyping solutions, and iterating quickly
+  - Nice to have
+    - Experience with BI semantic modeling (Looker, Omni
+      Analytics, or similar)
+    - Familiarity with Python and LLM APIs
+    - Experience building evaluation or testing frameworks
+    - Background in context engineering, knowledge management, or
+      technical writing
+    - Experience with agent architectures, prompt engineering, or
+      AI system design
+    - Familiarity with data science and ML concepts (e.g.,
+      experimentation, time series analysis, statistical
+      modeling, clustering, anomaly detection
+  
+  Airtable is an equal opportunity employer. We embrace
+  diversity and strive to create a workplace where everyone
+  has an equal opportunity to thrive. We welcome people of
+  different backgrounds, experiences, abilities, and
+  perspectives. All qualified applicants will receive
+  consideration for employment without regard to race, color,
+  religion, sex, sexual orientation, gender identity, national
+  origin, disability, protected veteran status or any
+  characteristic protected by applicable federal and state
+  laws, regulations and ordinances. Learn more about your EEO
+  rights as an applicant.
+  
+  VEVRAA-Federal Contractor
+  
+  If you have a medical condition, disability, or religious
+  belief/practice which inhibits your ability to participate
+  in any part of the application or interview process, please
+  complete our Accommodations Request Form and let us know how
+  we may assist you. Airtable is committed to participating in
+  the interactive process and providing reasonable
+  accommodations to qualified applicants.
+  
+  Compensation awarded to successful candidates will vary
+  based on their work location, relevant skills, and
+  experience.
+  
+  Our total compensation package also includes the opportunity
+  to receive benefits, restricted stock units, and may include
+  incentive compensation. To learn more about our
+  comprehensive benefit offerings, please check out Life at
+  Airtable.
+  
+  For work locations in the San Francisco Bay Area, Seattle,
+  New York City, and Los Angeles, the base salary range for
+  this role is:
+  
+  $157,100—$193,600 USD
+  
+  For all other work locations (including remote), the base
+  salary range for this role is:
+  
+  $141,600—$175,100 USD
+  
+  Please see our Privacy Notice for details regarding
+  Airtable’s collection and use of personal data relating to
+  the application and recruitment process by clicking here.
+  For applicants that live in or have a link to Australia,
+  please see this Privacy Collection Statement for details
+  regarding Airtable's collection and use of personal data
+  relating to the application and recruitment process.
+  
+  🔒 Stay Safe from Job Scams All official Airtable
+  communication will come from an @airtable.com email address.
+  We will never ask you to share sensitive information or
+  purchase equipment during the hiring process. If in doubt,
+  contact us at hr@airtable.com. Learn more about avoiding job
+  scams here.
+posted_date: 2026-03-20
+url: "https://builtin.com/job/ai-analytics-engineer-ai-analytics-platform/8817555"
+source: Built In

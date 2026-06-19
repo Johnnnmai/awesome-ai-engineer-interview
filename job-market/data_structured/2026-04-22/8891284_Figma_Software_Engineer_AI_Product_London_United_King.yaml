@@ -1,0 +1,44 @@
+company:
+  name: Figma
+  stage: Series E / Late Stage (Private)
+  focus: Collaborative design and prototyping platform
+position:
+  title: Software Engineer, AI Product (London, United Kingdom)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building new 0→1 products in the agentic
+      coding space and working with LLM/agentic product features
+      end-to-end. The engineer will directly implement AI-driven
+      products like Figma's MCP and agentic workflows, making this
+      an ai-first role focused on building and shipping generative
+      AI products.
+  responsibilities:
+  - Build and evolve Dev Mode, Figma's tool for dev/design collaboration
+  - Build new 0→1 products within the agentic coding space
+  - Collaborate with designers, PMs, and engineers to craft high-quality AI products
+  - Lead AI efforts end-to-end from early ideas to production
+  - Mentor and be mentored by peers across engineering, product, and design
+  - Help shape Figma's engineering culture and build strong team connections
+  use_cases:
+  - Agentic coding workflows for design-to-code and code-to-design transformation
+  - AI-powered developer collaboration tools (Dev Mode)
+  - Generative AI features for design and prototyping ideation
+  - MCP (Model Context Protocol) integration to accelerate idea-to-production
+  - LLM-driven product features for designers, PMs, and engineers
+  skills:
+    genai: [LLM integration, Agentic workflows, MCP (Model Context Protocol)]
+    ml: []
+    web: [React, Ruby on Rails, Full-stack development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: [iOS development, Android development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8891284'
+  extracted_at: '2026-04-22T12:44:46.435451'

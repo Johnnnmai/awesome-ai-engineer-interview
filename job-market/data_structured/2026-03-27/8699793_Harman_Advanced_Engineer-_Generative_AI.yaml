@@ -1,0 +1,51 @@
+company:
+  name: Harman
+  stage: Public
+  focus: |-
+    Automotive technology, audio systems, and connected
+    ecosystem solutions
+position:
+  title: Advanced Engineer- Generative AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an Android UI Developer role that requires genAI and
+      cloud experience as qualifications, but the primary
+      responsibilities are UI development for Android Automotive
+      OS using Jetpack Compose. The role doesn't involve building,
+      training, fine-tuning, or deploying AI models - the AI
+      component appears to be working with or near AI systems
+      while focusing on frontend UI development.
+  responsibilities:
+  - Lead development of complex user interfaces and UI components for Android Automotive
+    OS applications using Jetpack Compose
+  - Drive adoption of MVVM architectural pattern and best practices within the UI
+    team
+  - Collaborate with UX/UI design team, UI Architect, and Product Owner on technical
+    feasibility and user experience goals
+  - Design and implement comprehensive unit and UI testing strategies using JUnit,
+    Espresso, and Compose testing
+  - Proactively identify and resolve performance bottlenecks and UI/UX issues
+  - Guide junior UI developers through peer reviews and pair programming
+  use_cases:
+  - In-vehicle infotainment systems
+  - Android Automotive OS applications
+  - Connected car user interfaces
+  - Driving experience augmentation through integrated technology platforms
+  skills:
+    genai: [GenAI]
+    ml: []
+    web: [Jetpack Compose, Android Jetpack, ViewModel, StateFlow, MVVM architecture,
+      Android development]
+    databases: []
+    data: []
+    cloud: [Cloud platforms]
+    ops: []
+    languages: [Kotlin, Coroutines]
+    domains: []
+    other: [JUnit, Espresso, Figma]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8699793'
+  extracted_at: '2026-03-27T16:02:31.130727'

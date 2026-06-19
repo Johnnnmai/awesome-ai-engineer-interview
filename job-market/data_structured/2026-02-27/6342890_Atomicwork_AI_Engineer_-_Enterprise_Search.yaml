@@ -1,0 +1,45 @@
+company:
+  name: Atomicwork
+  stage: null
+  focus: AI-powered ITSM and enterprise search solutions
+position:
+  title: AI  Engineer - Enterprise Search
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI-
+      powered search systems, including adapting LLMs to customer
+      data, combining LLMs with search engines, and developing AI-
+      driven ranking models. The engineer will work hands-on with
+      AI/ML technologies to create the core product functionality.
+  responsibilities:
+  - Build and structure enterprise knowledge graph to organize content, people, and
+    activity for search relevance
+  - Develop and refine personalized ranking models that adapt to user behavior
+  - Design methods to adapt AI language models to customer data for enhanced accuracy
+  - Combine LLMs with search engines for answering complex queries
+  - Write clean, maintainable code for multi-tenant systems
+  - Collaborate with cross-functional teams to align search with ITSM workflows
+  - Mentor junior engineers and grow as technical leader
+  use_cases:
+  - Enterprise search across organizational knowledge
+  - Personalized search results based on user behavior
+  - ITSM workflow integration and enhancement
+  - Knowledge graph-driven search relevance
+  - Complex query answering with LLM augmentation
+  skills:
+    genai: [LLM integration, prompt engineering, RAG]
+    ml: [ranking models, personalization]
+    web: []
+    databases: [Elasticsearch, Solr]
+    data: [knowledge graphs]
+    cloud: []
+    ops: []
+    languages: [Python, Java]
+    domains: []
+    other: [multi-tenant systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6342890'
+  extracted_at: '2026-03-03T12:54:25.585196'

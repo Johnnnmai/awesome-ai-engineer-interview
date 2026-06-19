@@ -1,0 +1,189 @@
+job_id: 8874522
+title: AI Engineer
+company: H2O.ai
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - Azure
+  - Docker
+  - GCP
+  - Kubernetes
+  - Langchain
+  - Llamaindex
+  - Python
+  - PyTorch
+  - Scikit-Learn
+description: |
+  Founded in 2012, H2O.ai is on a mission to democratize AI.
+  As the world’s leading agentic AI company, H2O.ai converges
+  Generative and Predictive AI to help enterprises and public
+  sector agencies develop purpose-built GenAI applications on
+  their private data. With a focus on Sovereign AI—secure,
+  compliant, and infrastructure-flexible deployments—H2O.ai
+  delivers solutions that align with the highest standards of
+  data privacy and control. Our open-source technology is
+  trusted by over 20,000 organizations worldwide, including
+  more than half of the Fortune 500. H2O.ai powers AI
+  transformation for companies like AT&T, Commonwealth Bank of
+  Australia, Chipotle, Workday, Progressive Insurance, and
+  NIH. H2O.ai partners include NVIDIA, Dell Technologies,
+  Deloitte, Ernst & Young (EY), Snowflake, AWS, Google Cloud
+  Platform (GCP), VAST Data and MinIO. H2O.ai’s AI for Good
+  program supports nonprofit groups, foundations, and
+  communities in advancing education, healthcare, and
+  environmental conservation. With a vibrant community of 2
+  million data scientists worldwide, H2O.ai aims to co-create
+  valuable AI applications for all users. H2O.ai has raised
+  256 million from investors, including Commonwealth Bank,
+  NVIDIA, Goldman Sachs, Wells Fargo, Capital One, Nexus
+  Ventures and New York Life. For more information, visit
+  www.h2o.ai.
+  
+  About This Opportunity
+  
+  We are looking for an AI Engineer who builds things that
+  matter. You will design and ship end-to-end AI solutions for
+  some of APAC's most complex enterprise problems - spanning
+  agentic AI systems, LLM applications, and production ML
+  pipelines. This is a hands-on engineering role embedded
+  within a customer-facing field team, meaning your work will
+  be seen, used, and evaluated by real enterprises from day
+  one.
+  
+  You will work alongside Kaggle Grandmasters, ML engineers,
+  and domain experts to deliver AI that goes beyond demos -
+  into production, into workflows, and into measurable
+  business outcomes.
+  
+  This position is based in US.
+  
+  What You Will Do
+  
+  Agentic AI & LLM Engineering
+  
+  - Design and build agentic AI systems and multi-agent
+    frameworks that automate complex, multi-step workflows for
+    enterprise customers.
+  - Develop and deploy LLM-powered applications using techniques
+    including RAG, fine-tuning, prompt engineering, function
+    calling, and tool use.
+  - Implement guardrails, evaluation frameworks, and responsible
+    AI controls to ensure production-grade reliability and
+    safety.
+  - Stay current with the rapidly evolving agentic AI landscape
+    - MCP, LLM orchestration frameworks, reasoning models -
+    and bring the best of it into customer engagements.
+  
+  End-to-End AI Application Development
+  
+  - Own the full development lifecycle: from problem framing and
+    data exploration through model development, API
+    integration, and production deployment.
+  - Build scalable backend services and APIs that expose AI
+    capabilities to enterprise applications and workflows.
+  - Integrate AI models into customer environments - cloud, on-
+    prem, and hybrid - ensuring performance, stability, and
+    maintainability at scale.
+  - Develop ML pipelines and LLMOps infrastructure that support
+    continuous model improvement and monitoring in production.
+  
+  Customer Engagement & Delivery
+  
+  - Work directly with customer data scientists, engineers, and
+    business stakeholders to translate real-world problems
+    into AI solutions.
+  - Contribute to pre-sales and proof-of-concept engagements -
+    building fast, credible demonstrations that win technical
+    trust.
+  - Communicate clearly across audiences: from detailed
+    technical design reviews with engineering teams to
+    outcome-focused updates for business stakeholders.
+  - Collaborate closely with Program Managers, Solution
+    Engineers, and Kaggle Grandmasters to deliver cohesive,
+    high-quality solutions.
+  
+  What We Are Looking For
+  
+  Experience & Background
+  
+  - 3+ years of hands-on AI/ML engineering experience, including
+    end-to-end model development and production deployment.
+  - Demonstrable experience building LLM-powered applications -
+    RAG pipelines, agentic workflows, fine-tuned models, or
+    similar.
+  - Strong Python engineering skills; experience with ML
+    frameworks (PyTorch, TensorFlow, scikit-learn) and LLM
+    tooling (LangChain, LlamaIndex, or equivalent).
+  - Experience deploying models and AI services in cloud or
+    enterprise environments (AWS, Azure, GCP, on-prem
+    Kubernetes).
+  
+  Skills & Capabilities
+  
+  - Deep understanding of modern GenAI concepts: prompt
+    engineering, RAG, fine-tuning, RLHF, model evaluation,
+    guardrails, and LLMOps.
+  - Solid grounding in classical ML - able to select the right
+    tool for the problem, not just default to the latest LLM.
+  - Backend development skills: REST APIs, containerization
+    (Docker/Kubernetes), and CI/CD pipelines for AI
+    applications.
+  - Strong problem-solving instincts - comfortable with
+    ambiguity, able to move fast without sacrificing
+    engineering quality.
+  - Clear communicator who can explain complex AI systems to
+    non-technical stakeholders without oversimplifying.
+  
+  How to Stand Out From the Crowd
+  
+  - Kaggle or competitive ML experience.
+  - Familiarity with H2O.ai products, Wave, or H2O Document AI.
+  - Experience in financial services, healthcare, or other
+    regulated industry AI deployments.
+  - Exposure to tabular foundation models, AutoML, or enterprise
+    ML platforms.
+  - Prior experience in a customer-facing or field engineering
+    role.
+  
+  Why H2O.ai
+  
+  - Market Leader in Total Rewards
+  - Remote-Friendly Culture
+  - Flexible working environment
+  - Be part of a world-class team
+  - Career Growth
+  
+  H2O.ai is committed to creating a diverse and inclusive
+  culture. All qualified applicants will receive consideration
+  for employment without regard to their race, ethnicity,
+  religion, gender, sexual orientation, age, disability status
+  or any other legally protected basis.
+  
+  H2O.ai is an innovative AI cloud platform company, leading
+  the mission to democratize AI for everyone. Thousands of
+  organizations from all over the world have used our cutting-
+  edge technology across a variety of industries. We’ve made
+  it easy for people at all levels to generate breakthrough
+  solutions to complex business problems and advance the
+  discovery of new ideas and revenue streams. We push the
+  boundaries of what is possible with artificial intelligence.
+  
+  H2O.ai employs the world’s top Kaggle Grandmasters, the
+  community of best-in-the-world machine learning
+  practitioners and data scientists. A strong AI for Good
+  ethos and responsible AI drive the company’s purpose.
+  
+  Please visit www.H2O.ai to learn more.
+  
+  #LI-Hybrid
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Machine Learning
+  - Software
+  - Analytics
+posted_date: 2026-03-26
+url: "https://www.builtinla.com/job/ai-engineer/8874522"
+source: Built In

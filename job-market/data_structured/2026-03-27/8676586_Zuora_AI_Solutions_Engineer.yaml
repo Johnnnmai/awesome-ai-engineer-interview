@@ -1,0 +1,54 @@
+company:
+  name: Zuora
+  stage: Public
+  focus: |-
+    Subscription economy platform for recurring billing and
+    monetization
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work deploying and fine-tuning
+      AI solutions, building custom AI agents using agent builder
+      frameworks, and applying prompt engineering techniques to
+      improve LLM performance. The engineer works directly on
+      implementing and configuring AI assistants (chatbots, search
+      agents) with end-to-end ownership from prototyping to
+      deployment.
+  responsibilities:
+  - Deploy and fine-tune AI-powered tools including enterprise search assistants and
+    AI service agents for internal workflows
+  - Build and optimize custom AI agents using agent builder frameworks, including
+    prompt design, testing, and refinement
+  - Collaborate with cross-functional teams to identify AI automation opportunities
+    and prototype solutions
+  - Integrate AI platforms with internal tools and data sources through API integrations
+    and data pipelines
+  - Create documentation, conduct training sessions, and serve as an internal champion
+    for AI tools
+  - Gather user feedback and monitor usage metrics to iterate on prompts and configurations
+    for continuous improvement
+  use_cases:
+  - Enterprise search assistant for employee information discovery
+  - AI service agents for internal request resolution
+  - AI chatbots for HR, Finance, and Corporate Operations support
+  - Workflow automation and decision support for internal teams
+  - Knowledge base integration for contextual AI responses
+  skills:
+    genai: [Large Language Models (LLMs), Prompt Engineering, Agent Builder Frameworks,
+      Chatbot Development, Glean, OpenAI API, Gemini]
+    ml: [Machine Learning Fundamentals]
+    web: [API Integration, Webhooks]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8676586'
+  extracted_at: '2026-03-27T14:58:14.389456'

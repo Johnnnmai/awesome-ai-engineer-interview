@@ -1,0 +1,48 @@
+company:
+  name: Autodesk
+  stage: Public
+  focus: |-
+    Design and make software for architecture, engineering,
+    construction, manufacturing
+position:
+  title: Principal Engineer (Python, Playwright, JavaScript, AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying AI
+      agents, integrating LLMs, and implementing RAG patterns into
+      test automation systems. The candidate will actively work
+      with LangGraph, prompt engineering, and design AI-driven
+      test automation, making this an ai-first role focused on
+      building AI/agent systems.
+  responsibilities:
+  - Contribute to software design and architecture across desktop and cloud platforms
+  - Develop and maintain end-to-end and integration Agentic test automation using
+    Playwright, Cypress, Python, and JavaScript
+  - Integrate AI agents and LLMs into development and QA workflows using RAG, MCP,
+    and FastAPI
+  - Leverage AWS services to design scalable environments
+  - Embed automated tests into CI/CD pipelines using Jenkins
+  - Collaborate with stakeholders to define priorities, roadmaps, and delivery plans
+  - Ensure engineering efficiency by identifying opportunities and driving improvements
+  use_cases:
+  - AI-powered test automation for cloud and desktop applications
+  - Agentic test automation for UI/API testing
+  - AI-driven development and QA workflows
+  - Intelligent test automation systems
+  skills:
+    genai: [LangGraph, LLM integration, Prompt engineering, RAG, MCP, AI agents]
+    ml: []
+    web: [Playwright, Cypress, FastAPI]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Jenkins, CI/CD, Git]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [Pytest, JIRA, XRAY]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8188289'
+  extracted_at: '2026-03-03T12:27:07.955179'

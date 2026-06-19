@@ -1,0 +1,55 @@
+company:
+  name: F5
+  stage: Public
+  focus: Cybersecurity and application delivery networking solutions
+position:
+  title: AI Engineer, Employee Experience
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI Agents, implementing LLM
+      integrations, deploying RAG architectures, and integrating
+      AI capabilities using frameworks like LangChain and
+      LlamaIndex. The position requires hands-on work with
+      generative AI models, developing autonomous agents, and
+      optimizing model performance - all core AI-first activities.
+  responsibilities:
+  - Design and build end-to-end AI/ML solutions with focus on Generative AI, LLMs,
+    and RAG architectures for employee productivity
+  - Develop and deploy autonomous and semi-autonomous AI Agents to automate cross-functional
+    workflows across ServiceNow, Workday, and Salesforce
+  - Integrate AI capabilities into existing business systems using APIs and orchestration
+    frameworks like LangChain and LlamaIndex
+  - Optimize model performance and cost-efficiency for enterprise-scale deployment
+  - Collaborate with data teams to design data pipelines, vector databases, and fine-tuning
+    datasets for EX-specific AI models
+  - Champion best practices for AI development including prompt engineering, model
+    evaluation, and monitoring for hallucinations or bias
+  - Partner with Product Managers, Business Systems Analysts, and UX designers to
+    identify high-impact AI use cases and translate them into production-ready features
+  - Research and evaluate new AI/ML tools, frameworks, and research to keep Employee
+    Experience at the cutting edge
+  use_cases:
+  - Employee productivity enhancement through AI-driven solutions
+  - Automating complex cross-functional workflows for People, Finance, and Legal functions
+  - Enterprise search and knowledge retrieval via RAG architectures
+  - Streamlining business processes across enterprise platforms
+  - Proactive employee support ecosystem
+  - Employee experience transformation from traditional to AI-driven support
+  skills:
+    genai: [OpenAI API, Anthropic API, Gemini, RAG, AI Agents, LangChain, LlamaIndex,
+      Haystack, Prompt Engineering]
+    ml: [PyTorch, TensorFlow, Scikit-learn]
+    web: [REST APIs]
+    databases: [Pinecone, Milvus, Weaviate, Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, Model Monitoring, Model Versioning]
+    languages: [Python]
+    domains: []
+    other: [ServiceNow, Workday, Salesforce]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8608516'
+  extracted_at: '2026-03-27T13:19:39.467196'

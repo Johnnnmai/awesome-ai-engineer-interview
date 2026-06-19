@@ -1,0 +1,53 @@
+company:
+  name: Deluxe Media Inc.
+  stage: Acquired/Subsidiary
+  focus: |-
+    Media and entertainment services for film, video and online
+    content
+position:
+  title: Senior Software Engineer – AI & Workflow Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI-driven systems
+      including designing solutions with AI models, experimenting
+      with LLM APIs, prototyping intelligent agents, and
+      integrating AI-driven logic into backend workflows. The
+      engineer directly implements and deploys AI/ML components
+      using frameworks like OpenAI, LangChain, and AWS Bedrock.
+  responsibilities:
+  - Design and develop automation solutions leveraging AI models, rules engines, and
+    workflow orchestration tools
+  - Integrate AI-driven components with internal and external services through REST
+    APIs, message queues, and event-driven systems
+  - Build and maintain scalable backend systems using Python and frameworks such as
+    FastAPI or Flask
+  - Experiment with AI/LLM APIs and frameworks to prototype intelligent agents and
+    data extraction solutions
+  - Collaborate cross-functionally to identify automation opportunities and translate
+    them into technical designs
+  - Ensure quality and reliability by writing clean, testable, and maintainable code
+  - Participate in code reviews, architecture discussions, and technical decision-making
+  - Support deployments and monitor production systems to ensure uptime and performance
+  use_cases:
+  - Automating unstructured data intake for media workflows
+  - Intelligent agents for business process automation
+  - Data extraction from documents using AI/ML
+  - Workflow optimization and orchestration in media industry
+  - Enterprise automation integrating NLP and OCR capabilities
+  skills:
+    genai: [OpenAI API, LangChain]
+    ml: [Hugging Face]
+    web: [FastAPI, Flask, Django, REST APIs]
+    databases: []
+    data: [Temporal, Airflow]
+    cloud: [AWS Bedrock, Vertex AI, Step Functions, AWS, GCP, Azure]
+    ops: [CI/CD]
+    languages: [Python, SQL]
+    domains: [NLP, OCR]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8844355'
+  extracted_at: '2026-03-27T16:00:17.635582'

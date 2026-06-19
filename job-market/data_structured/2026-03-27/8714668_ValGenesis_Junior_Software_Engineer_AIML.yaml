@@ -1,0 +1,47 @@
+company:
+  name: ValGenesis
+  stage: null
+  focus: Digital validation platform for life sciences companies
+position:
+  title: Junior Software Engineer, AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI-driven solutions
+      using LLMs, RAG, and integrating AI APIs. The engineer will
+      develop production-grade ML models and work hands-on with
+      fine-tuning, feature engineering, and model performance
+      optimization.
+  responsibilities:
+  - Develop AI-driven solutions using LLMs and Retrieval-Augmented Generation (RAG)
+  - Integrate AI APIs such as OpenAI and Llama
+  - Design and test AI-enhanced workflows
+  - Implement database interactions with MySQL and PostgreSQL
+  - Write and optimize Python and Node.js scripts for applications
+  - Develop production-grade ML models for customer experience, content recommendation,
+    and content generation
+  - Monitor and improve model performance through data enhancement, feature engineering,
+    and experimentation
+  - Stay current with AI/ML advancements and apply them to the life sciences industry
+  use_cases:
+  - Content recommendation for life sciences validation platform
+  - Content generation for digital validation workflows
+  - AI-enhanced workflows for pharmaceutical and biotech companies
+  - Chatbot development for customer interactions
+  - Intelligent validation lifecycle management
+  skills:
+    genai: [LangChain, LlamaIndex, OpenAI API, ChatGPT, Perplexity.ai, RAG]
+    ml: [NLP]
+    web: [FastAPI, Flask, RESTful APIs, React, Next.js]
+    databases: [MySQL, PostgreSQL, Neo4j, ArangoDB, Qdrant]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubeflow, MLFlow]
+    languages: [Python, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8714668'
+  extracted_at: '2026-03-27T13:14:42.192301'

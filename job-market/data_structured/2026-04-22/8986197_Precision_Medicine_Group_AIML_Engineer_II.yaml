@@ -1,0 +1,55 @@
+company:
+  name: Precision Medicine Group
+  stage: null
+  focus: |-
+    Precision medicine and oncology access analytics with AI-
+    enabled products
+position:
+  title: AI/ML Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing, developing, fine-
+      tuning, and deploying ML/LLM models in production, including
+      Generative AI systems. The engineer works hands-on with
+      model development, optimization, MLOps pipelines, and
+      production deployment of AI/ML solutions.
+  responsibilities:
+  - Design, develop, fine-tune, and evaluate ML, deep learning, and Generative AI
+    models including LLMs
+  - Optimize model performance across accuracy, latency, scalability, and cost dimensions
+  - Build and maintain MLOps pipelines for model training, deployment, monitoring,
+    and lifecycle management
+  - Deploy and manage AI applications in cloud environments with containerization
+    and orchestration
+  - Partner with product managers, engineers, data scientists, and research teams
+    to align AI solutions with business objectives
+  - Work with healthcare, claims, and life sciences datasets to build high-performance
+    AI systems
+  - Integrate AI capabilities into customer-facing products and internal platforms
+  - Contribute to internal best practices, standards, and reusable components for
+    AI/ML development
+  use_cases:
+  - Oncology access analytics and insights
+  - AI-enabled productized services for life sciences
+  - Healthcare claims data analysis using NLP and ML
+  - Production-grade LLM and Generative AI applications in regulated healthcare domain
+  - SaaS product AI feature integration
+  skills:
+    genai: [Large Language Models (LLMs), Generative AI, Fine-tuning LLMs, Prompt
+        Engineering]
+    ml: [Natural Language Processing, Deep Learning, Machine Learning, Feature Engineering,
+      Model Evaluation and Benchmarking]
+    web: [REST APIs]
+    databases: []
+    data: [Data Preprocessing]
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, Kubernetes, MLOps]
+    languages: [Python, SQL]
+    domains: [Healthcare Data, Life Sciences]
+    other: [Distributed Systems, SaaS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8986197'
+  extracted_at: '2026-04-22T13:20:21.189648'

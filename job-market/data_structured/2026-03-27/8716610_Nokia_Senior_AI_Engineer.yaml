@@ -1,0 +1,47 @@
+company:
+  name: Nokia
+  stage: Public
+  focus: |-
+    Global leader in connectivity and telecommunications
+    infrastructure
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, developing, and deploying
+      AI/ML models, implementing agentic-based systems, and
+      optimizing ML pipelines. The hands-on work with both
+      traditional ML and agentic systems indicates direct work ON
+      AI systems.
+  responsibilities:
+  - Design, develop, and deploy advanced AI/ML models and algorithms to analyze and
+    interpret complex data
+  - Design and implement machine learning models for applications including search,
+    forecasting, and text mining
+  - Develop and implement agentic-based systems for anomaly detection and root-cause
+    analysis
+  - Optimize existing machine learning models and pipelines for performance, scalability,
+    and resource efficiency
+  use_cases:
+  - Search and information retrieval systems
+  - Forecasting and predictive analytics
+  - Text mining and natural language processing
+  - Anomaly detection in network systems
+  - Root-cause analysis for telecommunications infrastructure
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, Deep learning techniques, Optimization algorithms]
+    web: []
+    databases: [Vector databases, Search engines, Cassandra]
+    data: [Spark, Kafka]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8716610'
+  extracted_at: '2026-03-27T15:08:05.629994'

@@ -1,0 +1,54 @@
+company:
+  name: Edwards Lifesciences
+  stage: Public
+  focus: |-
+    Medical device company advancing patient care through heart
+    valve technology
+position:
+  title: Engineer II, AI/Machine Learning
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is explicitly an AI/ML Engineer position
+      responsible for designing, developing, testing, and
+      deploying AI/ML models for both prototyping and production.
+      It involves hands-on work with ML frameworks (TensorFlow,
+      PyTorch, scikit-learn), model development, and
+      experimentation with new AI/ML techniques, making it
+      squarely an ai-first role.
+  responsibilities:
+  - Design, develop, and test AI/ML prototypes to address identified business gaps
+    and opportunities
+  - Develop and deploy scalable and efficient AI/ML models for both prototyping and
+    production use
+  - Collaborate with cross-functional teams including data scientists, software engineers,
+    product managers, and business leads to define requirements and ideate AI/ML solutions
+  - Participate in agile development processes including sprint planning, stand-ups,
+    and prototype demos
+  - Maintain, operate, and provide technical support for AI/ML solutions deployed
+    in production
+  - Drive research and experimentation to explore new AI/ML techniques, tools, and
+    frameworks
+  - Ensure code and model development are well-documented following best engineering
+    practices
+  use_cases:
+  - AI/ML solutions for enterprise business process optimization
+  - AI-driven automation and digital capabilities in healthcare/medical device operations
+  - Scalable ML model deployment for production enterprise systems
+  - Rapid AI/ML prototyping to address identified business gaps
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, Scikit-learn, Keras, 'Deep Learning (CNNs, RNNs, GANs)']
+    web: []
+    databases: []
+    data: [Spark, Hadoop, Apache Kafka, Apache Airflow]
+    cloud: [AWS]
+    ops: [Git]
+    languages: [Python, Java, C++, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9064902'
+  extracted_at: '2026-04-22T13:22:28.148030'

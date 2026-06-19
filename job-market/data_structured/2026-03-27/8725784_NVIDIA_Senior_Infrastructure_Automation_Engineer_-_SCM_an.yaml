@@ -1,0 +1,47 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: |-
+    GPU computing, AI hardware, and accelerated computing
+    solutions
+position:
+  title: Senior Infrastructure Automation Engineer - SCM and HPC AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on infrastructure automation for server
+      farms, SCM systems (Perforce/Git), and HPC clusters that
+      support NVIDIA's engineering teams. While the infrastructure
+      supports AI workloads, the role itself involves DevOps,
+      automation, and platform engineering—not building, training,
+      fine-tuning, or deploying AI/ML models.
+  responsibilities:
+  - Build automations for large fleets of servers in cluster environments including
+    application, OS, and hardware components
+  - Create solutions to improve reliability and performance of large-scale infrastructure
+  - Work with automated orchestration tools to deploy improvements to thousands of
+    systems worldwide
+  - Evaluate technology options and collaborate with team members to define solutions
+  - Design and code processes and automation tools for cluster farm administration
+  - Support globally distributed engineering teams with infrastructure solutions
+  use_cases:
+  - Server farm infrastructure for internal engineering cloud
+  - Large-scale Perforce and Git version control systems
+  - HPC cluster management for chip designers and software engineers
+  - Baremetal provisioning automation at scale
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [MySQL, PostgreSQL, NoSQL]
+    data: []
+    cloud: []
+    ops: [Ansible, CI/CD, Docker, Linux, CentOS, RHEL, Ubuntu, Baremetal provisioning]
+    languages: [Python, Go, Java, Perl]
+    domains: []
+    other: [Perforce, Git, Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8725784'
+  extracted_at: '2026-03-27T14:57:58.871305'

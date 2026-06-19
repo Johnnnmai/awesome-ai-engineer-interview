@@ -1,0 +1,57 @@
+company:
+  name: TechTorch
+  stage: Growth stage (Series B+ scale)
+  focus: |-
+    Enterprise technology consultancy for private equity-backed
+    businesses
+position:
+  title: AI Data Engineer - Cortex AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily a data engineering position that
+      builds data pipelines and platforms to support downstream
+      AI/ML consumption. While it involves leveraging Snowflake
+      Cortex AI for embeddings/classification/summarization and
+      integrating AWS Bedrock, the core focus is designing and
+      maintaining data infrastructure rather than building,
+      training, or fine-tuning AI models directly. The role
+      enables AI work rather than owning AI system development.
+  responsibilities:
+  - Design, build, and maintain scalable data pipelines using Snowflake as the central
+    data platform
+  - Develop AI-ready data models and feature layers to support analytics, ML, and
+    GenAI use cases
+  - Leverage Snowflake Cortex AI for embedding, classification, summarization, and
+    AI-assisted analytics
+  - Integrate and operationalize AI workflows using AWS Bedrock and related AWS services
+    (Lambda, Step Functions)
+  - Build and optimize ELT pipelines using dbt, SQL, and Python
+  - Integrate data from diverse sources including APIs, SaaS platforms, databases,
+    and event streams
+  - Ensure data quality, observability, and governance across pipelines and AI workloads
+  - Collaborate with AI engineers, data scientists, and business teams to translate
+    use cases into scalable data solutions
+  use_cases:
+  - Enterprise analytics and reporting for private equity-backed organizations
+  - LLM-powered business workflow automation
+  - AI-driven data classification and summarization
+  - RAG pipelines and GenAI analytics for enterprise environments
+  - Scalable data products enabling AI-driven insights
+  skills:
+    genai: [LangChain, Bedrock Agents, RAG pipelines, Embedding workflows]
+    ml: []
+    web: []
+    databases: [Snowflake, Data warehousing, Vector databases, OpenSearch, Pinecone]
+    data: [dbt, Airflow, ELT pipelines, Data modeling, Data governance]
+    cloud: [Snowflake Cortex AI, AWS Bedrock, AWS Lambda, AWS Step Functions, AWS
+        S3, AWS IAM]
+    ops: [Data observability]
+    languages: [SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8989715'
+  extracted_at: '2026-04-22T13:46:29.564835'

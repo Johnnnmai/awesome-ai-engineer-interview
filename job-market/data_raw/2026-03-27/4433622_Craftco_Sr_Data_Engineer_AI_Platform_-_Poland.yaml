@@ -1,0 +1,155 @@
+job_id: 4433622
+title: Sr. Data Engineer (AI Platform - Poland)
+company: Craft.co
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ai Ides
+  - Airflow
+  - AWS
+  - CircleCI
+  - Databricks
+  - Docker
+  - Elasticsearch
+  - Git
+  - Pandas
+  - Postgres
+description: |
+  About Craft:
+  
+  Craft is the leader in supplier risk intelligence, enabling
+  enterprises to discover, evaluate, and continuously monitor
+  their suppliers at scale. Our AI research and monitoring
+  agents deliver real, actionable intelligence, by operating
+  on top of our unique, proprietary data platform - this helps
+  our customers make better, more informed decisions for their
+  business, faster and strategically secure critical supply
+  chains from risk. Our customers include Fortune 500
+  companies, government agencies, and global service
+  platforms. We’ve developed distribution partnerships with
+  some of the largest integrators and software platforms
+  globally.
+  
+  We are a post-Series B high-growth technology company backed
+  by top-tier investors in Silicon Valley and Europe,
+  headquartered in San Francisco. We support remote and hybrid
+  work, with team members across North America and Europe.
+  
+  We are looking for innovative and driven people passionate
+  about building the future of Enterprise Intelligence to join
+  our growing team!
+  
+  About the Role:
+  
+  We’re growing quickly and looking to hire several senior-
+  level data engineers for multiple teams. Each team is
+  responsible for a key product within the organization. As a
+  core member of the team, you will have great say in how
+  solutions are engineered and delivered. Craft gives
+  engineers a lot of responsibility and authority, which is
+  matched by our investment in their growth and development.
+  
+  Our data engineers carry a lot of software engineering
+  responsibilities, so we're looking for engineers who have
+  strong Python coding experience, Pandas expertise, and solid
+  software engineering practices.
+  
+  What You'll Do:
+  
+  - Integrate large language models into production AI agent
+    workflows - building structured-output pipelines with
+    grounding, reference resolution, and evidence
+    traceability.
+  - Design and evolve APIs that serve risk Intelligence data to
+    customers and external integrations.
+  - Build and maintain data ingestion pipelines - owning the
+    full lifecycle from extraction through loading and error
+    handling.
+  - Own reliability of async task processing systems — health
+    monitoring, autoscaling, alerting, and incident response.
+  - Build and maintain shared libraries and internal developer
+    tooling that accelerate the entire engineering team.
+  - Manage full service lifecycle — from standing up new
+    services to decommissioning legacy ones.
+  
+  Who You Are:
+  
+  - 4+ years of experience in Data Engineering or Backend
+    Engineering with a strong data focus.
+  - 4+ years of production Python experience - you write clean,
+    testable, well-structured code.
+  - Experience designing and building APIs (preferably GraphQL
+    with Apollo Federation).
+  - Experience in developing, maintaining, and ensuring the
+    reliability, scalability, fault tolerance, and
+    observability of data services in a production
+    environment.
+  - Have fundamental knowledge of data engineering techniques:
+    ETL/ELT, batch and streaming, DWH, Data Lakes, distributed
+    processing.
+  - Comfortable with async Python patterns (asyncio, Celery,
+    task queues).
+  - Strong knowledge of SDLC and solid software engineering
+    practices.
+  - Familiar with infrastructure-as-code approach.
+  - Demonstrated curiosity through asking questions, digging
+    into new technologies, and always trying to grow.
+  - Strong problem solving and the ability to communicate ideas
+    effectively.
+  - Self-starter, independent, likes to take initiative.
+  - Familiarity with at least some of the technologies in our
+    current stack:
+    - Core: Python, Pandas, Polars, Celery, SQL (PostgreSQL),
+      SQLAlchemy, Airflow, Docker, Kafka
+    - AI/ML: OpenAI, Anthropic, Google Vertex AI, Pydantic (v2),
+      Pydantic AI, MLflow
+    - APIs: GraphQL (Strawberry)
+    - AWS: S3, Batch, RDS, DynamoDB, ECS, SQS, DMS, Lambda
+    - Infra & Ops: Terraform, Datadog
+  - Experience with or strong interest in AI-native development
+    workflows (we use Claude Code as a core part of how we
+    build software - from building internal tooling skills to
+    debugging production issues.
+  
+  What We Offer:
+  
+  - Option to work as a B2B contractor or full-time employee
+  - Competitive salary at a well-funded, fast-growing startup
+  - PTO days so you can take the time you need to refresh!
+    - Full-time employees: 28 PTO days allotted + paid public
+      holidays
+    - B2B contractors: 15 PTO days allotted + paid public holidays
+  - 100% remote work (or hybrid if you prefer! We have coworking
+    space in center of Warsaw.)
+  
+  A Note to Candidates:
+  
+  We are an equal opportunity employer who values and
+  encourages diversity, equity and belonging at our company.
+  We do not discriminate on the basis of race, religion,
+  color, national origin, gender, sexual orientation, age,
+  marital status, veteran status, caste, or disability status.
+  
+  Don’t meet every requirement? Studies have shown that women,
+  communities of color and historically underrepresented
+  talent are less likely to apply to jobs unless they meet
+  every single qualification. At Craft, we are dedicated to
+  building a diverse, inclusive and authentic workplace, so if
+  you’re excited about this role but your past experience
+  doesn’t align perfectly with every qualification in the job
+  description, we strongly encourage you to apply. You may be
+  just the right candidate for this or other roles!
+  
+  #BI-Remote
+industries:
+  - Big Data
+  - Machine Learning
+  - Software
+  - Database
+  - Analytics
+  - Generative AI
+  - Big Data Analytics
+posted_date: 2026-03-13
+url: "https://www.builtinla.com/job/sr-data-engineer-poland/4433622"
+source: Built In

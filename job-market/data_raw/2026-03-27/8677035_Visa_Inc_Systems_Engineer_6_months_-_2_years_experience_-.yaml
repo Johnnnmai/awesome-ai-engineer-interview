@@ -1,0 +1,131 @@
+job_id: 8677035
+title: Systems Engineer (6 months - 2 years experience - Java/Python/Ansible, Azure/AWS/GCP/Kubernetes, Middleware engineering, Gen AI)
+company: Visa Inc,
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Mid level
+skills:
+  - Ansible
+  - AWS
+  - Azure
+  - Docker
+  - Flink
+  - GCP
+  - Hazelcast
+  - Java
+  - Kubernetes
+  - Python
+company_size: 33,000 Employees
+description: |
+  Company Description
+  
+  Visa is a world leader in payments technology, facilitating
+  transactions between consumers, merchants, financial
+  institutions and government entities across more than 200
+  countries and territories, dedicated to uplifting everyone,
+  everywhere by being the best way to pay and be paid.
+  
+  At Visa, you'll have the opportunity to create impact at
+  scale — tackling meaningful challenges, growing your skills
+  and seeing your contributions impact lives around the world.
+  Join Visa and do work that matters — to you, to your
+  community, and to the world.
+  
+  Progress starts with you.
+  
+  Job Description
+  
+  For Visa to deliver on the vision of the best way to pay and
+  be paid for everyone, everywhere, the Operations &
+  Infrastructure (O&I) group must provide best-in-class
+  infrastructure services that are secure, scalable,
+  continuously available, and run on software-defined
+  infrastructures. The O&I group offers an exciting
+  opportunity to work on latest technologies where the
+  industry is going through major innovations such as cloud
+  computing. As part of O&I, the PaaS Middleware Engineering
+  team provides comprehensive design, build, and support
+  services for web and middle-tier platforms.
+  
+  The selected candidate will join the PaaS Middleware
+  Engineering team, working alongside other engineers to
+  design, build, support (L3), and enhance internal and
+  external middleware services built on various Middleware and
+  Integration platforms.
+  
+  We are seeking a highly skilled and motivated Middleware
+  Engineer to join our team. The ideal candidate will have
+  extensive experience working with middleware technologies,
+  specifically Hazelcast, Qlik-Striim, Flink and Temporal. The
+  Middleware Engineer will be responsible for designing,
+  building, and supporting middleware solutions that enable
+  seamless integration and high performance of our business-
+  critical applications.
+  
+  - Design and Development:
+    - Design and develop middleware solutions using Hazelcast,
+      Qlik, Flink, Temporal, and Striim to meet the business
+      requirements.
+    - Collaborate with application developers, architects, and
+      other stakeholders to design scalable and efficient
+      middleware architectures.
+  - Implementation and Integration:
+    - Implement and integrate middleware components to ensure
+      seamless data flow and communication between different
+      systems and applications.
+    - Configure and fine-tune middleware platforms for optimal
+      performance and reliability.
+  - Support and Maintenance:
+    - Provide Level 3 support for middleware platforms, addressing
+      complex issues and ensuring high availability and
+      stability of the systems.
+    - Perform regular maintenance tasks, including software
+      updates, patches, and performance tuning.
+  
+  This is a hybrid position. Expectation of days in office
+  will be confirmed by your hiring manager.
+  
+  Qualifications
+  
+  Basic Qualifications: 2 or more years of relevant work
+  experience with a bachelor’s degree or 1 years of work
+  experience with an Advanced degree (e.g. Masters, MBA, JD,
+  MD) or PhD
+  
+  Preferred Qualifications: Proven experience as a Middleware
+  Engineer or in a similar role. Experience with cloud
+  platforms such as AWS, Azure, or Google Cloud. Demonstrated
+  experience using GenAI tools for software development and
+  coding. Familiarity with DevOps practices and CI-CD
+  pipelines. Experience with containerization and
+  orchestration tools (e.g., Docker, Kubernetes). Proficiency
+  in programming languages such as Java, Python, or Scala.
+  Strong problem-solving and troubleshooting skills.
+  Experience with Hazelcast-Redis, Flink-Spark, Temporal, and
+  Qlik-Striim. Good understanding of distributed systems, data
+  integration, and stream processing Understanding of Kerberos
+  and SSL-based Security concepts & implementation and
+  familiar with Opensource mentoring products (Prometheus,
+  Grafana) with a good knowledge of OS (RHEL-Centos) Should be
+  able to participate in the implementation and support (L3)
+  of the Middleware technology products and work well within a
+  globally distributed team in a high-performance
+  organization. Passion about cutting edge Opensource
+  technology and staying current with industry trends
+  
+  Additional Information
+  
+  Visa is an EEO Employer. Qualified applicants will receive
+  consideration for employment without regard to race, color,
+  religion, sex, national origin, sexual orientation, gender
+  identity, disability or protected veteran status. Visa will
+  also consider for employment qualified applicants with
+  criminal histories in a manner consistent with EEOC
+  guidelines and applicable local law.
+industries:
+  - Fintech
+  - Information Technology
+  - Payments
+posted_date: 2026-03-06
+url: "https://builtin.com/job/systems-engineer-6-months-2-years-experience-java-python-ansible-azure-aws-gcp-kubernetes-middleware-engineering-gen-ai/8677035"
+source: Built In

@@ -1,0 +1,54 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Trusted content and technology for legal, tax, accounting,
+    and compliance professionals
+position:
+  title: Staff Software Engineer - AI I
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI-powered systems
+      including RAG architectures, AI agents, and multi-component
+      AI pipelines. The engineer will architect, implement, and
+      integrate AI models into production, working hands-on with
+      LLMs, vector databases, and AI APIs — clearly placing this
+      in the ai-first category.
+  responsibilities:
+  - Architect and implement complex AI systems including multi-component pipelines,
+    RAG systems, and custom AI agents for legal and tax solutions
+  - Ensure system quality and compliance through comprehensive testing frameworks,
+    monitoring tools, and ethical AI practices
+  - Identify issues and risks proactively, make data-driven recommendations, and optimize
+    system performance
+  - Collaborate with cross-functional teams including Product, UX, and Science to
+    align AI features with product goals
+  - Conduct proof-of-concepts to evaluate emerging AI technologies and explore feasibility
+    of innovative solutions
+  - Analyze existing systems and recommend improvements for operational efficiency,
+    scalability, and architecture
+  - Mentor and guide AI engineers, fostering technical growth and career development
+  use_cases:
+  - AI-powered tax and accounting workflow automation
+  - Intelligent legal research and next-generation legal solutions
+  - Retrieval-Augmented Generation (RAG) systems for professional content
+  - Custom AI agents for task orchestration in professional services
+  - Production AI model integration for enterprise software
+  skills:
+    genai: [RAG architectures, AI agents, OpenAI APIs, Anthropic APIs, Embeddings
+        and search-based AI]
+    ml: [PyTorch, TensorFlow, Model evaluation]
+    web: [Distributed systems, REST APIs, Web applications]
+    databases: [Vector databases]
+    data: []
+    cloud: ['AWS (Lambda, S3, EC2)']
+    ops: [MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9123837'
+  extracted_at: '2026-04-22T13:34:16.660769'

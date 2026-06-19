@@ -1,0 +1,45 @@
+company:
+  name: Homey
+  stage: Established (growing)
+  focus: |-
+    Streamlining property transactions and real estate
+    technology
+position:
+  title: Junior Software Engineer (AI-Native)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a general software engineering role at a proptech
+      company. The role uses LLMs like Claude Code, Grok, and
+      GitHub Copilot as productivity tools to write code faster,
+      but does not involve building, training, fine-tuning, or
+      deploying AI/ML models. The AI tools are used to support
+      software development, not to create AI systems.
+  responsibilities:
+  - Develop and maintain features for property buying and selling platform
+  - Leverage AI coding agents and LLMs to accelerate development workflow
+  - Debug complex issues and explore new solutions using AI tools
+  - Take ownership of tasks and deliver features end-to-end
+  - Collaborate with team members on product development
+  - Build technology solutions that disrupt traditional real estate industry
+  use_cases:
+  - Property transaction platform
+  - Home buying and selling process automation
+  - Real estate workflow optimization
+  - Transparency tools for property transactions
+  skills:
+    genai: [Claude Code, GitHub Copilot, Grok, Cursor, LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8537415'
+  extracted_at: '2026-03-03T12:29:46.441425'

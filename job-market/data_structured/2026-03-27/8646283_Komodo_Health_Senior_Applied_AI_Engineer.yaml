@@ -1,0 +1,55 @@
+company:
+  name: Komodo Health
+  stage: null
+  focus: |-
+    Healthcare data analytics platform that maps patient
+    journeys to improve outcomes
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building, deploying, and
+      architecting end-to-end AI systems including LLM-based
+      applications, multi-agent orchestrations, and advanced
+      prompt engineering. The position requires hands-on work with
+      GenAI frameworks, model pipelines, and production deployment
+      of AI solutions at Marmot (their AI-native product).
+  responsibilities:
+  - Architect, build, and deploy end-to-end AI systems balancing innovation with reliability
+    and ethical considerations
+  - Lead solution design for ambiguous AI problems across Komodo's platform and internal
+    operations
+  - Design advanced prompt chains, multi-agent flows, and complex evaluation frameworks
+  - Drive applied research by experimenting with cutting-edge models, techniques,
+    and academic papers
+  - Collaborate with product, data, and platform teams to define requirements and
+    shape strategic AI investments
+  - Transition prototypes into scalable systems with comprehensive observability,
+    alerting, and governance
+  - Mentor engineers across teams in prompt engineering, debugging, agent orchestration,
+    and AI system design
+  use_cases:
+  - Healthcare analytics and patient journey mapping using AI
+  - Real-world evidence generation for pharmaceutical companies, payers, and health
+    systems
+  - Identifying gaps in care and unmet patient needs through AI-powered insights
+  - Multi-agent AI systems for healthcare data analysis and decision support
+  - AI-native product (Marmot) delivering real-world healthcare insights
+  skills:
+    genai: [LLMs, agent orchestration, multi-agent systems, prompt engineering, vLLM,
+      Crew AI, Chat Completions API, prompt chains]
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: [Spark, Databricks]
+    cloud: []
+    ops: [MLOps, model versioning, CI/CD for AI, automated monitoring]
+    languages: [Python]
+    domains: []
+    other: [A/B testing, evaluation frameworks]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8646283'
+  extracted_at: '2026-03-27T14:35:30.628540'

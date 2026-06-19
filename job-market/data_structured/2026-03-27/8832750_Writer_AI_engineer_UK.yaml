@@ -1,0 +1,49 @@
+company:
+  name: Writer
+  stage: Series B (valued at $1.9B)
+  focus: |-
+    Enterprise generative AI platform for building and deploying
+    AI agents with custom LLMs
+position:
+  title: AI engineer (UK)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying AI agents and LLM-
+      powered applications directly into production, translating
+      AI research into practical solutions. The engineer will
+      architect, develop, and deploy scalable AI applications
+      using LLMs and agent technologies, not just support
+      infrastructure.
+  responsibilities:
+  - Architect, develop, and deploy high-performance, scalable AI applications into
+    production environments
+  - Drive the development of intelligent agents and AI-powered features for customers
+  - Collaborate with research scientists, data scientists, and product managers to
+    define technical requirements
+  - Contribute to research and evaluation of emerging AI technologies, frameworks,
+    and tools
+  - Champion responsible AI practices including bias detection, explainability, and
+    safety alignment
+  use_cases:
+  - Enterprise AI agent deployment
+  - LLM-powered business applications
+  - AI-driven productivity and innovation solutions
+  - Data-grounded AI systems for enterprises
+  skills:
+    genai: [AI agents]
+    ml: [PyTorch, TensorFlow, JAX, Large language models, Deep learning, Natural language
+        processing]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps tools]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8832750'
+  extracted_at: '2026-03-27T15:25:54.015462'

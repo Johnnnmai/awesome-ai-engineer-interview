@@ -1,0 +1,51 @@
+company:
+  name: Tether.io
+  stage: Established (profitable, no funding round mentioned)
+  focus: |-
+    Stablecoin and digital finance infrastructure with expanding
+    AI and data capabilities
+position:
+  title: AI Research Engineer - Pre training (100% Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly involved in pre-training LLMs on
+      large-scale distributed GPU clusters, designing novel
+      architectures, and optimizing model performance. The
+      engineer works hands-on building, training, and scaling AI
+      models — clearly an ai-first position.
+  responsibilities:
+  - Conduct pre-training of AI models on large distributed GPU clusters with thousands
+    of NVIDIA GPUs
+  - Design, prototype, and scale innovative model architectures to enhance intelligence
+    and capabilities
+  - Execute experiments independently and collaboratively, analyzing results and refining
+    methodologies
+  - Investigate, debug, and improve model efficiency and computational performance
+  - Advance training systems for seamless scalability and efficiency on target platforms
+  - Implement novel techniques in data curation, baseline strengthening, and pre-training
+    bottleneck resolution
+  use_cases:
+  - Large language model pre-training at scale across small, large, and multi-modal
+    systems
+  - Distributed model training optimization on thousands of GPUs
+  - Architecture innovation for enhanced model intelligence and efficiency
+  - Multi-modal AI system development
+  - Data curation and training pipeline improvement for state-of-the-art models
+  skills:
+    genai: []
+    ml: [PyTorch, Hugging Face, Distributed training frameworks, Transformer architectures,
+      CUDA, LLM pre-training, Model optimization, Multi-modal models]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [NVIDIA GPU clusters]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9052792'
+  extracted_at: '2026-04-22T13:06:08.830945'

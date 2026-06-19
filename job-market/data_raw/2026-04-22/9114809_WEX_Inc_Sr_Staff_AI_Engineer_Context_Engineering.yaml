@@ -1,0 +1,184 @@
+job_id: 9114809
+title: Sr Staff AI Engineer, Context Engineering
+company: WEX Inc.
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Argocd
+  - AWS
+  - Azure
+  - Flux
+  - Gitops
+  - Java
+  - Opentelemetry
+  - Python
+  - Scala
+  - Terraform
+description: |
+  Position Summary
+  
+  As a Sr. Staff AI Platform Engineer, you are first and
+  foremost a Systems Architect. Your mission is to design and
+  build the high-performance software foundation that powers
+  the enterprise. While your core expertise lies in
+  distributed systems, cloud-native architecture, and platform
+  engineering, you will apply these skills specifically to the
+  "Context Layer"—the specialized infrastructure required to
+  fuel next-generation Agentic AI workflows.
+  
+  You will operate at the intersection of Systems Programming
+  and Modern AI Infrastructure, solving "hard-tech" problems
+  like real-time data orchestration, automated metadata
+  evolution, and multi-cloud compute optimization. This is a
+  "platform-as-a-product" role; you build the tools, SDKs, and
+  engines that enable hundreds of other engineers to build
+  autonomous agents with ease.
+  
+  Key Responsibilities
+  
+  - AI Platform Strategy & Context Retrieval: Define and own the
+    3–5 year technical roadmap for our high-scale, AI-ready
+    Data Lakehouse. This platform must be explicitly optimized
+    for AI Agent operations and efficient context retrieval,
+    delivering low-latency, high-throughput data access
+    essential for vector databases and LLM-driven
+    applications.
+  - Systems & Agentic R&D: Prototype and benchmark emerging
+    trends in the AI ecosystem. You will evaluate next-
+    generation architectural patterns such as Multi-Agent
+    Orchestration, autonomous long-term memory management, and
+    specialized Agent Evaluation frameworks to ensure the
+    platform remains at the cutting edge.
+  - Engineering Excellence: Set the gold standard for code
+    quality, CI/CD, and system design across the organization.
+    You will lead cross-functional architecture reviews and
+    serve as the final escalation point for the most complex
+    technical bottlenecks.
+  
+  Specialized AI & Agentic Responsibilities
+  
+  - Agentic Ecosystem Enablement: Design the platform-level
+    interfaces required for Agentic workflows, focusing on
+    standardized "Host-to-Server" communication and tool-
+    execution environments. This includes building robust
+    "Human-in-the-Loop" (HITL) triggers and fail-safe
+    mechanisms for autonomous actions.
+  - Contextual Infrastructure: Build the "Context Fabric" that
+    allows AI agents to securely discover, access, and
+    interpret enterprise data. You will architect systems that
+    move beyond basic search into Reasoning-based Retrieval,
+    where the platform understands the intent behind an
+    agent's query.
+  - Protocol & Trend Standardization: Implement and advocate for
+    emerging standards like the Model Context Protocol (MCP)
+    to ensure interoperability. You will stay ahead of trends
+    such as Small Language Models (SLMs) for edge-compute and
+    Agentic RAG, ensuring the platform can pivot as the
+    industry evolves.
+  
+  Qualifications & Experience
+  
+  Software Engineering Foundation
+  
+  - Expert Software Engineering: 15+ years in software
+    engineering. You are an expert in Java or Scala
+    (distributed systems focus) and Python.
+  - Systems Architecture: Deep experience building extensible
+    frameworks, high-throughput APIs, and libraries used by
+    other developers. You prioritize building "software-
+    defined infrastructure" over manual configuration.
+  
+  Agentic Development & Emerging Trends (Specialized Plus)
+  
+  - Agentic Design Patterns: Hands-on experience with the latest
+    trends in agent development, such as Multi-Agent
+    Orchestration (using frameworks like LangGraph or CrewAI)
+    and the transition from static RAG to Agentic RAG.
+  - Protocol Interoperability: Knowledge of the Model Context
+    Protocol (MCP) and other emerging standards that allow AI
+    agents to interact with diverse data sources and tools in
+    a plug-and-play manner.
+  - AI-Ops Integration: Experience building "AI-native" CI/CD
+    features, such as automated LLM-based evaluations
+    (evaluating agent reasoning paths in the build pipeline)
+    and Automated Root-Cause Analysis for system failures.
+  - Human-in-the-Loop (HITL): Understanding of how to build
+    automated workflows that pause agent actions for human
+    approval, ensuring safety and governance for autonomous
+    systems.
+  
+  CI/CD & Platform Ops Mastery (Core Focus)
+  
+  - GitOps & Continuous Delivery: Expert-level experience with
+    GitOps workflows (e.g., ArgoCD or Flux) to ensure that all
+    platform configurations—including AI prompt templates and
+    model parameters—are versioned, audited, and automatically
+    reconciled.
+  - Infrastructure-as-Code (IaC) at Scale: Mastery of Terraform.
+    You don't just write scripts; you build modular, reusable
+    libraries that enforce organizational security and cost-
+    efficiency standards across hundreds of cloud accounts.
+  - Modern CI Pipelines: Proficiency in designing complex
+    pipelines (e.g., GitHub Actions, GitLab CI) that integrate
+    automated testing, security scanning, and deployment gates
+    for high-availability systems.
+  - Unified Observability: Experience with OpenTelemetry (OTel)
+    to build deep visibility into distributed systems. You
+    focus on tracking both system performance and business-
+    centric AI metrics (e.g., success rates of autonomous
+    tasks).
+  
+   Cloud Platform Expertise (AWS & Azure)
+  
+  - Cloud Console & Service Mastery: Deep proficiency in
+    navigating and configuring the AWS and Azure Management
+    Consoles. You have a comprehensive understanding of how to
+    architect, secure, and optimize core services (IAM,
+    EC2/VMs, S3/Blob, and specialized AI/ML service suites)
+    natively within both ecosystems.
+  - Cloud-Agnostic Abstraction: Proven ability to build platform
+    layers that bridge AWS and Azure, allowing for seamless
+    deployment and management across a multi-cloud
+    environment.
+  - Governance & Cost Optimization: Experience using cloud-
+    native tools (AWS CloudWatch, Azure Monitor, Cost
+    Explorer) to manage platform health, security posture, and
+    spend at an enterprise scale.
+  
+  Leadership & Education
+  
+  - Influence: A proven track record of "leading by
+    influence"—driving adoption of new technologies across
+    multiple autonomous teams.
+  - Communication: Ability to communicate complex architectural
+    trade-offs (e.g., "Latency vs. Consistency") to both
+    C-suite executives and engineers.
+  
+  Education: Bachelor’s or Master’s degree in Computer Science
+  (Distributed Systems focus) preferred, or equivalent deep
+  industry experience.
+  
+  The base pay range represents the anticipated low and high
+  end of the pay range for this position. Actual pay rates
+  will vary and will be based on various factors, such as your
+  qualifications, skills, competencies, and proficiency for
+  the role. Base pay is one component of WEX's total
+  compensation package. Most sales positions are eligible for
+  commission under the terms of an applicable plan. Non-sales
+  roles are typically eligible for a quarterly or annual bonus
+  based on their role and applicable plan. WEX's comprehensive
+  and market competitive benefits are designed to support your
+  personal and professional well-being. Benefits include
+  health, dental and vision insurances, retirement savings
+  plan, paid time off, health savings account, flexible
+  spending accounts, life insurance, disability insurance,
+  tuition reimbursement, and more. For more information, check
+  out the "About Us" section.Pay Range: $220,000.00 -
+  $255,800.00
+industries:
+  - Fintech
+  - Payments
+posted_date: 2026-04-21
+url: "https://www.builtinla.com/job/sr-staff-ai-engineer-context-engineering/9114809"
+source: Built In

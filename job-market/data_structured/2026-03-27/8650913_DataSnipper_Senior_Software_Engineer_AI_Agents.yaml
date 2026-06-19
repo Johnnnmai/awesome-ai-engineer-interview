@@ -1,0 +1,54 @@
+company:
+  name: DataSnipper
+  stage: Unicorn (bootstrapped, $1B valuation)
+  focus: |-
+    AI-powered audit automation and assurance software embedded
+    in Excel
+position:
+  title: Senior Software Engineer, AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and implementing AI-
+      powered agents that automate assurance workflows. The
+      engineer will design and deploy GenAI-based agentic
+      applications in production, working with LLM frameworks
+      (Pydantic AI) and Azure AI services to create agents that
+      analyze documents and execute tasks.
+  responsibilities:
+  - Design and implement AI-powered agents that automate assurance workflows using
+    natural language commands
+  - Build and maintain production APIs and services in Python monorepo using FastAPI
+    and Pydantic AI
+  - Integrate with Azure AI services for document intelligence, blob storage, and
+    cloud infrastructure
+  - Contribute to React chat interface for interactive user experience with AI agents
+  - Implement security controls aligned with OWASP GenAI security protocols
+  - Architect services and systems using well-established design principles for future
+    scalability
+  - Use observability tools (MLflow, Grafana) to diagnose issues and drive stability
+    improvements
+  - Lead technical mentorship, code reviews, and establish engineering best practices
+  use_cases:
+  - Automated audit and assurance workflows within Excel
+  - Risk assessment automation
+  - Control testing and evidence gathering
+  - Automated documentation generation
+  - Document and spreadsheet analysis using natural language commands
+  - Financial audit automation with full traceability
+  skills:
+    genai: [Pydantic AI, GenAI applications, Agentic applications, Claude Code]
+    ml: []
+    web: [FastAPI, React]
+    databases: [MongoDB]
+    data: []
+    cloud: [Azure, Azure AI services, Document intelligence]
+    ops: [MLflow, Grafana, OWASP GenAI security]
+    languages: [Python]
+    domains: [Audit and fintech domain]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8650913'
+  extracted_at: '2026-03-27T16:01:28.039517'

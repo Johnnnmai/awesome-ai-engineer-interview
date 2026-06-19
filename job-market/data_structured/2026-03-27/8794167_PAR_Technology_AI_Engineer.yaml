@@ -1,0 +1,57 @@
+company:
+  name: PAR Technology
+  stage: Public
+  focus: |-
+    Restaurant technology - POS, digital ordering, loyalty,
+    back-office software and hardware
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building and deploying AI systems
+      including multi-agent orchestration, MCP endpoints, and
+      agentic workflows. The engineer will architect and implement
+      production-ready AI solutions using LLMs, RAG, and agent
+      frameworks - directly working ON AI/ML systems.
+  responsibilities:
+  - Define and establish foundational architecture and best practices for AI systems
+    across PAR, ensuring scalability, maintainability, security, and robustness
+  - Take ambiguous problems from concept to production, building core AI components
+    and workflows from scratch through prototypes to reliable systems
+  - Design, build, and operate agentic solutions including multi-agent orchestration,
+    MCPs, tool calling, retrieval-grounded reasoning, state/memory, and safe fallbacks
+  - Collaborate with engineers to evaluate and refine PoCs, improving reliability,
+    quality, scalability, performance, and cost
+  - Act as applied AI subject matter expert, providing technical direction while actively
+    building and shipping solutions
+  - Establish production practices for agentic systems including prompt/version control,
+    evaluation pipelines, tracing/observability, testing, and cost/latency controls
+  - Work with product managers, data analysts, and business leaders to identify high-impact
+    AI opportunities and translate requirements into technical specifications
+  - Continuously research AI advancements, multi-agent orchestration, and agentic
+    autonomy
+  use_cases:
+  - Restaurant technology automation through agentic AI workflows
+  - Multi-agent orchestration for retail and fuel/convenience store operations
+  - Customer loyalty program AI-powered features
+  - Retrieval-augmented reasoning for restaurant business operations
+  - Automated workflow solutions beyond chat-based interactions
+  - Production AI systems for 100,000+ restaurants globally
+  skills:
+    genai: [LangGraph, LangChain, LlamaIndex, CrewAI, Multi-agent systems, MCP endpoints,
+      RAG, Agentic workflows, Prompt engineering]
+    ml: [Deep learning, Classical ML, Reinforcement learning]
+    web: [REST APIs, GraphQL, Ruby on Rails]
+    databases: [Vector databases, Hybrid retrieval, Reranking]
+    data: [Databricks, Delta Lake, Unity Catalog]
+    cloud: [Azure OpenAI, Amazon Bedrock, Google Vertex AI]
+    ops: [MLflow, Model Serving, DataDog, Grafana, CI/CD]
+    languages: [Python, NodeJS]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8794167'
+  extracted_at: '2026-03-27T15:27:25.273797'

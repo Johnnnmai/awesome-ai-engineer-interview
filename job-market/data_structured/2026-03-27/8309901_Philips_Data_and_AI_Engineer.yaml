@@ -1,0 +1,50 @@
+company:
+  name: Philips
+  stage: Public
+  focus: Health technology company focused on healthcare solutions
+position:
+  title: Data and AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves leading, designing, and co-
+      developing AI solutions for the Service Parts Supply Chain.
+      With 8+ years of hands-on experience required for AI
+      implementations and responsibility for securing platform
+      architecture for AI integrations, this is a hands-on AI
+      development role focused on deploying AI systems.
+  responsibilities:
+  - Co-develop and implement Service Parts Supply Chain Digital Platform Strategy
+    & Roadmap with stakeholders
+  - Design and secure data and digital platform architecture enabling AI integrations
+    and new technologies
+  - Lead, design, and co-develop AI solutions and applications to enhance customer
+    experience and operational excellence
+  - Document SPS data and digital platform architecture for stakeholder understanding
+  - Execute software validation processes to ensure software quality
+  - Lead investigation and deployment projects for AI and digital initiatives
+  - Act as point of contact for data and digital platform questions at business level
+  - Support business with platform issues and incident resolution
+  use_cases:
+  - Service parts supply chain optimization for healthcare equipment
+  - AI-powered workflow automation and process optimization
+  - Supplier collaboration application enhancement
+  - Control Tower implementation for supply chain visibility
+  - Customer experience improvement through AI solutions
+  - Inventory management and operational excellence
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data Architecture]
+    cloud: []
+    ops: [Software Validation]
+    languages: [Python, SQL]
+    domains: [Supply Chain Management]
+    other: [Digital Platform Architecture, Project Management]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8309901'
+  extracted_at: '2026-03-27T15:46:46.573249'

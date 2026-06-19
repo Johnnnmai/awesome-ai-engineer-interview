@@ -1,0 +1,56 @@
+company:
+  name: Optum
+  stage: Public
+  focus: |-
+    Healthcare technology, pharmacy benefits, and care delivery
+    services
+position:
+  title: AI/ML Engineer - Lang Chain, Lang Graph and MCP
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and deploying multi-
+      agent AI systems using LangChain/LangGraph, implementing RAG
+      pipelines, and architecting production AI solutions. The
+      engineer will work hands-on with LLMs, agents, and AI
+      infrastructure throughout the development lifecycle.
+  responsibilities:
+  - Design and implement multi-agent AI systems using LangChain, LangGraph, MCP, and
+    advanced memory architectures
+  - Build Retrieval-Augmented Generation (RAG) pipelines including text chunking,
+    embedding, indexing, and vector retrieval
+  - Develop and maintain AI agent orchestration frameworks with tool use, memory updates,
+    and agent-to-agent communication
+  - Integrate LLMs with enterprise systems through secure API patterns, prompt orchestration,
+    and contextual memory
+  - Implement and optimize vector database solutions for similarity search and retrieval
+  - Architect production AI pipelines on Azure using Azure AI Foundry, Azure AI Search,
+    and Azure Container Apps/AKS
+  - Containerize and deploy AI systems using Docker, Azure Container Registry, and
+    orchestrate using ACA/AKS
+  - Productionize agentic/RAG solutions with CI/CD, observability, autoscaling, and
+    reliability best practices
+  use_cases:
+  - Multi-agent AI systems for healthcare operations
+  - Enterprise knowledge retrieval and search via RAG
+  - AI agent orchestration with tool integration and memory
+  - LLM integration with healthcare enterprise systems
+  - Production AI pipelines on Azure cloud infrastructure
+  skills:
+    genai: [LangChain, LangGraph, MCP (Model Context Protocol), RAG, Prompt Engineering,
+      Multi-agent systems]
+    ml: [Embedding pipelines]
+    web: [API development]
+    databases: [Vector databases]
+    data: []
+    cloud: [Azure, Azure AI Foundry, Azure OpenAI, Azure AI Search, Azure Kubernetes
+        Service (AKS), Azure Container Apps]
+    ops: [Docker, CI/CD, MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8810541'
+  extracted_at: '2026-03-27T15:42:55.678859'

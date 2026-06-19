@@ -1,0 +1,51 @@
+company:
+  name: Zillow
+  stage: Public
+  focus: |-
+    Real estate platform helping millions buy, sell, finance and
+    rent homes
+position:
+  title: Principal Machine Learning Engineer, Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying large-
+      scale multimodal agentic AI systems, including Voice AI and
+      Deep Research agents. The position requires hands-on work
+      with agent-based systems, multi-agent collaboration,
+      dialogue systems, and frontier LLMs - clearly working ON AI
+      systems rather than supporting them.
+  responsibilities:
+  - Develop large-scale, fault-tolerant multimodal agentic experiences reaching millions
+    of customers
+  - Design and develop multiple agent interaction modes including Voice AI and Deep
+    Research
+  - Pioneer robust evaluation frameworks, tracing systems, and safety guardrails for
+    AI agents
+  - Research and implement emerging agentic paradigms into tangible product innovation
+  - Lead complex, multi-team initiatives bridging applied research and scalable engineering
+  - Communicate complex research findings and AI architectures to executives and cross-functional
+    teams
+  use_cases:
+  - AI-powered real estate assistant helping millions find their next home
+  - Voice AI for hands-free home shopping experience
+  - Deep Research agent for comprehensive real estate insights
+  - Personalized recommendations integrating user insights with Zillow's knowledge
+  - Always-on conversational assistant for home shopping and transactions
+  skills:
+    genai: [LangGraph, Agents SDK, AutoGen, multimodal LLMs, agent-based systems,
+      multi-agent collaboration, dialogue systems]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [production ML infrastructure]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8864606'
+  extracted_at: '2026-03-27T16:16:24.100073'

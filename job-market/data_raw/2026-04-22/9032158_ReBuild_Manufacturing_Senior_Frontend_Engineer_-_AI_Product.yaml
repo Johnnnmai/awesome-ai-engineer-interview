@@ -1,0 +1,234 @@
+job_id: 9032158
+title: Senior Frontend Engineer - AI Product
+company: "Re:Build Manufacturing"
+location: Los Angeles, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ai Coding Tools
+  - Css Frameworks
+  - Esbuild
+  - JavaScript
+  - Openapi
+  - React
+  - Rest
+  - Storybook
+  - Tailwind Css
+  - Typescript
+description: |
+  The Opportunity
+  
+  If you've worked alongside hardware teams, you know the
+  damage that results from a missed change request or critical
+  context that was never relayed to the right person. Reflow
+  exists to close that gap. We're building the first AI-
+  powered platform purpose-built for hardware product
+  development, one that listens across the tools teams already
+  use, maintains a structured picture of every program, and
+  proactively coordinates across disciplines when things
+  inevitably change.
+  
+  This is a ground-floor opportunity for a hands-on frontend
+  engineer to shape the user experience of a high-potential
+  product with the support of a parent company leading
+  innovation in engineering and manufacturing.
+  
+  Who We're Looking For
+  
+  We're seeking a frontend engineer who cares deeply about
+  building interfaces that are fast, intuitive, and
+  delightful. The ideal candidate has shipped production React
+  applications and has strong opinions on component
+  architecture and design systems. You should already be using
+  AI coding tools like Cursor, Copilot, or Claude to
+  accelerate your work, with excitement about building the
+  product that finally replaces the spreadsheets and status
+  meetings that hardware teams have been stuck with for
+  decades.
+  
+  This senior engineer will work alongside our engineering
+  team and head of product to build the interfaces through
+  which users manage structured engineering artifacts
+  (requirements, project plans, dependencies), interact with
+  ambient AI agents, and get real-time transparency into
+  project health across disciplines. The role is hands-on -
+  you will be coding daily while contributing to frontend
+  architecture decisions and helping grow the design system as
+  we scale.
+  
+  What You'll Do
+  
+  Your day-to-day responsibilities will include:
+  
+  ● Building production-grade React applications with
+  TypeScript
+  
+  ● Developing and maintaining a shared component library
+  
+  ● Building rich interfaces for structured engineering data:
+  requirements with traceability, phase/gate tracking,
+  dependency graphs, task boards with discipline tags, and
+  version-controlled project plans
+  
+  ● Building interfaces for AI agent interactions including
+  streaming chat, proactive coordination alerts, and AI-
+  generated status summaries and deliverables (proposals,
+  SOWs, reports)
+  
+  ● Implementing portfolio-level dashboards for engineering
+  leaders and executives showing cross-project cost, schedule,
+  and risk
+  
+  ● Writing well-tested code with unit and end-to-end tests
+  
+  ● Collaborating with backend engineers on API integration
+  and client SDK usage
+  
+  ● Contributing to frontend architecture decisions, code
+  reviews, and engineering best practices
+  
+  Technical Requirements
+  
+  Must Have:
+  
+  ● 5+ years building production web applications, with 3+
+  years focused on React
+  
+  ● Demonstrated proficiency using AI coding tools (Cursor,
+  Copilot, Claude, etc.) to accelerate development
+  
+  ● Expert-level expertise with React, TypeScript, and modern
+  JavaScript
+  
+  ● Strong experience with component-driven development,
+  design systems, and tools like Storybook
+  
+  ● Proficiency with CSS frameworks (Tailwind CSS preferred)
+  and responsive design
+  
+  ● Experience with modern build tools (Vite, esbuild, or
+  similar)
+  
+  ● Understanding of API integration patterns (REST, OpenAPI,
+  generated clients)
+  
+  ● Ability to balance rapid iteration with maintainable,
+  well-tested code
+  
+  Highly Valuable:
+  
+  ● Have worked in early-stage 0 to 1 startup environments
+  
+  ● Familiarity with hardware development, engineering
+  workflows, or project management processes
+  
+  ● Experience building UIs for AI/LLM-powered features
+  (streaming responses, chat interfaces, structured AI output)
+  
+  ● Familiarity with headless component libraries (Base UI,
+  Radix, Headless UI)
+  
+  ● Background in data visualization or dashboard-heavy
+  applications
+  
+  ● Understanding of authentication/authorization patterns
+  (OIDC, JWT)
+  
+  ● Experience with end-to-end testing frameworks (Playwright,
+  Cypress)
+  
+  ● Background in B2B SaaS platforms, project management
+  tools, or technical collaboration products
+  
+  What We Offer
+  
+  Real Impact: The opportunity to build purpose-built tooling
+  for an entire industry that has never had it
+  
+  Customer Access: Direct exposure to hundreds of real
+  hardware projects annually through Re:Build's engineering
+  and manufacturing companies
+  
+  Technical Growth: Hands-on work with cutting-edge AI
+  technologies solving novel technical challenges
+  
+  Autonomy: Backed by Re:Build while operating with startup
+  independence
+  
+  Benefits: Full health/dental/vision, bonus program, generous
+  401K, paid time off, annual learning stipend
+  
+  Equity & Growth: Participation in Re:Build's LTIP equity
+  program and opportunity for founder equity in potential
+  spin-out
+  
+  Compensation & Location
+  
+  Location: Remote-first, with preference for candidates in
+  Boston, Seattle, Los Angeles, or other cities with Re:Build
+  offices
+  
+  Compensation: Base salary range of $165,000 to $215,000 with
+  performance bonus and long-term incentive plan offered.
+  Potential equity stake under independent spinout scenario.
+  
+  Please note this role is restricted to US citizens or lawful
+  permanent residents only due to exposure to export
+  controlled information
+  
+  About Re:Build Manufacturing
+  
+  Re:Build Manufacturing is a growing family of industrial and
+  engineering businesses combining enabling technologies,
+  operational superiority, and strategic M&A to build
+  America's next generation industrial company. At Re:Build we
+  deploy deep expertise in engineering, operations management,
+  and technology to supercharge the performance of our member
+  companies. We harness deep professional expertise and a
+  candid, principled operating culture to drive differentiated
+  outcomes. Ours is a fast-paced environment where individuals
+  can stretch and be challenged to pursue their fullest
+  potential.
+  
+  Re:Build was founded to pioneer a profitable model for the
+  revitalization of US manufacturing. We've assembled a
+  powerful set of complementary capabilities and lines of
+  business that enable us to pursue a wide range of end
+  markets. Our acquired businesses are grounded in build-to-
+  print and by-the-hour engineering and design services, and
+  we're using their combined expertise to migrate to
+  increasingly sophisticated program development and
+  production, as well as the generation of our own products.
+  Our unique set of capabilities lend themselves to highly
+  complex systems and products, and we offer customers a range
+  of services including product and systems design,
+  automation, fabrication, assembly, and large volume contract
+  manufacturing. Our customers span a wide array of industries
+  including aerospace, defense, mobility, healthcare, pharma,
+  biotech, clean tech, chemicals, energy, lifestyle, food
+  production, and industrial equipment.
+  
+  We want to work with people that reflect the communities in
+  which we operate
+  
+  Re:Build Manufacturing is proud to be an Equal Employment
+  Opportunity and Affirmative Action employer. We do not
+  discriminate based upon race, color, religion, gender,
+  gender identity or expression, sexual orientation, national
+  origin, genetics, disability, age, veteran status, marital
+  status, parental status, cultural background, organizational
+  level, work styles, tenure and life experiences. Or for any
+  other reason.
+  
+  Re:Build is committed to providing reasonable accommodations
+  for qualified individuals with disabilities in our job
+  application procedures. If you need assistance or an
+  accommodation due to a disability, you may contact us at
+  accommodations.ta@ReBuildmanufacturing.com or you may call
+  us at 617.909.6275.
+industries:
+  - Automation
+  - Manufacturing
+posted_date: 2026-04-13
+url: "https://www.builtinla.com/job/senior-frontend-engineer-ai-product/9032158"
+source: Built In

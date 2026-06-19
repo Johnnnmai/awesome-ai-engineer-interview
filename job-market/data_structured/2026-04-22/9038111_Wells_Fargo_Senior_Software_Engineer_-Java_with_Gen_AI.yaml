@@ -1,0 +1,56 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: Multinational financial services and banking
+position:
+  title: Senior Software Engineer -Java with Gen AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the job title mentioning "Gen AI," the actual
+      responsibilities and desired qualifications focus entirely
+      on Java-based low-latency trading systems,
+      electronic/algorithmic trading, and exchange connectivity.
+      There is no mention of building, training, fine-tuning, or
+      deploying any AI/ML models or LLMs. The "Gen AI" in the
+      title appears to be either aspirational or a misnomer — the
+      core work is traditional software engineering for financial
+      trading platforms.
+  responsibilities:
+  - Design, develop, and optimize low-latency, high-throughput Java applications for
+    electronic trading systems
+  - Develop and maintain exchange connectivity protocols (FIX, ITCH, OUCH) and messaging
+    systems
+  - Collaborate with traders, product managers, and operations teams to gather and
+    implement requirements
+  - Troubleshoot and resolve production issues in real-time trading environments
+  - Ensure systems comply with exchange-specific rules and industry regulations
+  - Drive innovation by exploring new technologies and methodologies to improve system
+    architecture
+  - Conduct unit and interface testing using CI/CD pipelines and automated testing
+    frameworks
+  - Ensure adherence to best coding practices, security, and architectural standards
+  use_cases:
+  - Electronic trading platform development and optimization
+  - Exchange connectivity and order routing
+  - Algorithmic trading system implementation
+  - Real-time market data processing and time series data management
+  - Low-latency trading infrastructure for financial markets
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Solace, Aeron]
+    cloud: []
+    ops: [CI/CD pipelines, Git]
+    languages: [Java 8+, Multi-threaded programming]
+    domains: []
+    other: [Distributed systems, FIX protocol, ITCH protocol, OUCH protocol, Low-latency
+        optimization, Garbage collection tuning, Karate testing framework, Cucumber
+        testing framework, Agile development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9038111'
+  extracted_at: '2026-04-22T12:27:42.881224'

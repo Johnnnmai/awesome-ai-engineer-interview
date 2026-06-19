@@ -1,0 +1,59 @@
+company:
+  name: Get Well Network
+  stage: Private (backed by SymphonyAI with $1B+ R&D investment)
+  focus: |-
+    AI-native healthcare intelligence platform for clinical
+    insight, patient engagement, and care orchestration across
+    health systems
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly hands-on with building, training, and
+      deploying AI systems including LLMs, STT/TTS models, and
+      agentic frameworks. The engineer will architect and develop
+      production AI models, train speech models, and integrate
+      agentic systems - all core AI-first work.
+  responsibilities:
+  - Architect and develop production-ready AI models trained on clinical datasets
+    from hospital systems, EHRs, and patient engagement platforms
+  - Design and train speech-to-text (STT) and text-to-speech (TTS) models for voice-enabled
+    AI applications and virtual assistants in healthcare
+  - Integrate and optimize agentic systems using frameworks like LangChain, LangGraph,
+    and CrewAI for autonomous decision-making and workflow automation
+  - Lead the end-to-end AI development lifecycle from data preparation and model training
+    to evaluation, deployment, and monitoring
+  - Design and optimize cloud-based AI infrastructure on Azure focusing on scalability,
+    performance, observability, and cost-efficiency
+  - Establish and maintain scalable CI/CD pipelines, GPU-optimized runtimes, and real-time
+    or batch inference systems
+  - Set up observability tools like Langfuse, Prometheus, and Grafana to monitor AI
+    model and agentic workflow health
+  - Ensure all AI solutions adhere to HIPAA, GDPR, and healthcare compliance standards
+    with ethical AI principles
+  use_cases:
+  - Voice-enabled AI applications and virtual assistants for healthcare settings
+  - Autonomous decision-making and workflow automation through agentic systems
+  - Clinical insight extraction from structured and unstructured health data (FHIR,
+    HL7, CCDA, EHR notes)
+  - Patient engagement and personalized care delivery
+  - Care orchestration across health systems
+  - Healthcare intelligence platform for clinical teams
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, OpenAI, Claude, LLaMA, Whisper, Tacotron,
+      FastSpeech, DeepSpeech]
+    ml: [PyTorch, TensorFlow, Hugging Face]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, Azure AI services]
+    ops: [Langfuse, Prometheus, Grafana, CI/CD, Docker, Kubernetes, GPU optimization]
+    languages: [Python, C++]
+    domains: [FHIR, HL7, SNOMED, ICD-10, CCDA, NLP]
+    other: [HIPAA compliance, GDPR compliance, EHR integration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8157723'
+  extracted_at: '2026-03-03T11:55:09.016632'

@@ -1,0 +1,57 @@
+company:
+  name: Invisible Technologies
+  stage: Growth (raised $100M in growth capital, profitable, $134M revenue)
+  focus: |-
+    End-to-end AI platform for data structuring, workflow
+    automation, and agentic solutions
+position:
+  title: Staff Software Engineer, Applied AI (Forward Deployed)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that involves
+      hands-on work building and deploying AI/ML systems,
+      including LLMs, AI Agents, and RAG pipelines directly to
+      clients. The role explicitly requires model development,
+      deploying production-grade AI applications, and working with
+      agentic AI solutions — all core activities that constitute
+      building and deploying AI systems.
+  responsibilities:
+  - Build robust, scalable backend systems that support machine learning operations
+    and data processing pipelines
+  - Deploy ML-powered tools and AI solutions directly to client environments, working
+    onsite with client teams 3-4 days per week
+  - Design and implement RAG pipelines and production-grade AI applications
+  - Oversee and optimize cloud infrastructure for efficient deployment and operation
+    of ML models
+  - Collaborate with ML engineers and data scientists to integrate advanced ML technologies
+    across platforms
+  - Conduct use case discovery with senior client stakeholders to identify and develop
+    solutions for complex client needs
+  - Participate in R&D of new tools to enhance AI capabilities and workflows
+  - Support rapid iteration and deployment of machine learning solutions in production-ready
+    environments
+  use_cases:
+  - Enterprise AI deployment and agentic workflow automation
+  - Data structuring and preparation for AI model training and inference
+  - Supply chain automation
+  - AI-enabled naval simulations and defense applications
+  - Sports analytics and validation (e.g., NBA draft picks)
+  - Client-specific ML solution development across multiple industries
+  skills:
+    genai: [LLMs, AI Agents, RAG, Agentic AI, Prompt Engineering]
+    ml: [Machine Learning Model Development, PyTorch]
+    web: [Backend Development, REST APIs, FastAPI, Full-Stack Development]
+    databases: [SQL, NoSQL]
+    data: [Data Processing Pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: [Kubernetes, Docker, MLOps, CI/CD, Model Versioning, Model Monitoring, Automated
+        Testing, DevOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8891026'
+  extracted_at: '2026-04-22T13:25:25.686018'

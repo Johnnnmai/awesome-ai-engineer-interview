@@ -1,0 +1,52 @@
+company:
+  name: AlphaSense
+  stage: Series D+
+  focus: |-
+    AI-powered market intelligence and search platform for
+    enterprise decision-making
+position:
+  title: Senior Staff Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves researching, architecting, and
+      implementing AI/ML solutions including LLMs, computer
+      vision, and ML for document processing and data extraction.
+      The position requires hands-on work with the complete
+      lifecycle of AI/ML models from experimentation to production
+      deployment, making it a core AI-first engineering role.
+  responsibilities:
+  - Research, evaluate, and prototype cutting-edge AI solutions using LLMs, Computer
+    Vision, and ML for data extraction challenges
+  - Design and build scalable AI services and data processing pipelines for millions
+    of documents daily
+  - Manage LLM latency and variance, develop prompt engineering strategies, and build
+    fault-tolerant AI systems
+  - Implement state-of-the-art techniques for document classification, entity extraction,
+    and image search
+  - Act as primary AI/ML technical authority and thought leader for the engineering
+    organization
+  - Drive mission-critical AI initiatives from conception to production deployment
+  - Build and architect the AI/ML center of excellence from the ground up
+  use_cases:
+  - Document classification and entity extraction from unstructured documents
+  - Image search and multimedia content processing
+  - Intelligent insights extraction from millions of documents daily
+  - Market intelligence and enterprise search platform
+  - Processing equity research, company filings, event transcripts, and expert calls
+  skills:
+    genai: [Large Language Models (LLMs), Prompt Engineering]
+    ml: [Computer Vision, Machine Learning]
+    web: [FastAPI, Django]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, CI/CD, Infrastructure as Code, MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: [Distributed Systems, Asynchronous Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8534946'
+  extracted_at: '2026-03-03T12:20:41.234636'

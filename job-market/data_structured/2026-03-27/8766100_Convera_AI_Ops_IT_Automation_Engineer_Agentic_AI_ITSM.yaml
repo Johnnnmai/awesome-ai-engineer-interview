@@ -1,0 +1,56 @@
+company:
+  name: Convera
+  stage: unknown
+  focus: Enterprise IT service management and automation solutions
+position:
+  title: AI Ops/ IT Automation Engineer (Agentic AI ITSM)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, configuring, and
+      operating AI Agents, Agentic Workflows, and AI Functions for
+      ITSM automation. The engineer will work hands-on with LLMs,
+      RAG implementations, prompt design, and agentic AI platforms
+      like ServiceNow Agentic AI and Moveworks.
+  responsibilities:
+  - Build, configure, and maintain AI Agents for IT incidents, service requests, and
+    employee self-service
+  - Design, build, and operate Agentic Workflows including branching logic, retries/timeouts,
+    approvals, and human-in-the-loop handoffs
+  - Develop and manage Agentic Apps and execution flows for ITSM and infrastructure
+    automations
+  - Configure and operationalize AI Functions (classification, enrichment, summarization,
+    extraction) with validation controls
+  - Implement and maintain integrations using MCP, APIs, webhooks, and event-driven
+    Triggers across ITSM, identity, and collaboration systems
+  - Build and curate Knowledge sources used by agents with governance and freshness
+    controls
+  - Monitor and improve operational performance using dashboards, agent interaction
+    traces, and workflow execution logs
+  - Partner with information security teams to ensure compliance, auditability, and
+    security for AI-initiated actions
+  use_cases:
+  - IT incident management and automated resolution
+  - Employee self-service IT support
+  - Service request automation and fulfillment
+  - ITSM workflow orchestration and automation
+  - Enterprise knowledge retrieval for IT support
+  skills:
+    genai: ['Agentic AI platforms (ServiceNow, Moveworks, Aisera, Kore.ai)', LLM configuration
+        and prompt design, RAG (Retrieval-Augmented Generation), AI Agents, MCP (Model
+        Context Protocol)]
+    ml: []
+    web: [REST APIs, SOAP APIs, JSON]
+    databases: []
+    data: []
+    cloud: [Azure AD/Entra ID]
+    ops: []
+    languages: [JavaScript, Python, PowerShell]
+    domains: []
+    other: [ServiceNow, Microsoft 365, Okta, SailPoint, Nexthink, Zoom Contact Center,
+      Confluence, Jira]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8766100'
+  extracted_at: '2026-03-27T14:54:50.814253'

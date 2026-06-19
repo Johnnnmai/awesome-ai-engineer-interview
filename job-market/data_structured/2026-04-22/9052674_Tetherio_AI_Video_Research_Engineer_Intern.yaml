@@ -1,0 +1,52 @@
+company:
+  name: Tether.io
+  stage: Late Stage (established, profitable crypto company)
+  focus: |-
+    Blockchain-based stablecoin (USDT) and digital finance
+    solutions
+position:
+  title: AI Video Research Engineer Intern
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role is focused on video generation and multimodal
+      video foundation models, involving research on pre-training,
+      fine-tuning, architecture design, and distributed training
+      of deep learning models. While it involves foundation
+      models, the focus is on traditional ML/DL research
+      (diffusion models, transformers, video generation) rather
+      than LLM/agent-based systems, making it ml-first.
+  responsibilities:
+  - Research and improve open-source video and multimodal video generation foundation
+    models
+  - Focus on areas such as pre-training, supervised fine-tuning, post-training, inference,
+    architecture design, or evaluation
+  - Benchmark models against current state-of-the-art, identify bottlenecks, and propose
+    novel improvements
+  - Work with large-scale video datasets and distributed training systems
+  - Collaborate with researchers and engineers on projects with clear research and
+    publication potential
+  - Propose creative, research-driven ideas that advance the state of the art
+  use_cases:
+  - Video generation from multimodal inputs
+  - Open-source video foundation model development
+  - Multimodal video understanding and generation
+  - Large-scale video model training and benchmarking
+  skills:
+    genai: []
+    ml: [PyTorch, Diffusion Models, Transformer-based video generation models, Distributed
+        training, Deep learning, Model fine-tuning, Pre-training, Model evaluation
+        and benchmarking]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Video generation, Multimodal learning, Computer Vision, Image generation]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9052674'
+  extracted_at: '2026-04-22T13:57:53.719018'

@@ -1,0 +1,55 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: Corporate & Investment Banking, Capital Markets technology
+position:
+  title: Lead Java and Agentic AI Engineer - Capital Markets
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The job title mentions "Agentic AI" but the actual job
+      description contains zero AI/ML-related responsibilities or
+      skills. The role is entirely focused on building Java/Spring
+      Boot microservices for low-latency trading platforms
+      (pricing, risk, P&L, eTrading). The "Agentic AI" in the
+      title appears to be either aspirational or a misleading
+      label for what is fundamentally a traditional software
+      engineering role in capital markets.
+  responsibilities:
+  - Lead design and delivery of Java/Spring Boot microservices for real-time pricing,
+    risk, P&L, and trade lifecycle workflows
+  - Build and operate low-latency, highly resilient services using REST and event-driven
+    architectures
+  - Own code quality, testing strategy, CI/CD pipelines, and production readiness
+    for supported platforms
+  - Drive DevOps practices across Kubernetes/OpenShift, Docker, Jenkins/uDeploy, Gradle,
+    and Autosys
+  - Troubleshoot and resolve complex production and performance issues in a real-time
+    trading environment
+  - Partner closely with Front Office traders, Middle Office, Product, and Platform
+    teams
+  - Mentor and provide technical guidance to less experienced engineers
+  use_cases:
+  - Real-time pricing and risk calculation for Fixed Income Spread products
+  - Electronic trading platform for Credit, Municipal, and Structured Products desks
+  - P&L computation and reporting for capital markets
+  - Trade lifecycle management and workflow automation
+  - Low-latency event-driven processing for intraday trading and end-of-day batch
+    processing
+  skills:
+    genai: []
+    ml: []
+    web: [Spring Boot, REST, Angular]
+    databases: [Redis, Apache Ignite, MongoDB]
+    data: [Apache Kafka]
+    cloud: []
+    ops: [Kubernetes, OpenShift, Docker, Jenkins, uDeploy, Gradle, Autosys, CI/CD,
+      JUnit]
+    languages: [Java, TypeScript]
+    domains: [Capital Markets Fixed Income, eTrading systems]
+    other: [Agile SDLC]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9122896'
+  extracted_at: '2026-04-22T12:27:56.480112'

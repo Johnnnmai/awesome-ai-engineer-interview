@@ -1,0 +1,47 @@
+company:
+  name: FourKites
+  stage: null
+  focus: AI-driven supply chain visibility and orchestration platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: unknown
+    reasoning: |-
+      Despite the title "Senior AI Engineer", the job description
+      reads as a traditional Java backend developer role with no
+      mention of AI/ML technologies, frameworks, or
+      responsibilities. The company mentions AI in marketing copy,
+      but the actual role requirements focus solely on Java,
+      Spring, databases, and general backend development with no
+      hands-on AI/ML work.
+  responsibilities:
+  - Develop, test and maintain Java backend applications
+  - Write clean, efficient, and well-documented code
+  - Design and implement data models and database schemas
+  - Collaborate with the frontend team to integrate backend with user interface
+  - Perform code reviews and ensure code quality standards are met
+  - Troubleshoot and debug applications
+  - Work with DevOps team to deploy and manage applications in production
+  - Stay up-to-date with new technologies and industry trends
+  use_cases:
+  - Supply chain visibility platform
+  - Real-time shipment tracking
+  - Logistics landscape optimization
+  - Partner integrations ecosystem
+  skills:
+    genai: []
+    ml: []
+    web: [Spring Framework, React, RESTful APIs, microservices architecture, HTML,
+      CSS]
+    databases: [PostgreSQL, MySQL, MongoDB, Redis]
+    data: []
+    cloud: [Amazon Web Services]
+    ops: []
+    languages: [Java, GoLang, JavaScript]
+    domains: []
+    other: [Git, JIRA, Confluence]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8834091'
+  extracted_at: '2026-03-27T14:28:30.482668'

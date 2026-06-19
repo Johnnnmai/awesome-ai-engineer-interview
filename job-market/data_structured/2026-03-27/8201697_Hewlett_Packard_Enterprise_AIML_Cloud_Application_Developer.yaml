@@ -1,0 +1,50 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: Public
+  focus: |-
+    Global edge-to-cloud platform and services, Green Lake cloud
+    platform
+position:
+  title: AI/ML Cloud Application Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on GenAI-based software development,
+      designing AI/ML cloud application features, and
+      developing/maintaining GenAI modules. The position requires
+      direct work with AI/ML technologies including prompt
+      engineering and building GenAI applications, not just
+      supporting infrastructure for others.
+  responsibilities:
+  - Design simple to moderate AI/ML based cloud application features as per specifications
+  - Develop and maintain GenAI/cloud application modules adhering to security policies
+  - Design test plans, develop, execute, and automate test cases for assigned portions
+    of developed code
+  - Deploy code and troubleshoot issues in application modules and deployment environment
+  - Share and review innovative technical ideas with peers and technical contributors
+  - Analyze science, engineering, business, and data processing problems to implement
+    solutions
+  - Apply subject matter expertise to solve technical problems within established
+    frameworks
+  use_cases:
+  - Building GenAI-powered cloud applications for HPE Green Lake platform
+  - Enterprise cloud services and solutions for customers
+  - AI/ML application development for hybrid cloud environments
+  - Data processing and analytics solutions for business problems
+  - Cloud-native application development with managed services
+  skills:
+    genai: [Prompt Engineering, GenAI]
+    ml: [Scikit-learn, NumPy, Jupyter notebooks]
+    web: [Microservices, Full Stack Development]
+    databases: []
+    data: [Pandas]
+    cloud: [Cloud-native applications]
+    ops: [Kubernetes, CI/CD, DevOps]
+    languages: [Python, Golang]
+    domains: []
+    other: [Distributed Computing, Security-First Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8201697'
+  extracted_at: '2026-03-27T14:38:00.154309'

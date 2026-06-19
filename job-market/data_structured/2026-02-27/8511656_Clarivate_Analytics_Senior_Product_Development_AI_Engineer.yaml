@@ -1,0 +1,55 @@
+company:
+  name: Clarivate Analytics
+  stage: null
+  focus: |-
+    AI-powered analytics and insights platform for Life Sciences
+    and Healthcare community
+position:
+  title: Senior Product Development AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building data infrastructure and
+      pipelines that SUPPORT AI/ML work, not building AI systems
+      themselves. The engineer prepares and architectures data for
+      consumption by Data Scientists and ML systems, which is
+      classic enabling work rather than hands-on model
+      development.
+  responsibilities:
+  - Own and evolve product-level data architecture ensuring scalability and alignment
+    with AI/ML use cases
+  - Design and implement scalable data pipelines supporting product analytics and
+    AI/ML initiatives
+  - Define and maintain enterprise-aligned dimensional data models including star
+    and snowflake schemas
+  - Design and maintain fact and dimension tables ensuring correct grain and performance
+  - Partner with Product Managers, Data Scientists, and Engineers to translate requirements
+    into well-architected data models
+  - Prepare, validate, and document datasets used for analytics, experimentation,
+    and machine learning
+  - Implement monitoring, testing, and alerting for data quality and pipeline health
+  - Mentor and support data engineers through architecture reviews and design discussions
+  use_cases:
+  - Drug discovery acceleration
+  - Treatment effectiveness analysis
+  - Real-world evidence generation
+  - Patient journey insights
+  - AI-powered analytics and decision-support platforms
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [StarRocks, Snowflake, BigQuery, Amazon Redshift]
+    data: [ETL/ELT, Dimensional data modeling, Star schema, Snowflake schema, Slowly
+        changing dimensions (SCDs), Databricks, dbt, Airflow, Fivetran, Segment, Event-driven
+        data processing]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [SQL, Python]
+    domains: []
+    other: [Power BI, Tableau, JSON]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8511656'
+  extracted_at: '2026-03-03T11:13:29.907329'

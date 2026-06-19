@@ -1,0 +1,51 @@
+company:
+  name: Kyndryl
+  stage: Public
+  focus: Enterprise IT infrastructure services and modernization
+position:
+  title: AI/ML Engineer – Azure Platform Modernization
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building and operationalizing AI
+      platform infrastructure (CI/CD pipelines, Databricks
+      serverless environments, observability) rather than
+      building, training, or fine-tuning AI models. The engineer
+      collaborates with Data Science teams and provides
+      infrastructure support for AI workloads, which is enabling
+      work for others who work on AI.
+  responsibilities:
+  - Design and assess serverless compute architectures for AI workloads on Azure
+  - Implement and manage scalable Azure Databricks Serverless environments
+  - Develop and maintain CI/CD pipelines in Azure DevOps for AI and Databricks workloads
+  - Ensure reliability, observability, monitoring, and optimization of Databricks
+    and serverless services
+  - Design, build, and operationalize a central AI Platform with supporting capabilities
+  - Develop AI SDK, data masking, and PII detection capabilities
+  - Integrate Azure AI services with modern DevOps practices for performance and compliance
+  - Provide consultancy and best practices to Data Science, Cloud Engineering, and
+    DevOps teams for operationalizing AI models
+  use_cases:
+  - Enterprise platform modernization with embedded AI capabilities
+  - Data security and protection through PII detection and data masking
+  - Document intelligence and processing
+  - Automation of platform engineering workflows
+  - Responsible AI adoption with enterprise governance and compliance
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Azure Databricks, PySpark]
+    cloud: [Azure Functions, Event Grid, Logic Apps, Azure AI Services, Serverless
+        computing]
+    ops: [Azure DevOps, Terraform, CI/CD, MLOps, Infrastructure-as-Code, Observability
+        and monitoring]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8698546'
+  extracted_at: '2026-03-27T15:53:51.822777'

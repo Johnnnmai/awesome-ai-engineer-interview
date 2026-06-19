@@ -1,0 +1,57 @@
+company:
+  name: Alteryx
+  stage: Public
+  focus: Data analytics and AI-powered workflow automation platform
+position:
+  title: Sr. Software Engineer (Front-End, JavaScript/TypeScript, React, AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly builds and delivers AI-powered frontend
+      experiences including Copilot (conversational/agentic
+      surfaces), GenAI Tools, and MCP-based extensibility
+      experiences. While it's a frontend engineering role, it
+      involves implementing AI capabilities end-to-end — building
+      the interfaces for agentic systems, conversational AI, and
+      tool actions that connect to shared AI services. This goes
+      beyond supporting AI infrastructure to actively delivering
+      AI product features.
+  responsibilities:
+  - Own and deliver high-value frontend features across Copilot, GenAI Tools, and
+    other AI experiences embedded in Alteryx products
+  - Build and evolve reusable UI patterns for conversational experiences, workflow-native
+    AI tooling, tool actions, and context-aware workflows
+  - Collaborate with cross-functional partners to explore problem spaces, clarify
+    requirements, shape implementation plans, and ship customer-facing improvements
+  - Partner with backend, platform, and domain teams on AI-ready APIs, telemetry,
+    and MCP-oriented integration points
+  - Contribute to software design, code reviews, testing strategy, telemetry, and
+    engineering practices that improve reliability and developer velocity
+  - Mentor engineers through thoughtful feedback, pairing, and day-to-day technical
+    collaboration
+  - Help the team respond quickly to new AI opportunities while making sound tradeoffs
+    around performance, quality, and maintainability
+  use_cases:
+  - Conversational AI assistant (Copilot) for data analytics workflows
+  - GenAI-powered tools embedded in Alteryx Designer for workflow automation
+  - MCP-based extensibility framework connecting Alteryx products to agentic ecosystems
+  - AI-ready product APIs enabling third-party agent integration
+  - Context-aware workflow experiences leveraging AI capabilities
+  skills:
+    genai: [MCP, LLM-powered UI experiences, Conversational UI patterns, Agentic product
+        experiences]
+    ml: []
+    web: [React, HTML, CSS, REST APIs, Micro-frontend architectures, Service-oriented
+        architectures, Accessibility]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, GitLab, GitHub, Automated testing, Kubernetes]
+    languages: [TypeScript, JavaScript, Python, C#]
+    domains: []
+    other: [.NET]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8936207'
+  extracted_at: '2026-04-22T13:04:18.717670'

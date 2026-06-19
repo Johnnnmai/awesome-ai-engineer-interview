@@ -1,0 +1,186 @@
+job_id: 8408374
+title: "Staff Software Engineer, AI & Strategy"
+company: Toast
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Go
+  - Java
+  - Lambda
+  - Langchain
+  - Llms
+  - Ml
+  - Python
+  - Rag Architectures
+  - Sagemaker
+description: |
+  Toast creates technology to help restaurants and local
+  businesses succeed in a digital world, helping business
+  owners operate, increase sales, engage customers, and keep
+  employees happy.
+  
+  Toast is looking for a hands-on Staff Software Engineer to
+  join the AI & Strategy Engineering team. In this role, you
+  will be a primary builder of 0-to-1 tools designed to
+  revolutionize how our sales teams operate. This isn't about
+  maintaining legacy systems; it’s about writing the code and
+  building the intelligence models that eliminate friction
+  across the Go-To-Market stack.
+  
+  Working under a Senior technical leader, you will be
+  responsible for the "heavy lifting" of backend engineering
+  and Machine Learning implementation. You will bridge our
+  custom quoting software and Salesforce with intelligent,
+  agentic workflows that allow sales users to make faster,
+  data-backed decisions.
+  
+  A day in the life (Responsibilities)
+  
+  - Hands-on Execution: Spend the majority of your time "hands-
+    on-keyboard," architecting and coding high-performance
+    backend services and ML pipelines.
+  - 0-to-1 Development: Build and prototype new internal
+    products from scratch that leverage LLMs and Agentic AI to
+    automate account research, lead prioritization, and
+    complex quoting logic.
+  - Core Intelligence Models: Design and implement ML models
+    that provide real-time recommendations to sales users,
+    reducing manual entry and increasing deal velocity.
+  - Infrastructure Integration: Develop the backend connective
+    tissue between our custom quoting engine, Salesforce, and
+    internal data lakes to ensure a seamless, low-latency end-
+    to-end experience.
+  - Technical Problem Solving: Act as a domain expert to solve
+    complex synchronization and architectural challenges
+    across the GTM stack, ensuring systems are scalable and
+    resilient.
+  - Quality & Mentorship: Drive engineering excellence through
+    rigorous code reviews, automated testing, and by modeling
+    best practices for SE1-SE3 engineers on the team.
+  - Build Great Products: Deliver significant core capabilities
+    that have broad impact; take high-level goals and turn
+    them into sequenced, production-ready code.
+  - Problem Solve: Anticipate shifts in product needs and build
+    flexible, decoupled backend systems that can evolve with
+    our AI strategy.
+  - Deliver Quality: Ensure the reliability of GTM tools by
+    building deep observability into every service you ship.
+  
+  What you'll need to thrive (Requirements)
+  
+  - Deep Backend Expertise: Extensive experience in backend
+    languages (Java, Go, Python) with a track record of
+    building complex, distributed systems.
+  - Applied AI/ML Skills: Practical, hands-on experience
+    deploying Machine Learning models and building with LLMs
+    (e.g., LangChain, RAG architectures, or Model Fine-tuning)
+    in a production environment.
+  - Technical Complexity: Experience building or deeply
+    integrating with complex enterprise software, specifically
+    custom quoting engines or CRM internals (Salesforce
+    Apex/LWC).
+  - Systems Architecture: Ability to design event-driven
+    architectures and manage data flow across disparate
+    systems with high integrity.
+  - Education: Bachelor’s or Master’s degree in Computer
+    Science, or a related technical field.
+  
+  What will help you stand out (Nonessential Skills/Nice to
+  Haves)
+  
+  - Experience building internal "Sales Tech" or "Fintech" tools
+    that directly impact revenue.
+  - Familiarity with AWS data services (SageMaker, Lambda, SQS).
+  - A passion for removing "human-in-the-loop" friction through
+    intelligent automation.
+  
+  AI at Toast
+  
+  At Toast, one of our company values is that we're hungry to
+  build and learn. We believe learning new AI tools empowers
+  us to build for our customers faster, more independently,
+  and with higher quality. We provide these tools across all
+  disciplines, from Engineering and Product to Sales and
+  Support, and are inspired by how our Toasters are already
+  driving real value with them. The people who thrive here are
+  those who embrace changes that let us build more for our
+  customers; it’s a core part of our culture.
+  
+  Our Total Rewards Philosophy  We strive to provide
+  competitive compensation and benefits programs that help to
+  attract, retain, and motivate the best and brightest people
+  in our industry. Our total rewards package goes beyond great
+  earnings potential and provides the means to a healthy
+  lifestyle with the flexibility to meet Toasters’ changing
+  needs. Learn more about our benefits at
+  https://careers.toasttab.com/toast-benefits.
+  
+  The base salary range for this role is listed below. The
+  starting salary will be determined based on skills and
+  experience. In addition to base salary, our total rewards
+  components include cash compensation (overtime,
+  bonus/commissions, if eligible), benefits, and equity (if
+  eligible).
+  
+  Pay Range
+  
+  $168,000—$269,000 USD
+  
+  How Toast Uses AI in its Hiring Process
+  
+  Throughout the hiring process, our goal is to get to know
+  you. We use AI tools to support our recruiters and
+  interviewers with tasks like note-taking, summarization, and
+  documentation of interviews to ensure they can be fully
+  focused on your conversation. All hiring decisions are made
+  by people.
+  
+  Diversity, Equity, and Inclusion is Baked into our Recipe
+  for Success
+  
+  At Toast, our employees are our secret ingredient—when they
+  thrive, we thrive. The restaurant industry is one of the
+  most diverse, and we embrace that diversity with
+  authenticity, inclusivity, respect, and humility. By
+  embedding these principles into our culture and design, we
+  create equitable opportunities for all and raise the bar in
+  delivering exceptional experiences.
+  
+  We Thrive Together
+  
+  We embrace a hybrid work model that fosters in-person
+  collaboration while valuing individual needs. Our goal is to
+  build a strong culture of connection as we work together to
+  empower the restaurant community. To learn more about how we
+  work globally and regionally, check out:
+  https://careers.toasttab.com/locations-toast.
+  
+  Apply today!
+  
+  Toast is committed to creating an accessible and inclusive
+  hiring process. As part of this commitment, we strive to
+  provide reasonable accommodations for persons with
+  disabilities to enable them to access the hiring process. If
+  you need an accommodation to access the job application or
+  interview process, please contact
+  candidateaccommodations@toasttab.com.
+  
+  ------
+  
+  For roles in the United States, it is unlawful in
+  Massachusetts to require or administer a lie detector test
+  as a condition of employment or continued employment. An
+  employer who violates this law shall be subject to criminal
+  penalties and civil liability.
+industries:
+  - Cloud
+  - Fintech
+  - Food
+  - Information Technology
+  - Software
+  - Hospitality
+posted_date: 2026-03-22
+url: "https://www.builtinla.com/job/staff-software-engineer/8408374"
+source: Built In

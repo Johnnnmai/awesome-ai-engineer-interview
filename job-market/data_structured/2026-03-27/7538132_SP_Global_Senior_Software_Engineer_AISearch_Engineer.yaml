@@ -1,0 +1,52 @@
+company:
+  name: S&P Global
+  stage: Public
+  focus: |-
+    Credit ratings, analytics, and financial intelligence
+    services
+position:
+  title: Senior Software Engineer (AI/Search Engineer)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and implementing AI/ML
+      systems including RAG pipelines, agentic workflows, vector
+      stores, and generative AI capabilities. The engineer will
+      work hands-on with LangChain/LangGraph, embedding
+      generation, and semantic retrieval to enhance search
+      experiences.
+  responsibilities:
+  - Enhance search experience with generative and personalization capabilities
+  - Integrate search and AI/ML capabilities including semantic enrichment, relevance,
+    and generative augmentation into the platform
+  - Build agentic workflows and AI/ML solutions for search and data retrieval
+  - Implement and improve RAG and context engineering solutions
+  - Work with vector stores to improve data retrieval accuracy and optimize storage
+    and retrieval
+  - Design, implement, and enhance Java microservices and shared framework modules
+  - Build and maintain event-driven components and data pipelines using Kafka
+  - Create proof-of-concepts evaluating new libraries or approaches and communicate
+    findings
+  use_cases:
+  - Enterprise search with generative AI capabilities
+  - Semantic search and data retrieval for financial analytics
+  - Personalized search experiences for ratings and analytics applications
+  - Context-aware information retrieval using RAG
+  - Agentic workflows for automated data retrieval and processing
+  skills:
+    genai: [LangChain, LangGraph, RAG, Agentic workflows, Embedding generation]
+    ml: []
+    web: [Spring Boot, RESTful APIs]
+    databases: [Vector databases, Elasticsearch, OpenSearch, Lucene]
+    data: [Kafka]
+    cloud: []
+    ops: [Docker, Prometheus, Grafana, OpenTelemetry, GitHub Actions, Jenkins, JUnit,
+      Mockito, Git]
+    languages: [Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7538132'
+  extracted_at: '2026-03-27T16:03:53.889436'

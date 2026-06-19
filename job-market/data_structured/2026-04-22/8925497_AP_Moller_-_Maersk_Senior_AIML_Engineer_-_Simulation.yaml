@@ -1,0 +1,56 @@
+company:
+  name: A.P. Moller - Maersk
+  stage: Public
+  focus: Global shipping and logistics conglomerate
+position:
+  title: Senior AI/ML Engineer - Simulation
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role is focused on simulation modeling (digital twins,
+      discrete-event simulation) and operations
+      research/optimization for logistics. While ML frameworks
+      like TensorFlow, PyTorch, and scikit-learn appear as nice-
+      to-have skills for enhancing simulations (e.g., predictive
+      maintenance, anomaly detection), the core work is simulation
+      and optimization rather than building or deploying AI/ML
+      models. The ML component is secondary and additive, making
+      this ml-first rather than ai-first.
+  responsibilities:
+  - Develop and maintain digital twin simulations for warehouse and logistics systems,
+    modeling system states, events, and resource interactions
+  - Create and optimize network models to improve flow, resource allocation, and operational
+    performance
+  - Collaborate with stakeholders to integrate simulation and optimization solutions
+    into existing workflows
+  - Analyze simulation outputs to pinpoint inefficiencies and recommend actionable
+    improvements
+  - Write modular, testable, and efficient code to support simulation and optimization
+    projects
+  - Document processes, methodologies, and findings for technical and non-technical
+    audiences
+  use_cases:
+  - Digital twin simulation of warehouse and logistics systems
+  - Network optimization for resource allocation and operational efficiency
+  - Discrete-event simulation modeling of warehouse flows and resource interactions
+  - Predictive maintenance and anomaly detection in digital twins via ML integration
+  - Vehicle routing and assignment problem optimization for logistics
+  skills:
+    genai: []
+    ml: [scikit-learn, TensorFlow, PyTorch]
+    web: [REST APIs, Flask, FastAPI, Dash, Streamlit]
+    databases: []
+    data: [pandas, NumPy, Kafka]
+    cloud: []
+    ops: [Git, CI/CD, Docker]
+    languages: [Python, SQL]
+    domains: []
+    other: [SimPy, Discrete-Event Simulation, OR-Tools, Pyomo, PuLP, Linear Programming
+        / Mixed-Integer Programming, NetworkX, Matplotlib, Seaborn, Plotly, Gurobi,
+      CPLEX, MQTT, GeoPandas, Vehicle Routing Problems (VRP), 'Meta-heuristics (Tabu
+        Search, Genetic Algorithms, Simulated Annealing)', Agent-based modeling]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8925497'
+  extracted_at: '2026-04-22T12:27:44.300312'

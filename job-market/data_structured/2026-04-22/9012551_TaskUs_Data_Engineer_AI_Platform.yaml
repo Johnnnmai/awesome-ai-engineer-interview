@@ -1,0 +1,45 @@
+company:
+  name: TaskUs
+  stage: Public
+  focus: |-
+    Outsourced digital services and next-generation customer
+    experience
+position:
+  title: Data Engineer (AI Platform)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is a data engineer building data infrastructure
+      and pipelines that support an AI platform, but does not
+      directly build, train, fine-tune, or deploy AI/ML models.
+      The work involves ingestion, transformation, storage, and
+      API access to data that powers AI capabilities—classic
+      enabling/support work for AI teams.
+  responsibilities:
+  - Build and maintain data ingestion pipelines for batch and streaming workloads
+  - Design ETL/ELT workflows for processing transcripts and metadata
+  - Implement data normalization, tagging, and enrichment pipelines
+  - Manage storage layers including S3, data lakes, and vector stores
+  - Enable secure, API-based access to customer data within VPC environments
+  - Ensure data quality, reliability, and observability across the platform
+  use_cases:
+  - Scalable data ingestion and transformation for AI platform
+  - Processing and enriching transcripts and metadata for downstream AI consumption
+  - Vector storage and retrieval to support GenAI/embeddings workflows
+  - Secure customer data access via APIs for AI-driven customer experience services
+  skills:
+    genai: [GenAI Pipelines, Embeddings Workflows]
+    ml: []
+    web: [REST APIs]
+    databases: [Pinecone, OpenSearch, Vector Databases, Data Lakes]
+    data: [Airflow, Spark, Kafka, ETL/ELT, Data Modeling]
+    cloud: [AWS S3, AWS Glue, AWS Lambda, AWS Kinesis, AWS Athena]
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [Data Privacy and Governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9012551'
+  extracted_at: '2026-04-22T13:30:46.391040'

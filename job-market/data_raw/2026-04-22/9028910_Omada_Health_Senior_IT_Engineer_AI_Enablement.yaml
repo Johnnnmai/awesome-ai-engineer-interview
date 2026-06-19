@@ -1,0 +1,301 @@
+job_id: 9028910
+title: Senior IT Engineer, AI Enablement
+company: Omada Health
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Mcp
+  - Oauth
+  - Python
+  - Rest
+  - SaaS
+  - Webhooks
+description: |
+  Omada Health is on a mission to inspire and engage people in
+  lifelong health, one step at a time. The Omada IT department
+  builds and operates resilient, scalable services that
+  empower everyone at Omada. Increasingly, that means putting
+  the right AI capabilities in the right people's hands.
+  
+  Job Overview:
+  
+  The Senior IT Engineer, AI Enablement is a senior individual
+  contributor who builds and expands Omada's MCP ecosystem,
+  connecting SaaS tools and internal systems via MCP servers,
+  writing skills, composing tool bundles for different teams,
+  and deploying them to the right people. You are the bridge
+  between what AI can do and what Omada's teams actually need
+  it to do.
+  
+  You will work directly with department champions across the
+  company to understand their workflows, surface opportunities
+  for AI-driven automation, and turn those opportunities into
+  real, working integrations. Your daily question is: what new
+  capability did I unlock for the company today?
+  
+  This role sits on a small, high-impact team within IT that
+  owns business process automation and agentic/AI-driven
+  automation. You'll partner with Senior IT Engineers,
+  Automation and work under the Senior Manager, IT Automation.
+  We're hiring two people for this role.
+  
+  You'll use Omada's MCP control plane, not as a system to
+  babysit, but as the platform that lets you move fast and
+  ship integrations safely. You build with security and
+  governance in mind from the start because it's the right way
+  to build, not because someone else is watching the
+  dashboards.
+  
+  And you’ll document and socialize as you go, so the entire
+  IT org understands this emergent technology and can multiply
+  your impact throughout the organization.
+  
+  Responsibilities:AI Enablement & Adoption
+  
+  - Serve as the primary point of contact for department
+    champions across Omada, working with them to understand
+    their day-to-day workflows and identify where AI-assisted
+    automation creates real leverage.
+  - Drive AI adoption across the company by deploying tool
+    bundles that are actually useful, making sure integrations
+    fit how teams work rather than asking teams to adapt to
+    what's technically convenient.
+  - Run a continuous feedback loop: gather usage signals and
+    qualitative input from champions, identify what's working
+    and what's falling flat, and iterate accordingly.
+  - Build lightweight documentation, reference examples, and
+    enablement materials that help non-technical stakeholders
+    understand what's possible and how to request new
+    capabilities.
+  - Represent the needs of end users and champions when making
+    integration decisions; you are their voice in the build
+    process.
+  
+  MCP Integration & Build
+  
+  - Integrate SaaS and internal applications with Omada's MCP
+    ecosystem by building and configuring MCP servers, adding
+    tools, and handling authentication patterns including
+    OAuth and webhooks.
+  - Write skills that expose the right actions and data to AI
+    agents in a clear, composable way.
+  - Compose skills and tools into role-appropriate bundles,
+    scoped to what each team and function actually needs, not
+    everything at once.
+  - Deploy tool bundles to ABAC groups, managing access so the
+    right people get the right capabilities without
+    overprovisioning.
+  - Partner with the Senior IT Engineers, Automation on
+    integrations that span MCP and workflow automation,
+    ensuring handoffs and shared patterns are consistent.
+  - Participate in design reviews for new MCP integrations to
+    catch potential issues early and keep the ecosystem
+    coherent.
+  - Teach and mentor IT team members as you go. Be the SMEs that
+    help us understand and internalize this tech.
+  
+  Governance & Responsible Building
+  
+  - Build MCP servers and skills that follow least-privilege
+    principles from day one, scoping access to what an
+    integration actually needs, and nothing more.
+  - Contribute to Omada's standards and policies for MCP server
+    onboarding, skill review, and access governance, as a
+    practitioner who cares about getting it right, not as a
+    compliance gatekeeper.
+  - Ensure integrations handle data appropriately given Omada's
+    health data environment. Understand what data flows where,
+    flag concerns early, and work with Security and Compliance
+    when review is warranted.
+  - Maintain audit-friendly integration configurations so that
+    security and compliance teams have the visibility they
+    need without heroic effort on their part.
+  - Collaborate with Security on risk assessment for high-
+    sensitivity integrations, and translate security
+    requirements into practical implementation decisions.
+  
+  Platform Craft
+  
+  - Maintain a working knowledge of the MCP control plane
+    configuration and capabilities so you can ship
+    integrations efficiently and troubleshoot confidently.
+  - Identify gaps in the current integration library and propose
+    a prioritized roadmap for new MCP servers and skills,
+    informed by champion feedback and team-level demand.
+  - Contribute to reusable patterns, shared templates, and
+    internal documentation that raise the quality bar for
+    everyone building on the platform.
+  - Stay current on the MCP ecosystem, agentic frameworks, and
+    adjacent tooling. Bring relevant innovations back to the
+    team.
+  
+  What Great Looks Like:
+  
+  - Ships new MCP integrations and skill bundles regularly,
+    moves from "teams want this capability" to "teams are
+    using this capability" with speed and confidence.
+  - Earns trust with department champions by listening
+    carefully, delivering on commitments, and iterating when
+    something isn't quite right.
+  - Builds integrations that hold up over time: well-scoped
+    permissions, thoughtful data handling, clear
+    documentation. Don’t just build POCs that work on day one.
+  - Operates autonomously but communicates proactively:
+    stakeholders always know what's in progress, what's
+    blocked, and what's coming next.
+  - Thinks about the whole adoption curve, not just the
+    technical implementation. Considers onboarding, training,
+    and feedback from the start.
+  - Demonstrates strong judgment about when to move fast and
+    when to slow down and involve Security or Compliance.
+  - Influences how the team builds by contributing ideas,
+    patterns, and standards that make the MCP ecosystem better
+    for everyone who relies on it.
+  - Measures their own success by whether teams are actually
+    using what was built, and digs in when adoption isn't
+    happening.
+  
+  Candidate Requirements:
+  
+  - Hands-on experience building with MCP; configuring or
+    authoring MCP servers, connecting tools, writing skills,
+    and working with agentic frameworks.
+  - Strong SaaS API integration experience: REST, webhooks,
+    OAuth, and the practical realities of connecting
+    enterprise applications reliably.
+  - Understanding of ABAC, access control, and governance
+    principles for AI/LLM deployments, including how to apply
+    least-privilege in practice.
+  - Expertise working directly with non-technical stakeholders,
+    understanding their needs, translating them into technical
+    solutions, and maintaining the relationship through
+    iteration.
+  - Demonstrated track record of driving tool adoption,
+    developer enablement, or similar change; not just building
+    things, but getting people to use them.
+  - Ability to write and maintain integration code (Python or
+    similar). Comfortable authoring and debugging scripts, not
+    just configuring UIs.
+  - 7+ years of experience in a systems integration, developer
+    enablement, internal tooling, or closely related role.
+  - Strong communication skills; able to explain technical
+    decisions and trade-offs clearly to audiences ranging from
+    engineers to business leaders.
+  - Strong ability to get abstract or specific with
+    stakeholders. Can whiteboard data flows, think creatively
+    on the fly.
+  - Comfortable operating with high autonomy in a fast-paced
+    environment while managing multiple concurrent integration
+    projects.
+  
+  Nice‑to‑Haves:
+  
+  - Experience working in healthcare or another HIPAA-regulated
+    environment and familiarity with the data handling
+    expectations that come with it.
+  - Experience running AI adoption programs, internal developer
+    advocacy, or technology change management initiatives.
+  - Familiarity with AI governance and MCP management platforms.
+  - Experience with adjacent automation tools such as Tines,
+    n8n, or iPaaS platforms, especially building workflows
+    that complement MCP-based integrations.
+  - Familiarity with identity and access management concepts
+    (SSO, SAML/OIDC, SCIM) as they apply to enterprise SaaS
+    integrations.
+  
+  Benefits:
+  
+  - Competitive salary with generous annual cash bonus
+  - Equity grants
+  - Remote first work from home culture
+  - Flexible Time Off to help you rest, recharge, and connect
+    with loved ones
+  - Generous parental leave
+  - Health, dental, and vision insurance (and above market
+    employer contributions)
+  - 401k retirement savings plan
+  - Lifestyle Spending Account (LSA)
+  - Mental Health Support Solutions
+  - ...and more!
+  
+  It takes a village to change health care. As we build
+  together toward our mission, we strive to embody the
+  following values in our day-to-day work. We hope these hold
+  meaning for you as well as you consider Omada!
+  
+  - Cultivate Trust. We listen closely and we operate with
+    kindness. We provide respectful and candid feedback to
+    each other.
+  - Seek Context. We ask to understand and we build connections.
+    We do our research up front to move faster down the road.
+  - Act Boldly. We innovate daily to solve problems, improve
+    processes, and find new opportunities for our members and
+    customers.
+  - Deliver Results. We reward impact above output. We set a
+    high bar, we’re not afraid to fail, and we take pride in
+    our work.
+  - Succeed Together. We prioritize Omada’s progress above team
+    or individual. We have fun as we get stuff done, and we
+    celebrate together.
+  - Remember Why We’re Here. We push through the challenges of
+    changing health care because we know the destination is
+    worth it.
+  
+  About Omada Health: Omada Health is a between-visit
+  healthcare provider that addresses lifestyle and behavior
+  change elements for individuals managing chronic conditions.
+  Omada’s multi-condition platform treats diabetes,
+  hypertension, prediabetes, musculoskeletal, and GLP-1
+  management. With insights from connected devices and AI-
+  supported tools, Omada care teams deliver care that is
+  rooted in evidence and unique to every member, unlocking
+  results at scale. With more than a decade of experience and
+  data, and 29 peer-reviewed publications showcasing clinical
+  and economic proof points, Omada’s approach is designed to
+  improve health outcomes and contain costs. Our customers
+  include health plans, pharmacy benefit managers, health
+  systems, and employers ranging from small businesses to
+  Fortune 500s. At Omada, we aim to inspire and empower people
+  to make lasting health changes on their own terms. For more
+  information, visit: https://www.omadahealth.com/
+  
+  Omada is thrilled to share that we’ve been certified as a
+  Great Place to Work! Please click here for more information.
+  
+  We carefully hire the best talent we can find, which means
+  actively seeking diversity of beliefs, backgrounds,
+  education, and ways of thinking. We strive to build an
+  inclusive culture where differences are celebrated and
+  leveraged to inform better design and business decisions.
+  Omada is proud to be an equal opportunity workplace and
+  affirmative action employer. We are committed to equal
+  opportunity regardless of race, color, religion, sex, gender
+  identity, national origin, ancestry, citizenship, age,
+  physical or mental disability, legally protected medical
+  condition, family care status, military or veteran status,
+  marital status, domestic partner status, sexual orientation,
+  or any other basis protected by local, state, or federal
+  laws.
+  
+  Below is a summary of salary ranges for this role in the
+  following geographies:
+  
+  California, New York State and Washington State Base
+  Compensation Ranges: $142,600 - $178,300*, Colorado Base
+  Compensation Ranges: $136,400 - $170,500*. Other states may
+  vary.
+  
+  This role is also eligible for participation in annual cash
+  bonus and equity grants.
+  
+  *The actual offer, including the compensation package, is
+  determined based on multiple factors, such as the
+  candidate's skills and experience, and other business
+  considerations.
+  
+  Please click here for more information on our Candidate
+  Privacy Notice.
+posted_date: 2026-04-13
+url: "https://www.builtinla.com/job/senior-it-engineer-ai-enablement/9028910"
+source: Built In

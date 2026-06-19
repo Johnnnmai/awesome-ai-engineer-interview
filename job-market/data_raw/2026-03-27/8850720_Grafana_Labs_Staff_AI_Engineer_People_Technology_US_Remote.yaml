@@ -1,0 +1,269 @@
+job_id: 8850720
+title: "Staff AI Engineer, People Technology | US | Remote"
+company: Grafana Labs
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - BigQuery
+  - Claude
+  - Docebo
+  - Gemini
+  - Google Cloud Platform
+  - Greenhouse
+  - Openai
+  - Python
+  - Salesforce
+  - SQL
+description: |
+  Grafana Labs is a remote-first, open-source powerhouse.
+  There are more than 20M users of Grafana, the open source
+  visualization tool, around the globe, monitoring everything
+  from beehives to climate change in the Alps. The instantly
+  recognizable dashboards have been spotted everywhere from a
+  NASA launch and Minecraft HQ to Wimbledon and the Tour de
+  France. Grafana Labs also helps more than 3,000 companies --
+  including Bloomberg, JPMorgan Chase, and eBay -- manage
+  their observability strategies with the Grafana LGTM Stack,
+  which can be run fully managed with Grafana Cloud or self-
+  managed with the Grafana Enterprise Stack, both featuring
+  scalable metrics (Grafana Mimir), logs (Grafana Loki), and
+  traces (Grafana Tempo).
+  
+  We’re scaling fast and staying true to what makes us
+  different: an open-source legacy, a global collaborative
+  culture, and a passion for meaningful work. Our team thrives
+  in an innovation-driven environment where transparency,
+  autonomy, and trust fuel everything we do.
+  
+  You may not meet every requirement, and that’s okay. If this
+  role excites you, we’d love you to raise your hand for what
+  could be a truly career-defining opportunity.
+  
+  This is a remote opportunity and we are looking for
+  candidates from the U.S.
+  
+  The Opportunity
+  
+  Grafana Labs is looking for a Staff AI Engineer, People
+  Technology to help build the next generation of AI-powered
+  systems that support our global workforce and People
+  programs. This role sits within the People Technology team,
+  partnering closely with People Operations, Talent
+  Acquisition, Enablement, Finance, and Go-to-Market teams to
+  design intelligent workflows and data products that improve
+  how we hire, develop, and support Grafanistas worldwide.
+  
+  At Grafana Labs, we believe AI should be actually useful.
+  Our approach to AI is grounded in solving real problems and
+  creating practical tools that help teams work better. As
+  part of this philosophy, you’ll apply AI thoughtfully within
+  our People systems, building solutions that improve how we
+  operate and support team members.
+  
+  As our first People Team AI Engineer, you’ll architect and
+  implement AI-driven solutions that unlock insights from our
+  People data ecosystem, including BigQuery and systems such
+  as Workday, Greenhouse, Docebo, Tangelo, and Salesforce.
+  Your work will focus on creating scalable data pipelines,
+  automation, and AI-powered workflows that drive operational
+  efficiency and deliver actionable insights for People
+  leaders.
+  
+  This role requires both technical depth and a strong
+  understanding of data governance, privacy, and responsible
+  AI practices. You’ll help establish standards for
+  anonymization, ethical AI usage, and secure handling of
+  sensitive People data while building systems that empower
+  the People team to make data-informed decisions.
+  
+  As a Staff-level engineer, you will also set technical
+  direction, mentor other engineers, and influence how AI is
+  adopted and governed across the broader organization, not
+  just within the People team.
+  
+  This is an opportunity to play a foundational role in
+  shaping how AI supports the employee lifecycle at Grafana
+  Labs, from recruiting and onboarding to development,
+  engagement, and workforce planning.
+  
+  What You'll Be Doing
+  
+  AI Architecture & People Data Intelligence
+  
+  - Design and build AI-powered workflows, agents, and analytics
+    tools that transform People data into actionable insights
+    and reduce manual processes across the People Team
+  - Architect solutions that leverage BigQuery as the central
+    data layer, integrating platforms such as Workday,
+    Greenhouse, Docebo, Tangelo, Salesforce, and other
+    internal systems
+  - Establish and maintain CI/CD pipelines, testing frameworks,
+    and observability standards for AI systems and automated
+    workflows
+  - Define prompt engineering standards, version control
+    practices, and evaluation frameworks for LLM-based systems
+    operating on People data
+  - Partner with People Analytics to ensure AI systems operate
+    on well-governed, high-quality datasets and align with
+    established workforce metrics and data models
+  - Build internal dashboards, AI assistants, or automated
+    workflows that support reporting, insights, and
+    operational efficiency
+  - Collaborate with People partners to translate business
+    problems into scalable technical solutions
+  - Define and track success metrics and measurable business
+    outcomes for AI initiatives, including efficiency gains,
+    time savings, and decision quality improvements
+  
+  Responsible AI, Security & Data Governance
+  
+  - Design systems that securely handle sensitive employee data
+    using anonymization, aggregation, and robust access
+    controls
+  - Establish governance standards for AI models, prompts, and
+    automation workflows, ensuring compliance with internal
+    security, privacy, and regulatory requirements
+  - Implement monitoring and evaluation frameworks that ensure
+    AI systems operate accurately, fairly, and reliably over
+    time
+  
+  Cross-Functional Collaboration & Enablement
+  
+  - Partner closely with Data Engineering and teams across
+    People, IT, Security and Privacy, Finance, and GTM
+    Operations to align data architecture and AI capabilities
+  - Collaborate with other AI Engineers across the organization
+    to align on architecture patterns, shared tooling, and
+    company-wide AI standards
+  - Document systems, architecture decisions, and governance
+    frameworks for People AI initiatives
+  - Help establish internal standards for AI experimentation,
+    deployment, and measurement of impact
+  - Provide guidance and enablement to People teams adopting AI-
+    driven tools and workflows
+  - Create training materials, playbooks, and scalable
+    frameworks that enable People team members to confidently
+    build, trigger, and measure AI-assisted workflows
+    independently
+  
+  Technical Leadership
+  
+  - Set technical direction for AI architecture within the
+    People technology ecosystem
+  - Mentor and provide technical guidance to engineers and
+    technical partners working on adjacent systems
+  - Influence cross-functional architecture decisions,
+    advocating for responsible, scalable, and well-governed AI
+    practices across the organization
+  - Drive alignment between AI initiatives and broader
+    engineering standards, ensuring People systems are not
+    built in isolation
+  
+  What Makes You a Great Fit
+  
+  - 7+ years of engineering or data engineering experience,
+    including 2+ years working with AI/ML systems or LLM-based
+    workflows. Demonstrated ability to set technical
+    direction, mentor engineers, and drive organization-wide
+    impact through AI or automation initiatives
+  - Strong experience working with Google Cloud Platform and
+    BigQuery for data processing and analytics
+  - Proficiency in Python, SQL, modern APIs, and LLM platforms
+    or frameworks (OpenAI, Gemini, Claude, or similar),
+    including integrating enterprise SaaS systems such as HRIS
+    or CRM platforms
+  - Experience designing scalable data pipelines, automation
+    frameworks, and analytics platforms, with a strong
+    knowledge of data modeling, ETL/ELT pipelines, and
+    analytics infrastructure
+  - Experience working with sensitive data environments and
+    implementing responsible AI practices, including
+    anonymization, access controls, governance, and regulatory
+    considerations when applying AI to People data
+  - Ability to partner with both technical and non-technical
+    stakeholders to define and deliver solutions, document
+    systems clearly, and translate evolving business needs
+    into scalable technical solutions
+  
+  Bonus Points
+  
+  - Experience working with HR technology ecosystems such as
+    Workday, Greenhouse, and learning platforms
+  - Background in People Analytics or workforce analytics
+    platforms
+  - Experience building internal AI tools, copilots, or
+    automation agents for business teams
+  - Familiarity with workflow automation platforms (Zenphi, n8n,
+    Workato, Zapier, Make, etc.)
+  - Experience working in high-growth SaaS or distributed
+    organizations
+  - Contributions to AI governance frameworks, responsible AI
+    standards, or open-source AI tooling
+  
+  In the United States, the base compensation range for this
+  role is USD $174,986 - USD $209,983. Actual compensation may
+  vary based on level, experience, and skillset as assessed
+  throughout the interview process. All of our roles include
+  Restricted Stock Units (RSUs), giving every team member
+  ownership in Grafana Labs' success. We believe in shared
+  outcomes—RSUs help us stay aligned and invested as we scale
+  globally.
+  
+  *Compensation ranges are country specific. If you are
+  applying for this role from a different location than listed
+  above, your recruiter will discuss your specific market’s
+  defined pay range & benefits at the beginning of the
+  process.
+  
+  Why You’ll Thrive at Grafana Labs:
+  
+  - 100% Remote, Global Culture - As a remote-only company, we
+    bring together talent from around the world, united by a
+    culture of collaboration and shared purpose.
+  - Scaling Organization – Tackle meaningful work in a high-
+    growth, ever-evolving environment.
+  - Transparent Communication – Expect open decision-making and
+    regular company-wide updates.
+  - Innovation-Driven – Autonomy and support to ship great work
+    and try new things.
+  - Open Source Roots – Built on community-driven values that
+    shape how we work.
+  - Empowered Teams – High trust, low ego culture that values
+    outcomes over optics.
+  - Career Growth Pathways – Defined opportunities to grow and
+    develop your career.
+  - Approachable Leadership – Transparent execs who are
+    involved, visible, and human.
+  - Passionate People – Join a team of smart, supportive folks
+    who care deeply about what they do.
+  - In-Person onboarding - We want you to thrive from day 1 with
+    your fellow new ‘Grafanistas’ to learn all about what we
+    do and how we do it.
+  - Balance is Key - We operate a global annual leave policy of
+    30 days per annum. 3 days of your annual leave entitlement
+    are reserved for Grafana Shutdown Days to allow the team
+    to really disconnect. *We will comply with local
+    legislation where applicable.
+  
+  Equal Opportunity Employer: We will recruit, train,
+  compensate and promote regardless of race, religion, color,
+  national origin, gender, disability, age, veteran status,
+  and all the other fascinating characteristics that make us
+  different and unique. We believe that equality and diversity
+  builds a strong organization and we’re working hard to make
+  sure that’s the foundation of our organization as we grow.
+  
+  Grafana Labs may utilize AI tools in its recruitment process
+  to assist in matching information provided in CVs to job
+  postings. The recruitment team will continue to review
+  inbound CVs manually to identify alignment with current
+  openings.
+  
+  #LI-Remote
+  
+  For information about how your personal data is used once
+  you’ve applied to a job, check out our privacy policy.
+posted_date: 2026-03-24
+url: "https://www.builtinla.com/job/staff-ai-engineer-people-technology-us-remote/8850720"
+source: Built In

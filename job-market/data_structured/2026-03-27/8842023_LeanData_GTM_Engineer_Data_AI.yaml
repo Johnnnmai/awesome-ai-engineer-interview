@@ -1,0 +1,49 @@
+company:
+  name: LeanData
+  stage: null
+  focus: |-
+    Revenue automation and acceleration platform for B2B
+    companies
+position:
+  title: GTM Engineer (Data & AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building agentic workflows and autonomous
+      systems that use AI reasoning, designing context layers for
+      AI consumption, orchestrating LLMs, and owning predictive
+      modeling efforts. The position is directly hands-on with
+      building and deploying AI-powered systems that reason
+      through signals and automate decisions.
+  responsibilities:
+  - Architect the GTM Intelligence Foundation by designing and managing a unified
+    data layer merging structured and unstructured signals for agentic reasoning
+  - Engineer Agentic Workflows that blend probabilistic AI reasoning with deterministic
+    logic to automate complex decisions across Marketing, Sales, and CX
+  - Lead predictive modeling efforts including scoring and propensity models integrated
+    into agentic orchestration
+  - Prototype and scale GTM Innovation by rapidly building and testing AI-native concepts
+  - Work cross-functionally with GTM VPs to define growth strategies
+  - Define the future of RevOps in the GTM tech industry alongside C-suite leadership
+  use_cases:
+  - Autonomous revenue engine for B2B companies
+  - Agentic GTM automation across the customer journey
+  - Automated decision-making for Marketing, Sales, and CX operations
+  - Predictive scoring and routing for pipeline optimization
+  - Intelligent workflow automation with AI reasoning
+  skills:
+    genai: [LLM orchestration, agentic workflows, MCP servers, AI reasoning systems]
+    ml: [predictive modeling, scoring models, propensity models]
+    web: [APIs]
+    databases: [Data Warehouses, Data Lakes]
+    data: [data pipelines, ETL, enrichment waterfalls]
+    cloud: []
+    ops: [orchestration platforms]
+    languages: [Python, SQL]
+    domains: []
+    other: [RevOps, GTM Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8842023'
+  extracted_at: '2026-03-27T13:54:38.304169'

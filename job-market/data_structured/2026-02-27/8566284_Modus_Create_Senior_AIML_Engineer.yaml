@@ -1,0 +1,51 @@
+company:
+  name: Modus Create
+  stage: Unknown (founded 2011, Inc. 5000 for 9 years)
+  focus: |-
+    Digital transformation consulting and full lifecycle product
+    development
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      operationalizing AI systems including LLMs, RAG, fine-
+      tuning, and agentic architectures. The engineer will
+      implement AI-powered applications from proof of concept to
+      production deployment, working hands-on with models and AI
+      frameworks.
+  responsibilities:
+  - Design and build generative AI solutions from proof of concept to production deployment
+  - Work directly with clients to understand problems and translate business needs
+    into technical AI solutions
+  - Write production-quality code integrating LLMs and ML models into real systems
+  - Deploy LLM-based applications to cloud platforms including managed AI services
+  - Collaborate with cloud architects, DevOps specialists, and front-end developers
+    on end-to-end solutions
+  - Support business development including proposals, scoping engagements, and sales/marketing
+    efforts
+  use_cases:
+  - LLM-powered application development and deployment
+  - Retrieval-augmented generation (RAG) systems
+  - Agentic AI architectures with tool use and multi-agent orchestration
+  - Fine-tuning large and small language models
+  - Cloud AI services including text extraction, speech recognition, and computer
+    vision
+  skills:
+    genai: [LangChain, LangGraph, Google ADK, MCP, Function calling, RAG, Prompt engineering,
+      Fine-tuning, Agentic architectures, LLM deployment]
+    ml: [TensorFlow, PyTorch]
+    web: []
+    databases: [SQL databases, NoSQL databases]
+    data: []
+    cloud: [Amazon Bedrock, SageMaker, AWS, Rekognition]
+    ops: [Terraform, Git, GitHub, GitLab, CI/CD, DevOps]
+    languages: [Python, Java, Scala, Rust, R, Bash, SQL]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8566284'
+  extracted_at: '2026-03-03T12:03:16.117848'

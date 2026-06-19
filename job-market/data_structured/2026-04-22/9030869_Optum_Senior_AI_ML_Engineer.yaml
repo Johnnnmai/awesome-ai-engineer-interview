@@ -1,0 +1,45 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Healthcare technology and services improving health outcomes
+position:
+  title: Senior AI ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves owning end-to-end delivery of AI/ML
+      products, architecting ML systems (data, models, deployment
+      layers), and defining best practices for model development
+      and MLOps. The position requires 8+ years of hands-on AI/ML
+      experience and deep expertise in ML/DL model architecture
+      and optimization, clearly placing it as directly building
+      and deploying AI/ML systems.
+  responsibilities:
+  - Own end-to-end delivery of AI/ML products and platforms
+  - Translate complex business problems into scalable AI/ML solutions
+  - Architect ML systems including data, models, and deployment layers
+  - Lead and mentor a team of AI/ML engineers
+  - Coordinate cross-functionally with product, data, and engineering teams
+  - Define best practices for model development, MLOps, and governance
+  - Drive reliability, scalability, and business impact of AI solutions
+  use_cases:
+  - Health outcome optimization through AI/ML solutions
+  - Connecting people with care, pharmacy benefits, data and resources
+  - Scalable AI/ML solutions for complex healthcare business problems
+  - Production-grade AI systems for health optimization at global scale
+  skills:
+    genai: []
+    ml: [ML/DL model architecture and optimization, ML system design]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud-native ML architecture]
+    ops: [MLOps, Production-grade AI system deployment]
+    languages: [Python]
+    domains: []
+    other: [Team leadership and mentoring]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9030869'
+  extracted_at: '2026-04-22T13:17:54.492784'

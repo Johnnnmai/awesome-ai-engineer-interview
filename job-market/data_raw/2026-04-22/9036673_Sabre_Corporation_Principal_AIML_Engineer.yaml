@@ -1,0 +1,231 @@
+job_id: 9036673
+title: Principal AI/ML Engineer
+company: Sabre Corporation
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Apigee
+  - BigQuery
+  - Cloud Run
+  - Composer
+  - Dataflow
+  - GCP
+  - Genai
+  - Iam
+  - Llm
+  - Pub/Sub
+company_size: 8,150 Employees
+description: |
+  Powering the agentic revolution in travel. Sabre is an AI-
+  native technology leader, backed by one of the world’s
+  largest travel data clouds. Built on an open, modular,
+  cloud-native architecture, Sabre serves as the backbone for
+  both established leaders and bold, new disruptors, guiding
+  them to the next age of travel retailing through
+  intelligent, connected, and personalized experiences. With
+  AI at its core and operating at unparalleled scale, Sabre
+  transforms insights into innovation, empowering airlines,
+  hoteliers, agencies and other partners to retail, distribute
+  and fulfill travel worldwide.
+  
+  The Principal AI/ML Engineer is the technical leader
+  responsible for designing, building, and scaling AI systems
+  that combine LLM-powered GenAI and ADK-based agentic
+  workflows on Google Cloud Platform. This role sets
+  architecture standards, leads multi-team delivery, and
+  governs safety, reliability, builds and manages the
+  platform, and cost at enterprise scale—accelerating product
+  teams to achieve 10× productivity through reusable patterns,
+  platforms, and guardrails.
+  
+  Key Responsibilities
+  
+  Strategy & Architecture
+  
+  - Define reference architectures for GenAI apps, RAG systems,
+    and agent ecosystems (single/multi-agent) on GCP using
+    ADK.
+  - Establish domain and platform standards: model selection,
+    RAG/generation patterns, memory architectures, security
+    baselines, observability, and LLMOps.
+  - Lead portfolio-wide technical decisions (build/buy, vendor
+    selection, SLAs, quotas) with a focus on reliability,
+    safety, and cost control.
+  
+  Solution Design & Delivery
+  
+  - Architect and lead implementation of production-grade GenAI
+    solutions (Vertex AI models, Grounding, Pipelines,
+    Evaluation) and agentic services (planning, tools, memory,
+    HIL).
+  - Design multi-tenant and hub-and-spoke patterns with
+    Okta/IAP/Apigee for secure API exposure and tenant
+    isolation.
+  - Drive end-to-end delivery across teams: data ingestion
+    (Dataflow/Composer), indexing (BigQuery vectors/Vertex
+    Vector Search), services (Cloud Run/Workflows), events
+    (Pub/Sub).
+  
+  Platformization & Reuse
+  
+  - Build and maintain prompt libraries, tool catalogs, agent
+    templates, and evaluation harnesses for organization-wide
+    reuse.
+  - Standardize LLMOps: CI/CD for prompts/models/agents, model
+    registry, traceability, rollback, canaries,
+    cost/performance scorecards.
+  - Enable a marketplace of agents/services with productized
+    APIs, documentation, chargeback, and KPIs.
+  
+  Responsible AI, Security & Compliance
+  
+  - Implement multi-layer guardrails: policy prompts, filters,
+    memory governance, tool whitelisting, audit logs; ensure
+    regulator-ready posture.
+  - Codify privacy, PII handling, data residency, and per-tenant
+    isolation using VPC-SC, Secret Manager, IAM, and Apigee
+    policies.
+  
+  Leadership & Enablement
+  
+  - Mentor senior engineers and team leads; run architecture
+    reviews, design clinics, and red-team exercises.
+  - Drive continuous evaluation programs and publish org
+    scorecards for quality, safety, and cost.
+  - Partner with Product, Security, and SRE to align roadmaps,
+    SLOs, and operational playbooks.
+  
+  Required Technical Competencies
+  
+  - LLM & GenAI: Model selection (Gemini & Model Garden), prompt
+    engineering, RAG/grounding, multimodal pipelines, fine-
+    tuning/adapter methods.
+  - Agentic AI (ADK): Agent loops, planners, tool/function
+    design, memory (episodic/semantic/long-term), HIL, policy
+    enforcement.
+  - Data & Retrieval: BigQuery (including vector functions),
+    Vertex Vector Search, Document AI, Dataplex for lineage
+    and governance.
+  - Orchestration & Services: Cloud Run, Workflows, Pub/Sub,
+    Dataflow/Composer; HA/DR, backpressure, circuit breakers.
+  - LLMOps/MLOps: Vertex AI Pipelines, registry, CI/CD, trace
+    correlation, cost/performance monitoring.
+  - Security & Compliance: IAM, Secret Manager, VPC-SC, private
+    service connect, DLP, Okta/IAP, Apigee API policies.
+  - Observability & Cost: Central telemetry, user feedback
+    loops, drift/outlier detection, quota/capacity planning.
+  
+  Qualifications
+  
+  - 12–15+ years in software/data/ML engineering; 2+ years
+    hands-on with LLMs/GenAI and agentic systems.
+  - Proven delivery of enterprise-scale GenAI/agent platforms on
+    GCP (Vertex AI, BigQuery, Cloud Run, Pub/Sub, Workflows).
+  - Demonstrated impact in platformization, governance, and
+    multi-team technical leadership.
+  - Strong proficiency in Python/TypeScript (or equivalent) and
+    infrastructure-as-code (Terraform/GCP Deployment Manager).
+  - Experience in security-by-design, privacy, and compliance
+    audits.
+  
+  Outcomes & KPIs (What “Great” Looks Like)
+  
+  - Reliability: SLOs met (e.g., p95 latency, error budget
+    adherence); audited HA/DR playbooks; zero Sev1 incidents
+    due to preventable guardrail gaps.
+  - Quality & Safety: Sustained improvements on
+    faithfulness/toxicity/grounding scores; red-team findings
+    resolved within agreed SLAs.
+  - Cost & Performance: ≥ 30% reduction in run-cost via routing,
+    caching, and prompt/template optimization; budget
+    adherence per tenant.
+  - Productivity & Reuse: ≥ 50% reuse of tools/templates across
+    teams; time-to-market reduced by ~40% for new AI features.
+  - Adoption & Enablement: ≥ 3 cross-domain AI capabilities
+    launched per quarter; engineers enabled through patterns
+    and training.
+  
+  Core Responsibilities (Day-to-Day)
+  
+  - Own reference architectures and standards for GenAI and
+    Agentic AI on GCP.
+  - Lead design reviews and production readiness assessments.
+  - Curate and evolve prompt/agent/tool libraries with
+    versioning and documentation.
+  - Establish evaluation harnesses (golden sets, scenario tests,
+    trace replay, chaos for agents).
+  - Partner with SRE/Platform to implement observability,
+    alerts, feature flags, canaries, and rollback mechanisms.
+  - Drive security reviews, policy-as-code, and auditability for
+    all AI systems.
+  
+  Demonstrated Behaviors (Principal Level)
+  
+  Technical Leadership
+  
+  - Systems thinking: Anticipates failure modes, cost
+    implications, and long-term maintenance; makes reversible
+    vs. irreversible decision trade-offs explicit.
+  - Pragmatic innovation: Balances cutting-edge methods (e.g.,
+    learned planners, multimodal grounding) with operational
+    simplicity and reliability.
+  - Platform-first mindset: Designs for reuse; evangelizes
+    patterns; prevents bespoke one-offs unless clearly
+    justified.
+  
+  Execution Excellence
+  
+  - Outcome orientation: Frames problems with clear KPIs;
+    selects the simplest architecture that satisfies
+    reliability, safety, and cost.
+  - Bias to automation: Converts manual steps into workflows,
+    CI/CD pipelines, and platform capabilities; eliminates
+    toil.
+  - Operational rigor: Treats prompts/models/agents as versioned
+    production artifacts with runbooks and guardrails.
+  
+  Collaboration & Influence
+  
+  - Cross-functional partnering: Brings Product, Security, SRE,
+    and Data together to align goals and reduce friction.
+  - Mentorship & enablement: Coaches senior engineers; raises
+    bar through reviews, tech talks, and documentation.
+  - Transparent communication: Publishes architecture decisions
+    (ADRs), scorecards, and incident postmortems; drives org
+    learning.
+  
+  Responsible AI
+  
+  - Safety-first: Insists on multi-layer guardrails and
+    auditability; stops launches when safety signals are
+    insufficient.
+  - Ethical stewardship: Advocates for privacy, fairness, and
+    inclusion; ensures policies are codified and enforced.
+  
+  Preferred Experience (Nice-to-Have)
+  
+  - Implemented multi-agent collaboration with negotiation
+    protocols and conflict resolution.
+  - Built tenant-aware memory governance and portability models.
+  - Experience with Apigee productization and chargeback for AI
+    services.
+  - Hands-on with Document AI, Dataplex, and multi-region
+    architectures.
+  
+  We will give careful consideration to your application and
+  review your details against the position criteria. You will
+  receive separate notification as your application
+  progresses.
+  
+  Please note that only candidates who meet the minimum
+  criteria for the role will proceed in the selection process.
+  
+  #LI-Hybrid#LI-GS1
+industries:
+  - Information Technology
+  - Software
+  - Travel
+posted_date: 2026-04-14
+url: "https://builtin.com/job/principle-ai-ml-engineer/9036673"
+source: Built In

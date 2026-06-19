@@ -1,0 +1,54 @@
+company:
+  name: eBay
+  stage: Public
+  focus: Global ecommerce marketplace connecting buyers and sellers
+position:
+  title: AI Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building and operating
+      production LLM inference systems — optimizing runtimes like
+      vLLM and Triton, implementing quantization, managing KV
+      cache, and deploying frontier models at scale. The engineer
+      works hands-on with model inference infrastructure, making
+      this clearly an ai-first role.
+  responsibilities:
+  - Own production LLM inference from model handoff to production-grade serving, including
+    release engineering, capacity planning, and cost optimization
+  - Tune inference performance to reduce end-to-end latency and increase throughput
+    across real production traffic patterns
+  - Optimize inference runtimes and servers (vLLM, Triton) across heterogeneous GPU
+    fleets, including schedulers, KV cache, batching, and memory management
+  - Build benchmarking suites, metrics, and tooling to quantify latency, throughput,
+    GPU utilization, memory, and cost
+  - Improve monitoring, tracing, and alerting for reliability and observability; participate
+    in incident response and postmortems
+  - Evaluate research and implement pragmatic inference optimizations such as quantization,
+    paging, and kernel/runtime improvements
+  - Partner cross-functionally with data science and product teams to translate business
+    requirements into performance and availability SLOs
+  use_cases:
+  - Production LLM inference serving for eBay product teams
+  - High-throughput, low-latency AI model serving at ecommerce scale
+  - GPU fleet optimization and cost reduction for AI workloads
+  - Reliable and observable AI infrastructure powering eBay's marketplace features
+  skills:
+    genai: []
+    ml: [PyTorch, CUDA, LLM inference optimization, Continuous batching, KV cache
+        management, Quantization, Speculative decoding, GPU profiling, Kernel programming,
+      GPU architecture]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [vLLM, Triton, SGLang, TensorRT, Monitoring and observability, Capacity planning,
+      Benchmarking]
+    languages: [Python, Go, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8998829'
+  extracted_at: '2026-04-22T14:10:21.441233'

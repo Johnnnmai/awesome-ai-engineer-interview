@@ -1,0 +1,53 @@
+company:
+  name: Gurobi Optimization
+  stage: Public
+  focus: Mathematical optimization software and solver platform
+position:
+  title: Senior AI Engineer (USA - Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and implementing AI agents,
+      prompt/context engineering strategies, and RAG architectures
+      for production AI systems (including the Gurobot Expert
+      Agent and Gurobi Intelligence framework). The engineer is
+      hands-on with designing, developing, and maintaining AI
+      features — not just supporting them.
+  responsibilities:
+  - Design and implement AI agents facilitating the full development cycle of optimization
+    applications leveraging Gurobi optimization expertise
+  - Architect and maintain integration of optimization components into AI features
+    of existing and new products
+  - Develop and refine prompt and context engineering strategies for production AI
+    systems
+  - Partner with cross-functional teams to align on AI feature requirements and ensure
+    best practices across AI systems
+  - Participate in quality testing of AI features by designing test cases and evaluations
+  - Troubleshoot AI feature quality and performance issues and serve as escalation
+    contact for AI-related incidents
+  - Serve as internal AI subject matter expert evaluating use cases and providing
+    technical guidance across teams
+  - Collaborate with software developers and QA engineers following agile methodology
+  use_cases:
+  - AI agents for optimization application development lifecycle
+  - Expert agent (Gurobot) for mathematical optimization guidance and best practices
+  - AI-powered features within the Gurobi SaaS platform and user portal
+  - Production AI systems with RAG and prompt engineering for optimization domain
+  - Integration of optimization solver components into AI-driven product features
+  skills:
+    genai: [Prompt Engineering, Context Engineering, RAG Architecture, LangChain,
+      LangGraph, MCP, A2A, AI Agents, OpenAI API, Anthropic API, Agentforce, Strands]
+    ml: [Reinforcement Learning, Machine Learning]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS Bedrock]
+    ops: [Docker, CI/CD, MLflow, Kubeflow, MetaFlow, DVC, LakeFS]
+    languages: [Python, Node.js, Go]
+    domains: [Mathematical Optimization]
+    other: [Responsible AI / AI Guardrails, OWASP Top 10 for LLMs, Scrum / Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8977832'
+  extracted_at: '2026-04-22T13:48:02.897335'

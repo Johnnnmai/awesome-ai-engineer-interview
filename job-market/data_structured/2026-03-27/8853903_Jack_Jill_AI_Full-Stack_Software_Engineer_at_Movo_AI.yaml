@@ -1,0 +1,41 @@
+company:
+  name: Jack & Jill AI
+  stage: Stealth
+  focus: Voice AI products for small businesses
+position:
+  title: Full-Stack Software Engineer at Movo AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a general full-stack software engineering role
+      building web applications with Node.js and Next.js. While
+      the company builds voice AI products, the role focuses on
+      standard web development (integrating payments, CRMs,
+      scheduling) rather than directly working on AI/ML systems,
+      models, or voice processing.
+  responsibilities:
+  - Develop and implement features across the full stack using Node.js and Next.js
+  - Integrate with various 3rd party systems like payments, CRMs, and scheduling software
+  - Contribute to a best-in-class voice experience for business owners
+  - Shape the foundational technology of a next-generation voice AI platform
+  use_cases:
+  - Voice AI platform for small businesses
+  - Customer communication automation
+  - Business scheduling and CRM integration
+  - Payment processing for small business services
+  skills:
+    genai: []
+    ml: []
+    web: [Node.js, Next.js, JavaScript frameworks]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [CRM integrations, Payment integrations]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8853903'
+  extracted_at: '2026-03-27T13:46:49.946938'

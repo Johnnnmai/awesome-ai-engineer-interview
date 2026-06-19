@@ -1,0 +1,52 @@
+company:
+  name: Version 1
+  stage: Established
+  focus: IT consulting and technology transformation services
+position:
+  title: AI Technical Content Developer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on creating documentation and training
+      materials ABOUT AI tools, not building or deploying AI
+      systems. The role translates technical AI capabilities into
+      learning content and maintains documentation for AI adoption
+      programs, but does not involve hands-on model development,
+      fine-tuning, or deployment.
+  responsibilities:
+  - Create and maintain AI playbook documentation covering all phases of the software
+    delivery lifecycle
+  - Develop training materials, certification content, and practical guides for core
+    AI tools including Cursor, GitHub Copilot, Claude, and M365 Copilot
+  - Build hands-on lab content for the AI Champions network with structured exercises
+    tailored to varying technical skill levels
+  - Design and deliver onboarding content for new AI Champions
+  - Establish and maintain documentation standards, templates, and a centralized content
+    library for the CoE
+  - Collaborate with the AI Engineering lead to document new delivery patterns, automation
+    workflows, and tooling best practices
+  - Create user guides and adoption materials for internal AI solutions
+  - Review and update all content regularly to reflect tool updates, new capabilities,
+    and lessons learned
+  use_cases:
+  - AI training and enablement for employees
+  - AI Champions network development
+  - AI tool adoption across software delivery lifecycle
+  - Internal AI solution documentation
+  - Customer-facing AI enablement materials
+  skills:
+    genai: [GitHub Copilot, Cursor, Claude, Microsoft 365 Copilot, Copilot Studio]
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: []
+    cloud: [Azure AI services, AWS, Microsoft, Oracle]
+    ops: [Jira, Azure DevOps, Git, CI/CD]
+    languages: [Markdown]
+    domains: []
+    other: [Confluence, Notion]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8788416'
+  extracted_at: '2026-03-27T15:33:41.074054'

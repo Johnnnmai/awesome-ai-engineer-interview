@@ -1,0 +1,53 @@
+company:
+  name: AlphaSense
+  stage: Series D/E or later (founded 2011, 2000+ employees, acquired another company
+    in 2024)
+  focus: |-
+    AI-powered market intelligence and search platform for
+    enterprise decision-making
+position:
+  title: Principal Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work with AI/ML systems
+      including LLMs, computer vision, and machine learning models
+      for document processing and data extraction. The engineer
+      will research, prototype, and deploy AI solutions including
+      prompt engineering strategies and managing LLM latency in
+      production.
+  responsibilities:
+  - Research, evaluate, and prototype AI solutions using LLMs, computer vision, and
+    machine learning for complex data extraction challenges
+  - Design and build scalable, cost-effective AI services and data processing pipelines
+    to process millions of documents daily
+  - Manage production AI challenges including LLM latency and variance, prompt engineering,
+    and fault-tolerant system design
+  - Act as the primary AI/ML authority and technical mentor for the engineering team
+  - Drive mission-critical AI initiatives from conception to production deployment
+  - Architect solutions for document classification, entity extraction, and image
+    search
+  use_cases:
+  - Document classification and entity extraction from unstructured documents
+  - Image and multimedia content search capabilities
+  - Intelligent insight extraction from millions of documents daily
+  - Market intelligence and search platform for enterprise customers
+  - Processing equity research, company filings, transcripts, news, and expert calls
+  skills:
+    genai: [Large Language Models (LLMs), Prompt engineering]
+    ml: [Computer Vision, Machine Learning]
+    web: [FastAPI, Django, Spring Boot]
+    databases: []
+    data: []
+    cloud: [Cloud environments]
+    ops: [Docker, Kubernetes, CI/CD pipelines, Infrastructure as Code (IaC), ML monitoring
+        and observability]
+    languages: [Python, SQL]
+    domains: []
+    other: [Distributed systems design, Asynchronous patterns, Streaming/queuing/caching
+        strategies]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8534928'
+  extracted_at: '2026-03-27T14:18:47.828800'

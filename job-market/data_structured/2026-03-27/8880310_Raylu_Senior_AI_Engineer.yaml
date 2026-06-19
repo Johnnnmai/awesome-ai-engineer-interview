@@ -1,0 +1,43 @@
+company:
+  name: Raylu
+  stage: null
+  focus: AI agent systems and automation platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and productionizing LLM agent
+      systems with orchestration, evaluation, and reliability
+      work. The focus is on hands-on implementation of agentic
+      systems including function calling, multi-step planning, and
+      retrieval - core AI/LLM engineering work.
+  responsibilities:
+  - Design, build, and productionize agent workflows end-to-end including APIs, tools,
+    evals, and monitoring
+  - Create safety, cost, and latency controls with dashboards and alerts for reliability
+  - Partner with product and design teams to invent new interaction patterns and ship
+    them quickly
+  - Document patterns and mentor engineers on best practices for LLM-powered features
+  use_cases:
+  - Agentic systems with function calling and multi-step planning
+  - Agent orchestration and routing for complex workflows
+  - Memory and retrieval systems for AI agents
+  - Task automation with safety and reliability controls
+  skills:
+    genai: [LangChain, LangGraph, OpenAI API, Anthropic API, Prompt engineering, Function
+        calling, RAG, Guardrails, Agent systems]
+    ml: []
+    web: [FastAPI, REST APIs, React]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Temporal, Datadog, LangSmith]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8880310'
+  extracted_at: '2026-03-27T15:22:07.300058'

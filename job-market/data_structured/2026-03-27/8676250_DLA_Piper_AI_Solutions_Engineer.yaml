@@ -1,0 +1,50 @@
+company:
+  name: DLA Piper
+  stage: Established
+  focus: Global law firm providing legal and professional services
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and deploying AI
+      solutions, including AI agents, RAG patterns, and prompt
+      engineering frameworks. The position requires hands-on work
+      with ML model selection, implementing various RAG
+      architectures, and building reusable AI engineering patterns
+      for production use.
+  responsibilities:
+  - Own requirements intake for PE initiatives and capture problem statements, outcomes,
+    and success measures
+  - Engage stakeholders to understand workflow pain points and translate needs into
+    actionable requirements
+  - Build prototypes and proofs of concept to validate feasibility and value of AI
+    solutions
+  - Evaluate and recommend AI solutions with appropriate integration planning
+  - Produce functional requirements and user stories suitable for sprint execution
+  - Support UAT planning and execution while translating feedback into backlog updates
+  - Partner with IT teams to surface risks and dependencies for cross-functional delivery
+  - Support rollouts, training materials, and adoption activities for AI-driven solutions
+  use_cases:
+  - Legal workflow automation and optimization
+  - Professional services AI solution delivery
+  - Knowledge management and document processing
+  - Practice group workflow efficiency improvements
+  - Reusable AI engineering pattern development
+  skills:
+    genai: [AI agents, RAG patterns, KG-RAG, Hybrid RAG, Agentic RAG, Prompt engineering,
+      DSPy, Agentic memory frameworks, Context engineering]
+    ml: [ML models, Reinforcement learning]
+    web: [REST APIs, APIs]
+    databases: []
+    data: [Graph-based integration patterns, Data integration]
+    cloud: [Microsoft 365, Power Platform, Power Automate, SharePoint]
+    ops: []
+    languages: [SQL, Python, PowerShell, JavaScript, TypeScript, Java, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8676250'
+  extracted_at: '2026-03-27T16:02:20.450228'

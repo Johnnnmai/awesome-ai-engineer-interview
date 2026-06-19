@@ -1,0 +1,57 @@
+company:
+  name: Clarivate Analytics
+  stage: Public
+  focus: |-
+    Analytics and intelligence for Life Sciences, Healthcare,
+    and scientific research
+position:
+  title: Principal Product AI Data Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building data platforms and
+      infrastructure that enable AI/ML workloads, not on building
+      AI systems directly. The responsibilities center on
+      dimensional modeling, ETL pipelines, and data architecture
+      to make data "AI-ready" for ML teams, which is classic
+      enabling work rather than hands-on model development.
+  responsibilities:
+  - Define and evolve enterprise-level product data architecture across multiple product
+    lines ensuring scalability, reliability, and AI/ML readiness
+  - Architect scalable ETL/ELT pipelines and distributed data workflows for analytics,
+    AI, and product intelligence
+  - Develop and enforce dimensional data modeling standards including star schemas
+    and snowflake schemas across the organization
+  - Design and maintain fact and dimension tables ensuring proper grain, SCD handling,
+    and hierarchical dimensions
+  - Establish data architecture principles, naming conventions, and best practices
+    for ETL/ELT, event tracking, and AI pipelines
+  - Partner with cross-functional teams to translate requirements into scalable analytics
+    and AI-ready data models and pipelines
+  - Curate and validate datasets for machine learning, experimentation, and advanced
+    analytics
+  - Establish feature store frameworks and reusable AI data pipelines across multiple
+    products
+  use_cases:
+  - Life Sciences and Healthcare analytics and intelligence
+  - Enterprise-grade AI-ready data platforms for product intelligence
+  - Machine learning experimentation and advanced analytics
+  - Feature store frameworks for AI/ML workloads
+  - Event-driven data architectures for downstream analytics
+  skills:
+    genai: []
+    ml: [feature store frameworks]
+    web: []
+    databases: [SQL, Snowflake, BigQuery, star schemas, snowflake schemas]
+    data: [dimensional modeling, ETL/ELT pipelines, Databricks, dbt, Airflow, Fivetran,
+      Segment, event-driven architecture]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Power BI, Tableau, Looker, JSON]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8621150'
+  extracted_at: '2026-03-27T13:50:57.914177'

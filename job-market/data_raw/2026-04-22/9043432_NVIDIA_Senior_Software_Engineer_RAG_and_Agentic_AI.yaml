@@ -1,0 +1,134 @@
+job_id: 9043432
+title: Senior Software Engineer, RAG and Agentic AI
+company: NVIDIA
+location: Pune, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Agentic Ai
+  - AI
+  - Ci/Cd
+  - Docker
+  - Helm
+  - Kubernetes
+  - Llm
+  - Python
+  - Rag
+company_size: 21,960 Employees
+description: |
+  NVIDIA has been transforming computer graphics, PC gaming,
+  and accelerated computing for more than 25 years. It’s a
+  unique legacy of innovation that’s fueled by great
+  technology—and amazing people. Today, we’re tapping into the
+  unlimited potential of AI to define the next era of
+  computing. An era in which our GPU acts as the brains of
+  computers, robots, and self-driving cars that can understand
+  the world. Doing what’s never been done before takes vision,
+  innovation, and the world’s best talent. As an NVIDIAN,
+  you’ll be immersed in a diverse, supportive environment
+  where everyone is inspired to do their best work. Come join
+  the team and see how you can make a lasting impact on the
+  world.
+  
+  We are looking for a Senior Software Engineer to join our AI
+  Blueprints team to build multimodal, scalable, production-
+  grade reference RAG solutions. In this role you will build
+  the next-generation RAG architecture using Agentic AI and
+  NVIDIA Nemotron models and develop orchestration layers to
+  dynamically interact with proprietary unstructured and
+  structured data sources. If you are creative and passionate
+  about real-world enterprise AI challenges, come join us.
+  
+  What you’ll be doing:
+  
+  - Plan, build and refine a GPU-accelerated, scalable,
+    configurable Retrieval Augmented Generation (RAG) workflow
+    and optimize it for accuracy, relevance, grounding and
+    performance.
+  - Design and implement AI agents to enhance RAG pipeline which
+    are capable of reasoning, planning, multi-step execution,
+    and collaboration across tools and services
+  - Run fast, high-quality POCs on emerging agent and RAG
+    architectures; harden successful patterns into
+    generalized, reusable implementations and integrate them
+    as part of production software.
+  - Build and deploy a disaggregated, end-to-end RAG pipeline
+    using on-prem microservices architecture, orchestrating
+    complex, multi-service deployments from local Docker
+    environments to enterprise-scale Kubernetes clusters.
+  - Drive the continuous improvement of the pipelines by
+    rigorously evaluating system accuracy, characterizing
+    performance metrics across components, analyzing the data
+    and recommending actionable strategic enhancements."
+  - Collaborate with various teams on new product features and
+    the improvement of existing product. Provide guidance and
+    support to NVIDIA internal teams and external partners on
+    domain-adaptation, customization and integration of the
+    RAG pipeline.
+  - Champion engineering excellence by leading rigorous code,
+    architecture, and test plan reviews, authoring robust user
+    documentation, and driving collaborative problem-solving
+    and triage initiatives.
+  - Drive software excellence by designing with clean
+    architectural patterns and automating the path to
+    production through advanced CI/CD, testing, and telemetry
+    workflows.
+  
+  What we need to see:
+  
+  - 8+ years of professional software engineering experience,
+    with deep expertise in Python, and AI applications.
+  - Bachelor's degree or Master’s degree (or equivalent
+    experience) in Computer Science, Electrical Engineering,
+    Data Science, Artificial Intelligence or other related
+    fields
+  - Hands-on experience building and deploying LLM-powered AI
+    applications or RAG or Agentic AI workflows.
+  - Strong understanding of LLM design patterns, including tool
+    calling, prompt engineering, structured outputs,
+    reasoning.
+  - Experience with agent frameworks or orchestration systems
+    such as LangGraph, LangChain, OpenAI Agents SDK, or
+    similar.
+  - Have working experience with microservices, Docker, Helm,
+    Kubernetes.
+  - Experience with end-to-end software lifecycle, release
+    packaging, and CI/CD pipelines.
+  - Strong collaborative and interpersonal skills, specifically
+    a proven ability to effectively guide and influence within
+    a dynamic environment involving teams across the globe.
+  
+  Ways to stand out from the crowd:
+  
+  - Experience designing multi-agent systems and sophisticated
+    workflow orchestration engines.
+  - Familiarity with evaluation frameworks, MLOps pipelines, and
+    AI observability tooling.
+  - Background in deploying AI models on data center, cloud, and
+    embedded systems.
+  - Strong python programming skills and experience of working
+    with AI coding agents.
+  
+  NVIDIA is committed to encouraging a diverse work
+  environment and is proud to be an equal opportunity
+  employer. We highly value diversity in our current and
+  future employees. We do not discriminate in hiring or
+  promotion based on race, religion, color, national origin,
+  gender, gender expression, sexual orientation, age, marital
+  status, veteran status, disability status, or any other
+  legally protected characteristic.
+  
+  Widely considered to be one of the technology world’s most
+  desirable employers, NVIDIA offers highly competitive
+  salaries and a comprehensive benefits package. As you plan
+  your future, see what we can offer to you and your family
+  www.nvidiabenefits.com/
+industries:
+  - Artificial Intelligence
+  - Computer Vision
+  - Hardware
+  - Robotics
+  - Metaverse
+posted_date: 2026-04-14
+url: "https://builtin.com/job/senior-software-engineer-rag-and-agentic-ai/9043432"
+source: Built In

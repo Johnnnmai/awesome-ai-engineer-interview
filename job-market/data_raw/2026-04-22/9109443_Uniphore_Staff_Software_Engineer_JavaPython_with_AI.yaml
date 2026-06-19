@@ -1,0 +1,215 @@
+job_id: 9109443
+title: Staff Software Engineer (Java/Python with AI)
+company: Uniphore
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Azure
+  - Fastapi
+  - GCP
+  - Github Actions
+  - Grpc
+  - Java
+  - MongoDB
+  - Postgres
+  - Python
+company_size: 465 Employees
+description: |
+  Uniphore is one of the largest B2B AI-native
+  companies—decades-proven, built-for-scale and designed for
+  the enterprise. The company drives business outcomes, across
+  multiple industry verticals, and enables the largest global
+  deployments.
+  
+  Uniphore infuses AI into every part of the enterprise that
+  impacts the customer. We deliver the only multimodal
+  architecture centered on customers that combines Generative
+  AI, Knowledge AI, Emotion AI, workflow automation and a co-
+  pilot to guide you. We understand better than anyone how to
+  capture voice, video and text and how to analyze all types
+  of data.
+  
+  As AI becomes more powerful, every part of the enterprise
+  that impacts the customer will be disrupted. We believe the
+  future will run on the connective tissue between people,
+  machines and data: all in the service of creating the most
+  human processes and experiences for customers and employees.
+  
+  Job Description:
+  
+  
+  Job Overview
+  
+  As a Staff Software Engineer at Uniphore, you will be
+  integral to the design, development, and scaling of the BAIC
+  (Business AI Cloud) Platform — our enterprise-grade platform
+  that powers knowledge management, agent orchestration,
+  unified data access, and model serving for customers. This
+  is a 0-to-1 role: you will build new capabilities that are
+  not yet in production, take them to customers, and harden
+  them at enterprise scale. You will partner closely with
+  engineering, product, design, and AI teams to deliver
+  scalable, reliable, and high-performance backend systems
+  across both SaaS and on-premises deployments.
+  
+  Key ResponsibilitiesPlatform & Product Delivery
+  
+  - Own new platform capabilities end-to-end — from ambiguous
+    problem framing, through high-level and low-level design,
+    to production rollout and customer adoption.
+  - Take products and major features from 0 to 1 and iterate
+    with real customers to drive adoption and scale.
+  - Collaborate with cross-functional teams (product, design,
+    AI/ML, SRE) to translate business and customer needs into
+    pragmatic technical solutions.
+  
+  Design & Engineering Excellence
+  
+  - Design and build scalable, reliable, low-latency backend
+    services in Java (Spring Boot) and Python (FastAPI).
+  - Drive rigorous low-level design — API contracts, data
+    models, concurrency, failure modes, backpressure,
+    idempotency, and observability.
+  - Write clean, maintainable, well-tested code and raise the
+    engineering bar through design reviews, code reviews, and
+    mentorship.
+  - Participate in the full software development lifecycle:
+    requirements, design, implementation, testing, release,
+    and operations.
+  
+  Deployment, Infrastructure & Operability
+  
+  - Build for both SaaS and on-premises / customer-controlled
+    deployments; make deliberate trade-offs around topology,
+    secrets, network boundaries, and upgrade paths.
+  - Partner with DevOps/SRE to codify infrastructure in
+    Terraform and ship through GitHub Actions; establish
+    deployment, rollback, and environment-promotion patterns.
+  - Troubleshoot, debug, and optimize existing services for
+    performance, reliability, and scalability in cloud and on-
+    prem environments.
+  - Ensure adherence to security and data-privacy standards,
+    particularly for customer-sensitive workloads.
+  
+  Developer Productivity & AI-assisted Engineering
+  
+  - Use coding agents and modern AI-assisted developer tooling
+    as a routine part of the workflow to amplify throughput —
+    while owning the final quality, design integrity, and
+    security of what ships.
+  - Identify leverage points across the team's workflow and
+    invest in tooling, templates, and patterns that compound
+    productivity.
+  
+  Required Skills and ExperienceExperience & Education
+  
+  - Bachelor's or Master's degree in computer science,
+    Information Technology, or equivalent practical
+    experience.
+  - 7–10 years of software development experience, including
+    time spent taking products from 0 to 1 and delivering them
+    to customers at scale.
+  
+  Backend & Coding (Mandatory)
+  
+  - Backend depth (mandatory): Strong hands-on experience
+    building production backend services — distributed
+    systems, APIs, async processing, and performance tuning.
+    This is non-negotiable.
+  - Low-level design: Demonstrated ability to design complex
+    modules and services — data modeling, concurrency, error
+    handling, API and schema evolution, and operability.
+  - Python (mandatory): Strong, idiomatic, production-level
+    Python.
+  - Java: Solid working experience in Java and one common
+    framework (e.g., Spring Boot, Vert.x).
+  - API development: Practical experience with REST and,
+    ideally, gRPC/WebSockets.
+  - Delivery at scale: Track record of shipping software that
+    real customers use in production — owning SLOs, incidents,
+    and iterations.
+  
+  Data, Cloud & Deployment
+  
+  - Databases: Strong working knowledge of relational and NoSQL
+    databases (e.g., PostgreSQL, MongoDB) — schema design,
+    indexing, query performance, and transactions.
+  - Cloud: Practical experience designing and operating services
+    on at least one major cloud (AWS, GCP, or Azure).
+  - On-prem deployments: Experience packaging and deploying
+    software for customer-controlled / on-prem environments,
+    including the operational realities that come with it.
+  - Infrastructure-as-code: Hands-on with Terraform — writing,
+    reviewing, and maintaining real IaC, not just consuming
+    it.
+  - CI/CD: Hands-on with GitHub Actions (or equivalent) for
+    build, test, and deployment pipelines.
+  
+  Ways of Working
+  
+  - Coding agents: Comfortable using modern coding agents and
+    AI-assisted developer tooling in daily work.
+  - 0-to-1 mindset: Thrives in ambiguity, scopes ruthlessly,
+    ships in iterations, and is comfortable owning decisions
+    with incomplete information.
+  - Communication: Clear written and verbal communication; can
+    write design docs that senior engineers and PMs can both
+    act on.
+  - Startup energy: Motivated to thrive in a fast-moving,
+    product-driven environment.
+  
+  Preferred SkillsProduct Design & Platform Thinking
+  
+  - Prior work on developer-facing platforms, data platforms, or
+    AI platforms where product design and engineering are
+    tightly coupled.
+  - Strong product sensibility — can partner with PM and design
+    on shaping the user experience of platform capabilities.
+  
+  AI/ML & GenAI (Good to Have, Not Mandatory)
+  
+  - RAG & vector search: Experience building or integrating
+    Retrieval-Augmented Generation pipelines and vector
+    stores.
+  - Agentic systems: Hands-on with agent frameworks such as
+    LangGraph, LangChain, or crewAI — tool-use, planning, and
+    multi-agent orchestration.
+  - LLM inference & observability: Multi-provider LLM serving,
+    guardrails, tracing, evaluations, and monitoring.
+  - Fine-tuning: Familiarity with LoRA, QLoRA, instruction
+    tuning, or small language model (SLM) fine-tuning.
+  
+  Additional Technical Breadth
+  
+  - Streaming and async systems (Kafka, WebSockets, gRPC, event-
+    driven architectures).
+  - Containers and Kubernetes in production.
+  - Observability tooling (OpenTelemetry, Prometheus, Grafana,
+    distributed tracing).
+  - Familiarity with JavaScript or TypeScript for occasional
+    full-stack contributions.
+  - Knowledge of Linux fundamentals and shell scripting.
+  
+  
+  
+  Location preference:
+  
+  India - Bangalore, India - Chennai
+  
+  Uniphore is an equal opportunity employer committed to
+  diversity in the workplace. We evaluate qualified applicants
+  without regard to race, color, religion, sex, sexual
+  orientation, disability, veteran status, and other protected
+  characteristics.
+  
+  For more information on how Uniphore uses AI to unify—and
+  humanize—every enterprise experience, please
+  visit www.uniphore.com.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+posted_date: 2026-04-21
+url: "https://builtin.com/job/staff-software-engineer-java-python-ai/9109443"
+source: Built In

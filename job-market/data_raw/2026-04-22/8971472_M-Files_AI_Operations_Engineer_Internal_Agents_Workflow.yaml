@@ -1,0 +1,259 @@
+job_id: 8971472
+title: "AI Operations Engineer (Internal Agents & Workflow Automation) (Remote, US)"
+company: M-Files
+location: USA
+work_type: INTERN
+level: Senior level
+skills:
+  - APIs
+  - "C#"
+  - Ci/Cd
+  - Node.js
+  - Python
+  - Typescript
+description: |
+  APPLICATION WINDOW: We encourage you to apply if interested.
+  We will review applications on a rolling basis and keep
+  candidates informed on next steps.
+  
+  We recognize that job searching can sometimes feel
+  uncertain. As we engage with candidates and continue to
+  evaluate our needs, this role may evolve to ensure strong
+  alignment between the opportunity, the market, and long-term
+  success.
+  
+  We are committed to a thoughtful and transparent process and
+  will keep candidates informed along the way. Thank you for
+  considering M-Files as your next career move.
+  
+  Who We Are
+  
+  M-Files is redefining how work gets done. Our context-first
+  document management system offers purpose-built business use
+  cases—spanning universal and industry-specific workflows—to
+  enable secure collaboration, automate processes, and ensure
+  governance.
+  
+  Unlike traditional systems, M-Files organizes content around
+  the context of your business, connecting documents to
+  related people, projects, and transactions. With our unique
+  metadata-driven architecture, organizations can model
+  content in line with their business processes, unify
+  information across silos, and apply AI at scale. The result
+  is greater productivity, reduced risk, and smarter, faster
+  decisions for over 6,000 customers in 100+ countries.
+  
+  At M-Files, our Guiding Principles unite us across diverse
+  cultures and personalities:
+  
+  1.       Make It Happen – We set bold goals, take ownership,
+  learn from mistakes, and relentlessly pursue results.
+  
+  2.       Help Others – We lead with kindness, assume good
+  intentions, hold one another accountable, and celebrate wins
+  together.
+  
+  3.       Love Customers – We put customers and partners at
+  the heart of everything, delivering value with respect,
+  fairness, and speed.
+  
+  To learn more about us we encourage you to visit our company
+  page.
+  
+  To learn more about how we became a Certified Great Place to
+  Work visit, Working at M-Files | Great Place to Work.
+  
+  Summary of the Role
+  
+  M-Files is building a company-wide capability to
+  operationalize AI—turning promising LLM prototypes into
+  secure, reliable, maintainable internal tools that
+  materially improve how teams work. This role sits in
+  Strategic Operations and functions as a hands-on builder:
+  you will partner with business leaders to identify high-
+  value workflows that can be accelerated with AI, help
+  reshape the underlying processes, and then build, deploy,
+  and run the AI-enabled solutions end-to-end.
+  
+  This is not a traditional product software engineer role.
+  Instead, it is an execution-oriented engineering role
+  embedded in the business: you’ll move quickly from problem
+  definition to production, while applying the right risk
+  controls, oversight, security, and compliance expectations
+  required for internal systems at scale.
+  
+  You will leverage AI-assisted development tools as part of
+  your daily workflow to accelerate delivery while maintaining
+  quality.
+  
+  What You Will Be Doing / Responsibilities and Duties
+  
+  Discover & shape high-value AI opportunities (internal
+  process focus)
+  
+  - Partner with functional leaders to identify workflows where
+    AI can remove friction, reduce cycle time, improve
+    accuracy, or strengthen compliance.
+  - Map the current state process, identify bottlenecks and
+    failure modes, and re-design the process to be automation-
+    ready (clarify inputs/outputs, decision points, data
+    sources, controls, and ownership).
+  - Define success metrics (time saved, error reduction,
+    throughput, adoption, auditability) and translate business
+    goals into a build plan.
+  
+  Build internal AI agents and automation tools (end-to-end
+  ownership)
+  
+  - Design and implement internal agents using modern LLM
+    patterns (tool use/function calling, retrieval-augmented
+    generation where needed, structured outputs, and human-in-
+    the-loop checkpoints).
+  - Build whole-product solutions: lightweight UX, service/API
+    layer, integrations, data access, and automation
+    triggers—appropriate to the use case.
+  - Use AI-assisted development techniques to speed delivery
+    while sustaining maintainability and readability.
+  
+  Operate, mantain, and scale (production mindset)
+  
+  - Own reliability: monitoring, alerting, logging, incident
+    response, and continuous improvements.
+  - Establish repeatable patterns for onboarding new workflows
+    and scaling existing ones (templates, shared components,
+    evaluation harnesses, documentation).
+  - Create and maintain runbooks and lightweight training so
+    internal teams can adopt solutions confidently.
+  
+  Risk, control, oversight, security & compliance by design
+  
+  - Implement appropriate guardrails: data minimization, access
+    controls, secrets management, safe prompt/tooling
+    patterns, output validation, and traceability.
+  - Ensure solutions meet internal security and compliance
+    expectations (including audit readiness, change management
+    discipline, and clear ownership).
+  - Maintain clear documentation of how systems work, what data
+    they touch, and how risks are mitigated.
+  
+  Cross-functional coordination
+  
+  - Coordinate across IT/Security, Legal/Privacy, and functional
+    SMEs to get solutions approved and adopted.
+  - Communicate progress with crisp updates; manage tradeoffs
+    between speed and rigor.
+  
+  Outcomes to be achieved
+  
+  - A portfolio of high-impact internal AI agents deployed into
+    real workflows (not demos), with measurable business
+    outcomes.
+  - A scalable operating model for internal AI: reusable
+    components, clear governance, and a predictable path from
+    idea → production.
+  - Reduced process friction through AI + process redesign, not
+    AI bolted onto broken workflows.
+  - High trust in outputs through appropriate controls,
+    auditability, and operational reliability.
+  
+  Working style / What success looks like here
+  
+  - You are low ego, high output: you can operate independently,
+    but you collaborate naturally and bring others along.
+  - You can move fast without being reckless: you know where to
+    be scrappy and where to add rigor.
+  - You care about outcomes: automation only matters if it
+    changes how people work.
+  
+  Requirements
+  
+  Qualifications
+  
+  - Demonstrated ability to build and maintain end-to-end
+    software (design → build → deploy → operate), with strong
+    engineering fundamentals.
+  - Proficiency in at least one modern programming language
+    (e.g., Python, TypeScript, C#, Node.js) and comfort
+    learning what’s needed.
+  - Practical experience integrating systems via APIs,
+    authentication, and structured data formats.
+  - Strong ability to work with non-technical stakeholders:
+    translate ambiguous problems into clear specs, iterate
+    quickly, and drive adoption.
+  
+  Technical foundations we value (examples)
+  
+  - Experience building cloud-based services and the surrounding
+    engineering hygiene (CI/CD, source control, test
+    automation, and operational monitoring).
+  - Comfort with secure and scalable platform concepts
+    (networking, identity, secrets, infrastructure
+    automation).
+  - Experience or strong interest in AI-assisted development as
+    part of daily engineering practice.
+  
+  LLMs/agent capabilities (expected for this role)
+  
+  - Hands-on experience building LLM-powered tools/agents
+    (prompting, tool use, retrieval where appropriate, and
+    evaluation/quality approaches).
+  - Ability to design safe and predictable AI systems
+    (validation, fallbacks, human-in-the-loop, and clear
+    failure handling).
+  
+  Preferred
+  
+  - Familiarity with enterprise security/compliance expectations
+    (access controls, audit trails, change management, data
+    governance).
+  - Experience modernizing processes (Lean/ops mindset) and
+    designing systems that align to how teams actually work.
+  - Experience building internal tools that drive adoption
+    across multiple functions.
+  
+  Participation in our Recruitment Process: To Be Determined.
+  Typical interview processes including initial screening w/ a
+  Recruiter, meeting with Hiring Manager (SVP, Strategic
+  Operations & Corporate Development), and other internal team
+  members the role may closely interact with.
+  
+  *Estimated total candidate time investment: Approx. 3hrs
+  
+  Benefits
+  
+  Why M-Files?
+  
+  M-Files is a global company with Finnish roots, built around
+  a product we are proud of.
+  
+  You’ll have the opportunity to contribute to our continued
+  growth while developing your own expertise in a
+  collaborative, supportive environment.
+  
+  Our guiding principles, Make It Happen, Help Others, Love
+  Customers, are reflected in how we work every day, with
+  transparency and strong team spirit at the core of our
+  culture.
+  
+  What We Offer:
+  
+  - As remote enabled company our employees enjoy the
+    flexibility to establish their own life/work balance
+  - Matching 401K Plan (25% of employee's contribution up to the
+    IRS max)
+  - Health insurance (PPO and HDHP/HSA plans offered)
+  - Dental insurance
+  - Vision insurance
+  - Life insurance (1x employee salary)
+  - Short-term disability (employer paid)
+  - Long-term disability (employer paid)
+  - Flexible Spending Plan (medical and dependent)
+industries:
+  - Information Technology
+  - Productivity
+  - Professional Services
+  - Software
+  - Business Intelligence
+posted_date: 2026-04-07
+url: "https://www.builtinla.com/job/ai-operations-engineer-internal-agents-workflow-automation-remote-us/8971472"
+source: Built In

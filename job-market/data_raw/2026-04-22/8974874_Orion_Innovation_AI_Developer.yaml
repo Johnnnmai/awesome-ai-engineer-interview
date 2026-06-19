@@ -1,0 +1,109 @@
+job_id: 8974874
+title: AI Developer
+company: Orion Innovation
+location: IND
+work_type: FULL_TIME
+level: Entry level
+company_size: 3,410 Employees
+description: |
+  Orion Innovation is a premier, award-winning, global
+  business and technology services firm.  Orion delivers game-
+  changing business transformation and product development
+  rooted in digital strategy, experience design, and
+  engineering, with a unique combination of agility, scale,
+  and maturity.  We work with a wide range of clients across
+  many industries including financial services, professional
+  services, telecommunications and media, consumer products,
+  automotive, industrial automation, professional sports and
+  entertainment, life sciences, ecommerce, and education.
+  
+  Job Overview:
+  
+  We are seeking a seasoned AI Developer to lead the design
+  and implementation of next-generation Agentic AI solutions.
+  You won't just be building chatbots; you will be
+  architecting autonomous systems where multiple specialized
+  AI agents collaborate to solve complex, long-horizon
+  business problems. You will leverage a multi-cloud strategy
+  to deploy scalable, resilient, and "reasoning-heavy" AI
+  workflows.
+  
+   Key Responsibilities
+  
+  - Agentic Architecture: Design and develop autonomous agents
+    capable of independent planning, tool-use (function
+    calling), context & prompt engineering, and self-
+    correction.
+  - Multi-Agent Orchestration: Implement LangGraph to manage
+    task delegation, conflict resolution, and collaborative
+    reasoning between specialized agents.
+  - Advanced RAG & Memory: Build sophisticated Retrieval-
+    Augmented Generation (RAG) pipelines with episodic and
+    semantic memory to ensure agents maintain context over
+    long interactions.
+  - Cloud-Native Deployment: Architect and deploy AI services
+    across AWS (Bedrock/SageMaker), Azure (OpenAI
+    Service/Foundry), ensuring high availability and cost
+    optimization.
+  - Guardrails & Ethics: Implement rigorous evaluation
+    frameworks (e.g., Ragas, TruLens) and safety guardrails to
+    prevent hallucinations and ensure responsible agent
+    behavior.
+  - Performance Tuning: Optimize LLM latency and throughput
+    using techniques like prompt caching, quantization, and
+    specialized model routing.
+  - Prompt engineering & Context engineering.
+  
+  Key Skills:
+  
+  - Core AI: 4+ years of professional experience in AI/ML, with
+    at least 1.5+ years focused specifically on Generative AI
+    and LLM orchestration.
+  - Agent Frameworks: Hands-on expertise with LangGraph. Proven
+    ability to build "loops" and "state machines" rather than
+    just linear chains.
+  - Programming: Mastery of Python (Asyncio, Pydantic, FastAPI).
+    Experience with TypeScript/Node.js is a significant plus.
+  - Cloud Infrastructure:
+  - AWS: Bedrock, Lambda, Step Functions, S3.
+  - Azure: Azure OpenAI, AI Search, CosmosDB, PostgreSQL.
+  - Data & Memory: Proficiency with Vector Databases like
+    Pinecone, Weaviate, Milvus, or pgvector. Understanding of
+    graph databases (Neo4j) for knowledge-graph-enhanced RAG.
+  - DevOps/AIOps: Experience with Docker, Kubernetes, and CI/CD
+    pipelines specifically for AI (LLMOps).
+  
+   Preferred Qualifications
+  
+  - Contributions to open-source AI frameworks or research
+    publications in MAS.
+  - Experience with Model Context Protocol (MCP) or Agent-to-
+    Agent (A2A) communication standards.
+  - Familiarity with fine-tuning techniques (LoRA, QLoRA) for
+    specialized agent tasks.
+  
+  Orion is an equal opportunity employer, and all qualified
+  applicants will receive consideration for employment without
+  regard to race, color, creed, religion, sex, sexual
+  orientation, gender identity or expression, pregnancy, age,
+  national origin, citizenship status, disability status,
+  genetic information, protected veteran status, or any other
+  characteristic protected by law.
+  
+  Candidate Privacy Policy
+  
+  Orion Systems Integrators, LLC and its subsidiaries and its
+  affiliates (collectively, “Orion,” “we” or “us”) are
+  committed to protecting your privacy. This Candidate Privacy
+  Policy (orioninc.com) (“Notice”) explains:
+  
+  - What information we collect during our application and
+    recruitment process and why we collect it;
+  - How we handle that information; and
+  - How to access and update that information.
+  
+  Your use of Orion services is governed by any applicable
+  terms in this notice and our general Privacy Policy.
+posted_date: 2026-04-07
+url: "https://builtin.com/job/developer-low-internal-coi-india-103667/8974874"
+source: Built In

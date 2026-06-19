@@ -1,0 +1,57 @@
+company:
+  name: Boeing
+  stage: Public
+  focus: |-
+    Global aerospace company developing commercial airplanes,
+    defense products and space systems
+position:
+  title: Experienced Software Engineer - AI Application
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying AI systems -
+      RAG pipelines, LLM applications, multimodal document
+      intelligence workflows, and human feedback loops. The
+      engineer will implement core AI functionality including
+      retrieval architectures, citation systems, and fine-tuning
+      datasets, not just supporting infrastructure.
+  responsibilities:
+  - Design and build source-centric AI workflows grounded in enterprise documentation
+  - Develop retrieval-augmented generation pipelines with hybrid retrieval, metadata
+    filtering, reranking, and citation traceability
+  - Implement explainability features including provenance, citations, evidence mapping,
+    and confidence signaling
+  - Build multimodal document intelligence workflows for PDFs, scanned documents,
+    tables, diagrams, and technical figures
+  - Create human-in-the-loop review systems to approve, reject, and provide feedback
+    on AI-generated outputs
+  - Design and maintain feedback learning loops to improve prompts, retrieval quality,
+    and curated fine-tuning datasets
+  - Develop secure, enterprise-grade, multi-tenant Azure-native applications with
+    governance and role-based access control
+  - Support revision-aware content intelligence including source versioning and downstream
+    impact analysis
+  use_cases:
+  - Enterprise document intelligence and knowledge extraction from technical aerospace
+    documentation
+  - Source-grounded question answering with citation and provenance tracking
+  - Multimodal AI for processing PDFs, scanned documents, tables, diagrams, and technical
+    figures
+  - Human-in-the-loop content review and approval workflows for AI-generated artifacts
+  - Feedback-driven continuous improvement of AI system accuracy and reliability
+  skills:
+    genai: [RAG, LLM applications, Prompt engineering, Fine-tuning, Multimodal AI]
+    ml: [OCR]
+    web: []
+    databases: [PostgreSQL, Vector databases]
+    data: []
+    cloud: [Azure AI Search, Microsoft Azure, Microsoft Entra ID]
+    ops: [CI/CD, Evaluation frameworks]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8885233'
+  extracted_at: '2026-03-27T16:09:19.434327'

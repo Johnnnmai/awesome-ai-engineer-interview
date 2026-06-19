@@ -1,0 +1,54 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Lead AI Engineer - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, deploying, and
+      fine-tuning generative AI systems including RAG pipelines,
+      autonomous AI agents, and LLM integrations. The engineer
+      will architect end-to-end generative AI solutions and lead
+      hands-on development of complex AI systems, making this
+      squarely an ai-first role.
+  responsibilities:
+  - Design and architect end-to-end generative AI solutions from proof-of-concept
+    to production, ensuring scalability, performance, and reliability
+  - Develop and maintain a strategic roadmap for generative AI adoption, evaluating
+    new models, techniques, and platforms
+  - Lead hands-on development of complex AI systems including RAG pipelines, autonomous
+    AI agents, fine-tuning workflows, and custom model integrations
+  - Establish and govern best practices for the full AI development lifecycle including
+    prompt engineering, model evaluation, MLOps, and data management
+  - Collaborate with multiple management teams and business units to identify high-impact
+    use cases and integrate AI solutions
+  - Serve as a senior advisor and mentor to other engineers and analysts, allocating
+    work and providing technical direction
+  - Assess risk and drive compliance with laws and regulations related to AI ethics,
+    data privacy, and model bias
+  - Stay abreast of generative AI research advancements and translate them into practical
+    solutions
+  use_cases:
+  - Enterprise generative AI solution development for financial services
+  - Retrieval-Augmented Generation (RAG) pipelines for knowledge retrieval
+  - Autonomous AI agents for business process automation
+  - LLM fine-tuning and custom model integrations for domain-specific applications
+  - Scalable AI-powered products and services within Citi's technology ecosystem
+  skills:
+    genai: [RAG, LLM fine-tuning, Prompt engineering, AI agents, Function calling]
+    ml: [PyTorch, TensorFlow]
+    web: [Microservices, API design]
+    databases: [Pinecone, Milvus, ChromaDB, Elasticsearch, Redis]
+    data: [Apache Spark, Kafka, ETL/ELT]
+    cloud: []
+    ops: [Docker, Kubernetes, MLOps, Model versioning, Model deployment, Model monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9052395'
+  extracted_at: '2026-04-22T13:53:50.149979'

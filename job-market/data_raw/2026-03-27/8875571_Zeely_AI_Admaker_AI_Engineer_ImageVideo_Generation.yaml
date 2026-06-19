@@ -1,0 +1,115 @@
+job_id: 8875571
+title: AI Engineer  (Image/Video Generation)
+company: Zeely – AI Admaker
+location: USA
+work_type: FULL_TIME
+level: Mid level
+skills:
+  - AI
+  - Comfyui
+  - Docker
+  - Ffmpeg-Python
+  - Imageio
+  - Kubernetes
+  - Ml Libraries
+  - Moviepy
+  - Pydub
+  - Python
+description: |
+  Join us as an AI Engineer (Image & Video Generation) and
+  become part of a team building and scaling generative
+  pipelines for next-generation visual content at Zeely.
+  
+  Zeely AI is a platform that uses artificial intelligence to
+  generate viral UGC videos and ad banners, as well as launch
+  effective ad campaigns on Facebook and Instagram, helping
+  small businesses become visible and scale.
+  
+  We already have 1mln+ users in the US and are consistently
+  growing more than 4x year-over-year. Today, Zeely is ranked
+  among the Top-3 products in its category on the US market,
+  and our team has grown to over 160 specialists.
+  
+  Your key responsibilities:
+  
+  - Design and improve generative pipelines for image and video
+    creation
+  - Tune and control the behavior of image/video models: visual
+    quality, style consistency, and product identity
+    preservation
+  - Optimize and scale image→video and text→video workflows for
+    stable and reproducible production results
+  - Diagnose quality bottlenecks (artifacts, instability,
+    product distortions) and implement fixes
+  - Extend generative systems for new products and marketing
+    content scenarios
+  - Research and test new image/video models and tools, staying
+    up to date with the latest industry solutions
+  
+  What we’re looking for:
+  
+  - 2+ years of hands-on experience in AI / Generative Systems
+    Engineering, where prompts are part of the engineering
+    logic rather than a standalone artifact
+  - Strong analytical and formal reasoning skills: ability to
+    build cause-and-effect relationships when diagnosing and
+    optimizing generation systems
+  - Ability to independently evaluate visual quality of
+    generated outputs: composition, lighting, consistency, and
+    product alignment—without external designer validation.
+    Understanding of UGC/ad content and product-focused
+    generation
+  - Experience with generative models across multiple
+    modalities: text-to-image, image-to-image, image-to-video,
+    video-to-video, multimodal scenarios
+  - Experience designing LLM agents or automated generative
+    workflows
+  - Ability to build complex multi-step workflows, and
+    optimize/debug generation pipelines
+  - Strong prompt engineering skills for image and video models
+  - Habit of documenting pipelines, experiments, and decisions:
+    structured notes on models, prompts, parameters, and test
+    results to ensure reproducibility and shared team
+    understanding
+  - Keeping up with news and releases in image/video generation,
+    understanding the current tooling landscape
+  
+  Nice to have:
+  
+  - Experience with ComfyUI
+  - Experience with LoRA tuning or fine-tuning image/video
+    models
+  - Experience integrating generative pipelines into production
+    systems (APIs, queues, storage, Docker, Kubernetes, etc.)
+  - Experience building automated workflows in n8n or similar
+    tools
+  - Practical experience with Python AI/ML libraries
+  - Experience working with media processing in Python: ffmpeg-
+    python, moviepy, imageio, pydub, and similar tools
+  
+  Why it’s exciting to work with us:
+  
+  - Work with cutting-edge technologies and contribute to
+    building AI-powered tools
+  - Join a strong A-level team that motivates you to grow and
+    achieve more
+  - Remote-first approach: work from anywhere, with the option
+    to visit our offices in Warsaw and Kyiv
+  - Paid day offs and sick leaves — we care about your work-life
+    balance
+  - Regular performance reviews to ensure your growth is
+    transparent and rewarded
+  - Financial support — consultations for private entrepreneurs
+    from our dedicated finance team
+  
+  Recruitment process: Intro call > Test Task > Final
+  Interview > Reference Check > Offer
+  
+  Send us your CV — we’d love to get to know you better!
+industries:
+  - AdTech
+  - Artificial Intelligence
+  - Marketing Tech
+posted_date: 2026-03-26
+url: "https://www.builtinla.com/job/ai-engineer-image-video-generation/8875571"
+source: Built In

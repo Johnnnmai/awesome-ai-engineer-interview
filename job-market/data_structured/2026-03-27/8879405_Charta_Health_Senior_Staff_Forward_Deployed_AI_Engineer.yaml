@@ -1,0 +1,54 @@
+company:
+  name: Charta Health
+  stage: Series A/B
+  focus: |-
+    AI platform for healthcare operations including revenue
+    cycle, clinical operations, and administrative workflows
+position:
+  title: Senior / Staff Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed AI Engineer role that involves
+      deploying, customizing, and optimizing AI solutions directly
+      for clients. The role requires hands-on work with LLMs,
+      prompt engineering, and integrating AI/ML technologies to
+      deliver client solutions, which qualifies as ai-first work.
+  responsibilities:
+  - Collaborate closely with healthcare clients to understand their workflows and
+    identify opportunities to leverage AI and machine learning
+  - Customize and deploy Charta Health's AI-driven platforms to address specific client
+    needs
+  - Rapidly prototype and iterate on solutions, adapting to client feedback and evolving
+    requirements
+  - Explore and integrate a wide range of AI/ML technologies, adapting to the diverse
+    needs of clients
+  - Provide technical expertise and support to clients, ensuring successful deployment
+    and adoption of solutions
+  - Work closely with internal engineering team to provide feedback and contribute
+    to product development
+  - Mentor and guide fellow engineers, sharing expertise in AI/ML and healthcare applications
+  - Contribute strategic ideas and technical insights to shape the product roadmap
+  use_cases:
+  - Healthcare revenue cycle management
+  - Clinical operations optimization
+  - Administrative workflow automation
+  - Healthcare provider efficiency improvement
+  - Patient care delivery enhancement
+  - Medical chart accuracy and accountability
+  skills:
+    genai: [LLMs, prompt engineering]
+    ml: [neural networks, machine learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8879405'
+  extracted_at: '2026-03-27T13:34:44.902559'

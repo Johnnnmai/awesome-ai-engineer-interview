@@ -1,0 +1,51 @@
+company:
+  name: Optum
+  stage: Public
+  focus: |-
+    Healthcare technology, pharmacy benefits, and health
+    optimization services
+position:
+  title: Senior Full Stack Engineer - JAVA, React, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a general full-stack engineering role at Optum with
+      AI/ML mentioned only as a minor component. The primary
+      responsibilities focus on traditional software development
+      (React, Java, databases, APIs), with AI integration being
+      one of many areas rather than the core focus. The role
+      involves "contributing to" AI solutions rather than
+      building, training, or deploying models directly.
+  responsibilities:
+  - Design and implement responsive user interfaces using ReactJS, React Native, HTML,
+    CSS, and JavaScript
+  - Develop robust back-end services using Java Spring Boot, Python, and Node.js
+  - Create and optimize databases (MongoDB, SQL) and APIs for scalability
+  - Build and deploy solutions on AWS leveraging cloud-native services
+  - Implement CI/CD pipelines and automated testing practices
+  - Participate in Agile ceremonies and collaborate with product managers, UX designers,
+    and QA teams
+  - Ensure application performance, uptime, security, and scalability
+  - Contribute to GenAI and AI/ML-driven solutions for digital engagement
+  use_cases:
+  - Digital health engagement platforms
+  - Healthcare data management and connectivity
+  - Patient care coordination systems
+  - Pharmacy benefits management
+  - Health outcomes improvement tools
+  skills:
+    genai: [GenAI]
+    ml: [AI/ML]
+    web: [React, React Native, HTML, CSS, Spring Boot, Node.js, Express, REST APIs]
+    databases: [MongoDB, SQL]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD, Git]
+    languages: [JavaScript, TypeScript, Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8629006'
+  extracted_at: '2026-03-27T14:28:18.721496'

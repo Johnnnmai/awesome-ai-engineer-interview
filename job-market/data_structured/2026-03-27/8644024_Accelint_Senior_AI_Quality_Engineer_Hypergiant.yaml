@@ -1,0 +1,52 @@
+company:
+  name: Accelint
+  stage: Established
+  focus: |-
+    Defense technology and national security systems with
+    AI/autonomous capabilities
+position:
+  title: Senior AI Quality Engineer (Hypergiant)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying AI-
+      powered agentic applications, including designing testing
+      guardrails for agentic workflows, validating orchestration
+      logic, and building evaluation pipelines. While focused on
+      quality, it requires deep understanding of and direct work
+      on AI/LLM systems rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Design and integrate testing guardrails directly into agentic workflows
+  - Build and maintain custom evaluation and test harnesses for AI-powered systems
+  - Validate orchestration logic and end-to-end behavior of agentic workflows
+  - Define and implement evaluation strategies including hallucination detection and
+    failure analysis
+  - Create reusable quality components, shared libraries, and validation utilities
+  - Architect agentic systems with correctness, safety, and expected behavior enforced
+    by design
+  - Work with cross-functional teams to translate mission needs into evaluation criteria
+  - Integrate automation into CI/CD pipelines for AI quality validation
+  use_cases:
+  - AI-enabled training and simulation for military operations
+  - Autonomous systems for defense applications
+  - Mission command and control software
+  - Logistics and maintenance optimization tools
+  - AI-powered decision support for national security operators
+  skills:
+    genai: [Agentic AI systems, LLM evaluation, Prompt engineering, LLM integrations,
+      Guardrails AI]
+    ml: []
+    web: [Playwright, React, Next.js]
+    databases: []
+    data: [Data validation, Schema enforcement]
+    cloud: [Amazon Web Services, AWS AI/ML services]
+    ops: [pytest, k6, CI/CD, Datadog, Prometheus, Grafana, Contract testing]
+    languages: [TypeScript, JavaScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8644024'
+  extracted_at: '2026-03-27T13:35:25.867407'

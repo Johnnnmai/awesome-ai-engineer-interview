@@ -1,0 +1,58 @@
+company:
+  name: MeridianLink
+  stage: Public
+  focus: Credit union and financial services software platform
+position:
+  title: Staff Software Engineer ( AI )
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and architecting AI
+      platform infrastructure including RAG pipelines, LLM
+      integrations, prompt management, evaluation harnesses, and
+      model serving. While it has platform/infrastructure
+      elements, the engineer is hands-on with GenAI
+      systems—implementing LLM integrations, building vector
+      retrieval infrastructure, and designing AI-specific data
+      pipelines—making this an ai-first role.
+  responsibilities:
+  - Own the reference architecture for the AI platform including API abstractions,
+    prompt management, RAG infrastructure, vector retrieval, evaluation harnesses,
+    and model serving
+  - Lead build-vs-buy evaluations for AI components with due diligence and integration
+    planning
+  - Design foundational data pipelines and infrastructure to support reliable, scalable
+    AI services
+  - Contribute to backend development in Python and RESTful API design, including
+    integrations with AI providers
+  - Implement LLM integrations including context management, prompt templating, response
+    validation, and fallback strategies
+  - Build and maintain evaluation frameworks for reproducible model testing
+  - Establish observability and performance tracking for AI services
+  - Mentor L3-L4 engineers through code reviews, design sessions, and architectural
+    guidance
+  use_cases:
+  - Customer-facing AI capabilities for credit union software products
+  - RAG-based intelligent features for financial services clients
+  - LLM-powered automation and assistance within lending/credit union workflows
+  - AI-assisted developer workflows using tools like GitHub Copilot and Claude
+  - Vector-based semantic search and retrieval for financial data
+  skills:
+    genai: [RAG pipelines, Prompt management, LLM evaluation, Agent frameworks, LLM
+        integration]
+    ml: []
+    web: [FastAPI, Django, RESTful APIs, React]
+    databases: [Pinecone, pgvector, OpenSearch]
+    data: []
+    cloud: [AWS, AWS IAM]
+    ops: [Docker, Kubernetes, Terraform, CI/CD, Prometheus, Grafana, Datadog, MLOps/LLMOps,
+      Model serving]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [GitHub Copilot, Distributed systems, AI governance and compliance, SOC
+        2]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9118256'
+  extracted_at: '2026-04-22T12:38:01.743397'

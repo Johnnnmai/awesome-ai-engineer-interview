@@ -1,0 +1,45 @@
+company:
+  name: StubHub
+  stage: Public
+  focus: Global marketplace for buying and selling live event tickets
+position:
+  title: Software Engineer II - Mobile (AI-Powered Consumer Experiences)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a mobile engineering role that consumes AI services
+      built by others, not a role that builds/trains/deployes AI
+      models. The engineer integrates pre-built AI/ML services
+      into mobile applications, working alongside AI engineers who
+      build the actual intelligent systems.
+  responsibilities:
+  - Design, build, test, deploy, and maintain AI-driven mobile features used by millions
+    of users
+  - Develop high-quality mobile experiences using React Native and native platform
+    capabilities
+  - Integrate backend and AI services into real-time mobile workflows
+  - Contribute to architectural decisions around performance, scalability, and maintainability
+  - Collaborate cross-functionally to iterate on early-stage product ideas
+  - Participate in rapid experimentation and data-driven iteration cycles
+  - Debug production issues and continuously improve mobile system health
+  use_cases:
+  - Personalized live event discovery for fans
+  - Intelligent ticket evaluation and purchasing experiences
+  - Adaptive mobile-first interaction models for event marketplace
+  - Real-time personalized recommendations for live events
+  skills:
+    genai: []
+    ml: []
+    web: [React Native, API integration]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Feature flagging]
+    languages: []
+    domains: []
+    other: [iOS, Android, Mobile architecture, State management, A/B testing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8616070'
+  extracted_at: '2026-03-27T13:19:21.997520'

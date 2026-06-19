@@ -1,0 +1,52 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU computing and AI hardware/platforms
+position:
+  title: AI Developer Technology Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on GPU acceleration and low-level
+      performance optimization of deep learning and ML workloads,
+      involving CUDA programming, parallel algorithms, and
+      hardware architecture optimization. It does not involve
+      building LLMs/agents or GenAI applications (ai-first), but
+      rather works on the foundational ML/DL acceleration layer —
+      training optimization, GPU compute, and hardware-software
+      co-design.
+  responsibilities:
+  - Research and develop techniques to GPU accelerate workloads in deep learning,
+    machine learning, and other AI domains
+  - Collaborate with industry and academic experts to perform in-depth analysis and
+    optimization of complex AI and HPC algorithms
+  - Publish and present optimization techniques in developer blogs and conferences
+    to educate the developer community
+  - Influence the design of next-generation hardware architectures, software, and
+    programming models through collaboration with internal research and engineering
+    teams
+  - Identify and eliminate system bottlenecks to achieve optimal performance on CPU
+    and GPU architectures
+  use_cases:
+  - GPU acceleration of deep learning and machine learning workloads
+  - Performance optimization of AI and HPC algorithms on modern CPU and GPU architectures
+  - Parallelization and optimization of deep learning models for NLP, computer vision,
+    and recommender systems
+  - Real-time, cost-effective AI computing platform development
+  skills:
+    genai: []
+    ml: [CUDA, Deep Learning, GPU Architecture, Parallel Programming, OpenACC, OpenMP,
+      MPI, Performance Optimization, Linear Algebra, HPC]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C/C++]
+    domains: [Computer Vision, Natural Language Processing, Recommender Systems]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9067750'
+  extracted_at: '2026-04-22T13:22:18.487132'

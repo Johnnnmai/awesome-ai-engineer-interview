@@ -1,0 +1,55 @@
+company:
+  name: Percepta AI
+  stage: Series Unknown (backed by General Catalyst partnership)
+  focus: |-
+    Applied AI transformation for critical industries like
+    healthcare, manufacturing, and energy
+position:
+  title: AI Infrastructure Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      While this is an infrastructure role, it's specifically
+      defined by deploying and operating autonomous agentic AI
+      systems. The engineer defines infrastructure patterns for
+      multi-agent systems, builds observability for agent
+      decisions and execution paths, and is directly involved in
+      the research-to-production handoff of AI systems. The role
+      is fundamentally shaped by the AI workloads it supports,
+      making it ai-first rather than ai-support.
+  responsibilities:
+  - Define infrastructure patterns for multi-agent systems requiring observability,
+    controllability, and recoverability beyond traditional applications
+  - Own and evolve the IaC stack including Terraform and Kubernetes across AWS, GCP,
+    and Azure
+  - Build observability primitives for agentic workflows, tracing agent decisions
+    and execution paths
+  - Design and maintain CI/CD pipelines providing fast, trustworthy feedback from
+    commit to production
+  - Build operational foundations including monitoring, alerting, and incident response
+    for AI-driven systems
+  - Collaborate across engineering teams to meet reliability and compliance requirements
+    (SOC 2, HIPAA) for regulated industries
+  use_cases:
+  - Autonomous multi-agent systems for critical industries (healthcare, manufacturing,
+    energy)
+  - Agentic architectures deployed via the Mosaic toolkit to industry-leading customers
+  - AI transformation of regulated institutions requiring compliance-grade infrastructure
+  - Observability and operational reliability for systems that make autonomous decisions
+  skills:
+    genai: [Multi-agent systems]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Terraform, Kubernetes, Docker, CI/CD, GitHub Actions, GitLab CI, Prometheus,
+      Grafana, Loki, GitOps, MLOps, Observability for agentic systems]
+    languages: [Python, Bash]
+    domains: []
+    other: [SOC 2, HIPAA]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8905037'
+  extracted_at: '2026-04-22T14:03:38.854033'

@@ -1,0 +1,47 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: Financial services and banking
+position:
+  title: Senior Software Engineer - Data Engineering/Generative AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires 2+ years of experience using LLMs for
+      automation and hands-on experience with GenAI use cases. The
+      combination of data engineering with generative AI indicates
+      hands-on work implementing AI solutions, likely building
+      data pipelines that feed into or support LLM-based
+      automation systems.
+  responsibilities:
+  - Lead moderately complex initiatives and deliverables within technical domain environments
+  - Design, code, test, debug, and document for projects and programs associated with
+    technology domain
+  - Build and optimize large-scale data pipelines for high-volume batch processing
+  - Implement GenAI use cases and leverage LLMs for automation
+  - Collaborate with peers and managers to resolve technical challenges and achieve
+    goals
+  - Lead projects and provide guidance to less experienced staff
+  - Work with CI/CD pipelines, improve code coverage and vulnerability remediation
+  use_cases:
+  - LLM-powered automation for data processing workflows
+  - Large-scale data transformation and batch processing
+  - Data warehousing and pipeline development for financial services
+  - Big data processing using Apache Spark and Hadoop ecosystem
+  - GenAI use cases for enterprise data applications
+  skills:
+    genai: [LLMs, GenAI]
+    ml: []
+    web: [REST APIs]
+    databases: [RDBMS, Data Warehousing, Dremio, Iceberg, Delta]
+    data: [Apache Spark, Hadoop, Hive, Big data pipelines]
+    cloud: [GCP, AWS, Azure]
+    ops: [CI/CD, Autosys, Unix Shell scripting]
+    languages: [Python, Java, SQL, Bash scripting]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8514540'
+  extracted_at: '2026-03-27T14:23:36.795856'

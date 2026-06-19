@@ -1,0 +1,178 @@
+job_id: 8702097
+title: Founding AI Engineer (LLM Systems, Agents, Automation)
+company: Trivium Group
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Anthropic
+  - Crewai
+  - Gohighlevel
+  - Google Ads
+  - Langchain
+  - Meta Ads
+  - Nexhealth
+  - Node.js
+  - Openai
+  - Opendental
+company_size: 56 Employees
+description: |
+  AI Agent Engineer (Backend / LLM Systems)
+  
+  🌍 Remote (International Candidates Welcome) 💰 Salary:
+  $30,000 – $60,000 USD 🕒 Full-Time 🚀 Early-Stage Startup
+  
+  About the Role
+  
+  DDS Marketing is looking for an AI Agent Engineer to own the
+  end-to-end development of AI-powered automation modules that
+  power marketing, operations, and patient engagement for
+  healthcare practices.
+  
+  You will work directly with the founder, who oversees
+  architecture and product direction, and collaborate with one
+  additional developer currently focused on voice AI systems.
+  
+  This role is ideal for someone who enjoys building
+  production AI systems quickly, integrating APIs, and
+  shipping autonomous agents that deliver real-world outcomes.
+  
+  What You’ll Build
+  
+  You will design and deploy a series of AI agents on a 4–5
+  week sprint cadence, including:
+  
+  SEO Agent
+  
+  Automates content production and search growth.
+  
+  Responsibilities include:
+  
+  - Automated blog generation
+  - Keyword strategy and research
+  - SERP monitoring
+  - CMS publishing pipeline integration
+  
+  Patient Journey Agent
+  
+  Coordinates automated patient communication workflows using
+  real-time data.
+  
+  Examples include
+  
+  - Appointment reminders
+  - Follow-up campaigns
+  - Patient reactivation
+  - Review generation
+  - Multi-step messaging orchestration
+  
+  Ad Deployment Agent
+  
+  Automates digital marketing campaign creation and
+  optimization.
+  
+  Capabilities include:
+  
+  - Programmatic campaign creation
+  - Budget optimization
+  - Lead attribution tracking
+  - Integration with CRM and marketing platforms
+  
+  Voice Agent Improvements
+  
+  You will iterate on an existing AI voice scheduling system
+  built using the OpenAI Realtime API.
+  
+  Responsibilities include:
+  
+  - Improving call reliability
+  - Enhancing conversational logic
+  - Scaling inbound/outbound automation
+  - Integrating voice agents with CRM workflows
+  
+  Voice stack includes integrations such as ElevenLabs.
+  
+  What You’ll Do
+  
+  • Design, build, and deploy AI agent modules from
+  architecture through production • Ship new agent
+  capabilities every 4–5 weeks • Integrate with third-party
+  APIs including:
+  
+  - GoHighLevel
+  - NexHealth
+  - OpenDental
+  - Stripe
+  - Meta Ads
+  - Google Ads
+  
+  • Build LLM-based automation using APIs from OpenAI and
+  Anthropic • Create prompt chains, tool-use patterns, and
+  structured output pipelines • Implement evaluation pipelines
+  and observability tools such as Langfuse and Weights &
+  Biases • Manage CI/CD, deployment, and monitoring for all
+  agent services • Collaborate asynchronously through Slack
+  and GitHub • Contribute to architecture decisions including
+  data models, agent state machines, and error handling
+  
+  Deployment infrastructure includes platforms like Railway.
+  
+  RequirementsCore Experience
+  
+  • 5+ years of software development experience • 2+ years
+  building API-heavy backend systems • Strong experience with
+  Python or Node.js / TypeScript
+  
+  AI & LLM Systems
+  
+  Hands-on experience with:
+  
+  - Prompt engineering
+  - Function calling / tool use
+  - Structured output parsing
+  - Retrieval-Augmented Generation (RAG)
+  - Agent frameworks such as LangChain or CrewAI
+  
+  Backend & Integrations
+  
+  • Strong API integration experience • Experience integrating
+  multiple third-party services in a single system •
+  Comfortable handling authentication, rate limits, webhooks,
+  and data normalization
+  
+  Infrastructure Ownership
+  
+  You should be comfortable owning infrastructure including:
+  
+  - CI/CD pipelines
+  - Containerized deployments
+  - Logging and monitoring
+  - Service reliability and alerting
+  
+  Work Style
+  
+  • Self-directed and able to ship independently • Comfortable
+  working in a startup environment • Strong written
+  communication in async workflows • Collaborative and
+  constructive in code reviews
+  
+  Nice to Have
+  
+  • Experience with GoHighLevel, NexHealth, or OpenDental •
+  Experience with marketing automation systems or CRM
+  integrations • Familiarity with voice AI systems using
+  Twilio or ElevenLabs • Prior startup or early-stage product
+  experience • Experience with local LLM inference tools like
+  Ollama or vLLM
+  
+  Benefits
+  
+  💰 $30,000 – $60,000 USD annually (based on experience) 🌍
+  Remote role 📈 Opportunity to work on cutting-edge AI agent
+  systems in a fast-moving startup
+industries:
+  - Marketing Tech
+  - Consulting
+posted_date: 2026-03-23
+url: "https://builtin.com/job/llm-engineer/8702097"
+source: Built In

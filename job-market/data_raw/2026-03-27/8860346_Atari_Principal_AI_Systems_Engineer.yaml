@@ -1,0 +1,182 @@
+job_id: 8860346
+title: Principal AI Systems Engineer
+company: Atari
+location: Poundiuproda, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Autogen
+  - AWS
+  - Azure
+  - Claude Code
+  - Codex Cli
+  - GCP
+  - Langchain
+  - Langgraph
+  - Llamaindex
+  - Python
+company_size: 815 Employees
+description: |
+  About Us: Founded in 1972, Atari is one of the world’s most
+  iconic consumer brands and a pioneer in the video game
+  industry, known for creating classics like Pong, Asteroids,
+  and Centipede. Today, Atari Inc. continues to build on its
+  legacy by developing games, hardware, and experiences that
+  honor the past while driving innovation for the future.
+  
+  Over the past two years, we've been building Atari India, a
+  growing team that plays a critical role in supporting our
+  global operations. We're proud of the team we've assembled
+  so far, and we’re just getting started. As part of a lean,
+  high-impact organization, the team in India works closely
+  with colleagues in North America and Europe on projects that
+  move the company forward. Whether you're helping launch a
+  new game, keeping our infrastructure secure, or supporting
+  day-to-day operations, your work here matters. Join us as we
+  continue to grow Atari India and build the future of a
+  legendary brand.
+  
+  Position: Principal AI Systems Engineer  Experience: 8+
+  Years Location: Netaji Subhash Place, Pitampura, New Delhi
+  Employment Type: Full-Time (Hybrid) Reports to: Senior
+  Director of Technology, India
+  
+  About the Role
+  
+  Architect, build, and own AI systems that automate expert-
+  intensive technical workflows end-to end — from CLI
+  frameworks, MCP servers, and agent tooling through to
+  production deployment, business outcome tracking, and
+  continuous improvement. You solve real business problems
+  with AI, ensure solutions are fully implemented and adopted,
+  and measure whether they are actually working.
+  
+  Responsibilities
+  
+  System Architecture
+  
+  - Own end-to-end architecture of AI automation systems:
+    workflow decomposition, component communication, human
+    checkpoints, and failure behaviour
+  - Design and build internal CLI frameworks, reusable
+    libraries, and agent scaffolding
+  - Author and maintain agent instruction files (SKILL.md,
+    CLAUDE.md, system prompts) and MCP server definitions
+  - Configure Claude Code and Codex CLI environments: MCP
+    wiring, tool permissions, slash commands, and engineering
+    standards
+  - Evaluate and document architectural trade-offs across
+    reliability, latency, cost, and maintainability
+  
+  Pipeline Development
+  
+  - Build production-grade AI pipelines in Python:
+    orchestration, structured prompting, context assembly,
+    schema validation, and retry strategies
+  - Integrate AI systems with external tooling — version
+    control, build pipelines, SDKs, compliance databases,
+    internal APIs
+  - Design context assembly: how domain knowledge, runtime
+    state, retrieved documents, and tool outputs compose into
+    the precise input each pipeline stage needs
+  - Build and operate multi-agent systems: orchestrator-worker
+    patterns, agent memory, structured handoffs, and conflict
+    resolution
+  
+  Prompt & Context Engineering
+  
+  - Design, version, and maintain system prompts and agent
+    instructions as first-class engineering artefacts
+  - Own output schema design and prompt regression testing with
+    a maintained ground-truth eval set
+  - Engineer context windows with precision — balancing
+    accuracy, token cost, and latency through compression and
+    selective retrieval
+  - Partner with the RAG Engineer to define retrieval
+    requirements — what knowledge is needed, under what
+    conditions, and at what granularity
+  - Build and maintain structured runtime knowledge assets:
+    curated document corpora, rule sets, decision trees, and
+    validation reference libraries
+  - Work with domain experts to translate specialist knowledge
+    into agent behaviour: decision logic, edge cases, and
+    failure modes
+  
+  Evaluation & Reliability
+  
+  - Build and own the evaluation framework: test suites,
+    regression benchmarks, LLM-as-judge pipelines, and per-
+    stage quality metrics
+  - Implement production monitoring using LangFuse, Arize, or
+    equivalent — latency, token usage, success rates, and
+    output quality drift
+  - Run structured failure analysis and implement targeted fixes
+    across context assembly, orchestration, and tool
+    integration
+  - Define automation rate as a first-class metric and report on
+    business effectiveness of deployed systems
+  
+  Governance & Technical Leadership
+  
+  - Implement full audit trails — inputs, tools called, outputs,
+    and human review triggers
+  - Enforce versioning of all agent instructions and system
+    prompts as engineered artefacts with controlled rollout
+  - Set the technical standard for AI development across the
+    organization — architecture patterns, eval practices, and
+    quality gates
+  - Collaborate with engineering, product, and domain teams;
+    engage leadership on roadmap priorities and technical risk
+  
+  Requirements
+  
+  - Proven track record of building production AI automation
+    systems from scratch — end-to-end from architecture
+    through deployment
+  - Hands-on expertise with Claude Code, Codex CLI, Cursor, or
+    equivalent — including MCP server configuration and agent
+    instruction authoring
+  - Experience designing and deploying MCP servers and custom
+    tools: tool schema, authentication, and permission
+    boundaries
+  - Experience building internal CLI frameworks, agent
+    scaffolding, and reusable libraries that others build on
+  - Experience creating internal tooling and automation that
+    measurably improved engineering team efficiency — reducing
+    manual processes and accelerating workflows
+  - Experience working with data scientists and domain experts
+    to implement AI solutions that measurably improved team
+    productivity
+  - Deep prompt and context engineering: system prompts, few-
+    shot design, chain-of-thought, token budget management,
+    and prompt versioning
+  - Proficiency with LLM orchestration frameworks — LangChain,
+    LangGraph, LlamaIndex, AutoGen, or equivalent
+  - Experience building AI evaluation frameworks: test suites,
+    regression benchmarks, LLM-as-judge, and production
+    quality monitoring
+  - Production Python engineering: modular, testable, well-
+    logged code with proper error handling
+  - Cloud platform experience (AWS, Azure, or GCP): deploying
+    and monitoring AI workloads with containerisation
+  - Experience integrating AI systems with external APIs — tool
+    definition, permission management, and failure handling
+  - Experience defining and tracking AI productivity metrics:
+    automation rate, time-to-completion, and human
+    intervention rate
+  
+  Bonus Points
+  
+  - Experience in gaming: game development pipelines,
+    Unity/Unreal engine architectures, or platform
+    certification processes
+  - Familiarity with game engine scripting, asset pipelines, or
+    platform SDKs (Xbox GDK, PlayStation SDK, or similar)
+  
+  Shift Timings: 9AM TO 6PM IST
+industries:
+  - Gaming
+  - Software
+posted_date: 2026-03-25
+url: "https://builtin.com/job/principal-ai-systems-engineer/8860346"
+source: Built In

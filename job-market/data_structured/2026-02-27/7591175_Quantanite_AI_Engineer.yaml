@@ -1,0 +1,53 @@
+company:
+  name: Quantanite
+  stage: unknown
+  focus: |-
+    Customer experience solutions combining automation and human
+    intelligence
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing and developing an AI-based
+      platform that will crawl unstructured data sources and
+      extract meaningful information using ML algorithms, NLP,
+      deep learning, and other AI technologies. This is hands-on
+      development of AI solutions, not just supporting
+      infrastructure.
+  responsibilities:
+  - Implement architecture and design from definition phase to go-live phase
+  - Define conceptual and low-level models using AI technology
+  - Hands-on development of AI-led solutions
+  - Implement entire data pipeline including data crawling, ETL, creating fact tables,
+    and data quality management
+  - Integrate with multiple systems using API, web services, or data exchange mechanisms
+  - Build interfaces that gather data from various data sources including flat files,
+    data extracts, and enterprise applications
+  - Ensure solutions are scalable, maintainable, and meet best practices for security,
+    performance, and data management
+  - Lead, develop, and assist developers and team members
+  use_cases:
+  - Crawling and analyzing unstructured data sources to extract meaningful information
+  - Building cognitive data solutions for customer experience applications
+  - Natural language processing for data extraction and understanding
+  - Image and speech recognition capabilities
+  - Data warehousing and business intelligence
+  skills:
+    genai: []
+    ml: [Machine Learning, Natural Language Processing, Deep Learning]
+    web: [REST APIs]
+    databases: [MySQL, MongoDB, Cassandra, SQL Server, FAISS, ChromaDB, Pinecone,
+      Weaviate]
+    data: [Spark, ETL, Data Warehousing]
+    cloud: [Azure Data Factory, Azure Databricks, Azure Data Lake Storage, Azure Synapse,
+      Azure]
+    ops: [Git]
+    languages: [Python, SQL]
+    domains: [Image Recognition, Speech Recognition]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7591175'
+  extracted_at: '2026-03-03T11:30:44.759865'

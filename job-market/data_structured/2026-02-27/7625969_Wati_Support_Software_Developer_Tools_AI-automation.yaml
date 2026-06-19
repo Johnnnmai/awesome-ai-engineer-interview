@@ -1,0 +1,53 @@
+company:
+  name: Wati
+  stage: Series B/C (backed by Tiger Global, Sequoia Capital, DST Global)
+  focus: |-
+    WhatsApp-first conversational growth platform for customer
+    engagement
+position:
+  title: Support Software Developer (Tools & AI-automation)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building tools, automations, and
+      workflows FOR customer support operations, not building
+      AI/ML systems themselves. The AI work involves integrating
+      existing AI-powered solutions and using automation tools,
+      but the core responsibility is operational support and
+      tooling, not model development or deployment.
+  responsibilities:
+  - Implement and configure new customer support tools and technologies to improve
+    efficiency and service quality
+  - Identify and implement automation, self-service, and AI-powered solutions to reduce
+    manual effort
+  - Partner with L1 and L2 support teams to gather feedback and propose process and
+    tooling improvements
+  - Analyze customer support data across channels including ticket volumes, response
+    times, and resolution rates
+  - Investigate recurring issues to uncover root causes and recommend long-term improvements
+  - Create reports, dashboards, and visualizations to monitor support trends and performance
+    metrics
+  - Develop and maintain SOPs and best practices for scalable support operations
+  - Liaise with Product, Customer Success, Sales, and Engineering teams to align support
+    with business goals
+  use_cases:
+  - Customer support automation and self-service solutions
+  - Support operations tooling and workflow optimization
+  - Data-driven insights for customer support performance
+  - Cross-functional support process standardization
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs, Webhooks]
+    databases: [MongoDB, BigQuery]
+    data: [Looker]
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes]
+    languages: [JavaScript, Node.js, Python, TypeScript, SQL]
+    domains: []
+    other: [Make, Zapier, n8n, Zendesk, Freshdesk, Intercom, Excel]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7625969'
+  extracted_at: '2026-03-03T11:25:11.719768'

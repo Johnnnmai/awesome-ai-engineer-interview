@@ -1,0 +1,185 @@
+job_id: 8822931
+title: AI Engineer
+company: Black Box
+location: IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Astro
+  - Azure Devops
+  - Azure Services
+  - Docker
+  - Fastapi
+  - Flask
+  - Generative Ai
+  - Github Actions
+  - GraphQL
+  - Kubernetes
+company_size: 5,000 Employees
+description: |
+  Company Overview
+  
+  Black Box Network Services is a leading global
+  communications system integrator specializing in designing,
+  sourcing, implementing, and managing complex technology
+  solutions. As part of our strategic transformation, Black
+  Box is expanding its AI Center of Excellence (CoE) to
+  deliver enterprise-grade AI solutions across multiple
+  business domains.
+  
+  The AI CoE focuses on building scalable, secure, and
+  production-ready AI systems, establishing best practices for
+  enterprise AI adoption, and integrating AI capabilities into
+  core business platforms.
+  
+  Role Summary
+  
+  As an AI Engineer in the AI Center of Excellence (CoE), you
+  will design, build, and integrate AI-driven solutions using
+  pre-trained Large Language Models (LLMs), traditional
+  machine learning techniques, and deterministic systems.
+  
+  This role emphasizes applied Generative AI, enterprise
+  integration, and end-to-end ownership, from user experience
+  to backend services and AI orchestration. You will
+  collaborate closely with business and technology teams to
+  deliver production-ready AI solutions integrated with
+  platforms such as ServiceNow, SAP, Salesforce, and Azure
+  services.
+  
+  Engineers in this role are expected to contribute to
+  engineering standards, reusable AI components, and reference
+  architectures, in addition to delivering high-quality
+  solutions.
+  
+  Key Responsibilities AI Solution Development
+  
+  - Leverage pre-trained LLMs for conversational AI, document
+    summarization, and enterprise knowledge retrieval.
+  - Design and implement RAG-based architectures connecting LLMs
+    with structured and unstructured enterprise data sources.
+  - Develop traditional ML models (classification, regression)
+    and deterministic rule-based systems for structured use
+    cases.
+  - Design and deploy AI agents for task automation and
+    intelligent decision-making.
+  - Implement workflow orchestration using n8n, integrating AI
+    services with ServiceNow, SAP, Salesforce, and Azure
+    services.
+  - Build AI-specific logic and agent orchestration using
+    LangChain (chains, tools, memory, RAG).
+  
+  Full-Stack Development & UI/UX
+  
+  - Design intuitive, responsive user interfaces for AI-enabled
+    applications.
+  - Develop frontend components using ReactJS and Astro.
+  - Implement backend services using Python (FastAPI/Flask) and
+    Node.js (TypeScript).
+  - Ensure seamless integration between UI, backend services,
+    and AI workflows.
+  - Own features from design through deployment and production
+    support.
+  
+  Platform & Engineering Standards
+  
+  - Contribute to defining and improving AI engineering
+    standards, reusable components, and reference
+    architectures.
+  - Collaborate with DevOps, security, and platform teams to
+    align AI solutions with enterprise guidelines.
+  - Identify opportunities to improve developer productivity,
+    tooling, and automation.
+  
+  Agile Development & CI/CD
+  
+  - Work in Agile/Scrum teams, participating in sprint planning,
+    stand-ups, and retrospectives.
+  - Build and maintain CI/CD pipelines using Azure DevOps or
+    GitHub Actions.
+  - Ensure adherence to best practices in code quality, testing,
+    and version control.
+  
+  LLMOps & Lifecycle Management
+  
+  - Implement pipelines for deployment, monitoring, and
+    lifecycle management of AI solutions.
+  - Apply AIOps techniques for performance monitoring and
+    anomaly detection.
+  - Track experiments and models using Weights & Biases (W&B) or
+    similar platforms.
+  
+  Data Engineering & Enterprise Integration
+  
+  - Collaborate with data teams to design and build ETL
+    pipelines for structured and unstructured data.
+  - Ensure data quality, validation, and reliability of AI
+    outputs.
+  - Integrate AI solutions with ServiceNow workflows, SAP
+    modules, Salesforce, and Azure-native services.
+  
+  AI Governance & Responsible AI
+  
+  - Implement bias detection and mitigation mechanisms.
+  - Maintain model documentation, audit trails, and compliance
+    artifacts.
+  - Ensure adherence to ethical and responsible AI principles.
+  
+  Research & Innovation
+  
+  - Experiment with emerging Generative AI capabilities and
+    enterprise AI patterns.
+  - Explore hybrid AI approaches combining deterministic logic
+    with probabilistic models.
+  - Contribute to internal PoCs, hackathons, and technical
+    workshops.
+  
+  Required Skills
+  
+  - 3+ years of experience in AI/ML engineering or data science.
+  - Strong expertise in LLMs, RAG, prompt engineering, and
+    classical ML techniques.
+  - Experience building AI agents and workflow orchestration
+    (LangChain, n8n).
+  - Proficiency in Python and TypeScript/Node.js.
+  - Hands-on experience with ReactJS and Astro.
+  - Ability to deliver end-to-end full-stack solutions.
+  - Experience with PostgreSQL, Azure AI stack, and cloud-native
+    deployments.
+  - Solid understanding of Agile development practices and CI/CD
+    pipelines.
+  - Familiarity with REST/GraphQL APIs, Docker, Kubernetes, and
+    containerized deployments.
+  - Knowledge of NLP, OCR, and enterprise integration patterns.
+  
+  Preferred Skills
+  
+  - Experience with Generative AI models (GPT, BERT, DALL·E,
+    etc.) and their practical enterprise applications.
+  - Familiarity with LLMOps and AIOps frameworks.
+  - Azure or AI-related certifications (e.g., Microsoft
+    Certified: Azure AI Engineer).
+  - Experience with responsible AI, bias mitigation, and
+    compliance.
+  - Exposure to enterprise environments with governance,
+    security, and compliance constraints.
+  - Experience or familiarity with Microsoft Power Platform,
+    including Microsoft Copilot, Power Automate, and Power
+    Apps, for implementing low- to medium-complexity AI-
+    enabled and automation use cases.
+  
+  About Black Box
+  
+  Black Box is a leading technology solutions provider focused
+  on accelerating customer success through innovation,
+  ownership, transparency, and collaboration. With over 2,500
+  team members across 24 countries, Black Box delivers high-
+  value solutions globally and is a wholly-owned subsidiary of
+  AGC Networks.
+  
+  Black Box is an equal opportunity employer and does not
+  discriminate based on race, color, gender, age, disability,
+  veteran status, or any other protected status.
+posted_date: 2026-03-20
+url: "https://builtin.com/job/ai-engineer/8822931"
+source: Built In

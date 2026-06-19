@@ -1,0 +1,50 @@
+company:
+  name: Chubb
+  stage: Public
+  focus: Global property and casualty insurance and reinsurance
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, fine-tuning,
+      deploying, and optimizing Large Language Models (LLMs). The
+      engineer will work on pre-training, post-training/alignment,
+      prompt engineering, and LLM deployment — all hands-on model
+      development work, not supporting infrastructure.
+  responsibilities:
+  - Design, build, and serve LLMs to solve complex business challenges using Azure
+    CPU and GPU environments
+  - Research and implement state-of-the-art LLM techniques including pre-training,
+    fine-tuning, preference alignment, and prompt engineering
+  - Develop novel datasets that enable LLMs to perform new tasks and build tooling/platforms
+    for large-scale data collection
+  - Build reusable pipelines, processes, and tools to streamline LLM and generative
+    AI workflows
+  - Ensure high-quality production code that meets business objectives and development
+    guidelines
+  - Manage project stakeholder expectations and communicate progress on deliverables
+  - React to shifting priorities while maintaining deadlines and project momentum
+  use_cases:
+  - AI-enabled digital transformation of P&C insurance globally
+  - Automating and enhancing risk management and analytics workflows
+  - Large Language Model-powered solutions for insurance business processes
+  - Scalable data processing and collection pipelines for LLM training
+  skills:
+    genai: [LLM Fine-tuning, Preference Alignment, Prompt Engineering, Generative
+        AI]
+    ml: [PyTorch, Transformers, TRL (Transformers Reinforcement Learning), DeepSpeed,
+      LLM Pre-training]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [Docker, Kubernetes, Distributed Systems]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9106072'
+  extracted_at: '2026-04-22T13:06:40.693797'

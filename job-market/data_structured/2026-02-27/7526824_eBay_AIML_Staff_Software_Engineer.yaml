@@ -1,0 +1,50 @@
+company:
+  name: eBay
+  stage: Public
+  focus: Global ecommerce marketplace connecting buyers and sellers
+position:
+  title: AI/ML Staff Software Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses primarily on traditional ML/DL for fraud
+      detection (DNNs, XGBoost, scikit-learn) with some GenAI
+      components as supplementary. While it includes LLMs and
+      diffusion models, the core work is building and deploying
+      conventional ML models for risk/fraud detection, making it
+      ml-first.
+  responsibilities:
+  - Design and build machine learning models to detect fraud, bot attacks, and collusion
+  - Perform feature engineering, model development, evaluation, and optimization for
+    high-accuracy ML applications
+  - Fine-tune and implement Deep Neural Network (DNN) architectures
+  - Construct robust ML pipelines for training, validation, and deployment
+  - Apply prompt engineering techniques with Generative AI models for application-driven
+    problems
+  - Leverage vector databases and build embeddings for search, retrieval, and semantic
+    understanding
+  - Lead efforts in simulation, synthetic data generation, and experimentation
+  - Build reliable APIs and services that expose ML model outputs for real-time decisioning
+  use_cases:
+  - Fraud detection and prevention
+  - Bot attack detection and mitigation
+  - Collusion detection in marketplace
+  - Risk assessment and compliance
+  - Real-time decisioning for marketplace safety
+  skills:
+    genai: [LLMs, Diffusion models, Prompt engineering]
+    ml: [PyTorch, TensorFlow, Keras, scikit-learn, XGBoost, Deep Neural Networks,
+      Embeddings]
+    web: [REST APIs]
+    databases: [Vector databases, Vector search]
+    data: [Spark, Hadoop]
+    cloud: []
+    ops: [ML Ops]
+    languages: [Python, SQL]
+    domains: [NLP, OCR]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7526824'
+  extracted_at: '2026-03-03T12:10:34.741714'

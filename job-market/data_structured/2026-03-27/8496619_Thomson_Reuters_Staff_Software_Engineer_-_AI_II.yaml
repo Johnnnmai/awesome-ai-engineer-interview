@@ -1,0 +1,51 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Information services for legal, tax, accounting, compliance,
+    government, and media professionals
+position:
+  title: Staff Software Engineer - AI II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting and building AI-powered
+      systems including multi-agent workflows, advanced RAG
+      pipelines, and domain-specific agent frameworks. The
+      position requires hands-on work with deploying, monitoring,
+      and managing AI systems from prototype to production, which
+      constitutes direct work ON AI systems.
+  responsibilities:
+  - Build enterprise-grade AI systems including domain-specific agent frameworks and
+    advanced RAG architectures
+  - Lead proofs of concept and evaluate emerging AI techniques, translating research
+    into deployable solutions
+  - Own system architecture, converting business needs into scalable designs and defining
+    engineering patterns
+  - Guide MLOps and LLMOps best practices across engineering teams
+  - Partner with business units, SMEs, and product teams to co-create AI solutions
+  - Scale prototypes into production systems and shape engineering standards for AI-first
+    transformation
+  use_cases:
+  - Multi-agent workflow systems for enterprise automation
+  - Advanced RAG pipelines for domain-specific information retrieval
+  - Intelligent automation for legal, tax, and compliance workflows
+  - Enterprise AI solutions for information services
+  - Agent-driven systems for professional services
+  skills:
+    genai: [Multi-agent systems, RAG pipelines, Embeddings, Semantic search, GitHub
+        Copilot, Cursor, Claude Code]
+    ml: [PyTorch, TensorFlow, JAX]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, LLMOps, Docker, Kubernetes, Terraform, Model risk management]
+    languages: [Python]
+    domains: []
+    other: [Distributed systems, AI governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8496619'
+  extracted_at: '2026-03-27T14:34:34.109986'

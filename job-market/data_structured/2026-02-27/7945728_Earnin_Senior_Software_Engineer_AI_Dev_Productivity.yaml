@@ -1,0 +1,54 @@
+company:
+  name: Earnin
+  stage: Series C or later
+  focus: |-
+    Earned wage access and real-time financial flexibility for
+    paycheck-to-paycheck workers
+position:
+  title: Senior Software Engineer (AI Dev Productivity)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and implementing LLM-based
+      agentic workflows, RAG architectures, and MCP integrations
+      directly into developer tools. The engineer will build AI-
+      augmented systems for code authoring, test generation, and
+      incident response - hands-on work building and deploying
+      AI/agent systems, not just supporting infrastructure.
+  responsibilities:
+  - Translate the roadmap and architecture for integrating AI into core developer
+    workflows, evaluating and implementing LLMs, RAG, and MCP architectures
+  - Build and maintain AI-augmented developer tools across the ecosystem including
+    IDE/CLI, GitHub, Slack, Atlassian, and internal IDP
+  - Design structured agentic workflows across the SDLC including code authoring,
+    automated test generation, incident response, and onboarding
+  - Develop and maintain integrations with existing SaaS solutions via APIs and custom
+    connectors
+  - Lead internal enablement by creating playbooks, golden prompts, and onboarding
+    guides for AI-native development
+  - Collaborate with AI champions across teams to foster an AI-native engineering
+    culture
+  - Drive measurable outcomes through data-driven experiments tracking PR velocity,
+    cycle time, and quality
+  use_cases:
+  - AI-augmented code authoring and development workflows
+  - Automated test generation to reduce manual effort
+  - Intelligent incident response and debugging assistance
+  - Developer onboarding acceleration with AI assistance
+  - Developer productivity optimization across SDLC
+  skills:
+    genai: [LLMs, RAG, MCP, Agentic AI workflows, Prompt engineering]
+    ml: []
+    web: [GitHub API, Atlassian (Jira/Confluence), Slack API, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7945728'
+  extracted_at: '2026-03-03T12:58:14.249484'

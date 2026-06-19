@@ -1,0 +1,296 @@
+job_id: 8888214
+title: "Robotics & AI Systems Development Engineer II"
+company: Niagara Bottling
+location: Diamond Bar, USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Acoustic Sensors
+  - Ai-Driven Systems
+  - C++
+  - Ci/Cd
+  - Computer Vision
+  - Lidar
+  - Mlops
+  - Modbus
+  - Mqtt
+  - Opc-Ua
+description: |
+  At Niagara, we’re looking for Team Members who want to be
+  part of achieving our mission to provide our customers the
+  highest quality most affordable bottled water.
+  
+  Consider applying here, if you want to:
+  
+  - Work in an entrepreneurial and dynamic environment with a
+    chance to make an impact.
+  - Develop lasting relationships with great people.
+  - Have the opportunity to build a satisfying career.
+  
+  We offer competitive compensation and benefits packages for
+  our Team Members.
+  
+  Robotics & AI Systems Development Engineer II
+  
+  Position Summary
+  
+  The Robotics & AI Systems Development Engineer II plays a
+  foundational role in advancing Niagara’ Bottling LLC’s
+  autonomous manufacturing strategy through the deployment of
+  quadruped and Humanoid robotics and intelligent AI systems
+  across bottle manufacturing maintenance operations.
+  
+  This position is responsible for designing, programming, and
+  deploying robotic systems while simultaneously developing
+  scalable fleet management platforms and AI-driven
+  manufacturing intelligence solutions. The role extends
+  beyond robotics control to include AI architecture design,
+  intelligent agent development, predictive and prescriptive
+  maintenance systems, and enterprise-level integration across
+  manufacturing ecosystems.
+  
+  This is a high-impact, cross-functional engineering role
+  requiring strong technical depth, system-level thinking, and
+  the ability to communicate complex solutions effectively to
+  diverse audiences including operations (Manufacturing
+  plants), IT, systems Engineering, and executive leadership.
+  
+  Key Responsibilities
+  
+  1. Robotics Software Development & Autonomous Systems
+  
+  · Design, develop, and deploy control systems for quadruped
+  robots operating in active manufacturing environments.
+  
+  · Develop autonomous inspection routines, navigation logic,
+  and mission orchestration.
+  
+  · Integrate and optimize sensor systems including thermal
+  imaging, acoustic sensors, vibration monitoring, LiDAR, and
+  vision systems.
+  
+  · Implement edge-based decision-making frameworks for real-
+  time anomaly detection.
+  
+  · Ensure operational robustness in industrial bottling
+  environments (wet floors, dynamic obstacles, tight
+  production spaces).
+  
+  2. Fleet Management Platform Development
+  
+  · Architect and develop scalable fleet management software
+  to manage multiple robotic assets across facilities.
+  
+  · Design mission scheduling, battery optimization, health
+  monitoring, and alerting systems.
+  
+  · Develop cloud-edge synchronization frameworks for real-
+  time data exchange.
+  
+  · Integrate robotic data outputs into enterprise systems
+  including CMMS, ticketing platforms (e.g., mCAPA),
+  historians, and analytics platforms.
+  
+  · Establish secure API-based integration models and
+  microservices architecture where appropriate.
+  
+  3. AI Architecture & Intelligent Manufacturing Agents
+  
+  · Design and deploy AI-driven agents supporting:
+  
+  o Condition-Based Maintenance (CBM)
+  
+  o Predictive Maintenance (PdM)
+  
+  o Prescriptive Maintenance
+  
+  o Intelligent Diagnostics and Root Cause Analysis
+  
+  · Develop time-series anomaly detection models for
+  manufacturing asset health monitoring.
+  
+  · Build LLM-enabled operator assistants and decision-support
+  systems tailored to manufacturing workflows.
+  
+  · Implement MLOps practices including model lifecycle
+  management, monitoring, retraining, and governance.
+  
+  · Support digital twin and manufacturing intelligence
+  initiatives.
+  
+  4. Industrial Systems Integration
+  
+  · Integrate robotic and AI systems with PLC/SCADA platforms
+  and industrial communication protocols (OPC-UA, MQTT,
+  Modbus, TCP/IP).
+  
+  · Design standardized data acquisition frameworks across
+  diverse asset families (blowers, fillers, conveyors,
+  utilities).
+  
+  · Ensure system performance, reliability, cybersecurity, and
+  scalability.
+  
+  · Support pilot deployments and enterprise-scale rollouts.
+  
+  5. Technical Communication & Cross-Functional Leadership
+  
+  · Prepare and deliver technical presentations tailored to
+  varied audiences including plant operations, engineering
+  teams, IT leadership, and executive stakeholders.
+  
+  · Translate complex AI and robotics concepts into measurable
+  business value and ROI narratives.
+  
+  · Participate in design reviews and strategic roadmap
+  discussions.
+  
+  · Support change management initiatives during technology
+  adoption.
+  
+  Required Qualifications
+  
+  Education
+  
+  Bachelor’s or Master’s degree in Robotics, Computer
+  Engineering, Electrical Engineering, Mechanical Engineering,
+  Artificial Intelligence, or a related technical discipline.
+  
+  Experience
+  
+  · 3–6 years of experience in robotics systems, AI
+  engineering, or industrial automation.
+  
+  · Demonstrated experience deploying solutions in real-world
+  operational environments.
+  
+  · Experience designing production-grade software systems
+  beyond prototype development.
+  
+  Technical Competencies
+  
+  Robotics & Software Engineering
+  
+  · Proficiency in ROS2 or equivalent robotics frameworks.
+  
+  · Strong programming skills in Python and/or C++.
+  
+  · Experience with motion planning, SLAM, perception
+  pipelines, and computer vision.
+  
+  AI & Machine Learning
+  
+  · Experience developing and deploying machine learning
+  models (time-series modeling preferred).
+  
+  · Knowledge of LLM integration, embeddings, prompt
+  engineering, and retrieval-augmented architectures.
+  
+  · Familiarity with MLOps, CI/CD pipelines, and model
+  versioning.
+  
+  Systems & Industrial Technologies
+  
+  · Understanding of PLC/SCADA platforms and industrial
+  communication protocols.
+  
+  · Experience integrating edge systems with cloud analytics
+  platforms.
+  
+  · Familiarity with manufacturing data environments and asset
+  monitoring systems.
+  
+  Professional Competencies
+  
+  · Strong analytical and systems-thinking mindset.
+  
+  · Ability to operate independently in ambiguous, high-growth
+  technical environments.
+  
+  · Excellent written and verbal communication skills.
+  
+  · Ability to translate technical depth into business
+  outcomes.
+  
+  · Collaborative and cross-functional working style.
+  
+  · Successful deployment of quadruped robotics in pilot
+  plant(s).
+  
+  · Delivery of minimum viable fleet management platform.
+  
+  · Integration of robotic outputs into enterprise maintenance
+  systems.
+  
+  · Deployment of at least one AI-based predictive model in
+  production.
+  
+  · Presentation of executive-level roadmap for robotics and
+  AI scale strategy.
+  
+  Travel Requirement
+  
+  Estimated 20–40% based on deployment and plant support
+  needs.
+  
+  Typical Compensation Range
+  
+  Pay Rate Type: Salary
+  
+  $100,464.14 - $145,673.02 / Yearly
+  
+  Benefits
+  
+  Our Total Rewards package is thoughtfully designed to
+  support both you and your family:
+  
+  Regular full-time team members are offered a comprehensive
+  benefits package, while part-time, intern, and seasonal team
+  members are offered a limited benefits package.
+  
+  - Paid Time Off for holidays, sick time, and vacation time
+  - Paid parental and caregiver leaves
+  - Medical, including virtual care options
+  - Dental
+  - Vision
+  - 401(k) with company match
+  - Health Savings Account with company match
+  - Flexible Spending Accounts
+  - Expanded mental wellbeing benefits including free counseling
+    sessions for all team members and household family members
+  - Family Building Benefits including enhanced fertility
+    benefits for IVF and fertility preservation plus adoption,
+    surrogacy, and Doula reimbursements
+  - Income protection including Life and AD&D, short and long-
+    term disability, critical illness and an accident plan
+  - Special discount programs including pet plans, pre-paid
+    legal services, identity theft, car rental, airport
+    parking, etc.
+  - Tuition reimbursement, college savings plan and scholarship
+    opportunities
+  - And more!
+  
+  https://careers.niagarawater.com/us/en/benefits
+  
+  * *Los Angeles County applicants only** Qualified applicants
+  with arrest or conviction records will be considered for
+  employment in accordance with the Los Angeles County Fair
+  Chance Ordinance for Employers, the California Fair Chance
+  Act, and any other applicable local and state laws.
+  
+  Any employment agency, person or entity that submits a
+  résumé into this career site or to a hiring manager does so
+  with the understanding that the applicant's résumé will
+  become the property of Niagara Bottling, LLC. Niagara
+  Bottling, LLC will have the right to hire that applicant at
+  its discretion without any fee owed to the submitting
+  employment agency, person or entity.
+  
+  Employment agencies that have fee agreements with Niagara
+  Bottling, LLC and have been engaged on a search shall submit
+  résumé to the designated Niagara Bottling, LLC recruiter or,
+  upon authorization, submit résumé into this career site to
+  be eligible for placement fees.
+posted_date: 2026-04-02
+url: "https://www.builtinla.com/job/robotics-ai-systems-development-engineer-ii/8888214"
+source: Built In

@@ -1,0 +1,45 @@
+company:
+  name: Strange Loop Labs
+  stage: Series A
+  focus: |-
+    AI agent platform for automating business processes at large
+    enterprises
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves training, testing, deploying, and
+      operating multimodal models that power the core AI platform.
+      The position requires hands-on work building and deploying
+      AI systems directly, which is characteristic of ai-first
+      roles.
+  responsibilities:
+  - Work closely with customers, from executives to end users, to deeply understand
+    their problems and needs
+  - Train, test, deploy, and operate proprietary and public multimodal models that
+    power the core AI platform
+  - Build and deploy efficient, scalable systems that deliver a fantastic AI experience
+    to customers
+  - Design novel AI UX patterns that integrate into customer workflows
+  use_cases:
+  - Automating business processes end-to-end at large enterprises
+  - Processing unstructured data
+  - Reasoning-based problem solving for complex customer problems
+  - Enterprise workflow automation
+  skills:
+    genai: [AI agents]
+    ml: [multimodal models, model training]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [model deployment, scalable systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4760820'
+  extracted_at: '2026-03-03T12:41:53.072733'

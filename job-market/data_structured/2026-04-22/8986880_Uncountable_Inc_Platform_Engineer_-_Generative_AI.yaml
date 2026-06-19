@@ -1,0 +1,53 @@
+company:
+  name: Uncountable Inc
+  stage: Unknown stage (has equity compensation suggesting startup, but stage not
+    specified)
+  focus: |-
+    Scientific R&D data platform for materials science,
+    chemistry, and biotech
+position:
+  title: Platform Engineer - Generative AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first because the engineer is
+      directly building, deploying, and optimizing LLM-powered
+      features end-to-end — including prompting, latency
+      optimization, fine-tuning infrastructure, inference, and
+      developing an in-house LLM stack. The position involves
+      hands-on work with LLMs/generative AI as a core
+      responsibility, not merely supporting others who work on AI.
+  responsibilities:
+  - Build LLM-powered features end-to-end including prompting, latency optimization,
+    and behavior tuning/testing
+  - Develop and maintain an in-house LLM stack including API integration, testing,
+    observability, caching, and infrastructure for fine-tuning and inference
+  - Code frontends and backends, design APIs and databases for AI-powered features
+  - Ship features early and often to users and iterate based on feedback
+  - Build AI-powered search and visualization tools for scientists
+  - Create next-generation multimodal LLM-driven UX experiences
+  - Develop intelligent research assistants for scientific workflows
+  - Act as designer, researcher, engineer, and product manager as needed for novel
+    AI features
+  use_cases:
+  - AI-powered search and visualization tools for scientific experimental data
+  - Multimodal LLM-driven user interfaces for scientific software
+  - Intelligent research assistants for scientists in R&D organizations
+  - Accelerating scientific progress in materials science, chemistry, and biotech
+    through generative AI
+  skills:
+    genai: [Prompt Engineering, LLM Fine-tuning, LLM Inference Optimization, RAG]
+    ml: []
+    web: [Flask, React, Redux, REST API Design, Sass]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8986880'
+  extracted_at: '2026-04-22T12:54:36.924661'

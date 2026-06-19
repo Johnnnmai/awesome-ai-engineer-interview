@@ -1,0 +1,53 @@
+company:
+  name: MetroStar
+  stage: null
+  focus: IT services and technology solutions for government missions
+position:
+  title: Sr. AI/ML Engineer I (6475)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing, developing, fine-
+      tuning, and deploying AI/ML models, along with building
+      training workflows and experimentation environments. The
+      engineer works hands-on with models using TensorFlow,
+      PyTorch, and Scikit-learn, and manages the full ML lifecycle
+      from data pipeline to production deployment.
+  responsibilities:
+  - Design, develop, implement, and fine-tune AI and machine learning models for secure
+    web-based applications
+  - Build and maintain data pipelines, training workflows, and experimentation environments
+    for rapid model iteration
+  - Evaluate model performance using quantitative and qualitative metrics and translate
+    results into actionable improvements
+  - Analyze data, model outputs, and experimental results to recommend changes to
+    algorithms, features, or architecture
+  - Identify and assess tools, frameworks, and technologies that support platform
+    goals
+  - Collaborate with software developers, data engineers, DevSecOps teams, and stakeholders
+    to integrate AI into production
+  - Ensure AI and data science solutions are transparent, testable, and maintainable
+    for long-term operational use
+  - Communicate technical approaches, tradeoffs, and results to technical and non-technical
+    audiences
+  use_cases:
+  - Secure web-based AI/ML applications for government missions
+  - Production-ready machine learning capabilities in evolving mission environments
+  - Model experimentation and rapid iteration for adaptive use cases
+  - Data pipeline and training workflow automation for ML model lifecycle
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, Scikit-learn, neural network architectures]
+    web: []
+    databases: []
+    data: [Databricks, ETL/ELT pipelines, data modeling]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, MLflow, Kubeflow, MLOps, CI/CD, model deployment]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8894044'
+  extracted_at: '2026-04-22T13:59:48.785202'

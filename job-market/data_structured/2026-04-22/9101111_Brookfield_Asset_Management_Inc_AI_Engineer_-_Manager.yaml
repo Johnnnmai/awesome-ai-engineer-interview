@@ -1,0 +1,52 @@
+company:
+  name: Brookfield Asset Management Inc.
+  stage: Public
+  focus: Global alternative asset management and investment
+position:
+  title: AI Engineer - Manager
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing, developing,
+      deploying, and optimizing generative AI models and
+      pipelines. The engineer will work hands-on with LangChain,
+      Azure GenAI Services, prompt engineering, and model
+      deployment into production — all core activities of building
+      and deploying AI systems.
+  responsibilities:
+  - Design and optimize AI prompts to enhance quality and relevance of generated outputs
+  - Develop and implement testing frameworks for model evaluation and continuous improvement
+  - Integrate AI solutions into production pipelines using CI/CD practices for scalable
+    deployment
+  - Deploy AI models into production environments and ensure ongoing maintenance and
+    improvement
+  - Develop robust AI applications using Python with industry-standard coding practices
+    and libraries
+  - Utilize LangChain for building and managing scalable AI pipelines for chaining
+    complex prompts and retrieval tasks
+  - Leverage Azure GenAI Services to integrate cloud-based AI solutions with optimized
+    performance and enterprise compliance
+  - Monitor performance metrics, troubleshoot issues, and refine models for high reliability
+  use_cases:
+  - Content generation using large language models
+  - Prompt chaining and retrieval-augmented generation (RAG) pipelines
+  - Cloud-based enterprise AI solution deployment
+  - Automated model evaluation and continuous improvement
+  - Scalable AI pipeline development for production environments
+  skills:
+    genai: [LangChain, Prompt Engineering, Azure GenAI Services, AWS GenAI Services,
+      RAG]
+    ml: [TensorFlow, PyTorch]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Model Deployment]
+    languages: [Python, C#]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9101111'
+  extracted_at: '2026-04-22T13:08:00.010449'

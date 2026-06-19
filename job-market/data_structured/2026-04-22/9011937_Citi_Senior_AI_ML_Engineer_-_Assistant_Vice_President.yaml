@@ -1,0 +1,51 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global financial services and banking
+position:
+  title: Senior AI ML Engineer - Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, building, training, and
+      deploying ML models (including generative AI) to production
+      environments. The candidate will directly work on model
+      development, training, evaluation, and deployment — core
+      AI/ML engineering work.
+  responsibilities:
+  - Design, develop, and implement advanced ML models including predictive, prescriptive,
+    and generative AI to solve complex business problems
+  - Lead deployment of AI/ML models into production environments ensuring scalability,
+    reliability, and performance
+  - Build and maintain high-performance APIs using FastAPI to serve ML models and
+    integrate with existing systems
+  - Establish and manage CI/CD pipelines for ML code and model deployments
+  - Collaborate with data engineers to ensure optimal data pipelines and data quality
+    for model development
+  - Conduct rigorous experimentation, A/B testing, and model performance monitoring
+    to optimize AI/ML solutions
+  - Promote and enforce software development best practices including clean code,
+    unit testing, and documentation
+  - Mentor junior team members and communicate complex technical concepts to stakeholders
+  use_cases:
+  - Predictive and prescriptive analytics for financial services business challenges
+  - Generative AI solutions for enterprise applications
+  - Automated ML model serving via high-performance APIs
+  - Production-grade ML model deployment and monitoring at scale
+  skills:
+    genai: [Generative AI, Large language models]
+    ml: [PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, Feature engineering]
+    web: [FastAPI, REST APIs]
+    databases: [SQL, NoSQL databases]
+    data: [Spark, Hadoop]
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, Jenkins, GitLab CI, GitHub Actions, Azure DevOps, Docker, Kubernetes,
+      MLOps, Model monitoring, Model versioning]
+    languages: [Python]
+    domains: []
+    other: [A/B testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9011937'
+  extracted_at: '2026-04-22T13:23:29.105027'

@@ -1,0 +1,50 @@
+company:
+  name: Fortive
+  stage: Public
+  focus: Industrial technology and healthcare SaaS solutions
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing, developing, and
+      deploying AI/ML models including deep learning architectures
+      (CNNs, RNNs, transformers) and generative models. The
+      engineer works hands-on with model building, training, and
+      production deployment, making it clearly an ai-first role.
+  responsibilities:
+  - Design, develop, and deploy AI/ML models and intelligent systems for clinical
+    decision-making and patient outcomes
+  - Build and train deep learning models using supervised, unsupervised, and reinforcement
+    learning approaches
+  - Develop scalable data pipelines and real-time analytics systems to support AI
+    workloads
+  - Integrate AI capabilities into secure, HIPAA-compliant SaaS platforms and EHR
+    systems
+  - Implement ethical AI design practices including bias mitigation and explainability
+  - Align AI initiatives with business and clinical goals across cross-functional
+    teams
+  - Deploy production models on cloud-native platforms with CI/CD, Docker, and Kubernetes
+  use_cases:
+  - Clinical decision support and enhanced patient outcomes
+  - Operational efficiency improvements in healthcare settings
+  - AI integration into EHRs and clinical workflows
+  - Real-time clinical analytics and intelligent alerting
+  - Ethical and compliant AI-driven healthcare SaaS platform
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, Scikit-learn, CNNs, RNNs, Transformers, Generative Models,
+      Reinforcement Learning]
+    web: []
+    databases: []
+    data: [Spark, Hadoop, Data Pipelines, Real-Time Analytics]
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD, GitOps]
+    languages: [Python, R, SQL, Java, Scala]
+    domains: [HIPAA Compliance, HL7/FHIR Standards, Healthcare AI]
+    other: [Ethical AI and Explainability, Bias Mitigation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9084727'
+  extracted_at: '2026-04-22T12:39:30.165832'

@@ -1,0 +1,52 @@
+company:
+  name: FE fundinfo
+  stage: Established
+  focus: |-
+    Investment management technology and data company connecting
+    asset managers to distributors
+position:
+  title: AI Implementation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI-enabled solutions
+      using agentic AI frameworks, large language models, and AI
+      APIs. The position focuses on implementing LLM solutions and
+      agentic AI for complex operational tasks, which is hands-on
+      work with AI systems.
+  responsibilities:
+  - Designing and building AI-enabled automation solutions that streamline business
+    processes and reduce manual effort
+  - Developing workflow automation that integrates data across systems and orchestrates
+    end-to-end processes
+  - Implementing agentic AI and large language model solutions to support complex,
+    multi-step operational tasks
+  - Building integrations between systems, APIs and data sources to enable seamless
+    automated workflows
+  - Translating business requirements into robust, maintainable technical solutions
+    in collaboration with AI Business Partners and operational teams
+  - Ensuring solutions follow software engineering best practices, including testing,
+    documentation and reliable production deployment
+  use_cases:
+  - Business process automation and streamlining operations
+  - Multi-step operational task automation
+  - Data integration across systems
+  - End-to-end workflow orchestration
+  - Reducing manual effort in business processes
+  skills:
+    genai: [Large Language Models (LLMs), AI APIs, Agentic AI frameworks, Workflow
+        orchestration tools]
+    ml: []
+    web: [API integration, Web services]
+    databases: [Databases]
+    data: [Data exchange formats]
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8047880'
+  extracted_at: '2026-03-03T11:53:46.554459'

@@ -1,0 +1,49 @@
+company:
+  name: ClickHouse
+  stage: Series D
+  focus: |-
+    Real-time analytics database platform for data warehousing,
+    observability, and AI workloads
+position:
+  title: Senior Software Engineer (Typescript / Backend) - AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI/ML-powered features including
+      implementing inference APIs, integrating models into
+      production systems, and creating end-to-end AI solutions
+      from the inference layer to UI. The engineer will directly
+      deploy and work with AI models and inference systems, not
+      just supporting infrastructure.
+  responsibilities:
+  - Design and implement AI-powered features across the full stack, from backend inference
+    services to frontend interfaces
+  - Create robust, scalable APIs connecting ClickHouse database capabilities with
+    AI/ML inference systems and external/internal AI services
+  - Build responsive, intuitive user interfaces that make complex AI functionalities
+    accessible to users
+  - Implement and maintain integrations with the broader AI/ML ecosystem and standards
+  - Integrate models into production systems with proper monitoring, versioning, observability,
+    and evaluation
+  use_cases:
+  - AI-powered analytics and data insights within ClickHouse Cloud
+  - Inference API layer for AI/ML workloads on database data
+  - AI/ML integrations connecting database capabilities with modern inference systems
+  - Ecosystem integrations with popular AI/ML frameworks and tools
+  - User interfaces for AI-driven data exploration and analysis
+  skills:
+    genai: [Inference APIs]
+    ml: []
+    web: [React, REST APIs]
+    databases: [Vector databases, ClickHouse]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [AI/ML model deployment]
+    languages: [TypeScript, Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8503514'
+  extracted_at: '2026-03-27T14:36:05.810269'

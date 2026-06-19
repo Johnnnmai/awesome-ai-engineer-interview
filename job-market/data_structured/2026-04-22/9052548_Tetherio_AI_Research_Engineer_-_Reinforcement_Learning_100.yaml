@@ -1,0 +1,57 @@
+company:
+  name: Tether.io
+  stage: Public
+  focus: |-
+    Stablecoin (USDT) issuer and blockchain-powered digital
+    finance company
+position:
+  title: AI Research Engineer - Reinforcement Learning (100% remote Worldwide)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on building and optimizing
+      reinforcement learning systems for AI models — including
+      developing RL algorithms, training frameworks, simulation
+      environments, and deploying RL agents into production. The
+      engineer works directly ON AI/ML systems (designing,
+      training, fine-tuning, and deploying RL-based models),
+      making this an ai-first role.
+  responsibilities:
+  - Develop and implement state-of-the-art reinforcement learning algorithms to optimize
+    decision-making in simulated and real-world settings, with targets such as reward
+    maximization and policy stability
+  - Build, run, and monitor controlled reinforcement learning experiments, tracking
+    KPIs and comparing outcomes against benchmarks
+  - Identify and curate high-quality simulation environments and training datasets
+    tailored to domain-specific challenges
+  - Debug and optimize the RL pipeline by analyzing computational efficiency and learning
+    performance, addressing reward signal noise, exploration strategy, and policy
+    divergence
+  - Collaborate with cross-functional teams to integrate RL agents into production
+    systems with clear success metrics and continuous monitoring
+  - Drive research-driven innovation to unlock superior domain-adapted AI performance
+    in dynamic real-world environments
+  use_cases:
+  - Optimizing decision-making and adaptive behavior in advanced AI models
+  - Resource-efficient model deployment for limited hardware environments
+  - Complex multi-modal architectures integrating text, images, and audio
+  - Domain-adapted AI performance for real-world challenges
+  - Reinforcement learning for policy optimization and stability in dynamic environments
+  skills:
+    genai: []
+    ml: [Reinforcement Learning, PyTorch, GRPO (Group Relative Policy Optimization),
+      Policy Gradient Methods, Actor-Critic Methods, Online RL, Multi-Modal Architectures,
+      Simulation Environments, RL Pipeline Development, Model Evaluation Frameworks]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [GPU/Accelerated Computing]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9052548'
+  extracted_at: '2026-04-22T13:57:39.046928'

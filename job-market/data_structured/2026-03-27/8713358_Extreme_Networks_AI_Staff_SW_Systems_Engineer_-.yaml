@@ -1,0 +1,52 @@
+company:
+  name: Extreme Networks
+  stage: Public
+  focus: |-
+    Cloud-driven enterprise networking solutions and
+    infrastructure
+position:
+  title: AI Staff SW Systems Engineer -
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience building and
+      deploying Generative AI solutions including RAG, AI Agents,
+      and LLM fine-tuning in production. The position involves
+      developing high-performance ML code, extending ML libraries,
+      and integrating models into production systems at scale -
+      all core AI/ML development activities.
+  responsibilities:
+  - Drive innovative vision across products and platforms, designing and launching
+    strategic ML solutions
+  - Lead full software development lifecycle including design, testing, deployment,
+    and operations
+  - Develop high-performance, production-ready ML code for next-generation real-time
+    ML platforms
+  - Extend existing ML libraries and frameworks
+  - Collaborate with engineers and scientists to accelerate model development, validation,
+    and experimentation
+  - Integrate models and algorithms into production systems at scale
+  - Participate in design reviews, code reviews, and technical strategy discussions
+  use_cases:
+  - AI-driven network management and intelligent network operations
+  - Multi-agent systems for real-time network perception, learning, and action
+  - Knowledge bases and data mining for network insights
+  - Anomaly detection in network infrastructure
+  - LLM fine-tuning for networking domain applications
+  - Graph-based ML for network topology and relationships
+  skills:
+    genai: [RAG, AI Agents, LLM fine-tuning, Graph RAG]
+    ml: [PyTorch, TensorFlow, Graph Neural Networks (GNNs), Machine Learning]
+    web: []
+    databases: []
+    data: [Spark, Flink, Kafka, PySpark, Lakehouse, Druid, Hudi, AWS Glue]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8713358'
+  extracted_at: '2026-03-27T16:11:41.054829'

@@ -1,0 +1,52 @@
+company:
+  name: Genesys
+  stage: Public
+  focus: AI-powered customer experience orchestration platform
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, developing, and evolving
+      Virtual Agents engines and Conversational AI systems with
+      direct hands-on work on LLMs, fine-tuning, prompt
+      engineering, RAG, and agentic AI architectures. The position
+      focuses on implementing and deploying AI models at scale,
+      not just supporting infrastructure.
+  responsibilities:
+  - Design and execute POCs pushing the boundaries of conversational AI and virtual
+    agent capabilities
+  - Develop, maintain, and evolve the Virtual Agents engine using advanced AI/ML concepts
+    for natural language understanding and generation
+  - Deliver roadmap toward Agentic AI by translating cutting-edge research into practical,
+    scalable solutions
+  - Own technical initiatives involving cross-functional teams with effective delegation
+    and technical review
+  - Collaborate with product teams, customers, and vendors to translate business requirements
+    into innovative technical solutions
+  - Build next-generation AI applications at the intersection of software engineering
+    and AI research
+  use_cases:
+  - Conversational AI for customer experience at global scale
+  - Virtual agents for automated customer interactions
+  - Natural language understanding and generation systems
+  - Agentic AI for autonomous decision-making
+  - Voice AI and multimodal conversational interfaces
+  - Customer experience orchestration across 7,500+ organizations
+  skills:
+    genai: [LLMs, Fine-tuning, Prompt Engineering, RAG, Multi-agent systems, Agentic
+        AI architectures, Conversational AI]
+    ml: [NLP, Dialogue systems, Reinforcement learning]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS]
+    ops: [MLOps]
+    languages: [Python]
+    domains: []
+    other: [Distributed systems, System design, Software architecture]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8722479'
+  extracted_at: '2026-03-27T13:31:48.356698'

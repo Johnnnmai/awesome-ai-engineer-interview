@@ -1,0 +1,48 @@
+company:
+  name: Synechron
+  stage: null
+  focus: Global digital consulting and technology services firm
+position:
+  title: Python Developer | AI/ML, Backend APIs, Cloud (AWS/Azure), Data Processing,
+    Scalable Solutions
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is primarily a Python backend developer role that
+      involves integrating AI/ML models built by data scientists
+      into enterprise systems, not building or training models
+      directly. The candidate collaborates with data scientists
+      and incorporates their ML models, making this an AI-support
+      role focused on backend infrastructure and API development.
+  responsibilities:
+  - Design, develop, and maintain scalable backend solutions and REST APIs using Python
+    frameworks
+  - Collaborate with data scientists, front-end developers, and DevOps teams to integrate
+    AI/ML models into applications
+  - Write clean, maintainable, and efficient code with thorough testing and documentation
+  - Troubleshoot, debug, and enhance application performance, scalability, and security
+  - Support deployment pipelines and cloud infrastructure setups for continuous delivery
+  - Conduct code reviews and provide technical mentorship to junior team members
+  - Stay updated on emerging AI, ML, and backend development trends and incorporate
+    best practices into projects
+  use_cases:
+  - AI-driven enterprise backend applications
+  - ML model integration into scalable software solutions
+  - Automated data processing and pipeline systems
+  - Cloud-deployed AI/ML solutions for healthcare, finance, or enterprise sectors
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn]
+    web: [Django, Flask, FastAPI, REST APIs]
+    databases: [PostgreSQL, MySQL, MongoDB, Django ORM, SQLAlchemy]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Jenkins, CI/CD, Git]
+    languages: [Python, JavaScript, SQL, Java, R]
+    domains: []
+    other: [Microservices architecture, OAuth/JWT authentication]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9078590'
+  extracted_at: '2026-04-22T13:10:01.469028'

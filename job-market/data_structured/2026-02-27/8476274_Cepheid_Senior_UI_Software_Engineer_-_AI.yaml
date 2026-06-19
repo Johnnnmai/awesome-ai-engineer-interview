@@ -1,0 +1,53 @@
+company:
+  name: Cepheid
+  stage: Public
+  focus: |-
+    Life sciences, diagnostics, and biotechnology products and
+    solutions
+position:
+  title: Senior UI Software Engineer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a frontend/UI engineering role that builds
+      interfaces FOR AI applications, not building the AI systems
+      themselves. The role integrates with AI endpoints and
+      collaborates with data scientists, but the core work is
+      UI/UX development rather than model training, fine-tuning,
+      or AI system architecture.
+  responsibilities:
+  - Lead the design and implementation of user interfaces for AI-powered applications,
+    ensuring seamless integration of complex data and workflows
+  - Create wireframes, prototypes, and high-fidelity UI designs that translate business
+    requirements into intuitive experiences
+  - Collaborate with product managers, engineers, and data scientists to translate
+    business and user requirements into effective UI/UX solutions
+  - Conduct user research, usability testing, and iterative prototyping to validate
+    design concepts and enhance user satisfaction
+  - Integrate frontend components with APIs, AI endpoints, cloud services, and data
+    sources
+  - Develop and maintain design systems, style guides, and UI component libraries
+    to ensure consistency and scalability across products
+  - Stay current with industry trends, emerging technologies, and best practices in
+    UI/UX and AI
+  use_cases:
+  - AI-powered applications for life sciences and diagnostics
+  - Chatbots and conversational interfaces
+  - Agent-based systems and data-driven applications
+  - Digital experiences for biotechnology and healthcare functions
+  skills:
+    genai: [LangChain, Semantic Kernel, LLM integrations]
+    ml: []
+    web: [React, HTML5, CSS3, Tailwind CSS, Material UI, Bootstrap, REST APIs]
+    databases: []
+    data: []
+    cloud: [Azure, Azure OpenAI, AWS Bedrock]
+    ops: [CI/CD]
+    languages: [TypeScript, Node.js, Python, C#, Java]
+    domains: []
+    other: [Figma, Sketch, Adobe XD]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8476274'
+  extracted_at: '2026-03-03T12:31:17.949388'

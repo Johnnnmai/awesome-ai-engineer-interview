@@ -1,0 +1,52 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Senior Gen AI Developer - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, fine-tuning,
+      optimizing, and deploying generative AI/LLM solutions. The
+      developer works hands-on with models (LoRA, QLoRA, RAG,
+      prompt engineering), implements production integrations, and
+      optimizes LLM inference — all core AI-first activities.
+  responsibilities:
+  - Collaborate with AI architects, leads, and stakeholders to design and implement
+    generative AI solutions addressing business challenges
+  - Develop, fine-tune, and optimize large language models using parameter-efficient
+    techniques and full fine-tuning
+  - Implement advanced generative AI methods including prompt engineering and Retrieval-Augmented
+    Generation (RAG)
+  - Integrate AI models into production environments ensuring robust deployment, scalability,
+    and maintainability
+  - Develop and optimize real-time and streaming AI solutions
+  - Stay current with generative AI advances and share knowledge with the team
+  - Ensure adherence to ethical AI guidelines, data privacy, and compliance standards
+  - Mentor junior team members, provide code reviews, and foster technical excellence
+  use_cases:
+  - Enterprise Controls Technology platform automation
+  - Operational efficiency enhancement through AI-driven solutions
+  - Real-time and streaming AI applications
+  - RAG-based enterprise search and retrieval systems
+  - NLP-driven text classification, entity extraction, and topic modeling
+  skills:
+    genai: [LoRA, QLoRA, Adapter/Prefix Tuning, Prompt Engineering, RAG (Retrieval-Augmented
+        Generation), LangChain, LlamaIndex, LangGraph, CrewAI, AutoGen, Hugging Face,
+      OpenAI API, Gemini API, Claude API, Hybrid Search, Multi-vector Retrieval]
+    ml: [PyTorch, TensorFlow, Keras, Model Quantization, Model Compression, DeepSpeed,
+      Distributed Training, Transfer Learning]
+    web: [API Development]
+    databases: []
+    data: [Data Preprocessing, Feature Engineering]
+    cloud: [AWS]
+    ops: [vLLM, GPTQ, Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8989370'
+  extracted_at: '2026-04-22T13:37:55.930187'

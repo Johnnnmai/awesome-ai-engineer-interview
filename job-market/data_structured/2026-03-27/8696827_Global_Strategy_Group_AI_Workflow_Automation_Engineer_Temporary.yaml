@@ -1,0 +1,51 @@
+company:
+  name: Global Strategy Group
+  stage: Established
+  focus: |-
+    Public opinion research and communications firm at
+    intersection of politics, policy, and public affairs
+position:
+  title: AI Workflow & Automation Engineer (Temporary)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, building, and deploying
+      production-ready tools that integrate LLMs into research
+      workflows. The engineer will work directly with LLM APIs and
+      AI systems to create automated solutions, not just
+      supporting infrastructure for others' AI work.
+  responsibilities:
+  - Design and implement production-ready tools that integrate LLMs and automation
+    techniques into research workflows
+  - Write modular, testable, maintainable Python code grounded in strong engineering
+    principles
+  - Build reproducible data pipelines that transform raw data into structured, analysis-ready
+    outputs with validation and logging
+  - Develop services and integrations connecting survey platforms, databases, and
+    AI components
+  - Implement structured testing and evaluation frameworks to validate automated outputs
+    and preserve methodological rigor
+  - Build lightweight tools or interfaces that enable researchers to interact seamlessly
+    with automated systems
+  use_cases:
+  - Automate survey research workflows to reduce manual processing time
+  - Transform raw survey data into structured, analysis-ready outputs
+  - Enable analysts to focus on strategic insight by automating repetitive tasks
+  - Connect survey platforms with databases and AI components
+  - Validate automated outputs to preserve methodological rigor in polling research
+  skills:
+    genai: [LLM APIs]
+    ml: []
+    web: [APIs, UI/UX design]
+    databases: [SQL, Redshift, Postgres, BigQuery, Snowflake]
+    data: [data pipelines]
+    cloud: []
+    ops: [Git]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8696827'
+  extracted_at: '2026-03-27T14:04:37.210691'

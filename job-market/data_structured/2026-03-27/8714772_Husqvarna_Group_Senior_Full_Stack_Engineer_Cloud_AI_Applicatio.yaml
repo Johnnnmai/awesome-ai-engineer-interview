@@ -1,0 +1,52 @@
+company:
+  name: Husqvarna Group
+  stage: Public
+  focus: Outdoor power equipment and gardening tools manufacturer
+position:
+  title: Senior Full Stack Engineer – Cloud & AI Applications
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a general Full Stack Engineer role that includes AI
+      integration as one component among many (frontend, backend,
+      cloud). The role focuses on INTEGRATING AI/ML services (not
+      building/training models) and building data pipelines FOR AI
+      teams. While it mentions LLM applications and RAG in
+      preferred skills, the core work is full-stack development
+      with AI as a supporting capability.
+  responsibilities:
+  - Design and build scalable web applications using React with strong HTML/CSS fundamentals
+  - Develop and maintain robust backend services using Node.js (TypeScript) or Python
+  - Design and operate scalable data pipelines using Databricks or Python-based ETL
+    frameworks
+  - Design, deploy, and operate applications on AWS or Azure including Docker and
+    Kubernetes
+  - Integrate AI/ML services into applications including LLM-based services, embeddings,
+    and inference APIs
+  - Build and manage RESTful APIs with OAuth2/JWT authentication and authorization
+  - Implement infrastructure as code and own CI/CD pipelines across dev/QA/prod environments
+  - Contribute to monitoring, alerting, incident response, and security-by-design
+    principles
+  use_cases:
+  - Intelligent workflows and user experiences enabled by AI/ML capabilities
+  - Near-real-time data ingestion for AI-enabled workflows
+  - AI-driven UI components including chat interfaces and dynamic workflows
+  - Secure and scalable digital products for outdoor power equipment business
+  - Cloud-native applications with modern software architecture
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, AutoGen, RAG architectures, Embeddings,
+      LLM-based services]
+    ml: []
+    web: [React, HTML/CSS, RESTful APIs, OAuth2, JWT]
+    databases: [PostgreSQL, SQL, NoSQL, Vector databases]
+    data: [Databricks, ETL]
+    cloud: [AWS, Azure]
+    ops: [Docker, Kubernetes, Infrastructure as Code, Terraform, CI/CD, MLflow]
+    languages: [Node.js, TypeScript, Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8714772'
+  extracted_at: '2026-03-27T14:54:02.093679'

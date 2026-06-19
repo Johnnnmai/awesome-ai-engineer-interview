@@ -1,0 +1,53 @@
+company:
+  name: Optum
+  stage: Public
+  focus: |-
+    Healthcare technology and services, pharmacy benefits, care
+    delivery
+position:
+  title: Senior Software Engineer - RPA and Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying AI-driven agents
+      that make autonomous decisions using LLMs and GenAI models
+      within the UiPath ecosystem. The engineer directly
+      implements agentic automation, integrates LLMs, and designs
+      intelligent workflows - hands-on work with AI/agent systems.
+  responsibilities:
+  - Design, develop, and deploy AI-driven agents that can think and act autonomously
+    within the UiPath ecosystem
+  - Analyze business workflows to recommend process improvements and determine where
+    agentic automation is best suited
+  - Integrate LLMs, GenAI models, and AI Center components to enhance automation intelligence
+  - Collaborate with stakeholders to map processes and develop intelligent workflows
+    using Document Understanding and Action Center
+  - Ensure scalability, security, and high performance of automation workflows
+  - Monitor, troubleshoot, and resolve issues in robotic or agentic workflows
+  - Work with product teams, architects, business SMEs, data teams, and partner solution
+    teams for cohesive automation delivery
+  - Provide architectural recommendations for agentic workflows and contribute to
+    automation governance
+  use_cases:
+  - Revenue Cycle Management workflow automation
+  - Healthcare operations process automation
+  - Intelligent document processing and understanding
+  - Autonomous decision-making for dynamic business workflows
+  - Cost savings and revenue lift through automation
+  skills:
+    genai: [UiPath AI Center, LLM integration, prompt engineering, agentic automation,
+      Document Understanding, context grounding methodologies]
+    ml: [OCR engines, ML models integration]
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Agile practices, SDLC]
+    languages: [VB.NET, C#, Python]
+    domains: []
+    other: [UiPath Studio, UiPath Orchestrator, RPA, JSON, REFramework]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8504029'
+  extracted_at: '2026-03-03T11:17:47.852408'

@@ -1,0 +1,51 @@
+company:
+  name: NXP Semiconductors
+  stage: Public
+  focus: |-
+    Semiconductor company designing Edge-AI, Automotive
+    Processors and Advanced microcontrollers
+position:
+  title: AI/ML driven ASIC Design and Implementation Principal Automation Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on applying traditional ML/DL techniques
+      (reinforcement learning, graph neural networks,
+      convolutional networks) to VLSI CAD/EDA tools and ASIC
+      design optimization. While GenAI is mentioned, the primary
+      focus is on ML-driven optimization for chip design rather
+      than building LLM/agent systems.
+  responsibilities:
+  - Explore methodology, flows and tools to improve efficiency and quality of results
+    for SoC and IP development
+  - Develop prototype solutions to evaluate state-of-the-art AI/ML techniques for
+    VLSI CAD applications
+  - Collaborate with Architecture, IP design, SoC Design, Verification and Implementation
+    teams
+  - Work with academic research communities in AI/ML for VLSI design
+  - Prescribe key methods and requirements for tools and features to leverage for
+    ASIC design
+  - Pilot and develop automation on actual designs and implementations
+  - Drive improvements to design, verification and implementation flows
+  use_cases:
+  - VLSI CAD software optimization using AI/ML techniques
+  - ASIC design automation and quality improvement
+  - Power, performance, and area optimization for SoCs
+  - Verification flow improvements
+  - Design enablement for Edge-AI and Automotive processors
+  skills:
+    genai: [GenAI]
+    ml: [Reinforcement Learning, Graph Neural Networks, Convolutional Networks]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Git, BitBucket, Unix/Linux, CI/CD, Jenkins, Splunk]
+    languages: [Python, C++]
+    domains: [VLSI CAD methodology]
+    other: [EDA tools, Static timing analysis, Low-power design flows]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8318091'
+  extracted_at: '2026-03-03T12:08:56.421551'

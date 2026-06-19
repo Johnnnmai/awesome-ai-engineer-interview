@@ -1,0 +1,52 @@
+company:
+  name: OutSystems
+  stage: Public
+  focus: |-
+    AI Development Platform for enterprise application building
+    and agentic systems
+position:
+  title: Principal Forward Deployed Engineer - Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience designing, building,
+      and deploying custom AI solutions including agentic AI, LLM
+      workflows, and RAG. The FDE directly implements intelligent
+      automation systems and agentic capabilities at customer
+      sites, making this ai-first work.
+  responsibilities:
+  - Embed deeply within customer teams to identify and activate AI-driven business
+    opportunities
+  - Drive adoption of OutSystems Agentic capabilities at strategic enterprise accounts
+  - Design, prototype, and deploy intelligent solutions integrating AI into core business
+    processes
+  - Lead transformational discussions and manage executive relationships
+  - Identify and expand AI use cases across customer organizations
+  - Convey field experience to Product team to evolve platform capabilities
+  - Prepare and structure enterprise data for AI use cases including unstructured
+    data
+  use_cases:
+  - Enterprise agentic transformation and automation
+  - Custom AI solution deployment for complex business problems
+  - LLM-based workflow implementation
+  - RAG systems for enterprise data
+  - Intelligent automation systems
+  - Enterprise AI governance and compliance
+  skills:
+    genai: [Agentic AI, LLM-based workflows, RAG, Enterprise AI integrations, AI governance
+        and guardrails, Prompt engineering]
+    ml: []
+    web: [Low-code development]
+    databases: []
+    data: [Enterprise data preparation, Unstructured data processing]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Solution architecture, Rapid prototyping, Consulting, Enterprise systems
+        integration]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8365627'
+  extracted_at: '2026-03-27T15:43:25.692289'

@@ -1,0 +1,53 @@
+company:
+  name: Tether.io
+  stage: Late Stage (Profitable)
+  focus: |-
+    Stablecoin issuer and digital asset infrastructure company
+    expanding into AI
+position:
+  title: AI Inference Engineer QVAC (100% remote Worldwide)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly centered on building and optimizing AI
+      inference systems — specifically the C++ runtime layer that
+      runs LLMs and other models on edge devices. The engineer
+      owns inference engine integration (llama.cpp, ggml, ONNX),
+      model deployment, and runtime performance optimization,
+      which is hands-on work with AI model execution.
+  responsibilities:
+  - Own and develop the C++ inference backbone for QVAC's local AI stack, ensuring
+    fast, reliable model execution on user hardware
+  - Port and enhance inference engines like llama.cpp, ggml, and ONNX for efficient
+    edge device deployment
+  - Optimize runtime behavior including model loading, memory management, throughput/latency
+    balance, and long-session stability
+  - Define and evolve core inference abstractions so new capabilities can be added
+    without sacrificing performance
+  - Collaborate with researchers to transition models from research to production
+    environments
+  - Integrate AI inference features into existing QVAC peer-to-peer products
+  - Enable private, on-device AI experiences without relying on cloud infrastructure
+  use_cases:
+  - On-device AI inference for privacy-preserving, local AI experiences
+  - Edge deployment of LLMs and diffusion models on consumer hardware
+  - Peer-to-peer AI products under the QVAC platform
+  - Real-time model inference with optimized latency and memory footprint on diverse
+    hardware architectures
+  skills:
+    genai: [LLMs]
+    ml: [ggml, ONNX, Transformers, Deep Learning, GPU architecture optimization]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [llama.cpp, Edge/On-device inference, 'Model optimization (quantization,
+        memory)']
+    languages: [C++, JavaScript]
+    domains: [Diffusion Models]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9052844'
+  extracted_at: '2026-04-22T13:51:12.753275'

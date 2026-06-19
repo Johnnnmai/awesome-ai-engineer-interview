@@ -1,0 +1,49 @@
+company:
+  name: OneStream Software
+  stage: Public
+  focus: |-
+    Enterprise finance platform unifying financial and
+    operational data with embedded AI
+position:
+  title: AI Engineer - Front-End & UX (Hybrid)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily a frontend/UX engineering position
+      that supports AI products rather than builds AI/ML systems
+      directly. The responsibilities focus on UI/UX design, web
+      frameworks, and frontend development for AI services, not on
+      building, training, or deploying AI models.
+  responsibilities:
+  - Build and enhance user interfaces using native OneStream capabilities and modern
+    web frameworks
+  - Write and maintain efficient, reusable, and dependable code following modern software
+    design principles
+  - Own the end-to-end UI/UX process from wireframing and prototyping to implementation
+  - Ensure peak performance, rendering, and responsiveness of AI Services solutions
+  - Identify and address bottlenecks and bugs, devising solutions to mitigate issues
+  - Preserve code quality, organization, and automation
+  - Collaborate with Product Specialists and Quality Assurance Testers
+  - Write documentation and how-to guides for stakeholders
+  use_cases:
+  - Time series forecasting for financial planning
+  - Anomaly detection in financial data
+  - Natural language processing for finance applications
+  - Enterprise finance platform with embedded AI capabilities
+  - Financial and operational data unification
+  skills:
+    genai: []
+    ml: [Time series forecasting, Anomaly detection, Natural language processing]
+    web: [React]
+    databases: [Relational databases]
+    data: []
+    cloud: [Microsoft Azure]
+    ops: []
+    languages: [C#, C++, Java]
+    domains: []
+    other: [Figma, OneStream]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8439433'
+  extracted_at: '2026-03-03T11:14:12.211509'

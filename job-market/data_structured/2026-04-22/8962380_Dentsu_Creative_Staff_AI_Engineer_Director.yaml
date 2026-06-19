@@ -1,0 +1,55 @@
+company:
+  name: Dentsu Creative
+  stage: Public
+  focus: Global advertising and media agency network
+position:
+  title: Staff AI Engineer Director
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, deploying, and
+      architecting multi-agent systems and LLM-powered
+      applications. The candidate writes code, designs agent
+      orchestration frameworks, builds reusable agent components,
+      and evaluates LLM providers — all hands-on work ON AI
+      systems. It also has a management/leadership component
+      (mentoring 3 Senior Agentic Engineers).
+  responsibilities:
+  - Lead technical architecture for multi-agent systems, LLM orchestration, and AI
+    automation workflows
+  - Set up and maintain the agentic engineering stack including frameworks, CI/CD,
+    testing, monitoring, and deployment patterns
+  - Own technical design for AI orchestration use cases across 4+ client implementations
+  - Build and maintain reusable agent components, tool-use libraries, and prompt templates
+  - Mentor and technically lead 3 Senior Agentic Engineers through code reviews and
+    architecture discussions
+  - Evaluate LLM providers for model selection, cost optimization, and latency tradeoffs
+  - Bridge Data Science model outputs and agentic deployment, ensuring efficient model
+    serving
+  - Contribute to technical documentation, runbooks, and operational playbooks for
+    the agentic platform
+  use_cases:
+  - Multi-agent AI automation workflows for advertising and media clients
+  - LLM orchestration across multiple client implementations in marketing analytics
+  - Client data exploration and analytics via Genie/semantic search
+  - Adtech and marketing analytics AI-powered solutions
+  - RAG-based architectures for enterprise knowledge retrieval
+  - Reusable agent components for scalable AI deployment across Dentsu clients
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, RAG architectures, Prompt engineering,
+      Agent orchestration, LLM evaluation and selection]
+    ml: []
+    web: [API architecture, REST APIs]
+    databases: [Vector databases]
+    data: [Databricks, Unity Catalog]
+    cloud: [Azure, Serverless patterns]
+    ops: [Container orchestration, Docker, Kubernetes, CI/CD, MLOps, Model serving,
+      Monitoring, Terraform]
+    languages: [Python]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8962380'
+  extracted_at: '2026-04-22T13:09:19.828910'

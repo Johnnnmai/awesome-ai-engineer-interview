@@ -1,0 +1,212 @@
+job_id: 8871826
+title: AI Engineer
+company: NBCUniversal
+location: New York, USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - APIs
+  - AWS
+  - Azure
+  - Google Adk
+  - Google Cloud Platform
+  - JavaScript
+  - Langchain
+  - Langgraph
+  - Python
+  - Typescript
+company_size: 68,000 Employees
+description: |
+  Company Description NBCUniversal is one of the world's
+  leading media and entertainment companies. We create world-
+  class content, which we distribute across our portfolio of
+  film, television, and streaming, and bring to life through
+  our global theme park destinations, consumer products, and
+  experiences. We own and operate leading entertainment and
+  news brands, including NBC, NBC News, NBC Sports, Telemundo,
+  NBC Local Stations, Bravo, and Peacock, our premium ad-
+  supported streaming service. We produce and distribute
+  premier filmed entertainment and programming through our
+  powerhouse film and television studios, including Universal
+  Pictures, DreamWorks Animation, and Focus Features, and the
+  four global television studios under the Universal Studio
+  Group banner, and operate industry-leading theme parks and
+  experiences around the world through Universal Destinations
+  & Experiences, including Universal Orlando Resort, home to
+  Universal Epic Universe, and Universal Studios Hollywood.
+  NBCUniversal is a subsidiary of Comcast Corporation. Visit
+  www.nbcuniversal.com for more information. Our impact is
+  rooted in improving the communities where our employees,
+  customers, and audiences live and work. We have a rich
+  tradition of giving back and ensuring our employees have the
+  opportunity to serve their communities. We champion an
+  inclusive culture and strive to attract and develop a
+  talented workforce to create and deliver a wide range of
+  content reflecting our world. Job Description The forward-
+  deployed AI Engineer designs, builds, and ships AI-powered
+  solutions, including agentic systems, that transform
+  workflows and unlock new capabilities across NBCUniversal
+  News Group. This role is deeply technical, highly
+  collaborative, and execution-focused, with success measured
+  by production adoption and measurable operational impact.
+  This individual works end-to-end from discovery and
+  prototyping through deployment and iteration, combining
+  LLMs, retrieval, data integration, and orchestration
+  frameworks to deliver reliable solutions in production. This
+  is not a backend-only role; the engineer will build across
+  services, integrations, and user-facing experiences as
+  needed. Engineers will work closely with editorial, product,
+  data, and technology teams to co-create solutions in a fast-
+  moving, real-time business environment where speed and
+  timely delivery are critical. Key Responsibilities: Design,
+  Build, and Ship AI + Agentic Solutions
+  
+  - Architect and implement end-to-end AI applications from
+    concept to production, including agentic workflows.
+  - Build systems using LLMs and multimodal models, retrieval
+    and vector databases, and orchestration frameworks (e.g.,
+    LangChain/LangGraph, Google ADK), integrated with internal
+    tools and data.
+  - Own the full lifecycle: discovery, prototyping, validation,
+    deployment, monitoring, iteration, and support.
+  
+  Execute Fast in a High-Velocity Environment
+  
+  - Deliver solutions on accelerated timelines aligned to
+    editorial and business urgency.
+  - Prioritize evidence-driven iteration over perfection; make
+    clear tradeoffs across scope, speed, and quality.
+  - Adapt quickly to changing requirements and real-world
+    feedback, keeping stakeholders aligned.
+  
+  Hands-On Technical Execution
+  
+  - Write production-quality code and integrate APIs across
+    internal platforms and external providers (e.g., Google,
+    OpenAI, Databricks, AWS, Microsoft).
+  - Make pragmatic architectural decisions balancing speed,
+    scale, security, reliability, and cost.
+  - Build reusable components, templates, and playbooks that
+    accelerate future development and reduce friction for
+    downstream teams.
+  
+  Apply the Right AI to the Right Problems
+  
+  - Evaluate model capabilities and select appropriate AI tools
+    based on workflow needs, risk profile, and operational
+    constraints.
+  - Combine services across selected providers into cohesive,
+    reliable systems with strong observability and clear
+    failure modes.
+  - Implement evaluation frameworks to measure quality,
+    reliability, and impact, and to guide iteration.
+  
+  Responsible AI, Safety, and Governance
+  
+  - Design guardrails for agentic systems, including tool
+    safety, permissioning, data handling, and human-in-the-
+    loop review where needed.
+  - Partner with Standards, Legal, Security, and GRC to ensure
+    compliant data use, responsible deployment, and audit-
+    ready practices.
+  - Establish monitoring and incident response patterns to
+    detect issues and maintain trust and reliability at scale.
+  
+  Collaborate Deeply Across Teams
+  
+  - Work directly with editorial, product, and business partners
+    to shape solutions from requirements through rollout.
+  - Collaborate with our Data team on data quality, retrieval
+    strategies, evaluation design, and measurement.
+  - Partner with the CTO and platform engineering organizations
+    to harden solutions for production environments.
+  - Communicate clearly with technical and non-technical
+    audiences, translating complexity into decisions and
+    action.
+  
+  Stay Ahead of the Market
+  
+  - Track new model releases, vendor updates, and emerging
+    patterns in agentic AI.
+  - Run targeted experiments with new capabilities and share
+    timely recommendations that influence roadmaps and
+    standards.
+  
+  Leverage AI in the Role
+  
+  - Use AI coding agents and copilots to accelerate development,
+    debugging, refactoring, test generation, and
+    documentation.
+  - Apply AI to speed analysis, coordination, and knowledge
+    capture while maintaining security, quality, and
+    compliance.
+  
+  Qualifications
+  
+  - 4+ years of professional software engineering experience (or
+    equivalent).
+  - Proven experience shipping production systems (not just
+    prototypes).
+  - Strong coding skills in Python and/or TypeScript/JavaScript;
+    comfortable with APIs and system integration.
+  - Hands-on experience with LLM-powered applications (agentic
+    patterns, prompting, orchestration/agents, evaluation,
+    deployment considerations).
+  - Demonstrated ability to effectively use AI coding agents
+    (e.g., agentic IDE tools) to speed delivery while ensuring
+    correctness, testing, maintainability, and secure coding
+    practices.
+  - Strong communication skills with technical and non-technical
+    stakeholders.
+  
+  Desired Characteristics:
+  
+  - Experience with LangChain and/or LangGraph for orchestrating
+    agentic workflows (routing, state machines, multi-agent
+    patterns, tool execution).
+  - Experience with Google ADK (or comparable agent development
+    kits) for building and operationalizing agents.
+  - Familiarity with cloud infrastructure (AWS/GCP/Azure),
+    observability, and production operations.
+  - Exposure to model evaluation concepts and responsible AI
+    practices.
+  
+  Additional Requirements:
+  
+  - Hybrid: This position currently has a hybrid schedule, which
+    requires contributing from the office a minimum of four
+    days per week. The Company reserves the right to change
+    in-office requirements at any time.
+  
+  This position is eligible for company sponsored benefits,
+  including medical, dental and vision insurance, 401(k), paid
+  leave, tuition reimbursement, and a variety of other
+  discounts and perks. Learn more about the benefits offered
+  by NBCUniversal by visiting the Benefits page of the Careers
+  website. Salary range: $110,000-$120,000 Additional
+  Information As part of our selection process, external
+  candidates may be required to attend an in-person interview
+  with an NBCUniversal employee at one of our locations prior
+  to a hiring decision. NBCUniversal's policy is to provide
+  equal employment opportunities to all applicants and
+  employees without regard to race, color, religion, creed,
+  gender, gender identity or expression, age, national origin
+  or ancestry, citizenship, disability, sexual orientation,
+  marital status, pregnancy, veteran status, membership in the
+  uniformed services, genetic information, or any other basis
+  protected by applicable law. If you are a qualified
+  individual with a disability or a disabled veteran and
+  require support throughout the application and/or
+  recruitment process as a result of your disability, you have
+  the right to request a reasonable accommodation. You can
+  submit your request to AccessibilitySupport@nbcuni.com.
+industries:
+  - AdTech
+  - Cloud
+  - Digital Media
+  - Information Technology
+  - News + Entertainment
+  - App development
+posted_date: 2026-03-26
+url: "https://builtin.com/job/ai-engineer/8871826"
+source: Built In

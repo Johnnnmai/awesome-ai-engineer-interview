@@ -1,0 +1,169 @@
+job_id: 8690619
+title: AI Engineer
+company: Prodigal
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Cartesia
+  - Deepgram
+  - Elevenlabs
+  - Livekit
+  - Python
+  - Twilio
+  - Typescript
+  - Webrtc
+company_size: 58 Employees
+description: |
+  At Prodigal, we are building AI Agents for loan servicing
+  and collections. Founded in 2018 by IITB alumni, our journey
+  began with one bold mission: to eradicate the inefficiencies
+  and confusion that have plagued the lending and collections
+  industry for decades. We are backed by Y Combinator, Accel
+  and Menlo Ventures.
+  
+  Today, we stand at the forefront of a seismic shift in the
+  industry, building Agentic AI applications for consumer
+  finance. Powered by our cutting-edge platform, Prodigal’s
+  Intelligence Engine (PIE), we’re creating the next-
+  generation agentic workforce - one that empowers companies
+  to achieve unprecedented levels of operational excellence
+  and intelligence.
+  
+  With over half a billion consumer finance interactions
+  processed and a growing impact on more than 100 leading
+  companies across North America, we’ve established ourselves
+  as the go-to partner for organizations that demand more from
+  their AI solutions. Our unparalleled experience, coupled
+  with our trusted customer relationships, uniquely positions
+  us to build Agentic AI applications that will revolutionize
+  the future of consumer finance.
+  
+  At Prodigal, we are driven by a singular, unrelenting
+  purpose: to transform how consumer finance companies engage
+  with their customers and, in turn, drive successful outcomes
+  for all.
+  
+  About the Role
+  
+  We're looking for an AI Engineer to join the proAgent pod
+  and work on the systems that power our autonomous voice
+  agents in live financial conversations. You'll work
+  alongside a small, high-agency team where you will have real
+  ownership over features and components from day one.
+  
+  This is a hands-on engineering role. You'll be deep in the
+  code — building agent logic, integrating speech models,
+  tuning prompts, and debugging gnarly real-time issues. You
+  don't need to have done all of this before, but you need to
+  be the kind of engineer who figures things out fast, takes
+  feedback well, and ships.
+  
+  What You'll Do
+  
+  Agent Loop & Reasoning
+  
+  - Build and maintain components of the agentic runtime that
+    powers multi-turn financial conversations — covering
+    payment negotiations, compliance guardrails, and objection
+    handling
+  - Implement context management logic that tracks consumer
+    state, conversation history, and business rules across
+    long, branching dialogues
+  - Write and iterate on primitives that balance conversational
+    fluidity with structured reasoning — the agent needs to
+    feel human while making verifiable decisions
+  
+  Voice AI Systems
+  
+  - Work on our real-time voice pipeline with a target of sub-1s
+    latency across transcription, reasoning, and synthesis
+  - Contribute to VAD tuning and turn-taking logic that makes
+    conversations feel natural
+  - Help evaluate and integrate speech models (STT, TTS, speech-
+    to-speech) — we currently work with ElevenLabs and
+    Cartesia for TTS, and Deepgram for STT, and are always
+    exploring what's next
+  - Debug streaming audio and WebRTC issues in production
+  
+  LLM Infrastructure
+  
+  - Write and refine prompts, implement orchestration flows, and
+    contribute to model routing logic
+  - Build components of our evaluation framework — helping
+    measure agent quality across conversation quality,
+    empathy, and compliance adherence
+  - Stay curious about new models and tools — flag opportunities
+    and contribute to build-vs-integrate discussions
+  
+  What You Bring
+  
+  - 2 – 5 years of hands-on engineering experience, with good
+    exposure to building or working with ML or AI systems in
+    production.
+  - Solid Python fundamentals — you are comfortable writing
+    clean, maintainable code and debugging production issues.
+  - Some experience working with LLMs: prompt engineering, API
+    integrations, or building simple pipelines or agents.
+  - High bias for action — you don't wait to be told exactly
+    what to do, and you push yourself to ship rather than
+    over-engineer.
+  - Strong fundamentals in Python; familiarity with TypeScript
+    is a plus.
+  - Eager to learn in a fast-moving environment, take ownership
+    of your work, and ask good questions.
+  
+  Even Better
+  
+  - Exposure to voice AI: speech recognition, synthesis, or
+    telephony systems — even if only through personal projects
+    or coursework
+  - Any background or interest in fintech, lending, or
+    collections
+  - You've tinkered with Twilio, LiveKit, ElevenLabs, or similar
+    real-time infrastructure
+  - You've built a small agentic system — even a side project —
+    that combines LLM reasoning with structured actions
+  - Familiarity with streaming protocols, WebRTC, or low-latency
+    system design
+  
+  Why This Role
+  
+  - Real ownership from day one: proAgent is a small pod. You
+    won't be a cog — you'll own components, ship features, and
+    see your work in live consumer conversations within weeks.
+  - Frontier work: voice AI that reasons, decides, and acts is
+    one of the hardest problems in applied AI. You'll be
+    learning by doing on problems most engineers never touch.
+  - Strong mentorship: you'll work directly with senior
+    engineers and the AI Lead who will invest in your growth —
+    this is a place to level up fast.
+  - High leverage early career: the decisions you make and the
+    code you write will impact millions of financial
+    conversations. Rare for an early-career role.
+  
+  From day 1, Prodigal has been defined by talented, humble,
+  and hungry leaders and we want this mindset and culture to
+  continue to blossom from top to bottom in the company. If
+  you have an entrepreneurial spirit and want to work in a
+  fast-paced, intellectually-stimulating environment where you
+  will be pushed to grow, then please reach out because we are
+  looking to build a transformational company that reinvents
+  one of the biggest industries in the US.
+  
+  To learn more about us - please visit the following:
+  
+  Our Story - https://www.prodigaltech.com/our-story
+  
+  What shapes our thinking -
+  https://link.prodigaltech.com/our-thesis
+  
+  Our website - https://www.prodigaltech.com/
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-03-09
+url: "https://builtin.com/job/ai-engineer/8690619"
+source: Built In

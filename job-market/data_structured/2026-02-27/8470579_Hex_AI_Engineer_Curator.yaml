@@ -1,0 +1,46 @@
+company:
+  name: Hex
+  stage: null
+  focus: |-
+    AI-powered platform for data science and data analytics
+    workflows
+position:
+  title: AI Engineer, Curator
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI experiences (Notebook Agent),
+      fine-tuning models, deploying AI infrastructure, and working
+      on SQL generation and LLM-based evaluation. The role
+      directly builds, deploys, and optimizes AI/LLM systems - not
+      just supporting infrastructure for others.
+  responsibilities:
+  - Build AI features and experiences from 0 to 1 for the Curator team
+  - Drive Hex's context engine capabilities and architecture
+  - Push the frontiers of SQL generation quality using LLMs
+  - Use LLMs to evaluate agent threads and improve accuracy
+  - Deploy and maintain AI infrastructure and experimentation tooling
+  - Run experiments and fine-tune models for production AI applications
+  - Partner with product teams to determine AI-enabled capabilities architecture
+  use_cases:
+  - SQL generation for data analytics workflows
+  - AI-powered notebook agent for data scientists
+  - Agent thread evaluation and quality assessment
+  - Context engine for curated data experiences
+  - Data science workflow acceleration and augmentation
+  skills:
+    genai: [LLMs, SQL generation, prompt engineering]
+    ml: [fine-tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLOps, AI infrastructure, experimentation tooling]
+    languages: [Python, TypeScript, JavaScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8470579'
+  extracted_at: '2026-03-03T12:02:25.944915'

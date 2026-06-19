@@ -1,0 +1,53 @@
+company:
+  name: Applied Materials
+  stage: Public
+  focus: |-
+    Materials engineering solutions for semiconductor and
+    display manufacturing
+position:
+  title: Senior Data Scientist / AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work with AI/ML systems
+      including pretraining, fine-tuning large-scale LLMs,
+      implementing transformer architectures, and building RAG
+      pipelines and agentic workflows. The position requires deep
+      expertise in model development and deployment, not just
+      supporting infrastructure.
+  responsibilities:
+  - Design, pretrain, and fine-tune large-scale LLMs for text generation, summarization,
+    and question answering tasks
+  - Implement transformer architectures and fine-tuning techniques including LoRA,
+    adapters, and prompt engineering
+  - Build and manage data preprocessing pipelines for large-scale text, image, and
+    multimodal datasets
+  - Develop and deploy LLM orchestration frameworks with agentic workflows and RAG
+    pipelines
+  - Implement MLOps best practices including CI/CD, model versioning, and experiment
+    tracking
+  - Collaborate with cross-functional teams and mentor junior members on AI/ML initiatives
+  - Work with cloud platforms, particularly within the Azure ecosystem
+  use_cases:
+  - Text generation and summarization for semiconductor manufacturing applications
+  - Question answering systems for technical documentation and knowledge retrieval
+  - Multimodal AI combining text and image data for manufacturing intelligence
+  - Agentic workflows and multi-agent systems for complex engineering tasks
+  - RAG pipelines for enterprise knowledge management in semiconductor domain
+  skills:
+    genai: [LoRA, Prompt engineering, LangGraph, LangChain, LlamaIndex, RAG, Agentic
+        workflows, Multi-agent systems]
+    ml: [TensorFlow, PyTorch, Keras, BERT, GPT, LLaMA, Multimodal models]
+    web: []
+    databases: []
+    data: [Databricks, Delta Lake]
+    cloud: [Azure]
+    ops: [MLflow, MLOps, CI/CD, UNIX/Linux]
+    languages: [Python]
+    domains: [Computer vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7946341'
+  extracted_at: '2026-03-27T15:41:39.124090'

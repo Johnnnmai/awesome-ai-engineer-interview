@@ -1,0 +1,46 @@
+company:
+  name: Enterpret
+  stage: Series A/B
+  focus: |-
+    AI-native platform for customer feedback analysis and
+    insights
+position:
+  title: Applied AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role focused on building, shipping, and
+      maintaining LLM-driven systems in production. The role
+      involves designing and implementing retrieval pipelines,
+      agents, prompt engineering, fine-tuning models, and building
+      AI-backed features end-to-end with real-world constraints.
+  responsibilities:
+  - Design, build & ship AI-backed features that are reliable in production
+  - Define quality bar by designing eval rubrics, test plans, and rollout criteria
+  - Write and extend production code, set up monitoring, and add tests to catch regressions
+  - Own features end-to-end from problem framing to modeling, system design to rollout
+  - Debug failures across the stack including data, infra, model, and prompt logic
+  - Design and implement retrieval pipelines, agents, or hybrid patterns
+  - Collaborate with product, infra, and engineers across functions to ship features
+  use_cases:
+  - Customer feedback centralization from surveys, reviews, support tickets, and communities
+  - Transforming feedback into actionable insights for business growth
+  - AI-powered analytics for product teams
+  - Automated customer voice analysis
+  - Enterprise feedback intelligence platform
+  skills:
+    genai: [LLM systems, Prompt engineering, RAG, Agents]
+    ml: [Fine-tuning, Evaluation frameworks]
+    web: []
+    databases: [SQL]
+    data: []
+    cloud: []
+    ops: [Production monitoring]
+    languages: [Python]
+    domains: []
+    other: [System design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8122729'
+  extracted_at: '2026-03-03T12:11:42.827688'

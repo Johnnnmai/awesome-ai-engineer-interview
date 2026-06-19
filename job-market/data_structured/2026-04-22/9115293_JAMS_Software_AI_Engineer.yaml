@@ -1,0 +1,47 @@
+company:
+  name: JAMS Software
+  stage: null
+  focus: Enterprise job scheduling and automation software
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is a software engineering position that uses AI
+      tools (copilots, code assistants) to accelerate development,
+      not to build, train, or deploy AI/ML systems. The engineer
+      leverages AI as a productivity tool in their workflow rather
+      than working directly on AI models or systems. Integrating
+      AI APIs is mentioned as a secondary skill, not the primary
+      focus.
+  responsibilities:
+  - Use AI-powered development tools (copilots, code assistants, automated testing)
+    to design, write, and refactor code
+  - Rapidly prototype and ship features with AI-assisted workflows
+  - Translate product requirements into working software with high velocity
+  - Validate, debug, and improve AI-generated code to production standards
+  - Build internal tools and automations leveraging AI to improve team productivity
+  - Evaluate and adopt new AI tools to enhance development workflows
+  - Collaborate with product and design teams to deliver high-quality features
+  - Maintain strong code quality, testing, and documentation practices
+  use_cases:
+  - AI-assisted code generation and refactoring for software development
+  - Automated testing using AI-powered tools
+  - Internal productivity tools and automations enhanced with AI
+  - AI API integration into enterprise applications
+  skills:
+    genai: [GitHub Copilot, ChatGPT, AI API integration]
+    ml: []
+    web: [.NET 8, React]
+    databases: [SQL Server]
+    data: [Workflow orchestration]
+    cloud: []
+    ops: []
+    languages: [C# 9]
+    domains: []
+    other: [Automation tools and scripting]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9115293'
+  extracted_at: '2026-04-22T13:09:57.445796'

@@ -1,0 +1,52 @@
+company:
+  name: BioRender
+  stage: Series B+ (backed by Y Combinator, growth trajectory comparable to top SaaS
+    companies)
+  focus: |-
+    AI-powered scientific visualization and communication
+    platform for biology
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and productionizing AI-
+      powered features including LLMs, few-shot learning, and RAG
+      systems. The position requires hands-on work with AI models
+      to transform data into visuals and build intelligent
+      recommendations, not just supporting infrastructure.
+  responsibilities:
+  - Collaborate with product managers, designers, and data scientists to shape AI-driven
+    product roadmap
+  - Rapidly prototype AI-driven features including natural language, multimodal processing,
+    and intelligent recommendations
+  - Productionize AI features into core product to help scientists communicate faster
+  - Experiment with latest AI models and techniques including LLMs, few-shot learning,
+    and RAG
+  - Take end-to-end ownership of key codebase components ensuring AI-powered features
+    are robust and scalable
+  - Serve as AI evangelist and share insights to uplift engineering organization
+  - Develop creative solutions that push product boundaries through AI integration
+  use_cases:
+  - Natural language and multimodal processing for scientific content
+  - Intelligent recommendations for scientists creating biological figures
+  - Transforming complex data and experimental results into clear scientific visuals
+  - AI-powered figure generation from text inputs
+  - Scientific communication acceleration through AI automation
+  - Converting AI-generated and human data into human-understandable visuals
+  skills:
+    genai: [LLMs, RAG, Few-shot learning, Prompt engineering]
+    ml: [PyTorch, TensorFlow]
+    web: [React, Node.js, Express.js]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8876526'
+  extracted_at: '2026-03-27T14:41:40.302547'

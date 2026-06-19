@@ -1,0 +1,48 @@
+company:
+  name: AutoScout24
+  stage: Private (established company)
+  focus: Online automotive marketplace and car trading platform
+position:
+  title: Senior Software Engineer - iOS, AI Enabler (m/f/d)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is primarily an iOS/Swift engineering role. While the
+      role involves exploring AI tools like Claude/Codex and
+      understanding GenAI risks/guardrails, the core work is
+      building iOS applications, not building, training, fine-
+      tuning, or deploying AI/ML models. The AI aspect is about
+      using AI tools to assist development, not working on AI
+      systems themselves.
+  responsibilities:
+  - Develop iOS applications using Swift, SwiftUI, Swift Concurrency, and Swift Testing
+  - Own and evolve modular iOS architecture based on local Swift packages
+  - Integrate iOS apps with GraphQL backend and REST services
+  - Explore and evaluate advanced AI tools like Claude and Codex for development workflows
+  - Drive technical planning of projects and features
+  - Collaborate on API design with backend teams and mentor other developers
+  - Deliver work using trunk-based development with feature flags and experiments
+  - Collaborate closely with Product and UX teams to balance effort, quality, and
+    user value
+  use_cases:
+  - Mobile application development for automotive marketplace
+  - Large-scale multiregional iOS app delivery
+  - AI-assisted software development workflows
+  - Modular iOS architecture and testability
+  skills:
+    genai: [Claude API, Codex]
+    ml: []
+    web: [SwiftUI, GraphQL, REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [SPM (Swift Package Manager), Fastlane, Sonarqube, Github Actions, CI/CD,
+      Feature flags, Trunk-based development]
+    languages: [Swift, Swift Concurrency]
+    domains: []
+    other: [Swift Testing, UI Testing frameworks]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8716022'
+  extracted_at: '2026-03-27T13:28:42.552491'

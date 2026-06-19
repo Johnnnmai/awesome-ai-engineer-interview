@@ -1,0 +1,56 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: |-
+    GPU computing, AI hardware, and high-performance computing
+    solutions
+position:
+  title: Senior AI Infrastructure Engineer - DGX Cloud
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building and maintaining
+      infrastructure/platforms that enable AI training and
+      inference workloads, but does not involve building,
+      training, fine-tuning, or deploying AI/ML models themselves.
+      The work is on the underlying systems, automation, and
+      reliability engineering that supports AI workloads run by
+      others.
+  responsibilities:
+  - Design, build, deploy, and run internal tooling for large scale AI training and
+    inferencing platform on cloud infrastructure
+  - Conduct performance characterization and analysis on large multi-GPU and multi-node
+    clusters
+  - Engage in full service lifecycle from inception and design through deployment,
+    operation and refinement
+  - Support services before launch through system design consulting, developing software
+    tools, platforms and frameworks, capacity management and launch reviews
+  - Maintain live services by measuring and monitoring availability, latency and overall
+    system health
+  - Scale systems sustainably through automation and evolve systems to improve reliability
+    and velocity
+  - Practice sustainable incident response and blameless postmortems
+  - Participate in on-call rotation to support production systems
+  use_cases:
+  - Large scale AI training platform infrastructure
+  - AI inferencing platform infrastructure
+  - Multi-GPU and multi-node cluster management
+  - GPU cloud services reliability and uptime
+  - Internal tooling for AI infrastructure operations
+  skills:
+    genai: []
+    ml: [GPU computing]
+    web: []
+    databases: [Storage systems]
+    data: []
+    cloud: [OpenStack, Public cloud]
+    ops: [Kubernetes, Terraform, Linux, Docker, Networking, Distributed systems, CI/CD,
+      Infrastructure as Code, Slurm]
+    languages: [Python, Go, C/C++, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7793183'
+  extracted_at: '2026-03-03T12:43:37.870180'

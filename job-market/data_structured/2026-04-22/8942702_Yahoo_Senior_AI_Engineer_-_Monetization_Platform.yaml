@@ -1,0 +1,66 @@
+company:
+  name: Yahoo
+  stage: Public
+  focus: |-
+    Digital media, advertising technology, and consumer
+    monetization platform
+position:
+  title: Senior AI Engineer - Monetization Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first: the engineer directly
+      designs, trains, deploys ML/AI models (brand uplift,
+      attribution, embeddings), builds agentic AI systems with
+      LangChain/LangGraph/Google ADK, implements GraphRAG
+      architectures, and develops reinforcement learning agents.
+      The position involves hands-on model building, fine-tuning,
+      and deploying AI/ML systems to production, not just
+      supporting infrastructure for others.
+  responsibilities:
+  - Design, train, and deploy causal measurement models (brand uplift, sales uplift)
+    using causal inference techniques to measure advertising effectiveness
+  - Build multi-touch attribution and path-to-conversion models using Markov chains,
+    Shapley values, and deep learning approaches
+  - Design and implement feature engineering pipelines from raw event data through
+    real-time serving for all measurement and optimization models
+  - Build and optimize PyTorch model training pipelines with experiment tracking,
+    hyperparameter tuning, and automated retraining at petabyte scale
+  - Deploy models as low-latency inference services on Vertex AI with model versioning,
+    A/B testing, and canary deployment patterns
+  - Build agentic AI systems using LangChain, LangGraph, and Google ADK for autonomous
+    advertising intelligence including yield optimization and reporting agents
+  - Design knowledge graph-powered reasoning systems using GraphRAG for structured
+    reasoning over advertising data and campaign context
+  - Develop contextual bandit and reinforcement learning agents for dynamic yield
+    optimization including floor pricing and demand allocation
+  use_cases:
+  - Advertising effectiveness measurement through causal inference (brand uplift,
+    sales uplift, ROAS)
+  - Multi-touch attribution and path-to-conversion analysis across the consumer journey
+  - Autonomous AI agents for advertising intelligence, yield optimization, and publisher
+    tools
+  - Knowledge graph-powered reasoning over structured advertising data and audience
+    relationships
+  - Dynamic yield optimization for floor pricing, header bidding, and demand partner
+    allocation
+  - Behavioral audience intelligence through embedding models for lookalike modeling
+    and real-time targeting
+  skills:
+    genai: [LangChain, LangGraph, Google Agent Development Kit (ADK), GraphRAG]
+    ml: [PyTorch, Causal Inference, Reinforcement Learning, Contextual Bandits, Deep
+        Learning, Transformers, Embeddings, Graph Neural Networks, 'Distributed Training
+        (Horovod, DeepSpeed, FSDP)']
+    web: []
+    databases: [BigQuery, Neo4j, Knowledge Graphs]
+    data: [Spark]
+    cloud: [Vertex AI, BigQuery ML, Google Cloud, Dataflow]
+    ops: [MLflow, Kubeflow, Weights & Biases, CI/CD]
+    languages: [Pydantic, Python, SQL]
+    domains: [NLP, Information Retrieval, Recommendation Systems]
+    other: [A/B Testing, Differential Privacy]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8942702'
+  extracted_at: '2026-04-22T14:05:39.850088'

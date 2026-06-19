@@ -1,0 +1,53 @@
+company:
+  name: Fabric Health
+  stage: Series B
+  focus: |-
+    Healthcare automation platform that streamlines clinical
+    workflows using AI
+position:
+  title: Staff Software Engineer, Artificial Intelligence
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves defining architecture for ML/AI
+      applications, productionizing AI features, owning NLP and AI
+      diagnosis components, and working with AWS Bedrock. The
+      engineer will build, deploy, and optimize AI systems hands-
+      on, including embeddings, agentic AI, and language/voice
+      technologies.
+  responsibilities:
+  - Define end-to-end architecture for mission-critical ML/AI applications and own
+    the entire SDLC
+  - Drive productionization of ML and AI features in Python, integrating with core
+    backend services
+  - Partner with product and medical teams to architect safeguards and business constraints
+    for AI outputs
+  - Design and evolve interfaces for Data Science team applications across products
+  - Design and implement automated evaluation frameworks to measure accuracy, fairness,
+    and performance
+  - Serve as technical owner for NLP and AI diagnosis production components
+  - Lead AWS Bedrock strategy focusing on resilience and cost-efficiency
+  - Research, prototype, and introduce new AI tools, APIs, and architectures
+  use_cases:
+  - Clinical capacity optimization through intelligent automation
+  - Patient-provider interaction transformation via language and voice AI
+  - AI-powered medical diagnosis support
+  - Healthcare administrative burden reduction
+  - Real-time monitoring of AI system performance in clinical settings
+  skills:
+    genai: [agentic AI, text-to-speech, foundation models, multimodal AI, agent-based
+        dialogue systems]
+    ml: [embeddings, ML frameworks, fine-tuning, open-source models]
+    web: []
+    databases: [vector databases]
+    data: []
+    cloud: [AWS Bedrock, AWS]
+    ops: []
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8880293'
+  extracted_at: '2026-03-27T13:12:36.303079'

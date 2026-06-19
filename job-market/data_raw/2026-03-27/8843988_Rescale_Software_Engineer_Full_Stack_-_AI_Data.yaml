@@ -1,0 +1,107 @@
+job_id: 8843988
+title: "Software Engineer, Full Stack - AI & Data"
+company: Rescale
+location: USA
+work_type: FULL_TIME
+level: Mid level
+skills:
+  - AWS
+  - Azure
+  - Containers
+  - GCP
+  - Go
+  - Java
+  - Kubernetes
+  - Python
+description: |
+  Rescale is pioneering the future of engineering and
+  scientific discovery. As the leader in digital engineering,
+  we’re transforming how products are developed—through
+  intelligent automation, applied AI, data management, and the
+  integration of the world’s largest network of engineering
+  and R&D applications. Joining Rescale means becoming part of
+  a diverse, collaborative, and mission-driven team that’s
+  unlocking faster innovation across industries like
+  aerospace, energy, life sciences, and manufacturing. We’re
+  solving complex challenges that traditional HPC can’t—and
+  we’re seeking passionate, curious minds to help build the
+  next wave of breakthroughs.
+  
+  We are seeking a product-focused Software Engineer to join
+  our infrastructure organization, owning core data and AI
+  capabilities that power file management, high-performance
+  data paths, bring-your-own data patterns, and integrations
+  with external systems.
+  
+  Some of the things you will work on and impact:
+  
+  - Design, build, and operate backend services for generative
+    AI capabilities, including LLM-backed APIs, agents,
+    retrieval and knowledge layers, and connectors to internal
+    and external systems.
+  - Build and scale data infrastructure underpinning file
+    management and high-throughput data flows between customer
+    environments, cloud object storage, and compute clusters,
+    with an emphasis on reliability, performance, and cost.
+  - Work across the stack—from backend services (Python/Java/Go)
+    and cloud infrastructure (AWS/Azure/GCP,
+    containers/Kubernetes) to the occasional UI change—to
+    deliver end-to-end user-facing experiences in
+    collaboration with product, design, and other engineering
+    teams.
+  
+  What we’re looking for:
+  
+  - 1-3 years of backend software engineering experience
+    building and operating distributed systems in a major
+    cloud environment (AWS, Azure, or GCP).
+  - Strong experience in at least two of Python, Java, or Go,
+    and comfort working across service boundaries and APIs.
+  - Experience with data-intensive systems (for example: object
+    storage, relational databases, caches, queues/streams) and
+    experience or strong interest in building products on top
+    of LLMs or agents.
+  - Experience using AI agents as part of the software
+    development lifecycle (Claude Code or similar).
+  - Willingness to work across the stack as needed—from backend
+    services and cloud infrastructure to occasional frontend
+    changes.
+  - Strong product mindset, ability to navigate ambiguity, and
+    effective collaboration with designers, product managers,
+    and other engineers.
+  - BS in Computer Science or equivalent experience.
+  
+  Diversity, equity, inclusion and belonging are fundamental
+  to our success. We strive to be a workplace where we:
+  
+  - Welcome ALL and ALL are welcome.
+  - Show up with our whole selves or whichever parts of
+    ourselves we’re comfortable sharing, and be ready to see
+    the same in others.
+  - Be ready to learn, unlearn, and learn again.
+  - Respect others and their opinions. We practice empathy in
+    the way we interact with each other and celebrate
+    uniqueness as a team.
+  - Seek to understand - ask more questions than one makes
+    statements.
+  - Provide safety from judgment and preserve a collaborative
+    environment.
+  
+  Rescale is an equal opportunities employer and welcomes
+  applications from all qualified persons regardless of their
+  race, sex, disability, religion/belief, sexual orientation
+  or age. As part of our standard hiring process for new
+  employees, employment with Rescale will be contingent upon
+  successful completion of a comprehensive background check.
+  Here at Rescale, we are committed to being transparent in
+  our policies around candidate privacy. For more details on
+  the information Rescale collects in your application, please
+  view the https://rescale.com/company/legal/applicant-
+  privacy-notice/ here.
+industries:
+  - Cloud
+  - Information Technology
+  - Software
+posted_date: 2026-03-23
+url: "https://www.builtinla.com/job/software-engineer-full-stack-ai-data/8843988"
+source: Built In

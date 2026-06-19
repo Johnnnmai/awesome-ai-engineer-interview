@@ -1,0 +1,49 @@
+company:
+  name: New York Life Insurance Company
+  stage: Public
+  focus: Fortune 100 mutual life insurance company
+position:
+  title: Associate - Software Engineer - AI & Cloud Platforms
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires hands-on experience building
+      generative and agentic AI applications, with preferred
+      qualifications including LangChain and LangGraph for full-
+      stack AI-powered tool development. The engineer will
+      directly implement AI-enabled capabilities and automation
+      initiatives.
+  responsibilities:
+  - Design, build, test, and deploy cloud-native applications and services on AWS
+    under the guidance of senior engineers and architects
+  - Contribute to AI and automation initiatives that enhance developer productivity
+    and platform capabilities
+  - Support the development and maintenance of CI/CD pipelines and DevSecOps automation
+  - Build and consume APIs and reusable services
+  - Write clean, maintainable, and well-tested code following engineering best practices
+  - Ensure solutions meet security, performance, resilience, and compliance standards
+  - Participate in Agile ceremonies and collaborate with cross-functional teams
+  - Contribute to documentation, technical discussions, and continuous improvement
+    initiatives
+  use_cases:
+  - Cloud-native insurance platform development
+  - AI-enabled capabilities for insurance systems
+  - Developer productivity automation
+  - Platform automation initiatives
+  - Enterprise insurance operations
+  skills:
+    genai: [LangChain, LangGraph]
+    ml: []
+    web: [APIs, React, Node.js]
+    databases: []
+    data: []
+    cloud: [AWS, EKS, ECR]
+    ops: [Terraform, CI/CD, DevSecOps, GitHub]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8737513'
+  extracted_at: '2026-03-27T13:38:34.316378'

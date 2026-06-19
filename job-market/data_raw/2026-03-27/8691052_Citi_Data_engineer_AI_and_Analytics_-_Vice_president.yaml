@@ -1,0 +1,190 @@
+job_id: 8691052
+title: Data engineer AI and Analytics - Vice president
+company: Citi
+location: Pune, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Appdynamics
+  - BigQuery
+  - Grafana
+  - Hadoop
+  - Oracle
+  - Postgres
+  - Prometheus
+  - Redshift
+  - Restful Apis
+  - Snowflake
+company_size: 223,850 Employees
+description: |
+  About Citi:
+  
+  Citi, the leading global bank, has approximately 200 million
+  customer accounts and does business in more than 160
+  countries and jurisdictions. Citi provides consumers,
+  corporations, governments, and institutions with a broad
+  range of financial products and services, including consumer
+  banking and credit, corporate and investment banking,
+  securities brokerage, transaction services, and wealth
+  management. Our core activities are safeguarding assets,
+  lending money, making payments, and accessing the capital
+  markets on behalf of our clients.
+  
+  Role Summary:
+  
+  We are seeking a highly skilled and forward-thinking Vice
+  President to lead our Intelligent Data Platforms team in
+  Pune. This leader will be responsible for the evolution and
+  management of our foundational client and account data,
+  bridging the gap between high-throughput transactional
+  systems (OLTP) and large-scale analytical platforms (OLAP).
+  This is a critical engineering leadership role, owning the
+  core data assets that power every client and advisor
+  interaction and serve as the foundation for our AI-driven
+  initiatives.
+  
+  The ideal candidate is a seasoned data expert with a deep
+  background in managing massive, mission-critical data
+  ecosystems within premier financial institutions. You must
+  have proven experience not only in delivering high-
+  performance, real-time data via APIs but also in enabling
+  advanced analytics and AI on that data. This role requires a
+  leader who is driven by metrics, possesses an end-to-end
+  view of the entire data lifecycle, and has a passion for
+  leveraging modern data technologies and AI to unlock new
+  value from our core data assets.
+  
+  Key Responsibilities:
+  
+  - Unified Data Platform Ownership: Lead a team of skilled
+    engineers responsible for the design, development, and
+    24/7 operation of the unified client and account data
+    platform, encompassing both high-throughput OLTP systems
+    and large-scale OLAP analytical stores.
+  - AI & Advanced Analytics Enablement: Pioneer the application
+    of AI/ML models on core client and account data to
+    generate actionable insights, identify patterns, and
+    create intelligent features for advisor and client
+    applications. Partner with data science teams to provide
+    them with high-quality, curated data.
+  - Real-Time API Management: Oversee the entire lifecycle of
+    the high-throughput, low-latency APIs that provide real-
+    time data to advisor workstations, client-facing portals,
+    and other critical applications, ensuring they are
+    performant, reliable, and secure.
+  - Data Integrity & Scale: Take ultimate responsibility for the
+    integrity, availability, and performance of massive
+    volumes of data across both transactional and analytical
+    systems.
+  - Measurement & Analytics: Champion a culture of measurement.
+    Define, monitor, and report on key performance indicators
+    (KPIs) across the entire ecosystem, from database
+    performance and API latency to data quality and the
+    efficacy of AI models.
+  - End-to-End Ecosystem View: Serve as the subject matter
+    expert for the entire client and account data ecosystem,
+    from the foundational OLTP databases and real-time APIs to
+    the analytical data warehouses/lakes and the AI/ML models
+    they feed.
+  - Technical Strategy: Partner with global architects and
+    business leaders to define the technical roadmap for the
+    core data platforms, including strategies for data
+    replication, ETL/ELT processes, and the integration of
+    AI/ML capabilities.
+  
+  Qualifications:
+  
+  - Experience: 10+ years of technology experience, with a
+    significant track record in wealth management technology
+    at leading financial institutions.
+  - Technical Expertise:
+    - Deep, hands-on experience managing large-scale, high-
+      throughput OLTP databases (e.g., Oracle, PostgreSQL, SQL
+      Server).
+    - Extensive experience with analytical data platforms, data
+      warehousing, and data lakes (e.g., Snowflake, BigQuery,
+      Redshift, Hadoop ecosystem).
+    - Hands-on experience with the data engineering aspects of
+      AI/ML, including feature engineering, data preparation
+      for model training, and deploying models into production
+      pipelines. Familiarity with MLOps principles.
+    - Proven track record of designing, building, and operating
+      mission-critical, real-time RESTful APIs at scale.
+    - Strong data modeling skills for both transactional and
+      analytical use cases.
+    - Expertise with performance measurement and monitoring tools
+      (e.g., AppDynamics, Splunk, Prometheus, Grafana).
+  - Leadership: Proven ability to lead, mentor, and manage a
+    high-performing engineering team.
+  - Work Ethic & Ownership: A strong, demonstrable work ethic
+    and a deep sense of ownership, with a history of seeing
+    complex systems through from conception to long-term
+    operational stability.
+  - Systems Thinker: The ability to maintain a holistic, end-to-
+    end view of a complex data ecosystem, understanding the
+    flow of data from real-time transaction to analytical
+    insight.
+  - Communication: Excellent communication skills, with the
+    ability to effectively collaborate with technical teams
+    and business stakeholders across different geographic
+    locations.
+  
+  Education:
+  
+  - Bachelor’s degree in Computer Science, Engineering, or a
+    related technical discipline.
+  
+  Citi is an equal opportunity and affirmative action
+  employer.
+  
+  ------------------------------------------------------
+  
+  Job Family Group:
+  
+  Technology
+  
+  ------------------------------------------------------
+  
+  Job Family:
+  
+  Applications Development
+  
+  ------------------------------------------------------
+  
+  Time Type:
+  
+  Full time
+  
+  ------------------------------------------------------
+  
+  Most Relevant Skills
+  
+  Please see the requirements listed above.
+  
+  ------------------------------------------------------
+  
+  Other Relevant Skills
+  
+  For complementary skills, please see above and/or contact
+  the recruiter.
+  
+  ------------------------------------------------------
+  
+  Citi is an equal opportunity employer, and qualified
+  candidates will receive consideration without regard to
+  their race, color, religion, sex, sexual orientation, gender
+  identity, national origin, disability, status as a protected
+  veteran, or any other characteristic protected by law.
+  
+  
+  
+  If you are a person with a disability and need a reasonable
+  accommodation to use our search tools and/or apply for a
+  career opportunity review Accessibility at Citi. View Citi’s
+  EEO Policy Statement and the Know Your Rights poster.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-03-27
+url: "https://builtin.com/job/data-engineer-ai-and-analytics-vice-president/8691052"
+source: Built In

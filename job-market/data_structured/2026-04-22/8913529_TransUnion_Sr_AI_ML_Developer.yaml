@@ -1,0 +1,63 @@
+company:
+  name: TransUnion
+  stage: Public
+  focus: |-
+    Global credit reporting and information services (risk
+    analytics)
+position:
+  title: Sr AI ML Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, fine-tuning,
+      deploying, and optimizing LLMs, RAG pipelines, and GenAI/ML
+      systems. The candidate is expected to hands-on architect and
+      implement AI platforms integrating LLMs, build
+      LangChain/LangGraph pipelines, lead fine-tuning/evaluation
+      of models, and design retrieval pipelines — all core AI/ML
+      engineering work.
+  responsibilities:
+  - Architect end-to-end AI platforms integrating LLMs, RAG, streaming, vector search,
+    and CI/CD via Python and Java microservices
+  - Lead LLM fine-tuning, evaluation, and deployment; design retrieval pipelines using
+    Elasticsearch/OpenSearch/Vespa and vector stores
+  - Build LangChain/LangGraph and LangChain4j pipelines for agents, tools, and RAG
+    workflows across Python and Java
+  - Define architecture standards for REST/gRPC APIs, OAuth2/OIDC security, observability,
+    and SLIs/SLOs
+  - Establish coding, versioning, monitoring, and governance standards for ML systems
+    using MLflow/DVC and model registries
+  - Guide cloud deployments on AWS/GCP/Azure using Docker, Kubernetes, Helm, service
+    mesh, and managed ML services
+  - Drive PoCs and technical evaluations of emerging AI/GenAI technologies aligning
+    innovations with business outcomes
+  - Mentor engineers, data scientists, and architects; contribute reusable assets
+    and reference implementations
+  use_cases:
+  - Enterprise-scale LLM applications and RAG pipelines for credit and risk analytics
+  - Real-time AI processing for financial services and data enrichment
+  - Vector search and retrieval-augmented generation for enterprise knowledge systems
+  - LLM fine-tuning and evaluation for domain-specific credit/risk use cases
+  - Agentic AI workflows for automated decisioning and analytics
+  - Cross-platform AI inference serving on JVM and Python runtimes
+  skills:
+    genai: [LangChain, LangGraph, LangChain4j, CrewAI, AutoGen, Semantic Kernel, Spring
+        AI, MCP, LlamaIndex, RAG, Prompt Engineering, LLM Fine-tuning, vLLM, Ollama,
+      Langfuse, TruLens]
+    ml: [PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, DJL (Deep Java
+        Library), ONNX Runtime, Spark MLlib, Reinforcement Learning]
+    web: [FastAPI, Flask, Spring Boot, Quarkus, Micronaut, REST, gRPC, Vert.x/Netty]
+    databases: [PostgreSQL, MongoDB, Cassandra, Redis, pgvector, Pinecone, Weaviate,
+      Milvus, Qdrant, Chroma, Elasticsearch, OpenSearch, Vespa]
+    data: [Kafka, Spark, Databricks]
+    cloud: [GCP Vertex AI, Google ADK, AWS, Azure, SageMaker, Azure ML]
+    ops: [MLflow, DVC, Docker, Kubernetes, Helm, Terraform, KServe, Seldon Core, Ray
+        Serve, CI/CD (Jenkins/GitHub Actions/Azure DevOps), OpenTelemetry, Istio/Linkerd]
+    languages: [Python, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8913529'
+  extracted_at: '2026-04-22T13:21:17.151802'

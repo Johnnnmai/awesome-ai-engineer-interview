@@ -1,0 +1,57 @@
+company:
+  name: Veeam
+  stage: Public
+  focus: |-
+    Data resilience, security, and AI trust platform for
+    enterprises
+position:
+  title: Azure/AI DevOps Engineer III
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is a cloud/DevOps infrastructure engineer that
+      supports AI workloads rather than building or training
+      models directly. The engineer manages Azure infrastructure
+      (IaC, automation, containers) that hosts AI services like
+      Azure OpenAI and Azure ML, but does not fine-tune models,
+      build RAG pipelines, or develop AI agents. The core work is
+      platform operations and infrastructure automation enabling
+      AI services to run in production.
+  responsibilities:
+  - Design, deploy, and optimize infrastructure on Microsoft Azure
+  - Operate and manage AI-related Azure components including Azure OpenAI, Azure AI
+    Search, Azure Machine Learning, and AKS for inference/serving
+  - Implement Infrastructure as Code (IaC) methodologies using tools like Terraform
+  - Develop Python scripts for automation of cloud processes
+  - Ensure comprehensive multi-cloud platform management across Azure, AWS, and GCP
+  - Deploy and maintain secure containerized applications using Azure Container Registry,
+    Azure Container Apps, and Application Gateway
+  - Collaborate with cross-functional teams on requirements analysis, solution development,
+    and implementation
+  - Troubleshoot and optimize cloud infrastructure for high system performance and
+    reliability
+  use_cases:
+  - Operating AI workloads in production with focus on rate limits, data security,
+    and observability
+  - Infrastructure provisioning and automation for AI/ML services on Azure
+  - Secure deployment of containerized applications and AI inference workloads
+  - Multi-cloud infrastructure management supporting AI services from prototyping
+    to production
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Microsoft Azure, Azure OpenAI, Azure AI Search, Azure Machine Learning,
+      Azure Kubernetes Service (AKS), AWS, GCP, Azure Container Registry, Azure Container
+        Apps, Azure Application Gateway]
+    ops: [Terraform, Infrastructure as Code (IaC), CI/CD, Docker/Containers]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9115746'
+  extracted_at: '2026-04-22T13:56:25.059320'

@@ -1,0 +1,54 @@
+company:
+  name: Euronext
+  stage: Public
+  focus: European stock exchange and financial market infrastructure
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, deploying, and maintaining
+      Generative AI models and implementations end-to-end,
+      including developing RAG/Agents systems and predictive
+      models. The position requires hands-on work with GenAI
+      technologies (OpenAI API, Bedrock) and full lifecycle
+      ownership from problem framing to production deployment.
+  responsibilities:
+  - Develop, maintain and enhance Generative AI products and tools deployed in cloud
+    infrastructure
+  - Build Generative AI and predictive model-based workflows for business applications
+    including research pricing and recommendation systems
+  - Monitor and evaluate AI products in production, proactively identifying and troubleshooting
+    issues
+  - Collaborate with cross-functional teams to translate business objectives into
+    AI tools and features
+  - Write efficient, maintainable Python code for AI products with proper documentation
+    and testing
+  - Ensure AI solution development and deployment comply with security, legal and
+    governance standards
+  - Identify opportunities to enhance internal business processes using AI-driven
+    solutions
+  - Educate and foster a culture of effective and responsible AI usage across the
+    organization
+  use_cases:
+  - Research pricing automation
+  - Recommendation systems
+  - Internal business process enhancement
+  - AI-driven workflow automation
+  - Generative AI tools for business applications
+  skills:
+    genai: [OpenAI API, AWS Bedrock, RAG, Agents]
+    ml: [supervised learning, unsupervised learning]
+    web: [FastAPI, Streamlit]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Docker, CI/CD, Git]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8326076'
+  extracted_at: '2026-03-03T11:27:07.144726'

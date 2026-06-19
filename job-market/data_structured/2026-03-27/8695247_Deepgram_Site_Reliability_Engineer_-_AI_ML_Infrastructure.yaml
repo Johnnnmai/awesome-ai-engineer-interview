@@ -1,0 +1,58 @@
+company:
+  name: Deepgram
+  stage: Series C
+  focus: |-
+    Voice AI platform providing real-time speech-to-text, text-
+    to-speech APIs, and voice agents
+position:
+  title: Site Reliability Engineer - AI & ML Infrastructure (Kubernetes, AWS & Terraform)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an infrastructure/platform role that enables AI/ML
+      work but doesn't directly build, train, or deploy models.
+      The SRE builds and operates Kubernetes, AWS, and bare metal
+      infrastructure that supports AI researchers and ML engineers
+      who do the actual model work. The role focuses on platform
+      engineering, not hands-on AI/ML development.
+  responsibilities:
+  - Architect and maintain core computing platform using Kubernetes on AWS and on-premise
+    environments
+  - Develop and manage infrastructure using Infrastructure-as-Code principles with
+    Terraform
+  - Design, build, and optimize AI/ML job scheduling and orchestration systems integrating
+    Slurm with Kubernetes for GPU resource management
+  - Provision, manage, and maintain on-premise bare metal server infrastructure for
+    high-performance GPU computing
+  - Implement and manage platform networking (CNI, service mesh) and storage (CSI,
+    S3) solutions for high-throughput, low-latency workloads
+  - Develop comprehensive observability stack including monitoring, logging, and tracing
+    for platform health
+  - Collaborate with AI researchers and ML engineers to understand infrastructure
+    needs and accelerate development cycles
+  - Automate the lifecycle of single-tenant, managed deployments
+  use_cases:
+  - Speech-to-text (STT) API platform
+  - Text-to-speech (TTS) API platform
+  - Production-grade voice agents at scale
+  - AI/ML model training infrastructure
+  - GPU-intensive AI workload orchestration
+  - Hybrid cloud and bare metal infrastructure for voice AI
+  skills:
+    genai: []
+    ml: [GPU computing]
+    web: []
+    databases: [S3]
+    data: []
+    cloud: [AWS]
+    ops: [Kubernetes, Terraform, Slurm, Docker, CI/CD, GitLab CI, Jenkins, ArgoCD,
+      CNI, Calico, Cilium, CSI, Ceph, Rook, HPC job schedulers, Bare metal infrastructure,
+      PXE boot, MAAS]
+    languages: [Python, Go, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8695247'
+  extracted_at: '2026-03-27T16:04:17.907030'

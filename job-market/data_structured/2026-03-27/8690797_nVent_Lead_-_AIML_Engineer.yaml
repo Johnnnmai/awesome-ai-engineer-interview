@@ -1,0 +1,57 @@
+company:
+  name: nVent
+  stage: Public
+  focus: |-
+    Electrical connection and protection solutions for
+    industrial applications
+position:
+  title: Lead - AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building, training, and
+      deploying ML models and generative AI solutions including
+      LLMs, RAG systems, and AI agents. The position requires
+      direct implementation of AI/ML systems using LangChain,
+      SageMaker, Bedrock, and other AI frameworks with production
+      deployments.
+  responsibilities:
+  - Guide enterprise agentic AI framework and define integration patterns balancing
+    innovation with governance
+  - Build, train, validate, and deploy machine learning models using Snowflake ML
+    and AWS services (SageMaker, Bedrock, Lambda)
+  - Implement generative AI solutions leveraging LLMs, LangChain, and Streamlit for
+    document processing, content generation, and conversational AI
+  - Develop NLP solutions for text analysis, sentiment detection, entity extraction,
+    and automated classification
+  - Create computer vision applications for quality inspection, safety monitoring,
+    and document understanding
+  - Establish MLOps practices including model versioning, monitoring, retraining pipelines,
+    and performance tracking
+  - Design and implement MCP servers to manage structured context for AI agents
+  - Work within Snowflake data platform to create vector databases and enable semantic
+    search for generative AI applications
+  use_cases:
+  - Document processing and automated content generation
+  - Conversational AI and chatbots for enterprise applications
+  - Knowledge management and semantic search
+  - Quality inspection and safety monitoring via computer vision
+  - Text analysis, sentiment detection, and automated classification
+  - Enterprise agentic AI framework for business process automation
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, RAG, Prompt Engineering, Fine-tuning
+        LLMs, LLMs, MCP servers]
+    ml: [PyTorch, TensorFlow, Scikit-learn]
+    web: [Streamlit, Gradio, FastAPI, REST APIs]
+    databases: [Snowflake, Snowflake Cortex, Vector Databases]
+    data: [Feature Engineering, Data Pipelines]
+    cloud: [AWS SageMaker, AWS Bedrock, AWS Lambda, AWS EC2, AWS S3]
+    ops: [MLOps, Docker, CI/CD]
+    languages: [Python]
+    domains: [Computer Vision, NLP]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8690797'
+  extracted_at: '2026-03-27T15:35:28.949077'

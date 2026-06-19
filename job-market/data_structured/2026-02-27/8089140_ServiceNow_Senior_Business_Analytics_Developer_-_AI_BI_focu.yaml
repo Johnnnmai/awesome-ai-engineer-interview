@@ -1,0 +1,54 @@
+company:
+  name: ServiceNow
+  stage: Public
+  focus: |-
+    Cloud-based workflow automation and enterprise service
+    management platform
+position:
+  title: Senior Business Analytics Developer - AI & BI focus
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves building intelligent agents
+      using LLMs and preparing enterprise data for LLM
+      consumption. While it's primarily a BI/analytics position,
+      the direct work with AI agentic model development and LLM
+      integration moves it into ai-first territory rather than
+      just ai-support.
+  responsibilities:
+  - Build intelligent agents using large language models (LLMs) to automate insights
+    and enhance analytics
+  - Design and maintain semantic models in Power BI and Snowflake for analytics and
+    LLM integration
+  - Translate business questions into scalable BI solutions in partnership with Sales
+    Operations and Analytics teams
+  - Develop ETL/ELT pipelines to ensure data readiness and quality for self-service
+    analytics
+  - Optimize Snowflake objects including SQL scripts, views, procedures, UDFs, tasks/streams
+    for performance
+  - Implement row-level security (RLS), incremental refresh, and performance tuning
+  - Prepare enterprise data for LLM consumption with semantic models and prompt-friendly
+    outputs
+  - Support stakeholders in developing optimized reports and dashboards
+  use_cases:
+  - Sales analytics and business intelligence automation
+  - LLM-powered intelligent agents for automated insights
+  - Self-service analytics and reporting enablement
+  - Data-driven decision making for sales organization
+  - Enterprise data preparation for AI/LLM integration
+  skills:
+    genai: [LLM integration, AI agents]
+    ml: []
+    web: [APIs]
+    databases: [Snowflake]
+    data: [ETL/ELT, Workflow orchestration tools]
+    cloud: []
+    ops: []
+    languages: [SQL, Python]
+    domains: []
+    other: [Power BI, DAX, Power Query, Semantic modeling, Excel, CRM tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8089140'
+  extracted_at: '2026-03-03T11:48:08.327896'

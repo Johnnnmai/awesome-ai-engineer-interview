@@ -1,0 +1,50 @@
+company:
+  name: GSK
+  stage: Public
+  focus: |-
+    Global biopharma company developing specialty medicines and
+    vaccines
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying AI/ML-powered
+      applications with specific mentions of reinforcement
+      learning, agentic systems, ML forecasting, and language
+      models. The candidate will operationalize mathematical
+      models, integrate AI/ML components with infrastructure, and
+      deploy AI/ML applications using tools like LangGraph,
+      PydanticAI, and AutoGen.
+  responsibilities:
+  - Develop back end code for a Python web application
+  - Design code architecture to operationalise mathematical models and algorithms
+  - Build models, services, and libraries that fulfil stated API contracts and metrics
+  - Integrate AI/ML components with frontend, backend, data and compute infrastructure
+  - Implement high quality software with automated test suites and documentation
+  - Develop, measure, and monitor key metrics for all tools and services
+  - Liaise with data engineers to build end-to-end pipelines consuming data products
+  - Collaborate with stakeholders to understand processes and design requirements
+    for improvements
+  use_cases:
+  - AI-powered tools for R&D drug development strategy
+  - Financial strategy optimization using AI/ML
+  - Clinical trial data analysis and forecasting
+  - Market analysis and decision-making optimization
+  - Reinforcement learning and agentic systems for strategic planning
+  skills:
+    genai: [LangGraph, PydanticAI, AutoGen, Agentic systems, Language models]
+    ml: [Reinforcement Learning, ML forecasting]
+    web: [FastAPI, React]
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [Git/GitHub, Docker, DevOps]
+    languages: [Python]
+    domains: [NLP]
+    other: [pytest]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8575402'
+  extracted_at: '2026-03-03T12:13:59.188753'

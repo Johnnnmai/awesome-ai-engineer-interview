@@ -1,0 +1,56 @@
+company:
+  name: Reltio
+  stage: Late-stage / Mature (500-2000+ employees)
+  focus: |-
+    AI-powered data unification and master data management (MDM)
+    SaaS platform
+position:
+  title: AI Engineer - Full-Stack & Applied UI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building generative UI applications that
+      consume streaming LLM responses, connecting frontends to MCP
+      gateways and vector search APIs, building RAG retrieval
+      modules, and creating human-in-the-loop workflows for
+      autonomous agents. While it's a full-stack/UI-heavy role, it
+      directly implements and delivers AI-powered systems (agent
+      dashboards, LLM streaming interfaces, RAG components) —
+      making it ai-first rather than ai-support.
+  responsibilities:
+  - Build responsive front-end applications and custom agent dashboards that consume
+    streaming LLM responses and agentic outputs
+  - Rapidly prototype and iterate using AI coding assistants (Cursor, Claude Code,
+    Codex) to translate business workflows into functional tools
+  - Connect modern front-end frameworks to backend MCP gateways and vector search
+    APIs with seamless authentication and state management
+  - Create reusable UI components, RAG retrieval modules, and generative UI templates
+    within established architectural standards
+  - Build secure human-in-the-loop approval workflows allowing operators to review,
+    modify, or veto autonomous agent actions
+  - Support defining and establishing the AI SDLC for engineering patterns via agents
+    to align with development and release processes
+  use_cases:
+  - Enterprise AI Hub (Reltio Brain) — a Context Intelligence Operating System that
+    transforms institutional knowledge into governed autonomous action
+  - Agent dashboards for embedded AI Business Partners to interact with the AI ecosystem
+  - Generative user interfaces for streaming LLM and agentic output consumption
+  - RAG-based retrieval modules for enterprise knowledge access
+  - Human-in-the-loop approval workflows for high-stakes autonomous agent actions
+  skills:
+    genai: [Vercel AI SDK, Model Context Protocol (MCP), RAG, Streaming LLM responses,
+      Cursor (AI coding assistant), Claude Code, Codex]
+    ml: []
+    web: [React, Next.js]
+    databases: [Vector search APIs]
+    data: []
+    cloud: [Vercel]
+    ops: [OAuth, RBAC/ABAC]
+    languages: [TypeScript, JavaScript, Python]
+    domains: []
+    other: [Salesforce integration, Jira integration, NetSuite integration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8911050'
+  extracted_at: '2026-04-22T13:45:20.186466'

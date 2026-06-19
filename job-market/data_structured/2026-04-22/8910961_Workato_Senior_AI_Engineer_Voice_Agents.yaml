@@ -1,0 +1,58 @@
+company:
+  name: Workato
+  stage: Private (Forbes Cloud 100)
+  focus: |-
+    Enterprise orchestration platform connecting data,
+    processes, and applications
+position:
+  title: Senior AI Engineer (Voice Agents)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying AI/ML systems
+      including LLMs, SLMs, AI agents, voice AI, and search
+      architectures. The engineer will design, implement, and
+      optimize production AI pipelines including model training,
+      fine-tuning, and serving at scale — clearly hands-on work ON
+      AI systems.
+  responsibilities:
+  - Design and implement advanced AI/ML systems focused on SLMs, LLMs, AI Agents,
+    and Search architectures
+  - Build conversational AI interfaces for multi-turn low-latency chat/voice interactions
+    with context management and human escalation
+  - Build production-grade AI pipelines for data processing, model training, fine-tuning,
+    benchmarking, and serving at scale
+  - Implement feedback loops and continuous learning systems incorporating satisfaction
+    metrics, evaluations, and conversation outcomes to improve model performance
+  - Create AI-based analytics dashboards and reporting tools to track automation effectiveness,
+    identify bottlenecks, and measure KPIs
+  - Lead technical initiatives for AI system integration into existing products and
+    services
+  - Collaborate with data scientists and ML researchers to productionize new AI approaches
+    and models
+  use_cases:
+  - Voice AI agents for customer support with multi-turn conversational interactions
+  - Real-time agent coaching and recommendations using small language models
+  - Automated customer support across chat, email, voice, and messaging channels
+  - Knowledge base and FAQ systems with dynamic content retrieval and self-learning
+  - Conversation mining for intent identification, sentiment analysis, and root cause
+    analysis
+  - Enterprise search and orchestration with AI-powered workflow automation
+  skills:
+    genai: [LLMs, SLMs, AI Agents, RAG, Prompt Engineering]
+    ml: [Fine-tuning, NLP, Transformer Models, NLU, Intent Classification, Entity
+        Extraction, Dialogue State Tracking, ASR (Automatic Speech Recognition), TTS
+        (Text-to-Speech), Speech to Speech Models, Sentiment Analysis, Model Training]
+    web: [REST API, Pub-Sub architectures]
+    databases: [PostgreSQL, ClickHouse]
+    data: [Conversation Mining]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, A/B Testing, Model Serving at Scale]
+    languages: [Python, Golang, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8910961'
+  extracted_at: '2026-04-22T14:19:26.671634'

@@ -1,0 +1,48 @@
+company:
+  name: Delos Data
+  stage: Seed
+  focus: |-
+    Building infrastructure for large-scale AI data center
+    clusters
+position:
+  title: System Software Engineer - AI
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on building low-level system software
+      infrastructure for AI data centers, including GPU
+      programming (CUDA), performance optimization for distributed
+      training/inference, and communication primitives. The work
+      involves direct optimization of ML workloads and GPU
+      architectures, making it ml-first rather than ai-support.
+  responsibilities:
+  - Collaborate across the stack to influence the design of foundational technology
+    for next-generation AI models
+  - Identify and resolve performance bottlenecks in distributed training and inference
+    workloads through analysis of software-hardware interface
+  - Conduct rigorous performance benchmarking and characterization on multi-node clusters
+  - Design and implement communication and execution primitives for large-scale AI
+    models across thousands of GPUs
+  - Bridge the gap between high-level AI frameworks and low-level system software
+  use_cases:
+  - Distributed training at scale across multi-node GPU clusters
+  - Inference workload optimization for large-scale AI models
+  - Performance optimization for AI data center infrastructure
+  - Communication primitives for distributed AI workloads
+  - GPU cluster performance benchmarking and characterization
+  skills:
+    genai: []
+    ml: [CUDA, PyTorch, JAX, DeepSpeed, GPU programming, distributed AI frameworks]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [vLLM, SGLang, TensorRT, Linux]
+    languages: [C++, Python]
+    domains: []
+    other: [systems programming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8708837'
+  extracted_at: '2026-03-27T13:17:12.020737'

@@ -1,0 +1,47 @@
+company:
+  name: Jack & Jill AI
+  stage: Seed
+  focus: AI-powered healthcare financial intelligence platform
+position:
+  title: Founding Engineer ($125K - $200K + Equity) at Seed-stage healthtech AI platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing and deploying LLM-powered
+      systems that parse unstructured healthcare data into
+      structured business intelligence. This is hands-on work
+      building AI-powered features (not just infrastructure for
+      others), making it ai-first.
+  responsibilities:
+  - Architect and deploy full-stack features using TypeScript, React, and Node.js
+    on cloud infrastructure
+  - Design complex data pipelines and LLM-powered systems to parse fragmented datasets
+    into structured business intelligence
+  - Lead technical decision-making and participate in product strategy for enterprise
+    users
+  - Build an AI-powered intelligence platform that transforms unstructured healthcare
+    data into actionable financial insights
+  - Own the full-stack architecture and ship production-ready TypeScript code
+  - Collaborate directly with the CEO to shape the product roadmap and engineering
+    culture
+  use_cases:
+  - Transforming unstructured healthcare data into actionable financial insights
+  - Parsing fragmented healthcare datasets into structured business intelligence
+  - Managing billions in contract value for major healthcare organizations
+  - Building dashboards and analytical tools from complex unstructured data
+  skills:
+    genai: [LLM integration]
+    ml: []
+    web: [React, Node.js, Full-stack development]
+    databases: []
+    data: [Data pipeline design]
+    cloud: [Cloud infrastructure]
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: [Cursor (AI coding)]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9002028'
+  extracted_at: '2026-04-22T12:37:38.187125'

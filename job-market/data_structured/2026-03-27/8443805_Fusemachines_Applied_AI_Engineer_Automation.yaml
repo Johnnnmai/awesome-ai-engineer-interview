@@ -1,0 +1,55 @@
+company:
+  name: Fusemachines
+  stage: null
+  focus: |-
+    AI strategy, talent, and education services provider helping
+    enterprises implement and scale AI solutions
+position:
+  title: Applied AI Engineer (Automation)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, deploying, and implementing
+      LLM-based solutions including agentic workflows, RAG
+      pipelines, and AI automation systems. The engineer directly
+      works with LangChain, LangGraph, vector databases, and LLM
+      APIs to create production AI systems for clients - this is
+      hands-on AI/ML implementation work.
+  responsibilities:
+  - Design, develop, and deploy tailored AI and automation solutions aligned to client
+    objectives
+  - Build production-grade AI workflows and services using Python, automation tools,
+    and LLM platforms/APIs
+  - Build and deploy agentic workflows using LangChain, LangGraph, and Google ADK
+    with tool calling and structured outputs
+  - Implement RAG pipelines using vector databases and search technologies
+  - Ship fast prototypes and harden them into scalable production systems with testing,
+    reliability, and monitoring
+  - Participate in client discovery, run technical calls/demos, and communicate tradeoffs
+    to stakeholders
+  - Improve deployed solutions through feature work, bug fixes, monitoring, and prompt/model
+    improvements
+  - Produce clear technical documentation, client demos, and internal playbooks
+  use_cases:
+  - Enterprise AI transformation and automation for client organizations
+  - Business workflow automation using LLMs and automation platforms
+  - Agentic AI systems with tool calling for complex business processes
+  - Retrieval-augmented generation (RAG) for knowledge management and search
+  - Client-specific AI solutions for retail, manufacturing, and government industries
+  skills:
+    genai: [LangChain, LangGraph, Google ADK, OpenAI API, IBM watsonx.ai, Amazon Bedrock,
+      prompt engineering, RAG, agentic workflows, tool calling, structured outputs]
+    ml: [fine-tuning LLMs, embeddings, vector search]
+    web: [FastAPI, APIs]
+    databases: [Pinecone, Elasticsearch, pgvector, graph databases, Redis]
+    data: [Celery, Kafka]
+    cloud: [AWS, GCP, Azure, IBM Cloud]
+    ops: [Docker, LangSmith, OpenTelemetry]
+    languages: [Python]
+    domains: []
+    other: [n8n, Make, Zapier]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8443805'
+  extracted_at: '2026-03-27T15:39:08.351223'

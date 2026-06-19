@@ -1,0 +1,56 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU computing, AI hardware and software platforms
+position:
+  title: Senior Software Engineer, RAG and Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying RAG
+      architectures, AI agents, and agentic AI workflows using
+      NVIDIA's own Nemotron models. The engineer will design,
+      implement, and optimize RAG pipelines and multi-agent
+      systems — hands-on work with LLMs and AI model deployment,
+      not infrastructure support.
+  responsibilities:
+  - Build and refine a GPU-accelerated, scalable, configurable RAG workflow optimized
+    for accuracy, relevance, grounding, and performance
+  - Design and implement AI agents to enhance the RAG pipeline with reasoning, planning,
+    multi-step execution, and cross-tool collaboration
+  - Run rapid POCs on emerging agent and RAG architectures and harden successful patterns
+    into production-grade reusable implementations
+  - Build and deploy a disaggregated end-to-end RAG pipeline using on-prem microservices
+    architecture across Docker and Kubernetes
+  - Evaluate system accuracy, characterize performance metrics, analyze data, and
+    recommend strategic enhancements to pipelines
+  - Collaborate with internal teams and external partners on domain-adaptation, customization,
+    and integration of the RAG pipeline
+  - Lead code, architecture, and test plan reviews and author robust user documentation
+  - Design with clean architectural patterns and automate production deployment through
+    CI/CD, testing, and telemetry workflows
+  use_cases:
+  - Production-grade multimodal enterprise RAG solutions
+  - Agentic AI orchestration over proprietary unstructured and structured data sources
+  - GPU-accelerated RAG pipeline with multi-agent reasoning and planning
+  - Enterprise-scale AI blueprint deployments for NVIDIA partners
+  - Domain-adapted AI solutions for NVIDIA internal teams and external customers
+  skills:
+    genai: [RAG, Agentic AI, LangGraph, LangChain, OpenAI Agents SDK, Prompt Engineering,
+      Tool Calling, Structured Outputs, Multi-Agent Systems, LLM Design Patterns,
+      NVIDIA Nemotron Models]
+    ml: [GPU Computing]
+    web: [Microservices Architecture]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, Helm, CI/CD, MLOps, AI Observability Tooling, AI Evaluation
+        Frameworks]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9043432'
+  extracted_at: '2026-04-22T12:42:14.025275'

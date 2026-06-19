@@ -1,0 +1,58 @@
+company:
+  name: Elastic
+  stage: Public
+  focus: |-
+    Search and AI platform for enterprise data, security, and
+    observability
+position:
+  title: Elastic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is clearly ai-first as it involves building
+      autonomous agents, implementing agentic workflows using
+      LangGraph/LangChain, fine-tuning LLMs, and implementing RAG
+      systems. The position requires hands-on work developing and
+      deploying AI agents that complete business tasks, not just
+      supporting infrastructure for others.
+  responsibilities:
+  - Design and implement sophisticated agentic workflows using reasoning and tools
+    to complete end-to-end business processes
+  - Apply RAG and Elasticsearch Relevance Engine (ESRE) to ground agents in enterprise
+    knowledge for high-accuracy task completion
+  - Develop and fine-tune LLMs and integrate them with internal APIs and third-party
+    SaaS tools for autonomous action
+  - Build and maintain scalable cloud infrastructure on AWS, Azure, or GCP to support
+    high-concurrency enterprise agents
+  - Oversee training, deployment, and performance optimization of agents ensuring
+    security, reliability, and compliance
+  - Act as domain expert on the Elastic Stack, making technical recommendations for
+    AI-driven productivity
+  - Maintain comprehensive documentation of AI workflows, cloud infrastructure, and
+    deployment processes
+  - Implement security and data privacy standards to protect sensitive information
+    and ensure regulatory compliance
+  use_cases:
+  - Autonomous enterprise agents that complete complex business tasks
+  - Agentic workflow automation for organizational productivity
+  - Enterprise search and knowledge retrieval using RAG
+  - Multi-agent orchestration for business process automation
+  - Grounded AI assistants leveraging enterprise knowledge bases
+  skills:
+    genai: [LangGraph, LangChain, LangSmith, RAG, Elasticsearch Relevance Engine (ESRE),
+      LLM fine-tuning, Multi-Agent Orchestration, Model Context Protocol (MCP), Jina
+        AI, Microsoft Copilot Studio, Salesforce Agentforce, ServiceNow AI Agents]
+    ml: []
+    web: []
+    databases: [Elasticsearch]
+    data: [Logstash]
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, Docker, Terraform]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Kibana]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8539754'
+  extracted_at: '2026-03-03T12:35:16.564274'

@@ -1,0 +1,57 @@
+company:
+  name: Brown and Caldwell
+  stage: Public
+  focus: Environmental engineering and construction services
+position:
+  title: Data & AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      While the job title mentions "AI Platform Engineer" and the
+      description references RAG pipelines, multi-agent
+      orchestration, and LLMOps, the core responsibilities are
+      overwhelmingly focused on data pipeline engineering, ETL
+      development, data warehousing, and data governance. The AI-
+      related work is described as "supporting production LLM/RAG-
+      based systems in a platform, data, or MLOps capacity" — this
+      is infrastructure and platform work that enables AI systems
+      built by others, not direct model building or fine-tuning.
+  responsibilities:
+  - Design, create and maintain data pipelines to collect, clean, transform, and load
+    data from various sources including sensor data, historical records, and geospatial
+    information
+  - Collaborate with interdisciplinary teams of environmental engineers, data scientists,
+    and software developers to develop scalable data solutions
+  - Design and manage data warehouses, data lakes, and databases for efficient data
+    storage and retrieval
+  - Develop, deploy, and monitor ETL processes to support data analysis, visualization,
+    and machine learning model training
+  - Develop and maintain data models and manage SQL databases for efficient data handling
+  - Design and execute testing plans for data pipeline and data warehousing implementations
+  - Implement data quality and data governance processes for enhanced reliability
+    and accessibility
+  - Support production LLM/RAG-based systems in a platform and MLOps capacity including
+    retrieval pipelines, vector search, and orchestration patterns
+  use_cases:
+  - Environmental and water-resources data integration and analysis
+  - RAG pipeline and multi-agent orchestration platform support for AI-enabled delivery
+    workflows
+  - Geospatial data processing for environmental engineering projects
+  - Data warehousing and ETL for sensor data, historical records, and geospatial information
+  - AI-assisted analytics and natural-language interfaces for data exploration
+  skills:
+    genai: [RAG, Prompt Versioning, Multi-Agent Orchestration]
+    ml: []
+    web: []
+    databases: [Data Warehousing, Data Lakes, Snowflake, Vector Search, PostGIS]
+    data: [ETL, Airflow, Databricks, Geopandas, Data Governance]
+    cloud: [Azure, AWS, GCP, Azure AI Search]
+    ops: [Docker, Kubernetes, Git, LLMOps, OpenTelemetry, Infrastructure as Code]
+    languages: [Python, SQL]
+    domains: []
+    other: [ESRI ArcGIS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9103096'
+  extracted_at: '2026-04-22T12:52:48.548973'

@@ -1,0 +1,53 @@
+company:
+  name: Wellthy
+  stage: null
+  focus: |-
+    Care coordination and navigation platform supporting
+    families with healthcare and caregiving needs
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building applied AI systems
+      including RAG pipelines, LLM integrations, and agentic
+      workflows. The engineer will design, develop, and implement
+      AI solutions with hands-on work on retrieval-augmented
+      generation, LLM orchestration, and vector databases - all
+      core AI/ML model deployment and implementation work.
+  responsibilities:
+  - Lead design and development of applied AI systems including RAG pipelines, LLM
+    integrations, and APIs
+  - Ensure safe, reliable AI outputs with guardrails, monitoring, and evaluation frameworks
+  - Build and maintain foundational AI capabilities including RAG/vector-database
+    solutions and agentic workflow solutions
+  - Mentor engineers on AI best practices and safe adoption of AI tools
+  - Partner with product and engineering leadership on AI initiative planning and
+    scope
+  - Run experiments and rapidly prototype to assess new AI tools and prospective features
+  - Create solutions for continuously improving AI through monitoring, analytics,
+    and user feedback
+  - Develop evaluation frameworks for comparing AI performance across models and prompts
+  use_cases:
+  - Healthcare and caregiving navigation support for families
+  - Care coordination and delivery optimization
+  - Family care management during all stages of life
+  - Scaling care professional expertise through AI-powered solutions
+  - Enterprise care support for Fortune 500 company workforces
+  skills:
+    genai: [LangChain, RAG, LLM integration, LLM orchestration, Agentic workflows,
+      Guardrails, Prompt engineering]
+    ml: [Evaluation frameworks]
+    web: [API development]
+    databases: [Vector databases]
+    data: []
+    cloud: []
+    ops: [AI security, Unit testing, Integration testing, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8494239'
+  extracted_at: '2026-03-03T12:22:04.106877'

@@ -1,0 +1,57 @@
+company:
+  name: Moonfare
+  stage: Series B+
+  focus: |-
+    Private markets investment platform providing institutional-
+    quality portfolios
+position:
+  title: Senior ML/AI Solutions Engineer (m/f/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and implementing end-to-end AI
+      solutions and agentic workflows, evaluating and integrating
+      AI services (AWS Bedrock, OpenAI, Anthropic), and guiding
+      architectural decisions on prompt orchestration. While it
+      leverages vendor tools rather than building models from
+      scratch, it directly involves deploying and orchestrating
+      LLM-based systems and agentic workflows, making it ai-first.
+  responsibilities:
+  - Serve as internal AI subject matter expert, advising leadership on emerging AI
+    trends and opportunities
+  - Act as primary liaison between business units and technical teams, translating
+    operational challenges into AI solution requirements
+  - Design and implement end-to-end AI solutions and agentic workflows using low-code/no-code
+    platforms and vendor tools
+  - Evaluate, select, and integrate commercial and cloud-native AI services to maximise
+    business value
+  - Establish and maintain company-wide AI Tooling Governance framework for approved
+    use cases and standardised tools
+  - Educate non-technical stakeholders on LLM and AI technology capabilities and limitations
+  - Guide architectural decisions on prompt orchestration, workflow management, and
+    solution deployment
+  - Collaborate with Security and Compliance teams to ensure secure and ethical use
+    of generative AI in a regulated environment
+  use_cases:
+  - Intelligent automation of private markets investment operations
+  - AI-native experiences for fintech platform users
+  - Business process automation using agentic workflows and LLMs
+  - AI-augmented decision support for investment vetting and due diligence
+  - Enterprise AI governance and tool standardisation across the organisation
+  skills:
+    genai: [OpenAI API, Anthropic API, RAG architectures, Agentic workflows, Prompt
+        engineering, LLMs]
+    ml: []
+    web: [Vercel v0]
+    databases: []
+    data: []
+    cloud: [AWS Bedrock]
+    ops: [Camunda, n8n, Workflow orchestration]
+    languages: [Python]
+    domains: []
+    other: [AI governance frameworks, Low-code/no-code platforms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8942316'
+  extracted_at: '2026-04-22T13:33:32.270475'

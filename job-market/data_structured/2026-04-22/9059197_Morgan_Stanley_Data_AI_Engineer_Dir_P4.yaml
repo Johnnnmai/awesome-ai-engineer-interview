@@ -1,0 +1,50 @@
+company:
+  name: Morgan Stanley
+  stage: Public
+  focus: Global financial services and investment banking
+position:
+  title: Data AI Engineer, Dir, P4
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building and maintaining data
+      infrastructure and pipelines for AI platforms, not on
+      building, training, or deploying AI/ML models directly. The
+      responsibilities center on ETL processes, data quality, data
+      governance, and data systems optimization — all
+      enabling/serving AI teams rather than working on AI systems
+      themselves.
+  responsibilities:
+  - Develop and maintain data pipelines and ETL processes for the Data AI platform
+  - Work with structured and unstructured data to ensure accessibility and usability
+  - Optimize data systems for performance and scalability
+  - Implement data quality and data governance standards
+  - Collaborate with stakeholders across technology and business units to translate
+    data needs into technical solutions
+  - Create and maintain technical documentation and training materials for knowledge
+    sharing
+  - Participate in code reviews and contribute to improvement of development processes
+  - Contribute to the broader data architecture community through knowledge sharing
+    and presentations
+  use_cases:
+  - Firmwide AI development platform enabling teams to build AI-powered applications
+  - Data infrastructure supporting AI adoption across Morgan Stanley's financial services
+    businesses
+  - ETL pipelines feeding structured and unstructured data into AI platforms
+  - Data governance and quality assurance for enterprise AI data systems
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [SQL, NoSQL, Snowflake, Data Warehousing]
+    data: [Apache Spark, Hadoop, Databricks, Kafka, Jupyter Notebooks, ETL, Data Modeling]
+    cloud: [Snowflake Cortex, AWS, Azure]
+    ops: [Git, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Tableau, Power BI, Collibra]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9059197'
+  extracted_at: '2026-04-22T13:07:52.000336'

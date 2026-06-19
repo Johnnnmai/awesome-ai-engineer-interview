@@ -1,0 +1,47 @@
+company:
+  name: Cepheid
+  stage: Public
+  focus: Life sciences and molecular diagnostics for healthcare
+position:
+  title: Senior Data Engineer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role that supports AI/ML
+      workloads rather than working directly on AI systems. The
+      role builds data pipelines and infrastructure FOR AI
+      engineers and data scientists to consume, enabling their
+      modeling work but not building, training, or deploying
+      models themselves.
+  responsibilities:
+  - Collaborate with scientists, bioinformaticians, and AI engineers to ensure data
+    is accessible and well-structured for modeling
+  - Build and maintain data pipelines to ingest, transform, and store biological data
+    from wet lab experiments and databases
+  - Implement data quality checks and validation routines for molecular design workflows
+  - Assist in setup and optimization of cloud-based data platforms for scalable storage
+    and compute
+  - Document workflows and processes to support reproducibility and knowledge sharing
+    across teams
+  use_cases:
+  - AI-driven molecular design
+  - Processing biological data from wet lab experiments
+  - Genomic sequence and protein structure data management
+  - Molecular diagnostics data infrastructure
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Snowflake, Redshift, BigQuery]
+    data: [Airflow, Prefect, Azure Data Factory, Dask, Ray, Kafka, Kinesis, Argo,
+      NextFlow]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, GitHub Actions, Valohai]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8476266'
+  extracted_at: '2026-03-03T12:20:05.648540'

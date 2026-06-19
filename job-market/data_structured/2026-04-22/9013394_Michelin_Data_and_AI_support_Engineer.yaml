@@ -1,0 +1,52 @@
+company:
+  name: Michelin
+  stage: Public
+  focus: |-
+    Global tire manufacturer with industrial IoT and data
+    operations
+position:
+  title: Data and AI support Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on ensuring stability and reliability
+      of existing data and AI/ML solutions — troubleshooting,
+      monitoring, and supporting deployed systems rather than
+      building, training, or fine-tuning models. The LLM/Vector
+      DB/RAG knowledge is listed as "a plus," confirming this is a
+      support/operations role near AI, not directly on AI.
+  responsibilities:
+  - Ensure stability, reliability, and optimal performance of data and AI/ML solutions
+  - Troubleshoot technical issues affecting data pipelines, databases, and deployed
+    AI/ML models
+  - Support API-based applications hosted on Microsoft Azure
+  - Contribute to feasibility analysis, functional design, and solution validation
+  - Build and deploy data collection infrastructure including IoT sensors, databases,
+    and files
+  - Analyze and resolve complex malfunctions, incidents, and bugs proactively
+  - Enforce security and confidentiality rules for data within the perimeter
+  - Provide technical assistance to users and communicate complex concepts to non-technical
+    audiences
+  use_cases:
+  - Support and maintain deployed AI/ML model operations in production
+  - Monitor and troubleshoot data pipelines and cloud-hosted applications
+  - Industrial IoT data collection infrastructure management
+  - Azure cloud infrastructure support for data and AI workloads
+  skills:
+    genai: [LLM, RAG architecture]
+    ml: []
+    web: [REST APIs]
+    databases: [Cosmos DB, Vector DB]
+    data: [Azure Databricks, Azure Data Factory, Databricks, PySpark, PowerBI]
+    cloud: [Microsoft Azure, Azure Kubernetes Service (AKS), Azure App Services, Azure
+        Storage Accounts, Azure Virtual Networks, Azure Active Directory, Azure Monitor,
+      Azure Python SDK, Azure Key Vault, Azure Logic App]
+    ops: [Docker]
+    languages: [Python, PowerShell, Bash, SQL]
+    domains: []
+    other: [TCP/IP, DNS]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9013394'
+  extracted_at: '2026-04-22T13:24:24.698234'

@@ -1,0 +1,57 @@
+company:
+  name: Firestorm
+  stage: VC-backed (likely Series A or B based on funding stage and salary range)
+  focus: |-
+    Defense technology company building autonomous aerial
+    vehicles and mission-adaptable systems
+position:
+  title: Senior AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is building platform infrastructure and services
+      that SUPPORT AI/ML systems rather than directly building,
+      training, or deploying models. The focus is on backend
+      services, orchestration, observability, security, and
+      reliability patterns that enable other engineers to run AI
+      workflows safely.
+  responsibilities:
+  - Build and operate core backend services that power AI-enabled workflows including
+    APIs, orchestration, storage, and internal integrations
+  - Design scalable data models and registries for versioned artifacts and metadata
+    with strong traceability and auditability
+  - Implement secure-by-default service patterns including authentication, authorization,
+    audit logs, and secrets handling
+  - Build reliability foundations including observability, metrics, tracing, alerting,
+    SLOs, and incident response playbooks
+  - Implement idempotent APIs and state-handling patterns for resilient workflows
+    with retries and reconciliation
+  - Create integration adapters and event-driven plumbing to safely connect AI workflows
+    to internal systems
+  - Establish CI/CD pipelines, environment promotion, rollback strategies, and safe
+    deployment practices
+  - Partner with AI and application engineers to define interfaces, validation layers,
+    and operational constraints
+  use_cases:
+  - Autonomous aerial systems and vehicles for defense applications
+  - AI-enabled mission planning and execution for aerial operations
+  - Democratized deterrence through cost-effective defense technology
+  - Real-time decision support for aerial system operators in the field
+  skills:
+    genai: [LLM systems, AI safety patterns, Prompt injection mitigation]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: [Workflow orchestration, Message queues and pub/sub, Feature/data pipelines]
+    cloud: []
+    ops: [CI/CD, 'Observability (metrics, tracing, logs)', Model serving infrastructure,
+      Inference gateways, GPU infrastructure, Secrets management, Experiment tracking,
+      Artifact registries, Evaluation platforms, A/B testing]
+    languages: [Go, Java, Python, C++]
+    domains: []
+    other: [Distributed systems, Event-driven architecture, RBAC/ABAC]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8874830'
+  extracted_at: '2026-03-27T15:00:59.129298'

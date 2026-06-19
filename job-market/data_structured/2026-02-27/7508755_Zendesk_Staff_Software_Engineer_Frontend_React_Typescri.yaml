@@ -1,0 +1,50 @@
+company:
+  name: Zendesk
+  stage: Public
+  focus: Customer service and support software platform
+position:
+  title: 'Staff Software Engineer (Frontend: React, Typescript, Javascript, BE-Ruby
+    +AI)'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building an "Admin Copilot" from scratch
+      with AI-powered insights and automation, plus explicitly
+      requires experience integrating and optimizing LLM-based
+      features and prompt engineering. The engineer will be hands-
+      on implementing AI capabilities into the admin platform, not
+      just supporting others who build AI.
+  responsibilities:
+  - Lead technical architecture and long-term roadmap for the admin experience platform
+  - Spearhead the creation of Admin Copilot with AI-powered insights and automation
+  - Design and develop high-quality, scalable full-stack software solutions
+  - Integrate LLM-based features to enable intelligent workflows and automation
+  - Build reusable components and systems for enterprise-scale SaaS applications
+  - Develop event-driven architectures for real-time service execution and workflow
+    automation
+  - Mentor and provide technical guidance to senior and principal engineers
+  - Collaborate with Product Managers, Designers, and Engineering Leaders on technical
+    strategy
+  use_cases:
+  - Admin workflow automation and productivity enhancement
+  - AI-powered insights for system administrators
+  - Enterprise admin onboarding and product adoption
+  - Real-time service execution tracking and rule-based workflows
+  - Internal team integration and solution deployment
+  skills:
+    genai: [LLM integration, Prompt engineering]
+    ml: []
+    web: [React, Ruby on Rails, Redux, GraphQL, REST APIs, Cypress, Jest, React Testing
+        Library]
+    databases: [MySQL]
+    data: []
+    cloud: [AWS]
+    ops: [Kubernetes, DataDog, CI/CD]
+    languages: [TypeScript, JavaScript, Ruby]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7508755'
+  extracted_at: '2026-03-03T12:22:16.278584'

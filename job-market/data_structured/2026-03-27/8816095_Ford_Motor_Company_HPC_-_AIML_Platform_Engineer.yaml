@@ -1,0 +1,50 @@
+company:
+  name: Ford Motor Company
+  stage: Public
+  focus: Automotive manufacturing and mobility solutions
+position:
+  title: HPC - AI/ML Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role builds and operates GPU/Kubernetes infrastructure
+      platforms that support AI/ML workloads, but does not
+      directly build, train, fine-tune, or deploy AI/ML models.
+      The focus is on platform engineering, cluster management,
+      and infrastructure automation to enable internal teams to
+      run their AI/ML workloads.
+  responsibilities:
+  - Design, implement, and support GPU/Kubernetes clusters and supporting infrastructure
+  - Support AI/ML training, simulation, and HPC workload customers
+  - Develop automation and tooling for cluster provisioning, configuration management,
+    and platform operations
+  - Collaborate with application and research teams to optimize workloads running
+    on GPU infrastructure
+  - Implement monitoring, observability, and performance tuning across GPU and compute
+    platforms
+  - Troubleshoot infrastructure issues across compute, networking, and container platforms
+  - Contribute to platform reliability, scalability, and operational best practices
+  - Produce clear technical documentation and operational runbooks
+  use_cases:
+  - AI/ML model training infrastructure
+  - High-performance computing simulations
+  - Large-scale GPU compute platforms
+  - Kubernetes-based container orchestration for AI workloads
+  - Multi-datacenter compute infrastructure
+  skills:
+    genai: []
+    ml: [GPU scheduling]
+    web: []
+    databases: []
+    data: []
+    cloud: [Terraform]
+    ops: [Kubernetes, OpenShift, CI/CD, Linux systems engineering, Prometheus, Grafana,
+      Ansible, InfiniBand, RDMA, Docker]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8816095'
+  extracted_at: '2026-03-27T13:20:41.212999'

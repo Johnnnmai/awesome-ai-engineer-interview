@@ -1,0 +1,56 @@
+company:
+  name: Celonis
+  stage: Series D+
+  focus: |-
+    Process Intelligence platform using process mining and AI
+    technology
+position:
+  title: Senior Applied AI Engineer - High Tech
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying LLM/agent
+      systems with RAG, tools, and guardrails for customers. The
+      engineer delivers scalable AI solutions end-to-end,
+      including architecture, prototyping, and implementation -
+      directly working ON AI systems, not just supporting
+      infrastructure.
+  responsibilities:
+  - Understand customer AI strategy and translate requirements into innovative AI
+    solutions using Celonis platform
+  - Rapidly build creative AI prototypes in customer hackathons using cutting-edge
+    AI technologies
+  - Enable transformation from rule-based automation to autonomous AI agents powered
+    by Process Intelligence Platform
+  - End-to-end execution of Proof-of-Value projects including secure, scalable LLM/agent
+    systems with RAG, tools, and guardrails
+  - Integrate AI solutions with enterprise data, identity, and compliance frameworks
+  - Ensure successful project outcomes until agreed value and adoption thresholds
+    are reached
+  - Specialize in specific domains (e.g., supply chain) and industries to scale knowledge
+    across the organization
+  use_cases:
+  - Intelligent chatbots for business process automation
+  - Automated text processors for enterprise workflows
+  - Autonomous AI agents for business operations transformation
+  - Process intelligence augmentation with AI for business context
+  - RAG-based systems for operational intelligence
+  - Enterprise-scale AI deployments with real ROI
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, prompt engineering, multi-agent orchestration,
+      few-shot learning, fine-tuning, function calling, LLM orchestration, OpenAI
+        API]
+    ml: [PyTorch, scikit-learn]
+    web: []
+    databases: []
+    data: [pandas, Databricks]
+    cloud: [AWS Bedrock, Azure AI, GCP Vertex AI]
+    ops: [model deployment and monitoring]
+    languages: [Python, pydantic]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8874728'
+  extracted_at: '2026-03-27T15:21:53.515703'

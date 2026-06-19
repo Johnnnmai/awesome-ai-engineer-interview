@@ -1,0 +1,50 @@
+company:
+  name: Milliman
+  stage: Mature
+  focus: Actuarial consulting and financial services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on integration of language
+      models (Llama 3, Mistral 7B) using spaCy or Haystack to
+      augment software capabilities. The engineer will be
+      designing, developing, and optimizing language model
+      integrations, which is core work building and deploying AI
+      systems.
+  responsibilities:
+  - Integrate language models like Llama 3 or Mistral 7B using spaCy or Haystack to
+    augment software capabilities
+  - Design and develop solutions leveraging language technologies for improved data
+    processing and user interaction
+  - Collaborate with cross-functional teams to identify requirements and deliver solutions
+    with advanced language processing capabilities
+  - Develop and maintain applications using elements of the .NET tech stack as needed
+  - Work with XML for data manipulation and exchange
+  - Implement JavaScript and Ajax to enhance user interface and experience
+  - Troubleshoot and resolve application issues and optimize language model integration
+  - Participate in code reviews and contribute to the continuous improvement of development
+    processes
+  use_cases:
+  - Enhance actuarial and financial software with language model capabilities
+  - Improve data processing workflows using NLP technologies
+  - Augment user interaction capabilities in client-facing applications
+  - Support financial well-being and health protection services through AI-powered
+    solutions
+  skills:
+    genai: [Llama 3, Mistral 7B, spaCy, Haystack]
+    ml: []
+    web: [.NET, ASP.NET, MVC, Ajax, CSS]
+    databases: []
+    data: [XML]
+    cloud: []
+    ops: [Git, Agile]
+    languages: [JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8386011'
+  extracted_at: '2026-03-03T11:46:49.336247'

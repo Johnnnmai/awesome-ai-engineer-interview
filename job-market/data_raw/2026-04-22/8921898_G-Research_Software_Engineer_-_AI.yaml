@@ -1,0 +1,148 @@
+job_id: 8921898
+title: Software Engineer - AI
+company: G-Research
+location: London, GBR
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - "C#"
+  - Ci/Cd
+  - Docker
+  - Grafana
+  - Kubernetes
+  - Opentelemetry
+  - Prometheus
+  - Python
+  - Terraform
+company_size: 1,039 Employees
+description: |
+  We tackle the most complex problems in quantitative finance,
+  by bringing scientific clarity to financial complexity.
+  
+  From our London HQ, we unite world-class researchers and
+  engineers in an environment that values deep exploration and
+  methodical execution - because the best ideas take time to
+  evolve.  Together we’re building a world-class platform to
+  amplify our teams’ most powerful ideas.
+  
+  As part of our engineering team, you’ll shape the platforms
+  and tools that drive high-impact research - designing
+  systems that scale, accelerate discovery and support
+  innovation across the firm.
+  
+  Take the next step in your career.
+  
+  The role
+  
+  The Core AI team is a centralised infrastructure team within
+  the AI Engineering department. We build, operate and scale
+  the foundational platform that powers AI innovation across
+  G‑Research, including on-prem open model inference, model
+  serving, AI developer experience tooling, centralised MCP
+  servers and secure agent sandboxing.
+  
+  We provide the foundations that enable teams across the firm
+  to innovate and deliver with confidence, working closely
+  with our Applied AI team.
+  
+  As an Engineer in Core AI, you will work across four key
+  areas:
+  
+  - Infrastructure and serving - design, build and operate on-
+    prem model inference and serving platforms
+  - MCP server infrastructure - build and operate centralised
+    MCP servers that provide secure, governed access to tools
+    and data
+  - Security and sandboxing - design and implement
+    infrastructure for safe execution of autonomous AI agents
+    in a regulated environment
+  - Developer AI experience – improve developer experience
+    through seamless integrations and user-facing tools.
+  
+  Key responsibilities of the role include:
+  
+  - Designing and operating model serving infrastructure,
+    including inference pipelines and scheduling systems
+  - Building and running centralised MCP servers, ensuring
+    secure, reliable access to enterprise tools and data
+  - Owning platform reliability, performance and scalability
+    across Kubernetes-based infrastructure, including
+    observability, capacity planning and incident response
+  - Building self-service tooling and APIs to enable teams to
+    provision and consume AI infrastructure independently
+  - Integrating platform services with existing technology
+    stacks, ensuring clear interfaces, monitoring and CI/CD
+  - Evaluating and adopting open-source technologies and
+    applying emerging best practices to improve the platform
+  
+  Who are we looking for?
+  
+  We value pragmatic engineers who combine deep infrastructure
+  expertise with strong systems thinking and clear
+  communication. You should enjoy building reliable, secure
+  platforms at scale - the kind of foundations that hundreds
+  of engineers and quants depend on daily without needing to
+  think about.
+  
+  The ideal candidate will have the following skills and
+  experience:
+  
+  Essential:
+  
+  - Strong expertise in C# and Python, building distributed
+    systems and platform-level software
+  - Deep Kubernetes expertise, including multi-tenant cluster
+    operations and platform extensions
+  - Experience with Docker, Terraform and CI/CD in controlled or
+    regulated environments
+  - Strong understanding of distributed systems, including
+    networking, storage, security and performance
+  - Experience with model serving and inference infrastructure,
+    including deployment, scaling and optimisation of open
+    models
+  - Clear communication skills, with ability to explain complex
+    concepts and produce high-quality technical documentation
+  
+  Desirable:
+  
+  - Experience with MCP or similar platform services
+  - Familiarity with sandboxing and workload isolation
+    technologies
+  - Experience in quantitative finance or low-latency systems
+  - AWS experience particularly in hybrid environments
+  - Experience with observability tooling such as Prometheus,
+    Grafana or OpenTelemetry
+  - Contributions to open-source projects in relevant domains
+  
+  Why join us?
+  
+  - Highly competitive compensation plus annual discretionary
+    bonus
+  - Lunch provided (via Just Eat for Business) and dedicated
+    barista bar
+  - 30 days annual leave
+  - 9% company pension contributions
+  - Informal dress code and excellent work/life balance
+  - Comprehensive healthcare and life assurance
+  - Cycle-to-work scheme
+  - Monthly company events
+  
+  G-Research is committed to cultivating and preserving an
+  inclusive work environment. We are an ideas-driven business
+  and we place great value on diversity of experience and
+  opinions.
+  
+  We want to ensure that applicants receive a recruitment
+  experience that enables them to perform at their best. If
+  you have a disability or special need that requires
+  accommodation please let us know in the relevant section
+industries:
+  - Big Data
+  - Fintech
+  - Information Technology
+  - Machine Learning
+  - Financial Services
+posted_date: 2026-04-01
+url: "https://builtin.com/job/software-engineer-ai/8921898"
+source: Built In

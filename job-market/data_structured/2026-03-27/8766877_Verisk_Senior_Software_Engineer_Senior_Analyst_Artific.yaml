@@ -1,0 +1,55 @@
+company:
+  name: Verisk
+  stage: Public
+  focus: |-
+    AI-powered risk modeling and analytics for insurance
+    industry
+position:
+  title: Senior Software Engineer | Senior Analyst, Artificial Intelligence (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      optimizing GenAI/LLM applications including agentic AI
+      systems, RAG implementations, and multi-agent orchestration.
+      The position requires hands-on work developing AI-powered
+      workflows and production applications leveraging generative
+      AI frameworks.
+  responsibilities:
+  - Design, develop, and deploy production-ready applications leveraging Generative
+    AI and agentic AI frameworks
+  - Build intelligent workflows using LLMs, multi-agent coordination, and orchestration
+    pipelines
+  - Implement prompt engineering strategies, retrieval-augmented generation (RAG),
+    and contextual memory systems
+  - Implement and utilize Model Context Protocol (MCP) patterns for structured communication
+    between agents and systems
+  - Develop evaluation pipelines to measure accuracy, safety, and performance of AI
+    systems
+  - Optimize latency, cost efficiency, and scalability of AI-powered workflows
+  - Ensure reliability through testing, logging, monitoring, and observability of
+    AI behavior
+  - Apply AI governance principles for responsible model usage and auditability
+  use_cases:
+  - Insurance risk modeling and assessment
+  - Autonomous agent workflows for business processes
+  - Intelligent document processing and retrieval
+  - AI-powered decision support systems
+  - Policy lifecycle automation
+  skills:
+    genai: [LangChain, LangGraph, RAG, LLMs, Multi-agent systems, Prompt engineering,
+      Model Context Protocol (MCP), Contextual memory systems]
+    ml: []
+    web: [React, REST APIs]
+    databases: [Vector databases]
+    data: []
+    cloud: []
+    ops: [Monitoring and observability, Testing frameworks]
+    languages: [Python, .NET]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8766877'
+  extracted_at: '2026-03-27T15:44:02.010994'

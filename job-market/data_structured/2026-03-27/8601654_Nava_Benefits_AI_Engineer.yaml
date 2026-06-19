@@ -1,0 +1,51 @@
+company:
+  name: Nava Benefits
+  stage: Series A
+  focus: |-
+    Modern healthcare benefits brokerage with AI-powered
+    benefits platform for employers
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building generative AI solutions,
+      integrating foundation models directly into applications,
+      and designing interactions with LLMs (GPT-4, Claude,
+      Gemini). The engineer will build intelligent search systems
+      and AI-powered features - directly working ON AI systems,
+      not just supporting them.
+  responsibilities:
+  - Work with product, engineering, and design to identify pain points and build generative
+    AI solutions using software engineering best practices
+  - Work across the full stack - frontend, backend, and infrastructure - integrating
+    AI capabilities directly into applications
+  - Build intelligent search and retrieval systems that help users find relevant information
+    quickly
+  - Design effective interactions with foundation models (GPT-4, Claude, Gemini) to
+    achieve reliable behaviors
+  - Ship AI-powered features with the same reliability and performance standards as
+    any other application components
+  use_cases:
+  - AI-powered benefits platform (HQ) for HR teams to manage renewals and strategy
+  - Intelligent search and retrieval for benefits information
+  - Employee benefits navigation and guidance
+  - Healthcare cost optimization and transparency
+  - Benefits administration workflow automation
+  skills:
+    genai: [OpenAI API, Anthropic Claude API, Gemini API, Tool calling / Function
+        calling, Multi-agent systems, MCP (Model Context Protocol), Langfuse]
+    ml: [PyTorch, scikit-learn]
+    web: [React, Vite, Next.js, Node.js, Nest.js, Express.js, REST, GraphQL]
+    databases: [Postgres]
+    data: [Dagster, dbt, Airbyte]
+    cloud: [AWS]
+    ops: []
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8601654'
+  extracted_at: '2026-03-27T15:30:35.439887'

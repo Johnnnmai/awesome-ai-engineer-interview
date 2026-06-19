@@ -1,0 +1,48 @@
+company:
+  name: Jack & Jill AI
+  stage: VC-backed startup
+  focus: AI operating system for property management
+position:
+  title: Lead Backend Engineer at LightWork AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly integrating advanced LLMs and
+      building the backend services powering Felicity, an AI
+      assistant. While the primary title is backend engineer, the
+      job explicitly requires integrating LLMs and building the
+      architecture that supports AI workflows, making this an ai-
+      first role where the engineer is hands-on with AI system
+      implementation.
+  responsibilities:
+  - Architect and build scalable backend systems and RESTful APIs using Node.js, TypeScript,
+    and PostgreSQL
+  - Design and maintain microservice and event-driven architectures supporting real-time
+    operational workflows and AI integrations
+  - Integrate advanced LLMs into the Felicity AI assistant platform
+  - Lead technical strategy, mentor engineers, and conduct code reviews to ensure
+    production-grade reliability
+  - Establish technical standards and engineering culture for a fast-scaling startup
+    team
+  - Drive the transition from pilot phase to production scale
+  use_cases:
+  - AI assistant automating 80-90% of property management workflows
+  - Reducing manual admin time in property management operations
+  - Real-time operational workflow automation for property managers
+  - AI-powered operating system for the property management industry
+  skills:
+    genai: [LLM Integration]
+    ml: []
+    web: [RESTful APIs, Microservice Architecture]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Node.js, TypeScript, SQL]
+    domains: []
+    other: [Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8928853'
+  extracted_at: '2026-04-22T13:02:33.018794'

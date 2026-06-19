@@ -1,0 +1,55 @@
+company:
+  name: MNTN
+  stage: Late-stage / Growth (named among Ad Age's Best Places to Work, Fast Company's
+    Most Innovative)
+  focus: Connected TV advertising and performance marketing software
+position:
+  title: Software Engineer, AI Solutions
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing and building AI-
+      powered tools, generative AI applications, and autonomous AI
+      agents. The engineer will work hands-on with LLM APIs, agent
+      frameworks, vector databases, and MCP to build and deploy AI
+      solutions, making this clearly an ai-first role.
+  responsibilities:
+  - Design and build internal AI-powered tools and integrations including generative
+    AI applications and autonomous AI agents
+  - Architect, develop, and maintain AI agents that automate complex multi-step workflows
+    and interact with internal systems
+  - Evaluate, prototype, and recommend generative AI solutions including LLM APIs,
+    agent frameworks, and code generation tools
+  - Act as an AI evangelist within engineering by running workshops, writing guides,
+    and mentoring teammates on generative AI patterns
+  - Define and maintain best practices for prompt engineering, agent orchestration,
+    model selection, and responsible AI usage
+  - Partner with product and business stakeholders to identify high-impact opportunities
+    for generative AI and agent-driven automation
+  - Stay current on the generative AI and agentic AI landscape and translate developments
+    into actionable opportunities
+  use_cases:
+  - Internal workflow automation for business teams using AI agents
+  - Generative AI-powered tools to improve operational efficiency across the organization
+  - Autonomous AI agents that make decisions and interact with internal systems on
+    behalf of users
+  - AI-driven automation for Connected TV advertising operations
+  - Code generation and developer productivity tools powered by AI
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, LlamaIndex, OpenAI API, Anthropic API, Gemini
+        API, Model Context Protocol (MCP), Prompt Engineering, AI Agents, Multi-agent
+        systems, Agent orchestration]
+    ml: []
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure, Serverless functions]
+    ops: [Containers]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9043789'
+  extracted_at: '2026-04-22T14:14:53.089799'

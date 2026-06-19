@@ -1,0 +1,275 @@
+job_id: 8977781
+title: Staff AI Engineer
+company: SpotOn
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Ci/Cd
+  - Git
+  - Github Actions
+  - Go
+  - Kotlin
+  - Python
+  - Typescript
+description: |
+  About SpotOn
+  
+  We’re not just building restaurant tech, we’re giving
+  independent restaurants the tools to compete and win. From
+  our award-winning point-of-sale to AI-powered profit tools,
+  everything we do helps operators boost profit, work smarter,
+  and keep their best people. And every solution is backed by
+  real humans who actually give a sh*t about helping
+  restaurants succeed.
+  
+  - Named the #1 Restaurant POS by G2 (Fall 2025), based on
+    ratings from real users
+  - Rated the top-rated point-of-sale (POS) for restaurants,
+    bars, retail, and small businesses by Capterra users
+  - Awarded Great Places to Work and Built In’s Best Workplaces
+    for multiple years running
+  
+  We move fast, care hard, and fight for independent
+  restaurant operators to do what they love, and love doing
+  it. If you’re looking to make an impact with heart and
+  hustle, SpotOn is the place for you.
+  
+  (Remote Friendly)
+  
+  About the Accelerate Team
+  
+  The Accelerate team is a new 5-person engineering team with
+  a singular mission: prove that AI-native engineering
+  practices can fundamentally change how a fintech engineering
+  org builds software - then make that the new standard. The
+  team has direct VP sponsorship, mission & charter, and three
+  defined projects with hard deadlines.
+  
+  We're hiring a Staff/Principal IC who has already
+  demonstrated AI-assisted engineering at scale. This is not
+  an "AI-curious" role. You write code with AI every day.
+  You've built agents that do real work. You have strong,
+  experience-backed opinions on which models to use for what,
+  where agents fail, and how to build guardrails that actually
+  hold. You've seen what works in production and you're
+  impatient to do it at scale.
+  
+  You will be the most technically senior AI practitioner on
+  this team - the person everyone looks to for "how do we
+  actually build this." You don't manage the team. You drive
+  the architecture, build the hardest parts, and set the
+  technical standard.
+  
+  The Role: Technical Lead, Not Manager
+  
+  This isn't a "set up some CI/CD and plug in Copilot" role.
+  You are the person who architects the systems that change
+  how SpotOn engineers build software. You will:
+  
+  Be the AI engineering technical authority. You set the
+  technical standard for how AI is used in code generation,
+  review, testing, and task automation. You don't just
+  implement tools - you design the systems, workflows, and
+  guardrails that make AI-assisted development safe,
+  measurable, and scalable in a PCI-regulated payments
+  environment. The team lead sets priorities; you set the
+  technical direction.
+  
+  Drive the architecture and implementation of three
+  concurrent projects:
+  
+  - Automated PR Review - A risk-tiered AI review pipeline where
+    AI handles first-pass review on every PR, with an
+    escalation framework you design that determines when human
+    review is mandatory (payment logic, PCI-scoped code,
+    compliance paths) versus when AI approval is sufficient.
+    You define the criteria. You tune the thresholds. You
+    prove it works.
+  - Android and API Test Automation - A fully automated test
+    harness for our Android-native POS and KDS products:
+    virtual device provisioning, test execution, teardown, AI-
+    assisted failure analysis - replacing multi-day manual QA
+    cycles with sub-30-minute automated runs.
+  - AI Agent Swarms - A multi-agent pipeline that takes a PRD
+    and produces a tested, reviewed pull request for tier 1-3
+    engineering work (nits, bugs, small features). You design
+    the agent orchestration - planner, coder, tester, reviewer
+    - and the blast-radius controls that keep it safe in
+    fintech.
+  
+  Evangelize by shipping, not by presenting. Your most
+  persuasive argument is a working system, not a slide deck.
+  You demo to engineering leads every two weeks with real
+  metrics. You turn skeptics into adopters by showing them
+  their own time savings.
+  
+  Measure everything. You define the metrics framework:
+  developer hours recovered, cycle time compression, quality
+  ratios, cost per deployment. You report to the CTO monthly
+  with quantified value delivered. If something isn't working,
+  the data tells you before anyone else.
+  
+  What We Require
+  
+  This is a high bar intentionally. We need someone who has
+  already done this, not someone who wants to learn.
+  
+  Required experience:
+  
+  - 5+ years building developer tools, infrastructure, or
+    platform engineering systems - you understand how
+    engineering orgs actually work at scale, not just how AI
+    demos work
+  - 2+ years working deeply with LLMs and AI agents in
+    production - not side projects, not hackathons. Production
+    systems handling real code, real reviews, or real task
+    automation. You can speak to failure modes, cost
+    optimization, prompt engineering patterns, and model
+    selection trade-offs from experience.
+  - Designed and operated AI-assisted code generation or review
+    systems serving 50+ engineers or 30+ repositories. You
+    know the difference between "cool demo" and "trusted by
+    the team."
+  - Built multi-agent or agentic workflows - task decomposition,
+    agent specialization, orchestration, error recovery.
+    You've worked with Claude Code, OpenAI Assistants,
+    LangGraph, CrewAI, AutoGen, or custom agent frameworks at
+    a level where you can articulate why you chose one
+    approach over another.
+  - Hands-on with AI coding tools daily - Claude Code, Cursor,
+    GitHub Copilot, Windsurf, Codeium - you don't just use
+    them, you push their limits. You know where they excel and
+    where they hallucinate. You have a personal workflow that
+    makes you measurably faster and you can teach it.
+  
+  Required domain expertise (at least two of three):
+  
+  - Fintech / payments / regulated industry - you understand
+    what PCI-DSS, SOX, or HIPAA compliance means for code
+    review and deployment. You know why "just let the AI merge
+    it" isn't an option for payment logic.
+  - Mobile / Android testing automation - Espresso, UI
+    Automator, or AI-native tools (Drizz, mabl, testRigor).
+    Experience with emulator farms, device provisioning, and
+    CI-integrated test pipelines.
+  - Multi-agent system architecture - you've built systems where
+    multiple AI agents collaborate on decomposed tasks with
+    coordination protocols, fallback strategies, and human-in-
+    the-loop checkpoints.
+  
+  Who You Are
+  
+  You are not "AI-interested." You are AI-obsessed in the
+  productive sense:
+  
+  - You already write 50%+ of your code with AI assistance and
+    you've measured the impact on your own velocity. You have
+    opinions on which models are best for which tasks and you
+    update those opinions monthly as the landscape shifts.
+  - You've built things with agents that most engineers think
+    aren't possible yet. You're 6-12 months ahead of the
+    mainstream in your personal practice and you have the
+    shipped systems to prove it.
+  - You prototype in hours, not days. You can go from "I have an
+    idea for how to automate X" to a working POC before end of
+    day. You refine ruthlessly after.
+  - You context-switch across backend, mobile tooling, and AI/ML
+    systems without losing depth. You don't need to be an
+    Android expert, but you need to be dangerous enough to
+    architect the test harness and evaluate the output.
+  - You communicate technical progress in business terms. You
+    know that "we reduced median PR review time by 47%" lands
+    better with a CTO than "we fine-tuned our prompt chain."
+    You build dashboards, not just systems.
+  - You're an evangelist, not a gatekeeper. You get energy from
+    showing other engineers how to work with AI. You don't
+    hoard knowledge - you build systems that make the whole
+    org better.
+  - You have a healthy skepticism forged by real experience.
+    You've seen AI fail in production. You've dealt with
+    hallucinated code, flaky agent workflows, and false-
+    positive reviews. That experience makes your guardrails
+    better, not your enthusiasm less.
+  
+  What You Won't Be Doing
+  
+  - Building product features for restaurants (that's the rest
+    of the org)
+  - Pure ML/AI research without production deployment
+  - Maintaining legacy systems or writing JIRA tickets all day
+  - People management - you're a pure IC on a small, senior,
+    fast-moving squad. You write more code than anyone on the
+    team.
+  
+  Tech Environment
+  
+  - Languages: Kotlin (Android), Go, TypeScript, Python
+  - Mobile: Android-native POS applications on dedicated
+    hardware
+  - Infrastructure: AWS, GitHub, CI/CD (GitHub Actions)
+  - AI Stack: You'll have significant influence on tool
+    selection - bring your opinions
+  - Team tooling: Jira, Slack, Figma, standard SpotOn eng stack
+  
+  Why Join Us?
+  
+  At SpotOn, you’ll be part of a team that values diversity,
+  creativity, and a shared mission to help small businesses
+  succeed. Join us to build technology that makes a
+  difference, work with talented peers, and contribute to a
+  culture where your ideas and impact matter.
+  
+  Compensation:
+  
+  - Our base pay range is $210,000 -$290,000+ for this role
+  - Please note the salary range listed is just one component of
+    a competitive compensation package which includes a
+    company stock plan
+  - Offers will be reflective of the candidate’s location and
+    experience.
+  
+  Benefits:
+  
+  At SpotOn, we put people above everything else. We’re known
+  for our innovative software and technology solutions, but we
+  stand out because of the hard-working humans behind the
+  tech. We can’t take care of our clients without taking care
+  of our employees first, and that’s why we invest in you with
+  a competitive benefits package which includes:
+  
+  - Medical, Dental and Vision Insurance
+  - 401k with company match
+  - RSUs
+  - Paid vacation, 10 company holidays, sick time, and volunteer
+    time off
+  - Employee Resource Groups to build community and inclusion at
+    work
+  - Monthly cell phone and internet stipend
+  - Tuition reimbursement for up to $2,000 per calendar year to
+    assist with your professional development
+  
+  We will never ask candidates to pay fees, purchase
+  equipment, or share sensitive personal or financial
+  information during the hiring process. All legitimate
+  communication from our recruiting team will come from an
+  official company email address (@spoton.com). If something
+  seems suspicious, please contact us at careers@spoton.com.
+  
+  SpotOn is an equal employment opportunity employer.
+  Qualified candidates are considered for employment without
+  regard to race, religion, gender, gender identity, sexual
+  orientation, national origin, age, military or veteran
+  status, disability, or any other characteristic protected by
+  applicable law.
+  
+  SpotOn is an E-Verify company.
+industries:
+  - eCommerce
+  - Fintech
+  - Payments
+  - Software
+posted_date: 2026-04-07
+url: "https://www.builtinla.com/job/staff-ai-engineer/8977781"
+source: Built In

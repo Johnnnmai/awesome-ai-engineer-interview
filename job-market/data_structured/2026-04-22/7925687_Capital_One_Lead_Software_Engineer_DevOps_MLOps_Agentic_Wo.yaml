@@ -1,0 +1,55 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: Financial services and banking technology
+position:
+  title: Lead Software Engineer, DevOps / MLOps (Agentic Workflows, AI/ML Guardrails,
+    Kubernetes, Python, AWS)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a DevOps/MLOps engineering role focused on
+      infrastructure, deployment, and cloud operations. While the
+      title mentions "Agentic Workflows" and "AI/ML Guardrails,"
+      the actual responsibilities center on DevOps
+      practices—container orchestration, CI/CD, cloud
+      infrastructure—not building, training, or fine-tuning AI
+      models. The role supports AI/ML teams by providing the
+      operational foundation, making it ai-support.
+  responsibilities:
+  - Lead a portfolio of diverse technology projects and a team of developers with
+    deep experience in ML, distributed microservices, and full stack systems
+  - Build and maintain DevOps/MLOps infrastructure supporting agentic workflows and
+    AI/ML guardrails
+  - Collaborate with digital product managers to deliver robust cloud-based solutions
+    for financial empowerment
+  - Utilize programming languages (Java, Python, SQL, Ruby, Go) and container orchestration
+    services (Docker, Kubernetes) for deployment
+  - Implement and manage infrastructure as code using Ansible, Terraform, and AWS
+    services
+  - Stay current with emerging technologies, experiment with new tools, and mentor
+    engineering community members
+  - Support machine learning operations including deployment of clustered web services
+    and distributed database systems
+  use_cases:
+  - Cloud-based infrastructure for AI/ML model deployment and serving
+  - Container orchestration and management for agentic workflows
+  - AI/ML guardrails implementation for regulatory compliance
+  - Distributed microservices supporting financial services platform
+  - Real-time intelligent solutions for 100M+ customers
+  skills:
+    genai: [Agentic Workflows, AI/ML Guardrails]
+    ml: []
+    web: []
+    databases: [Cassandra, ElasticSearch]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, Docker, Jenkins, Terraform, Ansible, MLOps, Unix/Linux Administration]
+    languages: [Python, Java, SQL, Ruby, Go, Bash, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7925687'
+  extracted_at: '2026-04-22T12:31:36.069779'

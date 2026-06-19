@@ -1,0 +1,154 @@
+job_id: 8629897
+title: Platform Application Engineer (DPDK/Cloud-native/AI)
+company: Intel Corp
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - Docker
+  - Dpdk
+  - Keras
+  - Kubernetes
+  - Linux
+  - Ml
+  - PyTorch
+  - TensorFlow
+company_size: 75,000 Employees
+description: |
+  Job Details:
+  
+  Job Description: Intel is seeking a highly motivated
+  Platform Application Engineer (PAE) with deep expertise in
+  DPDK based packet processing and a strong drive to leverage
+  emerging AI driven engineering technologies. The role
+  requires an engineer with a steep learning curve, someone
+  who proactively leads the adoption of new technologies-
+  particularly AI/ML tools and workflows-and integrates them
+  effectively into existing customer solutions. The ideal
+  candidate is passionate about performance critical
+  networking software, excels in hands on problem solving, and
+  is eager to pioneer the use of modern AI capabilities to
+  enhance productivity, debugging, and next generation packet
+  processing architectures.
+  
+  Key Responsibilities • Support and guide customers in
+  developing high performance packet processing applications
+  on Intel Architecture using DPDK, Intel drivers, firmware,
+  and related software stacks. • Act as a trusted technical
+  consultant to third party developers, enabling them to port,
+  optimize, and scale their applications on Intel platforms. •
+  Develop demonstrations, benchmarks, reference designs, and
+  prototype applications on multicore communication processors
+  (Xeon, Atom). • Prepare high quality customer facing
+  documentation, including Application Notes, White Papers,
+  Device Advisories, and technical presentations. • Serve as
+  the first technical point of contact for customer software
+  integration and bring up activities. • Act as a technical
+  bridge between Intel's engineering teams and customer teams,
+  ensuring timely issue resolution and architectural
+  alignment. • Reproduce, root cause, and report issues to
+  relevant design teams; propose workarounds where feasible. •
+  Collaborate with Intel's development, marketing, program
+  management, and telecom application teams to define and
+  promote optimal customer solutions. • Deliver training,
+  debugging support, and onsite integration assistance as
+  required (some travel expected). • Support the transition of
+  bare metal packet processing applications to cloud native
+  architectures
+  
+  Qualifications:Qualifications • B.E. / B.Tech. / M.E. /
+  M.Tech. / M.C.A. / MS (Computer Science, Networking,
+  Electrical, Electronics and Communication, or related
+  fields). • Experience: 5 to 10 years.
+  ________________________________________ Skills and
+  Expertise Required Communication and Core Engineering Skills
+  • Strong oral and written communication skills. • Strong
+  development, debugging, and problem solving abilities.
+  Networking and Protocols • Knowledge of Datacom protocols: o
+  Ethernet o IPv4 / IPv6 o TCP / UDP o Application layer
+  protocols • Understanding of Switching and Routing.
+  Programming and Platform Expertise • Strong programming
+  experience with C on Linux. • Experience with DPDK and
+  virtualization on Intel x86 platforms. • Experience in data
+  plane packet processing on Network Processors, Multicore
+  SoCs, or Intel multicore platforms. • Knowledge of
+  microprocessor architecture. • High level understanding of
+  Telecom Networks (3G, LTE, 5G). Cloud Native Expertise Hands
+  on experience in deploying cloud native Applications using:
+  • Containerization (Docker/Container) • Orchestration
+  (Kubernetes) • Microservices architectures
+  
+  AI/ML Model Development and Deployment Fundamentals 1. High-
+  level knowledge of Neural Network Architectures (MLP, CNNs,
+  ResNets) 2. Knowledge of model evaluation metrics, including
+  accuracy, precision/recall, F1 score, latency, and
+  throughput 3. Familiarity with common deep learning
+  frameworks such as PyTorch, TensorFlow, and Keras 4.
+  Experience with model exchange and serialization formats
+  (e.g., ONNX, PyTorch .pt, TensorFlow .pb) 5. Experience
+  running AI/ML models on local or remote machines and
+  interacting with them via APIs.
+  
+  AI and ML Tools • Hands on experience using AI assisted
+  developer tools, including: o GitHub Copilot o Microsoft
+  Copilot o ChatGPT o Claude For tasks such as information
+  retrieval, debugging, and code generation.
+  
+  
+  
+  Job Type:Experienced Hire
+  
+  Shift:Shift 1 (India)
+  
+  Primary Location: India, Bangalore
+  
+  Additional Locations:
+  
+  Business group:At the Data Center Group (DCG), we're
+  committed to delivering exceptional products and delighting
+  our customers. We offer both broad-market Xeon-based
+  solutions and custom x86-based products, ensuring tailored
+  innovation for diverse needs across general-purpose compute,
+  web services, HPC, and AI-accelerated systems. Our charter
+  encompasses defining business strategy and roadmaps, product
+  management, developing ecosystems and business
+  opportunities, delivering strong financial performance, and
+  reinvigorating x86 leadership. Join us as we transform the
+  data center segment through workload driven leadership
+  products and close collaboration with our partners.
+  
+  Posting Statement:All qualified applicants will receive
+  consideration for employment without regard to race, color,
+  religion, religious creed, sex, national origin, ancestry,
+  age, physical or mental disability, medical condition,
+  genetic information, military and veteran status, marital
+  status, pregnancy, gender, gender expression, gender
+  identity, sexual orientation, or any other characteristic
+  protected by local law, regulation, or ordinance.Position of
+  TrustN/A
+  
+  Work Model for this Role
+  
+  This role will require an on-site presence. * Job posting
+  details (such as work model, location or time type) are
+  subject to change.
+  
+  *
+  
+  ADDITIONAL INFORMATION: Intel is committed to Responsible
+  Business Alliance (RBA) compliance and ethical hiring
+  practices. We do not charge any fees during our hiring
+  process. Candidates should never be required to pay
+  recruitment fees, medical examination fees, or any other
+  charges as a condition of employment. If you are asked to
+  pay any fees during our hiring process, please report this
+  immediately to your recruiter.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Information Technology
+  - Software
+posted_date: 2026-03-12
+url: "https://builtin.com/job/platform-application-engineer-dpdk-cloud-native-ai/8629897"
+source: Built In

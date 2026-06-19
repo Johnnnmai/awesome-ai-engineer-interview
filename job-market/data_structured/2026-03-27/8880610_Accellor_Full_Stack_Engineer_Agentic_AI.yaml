@@ -1,0 +1,52 @@
+company:
+  name: Accellor
+  stage: null
+  focus: |-
+    AI and digital engineering partner for enterprise cloud,
+    data, and AI solutions
+position:
+  title: Full Stack Engineer (Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience building production-
+      grade Agentic AI and multi-agent systems using frameworks
+      like LangChain, LangGraph, and AutoGen. The engineer will
+      directly design and develop multi-agent AI systems and AI-
+      native applications, which is core work ON AI systems.
+  responsibilities:
+  - Design and build full-stack applications using modern frontend and backend frameworks
+  - Design and develop multi-agent AI systems using frameworks such as LangChain,
+    LangGraph, AutoGen, or MAF
+  - Build AI-native applications combining agentic workflows, traditional ML, and
+    rules-based systems
+  - Develop scalable frontend applications using React, Next.js, and micro-frontend
+    SPA architectures
+  - Build backend services using Node.js, Java (Spring Boot/Kotlin), GraphQL, tRPC,
+    and REST APIs
+  - Design Backend-for-Frontend (BFF) layers optimized for AI-powered user experiences
+  - Drive best practices for code quality, performance, security, and scalability
+  - Mentor engineers and contribute to technical roadmap planning
+  use_cases:
+  - Multi-agent AI systems for enterprise applications
+  - AI-native applications for Financial Services, Retail, High Tech, and Healthcare
+    industries
+  - Agentic workflows combining AI with traditional ML and rules-based systems
+  - Scalable outcome-driven solutions for enterprise clients
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, MAF, multi-agent systems, agentic workflows]
+    ml: [traditional ML]
+    web: [React, Next.js, GraphQL, tRPC, REST APIs, Spring Boot, micro-frontend architectures,
+      BFF design patterns, API gateway configurations]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Node.js, Java, Kotlin, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8880610'
+  extracted_at: '2026-03-27T14:55:23.403117'

@@ -1,0 +1,55 @@
+company:
+  name: SmithRx
+  stage: Venture-backed (growth stage)
+  focus: Next-generation pharmacy benefit management (PBM) platform
+position:
+  title: Senior Staff Software Engineer, AI, Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role explicitly involves building "safety rails" around
+      LLMs, creating deterministic software systems that manage
+      and validate AI model outputs, and working with agentic
+      frameworks, MCP, LLM APIs, and prompt engineering. While
+      it's not a traditional MLE role, the engineer directly
+      builds production systems that leverage and wrap LLM
+      capabilities, making it ai-first.
+  responsibilities:
+  - Architect and develop AI-native product features using Golang, JavaScript/TypeScript,
+    Node, GraphQL, and SQL with full CI/CD
+  - Build deterministic safety rails around LLMs to ensure accuracy in healthcare
+    data processing and financial transactions
+  - Collaborate with stakeholders and technical leads to translate requirements into
+    scalable AI-native software with comprehensive technical design documentation
+  - Adopt and integrate emerging AI technologies like Claude-code, Copilot, and agentic
+    frameworks into the engineering workflow
+  - Leverage AWS technologies including Lambda, Managed Kafka, and EKS for job processing
+    and batch workloads
+  - Troubleshoot production issues through triage, impact assessment, root cause analysis,
+    and mitigation planning
+  - Mentor junior engineers in backend best practices and AI-native development patterns
+    through code reviews and knowledge sharing
+  - Work with senior leadership to translate technical vision into quarterly roadmaps
+  use_cases:
+  - AI-native pharmacy benefits platform for drug acquisition and cost management
+  - Deterministic validation and safety systems around LLM outputs for healthcare
+    data accuracy
+  - Healthcare and financial transaction processing with AI-augmented reliability
+  - Automated workflows using agentic frameworks for pharmacy benefit management operations
+  skills:
+    genai: [LLM APIs (Anthropic/OpenAI), Agentic Frameworks, MCP, Prompt Engineering,
+      Evals]
+    ml: []
+    web: [GraphQL, Node.js]
+    databases: [PostgreSQL]
+    data: [Managed Kafka]
+    cloud: [AWS Lambda, AWS EKS, AWS]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Golang, JavaScript, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8955245'
+  extracted_at: '2026-04-22T13:49:04.317721'

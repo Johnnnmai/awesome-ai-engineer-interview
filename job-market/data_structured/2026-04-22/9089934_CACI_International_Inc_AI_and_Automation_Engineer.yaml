@@ -1,0 +1,52 @@
+company:
+  name: CACI International Inc
+  stage: Public
+  focus: |-
+    Defense and intelligence technology solutions for US
+    government
+position:
+  title: AI and Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and fine-
+      tuning LLM applications, RAG systems, and autonomous agentic
+      systems. The engineer works hands-on with foundation models
+      (PEFT, fine-tuning), LLM APIs, and vector databases, which
+      are core AI/ML system building activities.
+  responsibilities:
+  - Design and implement RAG systems and semantic search architectures for secure
+    environments
+  - Build production-grade LLM applications and autonomous agentic systems for complex
+    task execution
+  - Adapt and fine-tune foundation models for specialized, highly secure use cases
+  - Deploy scalable AI solutions across cloud, on-prem, and hybrid infrastructures
+  - Analyze and identify manual processes that can be automated across operations
+  - Design, develop, and implement automation solutions using scripting languages
+    and automation frameworks
+  - Develop and maintain automation tools and scripts integrating with existing systems
+  - Work with stakeholders to define automation requirements and ensure solutions
+    meet operational needs
+  use_cases:
+  - Accelerate decision-making in defense and intelligence missions
+  - Optimize logistics through AI-driven automation
+  - Automate complex operational workflows for mission outcomes
+  - Semantic search and retrieval across secure multi-domain environments
+  - Domain-specific LLM applications for specialized secure use cases
+  skills:
+    genai: [RAG, LangChain, LLM application development, PEFT, LLaMA Factory, Foundation
+        model fine-tuning, Agentic systems, Commercial AI APIs]
+    ml: [CUDA, CuPy, Numba, BERT/NLP algorithms]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [Cloud deployment]
+    ops: [Ansible, Puppet, Docker, Kubernetes, CI/CD pipelines, Git]
+    languages: [Python, PowerShell]
+    domains: [NLP]
+    other: [ServiceNow, BMC Helix]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9089934'
+  extracted_at: '2026-04-22T12:45:08.042159'

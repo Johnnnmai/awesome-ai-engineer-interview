@@ -1,0 +1,60 @@
+company:
+  name: Wolters Kluwer
+  stage: Public
+  focus: |-
+    Global information services and solutions for professional
+    sectors
+position:
+  title: Enterprise Cloud Software Engineer (Cloud Operations, AI Engineering, Azure/AWS)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily a Cloud Operations/DevOps engineering
+      position that uses AI as an augmentation layer for CloudOps
+      workflows. The core work involves building cloud automation,
+      IaC, CI/CD pipelines, and container platforms. AI
+      integration is limited to consuming API-driven AI services
+      for alert enrichment and operational insights—there's no
+      model building, training, or fine-tuning involved. The
+      engineer works NEAR AI but not ON AI.
+  responsibilities:
+  - Design, develop, and maintain cloud automation solutions using Python, PowerShell,
+    Bash, and JavaScript to automate IT and CloudOps tasks
+  - Build reusable automation frameworks, libraries, and services using cloud SDKs,
+    APIs, and serverless technologies
+  - Lead Infrastructure-as-Code efforts using Terraform, CloudFormation, ARM/Bicep,
+    and Ansible aligned with enterprise standards
+  - Develop and maintain CI/CD pipelines for infrastructure and automation using Azure
+    DevOps, GitHub Actions, Jenkins, or GitLab CI
+  - Design and automate solutions across AWS and Azure supporting IaaS, PaaS, containerized,
+    and serverless workloads
+  - Integrate AI-driven automation into CloudOps workflows for alert enrichment, operational
+    insights, and basic remediation
+  - Develop and support automation for container platforms such as Docker, Kubernetes,
+    AKS, and EKS
+  - Work within Agile/Scrum teams and partner with Architecture, Security, Platform,
+    and Operations teams
+  use_cases:
+  - Cloud operations automation replacing manual IT workflows
+  - AI-augmented alert enrichment and operational insights for CloudOps
+  - Infrastructure provisioning, scaling, patching, and disaster recovery automation
+  - Cloud governance enforcement including tagging, security baselines, and cost optimization
+  - Multi-cloud and hybrid environment management across AWS and Azure
+  skills:
+    genai: [API-driven AI services]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS Lambda, Azure Functions, AWS, Azure, AKS, EKS, Cloud SDKs, Serverless
+        technologies]
+    ops: [Terraform, CloudFormation, ARM/Bicep, Ansible, Azure DevOps, GitHub Actions,
+      Jenkins, GitLab CI, Docker, Kubernetes, CI/CD, Infrastructure as Code]
+    languages: [Python, PowerShell, Bash, JavaScript]
+    domains: []
+    other: [SOLID principles, Agile/Scrum]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8718755'
+  extracted_at: '2026-04-22T13:35:52.388706'

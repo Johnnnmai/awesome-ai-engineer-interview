@@ -1,0 +1,52 @@
+company:
+  name: Databricks
+  stage: Public
+  focus: |-
+    Data and AI platform providing unified data, analytics and
+    AI solutions
+position:
+  title: AI Engineer - FDE (Forward Deployed Engineer)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a forward deployed engineering role that involves
+      directly building, deploying, and productionizing GenAI
+      applications including RAG, multi-agent systems, fine-
+      tuning, and evaluation. FDEs who deploy AI solutions to
+      customers are classified as ai-first since they work hands-
+      on with models and agents, not just supporting
+      infrastructure.
+  responsibilities:
+  - Develop cutting-edge GenAI solutions incorporating techniques from Mosaic AI Research
+    to solve customer problems
+  - Own production rollouts of consumer and internally facing GenAI applications
+  - Serve as a trusted technical advisor to customers across a variety of domains
+  - Present at conferences and establish thought leadership internally and externally
+  - Collaborate cross-functionally with product and engineering teams to influence
+    priorities and shape product roadmap
+  - Deliver professional services engagements to help customers build and productionize
+    AI applications
+  use_cases:
+  - RAG (Retrieval-Augmented Generation) systems
+  - Multi-agent AI systems
+  - Text2SQL applications
+  - Fine-tuning custom models
+  - Production-grade GenAI application deployment and evaluation
+  - Customer-facing AI professional services
+  skills:
+    genai: [LangChain, DSPy, RAG, Multi-agent systems, Fine-tuning, Text2SQL, GenAI
+        evaluation and optimization]
+    ml: [HuggingFace, PyTorch, scikit-learn]
+    web: []
+    databases: []
+    data: [pandas, Apache Spark, Delta Lake]
+    cloud: [AWS, Azure, GCP, Databricks Intelligence Platform]
+    ops: [LLMOps, MLflow]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8618937'
+  extracted_at: '2026-03-27T14:25:55.980021'

@@ -1,0 +1,55 @@
+company:
+  name: Swap Commerce
+  stage: Startup (high-growth)
+  focus: AI-native commerce infrastructure platform for global brands
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and owning the architecture
+      of multi-agent AI systems for e-commerce commerce. The
+      engineer will design agent orchestration, build production-
+      grade agent runtimes, and implement conversational AI
+      platforms — all hands-on work creating and deploying AI
+      agent systems.
+  responsibilities:
+  - Own and evolve the agent platform architecture including distributed systems for
+    multi-agent orchestration using JavaScript AI frameworks, serverless compute,
+    and advanced state management
+  - Build production-grade agent runtimes, orchestration layers, workflow engines,
+    and tool integrations supporting high concurrency and real-time interaction
+  - Implement comprehensive tracing, monitoring, structured logging, and conversation
+    quality evaluation with interactive dashboards for stakeholders
+  - Develop multi-agent harnesses, cloud endpoints, and real-time communication systems
+    for agent workflows
+  - Drive platform reliability through advanced caching strategies, high-availability
+    patterns, CI/CD pipelines, and infrastructure-as-code
+  - Set engineering standards for the agent platform, conduct architectural reviews,
+    mentor engineers, and partner cross-functionally with product and design teams
+  use_cases:
+  - Conversational AI agents for e-commerce customer interactions
+  - Autonomous agents handling cross-border commerce, tax, and returns operations
+  - Intelligent agentic storefront experiences for merchants
+  - Demand planning and margin-protecting decision automation
+  - Real-time multi-agent orchestration for high-volume commerce workloads
+  skills:
+    genai: [LangChain / AI Agent Frameworks (JS-based), Multi-agent orchestration,
+      Conversational AI design, Agent state management & memory systems, Tool usage
+        patterns for agents]
+    ml: []
+    web: [NestJS, REST / Cloud endpoints, React / Modern frontend frameworks, Real-time
+        web interfaces (WebSockets)]
+    databases: [Vector databases]
+    data: []
+    cloud: [Serverless computing, Cloud AI services]
+    ops: [Docker / Kubernetes, CI/CD pipelines, Infrastructure-as-code (Terraform),
+      'Observability & APM (Datadog, Prometheus, etc.)', Structured logging]
+    languages: [Node.js, TypeScript, Python]
+    domains: []
+    other: [Distributed systems design, Event-driven architecture]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8979193'
+  extracted_at: '2026-04-22T12:37:30.031606'

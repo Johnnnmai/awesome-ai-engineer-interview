@@ -1,0 +1,59 @@
+company:
+  name: Johnson Controls
+  stage: Public
+  focus: |-
+    Building technology and solutions for building management,
+    HVAC, and security systems
+position:
+  title: Senior PIM & AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building AI agent-driven
+      workflows, implementing RAG pipelines, developing LLM-based
+      content generation systems, and operationalizing AI/ML
+      tools. The engineer is hands-on with configuring AI
+      features, prompt engineering, and integrating AI agents —
+      not merely supporting infrastructure for others' AI work.
+  responsibilities:
+  - Enable, configure, and optimize Inriver Inspire AI features for content generation,
+    localization, translation, and enrichment
+  - Design and implement AI agent-driven workflows for content validation, attribute
+    completeness checks, enrichment routing, and metadata generation
+  - Build automations for intake-to-PIM data transformations including data loader
+    sheets, mapping templates, and cleansing rules
+  - Engineer bulk data onboarding processes including imports, ETL transformations,
+    AI-assisted cleanup, and quality checks
+  - Integrate PIM with AI services, translation services, and downstream systems via
+    REST APIs, event-based patterns, and workflow orchestration
+  - Evaluate, prototype, and operationalize AI/ML tools and agent frameworks to improve
+    productivity across product content operations
+  - Establish best practices for prompt engineering, tool calling, model selection,
+    evaluation metrics, and human-in-the-loop review
+  - Drive data governance standards and promote agent safety/guardrails and evaluation
+    harnesses in an Agile environment
+  use_cases:
+  - Automated product content generation and enrichment using LLMs
+  - AI-driven translation and localization of product information at scale
+  - Intelligent content validation and attribute completeness checking via AI agents
+  - Automated data transformation and onboarding for product information management
+  - Content categorization, taxonomy recommendations, and metadata generation
+  - Enterprise product data quality improvement and speed-to-market acceleration
+  skills:
+    genai: [LLM workflows, RAG pipelines, AI agents, Prompt engineering, LangChain,
+      Semantic Kernel, Azure AI Orchestration, Multi-agent coordination, HITL (Human-in-the-Loop)]
+    ml: [Vector embeddings, Embeddings tuning]
+    web: [REST APIs]
+    databases: [MS SQL Server, Vector index design]
+    data: [ETL transformations]
+    cloud: [Azure OpenAI, Azure Translator]
+    ops: [Docker, Azure DevOps, CI/CD]
+    languages: [C#, .NET, SQL]
+    domains: []
+    other: [Inriver PIM / Inspire AI, Event-based integration / Pub-Sub, OOP/SOLID
+        principles]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9078567'
+  extracted_at: '2026-04-22T13:19:44.568346'

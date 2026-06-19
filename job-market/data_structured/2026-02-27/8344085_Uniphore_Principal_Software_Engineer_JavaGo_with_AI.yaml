@@ -1,0 +1,57 @@
+company:
+  name: Uniphore
+  stage: null
+  focus: |-
+    B2B AI-native company building multimodal enterprise AI
+    platform combining Generative AI, Knowledge AI, and Emotion
+    AI
+position:
+  title: Principal Software Engineer (Java/Go with AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience architecting and
+      integrating LLM-powered systems including RAG pipelines,
+      vector search, and multi-agent systems using frameworks like
+      LangChain and LangGraph. The position involves building AI-
+      native enterprise platforms, not just supporting
+      infrastructure for AI work.
+  responsibilities:
+  - Own and evolve the architecture of large-scale, distributed, enterprise-grade
+    SaaS platforms
+  - Drive technical vision, design principles, and architectural standards across
+    teams
+  - Lead the design and implementation of complex, high-impact systems and services
+  - Partner with product, platform, and engineering leadership to align technical
+    solutions with business objectives
+  - Review and approve critical technical designs with guidance on trade-offs, scalability,
+    performance, and reliability
+  - Remain hands-on by contributing to core components, prototypes, and high-risk
+    or high-complexity areas
+  - Establish and enforce best practices for code quality, testing, security, and
+    operational excellence
+  - Mentor and guide senior and staff engineers, raising the overall technical bar
+    of the organization
+  use_cases:
+  - Enterprise customer experience automation
+  - Multimodal AI platform (voice, video, text analysis)
+  - Conversational AI and co-pilot systems
+  - Customer service and support automation
+  - Enterprise workflow automation
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, RAG pipelines, Multi-agent systems, LoRA,
+      QLoRA, LLM fine-tuning, LLM observability, Prompt guardrails]
+    ml: []
+    web: [REST, gRPC, WebSockets, MCP]
+    databases: [Postgres, MongoDB, Vector databases, Redis, ClickHouse]
+    data: [Kafka]
+    cloud: [Cloud-native deployments]
+    ops: [MLOps, LLMOps, Microservices architecture, Distributed systems]
+    languages: [Java, Python, Go, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8344085'
+  extracted_at: '2026-03-03T12:12:52.418449'

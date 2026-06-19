@@ -1,0 +1,56 @@
+company:
+  name: Airtable
+  stage: Series F
+  focus: No-code app platform for business process automation
+position:
+  title: AI Analytics Engineer (AI & Analytics Platform)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and orchestrating AI agent
+      systems, designing prompt pipelines, tool orchestration, and
+      query routing logic. The engineer will work directly on AI-
+      powered analytics tools including natural-language-to-SQL
+      capabilities, building the systems that make AI tools
+      accurate and trustworthy. This is hands-on work implementing
+      and optimizing AI/LLM systems, not just enabling
+      infrastructure for others.
+  responsibilities:
+  - Build and maintain context infrastructure including business glossaries, DBT model
+    enrichment, and semantic layer definitions for AI tools
+  - Design and run evaluation frameworks with test cases, accuracy benchmarks, and
+    validation workflows for AI-generated insights
+  - Build and orchestrate AI agent systems including prompt pipelines, tool orchestration,
+    query routing logic, and guardrails
+  - Experiment with and evaluate prompt configurations, agent behaviors, and model
+    outputs using accuracy metrics
+  - Develop internal AI tooling and automations to improve DS&A team efficiency
+  - Build automated insight generation systems that proactively surface patterns and
+    anomalies in business data
+  - Drive cross-functional adoption of AI-powered analytics tools across GTM, Product,
+    Finance, and other teams
+  - Monitor query logs and user behavior to identify gaps in context coverage and
+    opportunities to expand self-service capabilities
+  use_cases:
+  - Natural-language-to-SQL query generation
+  - Self-service business analytics and data exploration
+  - Automated insight generation and anomaly detection in business data
+  - AI-powered analytics tools for organizational decision-making
+  - Context-aware data question answering systems
+  skills:
+    genai: [Claude API, ChatGPT/OpenAI API, Prompt engineering, Agent architectures,
+      LLM APIs, RAG, Context engineering]
+    ml: []
+    web: []
+    databases: [Snowflake, Omni Analytics, Looker]
+    data: [dbt, Databricks]
+    cloud: []
+    ops: [Evaluation frameworks]
+    languages: [SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8817555'
+  extracted_at: '2026-03-27T16:10:57.701851'

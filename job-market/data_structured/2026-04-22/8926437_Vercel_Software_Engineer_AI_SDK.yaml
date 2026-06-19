@@ -1,0 +1,48 @@
+company:
+  name: Vercel
+  stage: Late-stage (post-Series D / pre-IPO)
+  focus: |-
+    Developer platform and cloud infrastructure for the AI-
+    native web
+position:
+  title: Software Engineer, AI SDK
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and enhancing the AI
+      SDK — a TypeScript toolkit for building AI-native products
+      and agents. The engineer is working ON the AI system itself
+      (designing, implementing, and maintaining the SDK that
+      enables AI-powered applications), which qualifies as ai-
+      first.
+  responsibilities:
+  - Design, implement, and maintain the AI SDK to ensure high performance and seamless
+    platform integration
+  - Write clean, efficient, well-documented code with comprehensive testing for SDK
+    reliability and stability
+  - Collaborate with cross-functional teams including product managers, designers,
+    and infrastructure experts
+  - Engage with the open-source community through discussions and contributions to
+    related projects
+  - Gather developer and user feedback to drive continuous improvement and innovation
+    in the AI SDK
+  use_cases:
+  - AI-native product development via a TypeScript SDK
+  - Building AI-powered agents for millions of developers
+  - Enabling AI-powered application development on Vercel's deployment platform
+  skills:
+    genai: [AI SDK, RAG, LLM Integration, Agents]
+    ml: []
+    web: [Next.js, Frontend Development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: [Open Source]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8926437'
+  extracted_at: '2026-04-22T14:09:43.264033'

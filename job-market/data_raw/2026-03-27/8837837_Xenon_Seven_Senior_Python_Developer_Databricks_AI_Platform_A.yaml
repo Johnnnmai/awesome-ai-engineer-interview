@@ -1,0 +1,109 @@
+job_id: 8837837
+title: "Senior Python Developer: Databricks AI Platform, Alerting & Monitoring"
+company: Xenon Seven
+location: Hyderabad, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Api Gateway
+  - Aws Lambda
+  - Cloudwatch
+  - Databricks
+  - Docker
+  - Eventbridge
+  - Mlflow
+  - Mosaic Ai
+  - Python
+  - Unity Catalog
+company_size: 11 Employees
+description: |
+  About Xenon7
+  
+  Where elite tech talent meets world-class opportunities! At
+  Xenon7, we partner with leading enterprises and innovative
+  startups on transformative projects across Data,
+  Infrastructure, and AI. We are building an exclusive
+  community of top-tier experts ready to solve real-world
+  problems and shape the future of intelligent systems.
+  
+  Role Overview
+  
+  We are seeking a Senior Python Developer who thrives at the
+  intersection of AI Platform Engineering and System
+  Observability. This is a unique "hybrid" role where you will
+  be responsible for building automated, scalable Databricks
+  environments for AI/ML workloads, while simultaneously
+  engineering a robust, Python-based AWS monitoring and
+  alerting ecosystem.
+  
+  You aren't just building the engine; you are designing the
+  high-tech dashboard and fail-safes that ensure it runs
+  perfectly at scale.
+  
+  Key Responsibilities1. Databricks Automation & AI
+  Integration
+  
+  - Workload Automation: Build Python-based workflows for MLOps,
+    LLMOps, and application deployment within Databricks.
+  - Workspace Governance: Enhance workspace onboarding including
+    Unity Catalog, permissions, and environment setup using
+    reusable Python modules.
+  - AI Deployment: Integrate Mosaic AI components (Gateway,
+    Model Serving, Agents) into platform automation.
+  - Architecture: Support Delta Lake (Bronze/Silver/Gold)
+    architecture and MLflow model lifecycles.
+  
+  2. Python-Driven Alerting & Monitoring
+  
+  - Observability Frameworks: Implement automated health checks
+    for AWS resources and Databricks applications.
+  - Event-Driven Alerting: Develop and configure alerting
+    mechanisms using AWS CloudWatch, SNS, and EventBridge.
+  - Consistency & Compliance: Build Python automations to
+    validate configuration consistency across multiple AWS
+    accounts and detect anomalies or misconfigurations.
+  - Workflow Integration: Create automated service request
+    workflows that bridge alerting with ticketing systems
+    (Slack, Jira, etc.).
+  
+  RequirementsRequired Technical Expertise
+  
+  - Python Mastery (6+ Years): Deep understanding of Python
+    internals, including GIL behavior, multiprocessing vs.
+    multithreading, and memory overhead trade-offs.
+  - Databricks Ecosystem: Hands-on experience with Unity
+    Catalog, MLflow, and Mosaic AI.
+  - AWS Automation: Strong proficiency in AWS Lambda, API
+    Gateway, CloudWatch, and EventBridge.
+  - Reliability Engineering: Experience with Docker image
+    immutability, automated rollback strategies, and
+    production stability patterns.
+  - Authentication: Experience with Service Principal-based
+    authentication for secure Databricks/AWS bridging.
+  
+  Ideal Candidate Profile
+  
+  - 6+ years of professional Python development and cloud
+    automation experience.
+  - A dual mindset: You love building new AI capabilities but
+    are equally obsessed with proactive monitoring and 99.9%
+    uptime.
+  - Ability to work independently in a remote, global
+    environment.
+  - Immediate availability is highly preferred.
+  
+  Benefits
+  
+  - Ecosystem of Opportunity: Be part of a network where client
+    engagements, thought leadership, and mentorship paths are
+    interconnected.
+  - Outcome-Focused Culture: We value smart execution, autonomy,
+    and ownership over "hours at a desk."
+  - Leading Edge: Contribute to projects that shape the
+    direction of AI and high-scale cloud infrastructure.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+posted_date: 2026-03-23
+url: "https://builtin.com/job/senior-python-developer-databricks-ai-platform-alerting-monitoring/8837837"
+source: Built In

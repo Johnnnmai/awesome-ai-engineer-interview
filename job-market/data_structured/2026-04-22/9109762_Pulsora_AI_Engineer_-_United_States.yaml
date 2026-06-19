@@ -1,0 +1,55 @@
+company:
+  name: Pulsora
+  stage: Well-funded startup (founded 2021)
+  focus: Enterprise sustainability and ESG compliance platform
+position:
+  title: AI Engineer - United States
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building, deploying, and fine-tuning
+      LLMs and generative AI systems. Key responsibilities include
+      designing agentic workflows with LangChain/LangGraph,
+      building RAG pipelines, fine-tuning LLMs with LoRA/QLoRA,
+      and developing production-grade LLM applications. The role
+      is hands-on with models and AI systems, not just supporting
+      infrastructure.
+  responsibilities:
+  - Design, develop, and deploy production-grade applications leveraging various LLMs
+    with context optimization
+  - Architect and implement sophisticated multi-step and multi-agent workflows using
+    LangChain and LangGraph
+  - Build and optimize RAG pipelines including embeddings, vector databases, and advanced
+    rerankers
+  - Lead LLM fine-tuning efforts using techniques like LoRA and QLoRA for domain-specific
+    tasks
+  - Develop and refine advanced prompt engineering techniques to maximize model performance
+    and safety
+  - Own end-to-end full-stack implementation from frontend to backend
+  - Use AI-powered code generation tools to create applications, generate tests, and
+    integrate them into the core product
+  - Expose AI/LLM functionality written in Python through Java services and leverage
+    multi-threading capabilities
+  use_cases:
+  - ESG and sustainability data management and compliance
+  - Enterprise sustainability footprint tracking and insight generation
+  - Domain-specific LLM applications for sustainability knowledge
+  - Agentic workflows for automating ESG reporting and analysis
+  - RAG-based systems for sustainability document search and question answering
+  skills:
+    genai: [LangChain, LangGraph, RAG, Prompt Engineering, LoRA, QLoRA, LLM Fine-Tuning,
+      OpenAI API, Anthropic API, Gemini, Llama, Ollama, Embeddings, Reranking]
+    ml: [Scikit-learn]
+    web: [React, REST APIs]
+    databases: [Vector Databases]
+    data: [Pandas, NumPy]
+    cloud: []
+    ops: []
+    languages: [Python, Java, SQL]
+    domains: []
+    other: [GitHub Copilot, Cursor, Replit, Google AI Studio, Multi-threading]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9109762'
+  extracted_at: '2026-04-22T13:28:26.786339'

@@ -1,0 +1,45 @@
+company:
+  name: Ecolab
+  stage: Public
+  focus: Water, hygiene and infection prevention solutions
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying LLM-
+      powered systems, agent orchestration frameworks, and
+      retrieval solutions. The position is hands-on with GenAI
+      technologies including designing and implementing
+      intelligent systems, which is core AI-first work.
+  responsibilities:
+  - Design, implement, and deploy intelligent systems powered by large language models
+    (LLMs)
+  - Build agent orchestration frameworks for autonomous AI workflows
+  - Develop embedding-based retrieval solutions and RAG systems
+  - Create scalable cloud-native GenAI application architectures
+  - Integrate real-world GenAI applications into production environments
+  - Implement end-to-end AI solutions from prototype to production deployment
+  use_cases:
+  - Intelligent systems automation using LLMs
+  - Autonomous agent-based workflows
+  - Semantic search and retrieval systems
+  - Cloud-native GenAI application integration
+  - Enterprise AI solution deployment
+  skills:
+    genai: [Large Language Models (LLMs), Agent orchestration frameworks, Embedding-based
+        retrieval, RAG systems, GenAI application integration]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud-native delivery]
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8862218'
+  extracted_at: '2026-03-27T13:17:00.319181'

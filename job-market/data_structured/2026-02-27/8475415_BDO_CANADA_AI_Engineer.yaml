@@ -1,0 +1,56 @@
+company:
+  name: BDO CANADA
+  stage: Public
+  focus: |-
+    Professional services and advisory firm providing
+    accounting, tax, and consulting services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and fine-
+      tuning LLMs, implementing RAG systems, and developing
+      agentic workflows. The position requires hands-on work with
+      AI models including prompt engineering, model fine-tuning,
+      and managing production AI systems.
+  responsibilities:
+  - Design, build, and deploy production-grade AI applications using LLM orchestration
+    frameworks such as LangChain, LlamaIndex, and AutoGPT
+  - Develop and optimize prompt strategies, manage model context windows, and fine-tune
+    models for performance and cost efficiency
+  - Integrate AI capabilities into enterprise environments through RESTful APIs, microservices,
+    and cloud-native architectures
+  - Build and optimize vector databases and design data ingestion and embedding pipelines
+    for RAG solutions
+  - Monitor AI systems in production and address issues related to hallucinations,
+    latency, reliability, and token-cost optimization
+  - Collaborate with AI Architects, ML Engineers, Data Scientists, and developers
+    on firm-wide AI initiatives
+  - Support AI system documentation, lifecycle management, and governance processes
+    aligned with ISO/IEC 42001
+  - Participate in model testing and validation in accordance with NIST AI Risk Management
+    Framework
+  use_cases:
+  - Enterprise AI capabilities deployment at a professional services firm
+  - Retrieval-augmented generation (RAG) solutions for internal use
+  - Agentic AI workflows and automation
+  - LLM-based applications integrated into existing enterprise environments
+  - Internal AI platforms and firm-wide AI initiatives
+  skills:
+    genai: [LangChain, LlamaIndex, AutoGPT, LangGraph, OpenAI APIs, Anthropic, prompt
+        engineering, RAG, agentic AI]
+    ml: [Hugging Face, model fine-tuning]
+    web: [RESTful APIs, microservices]
+    databases: [Pinecone, Milvus, Weaviate, NoSQL]
+    data: []
+    cloud: [Azure AI / AI Foundry, AWS Bedrock, Google Cloud Platform]
+    ops: [Docker, Kubernetes, CI/CD, MLflow, Weights & Biases]
+    languages: [Python, Java, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8475415'
+  extracted_at: '2026-03-03T11:38:22.758116'

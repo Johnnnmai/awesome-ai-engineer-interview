@@ -1,0 +1,51 @@
+company:
+  name: Databricks
+  stage: Public
+  focus: |-
+    Data and AI infrastructure platform for enterprise data
+    intelligence
+position:
+  title: Staff Software Engineer - AI Platform (NYC)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building end-to-end generative AI
+      products, including interfaces for GenAI agents with RAG,
+      prompt design, evaluation, and monitoring AI quality and
+      safety in production. The engineer is directly working on
+      building and shipping GenAI applications and agentic
+      workflows, not just supporting infrastructure for others.
+  responsibilities:
+  - Create novel interfaces for GenAI agents that manage complex workflows with human-in-the-loop
+    transparency and inspectability
+  - Partner with product management, design, and engineering teams to build intuitive,
+    scalable, and extensible AI solutions
+  - Lead hands-on full-stack software development for dynamic, user-centric AI experiences
+  - Enable product-led growth through seamless onboarding and sharing capabilities
+  - Direct the future of intuitive agentic applications at Databricks in collaboration
+    with cross-functional teams
+  - Define and drive strategy for end-to-end AI feature development including designing,
+    building, and maintaining scalable systems
+  use_cases:
+  - GenAI agent interfaces for managing complex enterprise workflows
+  - Vertical AI applications for both technical and business users
+  - Human-in-the-loop agentic applications with inspectability and transparency
+  - AI-driven product-led growth through intuitive onboarding and sharing
+  - End-to-end generative AI products with significant UI/UX components
+  skills:
+    genai: [RAG (Retrieval-Augmented Generation), Prompt engineering, LLM evaluation
+        and monitoring, GenAI agents]
+    ml: []
+    web: [React, Angular, Vue.js, HTML/CSS]
+    databases: []
+    data: []
+    cloud: []
+    ops: [AI safety monitoring]
+    languages: [JavaScript, Node.js, Python, Java, Scala, Go, C#, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9066563'
+  extracted_at: '2026-04-22T13:28:04.503013'

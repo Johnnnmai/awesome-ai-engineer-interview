@@ -1,0 +1,59 @@
+company:
+  name: Version 1
+  stage: Established (30+ years in business, €350m revenue)
+  focus: |-
+    IT consulting and technology transformation solutions for
+    enterprise clients
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly hands-on with building, deploying, and
+      operating LLM-based systems including RAG, agentic/multi-
+      agent workflows, embeddings/vector search, and prompt
+      engineering. The engineer owns the full lifecycle from
+      prototype to production, making this clearly an ai-first
+      role focused on GenAI/Agentic AI systems.
+  responsibilities:
+  - Design and build LLM-based systems using RAG, embeddings/vector search, prompt
+    engineering, function calling, and agentic/multi-agent workflows
+  - Develop AI systems that integrate LLMs with REST APIs, enterprise systems, data
+    platforms, and workflows
+  - Own the full lifecycle of AI solutions from prototype through to production deployment
+    and operation
+  - Build, deploy, and operate AI workloads in AWS environments with focus on scalability,
+    reliability, security, and cost optimization
+  - Implement CI/CD pipelines, automated testing, versioning, and observability practices
+    for AI systems
+  - Monitor model behavior, system health, latency, and failures in production environments
+  - Collaborate with AI engineers, data scientists, platform teams, and business stakeholders
+    to deliver AI solutions
+  - Mentor junior engineers on Generative and Agentic AI best practices and contribute
+    to reusable AI platform components
+  use_cases:
+  - Enterprise-grade generative and agentic AI systems that reason, plan, use tools,
+    and make decisions
+  - RAG-based knowledge retrieval and enterprise search solutions
+  - Multi-agent workflow automation for enterprise processes
+  - Integration of LLMs with enterprise systems and data platforms
+  - Production AI system monitoring, evaluation, and continuous improvement
+  skills:
+    genai: [RAG (Retrieval Augmented Generation), Embeddings and vector search, Prompt
+        engineering, Function calling, Agentic and multi-agent workflows, LLM evaluation,
+      LLM-based systems, Copilot-style solutions]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS Bedrock, Amazon SageMaker, AWS]
+    ops: [CI/CD pipelines, Automated testing, 'Observability (logs, metrics, tracing)',
+      Monitoring and performance tuning]
+    languages: [Python]
+    domains: []
+    other: [Distributed systems, Responsible AI governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9079631'
+  extracted_at: '2026-04-22T12:54:02.045187'

@@ -1,0 +1,46 @@
+company:
+  name: Skiffra
+  stage: Early stage (founding role indicates pre-Series A or Seed)
+  focus: |-
+    Building AI-native orchestration systems for physical
+    industries like mining and natural resources
+position:
+  title: Founding Full Stack Engineer (AI-Native)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly integrating LLMs, designing tool
+      interfaces, and building across "agentic layers" - which
+      means hands-on work implementing AI agents and LLM-powered
+      systems. The engineer will be building and deploying AI-
+      native orchestration systems, not just supporting
+      infrastructure for ML teams.
+  responsibilities:
+  - Build end-to-end product features across backend, frontend, and agentic layers
+  - Integrate LLMs and design safe, pragmatic tool interfaces
+  - Prototype quickly and iterate based on live operational feedback
+  - Debug across the entire stack and remove bottlenecks
+  - Collaborate closely with product, domain experts, and early customers
+  - Influence architecture, engineering standards, and the early roadmap
+  - Help shape hiring and engineering culture from the ground up
+  use_cases:
+  - Intelligent orchestration for physical world operations
+  - Real-time decision support for mining and natural resources
+  - Translation of complex real-world environments into actionable data
+  - Adaptive workflow automation for high-stakes industrial operations
+  skills:
+    genai: [LLM APIs, Agentic workflows, Tool-use patterns]
+    ml: []
+    web: [React, Node.js, FastAPI, Next.js]
+    databases: []
+    data: [Event-driven systems]
+    cloud: []
+    ops: [Workflow engines]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8637052'
+  extracted_at: '2026-03-27T13:23:07.029216'

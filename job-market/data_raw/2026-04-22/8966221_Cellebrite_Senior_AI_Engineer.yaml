@@ -1,0 +1,110 @@
+job_id: 8966221
+title: Senior AI Engineer
+company: Cellebrite
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Amazon Eks
+  - AWS
+  - Datadog
+  - Go
+  - Kubernetes
+  - Lambda
+  - Next.Js
+  - Node.js
+  - Python
+  - React
+description: |
+  Description
+  
+  About Cellebrite:
+  
+  Cellebrite’s (Nasdaq: CLBT) mission is to enable its global
+  customers to protect and save lives by enhancing digital
+  investigations and intelligence gathering to accelerate
+  justice in communities around the world. Cellebrite’s AI-
+  powered Digital Investigation Platform enables customers to
+  lawfully access, collect, analyze and share digital evidence
+  in legally sanctioned investigations while preserving data
+  privacy. Thousands of public safety organizations,
+  intelligence agencies and businesses rely on Cellebrite’s
+  digital forensic and investigative solutions-available via
+  cloud, on-premises and hybrid deployments-to close faster
+  and safeguard communities. To learn more, visit us at www.ce
+  llebrite.com, https://investors.cellebrite.com/investors and
+  find us on social media @Cellebrite.
+  
+  ﻿What is your mission?
+  
+  We are seeking a talented and driven developer to join our
+  team and help build scalable, cloud-native solutions on AWS.
+  This role sits at the intersection of modern software
+  engineering and applied AI — leveraging AI-powered
+  development tools to enhance engineering productivity while
+  also designing and delivering AI-driven capabilities within
+  our product.
+  
+  You will be developing and maintaining a product to
+  transform complex forensic data from diverse sources into
+  meaningful investigative leads and intelligence insights.
+  This platform will analyze large-scale datasets to uncover
+  patterns, anomalies, and relationships across entities —
+  enabling users to see the bigger picture and act with
+  confidence.
+  
+  Responsibilities:
+  
+  - Design and implement features for our AWS-based AI solution,
+    including job orchestration, manifest generation, and API
+    integrations.
+  - Build and maintain AI-powered product features that extract
+    insights from complex, multi-source forensic datasets.
+  - Leverage AI-assisted development tools to accelerate
+    delivery while maintaining high standards of quality,
+    security, and performance.
+  - Ensure code quality and reliability through comprehensive
+    unit testing, performance testing, and observability
+    enhancements.
+  - Collaborate with cross-functional teams to integrate AI
+    services into broader investigation workflows and runtime
+    environments.
+  - Troubleshoot deployment issues and contribute to the
+    continuous improvement of dashboards and monitoring tools.
+  - Contribute to data modelling, algorithm exploration, and
+    proof-of-concept development.
+  
+  Requirements:
+  
+  - Strong proficiency in Python and TypeScript, with experience
+    building APIs and cloud‑native architecture.
+  - Knowledge of Node.js, Next.js, and React preferred;
+    experience with Go is a plus.
+  - Hands‑on experience with AWS services such as SageMaker and
+    Lambda.
+  - Ability to produce clear, maintainable code and contribute
+    to shared documentation and engineering standards.
+  - Working knowledge of GitHub workflows, secrets handling, and
+    secure release practices.
+  - Experience with Amazon EKS and Kubernetes‑based deployment
+    environments.
+  - Exposure to GenAI platforms, including LLM integration and
+    semantic caching techniques.
+  - Familiarity with observability platforms such as Datadog and
+    structured log aggregation.
+  
+  Cellebrite is an equal opportunity/affirmative action
+  employer. All qualified applicants will receive
+  consideration for employment without regard to sex, gender
+  identity, sexual orientation, race, colour, religion,
+  national origin, disability, protected Veteran status, age,
+  or any other characteristic protected by law.
+  
+  #LI-DT1
+industries:
+  - Software
+  - Analytics
+  - Cybersecurity
+posted_date: 2026-04-06
+url: "https://www.builtinla.com/job/senior-ai-engineer/8966221"
+source: Built In

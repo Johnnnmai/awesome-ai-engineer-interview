@@ -1,0 +1,55 @@
+company:
+  name: SimCorp
+  stage: Public (subsidiary of Deutsche Börse Group)
+  focus: |-
+    Integrated investment management solutions for financial
+    institutions
+position:
+  title: Lead Software Engineer – DevOps and AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on implementation and operation of
+      AI solutions, including deploying Azure OpenAI, building RAG
+      pipelines, and working with agentic frameworks. The position
+      requires direct technical work with AI/LLM infrastructure
+      and deployment, not just supporting infrastructure for
+      others' AI work.
+  responsibilities:
+  - Build and maintain Infrastructure, CI/CD process and monitoring for AI solutions
+    developed using C#, .Net and Azure
+  - Take proof-of-concepts to high quality, production-ready AI solutions
+  - Lead the design and development of DevOps solutions and infrastructure ensuring
+    they meet business needs and technical requirements
+  - Provide technical leadership and mentorship to engineering team, fostering a collaborative
+    and high-performance environment
+  - Troubleshoot and resolve complex technical issues, ensuring high-quality solutions
+    that are scalable, reliable, and performant
+  - Continuously assess and improve engineering processes, AI advancements, automation,
+    recommending new tools and technologies
+  - Participate in code reviews, ensuring the team follows best practices for Azure
+    infrastructure and pipelines
+  use_cases:
+  - AI-enabled financial software solutions
+  - RAG pipelines for enterprise search and retrieval
+  - Azure OpenAI deployment for investment management
+  - Agentic AI workflows using Semantic Kernel and MCP/A2A plugins
+  - AI solutions for accounting, operations, and investment management
+  skills:
+    genai: [RAG pipelines, Semantic Kernel, MCP, A2A plugins, embedding pipelines]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure OpenAI, Azure AI Foundry, Azure AI Search, Azure Key Vault, Azure
+        Policy, RBAC, Managed Identity]
+    ops: [CI/CD, Azure Bicep, Azure Monitor, App Insights, OpenTelemetry, Infrastructure
+        as Code]
+    languages: [C#, .NET, PowerShell, YAML]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8511804'
+  extracted_at: '2026-03-03T11:46:20.304836'

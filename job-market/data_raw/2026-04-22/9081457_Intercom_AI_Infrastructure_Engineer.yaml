@@ -1,0 +1,176 @@
+job_id: 9081457
+title: AI Infrastructure Engineer
+company: Intercom
+location: Berlin, DEU
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Cuda
+  - Kubernetes
+  - Python
+  - Triton
+company_size: 900 Employees
+description: |
+  Intercom is the AI Customer Service company on a mission to
+  help businesses provide incredible customer experiences.
+  
+  Our AI agent Fin, the most advanced customer service AI
+  agent on the market, lets businesses deliver always-on,
+  impeccable customer service and ultimately transform their
+  customer experiences for the better. Fin can also be
+  combined with our Helpdesk to become a complete solution
+  called the Intercom Customer Service Suite, which provides
+  AI enhanced support for the more complex or high touch
+  queries that require a human agent.
+  
+  Founded in 2011 and trusted by nearly 30,000 global
+  businesses, Intercom is setting the new standard for
+  customer service. Driven by our core values, we push
+  boundaries, build with speed and intensity, and consistently
+  deliver incredible value to our customers.
+  
+  What's the opportunity?
+  
+  We’re looking for Senior+ AI Infrastructure Engineers to
+  build the systems that train and serve Intercom’s next
+  generation of AI products.
+  
+  Intercom is an AI company that builds from the GPU all the
+  way up to a user agent that resolves millions of customer
+  service queries a month.
+  
+  You’ll join a small, highly technical team working at the
+  cutting edge of modern AI infrastructure. The AI Infra team
+  built the training pipelines and runs the inference for
+  custom models like Fin Apex, which outperforms frontier
+  models in customer service tasks, and is the foundation of
+  the AI Group's full stack approach to AI.
+  
+  We’re particularly interested in engineers who have:
+  
+  - A track record of working on model training or model
+    inference at scale, or on low‑level GPU coding (e.g. CUDA,
+    Triton). Experience with one is great, multiple is even
+    better.
+  
+  What will I be doing?
+  
+  As a Senior AI Infrastructure Engineer focused on model
+  training and inference, you will:
+  
+  - Implement and scale training pipelines for large transformer
+    and LLM models, from data ingestion and preprocessing
+    through distributed training and evaluation.
+  - Build and optimize inference services that deliver
+    low‑latency, high‑reliability experiences for our
+    customers, including autoscaling, routing, and fallbacks.
+  - Work on GPU‑level performance: tuning kernels, improving
+    utilization, and identifying bottlenecks across our
+    training and inference stack.
+  - Collaborate closely with ML scientists to implement cutting
+    edge training and inference methods and bring them to
+    production.
+  - Play an active role in hiring, mentoring, and developing
+    other engineers on the team.
+  - Raise the bar for technical standards, reliability, and
+    operational excellence across Intercom’s AI platform.
+  
+  Profile we’re looking for:
+  
+  These are indicative, not hard requirements
+  
+  We’re looking to hire Senior+ AI Infrastructure Engineers.
+  You’re likely a great fit if:
+  
+  - You have 5+ years of experience in software engineering,
+    with a strong track record of shipping high‑quality
+    products or platforms.
+  - You hold a degree in Computer Science, Computer Engineering,
+    or a related field (or you have equivalent experience with
+    very strong fundamentals).
+  - You have hands‑on experience with one or more of the
+    following:
+  - Comfortable working in production environments at meaningful
+    scale (traffic, data, or organizational).
+  - You communicate clearly, can explain complex technical
+    topics to different audiences, and enjoy close
+    collaboration with both engineers and non‑engineers.
+  - You take pride in strong technical fundamentals, love
+    learning, and are willing to invest in your own
+    development.
+  - Have deep knowledge of at least one programming language
+    (for example Python, Ruby, Java, Go, etc.). Specific
+    language experience is less important than your ability to
+    write clean, reliable code and learn new stacks quickly.
+  
+  Bonus skills & attributes
+  
+  None of these are required, but they’re nice to have:
+  
+  - Experience at AI native companies that train and/or run
+    inference for their own models (e.g. modern AI labs or
+    AI‑native product companies).
+  - Experience running training or inference workloads on
+    Kubernetes.
+  - Experience with AWS or other major cloud providers.
+  - Production experience with Python in ML or infrastructure
+    contexts.
+  - Demonstrated passion for technology through personal
+    projects, open source, meetups, or publishing content
+    about your work and learnings
+  
+  Benefits
+  
+  We are a well treated bunch, with awesome benefits! If
+  there’s something important to you that’s not on this list,
+  talk to us!
+  
+  - Competitive salary, annual bonus and equity
+  - Regular compensation reviews - we reward great work!
+  - Unlimited access to Claude Code and best-in-class AI tools;
+    experimentation & building is encouraged & celebrated.
+  - Generous paid time off above statutory minimum
+  - Hybrid working
+  - MacBooks are our standard, but we also offer Windows for
+    certain roles when needed.
+  - Fun events for employees, friends, and family!
+  
+  #LI-Hybrid
+  
+  Policies
+  
+  Intercom has a hybrid working policy. We believe that
+  working in person helps us stay connected, collaborate
+  easier and create a great culture while still providing
+  flexibility to work from home. We expect employees to be in
+  the office at least three days per week.
+  
+  We have a radically open and accepting culture at Intercom.
+  We avoid spending time on divisive subjects to foster a safe
+  and cohesive work environment for everyone. As an
+  organization, our policy is to not advocate on behalf of the
+  company or our employees on any social or political topics
+  out of our internal or external communications. We respect
+  personal opinion and expression on these topics on personal
+  social platforms on personal time, and do not challenge or
+  confront anyone for their views on non-work related topics.
+  Our goal is to focus on doing incredible work to achieve our
+  goals and unite the company through our core values.
+  
+  Intercom values diversity and is committed to a policy of
+  Equal Employment Opportunity. Intercom will not discriminate
+  against an applicant or employee on the basis of race,
+  color, religion, creed, national origin, ancestry, sex,
+  gender, age, physical or mental disability, veteran or
+  military status, genetic information, sexual orientation,
+  gender identity, gender expression, marital status, or any
+  other legally recognized protected basis under federal,
+  state, or local law.
+industries:
+  - Cloud
+  - Information Technology
+  - Software
+posted_date: 2026-04-17
+url: "https://builtin.com/job/ai-infrastructure-engineer/9081457"
+source: Built In

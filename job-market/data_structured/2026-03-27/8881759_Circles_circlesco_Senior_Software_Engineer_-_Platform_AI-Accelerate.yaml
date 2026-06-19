@@ -1,0 +1,46 @@
+company:
+  name: Circles (circles.co)
+  stage: Series B+
+  focus: Telco SaaS platform and travel eSIM services
+position:
+  title: Senior Software Engineer - Platform (AI-Accelerated) - Jetpac
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is for building general platform/backend systems
+      that power a consumer experience (eSIM travel product).
+      While the job requires experience with AI-assisted
+      development workflows (using AI tools for coding), the
+      engineer is NOT building, training, fine-tuning, or
+      deploying AI/ML models. The AI usage is for developer
+      productivity, not for building AI products.
+  responsibilities:
+  - Build and scale core consumer platform systems across web and backend
+  - 'Own features end-to-end: design, build, deploy, and iterate'
+  - Use AI-assisted workflows across coding, testing, debugging, and review
+  - Structure workflows where AI can reliably generate and improve code
+  - Identify and solve bottlenecks in performance, reliability, and developer productivity
+  - Build shared components and internal tooling to improve team velocity
+  - Improve observability, debugging, and system reliability
+  use_cases:
+  - eSIM provisioning and management for global travelers
+  - Cart and checkout system for multi-product purchases
+  - Rewards, pricing, and promotions platform
+  - Global connectivity across 200+ destinations
+  - Travel lifestyle products and services
+  skills:
+    genai: []
+    ml: []
+    web: [API design]
+    databases: [Postgres, Redis]
+    data: [Event pipelines, Analytics systems]
+    cloud: [AWS]
+    ops: [Observability and monitoring]
+    languages: [Python, Go]
+    domains: []
+    other: [AI-assisted development workflows, Caching]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8881759'
+  extracted_at: '2026-03-27T14:17:09.124129'

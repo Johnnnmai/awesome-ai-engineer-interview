@@ -1,0 +1,50 @@
+company:
+  name: Ecolab
+  stage: Public
+  focus: |-
+    Water, hygiene, and infection prevention solutions and
+    services
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on defining architecture and
+      governance for GenAI solutions, designing intelligent
+      systems leveraging LLMs, agentic workflows, and vector-based
+      retrieval strategies. The principal engineer is hands-on
+      with AI system design and deployment at scale, making this
+      clearly an ai-first role.
+  responsibilities:
+  - Define the architectural vision and governance standards for GenAI solutions at
+    scale
+  - Lead the design of intelligent systems leveraging LLMs and agentic workflows
+  - Design and implement vector-based retrieval strategies for AI solutions
+  - Ensure alignment of AI systems with enterprise-level security, performance, and
+    reusability goals
+  - Provide cross-functional leadership bridging deep technical expertise with business
+    objectives
+  - Establish best practices and standards for GenAI solution development across the
+    enterprise
+  use_cases:
+  - Enterprise-scale GenAI solution deployment
+  - Intelligent document retrieval and search via vector-based strategies
+  - Agentic workflow automation for enterprise processes
+  - LLM-powered enterprise applications with security and governance compliance
+  skills:
+    genai: [LLM architecture and deployment, Agentic workflows, Vector-based retrieval
+        (RAG), LangChain, Prompt engineering]
+    ml: []
+    web: []
+    databases: ['Vector databases (Pinecone, Weaviate, pgvector)']
+    data: []
+    cloud: [Cloud platforms (AWS/Azure/GCP)]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Enterprise security and governance, System architecture design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8862227'
+  extracted_at: '2026-04-22T13:28:20.147215'

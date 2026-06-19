@@ -1,0 +1,50 @@
+company:
+  name: MetLife
+  stage: Public
+  focus: Global financial services and insurance company
+position:
+  title: Senior Full Stack Software & Data/AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires 3+ years of hands-on experience with
+      AI/ML technologies including LangChain, Hugging Face,
+      LLM/RAG integration, and prompt engineering. The candidate
+      will build and implement AI systems directly, not just
+      support infrastructure for AI work.
+  responsibilities:
+  - Partner with product owners to plan, prioritize, and deliver high-impact business
+    outcomes
+  - Lead the design, development, and testing of custom software components and data
+    processing pipelines
+  - Create and maintain architectural documentation for software systems
+  - Oversee operational support activities and conduct root-cause analysis for complex
+    systems and workflows
+  - Champion and promote best practices across AI/ML, DevOps, Agile methodologies,
+    and Cloud technologies
+  - Guide teams through architectural decisions, platform modernization, and agile
+    delivery practices
+  - Translate strategic business objectives into actionable technical deliverables
+    including user stories and backlog management
+  use_cases:
+  - Risk management and compliance automation
+  - Internal audit systems and controls
+  - Enterprise GRC (Governance, Risk, and Compliance) processes
+  - Financial services data processing and analytics
+  - Regulatory compliance monitoring and reporting
+  skills:
+    genai: [LangChain, LLM/RAG integration, Prompt engineering]
+    ml: [Hugging Face]
+    web: [React, REST APIs]
+    databases: [SQL]
+    data: [PySpark, Pandas, NumPy, Databricks, Hadoop, Delta Tables, Airflow]
+    cloud: [Azure]
+    ops: [Azure DevOps, Terraform, CI/CD, Docker, Kubernetes, Git]
+    languages: [Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8434897'
+  extracted_at: '2026-03-03T12:34:38.941981'

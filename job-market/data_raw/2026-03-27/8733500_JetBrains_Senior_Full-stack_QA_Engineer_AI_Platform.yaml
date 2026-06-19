@@ -1,0 +1,104 @@
+job_id: 8733500
+title: Senior Full-stack QA Engineer (AI Platform)
+company: JetBrains
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Ci/Cd
+  - Docker
+  - GCP
+  - Github Actions
+  - Helm
+  - JavaScript
+  - K6
+  - Kubernetes
+  - Openapi
+company_size: 2,209 Employees
+description: |
+  At JetBrains, we’re building an AI-native platform for
+  software development that connects developer workflows,
+  team-level collaboration, and organizational control into a
+  single coherent system. This platform will serve as the
+  execution and governance layer for AI-driven development,
+  deeply integrated with developer tools but designed to work
+  across teams, products, and environments. This is a long-
+  term strategic investment for JetBrains and a key pillar of
+  our vision for the future of software development.
+  
+  We’re now looking for an experienced and proactive Full-
+  stack QA Engineer to join our team to help us with
+  functional and performance testing.
+  
+  Your responsibilities will include:
+  
+  - Developing and maintaining an automated testing
+    infrastructure, setting up CI/CD pipelines, selecting and
+    integrating existing tools, and designing new ones.
+  - Writing and improving automated tests, particularly for
+    APIs.
+  - Collaborating with the QA and Development teams to design
+    and execute test scenarios.
+  - Working with logs and monitoring tools (e.g. Kibana,
+    Grafana) to detect functional issues and performance
+    anomalies.
+  - Ensuring the quality of our distributed AI-powered systems
+    by validating integrations with various language models
+    and APIs.
+  
+  We would like you on our team if you:
+  
+  - Have at least three years of experience in software testing
+    (manual and automated).
+  - Possess a solid understanding of REST APIs, request/response
+    structures, status codes, and typical scenarios.
+  - Have hands-on experience with Postman or similar API testing
+    tools.
+  - Are familiar with writing automated tests for APIs using any
+    programming language or framework.
+  - Understand distributed systems and microservice
+    architectures.
+  - Have basic Docker skills (running containers, working with
+    Docker Compose).
+  - Are comfortable reading and interpreting OpenAPI/Swagger
+    specifications.
+  - Have a basic understanding of authentication and
+    authorization protocols (e.g. OAuth 2.0, API keys, and
+    JWT).
+  - Can work well both independently and within a team,
+    demonstrating strong self-management skills.
+  - Have a good command of English, both spoken and written.
+  
+  We’d be especially thrilled if you:
+  
+  - Have hands-on experience with cloud computing platforms
+    (AWS, GCP) and container orchestration tools (Kubernetes,
+    Helm).
+  - Have experience with CI/CD tools (e.g. TeamCity or GitHub
+    Actions).
+  - Have experience with performance testing tools (e.g. k6).
+  - Are familiar with TypeScript and/or JavaScript.
+  - Have worked with automated testing infrastructure and
+    processes.
+  - Enjoy digging into logs and debugging distributed systems.
+  
+  Main focus:
+  
+  - Quality assurance of new features
+  - Automation of regression testing
+  - Performance testing
+  
+  #LI-DNI
+  
+  We are an equal opportunity employer We know great ideas can
+  come from anyone, anywhere. That’s why we do our best to
+  create an open and inclusive workplace – one that welcomes
+  everyone regardless of their background, identity, religion,
+  age, accessibility needs, or orientation.
+  
+  We process the data provided in your job application in
+  accordance with the Recruitment Privacy Policy.
+posted_date: 2026-03-12
+url: "https://builtin.com/job/senior-full-stack-qa-engineer-ai-platform/8733500"
+source: Built In

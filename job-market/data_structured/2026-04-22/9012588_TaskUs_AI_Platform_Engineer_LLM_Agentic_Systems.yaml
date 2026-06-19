@@ -1,0 +1,46 @@
+company:
+  name: TaskUs
+  stage: Public
+  focus: Outsourced digital services and next-gen customer experience
+position:
+  title: AI Platform Engineer (LLM / Agentic Systems)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly responsible for building the core
+      intelligence layer of a Hybrid Agentic AI Platform,
+      including LLM integration, agent orchestration, RAG
+      pipelines, and prompt optimization. The engineer is hands-on
+      with designing and implementing AI/LLM systems, making this
+      clearly an ai-first role.
+  responsibilities:
+  - Design and build agentic workflows and orchestration systems
+  - Implement RAG pipelines including retrieval, embeddings, and context building
+  - Integrate LLMs (hosted/private) into enterprise workflows
+  - Build QA scoring, evaluation, and feedback loops
+  - Optimize prompts, latency, and response quality
+  - Ensure secure data handling with no-retention and in-memory processing
+  - Collaborate with platform and FDE teams for real-world deployments
+  use_cases:
+  - AI-driven quality assurance and QA scoring
+  - Enterprise workflow automation via agentic systems
+  - Customer experience automation and insights
+  - Context-aware decisioning for business process outsourcing
+  - Hybrid agentic AI platform for multi-tenant enterprise use
+  skills:
+    genai: [LLM integration, RAG pipelines, Agent orchestration, Prompt engineering,
+      Embeddings, LangChain, LangGraph, LLM evaluation frameworks, Guardrails]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS Bedrock, AWS Lambda, AWS S3]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Distributed systems, Multi-tenant SaaS architectures]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9012588'
+  extracted_at: '2026-04-22T14:17:59.770052'

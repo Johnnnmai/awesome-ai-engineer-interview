@@ -1,0 +1,56 @@
+company:
+  name: Jasper
+  stage: Series B+
+  focus: |-
+    AI marketing platform for enterprise content creation and
+    workflow automation
+position:
+  title: AI & IT Systems Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves deploying AI systems across the
+      organization, designing intelligent workflows with AI agents
+      (Claude, ChatGPT), and building automation infrastructure
+      for agentic AI to trigger real actions across the tech
+      stack. While it has an IT foundation, the role explicitly
+      requires hands-on AI implementation work (70-80% of time)
+      deploying AI solutions and building AI-driven automation
+      systems.
+  responsibilities:
+  - Modernize and fine-tune IT systems to securely support autonomous and agentic
+    AI workflows, building scalable automation infrastructure
+  - Operationalize AI initiatives using tools like Claude, ChatGPT, and Zapier, designing
+    intelligent cross-platform workflows
+  - Design intelligent workflows connecting platforms like Google Workspace and Slack,
+    enabling AI agents to trigger real multi-step actions
+  - Administer and optimize core IT domains including Identity Providers and Mobile
+    Device Management using tools like Okta Workflows
+  - Deploy across departments to assist with technical rollout of AI enablement projects
+  - Manage and streamline the broader SaaS ecosystem including Google Workspace, Linear,
+    and other applications
+  - Create playbooks and training resources to help teams adopt new AI tools into
+    existing workflows
+  use_cases:
+  - Automating cross-platform workflows triggered by AI agents
+  - AI-driven IT operations and infrastructure management
+  - Marketing workflow automation and enablement
+  - Enterprise SaaS integration and orchestration via AI
+  - Identity and access management automation
+  skills:
+    genai: [Claude API, ChatGPT/OpenAI API, Zapier]
+    ml: []
+    web: [Google Workspace, Slack, Linear, SaaS integration]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Okta Workflows, Okta, Rippling IT, Identity and Access Management, Mobile
+        Device Management, Workflow automation]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8736024'
+  extracted_at: '2026-03-27T14:19:58.548775'

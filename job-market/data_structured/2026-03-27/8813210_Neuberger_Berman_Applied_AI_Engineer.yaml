@@ -1,0 +1,50 @@
+company:
+  name: Neuberger Berman
+  stage: Public
+  focus: Investment management and asset management
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves integrating and maintaining LLM APIs
+      (OpenAI, Claude) and agentic AI frameworks, and building
+      backend infrastructure that powers AI-driven investment
+      research tools. While focused on infrastructure and APIs,
+      the hands-on work with LLM integrations and agentic
+      frameworks constitutes direct AI implementation work.
+  responsibilities:
+  - Design and manage automated data pipelines and workflow orchestration using Airflow
+    for investment data delivery
+  - Containerize and deploy applications using Docker and Kubernetes on AWS for scalable
+    AI infrastructure
+  - Build and maintain RESTful backend APIs using FastAPI to serve AI-powered features
+    to research teams
+  - Integrate and maintain connections to LLM APIs (OpenAI, Anthropic Claude) and
+    agentic AI frameworks
+  - Implement CI/CD pipelines and infrastructure-as-code practices for deployment
+    reliability
+  - Collaborate cross-functionally with researchers and analysts to translate requirements
+    into backend systems
+  use_cases:
+  - AI-powered investment research tools
+  - Automated investment data pipelines
+  - LLM-powered features for equity analysis
+  - Agentic AI frameworks for financial research
+  - Scalable AI infrastructure for investment solutions
+  skills:
+    genai: [OpenAI API, Anthropic Claude, Agentic AI frameworks]
+    ml: []
+    web: [FastAPI, REST APIs]
+    databases: []
+    data: [Airflow]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD, Infrastructure-as-code]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8813210'
+  extracted_at: '2026-03-27T14:47:55.958379'

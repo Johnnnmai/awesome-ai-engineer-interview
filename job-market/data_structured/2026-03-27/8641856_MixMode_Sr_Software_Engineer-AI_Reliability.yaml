@@ -1,0 +1,51 @@
+company:
+  name: MixMode
+  stage: Series B or later
+  focus: AI-powered cybersecurity and threat detection solutions
+position:
+  title: Sr. Software Engineer-AI Reliability
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on reliability, performance, and
+      operational health of production AI services
+      (platform/infrastructure work). The engineer collaborates
+      WITH ML researchers to productionize systems, but the job
+      explicitly states "deep ML expertise is not required." This
+      is enabling/support work for AI systems, not hands-on model
+      building, training, or fine-tuning.
+  responsibilities:
+  - Own the reliability, performance, and operational health of production AI services
+  - Refactor and harden existing systems to improve resilience, clarity, and maintainability
+  - Diagnose and resolve issues across distributed services, data pipelines, and storage
+    layers
+  - Design and implement monitoring, alerting, and debugging tools for high-availability
+    systems
+  - Partner with researchers and engineers to productionize predictive systems at
+    scale
+  - Establish best practices for testing, deployment, capacity planning, and incident
+    response
+  - Contribute to incident response and postmortems, driving continuous improvement
+  use_cases:
+  - Real-time threat detection for known and unknown cyber threats
+  - Self-supervised AI for cybersecurity across cloud, hybrid, and on-premises environments
+  - Network security monitoring for enterprise and critical infrastructure
+  - Defense systems for US Department of War and Intelligence Community
+  - Big data security analytics at scale
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Relational databases]
+    data: []
+    cloud: []
+    ops: [Kubernetes, Docker, Distributed systems, Monitoring and observability, Automated
+        testing, CI/CD]
+    languages: [Python, Java, Scala, Kotlin, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8641856'
+  extracted_at: '2026-03-27T15:16:13.272149'

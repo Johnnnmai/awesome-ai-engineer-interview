@@ -1,0 +1,57 @@
+company:
+  name: AVEVA
+  stage: Private (acquired by Schneider Electric)
+  focus: |-
+    Industrial software and automation for energy,
+    infrastructure, and manufacturing
+position:
+  title: Principal QA Engineer - AI & Cloud Services
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA/testing role focused on validating AI services,
+      not building or deploying them. The role tests AI pipelines
+      and evaluates outputs, but doesn't build, train, fine-tune,
+      or deploy models. This is enabling work that supports the AI
+      development team's output.
+  responsibilities:
+  - Perform functional, performance, and security testing on cloud-native services
+    deployed on Microsoft Azure
+  - Design and implement automated test suites for APIs, service components, and AI
+    pipelines
+  - Automate the evaluation of AI system outputs to ensure accuracy, consistency,
+    and safety of responses
+  - Collaborate with developers and data scientists to establish service-level quality
+    metrics and observability hooks
+  - Validate services against AI regulatory frameworks and ensure traceability, fairness,
+    and robustness in outcomes
+  - Participate in threat modelling and security validation of exposed APIs and AI
+    services
+  - Provide feedback early in the lifecycle to reduce defects and improve design
+  - Mentor junior testers, encourage continuous learning, and contribute to a culture
+    of innovation
+  use_cases:
+  - Quality assurance for enterprise AI services on AVEVA Connect platform
+  - Validation of LLM output accuracy, consistency, and safety
+  - Compliance testing against AI regulatory frameworks like NIST AI RMF and EU AI
+    Act
+  - Performance and security testing for cloud-native industrial AI APIs
+  - Bias detection and fairness validation in AI model predictions
+  skills:
+    genai: [LLM evaluation techniques, prompt engineering, RAG, model orchestration,
+      hallucination detection]
+    ml: []
+    web: [API testing]
+    databases: []
+    data: []
+    cloud: [Azure DevOps, Microsoft Azure]
+    ops: [CI/CD pipelines, containerized test environments, performance profiling,
+      security testing, OWASP top 10]
+    languages: []
+    domains: []
+    other: [automated testing frameworks, AI regulatory frameworks]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6846632'
+  extracted_at: '2026-03-03T11:58:34.624628'

@@ -1,0 +1,165 @@
+job_id: 8818249
+title: Principal AI Engineer
+company: Inari Medical
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Azure Ai Search
+  - Azure Ml
+  - Azure Openai
+  - Python
+company_size: 956 Employees
+description: |
+  Work Flexibility: Hybrid or Onsite
+  
+  Vocera, now part of Stryker, is seeking a visionary and
+  hands-on Principal Engineer – AI Test, Evaluation & Data
+  Architecture to define and lead the enterprise-wide strategy
+  for AI validation, model evaluation, and data governance
+  across our speech and GenAI platforms.
+  
+  This role serves as the AI Quality Architect for real-time
+  speech systems, NLP pipelines, and LLM-powered applications
+  deployed in mission-critical healthcare environments. You
+  will establish scalable evaluation frameworks, design AI
+  testing platforms, define data governance standards, and
+  ensure production reliability of AI systems at scale.
+  
+  This is a high-impact architectural leadership role
+  requiring deep expertise in LLM validation, RAG evaluation,
+  speech benchmarking, automation, MLOps, and AI lifecycle
+  governance.
+  
+  What You Will DoEnterprise AI Evaluation Architecture
+  
+  - Define and own the end-to-end AI evaluation architecture
+    across speech, NLP, and GenAI platforms.
+  - Establish standardized evaluation frameworks for:ASR systems
+    (WER, latency, robustness, domain adaptation),NLP systems
+    (intent accuracy, entity F1, confusion analysis),LLM
+    systems (hallucination rate, groundedness, factual
+    accuracy, consistency, safety)
+  - Define measurable AI quality SLAs and release gating
+    criteria.
+  - Architect benchmarking standards across model versions,
+    prompt changes, and retrieval updates.
+  - Institutionalize regression evaluation pipelines for all AI
+    releases.
+  
+  LLM & RAG Reliability Strategy
+  
+  - Architect validation frameworks for:RAG-based systems,Prompt
+    orchestration workflows,Multi-agent or multi-model AI
+    pipelines
+  - Define groundedness measurement strategies for enterprise
+    RAG.
+  - Establish adversarial testing, stress testing, and edge-case
+    validation frameworks.
+  - Implement hallucination detection standards and mitigation
+    measurement.
+  - Drive responsible AI practices, including bias detection and
+    safety validation.
+  
+  AI Testing Platform & Automation Architecture
+  
+  - Design and lead implementation of a scalable AI testing
+    platform that includes:Offline evaluation pipelines,Golden
+    dataset-driven regression systems,Synthetic data
+    generation frameworks,Online A/B testing & shadow
+    deployment strategies
+  - Integrate AI validation workflows into CI/CD and MLOps
+    pipelines.
+  - Define drift detection and performance degradation
+    monitoring strategies.
+  - Establish real-time observability dashboards for AI quality
+    metrics.
+  
+  AI Data Governance & Lifecycle Management
+  
+  - Define enterprise-wide data governance strategy for AI
+    systems, including:Data collection and curation
+    standards,Annotation workflows and validation,Dataset
+    versioning and reproducibility,Traceability across model
+    iterations
+  - Establish gold datasets for:Speech systems,NLP
+    pipelines,Clinical and conversational workflows
+  - Drive continuous learning loops between production telemetry
+    and training data.
+  - Ensure compliance with healthcare data privacy and
+    regulatory standards.
+  
+  Speech & Domain-Specific AI Validation
+  
+  - Define evaluation strategies for:Accent variability,Noisy
+    clinical environments,Domain-specific vocabulary
+    adaptation
+  - Establish measurable latency and reliability benchmarks for
+    real-time AI systems.
+  - Lead failure mode analysis and systemic AI quality
+    improvements.
+  
+  Technical Leadership & Organizational Influence
+  
+  - Serve as the principal authority on AI testing and
+    evaluation strategy.
+  - Influence architecture decisions alongside Principal AI
+    Architects and platform leaders.
+  - Mentor senior engineers in AI validation, benchmarking, and
+    data governance practices.
+  - Drive AI quality maturity across multiple pods and
+    engineering teams.
+  - Partner with Product and Executive stakeholders to align AI
+    quality metrics with business outcomes.
+  - Shape long-term AI reliability roadmap for the organization.
+  
+  Required Qualifications
+  
+  - Bachelor’s or Master’s degree in Computer Science,
+    Engineering, AI, or related field.
+  - 13+ years of experience in software engineering, AI
+    engineering, or AI validation roles.
+  - 5+ years of hands-on experience with LLM, RAG, NLP, or
+    speech-based AI platforms.
+  - Proven experience designing AI evaluation or testing
+    frameworks at scale.
+  - Strong expertise in:Hallucination detection,Golden dataset
+    regression strategies,Adversarial and edge-case
+    testing,Prompt validation and benchmarking
+  - Strong proficiency in Python and data analysis for AI
+    evaluation.
+  - Experience building automated AI validation pipelines
+    integrated with CI/CD.
+  - Strong system design and distributed architecture
+    understanding.
+  - Experience leading cross-team technical initiatives.
+  
+  Preferred / Strongly Desired QualificationsAI & GenAI
+  
+  - Experience in architecting evaluation frameworks for
+    production RAG systems.
+  - Familiarity with semantic search validation and retrieval
+    benchmarking.
+  - Experience designing LLM guardrails and structured output
+    validation.
+  - Knowledge of Responsible AI, fairness evaluation, and
+    compliance auditing.
+  
+  Speech & Voice Systems
+  
+  - Experience evaluating ASR/TTS systems in production
+    environments.
+  - Strong understanding of speech benchmarking metrics and
+    domain adaptation strategies.
+  
+  Cloud & Platform
+  
+  - Experience with Azure ML, Azure OpenAI, Azure AI Search.
+  - Familiarity with MLOps and model lifecycle automation.
+  - Experience designing scalable evaluation infrastructure in
+    cloud-native environments.
+  
+  Travel Percentage: 10%
+posted_date: 2026-03-20
+url: "https://builtin.com/job/principal-ai-engineer/8818249"
+source: Built In

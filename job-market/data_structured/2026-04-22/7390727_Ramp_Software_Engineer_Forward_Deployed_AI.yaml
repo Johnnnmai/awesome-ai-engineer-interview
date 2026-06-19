@@ -1,0 +1,53 @@
+company:
+  name: Ramp
+  stage: Series D+
+  focus: |-
+    Automating corporate spend management and financial
+    infrastructure
+position:
+  title: Software Engineer, Forward Deployed AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role title explicitly includes "Forward Deployed AI" and
+      requires demonstrated hands-on daily use of AI coding agents
+      as the primary development driver, plus comfort with agentic
+      workflows, orchestration layers, and AI tooling broadly. The
+      engineer builds AI-driven solutions end-to-end for Ramp's
+      largest enterprise customers, making this an ai-first role
+      focused on deploying AI-powered systems.
+  responsibilities:
+  - Design and build end-to-end solutions for Ramp's largest strategic customers,
+    from understanding pain points to shipping software
+  - Collaborate with sales and go-to-market teams to close deals, activate customers,
+    and expand Ramp's value proposition
+  - Drive core product engineering roadmap by making prioritization and scoping decisions
+    between custom solutions and broader product features
+  - Embed within core product engineering teams to develop deep expertise in relevant
+    technical areas
+  - Solve technical scaling challenges including extending data models, integrating
+    with third-party systems, and ingesting HRIS data at scale
+  - Use AI coding agents and agentic workflows as the primary development approach
+    for building and delivering solutions
+  use_cases:
+  - Enterprise spend management and financial automation for large organizations
+  - Third-party system integration with generalized data exports at scale
+  - Roles and permissions data model extension for complex enterprise hierarchies
+  - HRIS data ingestion at scale for enterprise customer onboarding
+  - Risk flagging and payment authorization for high-volume corporate transactions
+  skills:
+    genai: [AI coding agents, Agentic workflows, AI orchestration layers]
+    ml: []
+    web: [REST APIs, FastAPI, React]
+    databases: [Postgres, Redis]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [Data model design]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7390727'
+  extracted_at: '2026-04-22T14:00:16.944524'

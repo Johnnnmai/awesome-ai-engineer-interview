@@ -1,0 +1,226 @@
+job_id: 9059014
+title: AI Platform Engineer - Vice President
+company: Morgan Stanley
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Azure
+  - Big Data
+  - Ci/Cd
+  - Fast Api
+  - Flask
+  - Generative Ai
+  - Gitops
+  - GCP
+  - Grafana
+company_size: 87,899 Employees
+description: |
+  Our mission is to develop a firmwide Artificial Intelligence
+  (AI) Development Platform that aligns with the firm's
+  Technology principles and drives efficiency and consistency,
+  controls, security and strong governance and promotes
+  innovation, enabling teams to build applications that
+  leverage AI capabilities and accelerate the adoption of AI
+  across our businesses. This role is for a platform
+  engineering specialist who will help build a firmwide AI
+  Development Platform and drive adoption of AI capabilities
+  throughout the enterprise. We have multiple focus areas
+  across the platform and are looking for energetic, multi-
+  disciplinary candidates who are eager to contribute to
+  providing scalable, secure, enterprise-wide solutions for
+  the firm. The ideal candidate will have strong hands-on
+  experience building software platforms on any combination of
+  the following platforms - Kubernetes, Cloud (AWS, Azure,
+  and/or Google), API based development, REST framework, data
+  engineering, and large-scale API Gateway environments etc.
+  Knowledge of AIML and hands-on experience implementing
+  solutions using Generative AI are also preferable. The
+  candidate will have great communication skills, a team-based
+  mentality and a strong passion for using AI to increase
+  productivity as well as help generate new ideas for product
+  & technical improvements. In the Technology division, we
+  leverage innovation to build the connections and
+  capabilities that power our Firm, enabling our clients and
+  colleagues to redefine markets and shape the future of our
+  communities. Since 1935, Morgan Stanley is known as a global
+  leader in financial services, always evolving and innovating
+  to better serve our clients and our communities in more than
+  40 countries around the world. What you'll do in the role:
+  Below is a sample of potential responsibilities depending on
+  product / focus area
+  
+  - Develop tooling and self-service capabilities for deploying
+    AI solutions for the firm leveraging Kubernetes/OpenShift,
+    Python, authentication solutions, APIs, REST framework,
+    etc
+  - Develop Terraform modules and Cloud architecture to enable
+    secure AI cloud service deployment and consumption at
+    scale
+  - Have a platform mindset and build common, reusable solutions
+    to scale Generative AI use cases using pre-trained models
+    as well as fine-tuned models.
+  - Leverage Kubernetes/OpenShift to develop modern
+    containerized workloads
+  - Integrate with capabilities such as large-scale vector
+    stores for embeddings.
+  - Author best practices on the Generative AI ecosystem, when
+    to use which tools, available models such as GPT, Llama,
+    Hugging Face etc. and libraries such as Langchain.
+  - Analyze, investigate, and implement GenAI solutions focusing
+    on Agentic Orchestration and Agent Builder frameworks.
+  - Author and publish architecture decision records to capture
+    major design decisions and product selection for building
+    Generative AI solutions. Inclusive of app authentication,
+    service communication, state externalization, container
+    layering strategy and immutability.
+  - Ensure AI platform are reliable, scalable, and operational;
+    (e.g. blueprints for upgrade/release strategies (E.g.
+    Blue/Green); logging/monitoring/metrics; automation of
+    system management tasks)
+  - Participate in all team's Agile/ Scrum ceremonies.
+  - Participate in team's oncall rotation in build/run team
+    model
+  
+  What you'll bring to the role:
+  
+  - Bachelor's or Master's degree in Computer Science or related
+    field, or equivalent job experience
+  - 10years of experience in software engineering, design and
+    development
+  - Strong hands-on Application Development background in at
+    least one prominent programming language, preferably
+    Python Flask or FAST Api.
+  - Broad understanding of data engineering (SQL, NoSQL, Big
+    Data, Kafka, Redis), data governance, data privacy and
+    security.
+  - Experience in development, management, and deployment of
+    Kubernetes workloads, preferably on OpenShift.
+  - Experience with designing, developing, and managing RESTful
+    services for large-scale enterprise solutions.
+  - Experience deploying applications on Azure, AWS, and/or GCP
+    using IaC (Terraform)
+  - Hands-on experience with multiprocessing, multithreading,
+    asynchronous I/O, performance profiling in at least one
+    prominent programming language, preferably python.
+  - Ability to articulate technical concepts effectively to
+    diverse audiences.
+  - Excellent communication skills.
+  - Demonstrated ability to work effectively and collaboratively
+    in a global organization, across time zones, and across
+    organizations
+  - Demonstrated experience in DevOps, understanding of CI/CD
+    (Jenkins) and GitOps.
+  - Knowledge of DevOps and Agile practices.
+  
+  Nice to have
+  
+  - Practitioner of unit testing, performance testing and
+    BDD/acceptance testing.
+  - Understanding of OAuth 2.0 protocol for secure
+    authorization.
+  - Proficiency with Open Telemetry tools including Grafana,
+    Loki, Prometheus, and Cortex.
+  - Good knowledge of Microservice based architecture, industry
+    standards, for both public and private cloud.
+  - Good understanding of modern Application configuration
+    techniques.
+  - Hands on experience with Cloud Application Deployment
+    patterns like Blue/Green.
+  - Good understanding of State sharing between scalable cloud
+    components (Kafka, dynamic distributed caching).
+  - Good knowledge of various DB engines (SQL, Redis, Kafka,
+    etc) for cloud app storage.
+  - Experience building AI applications, preferably Generative
+    AI and LLM based apps.
+  - Deep understanding of AI agents, Agentic Orchestration,
+    Multi-Agent Workflow Automation, along with hands-on
+    experience in Agent Builder frameworks such Lang Chain and
+    Lang Graph.
+  - Experience working with Generative AI development,
+    embeddings, fine tuning of Generative AI models.
+  - Understanding of ModelOps/ ML Ops/ LLM Op.
+  - Understanding of SRE techniques.
+  
+  What you can expect from Morgan Stanley:
+  
+  We have a track record of innovation and passion for
+  unlocking new opportunities, we help our clients raise,
+  manage and allocate capital. We do this by offering a wide
+  range of investment banking, securities, wealth management
+  and asset management services.
+  
+  All that we do at Morgan Stanley is driven by our five core
+  values: do the right thing, put clients first, lead with
+  exceptional ideas, commit to diversity and inclusion, and
+  give back. These aren't just beliefs, they guide the
+  decisions we make every day, ensuring we do what's best for
+  our clients, communities and more than 80,000 employees
+  around the world. And at the core of our success are the
+  people who drive it - relentless collaborators and creative
+  thinkers who are fueled by diverse thinking and experiences.
+  
+  Wherever you are in our 1,200 global offices, you'll have
+  the opportunity to work alongside the best and the brightest
+  in an environment where you are empowered to achieve your
+  full potential. We are proud to support our employees and
+  their families at every point along their work-life journey,
+  offering some of the most attractive and comprehensive
+  employee benefits and perks in the industry.
+  
+  WHAT YOU CAN EXPECT FROM MORGAN STANLEY:
+  
+   At Morgan Stanley, we raise, manage and allocate capital
+  for our clients – helping them reach their goals. We do it
+  in a way that’s differentiated – and we’ve done that for 90
+  years.  Our values - putting clients first, doing the right
+  thing, leading with exceptional ideas, committing to
+  diversity and inclusion, and giving back - aren’t just
+  beliefs, they guide the decisions we make every day to do
+  what's best for our clients, communities and more than
+  80,000 employees in 1,200 offices across 42 countries. At
+  Morgan Stanley, you’ll find an opportunity to work alongside
+  the best and the brightest, in an environment where you are
+  supported and empowered. Our teams are relentless
+  collaborators and creative thinkers, fueled by their diverse
+  backgrounds and experiences. We are proud to support our
+  employees and their families at every point along their
+  work-life journey, offering some of the most attractive and
+  comprehensive employee benefits and perks in the industry.
+  There’s also ample opportunity to move about the business
+  for those who show passion and grit in their work.
+  
+  To learn more about our offices across the globe, please
+  copy and paste https://www.morganstanley.com/about-
+  us/global-offices into your browser.
+  
+  Expected base pay rates for the role will be between
+  $150,000 and $210,000 per year at the commencement of
+  employment. However, base pay if hired will be determined on
+  an individualized basis and is only part of the total
+  compensation package, which, depending on the position, may
+  also include commission earnings, incentive compensation,
+  discretionary bonuses, other short and long-term incentive
+  packages, and other Morgan Stanley sponsored benefit
+  programs.
+  
+  Morgan Stanley is an equal opportunity employer committed to
+  building and maintaining a workforce that is diverse in
+  experience and background.  Our recruiting efforts reflect
+  our strong commitment to a culture of inclusion, where
+  individuals are hired, developed, and advanced based on
+  their skills and talents.
+  
+  Our workforce reflects a broad cross-section of the global
+  communities in which we operate, bringing a variety of
+  backgrounds, talents, perspectives, and experiences.
+  
+  For more information, please visit:
+  https://www.morganstanley.com/people-opportunities/eeo.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-04-15
+url: "https://builtin.com/job/ai-platform-engineer-vice-president/9059014"
+source: Built In

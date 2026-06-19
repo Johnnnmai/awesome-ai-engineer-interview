@@ -1,0 +1,280 @@
+job_id: 8680012
+title: AI Process Automation Engineer
+company: Fuel Cycle
+location: Los Angeles, USA
+work_type: FULL_TIME
+level: Entry level
+skills:
+  - AWS
+  - Claude Code
+  - Crewai
+  - GCP
+  - Git
+  - JSON
+  - Langchain
+  - Make
+  - Python
+  - Rest Apis
+description: |
+  About Fuel Cycle:
+  
+  Fuel Cycle is the Autonomous Insights Platform trusted by
+  some of the world's most iconic brands — including Sonos,
+  Carhartt, Petco, Glassdoor, Thomson Reuters, and Abercrombie
+  & Fitch. Headquartered in Los Angeles (Wilshire Blvd) with
+  offices in New York, we are a 125-person team on a mission
+  to accelerate decision intelligence: turning customer
+  research into confident business action in hours, not weeks.
+  
+  Our platform unifies quantitative, qualitative, and UX
+  research into a single AI-native system — delivering 85%
+  faster time-to-insight, 10x cost savings per study, and 150x
+  ROI versus traditional research vendors. Agentic AI runs
+  studies end-to-end, so insight teams spend their time on
+  judgment and strategy rather than production and logistics.
+  
+  This role exists because we are living what we sell. Our
+  leadership team made a deliberate decision to go all-in on
+  Claude and agentic AI — not just in our product, but across
+  every internal function. Our Marketing team has already
+  deployed five production Claude Code agents (competitive
+  intelligence, sales call synthesis, feature launch
+  automation, and more), saving 10–17 hours of manual work per
+  week with a three-person team. Sales, Research, Community,
+  and Panels are next. The difference between being AI-enabled
+  and AI-native is the entire bet, and this hire is part of
+  closing that gap.
+  
+  We are building a shared system of memory, skills, and
+  agents that the whole company runs on — not a collection of
+  individual setups. The person in this role will be a
+  foundational contributor to that architecture, working
+  directly alongside our Founder/Chairman, Product,
+  Engineering, and cross-functional operations leads to make
+  Fuel Cycle AI-native from the inside out.
+  
+  Our values: Customer Obsessed. Team Before Self. Extreme
+  Impact. Endless Curiosity.
+  
+  Why work at Fuel Cycle?
+  
+  Join a high-growth team where curiosity is valued, ownership
+  is encouraged, and your work drives real-world impact.
+  Whether you’re based at our Los Angeles HQ, New York City
+  hub, working remotely across the U.S., or part of our global
+  team in India, you’ll help shape the future of decision
+  intelligence for some of the world’s most iconic brands.
+  
+  Overview:
+  
+  Fuel Cycle's leadership has made a clear, urgent bet: the
+  difference between being AI-enabled and AI-native is the
+  entire game. We are looking for a sharp, curious, and
+  technically motivated recent graduate to help us win it — as
+  an AI Process Automation Engineer writing Claude Code to
+  agentify how Fuel Cycle operates from the inside out.
+  
+  This is not a greenfield exploration role. Our Marketing
+  team has already deployed five production Claude Code agents
+  — automating competitive intelligence, Gong call synthesis,
+  feature launch campaigns, and GTM release workflows — saving
+  10–17 hours of manual work per week with a three-person
+  team. The architecture is built to scale. Research delivery,
+  Community, Panels, Sales, and Finance are next. You will be
+  the dedicated builder expanding that system across the
+  organization.
+  
+  You will work directly alongside our Founder/Chairman,
+  Product & Engineering teams and the cross-functional leads
+  who are driving this initiative — translating business
+  process challenges into robust, production-grade agentic
+  solutions built on a shared foundation of memory, skills,
+  and reusable Claude Code agents.
+  
+  Location: Los Angeles
+  
+  Work Arrangement: This is a fully onsite role requiring five
+  days per week in our Brentwood office.
+  
+  Key Responsibilities:
+  
+  - Expand and maintain the existing suite of Claude Code agents
+    — starting with the Marketing agents already in production
+    (competitive intelligence, Gong synthesis, GTM automation)
+    and extending the model into Research delivery, Community
+    operations, Panels, Sales, and Finance.
+  - Partner with department heads and operations leads across
+    Fuel Cycle to map high-volume manual processes — in both
+    our research and community services operation and our
+    internal functions — and design agentic replacements.
+  - Build and test multi-step agentic pipelines that integrate
+    Claude with Fuel Cycle's existing tool stack, including
+    Asana, Gong, and third-party APIs, using the shared
+    knowledge base architecture already in place.
+  - Contribute to the shared system of memory, skills, and
+    agents the whole team runs on — ensuring every agent reads
+    from consistent brand voice, ICP profiles, and process
+    documentation so outputs are accurate and on-standard
+    without manual prompt engineering per task.
+  - Monitor deployed automations for accuracy, performance, and
+    edge-case failures; produce a playbook for each agent
+    shipped so other teams can understand, replicate, and
+    build on the model.
+  - Stay current on the Claude API, Claude Code releases, and
+    agentic design patterns — proactively surfacing
+    improvements and bringing new capabilities to the
+    attention of product and engineering leads.
+  - Work with the AI transformation leads to push automation
+    knowledge out through the organization and help teams move
+    fast on their own functions.
+  
+  Your Success Metrics:
+  
+  - Automation Impact: Measurable reduction in manual work hours
+    across deployed agents, benchmarked against pre-automation
+    baselines.
+  - Agent Velocity: Consistent delivery of production-grade
+    agents on a quarterly cadence, spanning Sales, Research,
+    Community, Panels, and Finance within the first year.
+  - Reliability & Documentation: All deployed agents maintain
+    low error/failure rates in production and are accompanied
+    by a reusable playbook enabling other teams to build on
+    the work.
+  - Architectural Contribution: Active contribution to the
+    shared memory, skills, and agent library — measured by
+    reuse of components across agents and reduction in per-
+    task prompt engineering overhead.
+  
+  Who you’ll work with?
+  
+  - Founder
+  - Engineering
+  - Product
+  - Department Heads (Marketing, Sales, Research Excellence,
+    Audience Experience, Audience Acquisition, Finance, etc.)
+  
+  Core Skills, Competencies & Attributes:
+  
+  Technical Skills
+  
+  - Proficiency in Python; comfort writing scripts, working with
+    JSON/APIs, and debugging logic errors.
+  - Familiarity with LLMs and an ability to craft clear,
+    effective prompts — coursework, side projects, or personal
+    experimentation counts.
+  - Working knowledge of REST APIs and experience integrating
+    third-party services (Zapier, Make, or custom API calls).
+  - Basic Git fluency (commit, branch, pull request workflow).
+  - Exposure to at least one cloud or SaaS environment (AWS,
+    GCP, Notion, Salesforce, HubSpot, etc.).
+  
+  Attributes & Mindset
+  
+  - Strong problem-solving instinct — you break big ambiguous
+    challenges into small, testable steps.
+  - Clear written and verbal communication; able to explain
+    technical decisions to non-technical stakeholders.
+  - Self-starter who takes ownership of projects end-to-end
+    without needing constant direction.
+  - Genuine enthusiasm for AI tools and a curiosity about how
+    they can reshape how companies operate.
+  
+  What you’ll bring:
+  
+  Education
+  
+  - Bachelor's degree in Computer Science, Information Systems,
+    Engineering, or a related technical field (May 2023–May
+    2025 graduates are welcome to apply).
+  
+  Preferred, but Not Required
+  
+  - Prior experience using the Anthropic Claude API or Claude
+    Code (even on personal projects).
+  - Familiarity with agentic frameworks such as LangChain,
+    CrewAI, or similar.
+  - Internship or project experience in a SaaS, startup, or
+    technology operations environment.
+  - Exposure to workflow automation tools (Zapier,
+    Make/Integromat, n8n).
+  - Experience with no-code/low-code tools that bridge technical
+    and business teams.
+  
+  Benefits & Perks:
+  
+  Fuel Cycle is committed to supporting the well-being,
+  flexibility, and growth of our team. We offer a competitive
+  and inclusive benefits package that includes:
+  
+  - Comprehensive Health Coverage: Medical, dental, and vision
+    insurance plans
+  - 401(k) with Company Match: Plan for your future with our
+    retirement savings program
+  - Equity Purchase Option: Participate in Fuel Cycle’s long-
+    term success
+  - Flexible Work Schedule: Empowering you to balance life and
+    work
+  - Generous Time Off:
+    - 15 vacation days and 7 sick days per year
+    - 12 company holidays
+    - 4 floating holidays/recharge days to rest or celebrate what
+      matters to you
+  - Paid Parental Leave: Time to bond with your growing family
+  - Monthly Internet & Phone Stipend: Support for remote work
+    setup
+  - Wellness & Lifestyle Perks: Access to tools like Rightway
+    (healthcare navigation), Headspace (mental wellness),
+    Peloton (fitness), and more.
+  - Team Connection Perks:
+    - Weekly community lunches, refreshments, and snacks at our LA
+      & NY headquarters
+    - Pet-friendly office environments
+  
+  Compensation Overview:
+  
+  The expected starting salary range for this position is
+  $89,000 - $119,000. This range represents the typical
+  starting compensation offered to candidates hired into this
+  role. Final base salary will be determined based on a
+  variety of factors, including location, work experience,
+  skills, knowledge, education, and certifications.
+  
+  In addition to base salary, this role may also be eligible
+  for an equity grant or purchase option. These components
+  make up your total compensation package, which will be
+  reviewed in greater detail during your initial recruiter
+  conversation.
+  
+  Commitment to Diversity, Equity, and Equal Opportunity:
+  
+  At Fuel Cycle, we embrace the values of diversity, equity,
+  and inclusion and are committed to fostering an inclusive
+  company culture. We believe that everyone, regardless of
+  their background or identity, should have equal access to
+  opportunities for growth and advancement. Our selection
+  processes and career pathways are designed to be fair,
+  transparent, and free from bias. We value the unique
+  perspectives and contributions of each team member, knowing
+  that this diverse range of experiences strengthens our team.
+  Fuel Cycle stands firmly against discrimination based on
+  disability, sex, race, gender identity, sexual orientation,
+  religion, national origin, age, veteran status, or any other
+  protected status under the law.
+  
+  Fuel Cycle is an equal opportunity employer and fully comply
+  with the Americans with Disabilities Act (ADA). We will
+  provide reasonable accommodations for qualified applicants
+  and employees with disabilities, as needed, to enable them
+  to perform the essential functions of their job and
+  participate in the application and interview process. If you
+  require accommodations during any part of the application
+  process, please contact us at hr@fuelcycle.com to discuss
+  your needs.
+industries:
+  - Big Data
+  - Cloud
+  - Other
+  - Software
+posted_date: 2026-03-07
+url: "https://www.builtinla.com/job/ai-process-automation-engineer/8680012"
+source: Built In

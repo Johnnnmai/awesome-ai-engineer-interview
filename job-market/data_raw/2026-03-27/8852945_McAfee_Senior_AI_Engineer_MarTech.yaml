@@ -1,0 +1,162 @@
+job_id: 8852945
+title: Senior AI Engineer, MarTech
+company: McAfee
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Aws Sagemaker
+  - Azure Ai Studio
+  - Databricks
+  - Docker
+  - Google Vertex Ai
+  - Kubernetes
+  - Langchain
+  - Llamaindex
+  - Python
+  - PyTorch
+description: |
+  Job Title:Senior AI Engineer, MarTech
+  
+  Role Overview:
+  
+  We are looking for a Senior AI Engineer to lead the
+  transformation of our marketing ecosystem. You won’t just be
+  maintaining tools; you will be architecting the intelligence
+  layer that powers hyper-personalization, autonomous campaign
+  optimization, and generative creative pipelines. You will
+  architect and lead buildout of infrastructure systems that
+  do not merely execute pre-defined tasks but perceive
+  context, reason through complex strategic problems, and
+  orchestrate end-to-end workflows with minimal human
+  intervention. We are moving from "campaign management" —a
+  manual, administrative task—to "campaign orchestration" a
+  strategic, supervisory role and invest in effective Human-
+  Agent Teams. This is a position located in the US in either
+  San Jose, CA or Frisco, TX. You will be required to be
+  onsite on an as-needed basis. We are only considering
+  candidates within a commutable distance to one of the two
+  locations and are not offering relocation assistance at this
+  time.
+  
+  About the Role:
+  
+  - Architect Agentic Workflows: Design and deploy AI agents to
+    automate complex marketing tasks such as cross-channel
+    campaign orchestration and real-time lead qualification.
+  - Generative Asset Pipelines: Build and maintain scalable
+    pipelines for automated ad creative generation (text,
+    image, and video) using LLMs and Multimodal models (Stable
+    Diffusion, GPT-4o, Sora) while ensuring brand-safe
+    guardrails.
+  - Real-time Personalization: Implement RAG (Retrieval-
+    Augmented Generation) systems to provide context-aware,
+    personalized content across web, email, and SMS.
+  - Build Predictive Models: Develop and productionalize ML
+    models for high-impact marketing use cases: LTV (Lifetime
+    Value) prediction, churn propensity, and "Next Best
+    Action" engines.
+  - MLOps & Integration: Own the end-to-end lifecycle of models,
+    from feature engineering in SQL/Python to deployment via
+    APIs and monitoring for data drift in production.
+  - Privacy & Ethics: Ensure all AI implementations comply with
+    global privacy standards (GDPR, CCPA) and implement
+    "Privacy-First" AI features like differential privacy or
+    synthetic data generation.
+  - Governance: Implement robust Responsible AI frameworks to
+    ensure that the speed of automation does not compromise
+    the trust of the customer
+  
+  About You:
+  
+  - Languages & Frameworks: Expert proficiency in Python. Deep
+    experience with PyTorch or TensorFlow, and LLM
+    orchestration frameworks (LangChain, LlamaIndex).
+  - MarTech Ecosystem: Hands-on experience integrating AI with
+    CDPs (HighTouch), ESPs (Braze, Iterable), or Ad Platforms
+    (Meta Conversions API, Google Enhanced Conversions),
+    Analytics (Adobe CJA), Customer focused websites
+    (Javascript, Adobe Experience Manager)
+  - Data Stack: Mastery of SQL and cloud data warehouses.
+    Experience with Databricks for feature engineering is a
+    huge plus.
+  - Generative AI: Proven experience with Claude fine-tuning
+    models (LoRA, QLoRA) and managing vector databases
+    (Pinecone, Milvus, or Weaviate).
+  - Deployment: Experience with Docker, Kubernetes, and cloud AI
+    services (AWS SageMaker, Google Vertex AI, or Azure AI
+    Studio).
+  - Domain Expertise: Previous experience in a high-growth B2C
+    marketing environment.
+  - Experimentation Mindset: Strong understanding of Bayesian
+    A/B testing and causal inference to measure the true
+    uplift of AI interventions.
+  - Strategic Thinking: Ability to translate vague marketing
+    goals ("we want to increase engagement") into specific
+    technical requirements and model objectives.
+  - Customer TouchPoints: Experience developing applications or
+    integrations with Windows, MacOS, iOS, Android ecosystems.
+  
+  The Stack You’ll Work With
+  
+  - Data Foundation: Databricks, HighTouch
+  - AI/ML Engine: Claude, PyTorch, Hugging Face, OpenAI API,
+    LangGraph
+  - Orchestration: Airflow, Prefect, or GitHub Actions
+  - Marketing Execution: Braze
+  - Monitoring: Weights & Biases, Arize, or Grafana
+  - Analytics: Adobe CJA
+  
+  #LI-Hybrid
+  
+  Company Overview
+  
+  McAfee is a leader in personal security for consumers.
+  Focused on protecting people, not just devices, McAfee
+  consumer solutions adapt to users’ needs in an always online
+  world, empowering them to live securely through integrated,
+  intuitive solutions that protects their families and
+  communities with the right security at the right moment.
+  
+  Company Benefits and Perks:
+  
+  We work hard to embrace diversity and inclusion and
+  encourage everyone at McAfee to bring their authentic selves
+  to work every day. We offer a variety of social programs,
+  flexible work hours and family-friendly benefits to all of
+  our employees.
+  
+  - Bonus Program
+  - 401k Retirement Plan
+  - Medical, Dental, Vision, Basic Life, Short Term Disability
+    and Long-Term Disability Coverage
+  - Paid Parental Leave
+  - Support for Community Involvement
+  - 14 Paid Company Holidays
+  - Unlimited Paid Time Off for Exempt Employees
+  - 96 Hours of Sick Time and 120 Hours of Vacation for Non-
+    Exempt Employees Accrued Each Year
+  
+  We're serious about our commitment to diversity which is why
+  McAfee prohibits discrimination based on race, color,
+  religion, gender, national origin, age, disability, veteran
+  status, marital status, pregnancy, gender expression or
+  identity, sexual orientation or any other legally protected
+  status.
+  
+  The starting pay range for this position is
+  $135,910.00-$223,285.00. McAfee takes into consideration an
+  individual’s skillset, experience and location in making
+  final salary determinations. For further details, please
+  discuss with the Talent Acquisition Partner.
+  
+  Please click here to view and download the Job Applicant
+  Privacy Notice, which applies to all McAfee job applicants
+  who are residents of the state of California.
+industries:
+  - Security
+  - Software
+  - Cybersecurity
+posted_date: 2026-03-24
+url: "https://www.builtinla.com/job/senior-ai-engineer-martech/8852945"
+source: Built In

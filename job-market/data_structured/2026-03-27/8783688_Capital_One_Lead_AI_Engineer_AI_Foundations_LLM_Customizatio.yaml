@@ -1,0 +1,51 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services with AI/ML-powered customer
+    experiences
+position:
+  title: Lead AI Engineer (AI Foundations, LLM Customization and Finetuning)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building and deploying
+      AI/ML systems including foundation model training, LLM
+      inference, and LLM optimization techniques. The engineer
+      will work hands-on with model training, inference, and
+      optimization - core AI development work.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products that transform
+    associate workflows and customer interactions
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    and governance
+  - Leverage Open Source and SaaS AI technologies including AWS Ultraclusters, Huggingface,
+    VectorDBs, Nemo Guardrails, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Fraud detection and unusual charge notifications
+  - Real-time customer question answering and support
+  - AI-powered products that change how associates work
+  - Scalable AI infrastructure for enterprise-wide AI deployment
+  skills:
+    genai: [Nemo Guardrails]
+    ml: [PyTorch, Huggingface, LLM training and inference, Foundation model training,
+      Similarity search, LLM optimization]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, AWS Ultraclusters]
+    ops: [Model evaluation and governance, AI observability]
+    languages: [Python, Go, Scala, Java, C++, C#, Golang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8783688'
+  extracted_at: '2026-03-27T14:14:32.663202'

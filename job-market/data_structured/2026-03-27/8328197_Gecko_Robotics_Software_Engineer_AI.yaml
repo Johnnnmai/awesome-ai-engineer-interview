@@ -1,0 +1,52 @@
+company:
+  name: Gecko Robotics
+  stage: null
+  focus: |-
+    AI-powered robotics and data platform for critical
+    infrastructure monitoring and maintenance
+position:
+  title: Software Engineer | AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and tuning models, designing
+      agentic AI systems, and working directly with models in
+      production. The engineer will build agentic workflows, tune
+      models for customer use, and contribute to feature
+      engineering and model experimentation - all hands-on AI/ML
+      work.
+  responsibilities:
+  - Design and implement agentic AI systems across the full lifecycle from data ingestion
+    to model deployment
+  - Build and tune models for production use by customers in the real world
+  - Work directly with customers and stakeholders to understand problems and translate
+    them into technical solutions
+  - Build agentic workflows, document processing pipelines, and sensor data ingestion
+    systems
+  - Contribute to feature engineering and model experimentation
+  - Own production systems and improve reliability over time
+  - Make architectural decisions and help define best practices as the team scales
+  use_cases:
+  - Infrastructure health monitoring and predictive maintenance for power plants
+  - Document intelligence and processing for industrial applications
+  - Time-series IoT sensor data analysis
+  - Real-time decision making for critical infrastructure operations
+  - Reliability and safety optimization for power industry assets
+  skills:
+    genai: [Agentic AI systems, Document processing]
+    ml: [NLP, ML packages]
+    web: [React]
+    databases: [Data warehouses, Data lakes, Time-series databases, NoSQL databases,
+      Vector databases, Vector search]
+    data: [Streaming and messaging systems, Distributed processing frameworks, IoT
+        data processing]
+    cloud: [GCP, Vertex AI]
+    ops: [Feature stores, Model pipelines, Docker, Kubernetes, Infrastructure-as-code]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8328197'
+  extracted_at: '2026-03-27T14:28:05.354702'

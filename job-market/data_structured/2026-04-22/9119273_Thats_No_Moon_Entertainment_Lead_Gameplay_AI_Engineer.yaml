@@ -1,0 +1,55 @@
+company:
+  name: That's No Moon Entertainment
+  stage: Unknown
+  focus: |-
+    Independent AAA game development studio focused on
+    narrative-driven experiences
+position:
+  title: Lead Gameplay AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is focused on building AI systems for gameplay —
+      the engineer directly architects, implements, and maintains
+      AI behaviors, NPC systems, and related tools. While this is
+      game AI (behavior trees, state machines, pathfinding) rather
+      than ML/AI, the role involves hands-on creation of AI
+      systems, making it ai-first. ML experience is listed only as
+      a plus, not a core requirement.
+  responsibilities:
+  - Own gameplay AI systems and related engineering tasking and development
+  - Directly manage a team of AI engineers including career management, growth, and
+    mentorship
+  - Architect, implement, and maintain production quality C/C++ for AI systems, behaviors,
+    tools, and workflows
+  - Provide technical leadership ranging from short-term AI problem solving to long-term
+    AI roadmap planning
+  - Guide production team on scheduling while identifying and reducing risks across
+    AI feature development
+  - Collaborate with engineers and other disciplines to deliver exceptional gameplay
+    experiences
+  - Drive innovation in AI character behaviors ensuring NPCs feel believable and contribute
+    to storytelling
+  - Analyze different approaches to solve AI problems and discuss tradeoffs between
+    them
+  use_cases:
+  - NPC behavior and decision-making systems for AAA video games
+  - Character AI that creates believable and memorable gameplay experiences
+  - AI-driven storytelling and narrative gameplay mechanics
+  - Game world AI systems that bring environments and characters to life
+  skills:
+    genai: []
+    ml: [Machine learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C++, C]
+    domains: [Game AI systems]
+    other: [Unreal Engine, Console development, Mathematics]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9119273'
+  extracted_at: '2026-04-22T12:39:39.510312'

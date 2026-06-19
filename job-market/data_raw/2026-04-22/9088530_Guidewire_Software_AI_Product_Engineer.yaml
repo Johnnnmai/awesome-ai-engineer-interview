@@ -1,0 +1,166 @@
+job_id: 9088530
+title: AI Product Engineer
+company: Guidewire Software
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Anthropic
+  - Java
+  - Openai
+  - Python
+  - Typescript
+  - Vector Databases
+description: |
+  Summary
+  
+  As part of Guidewire’s Product organization, you’ll join a
+  team focused on embedding AI and GenAI across our cloud
+  platform to transform how P&C insurers operate and innovate.
+  We work at the intersection of insurance, data, and
+  engineering to deliver secure, scalable products that
+  customers can trust in highly regulated environments.
+  You’ll collaborate across Product, PDO, Professional
+  Services, and Go-To-Market to ship AI-powered capabilities
+  that drive measurable customer value worldwide. The Vision
+  At Guidewire, we aren't just adding a "chat" bubble to our
+  software. We are reimagining the $2 trillion P&C insurance
+  industry as AI-native. This means moving from static forms
+  to dynamic, agentic workflows that can read a 100-page
+  policy, analyze a legal demand, or predict a claim's
+  trajectory in seconds. We need an AI Product Engineer who
+  treats LLMs as a raw material for building magic. You are an
+  engineer with "Product Taste"—someone who cares as much
+  about the user's "aha!" moment as they do about the latency
+  of a vector search. Why This Role is Unique In most big
+  companies, engineers are siloed. In this role, you are
+  embedded with the Product team. You are a co-author of the
+  roadmap. You have the massive data and customer reach of
+  Guidewire, but the autonomy and "move fast" culture of an
+  AI-native startup. "We are looking for the engineer who gets
+  annoyed when an AI response is technically correct but
+  contextually useless—and then stays up late to fix the
+  prompt architecture because they care about the product
+  experience."
+  
+  Job Description
+  
+  The "AI Intuition" Factor
+  
+  - We care less about your years of experience and more about
+    your intuition for the non-deterministic. You understand
+    that:
+  - Context is King: The difference between a "hallucination"
+    and a "breakthrough" is often just how you architect the
+    context.
+  - The UX of AI is Different: Traditional UI is about
+    constraints; AI UI is about guidance. You know how to
+    build interfaces that build trust.
+  - Prototyping is Research: You’d rather get out a vibe-checked
+    prototype in two days to get user feedback than spend two
+    months over-engineering a pipeline that nobody wants.
+  
+  What You’ll Do
+  
+  - Design Agentic Workflows: Partner with PMs to decompose
+    complex insurance tasks (like subrogation or underwriting)
+    into multi-agent systems using agent frameworks.
+  - Rapid Prototyping: Build the "Version 0" of AI features. You
+    will be the first person to turn a PM’s "What if..." into
+    a working demo that feels like the future.
+  - Own the "Eval" Loop: You won't just write code; you’ll
+    define what "good" looks like. You’ll build the evaluation
+    frameworks to measure accuracy, tone, and reliability
+    across thousands of insurance scenarios.
+  - RAG/graph Architecture: Implement sophisticated Retrieval-
+    Augmented Generation  and graphs that can navigate the
+    labyrinth of Guidewire’s multi-tenant data structures.
+  - Bridge the Gap: Act as the technical translator between the
+    "Art of the Possible" (Frontier AI) and the "Reality of
+    the Regulated" (P&C Insurance).
+  
+  Your Toolkit
+  
+  - The AI Stack: Deep experience with OpenAI/Anthropic APIs,
+    vector databases, and orchestration layers.
+  - The Core Stack: You are a polyglot who can move between
+    Python (for the AI/ML heavy lifting) and TypeScript/Java
+    (to integrate with the Guidewire platform).
+  - The Product Mindset: You’ve likely built your own side
+    projects or worked at an early-stage AI startup. You
+    understand user friction and how to solve it with LLMs.
+  - Problem Solving: You don’t wait for a spec. You see a
+    manual, "boring" insurance process and immediately start
+    mapping out the agents needed to automate it.
+  - Experience with Voice agents a plus
+  
+   The US base salary range for this full-time position is - .
+  Your base pay will depend on your experience, skills,
+  education, training, and location among other factors. All
+  full-time positions or part-time roles working 30 hours or
+  more a week at Guidewire are eligible for benefits that
+  support their health and well-being including health,
+  dental, and vision insurance, paid time off, and a company
+  sponsored retirement plan. In addition, some roles may be
+  eligible for the annual company bonus plan, commissions,
+  and/or long term incentive awards which are contingent on a
+  variety of factors including, but not limited to, company
+  and employee performance.
+  
+  Disability Accommodations and Guidewire’s Appeals Process.
+  Guidewire provides accommodations to the hiring process to
+  create a fair opportunity for candidates with disabilities
+  to contend for open positions. Accommodation requests should
+  be directed to Accommodations@guidewire.com. If things do
+  not go as hoped, we invite you to use our appeals process.
+  Guidewire promises to independently review any denied
+  accommodation and any decision not to offer you the
+  position. The appeals process is the same in either case.
+  Within five business days of receiving a notice of denial of
+  an accommodation, or receiving a notice of your non-
+  selection for a vacancy, e-mail Accommodations@guidewire.com
+  to make an appeal. Guidewire will assign a new decision-
+  maker to review the request and/or hiring decision, who will
+  then notify you in writing of a decision within 10 business
+  days.
+  
+  About Guidewire
+  
+  Guidewire is the platform P&C insurers trust to engage,
+  innovate, and grow efficiently. We combine digital, core,
+  analytics, and AI to deliver our platform as a cloud
+  service. More than 540+ insurers in 40 countries, from new
+  ventures to the largest and most complex in the world, run
+  on Guidewire.
+  
+  As a partner to our customers, we continually evolve to
+  enable their success. We are proud of our unparalleled
+  implementation track record with 1600+ successful projects,
+  supported by the largest R&D team and partner ecosystem in
+  the industry. Our Marketplace provides hundreds of
+  applications that accelerate integration, localization, and
+  innovation.
+  
+  For more information, please visit www.guidewire.com and
+  follow us on Twitter: @Guidewire_PandC.
+  
+  Guidewire Software, Inc. is proud to be an equal opportunity
+  and affirmative action employer. We are committed to an
+  inclusive workplace, and believe that a diversity of
+  perspectives, abilities, and cultures is a key to our
+  success. Qualified applicants will receive consideration
+  without regard to race, color, ancestry, religion, sex,
+  national origin, citizenship, marital status, age, sexual
+  orientation, gender identity, gender expression, veteran
+  status, or disability. All offers are contingent upon
+  passing a criminal history and other background checks where
+  it's applicable to the position.
+industries:
+  - Cloud
+  - Information Technology
+  - Insurance
+  - Software
+  - Analytics
+posted_date: 2026-04-17
+url: "https://www.builtinla.com/job/ai-product-engineer/9088530"
+source: Built In

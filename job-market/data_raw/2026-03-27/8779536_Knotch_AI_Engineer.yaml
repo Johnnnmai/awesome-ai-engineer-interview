@@ -1,0 +1,211 @@
+job_id: 8779536
+title: AI Engineer
+company: Knotch
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Langchain
+  - Langgraph
+  - Nlp
+  - Python
+  - Snowflake
+description: |
+  About Knotch
+  
+  We're a growth-stage technology company helping brands
+  optimize their content performance and harness AI for
+  marketing success. With a fast-paced, agile, entrepreneurial
+  culture, we move quickly, adapt constantly, and thrive in
+  dynamic environments. Through our Knotch platform, we meet
+  our clients where they are and enable them to prove and
+  improve their content. With our newest innovation, AgentC—a
+  managed AI service for marketers—we're transforming how
+  marketing teams plan, adapt, and execute across digital
+  channels.
+  
+  About the Role
+  
+  Most companies building AI agents are starting from scratch.
+  Knotch isn't. We've spent years accumulating one of the
+  richest proprietary datasets in B2B content intelligence —
+  deep signals on how content performs, what drives
+  engagement, and what separates great content from noise.
+  That data is our unfair advantage, and we're now ready to
+  unleash it.
+  
+  We're at the beginning of an exponential shift — moving from
+  a platform that surfaces insights to one that autonomously
+  acts on them through Gen AI and Agentic AI. As a Sr. AI
+  Engineer, you'll have access to a unique data foundation and
+  a leadership team fully committed to making AI central to
+  everything Knotch does. This is a rare chance to build
+  consequential AI — not demos, not experiments, but
+  production-grade agents that enterprise clients depend on.
+  
+  This isn't an AI layer bolted onto an existing product. This
+  is a ground-up reimagining of what content intelligence can
+  be in the age of large language models and agentic AI.
+  You'll shape not just how we build, but what we build and
+  why. If you want to own the architecture, influence the
+  roadmap, and watch your work directly move the needle for
+  enterprise clients — this is that role.
+  
+  Responsibilities
+  
+  - Develop and deploy AI agents that automate complex workflows
+    across the Knotch platform.
+  - Build the internal tools and infrastructure that power,
+    monitor, and maintain these agents in production.
+  - Design and implement backend and frontend services, APIs,
+    and data pipelines, integrating AI functionality into
+    user-facing features.
+  - Contribute to system architecture and core platform design
+    alongside the broader engineering team.
+  - Collaborate closely with Product, Data Engineering, Backend,
+    and Frontend teams to align AI capabilities with product
+    direction and ensure seamless integration across the
+    stack.
+  - Design and maintain a suite of evaluations and benchmarks to
+    measure agent accuracy, reliability, and cost-
+    effectiveness.
+  - Optimize inference pipelines and backend systems for speed,
+    scalability, and cost.
+  - Own the AI safety and governance layer — guardrails, audit
+    logging, fallback logic, and access controls that ensure
+    our agents operate reliably and responsibly.
+  
+  Qualifications
+  
+  You have at least 3+ years of software engineering
+  experience building and shipping LLM-powered applications,
+  within within SaaS startup environments (marketing or
+  digital analytics experience is considered an asset).
+  
+  Must Haves
+  
+  - Prior startup, growth-stage, or SaaS platform experience
+    working in fast-paced, agile environments.
+  
+  - Hands-on experience building production AI agents using LLM
+    orchestration frameworks — LangGraph, LangChain, or
+    similar.
+  - Deep familiarity with agentic patterns — tool/function
+    calling, multi-agent orchestration, memory management, and
+    MCP.
+  - Strong Python proficiency and backend API development
+    experience.
+  - Data Engineering and/or analytics background, including
+    building pipelines, transformations, and querying data
+    warehouses like Snowflake.
+  - Solid grounding in NLP concepts — tokenization, embeddings,
+    semantic similarity, and how language models process and
+    generate text.
+  - Experience building RAG pipelines and integrating LLMs
+    against structured data sources.
+  - Prompt engineering fluency — systematic design, structured
+    outputs, and schema definitions.
+  - An evaluation and observability mindset — you think about
+    how to measure and monitor agent behavior, not just ship
+    it.
+  
+  Nice-to-Haves (not mandatory)
+  
+  - Experience with vector databases (Pinecone, pgvector,
+    Weaviate) or data warehouses like Snowflake.
+  - Familiarity with AI guardrail frameworks — Guardrails AI,
+    NeMo Guardrails, or LlamaGuard.
+  - Exposure to fine-tuning techniques — LoRA, PEFT, or
+    instruction tuning.
+  - Prior experience in a founding or first AI engineer role.
+  
+  How to be Successful
+  
+  - Have hands-on experience building and shipping LLM-powered
+    applications: you’ve moved beyond prototypes and
+    understand what it takes to run reliable AI systems in
+    production.
+  - Strong intuition for agentic design patterns: you can
+    effectively leverage tool calling, multi-agent
+    orchestration, memory, and MCP to solve real-world
+    problems.
+  - Fluency in modern AI frameworks and backend systems: you’re
+    comfortable working with tools like LangGraph or
+    LangChain, and building robust Python-based APIs.
+  - Deep understanding of NLP and LLM behavior: you grasp
+    concepts like embeddings, tokenization, and semantic
+    similarity, and use that knowledge to build better
+    systems.
+  - Thoughtful prompt and system design: you approach prompt
+    engineering methodically, with an emphasis on structured
+    outputs and reliability.
+  - Evaluation and observability focus: you don’t just ship
+    agents; you think critically about how to measure,
+    monitor, and improve their performance over time.
+  - Ownership and initiative: you take responsibility for your
+    work, influence technical direction, and proactively
+    identify opportunities to improve systems.
+  - Adaptability and curiosity: you stay on top of a rapidly
+    evolving AI landscape and are eager to experiment, learn,
+    and apply new techniques.
+  
+  Why Join Knotch We offer a unique opportunity to work with a
+  powerful data moat built on years of proprietary B2B content
+  intelligence, fuelling AI capabilities that competitors
+  simply can’t replicate. Our modern AI stack includes tools
+  like LangGraph, Claude, and Snowflake, supported by a team
+  already executing on an AI-native architecture. You’ll have
+  real ownership, with direct influence over system design,
+  product direction, and roadmap decisions. The work is deeply
+  consequential: the agents you build will be deployed in
+  production for enterprise clients from day one, not confined
+  to a sandbox. Most importantly, you’ll be backed by
+  committed leadership — at Knotch, AI isn’t a side
+  initiative; it’s the company’s next chapter. The expected
+  salary range for this opportunity is $140,000–$220,000 USD
+  depending on experience.
+  
+  Our Benefits and Perks
+  
+  Knotch is a fully remote company. Candidates may work from
+  anywhere in the U.S., Eastern time zone are preferred. Some
+  of our other great benefits include:
+  
+  - Comprehensive medical, dental, and vision insurance
+    eligibility
+  - 401(k) plan
+  - Unlimited PTO
+  - 10+ company-paid holidays
+  - A daily company-wide break, and more!
+  
+  Equal Opportunity Employer
+  
+  Knotch is a US-based equal opportunity employer. We strive
+  to provide equal opportunities in all of our processes,
+  including our hiring and employee experience. We pride
+  ourselves on our three values: transparency, relentlessness,
+  and inclusiveness.
+  
+  
+  
+  We commit to daily work towards leading with empathy,
+  reducing bias through periodic training, and engaging with
+  and uplifting communities of marginalized groups. We condemn
+  all forms of racism and discrimination on the basis of race,
+  religion, ethnicity, nationality, gender identity, sexual
+  orientation, age, marital status, pregnancy or parenthood
+  status, veteran status, disability status, or any other
+  identifier. We encourage all employees, clients, investors,
+  candidates, vendors, and friends of Knotch to deliver honest
+  feedback directly or anonymously so that we may always seek
+  to improve as an organization dedicated to diversity,
+  equity, inclusion, and belonging.
+industries:
+  - AdTech
+  - Big Data
+  - Enterprise Web
+  - Marketing Tech
+  - Software
+posted_date: 2026-03-17
+url: "https://www.builtinla.com/job/ai-engineer/8779536"
+source: Built In

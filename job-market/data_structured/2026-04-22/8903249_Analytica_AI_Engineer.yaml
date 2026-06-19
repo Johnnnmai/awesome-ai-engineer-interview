@@ -1,0 +1,53 @@
+company:
+  name: Analytica
+  stage: Growth stage (recognized by Inc. 250 fastest-growing)
+  focus: |-
+    Consulting and IT solutions for U.S. government public
+    sector clients
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily about operational support and
+      maintenance of existing AI systems rather than building,
+      training, or fine-tuning models. The responsibilities focus
+      on user onboarding, access management, troubleshooting,
+      CI/CD workflows, and compliance — all enabling/support
+      functions for AI systems that others have built.
+  responsibilities:
+  - Provide operational support for enterprise AI capabilities including onboarding
+    users, managing access controls, triaging issues, and monitoring performance
+  - Maintain AI solution configurations in Azure including role-based access, usage
+    tracking, and troubleshooting
+  - Support AI Innovation team's solutions deployed across multi-cloud environments
+    (Azure, Appian, Salesforce, ServiceNow)
+  - Participate in CI/CD workflows using GitHub Enterprise and manage PBIs, bugs,
+    and change requests
+  - Support continuous validation, security compliance, and Authority to Operate (ATO)
+    requirements for AI systems
+  - Assist in implementing responsible AI monitoring, model evaluation, and improving
+    AI user experience per agency governance guidance
+  use_cases:
+  - Enterprise AI capability modernization for financial regulatory client
+  - AI operations and monitoring within Azure-based data management and analytics
+    platforms
+  - Responsible AI governance and compliance monitoring for government agency
+  - Multi-cloud AI solution support across Azure, Appian, Salesforce, and ServiceNow
+    environments
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure AI Services, Azure Machine Learning]
+    ops: [Terraform, GitHub Enterprise, CI/CD, Infrastructure as Code]
+    languages: [Python, SQL]
+    domains: []
+    other: [Appian, Salesforce, ServiceNow, Agile]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8903249'
+  extracted_at: '2026-04-22T12:44:09.930898'

@@ -1,0 +1,54 @@
+company:
+  name: Deel
+  stage: Late-stage (valued at $17.3B with $1B ARR)
+  focus: |-
+    Global payroll and HR platform with AI-powered tools for
+    international teams
+position:
+  title: AI/ML Engineer, Python
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves developing and maintaining AI/ML
+      algorithms, building and deploying AI models, and
+      implementing research in NLP, text processing, and machine
+      learning. The position requires hands-on work with AI models
+      in production environments and specifically mentions
+      delivering AI/ML solutions within a product.
+  responsibilities:
+  - Develop and maintain AI and machine learning algorithms using Python
+  - Build and deploy scalable, reliable, and efficient AI models using cloud computing
+    platforms
+  - Create and maintain data pipelines and ETL processes to extract, transform, and
+    load data from various sources
+  - Collaborate with cross-functional teams including data scientists, data engineers,
+    Product and business stakeholders to develop solutions
+  - Write clean and efficient code implementing best practices for optimization, testing,
+    and deployment through Jupyter Notebooks and Google Colab
+  - Conduct research on latest AI and Machine Learning techniques and incorporate
+    new methods into existing systems
+  - Troubleshoot and debug code, resolving technical issues during development, testing,
+    and deployment
+  - Create documentation for code, data pipelines, and models for stakeholder access
+  use_cases:
+  - Information retrieval and search within payroll/HR platform
+  - Text processing and natural language understanding for HR documents and workflows
+  - Machine learning solutions integrated into the Deel payroll and HR product
+  - AI-powered tools supporting global payroll, compliance, and HR operations
+  skills:
+    genai: []
+    ml: [information retrieval, text processing, machine learning, Jupyter Notebooks,
+      Google Colab]
+    web: []
+    databases: [PostgreSQL]
+    data: [ETL, data pipelines]
+    cloud: [cloud computing platforms]
+    ops: []
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8804518'
+  extracted_at: '2026-03-27T13:43:35.075536'

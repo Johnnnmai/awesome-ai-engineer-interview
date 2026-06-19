@@ -1,0 +1,55 @@
+company:
+  name: Aeris Communications
+  stage: null
+  focus: |-
+    Cellular IoT connectivity platform for enterprise IoT
+    devices
+position:
+  title: Lead Quality Development (SDET) Engineer-Gen AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Quality Engineering/SDET role that uses AI tools
+      (GitHub Copilot, AI-driven self-healing test frameworks) to
+      assist in testing workflows, but does not build, train,
+      fine-tune, or deploy AI/ML models. The AI usage is辅助 —
+      leveraging AI to accelerate test development, log analysis,
+      and self-healing automation rather than developing the
+      underlying AI systems themselves.
+  responsibilities:
+  - Design, evolve, and maintain scalable test automation frameworks across UI, API,
+    and integration layers
+  - Leverage AI-assisted tools like GitHub Copilot to accelerate test development,
+    refactoring, and debugging
+  - Drive functional, regression, and integration testing strategies with an automation-first
+    mindset
+  - Integrate automated test suites into CI/CD pipelines using Jenkins, GitHub Actions,
+    or GitLab CI
+  - Design and implement AI-driven self-healing automation capabilities including
+    intelligent locator recovery
+  - Lead analysis of test failures, logs, and production defects with root cause analysis
+  - Apply AI-based log analysis and failure pattern detection to identify systemic
+    quality issues
+  - Mentor junior engineers and define best practices for AI-enabled Quality Engineering
+  use_cases:
+  - AI-assisted test automation and self-healing test frameworks for IoT platform
+    quality
+  - AI-driven log analysis and failure pattern detection for defect prevention
+  - Prompt-driven AI agent concepts for test and code generation
+  - Automated quality engineering for IoT connectivity and telecom systems
+  skills:
+    genai: [GitHub Copilot, VS Code Copilot, Prompt engineering, AI agent concepts]
+    ml: []
+    web: [Cucumber, Selenium WebDriver, Playwright]
+    databases: [Postgres, Redis, Elasticsearch]
+    data: [Kafka]
+    cloud: [AWS, GCP, Azure]
+    ops: [Jenkins, GitHub Actions, GitLab CI, CI/CD, Docker, JMeter, Gatling, Git]
+    languages: [Python, Java, JavaScript, TypeScript, SQL]
+    domains: []
+    other: [API testing, BDD frameworks]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8248746'
+  extracted_at: '2026-04-22T13:20:39.806848'

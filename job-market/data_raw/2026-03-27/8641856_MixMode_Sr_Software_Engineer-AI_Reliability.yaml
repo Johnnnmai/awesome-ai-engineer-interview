@@ -1,0 +1,157 @@
+job_id: 8641856
+title: Sr. Software Engineer-AI Reliability
+company: MixMode
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Java
+  - Kotlin
+  - Kubernetes
+  - Logging
+  - Metrics
+  - Python
+  - Relational Databases
+  - Scala
+  - Tracing
+description: |
+  MixMode is a leading provider of AI-powered cybersecurity
+  solutions at scale, pioneering a patented third-wave,
+  context-aware AI approach that automatically learns and
+  adapts to dynamic environments. The MixMode platform
+  delivers self-supervised, real-time threat detection for
+  known and unknown threats across cloud, hybrid, and on-
+  premises environments. Large organizations with big data
+  workloads – including those in enterprise, critical
+  infrastructure, US Department of War and US Intelligence
+  Community – trust MixMode to defend their most important
+  assets. Backed by PSG and Entrada Ventures, MixMode is
+  headquartered in Santa Barbara, California. Learn more at
+  www.mixmode.ai.
+  
+  Job Summary:
+  
+  We are hiring a Senior Software Engineer to enhance the
+  reliability, performance, and scalability of our production
+  AI systems. We value clear thinking, incremental
+  improvement, and engineers with real production incident
+  experience. This role focuses on understanding, refining,
+  and strengthening existing distributed services across
+  application, database, and container orchestration layers.
+  You will collaborate with ML researchers to make our systems
+  more robust, maintainable, flexible, and scalable.
+  
+  What you’ll be doing (responsibilities):
+  
+  - Own the reliability, performance, and operational health of
+    production AI services
+  - Refactor and harden existing systems to improve resilience,
+    clarity, and maintainability
+  - Diagnose and resolve issues across distributed services,
+    data pipelines, and storage layers
+  - Design and implement monitoring, alerting, and debugging
+    tools for high-availability systems
+  - Partner with researchers and engineers to productionize
+    predictive systems at scale
+  - Establish best practices for testing, deployment, capacity
+    planning, and incident response
+  - Contribute to incident response and postmortems, driving
+    continuous improvement
+  
+  What you’ll need to bring (qualifications):
+  
+  - Ability to travel to our office in Santa Barbara, CA, a few
+    times per year
+  - 7+ years of professional software engineering experience
+  - Strong proficiency in Python and at least one JVM language
+    (Java, Scala, Kotlin)
+  - Proven experience designing, building, and operating
+    distributed systems in production
+  - Strong understanding of service architecture, concurrency,
+    resource management, and distributed failure modes
+  - Experience operating Kubernetes deployments
+  - Strong experience with relational databases, including query
+    performance analysis, indexing, and connection management
+  - Demonstrated ability to diagnose and resolve performance,
+    scalability, and reliability issues across system layers
+  - Experience implementing automated testing and production
+    observability (logging, metrics, tracing)
+  - Experience collaborating with ML or data science teams (deep
+    ML expertise is not required)
+  - Ability to improve system architecture and engineering
+    practices through design, code review, and mentorship
+  
+  Our Interview Process:
+  
+  Our interview process focuses on real-world production
+  experience and practical systems thinking. We assess how you
+  reason about distributed systems, refactor existing code,
+  and operate under real constraints—not abstract puzzles. We
+  support the use of AI tools in our development, but we want
+  to understand your capabilities first. No AI tools will be
+  allowed for remote interviews early in the process.
+  
+  The process includes:
+  
+  - Conversations about systems you’ve personally owned,
+    improved, and operated in production
+  - A live refactoring and testing exercise in your choice of
+    Java, Kotlin, or Scala, centered on improving existing
+    code without changing behavior
+  - A distributed systems discussion covering performance, state
+    management, failure modes, and debugging under load
+  - An ML production discussion focused on stabilizing and
+    operating model-driven systems in real environments
+  - The final stage of our interview process includes an in-
+    person conversation at our Santa Barbara office, focused
+    on senior-level ownership, judgment, and technical
+    leadership
+  
+  We are open to hiring great talent who may have
+  qualifications above or below those specifically listed in
+  this job description. Pursuant to California law, we must
+  display the pay range for this job. Since we are willing to
+  hire within a broad spectrum of qualifications, we also
+  reflect a broad pay range.  The base hourly range that we
+  are targeting for this position is $150,000-$210,000 though
+  we can adjust based on individual qualifications. Individual
+  salary is determined by qualifications, role, level, and
+  location.
+  
+  Compensation and benefits are competitive based on industry
+  standards. Benefits for full-time team members include:
+  
+  - Remote-First Work Culture
+  - Healthcare (Medical, Dental, Vision, Accident)
+  - Basic & Voluntary Life and AD&D
+  - Flexible Spending Account (FSA)
+  - 401(k) with Employer Match
+  - Paid Holidays & Flexible Paid Time Off (PTO)
+  
+  MixMode provides equal employment opportunities to all
+  employees and applicants for employment and prohibits
+  discrimination and harassment of any type without regard to
+  race, color, religion, age, sex, national origin, disability
+  status, genetics, protected veteran status, sexual
+  orientation, gender identity or expression, or any other
+  characteristic protected by federal, state or local laws.
+  This policy applies to all terms and conditions of
+  employment, including recruiting, hiring, placement,
+  promotion, termination, layoff, recall, transfer, leaves of
+  absence, compensation and training. Disability and
+  Reasonable Accommodations  |  E-Verify  |  Right to Work
+  
+  Please note: MixMode does not accept unsolicited resumes
+  from recruiters or employment agencies. In the event of a
+  recruiter or agency submitting a resume or candidate without
+  a signed agreement being in place, we explicitly reserve the
+  right to pursue and hire such candidates without any
+  financial obligation to the recruiter or agency. Any
+  unsolicited resumes, including those submitted directly to
+  hiring managers, are deemed to be the property of MixMode.
+industries:
+  - Big Data
+  - Cybersecurity
+posted_date: 2026-03-03
+url: "https://www.builtinla.com/job/sr-software-engineer-ai-reliability/8641856"
+source: Built In

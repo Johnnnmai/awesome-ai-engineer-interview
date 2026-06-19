@@ -1,0 +1,53 @@
+company:
+  name: WEX Inc.
+  stage: Public
+  focus: Financial technology and payment processing solutions
+position:
+  title: Software AI Engineer Mid-Level,  Context Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly builds and maintains the "Context Layer"
+      connecting enterprise data to LLMs, implements RAG patterns,
+      develops tool-execution environments for AI agents, and
+      works with vector databases and agentic workflows. While it
+      has a strong software engineering foundation, the core work
+      is hands-on building AI infrastructure that powers LLMs and
+      agents — making it ai-first.
+  responsibilities:
+  - Implement and maintain core services for the AI Data Lakehouse, focusing on efficient
+    data retrieval and storage optimizations for AI workflows
+  - Build and support CI/CD pipelines to automate the deployment of AI models, prompt
+    templates, and infrastructure updates
+  - Develop and test tool-execution environments and API interfaces that allow AI
+    agents to interact with internal business systems safely
+  - Work on the Context Fabric to implement search and retrieval patterns (like RAG)
+    that help agents access secure enterprise data
+  - Assist in managing cloud resources across AWS and Azure, ensuring environments
+    are cost-effective and secure
+  - Participate in on-call rotations and troubleshooting to ensure platform reliability,
+    writing unit tests, integration tests, and documentation for new features
+  use_cases:
+  - Enterprise context retrieval for AI agents via RAG patterns
+  - AI Data Lakehouse for efficient data retrieval and storage for AI workflows
+  - Agentic tool execution allowing AI agents to interact with internal business systems
+  - Automated deployment of AI models and prompt templates
+  - Secure enterprise data access for LLM-powered applications
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, Model Context Protocol (MCP), Function Calling,
+      Prompt Templates, Agentic Workflows]
+    ml: []
+    web: [RESTful APIs, gRPC]
+    databases: [Postgres, MySQL, Pinecone, Milvus]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [Terraform, CI/CD, GitHub Actions, GitLab CI, Jenkins, Prometheus, Grafana,
+      CloudWatch, Docker]
+    languages: [Python, Java, Scala, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9114817'
+  extracted_at: '2026-04-22T13:19:58.912219'

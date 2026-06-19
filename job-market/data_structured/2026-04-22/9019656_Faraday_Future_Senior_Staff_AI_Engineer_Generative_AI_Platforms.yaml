@@ -1,0 +1,61 @@
+company:
+  name: Faraday Future
+  stage: Public
+  focus: |-
+    Design and development of intelligent electric vehicles and
+    AI-enabled technologies
+position:
+  title: Senior Staff AI Engineer, Generative AI Platforms
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building of AI-native platforms
+      including multi-agent orchestration, prompt systems, memory
+      layers, and generative content pipelines. The engineer
+      directly designs and ships AI agents, tool integrations, and
+      production-grade automation systems — clearly working ON AI
+      systems, not just supporting them.
+  responsibilities:
+  - Build AI-powered workflow systems that automate complex creative and business
+    tasks for marketing, content, and operations teams
+  - Design and implement multi-agent orchestration infrastructure including state
+    machines, supervisor-executor patterns, task scheduling, memory systems, and failure
+    recovery
+  - Architect end-to-end generative AI pipelines spanning image, video, copy, and
+    multimodal asset generation for brand marketing and product launches
+  - Integrate AI tools, MCP-based plugins, and third-party services into production-grade
+    workflows operable by business users
+  - Use AI coding tools as primary development method and establish engineering workflows
+    that maximize one-engineer throughput
+  - Work with cross-functional stakeholders to translate business requirements into
+    technical solutions and measure impact on delivery metrics
+  - Design shared components, asset libraries, SOPs, and self-serve tooling for reuse
+    and scale across teams
+  - Continuously evaluate emerging models, agent frameworks, and creative AI tools
+    through rapid prototyping and production validation
+  use_cases:
+  - Automated content and asset generation for automotive brand marketing campaigns
+  - Multi-agent orchestration for creative operations workflow automation
+  - Generative media pipelines for visual storytelling, image, and video production
+  - Self-serve AI platform enabling non-technical teams to configure and run AI-powered
+    workflows
+  - AI-assisted engineering practices to amplify individual engineer productivity
+  - Cross-functional business process automation across marketing, content, and operations
+  skills:
+    genai: [LangGraph, CrewAI, MCP Protocol, Vercel AI SDK, Prompt Engineering, Multi-agent
+        orchestration, RAG, OpenAI API, Claude API, OpenRouter, Composio, Midjourney,
+      Runway, ComfyUI, Flux, LobeHub]
+    ml: []
+    web: [Next.js, Node.js, Tauri, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Unreal Engine, Blender, Cursor (AI coding tool), Claude Code]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9019656'
+  extracted_at: '2026-04-22T13:43:21.641861'

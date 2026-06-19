@@ -1,0 +1,145 @@
+job_id: 9119538
+title: AI Engineer
+company: Ceres Life Insurance Company
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Docker
+  - Kubeflow
+  - Kubernetes
+  - Mlflow
+  - Python
+  - PyTorch
+  - Sagemaker
+  - TensorFlow
+description: |
+  Company Overview:
+  
+  Westaim and CC Capital have joined forces to strategically
+  transform Westaim from a holding company into a global
+  alternative credit asset manager with a unique, integrated
+  insurance platform, branded as The Westaim Corporation. This
+  partnership supports a long-term vision to deliver
+  innovative, customized financial solutions across
+  alternative credit and insurance, creating scalable growth
+  and meaningful client impact.
+  
+  Ceres USA Holdings, LLC, part of the insurance platform
+  within The Westaim Corporation strategy, is the parent
+  company of Ceres Life Insurance—a fast-growing, technology-
+  driven annuity carrier startup. Ceres is focused on
+  redefining retirement security by combining modern fintech
+  capabilities, top-tier talent, and strong vendor
+  partnerships to deliver exceptional annuity solutions and
+  digital experiences.
+  
+  Ceres is deeply committed to a client-centered culture.
+  Through its Digital Contact Center and advisor-facing
+  platforms, the company delivers proactive, personalized, and
+  technology-enabled support that empowers clients and
+  advisors while maintaining the highest standards of trust,
+  security, and regulatory compliance.
+  
+  Position Summary Reporting to the Chief Innovation Officer
+  and working alongside the Head of Data Analytics and Head of
+  Data Engineering, the Artificial Intelligence Engineer will
+  design, develop, and deploy generative AI and
+  machine‑learning solutions across Ceres Life’s core
+  pipelines and customer‑facing tools. You will embed NLP/LLM
+  capabilities for agent portals, application and onboarding,
+  customer service chatbots, and predictive models, ensuring
+  our AI initiatives deliver measurable business value and
+  operational efficiency.
+  
+  Key Responsibilities
+  
+  Generative AI & ML Development
+  
+  - Model Selection & Fine‑Tuning: Evaluate, select, and
+    fine‑tune large language models and specialty AI
+    frameworks (e.g., LLMs for document summarization,
+    transformers for risk scoring).
+  - Prompt Engineering: Craft and optimize prompts for diverse
+    use cases—automated eApp summarization, policy
+    recommendation engines, conversational assistants.
+  - MLOps & Deployment: Build reproducible, scalable pipelines
+    for model training, validation, monitoring, and versioning
+    using tools like MLflow, Kubeflow, or SageMaker.
+  
+  Integration & Automation
+  
+  - API Development: Create robust APIs and microservices to
+    surface AI capabilities (chatbots, document ingestion,
+    predictive alerts) within the agent portal and internal
+    dashboards.
+  - Workflow Automation: Partner with Operations & Customer
+    Experience to automate tasks such as licensing checks,
+    claims triage, and commission forecasting using AI‑driven
+    workflows.
+  - Continuous Improvement: Instrument A/B tests and performance
+    metrics to monitor model accuracy, latency, and user
+    satisfaction; iterate on models and prompts accordingly.
+  
+  Cross‑Functional Collaboration
+  
+  - Data Partnership: Work closely with Data Engineering and
+    Analytics teams to ensure high‑quality feature
+    engineering, data preprocessing, and real‑time data
+    access.
+  - Stakeholder Engagement: Translate technical possibilities
+    into clear business cases for product, CX, and risk teams;
+    present AI proofs‑of‑concept at Technology & Innovation
+    Committee meetings.
+  - Ethics & Compliance: Embed AI governance practices—bias
+    mitigation, privacy controls, audit trails—in accordance
+    with industry regulations and internal policies.
+  
+  Qualifications & Experience
+  
+  - Technical Expertise: 5+ years designing and deploying
+    machine‑learning and generative AI solutions in
+    production; strong Python proficiency and experience with
+    PyTorch or TensorFlow.
+  - LLM & NLP Skills: Hands‑on experience working with large
+    language models (e.g., OpenAI, Anthropic, or open‑source
+    alternatives), prompt engineering, and transformer
+    architectures.
+  - MLOps Proficiency: Familiarity with CI/CD for ML,
+    containerization (Docker/Kubernetes), and monitoring
+    frameworks.
+  - Insurance/Financial Services Exposure: Prior experience in
+    insurance, banking, or related domains
+    preferred—understanding of annuity products, regulatory
+    constraints, or risk modeling is a plus.
+  - Problem‑Solving & Communication: Strong analytical mindset
+    with the ability to convey complex AI concepts to
+    non‑technical stakeholders and drive adoption across
+    teams.
+  - Education: Bachelor’s or Master’s in Computer Science,
+    Machine Learning, Data Science, or related field.
+  
+  Why Join Us?
+  
+  - Innovation at Scale: Lead end‑to‑end AI initiatives in a
+    high‑visibility role, shaping Ceres Life’s future as an
+    insurtech pioneer.
+  - Collaborative Culture: Partner with seasoned executives and
+    cross‑functional experts to deliver impactful AI
+    solutions.
+  - Career Growth: Build the AI engineering function from the
+    ground up, with opportunities for leadership and
+    influence.
+  - Cutting‑Edge Technology: Work with the latest LLMs, MLOps
+    tools, and cloud platforms to revolutionize the insurance
+    experience.
+  
+  If you’re passionate about harnessing generative AI to
+  transform financial services and thrive in an
+  entrepreneurial environment, we’d love to meet you.
+industries:
+  - Insurance
+  - Software
+posted_date: 2026-04-22
+url: "https://www.builtinla.com/job/ai-engineer/9119538"
+source: Built In

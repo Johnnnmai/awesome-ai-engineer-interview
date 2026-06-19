@@ -1,0 +1,58 @@
+company:
+  name: R1 RCM
+  stage: Public
+  focus: Healthcare revenue cycle management services
+position:
+  title: Senior Staff Engineer - IT (AI Engineer - IT)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building and maintaining infrastructure
+      that supports AI/ML platforms rather than directly building,
+      training, or fine-tuning models. The engineer enables AI
+      services through infrastructure engineering, automation, and
+      operational reliability - supporting model hosting,
+      inference environments, and deployments but not working
+      hands-on with the models themselves.
+  responsibilities:
+  - Design and maintain AI-driven infrastructure solutions supporting AI and machine-learning
+    services, model hosting, automation, and enterprise integrations
+  - Build and enhance automation and operational tooling using Python and PowerShell
+    for AI and ML platforms
+  - Provision, configure, and operate AI platform components including Azure OpenAI,
+    AI Search, Functions, Logic Apps, App Services, Storage, Tables, Key Vault, and
+    Log Analytics
+  - Enable infrastructure required for ML model training, deployment, and inference
+    workloads
+  - Implement repeatable and governed deployments using Infrastructure-as-Code and
+    CI/CD practices
+  - Support AI and ML model integrations from an infrastructure, runtime reliability,
+    and scalability standpoint
+  - Establish monitoring, logging, and alerting for AI/ML workloads to ensure platform
+    availability and proactive issue detection
+  - Apply security, compliance, and cost governance controls relevant to AI and ML
+    platforms
+  use_cases:
+  - Healthcare revenue cycle management
+  - Enterprise AI/ML platform enablement
+  - Model training and inference infrastructure
+  - AI service automation and integration
+  - Enterprise-scale AI platform operations
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure OpenAI, Azure AI Search, Azure Functions, Azure Logic Apps, Azure
+        App Services, Azure Storage, Azure Key Vault, Azure Log Analytics]
+    ops: [CI/CD, GitHub Actions, Azure DevOps, Terraform, Infrastructure-as-Code,
+      Application Insights, MLOps, Docker]
+    languages: [Python, PowerShell]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8412095'
+  extracted_at: '2026-03-03T11:50:50.872646'

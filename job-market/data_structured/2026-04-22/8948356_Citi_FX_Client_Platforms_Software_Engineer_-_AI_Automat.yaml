@@ -1,0 +1,48 @@
+company:
+  name: Citi
+  stage: Public
+  focus: |-
+    Global banking and financial services, largest FX presence
+    worldwide
+position:
+  title: FX Client Platforms Software Engineer - AI Automation (VP)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the "AI Automation" label in the job title, the
+      actual responsibilities and requirements focus entirely on
+      building FX trading systems, low-latency development, and
+      system architecture. There is no mention of building,
+      training, fine-tuning, or deploying AI/ML models. The role
+      appears to be a traditional software engineering position
+      within an FX technology team where AI may be a tangential
+      consideration at best.
+  responsibilities:
+  - Hands-on technical implementation of FX trading systems
+  - Collaborate with cross-functional FX Technology teams to implement business solutions
+  - Drive design and development of system architecture for FX platforms
+  - Work with end-users to enhance quality of deliverables
+  - Define and implement best practices and processes for the department
+  - Work directly with trading and quant teams on technical solutions
+  - Maintain documentation and ensure compliance with Citi policies and procedures
+  use_cases:
+  - FX trading platform development and automation
+  - Low-latency trading system design and implementation
+  - Legacy system modernization and replacement for FX operations
+  - System architecture for global FX client platforms
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python, Java]
+    domains: [FX trading systems]
+    other: [Low-latency development, System architecture design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8948356'
+  extracted_at: '2026-04-22T12:32:09.665482'

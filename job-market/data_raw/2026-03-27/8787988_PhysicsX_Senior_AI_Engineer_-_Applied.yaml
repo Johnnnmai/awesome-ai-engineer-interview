@@ -1,0 +1,145 @@
+job_id: 8787988
+title: Senior AI Engineer - Applied
+company: PhysicsX
+location: London, GBR
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Agentic Frameworks
+  - Docker
+  - Go
+  - Kubernetes
+  - Otel
+  - Python
+  - Terraform
+  - Typescript
+  - Vector Dbs
+company_size: 67 Employees
+description: |
+  About us
+  
+  PhysicsX is a deep-tech company with roots in numerical
+  physics and Formula One, dedicated to accelerating hardware
+  innovation at the speed of software.
+  
+  We are building an AI-driven simulation software stack for
+  engineering and manufacturing across advanced industries. By
+  enabling high-fidelity, multi-physics simulation through AI
+  inference across the entire engineering lifecycle, PhysicsX
+  unlocks new levels of optimization and automation in design,
+  manufacturing, and operations — empowering engineers to push
+  the boundaries of possibility. Our customers include leading
+  innovators in Aerospace & Defense, Materials, Energy,
+  Semiconductors, and Automotive.
+  
+  The Mission
+  
+  We’re looking for a hands-on Senior Applied AI Engineer to
+  build the AI agents that transform Engineering workflows
+  across industries such as Manufacturing, Aerospace, and
+  Semi-conductor. You'll be building the advanced workflows
+  that power next-generation simulation and design tools used
+  by industry-leading engineering teams. Our platform allows
+  Forward Deployed Engineers (FDEs) and customers to build and
+  deploy deep learning surrogates that solve massive
+  engineering challenges.
+  
+  Your mission is to build advanced Agentic workflows that
+  drive real value for our customers across the Engineering
+  industry.
+  
+  Core Responsibilities
+  
+  You will work with our product teams and customers to build
+  and deploy agentic functionality directly into our platform,
+  as well as deeply integrate our capabilities into how our
+  customers operate.
+  
+  - You are an expert in building and orchestrating AI Agents.
+    You know how to chain LLMs, tools, and data to solve
+    complex reasoning tasks.
+  - You aggressively dogfood our tools to build production
+    solutions, and you provide direct feedback to improve the
+    Developer Experience.
+  - Collaborative: You excel at partnering with domain experts
+    (e.g. Physicists) to understand their mental models and
+    codify them into agents.
+  
+  Core Responsibilities
+  
+  You will be the tip of the spear for our Agentic
+  capabilities, proving what is possible and helping us
+  productise it.
+  
+  - Be "Customer Zero": Aggressively dogfood our internal
+    platform. If the Developer Experience hurts, you are the
+    first to flag it and help fix it.
+  - Build Advanced Agentic Workflows: Design and implement
+    complex agents that leverage our surrogates and simulation
+    tools to solve specific customer problems.
+  - Drive Product Strategy: Use your direct experience building
+    solutions to identify common patterns across customers.
+    You will help decide what functionality belongs in the
+    platform vs. what stays in the application layer.
+  - Rigorous Evals & Tracing: You don't just ship "vibes." You
+    implement systematic evaluation loops and deep tracing to
+    prove that your agents are reliable, robust, and improving
+    over time.
+  
+  The Tech Stack
+  
+  - Languages: Python (Primary), Go or TypeScript (Secondary).
+  - Platform tooling: Kubernetes, Docker, Terraform.
+  - Agentic Infrastructure: Agentic Frameworks, Vector DBs
+  - Observability: OTel, Agent Tracing / Evaluations tooling
+  
+  Who You Are
+  
+  - A Builder First: You judge your success by shipping working
+    agents that solve real problems in production, not just by
+    writing design docs.
+  - Strategic & Broad: You don't just solve the problem in front
+    of you; you look for the "generalisable proof-point" that
+    informs the broader platform strategy.
+  - Empirical: You value systematic measurement over intuition.
+    You believe that if you can't trace it and eval it, you
+    can't ship it.
+  - Agentic Native: You have a deep spike in Agentic Systems.
+    You are comfortable working with domain experts to
+    translate their knowledge into deterministic tools and
+    workflows.
+  
+  Qualifications
+  
+  - 3+ years of experience in Applied AI, ML Engineering, or
+    Software Engineering.
+  - Proven experience building and deploying AI Agents or
+    complex LLM workflows in production.
+  - Demonstrated ability to collaborate with Domain Experts to
+    solve complex, domain-specific problems.
+  
+  
+  
+  We value diversity and are committed to equal employment
+  opportunity regardless of sex, race, religion, ethnicity,
+  nationality, disability, age, sexual orientation or gender
+  identity. We strongly encourage individuals from groups
+  traditionally underrepresented in tech to apply. To help
+  make a change, we sponsor bright women from disadvantaged
+  backgrounds through their university degrees in science and
+  mathematics.
+  
+  
+  
+  We collect diversity and inclusion data solely for the
+  purpose of monitoring the effectiveness of our equal
+  opportunities policies and ensuring compliance with UK
+  employment and equality legislation. This information is
+  confidential, used only in aggregate form, and will not
+  influence the outcome of your application.
+industries:
+  - Machine Learning
+  - Software
+posted_date: 2026-03-18
+url: "https://builtin.com/job/senior-ai-engineer-applied/8787988"
+source: Built In

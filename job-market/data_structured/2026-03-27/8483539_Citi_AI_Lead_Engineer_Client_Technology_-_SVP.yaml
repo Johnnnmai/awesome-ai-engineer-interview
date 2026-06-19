@@ -1,0 +1,52 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: AI Lead Engineer, Client Technology - SVP
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves designing, developing, and
+      deploying AI agents and generative AI solutions, including
+      LLM integration, RAG systems, and autonomous agent
+      architectures. The position requires hands-on work with
+      agent-based systems, prompt engineering, and building
+      production AI systems.
+  responsibilities:
+  - Design, implement, and deploy intelligent AI agents with perception, reasoning,
+    planning, and action execution modules
+  - Develop scalable architectures for agentic systems and generative AI applications
+  - Integrate machine learning models and LLMs using platforms like OpenAI, Anthropic,
+    and Bedrock APIs
+  - Build agents that automate complex tasks and optimize workflows across various
+    domains
+  - Develop full-stack applications integrating ML/LLM tools with MVP-first, iterative
+    approach
+  - Design and implement evaluation metrics and strategies for agent performance optimization
+  - Lead technical teams and collaborate with cross-functional teams on AI solution
+    integration
+  - Create comprehensive technical documentation for agent designs and implementations
+  use_cases:
+  - Autonomous task automation and workflow optimization
+  - Intelligent agents for financial services operations
+  - Generative AI solutions for enterprise applications
+  - Decision-making systems with multi-agent coordination
+  - Production AI systems for real-world business problems
+  skills:
+    genai: [LangChain, AutoGen, CrewAI, RAG, OpenAI API, Anthropic API, Amazon Bedrock,
+      Prompt Engineering]
+    ml: [PyTorch, TensorFlow, Scikit-Learn, Reinforcement Learning]
+    web: [FastAPI, Django, Flask, Spring Boot, React, Next.js, Node.js]
+    databases: []
+    data: [PySpark, NumPy, Pandas]
+    cloud: []
+    ops: [Docker, Kubernetes, CI/CD, Git]
+    languages: [Python, Java, JavaScript, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8483539'
+  extracted_at: '2026-03-27T15:38:45.675415'

@@ -1,0 +1,49 @@
+company:
+  name: LogicMonitor
+  stage: null
+  focus: |-
+    AI-first hybrid observability platform for IT infrastructure
+    monitoring
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying LLM-based
+      solutions, RAG systems, and NLP models for observability.
+      The engineer will work hands-on with generative AI, prompt
+      engineering, and embedding-based search - all core AI/ML
+      model development and deployment work.
+  responsibilities:
+  - Build and optimize LLM-based solutions for incident reports, root cause explanations,
+    and remediation suggestions
+  - Implement retrieval-augmented generation (RAG) to surface relevant documentation,
+    logs, and knowledge base insights
+  - Develop semantic search and context-aware retrieval solutions for IT teams
+  - Optimize AI models for real-time performance in distributed cloud-native environments
+  - Work cross-functionally with platform engineers, product teams, and data scientists
+  - Integrate state-of-the-art AI models into LogicMonitor's observability platform
+  - Drive innovation in AI-powered observability solutions
+  use_cases:
+  - IT infrastructure observability and monitoring
+  - Automated incident reporting and root cause analysis
+  - Remediation suggestions for IT issues
+  - Semantic search across logs, metrics, and documentation
+  - Knowledge retrieval for IT operations teams
+  skills:
+    genai: [LLMs, RAG, prompt engineering, OpenAI]
+    ml: [NLP, transformer models, embedding-based search, semantic retrieval, Hugging
+        Face, text clustering]
+    web: [microservices, REST APIs]
+    databases: []
+    data: [search algorithms, ranking techniques]
+    cloud: [AWS, GCP]
+    ops: [Kubernetes, Docker]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8435451'
+  extracted_at: '2026-03-03T12:41:07.478111'

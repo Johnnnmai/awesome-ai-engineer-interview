@@ -1,0 +1,56 @@
+company:
+  name: Revvity
+  stage: Public
+  focus: End-to-end health science solutions and diagnostics
+position:
+  title: Principal AI Developer - Finance Automation & Enterprise Integration
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI
+      solutions including LLM integration, prompt engineering, and
+      AI model optimization for enterprise applications. The
+      developer will architect and implement AI systems for
+      financial automation, establishing MLOps pipelines and
+      working hands-on with RAG and fine-tuning techniques.
+  responsibilities:
+  - Architect and lead development of enterprise-scale AI solutions for financial
+    process automation (P2P, O2C, R2R cycles)
+  - Design and implement advanced prompt engineering frameworks for complex financial
+    document processing and analysis
+  - Lead integration projects connecting AI models with SAP S/4HANA, Salesforce Financial
+    Services Cloud, and multi-cloud environments
+  - Establish CI/CD pipelines for AI model deployment with enterprise-grade security,
+    compliance, and monitoring
+  - Drive technical decision-making for cloud infrastructure scaling across AWS/Azure/GCP
+    platforms
+  - Mentor junior developers and establish technical standards for the India AI development
+    team
+  - Lead vendor evaluations and technology partnerships for next-generation AI capabilities
+  - Ensure compliance with global data governance, financial regulations, and security
+    standards
+  use_cases:
+  - Financial process automation including procure-to-pay, order-to-cash, and record-to-report
+    cycles
+  - Complex financial document processing and analysis
+  - Real-time financial analytics and predictive modeling
+  - Intelligent financial reporting systems
+  - Enterprise workflow automation across finance and operations
+  skills:
+    genai: [LLM integration, prompt engineering, RAG (Retrieval-Augmented Generation),
+      fine-tuning, multi-modal AI]
+    ml: []
+    web: [API development, microservices architecture]
+    databases: []
+    data: [ETL pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, GitHub Actions, AWS CodePipeline, MLOps]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [SAP S/4HANA, SAP FI/CO, SAP BTP, Salesforce Financial Services Cloud,
+      Agile/Scrum]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8085814'
+  extracted_at: '2026-03-03T12:37:28.352318'

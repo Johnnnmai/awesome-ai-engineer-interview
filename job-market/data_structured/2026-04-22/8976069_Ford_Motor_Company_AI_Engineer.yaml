@@ -1,0 +1,54 @@
+company:
+  name: Ford Motor Company
+  stage: Public
+  focus: |-
+    Global automotive manufacturer with financial services risk
+    analytics
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building, deploying, and managing LLM-
+      powered applications, AI agents, and GenAI tools. The
+      engineer is hands-on with foundation models, LangChain,
+      vector databases, and LLM orchestration — clearly working ON
+      AI systems, not just supporting them.
+  responsibilities:
+  - Architect and build LLM-powered applications, AI agents, and workflow automations
+    for model validators and quantitative modelers
+  - Establish robust AI-Ops pipelines managing the end-to-end lifecycle of Generative
+    AI tools including deployment, version control, prompt tracking, and monitoring
+  - Deploy highly available AI microservices on Google Cloud Platform using Infrastructure
+    as Code and CI/CD pipelines
+  - Collaborate with analytical modelers to understand bottlenecks and translate pain
+    points into effective AI solutions
+  - Ensure all internal AI tools adhere to data privacy, security, and compliance
+    standards with appropriate guardrails
+  - Build AI co-pilots for code generation, automated model-documentation generators,
+    and monitoring agents
+  use_cases:
+  - AI co-pilots for code generation assisting quantitative modelers
+  - Automated model documentation generation for risk models
+  - Independent validation agents for model review processes
+  - Monitoring agents for ongoing model performance tracking
+  - Code-translation and modernization tools for SAS-to-Python migration
+  - Workflow automations for data preparation and feature engineering
+  skills:
+    genai: [LangChain, Google ADK, MCP, LLM orchestration frameworks, Foundation models,
+      AI agents, Prompt tracking, Sentence Transformer, ColBERT, Hallucination mitigation,
+      RAG]
+    ml: [PyTorch]
+    web: [FastAPI, Flask]
+    databases: [Vector search, GCP Vertex Vector Search, BigQuery]
+    data: [Pandas]
+    cloud: [Google Cloud Platform, Cloud Build, Cloud Run]
+    ops: [Terraform, Docker, Kubernetes, CI/CD, LLMOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8976069'
+  extracted_at: '2026-04-22T13:47:17.540629'

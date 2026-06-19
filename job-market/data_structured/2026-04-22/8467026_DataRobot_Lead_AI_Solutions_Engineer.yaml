@@ -1,0 +1,52 @@
+company:
+  name: DataRobot
+  stage: Late-stage / Mature (established enterprise AI company)
+  focus: |-
+    AI platform for developing, delivering, and governing
+    predictive and generative AI at scale
+position:
+  title: Lead AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on building of agentic AI
+      applications using LLM frameworks, agent orchestration
+      patterns, MCP servers, and tool APIs. The engineer directly
+      designs and builds enterprise-grade MVP AI agent
+      applications, which constitutes working ON AI systems rather
+      than merely supporting them.
+  responsibilities:
+  - Design and build enterprise-grade MVP agentic AI applications rapidly, often within
+    days, for prospective customers
+  - Partner with customers, subject matter experts, and pre-sales teams to translate
+    ambiguous business problems into compelling AI prototypes
+  - Design and implement Agent Skills, MCP servers, tool APIs, and external system
+    integrations
+  - Create polished, production-inspired prototypes with strong UX/UI design that
+    showcase modern AI architecture
+  - Implement agent tracing, observability, logging, and evaluation for AI applications
+  - Lead technical conversations with non-technical stakeholders to explain AI concepts
+    in value-driven terms
+  - Travel up to 25% to customer meetings, workshops, and industry conferences
+  use_cases:
+  - Enterprise agentic AI application prototyping for business process transformation
+  - Customer-facing AI MVP development to demonstrate value of AI agents
+  - Designing and orchestrating multi-agent workflows with tool integrations
+  - Building credible, extensible AI application foundations for enterprise customers
+  skills:
+    genai: [LLM Frameworks & Agent Orchestration, OpenAI Agents SDK, Claude Code,
+      MCP (Model Context Protocol), Agent Skills, Agent Tracing & Observability]
+    ml: []
+    web: [React, shadcn/ui, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Cursor]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8467026'
+  extracted_at: '2026-04-22T13:46:47.436670'

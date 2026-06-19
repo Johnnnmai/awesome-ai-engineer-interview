@@ -1,0 +1,49 @@
+company:
+  name: dentsu
+  stage: Public
+  focus: Global advertising and digital marketing agency
+position:
+  title: Senior Cloud Systems Engineer (Python & AI Integration)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly implementing and orchestrating
+      LLMs, Vector Databases, and RAG pipelines using the
+      Microsoft Agent Framework. The engineer will build
+      production AI systems including agentic behaviors and real-
+      time streaming for a conversational AI platform, not just
+      supporting infrastructure.
+  responsibilities:
+  - Design and deploy cloud infrastructure within Azure with resilience, monitoring,
+    and security (RBAC)
+  - Develop high-concurrency APIs using Python and FastAPI to support agentic behaviors
+    and real-time streaming
+  - Manage full deployment lifecycle across environments and build automation paths
+  - Implement and orchestrate LLMs, Vector Databases, and RAG pipelines using Microsoft
+    Agent Framework (MAF)
+  - Build data flows for agent memory and prepare integrations with Adobe Experience
+    Platform and Salesforce Data Cloud
+  - Navigate enterprise environment and manage communications with multiple stakeholders
+  use_cases:
+  - AI conversational platform for Fortune 500 telecommunications client
+  - Chat interface with streaming responses and long-term memory
+  - Agentic behaviors and real-time AI interactions
+  - Enterprise-scale AI deployment within Azure ecosystem
+  - Agent memory persistence and data orchestration
+  skills:
+    genai: [Microsoft Agent Framework (MAF), LLMs, RAG pipelines]
+    ml: []
+    web: [FastAPI]
+    databases: [Vector Databases, Postgres]
+    data: []
+    cloud: [Azure, Azure Functions, Azure Container Apps, Azure API Management, Azure
+        RBAC]
+    ops: [Docker]
+    languages: [Python]
+    domains: []
+    other: [Adobe Experience Platform, Salesforce Data Cloud]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8779401'
+  extracted_at: '2026-03-27T14:04:49.203283'

@@ -1,0 +1,230 @@
+job_id: 8883620
+title: Senior Security Engineer, Agentic AI
+company: Trail of Bits
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - C++
+  - Go
+  - JavaScript
+  - Kotlin
+  - Objective-C
+  - Python
+  - Ruby
+  - Rust
+  - Swift
+  - Typescript
+description: |
+  Who We Are
+  
+  Founded in 2012 by 3 expert hackers with no investment
+  capital, Trail of Bits is the premier place for security
+  experts to boldly advance security and address technology’s
+  newest and most challenging risks. It has helped secure some
+  of the world's most targeted organizations and devices. Our
+  combination of novel research with practical solutions
+  reduces the security risks that our clients face from
+  emerging technologies. Our work helps drive the security
+  industry and the public understanding of the technology
+  underlying our world.
+  
+  Cybersecurity preparedness is a moving target. Companies
+  like ours are the tip of the spear in the fight against
+  attackers. Our research-based and custom-engineering
+  approach ensures that our client’s capabilities are at the
+  forefront of what’s available. For companies and
+  technologies that live and die by their security, a
+  proactive, tailored approach is required to keep one step
+  ahead of attackers.
+  
+  Democratizing security information is essential. As part of
+  our business, we provide ongoing informational support
+  through blogs, whitepapers, newsletters, meetups, and open-
+  source tools. The more the community understands security,
+  the more they’ll understand why a company like ours is so
+  unique and valuable.
+  
+  Role
+  
+  Trail of Bits seeks a Senior Security Engineer specializing
+  in Application Security for Agentic AI systems, within our
+  growing Software Assurance team. You will conduct
+  comprehensive security assessments of large language model
+  systems, examining software across the AI supply chain and
+  application stack — such as LLM web applications, agentic
+  coding tools, training data and inference pipelines, and
+  guardrail mechanisms. Additionally, this role will be
+  responsible for development, and operationalization of
+  prompt injection techniques, for use in end-to-end
+  application security reviews. You will identify and analyze
+  novel attack vectors and vulnerabilities specific to AI and
+  agentic environments, focusing on real-world failure modes,
+  system integration issues, and unauthorized access vectors.
+  This role allows you to apply application security
+  experience and adversarial thinking to the latest agentic
+  systems and buisness integrations.
+  
+  
+  
+  In addition to performing technical assessments, you will
+  contribute to threat modeling, adoption risk frameworks for
+  generative AI tooling, and delivering specialized training
+  to clients on Agentic AI security concepts, including prompt
+  injection, ML-specific attacks, and data pipeline threats.
+  
+  
+  
+  What You'll Achieve
+  
+  
+  
+  - Agentic AI Security Assessments: Conduct comprehensive
+    application security assessments of agentic AI pipelines,
+    tools, and frameworks for leading companies and labs.
+    Examine vulnerabilities in model architectures,
+    guardrails, and deployment infrastructure while developing
+    mitigation strategies.
+  - Prompt Injection Research & Development: Develop and share
+    novel prompt injection techniques targeting agentic
+    workflows, including indirect injection via tool outputs,
+    multi-turn manipulation, and cross-agent exploitation.
+    Produce actionable attack libraries and defensive
+    countermeasures for client engagements.
+  - Application Security Assessment: Conduct security
+    assessments of client code bases using a combination of
+    static analysis, dynamic testing, and manual code review,
+    identifying vulnerabilities and developing mitigation
+    strategies, with a focus on findings at the intersection
+    of application security and Agentic AI security.
+  - Threat Modeling: Conduct threat modeling and risk
+    assessments to proactively identify potential risks for
+    clients and develop mitigation strategies for future
+    prevention, with particular attention to prompt injection
+    attack surfaces in agentic orchestration layers.
+  - Client Engagement: Work with leading industry teams to
+    review system code and architecture, and help assure their
+    products through system analysis and modeling.
+  - AI Policy & Compliance Initiatives: Develop and contribute
+    to AI regulatory frameworks, establishing assurance
+    methods and auditing processes for mission-critical AI
+    applications while ensuring alignment with emerging
+    industry standards and safety requirements.
+  
+  
+  
+  What You'll Bring
+  
+  
+  
+  - AI Security Expertise: Demonstrated interest and experience
+    in agentic AI security, with demonstrated ability to
+    identify and mitigate AI-specific vulnerabilities across
+    complex systems, including hands-on experience with prompt
+    injection attacks and defenses.
+  - Technical AI Knowledge: Deep understanding of AI/ML
+    architectures, frameworks (PyTorch, Jax, LangChain, RAG
+    systems, etc.), and MLOps practices, combined with robust
+    security engineering expertise.
+  - Application Security Skills: Track record of conducting
+    technical security assessments of software, including
+    software and system hardening, security policy analysis,
+    and implementing effective security measures.
+  - Prompt Injection Proficiency: Practical experience designing
+    and executing prompt injection workflows against
+    production LLM systems, agentic pipelines, and tool-use
+    environments, including familiarity with emerging
+    taxonomies and mitigation approaches.
+  - Programming Proficiency: Strong knowledge of multiple
+    programming languages such as Rust, Golang, Kotlin, Swift,
+    Objective-C, JavaScript/TypeScript, Python, Ruby, C and/or
+    C++ for both security analysis and tool development.
+  - Hacker Mindset: A creative and adversarial mindset, with a
+    passion for discovering novel attack vectors and
+    understanding how systems work across many layers of
+    abstraction.
+  - Communication Skills: Ability to effectively communicate
+    complex security concepts to diverse stakeholders and
+    deliver clear, actionable recommendations.
+  
+  The base salary for this full-time position ranges from
+  $100,000 to $200,000 excluding benefits and potential
+  bonuses. Various factors influence our salary ranges,
+  including the specific role, level of seniority, geographic
+  location, and the nature of the employment contract. An
+  individual's specific work location, unique skills,
+  experience, and relevant educational background will
+  determine the final offer within this range. The presented
+  salary range encompasses the starting salaries for all U.S.
+  locations. For a precise salary estimate tailored to your
+  preferred location, please discuss it with your recruiter
+  during the hiring process.
+  
+  Trail of Bits, Inc. participates in E-Verify, the US federal
+  electronic employment eligibility verification program.
+  Learn more.
+  
+  Only applications completed via our Careers page will be
+  considered for further review.
+  
+  When you apply, you'll be added to our newsletter so you can
+  stay updated on company news and opportunities. You can opt
+  out anytime.
+  
+  BenefitsBenefits, Perks & Wellness
+  
+  Trail of Bits is our people, not a place. With over 100+
+  employees working from every time zone across the globe, our
+  remote-first culture is built on autonomy and trust (and
+  backed by smile-worthy benefits) for full-time employees:
+  
+  
+  
+  Empowered Living:
+  
+  - Competitive salary complemented by performance-based
+    bonuses.
+  - Fully company-paid insurance packages, including health,
+    dental, vision, disability, and life.
+  - A solid 401(k) plan with a 5% match of your base salary.
+  - 20 days of paid vacation with flexibility for more, adhering
+    to jurisdictional regulations.
+  
+  
+  
+  Nurturing New Beginnings:
+  
+  - 4 months of parental leave to cherish the arrival of new
+    family members.
+  - Our team is global and remote-first. However, if you are
+    interested in moving to NYC, we offer $10,000 in
+    relocation assistance to support your transition.
+  
+  
+  
+  Work & Life Enrichment:
+  
+  - $1,000 Working-from-Home stipend to create a comfortable and
+    productive home office.
+  - Annual $750 Learning & Development stipend for continuous
+    personal and professional growth.
+  - Company-sponsored all-team celebrations, including travel
+    and accommodation, to foster community and recognize
+    achievements.
+  
+  
+  
+  Community Impact:
+  
+  - Philanthropic contribution matching up to $2,000 annually.
+industries:
+  - Artificial Intelligence
+  - Blockchain
+  - Professional Services
+  - Security
+  - Consulting
+  - Cybersecurity
+  - Defense
+posted_date: 2026-03-27
+url: "https://www.builtinla.com/job/senior-security-engineer-agentic-ai/8883620"
+source: Built In

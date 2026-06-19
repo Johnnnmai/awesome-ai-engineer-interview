@@ -1,0 +1,274 @@
+job_id: 9007383
+title: Senior ServiceNow AI Engineer
+company: CVS Health
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Advanced Scripting
+  - Ci/Cd
+  - Moveworks
+  - Now Assist
+  - Oauth
+  - Performance Analytics
+  - Rest Apis
+  - Servicenow
+description: |
+  We’re building a world of health around every individual —
+  shaping a more connected, convenient and compassionate
+  health experience. At CVS Health®, you’ll be surrounded by
+  passionate colleagues who care deeply, innovate with
+  purpose, hold ourselves accountable and prioritize safety
+  and quality in everything we do. Join us and be part of
+  something bigger – helping to simplify health care one
+  person, one family and one community at a time.
+  
+  POSITION SUMMARY
+  
+  CVS Health is seeking a ServiceNow AI Engineer, a platform
+  engineering role responsible for enabling, scaling, and
+  operating enterprise AI capabilities across the ServiceNow
+  platform. This role focuses on Now Assist and Moveworks
+  integration, delivering secure, governed, and reusable AI
+  services that can be consumed consistently across HRSD,
+  ITSM, ITOM, and broader ESM domains.
+  
+  Operating within the ServiceNow Platform Engineering
+  organization, this role emphasizes configuration‑first AI
+  enablement, standardized patterns, and guardrails—ensuring
+  AI solutions are scalable, measurable, and aligned with
+  enterprise security, privacy, and governance standards.
+  
+  Role Scope & Operating Model
+  
+  - Scope: Platform‑wide (shared AI services across all
+    ServiceNow products)
+  - Model: Central Platform Engineering (not embedded in a
+    single product team)
+  - Primary AI Capabilities: Now Assist Skills, Now Assist
+    Agents, Now Assist Agentic Workflows, Moveworks Agent to
+    Agent Integration, AI Control Tower, Now Assist for
+    Creator
+  - Engineering Approach: Configuration‑first, with selective
+    scripting and integration development as needed
+  - Success Metrics (Examples)
+  
+  - Adoption and enablement of Now Assist and Moveworks across
+    ServiceNow domains
+  - Reduction in manual handling time through AI assistance
+  - Self‑service containment and deflection improvements
+  - Stability and upgrade safety of AI configurations
+  - Compliance with AI governance and audit requirements
+  
+  What we expect of you
+  
+  1) Enterprise AI Enablement (Now Assist & Moveworks)
+  
+  - Configure, deploy, and operate Now Assist capabilities
+    (Skills, Agents, Agentic Workflows, Agent to Agent
+    Integration, AI Control Tower, Now Assist for Creator).
+  - Integrate and align Moveworks with ServiceNow experiences,
+    ensuring seamless handoff, consistent intents, and
+    enterprise‑approved patterns.
+  - Develop within platform‑level AI standards for enterprise
+    re-use and scalability.
+  - Support Citizen Developer model for AI Enablement.
+  - Support ESM SDLC process (Development, Testing, Code
+    Migration, Deployment)
+  
+  2) Platform Architecture & Reusable Patterns
+  
+  - Design and maintain reusable AI configurations, including
+    Skills and Agents.
+  - Define reference architectures for common use cases across
+    AI configurations.
+  - Ensure AI solutions align with ServiceNow platform
+    architecture, performance expectations, and upgrade
+    compatibility.
+  
+  3) Configuration‑First Engineering with Selective Scripting
+  
+  - Leverage out‑of‑the‑box and configurable AI features
+    wherever possible to maximize maintainability and upgrade
+    safety.
+  - Use scripting and custom logic only when required to extend
+    capabilities, integrate systems, or enforce enterprise
+    guardrails.
+  - Build and maintain integrations using Integration Hub, APIs,
+    and event‑driven patterns to support AI‑initiated actions.
+  
+  4) Responsible AI, Security, and Governance
+  
+  - Responsible AI Governance to ensure:
+    - Appropriate data access boundaries
+    - Role‑based controls and logging
+    - Human‑in‑the‑loop and escalation patterns
+  - Support architecture reviews, AI technical governance
+    boards, and risk assessments for AI features.
+  - Document AI designs, data sources, and controls to support
+    audit and compliance requirements.
+  
+  5) Measurement, Optimization, and Observability
+  
+  - Support the definition of and monitoring of platform‑level
+    AI KPIs.
+  - Continuously tune prompts, intents, and configurations based
+    on usage data and outcomes.
+  - Partner with product teams to validate AI value realization
+    across domains.
+  
+  6) Platform Operations & Lifecycle Management
+  
+  - Establish operational runbooks for AI capabilities,
+    including monitoring, incident response, and problem
+    management.
+  - Manage AI feature lifecycle across environments (lower →
+    production), including testing, releases, and upgrades.
+  - Evaluate new ServiceNow AI features and vendor enhancements,
+    providing recommendations for platform adoption.
+  
+  REQUIRED QUALIFICATIONS
+  
+  - 5+ years of ServiceNow platform engineering or development
+    experience.
+  - 3+ years of experience in ServiceNow configuration, security
+    model, data structures, scripting and integration
+    patterns.
+  - 3+ years of experience working in a central platform or
+    shared services model.
+  - At least 1+ years of experience enabling Now Assist or
+    AI‑assisted ServiceNow capabilities in production.
+  - At least 1+ years of experience in translating enterprise AI
+    strategy into practical, governed platform capabilities.
+  
+  PREFERRED QUALIFICATIONS
+  
+  - Experience integrating or operating Moveworks with
+    ServiceNow.
+  - Experience with knowledge management, service catalog
+    design, and intent modeling.
+  - Familiarity with AI governance, privacy, and enterprise risk
+    management concepts.
+  - Experience supporting multiple ServiceNow domains (HRSD,
+    ITSM, ITOM, ESM).
+  - Technical Skills
+  
+  - ServiceNow: Now Assist (all capabilities), Flow Designer,
+    IntegrationHub, Performance Analytics, Advanced Scripting
+  - AI Enablement: prompt configuration, intent/topic modeling,
+    fallback and escalation design, evaluation metrics
+  - Integration: REST APIs, OAuth, data mapping, event‑based
+    workflows
+  - Engineering Practices: configuration management, CI/CD
+    awareness, documentation, upgrade readiness.
+  
+  - Certifications
+  
+  - ServiceNow Certified System Administrator (CSA)
+  - ServiceNow Application Developer
+  - ServiceNow Implementation Specialist (any major domain)
+  - ServiceNow AI‑related credentials (where available)
+  - Enterprise AI governance or cloud AI fundamentals training
+  
+  - Key Partnerships
+  
+  - Platform Architecture & Engineering
+  - Product Owners across HRSD, ITSM, ITOM, ESM
+  - Security, Risk, and Compliance
+  - AI Technical Governance / Architecture Review Boards
+  - Service Operations & Knowledge Management
+  
+  EDUCATION
+  
+  Bachelor’s degree from accredited university or equivalent
+  work experience (HS diploma + 4 years relevant experience).
+  
+  BUSINESS OVERVIEW
+  
+  Bring your heart to CVS Health Every one of us at CVS Health
+  shares a single, clear purpose: Bringing our heart to every
+  moment of your health. This purpose guides our commitment to
+  deliver enhanced human-centric health care for a rapidly
+  changing world. Anchored in our brand — with heart at its
+  center — our purpose sends a personal message that how we
+  deliver our services is just as important as what we
+  deliver.  Our Heart At Work Behaviors™ support this purpose.
+  We want everyone who works at CVS Health to feel empowered
+  by the role they play in transforming our culture and
+  accelerating our ability to innovate and deliver solutions
+  to make health care more personal, convenient and
+  affordable.  We strive to promote and sustain a culture of
+  diversity, inclusion and belonging every day.  CVS Health is
+  an affirmative action employer, and is an equal opportunity
+  employer, as are the physician-owned businesses for which
+  CVS Health provides management services. We do not
+  discriminate in recruiting, hiring, promotion, or any other
+  personnel action based on race, ethnicity, color, national
+  origin, sex/gender, sexual orientation, gender identity or
+  expression, religion, age, disability, protected veteran
+  status, or any other characteristic protected by applicable
+  federal, state, or local law.  We proudly support and
+  encourage people with military experience (active, veterans,
+  reservists and National Guard) as well as military spouses
+  to apply for CVS Health job opportunities.
+  
+  Anticipated Weekly Hours
+  
+  40
+  
+  Time Type
+  
+  Full time
+  
+  Pay Range
+  
+  The typical pay range for this role is:
+  
+  $101,970.00 - $203,940.00
+  
+  This pay range represents the base hourly rate or base
+  annual full-time salary for all positions in the job grade
+  within which this position falls.  The actual base salary
+  offer will depend on a variety of factors including
+  experience, education, geography and other relevant factors.
+  This position is eligible for a CVS Health bonus, commission
+  or short-term incentive program in addition to the base pay
+  range listed above.
+  
+  
+  Our people fuel our future. Our teams reflect the customers,
+  patients, members and communities we serve and we are
+  committed to fostering a workplace where every colleague
+  feels valued and that they belong.
+  
+  Great benefits for great people
+  
+  We take pride in offering a comprehensive and competitive
+  mix of pay and benefits that reflects our commitment to our
+  colleagues and their families.
+  
+  This full‑time position is eligible for a comprehensive
+  benefits package designed to support the physical,
+  emotional, and financial well‑being of colleagues and their
+  families. The benefits for this position include medical,
+  dental, and vision coverage, paid time off, retirement
+  savings options, wellness programs, and other resources,
+  based on eligibility.
+  
+  Additional details about available benefits are provided
+  during the application process and on Benefits Moments.
+  
+  We anticipate the application window for this opening will
+  close on: 06/30/2026
+  
+  Qualified applicants with arrest or conviction records will
+  be considered for employment in accordance with all federal,
+  state and local laws.
+industries:
+  - Fitness
+  - Healthtech
+  - Retail
+  - Pharmaceutical
+posted_date: 2026-04-10
+url: "https://www.builtinla.com/job/senior-servicenow-ai-engineer/9007383"
+source: Built In

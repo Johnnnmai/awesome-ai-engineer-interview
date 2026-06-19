@@ -1,0 +1,52 @@
+company:
+  name: TriEdge Investments
+  stage: Early-stage
+  focus: |-
+    AI-native asset management platform for healthcare
+    facilities and multifamily real estate
+position:
+  title: Backend Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and operating AI systems
+      directly - document processing pipelines, extraction agents,
+      entity resolution systems, and conversational query
+      interfaces using LLMs and agent frameworks. The engineer
+      will work hands-on with LLMs, prompt chains, tool-use
+      patterns, and retrieval strategies to build production AI
+      systems.
+  responsibilities:
+  - Design and build AI agent workflows for document extraction, entity resolution,
+    and data structuring
+  - Build reliable backend infrastructure including queues, pipelines, and orchestration
+    using Inngest and Supabase
+  - Design PostgreSQL schemas, optimize queries, and model complex financial data
+  - Instrument, monitor, and debug AI pipelines with understanding of failure modes
+    and guardrails
+  - Develop and optimize prompt chains, tool-use patterns, and retrieval strategies
+  - Collaborate with product and frontend engineers to expose AI capabilities through
+    the product
+  use_cases:
+  - Document processing and extraction for asset management workflows
+  - Entity resolution and computed attribute systems for financial data
+  - Conversational query interface for complex data interaction
+  - Real-time visibility into asset performance, deal progress, and market conditions
+  - AI-driven multidimensional optimization with risk scores and tax strategies
+  skills:
+    genai: [LangChain/LangGraph, OpenAI API, Anthropic API, prompt engineering, RAG,
+      AI agents, function calling, LLMs]
+    ml: []
+    web: []
+    databases: [PostgreSQL, Supabase]
+    data: [Inngest, Temporal, workflow orchestration, data pipelines]
+    cloud: []
+    ops: []
+    languages: [TypeScript, Node.js, SQL]
+    domains: []
+    other: [OCR, document processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8778091'
+  extracted_at: '2026-03-27T14:13:41.650938'

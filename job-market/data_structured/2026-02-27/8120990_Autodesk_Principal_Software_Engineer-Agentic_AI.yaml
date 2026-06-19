@@ -1,0 +1,54 @@
+company:
+  name: Autodesk
+  stage: Public
+  focus: |-
+    Design and make software for architecture, engineering,
+    construction, manufacturing, and entertainment
+position:
+  title: Principal Software Engineer-Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building and deploying AI
+      agents, multi-agent frameworks, and LLM-powered systems. The
+      position involves hands-on work with agentic AI
+      architectures, model fine-tuning, prompt engineering, and
+      autonomous systems development - all core AI/ML work on the
+      models themselves.
+  responsibilities:
+  - Architect, develop, and optimize agentic AI systems including autonomous agents,
+    multi-agent frameworks, and LLM-powered agents
+  - Integrate AI agent solutions into existing Autodesk platforms and workflows
+  - Assess emerging agentic AI models, frameworks, and tooling through prototyping
+    and benchmarking
+  - Deploy agentic AI solutions into production environments with focus on reliability
+    and operational excellence
+  - Monitor agent behavior, detect anomalies, refine policies, and establish feedback
+    loops for continuous learning
+  - Ensure agentic AI systems adhere to ethical guidelines, regulatory requirements,
+    and governance standards
+  - Partner with architects, engineers, product managers, and stakeholders to communicate
+    technical concepts
+  use_cases:
+  - Autonomous reasoning and decision-making agents for design and make workflows
+  - Multi-agent systems for Autodesk platform automation
+  - Domain-aware intelligent systems for architecture, engineering, and manufacturing
+  - Agent-driven workspace for unified user experience across Autodesk products
+  - Self-directed execution systems for design automation
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, Model Context Protocol (MCP), LLMs, Chain-of-thought
+        prompting, Prompt engineering, Model fine-tuning, Embeddings]
+    ml: [Reinforcement learning, Planning algorithms, Multi-agent systems]
+    web: []
+    databases: [Knowledge stores]
+    data: []
+    cloud: [AWS, Azure, Google Cloud Platform, Cloud-based AI services]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8120990'
+  extracted_at: '2026-03-03T11:50:12.673345'

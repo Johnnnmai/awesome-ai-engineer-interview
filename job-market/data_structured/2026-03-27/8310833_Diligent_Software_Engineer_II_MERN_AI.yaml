@@ -1,0 +1,47 @@
+company:
+  name: Diligent
+  stage: null
+  focus: Governance, risk and compliance (GRC) SaaS solutions
+position:
+  title: Software Engineer II (MERN + AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a general software engineering role that uses AI
+      tools to boost productivity (coding, debugging, testing),
+      not building or deploying AI/ML systems. The role builds
+      serverless microservices and RESTful APIs with TypeScript,
+      while AI is used as an assistive tool rather than the core
+      technical work.
+  responsibilities:
+  - Own and deliver well-defined stories independently with clear grasp of team architecture,
+    frameworks, and tools
+  - Contribute to code reviews, testing practices, and maintain service stability
+  - Support and guide junior engineers (SE-I), fostering collaboration and knowledge
+    sharing
+  - Maintain healthy development flow by adhering to Agile processes and driving iterative
+    enhancements
+  - Use AI tools to accelerate coding, debugging, testing, research, and code reviews
+    while validating outputs
+  - Understand core LLM concepts and recognize safe vs. unsafe use cases, flagging
+    ethical, privacy, or cost concerns
+  use_cases:
+  - Governance, risk and compliance (GRC) SaaS platform
+  - Board and C-Suite risk management and decision-making
+  - Enterprise governance workflow automation
+  skills:
+    genai: [prompt engineering, LLM concepts]
+    ml: []
+    web: [React, Angular, RESTful APIs]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Git, CDK, Terraform, CI/CD]
+    languages: [TypeScript, Node.js, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8310833'
+  extracted_at: '2026-03-27T14:11:17.733896'

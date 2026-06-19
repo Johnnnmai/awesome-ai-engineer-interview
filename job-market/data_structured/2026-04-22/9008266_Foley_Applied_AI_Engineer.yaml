@@ -1,0 +1,56 @@
+company:
+  name: Foley
+  stage: Growth/Established (evolved SaaS company)
+  focus: |-
+    SaaS platform for hiring, compliance, and risk management in
+    safety-sensitive industries
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is a forward-deployed AI builder tasked with
+      designing, building, and deploying AI-powered systems
+      including agentic workflows, RAG, and tool-using AI systems
+      end-to-end. The engineer works directly with LLMs, agents,
+      and orchestration frameworks to ship production solutions —
+      clearly hands-on with AI/ML model deployment and
+      integration.
+  responsibilities:
+  - Design and build AI-powered systems end-to-end including agentic workflows, internal
+    tools, and automation pipelines
+  - Own solutions from concept through production including iteration and improvement
+  - Embed with operations, compliance, sales, and product teams to identify pain points
+    and translate workflows into scalable systems
+  - Define success metrics and measure whether solutions improve speed, quality, or
+    decision-making
+  - Design composable, reusable solutions that integrate into the broader platform
+  - Build with awareness of regulatory constraints (DOT, FMCSA, PII) ensuring compliance
+    and trust
+  - Share patterns, tools, and learnings with other engineers and review work to raise
+    the bar
+  use_cases:
+  - Agentic workflows and automation for internal business operations
+  - Document processing and structured data extraction
+  - Voice-based AI solutions
+  - Compliance and risk management automation for safety-sensitive industries
+  - Decision-making support systems for transportation, construction, distribution,
+    and utility businesses
+  - Knowledge graph and entity resolution solutions
+  skills:
+    genai: [LLMs, Prompt engineering, RAG, AI agents, Tool use / function calling,
+      LangGraph, CrewAI, MCP]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Document processing, Knowledge graphs, Entity resolution]
+    cloud: []
+    ops: [Langfuse, LangSmith, Observability for AI systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9008266'
+  extracted_at: '2026-04-22T13:37:31.568709'

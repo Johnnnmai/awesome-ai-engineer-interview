@@ -1,0 +1,57 @@
+company:
+  name: Securonix
+  stage: Private (Backed by Vista Equity Partners)
+  focus: |-
+    AI-powered cybersecurity SIEM platform for threat detection
+    and response
+position:
+  title: Senior Site-Reliability Engineer (Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, deploying, and implementing
+      GenAI workflows, integrating LLM copilots with operations
+      tools, and building AI-driven automation systems. The
+      engineer works directly ON AI systems (GenAI workflows, LLM
+      integrations, AI decision models) rather than just
+      supporting infrastructure for AI teams.
+  responsibilities:
+  - Design and deploy GenAI-enabled workflows for proactive incident detection, RCA
+    summarization, and resolution automation
+  - Integrate LLM-based copilots (ChatGPT, Claude, internal GPT models) with SaaSOps
+    tools for smart troubleshooting and impact summaries
+  - Implement automation logic for Spark job failures, pipeline restarts, and alert
+    remediation without human intervention
+  - Build and maintain end-to-end automations across monitoring and incident management
+    systems (Jira, Slack, ServiceNow, CriticalMon, SparkOpsSuite)
+  - Orchestrate recurring SaaSOps tasks using AWX, Airflow, or Python-based automation
+    frameworks
+  - Integrate AI decision models into workflows to optimize change management, alert
+    correlation, and resource scaling
+  - Extend monitoring coverage through AI-driven alert correlation and anomaly detection
+    models
+  - Use GenAI to generate incident summaries, health reports, and RCA narratives in
+    real time
+  use_cases:
+  - Proactive incident detection and automated resolution in SaaS operations
+  - Root cause analysis automation and summarization for infrastructure issues
+  - Self-healing infrastructure for Spark, EKS, and cloud environments
+  - Intelligent alert correlation and anomaly detection for cybersecurity monitoring
+  - AI-assisted log analysis and incident triage
+  - Automated Spark job failure recovery and pipeline management
+  skills:
+    genai: [OpenAI API, Anthropic Claude, Azure OpenAI, Hugging Face, LLM integration]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: [Airflow, Spark]
+    cloud: [AWS, Azure, EKS, CloudWatch]
+    ops: [AWX, Datadog, Prometheus, Grafana, Jira, ServiceNow, Slack]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8582728'
+  extracted_at: '2026-03-03T12:28:09.889908'

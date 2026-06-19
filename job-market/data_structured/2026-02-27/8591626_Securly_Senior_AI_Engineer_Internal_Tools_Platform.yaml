@@ -1,0 +1,54 @@
+company:
+  name: Securly
+  stage: Growth/Scale-up (recognized as market leader with 20M+ students, 20K+ schools,
+    EdTech Top 40)
+  focus: |-
+    AI-powered student safety and wellness solutions for K-12
+    schools
+position:
+  title: Senior AI Engineer – Internal Tools & Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI-powered internal
+      tools including LLM integration, embeddings, and RAG-style
+      systems. The engineer will design, develop, and deploy
+      production AI capabilities like copilots, summarization,
+      classification, and workflow automation - not just
+      supporting infrastructure for others' AI work.
+  responsibilities:
+  - Design and build internal AI-powered tools used daily across the organization
+  - Develop AI capabilities including internal search, copilots, summarization, classification,
+    and workflow automation
+  - Ship full-stack applications using modern frontend frameworks and cloud-native
+    serverless backend infrastructure
+  - Apply LLMs and automation techniques to real operational problems, evaluating
+    tradeoffs between accuracy, cost, latency, and usability
+  - Integrate AI systems with internal data sources and third-party platforms
+  - Build scalable APIs and services using AWS and serverless architectures
+  - Implement data pipelines and background processing using S3, SQS and similar services
+  - Partner with cross-functional teams including Finance, Sales, Support, Product,
+    and Engineering
+  use_cases:
+  - Internal search and knowledge retrieval across organization data
+  - AI copilots and assistants for business teams
+  - Document and content summarization
+  - Text classification and categorization
+  - Workflow automation to reduce manual effort
+  - Cross-functional team productivity enhancement
+  skills:
+    genai: [LLM integration, embeddings, RAG, AI-enhanced search, prompt engineering]
+    ml: []
+    web: [Next.js, React, Node.js, Tailwind CSS, REST APIs]
+    databases: [PostgreSQL, vector search]
+    data: []
+    cloud: [AWS Lambda, AWS S3, AWS SQS, serverless architectures]
+    ops: [Docker]
+    languages: [TypeScript, JavaScript, Python]
+    domains: []
+    other: [Salesforce integration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8591626'
+  extracted_at: '2026-03-03T12:48:09.944048'

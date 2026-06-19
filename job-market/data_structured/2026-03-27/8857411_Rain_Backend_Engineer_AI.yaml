@@ -1,0 +1,47 @@
+company:
+  name: Rain
+  stage: Series B
+  focus: |-
+    Stablecoin payments infrastructure for card transactions,
+    cross-border payments, and B2B purchases
+position:
+  title: Backend Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-powered features, agents, and
+      automation directly into the core platform, including
+      agentic payment systems. The position requires hands-on
+      experience with LLMs, tool calling, prompt architecture, and
+      retrieval patterns, indicating direct work on AI systems.
+  responsibilities:
+  - Build and scale backend systems, APIs, and data pipelines that power Rain
+  - Design and ship AI-powered features, agents, and automation into the core platform
+  - Build shared AI infrastructure including composable tool interfaces, eval frameworks,
+    and permission-aware data access
+  - Rapidly ship new capabilities to customers and internal teams
+  - Work embedded with the business to understand workflows firsthand
+  - Contribute to the technical and product roadmap
+  use_cases:
+  - Agentic payment systems for automated financial transactions
+  - AI-powered internal operations automation
+  - Customer-facing AI infrastructure at the intersection of fintech and stablecoins
+  - Smart payment systems with AI decision-making
+  - Cross-border payment optimization with AI
+  skills:
+    genai: [LLMs, Tool calling, Structured outputs, Prompt engineering, Retrieval
+        patterns, RAG, AI agents]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Data pipelines]
+    cloud: []
+    ops: [Eval frameworks]
+    languages: [Node.js]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8857411'
+  extracted_at: '2026-03-27T14:30:22.471329'

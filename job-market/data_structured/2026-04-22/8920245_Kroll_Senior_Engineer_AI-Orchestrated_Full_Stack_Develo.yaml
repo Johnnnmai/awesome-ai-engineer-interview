@@ -1,0 +1,52 @@
+company:
+  name: Kroll
+  stage: Public
+  focus: Global leader in risk and financial advisory solutions
+position:
+  title: Senior Engineer, AI-Orchestrated Full Stack Development
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is fundamentally a full-stack software engineering
+      position that uses AI coding assistants (like Copilot,
+      Cursor, etc.) as productivity tools. The engineer integrates
+      AI services into applications but does not build, train,
+      fine-tune, or deploy AI/ML models themselves. They leverage
+      agentic coding tools to accelerate development but are not
+      working directly on AI/ML systems.
+  responsibilities:
+  - Translate product requirements into technical design and implement full-stack
+    solutions across frontend and backend
+  - Integrate AI services and model APIs into production applications while ensuring
+    secure and compliant data handling
+  - Use AI coding assistants and agentic development tools to generate code scaffolds,
+    refactor components, produce tests, and accelerate documentation
+  - Coordinate multiple AI agents to parallelize development tasks with disciplined
+    review of AI-generated outputs
+  - Create rapid prototypes and iterate on UI/UX flows using AI-assisted design tools
+  - Generate and execute automated test coverage and support performance testing with
+    AI diagnostics
+  - Work directly with advisory professionals to understand workflow bottlenecks and
+    build seamless practitioner solutions
+  use_cases:
+  - AI-augmented full-stack development for risk and financial advisory products
+  - Agentic workflow acceleration for enterprise software delivery
+  - Integration of LLM capabilities into advisory practitioner tools
+  - Rapid prototyping and UI/UX iteration for professional services workflows
+  skills:
+    genai: [LLM API integration, Agentic coding tools, Prompt engineering, AI coding
+        assistants]
+    ml: []
+    web: [API integration, Frontend frameworks]
+    databases: [Databases]
+    data: []
+    cloud: []
+    ops: [Automated testing]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8920245'
+  extracted_at: '2026-04-22T14:03:52.081810'

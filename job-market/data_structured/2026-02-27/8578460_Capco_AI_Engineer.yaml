@@ -1,0 +1,45 @@
+company:
+  name: Capco
+  stage: null
+  focus: Financial services consulting and technology delivery
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying generative AI
+      solutions including foundation models, autonomous agents,
+      and advanced RAG systems. The engineer will work hands-on
+      with LLMs, agentic frameworks, and production AI deployments
+      across the full AI lifecycle.
+  responsibilities:
+  - Build applications leveraging foundation models and advanced GenAI techniques
+    including Agentic RAG and KG-RAG
+  - Develop autonomous agents using modern agentic frameworks
+  - Implement MCP integrations and Python-based full-stack solutions
+  - Create scalable REST APIs and deploy AI workloads on major cloud platforms
+  - Apply LLMOps/MLOps best practices for CI/CD and monitoring
+  - Work across teams to mentor others and drive innovation in embeddings, knowledge
+    graphs, and ontologies
+  use_cases:
+  - Financial services transformation and consulting
+  - Enterprise knowledge management with knowledge graphs and ontologies
+  - Intelligent document processing and retrieval with advanced RAG
+  - Autonomous AI agents for business process automation
+  skills:
+    genai: [Foundation Models, Agentic RAG, KG-RAG, Agentic frameworks, MCP integrations,
+      LLMs, Embeddings, Knowledge graphs, Ontology extraction, Advanced RAG]
+    ml: []
+    web: [REST APIs, Full-stack development]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [LLMOps, MLOps, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Agile development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8578460'
+  extracted_at: '2026-03-03T11:46:35.585980'

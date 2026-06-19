@@ -1,0 +1,156 @@
+job_id: 8953269
+title: Senior Software Engineer, AI
+company: Syllo
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - AWS
+  - Azure
+  - Docker
+  - GCP
+  - Kubernetes
+  - Large Language Models
+  - Microservices
+  - Python
+description: |
+  About Syllo
+  
+  Syllo is on a mission to transform litigation. Our product
+  is an AI-powered litigation workspace that enables lawyers
+  and paralegals to safely harness the power of language
+  models throughout the litigation life cycle. Since going to
+  market, we have gained a diverse group of enterprise
+  customers, including some of the biggest law firms in the
+  country, and we are quickly expanding. By reducing the
+  expense of litigation industry-wide, we aim to improve
+  access to high-quality representation and promote the
+  alignment of legal outcomes with merit.
+  
+  We are a mission-driven venture and recognize the enormous
+  societal benefits that will result from a legal system that
+  works better for everyone.
+  
+  We are seeking a skilled and fast-moving Senior AI Engineer
+  to join our team. This role is focused on the practical
+  application of AI, specifically leveraging Large Language
+  Models (LLMs), to build robust, scalable, and impactful
+  user-facing features. This is an engineering-centric
+  role—you will be an expert at building and integrating
+  production systems, not primarily a research scientist.
+  
+  The Responsibilities
+  
+  - System Design & Implementation: Design and build high-
+    performance, production-level AI-powered features and
+    services, with a focus on reliability and scalability.
+  
+  - Develop robust engineering solutions to mitigate the
+    inherent unreliability of LLMs. This includes implementing
+    effective guardrails, validation pipelines, error
+    handling, caching, and failover/fallback mechanisms to
+    ensure a high-quality user experience even when the model
+    misbehaves.
+  
+  - Focus on optimizing latency, throughput, and cost efficiency
+    for all AI-powered services.
+  
+  - Serve as an engineering expert in integrating models and
+    data feeds with existing business logic and APIs.
+  
+  - Engineering Best Practices & Quality:
+  
+  - Champion and enforce high standards for code quality,
+    architectural design, and system documentation.
+  
+  - Implement rigorous testing strategies, including unit,
+    integration, and performance testing, to ensure the
+    robustness of AI features before and after deployment.
+  
+  - Participate actively in peer code reviews to maintain a high
+    bar for engineering standards across the team.
+  
+  - Feature Delivery & Ownership:
+  
+  - Take ownership of the full lifecycle of new AI features,
+    from initial design and prototyping to testing and
+    deployment into the production environment.
+  
+  - Own the end-to-end development of new features, including
+    API design, integration with front-end services,
+    persistent data storage, and comprehensive
+    monitoring/alerting.
+  
+  - Work closely with product managers and other engineers to
+    scope, estimate, and deliver features on a fast iterative
+    cycle.
+  
+  - Pipeline Enhancement: Quickly onboard onto our existing
+    codebase to understand, maintain, and significantly
+    enhance existing data and feature pipelines, improving
+    their efficiency and robustness.
+  
+  - Tooling & Velocity: Embrace and utilize AI-powered developer
+    tools (such as GitHub Copilot) to maximize your
+    efficiency, demonstrate a commitment to continuous
+    learning, and set a high bar for engineering velocity.
+  
+  
+  
+  Qualifications
+  
+  - Deep Engineering Fluency & Quality Focus: Proven ability to
+    build and deploy complex, high-quality software systems
+    with an emphasis on maintainable code, rigorous testing,
+    and engineering best practices.
+  
+  - Python Proficiency: Fluent in Python and its ecosystem for
+    backend services and data processing.
+  
+  - System Design Expertise: Strong grasp of system design
+    principles, including distributed systems and API design.
+  
+  - Demonstrated ability to design scalable distributed systems,
+    including expertise in microservices architecture.
+  
+  - Codebase Agility: Excellent ability to read, understand, and
+    navigate an unfamiliar codebase quickly.
+  
+  - Fast Learner: A demonstrable history of rapidly acquiring
+    new technical skills and applying them to solve business
+    problems.
+  
+  
+  
+  Great to Have
+  
+  - AI/ML Feature Experience: Experience directly building,
+    shipping, and maintaining AI-powered products, agents, or
+    intelligent features in a commercial setting.
+  
+  - LLM/Generative AI Exposure: Familiarity with the unique
+    engineering challenges of integrating Large Language
+    Models into a production environment.
+  
+  - Hands-on experience with LLM operationalization challenges
+    (MLOps for LLMs), including prompt engineering, working
+    with vector databases, RAG systems, or managing context
+    windows.
+  
+  - Familiarity with cloud platforms (AWS, GCP, Azure) and
+    containerization (Docker, Kubernetes) for deploying and
+    managing services.
+  
+  
+  
+  United States - Remote Pay Range
+  
+  $170,000—$220,000 USD
+industries:
+  - Artificial Intelligence
+  - Legal Tech
+  - Software
+posted_date: 2026-04-03
+url: "https://www.builtinla.com/job/senior-software-engineer-ai/8953269"
+source: Built In

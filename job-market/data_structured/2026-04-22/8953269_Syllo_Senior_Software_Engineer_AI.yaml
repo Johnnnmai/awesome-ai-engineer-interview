@@ -1,0 +1,54 @@
+company:
+  name: Syllo
+  stage: Venture-backed (post-revenue, enterprise customers)
+  focus: |-
+    AI-powered litigation workspace for law firms and legal
+    professionals
+position:
+  title: Senior Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building production-level
+      AI-powered features leveraging LLMs, including implementing
+      guardrails, RAG systems, prompt engineering, and vector
+      databases. The engineer will design and integrate LLM-based
+      services into the product, making this clearly an ai-first
+      role.
+  responsibilities:
+  - Design and build high-performance, production-level AI-powered features and services
+    with a focus on reliability and scalability
+  - Develop robust engineering solutions to mitigate LLM unreliability including guardrails,
+    validation pipelines, error handling, caching, and failover mechanisms
+  - Optimize latency, throughput, and cost efficiency for all AI-powered services
+  - Integrate LLM models and data feeds with existing business logic and APIs
+  - Take ownership of the full lifecycle of new AI features from design and prototyping
+    to testing and production deployment
+  - Maintain and enhance existing data and feature pipelines, improving their efficiency
+    and robustness
+  - Champion high standards for code quality, architectural design, and system documentation
+    including rigorous testing strategies
+  use_cases:
+  - AI-powered litigation workspace for lawyers and paralegals
+  - LLM-driven document analysis and legal workflow automation throughout the litigation
+    life cycle
+  - Production RAG systems for legal information retrieval
+  - Intelligent legal feature development with guardrails for reliability in high-stakes
+    legal contexts
+  skills:
+    genai: [LLM integration, Prompt engineering, RAG systems, LLM guardrails, Context
+        window management]
+    ml: []
+    web: [Microservices architecture, API design, Distributed systems]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps for LLMs, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: [System design, GitHub Copilot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8953269'
+  extracted_at: '2026-04-22T14:10:00.091540'

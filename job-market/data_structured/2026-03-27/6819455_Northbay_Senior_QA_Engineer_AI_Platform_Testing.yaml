@@ -1,0 +1,48 @@
+company:
+  name: Northbay
+  stage: null
+  focus: AI-driven platform solutions and consulting services
+position:
+  title: Senior QA Engineer – AI Platform Testing
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA/testing role that validates AI platform outputs
+      and training data quality, but does not build, train, fine-
+      tune, or deploy AI models. The role supports AI work by
+      ensuring quality through testing, which is enabling work for
+      others who work on AI rather than hands-on work with the
+      models themselves.
+  responsibilities:
+  - Design, write, and execute test cases to validate features, APIs, and end-to-end
+    system integrations
+  - Develop and maintain automated test scripts using Java-based frameworks such as
+    Selenium and TestNG
+  - Conduct manual and exploratory testing for AI model outputs and user workflows
+  - Validate training datasets, detect anomalies, and evaluate model-generated content
+  - Log and track defects with comprehensive documentation using bug tracking tools
+  - Collaborate closely with Machine Learning, Development, and Automation teams to
+    define test strategies and acceptance criteria
+  - Contribute to regression testing cycles and final release validations
+  use_cases:
+  - AI model output validation and quality assurance
+  - Training dataset quality validation and anomaly detection
+  - API testing for AI platform integrations
+  - End-to-end system testing for AI-driven platforms
+  - User workflow testing across web and API-based systems
+  skills:
+    genai: [LLM testing]
+    ml: []
+    web: [Selenium, TestNG, Postman, API testing]
+    databases: []
+    data: []
+    cloud: []
+    ops: [TestRail, Zephyr, JIRA, Azure DevOps]
+    languages: [Java]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6819455'
+  extracted_at: '2026-03-27T14:16:27.369159'

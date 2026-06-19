@@ -1,0 +1,56 @@
+company:
+  name: Rula
+  stage: Growth
+  focus: |-
+    Mental healthcare platform providing evidence-based therapy
+    services
+position:
+  title: Sr. AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, deploying, and
+      fine-tuning AI/ML systems including LLMs, RAG pipelines,
+      agents, and evaluation pipelines. The engineer will directly
+      design AI solutions, integrate foundation models, and ship
+      AI-powered features — clearly working ON AI systems, not
+      just supporting them.
+  responsibilities:
+  - Design, build, and deploy AI-powered features for patients, providers, and internal
+    teams
+  - Prototype AI solutions and iterate quickly based on real-world usage and feedback
+  - Integrate foundation models (OpenAI, Anthropic, Bedrock, Gemini) into production
+    systems
+  - Implement LLM integration patterns including RAG, tool/function calling, agents,
+    and memory routing
+  - Design and maintain evaluation pipelines for human alignment, factual accuracy,
+    and model interpretability
+  - Build and optimize data pipelines and AIOps observability systems for continuous
+    model improvement
+  - Collaborate cross-functionally with product, design, operations, and engineering
+    teams
+  - Deliver secure and compliant AI solutions in regulated healthcare environments
+    (HIPAA)
+  use_cases:
+  - AI-powered mental healthcare experiences for patients and providers
+  - Clinical decision support and human-in-the-loop systems
+  - Provider operations automation and internal team workflow optimization
+  - Patient-facing intelligent features for mental health support
+  - NLP and healthcare AI applications in regulated clinical environments
+  skills:
+    genai: [LangChain, LlamaIndex, DSPy, Haystack, RAG, Tool/function calling, AI
+        agents, OpenAI API, Anthropic API, Prompt engineering]
+    ml: [Model fine-tuning, Evaluation pipelines]
+    web: []
+    databases: [Pinecone, Weaviate, FAISS, Milvus]
+    data: [Data pipelines]
+    cloud: [AWS, GCP, AWS Bedrock, Gemini]
+    ops: [Distributed systems design, AIOps]
+    languages: [Python, TypeScript, Java, Go]
+    domains: [NLP, Healthcare AI]
+    other: [HIPAA compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8918113'
+  extracted_at: '2026-04-22T14:05:19.219751'

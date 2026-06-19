@@ -1,0 +1,54 @@
+company:
+  name: JetBrains
+  stage: Established (founded 2000)
+  focus: |-
+    Developer tools and AI agent platform for software
+    development
+position:
+  title: Principal Forward Deployed Engineer – AI-Native Software Development
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role focused on
+      deploying JetBrains Central, an AI agent platform for
+      software development. The role involves hands-on deployment,
+      integration, and implementation of AI agents, governance,
+      and execution infrastructure in enterprise environments,
+      making it ai-first rather than ai-support.
+  responsibilities:
+  - Deploy JetBrains Central platform into enterprise development environments, CI/CD
+    systems, and internal developer platforms
+  - Help organizations transition from ad-hoc AI experimentation to governed AI-native
+    development workflows
+  - Implement enterprise AI governance, including security policies, access management,
+    and data privacy controls
+  - Enable observability for AI-driven development to help organizations understand
+    AI usage and productivity impact
+  - Design sustainable AI adoption strategies, including usage controls and cost visibility
+    across multiple model providers
+  - Integrate cloud-based agent execution layer for secure, scalable AI agent deployment
+  - Collaborate with JetBrains product teams to shape platform based on real-world
+    deployments and customer feedback
+  - Mentor other Forward Deployed Engineers and create delivery frameworks for partners
+  use_cases:
+  - Agent-driven software development workflows
+  - Enterprise AI governance and policy enforcement
+  - Scalable AI agent execution infrastructure
+  - Observability and monitoring for AI-driven development
+  - Cost attribution and usage controls across AI model providers
+  skills:
+    genai: [AI/LLM platforms, Agent frameworks, AI-assisted development tools]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Internal developer platforms]
+    languages: [Java, Python]
+    domains: []
+    other: [Enterprise integration, Solutions architecture, Consulting]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8877186'
+  extracted_at: '2026-03-27T14:57:12.337058'

@@ -1,0 +1,51 @@
+company:
+  name: Worldly
+  stage: Growth stage (public benefit corporation with backing from investors)
+  focus: |-
+    ESG impact intelligence platform for supply chain
+    environmental and social risk analysis
+position:
+  title: Principal Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering leadership role focused on
+      designing and implementing AI/ML solutions including LLMs,
+      RAG systems, and predictive models. The role involves
+      prototyping, building, and deploying models directly - not
+      just supporting infrastructure for others' AI work.
+  responsibilities:
+  - Design and lead AI/ML strategy for environmental risk modeling, social impact
+    analytics, and supply chain predictive analytics
+  - Build and prototype RAG systems and generative AI solutions for sustainability
+    use cases
+  - Hands-on model development, experimentation, and validation with real data
+  - Mentor and provide technical guidance to junior data scientists and analysts
+  - Partner with Engineering to design ML infrastructure including feature stores,
+    model registries, and evaluation frameworks
+  - Evaluate and adapt open-source models including LLMs, embeddings, and multimodal
+    systems
+  - Ensure model quality, traceability, and ethical integrity in regulated use cases
+  - Build secure multi-tenant models and data systems respecting customer data siloing
+  use_cases:
+  - Environmental risk modeling for climate, water, and energy impacts
+  - Social impact analytics including worker voice and audit parsing
+  - Supply chain data fusion and predictive analytics
+  - RAG and generative AI for sustainability applications
+  - ESG intelligence and compliance monitoring
+  skills:
+    genai: [LLMs, RAG, Generative AI]
+    ml: [PyTorch, TensorFlow, XGBoost, Embeddings, Multimodal systems]
+    web: []
+    databases: [Vector databases]
+    data: [Pandas, Airflow]
+    cloud: []
+    ops: [MLflow, Feature stores, CI/CD for ML, Model registries]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8834901'
+  extracted_at: '2026-03-27T13:40:58.072709'

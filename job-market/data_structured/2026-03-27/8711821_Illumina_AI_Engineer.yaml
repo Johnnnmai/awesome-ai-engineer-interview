@@ -1,0 +1,50 @@
+company:
+  name: Illumina
+  stage: Public
+  focus: Genomic sequencing technology and human health diagnostics
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is ai-first because it involves directly building
+      AI agent systems, multi-agent orchestration frameworks, and
+      working with LLM architectures including fine-tuning and
+      prompt engineering. The engineer will architect and deploy
+      AI systems to production, not just support infrastructure
+      for AI work.
+  responsibilities:
+  - Architect and develop complex AI agent systems for manufacturing automation and
+    optimization
+  - Design and implement multi-agent orchestration frameworks for production environments
+  - Build and maintain ontologies and knowledge bases for domain-specific AI applications
+  - Lead technical initiatives from concept through production deployment
+  - Mentor junior engineers and contribute to technical best practices
+  - Collaborate with stakeholders across manufacturing, logistics, and engineering
+    teams
+  - Drive innovation in AI agent capabilities and integration patterns
+  - Ensure scalability, reliability, and performance of AI systems in production
+  use_cases:
+  - Manufacturing automation and optimization
+  - Multi-agent workflow orchestration for production environments
+  - Domain-specific AI applications with knowledge bases
+  - Healthcare and genomics data analysis
+  - Supply chain and logistics optimization
+  skills:
+    genai: [AI Agent Development, Multi-agent Orchestration, LLM Architectures, Fine-tuning,
+      Prompt Engineering, Model Context Protocol (MCP), Ontology Design, Knowledge
+        Representation]
+    ml: [Machine Learning, Deep Learning, Statistical Modeling]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure]
+    ops: [CI/CD Pipelines]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8711821'
+  extracted_at: '2026-03-27T14:32:10.060794'

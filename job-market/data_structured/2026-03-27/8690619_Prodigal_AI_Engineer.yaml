@@ -1,0 +1,55 @@
+company:
+  name: Prodigal
+  stage: Series B
+  focus: |-
+    AI agents for loan servicing and consumer finance
+    collections
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on engineering role directly building AI
+      agents for voice conversations. The engineer will build
+      agent logic, integrate speech models, tune prompts, and work
+      on the agentic runtime that powers multi-turn conversations.
+      This is core AI/LLM development work, not support
+      infrastructure.
+  responsibilities:
+  - Build and maintain agentic runtime components for multi-turn financial conversations
+    including payment negotiations and compliance guardrails
+  - Implement context management logic tracking consumer state and conversation history
+    across branching dialogues
+  - Work on real-time voice pipeline targeting sub-1s latency across transcription,
+    reasoning, and synthesis
+  - Contribute to VAD tuning and turn-taking logic for natural conversations
+  - Evaluate and integrate speech models including STT, TTS, and speech-to-speech
+    systems
+  - Debug streaming audio and WebRTC issues in production
+  - Write and refine prompts, implement orchestration flows, and contribute to model
+    routing logic
+  - Build evaluation framework components measuring conversation quality, empathy,
+    and compliance adherence
+  use_cases:
+  - Autonomous voice agents for live financial conversations
+  - Loan servicing and collections automation
+  - Payment negotiation and objection handling via AI agents
+  - Consumer finance compliance monitoring and guardrails
+  - Real-time voice AI for customer engagement in lending industry
+  skills:
+    genai: [Prompt Engineering, LLM APIs, AI Agents, Speech-to-Text (STT), Text-to-Speech
+        (TTS), ElevenLabs, Cartesia, Deepgram]
+    ml: [Voice Activity Detection (VAD)]
+    web: [WebRTC, Streaming protocols]
+    databases: []
+    data: []
+    cloud: [Twilio, LiveKit]
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8690619'
+  extracted_at: '2026-03-27T14:07:13.944459'

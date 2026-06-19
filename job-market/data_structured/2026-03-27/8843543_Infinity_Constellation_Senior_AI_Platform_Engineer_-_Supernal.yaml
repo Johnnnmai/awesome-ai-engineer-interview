@@ -1,0 +1,54 @@
+company:
+  name: Infinity Constellation
+  stage: Unknown
+  focus: |-
+    Building AI employees/teammates for SMBs using agentic
+    workflows
+position:
+  title: Senior AI Platform Engineer - Supernal
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, designing, and
+      deploying AI agent systems including conversational agents,
+      RAG implementations, and LLM orchestration. The engineer is
+      hands-on with agentic architectures, multi-turn conversation
+      design, and production AI systems, not just supporting
+      infrastructure for AI work.
+  responsibilities:
+  - Build advanced AI agent workflows on n8n and Supernal's proprietary platform
+  - Design, implement, and deploy conversational agents with multi-turn flows, state
+    management, and tool usage
+  - Own end-to-end technical delivery for high-priority customer implementations from
+    architecture through production
+  - Make architectural decisions across LLM orchestration, RAG design, API integrations,
+    and workflow decomposition
+  - Handle real-world voice system challenges including latency, interruptions, fallbacks,
+    and error handling
+  - Write automated tests including unit tests and end-to-end tests for workflow validation
+  - Debug complex production issues across agent logic, prompts, integrations, and
+    external dependencies
+  - Define and evolve best practices for building and delivering reliable AI Employees
+  use_cases:
+  - Conversational AI agents for SMB business operations
+  - Voice-first AI employees handling live users and multi-turn conversations
+  - Production AI systems with real-time constraints and complex integrations
+  - AI teammates deployed to handle actual business workflows and value-generating
+    tasks
+  skills:
+    genai: [n8n, LangChain, RAG, LLM orchestration, Prompt engineering, Function calling,
+      Agentic architectures, ElevenLabs, Retell, Zapier, Make]
+    ml: []
+    web: [REST APIs, API integrations]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Automated testing, Unit testing, End-to-end testing, Error handling]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8843543'
+  extracted_at: '2026-03-27T15:43:11.412803'

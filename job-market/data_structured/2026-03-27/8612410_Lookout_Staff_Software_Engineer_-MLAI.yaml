@@ -1,0 +1,54 @@
+company:
+  name: Lookout
+  stage: null
+  focus: |-
+    Cloud-native cybersecurity platform protecting against
+    mobile device attacks
+position:
+  title: Staff Software Engineer -ML/AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves owning the full ML lifecycle from
+      research to production deployment, building and maintaining
+      ML/AI systems for threat detection, and hands-on work with
+      LLMs/RAG stack, embeddings, and vector databases. The
+      position requires translating complex models into production
+      solutions and working with model optimization techniques
+      like distillation and quantization.
+  responsibilities:
+  - Own the full machine learning lifecycle from research and design to production
+    deployment, monitoring, and continuous retraining
+  - Establish and implement robust frameworks to train, evaluate, stress-test, and
+    monitor ML/AI systems to prevent model drift
+  - Address real-world scale and performance challenges ensuring ML/AI models are
+    efficient and maintain quality/latency under production constraints
+  - Set technical direction as a senior individual contributor and mentor junior engineers
+  - Improve all forms of automated testing including unit, integration, and functional
+    testing
+  - Participate in end-to-end service ownership including on-call duties
+  - Build core components and services powering Lookout applications
+  use_cases:
+  - Mobile endpoint threat detection and response
+  - Behavioral analysis for identifying human-centric attacks
+  - Malware and software vulnerability detection
+  - Anomalous activity monitoring across enterprise systems
+  - AI-powered advanced threat detection for cybersecurity
+  skills:
+    genai: [LangChain, LLMs, RAG, embeddings, prompt engineering, LoRA, PEFT]
+    ml: [PyTorch, TensorFlow, scikit-learn, Hugging Face, model distillation, model
+        quantization]
+    web: []
+    databases: [vector databases]
+    data: [knowledge graphs, Kafka]
+    cloud: [AWS, GCP, ECS, EKS]
+    ops: [MLOps, feature stores, model management, training/serving pipelines, Kubernetes,
+      Docker]
+    languages: [Python, Scala, Golang]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8612410'
+  extracted_at: '2026-03-27T14:57:44.924069'

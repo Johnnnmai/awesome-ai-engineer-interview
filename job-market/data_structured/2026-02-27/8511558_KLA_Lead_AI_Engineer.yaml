@@ -1,0 +1,52 @@
+company:
+  name: KLA
+  stage: Public
+  focus: Semiconductor manufacturing equipment and inspection systems
+position:
+  title: Lead, AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role focused on building,
+      deploying, and scaling LLM-powered applications and GenAI
+      systems. The role involves direct work with RAG
+      architectures, multi-step AI agents, LLM orchestration, and
+      production deployment of AI capabilities - all core AI/ML
+      system development work.
+  responsibilities:
+  - Design and develop Generative AI applications using LLM platforms like Microsoft
+    Foundry, AWS Bedrock, Claude, and OpenAI
+  - Build Document Processing pipelines including OCR, LLM-based summarization, classification,
+    data extraction, and validation workflows
+  - Design and orchestrate multi-step AI agents capable of tool usage, reasoning,
+    and task execution
+  - Develop custom copilots using Microsoft Copilot Studio
+  - Design and implement RAG solutions using vector search and contextual grounding
+  - Build agentic AI workflows and manage LLM orchestration
+  - Develop REST APIs and microservices to operationalize AI capabilities using FastAPI
+    and/or Node.js
+  - Deploy, monitor, and operate GenAI solutions on Azure and other cloud platforms
+  use_cases:
+  - Enterprise document processing and intelligence extraction
+  - AI-powered copilots for enterprise productivity
+  - Multi-turn conversational chatbots with RAG capabilities
+  - Automated document classification and data validation
+  - Agentic AI workflows for task automation and reasoning
+  skills:
+    genai: [LangChain, LangGraph, Semantic Kernel, RAG architectures, Prompt engineering,
+      Microsoft Copilot Studio, OpenAI, Claude, Agentic AI workflows, Microsoft Foundry,
+      Bot Framework]
+    ml: []
+    web: [FastAPI, REST APIs, Microservices, React, Next.js, Angular]
+    databases: [Vector search]
+    data: []
+    cloud: [Azure Form Recognizer, AWS Textract, AWS Bedrock, Azure]
+    ops: [CI/CD, Docker, DevOps practices]
+    languages: [Python, Node.js]
+    domains: []
+    other: [OCR engines]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8511558'
+  extracted_at: '2026-03-03T12:29:15.210353'

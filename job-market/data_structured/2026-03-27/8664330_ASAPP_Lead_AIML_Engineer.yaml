@@ -1,0 +1,54 @@
+company:
+  name: ASAPP
+  stage: null
+  focus: AI-powered customer experience solutions for enterprises
+position:
+  title: Lead AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      optimizing LLMs and speech AI systems including STT/TTS,
+      real-time streaming inference, and conversational voice
+      agents. The position requires hands-on work with foundation
+      models, model fine-tuning, and low-latency inference
+      optimization - all core AI/ML system development work.
+  responsibilities:
+  - Build real-time conversational AI systems, including voice interfaces powered
+    by speech-to-text, text-to-speech, and streaming inference pipelines
+  - Design and optimize low-latency inference workflows for multimodal applications
+    involving text, speech, and real-time interactions
+  - Integrate and apply foundation models from major providers (OpenAI, AWS Bedrock,
+    Anthropic) for prototyping and production use cases
+  - Adapt, evaluate, and optimize LLMs for domain-specific enterprise applications
+  - Build and maintain infrastructure for experimentation, deployment, and monitoring
+    of AI models in production
+  - Improve model performance and inference workflows with attention to latency, cost,
+    and reliability
+  - Provide technical leadership within the team, mentoring engineers and promoting
+    best practices in ML engineering
+  - Partner with product and cross-functional stakeholders to translate requirements
+    into scalable ML solutions
+  use_cases:
+  - Real-time conversational voice AI systems for enterprise applications
+  - Speech-to-text and text-to-speech integration for customer experience
+  - Low-latency multimodal AI applications
+  - Domain-specific enterprise AI solutions
+  - Voice-based customer service automation
+  skills:
+    genai: [LLMs, RAG, Prompt engineering, OpenAI API, Anthropic API]
+    ml: [PyTorch, TensorFlow, Speech-to-text (STT), Text-to-speech (TTS), Streaming
+        inference]
+    web: [gRPC]
+    databases: [Vector search]
+    data: []
+    cloud: [AWS Bedrock, AWS]
+    ops: [Docker, Kubernetes, CI/CD, MLflow]
+    languages: [Python]
+    domains: []
+    other: [WebRTC]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8664330'
+  extracted_at: '2026-03-27T16:15:41.740831'

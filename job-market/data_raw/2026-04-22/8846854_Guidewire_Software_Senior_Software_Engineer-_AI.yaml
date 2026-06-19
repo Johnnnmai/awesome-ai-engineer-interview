@@ -1,0 +1,194 @@
+job_id: 8846854
+title: Senior Software Engineer- AI
+company: Guidewire Software
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Aws Bedrock
+  - Aws Strands
+  - Docker
+  - Google Adk
+  - Google Vertex
+  - Kubernetes
+  - Langchain
+  - Langgraph
+  - Neo4J
+company_size: 3,400 Employees
+description: |
+  Summary
+  
+  Within Guidewire’s Business Technology (BizTech)
+  organization, you’ll join a global team that powers our
+  internal systems and employee experience through secure,
+  scalable platforms and data-driven solutions. BizTech’s
+  mission is to enable Guidewire’s growth and transformation
+  with innovative, resilient technology, strong governance,
+  and a focus on AI fluency and operational excellence. You’ll
+  collaborate across engineering, security, and business teams
+  in a culture that values speed, agility, and continuous
+  improvement. As a Senior Software Engineer – AI, you will
+  design, build, and operate our next-generation AI/ML agent
+  platform and RAG capabilities that support internal teams
+  and, ultimately, the P&C insurers we serve. You will combine
+  deep backend engineering skills with hands-on experience in
+  GenAI, LLM orchestration, and enterprise data integration to
+  deliver secure, production-grade AI services. This is a
+  highly visible role that advances BizTech’s Agentic Platform
+  and GenAI enablement priorities while contributing to
+  Guidewire’s broader mission of transforming the way the
+  world’s P&C insurers do business through cloud, analytics,
+  and AI-powered innovation.
+  
+  Job Description
+  
+  What you’ll do
+  
+  - Design, develop, and operate scalable microservices that
+    power the runtime and serving layer for AI/ML agents and
+    RAG components, with an emphasis on reliability, security,
+    and performance.
+  - Implement and maintain LLM orchestration frameworks (e.g.,
+    LangChain, LangGraph, AWS Strands, Google ADK) and
+    integrate them with Guidewire’s core and internal
+    applications to enable robust agent workflows.
+  - Build and optimize secure data ingestion and indexing
+    pipelines for RAG, leveraging vector databases (such as
+    Pinecone, Weaviate) and graph databases (such as Neo4j) to
+    support complex enterprise use cases.
+  - Develop secure, scalable data connectors and tool interfaces
+    for systems like Oracle, Salesforce, Workday, and
+    Snowflake, ensuring compliance with data governance and
+    Responsible AI principles.
+  - Collaborate closely with Security and other stakeholders to
+    embed strong access controls, auditability, and privacy
+    into AI/ML services, balancing innovation with risk
+    management.
+  - Design and implement automated evaluation frameworks (evals)
+    to measure LLM performance, reliability, and accuracy, and
+    integrate these into CI/CD pipelines for continuous
+    improvement.
+  - Contribute to BizTech’s Agentic Platform and GenAI
+    enablement roadmap by optimizing engineering workflows
+    (e.g., via coding assistants such as Claude, Cursor,
+    Gemini Code) and championing AI fluency across the team.
+  - At Guidewire, we foster a culture of curiosity, innovation,
+    and responsible use of AI—empowering our teams to
+    continuously leverage emerging technologies and data-
+    driven insights to enhance productivity and outcomes.
+  
+  What you’ll bring
+  
+  Required
+  
+  Demonstrated ability to embrace AI and apply it to your
+  current role as well as data-driven insights to drive
+  innovation, productivity, and continuous improvement.
+  
+  - 5+ years of professional software engineering experience
+    building backend services or internal platforms, ideally
+    in a cloud-native environment.
+  - Strong programming skills in Python and/or
+    TypeScript/Node.js for building automation, orchestration,
+    and backend services supporting AI/ML workloads.
+  - At least 2 years of hands-on experience designing,
+    implementing, and deploying solutions using Generative
+    AI/LLM technologies (e.g., via AWS Bedrock, Google Vertex,
+    or similar).
+  - Practical experience with LLM orchestration and RAG/agent
+    frameworks (e.g., LangChain, LangGraph, AWS Strands,
+    Google ADK), including tool calling and multi-step
+    workflows.
+  - Hands-on work with vector databases (such as Pinecone,
+    Weaviate) and graph databases (such as Neo4j), including
+    schema design, indexing strategies, and query
+    optimization.
+  - Experience integrating LLM-based applications with large-
+    scale, complex enterprise data sources and APIs (e.g.,
+    Oracle, Salesforce, Workday, Snowflake).
+  - Solid understanding of AWS services relevant to AI
+    platforms, including EC2, S3, IAM, and container
+    orchestration (Docker, Kubernetes), plus CI/CD practices
+    for automated deployment of AI/ML services.
+  - Strong collaboration, communication, and problem-solving
+    skills, with the ability to work across security, data,
+    and business teams in a fast-moving, outcome-oriented
+    environment.
+  
+  Preferred
+  
+  - Experience designing MCP (Model Context Protocol) or similar
+    servers for secure tool invocation, data access, and API
+    integration in agentic architectures.
+  - Prior work implementing or extending automated LLM
+    evaluation frameworks (evals), including test design,
+    metrics selection, and integration into pipelines.
+  - Familiarity with data governance, Responsible AI practices,
+    and security-by-design approaches for AI/ML systems,
+    especially in regulated or enterprise settings.
+  - Exposure to observability tooling (logs, metrics, traces)
+    for AI workloads and experience debugging issues across
+    data pipelines, models, and orchestration layers.
+  - Experience contributing to internal platforms or “citizen
+    developer” tooling that enables broader teams to safely
+    build on AI capabilities, aligned with BizTech’s GenAI
+    enablement goals.
+  
+  Your Impact
+  
+  We believe in clarity and setting you up for success. In
+  your first 6 months, you will take ownership of key
+  components of BizTech’s Agentic Platform, stand up or
+  enhance microservices and RAG pipelines in production, and
+  partner with Security to ensure robust controls around
+  enterprise data and AI tools.
+  
+  You’ll define and implement evals that make LLM performance
+  measurable and trustworthy, while improving engineering
+  workflows through automated tooling and coding assistants.
+  As your work scales, you will help Guidewire become the most
+  efficient, trusted vertical SaaS company by enabling secure,
+  reliable AI agents that enhance employee experiences and
+  accelerate the transformation of how P&C insurers operate.
+  
+  About Guidewire
+  
+  Guidewire is the platform P&C insurers trust to engage,
+  innovate, and grow efficiently. We combine digital, core,
+  analytics, and AI to deliver our platform as a cloud
+  service. More than 540+ insurers in 40 countries, from new
+  ventures to the largest and most complex in the world, run
+  on Guidewire.
+  
+  As a partner to our customers, we continually evolve to
+  enable their success. We are proud of our unparalleled
+  implementation track record with 1600+ successful projects,
+  supported by the largest R&D team and partner ecosystem in
+  the industry. Our Marketplace provides hundreds of
+  applications that accelerate integration, localization, and
+  innovation.
+  
+  For more information, please visit www.guidewire.com and
+  follow us on Twitter: @Guidewire_PandC.
+  
+  Guidewire Software, Inc. is proud to be an equal opportunity
+  and affirmative action employer. We are committed to an
+  inclusive workplace, and believe that a diversity of
+  perspectives, abilities, and cultures is a key to our
+  success. Qualified applicants will receive consideration
+  without regard to race, color, ancestry, religion, sex,
+  national origin, citizenship, marital status, age, sexual
+  orientation, gender identity, gender expression, veteran
+  status, or disability. All offers are contingent upon
+  passing a criminal history and other background checks where
+  it's applicable to the position.
+industries:
+  - Cloud
+  - Information Technology
+  - Insurance
+  - Software
+  - Analytics
+posted_date: 2026-04-19
+url: "https://builtin.com/job/senior-software-engineer-ai/8846854"
+source: Built In

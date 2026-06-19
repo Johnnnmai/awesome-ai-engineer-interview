@@ -1,0 +1,49 @@
+company:
+  name: Tether.io
+  stage: null
+  focus: |-
+    Digital finance, stablecoins, blockchain technology, and AI
+    solutions
+position:
+  title: AI Research Engineer - Pre training
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on pre-training large language
+      models on distributed GPU clusters, designing novel
+      architectures, and implementing training algorithms. The
+      engineer works hands-on building and optimizing foundational
+      AI models, which is core AI/ML system development.
+  responsibilities:
+  - Conduct pre-training of AI models on large distributed servers with thousands
+    of NVIDIA GPUs
+  - Design, prototype, and scale innovative model architectures to enhance intelligence
+  - Independently and collaboratively execute experiments, analyze results, and refine
+    methodologies
+  - Investigate, debug, and improve model efficiency and computational performance
+  - Contribute to the advancement of training systems for seamless scalability and
+    efficiency on target platforms
+  - Implement novel techniques in data curation, baseline strengthening, and pre-training
+    bottleneck resolution
+  use_cases:
+  - Pre-training large language models and multi-modal AI systems at scale
+  - Advancing model intelligence and efficiency through novel architectures
+  - Large-scale distributed model training on GPU clusters
+  - Data curation and optimization for foundational AI models
+  skills:
+    genai: []
+    ml: [PyTorch, Hugging Face, Distributed Training, Transformer Architectures, CUDA,
+      NVIDIA GPUs, LLM Pre-training, Model Fine-tuning, Model Optimization]
+    web: []
+    databases: []
+    data: [Data Curation]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP, Multi-modal Models]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9052895'
+  extracted_at: '2026-04-22T13:37:20.148168'

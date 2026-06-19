@@ -1,0 +1,201 @@
+job_id: 9019378
+title: Senior AI Engineer
+company: Revecore
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - APIs
+  - Autogen
+  - Crewai
+  - Langchain
+  - Python
+  - Rpa
+description: |
+  Job Summary & Responsibilities
+  
+  Senior AI Engineer
+  
+  Start your next chapter at Revecore! For over 25 years,
+  Revecore has been at the forefront of specialized claims
+  management, helping healthcare providers recover meaningful
+  revenue to enhance quality patient care in their
+  communities. We're powered by people, driven by technology,
+  and dedicated to our clients and employees. If you're
+  looking for a collaborative and diverse culture with a great
+  work/life balance, look no further.
+  
+  
+  
+  Revecore Perks:
+  
+  - We offer paid training and incentive plans
+  
+  - Our medical, dental, vision, and life insurance benefits are
+    available from the first day of employment
+  
+  - We enjoy excellent work/life balance
+  
+  - Our Employee Resource Groups build community and foster a
+    culture of belonging and inclusion
+  
+  - We match 401(k) contributions
+  
+  - We offer career growth opportunities
+  
+  - We celebrate 12 paid holidays and generous paid time off
+  
+  Location: Remote-USA
+  
+  
+  
+  Role Overview We are seeking a Senior AI Engineer to join
+  our Core AI Agentic Development Team. The primary objective
+  of this role is to design, develop, and deploy robust,
+  multi-agent systems that assist healthcare providers in
+  optimizing their revenue lifecycle and managing accounts
+  receivable (AR). As a senior contributor, you will architect
+  complex agent orchestration workflows, ensuring our agents
+  can securely and effectively interact with existing
+  enterprise systems to drive operational efficiency.
+  
+  
+  
+  Responsibilities:
+  
+  - Design and implement multi-agent AI systems using frameworks
+    such as LangChain, AutoGen, or CrewAI to automate complex
+    healthcare revenue cycle workflows.
+  
+  - Develop and maintain agent orchestration pipelines where
+    agents collaborate, delegate tasks, and synthesize outputs
+    to drive end-to-end process automation.
+  
+  - Integrate AI agents with enterprise systems via APIs and
+    RPA-style interfaces (UI/DOM/vision-based interactions) to
+    execute real-world operational tasks.
+  
+  - Build and enforce guardrails, validation layers, and
+    compliance checks to ensure safe, deterministic, and
+    auditable behavior of LLM-driven systems.
+  
+  - Architect and deploy supervisor (“oracle”) agents to route
+    tasks, validate sub-agent outputs, and maintain system-
+    wide state and accuracy.
+  
+  - Implement logging, tracing, and monitoring frameworks to
+    track agent performance, debug multi-agent interactions,
+    and ensure production reliability.
+  
+  - Collaborate cross-functionally with product, engineering,
+    and domain experts to translate healthcare revenue cycle
+    requirements into scalable AI-driven solutions.
+  
+  
+  
+  
+  
+  Required Experience and Skills Candidates must possess
+  advanced proficiency in Python, our primary development
+  language, along with a strong background in software
+  engineering best practices. A proven track record of
+  developing and deploying autonomous AI agents and Large
+  Language Model (LLM) applications in production environments
+  is essential. We expect deep, hands-on experience with agent
+  orchestration frameworks such as crew.ai, LangChain, or
+  AutoGen.
+  
+  
+  
+  Direct experience and expertise are required in the
+  following core areas:
+  
+  - Agent Orchestration & Execution: Designing complex, multi-
+    step agentic workflows where agents collaborate, delegate,
+    and synthesize information to complete high-value tasks.
+  
+  - System Driving & Tool Use: Building agents capable of
+    driving existing software systems. This includes API
+    integration, as well as experience with computer use
+    (e.g., RPA-like UI interaction via vision/DOM parsing) and
+    voice AI agents for outbound/inbound communication.
+  
+  - Guardrails & Safety: Developing and implementing strict
+    guardrails to ensure deterministic, safe, and compliant
+    behavior from non-deterministic LLMs.
+  
+  - Oracle Agents: Designing and deploying "oracle" or
+    supervisor agents responsible for routing tasks, verifying
+    the outputs of sub-agents, and maintaining overall system
+    state and truth.
+  
+  - Agent Governance: Implementing logging, tracing, and
+    monitoring specific to agentic behavior to ensure
+    accountability and debug complex multi-agent interactions
+    in production.
+  
+  
+  
+  
+  
+  
+  
+  Preferred Qualifications Previous experience working within
+  the healthcare revenue lifecycle domain is highly desirable.
+  Candidates who understand the nuances of healthcare billing,
+  accounts receivable, and revenue cycle management will have
+  a distinct advantage, as this domain knowledge directly
+  translates to more effective agent design and problem-
+  solving.
+  
+  
+  
+  
+  
+  Work at Home Requirements:
+  
+  - A quiet, distraction-free environment to work from in your
+    home.
+  
+  - A secure internet connection is required.
+  
+  - Home internet with speeds >20 Mbps for downloads and >10
+    Mbps for uploads.
+  
+  - The workspace area accommodates all workstation equipment
+    and related materials and provides adequate surface area
+    to be productive.
+  
+  
+  
+  Revecore is an equal opportunity employer that does not
+  discriminate based on race, color, religion, sex or gender,
+  gender identity or expression, sexual orientation, national
+  origin, age, disability status, veteran status, genetic
+  information, or any other legally protected status.  
+  
+  We believe that a diverse workforce fosters innovation and
+  creativity, enriches our culture, and enables us to better
+  serve the needs of our clients and communities. We welcome
+  and encourage individuals of all backgrounds, perspectives,
+  and abilities to apply.
+  
+  
+  
+  Must reside in the United States within one of the states
+  listed below:
+  
+  Alabama, Arkansas, Delaware, Florida, Georgia, Iowa,
+  Illinois, Indiana, Kansas, Kentucky, Louisiana,
+  Massachusetts, Maine, Maryland, Michigan, Minnesota,
+  Missouri, Mississippi, Montana, North Carolina, Nebraska,
+  New Hampshire, Ohio, Oklahoma, Pennsylvania, Rhode Island,
+  South Carolina, Tennessee, Texas, Virginia, Wisconsin, and
+  West Virginia
+industries:
+  - Automotive
+  - Healthtech
+  - Financial Services
+posted_date: 2026-04-10
+url: "https://www.builtinla.com/job/senior-ai-engineer/9019378"
+source: Built In

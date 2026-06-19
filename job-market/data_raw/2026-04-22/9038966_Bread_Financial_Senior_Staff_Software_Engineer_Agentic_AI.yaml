@@ -1,0 +1,282 @@
+job_id: 9038966
+title: Senior Staff Software Engineer – Agentic AI
+company: Bread Financial
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Agent Based Modeling
+  - Amazon Web Services
+  - Datadog
+  - Grafana
+  - Graph Databases
+  - Large Language Models
+  - New Relic
+  - Openai
+  - Postgres
+  - Prometheus
+company_size: 6,000 Employees
+description: |
+  Every career journey is personal. That's why we empower you
+  with the tools and support to create your own success story.
+  
+  Be challenged. Be heard. Be valued. Be you ... be here.
+  
+  Job Summary
+  
+  The Senior Staff Software Engineer – Agentic AI will design
+  and deliver core agent capabilities, including policy
+  execution, reasoning, orchestration, and failure‑handling.
+  They will build production‑ready agent runtimes—state and
+  memory systems, planners, and tool‑routing components—while
+  ensuring safety, reliability, latency, and cost efficiency.
+  This role will contribute to multi‑agent workflows for
+  classification, routing, reconciliation, anomaly detection,
+  and decisioning. The role includes implementing
+  deterministic paths where needed, integrating graph/RAG
+  memory, and establishing strong observability and evaluation
+  pipelines. You will mentor engineers and help uphold high
+  engineering standards across the team.
+  
+  
+  
+  Essential Job Functions
+  
+  - Design and enhance multi‑agent frameworks and LLM‑powered
+    autonomous systems using goal schemas, planner‑executor
+    patterns, and well‑defined policy enforcement points.
+    Contribute to the definition and implementation of agent
+    state and memory architectures (short‑/long‑term,
+    episodic, semantic) with strong PII‑minimization practices
+    and appropriate TTL strategies. - (20%)
+  - Implement and refine ReAct, CoT, and ToT reasoning loops,
+    and help standardize their use across agent workflows.
+    Build offline and online evaluation signals using curated
+    golden datasets. Contribute to defining and implementing
+    agent‑to‑agent communication protocols using frameworks
+    like LangGraph, AutoGen, or CrewAI. - (15%)
+  - Measure and improve agent decision reliability using tools
+    such as LangSmith, Arize Phoenix, and Weights & Biases.
+    Design deterministic tool‑chaining patterns with
+    appropriate fallbacks, and implement safeguards including
+    idempotency, retries, and circuit‑breaker logic.
+    Contribute to integrating grounding techniques to ensure
+    accurate and reliable agent behavior. - (15%)
+  - Architect and implement safety controls such as scoped tool
+    access, allow/deny actions, validators, red‑team hooks,
+    and human‑escalation paths. Use AgentSpec to define and
+    apply Policy Enforcement Points (PEPs) that prevent
+    high‑risk or irreversible agent actions. - (15%)
+  - Operate and scale production agentic AI platforms on
+    Kubernetes by defining agent‑centric SLOs, instrumenting
+    deep telemetry (reasoning quality, hallucination rates,
+    tool latency), and supporting on‑call through
+    agent‑assisted triage, automated rollback/roll‑forward,
+    and human‑gated controls. - (15%)
+  - Establish enterprise safety guardrails, ethical guidelines,
+    and compliance standards to ensure agents operate within
+    legal, regulatory, and organizational boundaries,
+    especially in high‑risk or financial workflows. - (10%)
+  - Partner with Product to shape AI strategy and agent user
+    experiences, and collaborate with data and backend teams
+    to ensure agents access high‑quality, real‑time data
+    across SQL systems, CRMs, SaaS platforms, APIs, and event
+    streams within existing architectures. - (5%)
+  - Communicate complex agentic concepts—such as CoT, RAG, and
+    safety controls—to non‑technical stakeholders to build
+    trust and organizational readiness. Model resilience
+    around model failures and promote AI‑native engineering
+    practices, including prompt design and evaluation
+    techniques, across teams. - (5%)
+  
+  Minimum Qualifications
+  
+  - Bachelor’s Degree in Computer Science or related field of
+    study.
+  - 12+ years of experience in Software Engineering including 2+
+    years in AI/ML, LLMs, agent-based systems or large-scale
+    distributed systems (e.g., LLM-powered applications,
+    LangChain, LangGraph, AutoGen) and 3+ years of experience
+    implementing IaC (Terraform or Ansible).
+  
+  Preferred Qualifications
+  
+  - Master’s Degree in Computer Science or related field of
+    study.
+  - 15+ years of experience in Software Engineering including3+
+    years of experience in AI/ML, Generative AI, or agentic
+    systems (e.g., LLM-powered applications, LangChain,
+    LangGraph, AutoGen), 4+ years of experience in
+    Fintech/payments integrations; PCI and data protection
+    familiarity and 4+ years of experience in implementing IaC
+    (Terraform or Ansible).
+  
+  Skills
+  
+  - Agent Based Modeling
+  - Amazon Web Services (AWS)
+  - Datadog
+  - OpenAI
+  - Grafana
+  - Graph Databases
+  - Large Language Models (LLMs)
+  - PostgreSQL
+  - Prometheus (Software)
+  - New Relic
+  - Redis
+  - Telemetry
+  
+  Reports To: Director and above Direct Reports: 0 Work
+  Environment
+  
+  - Normal office environment. (Remote or Hybrid), 3 to 4 days
+    per month are required in office if within 60 miles of a
+    Bread Financial location. On-call rotation to include
+    evenings or weekends.
+  
+  Physical and Mental Requirements To perform this job
+  successfully, an individual must be able to perform each
+  essential job function satisfactorily and meet the physical,
+  mental and work environment requirements. Reasonable
+  accommodations may be made to enable qualified individuals
+  with disabilities to perform essential job functions, absent
+  undue hardship.
+  
+  - Communicate/Hearing
+  - Communicate/Talking
+  - Typing/Writing
+  
+  Other Duties
+  
+  This job description is illustrative of the types of duties
+  typically performed by this job. It is not intended to be an
+  exhaustive listing of each and every essential function of
+  the job. Because job content may change from time to time,
+  the Company reserves the right to add and/or delete
+  essential functions from this job at any time.
+  
+  Salary Range (unless otherwise noted below):
+  
+  $155,600.00 - $333,300.00
+  
+  Full Salary Range for position:
+  
+  California: $178,900.00 - $416,600.00Colorado: $155,600.00 -
+  $349,900.00New York: $171,100.00 - $416,600.00Washington:
+  $163,300.00 - $383,300.00Maryland: $163,300.00 -
+  $366,600.00Washington DC: $178,900.00 - $383,300.00Illinois:
+  $155,600.00 - $366,600.00New Jersey: $178,900.00 -
+  $383,300.00Vermont: $155,600.00 - $333,300.00Ohio:
+  $155,600.00 - $333,300.00
+  
+  The actual base pay within this range may be dependent upon
+  many factors, which may include, but are not limited to,
+  work location, education, experience, and skills.
+  
+  Bread Financial offers medical, prescription drug, dental,
+  vision, and other voluntary benefits (including basic and
+  optional life insurance, supplemental medical plans, and
+  short and long-term disability) to eligible associates
+  (regular full-time associates scheduled to work 30 hours per
+  week or more) and their spouses/domestic partners, and
+  child(ren) under the age of 26.  New associate elected
+  coverage begins on date of hire (with the exception of
+  disability coverage which has a 6-month waiting period).
+  Six weeks of 100% paid parental leave for eligible parents
+  is available after a 180-day waiting period.   Hired
+  associates can immediately enroll in Bread Financial’s
+  401(k) plan.
+  
+  All associates receive 11 paid holidays. Associates have
+  discretion in managing their time away from work through the
+  Flexible Time Off (FTO) program and may need to notify and
+  receive approval from their manager prior to taking the time
+  off. Associates (except those located in Illinois) receive
+  80 hours of Paid Sick and Safe Time (“PSST”) upon hire and
+  at the beginning of each subsequent calendar year. Illinois
+  associates receive 40 hours of Illinois PSST upon hire and
+  at the beginning of each subsequent calendar year and 40
+  hours of Illinois Paid Leave upon hire and at the beginning
+  of each subsequent calendar year. Illinois Paid Leave must
+  be used before associates in Illinois will be approved to
+  take FTO.
+  
+  Hired associates will be able to elect the purchase company
+  stock during offering periods in June and December. You will
+  be eligible for an annual incentive bonus based on
+  individual and company performance.
+  
+  Click here for more Benefits information.
+  
+  About Bread Financial®
+  
+  At Bread Financial, you’ll have the opportunity to grow your
+  career, give back to your community, and be part of our
+  award-winning culture. We’ve been consistently recognized as
+  a best place to work nationally and in many markets and
+  we’re proud to promote an environment where you feel
+  appreciated, accepted, valued, and fulfilled—both personally
+  and professionally. Bread Financial supports the overall
+  wellness of our associates with a diverse suite of benefits
+  and offers boundless opportunities for career development
+  and non-traditional career progression.
+  
+  Bread Financial® (NYSE: BFH) is a tech-forward financial
+  services company that provides simple, personalized payment,
+  lending and saving solutions to millions of U.S.
+  consumers. Our payment solutions deliver growth for some of
+  the most recognized brands in travel & entertainment, health
+  & beauty, technology, electronics, jewelry, home and
+  specialty apparel through our co-brand and private label
+  credit cards and pay-over-time products providing choice and
+  value to our shared customers. Additionally, we offer Bread
+  Financial general purpose credit cards and saving products
+  that empower our customers and their passions for a better
+  life.
+  
+  Bread Financial proudly marks 30 years of success in 2026.
+  To learn more about our global associates, our performance
+  and our sustainability progress, visit breadfinancial.com or
+  follow us on Instagram and LinkedIn.
+  
+  - Bread Financial offers competitive pay, a comprehensive
+    selection of benefit options including 401(k).
+  - The Company is an Equal Opportunity Employer.
+  - Any applicant offered employment will be required to
+    establish that they are legally authorized to work in the
+    United States for the Company.
+  - The Company participates in E-Verify.
+  - The Company will consider for employment all qualified
+    applicants, including those with a criminal history, in a
+    manner consistent with the requirements of all applicable
+    federal, state, and local laws, including the Los Angeles
+    Fair Chance Initiative for Hiring Ordinance, the San
+    Francisco Fair Chance Ordinance, and the New York City
+    Fair Chance Act.  Applicants with criminal histories are
+    encouraged to apply.
+  - The Company complies with the Americans with Disabilities
+    Act (ADA), as amended, and all applicable state/local
+    laws.  The Company will provide accommodations to
+    applicants needing accommodations to complete the
+    application process. Applicants with disabilities may
+    contact the Company to request and arrange for
+    accommodations.  If you need assistance to accommodate a
+    disability, you may request an accommodation at any time.
+    Please contact the Recruiting Team at
+    TaOps@breadfinancial.com.
+  
+  Job Family:
+  
+  Information Technology
+  
+  Job Type:
+  
+  Regular
+industries:
+  - eCommerce
+  - Fintech
+  - Analytics
+  - Financial Services
+posted_date: 2026-04-14
+url: "https://builtin.com/job/senior-staff-software-engineer-agentic-ai/9038966"
+source: Built In

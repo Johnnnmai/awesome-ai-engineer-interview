@@ -1,0 +1,54 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: Public
+  focus: |-
+    Global edge-to-cloud computing and enterprise technology
+    solutions
+position:
+  title: Principal Engineer – Network Performance, Automation and AI/ML
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the title mentioning AI/ML, the job description
+      contains no responsibilities, requirements, or skills
+      related to building, training, fine-tuning, or deploying
+      AI/ML systems. The role is focused on distributed systems,
+      Kubernetes, networking, and platform engineering with no
+      actual AI/ML work mentioned.
+  responsibilities:
+  - Design, develop, and maintain scalable, high-performance application platforms
+  - Architect and implement distributed systems using Kubernetes and cloud-native
+    technologies
+  - Build reliable, fault-tolerant services with strong focus on performance, scalability,
+    and resiliency
+  - Apply deep understanding of networking concepts, including routing protocols,
+    to system design and troubleshooting
+  - Work closely with databases (SQL and NoSQL) to ensure data consistency, performance,
+    and reliability
+  - Leverage operating system fundamentals for efficient resource utilization and
+    system optimization
+  - Write clean, maintainable, and well-tested code in Python, Go, or other object-oriented
+    programming languages
+  - Mentor junior and mid-level engineers, conduct design and code reviews, and promote
+    engineering best practices
+  use_cases:
+  - High-performance application platform development
+  - Distributed systems infrastructure
+  - Cloud-native platform services
+  - Network performance optimization
+  skills:
+    genai: []
+    ml: []
+    web: [Microservices]
+    databases: [SQL, NoSQL]
+    data: []
+    cloud: [Cloud-native architectures]
+    ops: [Kubernetes, Docker, DevOps]
+    languages: [Python, Go]
+    domains: []
+    other: [Distributed Systems, Networking]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8689881'
+  extracted_at: '2026-03-27T15:11:27.714642'

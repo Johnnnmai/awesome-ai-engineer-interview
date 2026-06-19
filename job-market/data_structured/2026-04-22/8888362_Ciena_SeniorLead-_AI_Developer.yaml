@@ -1,0 +1,54 @@
+company:
+  name: Ciena
+  stage: Public
+  focus: |-
+    High-speed connectivity and network solutions (Blue Planet
+    division)
+position:
+  title: Senior/Lead- AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building and deploying AI
+      systems — designing AI agents with LangChain/LangGraph,
+      fine-tuning LLMs, implementing RAG, and integrating vector
+      databases. The engineer is hands-on with models and agentic
+      frameworks, making this clearly an ai-first position.
+  responsibilities:
+  - Design and develop AI agents using frameworks like LangChain, LangGraph, Langflow,
+    and MCP Servers
+  - Fine-tune and optimize large language models (LLMs) such as GPT and Llama for
+    diverse applications
+  - Implement Retrieval-Augmented Generation (RAG) techniques and integrate vector
+    databases like Qdrant and ChromaDB
+  - Enhance AI agent operations with monitoring and security tools like Langfuse and
+    LiteLLM
+  - Deploy scalable AI solutions on cloud platforms including AWS, Google Cloud, and
+    Azure
+  - Build and manage databases using Postgres, Neo4j, and Clickhouse for efficient
+    data handling
+  - Utilize Apache Airflow, Redis, MLflow, Minio, Apache Kedro, and PySpark for workflow
+    optimization and data processing
+  use_cases:
+  - AI agents for network and connectivity management
+  - LLM fine-tuning for domain-specific applications in telecommunications
+  - RAG-based intelligent information retrieval systems
+  - Automated workflow optimization for network operations
+  - Scalable AI solution deployment in cloud environments
+  skills:
+    genai: [LangChain, LangGraph, Langflow, MCP Servers, LLM fine-tuning, RAG, Prompt
+        engineering, Langfuse, LiteLLM]
+    ml: []
+    web: []
+    databases: [Qdrant, ChromaDB, Postgres, Neo4j, Clickhouse, Redis]
+    data: [Apache Airflow, PySpark, Apache Kedro]
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [MLflow, Minio, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8888362'
+  extracted_at: '2026-04-22T12:58:29.977932'

@@ -1,0 +1,61 @@
+company:
+  name: Morgan Stanley
+  stage: Public
+  focus: Global financial services and investment banking
+position:
+  title: AI Platform Engineer - Vice President
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform engineering role focused on building
+      infrastructure and tooling that enables other teams to
+      deploy AI solutions. The core work involves Kubernetes,
+      Terraform, cloud architecture, API gateways, and CI/CD —
+      classic platform/infrastructure engineering. While the
+      platform serves GenAI use cases (fine-tuned models, vector
+      stores, agent orchestration), the engineer is building the
+      platform that supports AI rather than directly building,
+      training, or fine-tuning models themselves. The "nice to
+      have" section mentions GenAI experience, indicating it's
+      secondary to the platform engineering focus.
+  responsibilities:
+  - Develop tooling and self-service capabilities for deploying AI solutions leveraging
+    Kubernetes/OpenShift, Python, authentication solutions, APIs, and REST frameworks
+  - Develop Terraform modules and cloud architecture to enable secure AI cloud service
+    deployment and consumption at scale
+  - Build common, reusable platform solutions to scale Generative AI use cases using
+    pre-trained and fine-tuned models
+  - Integrate with large-scale vector stores for embeddings and other AI platform
+    capabilities
+  - Analyze and implement GenAI solutions focusing on Agentic Orchestration and Agent
+    Builder frameworks
+  - Author best practices documentation and architecture decision records for Generative
+    AI ecosystem tools, models, and libraries
+  - Ensure AI platform reliability, scalability, and operational readiness including
+    upgrade strategies, logging, monitoring, and automation
+  - Participate in Agile/Scrum ceremonies and on-call rotation in a build/run team
+    model
+  use_cases:
+  - Enterprise AI development platform enabling firmwide AI adoption
+  - Self-service AI solution deployment for internal teams
+  - Scalable and secure consumption of cloud-based AI services
+  - Generative AI application enablement including agentic orchestration and multi-agent
+    workflows
+  - Vector store integration for embeddings-based AI applications
+  skills:
+    genai: [LangChain, LangGraph, Agentic Orchestration, GPT, Llama, Embeddings]
+    ml: [Fine-tuning, Hugging Face]
+    web: [FastAPI, Flask, REST APIs]
+    databases: [SQL, Redis, Vector Stores]
+    data: [Kafka]
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, OpenShift, Terraform, Docker, CI/CD, Jenkins, GitOps, Grafana,
+      Prometheus, Blue/Green Deployment, OpenTelemetry, MLOps]
+    languages: [Python]
+    domains: []
+    other: [OAuth 2.0]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9059014'
+  extracted_at: '2026-04-22T14:06:43.630248'

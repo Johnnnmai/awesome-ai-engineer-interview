@@ -1,0 +1,46 @@
+company:
+  name: Autodesk
+  stage: Public
+  focus: |-
+    Design and make software for architecture, engineering,
+    construction, manufacturing
+position:
+  title: Senior Software Engineer - Agentic AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the "Agentic AI" title, the core responsibilities
+      focus on building distributed systems, cloud infrastructure,
+      and platform scalability with no hands-on AI/ML work. AI is
+      only mentioned in preferred qualifications as optional
+      exposure, making this an infrastructure/platform role that
+      supports AI applications.
+  responsibilities:
+  - Drive the technical vision and architecture for large-scale, distributed collaboration
+    systems
+  - Diagnose complex system issues and deliver iterative, well-designed solutions
+  - Participate in and lead design and code reviews, upholding engineering best practices
+  - Automate cloud infrastructure, CI/CD pipelines, testing, and observability
+  - Provide technical leadership and mentor engineers while fostering an inclusive,
+    collaborative team culture
+  use_cases:
+  - AI-first application platform for Autodesk products
+  - Workflow-driven workspace for users and internal teams
+  - Agent-style workflow automation features
+  - Collaborative tools across design and engineering products
+  skills:
+    genai: [RAG, LLM application patterns]
+    ml: []
+    web: []
+    databases: [NoSQL databases]
+    data: []
+    cloud: [AWS, Amazon Bedrock, SageMaker]
+    ops: [Terraform, CI/CD, Docker]
+    languages: [Node.js, TypeScript]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8660156'
+  extracted_at: '2026-03-27T13:40:01.737257'

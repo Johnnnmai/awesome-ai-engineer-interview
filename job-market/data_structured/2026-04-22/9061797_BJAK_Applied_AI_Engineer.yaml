@@ -1,0 +1,49 @@
+company:
+  name: BJAK
+  stage: unknown
+  focus: |-
+    Building proactive AI systems for context-aware
+    conversations and actions
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      optimizing AI/ML systems including LLMs, agent workflows,
+      and model behavior. The engineer owns problems end-to-end
+      from model behavior to production deployment, working with
+      prompt design, fine-tuning, inference serving, and agent
+      orchestration — all core AI-first activities.
+  responsibilities:
+  - Build and ship AI features end-to-end from model to system to user experience
+  - Design and iterate on prompts, tools, memory, and agent workflows
+  - Turn raw model outputs into structured, reliable, and predictable behaviors
+  - Debug issues across the full stack including model, orchestration, infra, and
+    UX
+  - Optimize for latency, cost, and production reliability
+  - Develop lightweight evaluation frameworks to measure real-world performance
+  - Collaborate with product and engineering to translate ambiguous problems into
+    working systems
+  use_cases:
+  - Proactive AI system that understands context across conversations
+  - AI agent that plans actions and carries work forward over time
+  - Structured and reliable model-driven product behaviors
+  - Production ML-powered features with measurable real-world performance
+  skills:
+    genai: ['LLMs (OpenAI-style APIs, LLaMA, Qwen)', Prompt Engineering, Agent Workflows,
+      RAG]
+    ml: [PyTorch, JAX, Model Fine-tuning, Model Training]
+    web: []
+    databases: [Vector DB]
+    data: []
+    cloud: []
+    ops: [vLLM, Inference Serving]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9061797'
+  extracted_at: '2026-04-22T13:28:00.471722'

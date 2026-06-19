@@ -1,0 +1,57 @@
+company:
+  name: S&P Global
+  stage: Public
+  focus: |-
+    Financial intelligence, analytics, and ratings for global
+    markets
+position:
+  title: Senior Developer Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is explicitly focused on designing, architecting,
+      and implementing autonomous/agentic AI systems including
+      multi-agent frameworks, self-optimizing systems, and LLM-
+      driven decision engines. The position requires hands-on
+      experience building with LangChain, Autogen, CrewAI, and
+      custom agentic frameworks.
+  responsibilities:
+  - Evaluate, recommend, and implement AI tools and frameworks for autonomous AI solutions
+    including multi-agent frameworks and LLM-driven decision engines
+  - Design strategies for optimizing autonomous AI models for domain-specific tasks
+    including real-time analytics and adaptive automation
+  - Define methodologies for fine-tuning LLMs, multi-agent frameworks, and feedback
+    loops aligned with business goals
+  - Spearhead integration of R&D initiatives into production architectures, advancing
+    agentic AI capabilities
+  - Evaluate and prototype emerging frameworks (Autogen, AutoGPT, LangChain), neuro-symbolic
+    architectures, and self-improving AI systems
+  - Develop technical white papers, architectural diagrams, and best practices for
+    autonomous AI system design and deployment
+  - Design and oversee architectural testing of AI agents including stress testing,
+    adversarial scenarios, and bias mitigation
+  - Collaborate with executives, product teams, and compliance officers to align AI
+    architectural initiatives with strategic objectives
+  use_cases:
+  - Real-time analytics and adaptive automation
+  - LLM-driven decision engines
+  - Multi-agent autonomous systems
+  - Self-optimizing AI systems
+  - Neuro-symbolic architectures
+  skills:
+    genai: [LangChain, Autogen, CrewAI, AutoGPT, Multi-agent frameworks, LLM fine-tuning,
+      Prompt engineering, RAG]
+    ml: [ML model training, ML model optimization]
+    web: []
+    databases: [Redis, PostgreSQL]
+    data: []
+    cloud: [AWS, AWS Lambda, Amazon EKS, Google Cloud Vertex AI]
+    ops: [Kubeflow, MLflow, MLOps pipelines]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7841104'
+  extracted_at: '2026-03-03T12:47:11.918578'

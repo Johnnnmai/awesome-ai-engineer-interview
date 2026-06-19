@@ -1,0 +1,45 @@
+company:
+  name: Nexaminds
+  stage: Seed
+  focus: AI solutions for environmental and industrial applications
+position:
+  title: AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on traditional ML/DL work including
+      computer vision, object detection, and edge deployment.
+      There's no mention of LLMs, agents, RAG, or other GenAI
+      technologies - it's primarily about deep learning models for
+      visual tasks in robotics/industrial settings.
+  responsibilities:
+  - Develop and optimize deep learning models for real-time object detection and classification
+  - Integrate AI models into systems for seamless interaction with hardware and software
+  - Collaborate with robotics and software engineering teams
+  - Test and validate models in real-world, unstructured environments
+  - Monitor model performance in production and handle model drift with retraining
+    strategies
+  - Optimize models for low-latency inference on edge and on-site hardware
+  - Support data collection and model calibration when needed
+  use_cases:
+  - Real-time object detection and classification
+  - Environmental monitoring and analysis
+  - Industrial automation and inspection
+  - Edge computing AI deployment
+  - Robotics AI integration
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, OpenCV, deep learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Nvidia Jetson, TensorRT, Weights & Biases]
+    languages: [Python]
+    domains: [computer vision]
+    other: [ROS (Robot Operating System)]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8837828'
+  extracted_at: '2026-03-27T15:17:29.348816'

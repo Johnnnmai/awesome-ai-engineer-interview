@@ -1,0 +1,50 @@
+company:
+  name: Celonis
+  stage: Series D+
+  focus: |-
+    Process Intelligence platform using process mining and AI to
+    optimize business operations
+position:
+  title: Senior Applied (AI) Engineer - Public Sector
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI
+      systems including LLM/agent systems with RAG, tools, and
+      guardrails. The engineer prototypes solutions, builds
+      agentic systems, and delivers secure, scalable AI
+      implementations directly for customers - not just supporting
+      infrastructure or data pipelines for others.
+  responsibilities:
+  - Discover customer AI strategy and translate requirements into innovative AI solutions
+  - Rapidly prototype AI solutions in customer hackathons using cutting-edge technologies
+  - Build and deploy secure, scalable LLM/agent systems with RAG, tools, and guardrails
+  - Integrate AI solutions with enterprise data, identity, and compliance frameworks
+  - Execute end-to-end Proof-of-Value projects from architecture to implementation
+  - Support customers in achieving ROI from AI deployments at scale
+  - Drive agentic process transformation from rule-based automation to autonomous
+    AI agents
+  use_cases:
+  - Process Intelligence feeding operational context to AI systems
+  - Autonomous AI agents for business process automation
+  - Intelligent chatbots for enterprise operations
+  - Automated text processing for business documents
+  - Supply chain and finance process optimization
+  - Enterprise AI deployment at scale with real ROI
+  skills:
+    genai: [RAG, Prompt Engineering, LangChain, LlamaIndex, Multi-agent orchestration,
+      Function calling, Few-shot learning, Fine-tuning, LLM guardrails, OpenAI API]
+    ml: [PyTorch, scikit-learn]
+    web: []
+    databases: []
+    data: [pandas, Databricks]
+    cloud: [AWS Bedrock, Azure AI, GCP Vertex AI]
+    ops: []
+    languages: [Python, Pydantic]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8174719'
+  extracted_at: '2026-03-27T15:15:28.028389'

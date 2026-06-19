@@ -1,0 +1,54 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU computing, AI hardware and software platforms
+position:
+  title: Senior AI and FSI Developer Technology Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on optimization and acceleration of
+      AI/LLM workloads on NVIDIA GPUs, including inference
+      optimization with TensorRT/TensorRT-LLM, and deploying
+      optimized AI models. The engineer works directly on AI model
+      performance, parallel algorithm design, and GPU-level
+      optimization of AI systems, which constitutes building and
+      deploying AI capabilities.
+  responsibilities:
+  - Research, design, and develop techniques to accelerate high-performance AI workloads
+    for FSI on NVIDIA CPUs and GPUs
+  - Analyze, optimize, and scale complex AI and HPC workloads for modern CPU and GPU
+    architectures
+  - Profile and eliminate performance bottlenecks across the full stack from algorithms
+    to kernels to system-level behavior
+  - Publish and present work at conferences and in blogs to educate the developer
+    community
+  - Influence the design of future hardware architectures, system software, libraries,
+    and programming models by collaborating with NVIDIA research and engineering teams
+  - Work with external technologists to investigate application performance and implement
+    GPU-accelerated optimizations
+  use_cases:
+  - Accelerating AI and HPC workloads for financial services industry applications
+  - Inference optimization and deployment of AI models in production for FSI
+  - Parallelizing and optimizing machine learning methods like decision trees, time
+    series models, and Monte Carlo simulations
+  - Financial pricing, risk simulation, and portfolio optimization acceleration on
+    GPUs
+  - Capital markets systematic/algorithmic trading strategy optimization
+  skills:
+    genai: []
+    ml: [CUDA, OpenACC, OpenMP, GPU architecture, Parallel programming]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [TensorRT, TensorRT-LLM, cuTile, Performance profiling and optimization,
+      Inference optimization]
+    languages: [C/C++, Python]
+    domains: [Financial modeling]
+    other: [MPI, Linear algebra, Monte Carlo simulations]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9017187'
+  extracted_at: '2026-04-22T13:00:56.208372'

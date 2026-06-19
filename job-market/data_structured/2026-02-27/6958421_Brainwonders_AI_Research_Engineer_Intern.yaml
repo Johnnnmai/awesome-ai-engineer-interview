@@ -1,0 +1,52 @@
+company:
+  name: Brainwonders
+  stage: Growth/Established
+  focus: |-
+    India's largest career counselling and guidance company for
+    students and educational institutions
+position:
+  title: AI Research Engineer Intern
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI research role focused on developing and
+      implementing ML algorithms to analyze brain data and predict
+      cognitive functions, plus building AI models for
+      personalized learning. The core work involves creating and
+      implementing ML models, which is hands-on AI/ML work.
+  responsibilities:
+  - Develop and implement machine learning algorithms to analyze brain data and predict
+    cognitive functions
+  - Collaborate with the research team to design experiments and collect data for
+    analysis
+  - Build data visualization tools to present complex findings in a clear and understandable
+    way
+  - Assist in the development of AI models for personalized learning and educational
+    assessment
+  - Conduct literature reviews and stay up-to-date on the latest advancements in AI
+    and neuroscience
+  - Present research findings to the team and contribute to scientific publications
+  - Participate in brainstorming sessions and contribute innovative ideas to drive
+    the company's research agenda forward
+  use_cases:
+  - Analyzing brain data to predict cognitive functions
+  - Personalized learning systems
+  - Educational assessment using AI
+  - Neuroscience research and data analysis
+  - Career counselling and guidance powered by cognitive insights
+  skills:
+    genai: []
+    ml: [Machine Learning, AI Model Development]
+    web: []
+    databases: []
+    data: [Data Visualization, Data Analysis]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6958421'
+  extracted_at: '2026-03-03T11:37:23.836834'

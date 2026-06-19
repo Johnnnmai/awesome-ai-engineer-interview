@@ -1,0 +1,55 @@
+company:
+  name: Philips
+  stage: Public
+  focus: |-
+    Health technology company specializing in image-guided
+    therapy solutions
+position:
+  title: Software test engineer - AzurionEye AI Analyst
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a software test engineer/architect role for an AI-
+      enabled platform (AzurionEye). The role involves testing and
+      validating AI-based products and preparing AI model
+      validation datasets, but does not involve building,
+      training, fine-tuning, or deploying AI/ML models. The core
+      work is software quality assurance and test architecture for
+      an AI-powered clinical platform.
+  responsibilities:
+  - Define and develop test architecture for REST-based, microservice-first applications
+    powering a clinical data lake platform
+  - Execute software testing activities (automated and manual) throughout the development
+    cycle within agile/scrum teams
+  - Define test strategy ensuring coverage of functional, non-functional, safety,
+    and regulatory requirements
+  - Validate and test AI-based products and solutions, including preparing AI model
+    validation datasets
+  - Establish end-to-end test architecture aligned with CI/CD and test-first principles
+  - Design and develop automated test frameworks, patterns, and tools across scrum
+    teams
+  - Conduct performance, load, reliability, and resilience testing across the platform
+  - Coach developers and testers on advanced testing techniques and automation best
+    practices
+  use_cases:
+  - AI-enabled clinical data lake platform for imaging workflows
+  - Image-guided therapy solutions for minimally invasive procedures
+  - Clinical data services powering connected healthcare solutions
+  - AI model validation for medical imaging applications
+  skills:
+    genai: []
+    ml: [AI model validation]
+    web: [REST API testing, Postman, RestAssured, Selenium, Playwright, Microservices
+        testing]
+    databases: []
+    data: []
+    cloud: [Cloud-based application testing]
+    ops: [Kubernetes, Docker, CI/CD, Azure DevOps, Git, Performance testing]
+    languages: [C#, Python, C++]
+    domains: []
+    other: [BDD/Cucumber, WASM, Test automation frameworks]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8905670'
+  extracted_at: '2026-04-22T13:10:19.605202'

@@ -1,0 +1,50 @@
+company:
+  name: DeepFin Research
+  stage: Unknown
+  focus: |-
+    Deep learning and reinforcement learning powered high-
+    frequency trading firm
+position:
+  title: AI Research Engineer - DL/DRL Driven HFT
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role is focused on deep learning and deep reinforcement
+      learning systems for trading, requiring expertise in
+      PyTorch, JAX, CUDA, and distributed training. While these
+      are ML techniques, they're not LLM/GenAI-specific - this is
+      traditional DL/DRL work building autonomous trading agents.
+  responsibilities:
+  - Architect, build, and maintain proprietary end-to-end deep reinforcement learning
+    training and inference pipelines
+  - Design and scale multi-GPU and multi-node distributed training systems for massive
+    parameter models with maximum throughput
+  - Write, profile, and optimize custom CUDA kernels for accelerating neural network
+    training and ultra-low latency inference in live trading
+  - Collaborate with senior researchers to translate mathematical formulations and
+    prototypes into production-ready code
+  - Optimize custom market-simulation environments for massive parallelization of
+    RL agent rollouts and experience replay
+  use_cases:
+  - High-frequency trading with autonomous self-learning agents operating at microsecond
+    latency
+  - Deep reinforcement learning for quantitative finance and market prediction
+  - Real-time trading decision systems using neural network inference
+  - Market simulation and backtesting environments for RL training
+  skills:
+    genai: []
+    ml: [PyTorch, JAX, PPO, SAC, DQN, Transformers, CUDA, DDP, FSDP, Megatron, Deep
+        Reinforcement Learning, Distributed Training, GPU Optimization]
+    web: []
+    databases: []
+    data: [Ray]
+    cloud: []
+    ops: [Nsight Systems, Nsight Compute]
+    languages: [C++, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8870525'
+  extracted_at: '2026-03-27T14:31:43.566896'

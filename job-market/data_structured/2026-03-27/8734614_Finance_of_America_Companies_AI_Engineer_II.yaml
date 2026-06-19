@@ -1,0 +1,55 @@
+company:
+  name: Finance of America Companies
+  stage: Public
+  focus: |-
+    Reverse mortgage and home equity solutions for homeowners
+    55+
+position:
+  title: AI Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly developing, training, fine-
+      tuning, and deploying AI/ML models into production. The
+      engineer will build AI-driven applications integrating ML,
+      NLP, and computer vision, with hands-on work on model
+      optimization and deployment.
+  responsibilities:
+  - Develop, train, and optimize machine learning and deep learning models using advanced
+    algorithms and hyperparameter tuning
+  - Build AI-driven applications integrating ML models, NLP, and computer vision for
+    automation and intelligent insights
+  - Work with structured and unstructured data implementing data cleaning, transformation,
+    and feature extraction
+  - Deploy AI models into production environments using cloud infrastructure, containerization,
+    and MLOps best practices
+  - Monitor AI model performance, analyze drift, and proactively retrain models to
+    maintain accuracy
+  - Ensure AI solutions adhere to legal, regulatory, and ethical guidelines with fairness-aware
+    algorithms
+  - Collaborate with business teams, IT, and data scientists to translate business
+    needs into AI-driven solutions
+  - Develop technical documentation, best practices, and training materials to support
+    AI adoption
+  use_cases:
+  - Enhance automation and decision-making in reverse mortgage operations
+  - Personalization and intelligent insights for homeowners and stakeholders
+  - Computer vision and NLP applications for business process automation
+  - Risk assessment and regulatory compliance in financial services
+  - Predictive analytics for retirement planning solutions
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, Scikit-Learn]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS SageMaker, Azure AI, Google Vertex AI]
+    ops: [MLOps, Docker]
+    languages: [Python, R, Julia]
+    domains: [Natural Language Processing, Computer Vision, Deep Learning]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8734614'
+  extracted_at: '2026-03-27T15:23:23.123239'

@@ -1,0 +1,56 @@
+company:
+  name: Bolna
+  stage: Seed (YC F25)
+  focus: |-
+    Voice AI infrastructure for deploying intelligent voice
+    agents in India
+position:
+  title: 'AI Solutions Engineer (YOE: Fresher - 02)'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly building, designing, and
+      iterating on AI voice agents — writing system prompts,
+      building conversation flows, red-teaming agents, and
+      deploying them for customers. While it doesn't require heavy
+      coding, it's hands-on work with LLM-powered agents, making
+      it an ai-first role. The engineer is directly working ON the
+      AI system (voice agents) to make them effective.
+  responsibilities:
+  - Write, test, and iterate on system prompts for voice agents across industries
+    like D2C, fintech, healthcare, and logistics
+  - Listen to real call recordings, identify where agents fail, and fix prompt and
+    flow issues
+  - Build conversation flows and call pathways for new customer deployments
+  - Help onboard new customers by understanding their use case, setting up their agent,
+    and getting it live
+  - Maintain a growing library of prompts, templates, and best practices across verticals
+  - Red-team agents to find edge cases and make them robust
+  - Test agents in vernacular inputs including Hindi, Hinglish, and regional Indian
+    languages
+  - Feed customer insights and product feedback back to product and engineering teams
+  use_cases:
+  - Intelligent voice agents for customer support calls
+  - Voice-based collections and payment follow-ups
+  - Automated outbound and inbound sales calls
+  - Multi-language voice AI for Indian markets
+  - Customer onboarding and deployment of voice agents across D2C, fintech, healthcare,
+    and logistics industries
+  skills:
+    genai: [Prompt Engineering, 'LLMs (ChatGPT, Claude)', 'Voice AI tools (Bolna,
+        Vapi, ElevenLabs)']
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [No-code/Low-code workflows, Customer Onboarding, Hindi/Hinglish/Regional
+        Languages, Conversation Design, Red-teaming / Adversarial Testing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8939517'
+  extracted_at: '2026-04-22T13:44:14.353835'

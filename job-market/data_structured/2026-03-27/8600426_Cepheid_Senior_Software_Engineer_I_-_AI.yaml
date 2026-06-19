@@ -1,0 +1,52 @@
+company:
+  name: Cepheid
+  stage: Public
+  focus: |-
+    CDMO services for genomic medicine and biotechnology, part
+    of Danaher corporation
+position:
+  title: Senior Software Engineer I - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, implementing, and optimizing
+      code for training and fine-tuning RAG models using OpenAI
+      LLMs, which is direct hands-on work with GenAI systems. The
+      position also develops custom Python applications
+      integrating AI models with enterprise data sources, clearly
+      placing it in the ai-first category.
+  responsibilities:
+  - Develop, test, and deploy custom Python applications for predictive analytics,
+    process automation, and data-driven decision support
+  - Design, implement, and optimize low-level code for training and fine-tuning RAG
+    models using OpenAI LLMs and related frameworks
+  - Integrate AI models with enterprise data sources, ensuring robust, scalable, and
+    secure solutions
+  - Design, code, and test custom applications and scripts using industry-standard
+    development systems and practices
+  - Deliver functionality according to technical specifications to achieve expected
+    business outcomes
+  - Optimize processes and improve organizational productivity and efficiency through
+    technical solutions
+  use_cases:
+  - Predictive analytics for biotech applications
+  - Process automation in life sciences and diagnostics
+  - Data-driven decision support systems
+  - RAG-based applications for enterprise knowledge retrieval
+  - Biotech and genomic medicine workflow optimization
+  skills:
+    genai: [OpenAI LLMs, RAG]
+    ml: []
+    web: []
+    databases: [Datalakes]
+    data: [Azure Databricks]
+    cloud: [Azure DevOps]
+    ops: [CI/CD]
+    languages: [Python, JavaScript, Java, C# .NET, SQL]
+    domains: []
+    other: [Agile Software Development, Secure Code Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8600426'
+  extracted_at: '2026-03-27T15:34:10.637583'

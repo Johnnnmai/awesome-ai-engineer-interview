@@ -1,0 +1,52 @@
+company:
+  name: Quantanite
+  stage: null
+  focus: |-
+    Cognitive data solutions and AI-based data extraction
+    platform
+position:
+  title: Jr AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI agents
+      using frameworks like LangChain, developing AI/ML models
+      using TensorFlow and PyTorch, and implementing AI algorithms
+      for payment and CX products. The position requires hands-on
+      work with LLMs, deep learning models, and agent frameworks,
+      which is core AI/ML development work.
+  responsibilities:
+  - Build and deploy AI agents using various frameworks and tools
+  - Lead the design, development, and implementation of AI algorithms and models to
+    enhance payment and CX product offerings
+  - Test agent interactions, document behaviors, and improve reliability and performance
+  - Develop and deploy AI models including deep learning models using TensorFlow,
+    PyTorch, and other ML/DL frameworks
+  - Design and maintain the full AI data pipeline including data crawling, ETL, and
+    building fact tables
+  - Apply statistical and programming expertise for data analysis and modeling
+  - Optimize AI models for on-premise infrastructure with focus on performance and
+    security compliance
+  - Mentor junior AI/ML engineers and contribute to documentation and process standardization
+  use_cases:
+  - Cognitive data solution for unstructured data extraction
+  - Payment product enhancement through AI
+  - Customer experience (CX) product optimization
+  - Data crawling and information extraction from unstructured sources
+  - Image and speech recognition applications
+  skills:
+    genai: [LangChain, AutoGPT, CrewAI, Multi-Agent systems, ChatGPT, Claude, LLMs]
+    ml: [TensorFlow, PyTorch, NumPy, Pandas, NLP, Deep learning, ML algorithms]
+    web: [RESTful APIs, API development, Full-stack development]
+    databases: [FAISS, ChromaDB, Pinecone, Weaviate, RDBMS, NoSQL]
+    data: [Databricks, Spark, ETL]
+    cloud: [Azure Data Factory, Azure Synapse, Azure Data Lake Storage]
+    ops: [DevOps, Docker]
+    languages: [Python, SQL]
+    domains: [Image recognition, Speech recognition]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6799887'
+  extracted_at: '2026-03-03T11:24:10.434323'

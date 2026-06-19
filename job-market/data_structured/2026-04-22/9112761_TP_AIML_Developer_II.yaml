@@ -1,0 +1,47 @@
+company:
+  name: TP
+  stage: Public
+  focus: |-
+    Global customer experience management and omnichannel
+    support services
+position:
+  title: AI/ML Developer II
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The job description mentions designing AI algorithms and
+      researching simulation of human intelligence, which suggests
+      ai-first work. However, no specific AI/ML technologies,
+      frameworks, or hands-on model-building details are provided.
+      The description is extremely generic and lacks concrete
+      technical responsibilities, making it impossible to
+      confidently classify the role.
+  responsibilities:
+  - Research simulation of human intelligence processes by machines including learning,
+    reasoning, and self-correction
+  - Design advanced AI algorithms to solve critical business challenges
+  - Execute specialized AI/ML projects and activities independently
+  - Manage and oversee implementation of short-term activities within the team
+  - Supervise and provide guidance to less experienced professionals
+  - Improve day-to-day AI/ML activities and processes
+  - Deliver professional responsibilities focusing on technical excellence
+  use_cases:
+  - Simulation of human intelligence processes for business applications
+  - AI-driven solutions for customer experience management
+  - Automated reasoning and self-correction systems
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9112761'
+  extracted_at: '2026-04-22T14:13:08.205592'

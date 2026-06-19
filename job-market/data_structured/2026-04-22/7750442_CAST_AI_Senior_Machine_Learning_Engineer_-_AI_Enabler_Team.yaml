@@ -1,0 +1,58 @@
+company:
+  name: CAST AI
+  stage: Unicorn (valued over $1 billion, January 2026)
+  focus: |-
+    Autonomous cloud-native and AI infrastructure optimization
+    platform for Kubernetes
+position:
+  title: Senior Machine Learning Engineer - AI Enabler Team
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, optimizing, and
+      deploying LLM inference and training pipelines, including
+      hands-on model training, fine-tuning, and inference engine
+      optimization (vLLM, SGLang, TensorRT). The engineer works
+      directly ON AI/ML systems — evaluating LLM performance,
+      architecting training pipelines, and implementing model
+      optimization techniques like quantization and reduced
+      precision.
+  responsibilities:
+  - Evaluate and analyze LLM performance across cost, quality, and efficiency dimensions
+  - Architect and build LLM inference pipelines with optimization techniques like
+    quantization and reduced precision
+  - Design and implement model training pipelines including fine-tuning strategies
+  - Deploy and tune inference engines (vLLM, SGLang, TensorRT) for production workloads
+    on Kubernetes
+  - Optimize distributed ML training and inference with network and checkpointing
+    strategies
+  - Collaborate cross-team on greenfield AI infrastructure features for automatic
+    LLM selection and cost optimization
+  - Stay current with industry trends and propose new features and solutions to customer
+    problems
+  use_cases:
+  - Automatic LLM selection balancing cost-efficiency and performance for customer
+    applications
+  - Cloud cost optimization for AI workloads running on Kubernetes infrastructure
+  - Token usage optimization and waste reduction across LLM API keys and prompts
+  - ML inference optimization including reduced precision, weight quantization, and
+    engine tuning
+  - Distributed training and fine-tuning of large language models at scale
+  skills:
+    genai: [LLM evaluation]
+    ml: [PyTorch, ML inference optimization, Weight quantization, Distributed training,
+      Fine-tuning]
+    web: [gRPC, REST]
+    databases: [ClickHouse, PostgreSQL]
+    data: [GCP Pub/Sub]
+    cloud: [AWS, GCP, Azure]
+    ops: [vLLM, SGLang, TensorRT, Kubernetes, GitLab CI, ArgoCD, Prometheus, Grafana,
+      Loki, Tempo]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7750442'
+  extracted_at: '2026-04-22T13:45:35.619790'

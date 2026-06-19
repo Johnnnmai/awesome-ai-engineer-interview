@@ -1,0 +1,52 @@
+company:
+  name: Kustomer
+  stage: Series B
+  focus: |-
+    Conversational CRM platform with AI-powered customer
+    experience
+position:
+  title: Software Engineer, AI Automations (Senior, Staff)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, building, and deploying AI
+      agents and automation systems that become core participants
+      in the software development lifecycle. The engineer will
+      directly implement AI-powered tools and agentic systems, not
+      just support infrastructure for others' AI work.
+  responsibilities:
+  - Design, build, and deploy AI agents and automation that accelerate every phase
+    of the SDLC from code generation through deployment
+  - Implement AI and agentic participants as core parts of the software development
+    process at Kustomer
+  - Evaluate and incorporate cutting-edge AI and automation tooling to improve quality,
+    efficiency, and development velocity
+  - Partner with engineers across teams to identify friction points and design AI-powered
+    solutions
+  - Champion best practices and drive adoption of AI-powered tools across the engineering
+    organization
+  - Build foundational developer tooling and platforms that modernize how engineers
+    create systems and workflows
+  use_cases:
+  - Automated code generation and review acceleration
+  - AI-powered end-to-end testing automation
+  - Automated deployment and monitoring workflows
+  - Developer experience enhancement through AI agents
+  - Software development lifecycle automation
+  - Engineering productivity and velocity optimization
+  skills:
+    genai: [AI agents, automation]
+    ml: []
+    web: [full-stack development]
+    databases: []
+    data: []
+    cloud: [ECS]
+    ops: [Docker, Terraform, developer tooling, CI/CD]
+    languages: [Go, Python, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8815834'
+  extracted_at: '2026-03-27T14:15:01.052530'

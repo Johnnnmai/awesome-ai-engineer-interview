@@ -1,0 +1,53 @@
+company:
+  name: Anthropic
+  stage: Series D
+  focus: AI safety research and Claude LLM development
+position:
+  title: Applied AI Engineer, Life Sciences (Beneficial Deployments)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly deploying Claude (Anthropic's
+      LLM) to life sciences partners by building agent
+      architectures, prototyping agents that fit into research
+      pipelines, and developing ecosystem tooling like MCP servers
+      and agent skills. The work is hands-on with LLM systems -
+      building, deploying, and extending AI capabilities for
+      partners.
+  responsibilities:
+  - Partner deeply with flagship life sciences research institutions to understand
+    scientific workflows end-to-end and build production systems integrated into their
+    research
+  - Develop reusable ecosystem infrastructure including MCP servers for domain-specific
+    data sources like genomics platforms, literature databases, and experimental repositories
+  - Build scientifically-grounded benchmarks and agent skills that other institutions
+    can adopt without starting from scratch
+  - Identify challenges in deploying AI in life sciences such as heterogeneous data,
+    auditability requirements, and the prototype-to-trust gap
+  - Feed deployment findings back to product, engineering, and research teams
+  - Create technical content and documentation that enables partners to self-serve
+    and scale globally
+  use_cases:
+  - Life sciences R&D acceleration from early discovery through translation
+  - Genomics and biomedical research workflows
+  - Drug discovery pipeline optimization
+  - Academic research institution support at places like Howard Hughes Medical Institute
+    and The Allen Institute
+  - Scientific literature and experimental data analysis
+  skills:
+    genai: [Claude API, Prompt engineering, Context engineering, Agent architectures,
+      MCP servers, LLM evaluation frameworks]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Genomics, Neuroscience, Drug discovery, Scientific computing]
+    other: [Production systems]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8434162'
+  extracted_at: '2026-03-03T12:24:41.152893'

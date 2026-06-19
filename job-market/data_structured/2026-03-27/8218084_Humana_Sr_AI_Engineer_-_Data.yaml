@@ -1,0 +1,52 @@
+company:
+  name: Humana
+  stage: Public
+  focus: Health insurance and healthcare services company
+position:
+  title: Sr AI Engineer - Data
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building an Agentic AI platform,
+      implementing GenAI technologies with LLMs, and building RAG
+      systems and generative AI agents. The position requires
+      hands-on work deploying and building AI models and APIs,
+      which is core ai-first work.
+  responsibilities:
+  - Explore and implement generative AI technologies using Large Language Models and
+    other generative models to create innovative solutions
+  - Build and maintain robust APIs for enabling Retrieval-Augmented Generation and
+    generative AI agents within business use cases
+  - Design, develop, and maintain robust data pipelines for ingestion, processing,
+    and transformation of large datasets
+  - Assist data science team in the development and deployment of traditional machine
+    learning models
+  - Collaborate with data scientists to understand model requirements and translate
+    them into scalable engineering solutions
+  - Monitor and maintain performance and reliability of deployed APIs, models, and
+    data pipelines
+  - Stay up to date with the latest advancements in machine learning, generative AI,
+    and related technologies
+  use_cases:
+  - Agentic AI platform for healthcare business solutions
+  - Retrieval-Augmented Generation systems for enterprise use cases
+  - Generative AI agents for business automation
+  - Healthcare data processing and transformation at scale
+  - Traditional ML model deployment for healthcare applications
+  skills:
+    genai: [LangChain, Pydantic AI, Large Language Models, Retrieval-Augmented Generation,
+      Generative AI agents]
+    ml: [PyTorch, TensorFlow, Scikit-learn, Deep learning, NLP]
+    web: [FastAPI, Flask, RESTful APIs]
+    databases: [NoSQL databases]
+    data: [PySpark, Kafka, Hadoop, Data pipelines]
+    cloud: [Azure, GCP, AWS]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python, Pandas, NumPy]
+    domains: []
+    other: [Git]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8218084'
+  extracted_at: '2026-03-27T13:47:22.346100'

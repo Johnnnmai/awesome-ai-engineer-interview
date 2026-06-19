@@ -1,0 +1,59 @@
+company:
+  name: Boomi
+  stage: Private (PE-owned)
+  focus: |-
+    Intelligent integration and automation platform connecting
+    systems and data
+position:
+  title: Software Senior Principal Engineer - Backend & Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires deep expertise in Agentic AI architecture
+      and implementation, including building production-grade
+      agentic systems, multi-agent orchestration, RAG, and LLM
+      integration strategies. The position involves hands-on
+      design and implementation of sophisticated AI agent
+      architectures, not just supporting infrastructure.
+  responsibilities:
+  - Define and drive technical vision and architecture for backend systems ensuring
+    alignment with business objectives and long-term scalability
+  - Lead design and implementation of complex distributed systems using Python and
+    Java, establishing architectural patterns and best practices
+  - Architect and optimize highly scalable, fault-tolerant microservices handling
+    high-throughput workloads across multiple cloud environments
+  - Design and implement sophisticated Agentic AI systems, building proof-of-concepts
+    and production implementations with advanced architectures and orchestration patterns
+  - Champion the adoption and advancement of Agentic AI capabilities, designing sophisticated
+    agent architectures and orchestration patterns
+  - Provide technical leadership and mentorship to engineering teams, conducting design
+    reviews and elevating technical capabilities
+  - Drive architectural decisions around data storage, processing, and retrieval across
+    SQL, NoSQL, Vector databases, and search technologies
+  - Establish and enforce engineering excellence through coding standards, architectural
+    guidelines, testing strategies, and operational best practices
+  use_cases:
+  - Enterprise integration and automation platform with AI-powered agents
+  - Multi-agent orchestration for complex business workflows
+  - Retrieval-Augmented Generation for intelligent data access
+  - Tool integration and memory systems for autonomous agent behavior
+  - Production-grade agentic systems for business process automation
+  skills:
+    genai: [Agentic AI, Multi-agent orchestration, RAG (Retrieval-Augmented Generation),
+      Prompt engineering, LLM integration, Agent design patterns, Tool integration,
+      Memory systems]
+    ml: []
+    web: [FastAPI, Django, Flask, Spring Boot, Microservices architecture]
+    databases: [Vector databases, OpenSearch, NoSQL databases, SQL databases]
+    data: []
+    cloud: [AWS, Azure, Google Cloud, EKS]
+    ops: [Kubernetes, Terraform, CloudFormation, Ansible, CI/CD, Docker, TDD, Chaos
+        engineering, Monitoring and observability]
+    languages: [Python, Java, SQL]
+    domains: []
+    other: [Distributed systems, Jira, Confluence]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8372393'
+  extracted_at: '2026-03-03T12:35:42.753866'

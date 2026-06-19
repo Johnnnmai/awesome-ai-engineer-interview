@@ -1,0 +1,55 @@
+company:
+  name: Kore.ai
+  stage: Series B+
+  focus: |-
+    Enterprise conversational and generative AI platform for
+    customer experience
+position:
+  title: Lead AI Customer Engineer — Fanatic Customer Support
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a customer support/engineering role focused on
+      troubleshooting and maintaining AI platform deployments, not
+      building or fine-tuning AI/ML systems. The role involves
+      supporting customers using Kore.ai's AI platform through
+      debugging, issue resolution, and deployment guidance, which
+      is enabling work for others who work on AI.
+  responsibilities:
+  - Work directly with enterprise customers to investigate and resolve complex platform
+    and integration issues
+  - Own technical escalations and coordinate cross-functional collaboration with product,
+    engineering, and infrastructure teams
+  - Act as a subject matter expert on the Kore.ai platform, APIs, and deployment architectures
+  - Diagnose production issues using logs, telemetry, and system diagnostics to identify
+    root causes and implement solutions
+  - Build tools, automation, and knowledge resources that improve troubleshooting
+    efficiency and support scale
+  - Mentor engineers across the Fanatic Customer Support team and help elevate technical
+    standards
+  - Partner with product and engineering teams to translate customer feedback into
+    platform improvements
+  - Define and document best practices for deploying and operating AI solutions on
+    the Kore.ai platform
+  use_cases:
+  - Enterprise customer support for conversational AI platforms
+  - Production deployment troubleshooting and optimization
+  - API and integration issue resolution
+  - Cloud infrastructure diagnostics for AI workloads
+  - AI workflow debugging and reliability improvements
+  skills:
+    genai: [OpenAI APIs, Claude, Conversational AI, LLM systems]
+    ml: [Machine learning workflows]
+    web: [APIs, REST APIs]
+    databases: []
+    data: []
+    cloud: [Cloud platforms]
+    ops: [Distributed systems, Telemetry and monitoring]
+    languages: [Python]
+    domains: []
+    other: [Enterprise SaaS, Scripting and automation]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8833886'
+  extracted_at: '2026-03-27T16:14:48.256450'

@@ -1,0 +1,50 @@
+company:
+  name: Synechron
+  stage: null
+  focus: |-
+    Digital consulting and technology services for financial
+    services, telecommunications, and technology sectors
+position:
+  title: Python Developer with expertise in AI/GenAI, RAG architectures, Data Integration,
+    and Cloud Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI/GenAI
+      solutions, including RAG architectures, Graph RAG, and
+      Natural Language Query interfaces. The position requires
+      proven expertise in building AI-driven insights, not just
+      supporting infrastructure for AI work.
+  responsibilities:
+  - Design, develop, and optimize data pipelines for structured and semi-structured
+    data flows
+  - Build AI/GenAI solutions for deriving insights from enterprise data, including
+    Natural Language Query interfaces
+  - Integrate data ingestion processes with platforms such as Genesys Cloud and Salesforce,
+    supporting external and internal APIs
+  - Support large-scale platform transformations with effective project prioritization
+  - Monitor, debug, and improve data pipelines for performance and reliability
+  - Implement data governance, quality, and automation best practices
+  - Maintain up-to-date documentation of technical solutions and processes
+  use_cases:
+  - Natural Language Query interfaces for enterprise data exploration
+  - RAG and Graph RAG architectures for knowledge retrieval and insights
+  - Enterprise analytics and data-driven decision support
+  - Data integration and ingestion from customer engagement platforms
+  - Platform transformation and migration initiatives
+  skills:
+    genai: [RAG architectures, Graph RAG, Natural Language Query interfaces]
+    ml: [TensorFlow, PyTorch]
+    web: [React JS]
+    databases: [Snowflake, SQL Server]
+    data: [Apache Airflow]
+    cloud: [AWS, Azure, Google Cloud]
+    ops: [Kubernetes, Git, Jenkins]
+    languages: [Python, Java, SQL]
+    domains: []
+    other: [Genesys Cloud APIs/SDKs, Salesforce APIs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8859610'
+  extracted_at: '2026-03-27T15:10:59.597936'

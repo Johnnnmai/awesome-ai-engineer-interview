@@ -1,0 +1,58 @@
+company:
+  name: Datacor, Inc.
+  stage: null
+  focus: |-
+    ERP, CRM, and software solutions for process manufacturing
+    industry
+position:
+  title: AI Optimization Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily focused on traditional Operations
+      Research and combinatorial optimization (exact methods,
+      metaheuristics, commercial solvers like Gurobi/CPLEX). While
+      LLMs/GenAI are mentioned as preferred familiarity to
+      complement optimization workflows, they are not core to the
+      role. The position builds mathematical optimization engines
+      for supply chain/logistics, not AI/ML model development or
+      deployment.
+  responsibilities:
+  - Define and lead technical strategy for optimization use cases across product portfolio
+  - Translate complex real-world operational constraints into rigorous mathematical
+    models
+  - Design, implement, and benchmark optimization algorithms including exact methods
+    and metaheuristics
+  - Make principled tradeoffs between solution quality, computational cost, and real-time
+    responsiveness
+  - Collaborate with product, engineering, and design teams to ensure solver solutions
+    are user-friendly
+  - Drive end-to-end delivery of optimization solutions from prototype to production
+  - Integrate optimization engines into production software via APIs and enterprise
+    data pipelines
+  - Serve as internal authority on optimization methods and communicate to technical
+    and business audiences
+  use_cases:
+  - Production sequencing and scheduling for process manufacturers
+  - Inbound ingredient arrival optimization
+  - Outbound fleet and delivery optimization
+  - Vehicle routing optimization
+  - Supply chain and logistics optimization
+  - End-to-end operations management for process manufacturers and distributors
+  skills:
+    genai: [Large Language Models]
+    ml: [Google OR-Tools, Gurobi, CPLEX, Simulated annealing, Tabu search, Genetic
+        algorithms, HiGHS, SCIP]
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Python, C++, Java]
+    domains: []
+    other: [Google Maps Platform]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8868065'
+  extracted_at: '2026-03-27T13:42:23.634481'

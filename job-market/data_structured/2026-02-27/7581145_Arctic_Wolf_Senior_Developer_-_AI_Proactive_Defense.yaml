@@ -1,0 +1,50 @@
+company:
+  name: Arctic Wolf
+  stage: Public
+  focus: Cybersecurity managed detection and response services
+position:
+  title: Senior Developer - AI Proactive Defense
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building agentic AI frameworks,
+      multi-agent orchestration systems, and LLM integrations for
+      autonomous threat detection and response. The developer will
+      work hands-on with agents, RAG systems, and AI automation
+      pipelines - core AI/ML work on production systems.
+  responsibilities:
+  - Design and develop agentic AI frameworks for proactive threat detection and response
+  - Implement multi-agent coordination logic for planning, execution, and self-correction
+    in dynamic security workflows
+  - Integrate LLMs, vector databases, and tool-use APIs to enable contextual memory
+    and autonomous reasoning
+  - Build modular orchestration components for knowledge routing, task delegation,
+    and agent collaboration
+  - Collaborate with cross-functional teams to ensure production-grade scalability,
+    observability, and resilience
+  - Prototype and evaluate emerging agentic AI tools (e.g., LangChain, Semantic Kernel,
+    LlamaIndex, AutoGen, CrewAI)
+  - Participate in code reviews, design discussions, and contribute to technical documentation
+  use_cases:
+  - Autonomous threat detection and response in security operations
+  - Multi-agent orchestration for cybersecurity workflows
+  - Proactive threat mitigation with intelligent agents
+  - AI-powered Security Operations Centre (SOC) automation
+  - Contextual memory and reasoning for security decision-making
+  skills:
+    genai: [LangChain, Semantic Kernel, LlamaIndex, AutoGen, CrewAI, OpenAI API, Anthropic
+        API, RAG, Agentic AI frameworks]
+    ml: []
+    web: [Microservices]
+    databases: [FAISS, Pinecone, Vector databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLflow, Kubeflow, Distributed systems]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7581145'
+  extracted_at: '2026-03-03T12:09:58.023222'

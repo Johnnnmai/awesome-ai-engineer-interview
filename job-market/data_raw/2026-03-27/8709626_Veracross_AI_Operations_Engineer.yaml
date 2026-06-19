@@ -1,0 +1,193 @@
+job_id: 8709626
+title: AI Operations Engineer
+company: Veracross
+location: GBR
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - AWS
+  - Llm
+  - MySQL
+  - Postgres
+  - Ruby On Rails
+  - SQL Server
+company_size: 141 Employees
+description: |
+  Company Description
+  
+  Veracross provides SaaS-based School Information Systems
+  (SIS) designed to meet the specific needs of independent
+  K-12 schools worldwide. Our one-record solution combines the
+  power of a fully integrated single-record database,
+  personalized communication tools, and an elegant
+  architecture that is unique in our industry.
+  
+  We are a growing, values-led community of 350 plus employees
+  in the US, UK and Australia who share a vision to unify
+  school communities, improve the quality of education, and
+  enhance learning. And we’re succeeding!
+  
+  Veracross is five product brands in one global tech company
+  
+  - Veracross SIS is a one-person, one-record school management
+    platform
+  - Magnus Health provides cloud-based Student Health Record
+    (SHR) solutions
+  - Digistorm connects with their communities through Digistorm
+    Websites, Digistorm Funnel, and Digistorm Apps.
+  - Epraise incentivizes student well-being and connects
+    teachers, students, and families.
+  - Firefly provides an online learning space for students and
+    teachers
+  
+  About the Role
+  
+  We’re forming a new AI & Data Operations team and hiring our
+  first AI Platform Engineer to bring safe, practical AI
+  operations into our EdTech products. You’ll work end‑to‑end
+  across the AI stack – from infrastructure to shipping
+  features.
+  
+  This is a hands‑on role. You’ll partner closely with
+  engineering leadership and product teams to ship AI features
+  that help schools, while ensuring reliability, safety, and
+  cost control.
+  
+  What You’ll Do
+  
+  Build AI‑Powered Product Features
+  
+  - Design and ship agentic AI products to optimize and automate
+    school operations
+  
+  - Build systems using school‑specific data and institutional
+    knowledge; develop prompt strategies and reusable
+    libraries
+  
+  - Integrate AI capabilities into existing Ruby on Rails
+    applications via APIs and SDKs
+  
+  Operate, Optimize & Scale LLM Systems
+  
+  - Curate and maintain our AWS AI infrastructure (Bedrock,
+    GuardRails, etc.)
+  
+  - Evaluate and select models, benchmark quality, latency, and
+    cost on school operations tasks
+  
+  - Optimize prompts, caching, batching, and workflows to
+    improve performance and reduce spend
+  
+  - Monitor token usage and implement budgeting and cost
+    controls; run A/B tests across approaches
+  
+  Safety, Guardrails & Compliance
+  
+  - Design guardrails to prevent hallucinations, bias, and
+    inappropriate outputs
+  
+  - Detect and redact PII in AI inputs/outputs; establish safety
+    protocols for K–12
+  
+  - Build feedback loops for human review and continuous
+    improvement
+  
+  Observability & Evaluation
+  
+  - Instrument AI systems with logging, metrics, and tracing;
+    build dashboards for quality, latency, cost, and safety
+  
+  - Create evaluation datasets and automated testing pipelines,
+    incorporate user feedback into ongoing improvements
+  
+  Research & Enablement
+  
+  - Stay current with the AI/ML ecosystem; prototype new models,
+    techniques, and tools
+  
+  - Evaluate and select AI hosting solutions (AWS AgentCore,
+    Cloudflare Agents, etc.)
+  
+  What You’ll Build (First 12 Months)
+  
+  - AI‑powered features with measurable impact on school
+    operations
+  
+  - Core AI operations infrastructure: evaluation, monitoring,
+    and guardrails
+  
+  - Scalable best practices for responsible AI across our
+    products
+  
+  Requirements
+  
+  - 5+ years of software engineering experience, including
+    hands‑on LLM work
+  
+  - Experience building and operating production AI applications
+  
+  - Strong understanding of prompt engineering LLM best
+    practices
+  
+  - Comfortable working with APIs in a polyglot environment
+  
+  Strongly Preferred
+  
+  - Applied AI skills
+  
+  - Ruby on Rails experience (or willingness to learn quickly)
+    or similar frameworks
+  
+  - Experience in regulated or safety‑sensitive domains
+  
+  Personal Qualities
+  
+  - Pragmatic, production‑minded, and security focused
+  
+  - Curious and fast‑learning; clear communicator with technical
+    and non‑technical audiences
+  
+  - Mission‑driven about improving school operations
+  
+  Why This Role Is Unique
+  
+  - One of the first roles shaping AI solutions across our
+    entire product portfolio
+  
+  - Direct impact on the quality of life of our users
+  
+  - Modern AI solving real problems—not research for research’s
+    sake
+  
+  - Work on a roadmap with strong executive support on a small
+    team with big influence
+  
+  Our Tech Environment
+  
+  Ruby on Rails applications • SQL Server, Postgres & MySQL •
+  AWS cloud infrastructure
+  
+  You’ll have meaningful input into tool selection, workflows,
+  and long‑term AI strategy.
+  
+  Benefits
+  
+  - Our team is fully remote- everyone works from home
+  - 25 days holiday, plus public holidays
+  - 4% matched pension contributions
+  - Payroll Giving
+  - Private medical
+  - Discounted Gym Membership
+  - Cycle Scheme
+  - Enhanced Sick pay
+  - Enhanced Maternity, Paternity, Adoption and shared Paternity
+    Leave pay.
+  - Employee Assistance Program
+industries:
+  - Edtech
+  - Software
+  - Database
+posted_date: 2026-03-10
+url: "https://builtin.com/job/ai-operations-engineer/8709626"
+source: Built In

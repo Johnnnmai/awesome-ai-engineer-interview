@@ -1,0 +1,194 @@
+job_id: 8737270
+title: AI Engineer
+company: ResortPass
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Algolia
+  - AWS
+  - Datadog
+  - Dbt
+  - Python
+  - PyTorch
+  - Redshift
+  - Ruby On Rails
+company_size: 83 Employees
+description: |
+  About the company:
+  
+  ResortPass is redefining what it means to be a hotel guest.
+  We’re building a new category in hospitality: day access to
+  luxury hotel experiences from breathtaking pools and private
+  beaches to deluxe spas and wellness recharges so people can
+  escape without an overnight stay.
+  
+  Our marketplace now connects guests with 2,600+ partner
+  hotels and resorts, including Ritz-Carlton, Four Seasons,
+  Marriott Hilton, and more.  We’ve helped millions of people
+  enjoy premium hospitality close to home, making rest more
+  mindful, togetherness more meaningful, and escape more
+  accessible.  The result: unforgettable experiences for
+  guests and new revenue streams for partners.
+  
+  Backed by some of the best consumer and growth investors,
+  including CRV, Declaration, Brian Kelly (The Points Guy),
+  WME, FJ Labs, and more, ResortPass is scaling a product
+  people love and creating an entirely new way to experience
+  hospitality.
+  
+  About the role:
+  
+  ResortPass is looking for an AI Engineer to sit at the
+  intersection of AI product development, data engineering,
+  and ML infrastructure. You'll be responsible for building
+  and deploying AI agents that automate real guest and partner
+  workflows, while also owning the ML infrastructure that
+  makes those systems reliable, observable, and smart.
+  
+  Here are a few of the AI-powered products you'd be working
+  on:
+  
+  - AI Concierge — A post-booking assistant that helps guests
+    with day-of logistics, answers questions about their
+    upcoming experience, and surfaces personalized upsell
+    opportunities, all via SMS and chat.
+  - Voice AI Booking Assistant — An AI agent that calls hotel
+    spas and front desks to book appointments on behalf of
+    guests, handling hold times, retry logic, and multi-turn
+    conversations with hotel staff.
+  - Conversational Search — A natural language search experience
+    that helps guests discover the right hotel day pass based
+    on what they're looking for ("a pool day near me with
+    cabanas and cocktails"), rather than relying on filters
+    alone.
+  
+  This isn't a research role. You'll ship production AI
+  systems that integrate directly into our Rails backend and
+  interact with real guests, hotel partners, and third-party
+  booking platforms. You'll also build the real-time data
+  pipelines and model-serving infrastructure that power our
+  ML-driven marketplace — from search ranking to pricing to
+  personalization.
+  
+  We're looking for someone who can move fluidly between
+  prompt engineering and pipeline engineering, someone equally
+  comfortable designing an agent orchestration framework as
+  they are debugging a dbt model or optimizing a Redshift
+  query. You'll work closely with our Product Engineering,
+  Data, and Business teams to turn AI from a prototype into a
+  core part of how ResortPass operates.
+  
+  This role will be in person at our energetic NYC
+  headquarters.
+  
+  The compensation for this role will range from
+  $180,000–$220,000 per year, plus equity, commensurate with
+  experience.
+  
+  What you'll do
+  
+  Primary focus: AI agents & real-time infrastructure
+  
+  In your first 3–6 months, you'll ship production AI systems
+  and build the infrastructure to support them:
+  
+  - Design, build, and iterate on AI agents that handle complex,
+    multi-step workflows — automated booking, guest
+    communication via SMS and voice, and partner integrations
+    — taking them from prototype to production.
+  - Build and maintain the real-time and batch data
+    infrastructure (pipelines, feature stores, model-serving
+    layers) that supports our ML models and AI systems.
+  - Develop evaluation and observability frameworks for AI
+    agents — including logging, human-in-the-loop feedback
+    loops, and quality metrics — so we can measure and improve
+    agent performance over time.
+  
+  Secondary focus: ML lifecycle & backend integration
+  
+  - Integrate AI capabilities directly into our Ruby on Rails
+    backend, working alongside backend engineers to ensure
+    agents and models are deployed reliably within our
+    existing architecture.
+  - Own the full lifecycle of ML models in production: data
+    collection, training, evaluation, deployment, monitoring,
+    and iteration.
+  - Collaborate with Product and Business teams to identify
+    high-impact opportunities for AI and translate them into
+    well-scoped technical projects.
+  - Help shape ResortPass's AI strategy and technical roadmap as
+    one of the earliest dedicated AI hires.
+  
+  Your experience
+  
+  Our current stack: Python (AI/ML systems), Ruby on Rails
+  (backend), dbt + Redshift (data warehouse &
+  transformations), AWS (ECS, Lambda), Datadog
+  (observability), Retell AI (voice agents), and Algolia
+  (search). You'll work across this stack and help us build
+  the next layer of AI/ML tooling on top of it.
+  
+  We encourage candidates to apply even if they don't have
+  100% of the below qualifications. We believe in a holistic
+  approach when evaluating talent for our team and post new
+  roles often, so even if this role isn't quite right, we want
+  to meet you!
+  
+  - 5+ years of experience in software engineering, data
+    engineering, or ML engineering, with meaningful exposure
+    to at least two of these areas.
+  - Hands-on experience building LLM-based applications or AI
+    agents in production (not just notebooks) — including
+    prompt design, tool use, orchestration, and evaluation.
+  - Strong Python skills and experience with ML/AI tooling
+    (e.g., LangChain, LlamaIndex, or similar orchestration
+    frameworks; PyTorch or equivalent for model work).
+  - Solid data engineering fundamentals: building and
+    maintaining ETL/ELT pipelines, working with data
+    warehouses (e.g., Redshift) and data transformation tools
+    like dbt.
+  - Experience deploying ML models or AI systems into production
+    backend services, ideally in a web application context.
+  - Comfort working in or alongside a Ruby on Rails codebase —
+    you don't need to be a Rails expert, but you should be
+    able to integrate your work into an existing backend.
+  - Strong SQL skills and an intuition for data modeling and
+    data quality.
+  - Demonstrated ability to work cross-functionally with
+    product, engineering, and business stakeholders.
+  
+  Nice to have
+  
+  - Experience with real-time data infrastructure (streaming,
+    event-driven architectures, feature stores).
+  - Experience with search and ranking systems (Algolia,
+    Elasticsearch, or custom ML-based ranking).
+  - Background in marketplace or hospitality domains.
+  - Experience with AWS infrastructure (ECS, Lambda, SageMaker,
+    or similar).
+  - Exposure to Datadog or similar observability platforms for
+    monitoring AI/ML systems in production.
+  
+  Perks & benefits
+  
+  - Health, Dental & Vision — We're deeply invested in the
+    health and well-being of our team and are proud to
+    contribute to the monthly premiums of these insurance
+    plans.
+  - Stock Option Plan — We offer employees the opportunity to
+    become part-owners in our mission. Let's redefine what it
+    means to be a guest, together.
+  - 401k plan — Save for your future with a 401k plan offering.
+  - Unlimited Paid Time Off (PTO) — Enjoy life away from work to
+    be inspired and fully recharge with unlimited paid time
+    off.
+  - Paid parental leave
+  - Commuter benefits
+  - Annual ResortPass credit — Our mission is to bring delight
+    and relaxation to people around the world; including our
+    employees! Access private beaches, deluxe saunas, awesome
+    pools, and much more with your annual credit.
+posted_date: 2026-03-13
+url: "https://builtin.com/job/ai-engineer/8737270"
+source: Built In

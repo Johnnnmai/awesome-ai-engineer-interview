@@ -1,0 +1,59 @@
+company:
+  name: Philips
+  stage: Public
+  focus: |-
+    Health technology company focused on image-guided therapy
+    solutions
+position:
+  title: Software Developer - AzurionEye AI Analyst
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      While the product (AzurionEye) is described as "AI-enabled,"
+      the role itself is a senior software technologist focused on
+      building data lake infrastructure, data pipelines, data
+      warehouse platforms, and microservices. The candidate is not
+      building, training, fine-tuning, or deploying AI/ML models.
+      The AI component is part of the product, but this role
+      supports it through data infrastructure and platform
+      engineering.
+  responsibilities:
+  - Act as technical coach for the team, providing expertise and ensuring best practices
+    across projects
+  - Design and develop scalable data ingestion and transformation pipelines for the
+    clinical data lake platform
+  - Design and extend the data lake architecture including partitioning strategies,
+    storage formats, metadata layers, and data models
+  - Develop REST-based, microservice-first applications powering the clinical data
+    lake platform
+  - Build and maintain a high-performance, secure, and compliant data warehouse platform
+    with companion tools for data exploration and movement
+  - Integrate software components and third-party libraries into existing systems
+    ensuring seamless interoperability
+  - Implement automated testing, data validation checks, and CI/CD pipelines for safe
+    and frequent deployments
+  - Diagnose and fix issues related to ingestion failures, schema drifts, latency
+    bottlenecks, and data inconsistencies while maintaining operational dashboards
+    and alerting systems
+  use_cases:
+  - Clinical data lake platform for image-guided therapy workflows
+  - Data warehousing for healthcare and medical imaging data
+  - Medical imaging data ingestion, transformation, and exploration tools
+  - AI-enabled software platform for minimally invasive procedures
+  - Connected solutions for imaging workflow data services
+  skills:
+    genai: []
+    ml: []
+    web: [RESTful API design, Swagger/OpenAPI, React, Angular, Microservices architecture]
+    databases: [PostgreSQL, MS SQL Server]
+    data: [NATS, RabbitMQ, Kafka]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, GitOps, CI/CD, Jenkins, GitHub, Azure DevOps]
+    languages: [C#, Python, SQL]
+    domains: [DICOM, FHIR]
+    other: [BDD, SAFe, OOAD/UML, AI-assisted development tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8905658'
+  extracted_at: '2026-04-22T13:11:58.746524'

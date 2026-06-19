@@ -1,0 +1,51 @@
+company:
+  name: Snowflake
+  stage: Public
+  focus: Cloud data platform and data warehouse services
+position:
+  title: AI/ML Solution Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a customer-facing Solutions Engineer role focused on
+      AI/ML at Snowflake. The role involves providing AI/ML
+      technical guidance, designing architectures, and
+      demonstrating Snowflake's AI/ML capabilities to customers,
+      which qualifies as deploying/configuring AI solutions in
+      customer environments.
+  responsibilities:
+  - Provide AI/ML technical guidance to customers in the Retail & Consumer Goods sector
+  - Design and architect Snowflake Cloud Data Platform as part of enterprise data
+    architecture
+  - Support sales cycles with value-based demonstrations and proof of concepts for
+    AI/ML use cases
+  - Apply multi-cloud data architecture expertise in presentations to executives and
+    technical teams
+  - Work hands-on with customers from demo to proof of concept to design and implementation
+  - Maintain understanding of competitive and complementary AI/ML technologies and
+    vendors
+  - Collaborate with Product Management, Engineering, and Marketing to improve products
+  use_cases:
+  - Enterprise data architecture and AI/ML integration
+  - Data lakehouse implementations with Snowflake
+  - ETL and ELT data pipeline development
+  - Real-time and near real-time data processing
+  - Multi-cloud data platform deployments
+  - Customer AI/ML workload demonstrations and POCs
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Snowflake, Iceberg, Delta Lake, Parquet, Data Lake]
+    data: [Pandas, Spark, PySpark, Hadoop, Hive, Apache NiFi, Matillion, Fivetran,
+      Kafka, Flink, Spark Streaming, ETL, ELT, Data Mesh, Data Fabric]
+    cloud: [Kinesis]
+    ops: []
+    languages: [SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8206870'
+  extracted_at: '2026-03-03T11:28:45.960567'

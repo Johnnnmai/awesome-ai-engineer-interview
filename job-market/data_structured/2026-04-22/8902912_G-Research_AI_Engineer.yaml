@@ -1,0 +1,60 @@
+company:
+  name: G-Research
+  stage: null
+  focus: |-
+    Quantitative finance research and trading using AI and
+    scientific methods
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building agentic AI platforms, SDKs,
+      and production agentic workflows. The engineer works hands-
+      on with LLM frameworks (LangGraph, LangChain, Pydantic AI),
+      builds agentic orchestration patterns, fine-tunes models,
+      implements RAG systems, and designs evaluation pipelines.
+      This is squarely an ai-first role focused on building and
+      deploying AI/LLM systems.
+  responsibilities:
+  - Build and evolve the agentic AI platform — develop core abstractions, orchestration
+    patterns, and infrastructure for agent development across the firm
+  - Create and maintain Python SDKs with firm-specific abstractions for agent scaffolding,
+    tool integration, context management, evaluation, and deployment
+  - Integrate best-in-class open-source tooling (LangGraph, Pydantic AI) wrapped in
+    firm-specific abstractions
+  - Define ways of working for agent development including evaluation standards, development
+    patterns, and reference architectures
+  - Build and operate evaluation pipelines (LangSmith, Langfuse) for measuring and
+    monitoring agent performance
+  - Deliver production agentic solutions for internal stakeholders using the platform
+  - Embed with business teams to solve critical problems and identify new AI opportunities
+    through direct partnership
+  - Fine-tune and optimize models (parameter-efficient or full-weight) for domain-specific
+    accuracy, latency, and cost targets
+  use_cases:
+  - Agentic workflows for quantitative finance research teams
+  - Internal platform enabling agent development across the firm
+  - Corporate workflow automation through agentic systems
+  - Context engineering for optimized information retrieval and structuring in financial
+    domains
+  - Production agentic solutions for research and corporate stakeholders
+  - Evaluation and monitoring of agent performance in financial applications
+  skills:
+    genai: [LangGraph, LangChain, Pydantic AI, RAG, Prompt Engineering, Multi-agent
+        patterns, Agentic workflows, Context engineering, MCP]
+    ml: [LoRA, QLoRA, DPO, Fine-tuning, Model optimization]
+    web: [FastAPI, REST, gRPC]
+    databases: [pgvector, Pinecone, Qdrant, Milvus, SQL, NoSQL]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD, LangSmith, Langfuse, Git, GPU inference, A/B
+        testing]
+    languages: [Python, C#, C++, JVM languages]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8902912'
+  extracted_at: '2026-04-22T12:59:28.291669'

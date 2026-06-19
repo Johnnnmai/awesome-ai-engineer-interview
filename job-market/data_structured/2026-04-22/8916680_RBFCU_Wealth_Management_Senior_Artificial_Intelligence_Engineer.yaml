@@ -1,0 +1,54 @@
+company:
+  name: RBFCU Wealth Management
+  stage: Public
+  focus: |-
+    Diversified financial services, asset management, and
+    financial planning
+position:
+  title: Senior Artificial Intelligence Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      integrating LLM-based solutions including RAG architectures,
+      prompt engineering, fine-tuning, and generative AI
+      applications for asset management. The engineer is hands-on
+      with AI models from concept to production deployment, making
+      it clearly an ai-first role.
+  responsibilities:
+  - Design, develop, and deploy technology solutions integrated with LLMs for distribution,
+    investments, and investment operations
+  - Evaluate and implement state-of-the-art generative AI models and frameworks, building
+    proof-of-concept solutions
+  - Partner with stakeholders to translate business requirements into technical solutions
+    and communicate complex AI concepts to non-technical stakeholders
+  - Work cross-functionally with data engineers, technologists, and product owners
+    to architect scalable, production-grade AI systems
+  - Optimize existing workflows and tools through AI automation while ensuring performance,
+    security, and compliance standards
+  - Perform code reviews and contribute to technical architecture and documentation
+  - Develop production-grade applications integrated with LLMs from concept to deployment
+  - Design and implement automated workflows for complex investment processes
+  use_cases:
+  - AI-powered analytics for investment insight generation
+  - Workflow automation for investment management processes
+  - Generative AI adoption across asset management value chain (distribution, investments,
+    operations)
+  - LLM-integrated solutions for financial planning and investment operations
+  - Automated complex investment process workflows
+  skills:
+    genai: [Prompt Engineering, Fine-tuning, RAG, LLM Integration, Generative AI Models]
+    ml: []
+    web: [React, RESTful APIs, Microservices]
+    databases: [Vector Databases]
+    data: [Data Engineering]
+    cloud: [AWS, Cloud-native Architectures]
+    ops: [Docker, CI/CD, Git, Monitoring and Observability]
+    languages: [Python, JavaScript, SQL]
+    domains: []
+    other: [Web Scraping]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8916680'
+  extracted_at: '2026-04-22T13:12:55.011874'

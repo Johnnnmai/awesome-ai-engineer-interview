@@ -1,0 +1,56 @@
+company:
+  name: Huron
+  stage: null
+  focus: |-
+    Global consultancy specializing in strategic growth, digital
+    transformation, and operational excellence
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI/ML
+      systems including LLMs, agents, and generative AI solutions.
+      The engineer will work on model development, fine-tuning,
+      prompt engineering, and building agent-based
+      architectures—core hands-on AI work.
+  responsibilities:
+  - Design and develop AI-powered systems using traditional ML and generative AI techniques,
+    including prompt engineering, fine-tuning, and embeddings
+  - Build intelligent applications and agents using frameworks like LangGraph, AutoGen,
+    CrewAI or similar
+  - Create modular, well-documented APIs and service components using FastAPI or Flask
+    for model integration
+  - Develop and manage data pipelines including data collection, transformation, and
+    quality assurance for model training
+  - Implement observability and evaluation mechanisms to monitor AI system behavior,
+    accuracy, drift, and reliability
+  - Collaborate with software engineers, data scientists, and solution architects
+    for seamless development and production deployment
+  - Support rapid experimentation and robust deployment pipelines across various use
+    cases
+  - Stay informed on latest trends in GenAI, AI agents, orchestration protocols, and
+    evaluation frameworks
+  use_cases:
+  - Solving complex real-world problems across industries using AI systems
+  - Building autonomous and interactive AI agents for task execution
+  - Agent orchestration and model chaining for multi-step workflows
+  - Self-evaluating AI systems for improved reliability
+  - Early-stage prototypes to production-ready AI deployments
+  skills:
+    genai: [LangGraph, AutoGen, CrewAI, prompt engineering, fine-tuning, embeddings,
+      OpenAI APIs, MCP]
+    ml: [scikit-learn, PyTorch, TensorFlow]
+    web: [FastAPI, Flask]
+    databases: [vector databases]
+    data: []
+    cloud: [AWS, Azure, Azure Machine Learning, AWS SageMaker, Google AI/ML services]
+    ops: [Docker, MLOps pipelines, CI/CD, model monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8275416'
+  extracted_at: '2026-03-03T12:17:03.475985'

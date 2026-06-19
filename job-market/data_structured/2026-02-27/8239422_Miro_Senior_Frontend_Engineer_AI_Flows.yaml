@@ -1,0 +1,48 @@
+company:
+  name: Miro
+  stage: Late-stage private/Pre-IPO
+  focus: Visual collaboration workspace for distributed teams
+position:
+  title: Senior Frontend Engineer, AI Flows
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly builds AI-powered workflows inside Miro's
+      product, shaping how users create, run, and trust AI
+      workflows. The engineer works on the frontend UX of AI
+      systems, making AI capabilities accessible and usable - this
+      is deploying AI solutions to end users, not just
+      infrastructure support.
+  responsibilities:
+  - Design and build highly interactive, visual UI on top of Miro's real-time canvas
+  - 'Shape the core Flows experience: how users create, understand, run, and trust
+    AI workflows'
+  - Turn fuzzy product ideas and design intent into clean, intuitive, polished interfaces
+  - Work closely with product and design to explore new interaction patterns for AI
+    in a collaborative environment
+  - 'Take ownership end-to-end: from problem framing through implementation to iteration
+    and refinement'
+  - Improve performance, architecture, and UX quality wherever you see friction
+  - Orchestrate AI agents in development workflow using tools like Claude Code and
+    Cursor
+  use_cases:
+  - AI-powered workflows that turn intent into structured steps and actions
+  - AI suggestions and automation directly on the visual canvas
+  - Interactive AI workflow creation and execution for teams
+  - Real-time collaborative AI experiences at scale
+  skills:
+    genai: [Claude Code, Cursor, AI agents, prompt engineering, multi-agent flows]
+    ml: []
+    web: [React]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8239422'
+  extracted_at: '2026-03-03T11:55:54.861847'

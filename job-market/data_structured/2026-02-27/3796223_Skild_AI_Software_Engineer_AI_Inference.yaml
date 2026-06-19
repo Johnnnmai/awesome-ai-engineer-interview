@@ -1,0 +1,49 @@
+company:
+  name: Skild AI
+  stage: Seed
+  focus: |-
+    Building general purpose robotic intelligence for widespread
+    robot deployment
+position:
+  title: Software Engineer, AI Inference
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is ai-first because it directly involves
+      optimizing and deploying AI/ML models for inference,
+      including working with autoregressive models, denoising
+      models, and other ML architectures. The position requires
+      hands-on work with model optimization, CUDA, and ML
+      compilers to deploy models to robotic systems.
+  responsibilities:
+  - Develop and optimize runtime AI inference pipelines for real-world robotic deployment
+  - Build infrastructure, frameworks, and tooling to enable reliable integration of
+    models into robotic systems
+  - Analyze production models to drive architecture choice and deployment system design
+  - Formulate specialized optimization solutions for various inference paradigms including
+    autoregressive, denoising, and hierarchical models
+  - Optimize inference for multi-agent systems, state machines, and cloud-based inference
+    scenarios
+  - Adapt optimization solutions to various compute, hardware, and networking constraints
+  use_cases:
+  - General purpose robotic intelligence deployment
+  - Real-world robotic systems operation
+  - Embodied AI systems in production environments
+  - Multi-agent robotic systems
+  - Robust robot adaptation to unseen scenarios
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, JAX, CUDA]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [ML compilers, Multithreading, Embedded systems, Memory management, Networking]
+    languages: [C++, C, Rust, Go, Python]
+    domains: [Robotics]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '3796223'
+  extracted_at: '2026-03-03T12:30:44.090959'

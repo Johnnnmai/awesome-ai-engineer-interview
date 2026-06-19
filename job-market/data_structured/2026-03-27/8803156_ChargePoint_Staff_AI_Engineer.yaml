@@ -1,0 +1,48 @@
+company:
+  name: ChargePoint
+  stage: Public
+  focus: EV charging network and infrastructure solutions
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development of AI systems
+      including Voice AI, Computer Vision, and Conversational AI.
+      The position requires direct work with LLMs (LangChain,
+      LangGraph, RAG architectures), model fine-tuning
+      (LoRA/QLoRA), and building production AI systems - all core
+      AI/ML development activities.
+  responsibilities:
+  - Lead development of AI solutions across Voice AI, Computer Vision, and Conversational
+    AI domains
+  - Architect and build production-grade AI systems for monitoring and analytics platform
+  - Design and deploy AI-powered solutions to improve customer support experiences
+  - Enable intelligent automation across EV charging infrastructure
+  - Collaborate with cross-functional teams to integrate AI solutions
+  - Optimize AI system performance including low-latency inference and caching strategies
+  - Build scalable data pipelines for AI/ML systems working with massive datasets
+  use_cases:
+  - Voice AI for customer support and telephony integrations
+  - Computer vision for EV charging infrastructure monitoring
+  - Conversational AI for intelligent customer interactions
+  - Analytics and monitoring platform enhancement for EV charging network
+  - Intelligent automation across EV charging operations
+  skills:
+    genai: [LangChain, LangGraph, Amazon Bedrock, OpenAI APIs, Prompt engineering,
+      RAG architectures]
+    ml: [LoRA, QLoRA, RLHF]
+    web: [FastAPI, Django]
+    databases: [Elasticsearch, Qdrant, ChromaDB, Pinecone, PostgreSQL, Redis, MongoDB,
+      ClickHouse]
+    data: [Kafka, RabbitMQ, Airflow, DBT, Trino, Iceberg]
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: [Computer Vision, NLP]
+    other: [Genesys, SIP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8803156'
+  extracted_at: '2026-03-27T14:51:45.720354'

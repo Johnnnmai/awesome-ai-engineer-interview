@@ -1,0 +1,108 @@
+job_id: 8816631
+title: Agentic AI Engineer (Remote, 6-Month Contract)
+company: Accuris
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Langchain
+  - Llm Apis
+  - Mcp
+  - Oauth
+  - Python
+  - Rbac
+  - Sso
+description: |
+  Agentic AI Engineer Enterprise Integrations, Intelligent
+  Automation & AI Platform Delivery Department: IT & Digital
+  Transformation Reports to: Sr. Director, Infrastructure & BI
+  Type: 6 month contract Location: Remote - US The Opportunity
+  Accuris Technologies is executing a company-wide AI
+  transformation across 40+ initiatives spanning Finance,
+  Sales, Marketing, Legal, RevOps, Product, HR, and Customer
+  Experience. We have a funded roadmap, active enterprise AI
+  licenses, and governed integrations already live across our
+  core systems. We are looking for an Agentic AI Engineer to
+  lead technical delivery-building connectors, agents, and
+  workflows that transform our CRM, ERP, HRIS, and data
+  platforms into a unified, natural-language-driven
+  experience. This role will bring our AI strategy to life
+  through real, production-grade systems. Core
+  Responsibilities
+  
+  - Design and build agentic systems that orchestrate across
+    ERP, CRM, data warehouse, HRIS, and BI platforms
+  - Develop multi-step AI workflows including tool selection,
+    data retrieval, reasoning, and response generation
+  - Build and extend enterprise integrations, including
+    authentication (OAuth, SSO) and RBAC enforcement
+  - Deliver AI-powered business solutions such as pricing
+    engines, SDR automation, contract workflows, and executive
+    dashboards
+  - Implement governance frameworks including audit logging,
+    data lineage, and PII protection
+  - Partner with business teams to translate workflows into AI-
+    enabled solutions
+  - Drive adoption through reusable prompts, tools, and training
+    for non-technical users
+  
+  What We're Looking For
+  
+  - 3+ years building API integrations with CRM, ERP, or HRIS
+    systems
+  - Strong Python experience with LLM APIs and SDKs
+  - Experience with agentic architectures (tool use, function
+    calling, multi-step workflows)
+  - Familiarity with AI frameworks (LangChain, MCP, or similar)
+  - Experience with OAuth, SSO/SAML, and enterprise
+    authentication
+  - Background in data platforms, BI tools, and enterprise data
+    governance (RBAC, row-level security)
+  
+  What Sets You Apart
+  
+  - Experience building production AI systems connected to live
+    enterprise data
+  - Strong systems thinking across integrations, permissions,
+    and reliability
+  - Track record of delivering AI tools adopted by business
+    users
+  - Ability to translate business problems into multi-system AI
+    workflows
+  - Experience in pricing, contract management, or revenue
+    operations systems
+  
+  How We Evaluate Candidates
+  
+  - Agentic Architecture: designing autonomous, multi-system AI
+    workflows
+  - Enterprise Integration: building and managing production
+    integrations
+  - Business Delivery: shipping end-to-end solutions (pricing,
+    SDR, CLM, etc.)
+  - Governance & Adoption: ensuring trust, usage, and measurable
+    impact
+  
+  Why Join Us This is not a research role-we have a live
+  platform, a funded roadmap, and strong executive alignment.
+  You'll play a key role in building an AI-native enterprise
+  by connecting systems, deploying agents, and driving real
+  adoption. Apply with your resume and a brief note on why
+  this role interests you. Optionally include links to
+  relevant systems or integrations you've built. },"hasVirtual
+  Location":true,"postingLocations":[{"formattedAddress":"Unit
+  ed States","locationId":10,"locationType":2,"isoCountryCode"
+  :"US","stateCode":null,"cityName":null,"coordinates":{"lat":
+  38.7945952,"lng":-
+  106.5348379}}],"jobPostingAttributes":[{"name":"JobFamily","
+  value":"Contractors","type":"string
+industries:
+  - Information Technology
+  - Machine Learning
+  - Software
+  - Conversational AI
+  - Generative AI
+  - Manufacturing
+posted_date: 2026-03-19
+url: "https://www.builtinla.com/job/agentic-ai-engineer-remote-6-month-contract/8816631"
+source: Built In

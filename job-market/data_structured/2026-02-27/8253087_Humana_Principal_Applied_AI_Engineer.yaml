@@ -1,0 +1,54 @@
+company:
+  name: Humana
+  stage: Public
+  focus: Healthcare insurance and health services company
+position:
+  title: Principal Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building of generative AI
+      systems including LLM applications, multi-agent workflows,
+      RAG, and domain-specific reasoning engines. The position
+      requires direct implementation of AI patterns and production
+      deployment of AI systems.
+  responsibilities:
+  - Lead design and build of advanced generative AI systems including LLM-powered
+    applications, multi-agent workflows, RAG, and domain-specific reasoning engines
+  - Architect and own robust APIs and platform capabilities that bring AI to real
+    business workflows at enterprise scale
+  - Drive engineering of high-quality data, feature, and evaluation pipelines supporting
+    reliable AI behavior
+  - Partner with data scientists, platform engineers, and product leaders to transform
+    ideas into resilient production systems
+  - Set engineering standards and mentor engineers on technical decision-making
+  - Champion observability, measurement, and operational excellence for deployed AI
+    systems
+  - Stay at the forefront of AI/ML advancements and guide organization on technology
+    adoption
+  - Drive business outcomes including measurable improvements in healthcare delivery
+    and member satisfaction
+  use_cases:
+  - AI-powered healthcare delivery optimization
+  - LLM-powered applications for healthcare operations
+  - Multi-agent AI workflows for enterprise business processes
+  - Domain-specific reasoning engines for healthcare decisions
+  - Enterprise-scale AI platform for healthcare services
+  skills:
+    genai: [LangChain, LlamaIndex, PydanticAI, LLM integration, RAG, embeddings, generative
+        AI patterns, multi-agent workflows]
+    ml: [PyTorch, TensorFlow, machine learning engineering, model deployment]
+    web: [FastAPI, Flask, REST, gRPC]
+    databases: []
+    data: [Akka, Flink]
+    cloud: [AWS, GCP, Azure]
+    ops: [model monitoring, model evaluation, model lifecycle management, Docker,
+      Kubernetes, CI/CD, DevOps]
+    languages: [Python]
+    domains: []
+    other: [distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8253087'
+  extracted_at: '2026-03-03T11:50:33.903895'

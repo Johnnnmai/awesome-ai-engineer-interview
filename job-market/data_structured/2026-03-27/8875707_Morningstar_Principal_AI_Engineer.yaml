@@ -1,0 +1,57 @@
+company:
+  name: Morningstar
+  stage: Public
+  focus: |-
+    Investment research and ESG performance assessment for
+    investors
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role focused on building and operating
+      LLM/ML inference platforms, RAG systems, and production AI
+      services. The engineer will architect AI platforms, design
+      inference systems, and drive patterns for retrieval systems
+      and vector databases - all hands-on work directly on AI
+      systems.
+  responsibilities:
+  - Own the architecture and technical roadmap for production AI services across the
+    product ecosystem
+  - Design, build, and scale LLM and ML inference platforms, including routing, caching,
+    model lifecycle, and API standards
+  - Drive production patterns for RAG, retrieval systems, vector databases, and knowledge
+    pipelines
+  - Establish platform-level capabilities including orchestration frameworks, event-driven
+    services, and reusable microservice components
+  - Define and enforce SLOs, reliability standards, observability practices, and incident
+    response playbooks for AI services
+  - Lead cost governance for AI including token usage, infrastructure scaling, caching,
+    batching, and evaluation-driven deployment decisions
+  - Build robust CI/CD and release strategies for AI systems with automated deployments
+    on AWS
+  - Evaluate new technologies and guide adoption including vector stores, orchestration
+    tools, and evaluation frameworks
+  use_cases:
+  - ESG (Environmental, Social, and Governance) performance assessment for companies
+  - Enterprise-grade AI platform for investment analysis
+  - LLM and ML inference at scale for financial services
+  - RAG and retrieval systems for investment knowledge base
+  - Production AI services for investors worldwide
+  skills:
+    genai: [LLM inference platforms, RAG, Prompt engineering, MCP]
+    ml: [Model evaluation]
+    web: [Microservices]
+    databases: [Vector databases, PostgreSQL]
+    data: []
+    cloud: [AWS, AWS Bedrock, AWS Lambda, AWS EKS]
+    ops: [Kubernetes, Docker, Terraform, CI/CD, MLOps, Event-driven architecture,
+      CloudWatch, Prometheus, Grafana]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8875707'
+  extracted_at: '2026-03-27T13:48:42.955771'

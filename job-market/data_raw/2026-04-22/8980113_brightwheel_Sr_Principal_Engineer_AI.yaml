@@ -1,0 +1,210 @@
+job_id: 8980113
+title: Sr. Principal Engineer, AI
+company: brightwheel
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Docker
+  - Emotion
+  - Github Actions
+  - Kotlin
+  - Kubernetes
+  - Postgres
+  - React
+  - Redis
+  - Ruby On Rails
+description: |
+  Our Mission and Opportunity
+  
+  Early education is one of the most important determinants of
+  childhood outcomes, a critical support for working families,
+  and a $175B market that remains underserved by modern
+  technology. Brightwheel is the largest, fastest growing, and
+  most loved platform in early ed, trusted by millions of
+  educators and families every day. We are a three-time Cloud
+  100 company, backed by top investors including Addition,
+  Bessemer, Emerson Collective, Lowercase Capital, Notable
+  Capital, and Mark Cuban.
+  
+  Our Team
+  
+  Our team is passionate, talented, and customer-focused. We
+  embody our Leadership Principles in our work and culture. We
+  are a distributed team with remote employees across every US
+  time zone, as well as select offices in the US and
+  internationally.
+  
+  Who You Are
+  
+  You are a Senior Principal Engineer who is both AI-native
+  and relentlessly product-minded. You turn ambiguous, cross-
+  functional opportunities into clear technical direction,and
+  then you prove the path by building. You care about the
+  flagship experiences you ship, and you obsess over the
+  shared “paved highway” that makes it easy for many teams to
+  ship safe, reliable AI over and over again.
+  
+  You will succeed in this role if you are:
+  
+  - Driven by outcomes. You care about helping centers stay
+    full, save hours every week, and serve families better,
+    not shipping “an AI feature” for its own sake.
+  - The strategic architect and prolific builder. You bridge
+    executive strategy and deep implementation. You set the
+    technical north star, then you get hands-on to deliver
+    reference implementations that teams can adopt with
+    confidence.
+  - Decisive on build vs. buy. You have sharp judgment on when
+    to leverage off-the-shelf models and platforms versus when
+    to invest in proprietary infrastructure, fine-tuning, data
+    flywheels, or evaluation systems to create durable
+    advantage.
+  - Velocity as a strategy (“show, don’t tell”). You move with
+    the hunger of a founding engineer: you prototype boldly,
+    de-risk quickly, and use working systems, not slides, to
+    align teams and raise the organization’s ambition and
+    pace.
+  - A force multiplier with a platform mindset. You build the
+    paved road: evaluation harnesses, retrieval and context
+    patterns, safety guardrails, observability, and developer
+    experience that let product and engineering teams ship AI
+    safely and autonomously.
+  - Deep on fundamentals, modern in practice. You understand why
+    models fail (data, evaluation, human feedback,
+    reliability), and you aggressively use modern AI-native
+    tooling to iterate faster without sacrificing rigor.
+  - Security- and trust-minded. You treat sensitive school,
+    educator, and family data with care, design for least-
+    privilege access, and build systems that are explainable,
+    monitorable, and resilient.
+  - Mission-aligned. The idea of using AI to expand childcare
+    capacity and improve early education outcomes, at
+    meaningful scale, genuinely motivates you.
+  
+  What You’ll Do
+  
+  You will make brightwheel measurably more valuable to
+  schools, centers, educators, and families by delivering AI-
+  powered capabilities that move company-level outcomes—for
+  example retention, enrollment conversion, payment success,
+  operational efficiency, and support burden. This is not a
+  research role or a “build cool demos” role; success is
+  defined by impact in production.
+  
+  In this role, you will:
+  
+  - Own outcomes end-to-end. Take responsibility for turning the
+    biggest opportunities into shipped, adopted capabilities
+    with clear measurement, iteration loops, and sustained
+    improvement—not one-time launches.
+  - Define the AI technical direction. Translate customer
+    problems into a practical strategy, reference
+    architectures, and a roadmap that multiple product teams
+    can execute against.
+  - Make build-versus-buy decisions. Choose when to partner on
+    models and tooling versus when to build differentiated
+    capabilities (data flywheels, evaluation systems,
+    workflow-specific intelligence) that create durable
+    advantage.
+  - Lead by implementation. Rapidly prototype and ship reference
+    implementations to prove feasibility, de-risk decisions,
+    and raise the organization’s expectation for speed and
+    ambition.
+  - Create the paved highway. Build shared
+    foundations—evaluation harnesses, retrieval and context
+    patterns, safety guardrails, observability, and developer
+    experience—so teams can ship reliable AI features
+    repeatedly and independently.
+  - Raise the bar across Engineering and Product. Mentor senior
+    engineers, lead design reviews, establish standards for
+    quality and safety, and align stakeholders across teams to
+    drive adoption.
+  
+  What You’ve Done
+  
+  We are open to a variety of backgrounds, but strong
+  candidates usually bring:
+  
+  - Foundational AI Depth: You possess deep intuition for why
+    models fail, gained from experience that predates the LLM
+    boom. You have likely worked with model training, fine-
+    tuning, or classical NLP/ML, giving you the mathematical
+    grounding to make high-stakes architectural decisions.
+  - 10+ Years of Engineering Excellence: You have end-to-end
+    ownership of large, business-critical systems. You have
+    moved beyond solving defined problems to identifying and
+    solving "intrinsically hard" challenges where the
+    solution—and sometimes the problem itself—was initially
+    unknown.
+  - Strategic Architecture: Experience formulating technical
+    strategy at the organization or department level. You have
+    successfully designed systems that required execution
+    across multiple teams or organizations.
+  - The "Player-Coach" Standard: A track record of mentoring
+    Staff and Principal engineers. You don't just review code;
+    you raise the bar for hiring, design, and operational
+    excellence across the entire engineering department.
+  - Production AI at Scale: A proven track record of shipping
+    AI-powered products to production. You understand the
+    "last mile" of AI—evaluation, monitoring, and safety—and
+    have built the tools that allow teams to sleep soundly at
+    night.
+  
+  Nice-to-haves:
+  
+  - Experience earlier in your career with model training, fine-
+    tuning, classical machine learning, or natural language
+    processing—enough to have intuition for why models fail
+    and how data and evaluation shape outcomes.
+  - A portfolio of real work (open-source, demos, writing,
+    talks, or shipped side projects) that shows taste,
+    velocity, and how you think about applied AI systems end-
+    to-end.
+  - Experience building shared internal platforms or frameworks
+    (for example evaluation services, retrieval
+    infrastructure, policy and safety guardrails,
+    observability tooling) that became the default path for
+    multiple teams.
+  - Formal training in computer science (4-year CS degree or
+    equivalent depth in core CS topics).
+  - A strong bar for operational excellence: secure-by-default
+    design, performance and cost discipline, testability,
+    incident readiness, and a track record of improving
+    development, testing, and on-call practices for complex
+    systems.
+  
+  Technology We work with:
+  
+  - Backend: Ruby on Rails, Sidekiq
+  - Data: PostgreSQL on Amazon RDS, Redis, and event and
+    analytics pipelines
+  - Frontend: React with TypeScript and Emotion
+  - Mobile: Native iOS (Swift) and Android (Kotlin with Jetpack
+    Compose)
+  - Cloud & Infrastructure: Docker, Kubernetes on Amazon EKS,
+    GitHub Actions and FluxCD for CI/CD, and AWS services such
+    as S3, CloudFront, CloudWatch, and SNS
+  - AI & Automation: AWS Bedrock and other hosted large language
+    models, vector search, orchestration and agent frameworks,
+    and modern AI coding tools like Cursor
+  
+  Brightwheel is committed to creating a diverse and inclusive
+  work environment and is an equal opportunity employer. All
+  qualified applicants will receive consideration for
+  employment without regard to race, color, religion, gender,
+  gender identity, gender expression, sexual orientation,
+  national origin, genetics, disability, age, or veteran
+  status.
+  
+  Protecting Our Applicants: Please be aware of recruiting
+  scams impersonating Brightwheel. All legitimate
+  communications come from @mybrightwheel.com addresses, and
+  we never ask for payment or sensitive personal data as part
+  of our hiring process. If you suspect fraudulent contact,
+  reach out to security@mybrightwheel.com. Thank you for
+  helping us keep our applicant community safe.
+posted_date: 2026-04-07
+url: "https://www.builtinla.com/job/sr-principal-engineer-ai/8980113"
+source: Built In

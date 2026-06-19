@@ -1,0 +1,51 @@
+company:
+  name: Micron Technology
+  stage: Public
+  focus: |-
+    Memory and storage solutions (DRAM, NAND, NOR) for data
+    centers and edge computing
+position:
+  title: Senior Silicon Design Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on implementation of LLM-based
+      solutions including fine-tuning, RAG pipelines, and pre-
+      training/adapting LLMs for domain-specific use cases. The
+      engineer will also apply reinforcement learning and neural
+      networks to solve semiconductor design problems, directly
+      building and deploying AI/ML systems.
+  responsibilities:
+  - Architect, design, and implement AI/ML-driven workflows for DRAM/NAND memory subsystems
+    and controllers
+  - Improve design and layout efficiency through AI-based automation leveraging Python
+    and LLMs
+  - Perform block- and chip-level simulations, debugging, and functional verification
+  - Collaborate with design and CAD teams to develop and customize tools that accelerate
+    design qualification
+  - Apply industry-standard EDA tools for synthesis, simulation, parasitic estimation,
+    and layout-aware optimization
+  - Develop standard cell layout automation using Python and SKILL programming
+  use_cases:
+  - AI-driven DRAM/NAND memory subsystem design automation
+  - Layout efficiency optimization using LLMs
+  - Reinforcement learning for EDA and design problems
+  - Domain-specific LLM adaptation for semiconductor design
+  - Automated standard cell layout generation
+  skills:
+    genai: ['LLMs (Claude, Gemini)', Fine-tuning, RAG pipelines]
+    ml: [Reinforcement Learning, Neural Networks, Machine Learning, Mathematics of
+        Optimization]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Cadence Verisium, Virtuoso Layout Suite, Siemens Solido, Xcelium, ModelSim]
+    languages: [Python, SystemVerilog, SKILL programming]
+    domains: [CMOS fundamentals, Device physics]
+    other: [UVM]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8806180'
+  extracted_at: '2026-03-27T14:16:42.598892'

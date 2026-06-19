@@ -1,0 +1,118 @@
+job_id: 7001049
+title: Senior AI Engineer
+company: AirOps
+location: 
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AI
+  - Claude
+  - Embedding Models
+  - Gpt-4
+  - Hugging Face
+  - Langchain
+  - Machine Learning
+  - Nlp
+  - Python
+company_size: 57 Employees
+description: |
+  About AirOps
+  
+  AirOps is the first end-to-end content engineering platform
+  built for the AI era. In a world where discovery is shifting
+  from traditional search to AI-driven platforms, we help
+  brands get found—and stay found. We are currently in a phase
+  of hyper-growth, having 5x’d our revenue in the last year by
+  helping marketing teams at Ramp, Chime, Carta, and Rippling
+  turn content quality into a durable competitive advantage.
+  
+  Our platform equips marketers to navigate the new discovery
+  landscape, prioritize high-impact opportunities, and create
+  accurate, on-brand content that earns citations from AI and
+  trust from humans. Backed by Greylock, Unusual Ventures,
+  Wing VC, and Founder Collective, we are building the
+  intelligent systems that will empower the next generation of
+  marketing leaders. AirOps is headquartered in San Francisco,
+  New York and Montevideo.
+  
+  About the Role
+  
+  We're looking for a product-minded AI engineer to help us
+  rapidly define and ship features that make all AirOps
+  customers 10x content engineers.
+  
+  In this role, you'll drive the development of advanced AI
+  systems, including our SEO Strategy Agent and Workflow
+  Builder Copilot. You'll lead the creation of intelligent
+  solutions that empower businesses to optimize their SEO
+  strategy and streamline workflow creation with AI-powered
+  assistance.
+  
+  Joining at a critical juncture, you'll collaborate closely
+  with product management to shape our AI roadmap and
+  technical architecture.
+  
+  Responsibilities
+  
+  - Develop and integrate LLM-powered features such as AI-
+    assisted workflow automation, code generation, and content
+    strategy.
+  - Optimize AI performance through prompt engineering,
+    retrieval-augmented generation (RAG), and evaluation
+    frameworks.
+  - Build and scale AI infrastructure, ensuring low-latency
+    responses, caching, and cost-efficient model usage.
+  - Implement AI observability and safeguards, monitoring
+    quality, security, and compliance.
+  - Collaborate with product and engineering teams to deliver
+    intuitive, AI-driven user experiences.
+  - Stay ahead of AI advancements, continuously improving our
+    AI-powered capabilities.
+  - Collaborate with early adopters to optimize model
+    performance and usability.
+  
+  Qualifications
+  
+  - 3+ years of experience in machine learning engineering,
+    AI/LLM integration, or applied NLP
+  - Proven track record of building LLM-powered applications
+  - Strong experience with foundation models (GPT-4o, Claude,
+    etc.) and advanced prompt engineering
+  - Experience with embedding models (e.g., OpenAI Ada, Cohere,
+    or local vector stores like pgvector, Weaviate, Pinecone)
+  - Deep understanding of retrieval-augmented generation (RAG)
+    and contextual AI response optimization
+  - Familiarity with LangChain, or similar frameworks for
+    orchestrating LLM-powered applications
+  - Strong programming skills in Python (experience with AI
+    frameworks like Hugging Face, LangChain, or OpenAI SDK)
+  - Experience in evaluating LLM performance, running A/B tests,
+    and implementing feedback loops for AI refinement
+  - Solid understanding of caching, rate limiting, and cost
+    optimization strategies for AI workloads
+  - Ability to work cross-functionally with engineers, product
+    managers, and end users to develop impactful AI solutions
+  
+  Our Guiding Principles
+  
+  - Extreme Ownership
+  - Quality
+  - Curiosity and Play
+  - Make Our Customers Heroes
+  - Respectful Candor
+  
+  Benefits
+  
+  - Equity in a fast-growing startup
+  - Competitive benefits package tailored to your location
+  - Flexible time off policy
+  - Parental Leave
+  - A fun-loving and (just a bit) nerdy team that loves to move
+    fast!
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-03-24
+url: "https://builtin.com/job/senior-ai-engineer/7001049"
+source: Built In

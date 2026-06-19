@@ -1,0 +1,52 @@
+company:
+  name: NBCUniversal
+  stage: Public
+  focus: Media and entertainment content creation and distribution
+position:
+  title: Staff Software Engineer (AI Infrastructure/Python)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires proficiency with foundation
+      model APIs and agent frameworks to build custom generative-
+      AI agents, and involves developing prototypes and proofs of
+      concept using emerging AI technologies. This is hands-on
+      work building and deploying AI agents, making it ai-first.
+  responsibilities:
+  - Develop prototypes rapidly for new AI-related proofs of concept, ensuring high
+    usability and adherence to design specifications
+  - Integrate front-end systems into Active Directory and UX flows for OAuth authentication
+  - Maintain back-end systems to facilitate efficient API integration and occasional
+    deployment of full-stack applications
+  - Uphold high standards of code quality through rigorous testing, code standards,
+    and automated testing across devices and browsers
+  - Deploy to cloud-based platforms (AWS, Azure, GCP) and troubleshoot application,
+    cloud, and configuration issues
+  - Utilize AI tools for code and test generation to accelerate delivery of features
+    and components
+  - Create documentation for developers and business users to help them understand
+    products
+  - Work collaboratively with a multidisciplinary team within a matrixed organization
+    to navigate system complexities and deploy solutions
+  use_cases:
+  - Building custom generative-AI agents for media and entertainment use cases
+  - Rapid prototyping of emerging technology proofs of concept
+  - Full-stack web applications integrating AI capabilities for internal NBCUniversal
+    teams
+  - Automated code and test generation to accelerate feature delivery
+  skills:
+    genai: [Foundation Model APIs, Agent Frameworks]
+    ml: []
+    web: [React, Angular, Vue, RESTful APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP, Serverless Architectures]
+    ops: [Terraform, AI Gateways, Docker]
+    languages: [Python, JavaScript]
+    domains: []
+    other: [OAuth/Active Directory]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8950781'
+  extracted_at: '2026-04-22T12:43:28.871838'

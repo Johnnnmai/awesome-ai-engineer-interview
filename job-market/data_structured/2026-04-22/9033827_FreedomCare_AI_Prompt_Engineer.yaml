@@ -1,0 +1,56 @@
+company:
+  name: FreedomCare
+  stage: Growth/Mature (founded 2016, largest in NY State)
+  focus: |-
+    Healthcare company providing consumer-directed home care
+    services
+position:
+  title: AI Prompt Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on designing, building, and
+      optimizing prompts, agents, and AI-driven workflows. The
+      candidate will hands-on build AI agents, copilots, and
+      integrate LLMs into business processes. This is squarely ai-
+      first work involving applied GenAI/LLM technology.
+  responsibilities:
+  - Identify and implement AI solutions across core business workflows to reduce manual
+    effort and improve decision making
+  - Design, test, and refine prompts to drive accurate, consistent, and high-quality
+    outputs from AI systems
+  - Build and optimize AI agents and copilots used by internal teams
+  - Develop tools, automations, and systems to support AI-driven workflows
+  - Integrate AI into existing platforms and tools using APIs and scripting, connecting
+    data sources for end-to-end automation
+  - Define and track metrics to evaluate AI output quality and workflow performance,
+    quantifying impact for stakeholders
+  - Partner with cross-functional teams to implement solutions, train teams on AI
+    tools, and document best practices
+  - Ensure AI solutions are scalable, reliable, and aligned with compliance and auditability
+    requirements in a regulated healthcare environment
+  use_cases:
+  - Automating high-volume repetitive operational tasks in home care services
+  - AI-powered copilots and agents for internal teams to improve output quality and
+    consistency
+  - Streamlining healthcare operations workflows to reduce turnaround time and manual
+    effort
+  - End-to-end automation of business processes by connecting data sources and systems
+    via AI
+  - Decision support and quality improvement in regulated healthcare service delivery
+  skills:
+    genai: [Prompt Engineering, AI Agents, LLMs, AI Copilots, Workflow Orchestration]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Data Analysis]
+    cloud: []
+    ops: []
+    languages: [Python, Scripting]
+    domains: []
+    other: [System Integrations, Automation Platforms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9033827'
+  extracted_at: '2026-04-22T14:14:17.842765'

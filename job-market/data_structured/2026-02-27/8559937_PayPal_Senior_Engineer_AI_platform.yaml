@@ -1,0 +1,48 @@
+company:
+  name: PayPal
+  stage: Public
+  focus: Global digital payments and financial services platform
+position:
+  title: Senior Engineer, AI platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role builds and maintains infrastructure/platform that
+      supports data scientists and ML engineers, rather than
+      directly building, training, or fine-tuning models. The
+      focus is on the platform layer (model registry, inferencing
+      systems, Kubernetes orchestration) that enables others to do
+      AI/ML work.
+  responsibilities:
+  - Design, implement and maintain large scale distributed AI/ML platform
+  - Build and maintain platform to support model training and deployment
+  - Develop reusable platform components for model development lifecycle including
+    model registry and inferencing
+  - Manage Kubernetes based ML workloads and orchestration systems
+  - Build real-time inferencing systems and model serving infrastructure
+  - Guide junior engineers and advise management on project-level issues
+  - Deliver complete solutions spanning all phases of SDLC
+  - Work collaboratively in globally distributed team across US, India and China
+  use_cases:
+  - Enterprise AI/ML platform for data scientists and ML engineers
+  - Model training and deployment infrastructure
+  - Real-time model inferencing and serving
+  - Model registry and lifecycle management
+  - Container orchestration for ML workloads
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [GCP, AWS, Azure]
+    ops: [Kubernetes, Docker, Seldon, Triton, TorchServe, Model serving frameworks,
+      Real-time inferencing]
+    languages: [Python]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8559937'
+  extracted_at: '2026-03-03T12:08:04.373497'

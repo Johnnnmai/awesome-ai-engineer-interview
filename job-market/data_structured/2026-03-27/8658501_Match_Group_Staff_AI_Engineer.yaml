@@ -1,0 +1,54 @@
+company:
+  name: Match Group
+  stage: Public
+  focus: |-
+    Dating apps and online dating platform (Match Group
+    subsidiary)
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying AI agents and
+      agentic systems - designing stateful multi-step workflows,
+      orchestration layers, tool calling, and production-grade
+      agent systems. The position involves hands-on work with
+      LangGraph, foundation models, and vector databases to create
+      operational AI systems.
+  responsibilities:
+  - Own the technical roadmap for AI automation across high-volume operational workflows,
+    from discovery through production deployment
+  - Prototype and build agentic solutions using latest platforms and frameworks, integrating
+    with internal and third-party tools
+  - Deliver reliable, scalable automations with evaluations, guardrails, human oversight,
+    and performance monitoring
+  - Drive adoption through documentation, training sessions, and curating prompt libraries
+    and playbooks for non-technical operators
+  - Collaborate with Data Scientists, Data Engineers, Product Managers, Backend Engineers,
+    and AI Platform Team
+  - Embed safety, privacy, auditability, and responsible-AI standards into workflows
+    with Legal and Security teams
+  - Mentor and educate ML Engineers and Platform Engineers on AI/ML trends and research
+  use_cases:
+  - Internal operational automation for support and operations teams
+  - AI agent teammates for everyday internal workflows
+  - Automated decision support with human-in-the-loop review
+  - Operational efficiency improvements across high-volume workflows
+  - Safety and user experience improvements for dating platform users
+  skills:
+    genai: [LangGraph, AutoGen, Foundation models, Prompt engineering, Agent orchestration,
+      State machine design, Human-in-the-loop systems]
+    ml: []
+    web: [APIs]
+    databases: [Vector databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8658501'
+  extracted_at: '2026-03-27T14:47:25.970171'

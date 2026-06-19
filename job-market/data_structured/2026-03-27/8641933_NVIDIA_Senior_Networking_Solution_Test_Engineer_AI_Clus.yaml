@@ -1,0 +1,56 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU computing and AI hardware/software platforms
+position:
+  title: Senior Networking Solution Test Engineer – AI Cluster Debugging
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a testing/debugging role focused on networking
+      infrastructure (NVLink, Ethernet, InfiniBand) that supports
+      AI clusters. While it involves profiling AI workloads and
+      understanding AI libraries like NCCL, the primary work is on
+      networking systems and hardware validation rather than
+      building, training, or deploying AI models themselves.
+  responsibilities:
+  - Design and review test and product requirements for NVLink, Ethernet and InfiniBand
+    networking portfolio for large-scale AI clusters
+  - Build and maintain customer-like testbeds with heterogeneous hardware, OS/driver
+    combinations and complex network fabrics
+  - Own end-to-end cluster troubleshooting by reproducing customer scenarios and driving
+    issues to root cause
+  - Read and understand source code to identify defects, validate fixes and improve
+    logging and instrumentation
+  - Collaborate with development teams to debug NCCL, RoCE/RDMA and networking components
+    using logs and code inspection
+  - Define tests and guide automation team to implement robust test suites with actionable
+    logs, metrics and traces
+  - Run Regression, Performance, Functional and Scale testing and provide data-driven
+    reports
+  - Profile and benchmark deep learning training and inference workloads, correlating
+    model-level metrics with system telemetry
+  use_cases:
+  - Large-scale AI cluster networking validation
+  - NVLink and InfiniBand interconnect debugging
+  - NCCL collective communication debugging
+  - Deep learning training and inference workload profiling
+  - Network fabric troubleshooting for GPU clusters
+  - RDMA/RoCE performance optimization
+  skills:
+    genai: []
+    ml: [NCCL, PyTorch, deep learning training, GPU clusters]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Linux, perf, tcpdump, Ansible, RoCE, RDMA, InfiniBand, NVLink, DCQCN, ECN,
+      PFC, BlueField DPU, ConnectX NICs]
+    languages: [C++, Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8641933'
+  extracted_at: '2026-03-27T14:15:44.999694'

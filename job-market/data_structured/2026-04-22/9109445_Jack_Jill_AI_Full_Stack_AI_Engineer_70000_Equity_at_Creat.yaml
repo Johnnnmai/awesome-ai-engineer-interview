@@ -1,0 +1,44 @@
+company:
+  name: Jack & Jill AI
+  stage: Seed/Series A (high-growth startup)
+  focus: AI-powered creative automation for Figma and Adobe
+position:
+  title: Full Stack AI Engineer (£70,000 + Equity) at CreateTOTALLY
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly integrating LLMs and AI APIs
+      into the core product to automate asset generation, reviews,
+      and brand workflows. The engineer builds and ships AI-
+      powered features end-to-end, making this hands-on work with
+      AI/LLM systems in production.
+  responsibilities:
+  - Develop and deploy full-stack features using Next.js/React, Node.js, and Python
+    on AWS serverless infrastructure
+  - Integrate LLMs and AI APIs into the core product to automate asset generation,
+    reviews, and complex brand workflows
+  - Collaborate across the team to improve UX and pragmatic technical architecture
+  - Ensure high performance across Figma and Adobe integrations
+  - Shape the company's engineering culture by introducing modern AI-assisted development
+    practices like Claude Code and Cursor
+  use_cases:
+  - Creative asset generation automation for global brands
+  - Automated creative production reviews and approvals
+  - Intelligent automation of complex brand workflows
+  - Integration with Figma and Adobe creative tools for production automation
+  skills:
+    genai: [LLM Integration, 'AI APIs (OpenAI, Anthropic)', Claude Code, Cursor]
+    ml: []
+    web: [Next.js, React, Node.js, REST APIs]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [AWS Serverless]
+    ops: []
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [Figma API, Adobe API]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9109445'
+  extracted_at: '2026-04-22T13:08:48.868077'

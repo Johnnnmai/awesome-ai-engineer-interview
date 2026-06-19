@@ -1,0 +1,54 @@
+company:
+  name: Saviynt
+  stage: Late-stage / Pre-IPO (high-growth PaaS company)
+  focus: AI-powered identity security and access governance platform
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly responsible for designing, building,
+      and deploying AI/ML systems including LLM-powered solutions,
+      RAG architectures, conversational AI, and agentic workflows.
+      The engineer owns the full lifecycle of AI initiatives from
+      ideation through production deployment and monitoring,
+      making this clearly an ai-first role.
+  responsibilities:
+  - Design and deploy production-grade AI/ML systems that automate and augment customer
+    support workflows
+  - Build and scale LLM-powered solutions including RAG architectures, intelligent
+    ticket routing, sentiment analysis, and automated response generation
+  - Develop conversational AI systems and agentic workflows for autonomous case handling
+  - Evaluate emerging foundation models and AI tooling, benchmarking performance,
+    cost, safety, and latency
+  - Own the full lifecycle of AI initiatives from ideation through deployment, monitoring,
+    and optimization
+  - Establish and mature MLOps practices including model versioning, observability,
+    retraining pipelines, and cost-performance governance
+  - Architect scalable APIs and microservices for AI integration across CRM, ticketing,
+    and knowledge platforms
+  - Partner with cross-functional teams to communicate technical architecture decisions
+    and ROI to executive stakeholders
+  use_cases:
+  - Automated customer support ticket routing and intelligent triage
+  - Conversational AI for autonomous case handling and resolution
+  - Sentiment analysis and predictive insights on support interactions
+  - Automated response generation for customer inquiries
+  - RAG-based knowledge retrieval for support agents and self-service
+  skills:
+    genai: [RAG architectures, LLM-powered solutions, Conversational AI, Agentic workflows,
+      Prompt engineering]
+    ml: [PyTorch, TensorFlow, Hugging Face, NLP, Sentiment analysis]
+    web: [REST APIs, Microservices]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, AWS Bedrock]
+    ops: [Docker, Kubernetes, MLOps, Model versioning, Production observability]
+    languages: [Python]
+    domains: []
+    other: [SOC2 compliance, GDPR]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8581827'
+  extracted_at: '2026-04-22T12:57:20.868693'

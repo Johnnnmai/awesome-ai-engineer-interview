@@ -1,0 +1,188 @@
+job_id: 9008266
+title: Applied AI Engineer
+company: Foley
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - APIs
+  - Crewai
+  - Langfuse
+  - Langgraph
+  - Langsmith
+  - Llms
+  - Mcp
+  - Python
+description: |
+  We are looking for an Applied AI Engineer to help us make
+  Foley truly AI-native — not by layering tools on top, but by
+  rethinking how work gets done across the company.
+  
+  You’ll operate as a forward-deployed builder, embedded with
+  business teams to identify high-leverage problems and ship
+  real solutions. This is a hands-on role where you’ll design,
+  build, and deploy AI-powered systems that improve how we
+  operate, make decisions, and deliver value.
+  
+  This is not a research role. You build, you ship, and you
+  measure impact.
+  
+  What You’ll DoBuild & Ship Solutions
+  
+  - Design and build AI-powered systems end-to-end, including
+    agentic workflows, internal tools, automation pipelines,
+    and business applications
+  - Own your work from concept through production, including
+    iteration and improvement
+  - Use AI-assisted development and modern tooling to move
+    quickly without sacrificing quality
+  
+  Embed with the Business
+  
+  - Work directly with operations, compliance, sales, and
+    product teams to understand real workflows and pain points
+  - Translate ambiguous, messy processes into clear, scalable
+    systems
+  - Operate as part of cross-functional “tiger teams” focused on
+    high-impact problems
+  
+  Drive Outcomes, Not Just Output
+  
+  - Define success metrics and measure whether your solutions
+    improve speed, quality, or decision-making
+  - Close the loop by evaluating what worked, what didn’t, and
+    what to improve
+  
+  Build for Scale & Reuse
+  
+  - Design composable solutions that integrate into the broader
+    platform
+  - Think in reusable capabilities, not one-off scripts
+  
+  Operate with Judgment & Guardrails
+  
+  - Build with awareness of regulatory constraints (DOT, FMCSA,
+    PII)
+  - Apply strong judgment when using AI to ensure quality,
+    trust, and compliance
+  
+  Contribute to the Builder Community
+  
+  - Share patterns, tools, and learnings with other engineers
+    and teams
+  - Review work and help raise the bar for how we build
+  
+  Who You Are
+  
+  We’re looking for builders who think in systems and care
+  about outcomes. You may come from different paths, but you
+  share a common trait: you build things that work.
+  
+  You might come from:
+  
+  - Data Science → GenAI Builder: You moved from analysis to
+    building production systems
+  - Business-Facing Engineer: You bridge technical execution and
+    business context
+  - Domain Expert Turned Builder: You started in a business
+    function and taught yourself to build solutions
+  
+  Must-haves
+  
+  - You have built and shipped real products, tools, or systems
+    (portfolio, GitHub, or equivalent)
+  - You are fluent in Python, including APIs, data handling, and
+    deployment patterns
+  - You have hands-on experience building with LLMs (e.g.,
+    prompting, tool use, RAG, agents)
+  - You think in systems and can map business workflows to
+    technical solutions
+  - You communicate clearly with both technical and non-
+    technical stakeholders
+  
+  Strong Signals
+  
+  - You’ve built and deployed multi-step or tool-using AI
+    systems
+  - You’ve worked with orchestration frameworks (e.g.,
+    LangGraph, CrewAI, MCP)
+  - You’ve built solutions involving document processing,
+    structured extraction, or voice
+  - You’ve implemented observability for AI systems (e.g.,
+    Langfuse, LangSmith)
+  - You understand knowledge graphs or entity resolution
+  - You’ve worked in regulated environments (transportation,
+    finance, healthcare, compliance)
+  - You’ve independently taken a process from “this is broken”
+    to a shipped solution
+  
+  Not Required
+  
+  - A specific degree or traditional background
+  - Experience at large tech companies
+  - ML research or publications
+  - Deep infrastructure or DevOps specialization
+  
+  Location: This role is primarily remote (US based only),
+  with the expectation of occasional visits to our offices for
+  team collaboration, training, or company events.
+  
+  This role may be based remotely out of the following states:
+  Arizona, California, Colorado, Connecticut, Florida,
+  Georgia, Illinois, Indiana, Kansas, Maryland, Massachusetts,
+  Michigan, Nebraska, New Hampshire, New Jersey, New York,
+  North Carolina, Pennsylvania, South Carolina, Tennessee,
+  Texas, Virginia, Wisconsin.
+  
+  About us
+  
+  At Foley, we’re reimagining how safety-sensitive industries
+  hire, stay compliant, and manage risk. We’ve evolved into a
+  modern SaaS company with an all-in-one, AI-ready platform
+  that helps transportation, construction, distribution, and
+  utility businesses operate faster, smarter, and safer.
+  
+  As we continue to grow, we’re looking for curious, strategic
+  thinkers who thrive in complexity, are motivated by making
+  an impact, and want to join a team that’s passionate about
+  building great products and supporting customers. Our core
+  values — Teammateship, Grit, and Innovation — guide
+  everything we do. Whether we’re collaborating internally or
+  helping customers, we approach every challenge with
+  optimism, humor, and a shared commitment to success.
+  
+  Benefits Foley offers a comprehensive benefits package that
+  includes medical, dental, and vision coverage, a 401(k) with
+  company match, paid time off and holidays, wellness
+  programs, and an employee assistance program.
+  
+  Equal Employment Opportunity  Foley is an Equal Opportunity
+  Employer. We celebrate diversity and are committed to
+  creating an inclusive environment for all employees. All
+  qualified applicants will receive consideration for
+  employment without regard to race, color, religion, sex,
+  sexual orientation, gender identity or expression, national
+  origin, age, disability, protected veteran status, or any
+  other legally protected characteristic.
+  
+  Reasonable Accommodations  If you require a reasonable
+  accommodation during the application or interview process,
+  please contact us at careers@foley.io
+  
+  Employment Status  Employment with Foley is on an at-will
+  basis. Nothing in this job posting or in future
+  communications should be construed as a contract of
+  employment.
+  
+  Massachusetts Applicants: It is unlawful in Massachusetts to
+  require or administer a lie detector test as a condition of
+  employment or continued employment. An employer who violates
+  this law shall be subject to criminal penalties and civil
+  liability.
+industries:
+  - HR Tech
+  - Logistics
+  - Software
+posted_date: 2026-04-10
+url: "https://www.builtinla.com/job/applied-ai-engineer/9008266"
+source: Built In

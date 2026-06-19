@@ -1,0 +1,42 @@
+company:
+  name: Ecolab
+  stage: Public
+  focus: Water, hygiene and energy technologies and services
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building GenAI-powered systems,
+      working with LLMs, vector retrieval, and multi-agent
+      orchestration. The engineer will design and deliver
+      production-ready AI applications, which is hands-on work
+      with AI/ML systems.
+  responsibilities:
+  - Lead development of scalable GenAI-powered systems
+  - Design intelligent workflows leveraging LLMs, vector-based retrieval, and multi-agent
+    orchestration
+  - Drive solution architecture for AI applications
+  - Mentor junior engineers on AI engineering best practices
+  - Deliver production-ready AI applications that integrate with business processes
+    and platforms
+  use_cases:
+  - Intelligent workflow automation for business processes
+  - Enterprise AI application development
+  - Business process integration with AI systems
+  skills:
+    genai: [LLMs, vector-based retrieval, multi-agent orchestration, RAG]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8862219'
+  extracted_at: '2026-03-27T15:34:18.091525'

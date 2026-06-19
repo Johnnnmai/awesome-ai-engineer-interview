@@ -1,0 +1,50 @@
+company:
+  name: Stryker
+  stage: Public
+  focus: Medical devices and healthcare technology
+position:
+  title: Principal Engineer - AI/ML - Computer Vision
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves leading end-to-end development of AI/ML
+      subsystems including algorithm design, model evaluation,
+      inference optimization, and deployment. The engineer works
+      directly on building and deploying computer vision and deep
+      learning models, making this clearly an ai-first position.
+  responsibilities:
+  - Lead end-to-end development of AI subsystems in healthcare from algorithmic direction
+    through implementation, validation, optimization, and deployment
+  - Translate business and open-ended requirements into clear technical strategies
+    and execution plans
+  - Design and implement scalable, high-performance AI/ML and computer vision solutions
+  - Oversee model evaluation, inference optimization, and deployment for real-world
+    applications
+  - Drive agent-assisted development by leveraging agentic AI to accelerate execution
+  - Critically review AI-generated code and artifacts to ensure technical rigor and
+    quality
+  - Collaborate with cross-functional, geographically distributed teams to deliver
+    AI solutions aligned with business and regulatory requirements
+  - Identify technical risks early and ensure timely, high-quality delivery of AI
+    subsystems
+  use_cases:
+  - Computer vision solutions for healthcare and medical applications
+  - AI-assisted medical device functionality
+  - Inference-optimized AI model deployment in regulated environments
+  - Agent-assisted development workflows for accelerated AI engineering
+  skills:
+    genai: [Agentic AI]
+    ml: [PyTorch, TensorFlow, Deep Learning, Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, AWS SageMaker, Azure ML]
+    ops: [TensorRT, ONNX, OpenVINO, Inference Optimization]
+    languages: [Python]
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9096440'
+  extracted_at: '2026-04-22T12:49:51.744645'

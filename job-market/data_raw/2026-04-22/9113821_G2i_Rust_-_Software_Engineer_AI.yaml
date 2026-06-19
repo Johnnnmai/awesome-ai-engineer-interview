@@ -1,0 +1,95 @@
+job_id: 9113821
+title: Rust - Software Engineer, AI
+company: G2i
+location: 
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Rust
+company_size: 201 Employees
+description: |
+  Before applying
+  
+  This role is open to contractors in accepted locations only.
+  Please confirm your country is on the list before applying —
+  we're unable to process applications from unlisted
+  locations. List of accepted countries and locations.
+  
+  For US applicants
+  
+  This is a 1099 independent contractor role. It is not
+  compatible with F-1 OPT, STEM OPT, or any visa status that
+  requires W-2 employment, guaranteed hours, or employer
+  sponsorship.
+  
+  We are unable to provide offer letters or employment
+  verification for this role.
+  
+  What You'll Be Doing
+  
+  Help train large language models (LLMs) to write production-
+  grade code across a wide range of programming languages:
+  
+  - Compare and rank multiple code snippets, explaining which is
+    best and why
+  - Repair and refactor AI-generated code for correctness,
+    efficiency, and style
+  - Inject feedback (ratings, edits, test results) into the RLHF
+    pipeline and keep it running smoothly
+  
+  End result: the model learns to propose, critique, and
+  improve code the way you do.
+  
+  RLHF in one line: Generate code → expert engineers rank,
+  edit, and justify → convert that feedback into reward
+  signals → reinforcement learning tunes the model toward code
+  you'd actually ship.
+  
+  What You'll Need
+  
+  - 3+ years of professional software engineering experience in
+    Rust (constraint programming experience is a bonus, but
+    not required)
+  - Strong code-review instincts — you can spot logic errors,
+    performance traps, and security issues quickly
+  - Extreme attention to detail and excellent written
+    communication skills. Much of this role involves
+    explaining why one approach is better than another. This
+    cannot be overstated.
+  - Comfortable reading documentation and language specs, and
+    able to work well in an asynchronous, low-oversight
+    environment
+  
+  Identity verification: Applicants will be required to verify
+  their identity and confirm they have valid documentation to
+  work as an independent contractor in their country of
+  residence.
+  
+  What You Don't Need
+  
+  - No prior RLHF or AI training experience
+  
+  Logistics
+  
+  - Location: Fully remote — work from anywhere on the accepted
+    locations list
+  - Compensation: $30–$70/hr based on location and seniority.
+    Note: the majority of projects run at around $30/hr —
+    higher rates apply to senior profiles and specific project
+    types
+  - Hours: Minimum 15 hrs/week, up to 40+ hrs/week available —
+    hours vary by project and are not guaranteed week to week
+  - Engagement: 1099 independent contractor
+  - Payment: Weekly via PayPal or Stripe
+  
+  ⚠️ Important: Hours are project-dependent and can vary week
+  to week. We recommend keeping other work options open
+  alongside this engagement rather than relying on it as your
+  sole source of income.
+industries:
+  - HR Tech
+  - Other
+  - Professional Services
+posted_date: 2026-04-21
+url: "https://builtin.com/job/rust-software-engineer-ai/9113821"
+source: Built In

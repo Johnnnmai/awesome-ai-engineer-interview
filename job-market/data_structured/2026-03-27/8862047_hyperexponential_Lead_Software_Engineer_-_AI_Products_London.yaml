@@ -1,0 +1,52 @@
+company:
+  name: hyperexponential
+  stage: Series B+ (backed by a16z, Highland Europe, Battery Ventures)
+  focus: AI-powered insurance pricing and underwriting platform
+position:
+  title: Lead Software Engineer - AI Products, London
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-driven products from scratch,
+      including domain-specific coding copilots (like GitHub
+      Copilot), agentic workflows, and LLM-powered systems. The
+      engineer will architect and implement AI products with
+      generative AI technology, not just support infrastructure
+      for others' AI work.
+  responsibilities:
+  - Architect and build AI-driven products from scratch, tackling complex problems
+    with no established playbook
+  - Lead the design and implementation of domain-specific coding copilots within proprietary
+    development environment
+  - Partner with cross-functional peers to shape architectural decisions ensuring
+    scalability and reliability of AI systems
+  - Experiment, prototype, and ship rapidly, moving innovations from idea to production
+    in live customer environments
+  - Contribute to evolution of AI technical vision, embedding best practices and advancing
+    engineering excellence
+  - Act as a multiplier through mentoring engineers and building a culture of curiosity,
+    speed, and quality
+  use_cases:
+  - Domain-specific AI peer programmer for insurance actuarial work (embedded in custom
+    IDE)
+  - Document ingestion engine transforming unstructured insurance documents into structured
+    insights
+  - Insurance pricing and underwriting decision support
+  - Risk modeling and billion-dollar decision-making assistance
+  - Agentic workflows for insurance industry operations
+  skills:
+    genai: [LLM technology, Generative AI, Coding copilots, Agentic workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Distributed services, Cloud-based infrastructure]
+    ops: []
+    languages: [Python, Rust, Kotlin, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8862047'
+  extracted_at: '2026-03-27T16:06:11.589835'

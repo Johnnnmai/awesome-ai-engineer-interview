@@ -1,0 +1,52 @@
+company:
+  name: Samsara
+  stage: 'Public (NYSE: IOT)'
+  focus: |-
+    IoT platform for connected physical operations across
+    industries
+position:
+  title: Staff Machine Learning Engineer - Edge AI
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on optimizing and deploying ML models on
+      Edge devices, working with computer vision and multi-modal
+      models. It involves traditional ML/DL engineering (model
+      optimization for edge compute, C++/Rust deployment) rather
+      than LLM/agent-based GenAI work. The role is hands-on with
+      model building and deployment, making it ml-first rather
+      than ai-support.
+  responsibilities:
+  - Lead design and implementation of critical AI product initiatives on Edge devices
+  - Develop tactical AI solutions as well as strategic and longer-term research
+  - Work with petabyte-scale data from customer operations including text, transactions,
+    diagnostics, sensor, camera, and location data
+  - Partner across business units to prototype new AI experiences and optimize ML
+    model performance on edge devices
+  - Stay connected to industry and academic research and adopt novel technology suited
+    to Samsara's needs
+  - Champion and embed Samsara's cultural principles as the team scales globally
+  use_cases:
+  - Video-based safety monitoring for fleet vehicles
+  - Vehicle telematics and equipment monitoring
+  - Computer vision for physical operations (agriculture, construction, transportation,
+    manufacturing)
+  - Edge AI inference on IoT devices deployed at global scale
+  - Sensor data analysis for operational safety and efficiency
+  skills:
+    genai: []
+    ml: [Edge AI optimization, ML model optimization for edge compute, Multi-modal
+        models, Model training at scale]
+    web: []
+    databases: []
+    data: [Spark, Ray, Petabyte-scale data processing]
+    cloud: []
+    ops: [Production ML systems]
+    languages: [Python, C++, Rust]
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7823375'
+  extracted_at: '2026-04-22T13:15:55.404178'

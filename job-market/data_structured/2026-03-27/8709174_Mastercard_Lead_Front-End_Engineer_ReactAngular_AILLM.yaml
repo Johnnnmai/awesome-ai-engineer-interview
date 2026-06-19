@@ -1,0 +1,53 @@
+company:
+  name: Mastercard
+  stage: Public
+  focus: Global payments and financial technology solutions
+position:
+  title: Lead Front-End Engineer (React/Angular & AI/LLM)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building front-end interfaces and
+      visualizations FOR AI products, not building the AI/ML
+      systems themselves. The candidate will work with AI
+      researchers to understand how to display AI outputs, but the
+      core work is front-end web development - creating
+      dashboards, integrating with APIs, and visualizing data from
+      AI models. This is an enabling role that supports AI
+      products through UI/UX.
+  responsibilities:
+  - Lead front-end development for AI-driven applications, creating interactive dashboards
+    and visualizations that surface insights from AI models in real time
+  - Own end-to-end technical design of web applications from front-end to back-end
+    integration, employing scalable and modular architecture patterns
+  - Design intuitive UX and data visualizations that translate complex AI outcomes
+    into clear visual representations
+  - Ensure quality, performance, and security through comprehensive testing and automated
+    CI/CD pipelines
+  - Mentor junior engineers, conduct code reviews, and establish coding excellence
+    standards
+  - Collaborate cross-functionally with product managers, designers, and AI researchers
+    to refine requirements and iterate on AI feature interactions
+  use_cases:
+  - Real-time AI analytics dashboards for financial data
+  - Interactive visualizations displaying ML model trends and predictions
+  - AI agent reasoning step visualization
+  - Chatbot interfaces integrated with LLMs
+  - AI-enabled analytics tools for FinTech applications
+  skills:
+    genai: [LLM integration]
+    ml: []
+    web: [React, Angular, Vue, HTML5, CSS3, RESTful APIs, Redux, D3.js, Plotly, Three.js,
+      WebSockets, Server-Sent Events, Figma]
+    databases: [NoSQL]
+    data: []
+    cloud: []
+    ops: [Jest, Mocha, Cypress, Playwright]
+    languages: [TypeScript, JavaScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8709174'
+  extracted_at: '2026-03-27T15:07:14.933582'

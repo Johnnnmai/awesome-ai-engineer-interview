@@ -1,0 +1,63 @@
+company:
+  name: Kong
+  stage: Series D
+  focus: API and AI connectivity platform for enterprises
+position:
+  title: Senior Software Engineer AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building data infrastructure and
+      pipelines that support AI systems rather than directly
+      building, training, or deploying AI models. The engineer
+      will work on ingestion pipelines, vector search
+      infrastructure, and data quality systems that enable AI
+      engineers to build RAG applications, but won't be hands-on
+      with model development, fine-tuning, or deployment
+      themselves.
+  responsibilities:
+  - Design and implement documentation ingestion pipelines for AWS Bedrock Knowledge
+    Base and other vector stores
+  - Build semantic chunking and document processing systems optimized for retrieval
+    quality and context preservation
+  - Develop vector embedding pipelines with hybrid search strategies combining semantic
+    and keyword search
+  - Create real-time telemetry collection systems for model monitoring, performance
+    tracking, and quality assurance
+  - Implement data anonymization and PII detection systems to ensure privacy-compliant
+    AI operations
+  - Build automated knowledge base refresh and quality monitoring systems for maintaining
+    data freshness
+  - Design and implement feature stores for model inputs, prompt variables, and contextual
+    information
+  - Develop training data curation pipelines for future fine-tuning and model improvement
+    initiatives
+  - Optimize vector indexes and database performance for low-latency retrieval at
+    scale
+  - Collaborate with AI engineers to optimize retrieval strategies and improve RAG
+    system performance
+  use_cases:
+  - Documentation ingestion and semantic search for AI systems
+  - Vector search infrastructure for RAG applications
+  - Knowledge base management for AI-powered responses
+  - Privacy-compliant data handling for AI operations
+  - Training data curation for model fine-tuning
+  - Real-time data streaming and processing for AI platforms
+  skills:
+    genai: [OpenAI Ada-3, Cohere embeddings, RAG]
+    ml: [BGE embeddings, E5 embeddings, Embedding models]
+    web: []
+    databases: [Pinecone, Weaviate, Qdrant, OpenSearch, DynamoDB, RDS, NoSQL databases,
+      Neo4j, Amazon Neptune, Vector search]
+    data: [Kafka, Kinesis, Spark, Ray, Dask, Document processing, ETL pipelines, Knowledge
+        graphs]
+    cloud: [AWS Bedrock Knowledge Base, S3, AWS Glue]
+    ops: [Weights & Biases, MLflow, Kubeflow, Docker, Kubernetes]
+    languages: [Python, Go, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7908858'
+  extracted_at: '2026-03-03T12:41:28.869416'

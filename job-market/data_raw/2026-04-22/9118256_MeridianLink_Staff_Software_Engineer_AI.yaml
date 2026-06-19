@@ -1,0 +1,205 @@
+job_id: 9118256
+title: Staff Software Engineer ( AI )
+company: MeridianLink
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Datadog
+  - Django
+  - Docker
+  - Fastapi
+  - Grafana
+  - Kubernetes
+  - Prometheus
+  - Python
+  - React
+description: |
+  As a senior individual contributor and one of the highest-
+  ranking technical voices in our engineering organization,
+  the Staff Software Engineer (Professional 5) plays a pivotal
+  role in shaping our AI platform strategy. This role, part of
+  the Platform Services team, is dedicated to designing and
+  building foundational infrastructure to power MeridianLink’s
+  expanding suite of customer-facing AI capabilities across
+  our credit union software product lines.
+  
+  Rather than focusing solely on implementation, the Staff
+  Engineer acts at the intersection of architecture, strategy,
+  and hands-on technical delivery. You’ll own the technical
+  direction for AI platform systems, establish standards and
+  patterns, and lay the architectural groundwork to enable
+  reliable, scalable, and responsible AI development. This
+  engineer will report directly to the Director of Platform
+  Services and exert significant cross-functional influence
+  across multiple engineering teams.
+  
+  As our AI platform matures—from third-party LLM integrations
+  toward custom model development—your responsibilities will
+  evolve, giving you increasing ownership over our model
+  infrastructure, evaluation harnesses, and data pipelines
+  needed to support production-grade AI in a regulated
+  financial environment.
+  
+  This fully remote position works within a sub-team in
+  Platform Services, responsible for building and scaling
+  MeridianLink’s first generation of customer-facing AI
+  capabilities. The team closely partners with application
+  engineering, cloud infrastructure, and applied AI, creating
+  technological foundations vital for delivering intelligent
+  features to our credit union clients.
+  
+  Key Competencies
+  
+  - Technical Mastery & Architecture: Define multi-team
+    strategy, address architectural bottlenecks, and evaluate
+    build vs. buy decisions across the platform. Architect
+    scalable AI systems with security, compliance, and
+    developer experience at the core.
+  - Organizational Influence: Lead cross-team architecture
+    reviews, drive collaborative alignment, establish
+    engineering best practices, and set the bar for design
+    reviews and production readiness.
+  - AI & GenAI Platform Expertise: Leverage hands-on knowledge
+    of LLM/GenAI application patterns (e.g., prompt
+    management, RAG pipelines, evaluation harnesses) and
+    design for safety, auditability, and compliance in
+    financial services AI.
+  - Mentorship: Mentor and sponsor engineers at L3–L4 levels,
+    facilitate knowledge sharing, and drive tech debt and best
+    practice initiatives for engineering excellence.
+  - Stakeholder Engagement: Author clear, auditable
+    architectural documentation; translate technical concepts
+    for business partners; and partner with Product on
+    business requirements and roadmaps.
+  
+  Expected Duties
+  
+  Architectural Leadership
+  
+  - Own the reference architecture for the AI platform,
+    encompassing API abstractions, prompt and version
+    management, RAG infrastructure, vector retrieval,
+    evaluation harnesses, and model serving.
+  - Lead build-vs-buy evaluations for AI components, including
+    due diligence and integration planning.
+  - Design foundational data pipelines and infrastructure to
+    support reliable, scalable AI services.
+  - Define and document API contracts, standards, and platform
+    interfaces across engineering.
+  
+  Hands-On Delivery
+  
+  - Contribute to backend development in Python and RESTful API
+    design, including integrations with leading AI providers.
+  - Participate in full-stack delivery when needed, using
+    React/TypeScript/Vite to deliver AI features.
+  - Build and maintain tooling, SDKs, and platform APIs to
+    enable safe, scalable AI adoption by product teams.
+  - Drive improvements to AI-assisted development workflows with
+    tools like GitHub Copilot and Claude.
+  
+  AI Platform Development
+  
+  - Implement integrations with LLMs: context management, prompt
+    templating, response validation, and robust fallback
+    strategies.
+  - Build and maintain evaluation frameworks for reproducible
+    model testing.
+  - Establish observability and performance tracking for AI
+    services.
+  - Participate in designing vector-based retrieval and model
+    serving infrastructure as custom model capabilities become
+    a focus.
+  
+  Compliance & Secure Design
+  
+  - Advise and collaborate with Security through architecture
+    and design phases, ensuring compliance and security
+    standards are met.
+  - Apply secure-by-default principles (encryption, least
+    privilege, audit logging) and stay current with financial
+    data governance and privacy standards.
+  
+  Cross-Functional Influence & Partnership
+  
+  - Collaborate with Product to translate business needs into
+    technical designs and specifications, while contributing a
+    strong architectural perspective.
+  - Support AI platform roadmap development with product
+    leadership.
+  - Engage in companywide architectural forums and workgroups to
+    drive engineering standards.
+  - Partner with Data Engineering, DevOps/SRE, and Security to
+    ensure aligned technical foundations.
+  
+  Mentorship & Engineering Culture
+  
+  - Mentor L3–L4 engineers through code reviews, design
+    sessions, and architectural guidance.
+  - Promote engineering excellence, robust documentation, and
+    reusable internal resources.
+  
+  Qualifications: Knowledge, Skills, and Abilities
+  
+  Required Qualifications
+  
+  - 8+ years in professional software engineering, with
+    demonstrated cross-team architectural influence
+  - Proven end-to-end delivery of AI-powered features, from
+    product concepts to production
+  - Experience leading large, complex technical initiatives
+  - Strong proficiency in Python and RESTful API development
+    (FastAPI, Django)
+  - Knowledge of full-stack development (React, TypeScript)
+  - Hands-on integration with third-party LLM/AI APIs
+  - Experience with AWS (preferred), including IAM, networking,
+    managed services, and storage
+  - Solid foundation in distributed systems, API design, cloud-
+    native architecture
+  - Comfortable with CI/CD pipelines, version control, Docker,
+    and AI-assisted development tools
+  - Demonstrated ability to author durable technical proposals
+    (RFCs, ADRs)
+  - Clear communicator with technical and non-technical
+    stakeholders
+  - GenAI experience (e.g., RAG pipelines, prompt management,
+    LLM evaluation, agent frameworks)
+  - Familiarity with vector databases/semantic search (Pinecone,
+    pgvector, OpenSearch)
+  - Exposure to model serving, MLOps/LLMOps practices, and model
+    lifecycle/deployment tools
+  - Experience building developer platforms, SDKs, and self-
+    service engineering tooling
+  - Experience with IaC tools (Terraform/Pulumi), Kubernetes,
+    and observability tools (Prometheus, Grafana, Datadog)
+  - Leadership in technical communities, mentoring, and
+    architectural standards
+  - Bachelor’s in Computer Science, Software Engineering, or
+    equivalent experience
+  
+  Preferred Qualifications
+  
+  - Experience building in financial services, fintech, or
+    regulated environments
+  - Working familiarity with AI governance in financial services
+    (e.g., NCUA, model risk, fair lending)
+  - Understanding of SOC 2 or similar compliance frameworks from
+    an engineering perspective
+  
+  What Success Looks Like
+  
+  A successful Staff Engineer at this level rapidly integrates
+  with MeridianLink’s technical community, establishes
+  themselves as a trusted architectural leader, and begins to
+  deliver foundational platform contributions that empower
+  other engineers. Over time, they will raise the bar for AI
+  platform capability, quality, and confidence across the
+  entire engineering organization.
+industries:
+  - Software
+  - Financial Services
+posted_date: 2026-04-22
+url: "https://www.builtinla.com/job/staff-software-engineer-ai/9118256"
+source: Built In

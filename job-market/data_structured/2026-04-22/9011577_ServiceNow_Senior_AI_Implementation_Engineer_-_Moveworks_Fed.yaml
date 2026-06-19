@@ -1,0 +1,60 @@
+company:
+  name: ServiceNow
+  stage: Public
+  focus: |-
+    AI-enhanced enterprise cloud platform for workflow
+    automation
+position:
+  title: Senior AI Implementation Engineer - Moveworks (Federal)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly deploying and building AI
+      solutions (AI Agents, LLM-based systems) on the Moveworks
+      Platform for customers. The engineer designs, builds, tunes,
+      and launches Agentic AI solutions including prompt
+      engineering, context engineering, and integration — clearly
+      hands-on work deploying and configuring AI/LLM systems,
+      making this ai-first.
+  responsibilities:
+  - Partner with customers through the full delivery lifecycle of AI Agents on the
+    Moveworks Platform including vision-lock, solution design, building, tuning, and
+    launch
+  - Architect and design high-impact technical AI solutions on the Moveworks platform
+    to solve complex customer business challenges
+  - Integrate the Moveworks Platform with customer enterprise systems in a secure
+    and performant manner
+  - Collaborate with engineering and product teams on new product rollouts and synthesize
+    customer feedback to drive product decisions
+  - Consult with customers to shape their Agentic AI roadmap using creative solution
+    design
+  - Support U.S. federal sector customers in highly regulated environments requiring
+    compliance with federal frameworks
+  - Generalize solutions into reusable templates and share best practices with the
+    broader team
+  - Upskill customer teams to leverage the product independently through strategic
+    guidance and training
+  use_cases:
+  - Agentic AI deployment for enterprise IT and business process automation
+  - Federal government agency workflow automation and AI agent deployment
+  - Enterprise system integration with AI-powered copilot platform
+  - Customer service and employee support automation using LLM-based agents
+  - Knowledge management and enterprise search via AI assistants
+  skills:
+    genai: [Prompt Engineering, Context Engineering, LLM-based Systems Design, Agentic
+        AI]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: [Data Modeling]
+    cloud: [AWS Lambda, Azure Functions]
+    ops: [Linux, Windows]
+    languages: [Python, JavaScript, Golang, SQL]
+    domains: []
+    other: [Workato, ServiceNow, ServiceNow Flow Designer, Jira Service Desk, Zendesk,
+      Workday, Okta]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9011577'
+  extracted_at: '2026-04-22T13:12:45.270488'

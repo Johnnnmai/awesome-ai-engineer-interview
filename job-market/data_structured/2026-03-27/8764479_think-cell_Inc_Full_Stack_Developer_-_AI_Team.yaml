@@ -1,0 +1,50 @@
+company:
+  name: think-cell Inc.
+  stage: Growth stage company with 150+ employees and established market presence,
+    though funding stage not specified
+  focus: |-
+    Business presentation software with AI-powered automation
+    features
+position:
+  title: Full Stack Developer - AI Team
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly integrating AI-powered
+      functionality into the product (text editing assistance,
+      automated slide creation), working closely with AI engineers
+      to translate AI prototypes into production features. While
+      the position is full-stack focused, the primary
+      responsibility is implementing and deploying AI capabilities
+      into the actual product used by customers.
+  responsibilities:
+  - Build and maintain production-ready backend and full-stack features using TypeScript
+  - Integrate AI-powered functionality into the think-cell product including text
+    editing assistance and automated slide creation
+  - Work closely with C++ engineers and AI engineers to translate ideas and prototypes
+    into robust product features
+  - Contribute to engineering culture through rigorous code reviews and maintaining
+    high code quality standards
+  - Build production-ready systems connecting modern backend services with user interfaces
+  use_cases:
+  - Text editing assistance for business presentations
+  - Automated slide creation
+  - Business document creation automation
+  - Smart assistance features for presentation development
+  - AI-driven productivity tools for business professionals
+  skills:
+    genai: []
+    ml: []
+    web: [Node.js]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8764479'
+  extracted_at: '2026-03-27T14:46:16.649184'

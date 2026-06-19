@@ -1,0 +1,46 @@
+company:
+  name: G2i
+  stage: Unknown
+  focus: Contract staffing platform for software engineers
+position:
+  title: C++ - Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves training large language models
+      through RLHF — the engineer compares, ranks, repairs, and
+      refactors AI-generated code and injects feedback into the
+      RLHF pipeline. While the engineer isn't building model
+      architectures, they are directly participating in the model
+      training loop by providing expert signals that tune LLM
+      behavior, making this an ai-first role.
+  responsibilities:
+  - Compare and rank multiple AI-generated code snippets, explaining which is best
+    and why
+  - Repair and refactor AI-generated C++ code for correctness, efficiency, and style
+  - Provide expert feedback (ratings, edits, test results) into the RLHF training
+    pipeline
+  - Review code to identify logic errors, performance traps, and security issues
+  - Communicate detailed written justifications for code quality assessments
+  - Help train LLMs to write production-grade code across programming languages
+  use_cases:
+  - RLHF training for large language models to generate production-grade code
+  - Code quality ranking and evaluation for LLM improvement
+  - Automated code repair and refactoring by AI models
+  - Reinforcement learning reward signal generation from expert engineer feedback
+  skills:
+    genai: [RLHF]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C++]
+    domains: []
+    other: [Code review, Written communication]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9113824'
+  extracted_at: '2026-04-22T13:32:49.991047'

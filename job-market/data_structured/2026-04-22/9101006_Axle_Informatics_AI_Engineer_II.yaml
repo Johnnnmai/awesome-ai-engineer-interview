@@ -1,0 +1,61 @@
+company:
+  name: Axle Informatics
+  stage: null
+  focus: |-
+    Bioscience and IT company providing translational research,
+    biomedical informatics, and data science solutions
+position:
+  title: AI Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, deploying, and
+      maintaining AI-powered systems including RAG pipelines,
+      agentic tools, and LLM-integrated applications. The engineer
+      architects and develops these systems end-to-end, from
+      embedding generation to production deployment, making this
+      clearly an ai-first role.
+  responsibilities:
+  - Architect, develop, and maintain AI-powered applications including conversational
+    assistants, agentic tools, and RAG systems
+  - Design and optimize retrieval pipelines including embedding generation, vector
+    search, hybrid search, and reranking for domain-specific corpora
+  - Build document ingestion and parsing pipelines extracting structured content from
+    scientific and technical documents
+  - Integrate structured knowledge (ontologies, controlled vocabularies, knowledge
+    graphs) with unstructured text for evidence-grounded AI outputs
+  - Develop and operate shared platform services including model gateways, agent-tool
+    integrations, authentication, and observability
+  - Provision, deploy, monitor, and troubleshoot services on Kubernetes and cloud
+    infrastructure with CI/CD pipelines
+  - Design and maintain relational and vector databases including schema design, indexing,
+    and migrations
+  - Engage directly with non-technical clients to gather requirements, manage expectations,
+    and validate delivered solutions
+  use_cases:
+  - Retrieval-augmented generation for scientific and biomedical document search and
+    question answering
+  - Conversational AI assistants for translational research support
+  - Document understanding and structured extraction from scientific literature including
+    tables, figures, and citations
+  - Evidence-grounded AI outputs combining knowledge graphs and ontologies with unstructured
+    text
+  - Shared AI platform services enabling rapid delivery of new intelligent applications
+    for research organizations
+  skills:
+    genai: [RAG systems, LLM integration, Agent orchestration frameworks, Model Context
+        Protocol (MCP), Prompt engineering, Embedding generation, Vector search, Reranking]
+    ml: [CUDA]
+    web: []
+    databases: [PostgreSQL, Vector databases]
+    data: [Knowledge graphs, Document parsing and OCR]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD, Git/GitHub, LLM observability and tracing]
+    languages: [Python, SQL, SPARQL]
+    domains: [Biomedical informatics, Translational research]
+    other: [Linux, OIDC/OAuth authentication]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9101006'
+  extracted_at: '2026-04-22T12:45:34.075222'

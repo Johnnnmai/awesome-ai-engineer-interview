@@ -1,0 +1,55 @@
+company:
+  name: Visa Inc,
+  stage: Public
+  focus: Global payments technology and transaction processing
+position:
+  title: Sr. SW Engineer (3 - 5 years of exp. in ServiceNow, Python, C#, Javascript,
+    AI)
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The job title mentions "AI" as a skill but the job
+      description contains no AI-specific responsibilities, tools,
+      frameworks, or use cases. The role is focused on ServiceNow
+      platform development, full-stack engineering, and enterprise
+      SaaS applications. AI appears to be listed as a nice-to-have
+      skill without any actual AI work involved.
+  responsibilities:
+  - Design, develop, and maintain enterprise-grade SaaS applications using Python,
+    C#, JavaScript, and modern full stack technologies
+  - Develop, customize, and enhance ServiceNow applications, workflows, and platform
+    capabilities across ITSM, ITOM, HRSD, CSM, SecOps, GRC, and custom applications
+  - Build and maintain integrations between ServiceNow and external systems using
+    REST/SOAP APIs, MID Servers, and supporting technologies
+  - Translate business and technical requirements into scalable, secure, and high-performing
+    solutions
+  - Perform code reviews, design reviews, and technical mentoring to ensure quality
+    and adherence to platform and enterprise standards
+  - Troubleshoot complex system issues, conduct root cause analysis, and implement
+    sustainable fixes
+  - Ensure security, compliance, and governance by following platform best practices
+  - Create and maintain technical documentation, including architecture diagrams,
+    interface specifications, and configuration guides
+  use_cases:
+  - Enterprise IT service management (ITSM)
+  - IT operations management (ITOM)
+  - Human resources service delivery (HRSD)
+  - Customer service management (CSM)
+  - Security operations and GRC compliance
+  - Enterprise application integration
+  skills:
+    genai: []
+    ml: []
+    web: [.NET, REST APIs, SOAP APIs, Microservices]
+    databases: [NoSQL]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, CI/CD]
+    languages: [Python, C#, JavaScript, SQL]
+    domains: []
+    other: [ServiceNow, Agile/Scrum, MID Server]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8742413'
+  extracted_at: '2026-03-27T14:42:16.410841'

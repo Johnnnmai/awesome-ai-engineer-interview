@@ -1,0 +1,48 @@
+company:
+  name: Pragmatike
+  stage: Seed
+  focus: AI startup building products for Fortune 500 customers
+position:
+  title: Senior UI/Frontend Engineer (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a frontend engineering role that builds user
+      interfaces for an AI product, but does not work directly on
+      AI/ML systems. The role focuses on React/TypeScript
+      development, UI performance, and frontend
+      architecture—supporting the AI product by building its
+      interface rather than building, training, or deploying
+      models.
+  responsibilities:
+  - Build and maintain modern, production-grade web interfaces using React and TypeScript
+  - Translate product requirements and design systems into clean, scalable UI components
+  - Own complex frontend features end to end, from implementation to production support
+  - Optimize UI performance for large datasets, real-time updates, and high-usage
+    dashboards
+  - Collaborate closely with product, design, and backend teams to ship user-facing
+    features
+  - Establish frontend best practices around state management, testing, and code quality
+  - Improve frontend architecture, tooling, and developer experience
+  - Debug and resolve production UI issues across browsers and devices
+  use_cases:
+  - Data-intensive AI products for Fortune 500 customers
+  - Real-time web applications with large datasets
+  - High-usage dashboards
+  - AI-driven or ML-powered product interfaces
+  skills:
+    genai: []
+    ml: []
+    web: [React, Redux, Zustand, React Query, REST, GraphQL]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8643196'
+  extracted_at: '2026-03-27T14:11:41.443037'

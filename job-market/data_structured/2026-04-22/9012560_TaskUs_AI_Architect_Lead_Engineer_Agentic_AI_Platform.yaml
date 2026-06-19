@@ -1,0 +1,55 @@
+company:
+  name: TaskUs
+  stage: Public
+  focus: |-
+    Outsourced digital services and next-generation customer
+    experience for tech companies
+position:
+  title: AI Architect / Lead Engineer (Agentic AI Platform)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building an Agentic AI Platform end-
+      to-end, including RAG pipelines, agent orchestration, LLM
+      integration, and deployment. The architect will design and
+      implement production AI systems with hands-on code, making
+      this firmly ai-first.
+  responsibilities:
+  - Define end-to-end architecture from data ingestion through RAG, agent orchestration,
+    QA scoring to insights
+  - Design hybrid deployment models across SaaS, in-VPC, and on-prem environments
+  - Build and implement RAG pipelines including chunking, embeddings, retrieval, and
+    re-ranking
+  - Design and implement agent orchestration frameworks with LLM integration, guardrails,
+    and evaluation
+  - Implement data-in-place architectures with PII handling, masking, and compliance-ready
+    patterns
+  - Build core services and APIs powering workflows and integrations with event-driven
+    microservices
+  - Lead and mentor a team of AI, data, backend, and forward-deployed engineers
+  - Make key build vs buy decisions for LLMs, vector databases, and orchestration
+    tools
+  use_cases:
+  - Hybrid Agentic AI Platform for enterprise customer deployments
+  - Automated QA scoring and quality assurance for contact center operations
+  - Enterprise-grade RAG pipeline for context building and information retrieval
+  - Privacy-first AI platform with secure multi-tenant deployment across cloud and
+    on-prem
+  - Agent orchestration for automated workflow execution
+  skills:
+    genai: [LangChain, LangGraph, RAG, Agent Orchestration, Prompt Engineering, LLM
+        Guardrails, AWS Bedrock, Embeddings]
+    ml: []
+    web: [Microservices, REST APIs, Event-Driven Architecture]
+    databases: [Vector Search, Vector Databases]
+    data: [Data Engineering Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Terraform]
+    languages: [Python, Node.js, Java]
+    domains: []
+    other: [Distributed Systems, SOC2 Compliance, GDPR]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '9012560'
+  extracted_at: '2026-04-22T12:37:03.132662'

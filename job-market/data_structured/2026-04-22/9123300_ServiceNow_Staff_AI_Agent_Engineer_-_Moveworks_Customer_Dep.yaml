@@ -1,0 +1,52 @@
+company:
+  name: ServiceNow
+  stage: Public
+  focus: Enterprise cloud-based AI platform for workflow automation
+position:
+  title: Staff AI Agent Engineer - Moveworks | Customer Deployment
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, designing, tuning, and
+      deploying AI Agents on the Moveworks ServiceNow Platform.
+      The engineer works hands-on with LLM-based systems including
+      prompt engineering and context engineering, architecting AI
+      solutions for customers from vision through launch. This is
+      a Forward Deployed Engineer role focused on deploying AI
+      agent solutions, which classifies as ai-first.
+  responsibilities:
+  - Partner with customers throughout the entire delivery lifecycle of AI Agents including
+    vision-lock, solution design, building, tuning, and launch
+  - Architect and design high-impact AI solutions on the Moveworks ServiceNow platform
+    to solve complex business challenges
+  - Integrate the Moveworks ServiceNow Platform with customer enterprise systems in
+    a secure and performant manner
+  - Collaborate with engineering and product teams on new product rollouts and synthesize
+    customer feedback to drive product decisions
+  - Consult customers on their Agentic AI roadmap and provide strategic direction
+    on solution design
+  - Develop reusable solution templates and share best practices with the broader
+    team
+  - Create high-quality technical artifacts including architecture diagrams, solution
+    proposals, and documentation tailored to diverse audiences
+  use_cases:
+  - Enterprise AI agent deployment for customer workflow automation
+  - Agentic AI solutions for IT service management and business process automation
+  - LLM-powered enterprise system integration and orchestration
+  - Custom AI agent design and tuning for enterprise customers
+  skills:
+    genai: [Prompt Engineering, LLM Systems Design, Context Engineering, AI Agents]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: [Data Modeling]
+    cloud: [Azure Functions, AWS Lambda]
+    ops: [Linux]
+    languages: [Python, JavaScript, Golang]
+    domains: []
+    other: [Workato, ServiceNow, ServiceNow Flow Designer]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9123300'
+  extracted_at: '2026-04-22T13:52:20.720936'

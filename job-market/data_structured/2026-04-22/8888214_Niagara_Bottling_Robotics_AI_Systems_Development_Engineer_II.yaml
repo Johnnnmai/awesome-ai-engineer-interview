@@ -1,0 +1,59 @@
+company:
+  name: Niagara Bottling
+  stage: Public
+  focus: Bottled water manufacturing and bottling operations
+position:
+  title: Robotics & AI Systems Development Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and deploying robotic
+      systems, AI-driven agents, LLM-enabled assistants,
+      predictive maintenance models, and MLOps pipelines. The
+      engineer designs, programs, and deploys both the robotics
+      control systems and the AI/ML models that power them, making
+      this a hands-on AI systems role.
+  responsibilities:
+  - Design, develop, and deploy control systems for quadruped and humanoid robots
+    in active manufacturing environments
+  - Architect and develop scalable fleet management software to manage multiple robotic
+    assets across facilities
+  - Design and deploy AI-driven agents for predictive, prescriptive, and condition-based
+    maintenance
+  - Build LLM-enabled operator assistants and decision-support systems tailored to
+    manufacturing workflows
+  - Develop time-series anomaly detection models for manufacturing asset health monitoring
+  - Integrate robotic and AI systems with PLC/SCADA platforms and industrial communication
+    protocols (OPC-UA, MQTT, Modbus)
+  - Implement MLOps practices including model lifecycle management, monitoring, retraining,
+    and governance
+  - Prepare and deliver technical presentations to operations, engineering, IT leadership,
+    and executive stakeholders
+  use_cases:
+  - Autonomous robotic inspection of manufacturing equipment using quadruped and humanoid
+    robots
+  - Predictive and prescriptive maintenance for bottle manufacturing assets (blowers,
+    fillers, conveyors)
+  - Real-time anomaly detection in industrial bottling environments using sensor fusion
+  - Fleet management and orchestration of multiple robotic assets across manufacturing
+    facilities
+  - LLM-powered operator assistants for intelligent diagnostics and root cause analysis
+  - Digital twin and manufacturing intelligence initiatives for bottling operations
+  skills:
+    genai: [LLM integration, Prompt engineering, Retrieval-Augmented Generation (RAG),
+      Embeddings]
+    ml: [Time-series modeling]
+    web: [Microservices architecture, REST APIs]
+    databases: []
+    data: []
+    cloud: [Cloud-edge synchronization]
+    ops: [MLOps, CI/CD, Model versioning]
+    languages: [Python, C++]
+    domains: [Computer Vision, Robotics]
+    other: [ROS2, SLAM, PLC/SCADA, OPC-UA, MQTT, Modbus, LiDAR, Thermal imaging, Edge
+        computing, Motion planning, Perception pipelines, Digital twin]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8888214'
+  extracted_at: '2026-04-22T13:44:39.590353'

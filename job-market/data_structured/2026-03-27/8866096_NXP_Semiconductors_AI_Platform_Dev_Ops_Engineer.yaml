@@ -1,0 +1,54 @@
+company:
+  name: NXP Semiconductors
+  stage: Public
+  focus: |-
+    Semiconductor manufacturing and embedded processing
+    solutions
+position:
+  title: AI Platform Dev Ops Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform engineering role that builds
+      infrastructure and CI/CD frameworks to support data and
+      GenAI teams, but does not directly work on AI/ML model
+      development, training, or deployment. The role enables AI
+      work through infrastructure automation rather than hands-on
+      model work.
+  responsibilities:
+  - Deploy and maintain scalable Cloud workspaces for AI enablement on AWS infrastructure
+    using Terraform (VPC, PrivateLink, IAM, S3, Lambda, EKS, Fargate)
+  - Provide architectural oversight and technical guidance to engineering teams on
+    cloud platform infrastructure
+  - Automate governance layer including Unity Catalog metastore configuration, external
+    locations, and access controls
+  - Ensure platform adheres to enterprise security standards by implementing cloud
+    infrastructure and data protection controls
+  - Manage end-to-end workspace provisioning using Terraform across Dev, Acc, and
+    Prod environments
+  - Design and implement policies and guardrails for governance and cost control
+  - Oversee GitLab CI/CD pipelines for data and GenAI projects with automated workflows
+  - Configure monitoring, alerting, and logging to ensure platform stability and serve
+    as escalation point for incidents
+  use_cases:
+  - AI enablement infrastructure on cloud platforms
+  - Data team workspace provisioning and governance
+  - Enterprise cloud platform security and compliance
+  - GenAI project pipeline automation and deployment
+  - Cloud resource optimization and cost management
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Unity Catalog]
+    data: []
+    cloud: [AWS, Amazon EKS, VPC, IAM, S3, Lambda, Fargate, PrivateLink]
+    ops: [Terraform, Docker, Kubernetes, GitLab CI/CD, CI/CD, CloudWatch, Jenkins]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8866096'
+  extracted_at: '2026-03-27T13:52:12.105962'

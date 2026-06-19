@@ -1,0 +1,59 @@
+company:
+  name: Coralogix
+  stage: Series D+ (100M+ ARR, high-growth)
+  focus: |-
+    Full-stack observability platform for data processing at
+    scale
+position:
+  title: GTM Engineer - Automation and AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying LLM-
+      powered tools and AI-enabled automation workflows —
+      including prompt engineering, output parsing, confidence
+      scoring, and integrating LLM capabilities into operational
+      workflows. While it's a GTM-focused role, the hands-on work
+      with LLMs (Claude Code, prompt engineering, building AI-
+      powered tools) makes it ai-first rather than ai-support.
+  responsibilities:
+  - Design and deploy AI-enabled automation workflows across the GTM stack using orchestration
+    tooling like n8n
+  - Build LLM-powered tools for pre-call research, deal intelligence, pipeline gap
+    analysis, and automated executive briefings
+  - Integrate LLM capabilities into operational revenue workflows including prompt
+    engineering, output parsing, and confidence scoring
+  - Develop event-driven, API-to-API integration patterns connecting Salesforce, Gong,
+    Snowflake, Slack, and Marketo
+  - Rapidly prototype and ship internal GTM tools using AI-accelerated development
+    with Claude Code or GitHub Copilot
+  - Build services for pipeline analysis, forecasting support, and deal intelligence
+    feeding leadership dashboards
+  - Develop data pipelines and transformations moving GTM events from source systems
+    into Snowflake
+  - Proactively evaluate and recommend new automation and AI tooling alternatives
+    based on evidence
+  use_cases:
+  - Pre-call research automation using LLMs
+  - Deal intelligence and pipeline gap analysis
+  - Automated executive briefings generation
+  - Forecast variance analysis and Gong engagement gap alerts
+  - Revenue operations workflow automation across lead-to-cash cycle
+  - Internal self-service tools for sales and revenue teams
+  skills:
+    genai: [Claude Code, GitHub Copilot, prompt engineering, LLM integration]
+    ml: []
+    web: [RESTful APIs, React, microservices]
+    databases: [Snowflake]
+    data: [data modeling]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, Node.js]
+    domains: []
+    other: [n8n, Zapier, Workato, Salesforce APIs, Gong, Marketo, Slack integrations,
+      event-driven architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8964594'
+  extracted_at: '2026-04-22T12:45:34.327582'

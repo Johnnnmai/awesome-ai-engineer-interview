@@ -1,0 +1,54 @@
+company:
+  name: Slate
+  stage: null
+  focus: |-
+    Creative workspace for brand social teams — content creation
+    and social media management
+position:
+  title: Senior Backend Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI platform
+      infrastructure, integrating LLM/ML models, designing model
+      routing, prompt management, and evaluating new models. While
+      it's infrastructure-focused, the engineer is hands-on with
+      model integrations (OpenAI, Anthropic, Replicate APIs),
+      building the systems that deploy and operate AI features in
+      production — making this ai-first.
+  responsibilities:
+  - Design and build shared AI infrastructure including model routing, prompt management,
+    response caching, fallback handling, and cost observability
+  - Refactor existing one-off AI integrations onto a unified platform
+  - Own the reliability, performance, and cost-efficiency of Slate's AI systems
+  - Collaborate with AI Product Engineer and product team to bring new AI capabilities
+    to production
+  - Build backend systems powering real-time AI features with streaming, async processing,
+    and latency constraints
+  - Evaluate and integrate new models and APIs as they become available
+  - Define evaluation frameworks and monitoring to track AI feature quality over time
+  - Build systems to detect and alert on model regressions or degraded outputs
+  use_cases:
+  - Background removal for images and video
+  - Active speaker detection in video content
+  - Auto-captioning for media content
+  - Content suggestions for brand social teams
+  - Image generation for social media content
+  - Unified AI platform layer supporting multiple AI-powered creative features
+  skills:
+    genai: [OpenAI API, Anthropic API, Replicate, LLM integration and operation, Prompt
+        management, Model routing]
+    ml: []
+    web: [Streaming]
+    databases: [PostgreSQL, Redis]
+    data: [Async processing pipelines]
+    cloud: [AWS]
+    ops: [Observability and monitoring, Evaluation frameworks for AI models]
+    languages: [Node.js, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9031021'
+  extracted_at: '2026-04-22T13:43:39.469399'

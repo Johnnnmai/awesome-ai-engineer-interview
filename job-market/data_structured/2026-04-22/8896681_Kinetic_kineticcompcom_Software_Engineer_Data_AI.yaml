@@ -1,0 +1,55 @@
+company:
+  name: Kinetic (kineticcomp.com)
+  stage: Growth Stage (backed by Nationwide)
+  focus: |-
+    Workers' comp technology for injury prediction, prevention,
+    and management
+position:
+  title: Software Engineer, Data & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves building "autonomous AI agents"
+      and "LLM-based applications" as core responsibilities. While
+      it also covers data engineering (ETL pipelines, data lakes),
+      the AI component—particularly deploying LLM and agentic AI
+      features in production—places it in the ai-first category.
+      The preferred qualifications reinforce this with emphasis on
+      LLM and agentic AI production experience.
+  responsibilities:
+  - Design, develop, and implement robust, scalable, cloud-native data and AI solutions
+    supporting Kinetic's mission
+  - Build and maintain autonomous AI agents and LLM-based applications
+  - Design and operate ETL pipelines and data lakes as part of the data ecosystem
+  - Write clean, efficient, well-tested, and maintainable code in a collaborative
+    team environment
+  - Participate in architecture and code reviews ensuring quality, performance, and
+    scalability
+  - Implement security, reliability, and observability best practices in software
+    systems
+  - Troubleshoot complex technical issues with root cause analysis and post-mortem
+    documentation
+  - Contribute across the stack including backend services, internal tools, and AI-powered
+    features
+  use_cases:
+  - Generative AI for workers' compensation claims management
+  - Autonomous AI agents for operational automation
+  - Injury prediction and prevention using data-driven insights
+  - LLM-based applications for workplace safety improvement
+  - Wearable tech data integration for strain and sprain injury reduction
+  skills:
+    genai: [LLMs, Agentic AI patterns]
+    ml: []
+    web: []
+    databases: []
+    data: [Apache Airflow, ETL pipelines, Data lakes]
+    cloud: [AWS, Cloud-native architecture]
+    ops: [Terraform, CI/CD, Docker]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8896681'
+  extracted_at: '2026-04-22T13:36:37.209106'

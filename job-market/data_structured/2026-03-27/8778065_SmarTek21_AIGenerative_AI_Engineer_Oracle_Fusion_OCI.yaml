@@ -1,0 +1,54 @@
+company:
+  name: SmarTek21
+  stage: null
+  focus: |-
+    Enterprise AI solutions and Oracle cloud integration
+    services
+position:
+  title: AI/Generative AI Engineer (Oracle Fusion & OCI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on role focused on building, fine-tuning,
+      and deploying Generative AI applications, autonomous agents,
+      and RAG pipelines using LLMs and agent frameworks. The role
+      involves direct implementation work with AI models and
+      systems.
+  responsibilities:
+  - Build, fine-tune, and deploy Generative AI applications including AI agents
+  - Develop autonomous agents using OCI Generative AI and OCI Agentic AI frameworks,
+    LangGraph, Azure AI Foundry, and Google ADK
+  - Design and implement RAG pipelines for accurate contextual responses
+  - Integrate Generative AI solutions with Oracle Fusion applications (ERP/HCM/SCM/EPM)
+    using OCI AI Agent Studio
+  - Automate business workflows leveraging OCI services including Functions, API Gateway,
+    OIC, and Object Storage
+  - Deploy, monitor, and optimize AI agents primarily on OCI with cost optimization
+  - Design secure and scalable AI-driven architectures with API management and cloud-native
+    patterns
+  - Apply machine learning and deep learning concepts using PyTorch, scikit-learn,
+    and TensorFlow
+  use_cases:
+  - Autonomous AI agents for enterprise workflow automation
+  - RAG-based knowledge systems for contextual information retrieval
+  - Oracle Fusion application integration (ERP/HCM/SCM/EPM)
+  - Business workflow automation via OCI services
+  - Enterprise-grade AI-powered applications
+  skills:
+    genai: [OCI Agentic AI, LangGraph, LangChain, Google ADK, RAG, Prompt engineering,
+      AI agents]
+    ml: [PyTorch, TensorFlow, scikit-learn, Transformer architecture]
+    web: [Oracle REST APIs]
+    databases: [NoSQL, Vector databases]
+    data: []
+    cloud: [OCI Generative AI, Azure AI Foundry, OCI Functions, OCI API Gateway, OIC
+        (Oracle Integration Cloud), Serverless architectures]
+    ops: [Docker, Kubernetes, MLOps]
+    languages: [Python, Java, NodeJS, SQL]
+    domains: [NLP]
+    other: [Oracle Fusion]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8778065'
+  extracted_at: '2026-03-27T14:38:56.574157'

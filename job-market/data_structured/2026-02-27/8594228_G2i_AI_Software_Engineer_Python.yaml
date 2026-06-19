@@ -1,0 +1,43 @@
+company:
+  name: G2i
+  stage: null
+  focus: LLM training and code evaluation platform
+position:
+  title: AI Software Engineer (Python)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly training and improving LLMs
+      through RLHF workflows - engineers provide feedback that
+      tunes model behavior toward better code generation. While it
+      doesn't require deep ML knowledge, the work directly impacts
+      model training via reinforcement learning pipelines.
+  responsibilities:
+  - Compare and rank multiple code snippets to determine best solutions
+  - Repair and refactor AI-generated code for correctness, efficiency, and style
+  - Provide expert code reviews identifying logic errors, performance issues, and
+    security problems
+  - Inject feedback including ratings, edits, and test results into the RLHF pipeline
+  - Write detailed explanations justifying code quality decisions and trade-offs
+  - Help train LLMs to propose, critique, and improve production-grade code
+  use_cases:
+  - Training LLMs to write production-grade code
+  - RLHF pipeline for code generation models
+  - Code quality evaluation and ranking
+  - AI-generated code repair and optimization
+  skills:
+    genai: []
+    ml: [RLHF]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Code review, Written communication]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8594228'
+  extracted_at: '2026-03-03T11:58:44.412893'

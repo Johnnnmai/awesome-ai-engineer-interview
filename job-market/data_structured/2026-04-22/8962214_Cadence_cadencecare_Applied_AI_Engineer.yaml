@@ -1,0 +1,54 @@
+company:
+  name: Cadence (cadence.care)
+  stage: Series B+
+  focus: Remote care delivery system for senior healthcare
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first: the engineer will design,
+      build, and deploy clinical AI agents with RAG pipelines,
+      agent orchestration, tool use, and safety guardrails. The
+      position involves hands-on work building LLM-powered agentic
+      systems from prototype to production, directly working with
+      models and agent architectures.
+  responsibilities:
+  - Design, build, and deploy clinical AI agents that reason over patient context,
+    invoke tools, and generate care recommendations
+  - Own reliability, observability, and cost efficiency of LLM-powered workflows at
+    scale
+  - Build and optimize RAG pipelines over clinical knowledge bases, treatment protocols,
+    and real-time patient data
+  - Develop evaluation frameworks including offline benchmarks, safety tests, regression
+    suites, and LLM-as-judge pipelines wired into CI/CD
+  - Design multi-step agent orchestration including planning, memory, tool use, error
+    recovery, and human-in-the-loop escalation paths
+  - Collaborate with clinical, product, and engineering teams to translate patient
+    care needs into AI system design
+  - Continuously push the team to raise the bar on quality, performance, and architecture
+  use_cases:
+  - Synthesizing real-time clinical data for proactive care recommendations
+  - Population-level proactive healthcare for elderly patients
+  - Clinical decision support surfacing care recommendations to clinicians
+  - Automated agent-driven actions on behalf of clinicians
+  - RAG over clinical knowledge bases and treatment protocols
+  - Patient monitoring and early intervention to prevent hospitalizations
+  skills:
+    genai: ['LLM APIs (OpenAI, Anthropic)', Prompt engineering, Tool use / function
+        calling, Structured outputs, RAG systems, Agent frameworks and orchestration,
+      Multi-agent coordination]
+    ml: ['Fine-tuning (SFT, RLHF, LoRA)']
+    web: []
+    databases: [Vector stores / embeddings]
+    data: []
+    cloud: []
+    ops: [CI/CD, LLM-as-judge evaluation, Observability and monitoring]
+    languages: [Python]
+    domains: [Healthcare / clinical data handling]
+    other: [HIPAA compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8962214'
+  extracted_at: '2026-04-22T12:58:00.907540'

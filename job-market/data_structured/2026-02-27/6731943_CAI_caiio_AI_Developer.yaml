@@ -1,0 +1,48 @@
+company:
+  name: CAI (cai.io).
+  stage: Private
+  focus: |-
+    Global technology services firm providing IT solutions to
+    public and commercial sectors
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI systems including
+      fine-tuning models, building chatbots and intelligent
+      agents, integrating data into knowledge bases, and
+      implementing Azure AI Foundry solutions. The position
+      requires hands-on work deploying and optimizing AI/ML models
+      for production use cases.
+  responsibilities:
+  - Create stock taking application with speech-to-text recognition for IFS products
+    and automatic inventory transfer
+  - Automate invoice retrieval and processing using Power Automate from email mailbox
+  - Optimize OCR processes and scanning workflows
+  - Apply AI or ML capabilities to existing and future applications
+  - Build chatbots and intelligent agents
+  - Fine-tune AI models and integrate data sources into knowledge bases
+  use_cases:
+  - Speech-to-text inventory management system with product recognition
+  - Automated invoice processing and retrieval
+  - OCR optimization for document scanning
+  - Intelligent chatbots for business applications
+  - Knowledge base integration from company databases
+  skills:
+    genai: [Azure OpenAI, Azure AI Foundry, Fine-tuning models, Chatbots, Intelligent
+        agents]
+    ml: [Machine Learning, Optical Character Recognition (OCR)]
+    web: [Angular, .NET Core, Progressive Web Application (PWA)]
+    databases: [Azure SQL Database]
+    data: []
+    cloud: [Microsoft Azure, Azure Logic Apps, Power Automate]
+    ops: []
+    languages: []
+    domains: []
+    other: [SSRS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6731943'
+  extracted_at: '2026-03-03T11:38:04.222127'

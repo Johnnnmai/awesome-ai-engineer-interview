@@ -1,0 +1,56 @@
+company:
+  name: SAFE Security
+  stage: Unknown
+  focus: |-
+    Building CyberAGI - autonomous cybersecurity threat
+    prediction, detection, and remediation
+position:
+  title: Software Development Engineer III - AI and Analytics
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves designing, building, and
+      deploying AI-driven solutions using RAG, AI agents, and
+      foundational models. The engineer will implement and
+      evaluate AI models (OpenAI, Claude, Titan) and deploy them
+      into production, making this hands-on AI/LLM development
+      work.
+  responsibilities:
+  - Lead and mentor developers, fostering a culture of innovation, quality, and continuous
+    improvement
+  - Design, build, and deploy scalable AI-driven analytics solutions using RAG, AI
+    agents, and foundational models
+  - Architect scalable, secure, and performant AI-driven microservices with cross-functional
+    teams
+  - Utilize AWS cloud services (Bedrock, Lambda, EC2, S3, RDS) to develop efficient
+    AI solutions
+  - Implement and evaluate AI models (OpenAI, Claude, Amazon Titan) considering latency,
+    cost, accuracy, and scalability trade-offs
+  - Ensure high-quality code through rigorous code reviews and continuous improvement
+    processes
+  - Address complex technical challenges and provide effective solutions
+  - Collaborate with product managers, designers, and stakeholders to align technical
+    solutions with business goals
+  use_cases:
+  - Autonomous cybersecurity threat prediction
+  - Real-time threat detection and monitoring
+  - Automated threat remediation and response
+  - AI-driven analytics for cyber risk assessment
+  - Building specialized CyberAGI system of intelligence
+  skills:
+    genai: [RAG (Retrieval-Augmented Generation), AI Agents, OpenAI API, Anthropic
+        Claude, Amazon Titan]
+    ml: []
+    web: [Express, Microservices architecture]
+    databases: [NoSQL databases]
+    data: []
+    cloud: [AWS Bedrock, AWS Lambda, AWS EC2, AWS S3, AWS RDS]
+    ops: [Docker, Kubernetes, AWS ECS, AWS CloudFormation]
+    languages: [Python, NodeJS, Go, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8726327'
+  extracted_at: '2026-03-27T13:33:14.574183'

@@ -1,0 +1,45 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: Banking and financial services with cloud technology
+position:
+  title: Distinguished Engineer (Remote-Eligible) - API/AI Gateway Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is for an API/AI Gateway Platform - the role
+      builds and maintains the infrastructure/platform that
+      enables AI workloads to be served, not building the AI
+      models themselves. It's enabling technology for AI rather
+      than hands-on model development or deployment.
+  responsibilities:
+  - Articulate and evangelize a bold technical vision for API/AI Gateway domain
+  - Decompose complex problems into practical and operational solutions
+  - Ensure quality of technical design and implementation for gateway systems
+  - Serve as authoritative expert on non-functional system characteristics like performance,
+    scalability and operability
+  - Continue learning and injecting advanced technical knowledge into the community
+  - Handle multiple projects simultaneously while balancing time to maximize impact
+  - Act as role model and mentor within the tech community, coaching and strengthening
+    technical expertise
+  use_cases:
+  - API gateway infrastructure for enterprise systems
+  - AI gateway platform for serving AI workloads
+  - Cloud-native banking technology platform
+  - Enterprise architecture and system integration
+  skills:
+    genai: []
+    ml: []
+    web: [API design, Microservices]
+    databases: []
+    data: []
+    cloud: [Cloud technologies]
+    ops: []
+    languages: [Java, Python, Go, JavaScript, TypeScript, Swift]
+    domains: []
+    other: [Enterprise architecture, Solution architecture, System design patterns]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8827324'
+  extracted_at: '2026-03-27T15:26:14.647288'

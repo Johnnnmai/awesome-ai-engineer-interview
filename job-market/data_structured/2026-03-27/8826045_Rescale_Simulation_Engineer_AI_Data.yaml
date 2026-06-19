@@ -1,0 +1,45 @@
+company:
+  name: Rescale
+  stage: null
+  focus: Digital engineering platform for HPC and simulation
+position:
+  title: Simulation Engineer, AI & Data
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly integrating AI technologies into
+      CAE workflows, solving Simulation AI problems, and
+      developing AI software products. The position requires
+      hands-on work with PyTorch, Modulus, and CUDA for building
+      and applying AI models to engineering simulations.
+  responsibilities:
+  - Solve complex Simulation AI problems for customers on the platform
+  - Integrate cutting-edge AI technologies into CAE workflows
+  - Engage directly with customers to understand their needs and provide tailored
+    solutions
+  - Contribute to the development and enhancement of AI software products
+  - Collaborate with dynamic and agile development team
+  - Stay updated with latest advancements in Simulation and AI technologies
+  - Participate in code reviews and provide constructive feedback to peers
+  use_cases:
+  - AI-powered engineering simulation
+  - Computer-aided engineering (CAE) workflow automation
+  - Computational fluid dynamics (CFD) with AI
+  - Finite element analysis (FEA) with AI
+  - Scientific computing and discovery
+  skills:
+    genai: []
+    ml: [PyTorch, Modulus, PyG (PyTorch Geometric), CUDA]
+    web: [REST API development]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes]
+    languages: []
+    domains: [CAE/CFD/FEA]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8826045'
+  extracted_at: '2026-03-27T15:26:03.930028'

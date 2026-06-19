@@ -1,0 +1,176 @@
+job_id: 9082883
+title: AI Engineer
+company: Riverflex
+location: Amsterdam, NLD
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Azure
+  - Azureml
+  - Docker
+  - Gpt
+  - Kubeflow
+  - Kubernetes
+  - Langchain
+  - Mlflow
+  - Python
+  - Semantic Kernel
+company_size: 45 Employees
+description: |
+  Build cutting-edge AI systems with real business impact
+  
+  At Riverflex, we don’t just talk about AI—we build it. As an
+  AI Engineer, you’ll be part of a small, high-impact team
+  developing intelligent solutions that blend modern software
+  engineering with state-of-the-art language models and
+  machine learning techniques. You’ll help design and deploy
+  scalable AI systems that power next-generation digital
+  products for clients and internal tools.
+  
+  We’re looking for someone who deeply understands LLMs, core
+  ML fundamentals, and AI engineering, knows how to turn
+  theory into working code, and thrives at the intersection of
+  product, data, and engineering. If you’ve led AI delivery,
+  built GenAI apps, and know how to scale with quality—this
+  role is for you.
+  
+  
+  
+  The Role
+  
+  As a hands-on lead engineer, you’ll design and build AI-
+  powered services using LLMs, modern orchestration
+  frameworks, and robust engineering practices. You’ll partner
+  closely with data, product, and software teams to integrate
+  these systems into real-world applications. You’ll also play
+  a key role in growing our AI expertise & capability,
+  developing frameworks/accelerators/best practices/etc. and
+  mentoring our AI engineers.
+  
+  Responsibilities
+  
+  - Build scalable AI and GenAI systems using transformer-based
+    models (e.g. GPT, Mistral, Claude) and RAG architectures
+  
+  - Design and implement ML/AI pipelines including model
+    training, evaluation, prompt chaining, embedding
+    retrieval, and context management (MCP protocols)
+  
+  - Engineer modular, well-tested Python code for AI agents,
+    APIs, and microservices
+  
+  - Apply ML Ops practices for reproducible training,
+    deployment, and monitoring of models in production
+  
+  - Use orchestration tools (LangChain, Semantic Kernel, n8n) to
+    implement agent workflows and end-to-end AI experiences
+  
+  - Collaborate with product and engineering teams to integrate
+    AI into user-facing applications
+  
+  - Partner with data engineering to build feature stores,
+    vector search capabilities, and serve curated data
+  
+  - Optimize AI systems for cost, latency, and scalability
+    across Azure infrastructure (e.g., Azure ML, Azure AI
+    Services)
+  
+  - Lead on best practices around prompt evaluation, testing,
+    model performance monitoring, and human-in-the-loop
+    feedback
+  
+  - Mentor and guide teammates (internally and at clients) on AI
+    Engineering
+  
+  - Champion responsible AI design, including bias mitigation
+    and data privacy safeguards
+  
+  Must-Haves
+  
+  - 7+ years of software or ML engineering experience, including
+    2+ years working on GenAI/LLM-based products
+  
+  - Strong Python engineering skills (typing, testing,
+    packaging, dependency management)
+  
+  - Solid understanding of ML and NLP/LLM
+    fundamentals—tokenization, attention, transformers,
+    embeddings, supervised/unsupervised learning, etc.
+  
+  - Hands-on experience building with LLMs, prompt chaining, and
+    retrieval-augmented generation (RAG)
+  
+  - Familiarity with Model Context Protocol (MCP) standards:
+    schema design, context injection, context window
+    management
+  
+  - Experience with orchestration and agentic frameworks
+    (LangChain, Semantic Kernel, GPT agents)
+  
+  - Experience working in CI/CD environments with ML Ops tooling
+    (e.g., MLflow, AzureML, Kubeflow)
+  
+  - Deep understanding of API design, microservices, and
+    distributed system architecture
+  
+  - Experience deploying scalable workloads on cloud platforms
+    (Azure preferred) using Docker/Kubernetes
+  
+  - Proven experience mentoring engineers and leading technical
+    workstreams
+  
+  Nice-to-Haves
+  
+  - Experience with vector databases (e.g., Pinecone, FAISS,
+    Weaviate)
+  
+  - Familiarity with serverless deployment patterns and
+    infrastructure-as-code (e.g., Terraform, CDK)
+  
+  - Exposure to human-in-the-loop feedback systems and ethical
+    AI design
+  
+  - Experience in AI governance, risk mitigation, and AI
+    performance tuning
+  
+  - Consulting or client-facing delivery experience in data/AI-
+    driven environments
+  
+  What We Offer
+  
+  - 25 days off per year plus closure between Christmas and New
+    Year's.
+  
+  - Flexible remote work from abroad options for up to 6 weeks
+    per year.
+  
+  - Learning & Development budget, including full access to
+    Udemy courses.
+  
+  - Classpass membership to support well-being.
+  
+  - Latest tech & tools, including home office budget and
+    professional software subscriptions.
+  
+  - Equity share scheme to give long-term team members ownership
+    in Riverflex.
+  
+  Why join Riverflex?
+  
+  - Be a Pioneer: Contribute to the development of Riverflex’s
+    Software Engineering domain.
+  - Impactful Work: Work on high-profile projects with major
+    clients like IKEA and deliver tangible results.
+  - Growth Opportunities: Gain exposure to advanced AI tools,
+    machine learning, and enterprise-level software solutions
+    in a dynamic environment.
+  - Supportive Culture: Work in a team that values innovation,
+    creativity, and continuous learning.
+industries:
+  - Big Data
+  - Business Intelligence
+  - Consulting
+  - Design
+posted_date: 2026-04-17
+url: "https://builtin.com/job/ai-engineer/9082883"
+source: Built In

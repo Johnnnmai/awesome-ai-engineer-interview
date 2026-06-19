@@ -1,0 +1,48 @@
+company:
+  name: NICE
+  stage: Public
+  focus: |-
+    Customer experience, financial crime detection, and public
+    safety software
+position:
+  title: Software Engineer (AI / Chatbot)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves configuring and building AI chatbot
+      integrations using platforms like Google Dialogflow and IBM
+      Watson, with prompt engineering skills required. The
+      engineer works directly with AI/chatbot products to deploy
+      conversational AI solutions to customers, making it an ai-
+      first role.
+  responsibilities:
+  - Configure and build chatbot integrations based on customer requirements
+  - Work with customers to understand and document business requirements
+  - Educate customers with relevant technical information about the product
+  - Assist with go-live steps and ensure deployments are completed timely and accurately
+  - Track and record billable hours on customer master accounts
+  - Escalate foreseeable delays to the implementation manager
+  - Create design documents, functional requirements docs, test use cases, and deployment
+    guides
+  - Troubleshoot and debug issues on SaaS applications
+  use_cases:
+  - Customer-facing chatbot deployment and integration
+  - Conversational AI configuration for enterprise customers
+  - AI-powered customer experience (CXone) platform implementation
+  - Bot integration with platforms like Google Dialogflow and IBM Watson
+  skills:
+    genai: [Google Dialogflow, IBM Watson, Prompt Engineering]
+    ml: []
+    web: [OAuth2, OIDC, SAML, CORS, HTML, CSS, jQuery, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [JavaScript]
+    domains: [Conversational Interfaces]
+    other: [SaaS Applications]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8993351'
+  extracted_at: '2026-04-22T13:32:58.361687'

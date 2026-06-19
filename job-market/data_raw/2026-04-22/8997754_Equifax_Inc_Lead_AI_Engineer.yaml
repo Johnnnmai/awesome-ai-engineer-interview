@@ -1,0 +1,208 @@
+job_id: 8997754
+title: Lead AI Engineer
+company: Equifax Inc.
+location: Pune, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ci/Cd Tools
+  - Docker
+  - Google Cloud Platform
+  - Java
+  - JavaScript
+  - Kubernetes
+  - Langchain
+  - Langgraph
+  - NoSQL
+  - Python
+company_size: 16,742 Employees
+description: |
+  Equifax is where you can power your possible. If you want to
+  achieve your true potential, chart new paths, develop new
+  skills, collaborate with bright minds,  and make a
+  meaningful impact, we want to hear from you.
+  
+  Job Description:
+  
+  Equifax is seeking a visionary AI engineer to lead our
+  technology transformation initiative. In this role, you will
+  lead a talented team in architecting and deploying cutting-
+  edge, cloud-native solutions for a large enterprise. You
+  will be at the forefront of modern development, employing
+  vibe coding concepts with AI-powered coding assistants like
+  GitHub Copilot, Gemini, and accelerate innovation and build
+  highly scalable, reliable, and performant APIs,
+  microservices, and PaaS/SaaS platforms, including the
+  ability to design, develop, and deploy AI agents in the
+  google cloud platform. This role requires a deep
+  understanding of both front-end and back-end technologies,
+  combined with mastery of cloud infrastructure,
+  containerization, microservices architecture and the agentic
+  AI framework. You're not just a coder; you're an architect,
+  a mentor, and a key driver of the team's technical vision.
+  If you are passionate about solving complex problems and
+  mentoring a high-performing team, we want to hear from you.
+  
+  What you’ll do
+  
+  As our Lead AI Engineer, you will be the driving force
+  behind our technical vision and execution. Your core
+  responsibilities include:
+  
+  - Implement Sophisticated AI Agents: Design, build, and deploy
+    complex AI agents using LangChain and LangGraph. You will
+    own the core logic that automates intricate decision-
+    making within the claims lifecycle.
+  - Master Prompt & Context Engineering: Design, test, and
+    refine complex prompts and contextual data frameworks to
+    ensure our AI agents perform with maximum accuracy,
+    efficiency, and reliability.
+  - Lead AI Research & Innovation: Stay at the bleeding edge of
+    AI. You’ll be responsible for identifying, prototyping,
+    and integrating the latest foundational models, RAG
+    techniques, and agentic frameworks to solve unique
+    business challenges.
+  - Build for Production Scale on GCP: Engineer and operate our
+    AI systems in a scalable, reliable production environment
+    on Google Cloud Platform. Your work will directly impact
+    millions of users.
+  - Champion MLOps for Agentic Systems: Establish and lead best
+    practices for the reliability, versioning, monitoring, and
+    observability of our AI agents, using tools like Langfuse
+    to ensure production-grade performance.
+  - Collaborate to Deliver Impact: Partner closely with product
+    leaders, data scientists, and other engineers to translate
+    business needs into technical reality, ensuring our AI
+    solutions are both innovative and effective.
+  - Champion modern software development practices by actively
+    using AI code-assist tools (e.g., Gemini code assists,
+    Github Copilot, Claude code) to accelerate development
+    cycles, generate documentation, improve code quality,
+    testing, and monitoring & observability practices
+  - Build, manage, and mentor a cross-functional team of
+    software, quality, and reliability engineers, fostering a
+    culture of technical excellence and continuous
+    improvement.
+  - Define and report on key engineering metrics (SLA, SLO, SLI)
+    and ensure compliance with security, quality, and
+    financial operations (DevSecOps, FinOps) best practices.
+  - Collaborate with product managers, architects, SREs and
+    business partners to define technical strategy, create
+    software roadmaps, and make key architectural and design
+    decisions.
+  - Lead troubleshooting efforts to resolve production and
+    customer issues, demonstrating deep technical expertise
+    and problem-solving skills.
+  - Participate and lead agile team activities, including Sprint
+    Planning and Retrospectives, to ensure efficient and
+    predictable delivery
+  - Lead with a data/metrics driven mindset with a extreme focus
+    towards optimizing and creating efficient solutions
+  - Drive up-to-date technical documentation including support,
+    end user documentation and run books
+  - Create and deliver technical presentations to internal and
+    external technical and non-technical stakeholders
+    communicating with clarity and precision, and present
+    complex information in a concise format that is audience
+    appropriate
+  
+  What You'll Bring (Experience & Technical Stack)
+  
+  - Bachelor's degree or equivalent experience
+  - 7+ years in software engineering, with a strong track record
+    of technical leadership and shipping complex, scalable
+    systems.
+  - 2+ years in a dedicated AI/ML role, with hands-on experience
+    in model integration, MLOps, and applying AI to solve
+    business problems.
+  - 1+ years of direct experience architecting and building
+    solutions with LangChain, LangGraph, or similar agentic AI
+    frameworks.
+  - 2+ years of in-depth experience with Google Cloud Platform
+    (GCP), specifically its AI/ML services (Vertex AI, etc.).
+  - 3+ years of proven experience leveraging Kubernetes
+    workloads.
+  - Proficiency in Python, JavaScript/TypeScript and/or Java and
+    working knowledge of a modern front-end framework
+    (Angular, React, or Vue) to collaborate effectively with
+    UI teams.
+  - Hands-on experience with LLM observability tools like
+    Langfuse for monitoring and debugging agentic workflows
+  - Cloud-Native Proficiency:
+    - Cloud Platforms: Extensive hands-on experience with at least
+      one major cloud provider (AWS, Google Cloud, or Azure).
+    - Containerization: Mastery of Docker for containerizing
+      applications and Kubernetes for orchestration.
+    - Infrastructure as Code (IaC): Proficiency with tools like
+      Terraform or CloudFormation to manage infrastructure
+      programmatically.
+    - CI/CD Tools: Experience with CI/CD tools such as Github
+      Actions, Argo CD, Jenkins
+    - Database Knowledge: Strong experience with both SQL (e.g.,
+      Spanned DB, Alloy DB, PostgreSQL, MySQL) and NoSQL
+      (e.g., MongoDB, DynamoDB and Firestore) databases.
+    - Cloud-Native Proficiency:
+    - Cloud Platforms: Extensive hands-on experience with at least
+      one major cloud provider (AWS, Google Cloud, or Azure).
+    - Containerization: Mastery of Docker for containerizing
+      applications and Kubernetes for orchestration.
+    - Infrastructure as Code (IaC): Proficiency with tools like
+      Terraform or CloudFormation to manage infrastructure
+      programmatically.
+    - CI/CD Tools: Experience with CI/CD tools such as Github
+      Actions, Argo CD, Jenkins
+    - Database Knowledge: Strong experience with both SQL (e.g.,
+      Spanned DB, Alloy DB, PostgreSQL, MySQL) and NoSQL
+      (e.g., MongoDB, DynamoDB and Firestore) databases.
+  
+  
+  
+  What could set you apart
+  
+  - Strong expertise in Generative AI (GenAI), including hands-
+    on experience with models like Gemini, ChatGPT, Claude, or
+    Llama.
+  - You are adept at leveraging modern development tools,
+    including AI-powered code assistants (like GitHub
+    Copilot), to accelerate the development lifecycle and
+    rapidly ship high-quality features
+  - Experience creating and deploying AI agents to production
+    environments.
+  - You have a history of tackling ambiguous, complex technical
+    challenges and architecting elegant, effective solutions.
+  - You are passionate about the potential of AI, but you are
+    grounded in the practical realities of building and
+    shipping reliable, production-ready software.
+  - You thrive in a team-oriented environment, capable of
+    mentoring other engineers and clearly communicating
+    complex technical ideas to any audience.
+  - You are motivated by the opportunity to apply cutting-edge
+    technology to solve meaningful, real-world problems at a
+    massive scale.
+  
+  We offer a hybrid work setting, comprehensive compensation
+  and healthcare packages, attractive paid time off, and
+  organizational growth potential through our online learning
+  platform with guided career tracks.
+  
+  Are you ready to power your possible?  Apply today, and get
+  started on a path toward an exciting new career at Equifax,
+  where you can make a difference!
+  
+  Primary Location:
+  
+  IND-Pune-Equifax Analytics-PEC
+  
+  Function:
+  
+  Function - Tech Dev and Client Services
+  
+  Schedule:
+  
+  Full time
+industries:
+  - Fintech
+  - Consulting
+posted_date: 2026-04-20
+url: "https://builtin.com/job/lead-ai-engineer/8997754"
+source: Built In

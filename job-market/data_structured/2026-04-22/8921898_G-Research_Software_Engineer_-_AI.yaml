@@ -1,0 +1,52 @@
+company:
+  name: G-Research
+  stage: Private
+  focus: Quantitative finance research and AI-powered trading
+position:
+  title: Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and operating on-prem
+      model inference and serving infrastructure, centralised MCP
+      servers, and agent sandboxing systems. While it's a
+      platform/infrastructure role, the engineer is hands-on with
+      model serving, inference pipelines, and deploying AI
+      infrastructure — making it ai-first rather than ai-support.
+  responsibilities:
+  - Design and operate model serving infrastructure, including inference pipelines
+    and scheduling systems
+  - Build and run centralised MCP servers, ensuring secure, reliable access to enterprise
+    tools and data
+  - Own platform reliability, performance and scalability across Kubernetes-based
+    infrastructure, including observability, capacity planning and incident response
+  - Build self-service tooling and APIs to enable teams to provision and consume AI
+    infrastructure independently
+  - Integrate platform services with existing technology stacks, ensuring clear interfaces,
+    monitoring and CI/CD
+  - Evaluate and adopt open-source technologies and apply emerging best practices
+    to improve the platform
+  use_cases:
+  - On-prem open model inference and serving for quantitative finance research
+  - Centralised MCP server infrastructure for secure, governed access to enterprise
+    tools and data
+  - Secure sandboxing for autonomous AI agents in a regulated financial environment
+  - AI developer experience tooling to enable firm-wide AI innovation
+  - Self-service AI infrastructure provisioning for engineering and quant teams
+  skills:
+    genai: [MCP]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Kubernetes, Docker, Terraform, CI/CD, Model serving and inference, Prometheus,
+      Grafana, OpenTelemetry]
+    languages: [C#, Python]
+    domains: [Quantitative finance]
+    other: [Distributed systems, Sandboxing and workload isolation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8921898'
+  extracted_at: '2026-04-22T14:01:10.831037'

@@ -1,0 +1,191 @@
+job_id: 9118061
+title: Principal Software Development Engineer - Gen AI
+company: Expedia Group
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - AWS
+  - Java
+  - Kotlin
+  - Kubernetes
+  - Llms
+  - Microservices
+  - Ml
+  - Python
+  - TensorFlow
+company_size: 16,000 Employees
+description: |
+  Expedia Group brands power global travel for everyone,
+  everywhere. We design cutting-edge tech to make travel
+  smoother and more memorable, and we create groundbreaking
+  solutions for our partners. Our diverse, vibrant, and
+  welcoming community is essential in driving our success.
+  
+  Why Join Us?
+  
+  To shape the future of travel, people must come first.
+  Guided by our Values and Leadership Agreements, we foster an
+  open culture where everyone belongs, differences are
+  celebrated and know that when one of us wins, we all win.
+  
+  We provide a full benefits package, including exciting
+  travel perks, generous time-off, parental leave, a flexible
+  work model (with some pretty cool offices), and career
+  development resources, all to fuel our employees' passion
+  for travel and ensure a rewarding career journey. We’re
+  building a more open world. Join us.
+  
+  Introduction to the Team
+  
+  At Expedia Group, our Finance Engineering team is
+  reimagining the systems and data backbone that power
+  corporate and business-critical accounting functions.
+  
+  We are hiring a Principal GenAI Engineer to build
+  production-grade AI systems that accelerate real business
+  workflows. You will work across teams to understand domain
+  problems, identify high‑impact opportunities for AI, and
+  deliver scalable, secure, and observable systems using LLMs,
+  retrieval (RAG), agentic workflows, and ML. This is a
+  principal-level role: you will set technical direction,
+  define “golden paths,” and raise engineering standards for
+  how GenAI is built and operated across the organisation.
+  
+  In this role, you will:
+  
+  - Platform Architecture & Scalability: Design and implement
+    cloud‑native, cost‑efficient GenAI architectures
+    (services, APIs, data paths, and infrastructure) that are
+    production-ready, observable, and resilient.
+  - GenAI Platform Enablement: Create shared capabilities such
+    as model routing/gateways, prompt/config management,
+    retrieval services, evaluation harnesses, and libraries so
+    multiple product teams can ship consistently.
+  - Production Performance & Resilience: Tackle deployment
+    realities including latency/throughput optimization,
+    caching strategies, rate limiting, multi‑tenant isolation,
+    failure handling, and “safe fallbacks” when models or
+    dependencies degrade.
+  - Reliability, Guardrails & Trust: Implement techniques to
+    reduce hallucinations and variability via grounding,
+    structured outputs, tool use, and robust guardrails.
+    Ensure systems are testable, measurable, and maintainable
+    over time.
+  - Retrieval & Knowledge Systems (RAG): Build ingestion and
+    retrieval pipelines (chunking, embeddings, metadata,
+    hybrid retrieval, reranking) so LLMs can answer with
+    evidence/citations and predictable quality.
+  - Workflow Orchestration & Agentic Systems: Design multi‑step
+    and multi‑agent workflows for complex tasks
+    (triage/routing, map‑reduce analysis,
+    reflection/verification loops), using
+    workflow/orchestration frameworks where helpful (e.g.,
+    n8n,Temporal, AWS Step Functions), including state
+    management and error recovery.
+  - Tooling, Integrations & Controls: Implement a secure tool
+    registry and integrations so agents can call deterministic
+    tools
+  - (SQL/querying, calculators, internal APIs, automation
+    actions) with appropriate constraints and human approval
+    flows where required.
+  - ML Collaboration & Model Integration: Collaborate with data
+    scientists and ML engineers when problems require
+    specialized
+  - ML models (forecasting, anomaly detection, classification,
+    ranking). You will help turn models into reliable services
+    and integrate them into workflows.
+  - Evaluation, Testing & Red Teaming: Define offline and online
+    evaluation strategies (golden datasets, regression
+    testing, LLM- as-judge where appropriate) and run
+    safety/robustness testing before release.
+  - Governance, Security & Access Control: Design autonomous
+    systems with security by default—agent identity,
+    least‑privilege access, secret handling, data
+    classification, audit trails, and strong controls around
+    tool execution. Ensure solutions meet enterprise standards
+    for governance, privacy, and responsible AI.
+  - Metrics, Measurement & Business Impact: Define success
+    metrics up front and instrument systems end‑to‑end
+    (quality, latency, cost, adoption). Use data to prioritize
+    improvements and communicate impact to stakeholders.
+  - Prototype-to-Production Execution: Lead proof‑of‑concepts
+    and drive the transition into hardened, supported
+    products— defining scope, success metrics, milestones, and
+    operational readiness.
+  
+  Experience and Qualifications:
+  
+  Minimum Qualifications:
+  
+  - Bachelor’s or Master’s in Computer Science, Engineering,
+    Mathematics, or a related field; or equivalent related
+    professional experience.
+  - 12+ years of experience developing production-quality code
+    in a professional software engineering role.
+  - 3+ years of experience focused on AI/ML and/or building
+    production LLM systems.
+  - Strong background in distributed systems and platform
+    architecture (e.g., Kubernetes, AWS, microservices)
+  
+  Preferred Qualifications:
+  
+  - Experience leading high-performing engineering teams and
+    cross-team technical initiatives.
+  - Proficiency in applying AI to practical technology
+    solutions, including ML/deep learning experience (e.g.,
+    TensorFlow) and strong Python skills.
+  - Experience in backend development using Java and Kotlin.
+  - Experience establishing standards for operational
+    excellence, reliability, and code quality at a multi-
+    project level.
+  - Proven ability to mentor other engineers and guide
+    technology choices across teams.
+  
+  
+  
+  Accommodation requests
+  
+  If you need assistance with any part of the application or
+  recruiting process due to a disability, or other physical or
+  mental health conditions, please reach out to our Recruiting
+  Accommodations Team through the Accommodation Request.
+  
+  We are proud to be named as a Best Place to Work on
+  Glassdoor in 2024 and be recognized for award-winning
+  culture by organizations like Forbes, TIME, Disability:IN,
+  and others.
+  
+  Expedia Group's family of brands includes: Brand Expedia®,
+  Hotels.com®, Expedia® Partner Solutions, Vrbo®, trivago®,
+  Orbitz®, Travelocity®, Hotwire®, Wotif®, ebookers®,
+  CheapTickets®, Expedia Group™ Media Solutions, Expedia Local
+  Expert®, CarRentals.com™, and Expedia Cruises™. © 2024
+  Expedia, Inc. All rights reserved. Trademarks and logos are
+  the property of their respective owners. CST: 2029030-50
+  
+  Employment opportunities and job offers at Expedia Group
+  will always come from Expedia Group’s Talent Acquisition and
+  hiring teams. Never provide sensitive, personal information
+  to someone unless you’re confident who the recipient is.
+  Expedia Group does not extend job offers via email or any
+  other messaging tools to individuals with whom we have not
+  made prior contact. Our email domain is @expediagroup.com.
+  The official website to find and apply for job openings at
+  Expedia Group is careers.expediagroup.com/jobs.
+  
+  Expedia is committed to creating an inclusive work
+  environment with a diverse workforce. All qualified
+  applicants will receive consideration for employment without
+  regard to race, religion, gender, sexual orientation,
+  national origin, disability or age.
+industries:
+  - AdTech
+  - eCommerce
+  - Information Technology
+  - Travel
+  - Generative AI
+posted_date: 2026-04-22
+url: "https://builtin.com/job/principal-software-development-engineer-gen-ai/9118061"
+source: Built In

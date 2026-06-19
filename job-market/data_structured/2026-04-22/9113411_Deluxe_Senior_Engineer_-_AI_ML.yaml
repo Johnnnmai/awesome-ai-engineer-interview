@@ -1,0 +1,58 @@
+company:
+  name: Deluxe
+  stage: Public
+  focus: Enterprise payments, data, and technology solutions
+position:
+  title: Senior Engineer - AI & ML
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building the underlying AI/ML
+      platform infrastructure and tooling that supports other
+      teams (data scientists, ML engineers) to develop, deploy,
+      and monitor models. The engineer builds the platform and
+      automation but does not directly build, train, or fine-tune
+      models themselves. The role is platform/infrastructure-
+      centric rather than model-centric.
+  responsibilities:
+  - Lead the architecture and engineering of the enterprise AI and ML platform supporting
+    model development, training, deployment, and monitoring
+  - Define scalable infrastructure patterns for AI workloads including batch and real-time
+    inference environments
+  - Establish best practices for ML lifecycle management including model versioning,
+    deployment, monitoring, and retraining
+  - Build and evolve infrastructure supporting large-scale data processing and AI
+    model experimentation
+  - Promote adoption of AI-driven engineering practices and integrate generative AI
+    and ML models into platform capabilities
+  - Design and standardize MLOps frameworks for training, deploying, and monitoring
+    machine learning models
+  - Establish monitoring and observability for AI models, pipelines, and platform
+    services
+  - Mentor engineers and data scientists on best practices for building scalable AI
+    systems
+  use_cases:
+  - Enterprise AI/ML platform for model development lifecycle management
+  - Scalable cloud infrastructure for batch and real-time AI inference
+  - MLOps automation for model training, deployment, and monitoring at scale
+  - Internal developer platform supporting ML workflows and experimentation
+  - Integration of generative AI and intelligent automation into enterprise platform
+    capabilities
+  skills:
+    genai: [Generative AI / LLM systems]
+    ml: []
+    web: []
+    databases: []
+    data: [Data processing platforms]
+    cloud: [AWS, Cloud architecture]
+    ops: [Kubernetes, MLOps, ML lifecycle management, Docker, Distributed systems,
+      CI/CD, Model deployment and monitoring, Container orchestration, Observability
+        and monitoring]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9113411'
+  extracted_at: '2026-04-22T13:39:25.414489'

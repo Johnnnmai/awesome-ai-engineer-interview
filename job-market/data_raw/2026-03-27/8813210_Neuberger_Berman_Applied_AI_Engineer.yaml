@@ -1,0 +1,123 @@
+job_id: 8813210
+title: Applied AI Engineer
+company: Neuberger Berman
+location: New York, USA
+work_type: FULL_TIME
+level: Entry level
+skills:
+  - Airflow
+  - AWS
+  - Docker
+  - Fastapi
+  - Kubernetes
+  - Python
+company_size: 2,667 Employees
+description: |
+  We are seeking a highly motivated Applied AI Engineer to
+  contribute to our data science and Ai investment solutions
+  initiatives. This position is open to recent graduates with
+  a strong engineering foundation and a genuine interest in
+  building production-grade AI systems. You will work closely
+  with applied AI researchers, data engineers, and equity
+  analysts to design, build, and maintain the backend
+  infrastructure that powers AI-driven investment research
+  tools. The successful candidate will bring engineering
+  rigor, attention to detail, and a curiosity for how modern
+  AI capabilities can be operationalized into reliable,
+  scalable systems.
+  
+  Responsibilities
+  
+  - Design and manage automated data pipelines and workflow
+    orchestration (e.g., Airflow) to ensure timely, reliable
+    delivery of structured investment data
+  - Containerize and deploy applications using Docker and
+    Kubernetes, supporting a robust and scalable AI
+    infrastructure on AWS
+  - Build and maintain RESTful backend APIs using FastAPI to
+    serve AI-powered features and data services to internal
+    research teams
+  - Integrate and maintain connections to LLM APIs (e.g.,
+    OpenAI, Anthropic Claude) and agentic AI frameworks,
+    ensuring reliable and cost-efficient usage
+  - Implement CI/CD pipelines and apply infrastructure-as-code
+    practices to improve deployment reliability and
+    engineering velocity
+  - Collaborate cross-functionally with researchers and analysts
+    to translate requirements into well-tested, maintainable
+    backend systems
+  
+  Qualifications:
+  
+  - Bachelor's or Master's degree in Computer Science or a
+    related technical field
+  - Strong proficiency in Python with a solid understanding of
+    engineering best practices, including code
+    maintainability, testing, and version control
+  - Familiarity with backend frameworks (FastAPI or similar) and
+    experience building or consuming RESTful APIs
+  - Exposure to containerization (Docker) and cloud platforms
+    (AWS preferred); Kubernetes experience is a plus
+  - Understanding of CI/CD principles and workflow automation
+    tools (e.g., Airflow, cron)
+  - Exceptional attention to detail and a methodical approach to
+    debugging and system design
+  - Familiarity with LLM APIs or AI agent architectures is a
+    plus, with hands-on exposure through coursework, research,
+    or personal projects preferred
+  
+  #LI-LN1
+  
+  #LI-Onsite
+  
+  Visa sponsorship may be available for qualified candidates.
+  Sponsorship decisions will be made in accordance with
+  company policy and applicable laws.
+  
+  Compensation Details
+  
+  The salary range for this role is $125,000-$150,000. This is
+  the lowest to highest salary we in good faith believe we
+  would pay for this role at the time of this posting. We may
+  ultimately pay more or less than the posted range, and the
+  range may be modified in the future. This range is only
+  applicable for jobs to be performed in the job posting
+  location. An employee’s pay position within the salary range
+  will be based on several factors including, but limited to,
+  relevant education, qualifications, certifications,
+  experience, skills, seniority, geographic location, business
+  sector, performance, shift, travel requirements, sales or
+  revenue-based metrics, market benchmarking data, any
+  collective bargaining agreements, and business or
+  organizational needs. This job is also eligible for a
+  discretionary bonus, which, along with base salary and
+  retirement contributions, is part of our total comprehensive
+  package. We offer a comprehensive package of benefits
+  including paid time off, medical/dental/vision insurance,
+  retirement, life insurance and other benefits to eligible
+  employees.
+  
+  Note: No amount of pay is considered to be wages or
+  compensation until such amount is earned, vested, and
+  determinable. The amount and availability of any bonus,
+  commission, production, or any other form of compensation
+  that are allocable to a particular employee remains in the
+  Company's sole discretion unless and until paid and may be
+  modified at the Company’s sole discretion, consistent with
+  the law.
+  
+  Neuberger Berman is an equal opportunity employer. The Firm
+  and its affiliates do not discriminate in employment because
+  of race, creed, national origin, religion, age, color, sex,
+  marital status, sexual orientation, gender identity,
+  disability, citizenship status or protected veteran status,
+  or any other characteristic protected by local, state, or
+  federal laws, rules, or regulations. If you would like to
+  contact us regarding the accessibility of our website or
+  need assistance completing the application process, please
+  contact onlineaccommodations@nb.com.
+  
+  Learn about the Applicant Privacy Notice.
+posted_date: 2026-03-19
+url: "https://builtin.com/job/applied-ai-engineer/8813210"
+source: Built In

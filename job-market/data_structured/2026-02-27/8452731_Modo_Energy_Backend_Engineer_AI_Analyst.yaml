@@ -1,0 +1,48 @@
+company:
+  name: Modo Energy
+  stage: Series A
+  focus: |-
+    Benchmarking and valuing electrification assets for energy
+    transition
+position:
+  title: Backend Engineer (AI Analyst)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying LLM-
+      powered agentic systems, including LangChain orchestration,
+      RAG pipelines, tool design, and prompt engineering. The
+      engineer will work hands-on with LLMs to create an AI
+      analyst product that retrieves data and generates answers.
+  responsibilities:
+  - Building and improving agentic backend with LangChain-based orchestration, tool
+    design, retrieval pipelines, and prompt engineering running on FastAPI
+  - Designing tools (MCPs, CLIs, APIs) that enable LLMs to work with energy market
+    data effectively including guardrails and token budget optimization
+  - Building monitoring and evaluation infrastructure for AI systems
+  - Collaborating with domain experts (energy analysts, data scientists) to ensure
+    system accuracy and usefulness
+  - Managing AWS infrastructure and deployment using Terraform across full development
+    lifecycle
+  use_cases:
+  - Natural language data interrogation for energy market data
+  - Retrieval of energy research articles and publications
+  - Live energy market data querying and analysis
+  - Energy asset benchmarking and valuation insights
+  - Automated domain-expert quality answers for energy transition questions
+  skills:
+    genai: [LangChain, RAG, prompt engineering, agents, MCP, tool calling]
+    ml: []
+    web: [FastAPI, REST APIs]
+    databases: [Postgres]
+    data: []
+    cloud: [AWS]
+    ops: [Terraform, Docker, monitoring]
+    languages: [Python]
+    domains: [energy markets]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8452731'
+  extracted_at: '2026-03-03T11:48:22.183226'

@@ -1,0 +1,50 @@
+company:
+  name: HighLevel
+  stage: Growth/Late Stage
+  focus: |-
+    AI-powered white-label sales & marketing SaaS platform for
+    agencies and businesses
+position:
+  title: Software Development Engineer III - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires expertise in prompt engineering and
+      orchestrating multi-agent systems as a core workflow
+      requirement. The "AI-First Mindset" is explicitly described
+      as using AI as "the backbone of your workflow" and
+      orchestrating multi-agent systems throughout the SDLC,
+      indicating hands-on work with AI/LLM systems.
+  responsibilities:
+  - Define requirements and translate business goals into technical specifications
+    using AI assistance
+  - Design and build intuitive, high-fidelity user interfaces using AI-assisted design
+    tools
+  - Implement full-stack features across the entire stack leveraging AI coding agents
+    for development
+  - Design and orchestrate AI-driven test suites for automated quality assurance
+  - Lead new initiatives from concept to production-ready features with rapid iteration
+  - Collaborate with product, design, senior engineers, and QA for validation before
+    deployment
+  use_cases:
+  - AI-powered sales and marketing automation platform
+  - White-label SaaS solution for agencies and businesses
+  - Lead capture, nurturing, and conversion systems
+  - Multi-channel messaging and conversation management
+  - Customer engagement and digital presence management
+  skills:
+    genai: [Prompt Engineering, Multi-Agent Systems, AI Coding Agents]
+    ml: []
+    web: [Vue.js, React.js, Angular, Node.js, Full-Stack Development, UI/UX Design]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8413620'
+  extracted_at: '2026-03-03T12:55:50.331570'

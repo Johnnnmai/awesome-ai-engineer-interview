@@ -1,0 +1,50 @@
+company:
+  name: NICE
+  stage: Public
+  focus: |-
+    Customer experience, financial crime detection, and public
+    safety software
+position:
+  title: Senior Software Engineer, Actimize (Python, AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience with LLMs, Agentic AI
+      frameworks, LangChain/LangGraph, and AWS Bedrock. The
+      candidate will build AI-driven platform initiatives and work
+      with embeddings/vector databases, which involves
+      implementing and deploying AI/LLM solutions directly.
+  responsibilities:
+  - Design and develop quality technical solutions in AWS cloud and AI that satisfy
+    business requirements and meet corporate architectural standards
+  - Develop solid unit, integration, and automation tests according to organizational
+    standards
+  - Assist in troubleshooting and maintenance of existing software applications and
+    identify improvements
+  - Develop technical models and design for assigned components
+  - Contribute to and drive technological and architectural decisions
+  - Work with Scrum Team and stakeholders to influence decision making and support
+    project teams
+  - Contribute to the advancement and improvement of Agile practices within the organization
+  use_cases:
+  - AI-driven platform for Actimize cloud-based solutions
+  - Financial crime detection and compliance
+  - Customer experience management systems
+  - Agentic AI implementations using LLM frameworks
+  skills:
+    genai: [LLMs, Agentic AI frameworks, LangChain, LangGraph, Embeddings]
+    ml: []
+    web: [REST APIs, React, Angular, Vue.js]
+    databases: [AWS DynamoDB, FAISS, Pinecone, OpenSearch]
+    data: []
+    cloud: [AWS, AWS EC2, AWS Lambda, AWS S3, AWS API Gateway, AWS IAM, AWS RDS, AWS
+        Bedrock]
+    ops: [Terraform, Docker, Jenkins]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8804575'
+  extracted_at: '2026-03-27T14:10:09.757069'

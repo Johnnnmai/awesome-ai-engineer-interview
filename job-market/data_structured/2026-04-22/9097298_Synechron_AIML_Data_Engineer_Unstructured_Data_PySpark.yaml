@@ -1,0 +1,59 @@
+company:
+  name: Synechron
+  stage: Public
+  focus: |-
+    Global digital consulting firm for financial services and
+    technology
+position:
+  title: AI/ML Data Engineer | Unstructured Data, PySpark, Python, Vector Search,
+    RAG Architectures, Cloud (GCP/AWS)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building RAG architectures,
+      engineering vector embeddings, implementing NLP models, and
+      integrating data workflows with LLM pipelines. While it has
+      strong data engineering components, the core responsibility
+      is enabling AI/ML systems through unstructured data
+      processing, semantic search, and RAG — making it an ai-first
+      role.
+  responsibilities:
+  - Build and maintain scalable data pipelines for unstructured content ensuring high
+    data quality and performance
+  - Develop algorithms for document classification, cleansing, and enrichment to feed
+    AI/ML systems
+  - Integrate data workflows with LLM pipelines supporting RAG architectures for semantic
+    search and QA systems
+  - Engineer and optimize vector embeddings, document chunking, and metadata tagging
+    for AI applications
+  - Collaborate with AI architects, data scientists, and platform teams to design
+    end-to-end AI solutions
+  - Implement automation, monitoring, and security best practices for system reliability
+    and compliance
+  - Support project lifecycle activities including proof-of-concept, testing, deployment,
+    and monitoring
+  - Mentor team members and conduct knowledge sharing on data engineering and AI best
+    practices
+  use_cases:
+  - Document classification and enrichment from unstructured sources (PDFs, emails,
+    forms)
+  - Semantic search and retrieval over enterprise unstructured data
+  - Question-Answering systems powered by RAG architectures
+  - NLP-driven document processing at scale using OCR and text extraction
+  - Enterprise AI applications in financial services, healthcare, and other industries
+  skills:
+    genai: [Transformers, LangChain, RAG, Prompt Engineering, Vector Embeddings]
+    ml: [Hugging Face, Spark MLlib, LLM Fine-Tuning]
+    web: []
+    databases: [FAISS, Vector Databases, Redis, MongoDB, PostgreSQL, MySQL, BigQuery]
+    data: [PySpark, Apache Airflow, Prefect]
+    cloud: [GCP, Dataflow, AWS, Azure]
+    ops: [Git, Jenkins, CI/CD, Datadog, Prometheus]
+    languages: [Python, SQL, Java]
+    domains: [NLP]
+    other: [OCR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9097298'
+  extracted_at: '2026-04-22T13:51:37.187576'

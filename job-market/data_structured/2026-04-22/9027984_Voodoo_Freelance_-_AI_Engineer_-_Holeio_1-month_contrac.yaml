@@ -1,0 +1,52 @@
+company:
+  name: Voodoo
+  stage: Late Stage (7B downloads, 800 employees)
+  focus: Mobile gaming and apps publisher with top casual games
+position:
+  title: Freelance - AI Engineer - Hole.io (1-month contract)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on prototyping and integration of
+      AI tools (LLMs, Generative Art, auto-testing) into
+      production workflows, building proof-of-concepts, and
+      designing custom AI-driven workflows. While it has a
+      consulting/audit component, the role explicitly requires
+      building and demonstrating AI solutions, making it ai-first.
+  responsibilities:
+  - Audit current game development lifecycle from asset creation and coding to QA
+    and marketing to identify AI-solvable bottlenecks
+  - Develop a strategic, prioritized roadmap of AI integrations including LLMs, Generative
+    Art, and Auto-testing for highest ROI
+  - Design custom AI-driven workflows and tool recommendations to automate repetitive
+    tasks without sacrificing quality
+  - Build hands-on proof-of-concept AI tools integrable into the Unity-based production
+    environment
+  - Transfer knowledge to senior leadership and technical teams to maintain and evolve
+    AI strategies long-term
+  - Evaluate and distinguish genuine AI utility from hype for a fast-moving gaming
+    studio
+  use_cases:
+  - Automating asset creation and creative production workflows in game development
+  - AI-driven auto-testing and QA for mobile games
+  - Generative art and media production for game assets
+  - LLM-powered coding assistance and automation in Unity/C# environment
+  - Marketing optimization using AI tools
+  - Workflow automation to reduce repetitive developer and artist tasks
+  skills:
+    genai: [OpenAI API, Claude/Anthropic API, Stable Diffusion, Midjourney, LLMs,
+      Prompt Engineering, Generative Media, AI Coding Assistants]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C#, Python]
+    domains: []
+    other: [Unity]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9027984'
+  extracted_at: '2026-04-22T14:11:49.312934'

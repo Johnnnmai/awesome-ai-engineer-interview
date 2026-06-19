@@ -1,0 +1,149 @@
+job_id: 8853467
+title: Software Engineer - AI Agents
+company: LiveFlow
+location: New York, USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - Elixir
+  - Next.Js
+  - Phoenix
+  - Terraform
+  - Typescript
+company_size: 52 Employees
+description: |
+  About LiveFlow
+  
+  LiveFlow is building the next-generation accounting and
+  finance platform - enabling lean finance teams to run
+  massive enterprises.
+  
+  We’ve raised over $21M from top-tier investors including YC,
+  YC Continuity, Valar, Seedcamp, WndrCo, Moonfire, and
+  Bradley Horowitz (VP Product, Google).
+  
+  Today, thousands of companies rely on LiveFlow to streamline
+  their financial workflows, with hundreds of 5/5 ratings on
+  G2.
+  
+  Our founding team previously worked at Revolut, one of
+  Europe’s fastest-growing fintechs.
+  
+  Why Join Us
+  
+  You’ll help shape not just the product - but how we build
+  it.
+  
+  We’re a team that values ownership, speed, and thoughtful
+  iteration. We’re looking for people who ask great questions,
+  challenge assumptions, and care deeply about building
+  something customers genuinely love.
+  
+  You’ll work closely with product, design, and customers,
+  operating with a high degree of autonomy - while
+  contributing to a culture that’s collaborative, ambitious,
+  and constantly evolving.
+  
+  The Role
+  
+  We’re hiring Software Engineers to build AI agents that
+  power the next generation of LiveFlow.
+  
+  This is a full-stack role at its core - but with a strong
+  focus on designing and developing agent-driven systems that
+  are embedded directly into the product.
+  
+  You’ll work on AI-powered features, thinking deeply about
+  how agents behave, interact with financial data, and deliver
+  reliable, high-impact outcomes for users.
+  
+  This isn’t about bolting AI onto existing workflows - it’s
+  about reimagining how financial software operates with AI at
+  its core.
+  
+  What You’ll Work On
+  
+  - Building AI agents that are deeply integrated into the
+    product
+  - Designing systems that combine LLMs, workflows, and
+    structured financial data
+  - Developing a real-time, collaborative financial workspace
+  - Designing and scaling APIs and backend systems
+  - Integrating with multiple financial data providers
+  - Crafting simple, intuitive abstractions for complex
+    financial workflows
+  - Ensuring high standards of data security, reliability, and
+    compliance
+  
+  How We Use AI
+  
+  In Engineering:
+  
+  - We experiment aggressively with tools like Cursor, Claude,
+    and PR-based AI agents
+  - We’re investing in Claude skills, sub-agents, and custom
+    command workflows
+  - Engineers are encouraged to bring their own tools, test new
+    approaches, and share what works
+  - We optimize for speed, leverage, and iteration, not rigid
+    processes
+  
+  In the Product:
+  
+  - We’re building AI features that are deeply embedded into
+    financial workflows
+  - Focus is on accuracy, usefulness, and real customer impact
+  - We care about outcomes over hype - everything we ship needs
+    to work in production
+  
+  Our Stack
+  
+  - Backend: Elixir / Phoenix
+  - Frontend: Next.js, TypeScript
+  - Infrastructure: AWS, Terraform
+  
+  We don’t expect experience in everything.
+  
+  If you’ve worked with functional languages, frameworks like
+  Rails/Django, or modern frontend stacks, you’ll ramp
+  quickly. What matters most is your ability to learn, adapt,
+  and build.
+  
+  What We’re Looking For
+  
+  - Strong software engineering fundamentals (frontend, backend,
+    or full-stack)
+  - Experience building or experimenting with AI agents, LLM-
+    powered systems, or workflow automation (or strong
+    interest in doing so)
+  - Product mindset - you care about users and outcomes, not
+    just implementation
+  - Ability to operate in fast-paced, ambiguous environments
+  - High ownership and willingness to wear multiple hats
+  - Strong intuition for when to follow best practices - and
+    when to rethink them
+  
+  Perks & Benefits
+  
+  - Competitive salary + equity
+  - Health insurance
+  - Pension plan
+  - Latest tech (MacBook, monitors, etc.)
+  - Learning budget (books, courses, conferences)
+  - Unlimited vacation
+  
+  Interview Process
+  
+  - Intro call
+  - Technical assessment
+  - Technical interview
+  - Career history interview
+  - Founder interview
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-03-24
+url: "https://builtin.com/job/software-engineer-ai-agents/8853467"
+source: Built In

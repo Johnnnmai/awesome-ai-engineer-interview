@@ -1,0 +1,88 @@
+job_id: 8601552
+title: Applied AI Engineer
+company: Eagle
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Cad File Formats
+  - Computer Vision
+  - Fine-Tuning
+  - Huggingface
+  - Llms
+  - Multimodal Models
+  - Prompt Engineering
+  - Python
+  - PyTorch
+  - Rag
+company_size: 5 Employees
+description: |
+  About Eagle
+  
+  - Eagle is an AI native platform on a mission to unleash
+    engineering services for the built environment.
+  - We acquire and scale world-class engineering firms by
+    putting proprietary technology into the hands of the
+    engineers who design our nation’s critical infrastructure
+    (think water systems, power utilities, bridges, and more).
+  - Our ambition is to create the first AI-native engineering
+    design firm to meet the country's generational energy,
+    climate, and infrastructure needs.
+  - We're backed by Lightspeed Venture Partners, a global
+    venture capital firm.
+  - https://www.eagleeng.com/
+  
+  Eagle was founded by Mayank (Penn, ex-Bloomberg, ex-Ethic)
+  and Sohum (Penn M&T, ex-Long Ridge)
+  
+  The Role
+  
+  - Eagle is seeking an Applied AI Engineer to build systems
+    that automate the most time-consuming parts of civil
+    engineering. Our goal is unleash civil, structural, and
+    MEP engineers to focus on design, not documentation.
+  - You'll work alongside civil engineers daily, translating
+    real-world infrastructure challenges into production AI
+    solutions for water, transportation, and utility projects.
+  
+  What You'll Do
+  
+  - Collaborate directly with civil engineers to understand
+    domain-specific workflows and translate them into AI-
+    powered tools
+  - Build AI systems that automate drafting, calculations, and
+    documentation — freeing engineers to focus on higher-value
+    design work
+  - Develop spatial reasoning models that can interpret
+    blueprints and generate preliminary designs for standard
+    infrastructure projects
+  - Create agents that synthesize regulatory standards, run
+    modeling simulations, and automate repetitive engineering
+    tasks
+  - Integrate LLMs and multimodal models into production
+    workflows that serve real engineering teams
+  - Own the full lifecycle — from prototyping and
+    experimentation to deployment and iteration
+  
+  What You'll Bring
+  
+  - 5+ years of experience in software engineering, with 2+
+    years focused on applied AI/ML
+  - Hands-on experience building and deploying LLM-based
+    applications in production
+  - Strong Python skills and familiarity with ML frameworks
+    (PyTorch, HuggingFace, etc.)
+  - Experience with RAG architectures, prompt engineering,
+    and/or fine-tuning
+  - Comfort with ambiguity—you can take a fuzzy problem and
+    figure out what to build
+  - Bonus: Experience with computer vision, CAD file formats, or
+    spatial data
+  - Bonus: Background in engineering, AEC, or other technical
+    domains
+industries:
+  - Software
+  - Design
+posted_date: 2026-03-24
+url: "https://builtin.com/job/applied-ai-engineer/8601552"
+source: Built In

@@ -1,0 +1,52 @@
+company:
+  name: Beckman Coulter Diagnostics
+  stage: Public
+  focus: Life sciences, diagnostics, and biotechnology products
+position:
+  title: Senior UI Software Engineer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a frontend/UI engineering role that builds user
+      interfaces for AI-powered applications. The role involves
+      integrating with AI endpoints and APIs, but does not build,
+      train, fine-tune, or deploy AI/ML models directly. The
+      engineer works ON the UI layer, not ON the AI systems
+      themselves.
+  responsibilities:
+  - Lead the design and implementation of user interfaces for AI-powered applications,
+    ensuring seamless integration of complex data and workflows
+  - Create wireframes, prototypes, and high-fidelity UI designs that translate business
+    requirements into intuitive experiences
+  - Collaborate with product managers, engineers, and data scientists to translate
+    business and user requirements into effective UI/UX solutions
+  - Conduct user research, usability testing, and iterative prototyping to validate
+    design concepts and enhance user satisfaction
+  - Integrate frontend components with APIs, AI endpoints, cloud services, and data
+    sources
+  - Develop and maintain design systems, style guides, and UI component libraries
+    to ensure consistency and scalability across products
+  - Stay current with industry trends, emerging technologies, and best practices in
+    UI/UX and AI
+  use_cases:
+  - AI-powered applications for life sciences and diagnostics
+  - Chatbots and conversational interfaces
+  - Agent-based systems
+  - Data-driven applications for healthcare and biotechnology
+  - Digital experiences for scientific and diagnostic workflows
+  skills:
+    genai: [LangChain, Semantic Kernel, LLM integrations, Agent frameworks]
+    ml: []
+    web: [React, HTML5, CSS3, Tailwind CSS, Material UI, Bootstrap, REST APIs]
+    databases: []
+    data: []
+    cloud: [Azure cloud services, Azure OpenAI, AWS Bedrock]
+    ops: [CI/CD, DevOps]
+    languages: [TypeScript, Node.js, Python, C#, Java]
+    domains: []
+    other: [Figma, Sketch, Adobe XD]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8335652'
+  extracted_at: '2026-03-03T12:56:31.778067'

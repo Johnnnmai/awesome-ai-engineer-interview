@@ -1,0 +1,54 @@
+company:
+  name: CoreWeave
+  stage: Public
+  focus: |-
+    Cloud infrastructure platform for AI compute and machine
+    learning
+position:
+  title: AI Engineer- Gen AI/SWE- Weights & Biases
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, implementing, and
+      evaluating LLM applications and agents with RAG, tool use,
+      and multi-step planners. The position requires hands-on work
+      deploying GenAI workflows end-to-end (prompting → RAG →
+      tools/agents → eval → serve), making it clearly ai-first
+      rather than support.
+  responsibilities:
+  - Ship end-to-end GenAI workflows from prompting through RAG, tools/agents, evaluation,
+    and serving with reproducible artifacts
+  - Build agentic systems with tool use, function calling, multi-step planners, MCP
+    servers/clients, and secure integrations
+  - Design evaluation harnesses including RAG/agent evals, golden sets, regression
+    tests, and telemetry for continuous improvement
+  - Publish engineering artifacts including code, documentation, talks, and tutorials
+    to engage with OSS and customer engineers
+  - Partner with product and solutions teams to launch LLM-powered features with defined
+    latency, cost, and SLO targets
+  - Run growth experiments to track usage of Weights & Biases products from built
+    artifacts
+  use_cases:
+  - LLM-powered application development and deployment
+  - Agentic systems with tool orchestration and multi-step planning
+  - RAG implementations with vector search and retrieval
+  - Developer enablement through reference implementations and tutorials
+  - ML experiment tracking and observability with Weights & Biases
+  skills:
+    genai: [LLM applications, RAG, agents, tool use, function calling, MCP servers/clients,
+      prompt engineering, embeddings, rerankers, AI SDKs, agent frameworks]
+    ml: []
+    web: [system design, streaming]
+    databases: [vector databases, hybrid search]
+    data: []
+    cloud: []
+    ops: [evaluation harnesses, CI/CD, observability, Weights & Biases, testing, queueing,
+      caching]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8643571'
+  extracted_at: '2026-03-27T14:40:22.089940'

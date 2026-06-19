@@ -1,0 +1,54 @@
+company:
+  name: Tether.io
+  stage: Late-stage (established, market leader in stablecoins)
+  focus: |-
+    Digital finance, stablecoins, blockchain, and AI
+    infrastructure
+position:
+  title: Senior AI Inference Engineer (100% Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building and optimizing AI
+      inference systems—specifically the C++ runtime layer for
+      deploying LLMs and other models to edge devices using
+      llama.cpp and ggml. The engineer owns the inference
+      backbone, working hands-on with model deployment,
+      optimization, and runtime performance, making this squarely
+      an ai-first role.
+  responsibilities:
+  - Own and evolve the C++ inference backbone for QVAC's local AI stack, ensuring
+    fast and reliable model execution on user hardware
+  - Deploy machine learning models to edge devices using llama.cpp, ggml, and ONNX
+    frameworks
+  - Optimize runtime performance including startup behavior, memory pressure, throughput/latency
+    balance, and long-session stability
+  - Collaborate with researchers to transition models from research to production
+    environments
+  - Define and evolve core abstractions that inference features depend on, enabling
+    new capabilities without sacrificing performance
+  - Integrate AI features into existing products, enriching them with the latest ML
+    advancements
+  - Build infrastructure that enables private, on-device AI experiences for peer-to-peer
+    AI products
+  use_cases:
+  - On-device private AI inference for peer-to-peer products
+  - Edge deployment of LLMs and diffusion models on consumer hardware
+  - Local AI stack for QVAC platform enabling real-time model inference
+  - Peer-to-peer AI product experiences with local model execution
+  skills:
+    genai: []
+    ml: [ggml, ONNX, transformers, LLMs, Diffusion models, GPU architectures]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [llama.cpp, Vulkan, Metal, OpenCL, model deployment]
+    languages: [C++, JavaScript, TypeScript]
+    domains: []
+    other: [peer-to-peer technology]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9052682'
+  extracted_at: '2026-04-22T13:48:18.094412'

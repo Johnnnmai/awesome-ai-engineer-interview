@@ -1,0 +1,47 @@
+company:
+  name: Rescale
+  stage: null
+  focus: Digital engineering platform for HPC, AI, and R&D simulation
+position:
+  title: Software Engineer, Full Stack - AI & Data
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and building backend services
+      for generative AI capabilities, including LLM-backed APIs,
+      agents, and retrieval layers. The engineer will directly
+      implement and operate AI systems, not just support
+      infrastructure for others.
+  responsibilities:
+  - Design, build, and operate backend services for generative AI capabilities including
+    LLM-backed APIs, agents, retrieval and knowledge layers, and connectors to internal
+    and external systems
+  - Build and scale data infrastructure for file management and high-throughput data
+    flows between customer environments, cloud object storage, and compute clusters
+  - Work across the full stack from backend services to cloud infrastructure and occasional
+    UI changes to deliver end-to-end user-facing experiences
+  - Ensure reliability, performance, and cost optimization for data-intensive systems
+  - Collaborate with product, design, and other engineering teams on infrastructure
+    capabilities
+  use_cases:
+  - LLM-backed APIs and agents for engineering and scientific discovery
+  - Retrieval and knowledge layers for data management
+  - File management and data flow between customer environments and compute clusters
+  - Bring-your-own data patterns integration
+  - Connectors to internal and external engineering systems
+  skills:
+    genai: [LLMs, AI agents, RAG, Claude Code]
+    ml: []
+    web: []
+    databases: [Object storage, Relational databases, Caches]
+    data: [Queues/streams]
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, Docker]
+    languages: [Python, Java, Go]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8843988'
+  extracted_at: '2026-03-27T14:03:16.632933'

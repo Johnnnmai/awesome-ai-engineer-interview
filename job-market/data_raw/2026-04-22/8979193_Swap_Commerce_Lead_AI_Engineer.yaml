@@ -1,0 +1,129 @@
+job_id: 8979193
+title: Lead AI Engineer
+company: Swap Commerce
+location: London, GBR
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - Cloud Computing
+  - JavaScript
+  - Nestjs
+  - Node.js
+  - Observability Frameworks
+  - Python
+  - Serverless Computing
+  - Typescript
+  - Vector Databases
+company_size: 215 Employees
+description: |
+  Swap is the infrastructure behind modern agentic commerce.
+  The only AI-native platform connecting backend operations
+  with a forward-thinking storefront experience.
+  
+  Built for brands that want to sell anything - anywhere, Swap
+  centralizes global operations, powers intelligent workflows,
+  and unlocks margin-protecting decisions with real-time data
+  and capability. Our products span cross-border, tax,
+  returns, demand planning, and our next-generation agentic
+  storefront, giving merchants full transparency and the
+  ability to act with confidence.
+  
+  At Swap, we’re building a culture that values clarity,
+  creativity, and shared ownership as we redefine how global
+  commerce works.
+  
+  About the Role
+  
+  We are seeking a Lead AI Engineer generalist to build
+  robust, scalable conversational and autonomous AI agents in
+  e-commerce. You will own large parts of the architecture and
+  technical direction of our agent platform, building
+  production-ready systems that handle high-volume agent
+  workloads using modern JavaScript & Python frameworks. This
+  is a lead-level role responsible for setting engineering
+  standards, shaping platform architecture, and mentoring
+  other engineers while working closely with product and
+  design to bring intelligent agent experiences to life.
+  
+  Key Responsibilities
+  
+  - Own Agent Platform Architecture: Design and evolve
+    distributed systems for multi-agent orchestration using
+    JavaScript AI frameworks (Node, NestJS), serverless
+    compute platforms, and advanced state management. Define
+    best practices for reliability, scalability, and
+    extensibility.
+  - Build Agent Infrastructure: Develop production-grade agent
+    runtimes, orchestration layers, workflow engines, and tool
+    integrations. Ensure systems support high concurrency,
+    real-time interaction, and seamless backend integration.
+  - Agent Observability & Quality: Implement comprehensive
+    tracing, monitoring, and structured logging for real-time
+    performance tracking and conversation quality evaluation.
+    Build interactive dashboards and reporting interfaces for
+    stakeholders.
+  - Agent Communication & Workflows: Implement multi agent
+    harnesses, cloud endpoints, and real-time communication
+    systems.
+  - Performance & Platform Reliability: Implement advanced
+    caching strategies, high-availability patterns (99.9%+
+    uptime), CI/CD pipelines, and infrastructure-as-code. Lead
+    improvements in system performance, cost efficiency, and
+    developer experience.
+  - Technical Leadership: Set engineering standards for the
+    agent platform. Conduct architectural reviews, mentor
+    engineers, contribute to hiring, and partner cross-
+    functionally to align technical decisions with product
+    vision.
+  
+  What We’d Like to See
+  
+  - Experience: 6+ years in software engineering, with 1+ years
+    in AI/ML platform engineering focused on designing and
+    scaling production agent systems or high-traffic
+    conversational AI platforms.
+  - AI Frameworks: Expert experience with JavaScript-based AI
+    agent frameworks. Deep understanding of agent
+    orchestration, state management, tool usage patterns,
+    memory systems, and conversational AI design.
+  - Full Stack JavaScript/TypeScript: Advanced
+    Node.js/TypeScript with distributed systems, asynchronous
+    programming, event-driven architecture, and multi-agent
+    protocols. Strong experience building modern frontend
+    applications for real-time web interfaces.
+  - Observability & Reliability: Production experience with
+    observability frameworks, structured logging, APM
+    solutions, and evaluation pipelines. Experience building
+    internal analytics dashboards and developer tooling.
+  - Cloud & Infrastructure: Advanced experience with cloud AI
+    services, vector databases, serverless computing,
+    infrastructure automation, and modern deployment patterns
+    for JavaScript applications.
+  - Leadership: Demonstrated experience leading technical
+    initiatives, driving architecture decisions, mentoring
+    engineers, and influencing cross-functional teams.
+  
+  Benefits:
+  
+  - Competitive base salary
+  - Stock options in a high-growth startup
+  - Competitive PTO with public holidays additional
+  - Private Health
+  - Pension
+  - Wellness benefits
+  - Breakfast Mondays
+  
+  Diversity & Equal Opportunities:
+  
+  We embrace diversity and equality in a serious way. We are
+  committed to building a team with a variety of backgrounds,
+  skills, and views. The more inclusive we are, the better our
+  work will be. Creating a culture of equality isn't just the
+  right thing to do; it's also the smart thing.
+industries:
+  - eCommerce
+  - Automation
+posted_date: 2026-04-07
+url: "https://builtin.com/job/lead-ai-engineer/8979193"
+source: Built In

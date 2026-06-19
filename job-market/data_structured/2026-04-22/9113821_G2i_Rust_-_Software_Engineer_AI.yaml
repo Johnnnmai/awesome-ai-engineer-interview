@@ -1,0 +1,47 @@
+company:
+  name: G2i
+  stage: null
+  focus: |-
+    Contract platform connecting engineers with AI training
+    projects
+position:
+  title: Rust - Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly training LLMs through RLHF — the
+      engineer ranks, edits, and justifies code outputs that are
+      converted into reward signals for reinforcement learning.
+      While not building model architectures, this is hands-on
+      work tuning and improving LLM behavior, making it ai-first.
+  responsibilities:
+  - Compare and rank multiple code snippets across programming languages, explaining
+    which is best and why
+  - Repair and refactor AI-generated code for correctness, efficiency, and style
+  - Inject expert feedback including ratings, edits, and test results into the RLHF
+    pipeline
+  - Write detailed justifications for code quality decisions to serve as training
+    signals
+  - Review and critique LLM-generated code for logic errors, performance traps, and
+    security issues
+  use_cases:
+  - RLHF training of large language models for code generation
+  - Improving LLM ability to write production-grade code across multiple languages
+  - Teaching models to propose, critique, and self-improve code quality
+  - Reinforcement learning reward signal generation from expert code reviews
+  skills:
+    genai: [RLHF, LLM training feedback]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Rust]
+    domains: []
+    other: [Code review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9113821'
+  extracted_at: '2026-04-22T13:54:50.739236'

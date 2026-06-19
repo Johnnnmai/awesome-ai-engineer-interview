@@ -1,0 +1,55 @@
+company:
+  name: Citizens
+  stage: Public
+  focus: Banking and financial services with focus on AI innovation
+position:
+  title: Principal  Full Stack Software Engineer -GEN AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building GenAI-powered
+      applications, implementing RAG pipelines, developing agentic
+      workflows, and working with LLM frameworks. The engineer
+      will be hands-on with embedding models, vector databases,
+      and AI-driven automation systems, not just supporting
+      infrastructure for AI work.
+  responsibilities:
+  - Design and implement GenAI-powered applications and agentic workflows embedded
+    within SDLC tools to enhance automation and developer productivity
+  - Build and integrate RAG pipelines for enterprise-scale AI solutions including
+    document ingestion, embeddings, and contextual retrieval
+  - Develop APIs, microservices, and integration layers for AI-driven automation across
+    engineering platforms and CI/CD pipelines
+  - Implement vector database solutions for semantic search and knowledge retrieval
+    with optimized embedding strategies
+  - Collaborate with product, architecture, security, and DevOps to embed AI capabilities
+    into build/test/release workflows
+  - Ensure compliance with security, privacy, and responsible AI standards including
+    model evaluation and guardrails
+  - Establish observability for AI systems to measure accuracy, drift, latency, and
+    cost with continuous improvement cycles
+  - Lead and mentor software engineers while driving innovation and Agile best practices
+  use_cases:
+  - Automated code reviews and gated PR checks
+  - Test case generation for software development
+  - Enterprise knowledge retrieval and semantic search
+  - Developer productivity enhancement through AI assistants
+  - Decision-making automation in SDLC workflows
+  - CI/CD pipeline automation with AI integration
+  skills:
+    genai: [LangChain, LangGraph, OpenAI APIs, RAG, Prompt engineering, Fine-tuning,
+      Agent orchestration]
+    ml: [Hugging Face, Embedding models]
+    web: [React, Angular, Vue, FastAPI]
+    databases: [Pinecone, Weaviate, Milvus]
+    data: []
+    cloud: [AWS Bedrock, AWS SageMaker, AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CircleCI, Jenkins, GitHub Actions]
+    languages: [Python, Java, JavaScript, Golang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8721875'
+  extracted_at: '2026-03-27T14:21:48.426394'

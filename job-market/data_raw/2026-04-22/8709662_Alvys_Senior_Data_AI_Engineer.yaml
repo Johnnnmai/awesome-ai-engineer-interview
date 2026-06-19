@@ -1,0 +1,164 @@
+job_id: 8709662
+title: "Senior Data & AI Engineer"
+company: Alvys
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Airflow
+  - Azure
+  - Cortex Ai
+  - Dbt
+  - Python
+  - Snowflake
+  - SQL
+description: |
+  Industry Insight
+  
+  Transportation logistics is the foundational industry that
+  powers everything we rely on daily, yet it remains a complex
+  and fragmented domain ripe for technological revolution. The
+  US transportation logistics industry alone is an $800
+  billion market.
+  
+  Alvys is not just participating in this change; we are
+  driving it as the fastest-growing Transportation Management
+  System (TMS) in history, uniquely positioned to truly
+  transform this essential sector.
+  
+  Your role will be at the forefront of automating and
+  standardizing a sector that moves trillions of dollars'
+  worth of goods annually, predominantly by truck, but still
+  lacks modern tools and solutions. Your leadership will help
+  bridge this gap, bringing innovative technologies to a
+  traditionally underserved and mission-critical industry.
+  
+  About Alvys
+  
+  Alvys is the fastest-growing Transportation Management
+  System (TMS) in history, uniquely positioned to dominate and
+  truly revolutionize the $800 billion US transportation
+  logistics industry.
+  
+  We're not just iterating on old tools; we're building a
+  world-class, multi-tenant SaaS platform from the ground up
+  to automate, standardize, and transform this essential
+  sector. Join us to apply your technical vision to one of the
+  economy's most mission-critical and underserved markets,
+  making a massive, tangible impact on the movement of global
+  goods.
+  
+  This is where industry experience meets cutting-edge
+  technology to create the undisputed market winner, and you
+  will be a core part of that journey.
+  
+  About the Role
+  
+  As a Senior Engineer, you will be the primary architect of
+  our data ecosystem. Alvys is shifting toward a Snowflake-
+  centric data architecture to power our next generation of
+  logistics intelligence. You aren't just building pipelines;
+  you are defining our LLM-based data strategy, enabling
+  large-scale ML model deployment, and leveraging Snowflake
+  Cortex to turn fragmented logistics data into actionable AI-
+  driven products.
+  
+  This is a high-visibility, 'player-coach' position. You will
+  work closely with leadership to ensure our data
+  infrastructure supports real-time operational needs today
+  while scaling for the AI-first logistics world of 2026 and
+  beyond.
+  
+  Our Tech Stack
+  
+  - Data Platform: Snowflake (Warehouse, Cortex AI/ML, Semantic
+    Models, LLM Agents)
+  - Data Pipelines: dbt, Fivetran, Reverse ETL (Census)
+  - AI/ML: Snowflake Cortex, OpenAI, Azure Cognitive
+  - Backend/Infra: .NET/C#, Python, Azure Ecosystem, GitHub
+    Actions
+  
+  Key Responsibilities
+  
+  - Define and implement the strategy for LLM-based data
+    products, including data preparation, semantic layer
+    design, and embedding pipelines for RAG-based
+    applications.
+  - Own the design and evolution of our Snowflake architecture.
+    Lead the implementation of Snowflake Cortex for AI/ML
+    workloads, including semantic models and LLM agents.
+  - Design and maintain reliable, performant ELT/Reverse ETL
+    pipelines. Ensure our multi-tenant SaaS data remains
+    isolated, secure, and performant at scale.
+  - Build and operationalize pipelines for large-scale ML and
+    LLM model development, moving from POC to production-grade
+    deployment within the Snowflake perimeter.
+  - Think holistically about the data estate. Reduce complexity
+    through modularity and well-defined service boundaries
+    (e.g., Medallion Architecture).
+  - Serve as the go-to expert for emerging data trends. Mentor
+    engineers and partner with Product and Design to translate
+    complex business logic into automated deliverables.
+  
+  The Experience You Have
+  
+  - 7+ years of experience in Data Engineering with a proven
+    track record of delivering mission-critical data
+    platforms.
+  - Deep proficiency in Snowflake (Data Modeling, Query
+    Optimization, Security, and Cortex AI functions).
+  - Expert-level skill in SQL and Python. Extensive experience
+    with dbt and modern orchestration (Airflow/Dagster).
+  - Demonstrated experience building pipelines for ML or LLM-
+    based applications, including feature engineering and
+    model deployment.
+  - Competency in Azure (preferred) or other major cloud
+    providers, including CI/CD and infrastructure-as-code
+    principles.
+  - Experience driving cross-team consensus on architectural
+    decisions and mentoring junior/mid-level engineers.
+  
+  The Way You Work
+  
+  - Ownership: You take end-to-end responsibility. If it’s in
+    production, it’s yours—from the initial schema design to
+    the final dashboard latency.
+  - Pragmatism: You believe technical debt is a strategic
+    choice. You choose solutions that scale and solve real
+    problems over theoretical "perfection."
+  - Simplicity: You prioritize modularity and clean design to
+    reduce cognitive load in a complex logistics domain.
+  - Transparency: You democratize data. You ensure insights are
+    accessible across the organization and participate in
+    constructive feedback loops.
+  
+  Equal Employment Opportunity
+  
+  Alvys is an equal opportunity employer and as such, we do
+  not discriminate on the basis of race, color, religion, sex,
+  sexual orientation, gender identity, national origin, age,
+  disability, or any other characteristic protected by
+  applicable laws.
+  
+  We are dedicated to growing a diverse team of highly
+  talented people. We’re dedicated to building a workplace
+  where we give each other the strategies, support, and space
+  we each need to thrive—believing in and bringing out the
+  best of everyone.
+  
+  If you require any accommodations during the recruitment
+  process, whether it be alternate forms of material,
+  accessible meeting rooms, etc., please let us know and we
+  will work with you to meet your needs.
+  
+  For information about Alvys's privacy practices, see our
+  Privacy Policy.
+industries:
+  - Cloud
+  - Logistics
+  - Software
+  - Transportation
+  - Automation
+posted_date: 2026-04-05
+url: "https://www.builtinla.com/job/senior-data-engineer/8709662"
+source: Built In

@@ -1,0 +1,50 @@
+company:
+  name: Uniphore
+  stage: null
+  focus: |-
+    B2B AI-native company delivering multimodal AI architecture
+    with Generative AI, Knowledge AI, and Emotion AI for
+    enterprise customer experiences
+position:
+  title: Staff Software Engineer (Java/Go with AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience with agentic
+      frameworks (LangGraph, LangChain, crewAI), building RAG
+      systems and vector search, plus LLM fine-tuning techniques
+      (LoRA, QLoRA). The position involves directly building,
+      integrating, and deploying AI/LLM systems, not just
+      supporting infrastructure.
+  responsibilities:
+  - Design and develop application software as a Full Stack Developer within Product
+    Engineering
+  - Develop and maintain enterprise grade SaaS software using Agile methodology
+  - Build and integrate RAG (Retrieval-Augmented Generation) systems and vector search
+    capabilities
+  - Develop scalable core Java applications, Web Applications and Web Services
+  - Perform peer code reviews and ensure high quality, scalable project delivery
+  - Collaborate with multi-location teams to deliver requirements within agreed timelines
+  use_cases:
+  - Multimodal AI architecture combining Generative AI, Knowledge AI, and Emotion
+    AI
+  - Enterprise customer experience optimization through voice, video, and text analysis
+  - RAG systems for enterprise knowledge retrieval and search
+  - Workflow automation with AI copilot guidance
+  - Customer-facing enterprise AI deployments across multiple industry verticals
+  skills:
+    genai: [LangGraph, LangChain, CrewAI, RAG, Vector search, LoRA, QLoRA, LLM fine-tuning]
+    ml: []
+    web: [REST, WebSockets, gRPC, MCP, Spring, Struts, J2EE]
+    databases: [Postgres, MongoDB, Clickhouse, Redis, GraphDB]
+    data: [Kafka]
+    cloud: []
+    ops: [MLOps, LLMOps, LLM observability, Linux]
+    languages: [Java, Python, Go, Rust, SQL]
+    domains: []
+    other: [Microservices]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8344087'
+  extracted_at: '2026-03-03T11:23:31.070560'

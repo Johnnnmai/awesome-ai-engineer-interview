@@ -1,0 +1,50 @@
+company:
+  name: TechTorch
+  stage: Growth (references PE clients and Fortune 500 engagement)
+  focus: |-
+    Designing, building, and deploying AI agents that automate
+    enterprise workflows
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on designing, implementing,
+      and deploying agentic AI systems using LangGraph, LangChain,
+      and LLM APIs. The developer builds production-grade multi-
+      step AI agents with memory, retrieval, and planning
+      capabilities — clearly hands-on work building and deploying
+      AI systems, not supporting infrastructure for others.
+  responsibilities:
+  - Design and implement multi-step AI agents and orchestration workflows in Python
+  - Build using LangGraph, LangChain, n8n, AWS Bedrock, and similar tools
+  - Integrate and evaluate top LLM models (Gemini, GPT, Claude) for agent workflows
+  - Connect agents to real systems via APIs, SaaS apps, webhooks, queues, and events
+  - Implement memory, retrieval, and planning for reliable agent behavior
+  - Take prototypes to production with CI/CD, containers, and cloud deployment
+  - Build internal SDKs and reusable agent templates to speed up delivery
+  - Work directly with clients to capture requirements, run experiments, and iterate
+    fast
+  use_cases:
+  - Automating complex real-world enterprise workflows with AI agents
+  - Production-grade multi-step agent orchestration for business process automation
+  - Connecting AI agents to enterprise SaaS and API ecosystems
+  - Delivering measurable ROI and efficiency gains for Fortune 500 and PE clients
+  - Building reusable agent templates for scalable deployment across industries
+  skills:
+    genai: [LangGraph, LangChain, RAG, Prompt engineering, OpenAI API, AWS Bedrock,
+      Gemini, Claude API, AI agents]
+    ml: []
+    web: [FastAPI, REST APIs]
+    databases: [Postgres, Supabase, Vector databases]
+    data: [n8n, Airflow, Prefect, Temporal]
+    cloud: [AWS]
+    ops: [Docker, CI/CD, Git, Langfuse, W&B, OpenTelemetry]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8989713'
+  extracted_at: '2026-04-22T13:55:22.750858'

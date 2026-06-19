@@ -1,0 +1,56 @@
+company:
+  name: AVEVA
+  stage: Public
+  focus: Industrial software for automation and engineering
+position:
+  title: Senior Software Engineer - AI Platform & Cloud Services
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI platform services including
+      AI model deployment, training, AI tooling development, and
+      working directly with LLMs, RAG, agent orchestration, and
+      agentic frameworks. While it's a platform engineering role,
+      the hands-on work with model deployment, MLOps pipelines,
+      and agentic systems places it firmly in ai-first territory.
+  responsibilities:
+  - Design, develop, and scale AI-enabling platform services and public APIs that
+    are secure, reliable, and cloud-native
+  - Build MLOps pipelines and work with AI model deployment, training, and AI tooling
+    development
+  - Build scalable, fault-tolerant cloud-native services on Microsoft Azure ensuring
+    high performance and reliability
+  - Develop secure, well-documented public APIs and SDKs for internal and external
+    developer consumption
+  - Collaborate with cross-functional teams to deliver end-to-end solutions across
+    data pipelines, orchestration, and service APIs
+  - Embed robust security controls to protect sensitive data and ensure secure access
+    to AI services
+  - Contribute to design reviews, code reviews, and architectural discussions to ensure
+    engineering excellence
+  - Mentor junior developers and contribute to a culture of innovation and continuous
+    learning
+  use_cases:
+  - AI model deployment and serving for industrial software products
+  - Agentic systems and agent orchestration for industrial automation workflows
+  - MLOps pipelines for managing AI model lifecycle across AVEVA's product portfolio
+  - RAG-based solutions for industrial data retrieval and knowledge management
+  - Public AI APIs and SDKs enabling AI adoption across partner ecosystem
+  - Secure AI platform services for industrial enterprises
+  skills:
+    genai: [LLMs, RAG, Agent Orchestration, Prompt Engineering, Agentic Frameworks,
+      Model Context Protocol (MCP), Agent2Agent (A2A), Tool Calling / Function Calling]
+    ml: []
+    web: [RESTful API Design]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Microsoft Azure, Azure PaaS]
+    ops: [Docker, Kubernetes, MLOps, CI/CD, AI Testing and Evaluation]
+    languages: [.NET, Python]
+    domains: [AI Ethics and Regulations]
+    other: [API Security, Authentication/Authorization, Agile/Scrum]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8964489'
+  extracted_at: '2026-04-22T12:44:54.057371'

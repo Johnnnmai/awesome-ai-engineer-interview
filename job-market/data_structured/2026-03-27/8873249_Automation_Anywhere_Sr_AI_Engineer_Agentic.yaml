@@ -1,0 +1,49 @@
+company:
+  name: Automation Anywhere
+  stage: Late-stage/Private
+  focus: |-
+    AI-powered automation platform for enterprises with agentic
+    process automation
+position:
+  title: Sr. AI Engineer ( Agentic)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and deploying AI
+      agents, agentic automations, and GenAI solutions. The
+      position requires hands-on experience with AI Agents, MCP
+      (Model Context Protocol), A2A (Agent-to-Agent), and
+      integration of generative AI with automation systems, which
+      constitutes working directly ON AI systems rather than just
+      supporting them.
+  responsibilities:
+  - Build and deploy agentic automation solutions using AI Agents, MCP, A2A, MVP,
+    and API Tasks
+  - Develop and integrate APIs and connectors for automation solutions
+  - Build learning instances using IQ Bot or Document Automation for real automation
+    projects
+  - Deploy automation solutions on cloud infrastructure (AWS VMs)
+  - Provide L3 support and troubleshoot critical production issues
+  - Collaborate with cross-functional teams to deliver GenAI and automation solutions
+  use_cases:
+  - Agentic process automation for enterprise workflows
+  - Document processing and intelligent data extraction
+  - End-to-end orchestration of automated business processes
+  - Integration of generative AI with RPA systems
+  skills:
+    genai: [AI Agents, MCP (Model Context Protocol), A2A (Agent-to-Agent), Generative
+        AI, Agentic Automations]
+    ml: [IQ Bot, Document Automation]
+    web: [APIs, REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Virtual Machines]
+    languages: [Python, SQL]
+    domains: []
+    other: [RPA, Agile/Scrum]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8873249'
+  extracted_at: '2026-03-27T13:16:30.543465'

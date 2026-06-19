@@ -1,0 +1,58 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: Public
+  focus: |-
+    Global edge-to-cloud platform and hybrid cloud solutions
+    (GreenLake)
+position:
+  title: Principal Engineer - AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      maintaining generative AI models, agentic AI systems, and
+      pipelines. The engineer will work hands-on with LLMs,
+      multimodal models, model fine-tuning, RAG implementations,
+      and production-level GenAI systems - all core AI development
+      work.
+  responsibilities:
+  - Experiment, design, develop and maintain generative AI models including LLMs,
+    multimodal models, agentic AI architectures, and pipelines
+  - Research and develop GenAI algorithms, prompt engineering strategies, and agentic
+    workflows; conduct model training, fine-tuning, and evaluation
+  - Build and maintain highly scalable GenAI infrastructure including prompt libraries,
+    agentic orchestration, real-time serving layer, and offline training systems
+  - Research and evaluate new technologies including RAG, prompt orchestration, agentic
+    AI frameworks, model evaluation and safety tools
+  - Troubleshoot and debug GenAI systems including model outputs, prompt reliability,
+    hallucinations, and agentic behaviors
+  - Hands-on development, productionization, and operation of GenAI models, agents,
+    and pipelines at scale
+  - Work with large scale structured and unstructured data to build and improve cutting
+    edge GenAI models
+  - Provide technical guidance and mentorship to team members on GenAI best practices,
+    prompting strategies, and agentic design
+  use_cases:
+  - Enterprise GenAI platform for HPE products and services
+  - Scalable generative AI infrastructure for developers across the organization
+  - Real-time and batch AI decision-making systems
+  - Multimodal AI applications with vision-language models
+  - Agentic AI systems and workflows for automation
+  - RAG-based enterprise solutions
+  skills:
+    genai: [OpenAI GPT, Llama, LangChain, RAG, Prompt Engineering, Agentic AI, LLMs]
+    ml: [Hugging Face Transformers, DeepSpeed, TensorFlow, PyTorch, JAX, Keras, Multimodal
+        AI, Model Fine-tuning, CNNs, RNNs, Transformers, GANs, Reinforcement Learning]
+    web: []
+    databases: []
+    data: [Ray, Spark, Kafka]
+    cloud: [SageMaker, Vertex AI, AWS, Azure, GCP]
+    ops: [Kubernetes, MLflow, Weights & Biases, DVC]
+    languages: [Python, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8677914'
+  extracted_at: '2026-03-27T14:29:31.394353'

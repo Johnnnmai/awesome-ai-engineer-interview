@@ -1,0 +1,48 @@
+company:
+  name: NatWest Group
+  stage: Public
+  focus: Major UK banking and financial services provider
+position:
+  title: AI Principal Engineer Lead, VP
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience with ML/LLM
+      technologies and explicitly involves building and operating
+      AI pipelines including data ingestion, training, evaluation,
+      and deployment. The requirement for fine-tuning, prompt
+      engineering, and delivering AI solutions into production
+      confirms this is directly working ON AI systems.
+  responsibilities:
+  - Design and engineer AI/ML software solutions with customer experience as primary
+    objective
+  - Build and operate AI pipelines encompassing data ingestion, training, evaluation,
+    and deployment
+  - Collaborate with software engineers on production and prototyping of innovative
+    AI ideas
+  - Define and provide oversight of engineering solutions with focus on automation,
+    resilience, and scalability
+  - Work within platform teams to design and engineer complex AI software and tools
+  - Develop architecture models and roadmaps for AI application components
+  - Design, test and implement working AI code using Agile and DevOps techniques
+  use_cases:
+  - AI-driven solutions for banking platforms and applications
+  - Customer-centric AI experiences
+  - Automated AI/ML pipeline operations
+  - Production AI model deployment and governance
+  skills:
+    genai: [LLM technologies, orchestration frameworks, prompt engineering]
+    ml: [machine learning, feature stores, fine-tuning]
+    web: [APIs]
+    databases: [vector databases]
+    data: [ETL/ELT, streaming, data quality frameworks]
+    cloud: [Azure, AWS, GCP]
+    ops: [MLflow, Kubernetes, Terraform, model registries]
+    languages: [Python]
+    domains: []
+    other: [distributed systems]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8798128'
+  extracted_at: '2026-03-27T15:47:23.678937'

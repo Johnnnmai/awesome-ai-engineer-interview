@@ -1,0 +1,51 @@
+company:
+  name: Alight Solutions
+  stage: null
+  focus: HR and benefits administration solutions
+position:
+  title: AI Engineer for Authoring Enhancements and support
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on implementation of Generative AI
+      workflows using Amazon Bedrock, RAG pipelines, knowledge
+      bases, prompt orchestration, and agent-based architectures.
+      The position involves directly building and integrating AI
+      capabilities, not just supporting infrastructure for others'
+      AI work.
+  responsibilities:
+  - Implement serverless, event-driven cloud applications using AWS services including
+    Lambda, API Gateway, DynamoDB, Step Functions, and S3
+  - Integrate Generative AI workflows leveraging Amazon Bedrock, RAG pipelines, and
+    knowledge-base-driven context engineering
+  - Develop internal frameworks and reusable modules that enhance developer experience
+    and cloud efficiency
+  - Collaborate cross-functionally with product, design, and data science teams to
+    deliver scalable cloud solutions
+  - Champion accessibility-first design and inclusive engineering practices across
+    products
+  - Mentor engineers and influence architectural direction aligned with organizational
+    growth
+  use_cases:
+  - Intelligent enterprise document processing and knowledge retrieval
+  - AI-powered authoring enhancements for content creation
+  - Automated workflow orchestration with generative AI capabilities
+  - Internal developer tools and productivity platforms
+  skills:
+    genai: [RAG pipelines, Prompt engineering, LLM application design, Agent-based
+        architectures, Knowledge base engineering, Context engineering]
+    ml: []
+    web: []
+    databases: [DynamoDB, Redshift]
+    data: [AWS Glue]
+    cloud: [Amazon Bedrock, AWS Lambda, API Gateway, Step Functions, S3, ECS, EKS,
+      IAM]
+    ops: []
+    languages: [Python, TypeScript, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8174779'
+  extracted_at: '2026-03-27T13:12:05.834617'

@@ -1,0 +1,47 @@
+company:
+  name: Cognyte
+  stage: null
+  focus: |-
+    Investigative analytics software solutions for crime
+    prevention and security
+position:
+  title: Machine Learning/ Artificial Intelligence Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on applying machine learning to network
+      traffic analysis, specifically for extracting patterns from
+      encrypted data, TLS/IP metadata, and building detection
+      methods. While it mentions AI models and blockchain
+      analytics, the core work involves traditional ML techniques
+      for pattern recognition in network data rather than building
+      LLMs or GenAI systems.
+  responsibilities:
+  - Examine encrypted raw network data and extract TLS and IP-level metadata
+  - Identify patterns or trends within complex data streams
+  - Build analysis pipelines for network traffic analysis
+  - Ensure accuracy of detection methods using well-defined evaluation metrics
+  - Develop a Blockchain analytics product and gain crypto domain expertise
+  - Work with packet capture analysis and network forensics
+  use_cases:
+  - Network traffic forensics and analysis for security investigations
+  - Encrypted traffic classification and pattern detection
+  - Blockchain analytics for investigative purposes
+  - Automated detection of malicious network activity
+  - Crime prevention and investigation through data analytics
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: []
+    databases: [MongoDB, SQL]
+    data: []
+    cloud: []
+    ops: ['CI/CD (Jenkins, TeamCity, GitLab CI)', Linux, Windows]
+    languages: [Python]
+    domains: ['Network protocols (Ethernet, IP, TCP, UDP, DNS)', TLS internals]
+    other: [Wireshark/tshark, Network Sniffers, SCRUM]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8646190'
+  extracted_at: '2026-03-27T13:45:08.635392'

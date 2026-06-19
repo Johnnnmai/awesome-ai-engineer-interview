@@ -1,0 +1,121 @@
+job_id: 8725784
+title: Senior Infrastructure Automation Engineer - SCM and HPC AI
+company: NVIDIA
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ansible
+  - Centos
+  - Go
+  - Java
+  - Linux
+  - MySQL
+  - NoSQL
+  - Object Oriented Perl
+  - Postgres
+  - Python
+company_size: 21,960 Employees
+description: |
+  NVIDIA has been transforming computer graphics, PC gaming,
+  and accelerated computing for more than 25 years. It’s a
+  unique legacy of innovation that’s fueled by great
+  technology—and amazing people. Today, we’re tapping into the
+  unlimited potential of AI to define the next era of
+  computing. An era in which our GPU acts as the brains of
+  computers, robots, and self-driving cars that can understand
+  the world. Doing what’s never been done before takes vision,
+  innovation, and the world’s best talent. As an NVIDIAN,
+  you’ll be immersed in a diverse, supportive environment
+  where everyone is inspired to do their best work. Come join
+  the team and see how you can make a lasting impact on the
+  world. For two decades, we have pioneered visual computing,
+  the art and science of computer graphics. With our invention
+  of the GPU - the engine of modern visual computing - the
+  field has expanded to encompass video games, movie
+  production, product design, medical diagnosis and scientific
+  research. Today, we stand at the beginning of the next era,
+  the AI computing era, ignited by a new computing model, GPU
+  deep learning. This new model - where deep neural networks
+  are trained to recognize patterns from massive amounts of
+  data - has shown to be deeply effective at solving some of
+  the most complex problems in everyday life.
+  
+  NVIDIA runs one of the largest Perforce installations in the
+  world, and a very large Git installation as well. It also
+  runs one of the large and complex server farm infrastructure
+  for internal cloud for our Engineering team. Our
+  Infrastructure excellence group is looking for a top Sr.
+  Infrastructure Automation Engineer. You will take on the
+  challenges that we face with operating at scale to produce a
+  best-in-industry solution and enable us to continue to
+  provide unprecedented performance and reliability for our
+  users. You will work in our team to engineer new solutions
+  to scale our infrastructure to handle large and ever-growing
+  load and data volume. You will design and code processes and
+  automation tools to improve productivity running and
+  administering the Cluster farm and systems and applications
+  used by our globally distributed engineering teams.
+  
+  What You'll Be Doing:
+  
+  - You'll be on the team being responsible for the building
+    automations for large feet of servers in a large cluster
+    environment, including application, OS, and server
+    hardware components, developing the continued automation
+    and innovation needed for our large environment.
+  - Create new solutions to improve the reliability and
+    performance of our ever-growing infrastructure, and work
+    with automated orchestration tools to deploy those
+    improvements to thousands of systems worldwide.
+  - As part of a distributed team, you will evaluate technology
+    options. You will collaborate with project members to
+    define solutions, create schedules, and lead continuous
+    improvements and support.
+  - Learn and greatly improve the daily productivity of the
+    world’s top chip designers and software engineers.
+  
+  What We Need To See:
+  
+  - MS (preferred) or BS in Computer Science or a related field
+    with at least 4 years of experience
+  - Experience in Baremetal provisioning automation and
+    optimisation, and architected and implemented distributed
+    systems, preferably created services to handle complex
+    host provision challenges
+  - You've configured/deployed Continuous Integration (CI) and
+    Continuous Deployment (CD) systems in your past experience
+  - Strong software engineering process skills required,
+    preferred object-oriented programming and design pattern
+    knowledge and background - Go, Python, Object Oriented
+    Perl, or Java preferred
+  - You're experienced with databases, MySQL or Postgres
+    preferred, experience with NoSQL databases a plus
+  - Experience with DevOps or system administration with Linux
+    systems required (CentOS/RHEL and Ubuntu preferred) with
+    good hands-on Ansible experience.
+  - You have excellent interpersonal skills, including written
+    and verbal communication, and are comfortable and enjoy
+    working with dynamic and ever-evolving environments
+  - You are a meticulous organizer with an ever-positive, can-do
+    attitude, who demonstrate use of out-of-the-box thinking
+    for creative solutions to highly sticky problems
+  - You'll be a fun and enthusiastic teammate who enjoys a
+    challenge and celebrates
+  
+  Widely considered to be one of the technology world’s most
+  desirable employers, NVIDIA offers highly competitive
+  salaries and a comprehensive benefits package. As you plan
+  your future, see what we can offer to you and your family
+  www.nvidiabenefits.com
+  
+  #LI-Hybrid
+industries:
+  - Artificial Intelligence
+  - Computer Vision
+  - Hardware
+  - Robotics
+  - Metaverse
+posted_date: 2026-03-18
+url: "https://builtin.com/job/senior-infrastructure-automation-engineer-scm-and-hpc-ai/8725784"
+source: Built In

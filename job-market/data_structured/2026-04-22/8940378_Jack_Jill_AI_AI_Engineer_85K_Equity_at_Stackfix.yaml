@@ -1,0 +1,50 @@
+company:
+  name: Jack & Jill AI
+  stage: Series A or later (Tier 1 investors backed)
+  focus: |-
+    AI implementation firm deploying production AI systems for
+    enterprises
+position:
+  title: AI Engineer (£85K+ + Equity) at Stackfix
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying production-grade
+      AI systems directly for enterprise clients, owning the end-
+      to-end process of transforming workflows with AI. The
+      engineer will build sophisticated AI systems that handle
+      real transactions, which constitutes hands-on work with AI
+      models and systems.
+  responsibilities:
+  - Build and deploy sophisticated AI systems and full-stack software managing high-volume
+    production workflows for enterprise clients
+  - Interface directly with client leadership to scope workflows and present AI transformation
+    strategies
+  - Own the full product lifecycle from technical discovery and architecture to shipping
+    production-ready systems
+  - Transform client workflows and grow profits through AI-driven solutions across
+    diverse industries
+  - Work in 4-9 month engagement cycles across industries like logistics, ecommerce,
+    and private equity
+  use_cases:
+  - AI-powered workflow automation for private equity funds
+  - AI-powered workflow automation for manufacturing companies
+  - Production AI systems for logistics operations
+  - AI-driven ecommerce optimization
+  - Enterprise workflow transformation and profit growth through AI
+  skills:
+    genai: [AI system deployment, LLM integration]
+    ml: []
+    web: [Full-stack development, Production system architecture, REST APIs]
+    databases: [Postgres]
+    data: []
+    cloud: [AWS]
+    ops: [Docker]
+    languages: [Python]
+    domains: []
+    other: [Client-facing technical consulting]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8940378'
+  extracted_at: '2026-04-22T13:03:44.248331'

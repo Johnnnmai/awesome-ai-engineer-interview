@@ -1,0 +1,49 @@
+company:
+  name: Onebridge
+  stage: Acquired (Marlabs Company)
+  focus: |-
+    AI and Data Analytics Consulting for healthcare, life
+    sciences, financial services, and government
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building, training, fine-tuning,
+      and deploying AI models using Azure OpenAI and Azure AI
+      Services, plus implementing RAG systems with LLMs. The
+      engineer is directly working on AI model development and
+      production deployment.
+  responsibilities:
+  - Architect and develop AI-powered services, tools, and products ensuring scalability,
+    reliability, and performance
+  - Lead end-to-end project execution from concept through development, testing, and
+    deployment
+  - Build and integrate AI models using Azure OpenAI and Azure AI Services with model
+    training, fine-tuning, and production deployment
+  - Collaborate with stakeholders to translate business needs into technical specifications
+  - Stay current with emerging AI technologies and identify opportunities to enhance
+    systems
+  - Work independently and within global teams while managing tasks with minimal supervision
+  use_cases:
+  - AI-powered services and products for business optimization
+  - Data-driven solutions for healthcare organizations
+  - AI implementations for life sciences companies
+  - Financial services AI applications
+  - Government sector AI solutions
+  skills:
+    genai: [Azure OpenAI, RAG (Retrieval-Augmented Generation), LLMs]
+    ml: [Model training and fine-tuning, ML libraries]
+    web: [Streamlit, API development]
+    databases: []
+    data: []
+    cloud: [Azure AI Services, Azure AI Foundry]
+    ops: [CI/CD, Git, Azure DevOps]
+    languages: [Python, SQL, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7174470'
+  extracted_at: '2026-03-03T12:36:40.965961'

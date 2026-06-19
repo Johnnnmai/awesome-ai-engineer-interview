@@ -1,0 +1,209 @@
+job_id: 8693310
+title: "Director, Agentic AI Infrastructure & Orchestration Engineer"
+company: Complex NTWRK
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ai Infrastructure
+  - APIs
+  - Git
+  - Llm Orchestration Frameworks
+  - Snowflake
+company_size: 596 Employees
+description: |
+  Company And Culture
+  
+  
+  
+  Complex is the definitive platform for global youth culture
+  and music lifestyle, seamlessly integrating cutting-edge
+  content, commerce and live experiences with unparalleled
+  scale. Through innovative content, Complex tells stories of
+  music, streetwear and style, sports, art and beyond. Its
+  content engages in a dynamic conversation with the audience,
+  reflecting and shaping the zeitgeist of convergence culture.
+  A powerful media juggernaut paired with a curated
+  marketplace, Complex is redefining the way fans interact
+  with their favorite brands and artists and reshaping the
+  future of digital culture and commerce.
+  
+  
+  
+  Why We're Hiring
+  
+  
+  
+  Complex operates at the intersection of content, commerce,
+  and culture—powering media, live experiences, marketplace,
+  and audience engagement across sneakers, music, sports, and
+  streetwear. This ecosystem generates a high volume of
+  workflows, audience intelligence, and creative output. Much
+  of that operational value, however, remains fragmented
+  across SaaS platforms, manual processes, and institutional
+  knowledge. We are building the next layer of infrastructure
+  to change that.
+  
+  
+  
+  The AI Orchestra Director: Agentic Infrastructure Engineer
+  will embed directly within our technology organization,
+  ensuring that every architectural decision drives measurable
+  business outcomes. The role bridges system design,
+  implementation, and operational impact. Complex is seeking
+  an AI Orchestra Director—a hands-on technical architect and
+  builder responsible for designing, deploying, and
+  operationalizing our agentic AI infrastructure. This is not
+  an advisory position. It is an execution-driven engineering
+  mandate to build a parallel infrastructure layer that
+  enables AI agents to:
+  
+  - Automate core workflows
+  
+  - Replace high-cost SaaS platforms with owned solutions
+  
+  - Modernize data access and experimentation
+  
+  - Generate proprietary, reusable intellectual property
+  
+  - All while the business continues to operate without
+    disruption
+  
+  
+  
+  Work Schedule:
+  
+  Possible freelance to hire, 4-6 month project Monday -
+  Friday
+  
+  What You'll Do
+  
+  - Top Three Strategic Priorities:
+  - 1. Architect and Deploy the Agentic Infrastructure Layer
+  - Design and implement a scalable runtime environment purpose-
+    built for a media and commerce organization, including:
+  - Agent orchestration and task routing
+  - Quality gates and human-in-the-loop checkpoints
+  - Logging, observability, and convergence tracking
+  - CI/CD and deployment pipelines
+  - On-premise or hybrid environment architecture
+  - This foundation must be secure, extensible, and maintainable
+    by the existing engineering team
+  - 2. Lead the Tool Replacement Program
+  - Audit current SaaS licenses and identify high-cost, high-
+    leverage replacement opportunities (e.g., CRM, analytics,
+    workflow tools)
+  - Using agentic development practices:
+  - Build internal tools with AI agents writing and testing code
+  - Maintain human review at critical checkpoints
+  - Deliver measurable license cost reductions
+  - Demonstrate infrastructure ROI within the engagement period
+  - The objective: prove the system’s value by using agents to
+    build the tools themselves
+  - 3. Codify Operational Workflows into a Reusable Skills
+    Library
+  - Partner across departments to:
+  - Identify and document high-impact operational workflows
+  - Encode them into version-controlled, reusable agent “skills”
+  - Transform tribal knowledge into durable company-owned IP
+  - The result: a scalable library of automated capabilities
+    that can operate independently of the engagement
+  - Key Responsibilities:
+  - Architect and deploy the agentic infrastructure layer in
+    collaboration with executive leadership and the Platform
+    Studio engineering team
+  - Design a modern, growth-oriented data access layer built on
+    existing Snowflake infrastructure and related data sources
+  - Enable agent-native querying, rapid experimentation, and
+    insight generation
+  - Evaluate and integrate open-source orchestration tools to
+    maintain vendor-agnostic flexibility
+  - Implement test-driven development enforcement, intelligent
+    retry logic, and convergence tracking
+  - Establish governance frameworks with human-in-the-loop
+    checkpoints for production deployment and auditability
+  - Embed seamlessly with existing engineering teams—building
+    trust, not parallel power structures
+  - Develop documentation, training protocols, and knowledge-
+    transfer systems to ensure long-term sustainability
+  - Partner with the COO and department leaders to prioritize
+    automation initiatives that simultaneously reduce cost and
+    increase velocity
+  - Foster a culture shift toward agentic development as a core
+    capability within the organization
+  
+  Who You Are
+  
+  - Proven experience building and deploying AI agent
+    infrastructure in production environments
+  - Deep proficiency across LLM orchestration frameworks,
+    retrieval-augmented generation (RAG), prompt engineering,
+    and agentic coding workflows
+  - Strong systems architecture background with infrastructure
+    designed for long-term maintainability
+  - Experience with data engineering and analytics
+    infrastructure (Snowflake and API-based systems preferred)
+  - Comfort evaluating and integrating open-source tooling
+    within a multi-model ecosystem (e.g., Claude, Codex,
+    Gemini, open-source models)
+  - Git-native workflow mindset (branches, PRs, CI/CD, TDD)
+  - Exceptional ability to translate complex architecture into
+    business-aligned outcomes
+  - Experience embedding within existing teams and leaving them
+    stronger than you found them
+  - Media, entertainment, or commerce industry experience
+    preferred but not required
+  - Comfortable with whiteboarding systems with executive
+    leadership
+  - Creating shipping production-ready pipelines
+  - Reviewing agent-generated code
+  - Ability to train teams to extend what you’ve built
+  - Success Metrics (By the end of the 12 week engagement, you
+    will have delivered):
+  - A working agent runtime environment with orchestration,
+    logging, quality gates, and CI/CD pipelines
+  - At least two deployed internal SaaS replacements with
+    documented cost savings
+  - A versioned skills library containing a minimum of ten
+    codified operational workflows
+  - A defined and partially implemented data access layer
+    serving both human users and AI agents
+  - Complete knowledge transfer to the existing engineering team
+  - Seamless organizational integration with no structural
+    friction
+  - What Success Looks Like:
+  - Success is not measured solely by architectural elegance –
+    It is measured by operational independence
+  - Workflows that execute autonomously
+  - Tools built internally rather than rented
+  - Data systems that surface insights proactively
+  - An engineering organization fluent in agentic development
+  
+  We're an equal opportunity employer. All applicants will be
+  considered for employment without attention to race, color,
+  religion, sex, sexual orientation, gender identity, national
+  origin, veteran or disability status.
+  
+  
+  
+  The above statements cover what are generally believed to be
+  principal and essential functions of the job. Specific
+  circumstances may allow or require some incumbents assigned
+  to the job to perform a different combination of duties.
+  
+  
+  
+  Complex participates in E-Verify and will provide the
+  federal government with your Form I-9 information to confirm
+  that you are authorized to work in the U.S.
+  
+  
+  
+  Candidates must be legally authorized to work in the U.S.
+  without the need for visa sponsorship.
+industries:
+  - AdTech
+  - Digital Media
+posted_date: 2026-03-16
+url: "https://builtin.com/job/director-agentic-ai-infrastructure-orchestration-engineer/8693310"
+source: Built In

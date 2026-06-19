@@ -1,0 +1,53 @@
+company:
+  name: Ironclad
+  stage: Series D+
+  focus: |-
+    AI-powered contract lifecycle management and legal document
+    platform
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, training, tuning, and
+      deploying ML models and LLM-based systems including RAG and
+      agents. The engineer will work hands-on with models for
+      document understanding, extraction, and orchestration
+      frameworks - core AI development work.
+  responsibilities:
+  - Build and tune models that ingest legal documents, extract key information, and
+    deliver actionable insights
+  - Implement backend services for document understanding, classification, and natural
+    language search
+  - Apply cutting-edge techniques in NLP, LLM integration, prompt engineering, and
+    semantic search
+  - Design and maintain systems for prompt management, model training/tuning, orchestration,
+    evaluation, and inference
+  - Develop and scale RAG systems and agent-based orchestration frameworks for legal
+    workflows
+  - Build foundational AI/ML infrastructure including experimentation tools, model
+    versioning, and performance monitoring
+  - Partner with product managers and designers to deliver AI-powered product capabilities
+  use_cases:
+  - Legal document ingestion and information extraction
+  - Contract classification and document understanding
+  - Natural language search across legal documents
+  - Retrieval-augmented generation for contract insights
+  - Agent-based orchestration for complex legal workflows
+  - Structured insights extraction from contracts for legal teams
+  skills:
+    genai: [OpenAI APIs, LangChain, RAG, Prompt Engineering]
+    ml: [HuggingFace, PyTorch, TensorFlow, Embedding Models]
+    web: [RESTful APIs]
+    databases: [Vector Databases]
+    data: [Pandas, NumPy, PySpark]
+    cloud: [GCP, AWS, Azure, Vertex AI]
+    ops: [Docker, CI/CD, Datadog, Git]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8847866'
+  extracted_at: '2026-03-27T14:02:24.776657'

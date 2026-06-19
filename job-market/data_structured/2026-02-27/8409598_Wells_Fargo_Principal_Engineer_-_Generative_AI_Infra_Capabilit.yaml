@@ -1,0 +1,57 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: Global financial services and banking institution
+position:
+  title: Principal Engineer - Generative AI Infra Capabilities
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLM/SLM deployment and
+      optimization - building GPU infrastructure specifically for
+      GenAI workloads, implementing vLLM/TensorRT-LLM, Triton
+      Inference Server, CUDA kernel tuning, and productionizing
+      model endpoints. The work is directly ON AI systems
+      (inference infrastructure, model serving, optimization)
+      rather than supporting infrastructure for others' AI work.
+  responsibilities:
+  - Design GPU cluster topologies for H100/H200 clusters with NVLink/NVSwitch for
+    high-throughput LLM inferencing
+  - 'Implement Run: AI orchestration constructs for GPU scheduling, quotas, and fair-share
+    policies across MDEV/MDEP/UCEP/MRM environments'
+  - POC and benchmark disaggregated inferencing with vLLM/TensorRT-LLM, publish tuning
+    guidance for H100/H200 (FP8/INT8/AWQ)
+  - Operationalize OpenShift AI for GPU scheduling, time slicing, MIG profiles, and
+    helm/kustomize packaging
+  - Integrate Triton Inference Server for multi-model serving with standardized repositories
+    and telemetry
+  - Productionize model endpoints via Apigee AI Gateway with authN/Z, rate limiting,
+    and SLA management
+  - Embed observability with Arize for prompt/agent/tool tracing, SLO dashboards,
+    and alerting
+  - Tune CUDA kernels and NCCL collectives, resolve GPU performance bottlenecks for
+    LLM/SLM workloads
+  use_cases:
+  - High-throughput LLM/SLM inferencing infrastructure for enterprise workloads
+  - Multi-model serving platform with standardized deployment and monitoring
+  - GPU cluster optimization and resource scheduling for AI workloads
+  - Production AI endpoint management with API gateway and SLA enforcement
+  - Observability and evaluation for AI systems with prompt/agent tracing
+  skills:
+    genai: [LLM, SLM]
+    ml: [CUDA, cuDNN, NCCL, FP8 quantization, INT4 quantization, AWQ quantization,
+      KV-cache optimization, NVIDIA]
+    web: []
+    databases: []
+    data: []
+    cloud: [OpenShift AI, Apigee, GKE]
+    ops: [NVLink, NVSwitch, MIG, H100/H200, vLLM, TensorRT-LLM, Triton Inference Server,
+      'Run: AI', Kubernetes, Helm, Kustomize, Arize, JFrog]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8409598'
+  extracted_at: '2026-03-03T12:44:15.984760'

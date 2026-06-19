@@ -1,0 +1,59 @@
+company:
+  name: OpenAI
+  stage: Unknown (likely late-stage private or near-IPO given scale)
+  focus: |-
+    AI research and deployment company building general-purpose
+    AI systems
+position:
+  title: Scaled AI Success Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with OpenAI's AI products
+      (ChatGPT, API, Codex), including configuration, deployment
+      guidance, and technical optimization of AI systems. The role
+      requires reasoning through production tradeoffs like
+      prompting, retrieval, model choice, and deployment health -
+      directly working ON AI system deployment and optimization.
+  responsibilities:
+  - Own post-sale technical success, adoption, and value realization across a portfolio
+    of customers using product signals and business impact to prioritize engagement
+  - Act as trusted advisor on deployment health, adoption strategy, and value realization
+    for ChatGPT, API, Codex, and related capabilities
+  - Use logs, telemetry, usage patterns, and customer feedback to diagnose issues
+    and guide recommendations on latency, reliability, model choice, prompting, cost
+    efficiency, and rollout readiness
+  - Lead targeted interventions for critical moments including launches, risk signals,
+    escalations, renewal preparation, and expansion opportunities
+  - Translate customer goals into prioritized adoption plans, success milestones,
+    and measurable KPIs through direct engagement and scaled programs
+  - Conduct technical enablement and configuration guidance, balancing 1:many education
+    with selective 1:1 engagement
+  - Identify repeatable use cases, barriers, and adoption patterns across customers
+    and convert insights into scaled guidance and intervention mechanisms
+  - Build repeatable mechanisms including playbooks, templates, health signals, and
+    reporting that improve outcomes across the portfolio
+  use_cases:
+  - Enterprise AI adoption and deployment for ChatGPT and OpenAI API
+  - Production AI system optimization including latency, reliability, and cost efficiency
+  - Workflow transformation and business process integration with AI capabilities
+  - Technical enablement and configuration of AI systems for large enterprises
+  - Measuring and demonstrating business value and ROI from AI deployments
+  - Scaling AI adoption across government, education, and enterprise organizations
+  skills:
+    genai: [OpenAI API, ChatGPT, Prompt engineering]
+    ml: [Model selection and optimization]
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Production AI deployment, Log analysis and telemetry, System monitoring]
+    languages: [Python]
+    domains: []
+    other: [Technical consulting, Program management, Customer success, Enterprise
+        SaaS]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8757335'
+  extracted_at: '2026-03-27T15:52:34.378135'

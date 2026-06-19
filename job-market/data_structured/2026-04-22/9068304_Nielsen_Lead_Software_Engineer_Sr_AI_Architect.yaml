@@ -1,0 +1,51 @@
+company:
+  name: Nielsen
+  stage: Public
+  focus: Media measurement and audience analytics
+position:
+  title: Lead Software Engineer (Sr AI Architect)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly responsible for architecting and
+      deploying LLM orchestration, vector database solutions, and
+      AI agents (Gemini, Glean). The position involves building,
+      deploying, and industrializing AI solutions—transitioning
+      POCs to enterprise-grade systems. This is hands-on AI system
+      design and implementation, not support work.
+  responsibilities:
+  - Architect and deploy LLM orchestration and vector database solutions at enterprise
+    scale
+  - Design and implement AI solutions spanning Databricks modules to advanced agents
+    in Gemini and Glean
+  - Partner with AI Product Managers and functional leads to translate business opportunities
+    into technical outcomes
+  - Lead the AI braintrust community by guiding engineers and building a developer
+    community
+  - Integrate FinOps cost and Governance risk considerations into every proposed AI
+    solution
+  - Transition experimental POCs into enterprise-grade, governed, and scalable engineering
+    solutions
+  - Identify performance bottlenecks and architectural risks proactively
+  use_cases:
+  - LLM orchestration and vector database solutions at enterprise scale
+  - AI agents using Gemini and Glean platforms
+  - Databricks-based AI modules
+  - Enterprise AI industrialization transitioning POCs to production
+  - Cloud-native AI deployments with governance and cost controls
+  skills:
+    genai: [LangChain, LLM orchestration, Gemini, ChatGPT/OpenAI API, Glean]
+    ml: []
+    web: []
+    databases: [Vector databases]
+    data: [Databricks]
+    cloud: [AWS Bedrock, Cloud-native deployments]
+    ops: [FinOps, AI Governance]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9068304'
+  extracted_at: '2026-04-22T12:58:46.689167'

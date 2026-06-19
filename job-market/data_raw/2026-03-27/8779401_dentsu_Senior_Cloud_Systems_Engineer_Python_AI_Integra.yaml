@@ -1,0 +1,181 @@
+job_id: 8779401
+title: "Senior Cloud Systems Engineer (Python & AI Integration)"
+company: dentsu
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Adobe Experience Platform
+  - Azure
+  - Docker
+  - Fastapi
+  - Microsoft Agent Framework
+  - Postgres
+  - Python
+  - Salesforce Data Cloud
+  - Vector Databases
+company_size: 15,492 Employees
+description: |
+  Job Description:
+  
+  We are looking for a heavy-hitting Python Developer with
+  deep Azure Infrastructure expertise to own the backend and
+  deployment for a production-grade AI conversational
+  platform. This isn't a research role; it’s a "boots-on-the-
+  ground" engineering position requiring you to architect,
+  deploy, and integrate AI services into a complex enterprise
+  ecosystem for a Fortune 500 connectivity leader.
+  
+  
+  
+  The Mission
+  
+  You will join an ongoing program for a massive global
+  telecommunications and connectivity client. The platform—a
+  sophisticated chat interface with streaming responses and
+  long-term memory—has been architected and built solo by our
+  Technical Director to date. As we approach an April 2025
+  production launch, you will take over the day-to-day
+  engineering, architecture, and "Full-Stack DevOps" ownership
+  to scale the platform through the end of the year.
+  
+  What You’ll Do (The Role)
+  
+  - Architect from Scratch: Design and deploy cloud
+    infrastructure within Azure, ensuring services are
+    resilient, monitored, and secure (RBAC).
+  - Engineer Backend Services: Develop and extend high-
+    concurrency APIs using Python and FastAPI to support
+    agentic behaviors and real-time streaming.
+  - Own the Deployment: In the absence of a centralized CI/CD
+    team, you will manage the full deployment lifecycle,
+    running scripts across environments and building the path
+    toward future automation.
+  - Integrate AI as a Service: Implement and orchestrate LLMs,
+    Vector Databases, and RAG pipelines using the Microsoft
+    Agent Framework (MAF).
+  - Data Orchestration: Build the data flows required for "agent
+    memory" and prepare for upcoming integrations with Adobe
+    Experience Platform (AEP) and Salesforce Data Cloud.
+  - Navigate the Enterprise: Work within a highly matrixed
+    environment, independently managing communications with
+    upwards of 25 project managers and stakeholders.
+  
+  What You’ll Have (The Requirements)
+  
+  - Python Mastery: Professional experience building production
+    backend systems (FastAPI preferred).
+  - Azure Infrastructure: You are a "Cloud First" developer
+    capable of configuring Azure Functions, Container Apps,
+    and API Management independently.
+  - The "DevOps" Skillset: Hands-on experience with Docker and
+    manual environment management; you don't need a DevOps
+    team to ship code.
+  - Practical AI Understanding: You treat AI as "just another
+    development effort." You understand how to integrate LLMs
+    and manage context without getting lost in the "hype."
+  - Enterprise Endurance: Experience working in large-scale
+    corporate environments.
+  
+  The Tech Stack
+  
+  - Languages/Frameworks: Python, FastAPI, Microsoft Agent
+    Framework (MAF)
+  - Cloud: Azure (Functions, APIM, RBAC, Monitoring)
+  - Data/Containers: Postgres, Docker, Vector Databases
+  - Future Integrations: Adobe Experience Platform, Salesforce
+    Data Cloud
+  
+  The annual salary range for this position is $94,000 -
+  $152,375. Placement within the salary range is based on a
+  variety of factors, including relevant experience,
+  knowledge, skills, and other factors permitted by law.
+  
+  Benefits available with this position include:
+  
+  • Medical, vision, and dental insurance,
+  
+  • Life insurance,
+  
+  • Short-term and long-term disability insurance,
+  
+  • 401k,
+  
+  • Flexible paid time off,
+  
+  • At least 15 paid holidays per year,
+  
+  • Paid sick and safe leave, and
+  
+  • Paid parental leave.
+  
+  Dentsu also complies with applicable state and local laws
+  regarding employee leave benefits, including, but not
+  limited to providing time off pursuant to the Colorado
+  Healthy Families and Workplaces Act, in accordance with its
+  plans and policies. For further details regarding Dentsu
+  benefits, please visit www.dentsubenefitsplus.com.
+  
+  To begin the application process, please click on the
+  “Apply” button at the top of this job posting. Applications
+  will be reviewed on an ongoing basis, and qualified
+  candidates will be contacted for next steps.
+  
+  At dentsu, we believe great work happens when we’re
+  connected. Our way of working combines flexibility with in-
+  person collaboration to spark ideas and strengthen our
+  teams. Employees who live within a commutable distance of
+  one of our hub offices, currently located in Chicago, metro
+  Detroit, Los Angeles, and New York City, are required and
+  expected to work from the office three days per week (two
+  days per week for employees based in Los Angeles). Dentsu
+  may designate other Hub offices at any time. Those who live
+  outside a commutable range may be designated as remote,
+  depending on the role and business needs. Regardless of your
+  work location, we expect our employees to be flexible to
+  meet the needs of our Company and clients, which may include
+  attendance in an office.
+  
+  Location:
+  
+  New York
+  
+  Brand:
+  
+  Merkle
+  
+  Time Type:
+  
+  Full time
+  
+  Contract Type:
+  
+  Permanent
+  
+  Dentsu is committed to providing equal employment
+  opportunities to all applicants and employees. We do this
+  without regard to race, color, national origin, sex , sexual
+  orientation, gender identity, age, pregnancy, childbirth or
+  related medical conditions, ancestry, physical or mental
+  disability, marital status, political affiliation, religious
+  practices and observances, citizenship status, genetic
+  information, veteran status, or any other basis protected
+  under applicable federal, state, or local law.
+  
+  
+  
+  Dentsu is committed to providing reasonable accommodation
+  to, among others, individuals with disabilities and disabled
+  veterans. If you need an accommodation because of a
+  disability to search and apply for a career opportunity with
+  us, please send an e-mail
+  to ApplicantAccommodations@dentsu.com by clicking on the
+  link to let us  know the nature of your accommodation
+  request and your contact information. We are here to support
+  you.
+industries:
+  - AdTech
+  - Marketing Tech
+posted_date: 2026-03-23
+url: "https://builtin.com/job/senior-cloud-systems-engineer-python-ai-integration/8779401"
+source: Built In

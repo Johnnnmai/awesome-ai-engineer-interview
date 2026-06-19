@@ -1,0 +1,59 @@
+company:
+  name: Beckman Coulter Diagnostics
+  stage: Public (Danaher subsidiary)
+  focus: |-
+    Cloud software and AI/ML solutions for BioPharma R&D and
+    manufacturing
+position:
+  title: Principal Software Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on building, designing, and
+      productionizing GenAI/LLM-powered capabilities including
+      RAG, summarization, and agentic patterns. The engineer will
+      be hands-on with LLMs, vector stores, and AI system design —
+      directly working ON AI systems, not just supporting them.
+  responsibilities:
+  - Lead delivery of AI-enabled platform capabilities across drug discovery, clinical
+    development, and commercial operations
+  - Design and productionize scalable GenAI solutions using RAG, MCP-style integrations,
+    and agentic patterns from POC through general release
+  - Translate scientific and business use cases into robust AI system designs integrating
+    with data platforms, workflows, and APIs
+  - Establish engineering best practices for GenAI/LLM applications including system
+    design patterns, evaluation, reliability, and scalability standards
+  - Build and operate LLM-powered capabilities such as document summarization, RAG,
+    and question answering over enterprise datasets
+  - Develop AI-ready data foundations including unstructured data pipelines, metadata
+    extraction, and hybrid vector store architectures
+  - Act as technical leader by mentoring engineers and influencing architectural direction
+    for GenAI capabilities across platforms
+  - Implement operational practices including versioning of prompts, models, data,
+    and feature flags for controlled AI rollout
+  use_cases:
+  - AI-driven discoverability and search across scientific, clinical, and operational
+    enterprise data
+  - Document summarization and reporting for BioPharma organizations
+  - Knowledge extraction and decision support across drug discovery, clinical development,
+    and commercial operations
+  - Workflow automation for BioPharma R&D and manufacturing processes
+  - Question answering over structured and unstructured enterprise datasets in regulated
+    (GxP) environments
+  skills:
+    genai: [RAG (Retrieval Augmented Generation), LLM integration and deployment,
+      Agentic patterns, MCP-style integrations, Prompt engineering]
+    ml: []
+    web: [API design]
+    databases: [Vector stores, Relational databases]
+    data: [Databricks, Data pipelines]
+    cloud: [AWS, Cloud platforms]
+    ops: [Docker, CI/CD, Model monitoring and evaluation, Feature flags]
+    languages: [Python]
+    domains: [BioPharma / life sciences domain, GxP regulated environments]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9039251'
+  extracted_at: '2026-04-22T13:19:38.854697'

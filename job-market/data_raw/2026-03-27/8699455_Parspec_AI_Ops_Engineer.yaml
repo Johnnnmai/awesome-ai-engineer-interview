@@ -1,0 +1,220 @@
+job_id: 8699455
+title: AI Ops Engineer
+company: Parspec
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Bedrock
+  - CloudFormation
+  - Docker
+  - Ec2
+  - Eks
+  - Fastapi
+  - Grafana
+  - Kafka
+  - Kubeflow
+company_size: 43 Employees
+description: |
+  About Parspec
+  
+  Parspec is building the AI and digital infrastructure for
+  the construction materials supply chain.
+  
+  Construction is a $15 trillion industry, yet the systems
+  that underpin the buying and selling of materials remain
+  fragmented, manual, and disconnected. Distributors and rep
+  agencies rely on spreadsheets, PDFs, phone calls, and siloed
+  tools to find new products and quote and manage projects;
+  creating delays, errors, and margin erosion across the
+  supply chain.
+  
+  Parspec is an AI-native platform that powers how
+  construction products are discovered, bought, and sold.
+  Trusted by more than 300 MEP distributors and rep agencies,
+  Parspec helps project-driven businesses bid faster, win more
+  work, and operate more profitably. By combining product
+  intelligence, AI-powered workflows, and a connected
+  ecosystem, Parspec is laying the foundation for a more
+  intelligent, efficient construction supply chain.
+  
+  Founded in 2021 and headquartered in San Mateo, California,
+  Parspec has raised $31 million from leading deep-tech and
+  construction-technology investors.
+  
+  The Opportunity
+  
+  We are looking for an experienced AIOps / LLMOps Engineer to
+  help design, deploy, and manage the AI infrastructure that
+  powers Parspec’s next-generation AI systems.
+  
+  This role will focus on building and maintaining scalable,
+  secure, and observable AI platforms that support generative
+  AI applications and document intelligence workflows. You
+  will work on self-hosted large language models, asynchronous
+  inference pipelines, and production-grade ML infrastructure
+  on AWS.
+  
+  You will collaborate closely with AI researchers, product
+  teams, and backend engineers to ensure reliable and
+  efficient deployment of AI systems across Parspec’s
+  platform.
+  
+  Preferred location: Bengaluru, with regular in-office
+  collaboration.
+  
+  What You Will Achieve and Key Responsibilities
+  
+  AI Infrastructure & LLM Platform Development
+  
+  - Design and build document AI platforms powered by generative
+    AI, leveraging asynchronous architectures for scalable
+    inference.
+  - Implement event-driven and queue-based systems to support
+    elastic scaling and non-blocking AI workflows.
+  - Architect and maintain self-hosted LLM infrastructure using
+    tools such as vLLM or Ollama on Kubernetes or EC2 with GPU
+    orchestration.
+  
+  LLM Operations & Model Governance
+  
+  - Manage production systems for LLM serving, inference
+    pipelines, and AI workflow orchestration.
+  - Implement LLM gateways and routing systems (e.g., LiteLLM,
+    Portkey) to ensure proper model usage and governance.
+  - Develop guardrails and monitoring systems to reduce
+    hallucinations, misuse, and unsafe outputs in generative
+    AI systems.
+  
+  Observability & AI System Monitoring
+  
+  - Implement end-to-end observability for AI/ML pipelines using
+    distributed tracing and monitoring tools.
+  - Monitor AI system health using platforms such as
+    OpenTelemetry, AWS X-Ray, Prometheus, and Grafana.
+  - Track performance metrics including latency, token usage,
+    inference quality, and model drift.
+  
+  ML Platform & Workflow Management
+  
+  - Manage machine learning workflows using tools such as
+    MLflow, Kubeflow, or SageMaker MLFlow setups.
+  - Enable experiment tracking, model versioning, and deployment
+    pipelines for production AI systems.
+  - Work closely with engineering teams to integrate AI
+    workflows into scalable backend systems.
+  
+  Security & Infrastructure Optimization
+  
+  - Implement AI platform security controls including Bedrock
+    Guardrails, KMS encryption, IAM least-privilege policies,
+    VPC endpoints, and CloudTrail auditing.
+  - Optimize AWS infrastructure—including Bedrock, SageMaker,
+    and EKS—for cost efficiency, performance, and reliability.
+  - Ensure production AI systems maintain high availability and
+    security standards.
+  
+  Why This Matters
+  
+  Generative AI systems are only as powerful as the
+  infrastructure that supports them. Building reliable,
+  scalable AI platforms, especially those that serve complex
+  document intelligence workloads, requires deep expertise in
+  distributed systems, observability, and model operations.
+  
+  At Parspec, this infrastructure powers AI systems that
+  extract and organize construction product data at scale.
+  Your work will enable the next generation of document AI and
+  generative workflows that make critical industry information
+  accessible, searchable, and actionable.
+  
+  Who You Are
+  
+  Required Qualifications
+  
+  - Strong experience with AWS cloud infrastructure including
+    services such as EC2, Lambda, S3, EKS, Bedrock, Step
+    Functions, API Gateway, EventBridge, and SQS/SNS.
+  - Experience building ML infrastructure using Infrastructure-
+    as-Code tools such as Terraform or CloudFormation.
+  - Hands-on experience deploying and operating LLM serving
+    infrastructure using platforms such as vLLM or Text
+    Generation Inference.
+  - Experience managing vector databases and retrieval systems
+    such as Pinecone, PGVector, or Weaviate.
+  - Strong experience designing event-driven or asynchronous
+    systems using queues (SQS, Kafka) and micro-batching
+    patterns.
+  - Experience implementing observability and monitoring for
+    distributed AI systems using tools such as ELK,
+    Prometheus, Grafana, and OpenTelemetry.
+  - Strong programming experience in Python, including
+    frameworks such as FastAPI and asynchronous programming
+    patterns (asyncio).
+  - Experience with Docker, Kubernetes, and CI/CD pipelines
+    using tools such as GitHub Actions or ArgoCD.
+  
+  Experience
+  
+  - 5+ years of experience in MLOps, LLMOps, AIOps, or DevOps
+    supporting machine learning or AI systems.
+  - Proven track record building production generative AI
+    systems with high availability and scalability.
+  - Experience deploying self-hosted LLMs on AWS infrastructure
+    and building production-grade document AI platforms.
+  - Experience operating AI systems with >99.9% uptime and cost-
+    efficient infrastructure management.
+    JobRequirements_AIOPS_Engineer
+  
+  Preferred Qualifications
+  
+  - Bachelor’s or Master’s degree in Computer Science, Data
+    Science, or a related technical field.
+  - Experience working with multimodal LLMs or agent-based AI
+    workflows.
+  - Familiarity with cost-optimized inference hardware and
+    infrastructure such as AWS Trainium.
+  
+  What We Offer
+  
+  - Competitive salary and benefits, including family insurance
+    coverage, free health teleconsultations, and
+    learning/upskilling budgets
+  - Equity in the company
+  - Flexible hours and a hybrid work setup
+  - Unlimited PTO
+  - Opportunity to grow with a fast-scaling company transforming
+    a large market
+  - Preferred Location: San Mateo, with regular in-office
+    presence
+  
+  Join Us
+  
+  At Parspec, we recognize that traditional job descriptions
+  don’t always capture the full range of your unique
+  abilities—and that’s perfectly okay. You may not meet every
+  requirement, but if you bring a mix of experiences, fresh
+  perspectives, and a passion that aligns with our mission, we
+  want to hear from you!
+  
+  The Parspec team believes that varied backgrounds drive
+  better outcomes and fuel innovation. We are a team of self-
+  starters that lead from every seat. We think big, set a
+  standard of excellence and are committed to diversity and a
+  discrimination-free workplace. We welcome applicants from
+  all walks of life to join us and help shape the future at
+  Parspec.
+  
+  How to Apply
+  
+  Submit your application and resume highlighting your
+  achievements. Apply now and help drive transformative change
+  in one of the world’s oldest and largest industries!
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-03-10
+url: "https://builtin.com/job/llm-ops-engineer/8699455"
+source: Built In

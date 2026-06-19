@@ -1,0 +1,51 @@
+company:
+  name: Backbase
+  stage: Growth/Mature (established company with startup-mentality division)
+  focus: AI-powered digital banking platform for global banks
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building an Agentic AI Automation
+      Platform, involving hands-on work with AI agents, RAG,
+      prompt engineering, fine-tuning, and LLMOps. The engineer
+      will design, build, and deploy agentic systems and AI
+      workflows — squarely placing this as an ai-first role.
+  responsibilities:
+  - Build and shape the core Agentic AI Automation Platform for orchestrating complex
+    agentic workflows
+  - Design and implement modular agent architectures using patterns like MCP, A2A,
+    and ACP where agents collaborate, reason, and adapt dynamically
+  - Develop context-aware agentic systems with RAG, knowledge-base integration, AI-search,
+    and guardrailing
+  - Manage model lifecycle including fine-tuning, prompt versioning, context management,
+    and AI experimentation
+  - Implement LLMOps practices including agent monitoring, evaluation, and deployment
+    on platforms like Azure AI Foundry
+  - Automate and optimize complex banking workflows across front and back office operations
+  - Collaborate across teams with strong documentation and knowledge sharing practices
+  use_cases:
+  - Automating complex banking workflows using agentic AI
+  - Orchestrating multi-agent systems for banking operations
+  - AI-powered front and back office automation for banks
+  - Enterprise-grade agentic workflow automation delivering measurable business outcomes
+  - Context-aware intelligent banking process optimization
+  skills:
+    genai: [Agentic AI frameworks, LangChain, RAG (Retrieval-Augmented Generation),
+      MCP (Model Context Protocol), A2A (Agent-to-Agent), ACP, Prompt engineering,
+      AI-search, Guardrailing, Context engineering]
+    ml: [Fine-tuning, HuggingFace]
+    web: []
+    databases: []
+    data: [Knowledge-base design]
+    cloud: [Azure AI Foundry]
+    ops: [LLMOps, MLOps, Agent monitoring, AI experimentation, Evaluation]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9049780'
+  extracted_at: '2026-04-22T12:28:25.778332'

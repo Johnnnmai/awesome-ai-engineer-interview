@@ -1,0 +1,42 @@
+company:
+  name: The Citco Group Limited
+  stage: Public
+  focus: |-
+    Asset servicing and financial services for alternatives,
+    corporations and private clients
+position:
+  title: Senior Developer - AI / ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves implementing LLM/GenAI solutions, vector
+      stores, and embedding strategies directly. The position
+      requires hands-on technical work building core AI
+      infrastructure and GenAI applications, not just supporting
+      infrastructure for others' AI work.
+  responsibilities:
+  - Build and maintain core AI infrastructure, APIs, and cloud integrations
+  - Implement LLM/GenAI solutions, vector stores, and embedding strategies
+  - Deliver reusable patterns, frameworks, and components for AI capabilities
+  - Collaborate with cross-functional teams to enable AI adoption across Citco
+  - Ensure code quality through testing, CI/CD, and DevOps practices
+  use_cases:
+  - AI infrastructure and platform development for financial services
+  - Enterprise AI enablement and adoption
+  - GenAI applications in asset servicing
+  skills:
+    genai: [LLMs, GenAI, Embedding strategies]
+    ml: []
+    web: [FastAPI, REST API, React]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, Azure, GCP, AWS Bedrock, Azure OpenAI]
+    ops: [CI/CD, DevOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8793120'
+  extracted_at: '2026-03-27T14:12:07.214785'

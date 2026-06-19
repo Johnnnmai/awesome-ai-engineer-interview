@@ -1,0 +1,50 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Healthcare technology and services improving health outcomes
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires direct hands-on work building, fine-
+      tuning, and deploying LLMs, implementing RAG architectures,
+      and building enterprise agentic solutions. The engineer will
+      work directly on AI/ML models and systems, making this a
+      clear ai-first role.
+  responsibilities:
+  - Implement GenAI solutions including fine-tuning LLMs and RAG architectures
+  - Build enterprise-level agentic solutions using open frameworks such as LangGraph,
+    Google ADK, or CrewAI
+  - Develop Document AI, OCR, and extraction solutions with structured output creation
+  - Deploy and manage LLMs in both open-source and commercial environments
+  - Implement machine learning techniques including supervised, unsupervised, reinforcement
+    learning, deep learning, and NLP
+  - Build and expose APIs (FastAPI, REST) and containerized services (Docker) for
+    AI solutions
+  - Work with vector databases and embeddings for AI-powered search and retrieval
+  - Collaborate on cloud-based AI development across Azure, AWS, and GCP environments
+  use_cases:
+  - Document AI and OCR extraction for healthcare data processing
+  - Enterprise agentic workflows for healthcare operations automation
+  - RAG-based intelligent search and retrieval over health data
+  - NLP-driven analysis of healthcare literature and clinical data
+  - Structured output generation from unstructured healthcare documents
+  skills:
+    genai: [LangGraph, CrewAI, Google ADK, RAG, Fine-tuning LLMs, OpenAI API, Prompt
+        engineering, Agentic frameworks]
+    ml: [PyTorch, Deep learning, Supervised learning, Unsupervised learning, Reinforcement
+        learning, NLP]
+    web: [FastAPI, REST APIs, Flask, Streamlit]
+    databases: [Vector databases, Embeddings]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, LLM deployment]
+    languages: [Python, SQL]
+    domains: [Document AI, OCR]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9058638'
+  extracted_at: '2026-04-22T14:03:18.457435'

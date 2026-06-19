@@ -1,0 +1,57 @@
+company:
+  name: Precision AQ
+  stage: null
+  focus: |-
+    Oncology access, analytics, and AI-enabled solutions for
+    life sciences
+position:
+  title: AI/ML Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly responsible for designing, developing,
+      fine-tuning, deploying, and scaling production-grade AI/ML
+      solutions including LLMs and Generative AI models. The
+      engineer works hands-on with model development,
+      optimization, and operationalization, making this a clear
+      ai-first role.
+  responsibilities:
+  - Design, develop, fine-tune, and evaluate ML, deep learning, and Generative AI
+    models including LLMs
+  - Build, maintain, and improve MLOps pipelines for model training, deployment, monitoring,
+    and lifecycle management
+  - Deploy and manage AI applications in cloud environments with containerization
+    and orchestration
+  - Monitor model performance in production and implement remediation strategies for
+    drift or degradation
+  - Partner with Product Managers, Engineers, Data Scientists, and Research teams
+    to align AI solutions with business objectives
+  - Work with structured and unstructured healthcare, claims, and life sciences datasets
+    to build high-performance AI systems
+  - Support integration of AI capabilities into customer-facing products and internal
+    platforms
+  - Contribute to internal best practices, standards, and reusable components for
+    AI/ML development
+  use_cases:
+  - AI-enabled oncology access and analytics products
+  - Healthcare and life sciences data processing with NLP and ML
+  - Production-grade LLM and Generative AI solutions for productized services
+  - Scalable AI/ML model deployment for SaaS products
+  - Automated model monitoring and drift detection in production environments
+  skills:
+    genai: [Generative AI, Large Language Models (LLMs), LLM fine-tuning, Prompt Engineering]
+    ml: [Deep Learning, Machine Learning, Feature Engineering, Model Evaluation &
+        Validation, Data Preprocessing]
+    web: [REST APIs]
+    databases: []
+    data: [Synthetic Data Generation]
+    cloud: [Azure, AWS, GCP]
+    ops: [MLOps, Docker, Kubernetes, Container Orchestration]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: [Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8985935'
+  extracted_at: '2026-04-22T13:07:15.137960'

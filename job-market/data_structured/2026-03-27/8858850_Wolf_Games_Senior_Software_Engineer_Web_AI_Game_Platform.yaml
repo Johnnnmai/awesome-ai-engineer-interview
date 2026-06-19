@@ -1,0 +1,52 @@
+company:
+  name: Wolf Games
+  stage: Early-stage startup
+  focus: |-
+    Generative entertainment platform for AI-collaborative
+    crime-solving games
+position:
+  title: Senior Software Engineer, Web & AI Game Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a senior software engineering role building the
+      web/game platform infrastructure (progression systems,
+      content pipelines, APIs) that supports the AI-powered games.
+      While the company builds generative entertainment with AI,
+      this role focuses on production game systems, architecture,
+      and engineering leadership rather than directly building,
+      training, or deploying AI models.
+  responsibilities:
+  - Lead technical evolution of game platform architecture for scalability and maintainability
+  - Take validated prototypes from concept to production
+  - Design and build shared game infrastructure including progression systems, content
+    pipelines, analytics integration, and platform APIs
+  - Own and refine engineering processes including sprint planning and documentation
+    standards
+  - Mentor and develop engineers through code review, pairing, and career development
+  - Evaluate and champion new technologies and AI-assisted development practices
+  - Collaborate with product and creative leadership to translate goals into technical
+    plans
+  - Contribute to hiring and team growth as the company scales
+  use_cases:
+  - Generative entertainment game platform with real-time AI collaboration
+  - Crime-solving detective games with evidence collection and case cracking
+  - Progression systems and analytics for game portfolio
+  - Content pipelines for game development
+  - Shared infrastructure for multiple game titles
+  skills:
+    genai: []
+    ml: []
+    web: [Pixi.js, Phaser, Three.js, API design]
+    databases: [SQL]
+    data: []
+    cloud: [GCP, AWS]
+    ops: [CI/CD, DevOps]
+    languages: [TypeScript, JavaScript, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8858850'
+  extracted_at: '2026-03-27T15:40:27.886420'

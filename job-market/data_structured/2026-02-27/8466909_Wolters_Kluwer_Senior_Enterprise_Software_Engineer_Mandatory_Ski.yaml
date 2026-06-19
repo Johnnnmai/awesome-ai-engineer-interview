@@ -1,0 +1,55 @@
+company:
+  name: Wolters Kluwer
+  stage: Public
+  focus: Enterprise cloud services and IT operations automation
+position:
+  title: Senior Enterprise Software Engineer (Mandatory Skills - Python, Azure/AWS,
+    Gen Ai)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an enterprise cloud software engineering role where
+      AI is used as a tool to enhance developer productivity (code
+      generation, documentation, optimization) rather than
+      building or deploying AI/ML systems. The role focuses on
+      cloud infrastructure, IaC, and enterprise services with AI
+      assistants as supporting tools.
+  responsibilities:
+  - Design and implement resilient services, APIs, and UIs using Python (FastAPI/Django/Flask)
+    and modern front-end stacks
+  - Build automation and platform capabilities using Azure and AWS SDKs with event-driven
+    designs and serverless functions
+  - Use AI assistants for code generation, defect analysis, optimization, and integrate
+    LLM-powered features safely
+  - Author Terraform modules and CI/CD pipelines for hands-free deployments and repeatable
+    environments
+  - Profile and optimize code for performance, scalability, and reliability with observability
+    instrumentation
+  - Practice secure SDLC including threat modeling, secure coding, and compliance
+    alignment
+  - Design contract-first REST/GraphQL APIs and model relational and NoSQL data
+  - Mentor team members and drive projects to completion while documenting patterns
+    and processes
+  use_cases:
+  - Automating traditional IT operations tasks at scale
+  - Enterprise cloud services development and integration
+  - Infrastructure orchestration and configuration management
+  - API-capable IT operations services
+  - Cloud operations standardization and acceleration
+  skills:
+    genai: [Azure OpenAI, LLM integration, prompt engineering]
+    ml: []
+    web: [FastAPI, Django, Flask, React, GraphQL, REST APIs]
+    databases: [NoSQL databases]
+    data: [SNS/SQS, Azure Service Bus, Kafka, Kinesis]
+    cloud: [Azure, AWS, Azure SDK for Python, boto3]
+    ops: [Terraform, Ansible, Azure DevOps, GitLab, CI/CD, Kubernetes, Docker, APM
+        tools, MLOps basics]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8466909'
+  extracted_at: '2026-03-03T11:22:19.425487'

@@ -1,0 +1,57 @@
+company:
+  name: H2O.ai
+  stage: Series C+
+  focus: |-
+    Agentic AI platform converging Generative and Predictive AI
+    for enterprise GenAI applications
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role that directly builds
+      and deploys agentic AI systems, LLM applications with
+      RAG/fine-tuning, and production ML pipelines. The position
+      involves end-to-end model development, deployment, and
+      working directly on AI/ML systems for enterprise customers.
+  responsibilities:
+  - Design and build agentic AI systems and multi-agent frameworks that automate complex,
+    multi-step workflows for enterprise customers
+  - Develop and deploy LLM-powered applications using RAG, fine-tuning, prompt engineering,
+    function calling, and tool use
+  - Implement guardrails, evaluation frameworks, and responsible AI controls for production-grade
+    reliability and safety
+  - Own the full development lifecycle from problem framing through model development,
+    API integration, and production deployment
+  - Build scalable backend services and APIs that expose AI capabilities to enterprise
+    applications and workflows
+  - Integrate AI models into customer environments including cloud, on-prem, and hybrid
+    deployments
+  - Develop ML pipelines and LLMOps infrastructure for continuous model improvement
+    and monitoring
+  - Work directly with customer stakeholders to translate real-world problems into
+    AI solutions and contribute to pre-sales engagements
+  use_cases:
+  - Automating complex multi-step enterprise workflows with agentic AI systems
+  - Enterprise GenAI applications on private data with sovereign AI principles
+  - Production ML pipelines for enterprise customers in regulated industries
+  - RAG-based LLM applications for enterprise knowledge retrieval and processing
+  - Financial services and healthcare AI deployments requiring compliance and data
+    privacy
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, prompt engineering, fine-tuning, function
+        calling, RLHF, agentic AI, multi-agent frameworks, LLMOps]
+    ml: [PyTorch, TensorFlow, scikit-learn, AutoML]
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8874519'
+  extracted_at: '2026-03-27T13:15:30.076217'

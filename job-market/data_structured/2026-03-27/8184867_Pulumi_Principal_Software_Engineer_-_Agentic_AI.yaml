@@ -1,0 +1,55 @@
+company:
+  name: Pulumi
+  stage: Series B/C (inferred from "3,250 customers", "rapid growth", founded 2017)
+  focus: |-
+    Infrastructure-as-code platform and cloud management with
+    AI-powered automation
+position:
+  title: Principal Software Engineer - Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building autonomous AI agents (Neo) that
+      plan, execute, and self-correct multi-step infrastructure
+      operations. The work includes agent orchestration, tool
+      interfaces, model orchestration and fine-tuning, and
+      evaluation frameworks for AI systems—all hands-on
+      development of agentic AI capabilities.
+  responsibilities:
+  - Build planning and execution systems for multi-step infrastructure operations
+    across AWS, Azure, GCP, and Kubernetes
+  - Design tool interfaces giving the agent semantic understanding of cloud resources
+    and engineering workflows
+  - Develop context systems helping Neo understand customer infrastructure patterns
+    and usage
+  - Create feedback loops and self-correction mechanisms for reliable autonomous operation
+  - Build evaluation frameworks measuring agent performance across migrations, compliance,
+    cost optimization, and diagnostics
+  - Build web interface for task assignment, progress visibility, and approval workflows
+  - Integrate Neo capabilities into Pulumi's MCP Server for agent-to-agent workflows
+  - Collaborate with platform teams to integrate agent capabilities into CLI, SDKs,
+    and Pulumi Cloud
+  use_cases:
+  - Autonomous cloud infrastructure management and operations
+  - Cloud migrations across AWS, Azure, GCP, and Kubernetes
+  - Continuous compliance enforcement
+  - Cost optimization for cloud resources
+  - Infrastructure diagnostics and troubleshooting
+  - ML infrastructure provisioning and management
+  skills:
+    genai: [LangChain, agents, function calling, tool use, multi-step orchestration,
+      prompt engineering, fine-tuning, RAG, MCP]
+    ml: [evaluation frameworks]
+    web: [FastAPI, React, CLI development]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP, Kubernetes]
+    ops: [Docker, infrastructure-as-code]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8184867'
+  extracted_at: '2026-03-27T16:13:17.124120'

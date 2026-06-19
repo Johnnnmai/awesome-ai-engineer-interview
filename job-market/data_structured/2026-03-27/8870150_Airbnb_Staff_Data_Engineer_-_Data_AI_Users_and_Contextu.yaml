@@ -1,0 +1,49 @@
+company:
+  name: Airbnb
+  stage: Public
+  focus: Global hospitality marketplace connecting hosts and guests
+position:
+  title: Staff Data Engineer - Data AI & Users and Contextualization Data
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role focused on building data
+      pipelines and systems that enable ML engineers to do their
+      work, not building ML models themselves. The role
+      collaborates with ML teams and works on data that powers ML
+      solutions, but the primary responsibility is data
+      architecture, ETL, and infrastructure rather than model
+      development or deployment.
+  responsibilities:
+  - Architect and productionize batch and real-time data systems to power products
+    for Airbnb Guests and Hosts
+  - Ensure quality, performance, and stability of data systems with monitoring and
+    quality systems
+  - Tune, productionize, and optimize data systems powering Airbnb products
+  - Collaborate with product teams to extract data requirements and develop scalable
+    systems
+  - Work with ML engineers on developing integrated NRT data and machine learning
+    solutions
+  - Establish overarching data architecture and data flow across team boundaries
+  use_cases:
+  - User data foundation for Guest and Host understanding
+  - Personalized and context-aware user experiences
+  - Trip quality enhancement on and off platform
+  - Marketplace data quality and insights
+  - Business and sales team data support
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Relational databases]
+    data: [Spark, Streaming solutions, Batch and NRT systems, Data pipelines]
+    cloud: []
+    ops: []
+    languages: [Python, Scala, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8870150'
+  extracted_at: '2026-03-27T13:27:19.257441'

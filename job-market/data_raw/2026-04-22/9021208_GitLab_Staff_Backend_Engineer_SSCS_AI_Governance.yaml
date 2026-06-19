@@ -1,0 +1,208 @@
+job_id: 9021208
+title: "Staff Backend Engineer, SSCS: AI Governance"
+company: GitLab
+location: IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Clickhouse
+  - GraphQL
+  - Postgres
+  - Python
+  - Rest Apis
+  - Ruby On Rails
+company_size: 2,500 Employees
+description: |
+  GitLab is the intelligent orchestration platform for
+  DevSecOps. GitLab enables organizations to increase
+  developer productivity, improve operational efficiency,
+  reduce security and compliance risk, and accelerate digital
+  transformation. More than 50 million registered users and
+  more than 50% of the Fortune 100* trust GitLab to ship
+  better, more secure software faster.
+  
+  The same principles built into our products are reflected in
+  how our team works: we embrace AI as a core productivity
+  multiplier, with all team members expected to incorporate AI
+  into their daily workflows to drive efficiency, innovation,
+  and impact. GitLab is where careers accelerate, innovation
+  flourishes, and every voice is valued. Our high-performance
+  culture is driven by our values and continuous knowledge
+  exchange, enabling our team members to reach their full
+  potential while collaborating with industry leaders to solve
+  complex problems. Co-create the future with us as we build
+  technology that transforms how the world develops software.
+  
+  *Fortune 500® is a registered trademark of Fortune Media IP
+  Limited, used under license. Claim based on GitLab data.
+  Fortune 100 refers to the top 20% ranked companies in the
+  2025 Fortune 500 list, published in June 2025. Fortune and
+  Fortune Media IP Limited are not affiliated with, and do not
+  endorse products or services of GitLab.
+  
+  An overview of this role
+  
+  As a Staff Backend Engineer - AI Governance at GitLab,
+  you'll help define the technical foundation for how GitLab
+  Duo agents are governed at enterprise scale. This role sits
+  where AI systems, compliance, auditability, and backend
+  architecture meet. You'll shape core systems that give
+  customers clear visibility into AI agent activity and the
+  controls they need to manage usage with clarity.
+  
+  You'll work on backend architecture that enables auditable
+  AI actions, policy-based governance, and enterprise
+  reporting across the GitLab platform. This includes
+  designing systems for AI audit events, policy enforcement,
+  tool governance, and integrations that help organizations
+  analyze and control how AI agents interact with code,
+  pipelines, secrets, and other sensitive resources.
+  
+  This is a high-impact role for someone ready to set
+  technical direction early, write and review strong design
+  proposals, and influence multiple teams. You'll partner
+  closely with engineering teams working on GitLab Duo and
+  adjacent platform areas to make sure governance capabilities
+  are built into the product in a scalable and consistent way.
+  Your work will help customers in regulated and security-
+  conscious environments adopt AI features with greater trust
+  and operational clarity.
+  
+  What you’ll do
+  
+  - Define and drive backend architecture for AI governance
+    systems, including auditability, policy enforcement, and
+    enterprise reporting capabilities, to improve governance
+    coverage and enable reliable enterprise adoption.
+  - Design the AI audit event system, including event schema,
+    pipelines, storage patterns, retention considerations, and
+    export surfaces, to deliver reliable audit visibility and
+    support customer reporting and compliance requirements.
+  - Build and guide the integration layer between the Duo Agent
+    Platform and governance capabilities so agent actions can
+    be observed and controlled at the right points in
+    execution, reducing governance gaps across agent
+    workflows.
+  - Guide technical design for tool and registry governance,
+    including metadata models, permissions, and controls for
+    managed tool usage, enabling safer, more consistent, and
+    more governable tool access.
+  - Define backend foundations for a declarative policy
+    framework that governs which agents and tools can be used
+    under specific conditions, helping customers enforce
+    governance requirements consistently across environments.
+  - Drive architectural consistency and implementation quality
+    across teams by reviewing significant merge requests and
+    contributing to technical RFCs, thus mitigating design
+    drift as the product evolves.
+  - Strengthen team effectiveness and technical decision-making
+    by mentoring other engineers, providing design guidance
+    and feedback, and coordinating efforts across teams to
+    raise the overall technical bar.
+  - Accelerate delivery and improve consistency across shared
+    initiatives by partnering with engineering teams to align
+    the governance architecture with existing platform
+    patterns and the broader product direction.
+  
+  What you’ll bring
+  
+  - Strong experience designing and operating backend systems at
+    scale, especially in domains that require auditability,
+    governance, or compliance.
+  - Deep knowledge of authorization and access control patterns,
+    such as role-based access control (RBAC), attribute-based
+    access control (ABAC), and policy-as-code approaches.
+  - Strong Ruby on Rails experience in production SaaS
+    environments.
+  - Strong Python experience, especially in systems related to
+    AI services, orchestration layers, or service
+    integrations.
+  - Experience designing REST APIs and GraphQL APIs for internal
+    or external platform use.
+  - Familiarity with high-scale data and storage systems,
+    including technologies such as Postgres and ClickHouse.
+  - Proven experience guiding large, cross-team technical
+    efforts in an async, RFC-driven engineering environment.
+  - Communicate technical decisions clearly in writing and
+    discussion, make sound tradeoffs during design and
+    implementation, and influence technical direction across
+    teams while collaborating and working effectively in a
+    remote setting.
+  
+  About the team
+  
+  You'll join the AI Governance team within GitLab's Secure,
+  Scale, and Compliance area. We focus on helping
+  organizations gain visibility into and govern AI usage
+  inside GitLab. Our work spans two broad problem spaces:
+  visibility, such as audit events, usage tracking, and
+  observability, and policy controls, such as controls that
+  help protect projects and meet compliance requirements.
+  
+  We are building this team alongside a parallel AI Governance
+  team, with both groups contributing to different parts of a
+  fast-changing roadmap. You'll work with a distributed group
+  of engineers and collaborate with adjacent AI and Continuous
+  Delivery teams as we integrate governance capabilities more
+  deeply into the platform. It's an interesting team for
+  engineers who want to work on emerging product challenges at
+  the intersection of AI, compliance, and large-scale
+  enterprise software. For more on how related teams work, see
+  Team Handbook Page.
+  
+  How GitLab Supports Full-Time Employees
+  
+  - Benefits to support your health, finances, and well-being
+  - Flexible Paid Time Off
+  - Team Member Resource Groups
+  - Equity Compensation & Employee Stock Purchase Plan
+  - Growth and Development Fund
+  - Parental leave
+  - Home office support
+  
+  Please note that we welcome interest from candidates with
+  varying levels of experience; many successful candidates do
+  not meet every single requirement. Additionally, studies
+  have shown that people from underrepresented groups are less
+  likely to apply to a job unless they meet every single
+  qualification. If you're excited about this role, please
+  apply and allow our recruiters to assess your application.
+  
+  Country Hiring Guidelines: GitLab hires new team members in
+  countries around the world. All of our roles are remote,
+  however some roles may carry specific location-based
+  eligibility requirements. Our Talent Acquisition team can
+  help answer any questions about location after starting the
+  recruiting process.
+  
+  Privacy Policy: Please review our Recruitment Privacy
+  Policy. Your privacy is important to us.
+  
+  GitLab is proud to be an equal opportunity workplace and is
+  an affirmative action employer. GitLab’s policies and
+  practices relating to recruitment, employment, career
+  development and advancement, promotion, and retirement are
+  based solely on merit, regardless of race, color, religion,
+  ancestry, sex (including pregnancy, lactation, sexual
+  orientation, gender identity, or gender expression),
+  national origin, age, citizenship, marital status, mental or
+  physical disability, genetic information (including family
+  medical history), discharge status from the military,
+  protected veteran status (which includes disabled veterans,
+  recently separated veterans, active duty wartime or campaign
+  badge veterans, and Armed Forces service medal veterans), or
+  any other basis protected by law. GitLab will not tolerate
+  discrimination or harassment based on any of these
+  characteristics. See also GitLab’s EEO Policy and EEO is the
+  Law. If you have a disability or special need that requires
+  accommodation, please let us know during the recruiting
+  process.
+industries:
+  - Cloud
+  - Security
+  - Software
+  - Cybersecurity
+  - Automation
+posted_date: 2026-04-11
+url: "https://builtin.com/job/staff-backend-engineer-sscs-ai-governance/9021208"
+source: Built In

@@ -1,0 +1,55 @@
+company:
+  name: Alvys
+  stage: Growth
+  focus: |-
+    Transportation Management System (TMS) SaaS platform for
+    logistics
+position:
+  title: Senior Data & AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves defining and implementing LLM-based data
+      strategies, building RAG-based applications, deploying
+      LLM/ML models via Snowflake Cortex, and implementing
+      semantic models and LLM agents. While it has a strong data
+      engineering foundation, the core mandate is architecting AI-
+      driven data products and operationalizing LLM pipelines,
+      making it ai-first.
+  responsibilities:
+  - Define and implement the strategy for LLM-based data products, including data
+    preparation, semantic layer design, and embedding pipelines for RAG-based applications
+  - Own the design and evolution of Snowflake architecture and lead implementation
+    of Snowflake Cortex for AI/ML workloads, including semantic models and LLM agents
+  - Design and maintain reliable, performant ELT/Reverse ETL pipelines ensuring multi-tenant
+    SaaS data isolation, security, and performance at scale
+  - Build and operationalize pipelines for large-scale ML and LLM model development,
+    moving from POC to production-grade deployment within Snowflake
+  - Reduce complexity through modularity and well-defined service boundaries using
+    Medallion Architecture
+  - Serve as the go-to expert for emerging data trends and mentor engineers while
+    partnering with Product and Design to translate business logic into automated
+    deliverables
+  use_cases:
+  - LLM-based logistics intelligence products powered by Snowflake Cortex
+  - RAG-based applications for querying fragmented logistics data
+  - Automating and standardizing transportation management workflows
+  - Large-scale ML model deployment for logistics prediction and optimization
+  - Real-time operational data infrastructure for multi-tenant TaaS platform
+  skills:
+    genai: [OpenAI API, RAG, LLM Agents, Embedding Pipelines]
+    ml: [Feature Engineering]
+    web: []
+    databases: [Snowflake]
+    data: [dbt, Fivetran, Census (Reverse ETL), Airflow, Dagster, Medallion Architecture,
+      Semantic Layer Design]
+    cloud: [Snowflake Cortex, Azure Cognitive Services, Azure]
+    ops: [GitHub Actions, Model Deployment]
+    languages: [Python, SQL, .NET/C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8709662'
+  extracted_at: '2026-04-22T13:45:51.435876'

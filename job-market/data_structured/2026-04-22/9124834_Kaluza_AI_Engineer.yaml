@@ -1,0 +1,56 @@
+company:
+  name: Kaluza
+  stage: Growth
+  focus: |-
+    Energy intelligence platform for clean energy optimization
+    and grid orchestration
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      maintaining ML models and AI-driven pipelines, including
+      integrating LLMs and generative AI capabilities. The
+      engineer designs production ML infrastructure, works with
+      MLOps, and evaluates/integrates LLMs and RAG systems — all
+      hands-on work on AI/ML systems.
+  responsibilities:
+  - Design, develop, and deploy machine learning models and AI-driven pipelines for
+    real-time energy optimisation
+  - Collaborate with product managers, data scientists, and software engineers to
+    translate business problems into scalable AI solutions
+  - Evaluate and integrate large language models (LLMs) and generative AI capabilities
+    into the product suite
+  - Build production-ready ML infrastructure including model serving, monitoring,
+    and retraining pipelines at global scale
+  - Champion best practices in MLOps ensuring models remain accurate, explainable,
+    and aligned with evolving data
+  - Contribute to the technical direction of AI by staying ahead of emerging research
+    and bringing new approaches
+  - Partner with cross-functional stakeholders to communicate model performance, limitations,
+    and opportunities
+  use_cases:
+  - Real-time energy optimisation across homes, devices, markets, and grids
+  - Predictive algorithms for clean energy demand and supply coordination
+  - LLM and generative AI integration into energy product suite
+  - Time-series forecasting and demand prediction for energy markets
+  - Production ML model serving and monitoring at global scale
+  - Smarter energy production, distribution, and consumption decisions
+  skills:
+    genai: [LLMs, Generative AI, RAG]
+    ml: [PyTorch, TensorFlow, scikit-learn, Time-series forecasting]
+    web: []
+    databases: []
+    data: [Kafka, Flink]
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, CI/CD, Docker, Kubernetes, Model deployment and versioning, Model
+        monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9124834'
+  extracted_at: '2026-04-22T13:40:43.208383'

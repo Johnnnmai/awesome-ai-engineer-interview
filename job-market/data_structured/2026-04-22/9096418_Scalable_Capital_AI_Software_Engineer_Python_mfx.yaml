@@ -1,0 +1,53 @@
+company:
+  name: Scalable Capital
+  stage: Series C+ (founded 2014, 700+ employees, €30B AUM)
+  focus: |-
+    Digital investment and banking platform for retail investors
+    across Europe
+position:
+  title: AI Software Engineer – Python (m/f/x)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building agentic AI systems,
+      orchestrating LLM workflows using frameworks like LangGraph,
+      and integrating AI capabilities (OpenAI, Anthropic, Google
+      APIs) into production systems. The engineer is directly
+      designing and deploying AI-powered services, making it an
+      ai-first role.
+  responsibilities:
+  - Develop and maintain AI/LLM services for internal and potential client-facing
+    services following software engineering best practices
+  - Design and develop architectures for deploying and maintaining scalable AI-enabled
+    solutions on AWS
+  - Extend Terraform infrastructure and CI/CD pipelines to support AI services
+  - Design and implement testing and monitoring components to ensure accuracy, reliability,
+    and performance of AI-integrated systems
+  - Build intelligent agentic workflows using orchestration frameworks like LangGraph
+  - Collaborate with cross-functional teams to integrate AI-driven features into the
+    product
+  - Stay current with latest developments in AI integration, cloud architecture, and
+    scalable backend systems
+  use_cases:
+  - AI-driven financial services for retail investors
+  - Intelligent agentic workflows for investment and banking operations
+  - Internal AI-powered tools for operational efficiency
+  - Client-facing AI services integrated into the Scalable Capital platform
+  - Automated financial product recommendations and portfolio management support
+  skills:
+    genai: [LangGraph, OpenAI API, Anthropic API, Google AI API, Agentic AI orchestration,
+      LLM integration]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Terraform, Docker, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9096418'
+  extracted_at: '2026-04-22T12:34:24.637844'

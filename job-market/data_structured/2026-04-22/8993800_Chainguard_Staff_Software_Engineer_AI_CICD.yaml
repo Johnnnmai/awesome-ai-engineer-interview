@@ -1,0 +1,48 @@
+company:
+  name: Chainguard
+  stage: Venture-backed (no specific round mentioned)
+  focus: Secure, hardened open source software supply chain
+position:
+  title: Staff Software Engineer (AI CICD)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves extending Chainguard's "agentic
+      AI foundation" into customer-facing products and building
+      products like "Chainguard Agent Skills" and "Guardener."
+      This is hands-on work building and shipping AI-powered
+      products, including agentic AI systems, making it an ai-
+      first role.
+  responsibilities:
+  - Own features end-to-end from design through implementation, rollout, and iteration
+    in partnership with Product and front-end teams
+  - Extend Chainguard's agentic AI foundation into customer-facing product experiences
+    across the full product suite
+  - Build new products including Guardener, hardened GitHub Actions, and Chainguard
+    Agent Skills
+  - Navigate ambiguous problems and find clear paths forward with initiative
+  - Contribute to a product-driven roadmap with real deadlines, helping prioritize
+    tradeoffs and ship iteratively
+  - Guide architectural decisions and bring a strong technical point of view to the
+    team
+  use_cases:
+  - Securing software supply chains using AI-powered tools
+  - Hardened GitHub Actions for CI/CD security
+  - Agentic AI skills for software development and security workflows
+  - AI-assisted developer tooling for open source software compliance and risk elimination
+  skills:
+    genai: [Agentic AI, AI tooling]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, CI/CD systems, Containers, Artifact registries]
+    languages: [Go (Golang)]
+    domains: []
+    other: [Software supply chain security]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8993800'
+  extracted_at: '2026-04-22T12:28:40.630194'

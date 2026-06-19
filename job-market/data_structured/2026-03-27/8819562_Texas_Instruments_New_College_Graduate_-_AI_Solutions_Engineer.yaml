@@ -1,0 +1,49 @@
+company:
+  name: Texas Instruments
+  stage: Public
+  focus: |-
+    Semiconductor company designing analog and embedded
+    processing chips
+position:
+  title: New College Graduate - AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, training, and
+      deploying AI/ML systems including LLMs, agents, and neural
+      networks from scratch. The engineer will work hands-on with
+      discriminative and generative AI applications, developing
+      agents, training networks, and monitoring deployments.
+  responsibilities:
+  - Design and build AI enabled solutions for discriminative and generative applications
+  - Develop machine learning algorithms including classical and neural network approaches
+    (MLPs, RNNs, CNNs, GNNs, transformers)
+  - Build efficient data pipelines and develop agents using the latest LLMs
+  - Train new neural networks from scratch when needed
+  - Test AI solutions with rigor and monitor deployments for accuracy and drift
+  - Collaborate with partners across TI on applications in design, manufacturing,
+    sales, and planning
+  - Deliver robust, scalable, performant, and secure AI solutions
+  use_cases:
+  - Design automation for software, digital, and analog systems
+  - Manufacturing optimization including process development, fabrication, and testing
+  - Sales applications including pricing and recommendations
+  - Planning and general productivity improvements
+  - Language, speech, vision, and time series applications
+  skills:
+    genai: [LLMs, agents]
+    ml: [PyTorch, transformers, MLPs, RNNs, CNNs, GNNs, clustering, regression, decision
+        trees]
+    web: []
+    databases: []
+    data: [data pipelines]
+    cloud: []
+    ops: []
+    languages: [Python, C/C++, SQL]
+    domains: [NLP, computer vision, time series]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8819562'
+  extracted_at: '2026-03-27T15:13:25.563288'

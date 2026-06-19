@@ -1,0 +1,138 @@
+job_id: 8857518
+title: "QA Engineer, AI Automation & Web Games"
+company: Wolf Games
+location: Los Angeles, USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AI
+  - Cypress
+  - HTML5
+  - JavaScript
+  - Phaser
+  - Pixi.Js
+  - Playwright
+  - Puppeteer
+  - Three.Js
+  - Typescript
+description: |
+  About Wolf Games
+  
+  Wolf Games is building the platform for generative
+  entertainment universes — living, ever-expanding worlds
+  where creators, players, and AI collaborate in real time.
+  Our first universe, Public Eye, turns everyone into a
+  detective. Across a suite of crime-solving games, players
+  collect evidence, crack cases, and rise through the ranks of
+  a connected detective program. We're creating a future where
+  game development and player experience are tightly connected
+  through intelligent systems that learn, adapt, and surprise.
+  
+  About the role
+  
+  We're looking for a QA Engineer to build and manage AI-
+  driven QA systems that autonomously verify, play, and
+  bulletproof our mobile HTML5 games. This is a role for
+  someone who sees QA as an engineering discipline —
+  prioritizing AI tooling, automated playthroughs, and script
+  generation over manual clicking.
+  
+  You will transform traditional manual testing into a highly
+  automated, continuous pipeline of AI bug hunts, autonomous
+  playthroughs, and AI code reviews. As Wolf Games scales to
+  produce daily live content, our testing surface area is
+  exploding. Traditional manual QA cannot keep pace with an
+  AI-driven development pipeline that ships daily. We need
+  someone who builds AI systems to test what our AI systems
+  build.
+  
+  The time you save through automation goes directly into what
+  humans do best: evaluating game feel, tuning, balance, and
+  "finding the fun." You'll be the human arbiter of taste
+  while your AI agents handle the regression testing.
+  
+  You will report to the Director of Engineering and work
+  closely with engineering and creative leadership to:
+  
+  - Design and deploy AI agents capable of autonomously playing
+    through our HTML5 games to validate core loops,
+    progression logic, and edge cases.
+  - Build an automated "AI Bug Hunt" system that continuously
+    explores daily builds to identify physics glitches, UI
+    overlaps, and rendering anomalies across mobile browser
+    environments.
+  - Integrate QA deeply into Wolf's AI-driven development
+    process, writing the test parameters, prompts, and
+    acceptance criteria that our AI coding tools use to
+    generate game features.
+  - Implement automated AI code reviews that scan incoming pull
+    requests for performance bottlenecks, memory leaks, and
+    mobile web anti-patterns before human review.
+  - Develop automated systems to simulate and test device
+    fragmentation — iOS Safari memory limits, Android Chrome
+    touch latency, variable network speeds.
+  - Embed AI QA gates directly into the CI/CD pipeline, halting
+    builds that fail automated visual or state-based checks.
+  - Run structured internal play-test sessions for rapid
+    prototypes, translating subjective design feedback into
+    objective, testable parameters.
+  - Reduce manual regression testing by 90% through AI-augmented
+    end-to-end testing.
+  
+  What you'll bring
+  
+  - Extensive experience shipping and maintaining mobile browser
+    / HTML5 games. This is non-negotiable.
+  - Proven track record testing browser-based games built with
+    Pixi.js, Phaser, Three.js, or custom WebGL engines.
+  - Deep familiarity with LLMs, AI agents, and prompt
+    engineering. You know how to instruct an AI to review
+    code, write test scripts, or analyze game logs.
+  - Strong scripting skills in TypeScript/JavaScript and
+    experience with modern testing frameworks (Playwright,
+    Cypress, Puppeteer) combined with AI-assisted workflows.
+  - Solid understanding of TDD methodologies and how to apply
+    them in an AI-code-generation environment.
+  - Highly developed taste for games — strong intuition for what
+    makes a game fun and the ability to articulate design
+    feedback constructively.
+  - Deep empathy for the player experience, prioritizing issues
+    based on how heavily they disrupt the core gameplay loop.
+  - An automation-obsessive mindset. If you have to manually
+    test something twice, your instinct is to build an AI
+    agent or script to do it forever.
+  - Exceptional communication skills — your bug tickets and AI
+    test prompts are precise, clear, and immediately
+    actionable.
+  - Comfort operating in a high-velocity environment where
+    builds happen daily and traditional QA timelines do not
+    exist.
+  
+  Nice to have
+  
+  - Experience configuring visual regression tools for
+    WebGL/Canvas environments.
+  - Background training or fine-tuning AI models for testing
+    applications.
+  - Prior work embedding QA automation into CI/CD pipelines at
+    scale.
+  - Experience with AAA-level QA rigor applied to mobile or web
+    game contexts.
+  
+  Why Wolf Games
+  
+  We are a small, creative, and collaborative team that values
+  curiosity, craftsmanship, and experimentation. We believe
+  small wins lead to big wins — and that the right QA systems,
+  built by the right engineer, can let a small team ship at
+  startup speed with AAA quality. If you're excited to
+  industrialize quality assurance through AI while defending
+  the fun, we'd love to hear from you.
+industries:
+  - Artificial Intelligence
+  - Gaming
+  - Information Technology
+  - Software
+posted_date: 2026-03-25
+url: "https://www.builtinla.com/job/qa-engineer-ai-automation-web-games/8857518"
+source: Built In

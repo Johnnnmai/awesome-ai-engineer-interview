@@ -1,0 +1,52 @@
+company:
+  name: Cargill
+  stage: Public
+  focus: |-
+    Global food and agriculture corporation with AI-enhanced
+    data management
+position:
+  title: AI/ML Sr. Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly developing and deploying AI/ML
+      models including generative AI solutions, with hands-on work
+      in model development, AI engineering, and implementation.
+      The engineer will design, build, test, and maintain AI-
+      enabled systems, not just support infrastructure for others'
+      AI work.
+  responsibilities:
+  - Lead design and build of AI-enabled solutions for data management and governance
+    capabilities
+  - Apply machine learning, generative AI, and automation to improve data quality,
+    metadata management, and data classification
+  - Conduct extraction and integration of complex data from various sources with bias
+    analysis and mitigation
+  - Develop and deploy AI models with ongoing performance monitoring and evaluation
+  - Establish AI engineering patterns and principles to design, develop, test, and
+    maintain generative AI solutions
+  - Document development and code for knowledge sharing and support
+  - Present techniques and results to technical and non-technical audiences
+  - Collaborate with cross-functional teams to develop AI models for digital applications
+  use_cases:
+  - Data quality improvement and automation
+  - Metadata management and master data governance
+  - Data classification and lineage tracking
+  - Data governance workflows and compliance
+  - Business-ready data preparation
+  skills:
+    genai: [Generative AI, AI Engineering]
+    ml: [Machine Learning, Model Development]
+    web: []
+    databases: []
+    data: [Data Engineering, Data Analysis]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8363908'
+  extracted_at: '2026-03-03T11:45:40.892337'

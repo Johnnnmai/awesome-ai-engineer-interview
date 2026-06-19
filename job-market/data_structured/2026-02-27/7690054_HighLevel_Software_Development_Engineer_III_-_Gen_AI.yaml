@@ -1,0 +1,49 @@
+company:
+  name: HighLevel
+  stage: Growth/Late Stage
+  focus: |-
+    AI-powered white-label sales and marketing SaaS platform for
+    agencies and businesses
+position:
+  title: Software Development Engineer III - Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI Agent platforms,
+      developing Planner & Executor agents, implementing RAG
+      pipelines, and architecting generative AI systems. The
+      position requires hands-on work creating, deploying, and
+      scaling AI agents and conversational AI systems, not just
+      supporting infrastructure.
+  responsibilities:
+  - Design architecture ensuring cost-efficiency and alignment with overall architectural
+    vision
+  - Implement major and complex parts of AI products and features
+  - Take ownership of delivery timeline and coordinate complete development of products
+  - Own product releases with pre-planning and infrastructure scaling
+  - Communicate clear goals, provide feedback, coach and support the engineering team
+  - Maintain high code quality standards through design and code reviews
+  use_cases:
+  - Multi-step goal planning and execution with Planner & Executor agents
+  - Specialized agents for email, social media, ads, messaging, sales, reputation
+    management, and content creation
+  - Centralized AI platform with common frontend and consistent UX across products
+  - Agent Studio integration with 200+ tools and connectors via MCP server
+  - Lead capture, nurturing, and customer conversion through AI-driven workflows
+  skills:
+    genai: [RAG pipelines, AI Agents, Conversational AI, MCP (Model Context Protocol),
+      LangChain]
+    ml: []
+    web: [Vue.js, React, Angular, API design]
+    databases: [Vector databases]
+    data: [Knowledge graphs]
+    cloud: []
+    ops: [Microservices architecture]
+    languages: [Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7690054'
+  extracted_at: '2026-03-03T12:09:33.873532'

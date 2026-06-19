@@ -1,0 +1,47 @@
+company:
+  name: TechBiz Global
+  stage: null
+  focus: Recruitment and staffing services for tech clients
+position:
+  title: AI Engineer (n8n)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI systems
+      including RAG pipelines, agentic RAG systems, and workflows
+      with LLMs. The engineer will directly design and implement
+      AI agents and automation solutions using n8n, LLMs, and
+      vector databases.
+  responsibilities:
+  - Design, integrate, and automate business processes using AI agents, workflows,
+    and data pipelines with n8n platform
+  - Lead development and management of workflows utilizing n8n, LLMs, custom ML modeling,
+    vector databases, and Python scripts
+  - Build and maintain RAG pipelines and Agentic RAG systems
+  - Collaborate with data engineers, analysts, and business stakeholders to understand
+    automation requirements
+  - Create and maintain technical documentation for all solutions
+  - Communicate proactively with local and global teams for seamless project delivery
+  - Interact with clients for requirement clarification and deployment support
+  use_cases:
+  - Business process automation using AI agents
+  - Workflow automation and data pipeline integration
+  - RAG-based information retrieval and question answering systems
+  - Agentic AI systems for enterprise automation
+  - Custom ML model integration for business processes
+  skills:
+    genai: [n8n, LLMs, RAG pipelines, Agentic RAG]
+    ml: [Custom ML modeling]
+    web: [REST APIs, Webhooks]
+    databases: [Vector Databases, PostgreSQL]
+    data: [Data integration]
+    cloud: []
+    ops: [Workflow automation]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8848631'
+  extracted_at: '2026-03-27T13:49:24.877212'

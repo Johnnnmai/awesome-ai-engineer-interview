@@ -1,0 +1,123 @@
+job_id: 8774995
+title: Principal Engineer, AI Compiler
+company: Renesas Electronics
+location: IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - C/C++
+  - Llvm
+  - Mlir
+  - Python
+  - Tvm
+company_size: 10,040 Employees
+description: |
+  Job Description
+  
+  As an AI Compiler Engineer on the Renesas HPC team, you will
+  be responsible for driving compiler and code generation
+  technologies that unlock the full compute potential of
+  Renesas next-generation automotive System-on-Chip platforms,
+  including advanced 3 nm silicon for software-defined
+  vehicles (SDVs). Your work will directly impact how AI
+  workloads — from perception and sensor fusion to in-vehicle
+  assistants and advanced driver assistance — are translated
+  into highly optimized, safe, and power-efficient execution
+  on Renesas hardware. This role bridges software compiler
+  development, AI model lowering/optimization, and hardware-
+  software co-design, enabling Renesas SoCs to deliver
+  industry-competitive performance, efficiency, and functional
+  safety required by multi-domain automotive applications..
+  
+  【Job Description】 ・Lead AI compiler architecture across
+  model ingestion, graph optimization, lowering, code
+  generation, and runtime integration ・Design and implement
+  graph‑level optimizations (operator fusion,
+  quantization‑aware rewrites, memory‑aware scheduling,
+  partitioning) ・Drive performance optimization for target
+  NPUs, including tiling, tensor layout, and multi‑core
+  execution strategies ・Partner with SoC and AI accelerator
+  architects to influence hardware features through compiler
+  insights ・Own performance KPIs for real automotive AI
+  workloads using simulators, profilers, and
+  silicon‑correlated models ・Ensure compiler outputs meet
+  automotive requirements (real‑time behavior, determinism,
+  quality expectations) ・Mentor senior engineers and set
+  technical direction without people‑management
+  responsibilities
+  
+  【Impact & Differentiators】 Renesas’ Gen5 R-Car automotive
+  SoC lineup, including flagship 3 nm devices like the R-Car
+  X5H, is among the first highly integrated multi-domain
+  automotive SoCs built on advanced 3 nm process technology,
+  designed to run ADAS, IVI, gateway, and next-gen SDV
+  workloads on a centralized platform. These platforms deliver
+  high AI performance (e.g., multi-hundreds of TOPS), scalable
+  chiplet-based acceleration, and power efficiency tailored
+  for electrified and autonomous vehicles while meeting
+  stringent functional safety standards.  An AI Compiler
+  Engineer enables this hardware vision by ensuring that
+  state-of-the-art AI models and computational kernels are
+  efficiently mapped to the silicon fabric — directly
+  enhancing performance, reducing latency and energy, and
+  accelerating software adoption in automotive ecosystems
+  where compute efficiency and safety are paramount.
+  
+  Qualifications
+  
+  【Must-Have】 ・MS/PhD (or equivalent experience) in Computer
+  Science, EE, or related field ・Deep experience building AI
+  compilers, accelerator backends, or graph optimization
+  frameworks ・Strong expertise in graph optimization and
+  performance optimization for NPUs or custom accelerators
+  ・Experience with MLIR, LLVM, TVM‑like systems, or
+  proprietary compiler IRs ・Excellent C/C++ and Python skills
+  ・Solid understanding of AI inference workloads (CNNs,
+  transformers, perception or generative models) ・Strong
+  communication skills are required, e.g. agile development
+  experience in Scrum team (Product Owner or Scrum Master)
+  
+  【Nice-to-Have】 ・Experience with automotive or
+  safety‑critical systems ・Background in heterogeneous SoCs
+  (CPU/GPU/DSP/NPU) ・Performance modeling or hardware–software
+  co‑design experience
+  
+  Additional Information
+  
+  ルネサスは、「To Make Our Lives Easier 」（人々の暮らしを楽“ラク”にする）というPurpose
+  の下、組み込み半導体ソリューションを提供します。高品質とシステムレベルノウハウを兼ね備えた組み込み半導体のリーダーとして
+  、自動車、産業、インフラ・IoT分野向けに、ハイパフォーマンスコンピューティング、組み込みプロセッシング、アナログ＆コネ
+  クティビティ、そしてパワーを含めた幅広い製品ポートフォリオを軸とした、スケーラブルで包括的なソリューションを提供していま
+  す。
+  
+  
+  ルネサスは、30か国以上で22,000 人を超える多様性あふれる従業員と共に、限界に挑戦しながら、デジタライゼーションを
+  通じてユーザエクスペリエンスを充実化させ、新たなイノベーションの時代を切り開いていきます。そして世界中の人々やコミュニテ
+  ィの未来のために、持続可能で省エネ効果の高いソリューションの開発に全力で取り組み、「To Make Our Lives
+  Easier」を実現します。
+  
+  
+  ルネサスで実現できること
+  
+  
+  - キャリアをスタート、そしてキャリアアップ：4つのプロダクトグループをはじめ、さまざまな部門において技術職として、また幅広
+    いビジネスの経験を積むことができます。ハードウェア、ソフトウェアの専門知識を深めたり、新しいことにチャレンジしたりす
+    る機会があります。
+  - やりがいとインパクトのある仕事をする： 革新的な製品とソリューションの開発に関わることにより、世界中のお客様のニーズに応
+    えると同時に、人々の生活をより便利で安全かつ安心なものにすることに貢献できます。
+  - 「ウェルビーイング」に焦点を置いた環境で最大限に能力を発揮する：ルネサスでは、リモートワーク制度などによる柔軟な勤務体制
+    づくり、また従業員リソースグループの積極的な活動をサポートするなど、インクルーシブな職場環境構築を目指しています。従
+    業員を第一に考えたカルチャーとグローバルなサポート体制が、入社後すぐに活躍できる環境を提供します。
+  
+  
+  
+  自分の力で成功を掴み、キャリアを築く準備はできていますか？
+  
+  ルネサスで一緒に未来を形づくっていきましょう。
+  
+  当社では、ハイブリッド勤務モデルを採用しており、従業員は週に2日間リモートワークを行うことができます。同時に、残りの日は
+  チームとしてオフィスに集まり、協働を強化しています。出社指定日は火曜日から木曜日で、イノベーション、コラボレーション、そ
+  して継続的な学習に取り組む日としています。
+posted_date: 2026-03-17
+url: "https://builtin.com/job/principal-engineer-ai-compiler/8774995"
+source: Built In

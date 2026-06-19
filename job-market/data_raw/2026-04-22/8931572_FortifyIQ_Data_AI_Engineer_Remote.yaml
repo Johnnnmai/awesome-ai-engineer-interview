@@ -1,0 +1,70 @@
+job_id: 8931572
+title: "Data & AI Engineer (Remote)"
+company: FortifyIQ
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Airflow
+  - AWS
+  - Azure
+  - GCP
+  - Git
+  - Numpy
+  - Pandas
+  - Python
+  - PyTorch
+  - Scikit-Learn
+description: |
+  We’re seeking a Data & AI Engineer to develop intelligent
+  data pipelines and analytics solutions that power smarter
+  decisions across silicon design, verification, and
+  manufacturing. You’ll transform engineering data into
+  actionable insights through automation, modeling, and
+  visualization.
+  
+  Responsibilities
+  
+  - Build and maintain data pipelines to support machine
+    learning and analytics workflows.
+  - Collect, clean, and transform large, complex datasets from
+    engineering environments.
+  - Develop and train predictive models for yield, performance,
+    and anomaly detection.
+  - Automate recurring data analysis tasks and integrate models
+    into engineering processes.
+  - Collaborate with design and software teams to embed AI-
+    driven insights into products.
+  - Create dashboards and visualization tools for reporting and
+    decision-making.
+  - Document code, models, and processes for transparency and
+    reproducibility.
+  
+  Qualifications
+  
+  - Proficiency in Python and ML frameworks (TensorFlow,
+    PyTorch, Scikit-learn).
+  - Strong skills in data manipulation (Pandas, NumPy, SQL).
+  - Experience with workflow orchestration (Airflow, Spark, or
+    similar).
+  - 3–5 years of experience in data engineering or applied AI.
+  - Bachelor’s degree in Electrical Engineering, Computer
+    Science, or related field.
+  
+  Preferred / Plus
+  
+  - Familiarity with semiconductor design, verification, or
+    manufacturing datasets.
+  - Understanding of statistical modeling and predictive
+    maintenance.
+  - Experience with cloud environments (AWS, Azure, GCP) and
+    version control (Git).
+  - Knowledge of MLOps principles (deployment, monitoring,
+    CI/CD).
+industries:
+  - Hardware
+  - Software
+  - Cybersecurity
+posted_date: 2026-04-01
+url: "https://www.builtinla.com/job/data-ai-engineer-remote/8931572"
+source: Built In

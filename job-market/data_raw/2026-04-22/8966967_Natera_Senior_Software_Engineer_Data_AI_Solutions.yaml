@@ -1,0 +1,206 @@
+job_id: 8966967
+title: "Senior Software Engineer (Data & AI Solutions)"
+company: Natera
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Airflow
+  - AWS
+  - CloudFormation
+  - Dagster
+  - Dbt
+  - Python
+  - Snowflake
+  - Spark
+  - SQL
+  - Terraform
+description: |
+  Job Summary:
+  
+  Natera is seeking an experienced Senior Software Engineer
+  with modern data engineering and AI-enabled development
+  skills with deep scientific R&D background to design and
+  build data products that directly support genomics research
+  and translational science. This role is intended for someone
+  who already understands how research organizations operate,
+  how genomic data flows from experiment to insight, and how
+  to engineer data systems that accelerate discovery without
+  compromising rigor or compliance.
+  
+  The ideal candidate combines strong data engineering skills
+  with a computer science background and hands-on experience
+  in bioinformatics, genomics, or computational biology, and
+  the ability to work independently in an R&D environment. You
+  will also be comfortable moving quickly to prototype novel
+  data products while ensuring solutions evolve into robust,
+  compliant, and scalable platforms. You will bring an
+  internalized sense of what “good” looks like for research
+  data: reproducibility, traceability, performance, and
+  scientific usability.
+  
+  Key Responsibilities
+  
+  - Design, build, and maintain the data products that support
+    R&D, analytics, Lab and scientific workflows, from initial
+    design through deployment and iterations
+  - Build and maintain data pipelines for large and complex
+    datasets, from raw inputs through derived and analysis-
+    ready datasets.
+  - Apply domain knowledge in genetics and bioinformatics to
+    design data models, schemas, and abstractions that align
+    with real research patterns and downstream analysis needs.
+  - Design and enforce de-identification and privacy-preserving
+    architectures that meet HIPAA and related regulatory
+    requirements while remaining usable for research.
+  - Design scalable data models to power analytics, reporting,
+    and downstream applications. Maintain high standards of
+    data quality, accuracy, lineage, and observability across
+    data pipelines.
+  - Partner closely with R&D scientists, bioinformatics teams,
+    and software engineers to translate research needs into
+    well-structured, reusable data assets.
+  - Optimize storage, retrieval, and lifecycle management for
+    large scientific files (E.g. sequencing data, intermediate
+    artifacts, derived datasets).
+  - Drive rapid prototyping efforts to support exploratory,
+    proof-of-concepts, and early-stage initiatives, while
+    guiding the transition to production-grade systems.
+  - Implement best practices for data quality, validation,
+    lineage, observability, and reproducibility to enable a
+    trusted 360° view.
+  - Collaborate with product managers and domain experts to
+    translate requirements into technical solutions
+  - Establish golden paths (templates, examples, docs) and
+    contribute to shared data product catalogs, patterns, and
+    best practices used by other engineers
+  - Provide technical guidance and mentorship to mid-level
+    engineers
+  
+  Required Qualifications
+  
+  - Bachelor’s or Master’s degree in computer science or
+    bioinformatics with healthcare or biotech data domain
+    experience preferred
+  - 8+ years of experience in data engineering, designing and
+    maintaining data pipelines and cloud data architectures
+    (e.g, Snowflake, AWS, etc)
+  - Strong background in bioinformatics, genomics, or
+    computational biology (required).  Understands key
+    genomics and bioinformatics data formats, such as BAM,
+    VCF, FASTQ, common compression techniques for these file
+    formats, and their storage, delivery, and management
+    needs.
+  - Demonstrated experience supporting scientific R&D, Lab
+    workflows and research teams with production-grade data
+    systems.
+  - Strong proficiency in Python, SQL, and distributed
+    processing frameworks (Spark or equivalent)
+  - Experience with modern orchestration tools (Airflow, dbt,
+    Dagster)
+  - Experience leveraging AI-assisted development tools (e.g.,
+    LLM copilots) to accelerate data solution development
+  - Familiarity with building data products that support
+    analytics, ML, or AI applications
+  - Strong data modeling expertise (dimensional, normalized,
+    healthcare-specific schemas)
+  - Experience implementing CI/CD for data pipelines and IaC
+    (Terraform, CloudFormation); Knowledge of data
+    observability, testing, and data quality frameworks
+  - Demonstrated ownership of production-grade data systems and
+    end-to-end pipeline lifecycle
+  - Ability to evaluate emerging data and AI technologies and
+    recommend scalable solutions
+  - Exposure to vector databases, embeddings, semantic search,
+    or RAG-based architectures is a plus
+  - Proven ability to operate effectively in fast-paced
+    environments, balancing speed, rigor, and compliance
+  - Strong written and verbal communication skills with ability
+    to collaborate across engineering, analytics, and business
+    stakeholders
+  - Experience working with healthcare, life sciences, or other
+    highly regulated data, including hands-on HIPAA
+    compliance.#LI-DNI
+  
+  The pay range is listed and actual compensation packages are
+  based on a wide array of factors unique to each candidate,
+  including but not limited to skill set, years & depth of
+  experience, certifications and specific office location.
+  This may differ in other locations due to cost of labor
+  considerations.
+  
+  Remote USA
+  
+  $125,000—$156,300 USD
+  
+  OUR OPPORTUNITY
+  
+  Natera™ is a global leader in cell-free DNA (cfDNA) testing,
+  dedicated to oncology, women’s health, and organ health. Our
+  aim is to make personalized genetic testing and diagnostics
+  part of the standard of care to protect health and enable
+  earlier and more targeted interventions that lead to longer,
+  healthier lives.
+  
+  The Natera team consists of highly dedicated statisticians,
+  geneticists, doctors, laboratory scientists, business
+  professionals, software engineers and many other
+  professionals from world-class institutions, who care deeply
+  for our work and each other. When you join Natera, you’ll
+  work hard and grow quickly. Working alongside the elite of
+  the industry, you’ll be stretched and challenged, and take
+  pride in being part of a company that is changing the
+  landscape of genetic disease management.
+  
+  WHAT WE OFFER
+  
+  Competitive Benefits - Employee benefits include
+  comprehensive medical, dental, vision, life and disability
+  plans for eligible employees and their dependents.
+  Additionally, Natera employees and their immediate families
+  receive free testing in addition to fertility care benefits.
+  Other benefits include pregnancy and baby bonding leave,
+  401k benefits, commuter benefits and much more. We also
+  offer a generous employee referral program!
+  
+  For more information, visit www.natera.com.
+  
+  Natera is proud to be an Equal Opportunity Employer. We are
+  committed to ensuring a diverse and inclusive workplace
+  environment, and welcome people of different backgrounds,
+  experiences, abilities and perspectives. Inclusive
+  collaboration benefits our employees, our community and our
+  patients, and is critical to our mission of changing the
+  management of disease worldwide.
+  
+  All qualified applicants are encouraged to apply, and will
+  be considered without regard to race, color, religion,
+  gender, gender identity or expression, sexual orientation,
+  national origin, genetics, age, veteran status, disability
+  or any other legally protected status. We also consider
+  qualified applicants regardless of criminal histories,
+  consistent with applicable laws.
+  
+  If you are based in California, we encourage you to read
+  this important information for California residents.
+  
+  Link: https://www.natera.com/notice-of-data-collection-
+  california-residents/
+  
+  Please be advised that Natera will reach out to candidates
+  with a @natera.com email domain ONLY. Email communications
+  from all other domain names are not from Natera or its
+  employees and are fraudulent. Natera does not request
+  interviews via text messages and does not ask for personal
+  information until a candidate has engaged with the company
+  and has spoken to a recruiter and the hiring team. Natera
+  takes cyber crimes seriously, and will collaborate with law
+  enforcement authorities to prosecute any related cyber
+  crimes.
+  
+  For more information:
+  - BBB announcement on job scams
+  - FBI Cyber Crime resource page
+posted_date: 2026-04-06
+url: "https://www.builtinla.com/job/senior-software-engineer-data-ai-solutions/8966967"
+source: Built In

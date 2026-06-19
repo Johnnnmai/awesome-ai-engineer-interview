@@ -1,0 +1,50 @@
+company:
+  name: Jade Global
+  stage: null
+  focus: null
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying LLM-based
+      applications end-to-end, including agentic systems, RAG
+      pipelines, and working directly with multiple LLMs. The
+      engineer will implement, productionize, and monitor AI
+      systems with hands-on model work including fine-tuning.
+  responsibilities:
+  - Build and deploy LLM-based GenAI applications end-to-end
+  - Design and implement agentic and multi-agent systems using MCP and A2A
+  - Develop RAG pipelines and document intelligence solutions
+  - Work with multiple LLMs including OpenAI, Azure OpenAI, Gemini, Claude, LLaMA,
+    and Mistral
+  - Use modern GenAI frameworks such as LangChain, LangGraph, LlamaIndex, CrewAI,
+    and AutoGen
+  - Build AI backend services using FastAPI and Flask
+  - Develop and integrate chat UIs, copilots, and dashboards with AI APIs
+  - Productionize, deploy, and monitor AI systems on cloud platforms ensuring performance
+    and security
+  use_cases:
+  - LLM-based GenAI application development
+  - Agentic and multi-agent systems
+  - Document intelligence and RAG solutions
+  - Chat interfaces and AI copilots
+  - Enterprise AI backend services
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, CrewAI, AutoGen, Google ADK, OpenAI
+        API, Azure OpenAI, Gemini, Claude, LLaMA, Mistral, MCP, A2A, RAG, Prompt Engineering,
+      LoRA, PEFT]
+    ml: [Hugging Face, Deep Learning]
+    web: [FastAPI, Flask, REST APIs, WebSockets, React, HTML, CSS, JavaScript, Streamlit]
+    databases: [FAISS, Pinecone, Weaviate, Chroma, Milvus]
+    data: []
+    cloud: [Azure, AWS, GCP, Azure ML, SageMaker, Vertex AI]
+    ops: [Docker, Kubernetes, CI/CD, MLflow]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8122061'
+  extracted_at: '2026-03-27T13:37:49.679607'

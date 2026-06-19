@@ -1,0 +1,48 @@
+company:
+  name: Ford Motor Company
+  stage: Public
+  focus: Automotive manufacturer with internal cyber red team
+position:
+  title: AI Backend Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-powered attack automation
+      systems, integrating LLM APIs into workflows, designing
+      multi-step agent-like workflows (input → tool → AI →
+      decision → next step), and working with LangChain/LangGraph
+      frameworks. The engineer is directly implementing AI agents
+      that execute adversarial simulations, not supporting
+      infrastructure for others.
+  responsibilities:
+  - Build Python-based automation around offensive security tools
+  - Integrate LLM APIs (OpenAI/Anthropic) into real workflows
+  - Design multi-step workflows (input → tool → AI → decision → next step)
+  - Parse and enforce structured outputs (JSON) from AI models
+  - Maintain context/state across tasks and executions
+  - Develop internal APIs and wrappers for tools and services
+  - Continuously improve reliability (error handling, retries, edge cases)
+  - Collaborate with security experts to translate attack techniques into automation
+  use_cases:
+  - Automating offensive security techniques using AI
+  - Simulating real-world cyber adversaries
+  - Multi-step attack workflow automation
+  - Red team operations and adversary emulation
+  - Intelligent attack decision systems
+  skills:
+    genai: [OpenAI API, Anthropic API, Gemini, LangChain, LangGraph, agent frameworks,
+      Model Context Protocol]
+    ml: []
+    web: [REST APIs, JSON]
+    databases: []
+    data: []
+    cloud: [GCP, Compute Engine, Cloud Run]
+    ops: [Docker]
+    languages: [Python, Object-Oriented Programming, async programming, multi-threading]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8874731'
+  extracted_at: '2026-03-27T14:26:38.328532'

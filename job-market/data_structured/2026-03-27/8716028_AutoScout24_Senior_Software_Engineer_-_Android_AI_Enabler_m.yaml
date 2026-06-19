@@ -1,0 +1,48 @@
+company:
+  name: AutoScout24
+  stage: null
+  focus: Online automotive marketplace and car classifieds platform
+position:
+  title: Senior Software Engineer - Android, AI Enabler (m/f/d)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a native Android development role where AI is
+      mentioned only as tools to explore (Claude/Codex) and a
+      general mindset shift toward being "AI-first." The role
+      involves building mobile apps, not building, training, or
+      deploying AI/ML models. The candidate needs understanding of
+      GenAI limitations for safe usage, but this is about using AI
+      tools, not developing AI systems.
+  responsibilities:
+  - Develop native Android applications using Kotlin, Dagger 2, Rx, Coroutines, and
+    Jetpack Compose
+  - Integrate mobile apps with GraphQL backend and REST services
+  - Explore and evaluate advanced AI tools like Claude and Codex for development workflows
+  - Drive technical planning of projects and features
+  - Collaborate closely with API teams, Product, UX, and Data teams
+  - Mentor other developers and help build an AI-first learning culture
+  - Deliver work using trunk-based development with Feature Flags and experiments
+  - Evaluate and introduce new technologies to the team
+  use_cases:
+  - Mobile app development for automotive marketplace
+  - Feature development for large-scale consumer Android application
+  - AI-assisted software development workflows
+  - Technology evaluation and adoption
+  skills:
+    genai: [Claude, Codex]
+    ml: []
+    web: [GraphQL, REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD pipelines, Trunk-based development]
+    languages: [Kotlin]
+    domains: []
+    other: [Android SDK, Dagger 2, Rx, Coroutines, Jetpack Compose, UI Testing frameworks,
+      Feature Flags]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8716028'
+  extracted_at: '2026-03-27T16:00:51.176704'

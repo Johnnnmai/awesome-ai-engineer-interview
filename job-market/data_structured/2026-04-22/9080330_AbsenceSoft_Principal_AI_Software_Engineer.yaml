@@ -1,0 +1,56 @@
+company:
+  name: AbsenceSoft
+  stage: Growth/Late-stage (equity opportunities, established product)
+  focus: HR technology for employee absence and leave management
+position:
+  title: Principal AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly architecting, building, and
+      deploying AI-driven systems including LLMs, RAG pipelines,
+      agentic AI, computer vision, audio models, and traditional
+      ML pipelines. The engineer will design inference
+      infrastructure, build vector search and semantic retrieval
+      systems, and deploy production-ready models — all hands-on
+      AI/ML system building work.
+  responsibilities:
+  - Design and implement AI applications using structured ML models, LLMs, vision,
+    or audio-based models depending on the problem
+  - Build intelligent systems using vector search, semantic retrieval, RAG pipelines,
+    and agentic behavior
+  - Architect and deploy context-aware services with autonomous behavior and real-time
+    reasoning capabilities
+  - Contribute to core infrastructure for inference pipelines, embeddings, prompt
+    management, and intelligent feedback loops
+  - Collaborate with data scientists and data engineers to design, train, and serve
+    production-ready models
+  - Work with product managers and designers to shape user-facing AI features and
+    customer experiences
+  - Ensure solutions adhere to Responsible AI principles and comply with global AI
+    regulations and privacy standards
+  - Lead performance tuning, observability, and failover design for critical AI services
+  use_cases:
+  - AI-powered intelligent applications for HR and workplace management
+  - Automated absence and leave management with contextual AI reasoning
+  - Multi-modal AI processing including computer vision and audio for workplace solutions
+  - Intelligent semantic search and retrieval over HR and employee data
+  - Agentic AI systems for automating complex HR workflows
+  skills:
+    genai: [LLMs, RAG pipelines, Prompt engineering, Agentic AI, Vector search, Embeddings,
+      LLM orchestration]
+    ml: [PyTorch, Deep learning, Computer vision, Audio models, Model training, Model
+        serving]
+    web: [REST APIs, Async design]
+    databases: [Postgres]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, Observability, A/B testing, Model versioning]
+    languages: [Python]
+    domains: []
+    other: [MACH architectures, Event-Driven Architecture, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9080330'
+  extracted_at: '2026-04-22T14:09:13.074707'

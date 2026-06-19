@@ -1,0 +1,57 @@
+company:
+  name: Axiad
+  stage: Unknown
+  focus: Identity security and passwordless authentication solutions
+position:
+  title: AI-First Golang Developer (Microservices, PostgreSQL)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is for a Golang backend developer who uses AI
+      coding assistants (Claude Code, Cursor, Windsurf) to enhance
+      their productivity. The role builds identity security
+      microservices, NOT AI/ML systems. The AI tools are used FOR
+      development work, but the actual product being built is not
+      AI-related - it's traditional microservices for identity and
+      access management.
+  responsibilities:
+  - Design, develop, and maintain microservices using Golang and PostgreSQL in an
+    AI-augmented development environment
+  - Embrace and advocate AI-First development workflows utilizing AI coding tools
+    like Claude Code, Cursor, or Windsurf for automated code generation and AI-based
+    code reviews
+  - Collaborate with cross-functional teams to translate complex business requirements
+    into scalable microservices solutions
+  - Develop RESTful APIs and event-driven services with robust security, scalability,
+    and performance
+  - Implement database schemas, optimization strategies, and query tuning in PostgreSQL
+    to ensure data integrity and efficiency
+  - Participate in continuous integration and deployment (CI/CD) pipelines integrating
+    AI-tools for automation
+  - Troubleshoot and resolve production issues related to services and databases using
+    AI-powered debugging tools
+  - Mentor junior developers to adopt AI-first methodologies and best practices in
+    Golang microservices development
+  use_cases:
+  - Identity security and credential vulnerability detection
+  - Phishing-resistant strong authentication systems
+  - Passwordless authentication solutions
+  - Enterprise IAM infrastructure integration
+  - Attack surface reduction for organizations
+  skills:
+    genai: [Claude Code, Cursor, Windsurf]
+    ml: []
+    web: [RESTful APIs, Event-driven architecture]
+    databases: [PostgreSQL]
+    data: [Message queues]
+    cloud: [AWS, Azure]
+    ops: [Docker, Kubernetes, CI/CD, Git, Prometheus, Grafana, ELK Stack, Terraform,
+      CloudFormation]
+    languages: [Golang]
+    domains: [IAM systems]
+    other: [CQRS, Event sourcing, Circuit breakers]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7745625'
+  extracted_at: '2026-03-03T12:18:49.577983'

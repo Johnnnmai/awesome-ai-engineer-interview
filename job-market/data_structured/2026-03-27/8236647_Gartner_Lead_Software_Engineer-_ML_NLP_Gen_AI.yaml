@@ -1,0 +1,47 @@
+company:
+  name: Gartner
+  stage: Public
+  focus: |-
+    Business and technology research, insights, and consulting
+    services
+position:
+  title: Lead Software Engineer- ML, NLP, Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI
+      applications using both classic and generative AI
+      techniques. The position requires hands-on experience with
+      RAG, embedding models, vector databases, and agentic AI
+      frameworks to deliver client engagements and build internal
+      productivity applications.
+  responsibilities:
+  - Deliver client engagements using AI rapidly within short development cycles
+  - Build proofs of concept rapidly to learn and adapt to changing market needs
+  - Design and implement Python-based applications supporting Research & Consulting
+    Delivery strategy
+  - Support building internal applications for associates to improve productivity
+  - Stay current on AI tools, techniques, and frameworks to advise clients effectively
+  - Implement knowledge search and summarization applications
+  use_cases:
+  - Knowledge search and summarization for enterprise clients
+  - Internal productivity applications for Gartner associates
+  - Rapid AI proof of concept development for client engagements
+  - Generative AI response evaluation and accuracy improvement
+  - Research and consulting delivery support
+  skills:
+    genai: [RAG, Agentic AI frameworks, Embedding models]
+    ml: [Scikit-Learn, NumPy, SciPy, Classic AI techniques]
+    web: []
+    databases: [Vector databases]
+    data: [Pandas]
+    cloud: [Azure, AWS]
+    ops: [Jira, GitHub]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8236647'
+  extracted_at: '2026-03-27T14:24:25.784957'

@@ -1,0 +1,52 @@
+company:
+  name: Egen
+  stage: null
+  focus: |-
+    Data and AI consulting helping clients drive impact through
+    data and insights on Google Cloud and Salesforce platforms
+position:
+  title: Senior AI/ML Engineer*
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building end-to-end GenAI applications,
+      developing RAG pipelines, fine-tuning LLMs, and deploying
+      agentic workflows. The position requires hands-on work with
+      models throughout their full lifecycle from prototype to
+      production.
+  responsibilities:
+  - Design and implement end-to-end GenAI applications using Python, LangChain, and
+    LlamaIndex on Google Cloud
+  - Develop advanced RAG pipelines and semantic search systems using GCP Vector Search
+    or Pinecone
+  - Lead LLM and embedding fine-tuning efforts to improve domain-specific performance
+  - Build and manage agentic workflows that automate complex multi-step reasoning
+    tasks
+  - Collaborate directly with customers to understand requirements and implement AI
+    solutions
+  - Apply MLOps best practices to ensure models are served efficiently, monitored,
+    and continuously improved
+  use_cases:
+  - Document intelligence and processing
+  - Retrieval-augmented generation (RAG) pipelines
+  - Semantic search systems
+  - Agentic workflow automation for complex reasoning tasks
+  - Domain-specific LLM optimization and fine-tuning
+  skills:
+    genai: [LangChain, LlamaIndex, Google Gemini, GPT-4, LLaMA, Prompt Engineering,
+      RAG (Retrieval-Augmented Generation), Semantic Search]
+    ml: [LLM Fine-tuning, Embedding Fine-tuning, Neural networks, Model training and
+        tuning]
+    web: []
+    databases: [GCP Vector Search, Pinecone, pgvector]
+    data: []
+    cloud: [Google Cloud Platform (GCP), Vertex AI]
+    ops: [MLOps]
+    languages: [Python, SQL, Shell scripting]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8629165'
+  extracted_at: '2026-03-27T15:06:41.145585'

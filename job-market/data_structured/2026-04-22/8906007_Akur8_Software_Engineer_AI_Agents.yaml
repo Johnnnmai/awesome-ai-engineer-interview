@@ -1,0 +1,56 @@
+company:
+  name: Akur8
+  stage: Scale-up (Series B+)
+  focus: |-
+    AI-powered insurance pricing and risk assessment SaaS
+    platform
+position:
+  title: Software Engineer (AI Agents)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI agent systems —
+      designing tool-calling patterns, agent orchestration,
+      reinforcement fine-tuning harnesses, and optimizing LLM-
+      based pipelines. The work is hands-on with GenAI/LLM systems
+      at the core of the product, making it clearly ai-first.
+  responsibilities:
+  - Design and refine tool-calling patterns and agent orchestration for multi-step
+    research tasks across thousands of related documents
+  - Build ingestion and normalization systems for complex structured documents at
+    scale (millions of filings)
+  - Build and iterate on reinforcement fine-tuning harnesses, including training graders
+    for research tasks
+  - Develop tooling to measure, profile, and optimize agent pipeline performance (latency,
+    cost, quality)
+  - 'Run experiments end-to-end: design, analyze, and translate results into clear
+    product recommendations'
+  - Diagnose product shortcomings, build evaluations, and ship improvements directly
+    impacting customers
+  - Work directly with customers to deeply understand problems and shape product direction
+  use_cases:
+  - Insurance pricing intelligence by transforming millions of messy regulatory documents
+    into queryable, trustworthy data
+  - Agent-based research and reasoning across thousands of related insurance filings
+    and documents
+  - Automated ingestion and normalization of complex structured insurance filings
+    at scale
+  - Evaluation and quality assurance for AI agent pipelines in production
+  - Reinforcement fine-tuning for research tasks in the insurance domain
+  skills:
+    genai: [LLM APIs, Agent frameworks, Retrieval-Augmented Generation (RAG), Agent
+        orchestration, Tool-calling patterns, Reinforcement fine-tuning]
+    ml: []
+    web: []
+    databases: []
+    data: [Document ingestion and normalization]
+    cloud: []
+    ops: [Evaluation infrastructure]
+    languages: [Python, SQL]
+    domains: []
+    other: [Experimental design and analysis]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8906007'
+  extracted_at: '2026-04-22T12:49:29.647371'

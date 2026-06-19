@@ -1,0 +1,58 @@
+company:
+  name: Risepoint
+  stage: null
+  focus: |-
+    Education technology company providing support to
+    universities for online degree programs
+position:
+  title: ​Senior AI Engineer (Evals/Observability Concentration)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, implementing, and
+      operationalizing AI systems including RAG pipelines, multi-
+      agent architectures, LLM evaluation frameworks, and fine-
+      tuning workflows. The engineer will work directly ON LLM-
+      based systems with hands-on model optimization and
+      deployment responsibilities.
+  responsibilities:
+  - Build and maintain evaluation frameworks (LLM-as-Judge, rubric-based scoring,
+    regression test suites) to measure output quality, reliability, and drift with
+    debugging production issues
+  - Architect and implement multi-agent workflows with clear coordination, tool usage,
+    and failure handling patterns
+  - Build structured observability into AI systems (tracing, prompt/version tracking,
+    evaluation logging, cost and latency monitoring)
+  - Define and enforce quality gates for AI features using automated evals prior to
+    production release
+  - Optimize inference performance (latency, token usage, caching, batching, routing
+    across models)
+  - Collaborate with product and engineering teams to translate business requirements
+    into testable AI system designs
+  - Design and implement Retrieval-Augmented Generation (RAG) systems and Model Context
+    Protocol (MCP) servers using enterprise data
+  - Develop and manage fine-tuning workflows (SFT, preference optimization) including
+    dataset preparation, versioning, and validation
+  use_cases:
+  - AI-powered Student Journey Platform for higher education
+  - RAG pipelines for grounded, source-attributed responses with minimal hallucination
+  - Multi-agent workflows for educational student support
+  - LLM evaluation and quality monitoring for production AI systems
+  - Fine-tuned models for improved performance over baseline foundation models
+  skills:
+    genai: [RAG, Multi-agent architectures, LLM-as-Judge, Model Context Protocol (MCP),
+      Guardrails, Prompt engineering]
+    ml: ['Fine-tuning (SFT, preference optimization)', Embeddings]
+    web: []
+    databases: [Vector databases]
+    data: [Databricks]
+    cloud: [AWS, Azure, GCP]
+    ops: [Langfuse, LangSmith, OpenTelemetry, MLflow, CI/CD]
+    languages: [Python, C#, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8679787'
+  extracted_at: '2026-03-27T15:21:02.652006'

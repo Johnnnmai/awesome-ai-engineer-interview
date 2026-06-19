@@ -1,0 +1,116 @@
+job_id: 8810541
+title: AI/ML Engineer - Lang Chain, Lang Graph and MCP
+company: Optum
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ai/Ml Libraries
+  - Azure
+  - Docker
+  - Lang Chain
+  - Lang Graph
+  - Mcp
+  - Python
+company_size: 160,000 Employees
+description: |
+  Requisition Number: 2344880 Optum is a global organization
+  that delivers care, aided by technology to help millions of
+  people live healthier lives. The work you do with our team
+  will directly improve health outcomes by connecting people
+  with the care, pharmacy benefits, data and resources they
+  need to feel their best. Here, you will find a culture
+  guided by inclusion, talented peers, comprehensive benefits
+  and career development opportunities. Come make an impact on
+  the communities we serve as you help us advance health
+  optimization on a global scale. Join us to start Caring.
+  Connecting. Growing together. Primary Responsibilities:
+  
+  - Design and implement multi-agent AI systems using LangChain,
+    LangGraph, MCP, and advanced memory architectures
+  - Build Retrieval-Augmented Generation (RAG) pipelines
+    including text chunking, embedding, indexing, and vector
+    retrieval
+  - Develop and maintain AI agent orchestration frameworks,
+    ensuring reliable tool use, memory updates, and agent to
+    agent communication
+  - Integrate LLMs with enterprise systems through secure API
+    patterns, prompt orchestration, and contextual memory
+  - Implement and optimize vector database solutions
+  - Architect production-reference AI pipelines on Azure using:
+    - Azure Foundry (Azure AI Foundry) for model hosting,
+      evaluation, and monitoring
+    - Azure AI Search for hybrid retrieval, semantic search, and
+      grounding
+    - Azure Container Apps / Azure Kubernetes Service (AKS) for
+      scalable deployment
+  - Containerize and deploy AI systems using Docker, Azure
+    Container Registry (ACR), and orchestrate using ACA/AKS
+  - Productionize agentic/RAG solutions with CI/CD,
+    observability, autoscaling, and reliability best practices
+  - Collaborate with product and data engineering teams to
+    deliver end-to-end AI capabilities
+  - Comply with the terms and conditions of the employment
+    contract, company policies and procedures, and any and all
+    directives (such as, but not limited to, transfer and/or
+    re-assignment to different work locations, change in teams
+    and/or work shifts, policies in regard to flexibility of
+    work benefits and/or work environment, alternative work
+    arrangements, and other decisions that may arise due to
+    the changing business environment). The Company may adopt,
+    vary or rescind these policies and directives in its
+    absolute discretion and without any limitation (implied or
+    otherwise) on its ability to do so
+  
+  Required Qualifications:
+  
+  - B.Tech./MCA/Graduation (15+ years of formal education,
+    Correspondence courses are not relevant)
+  - 6+ years of total experience
+  - Experience with RAG architecture, including Vector storage
+    and retrieval, Embedding pipelines, Query routing and
+    relevance tuning
+  - Solid understanding of AI concepts, including multi-agent
+    systems, Memory architectures, Reasoning & tool driven
+    agents
+  - Hands-on expertise with: Lang Chain, Lang Graph and MCP
+    (Model Context Protocol)
+  - Practical knowledge of vector databases and similarity
+    search
+  - Proficient in Python, AI/ML libraries, and API development
+  
+  Preferred Qualifications:
+  
+  - Solid experience with Azure cloud, including:
+    - Experience containerizing AI solutions using Docker
+    - Azure AI Foundry / Azure OpenAI / Prompt Flow, Azure AI
+      Search, Azure Container Apps, Azure
+    - Kubernetes Service (AKS), Azure Container Registry (ACR)
+    - Ability to deploy, scale, monitor, and produce AI workloads
+      on cloud infrastructure
+    - Familiarity with MLOps, CI/CD pipelines, and model lifecycle
+      management
+  
+  At UnitedHealth Group, our mission is to help people live
+  healthier lives and make the health system work better for
+  everyone. We believe everyone - of every race, gender,
+  sexuality, age, location and income - deserves the
+  opportunity to live their healthiest life. Today, however,
+  there are still far too many barriers to good health which
+  are disproportionately experienced by people of color,
+  historically marginalized groups and those with lower
+  incomes. We are committed to mitigating our impact on the
+  environment and enabling and delivering equitable care that
+  addresses health disparities and improves health outcomes -
+  an enterprise priority reflected in our mission.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Healthtech
+  - Information Technology
+  - Machine Learning
+  - Software
+  - Analytics
+posted_date: 2026-03-19
+url: "https://builtin.com/job/ai-ml-engineer-lang-chain-lang-graph-and-mcp/8810541"
+source: Built In

@@ -1,0 +1,53 @@
+company:
+  name: ZS
+  stage: Established (Private)
+  focus: |-
+    Management consulting and technology firm focused on
+    healthcare and life sciences
+position:
+  title: AI Engineer - Machine Learning
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role is focused on traditional ML engineering —
+      building ML platforms, scaling ML algorithms, implementing
+      MLOps, feature engineering, inferencing pipelines, and
+      continuous model training. There is no mention of LLMs,
+      GenAI, agents, or RAG. The emphasis is on classical ML model
+      development, distributed computing (Spark), and MLOps
+      tooling (MLflow, SageMaker, Kubeflow).
+  responsibilities:
+  - Build, refine and use ML engineering platforms and components
+  - Scale machine learning algorithms to work on massive data sets under strict SLAs
+  - Build and orchestrate model pipelines including feature engineering, inferencing
+    and continuous model training
+  - Implement MLOps including model KPI measurements, tracking, model drift detection
+    and feedback loops
+  - Collaborate with client-facing teams to understand business context and contribute
+    to technical requirement gathering
+  - Write production-ready, testable code following architecture and design best practices
+  - Research and evaluate latest architecture patterns and technologies through proof-of-concepts
+    and prototypes
+  - Participate in agile ceremonies and communicate work progress, issues and dependencies
+  use_cases:
+  - Scaling ML algorithms on massive datasets with strict SLAs
+  - Automated model pipeline orchestration with continuous training
+  - Real-time model predictions and inferencing at scale
+  - Model performance monitoring with drift detection and feedback loops
+  - Client-facing ML solutions in healthcare and life sciences consulting
+  skills:
+    genai: []
+    ml: [PyTorch, Feature Engineering, Model Training]
+    web: []
+    databases: []
+    data: [PySpark, Spark, Airflow, Distributed Computing]
+    cloud: [SageMaker, AWS, Azure, GCP, Azure ML]
+    ops: [MLflow, Kubeflow, MLOps, Model Deployment]
+    languages: [Python, Scala, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9070571'
+  extracted_at: '2026-04-22T12:53:03.189383'

@@ -1,0 +1,62 @@
+company:
+  name: Tria Federal
+  stage: Unknown
+  focus: |-
+    Federal digital services and technology solutions for
+    government agencies
+position:
+  title: AI .NET Developer (Mid-Level)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and implementing end-to-end RAG
+      pipelines, working with LLM frameworks (LangChain,
+      LlamaIndex, Semantic Kernel), vector databases, embedding
+      models, agent frameworks, and Azure OpenAI services. Despite
+      the .NET developer title, the extensive listed technologies
+      and responsibilities around RAG, LLM orchestration, and AI
+      evaluation clearly position this as an AI-first role
+      building and deploying AI/GenAI systems.
+  responsibilities:
+  - Design and implement end-to-end RAG pipelines including document ingestion, chunking
+    strategies, embedding generation, vector storage, retrieval mechanisms, and context-aware
+    response generation
+  - Perform complex analysis, design, development, testing, and debugging of computer
+    software supporting AI/LLM features
+  - Build and integrate LLM-powered applications using frameworks like LangChain,
+    LangGraph, LlamaIndex, Semantic Kernel, and DSPy
+  - Deploy and manage Azure OpenAI Service models, Azure AI Search, and related Azure
+    AI services
+  - Develop and maintain secure .NET web applications as the platform backbone for
+    AI solutions
+  - Participate as an active member of the scrum team in sprint ceremonies, planning,
+    demonstrations, and retrospectives
+  - Implement agent frameworks with function calling, tool integration, memory systems,
+    and planning algorithms
+  - Evaluate LLM applications using RAGAS, TruLens, DeepEval, and A/B testing frameworks
+  use_cases:
+  - RAG-based document retrieval and question answering for federal agencies
+  - Intelligent search over government documents using vector and semantic search
+  - Document intelligence and form processing for government workflows
+  - AI-powered agent systems with tool integration and multi-step reasoning
+  - LLM application evaluation and quality assurance in production environments
+  - Veteran and service member health and safety technology solutions
+  skills:
+    genai: [LangChain, LlamaIndex, Haystack, LangGraph, DSPy, Semantic Kernel, Azure
+        OpenAI Service, RAG pipelines, ReAct agent framework, Function calling, Tree-of-Thoughts,
+      Prompt Flow, Azure AI Agent Service, RAGAS, TruLens, DeepEval]
+    ml: [Azure OpenAI embeddings, Sentence-Transformers]
+    web: [ASP.NET MVC, Web API, REST, SOAP/XML, jQuery, Bootstrap, CSS]
+    databases: [Azure AI Search, Pinecone, Weaviate, Qdrant, ChromaDB, Azure Cosmos
+        DB, Azure SQL, Entity Framework, SSRS]
+    data: [Azure Data Factory, Azure Blob Storage, Azure Data Lake]
+    cloud: [Azure, Azure Machine Learning, Azure AI Services, Azure Key Vault]
+    ops: [MLflow, Azure DevOps, CI/CD, GitHub, Azure Monitor]
+    languages: [C#, SQL, .NET Framework, .NET Core]
+    domains: []
+    other: [SAFe Agile, OWASP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8956967'
+  extracted_at: '2026-04-22T14:08:22.194512'

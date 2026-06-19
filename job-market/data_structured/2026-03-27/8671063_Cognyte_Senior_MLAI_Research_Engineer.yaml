@@ -1,0 +1,55 @@
+company:
+  name: Cognyte
+  stage: Public
+  focus: |-
+    Investigative analytics software for crime prevention and
+    security
+position:
+  title: Senior ML/AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct hands-on work with AI/ML models
+      including fine-tuning language models, developing advanced
+      algorithms, and optimizing model performance. The position
+      requires leading research initiatives and integrating AI
+      technologies into production products, which constitutes
+      working directly ON AI systems rather than supporting AI
+      work.
+  responsibilities:
+  - Technically lead a team of researchers, data scientists and data engineers focused
+    on ML and AI applications
+  - Oversee fine-tuning of language models on specific domains and optimize NLP performance
+    in real-world scenarios
+  - Guide development of data processing pipelines for storage, retrieval, and preprocessing
+    of text and image data
+  - Evaluate and analyze model outputs, providing recommendations for improvements
+    and enhancements
+  - Collaborate with research scientists, engineers, and product managers to integrate
+    research outcomes into products
+  - Stay current with ML and AI research advancements and identify opportunities to
+    leverage emerging techniques
+  - Initiate and drive innovative research projects that advance strategic goals
+  - Provide technical guidance and mentorship to team members
+  use_cases:
+  - Investigative analytics for crime prevention and investigation
+  - Intelligence domain data processing and analysis
+  - NLP applications for security and law enforcement
+  - Text and image data analysis for criminal investigations
+  - Domain-specific language model optimization
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, scikit-learn, Fine-tuning language models, NLP]
+    web: []
+    databases: [PostgreSQL, Vector databases]
+    data: [Data pipelines, Spark]
+    cloud: []
+    ops: [Kubernetes, Docker, Git, DVC, MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8671063'
+  extracted_at: '2026-03-27T15:20:40.660296'

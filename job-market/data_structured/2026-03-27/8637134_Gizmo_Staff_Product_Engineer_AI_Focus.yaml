@@ -1,0 +1,50 @@
+company:
+  name: Gizmo
+  stage: Series A
+  focus: AI-powered gamified learning platform for students
+position:
+  title: Staff Product Engineer (AI Focus)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is hands-on AI engineering focused on building,
+      deploying, and optimizing production AI systems including
+      prompt engineering, agentic workflows, and model pipelines.
+      The role involves directly working with AI models to power
+      user-facing features, not just supporting infrastructure for
+      others.
+  responsibilities:
+  - Design and ship AI-driven user-facing features end-to-end in TypeScript
+  - Own AI features from idea through production and iteration
+  - Optimize production AI pipelines including study material generation, quizzes,
+    and automated marking
+  - Design and iterate on prompts including agentic workflows and multi-step pipelines
+  - Define evaluation frameworks and metrics for AI quality and correctness
+  - Monitor model behavior, handle API rate limits, and ensure system reliability
+    at scale
+  - Build internal tooling to support experimentation and iteration
+  - Collaborate with design and product to solve learning problems with AI solutions
+  use_cases:
+  - Study material content generation
+  - Quiz question generation
+  - Automated marking and feedback for student work
+  - Structured content ingestion pipelines
+  - Gamified learning experiences
+  - Educational content refinement and feedback loops
+  skills:
+    genai: [Prompt Engineering, Agentic workflows, Multi-step AI pipelines, LLM evaluation,
+      Production AI systems]
+    ml: [Model optimization]
+    web: [API integration]
+    databases: []
+    data: []
+    cloud: []
+    ops: [System monitoring]
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: [Internal tooling]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8637134'
+  extracted_at: '2026-03-27T14:05:19.611886'

@@ -1,0 +1,57 @@
+company:
+  name: Celonis
+  stage: Series D+
+  focus: |-
+    Process Intelligence platform using process mining and AI
+    technology
+position:
+  title: Senior Applied AI Engineer (Value Engineering) - Public Sector
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting and delivering LLM/agent
+      systems with RAG, building agentic systems with function
+      calling, and working directly with generative AI techniques
+      like prompt engineering and multi-agent orchestration. The
+      engineer is hands-on implementing and deploying AI solutions
+      for customers, not just supporting infrastructure.
+  responsibilities:
+  - Lead AI discovery and solutioning for public sector agencies, translating agency
+    requirements into innovative AI-powered solutions
+  - Drive full customer lifecycle including pre-sales technical discovery, capability
+    demonstrations, and post-sale implementation
+  - Rapidly build creative AI prototypes in agency hackathons to solve critical pain
+    points and improve constituent experiences
+  - Enable transformation from traditional workflows to autonomous AI agents using
+    the Celonis Process Intelligence Platform
+  - Architect and deliver secure, scalable LLM/agent systems with RAG, tools, and
+    guardrails for government clients
+  - Ensure integration with government enterprise data, identity protocols, and compliance
+    frameworks
+  - Serve as technical subject matter expert for State and Local Government vertical,
+    scaling knowledge across the organization
+  use_cases:
+  - Enhancing citizen services for state and local government agencies
+  - Modernizing legacy government systems and breaking down agency silos
+  - Optimizing grant management and regulatory compliance processes
+  - Intelligent case triaging and automated compliance checks
+  - Benefits administration backlog reduction and procurement bottleneck resolution
+  - Public safety resource allocation and permitting process improvement
+  skills:
+    genai: [RAG, prompt engineering, LangChain, LlamaIndex, multi-agent orchestration,
+      function calling, few-shot learning, fine-tuning, LLM orchestration, OpenAI
+        API]
+    ml: [PyTorch, scikit-learn]
+    web: []
+    databases: []
+    data: [pandas, pydantic, Databricks]
+    cloud: [AWS GovCloud, Azure Government, Microsoft Azure]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [StateRAMP, HIPAA compliance, CJIS compliance]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8710034'
+  extracted_at: '2026-03-27T13:34:34.322377'

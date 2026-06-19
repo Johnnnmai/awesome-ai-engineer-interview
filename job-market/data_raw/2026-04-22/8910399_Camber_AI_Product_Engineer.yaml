@@ -1,0 +1,152 @@
+job_id: 8910399
+title: AI Product Engineer
+company: Camber
+location: New York, USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Arize Phoenix
+  - AWS
+  - Langgraph
+  - Promptfoo
+  - Python
+  - Temporal
+company_size: 53 Employees
+description: |
+  About Us:
+  
+  Camber builds software to improve the quality and
+  accessibility of healthcare. We streamline and replace
+  manual work so clinicians can focus on what they do best:
+  providing great care. For more details on our thesis, check
+  out our write-up: What is Camber?
+  
+  We’ve raised $50M in funding from phenomenal supporters at
+  a16z, Craft Ventures, YCombinator, Manresa, and many others
+  who are committed to improving the accessibility of care.
+  For more information, take a look at: Announcing Camber
+  
+  About our Culture:
+  
+  Our mission to change behavioral health starts with us and
+  how we operate. We don’t want to just change behavioral
+  health, we want to change the way startups operate. Here are
+  a few tactical examples:
+  
+  1) Improving accessibility and quality of healthcare is
+  something we live and breathe. Everyone on Camber’s team
+  cares deeply about helping clinicians and patients.
+  
+  2) We have to have a sense of humor. Healthcare is so
+  broken, it's depressing if you don't laugh with us.
+  
+  About the role:
+  
+  As an AI Product Engineer at Camber, you’ll work on building
+  AI-powered products and internal capabilities that improve
+  how we operate and deliver value to customers. This role is
+  centered on fast experimentation, rapid iteration, and
+  owning problems end to end with freedom to build.
+  
+  We’re looking for someone who is highly autonomous and
+  excited to help shape our AI direction, define what we
+  build, and establish how we build it. You’ll play a
+  foundational role in determining how AI is applied across
+  our products and internal workflows.
+  
+  What you'll do:
+  
+  - Rapidly prototype and ship AI-powered solutions to validate
+    ideas and drive real impact
+  - Own problems end-to-end from ambiguous idea to production
+    system with minimal oversight
+  - Build AI-powered products and tools that automate workflows,
+    support decision making, and improve internal and
+    customer-facing experiences
+  - Operate across the stack including backend services, APIs,
+    data pipelines, and lightweight product surfaces
+  - Integrate AI capabilities such as LLMs into real workflows,
+    ensuring they are reliable, observable, and cost-efficient
+  - Run fast feedback loops by testing, measuring, and iterating
+    using evaluation frameworks and real usage data
+  - Develop reusable patterns and tooling that enable faster
+    experimentation and iteration across the team
+  
+  What we're looking for:
+  
+  - Experience: 3+ years of experience building production
+    systems as a backend or full-stack engineer
+  - Strong Python proficiency: comfortable building production
+    systems and data workflows in Python
+  - Highly autonomous: able to take loosely defined problems and
+    independently drive them to outcomes
+  - Strong experimentation and analytical approach: able to
+    design experiments, construct evaluation frameworks using
+    historical data, and iterate quickly based on results
+  - Generalist builder: comfortable working across product
+    engineering, data, and infrastructure, with a focus on
+    shipping practical solutions rather than research or
+    theory
+  - Customer and product intuition: able to understand workflows
+    and pain points to build useful systems
+  - Curiosity: motivated to learn new tools, frameworks, and
+    domains quickly, especially in a fast-evolving AI
+    landscape
+  
+  Nice to have:
+  
+  - Experience integrating LLMs or AI capabilities into
+    production systems
+  - Familiarity with evaluation tools such as Arize Phoenix or
+    Promptfoo
+  - Experience building agent-based workflows using frameworks
+    like LangGraph
+  - Familiarity with orchestration tools such as Temporal
+  - Exposure to AI observability and tracing standards such as
+    OpenInference
+  - Familiarity with cloud platforms such as AWS
+  
+  Perks and Benefits at Camber:
+  
+  - Comprehensive Health Coverage: Medical, dental, and vision
+    plans with nationwide coverage, including 24/7 virtual
+    urgent care.
+  - Mental Health Support: Weekly therapy reimbursement up to
+    $100, so you can prioritize the care that works best for
+    you.
+  - Paid Parental Leave: Up to 12 weeks of fully paid time off
+    for new parents (birth, adoption, or foster care).
+  - Financial Wellness: 401K (traditional & Roth), HSA & FSA
+    options, and monthly commuter benefits for NYC employees.
+  - Time Off That Counts: We offer flexible PTO, meaning you’re
+    trusted to take the time you need to recharge while
+    balancing your responsibilities and team commitments.
+  - Fitness Stipend: $100/month to use on fitness however you
+    choose.
+  - Hybrid Flexibility: In NYC? We work in the office 3–5x/week,
+    with flexibility when life happens. Fridays are remote-
+    friendly.
+  
+  Camber is based in New York City, and we prioritize in-
+  person and hybrid candidates. Please refer to the top of
+  this page for this position's hiring location.
+  
+  Building an inclusive culture is one of our core tenets as a
+  company. We’re very aware of structural inequalities that
+  exist, and recognize that underrepresented minorities are
+  less likely to apply for a role if they don’t think they
+  meet all of the requirements. If that’s you and you’re
+  reading this, we’d like to encourage you to apply regardless
+  — we’d love to get to know you and see if there’s a place
+  for you here!
+  
+  In addition, we take security seriously, and all of our
+  employees contribute to uphold security requirements and
+  maintain compliance with HIPAA security regulations.
+industries:
+  - Fintech
+  - Healthtech
+  - Social Impact
+posted_date: 2026-03-31
+url: "https://builtin.com/job/ai-product-engineer/8910399"
+source: Built In

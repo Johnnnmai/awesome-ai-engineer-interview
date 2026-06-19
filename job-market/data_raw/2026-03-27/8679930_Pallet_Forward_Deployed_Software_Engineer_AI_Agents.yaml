@@ -1,0 +1,202 @@
+job_id: 8679930
+title: Forward Deployed Software Engineer (AI Agents)
+company: Pallet
+location: New York, USA
+work_type: FULL_TIME
+level: Mid level
+skills:
+  - Anthropic
+  - Datadog
+  - Encore.Dev
+  - Google
+  - Next.Js
+  - Node.js
+  - Openai
+  - Playwright
+  - Postgres
+  - React
+company_size: 48 Employees
+description: |
+  About Pallet
+  
+  Pallet is building AI Agents to transform the $12 trillion
+  logistics industry, backed by $50M from investors including
+  General Catalyst, Bessemer Venture Partners, and Bain
+  Capital Ventures. Our mission is to automate the physical
+  economy by creating the most reliable intelligence
+  infrastructure for logistics.
+  
+  Our agents excel at handling complex logistics
+  workflows—scheduling, data entry, and load management—for
+  Fortune 500 companies. But this is only the beginning. Our
+  vision is to be the go-to answer for AI in logistics: from
+  proprietary models to a suite of tools that turn messy
+  business rules into production-ready context for LLMs.
+  
+  We're positioned to build the next $10B company in
+  logistics. Join us and work alongside leaders from Google,
+  DoorDash, YC, and more to shape the future of logistics
+  tech.
+  
+  About the Opportunity
+  
+  Most engineering roles ask you to build in a controlled
+  environment. This one puts you in the field. We're hiring
+  one of our founding team of Agent Delivery Software
+  Engineers to embed directly with customers and deploy
+  production AI agents inside some of the world's largest
+  logistics companies. You will sit alongside customer
+  engineers and operations teams, reverse engineer legacy
+  systems, design pragmatic integrations, and ship AI
+  workflows into messy, real-world environments.
+  
+  This is not a research or pure backend role. This is a
+  hands-on deployment role focused on getting systems live,
+  keeping them reliable, and owning real-world outcomes.
+  
+  Why this role is different
+  
+  - One of the founding Agent Delivery Engineers at Pallet, with
+    ownership over real customer outcomes from day one
+  - Hands-on deployment work across some of the largest
+    logistics companies in the world
+  - Direct collaboration with founders and a tight engineering
+    team, no layers, no red tape
+  - Meaningful equity in a company targeting a $10B+ outcome
+  - Compensation and equity at the 80th percentile, plus bonuses
+    tied to customer go-lives
+  
+  How You Will Make an Impact
+  
+  - Reverse engineer undocumented APIs, ERPs, TMS systems, and
+    internal tools with minimal guidance
+  - Debug broken data pipelines, mismatched schemas, and flaky
+    integrations in production environments
+  - Sit onsite with customer teams to diagnose failures and ship
+    fixes in real time (roughly 25% travel)
+  - Make pragmatic tradeoffs to get systems live under tight
+    timelines
+  - Own customer go-lives end-to-end, from scoping to production
+    stability
+  - Build with observability in mind so issues surface quickly
+    and stay fixed
+  
+  Preferred Experience
+  
+  - 2 to 4+ years of experience shipping and owning production
+    systems, ideally in a high-growth or early-stage
+    environment
+  - Strong experience integrating with third-party APIs,
+    authentication systems, and event-driven workflows
+  - Comfortable debugging distributed systems in production
+    under real customer constraints
+  - Thrives in ambiguous environments where requirements evolve
+    and documentation is sparse
+  - Some experience working directly with customers or external
+    stakeholders is a plus
+  - Genuinely enjoys messy real-world systems more than clean
+    internal abstractions
+  - Excited to work in person 5 days a week and comfortable with
+    roughly 25% travel to customer sites
+  - Not the right fit for those primarily interested in ML
+    research, deeply scoped platform work, or remote-first
+    environments
+  
+  How we work
+  
+  - Impact from day one: your first week might involve wiring a
+    new integration into production or debugging a workflow
+    that saves a customer hours
+  - One standup at 10 am PST. The rest is building
+  - Small PRs, fast iteration, and a team that sits side by side
+    so questions get answered in minutes
+  - Catered lunch daily, Thursday boba runs, and AI tools
+    actively encouraged (Claude, Cursor) as long as you
+    understand the architecture underneath
+  - We promote from within: several teammates earned promotions
+    in under a year
+  
+  Our Tech Stack
+  
+  - Backend: Node.js + TypeScript on Encore.dev, event-driven
+    design with message passing and queues, hosted on GCP
+  - Database: PostgreSQL
+  - LLMs: OpenAI, Anthropic, Google (foundation models), fine-
+    tuned models on Vertex AI
+  - Browser Automation: Playwright
+  - Frontend: Next.js + React + TypeScript, hosted on Vercel
+  - Observability: Datadog
+  
+  Interview Process
+  
+  - Intro Chat with Recruiting - (30 mins)
+  - Technical Screen + Meet and Greet with an Engineer (60 mins)
+  - Executive Chat with Bizops Lead or CTO (30-45 mins)
+  - Final Interview: deep-dive technical and behavioral
+    interviews (~4 hours)
+  
+  Location
+  
+  - San Francisco: Since we're a small team building 0-1
+    products, we prefer candidates to be comfortable working
+    in an in-office environment in San Francisco. We typically
+    come into the office 5 days a week. Relocation assistance
+    can be provided for interested candidates.
+  - New York: Satellite Office with ~8 Pallet employees across
+    engineering, operations, and success - we are seeking to
+    hire and grow out the team more here. The team typically
+    comes into the office 4-5 days a week. Relocation
+    assistance is not provided for our New York office.
+  - Travel: ~25% travel to customer locations
+  
+  Compensation
+  
+  The estimated salary range for this role is
+  $130,000–$200,000, depending on experience and skill set. In
+  addition to base salary, we offer competitive equity,
+  benefits, and growth opportunities. Final compensation will
+  be determined based on a combination of factors, including
+  experience, qualifications, and location.
+  
+  Top-Tier Benefits
+  
+  🩺 Health, Vision, and Dental benefits
+  
+  🏝️ Flexible PTO
+  
+  ➕ Life Insurance and Accidental Insurance
+  
+  ❤️‍🩹 Short-Term Disability Coverage
+  
+  💸 Generous salary and equity for all staff
+  
+  🪜 401k option; helping you save for the future
+  
+  📚 Yearly learning and development stipend
+  
+  🚌 Commuter benefits
+  
+  🚘 Uber ride stipend if you ever have to work late in the
+  office
+  
+  🏡 Office home stipend to get you comfy in your space
+  
+  🍔 Daily catered lunches provided by Sharebite (every meal
+  you order, one meal gets donated)
+  
+  🥤 Monthly happy hours
+  
+  🎉 Annual Company Offsites; this year we'll be headed to Palm
+  Springs 🌴
+  
+  Pallet is proud to be an Equal Employment Opportunity and
+  Affirmative Action employer. We celebrate diversity and are
+  committed to creating an inclusive environment for all
+  employees.
+industries:
+  - Artificial Intelligence
+  - Logistics
+  - Transportation
+posted_date: 2026-03-06
+url: "https://builtin.com/job/forward-deployed-software-engineer-ai-agents/8679930"
+source: Built In

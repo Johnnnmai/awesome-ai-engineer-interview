@@ -1,0 +1,186 @@
+job_id: 8726565
+title: AI Automation Engineer
+company: DevRev
+location: Chennai, IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AI
+  - AWS
+  - Ci/Cd
+  - Docker
+  - GCP
+  - JavaScript
+  - Kubernetes
+  - Playwright
+  - Python
+  - Typescript
+company_size: 127 Employees
+description: |
+  About DevRev
+  
+  At DevRev, we're building the future of work with Computer –
+  your AI teammate. Unlike traditional tools, Computer unifies
+  all your data sources, tools, and workflows into a single
+  AI-ready platform, giving employees real-time insights,
+  proactive suggestions, and powerful agentic actions. It
+  extends your existing software with AI-native apps and
+  agents that work alongside your teams and customers –
+  updating workflows, coordinating across teams, and
+  eliminating repetitive work. We call this Team Intelligence:
+  human-AI collaboration that breaks down silos, brings people
+  back together, and frees you to solve bigger problems.
+  Backed by Khosla Ventures and Mayfield with $150M+ raised,
+  DevRev is trusted by global companies across industries.
+  
+  We are looking for a AI Engineer with hands-on experience
+  building AI-powered platforms, particularly systems that
+  support chatbots, agent-driven workflows, and streaming LLM
+  experiences & have deep expertise in building and scaling
+  test automation frameworks using the Playwright framework.
+  The ideal candidate has experience defining and driving QA
+  automation strategy across large test suites, implementing
+  clean design principles, improving code quality and
+  advocating for coding best practices across the team.
+  
+  You will be instrumental in establishing a scalable,
+  maintainable, and robust test automation ecosystem. This
+  role requires both strategic thinking and hands-on
+  execution, serving as a technical leader and mentor to the
+  QA automation team. In this role, you will leverage AI and
+  test automation to enhance and expedite our testing
+  processes, govern and evolve our test frameworks, and
+  develop a comprehensive monitoring and alerting system. Your
+  expertise will ensure the robustness, efficiency, and
+  reliability of our software delivery pipeline.
+  
+  Key Responsibilities:
+  
+  AI-Driven Test Automation
+  
+  - Actively use AI and intelligent agents to accelerate test
+    generation, test maintenance, and coverage expansion.
+  - Leverage LLMs to convert requirements, user stories, and
+    production incidents into high-quality automated test
+    cases.
+  - Reduce reliance on manual test case creation by introducing
+    AI-assisted automation workflows, with human review and
+    ownership.
+  - Apply AI to optimize test selection, prioritization, and
+    execution based on risk, code changes, and historical
+    failures.
+  - Test Case Design and Documentation
+  - Use AI to assist in identifying missing scenarios, edge
+    cases, and negative paths from requirements and user
+    behavior.
+  - Maintain strong traceability between product features, test
+    cases, and automated coverage, with AI support for
+    documentation updates and gap analysis.
+  
+  Test Suite Development & Maintenance
+  
+  - Build AI solutions to enable growth and drive internal
+    efficiency across the business.
+  - Design and implement robust API and system architecture for
+    new AI applications.
+  - Collaborate closely with a cross-functional team to bring
+    these AI solutions to life.
+  - Embrace the challenges of a fast-paced, high-growth
+    environment with a focus on innovation.
+  - Establish coding standards, branching strategies, and review
+    guidelines for QA automation code.
+  - Integrate test execution into CI/CD pipelines with fast
+    feedback loops and real-time reporting.
+  - Evaluate and integrate AI-powered tools for test generation,
+    flakiness detection, self-healing tests, and intelligent
+    exploratory testing (for example Testim, Mabl, Diffblue,
+    or custom LLM-based solutions).
+  - Build or extend internal AI copilots to assist with test
+    creation, debugging failures, and analyzing logs and
+    traces.
+  - Champion shift-left testing by working closely with
+    engineering, product, and DevOps teams to prevent defects
+    early.
+  
+  Quality Ownership and Continuous Improvement
+  
+  - Own the health and evolution of the automation framework.
+  - Analyze test failures, flaky behavior, and production
+    escapes using AI-assisted root cause analysis.
+  - Continuously improve testing strategies based on learnings
+    from releases, incidents, and customer impact.
+  - Promote a strong quality mindset where AI is used as a force
+    multiplier, not a shortcut.
+  
+  Test Reporting and Analytics
+  
+  - Design clear and actionable test reports that highlight
+    coverage, risk, and failure patterns.
+  - Use AI-driven analytics to identify trends, predict risk
+    areas, and guide test investment.
+  - Implement intelligent alerting so failures are automatically
+    routed to the right feature owners with context and
+    recommendations.
+  
+  Qualifications:
+  
+  - Experience building internal or customer-facing products
+    with LLMs.
+  - Skill in writing high-quality, maintainable code.
+  - Experience in design and development of large-scale
+    distributed, high concurrency, high load, high
+    availability systems;
+  - Deep hands-on experience with Playwright
+    (JavaScript/TypeScript/Python) in a real-world production
+    environment.
+  - Demonstrated experience building an automation framework
+    from scratch, with organized test categorization,
+    reusability, and CI/CD integration.
+  - Strong understanding of software testing methodologies, test
+    planning, and test strategy.
+  - Familiarity with using AI to enhance testing and software
+    development.
+  - Strong problem-solving skills and attention to detail.
+  - Experience with test reporting and analytics tools (e.g.,
+    Allure, ReportPortal, TestRail)
+  - Strong scripting and coding skills (JavaScript/TypeScript)
+  - Experience with test management and defect tracking systems.
+  - Experience with cloud-based test execution and
+    containerization (Docker, Kubernetes).
+  - Familiarity with Git, Jenkins/GitHub Actions/Azure DevOps,
+    and cloud services like AWS/GCP is a plus.
+  - Excellent communication, teamwork, and documentation skills,
+    with a strong ability to advocate for best practices.
+  
+  Preferred Skills:
+  
+  - Hands-on experience with AI in software testing, such as
+    using AI for test case generation, code coverage analysis,
+    or flaky test detection.
+  - Knowledge of test framework design and development.
+  - Strong understanding of test reporting tools and
+    technologies.
+  
+  Nice to Have
+  
+  - Contributions to open-source QA frameworks or tools.
+  - Familiarity with visual regression tools (e.g., Percy,
+    Applitools).
+  - Knowledge of performance testing tools and integration with
+    automation pipelines.
+  - Experience working in Agile/Scrum or DevOps-centric
+    environments.
+  
+  Join us in innovating our testing processes and ensuring the
+  delivery of high-quality software products through advanced
+  automation techniques.
+  
+  DevRev is an equal opportunity employer and does not
+  discriminate on the basis of race, gender, sexual
+  orientation, gender identity/expression, national origin,
+  disability, age, genetic information, veteran status,
+  marital status, pregnancy or related condition, or any other
+  basis protected by law.
+posted_date: 2026-03-18
+url: "https://builtin.com/job/ai-automation-engineer/8726565"
+source: Built In

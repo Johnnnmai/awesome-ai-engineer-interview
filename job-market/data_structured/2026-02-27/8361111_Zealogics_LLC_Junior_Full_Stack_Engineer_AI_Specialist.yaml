@@ -1,0 +1,49 @@
+company:
+  name: Zealogics LLC
+  stage: Unknown
+  focus: Technology services and solutions
+position:
+  title: Junior Full Stack Engineer (AI Specialist)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on implementation and support of AI
+      API integrations (Claude, OpenAI, Gemini, Azure AI) and
+      developing full stack applications with AI/ML features.
+      While it's a support-focused role with L2 responsibilities,
+      it requires direct work integrating and implementing AI
+      services into applications.
+  responsibilities:
+  - Develop, test, and deploy full stack applications with AI/ML features
+  - Implement and support AI API integrations across Claude, OpenAI, Gemini, and Azure
+    AI services
+  - 'Provide L2-level support: monitor applications, maintain system health, and resolve
+    issues'
+  - Focus on bug fixing, troubleshooting, and incremental enhancements to existing
+    applications
+  - Collaborate with global teams using GitHub workflows for version control and CI/CD
+  - Participate in agile ceremonies, code reviews, and documentation
+  - Continuously learn and adopt new AI engineering concepts and cloud technologies
+  - Handle Incident Management, Problem Management, Service requests and change requests
+  use_cases:
+  - AI API integration for mission-critical applications
+  - Full stack application development with AI/ML features
+  - Production support and monitoring for AI-enabled systems
+  - Enterprise application maintenance and enhancement
+  skills:
+    genai: [OpenAI API, Claude API, Gemini API, Azure AI Services, AI API integration
+        patterns]
+    ml: []
+    web: [React, Angular, Node.js, REST APIs]
+    databases: [Relational databases, Non-relational databases]
+    data: []
+    cloud: [Azure]
+    ops: [GitHub, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8361111'
+  extracted_at: '2026-03-03T12:54:38.880809'

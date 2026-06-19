@@ -1,0 +1,48 @@
+company:
+  name: Showpad
+  stage: null
+  focus: AI-driven applications and products
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with AI models including
+      integration, fine-tuning, optimization, and
+      operationalization. The position explicitly includes
+      contributing to model fine-tuning, evaluation, and
+      benchmarking, which constitutes direct work on AI systems.
+  responsibilities:
+  - Design, develop, and maintain scalable backend services using Node.js and .NET
+    Core
+  - Build and operate cloud-native applications within AWS including Lambda, ECS/EKS,
+    S3, and API Gateway
+  - Integrate AI/ML models into production systems including APIs and data pipelines
+  - Participate in model evaluation, benchmarking, and performance analysis
+  - Contribute to fine-tuning and optimization of AI models for specific business
+    use cases
+  - Collaborate with data scientists and AI engineers to productionize models
+  - Implement and maintain CI/CD pipelines and deployment workflows
+  - Ensure high standards of code quality, testing, and observability
+  use_cases:
+  - AI-driven product development
+  - AI model integration into production applications
+  - Business-specific AI use cases through fine-tuning
+  - Scalable AI-powered backend services
+  - Cloud-native AI application deployment
+  skills:
+    genai: [OpenAI, LangChain, Semantic Kernel, embeddings, RAG]
+    ml: [Hugging Face, model fine-tuning, model evaluation]
+    web: [Node.js, .NET Core, RESTful APIs, microservices]
+    databases: [vector databases]
+    data: []
+    cloud: [AWS, AWS Lambda, AWS ECS/EKS, AWS S3, AWS API Gateway]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [TypeScript, JavaScript, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8860579'
+  extracted_at: '2026-03-27T14:45:23.673436'

@@ -1,0 +1,47 @@
+company:
+  name: Abstrabit Technologies
+  stage: null
+  focus: |-
+    AI consulting company building custom chatbots, knowledge
+    bases, and AI/ML solutions for clients
+position:
+  title: Full Stack Developer Intern (AI Focus | Class of 2026 | Conversion Opportunity)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI consulting company where interns work directly
+      on AI/ML solutions including custom chatbots, knowledge
+      bases, and generative AI functionalities integrated into
+      full-stack applications. The role involves hands-on
+      development of AI-powered features for client projects.
+  responsibilities:
+  - Work on real-world client projects building AI-powered applications
+  - Develop full-stack mobile and web applications with AI/ML functionalities including
+    generative AI
+  - Build and integrate custom chatbots and knowledge bases
+  - Contribute to the development lifecycle with backend (Node.js/Python) and frontend
+    (React/Next.js) work
+  - Work with cloud platforms (AWS/GCP/Azure) on AI solution deployments
+  - Collaborate with experienced engineers in a remote team environment
+  use_cases:
+  - Custom chatbot development for clients
+  - Knowledge base building and management
+  - AI/ML integration into existing client products
+  - Full-stack applications with generative AI capabilities
+  - Advanced AI/ML solutions for enterprise clients
+  skills:
+    genai: [Generative AI]
+    ml: []
+    web: [Node.js, React, Next.js, HTML, CSS, RESTful APIs]
+    databases: [SQL, NoSQL]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Git]
+    languages: [Python, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8412047'
+  extracted_at: '2026-03-03T11:28:09.819217'

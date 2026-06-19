@@ -1,0 +1,51 @@
+company:
+  name: Ema Unlimited
+  stage: Series A
+  focus: Universal AI employee platform for enterprise automation
+position:
+  title: CTO's Office - AI Applications Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, designing, and
+      deploying AI-powered tools and agentic AI applications. The
+      engineer will leverage LLM frameworks and agentic workflow
+      platforms to create intelligent applications and micro-SaaS
+      tools, making it hands-on AI/agent development work.
+  responsibilities:
+  - Build AI-powered micro-SaaS tools and intelligent applications to solve specific
+    challenges across the organization
+  - Design and develop agentic AI tools to streamline workflows for internal teams
+    and partners
+  - Identify problem statements suitable for AI-driven automation and architect AI
+    agents to automate the work
+  - Leverage AI-native development tools and LLM frameworks to rapidly prototype,
+    build, and deploy solutions
+  - Serve as product manager, designer, and developer for AI-powered internal tools
+  - Utilize cutting-edge agentic workflow platforms including Ema's own platform to
+    deliver value
+  - Discover automation opportunities across organizational processes and implement
+    AI-driven solutions
+  use_cases:
+  - Internal workflow automation and streamlining
+  - Micro-SaaS tools for enterprise productivity
+  - Agentic AI automation for repetitive tasks
+  - Intelligent applications for internal teams
+  - AI-powered process optimization
+  skills:
+    genai: [LangChain, AutoGen, CrewAI, LLM frameworks, Agentic workflow platforms,
+      Cursor, Lovable]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Zapier, Make, n8n]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7116385'
+  extracted_at: '2026-03-03T11:56:07.226919'

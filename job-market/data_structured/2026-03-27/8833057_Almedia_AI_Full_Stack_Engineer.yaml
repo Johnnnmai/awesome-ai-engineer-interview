@@ -1,0 +1,47 @@
+company:
+  name: Almedia
+  stage: Growing startup (aiming for unicorn status, bootstrapped, profitable from
+    day one)
+  focus: |-
+    Marketing and user acquisition platform rewarding users for
+    engaging with advertiser products
+position:
+  title: AI Full Stack Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves integrating AI APIs, designing AI-powered
+      features, and orchestrating AI capabilities into products.
+      While it's a full stack engineering role, it has a clear AI
+      angle with hands-on work connecting to and implementing AI
+      solutions, including prompting and working with agentic
+      approaches.
+  responsibilities:
+  - Develop and maintain full stack applications across front end, back end, and databases
+  - Build and maintain back-end services in Node.js or Python
+  - Integrate and orchestrate AI APIs into existing and new systems
+  - Design AI-powered features using prompting and current AI tools
+  - Work across multiple systems and data sources to make sense of fragmented data
+  - Collaborate with business teams to identify opportunities for AI to improve workflows
+  - Translate business needs into technical solutions and iterate on them
+  use_cases:
+  - Internal tools and products with AI capabilities
+  - Workflow automation for marketing, UA, and operations teams
+  - AI-powered features for business process improvement
+  - Data integration and orchestration across fragmented systems
+  skills:
+    genai: [AI APIs, Prompt engineering, Agentic AI approaches]
+    ml: []
+    web: [Node.js, Full stack development]
+    databases: [Databases]
+    data: [n8n]
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8833057'
+  extracted_at: '2026-03-27T14:09:56.343115'

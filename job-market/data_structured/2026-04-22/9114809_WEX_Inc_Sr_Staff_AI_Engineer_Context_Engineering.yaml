@@ -1,0 +1,59 @@
+company:
+  name: WEX Inc.
+  stage: Public
+  focus: Financial technology and payment processing solutions
+position:
+  title: Sr Staff AI Engineer, Context Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is classified as ai-first because it involves
+      directly designing and building the infrastructure for
+      Agentic AI workflows, including implementing MCP protocols,
+      multi-agent orchestration patterns, Agentic RAG, and
+      reasoning-based retrieval systems. While it has a strong
+      platform engineering foundation, the core mission is
+      building the specialized "Context Layer" that powers
+      autonomous AI agents—not just generic infrastructure.
+  responsibilities:
+  - Define and own the 3-5 year technical roadmap for an AI-ready Data Lakehouse optimized
+    for AI Agent operations and context retrieval
+  - Prototype and benchmark emerging AI architectural patterns including Multi-Agent
+    Orchestration, autonomous memory management, and Agent Evaluation frameworks
+  - Design platform-level interfaces for Agentic workflows including Host-to-Server
+    communication, tool-execution environments, and Human-in-the-Loop mechanisms
+  - Build the Context Fabric infrastructure enabling AI agents to securely discover,
+    access, and interpret enterprise data via Reasoning-based Retrieval
+  - Implement emerging standards like Model Context Protocol (MCP) and evaluate trends
+    like Small Language Models and Agentic RAG
+  - Set engineering excellence standards for code quality, CI/CD, and system design
+    across the organization with cross-functional architecture reviews
+  - Build AI-native CI/CD features including automated LLM-based evaluations and automated
+    root-cause analysis for system failures
+  use_cases:
+  - Enterprise Agentic AI workflow infrastructure enabling hundreds of engineers to
+    build autonomous agents
+  - Reasoning-based retrieval and contextual data access for AI agents querying enterprise
+    data
+  - Multi-agent orchestration with standardized tool execution and human-in-the-loop
+    governance
+  - AI-native CI/CD pipelines with automated agent reasoning path evaluation
+  - Multi-cloud AI platform bridging AWS and Azure for scalable agentic workloads
+  skills:
+    genai: [LangGraph, CrewAI, Agentic RAG, Model Context Protocol (MCP), Multi-Agent
+        Orchestration, Human-in-the-Loop (HITL), Prompt Engineering, LLM Evaluations]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector Databases]
+    data: [Data Lakehouse Architecture]
+    cloud: [AWS, Azure, AWS CloudWatch, Azure Monitor]
+    ops: [Terraform, ArgoCD, Flux, GitHub Actions, GitLab CI, Docker, OpenTelemetry,
+      GitOps, CI/CD, Infrastructure-as-Code]
+    languages: [Java, Scala, Python, SQL]
+    domains: []
+    other: [Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9114809'
+  extracted_at: '2026-04-22T13:27:47.389114'

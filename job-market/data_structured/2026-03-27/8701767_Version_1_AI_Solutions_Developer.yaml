@@ -1,0 +1,44 @@
+company:
+  name: Version 1
+  stage: Established
+  focus: Technology consulting and transformation solutions partner
+position:
+  title: AI Solutions Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development of AI-powered
+      applications and building pilot solutions/PoCs using Azure
+      AI services and OpenAI APIs. The developer will directly
+      implement and prototype AI solutions, making this an ai-
+      first role focused on deploying AI systems.
+  responsibilities:
+  - Build pilot solutions and proof-of-concepts (PoCs) for a variety of AI use cases
+  - Create and maintain demo environments for enablement and presales activities
+  - Develop enablement content and technical guides for AI tools and platforms
+  - Support innovation pilots with hands-on development and technical execution
+  - Contribute technical content to the AI playbook and delivery frameworks
+  - Ensure all solutions include complete documentation such as architecture diagrams
+    and deployment guides
+  use_cases:
+  - AI proof-of-concepts and pilot solutions
+  - Presales demonstrations and enablement
+  - AI tooling and platform adoption
+  - Innovation pilots and prototypes
+  - Technical enablement and documentation
+  skills:
+    genai: [OpenAI APIs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure AI services, Cloud deployment patterns]
+    ops: [Infrastructure-as-code]
+    languages: []
+    domains: []
+    other: [Technical documentation]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8701767'
+  extracted_at: '2026-03-27T16:16:10.305484'

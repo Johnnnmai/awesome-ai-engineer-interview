@@ -1,0 +1,51 @@
+company:
+  name: Nasuni
+  stage: Late-stage private (backed by Vista Equity Partners, $160M ARR)
+  focus: Enterprise file storage and data management SaaS platform
+position:
+  title: AI & Automation Engineer - Workato
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI agents, leveraging Agentic
+      AI, LLMs, and MCPs using Workato Agent Studio to create
+      intelligent automations. The engineer directly designs,
+      develops, and deploys AI-driven automation solutions and
+      agentic systems, which constitutes hands-on work with AI
+      models and agents.
+  responsibilities:
+  - Design, develop, test, and deploy integrations, automations, and AI agents using
+    Workato (including Agent Studio & Workato GO)
+  - Translate business requirements into scalable workflows, recipes, and agentic
+    solutions
+  - Partner with global teams across time zones to incorporate feedback effectively
+  - Adhere to governance standards and engineering best practices
+  - Recommend and implement process improvements aligned to enterprise architecture
+  - Automate and optimize business workflows for Sales, Marketing, or G&A functions
+  - Integrate modern SaaS platforms (Salesforce, HubSpot, etc.) into automated workflows
+  - Build AI-driven automation patterns leveraging LLMs and MCPs
+  use_cases:
+  - Sales pipeline automation and revenue acceleration using Salesforce, Gainsight,
+    Clari, Gong integrations
+  - Marketing automation including AI-powered pipeline generation, attribution, and
+    analytics across HubSpot and MarTech ecosystems
+  - G&A process optimization across HR, Finance, Accounting, and Operations with tools
+    like Greenhouse, procurement systems
+  - Enterprise workflow automation and intelligent business process orchestration
+  - AI agent-driven automation for cross-functional business operations
+  skills:
+    genai: [Workato Agent Studio, LLMs, MCPs, Agentic AI]
+    ml: []
+    web: [REST APIs, JSON]
+    databases: [Snowflake, Relational databases, Non-relational databases]
+    data: []
+    cloud: [AWS, Microsoft Azure, Google Cloud]
+    ops: []
+    languages: [Python, JavaScript, Ruby, Java, SQL]
+    domains: []
+    other: [Workato, Salesforce, HubSpot, Mulesoft, Boomi]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8690471'
+  extracted_at: '2026-04-22T13:52:00.819282'

@@ -1,0 +1,56 @@
+company:
+  name: Contentful
+  stage: Late-stage (stock options, 4200+ customers, 700+ employees)
+  focus: |-
+    Digital experience platform with composable content
+    management and native AI capabilities
+position:
+  title: Senior Backend Engineer - AI Platform (f/m/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building an internal AI platform that
+      integrates generative AI, ML models, and NLP into the
+      product. The engineer directly implements AI technologies,
+      works with prompt engineering, and builds AI integrations
+      and APIs — not just supporting infrastructure for others' AI
+      work. The hands-on integration and implementation of AI/ML
+      solutions makes this ai-first.
+  responsibilities:
+  - Design, develop, and maintain scalable AI platform features using TypeScript and
+    Node.js to enable feature teams
+  - Implement and integrate AI technologies including generative AI, ML models, and
+    NLP to enhance platform capabilities
+  - Collaborate with product managers, designers, and engineers to build AI-enabled
+    features for customers
+  - Build APIs, tools, and documentation that empower feature teams to test, deliver,
+    and maintain AI-driven products
+  - Debug and solve problems related to AI performance, model integration, or data
+    pipeline issues
+  - Participate in code reviews and improve AI development processes for scalability
+    and maintainability
+  - Act as a consultancy resource for feature teams to enhance their AI development
+    capabilities
+  use_cases:
+  - Content management with AI-powered dynamic personalization
+  - Automated content delivery and generation
+  - AI-assisted content authoring and optimization for enterprise customers
+  - Internal AI platform enabling feature teams to build and ship AI-driven products
+  - Real-time experimentation across digital experiences
+  skills:
+    genai: [Generative AI, Prompt engineering]
+    ml: []
+    web: [Node.js, React, REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP, AWS SageMaker, Azure Machine Learning, Serverless architectures,
+      Cloudflare Workers]
+    ops: [Docker, Kubernetes]
+    languages: [TypeScript]
+    domains: [NLP]
+    other: [RBAC, Asynchronous systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8950758'
+  extracted_at: '2026-04-22T13:08:15.052644'

@@ -1,0 +1,48 @@
+company:
+  name: PermitFlow
+  stage: Series B
+  focus: |-
+    AI-powered platform for construction permitting and
+    compliance automation
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying AI agents —
+      designing, orchestrating, productionizing, and evaluating
+      multi-step agentic workflows. The engineer owns the full
+      lifecycle of intelligent agents from model development to
+      deployment, making this squarely an ai-first role.
+  responsibilities:
+  - Develop and deploy AI agents that automate permitting workflows end-to-end
+  - Orchestrate multiple models and tools to create reliable, multi-step AI systems
+  - Build internal tools and infrastructure that power and monitor AI agents
+  - Design and implement backend and frontend services, APIs, and data pipelines integrating
+    AI functionality
+  - Contribute to system architecture and core platform design
+  - Design and maintain evaluations and benchmarks to measure agent accuracy, reliability,
+    and cost-effectiveness
+  - Optimize inference pipelines and backend systems for speed, scalability, and cost
+  use_cases:
+  - Automating construction permitting workflows end-to-end
+  - Navigating licensing, inspections, and project closeouts for builders
+  - Understanding what can be built, where, and how — large-scale information extraction
+  - Reducing compliance time and de-risking construction projects
+  - Accelerating housing, clean-energy, and infrastructure development
+  skills:
+    genai: [AI agents, Agentic workflows, Prompt engineering, LLM orchestration, RAG]
+    ml: [ML system design]
+    web: [Backend development, API development, Frontend development]
+    databases: []
+    data: [Data pipelines]
+    cloud: []
+    ops: [Inference optimization]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9116946'
+  extracted_at: '2026-04-22T12:56:13.170244'

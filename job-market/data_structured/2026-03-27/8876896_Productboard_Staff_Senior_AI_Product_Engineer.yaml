@@ -1,0 +1,56 @@
+company:
+  name: Productboard
+  stage: Series D (unicorn, backed by major VCs)
+  focus: |-
+    Intelligent product management platform with AI-powered
+    features
+position:
+  title: Staff / Senior AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-powered product features,
+      designing and implementing agent workflows with multi-step
+      reasoning and tool use, and making the codebase AI-ready.
+      The position requires hands-on experience with LLMs, agentic
+      systems, and prompt engineering to build production AI
+      features.
+  responsibilities:
+  - Building AI-powered product features using LLMs and agentic systems
+  - Design and implement agent workflows with multi-step reasoning, tool use, and
+    autonomous task execution
+  - Make codebase AI-ready by defining module boundaries, improving API contracts,
+    and building structured documentation
+  - Enhance and sustain internal tech stack while incorporating new state-of-the-art
+    AI technologies
+  - Create MVPs and POCs, experimenting across different domains with findings discussions
+  - Run experiments, validate with real users, and iterate based on evidence to measure
+    learning velocity
+  - Collaborate with product managers and designers to shape product features
+  - Act as knowledge multiplier sharing learnings across teams
+  use_cases:
+  - AI-powered product management platform (Productboard Spark) - agentic experience
+    for product teams
+  - Copilot features for Insights domain with bulk-processing, pre-processing, and
+    smart suggestions
+  - Aggregated insights and clustered data connected to features and ideas
+  - AI agent workflows for on-call and incident resolution including triage and remediation
+  - AI code review optimization for correctness, security, and maintainability
+  skills:
+    genai: [Pydantic AI, LLM prompt engineering, Agentic systems, Multi-step reasoning,
+      Tool use / function calling, Cursor, Claude Code, Context management, Evaluation
+        systems]
+    ml: []
+    web: [React, Relay, GraphQL]
+    databases: [PostgreSQL, MongoDB, Elastic, Redis, Snowflake]
+    data: [Kafka]
+    cloud: [AWS]
+    ops: [Braintrust, Kubernetes, Terraform]
+    languages: [Python, TypeScript, Kotlin, Ruby]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8876896'
+  extracted_at: '2026-03-27T15:30:09.166858'

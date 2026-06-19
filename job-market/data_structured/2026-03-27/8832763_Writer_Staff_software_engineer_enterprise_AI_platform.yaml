@@ -1,0 +1,54 @@
+company:
+  name: Writer
+  stage: Series B
+  focus: |-
+    Enterprise generative AI platform for building and deploying
+    AI agents
+position:
+  title: Staff software engineer, enterprise AI platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building enterprise administration
+      infrastructure (identity, authentication, authorization,
+      billing) that enables organizations to use Writer's AI
+      platform. The engineer works ON the platform infrastructure
+      that supports AI adoption, not ON building/deploying AI
+      models or agents themselves. This is enabling work for
+      customers who use the AI products.
+  responsibilities:
+  - Design and build robust, scalable services for enterprise administration, billing,
+    identity management, authentication, and authorization
+  - Own the architecture of core platform components from initial design through production
+  - Build and optimise high-performance APIs and distributed services that operate
+    reliably at enterprise scale
+  - Collaborate with product managers and cross-functional engineering teams to translate
+    complex business and compliance requirements into well-designed technical solutions
+  - Partner with DevOps teams on continuous deployment, logging, and monitoring for
+    top-tier performance and reliability
+  - Drive improvements in observability, reliability, deployment workflows, and operational
+    excellence
+  - Navigate ambiguity and turn loosely defined problem spaces into well-structured,
+    maintainable implementations
+  use_cases:
+  - Enterprise identity and access management for AI platform adoption
+  - Secure authentication and authorization for large organizations
+  - Billing and subscription infrastructure for enterprise customers
+  - Multi-tenant platform governance and compliance
+  - Seat management and usage governance at scale
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: [PostgreSQL]
+    data: [Event-driven architecture]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes]
+    languages: [Python, Scala, SQL]
+    domains: []
+    other: [SSO, SAML, OIDC, RBAC, ABAC, Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8832763'
+  extracted_at: '2026-03-27T15:37:39.504696'

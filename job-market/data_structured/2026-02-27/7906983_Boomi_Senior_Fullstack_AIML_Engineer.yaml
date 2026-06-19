@@ -1,0 +1,57 @@
+company:
+  name: Boomi
+  stage: Late-stage private (PE-owned)
+  focus: |-
+    Intelligent integration and automation platform for
+    enterprise data connectivity
+position:
+  title: Senior Fullstack AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying AI agents,
+      implementing RAG pipelines, and orchestrating multi-agent
+      systems using frameworks like LangChain and AutoGen. As a
+      Forward Deployed Engineer, they are directly creating,
+      architecting, and deploying AI systems - hands-on work with
+      models and agents.
+  responsibilities:
+  - Architect, build, and orchestrate intelligent agents using ChatB, Agent Studio,
+    and LLM frameworks
+  - Lead the design, experimentation, and validation of new AI workflows for internal
+    productivity improvements
+  - Design agent hierarchies and orchestration pipelines using coordination frameworks
+    like LangChain, AutoGen, CrewAI, and Semantic Kernel
+  - Investigate and integrate state-of-the-art AI techniques including tool use, reasoning,
+    memory, RAG, and function calling
+  - Build APIs and connectors enabling agents to interact with Boomi's integration
+    and automation ecosystem
+  - Implement vector databases, knowledge graphs, and retrieval pipelines for context-aware
+    responses
+  - Define KPIs, monitor LLM behaviors, and evaluate model performance through offline
+    and live testing
+  - Mentor internal teams on AI agent architectures, experimental methods, and technical
+    excellence
+  use_cases:
+  - Enterprise business process automation through AI agents
+  - Multi-agent collaboration for complex workflow orchestration
+  - Context-aware retrieval and knowledge graph systems
+  - Intelligent integration between enterprise systems
+  - Internal productivity improvement through AI-driven automation
+  skills:
+    genai: [LangChain, AutoGen, CrewAI, Semantic Kernel, OpenAI API, Anthropic Claude,
+      Google Gemini, RAG pipelines, Prompt engineering, Function calling]
+    ml: [PyTorch, TensorFlow, Hugging Face]
+    web: [API design, Microservices, Event-driven architecture]
+    databases: [Pinecone, Weaviate, Chroma, FAISS]
+    data: [ETL, Data pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, LLMOps]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7906983'
+  extracted_at: '2026-03-03T11:42:32.994417'

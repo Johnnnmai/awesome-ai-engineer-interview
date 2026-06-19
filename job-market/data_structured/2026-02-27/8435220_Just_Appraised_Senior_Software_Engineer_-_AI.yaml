@@ -1,0 +1,53 @@
+company:
+  name: Just Appraised
+  stage: Seed
+  focus: |-
+    AI-powered software for government real estate and property
+    tax processes
+position:
+  title: Senior Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and owning AI systems
+      including a Conversation Engine and RAG pipeline end-to-end.
+      The engineer will implement LLM workflows, function calling,
+      and response generation - working ON the AI systems
+      themselves, not just supporting infrastructure.
+  responsibilities:
+  - Build and evolve the Conversation Engine powering email, chat, and voice responses
+    with conversation state, memory, and high-quality response generation
+  - 'Own the RAG pipeline end-to-end: document ingestion, chunking strategies, embeddings,
+    indexing, retrieval, reranking, and grounded response generation'
+  - Implement AI Tooling and function calling to connect LLM workflows to internal
+    systems with validation and safe execution patterns
+  - Design evaluation and quality systems for AI features including offline eval harnesses,
+    golden datasets, human feedback loops, and hallucination monitoring
+  - Collaborate with cross-functional teams to define, design, and ship new features
+  - Work with business stakeholders and customers to translate requirements into technical
+    specifications
+  - Mentor and support engineering team members
+  - Troubleshoot complex issues and optimize application performance, reliability,
+    and scalability
+  use_cases:
+  - Automated email, chat, and voice responses for government citizen communications
+  - Document processing and retrieval for property tax and real estate data
+  - Knowledge base queries for government account and case information
+  - Eliminating manual data entry in local government processes
+  - Reducing delays, backlogs, and errors in property tax administration
+  skills:
+    genai: [LLMs, RAG, Function Calling, NLP, Conversation Engine]
+    ml: []
+    web: [API Design]
+    databases: [PostgreSQL, Vector Databases]
+    data: [Data Modeling]
+    cloud: [AWS]
+    ops: [Docker, Git, GitHub Actions, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8435220'
+  extracted_at: '2026-03-03T11:12:23.060180'

@@ -1,0 +1,55 @@
+company:
+  name: GetYourGuide
+  stage: Public
+  focus: |-
+    Online travel experience marketplace connecting travelers
+    with activities
+position:
+  title: Senior AI Enablement Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is about enabling internal AI adoption across
+      GetYourGuide — building platforms, governance, and tooling
+      for other teams to use AI, not building or training AI/ML
+      models directly. The engineer assesses, evaluates, and
+      governs AI tools rather than developing models, fine-tuning,
+      or deploying them hands-on.
+  responsibilities:
+  - Develop and support internal AI platform capabilities to help teams adopt AI tools
+    practically and effectively
+  - Own initiatives from problem definition through technical evaluation, implementation,
+    and ongoing improvement
+  - Assess internal AI needs and translate them into scalable technical solutions
+  - Evaluate AI tools and approaches with attention to security, compliance, and operational
+    suitability
+  - Drive AI adoption while reducing shadow AI and improving governance processes
+  - Own the AI governance framework and lead security and compliance conversations
+    as the senior AI technical authority
+  - Collaborate with cross-functional stakeholders to balance technical possibilities
+    with business needs
+  - Act as the primary technical escalation point and advisor for teams navigating
+    AI adoption and tooling decisions
+  use_cases:
+  - Internal AI platform and tooling enablement for enterprise teams
+  - AI governance and compliance framework management
+  - Shadow AI reduction and standardization of AI tool usage
+  - Security and compliance assessment of AI tools for organizational use
+  - Employee experience improvement through managed AI capabilities
+  skills:
+    genai: [AI Platforms and Tooling]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Security and Governance, SaaS Administration, Platform Engineering, Systems
+        Administration]
+    languages: []
+    domains: []
+    other: [Compliance, Stakeholder Management, Cybersecurity]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8990334'
+  extracted_at: '2026-04-22T12:27:24.836974'

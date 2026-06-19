@@ -1,0 +1,52 @@
+company:
+  name: Astreya
+  stage: unknown
+  focus: Managed IT services and AI solutions for enterprise
+position:
+  title: AI/ML Engineer III
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role owns the full ML lifecycle from prototyping
+      (including deep learning and GenAI) to deployment and
+      monitoring, develops ML models, runs models in real-time,
+      and delivers deployed ML solutions like NLP for ticket
+      routing. The position involves hands-on building, training,
+      and deploying ML/AI systems directly.
+  responsibilities:
+  - Own full ML lifecycle from prototyping to deployment and monitoring including
+    deep learning and GenAI
+  - Lead translation of business goals into measurable ML KPIs and success criteria
+  - Develop and maintain scalable ML pipelines with automated training, validation,
+    and deployment workflows
+  - Run and safeguard ML models in real time with observability dashboards and alerts
+  - Deploy ML solutions integrated with managed service platforms such as NLP for
+    ticket routing
+  - Champion cross-functional collaboration and ML governance across product, infra,
+    legal, and UX
+  - Architect data strategy ensuring reproducibility, traceability, and quality across
+    the ML stack
+  - Pilot new ML tools and frameworks and lead integration into production
+  use_cases:
+  - NLP for IT ticket routing and service desk automation
+  - Network anomaly detection
+  - Computer vision for asset tracking
+  - Real-time model inference and monitoring
+  - Enterprise AI platform development
+  skills:
+    genai: [Prompt engineering]
+    ml: [TensorFlow, PyTorch, scikit-learn, HuggingFace, 'Deep Learning (CNNs, RNNs,
+        Transformers, LLMs)', 'NLP (BERT, tokenization)', Jupyter]
+    web: [Flask, FastAPI, REST APIs]
+    databases: []
+    data: [Spark, Hadoop, Pandas]
+    cloud: [GCP Vertex AI]
+    ops: [Docker, Kubernetes, Airflow, MLflow, CI/CD, Git]
+    languages: [Python, SQL, Apps Script]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8666589'
+  extracted_at: '2026-03-27T15:20:09.103636'

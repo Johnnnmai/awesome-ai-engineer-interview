@@ -1,0 +1,48 @@
+company:
+  name: Presidio
+  stage: null
+  focus: |-
+    Digital solutions and managed services provider specializing
+    in AI, cloud, cybersecurity, and IT infrastructure
+position:
+  title: Engineer AI - SEG
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-native capabilities directly
+      into the AI Studio platform, implementing LLM workflows, and
+      working with LLMOps/MLOps including evaluations and
+      performance tuning. The engineer is hands-on with GenAI
+      systems, not just supporting infrastructure for others.
+  responsibilities:
+  - Maintain and enhance the AI Studio platform
+  - Build AI-native capabilities into the core platform
+  - Implement LLMOps practices including evaluations, cost and performance tuning
+  - Manage platform upgrades, scalability, and operational reliability
+  - Enable internal and external teams to build safely and efficiently on the platform
+  - Support core stability, scalability, and operational excellence
+  - Work with Core team to align priorities and roadmap
+  - Implement incremental AI-native capabilities while platform strategy matures
+  use_cases:
+  - Enterprise AI platform enabling teams to build AI solutions
+  - Generative AI workflows and automation
+  - AI-driven analytics and intelligent insights
+  - Business process automation and optimization
+  - Client digital transformation initiatives
+  skills:
+    genai: [LLM workflows, Generative AI]
+    ml: []
+    web: []
+    databases: [NoSQL databases, GraphDB]
+    data: []
+    cloud: []
+    ops: [LLMOps, MLOps, CI/CD, Infrastructure as Code (IaC), Docker, Kubernetes,
+      Observability]
+    languages: [JavaScript, TypeScript, Python, SQL]
+    domains: []
+    other: [Platform engineering, Solution engineering, Security and governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8869147'
+  extracted_at: '2026-03-27T16:10:38.693414'

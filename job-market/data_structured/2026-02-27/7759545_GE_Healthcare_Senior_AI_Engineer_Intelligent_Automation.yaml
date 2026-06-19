@@ -1,0 +1,55 @@
+company:
+  name: GE Healthcare
+  stage: Public
+  focus: Global medical technology and digital solutions innovator
+position:
+  title: Senior AI Engineer – Intelligent Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI
+      systems - specifically architecting LLM-based solutions with
+      RAG patterns, function calling, and prompt management, plus
+      owning the full pipeline from ingestion to model inference.
+      The engineer will productionize AI solutions combining LLMs
+      and ML models, not just support infrastructure.
+  responsibilities:
+  - Own end-to-end AI automation architectures from ingestion through orchestration,
+    model inference, human-in-the-loop, to monitoring and feedback loops
+  - Design and implement AI automation solutions leveraging Microsoft Power Platform
+    and AWS Bedrock, including RAG patterns, tool/function calling, and prompt management
+  - Develop APIs, microservices, and integration layers for enterprise systems including
+    ERP, CRM, and ITSM
+  - Integrate AI solutions with RPA platforms such as Power Automate and UiPath and
+    business applications
+  - Lead design reviews, threat modelling, and post-incident reviews
+  - Document architectures, runbooks, and knowledge articles and enable Ops for smooth
+    handover
+  - Collaborate with Product and Business stakeholders to identify automation opportunities
+    and shape roadmaps
+  - Establish guardrails, safety, privacy, and governance including PII handling,
+    data minimization, and model versioning
+  use_cases:
+  - Intelligent automation for enterprise business processes
+  - Operational efficiency improvements across healthcare business operations
+  - Customer experience enhancement through AI-powered workflows
+  - Subscription lifecycle management automation
+  - Anomaly detection and alerting systems
+  skills:
+    genai: [RAG patterns, Function calling, Prompt management]
+    ml: []
+    web: [FastAPI, REST APIs, Microservices]
+    databases: []
+    data: []
+    cloud: [AWS Bedrock, Azure OpenAI, Azure Functions, AWS Lambda, Azure API Management,
+      AWS API Gateway, Azure Kubernetes Service (AKS)]
+    ops: [Docker, CI/CD pipelines, Container orchestration]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Power Automate, UiPath, Power Apps, Microsoft Power Platform, ERP integration,
+      CRM integration, ITSM integration]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7759545'
+  extracted_at: '2026-03-03T12:02:12.245426'

@@ -1,0 +1,288 @@
+job_id: 9000626
+title: Senior Cloud Data Engineer – AI Infrastructure
+company: Chubb
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ansible
+  - Apache Kafka
+  - Spark
+  - Azure
+  - Azure Ml
+  - Databricks
+  - GCP
+  - Github Actions
+  - Grafana
+  - Jenkins
+company_size: 27,791 Employees
+description: |
+  About Chubb
+  
+  Chubb is a world leader in insurance. With operations in 54
+  countries and territories, Chubb provides commercial and
+  personal property and casualty insurance, personal accident
+  and supplemental health insurance, reinsurance and life
+  insurance to a diverse group of clients. The company is
+  defined by its extensive product and service offerings,
+  broad distribution capabilities, exceptional financial
+  strength and local operations globally. Parent company Chubb
+  Limited is listed on the New York Stock Exchange (NYSE: CB)
+  and is a component of the S&P 500 index. Chubb employs
+  approximately 40,000 people worldwide. Additional
+  information can be found at: www.chubb.com.
+  
+  About Chubb India
+  
+  At Chubb India, we are on an exciting journey of digital
+  transformation driven by a commitment to engineering
+  excellence and analytics. We are proud to share that we have
+  been officially certified as a Great Place to Work® for the
+  third consecutive year, a reflection of the culture at Chubb
+  where we believe in fostering an environment where everyone
+  can thrive, innovate, and grow
+  
+  With a team of over 2500 talented professionals, we
+  encourage a start-up mindset that promotes collaboration,
+  diverse perspectives, and a solution-driven attitude. We are
+  dedicated to building expertise in engineering, analytics,
+  and automation, empowering our teams to excel in a dynamic
+  digital landscape.
+  
+  We offer an environment where you will be part of an
+  organization that is dedicated to solving real-world
+  challenges in the insurance industry. Together, we will work
+  to shape the future through innovation and continuous
+  learning.
+  
+  Position Details
+  
+  - Job Title: Senior Cloud Engineer – Data & AI Infrastructure
+  - Function/Department: Technology
+  - Location: Bangalore
+  - Employment Type: Full Time
+  
+  
+  
+  Role Overview
+  
+  Chubb is a leading underwriting company. We assess, assume,
+  and manage risk with insight and discipline. Chubb has
+  embarked on a transformation journey to enhance our
+  underwriting capabilities and develop into a leading
+  Underwriting Engineering and Data Analytics company. Cloud
+  Platform is one of the key enablers for digital
+  transformation, and Data and Artificial Intelligence are
+  central to Chubb’s next phase of growth.
+  
+  As such we are seeking a Senior Engineer specialising in
+  Data and AI Infrastructure on cloud, to be part of this
+  exciting journey at Chubb. Reporting directly to the Head of
+  Data/AI Engineering, you will be a hands-on technical
+  engineer responsible for building and operating the cloud-
+  based data and AI infrastructure that powers Chubb’s
+  analytics, machine learning, and AI capabilities. A
+  successful candidate will have deep hands-on experience with
+  cloud data platforms (Azure/GCP), data engineering tooling,
+  MLOps infrastructure, and Infrastructure as Code.
+  
+  The successful candidate will have the opportunity to design
+  and build foundational data and AI infrastructure – from
+  scalable data pipelines and feature stores to ML training
+  and serving infrastructure – enabling Chubb’s data
+  scientists and AI engineers to deliver business impact at
+  speed. This is a unique opportunity for the right engineer
+  to help shape Chubb’s Data and AI platform capabilities on
+  cloud.
+  
+  Responsibilities
+  
+  - Accountable for the engineering, deployment, and operations
+    of Data and AI infrastructure within the Global Cloud
+    Platform team, working closely with the Data and Analytics
+    team.
+  - Design, build, and maintain scalable cloud-based data
+    platforms including data lakes, lakehouses, and data
+    warehouses on Azure (Synapse, ADLS, Databricks) and/or GCP
+    (Big Query, GCS, Dataflow).
+  - Build and operate real-time and batch data ingestion
+    pipelines using tools such as Apache Kafka, Apache Spark,
+    Databricks, and cloud-native data services.
+  - Design and implement MLOps infrastructure to support the
+    full machine learning lifecycle – including model training
+    environments, experiment tracking, model registry, and
+    production model serving (e.g., Vertex AI, Azure ML,
+    MLflow, Kubeflow).
+  - Build and maintain feature stores and data transformation
+    pipelines support reusable, governed feature engineering
+    for ML models.
+  - Implement Infrastructure as Code (Terraform, Ansible) and
+    CI/CD pipelines for all data and AI infrastructure
+    components, ensuring automated, repeatable, and version-
+    controlled deployments.
+  - Work with the cloud security team to design and enforce IAM
+    policies, data access controls, encryption standards, and
+    governance guardrails across data and AI infrastructure.
+  - Ensure data platform components adhere to Chubb’s Cloud
+    Adoption Framework, data governance policies, and security
+    standards.
+  - Monitor and optimise performance, reliability, and cost of
+    data and AI infrastructure; build operational dashboards
+    and alerting using tools such as Prometheus, Grafana, or
+    cloud-native monitoring services.
+  - Support data scientists and ML engineers by providing
+    robust, self-service infrastructure tooling and
+    documentation; conduct enablement sessions to onboard
+    teams onto platform capabilities.
+  - Evaluate and integrate new data and AI tooling and
+    frameworks into the platform, making evidence-based
+    recommendations to the Head of Data/AI Engineering.
+  - Attend escalations from support teams and provide hands-on
+    engineering assistance during major production incidents
+    related to data and AI platform services.
+  
+  
+  
+  Key Requirements
+  
+  - Extensive hands-on experience with cloud data platforms on
+    Azure and/or GCP – including Big Query, Cloud Storage,
+    Dataflow, Azure Data Lake Storage, Azure Synapse, and
+    related services.
+  - Strong experience building and operating data pipelines
+    using Apache Spark, Databricks, Apache Kafka or equivalent
+    big data and streaming technologies.
+  - Hands-on experience with MLOps platforms and tooling (Vertex
+    AI, Azure ML, MLflow, Kubeflow, or similar) including
+    model training infrastructure, model registries, and
+    serving endpoints.
+  - Proficiency in Infrastructure as Code using Terraform and/or
+    Ansible, and CI/CD pipeline tooling such as Jenkins or
+    GitHub Actions applied to data and AI workloads.
+  - Experience with containerisation platforms (Kubernetes, GKE,
+    AKS) and deploying data and ML workloads on container
+    infrastructure.
+  - Working knowledge of IAM, security controls, and network
+    design for data infrastructure on cloud, in collaboration
+    with enterprise security teams.
+  - Experience with monitoring and observability tooling such as
+    Prometheus, Grafana, ELK stack, or cloud-native
+    equivalents for data platform operations.
+  - Familiarity with data governance concepts including data
+    lineage, data quality, and cataloguing tools (e.g., Google
+    Dataplex, Microsoft Purview, or Collibra).
+  - Exposure to Generative AI and LLM serving infrastructure
+    (e.g., deploying models via Vertex AI Model Garden, Azure
+    OpenAI Service, or similar) is a strong advantage.
+  
+  Qualifications
+  
+  - Bachelor’s degree in computer science, Data Engineering,
+    Information Technology, Mathematics, or a relevant field.
+  - Minimum of 6 years of experience in data engineering and/or
+    cloud infrastructure roles, with at least 3 years working
+    on cloud-based data and AI/ML platforms.
+  - Relevant cloud and/or data certifications strongly
+    preferred, such as: Google Professional Data Engineer,
+    Google Professional ML Engineer, Azure Data Engineer
+    Associate, or Azure AI Engineer Associate.
+  - If you are a hands-on, innovative Senior Engineer with a
+    passion for building the data and AI infrastructure that
+    powers real business outcomes, we encourage you to apply.
+    The successful candidate will be a key technical
+    contributor in a collaborative and fast-moving engineering
+    team, working with the latest cloud, data, and AI
+    technologies to help Chubb lead the future of insurance
+    underwriting.
+  
+  Why Join Us?
+  
+  - Be at the forefront of digital transformation in the
+    insurance industry.
+  - Lead impactful initiatives that simplify claims processing
+    and enhance customer satisfaction.
+  - Work alongside experienced professionals in a collaborative,
+    innovation-driven environment.
+  
+  Why Chubb?
+  
+  Join Chubb to be part of a leading global insurance company!
+  
+  Our constant focus on employee experience along with a
+  start-up-like culture empowers you to achieve impactful
+  results.
+  
+  - Industry leader: Chubb is a world leader in the insurance
+    industry, powered by underwriting and engineering
+    excellence
+  - A Great Place to work: Chubb India has been recognized as a
+    Great Place to Work® for the years 2023-2024, 2024-2025
+    and 2025-2026
+  - Laser focus on excellence: At Chubb we pride ourselves on
+    our culture of greatness where excellence is a mindset and
+    a way of being. We constantly seek new and innovative ways
+    to excel at work and deliver outstanding results
+  - Start-Up Culture: Embracing the spirit of a start-up, our
+    focus on speed and agility enables us to respond swiftly
+    to market requirements, while a culture of ownership
+    empowers employees to drive results that matter
+  - Growth and success: As we continue to grow, we are steadfast
+    in our commitment to provide our employees with the best
+    work experience, enabling them to advance their careers in
+    a conducive environment
+  
+  Employee Benefits
+  
+  Our company offers a comprehensive benefits package designed
+  to support our employees’ health, well-being, and
+  professional growth. Employees enjoy flexible work options,
+  generous paid time off, and robust health coverage,
+  including treatment for dental and vision related
+  requirements. We invest in the future of our employees
+  through continuous learning opportunities and career
+  advancement programs, while fostering a supportive and
+  inclusive work environment. Our benefits include:
+  
+  - Savings and Investment plans: We provide specialized
+    benefits like Corporate NPS (National Pension Scheme),
+    Employee Stock Purchase Plan (ESPP), Long-Term Incentive
+    Plan (LTIP), Retiral Benefits and Car Lease that help
+    employees optimally plan their finances
+  - Upskilling and career growth opportunities: With a focus on
+    continuous learning, we offer customized programs that
+    support upskilling like Education Reimbursement Programs,
+    Certification programs and access to global learning
+    programs.
+  - Health and Welfare Benefits: We care about our employees’
+    well-being in and out of work and have benefits like
+    Hybrid Work Environment, Employee Assistance Program
+    (EAP), Yearly Free Health campaigns and comprehensive
+    Insurance benefits.
+  
+  Application Process
+  
+  Our recruitment process is designed to be transparent, and
+  inclusive.
+  
+  - Step 1: Submit your application via the Chubb Careers
+    Portal.
+  - Step 2: Engage with our recruitment team for an initial
+    discussion.
+  - Step 3: Participate in Hacker Rank
+    assessments/technical/functional interviews and
+    assessments (if applicable).
+  - Step 4: Final interaction with Chubb leadership.
+  
+  Join Us
+  
+  With you Chubb is better. Whether you are solving challenges
+  on a global stage or creating innovative solutions for local
+  markets, your contributions will help shape the future. If
+  you value integrity, innovation, and inclusion, and are
+  ready to make a difference, we invite you to be part of
+  Chubb India’s journey.
+  
+  Apply Now:  https://www.chubb.com/emea-careers/
+posted_date: 2026-04-09
+url: "https://builtin.com/job/senior-cloud-engineer-data-ai-infrastructure/9000626"
+source: Built In

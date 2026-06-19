@@ -1,0 +1,59 @@
+company:
+  name: Bristol Myers Squibb
+  stage: Public
+  focus: |-
+    Global biopharmaceutical company focused on life sciences
+    and cell therapy
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building, deploying, and orchestrating
+      autonomous multi-agent LLM workflows using frameworks like
+      LangGraph, CrewAI, and Autogen. The engineer is hands-on
+      with LLM providers, prompt engineering, agent design
+      patterns, and production deployment of AI systems — clearly
+      working ON AI systems.
+  responsibilities:
+  - Design, build, and deploy autonomous multi-agent workflows using orchestration
+    frameworks such as LangGraph, CrewAI, and Autogen with complex state machines
+    and conditional routing
+  - Architect graph-based agent workflows with 10+ nodes involving agent collaboration,
+    task decomposition, and sequential/parallel execution across business domains
+  - Build production-grade FastAPI applications with async I/O patterns integrating
+    PostgreSQL, Redis, and external enterprise services
+  - Integrate cloud-based LLM providers (AWS Bedrock, Azure OpenAI, Anthropic Claude,
+    OpenAI GPT-4) and design prompt management systems with versioning and templating
+  - Implement real-time agent streaming using SSE and WebSocket protocols alongside
+    RESTful and event-driven API architectures
+  - Integrate observability platforms (Langfuse, LangSmith) for end-to-end agent tracing,
+    telemetry, performance monitoring, and cost optimization
+  - Develop evaluation frameworks measuring agent success rates, reasoning quality,
+    and output accuracy while optimizing token usage and LLM costs
+  - Ensure enterprise security integration (LDAP, SSO, access control), error handling,
+    and compliance with data governance and Responsible AI standards
+  use_cases:
+  - Autonomous multi-agent workflows for pharmaceutical business processes
+  - LLM-powered analytical pipelines with structured outputs for life sciences
+  - Conversational AI systems with persistent state for enterprise users
+  - Agent orchestration across multiple business domains in global life sciences
+  - Real-time streaming AI interfaces for internal enterprise applications
+  skills:
+    genai: [LangGraph, LangChain, CrewAI, Autogen, Anthropic Claude API, OpenAI GPT-4,
+      Model Context Protocol (MCP), prompt engineering, ReAct, Plan-and-Execute, agent-to-agent
+        (A2A) communication, function calling]
+    ml: []
+    web: [FastAPI, Server-Sent Events (SSE), WebSocket, RESTful APIs]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: [AWS Bedrock, Azure OpenAI, AWS, Azure, Google Cloud]
+    ops: [LLMOps, Langfuse, LangSmith, Docker, CI/CD, Git]
+    languages: [Python, asyncio]
+    domains: []
+    other: [LDAP/SSO, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9124888'
+  extracted_at: '2026-04-22T13:31:16.257575'

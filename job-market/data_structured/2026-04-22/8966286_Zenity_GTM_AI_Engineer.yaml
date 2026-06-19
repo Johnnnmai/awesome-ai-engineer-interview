@@ -1,0 +1,52 @@
+company:
+  name: Zenity
+  stage: Series B
+  focus: AI Agent Security platform for enterprises
+position:
+  title: GTM AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      optimizing AI systems — including LLM-based agents, RAG
+      pipelines, and autonomous AI workflows. The engineer designs
+      prompting strategies, orchestration logic, and evaluation
+      frameworks for production AI applications, which is hands-on
+      work with AI/LLM systems.
+  responsibilities:
+  - Design and build AI-driven workflows, applications, and agents that automate GTM
+    activities like lead prioritization, competitive intelligence, and pipeline insights
+  - Develop and deploy scalable LLM-based solutions integrated with GTM tools such
+    as HubSpot, Slack, Outreach, and Gong
+  - Design prompting strategies, orchestration logic, and tool integrations enabling
+    AI systems to retrieve data, reason over context, and take action across internal
+    systems
+  - Create retrieval pipelines and knowledge systems (e.g., RAG) connecting AI applications
+    to product documentation, sales collateral, and customer insights
+  - Implement evaluation frameworks to measure output quality, reduce hallucinations,
+    and optimize performance and cost
+  - Identify high-impact AI opportunities with GTM leadership, prototype quickly,
+    and scale successful solutions including autonomous agents into production
+  use_cases:
+  - Automated lead research and prioritization
+  - Personalized outreach at scale for sales and marketing teams
+  - Competitive intelligence gathering and analysis
+  - Real-time revenue pipeline insights
+  - Autonomous AI agents for GTM workflow automation
+  - Enterprise AI agent security and governance
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, AI Agents]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Docker, CI/CD]
+    languages: [Python, Node.js]
+    domains: []
+    other: [HubSpot, Slack, Outreach, Gong]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8966286'
+  extracted_at: '2026-04-22T13:58:08.004163'

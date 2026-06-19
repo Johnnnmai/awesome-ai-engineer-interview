@@ -1,0 +1,51 @@
+company:
+  name: Formant
+  stage: Series A
+  focus: |-
+    AI-powered alarm triage and prioritization for industrial
+    manufacturing facilities
+position:
+  title: Senior AI Solution Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that directly
+      builds, prototypes, and deploys LLM-powered workflows and
+      AI-assisted investigation pipelines to customer sites. The
+      role involves hands-on implementation of AI solutions, not
+      just supporting infrastructure for others' AI work.
+  responsibilities:
+  - Lead onsite discovery bootcamps with enterprise customers to learn operations
+    and surface requirements
+  - Build and iterate on LLM-powered workflows, AI-assisted investigation pipelines,
+    and automation tooling
+  - Own end-to-end technical delivery from sales engineering through solution architecture
+    and full deployment
+  - Integrate deeply with customer systems, APIs, and existing operational infrastructure
+  - Define measurable success metrics and establish checkpoints across POC, pilot,
+    and production deployment
+  - Produce reusable blueprints and integration patterns that accelerate future deployments
+  - Serve as primary technical relationship owner for enterprise accounts and lead
+    executive-level conversations
+  - Act as feedback loop between field and product/engineering teams to shape roadmap
+  use_cases:
+  - Alarm triage and prioritization for semiconductor fabs and manufacturing plants
+  - AI-assisted investigation pipelines for industrial environments
+  - Automation tooling for critical infrastructure monitoring
+  - Operational intelligence for factories with connectivity and latency constraints
+  skills:
+    genai: [LLMs, AI workflows, Agentic systems]
+    ml: [Machine learning]
+    web: []
+    databases: []
+    data: [Data curation]
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: [ROS, SCADA systems]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8794608'
+  extracted_at: '2026-03-27T13:19:09.392597'

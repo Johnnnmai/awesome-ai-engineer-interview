@@ -1,0 +1,55 @@
+company:
+  name: WorkOS
+  stage: Series C
+  focus: |-
+    Developer tools and APIs for enterprise authentication,
+    identity, and authorization
+position:
+  title: Software Engineer - Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and building production AI
+      systems including agents, automations, and workflows using
+      LLMs, embeddings, retrieval/RAG, and tool-calling. The
+      engineer will own end-to-end AI-powered systems from idea to
+      production, which is hands-on work building and deploying AI
+      solutions.
+  responsibilities:
+  - Collaborate with Engineering, Sales, Support, and Ops to identify high-impact
+    internal problems where AI can remove bottlenecks
+  - Design and build production AI tools including agents, automations, and workflows
+    that are stable, observable, and maintainable
+  - Implement LLM-powered systems using embeddings, retrieval, and tool-calling to
+    integrate with docs, Slack, GitHub, CRM, analytics, and support systems
+  - Replace repetitive manual processes with orchestrated AI-driven flows spanning
+    multiple apps and data sources
+  - Stay current on new models and tooling, run experiments, and help establish patterns
+    and infrastructure that scale
+  - Own services, data flows, and integrations end-to-end with focus on failure modes
+    and observability
+  use_cases:
+  - Internal workflow automation across engineering, sales, support, and operations
+  - Triage and routing agents that handle cross-tool workflows from tickets, Slack
+    threads, and docs
+  - AI-assisted engineering workflows to shorten the loop from bug reports to production
+    deployments
+  - GTM agents that help sales reps research accounts, prepare meetings, and follow
+    up using CRM and product context
+  - Enterprise-ready agent authentication and access control systems
+  skills:
+    genai: [LLM APIs, embeddings, retrieval / RAG, tool-calling, agents, MCP]
+    ml: []
+    web: [Slack API, GitHub API, webhooks, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [observability tools]
+    languages: [Python, TypeScript]
+    domains: [enterprise SaaS, identity / auth]
+    other: [CRM integrations]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8611948'
+  extracted_at: '2026-03-27T15:01:13.589097'

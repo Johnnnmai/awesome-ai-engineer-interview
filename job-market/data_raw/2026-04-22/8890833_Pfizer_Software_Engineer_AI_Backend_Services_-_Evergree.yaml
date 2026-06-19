@@ -1,0 +1,102 @@
+job_id: 8890833
+title: Software Engineer (AI Backend Services) - Evergreen Role
+company: Pfizer
+location: Chennai, IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - Docker
+  - Fastapi
+  - Kubernetes
+  - Langchain
+  - Langfuse
+  - Litellm
+  - Python
+company_size: 121,990 Employees
+description: |
+  The Software Engineer (AI Backend Services) will design,
+  develop, and own backend systems and components that power
+  generative AI applications and large language model (LLM)
+  integrations. This role focuses on independently
+  architecting and delivering scalable, secure, and high-
+  performance services using Python, FastAPI, and AWS cloud
+  infrastructure, while mentoring junior engineers. This is an
+  individual contributor role KEY RESPONSIBILITIES
+  
+  - Design and implement Python-based backend services (on
+    FastAPI) for AI workloads, including LLM integration and
+    generative AI pipelines
+  - Own end-to-end design and delivery of APIs and microservices
+    for model serving, inference, and orchestration of AI
+    agents
+  - Architect and maintain AWS-based infrastructure for AI
+    workloads (e.g., Lambda, EKS) with focus on scalability
+    and reliability
+  - Make independent technical decisions for component-level
+    architecture and design patterns
+  - Lead integration efforts for LLMs and generative AI models
+    into production systems using LangChain, Langfuse, and
+    litellm
+  - Establish monitoring, logging, and observability best
+    practices for AI backend services
+  - Optimize backend performance for large-scale AI applications
+  - Mentor Software Engineer II team members through code
+    reviews and technical guidance
+  - Collaborate with cross-functional teams and influence
+    technical direction across multiple projects
+  
+  BASIC QUALIFICATIONS
+  
+  - 4-7 years of professional software engineering experience
+    with strong backend focus
+  - Expert-level proficiency in Python for backend development
+    in production environments
+  - Solid understanding of LLMs, generative AI concepts, and
+    modern AI frameworks (e.g., LangChain, litellm, Langfuse)
+  - Proven experience designing and building scalable systems on
+    AWS (Lambda, API Gateway, EKS)
+  - Deep knowledge of microservices architecture, API design,
+    and distributed systems
+  - Strong experience with containerization (Docker/Kubernetes)
+    and orchestration
+  - Demonstrated ability to own technical components and make
+    independent architectural decisions
+  - Bachelor's or Master's degree in Computer Science,
+    Engineering, or related field, or equivalent practical
+    experience
+  
+  PREFERRED QUALIFICATIONS
+  
+  - Extensive experience building and scaling APIs and backend
+    systems for AI/ML workloads in production
+  - Deep expertise with FastAPI and asynchronous Python
+    programming
+  - Experience architecting event-driven systems for AI
+    applications
+  - Track record of mentoring engineers and conducting effective
+    code reviews
+  - Strong understanding of system design patterns and trade-
+    offs
+  - Experience with infrastructure-as-code (Terraform,
+    CloudFormation)
+  - Knowledge of model deployment strategies and MLOps practices
+  - Proven ability to drive technical initiatives and influence
+    engineering culture
+  - Excellent communication skills and experience working across
+    teams
+  
+  Work assignment location : Remote Pfizer is an equal
+  opportunity employer and complies with all applicable equal
+  employment opportunity legislation in each jurisdiction in
+  which it operates. Information & Business Tech
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Machine Learning
+  - Natural Language Processing
+  - Biotech
+  - Pharmaceutical
+posted_date: 2026-04-16
+url: "https://builtin.com/job/software-engineer-ai-backend-services-evergreen-role/8890833"
+source: Built In

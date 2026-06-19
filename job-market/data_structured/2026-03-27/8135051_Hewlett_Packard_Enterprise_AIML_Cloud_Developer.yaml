@@ -1,0 +1,50 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: Public
+  focus: Enterprise networking and edge-to-cloud solutions
+position:
+  title: AI/ML Cloud Developer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is for a Cloud Developer at HPE Aruba with AI/ML
+      in the title, but the responsibilities focus on general
+      cloud development, full-stack engineering, and software
+      development practices. There's no mention of building,
+      training, fine-tuning, or deploying AI/ML models. The role
+      supports cloud infrastructure that may serve AI workloads,
+      but doesn't involve hands-on AI/ML work.
+  responsibilities:
+  - Understand business domain, requirements, and customer use cases for network/cloud
+    products
+  - Design and implement cloud-based solutions with focus on scalability, reliability,
+    and performance
+  - Develop full-stack applications using Python, Go, C#, and .NET Core
+  - Create and manage REST APIs and work with databases (PostgreSQL, SQL Server, NoSQL)
+  - Perform unit testing, integration testing, and debugging of software components
+  - Deploy, monitor, and maintain cloud applications in production environments
+  - Collaborate with project managers, stakeholders, and development teams to deliver
+    solutions
+  - Mentor junior developers and participate in technical escalations and problem
+    management
+  use_cases:
+  - Enterprise network access solutions for mobile environments
+  - Cloud-based network management and monitoring
+  - Intelligent edge computing and digital workspaces
+  - Customer-facing cloud services and platform development
+  skills:
+    genai: []
+    ml: []
+    web: [.NET Core, Web API, REST APIs, Swagger, Postman]
+    databases: [PostgreSQL, SQL Server, NoSQL]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [Docker, Kubernetes, Linux/Unix]
+    languages: [Python, Go, C#]
+    domains: []
+    other: [TDD, Agile/Scrum]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8135051'
+  extracted_at: '2026-03-27T14:43:21.749379'

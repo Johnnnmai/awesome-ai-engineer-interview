@@ -1,0 +1,57 @@
+company:
+  name: DigitalOcean
+  stage: Public
+  focus: Cloud infrastructure and GPU/AI hosting platform
+position:
+  title: Senior Cloud Support Engineer - AI/ML  & Databases
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a support/engineering role focused on helping
+      customers use DigitalOcean's AI/ML infrastructure. While it
+      requires deep understanding of AI/ML workloads, GPU
+      optimization, and distributed training, the role is about
+      troubleshooting, architecting customer solutions, and
+      platform support - not building, training, or deploying
+      models themselves. The engineer helps customers successfully
+      use AI/ML infrastructure but doesn't work on the AI systems
+      directly.
+  responsibilities:
+  - Serve as the ultimate escalation point for complex customer issues across Kubernetes,
+    GPU/GradientAI, and AI/ML infrastructure
+  - Architect enterprise-grade solutions for customers building large-scale AI/ML
+    workloads including multi-cluster Kubernetes and distributed GPU training
+  - Lead technical discovery and solution design for strategic accounts with architectural
+    reviews and proof-of-concept implementations
+  - Design and deliver Professional Services engagements for enterprise AI/ML infrastructure
+    implementations
+  - Drive resolution of systemic technical challenges by partnering with Engineering
+    on platform improvements
+  - Mentor and develop IC1-IC3 engineers through coaching and technical reviews
+  - Design and implement support frameworks including escalation workflows and troubleshooting
+    methodologies
+  - Lead critical incident response for platform-wide or high-impact customer issues
+  use_cases:
+  - Customer AI/ML workload deployment and optimization on cloud infrastructure
+  - Distributed GPU training infrastructure for enterprise customers
+  - Multi-cluster Kubernetes deployments for production AI/ML workloads
+  - Hybrid and multi-cloud AI/ML architecture design
+  - GPU inference optimization and production ML deployment
+  - Technical support and troubleshooting for GradientAI platform users
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, Hugging Face, CUDA]
+    web: []
+    databases: [PostgreSQL, MySQL, MongoDB, Redis]
+    data: []
+    cloud: [Kubernetes, AWS, GCP, Azure]
+    ops: [TensorRT, vLLM, Terraform, CloudFormation, Pulumi, Docker, Prometheus, Grafana,
+      Datadog, Linux, BGP, VPN, MLOps]
+    languages: [Python, Go, Rust, C++]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8634741'
+  extracted_at: '2026-03-27T13:24:43.084438'

@@ -1,0 +1,54 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Information services and software for legal, tax,
+    compliance, and media professionals
+position:
+  title: Senior Software Engineer, AI II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting and implementing AI systems
+      including RAG, multi-component pipelines, and custom AI
+      agents with multi-step reasoning. The position requires
+      integrating AI models into production and adapting models
+      for specialized domains, which is hands-on work directly ON
+      AI systems.
+  responsibilities:
+  - Architect and implement advanced AI systems including RAG, multi-component pipelines,
+    and custom AI agents with multi-step reasoning
+  - Integrate AI models into production software through robust APIs and scalable
+    data pipelines
+  - Adapt AI models and techniques to specialized domains like legal, tax, and compliance
+  - Evaluate and prototype cutting-edge AI techniques and conduct proof-of-concept
+    projects
+  - Provide technical leadership by mentoring engineers and contributing to MLOps/LLMOps
+    practices
+  - Implement comprehensive testing frameworks and monitoring systems for AI model
+    performance
+  - Collaborate with cross-functional teams to translate AI capabilities into real-world
+    applications
+  - Optimize AI system performance considering latency and resource usage
+  use_cases:
+  - Legal research and expert systems
+  - Tax analysis and compliance automation
+  - Risk assessment and management
+  - Regulatory compliance monitoring
+  - Professional information retrieval and intelligence
+  skills:
+    genai: [RAG, AI agents, multi-step reasoning]
+    ml: [PyTorch, TensorFlow]
+    web: [APIs]
+    databases: []
+    data: [data pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, LLMOps, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7732982'
+  extracted_at: '2026-03-03T12:41:42.626039'

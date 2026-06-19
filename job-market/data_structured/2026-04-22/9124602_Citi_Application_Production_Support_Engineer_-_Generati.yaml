@@ -1,0 +1,54 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Application Production Support Engineer - Generative AI Tools
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a production support role for generative AI
+      applications, not a role building or training AI models. The
+      engineer diagnoses production issues, monitors application
+      health, manages incidents, and maintains documentation — all
+      operational/support functions that enable AI systems to run
+      smoothly. The AI work is done by others; this role supports
+      what they've built.
+  responsibilities:
+  - Diagnose and resolve production issues for generative AI applications including
+    performance bottlenecks, API errors, data inconsistencies, and infrastructure
+    problems
+  - Monitor application health using monitoring tools and dashboards to track key
+    metrics and identify anomalies proactively
+  - Follow incident management procedures to document, escalate, and resolve production
+    incidents with timely stakeholder communication
+  - Collaborate with development and infrastructure teams to identify root causes,
+    implement fixes, and prevent future occurrences
+  - Create and update technical documentation including runbooks, knowledge base articles,
+    and troubleshooting guides
+  - Identify opportunities to automate repetitive support tasks and improve efficiency
+    through scripting and tooling
+  - Participate in on-call rotation to ensure 24/7 coverage for critical applications
+  - Contribute to continuous improvement of support processes and tools by identifying
+    optimization areas and implementing best practices
+  use_cases:
+  - Production support and incident resolution for generative AI applications
+  - Application health monitoring and anomaly detection
+  - Automated support task optimization for AI tooling
+  - Infrastructure troubleshooting for cloud-based AI services
+  skills:
+    genai: []
+    ml: [GANs, VAEs, Transformers]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Datadog, Prometheus, Grafana, Docker, Kubernetes, DevOps, MLOps, CI/CD]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9124602'
+  extracted_at: '2026-04-22T14:01:39.140869'

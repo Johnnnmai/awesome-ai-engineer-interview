@@ -1,0 +1,56 @@
+company:
+  name: Guidewire Software
+  stage: Public
+  focus: Cloud-based software platform for P&C insurance
+position:
+  title: Senior ML Engineer, Generative AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly responsible for designing, building,
+      fine-tuning, deploying, and monitoring LLM/GenAI systems
+      including RAG pipelines, prompt engineering, model fine-
+      tuning, and operating end-to-end GenAI infrastructure. The
+      engineer works hands-on with models and LLM capabilities,
+      making this clearly an ai-first role.
+  responsibilities:
+  - Lead the design, implementation, and evolution of Guidewire's GenAI and LLM products,
+    including data ingestion, feature pipelines, model training, fine-tuning, deployment,
+    and monitoring on AWS
+  - Architect and build robust ML/LLM pipelines powering high-impact use cases such
+    as claim summarization, underwriting assistance, and pricing intelligence
+  - Develop and optimize LLM solutions using prompt engineering, RAG, vector databases,
+    and fine-tuning techniques
+  - Establish and apply MLOps best practices for CI/CD, experimentation, evaluation,
+    observability, and responsible AI
+  - Mentor and coach engineers and data scientists, conduct code and design reviews,
+    and champion technical excellence
+  - Partner with cross-functional teams to ensure AI solutions adhere to data governance
+    and security controls
+  - Collaborate with Product Strategy and Professional Services teams to align GenAI
+    capabilities with the product roadmap and customer adoption goals
+  use_cases:
+  - Claim summarization for P&C insurers
+  - Underwriting assistance and decision support
+  - Pricing and rating intelligence
+  - Developer productivity tools (Codelift)
+  - Agentic AI product vision for insurance workflows
+  - Semantic search and retrieval across insurance data
+  skills:
+    genai: [LLM fine-tuning, Prompt engineering, RAG (Retrieval-Augmented Generation)]
+    ml: [XGBoost, GLM, Random Forest, Transformer architectures, Neural networks,
+      Model evaluation and LLM-assisted metrics]
+    web: [Backend API development]
+    databases: [Vector databases]
+    data: [Spark, AWS Glue]
+    cloud: ['AWS (S3, EC2, RDS, SageMaker)']
+    ops: [MLOps / CI/CD for ML, Experiment tracking, Model monitoring and drift detection,
+      Docker, Kubernetes, Terraform]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9114260'
+  extracted_at: '2026-04-22T13:53:13.416243'

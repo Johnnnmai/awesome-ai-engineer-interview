@@ -1,0 +1,61 @@
+company:
+  name: Komodo Health
+  stage: Late-stage private (Series E+)
+  focus: |-
+    Healthcare data analytics platform mapping U.S. patient
+    journeys
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first: the engineer builds,
+      deploys, and architects end-to-end AI systems including LLM-
+      based multi-agent orchestrations, prompt chains, and
+      advanced model pipelines. The role involves hands-on work
+      with models (prototyping, applied research, transitioning to
+      production) rather than just supporting infrastructure for
+      others' AI work.
+  responsibilities:
+  - Architect, build, and deploy end-to-end AI systems balancing innovation with reliability
+    and ethics
+  - Lead solution design for ambiguous AI problems across Komodo's platform and internal
+    operations
+  - Design advanced prompt chains, multi-agent flows, and complex evaluation frameworks
+  - Drive applied research by experimenting with cutting-edge models, techniques,
+    and academic papers
+  - Collaborate with product, data, and platform teams to define requirements and
+    shape strategic AI investments
+  - Contribute to internal AI standards, reusable templates, and high-performance
+    orchestration patterns
+  - Transition prototypes into scalable systems with observability, alerting, and
+    governance
+  - Mentor engineers across teams in prompt engineering, debugging, agent orchestration,
+    and AI system design
+  use_cases:
+  - AI-native healthcare analytics platform (Marmot) delivering real-world clinical
+    insights
+  - Multi-agent orchestration for complex healthcare data analysis workflows
+  - Patient journey mapping and treatment pattern identification using LLMs combined
+    with healthcare data
+  - Automated evaluation frameworks to measure AI impact on healthcare platform precision
+    and reliability
+  - Scalable AI systems for pharma companies, payers, and health systems to improve
+    patient outcomes
+  skills:
+    genai: [LLMs, Agent Orchestration, Multi-agent Systems, Prompt Engineering, Prompt
+        Chains, CrewAI, Chat Completions API]
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: [Spark, Databricks, Distributed Computing]
+    cloud: []
+    ops: [vLLM, MLOps, CI/CD, Model Versioning]
+    languages: [Python]
+    domains: [Healthcare Data]
+    other: [A/B Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9088700'
+  extracted_at: '2026-04-22T13:01:48.959836'

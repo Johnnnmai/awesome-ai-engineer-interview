@@ -1,0 +1,53 @@
+company:
+  name: Garda Capital Partners
+  stage: Established
+  focus: |-
+    Alternative investment firm deploying relative value
+    strategies across fixed income markets
+position:
+  title: Senior Software Engineer (AI Tooling)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role builds infrastructure and platforms that enable
+      others to use AI tools (LLM gateways, vector databases,
+      internal applications), but explicitly states it's NOT about
+      ML research or model development. The focus is on software
+      engineering and system design to support AI adoption, not
+      hands-on model work.
+  responsibilities:
+  - Design and lead implementation of backend infrastructure for AI capabilities including
+    LLM gateways, vector databases, chat services, and monitoring systems
+  - Build internal applications that integrate AI into research, trading, and operations
+    workflows
+  - Architect data processing pipelines and API integrations for AI-powered features
+  - Own complete projects from design through production deployment
+  - Evaluate new AI platforms and tools, build proofs-of-concept and convert successful
+    ones to production
+  - Provide technical consultation to business stakeholders and translate their needs
+    into practical solutions
+  - Build automation workflows that reduce manual processes using AI tools
+  - Establish patterns and best practices for AI application development across the
+    firm
+  use_cases:
+  - AI-powered applications for research teams in fixed income markets
+  - AI integration into trading workflows and systems
+  - AI-enabled operations automation and workflow optimization
+  - Internal AI tooling and platforms for institutional investment firm
+  - Chat services and monitoring systems for AI capabilities
+  skills:
+    genai: [LLM gateways]
+    ml: []
+    web: [APIs, Backend services]
+    databases: [Vector databases]
+    data: [Data processing pipelines]
+    cloud: [Cloud platforms]
+    ops: [Containerization, Distributed systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8473792'
+  extracted_at: '2026-03-03T11:13:05.668575'

@@ -1,0 +1,50 @@
+company:
+  name: Nexaminds
+  stage: null
+  focus: |-
+    AI solutions provider transforming businesses with
+    intelligent systems
+position:
+  title: AI Engineer (GenAI / Hyperscaler / Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building, deploying, and fine-tuning
+      LLM-based systems including RAG pipelines, Agentic AI
+      solutions, and foundation models on cloud platforms (AWS
+      Bedrock, Azure AI Foundry). The engineer will work hands-on
+      with model deployment, orchestration, and optimization.
+  responsibilities:
+  - Design and develop GenAI and Agentic AI solutions using modern LLM frameworks
+  - Build and implement real-world use cases leveraging LLMs such as Anthropic Claude,
+    Google Gemini, AWS Nova, and Meta Llama
+  - Develop backend tools and services to support AI-driven applications
+  - Work with AWS Bedrock and SageMaker for model deployment, orchestration, and optimization
+  - Utilize Azure AI Foundry services for AI solution development on Azure
+  - Implement Retrieval-Augmented Generation (RAG) pipelines using Vector Databases
+    and embeddings
+  - Perform fine-tuning and optimization of foundation models
+  - Manage token usage, prompt engineering, and context optimization for LLM applications
+  use_cases:
+  - GenAI and Agentic AI solutions for business transformation
+  - Real-world LLM-based applications
+  - RAG pipelines for retrieval-augmented applications
+  - Production-grade AI systems with scalability and security
+  skills:
+    genai: [MCP (Model Context Protocol), Agentic AI, LLM application development,
+      RAG (Retrieval-Augmented Generation), Prompt engineering, Anthropic Claude,
+      Google Gemini, AWS Nova, Meta Llama]
+    ml: [Fine-tuning foundation models, Embeddings]
+    web: [REST APIs, Microservices]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS Bedrock, AWS SageMaker, Azure AI Foundry]
+    ops: [MLOps, CI/CD, Kubernetes, Docker]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8561532'
+  extracted_at: '2026-03-03T11:26:35.148492'

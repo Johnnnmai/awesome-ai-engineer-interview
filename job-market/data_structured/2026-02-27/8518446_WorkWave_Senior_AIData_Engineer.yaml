@@ -1,0 +1,50 @@
+company:
+  name: WorkWave
+  stage: null
+  focus: Decision intelligence products and software solutions
+position:
+  title: Senior AI/Data Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role focused on building data
+      pipelines and infrastructure that ENABLE AI/ML systems, not
+      building or training the models themselves. The role builds
+      feature pipelines, data validation frameworks, and model
+      input/output data flows—supporting infrastructure rather
+      than hands-on model development.
+  responsibilities:
+  - Build trusted AI/ML predictions and forecasts via feature pipelines, model input/output
+    data flows, and robust data validation frameworks
+  - Design and implement reliable, scalable, and secure data pipelines for analytical
+    and product use cases
+  - Own the architecture and evolution of the data platform ensuring performance,
+    scalability, and agility
+  - Implement data governance, quality, and observability best practices to ensure
+    trustworthy insights
+  - Optimize cloud data infrastructure for cost, performance, and maintainability
+  - Provide technical leadership and mentorship to data engineers and cross-functional
+    collaborators
+  - Collaborate with product managers, engineers, and customer stakeholders to translate
+    needs into engineering solutions
+  use_cases:
+  - Decision intelligence products
+  - AI/ML predictions and forecasts
+  - Customer-facing data products
+  - Analytical and product use cases via data pipelines
+  skills:
+    genai: []
+    ml: [scikit-learn]
+    web: []
+    databases: [Snowflake, BigQuery, Redshift]
+    data: [Airflow, dbt, Dagster, Databricks]
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8518446'
+  extracted_at: '2026-03-03T12:28:21.261950'

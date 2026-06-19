@@ -1,0 +1,52 @@
+company:
+  name: Maybern
+  stage: Series A
+  focus: |-
+    Fund management software for private equity and investment
+    managers
+position:
+  title: Lead Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting systems that "deeply
+      leverage AI" and integrating AI/ML with client data to drive
+      business outcomes. The Applied AI Engineer will build and
+      deploy tailored AI solutions for client implementations,
+      which is hands-on work deploying and integrating AI systems
+      directly.
+  responsibilities:
+  - Build and lead the Implementation Engineering team, setting technical vision and
+    standards for high-impact client deployments
+  - Collaborate directly with clients to understand their operational challenges and
+    design tailored AI-powered solutions
+  - Architect scalable systems that integrate client data and deeply leverage AI to
+    drive measurable business outcomes
+  - Partner with Product and Engineering leadership to influence Maybern's roadmap
+    based on field insights
+  - Own end-to-end delivery of complex implementations, ensuring technical excellence
+    and client satisfaction
+  - Design and deploy large-scale systems that integrate data, AI/ML, and advanced
+    analytics
+  use_cases:
+  - Automating customer data processing and onboarding for fund management platform
+  - Building tailored AI solutions for private fund operational challenges
+  - Creating scalable systems that integrate client data with AI/ML capabilities
+  - Driving operational efficiency for private fund CFOs and managers
+  - Enabling faster, smoother client implementations through AI automation
+  skills:
+    genai: []
+    ml: [AI/ML integration]
+    web: [Django]
+    databases: []
+    data: [Data integration]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Large-scale system design, Customer-facing technical delivery]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7434182'
+  extracted_at: '2026-03-03T11:56:21.006066'

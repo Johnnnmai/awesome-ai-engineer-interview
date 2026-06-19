@@ -1,0 +1,55 @@
+company:
+  name: Amigo
+  stage: Series A
+  focus: |-
+    Healthcare AI agents for clinical workflows and patient
+    engagement
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is ai-first because it directly involves
+      implementing production AI agents, building context graphs
+      for agent reasoning, designing agent behaviors and memory
+      systems, and implementing verification frameworks for LLM-
+      based systems. The engineer works ON the AI agents
+      themselves, not just supporting infrastructure.
+  responsibilities:
+  - Implement context graphs that enable agents to select the right reasoning mode
+    based on problem complexity
+  - Build and optimize agent configurations including static personas, dynamic behaviors,
+    and functional memory systems
+  - Design bounded Operational Patient Domains with explicit inclusions, exclusions,
+    capabilities, and escalation rules
+  - Implement verification loops and simulation-based testing to validate agent performance
+    against customer KPIs
+  - Write Python code for tool integrations and API orchestration within customer
+    environments
+  - Build evaluation suites that gate deployments using customer-specific success
+    metrics
+  - Implement adversarial testing to systematically identify and prevent failure modes
+  - Ensure agents maintain audit-ready provenance with version pinning and evidence
+    links
+  use_cases:
+  - Pre-visit patient intake and care navigation
+  - Post-visit care plans and patient monitoring
+  - Clinical workflow automation for healthcare organizations
+  - Patient engagement across the entire healthcare journey
+  - Autonomous agent operation within bounded clinical domains
+  skills:
+    genai: [LLMs, prompt engineering, AI agents, RAG]
+    ml: [simulation, evaluation frameworks]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [git, testing, distributed systems, observability, monitoring]
+    languages: [Python]
+    domains: []
+    other: [HIPAA compliance]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8703086'
+  extracted_at: '2026-03-27T15:22:24.039379'

@@ -1,0 +1,49 @@
+company:
+  name: LangChain
+  stage: Series B
+  focus: |-
+    Building developer tools and platforms for AI agent
+    engineering
+position:
+  title: FullStack Engineer,  AI Observability & Evals Platform (LangSmith)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a fullstack engineering role working ON LangSmith,
+      an observability and evals platform that supports AI
+      developers. The engineer builds platform features (APIs, UI,
+      backend) but does not directly build, train, fine-tune, or
+      deploy AI/ML models. The platform enables others working on
+      AI, making this an ai-support role.
+  responsibilities:
+  - Develop and implement key product features across the Go, Python, and TypeScript
+    stack for the LangSmith platform
+  - Collaborate closely with product and design teams to iterate on new features and
+    enhance the product roadmap
+  - Drive aggressive project timelines while ensuring high engineering standards with
+    clean, maintainable, well-tested code
+  - Engage directly with enterprise customers and developer end-users to gather feedback
+    and iterate
+  - Design and scale APIs for high-performance, data-intensive applications
+  - Work with internal stakeholders to shape product direction and feature prioritization
+  use_cases:
+  - AI observability platform for monitoring LLM-powered applications
+  - Evaluation platform for testing and benchmarking AI agents
+  - Developer tools for building, deploying, and operating AI agents at scale
+  - Enterprise-grade tracing and debugging of AI agent workflows
+  skills:
+    genai: [LLM Applications, LangChain]
+    ml: []
+    web: [React, API Design]
+    databases: [Postgres, Redis]
+    data: []
+    cloud: []
+    ops: [Observability Platforms, LangSmith]
+    languages: [Go, Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7033267'
+  extracted_at: '2026-04-22T12:46:16.330857'

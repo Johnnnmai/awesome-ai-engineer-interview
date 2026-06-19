@@ -1,0 +1,55 @@
+company:
+  name: Five9
+  stage: Public
+  focus: Cloud contact center software with AI-powered capabilities
+position:
+  title: Senior Software Engineer in AI - Java Spring, Backend
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend software engineering role at an AI company
+      where the engineer builds the platform and infrastructure to
+      support AI technologies, but does NOT directly build, train,
+      fine-tune, or deploy AI models. The job explicitly states
+      "Prior AI experience is not required" and involves
+      integrating third-party AI vendor APIs (Azure, OpenAI,
+      Google, etc.) into a scalable backend platform. The core
+      work is Java Spring microservices development that enables
+      AI features for the contact center product.
+  responsibilities:
+  - Develop scalable, highly available application platform on PaaS platforms such
+    as GCP as part of an agile team
+  - Build robust microservices using Java Spring Framework, Spring Boot, and reactive
+    programming patterns
+  - Leverage PaaS components including message buses, cloud functions, and NoSQL databases
+    to achieve scalability and reliability
+  - Own end-to-end feature development from UI through middleware and backend platform
+  - Design and manage data pipelines to process AI-generated insights ensuring reliable
+    data flow and quality
+  - Document and communicate architecture and implementation solutions clearly
+  - Take ownership of production code including on-call support and troubleshooting
+  - Participate in requirements analysis and feature grooming
+  use_cases:
+  - Cloud contact center AI-powered customer interactions
+  - Integration of vendor AI services (Azure, OpenAI, Google, Databricks, IBM, Amazon)
+    into contact center platform
+  - AI-generated insights processing and decision support via data pipelines
+  - Speech recognition and natural language processing for contact center interactions
+  - Real-time communications innovation powered by the Genius AI platform
+  skills:
+    genai: [OpenAI API]
+    ml: []
+    web: [Spring Framework, Spring Boot, Reactive Programming, React, REST APIs, Microservices,
+      HTML/CSS]
+    databases: [MySQL, BigQuery, NoSQL]
+    data: [Databricks, Data Pipelines]
+    cloud: [GCP, Azure AI, Google AI, AWS]
+    ops: [Docker, Junit]
+    languages: [Java, JavaScript]
+    domains: [NLP, Speech Recognition]
+    other: [Agile/Scrum]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9037886'
+  extracted_at: '2026-04-22T13:11:10.380471'

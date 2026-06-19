@@ -1,0 +1,57 @@
+company:
+  name: Zscaler
+  stage: Public
+  focus: Cloud-native zero trust cybersecurity platform
+position:
+  title: Escalation Engineer - AI Security
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves investigating and resolving scenarios
+      related to AI model security, AI agent governance, data
+      protection in AI contexts, and inference security. It also
+      requires troubleshooting AI-assisted capabilities and
+      understanding LLM-based system behavior and data leakage
+      prevention in AI. While it's an escalation/support
+      engineering role, it involves hands-on analysis and
+      resolution of AI security issues, making it directly engaged
+      with AI systems.
+  responsibilities:
+  - Own and resolve the highest-severity technical escalations through deep analysis,
+    ensuring fast resolution and managing the on-call rotation for critical issues
+  - Troubleshoot and resolve complex issues across Zscaler cloud security services,
+    configuration, policy engines, APIs, and AI-assisted capabilities
+  - Investigate and resolve scenarios related to the secure use of AI models, governance
+    of AI agents, data protection, and inference security
+  - Perform detailed log, telemetry, and packet-level analysis to identify root causes,
+    reproduce complex defects, and provide engineering-ready bug reports
+  - Validate fixes and ensure resolution quality for escalated issues
+  - Drive cross-functional collaboration with Engineering, Cloud Ops, and Product
+    Management
+  - Create advanced troubleshooting documentation and act as a technical mentor to
+    uplift support capability
+  use_cases:
+  - AI model security and inference security investigation
+  - AI agent governance and behavioral analysis
+  - Data leakage prevention in AI/LLM systems
+  - Model access policy controls enforcement
+  - Secure enterprise deployment of AI capabilities
+  - Cloud security platform troubleshooting including AI-assisted features
+  skills:
+    genai: [AI model security, AI agent governance, LLM-based system behavior, Data
+        leakage prevention in AI, Model access policy controls]
+    ml: []
+    web: [APIs, JSON]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Linux CLI, Logging frameworks, TLS/SSL inspection, Packet-level analysis]
+    languages: [Scripting for automation]
+    domains: []
+    other: [Zscaler ZIA, Zscaler ZPA, Zscaler ZDX, Enterprise networking, Authentication
+        flows]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8989578'
+  extracted_at: '2026-04-22T12:41:07.248649'

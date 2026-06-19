@@ -1,0 +1,57 @@
+company:
+  name: Hitachi
+  stage: Public
+  focus: Data infrastructure and storage solutions for enterprises
+position:
+  title: Applied AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first: the engineer will directly
+      build, fine-tune, deploy, and maintain ML/LLM models,
+      implement RAG architectures, and manage end-to-end ML
+      pipelines in production. The position involves hands-on work
+      with models (training, fine-tuning, inference) and GenAI
+      techniques (prompt engineering, RAG, embeddings), not merely
+      supporting infrastructure for others.
+  responsibilities:
+  - Translate business and product requirements into scalable AI/ML solutions using
+    classical ML, deep learning, and GenAI techniques
+  - Design, develop, fine-tune, and evaluate NLP models for information extraction,
+    classification, entity recognition, and semantic understanding
+  - Build and productionize end-to-end ML pipelines including data ingestion, feature
+    engineering, training, validation, deployment, and monitoring
+  - Implement LLM-based solutions using prompt engineering, RAG, and fine-tuning approaches
+  - Deploy and manage training and inference workloads on Kubernetes-based platforms
+    (Kubeflow, KServe, Ray)
+  - Develop scalable APIs and microservices for model inference with performance,
+    latency, and cost optimization
+  - Establish CI/CD/CT pipelines for continuous model training, evaluation, and feedback
+    loops
+  - Monitor model performance, data drift, and system health in production with automated
+    retraining strategies
+  use_cases:
+  - Information extraction from unstructured text
+  - Text classification and entity recognition
+  - Sensitive data detection in documents
+  - Semantic understanding and search
+  - Retrieval-Augmented Generation (RAG) for knowledge-grounded applications
+  - Automated retraining and model lifecycle management
+  skills:
+    genai: [LangChain, LlamaIndex, LangGraph, OpenAI APIs, RAG, Prompt Engineering,
+      Fine-tuning LLMs, Knowledge Graphs, GraphRAG]
+    ml: [PyTorch, TensorFlow, Scikit-learn, spaCy, NLTK, Hugging Face Transformers]
+    web: [FastAPI]
+    databases: [FAISS, Pinecone, Weaviate]
+    data: [Spark, Dask]
+    cloud: []
+    ops: [Kubernetes, Kubeflow, MLflow, KServe, Ray, Airflow, TorchServe, Triton,
+      CI/CD, Docker, Prometheus, Grafana]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9049876'
+  extracted_at: '2026-04-22T12:52:00.138857'

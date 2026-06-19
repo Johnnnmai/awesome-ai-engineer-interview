@@ -1,0 +1,53 @@
+company:
+  name: StockX
+  stage: Series H
+  focus: |-
+    Online marketplace for sneakers, apparel, collectibles and
+    high-demand consumer goods
+position:
+  title: AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on with building, deploying, and scaling
+      AI-powered automation systems including LLMs, agent-based
+      systems, RAG workflows, and prompt pipelines. The engineer
+      will directly implement and integrate AI/ML solutions into
+      production, making this ai-first work.
+  responsibilities:
+  - Design and deploy AI-powered automation solutions using LLMs, machine learning
+    models, and decision engines
+  - Build agent-based systems, prompt pipelines, and retrieval augmented generation
+    workflows
+  - Develop autonomous or semi-autonomous systems that can take actions across internal
+    tools and APIs
+  - Create scalable workflow automation using APIs, event-driven architecture, and
+    orchestration frameworks
+  - Integrate AI systems with internal platforms and develop reusable automation components
+  - Build observability, logging, guardrails, and monitoring into AI systems
+  - Ensure reliability, security, and responsible AI implementation with compliance
+    to data privacy policies
+  - Partner cross-functionally with Engineering, Operations, Product, Data, and Security
+    teams
+  use_cases:
+  - Operational efficiency automation across business processes
+  - Intelligent workflow automation to reduce manual effort
+  - Agent-based systems for autonomous actions across internal tools
+  - RAG-powered retrieval and decision systems
+  - Cross-functional business process transformation
+  skills:
+    genai: [LLMs, Agent-based systems, Prompt engineering, RAG]
+    ml: [Machine learning models]
+    web: [APIs, Event-driven architecture]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Orchestration frameworks, Docker]
+    languages: [Python]
+    domains: []
+    other: [Internal tooling]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8840684'
+  extracted_at: '2026-03-27T14:02:04.586814'

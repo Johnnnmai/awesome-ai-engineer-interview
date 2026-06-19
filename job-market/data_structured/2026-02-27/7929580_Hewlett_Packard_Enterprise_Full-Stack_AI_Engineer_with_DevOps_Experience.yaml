@@ -1,0 +1,55 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: Public
+  focus: |-
+    Global edge-to-cloud computing and enterprise technology
+    solutions
+position:
+  title: Full-Stack AI Engineer with DevOps Experience
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires direct hands-on development and
+      deployment of AI/ML models, NLP pipelines, and AI APIs for
+      production use. The position involves integrating generative
+      AI, chatbot frameworks, and ML models into applications,
+      which constitutes working directly ON AI systems rather than
+      just supporting them.
+  responsibilities:
+  - Lead backend development in Python (Django) and frontend/UI in React
+  - Develop, deploy, and maintain AI/ML features (ML models, NLP pipelines, AI APIs)
+    for production use
+  - Integrate AI-driven functionalities into web and cloud-native applications (generative
+    AI, chatbot frameworks, recommender systems)
+  - Architect, implement, and optimize application and data pipelines for AI inference
+    and training
+  - Design REST APIs and maintain PostgreSQL schemas
+  - Build and automate CI/CD pipelines using Jenkins, Git, and Artifactory for efficient
+    software releases
+  - Support containerization, orchestration, and application deployment using Docker
+    and Kubernetes
+  - Collaborate closely with DevOps, cloud, and data engineering teams to drive best
+    practices
+  use_cases:
+  - Generative AI solutions
+  - Chatbot frameworks and conversational AI
+  - Recommender systems
+  - NLP pipelines for text processing
+  - Production ML model deployment and inference
+  - AI-powered features delivered via APIs and microservices
+  skills:
+    genai: [OpenAI APIs, Prompt Engineering]
+    ml: [TensorFlow, PyTorch, scikit-learn, HuggingFace]
+    web: [Django, React, REST APIs]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [Docker, Kubernetes, Jenkins, Git, Artifactory, CI/CD, MLOps, Helm, Terraform]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7929580'
+  extracted_at: '2026-03-03T11:54:14.850862'

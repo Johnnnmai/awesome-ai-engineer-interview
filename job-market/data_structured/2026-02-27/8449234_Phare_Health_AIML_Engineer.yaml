@@ -1,0 +1,55 @@
+company:
+  name: Phare Health
+  stage: Acquired (part of R1 R37 Lab)
+  focus: |-
+    AI-native Healthcare Revenue Operating System automating
+    medical coding, billing and claims
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, designing, and operating AI/ML
+      systems end-to-end including training and inference
+      infrastructure, retrieval and ranking systems, and
+      generative AI over healthcare data. The engineer will work
+      directly on model development, benchmarking, and production
+      deployment of AI/ML systems.
+  responsibilities:
+  - Build training and inference infrastructure including experiment tracking and
+    benchmarking systems
+  - Design and develop scalable AI systems for retrieval, ranking, categorization,
+    and generative AI over large-scale unstructured healthcare data
+  - Own end-to-end AI/ML systems from problem framing and model selection to production
+    deployment and ongoing improvement
+  - Define AI abstractions and system architectures that are scalable, explainable,
+    and maintainable
+  - Design ranking and triage models that route work between AI agents and human operators
+  - Establish feedback loops and data flywheels for continuous model improvement in
+    production
+  - Partner with Research Scientists to make models production-ready with performance
+    gates and packaging standards
+  - Mentor AI/ML engineers and promote best practices across modeling, evaluation,
+    and deployment
+  use_cases:
+  - Medical coding automation from clinical records
+  - Healthcare claims processing and billing automation
+  - Retrieval and ranking over large-scale unstructured healthcare data
+  - Work routing and triage between AI agents and human operators
+  - Healthcare revenue cycle management and financial workflow automation
+  skills:
+    genai: [RAG, Generative AI, Retrieval systems]
+    ml: [PyTorch, TensorFlow, Ranking models, Model evaluation]
+    web: [FastAPI]
+    databases: [Vector databases, PostgreSQL]
+    data: []
+    cloud: [AWS]
+    ops: [Experiment tracking, MLflow, W&B, Docker, Kubernetes, Inference engineering]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8449234'
+  extracted_at: '2026-03-03T11:12:40.060858'

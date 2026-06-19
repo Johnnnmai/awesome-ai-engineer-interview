@@ -1,0 +1,55 @@
+company:
+  name: Skiffra
+  stage: Seed
+  focus: |-
+    AI-native orchestration systems for physical industries like
+    mining and natural resources
+position:
+  title: Founding Data Engineer (AI Infrastructure)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building data infrastructure and
+      pipelines that enable AI/ML systems, but does not directly
+      build, train, or deploy models. The work involves creating
+      semantic layers, data contracts, and ingestion pipelines
+      that power downstream AI agents and LLMs - classic enabling
+      infrastructure work rather than hands-on model development.
+  responsibilities:
+  - Design and maintain a semantic layer that translates raw database schemas into
+    high-context metadata for LLMs and autonomous agents
+  - Integrate ERPs, operational tools, and legacy systems into a unified internal
+    data layer powering the orchestration engine
+  - Design schemas and data contracts consumed by LLMs and workflow engines for predictable,
+    high-fidelity inputs
+  - Ensure data lineage and metadata enable LLMs to understand business significance
+    of data points
+  - Architect end-to-end ingestion and normalization pipelines for structured, semi-structured,
+    and unstructured data
+  - Implement monitoring, observability, and automated data quality gates for the
+    orchestration engine
+  - Partner with product and engineering to translate operational needs into scalable
+    data systems
+  use_cases:
+  - AI-native orchestration for physical world industries
+  - Intelligent adaptive workflows for mining and natural resources
+  - Real-time decision support for high-stakes industrial operations
+  - Autonomous agents reasoning across enterprise data
+  - Data integration from legacy systems and ERPs for AI consumption
+  skills:
+    genai: [Data contracts for LLMs, RAG systems]
+    ml: []
+    web: [API integrations]
+    databases: [Vector stores]
+    data: [ETL/ELT pipelines, Streaming systems, Event-driven systems, Data cataloging,
+      Data lineage, Data quality gates]
+    cloud: [Cloud data infrastructure]
+    ops: [Monitoring and observability]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8637050'
+  extracted_at: '2026-03-27T14:50:08.408686'

@@ -1,0 +1,109 @@
+job_id: 8915431
+title: Staff AI Engineer Director
+company: dentsu
+location: Jaya Mahal, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Api Architecture
+  - Azure
+  - Ci/Cd
+  - Container Orchestration
+  - Databricks
+  - Genie
+  - Llm Orchestration
+  - Mlops
+  - Python
+  - Unity Catalog
+company_size: 15,492 Employees
+description: |
+  Job Description:
+  
+  Role Summary
+  
+  Serve as the technical anchor for Dentsu's agentic AI
+  engineering team in DGS. You will lead architecture
+  decisions for multi-agent systems, set engineering
+  standards, and mentor a growing team of agentic engineers.
+  This is a hands-on leadership role: you write code, review
+  code, and set the technical direction while the Senior
+  Director handles the VP-level strategy and stakeholder
+  management.
+  
+  Key Responsibilities
+  
+  - Lead technical architecture for multi-agent systems, LLM
+    orchestration, and AI automation workflows
+  - Set up and maintain the agentic engineering stack:
+    frameworks, CI/CD, testing, monitoring, and deployment
+    patterns
+  - Own the technical design for AI orchestration use cases
+    across 4+ client implementations
+  - Build and maintain reusable agent components, tool-use
+    libraries, and prompt templates
+  - Lead Genie space setup and configuration for client data
+    exploration
+  - Mentor and technically lead 3 Senior Agentic Engineers,
+    conducting code reviews and architecture discussions
+  - Evaluate LLM providers (model selection, cost optimization,
+    latency tradeoffs) and recommend choices
+  - Bridge the gap between Data Science model outputs and
+    agentic deployment, ensuring models are served efficiently
+  - Collaborate with the onshore Senior AI Engineer on shared
+    architecture decisions and technical standards
+  - Contribute to technical documentation, runbooks, and
+    operational playbooks for the agentic platform
+  
+  Required Qualifications
+  
+  - 7+ years of software engineering experience with at least 2
+    years in AI/ML engineering
+  - Deep expertise in Python and production-grade software
+    architecture
+  - Hands-on experience building and deploying LLM-powered
+    applications at scale
+  - Strong knowledge of agent orchestration patterns (LangChain,
+    LangGraph, AutoGen, or custom frameworks)
+  - Experience with cloud infrastructure (Azure preferred)
+    including container orchestration and serverless patterns
+  - Track record of mentoring engineers and raising team
+    engineering standards
+  - Experience with MLOps: model serving, monitoring,
+    versioning, and cost management
+  - Strong system design skills with experience in distributed
+    systems and API architecture
+  - Excellent written communication for technical documentation
+    and cross-timezone collaboration
+  
+  Preferred Qualifications
+  
+  - Experience with Databricks, Unity Catalog, and/or Genie
+  - Background in media technology, adtech, or marketing
+    analytics platforms
+  - Experience with RAG architectures, vector databases, and
+    semantic search at scale
+  - Contributions to open-source AI/ML projects
+  - Experience leading technical teams in a DGS/offshore
+    delivery model
+  
+  Location:
+  
+  DGS India - Bengaluru - Manyata N1 Block
+  
+  Brand:
+  
+  Merkle
+  
+  Time Type:
+  
+  Full time
+  
+  Contract Type:
+  
+  Permanent
+industries:
+  - AdTech
+  - Marketing Tech
+posted_date: 2026-04-16
+url: "https://builtin.com/job/staff-ai-engineer-director/8915431"
+source: Built In

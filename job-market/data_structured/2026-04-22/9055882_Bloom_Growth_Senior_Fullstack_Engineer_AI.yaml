@@ -1,0 +1,47 @@
+company:
+  name: Bloom Growth
+  stage: Growth stage
+  focus: Business growth operating system supported by software
+position:
+  title: Senior Fullstack Engineer / AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and deploying scalable AI
+      models, building backend systems powering AI-driven
+      functionality, and establishing MLOps practices. The
+      candidate needs 2+ years building and scaling AI solutions
+      in production, with preferred experience in RAG, prompt
+      systems, and AI evaluation frameworks — indicating hands-on
+      work building and deploying AI/ML systems.
+  responsibilities:
+  - Design and deploy scalable AI models and intelligent system features
+  - Build and support backend systems powering AI-driven functionality
+  - Establish and scale MLOps practices for production AI solutions
+  - Partner with product and cross-functional teams to deliver impactful solutions
+  - Ship iterative improvements using agile methodologies and real-world feedback
+  - Leverage AI tools to accelerate development and improve workflows
+  - Maintain high standards for code quality, reliability, and scalability
+  - Champion DevOps practices including CI/CD and system monitoring
+  use_cases:
+  - Intelligent features within a business growth operating system platform
+  - Client-facing AI capabilities for SaaS/B2B customers
+  - AI-driven functionality enhancing customer experience
+  - Automated business growth recommendations and insights
+  - Production AI systems supporting platform scalability
+  skills:
+    genai: [RAG, Prompt engineering, AI evaluation frameworks]
+    ml: []
+    web: [Backend development, Fullstack development, REST APIs]
+    databases: []
+    data: []
+    cloud: [Cloud services]
+    ops: [MLOps, CI/CD, Docker, Containerization, System monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9055882'
+  extracted_at: '2026-04-22T12:46:22.526765'

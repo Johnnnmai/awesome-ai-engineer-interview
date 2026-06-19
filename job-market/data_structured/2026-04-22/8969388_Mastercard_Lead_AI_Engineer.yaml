@@ -1,0 +1,54 @@
+company:
+  name: Mastercard
+  stage: Public
+  focus: Global digital payments technology and financial services
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, fine-tuning, and
+      deploying AI/ML models and agentic AI applications. The
+      engineer designs agentic systems using LangGraph, CrewAI,
+      and AutoGen, implements RAG, fine-tunes LLMs, and builds
+      production training/deployment pipelines — all hands-on work
+      on AI systems.
+  responsibilities:
+  - Design, develop, and maintain advanced AI/ML systems to address business challenges
+  - Implement AI/ML models into production environments with scalable training pipelines
+    and deployment frameworks
+  - Build and optimize data ingestion, preprocessing, and feature engineering workflows
+    for model training and inference
+  - Fine-tune AI/ML models to meet targeted performance metrics ensuring accuracy,
+    robustness, and efficiency
+  - Automate workflows for model training, testing, deployment, and updates following
+    CI/CD best practices
+  - Monitor model performance, manage versioning, and update models to sustain high-quality
+    outputs
+  - Ensure operational stability and scalability of AI systems adhering to ethical
+    guidelines
+  - Guide and mentor junior team members, reviewing work and fostering continuous
+    improvement
+  use_cases:
+  - Agentic AI applications for business process automation
+  - RAG-based intelligent search and retrieval systems
+  - LLM fine-tuning for domain-specific payment and financial use cases
+  - Scalable AI model deployment for global payments infrastructure
+  - Automated ML pipelines for production AI systems
+  skills:
+    genai: [LangGraph, CrewAI, AutoGen, Prompt Engineering, RAG, LLM Fine-Tuning,
+      LLMOps, AgentOps, Guardrails]
+    ml: [PyTorch, Keras, scikit-learn, Transformers, spaCy]
+    web: [FastAPI]
+    databases: [Vector Databases]
+    data: [PySpark, Databricks]
+    cloud: [Azure]
+    ops: [MLflow, CI/CD, Unix]
+    languages: [Python, NumPy, Pandas]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8969388'
+  extracted_at: '2026-04-22T13:48:46.906751'

@@ -1,0 +1,52 @@
+company:
+  name: Vercel
+  stage: Series D (based on publicly known funding)
+  focus: |-
+    Cloud platform for building, scaling, and securing web
+    applications with AI developer tools
+position:
+  title: Software Engineer, AI Gateway
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role builds the AI Gateway infrastructure platform that
+      routes and manages requests to various AI model providers
+      (OpenAI, Anthropic, etc.). The engineer works ON the
+      gateway/proxy layer (rate limiting, failovers, unified API)
+      rather than building, training, or fine-tuning AI models
+      themselves. It's infrastructure that enables other
+      developers to use AI, making it ai-support.
+  responsibilities:
+  - Design, implement, and maintain the AI Gateway platform with unified API endpoints,
+    rate limit management, and intelligent failover mechanisms
+  - Write clean, efficient, well-documented code with thorough testing to ensure low-latency
+    responses and stability for high-volume AI inference requests
+  - Collaborate with cross-functional teams including product managers, AI researchers,
+    and infrastructure engineers to integrate new AI providers and models
+  - Engage with the open-source community and contribute to AI SDK and related projects
+  - Gather user feedback and analytics to drive innovations in AI Gateway such as
+    billing unification and provider-agnostic authentication
+  - Ensure production-ready reliability for AI workloads including automatic fallbacks
+    during provider outages
+  use_cases:
+  - Unified API gateway for accessing hundreds of AI models from multiple providers
+  - Rate limiting and intelligent failover for AI inference workloads
+  - Provider-agnostic authentication and billing unification for AI services
+  - Low-latency routing and caching for high-volume AI inference requests
+  - Analytics and usage insights for AI model consumption
+  skills:
+    genai: [OpenAI API, Anthropic API, Google AI API, AI SDK]
+    ml: []
+    web: [REST APIs, API Gateways, Rate Limiting, Caching, Backend Development]
+    databases: []
+    data: []
+    cloud: [Cloud Infrastructure]
+    ops: [Distributed Systems]
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: [Open Source]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8926425'
+  extracted_at: '2026-04-22T13:16:11.049494'

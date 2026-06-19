@@ -1,0 +1,52 @@
+company:
+  name: dentsu
+  stage: Public
+  focus: Global advertising and marketing technology services
+position:
+  title: Staff AI Engineer Director
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building and deploying
+      multi-agent AI systems, LLM orchestration, and agentic
+      workflows. The engineer writes code, designs architecture
+      for agent systems, builds reusable agent components, and
+      evaluates LLM providers — all hands-on work on AI/LLM
+      systems.
+  responsibilities:
+  - Lead technical architecture for multi-agent systems, LLM orchestration, and AI
+    automation workflows
+  - Set up and maintain the agentic engineering stack including frameworks, CI/CD,
+    testing, monitoring, and deployment patterns
+  - Own technical design for AI orchestration use cases across multiple client implementations
+  - Build and maintain reusable agent components, tool-use libraries, and prompt templates
+  - Evaluate LLM providers for model selection, cost optimization, and latency tradeoffs
+  - Mentor and technically lead Senior Agentic Engineers through code reviews and
+    architecture discussions
+  - Bridge Data Science model outputs with agentic deployment, ensuring efficient
+    model serving
+  - Contribute to technical documentation, runbooks, and operational playbooks for
+    the agentic platform
+  use_cases:
+  - Multi-agent orchestration for marketing and advertising automation
+  - LLM-powered client data exploration via Genie spaces
+  - AI automation workflows across client implementations in media/adtech
+  - RAG architectures and semantic search for enterprise data
+  - Agent-based tool-use for marketing analytics platforms
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, LLM orchestration, Multi-agent systems,
+      RAG architectures, Prompt engineering]
+    ml: []
+    web: [API architecture]
+    databases: [Vector databases]
+    data: [Databricks, Unity Catalog]
+    cloud: [Azure, Serverless computing]
+    ops: [Docker, Kubernetes, CI/CD, MLOps, Model serving and monitoring]
+    languages: [Python]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8915431'
+  extracted_at: '2026-04-22T12:44:10.284125'

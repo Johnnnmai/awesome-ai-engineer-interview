@@ -1,0 +1,47 @@
+company:
+  name: Tetrix Inc
+  stage: Seed
+  focus: |-
+    AI-native platform for institutional investors in
+    alternative/private markets, providing automated document
+    retrieval, AI-powered data extraction, and portfolio
+    analytics
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves building AI agents and working
+      across the AI-native product stack. The job mentions
+      contributing to "AI agents" and the company's product is
+      described as "AI-native" with "AI-powered data extraction."
+      This is hands-on work implementing and deploying AI systems.
+  responsibilities:
+  - Build and contribute across the tech stack including SaaS product, data pipelines,
+    AI agents, and telemetry infrastructure
+  - Participate in product direction and technology strategy discussions
+  - Work directly with clients including pitching customers, designing features, and
+    gathering feedback
+  - Champion best practices for security, robustness, and scalability
+  - Mentor future team members and help set engineering standards
+  use_cases:
+  - Automated document retrieval for private market data
+  - AI-powered data extraction from unstructured private market documents
+  - Real-time insights generation from messy, unstructured data
+  - On-demand portfolio analytics for institutional investors
+  skills:
+    genai: [AI agents]
+    ml: []
+    web: [SaaS]
+    databases: []
+    data: [document retrieval, data extraction, data pipelines]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8601011'
+  extracted_at: '2026-03-27T13:33:25.698479'

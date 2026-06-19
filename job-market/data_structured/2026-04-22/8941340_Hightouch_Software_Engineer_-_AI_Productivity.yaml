@@ -1,0 +1,58 @@
+company:
+  name: Hightouch
+  stage: Series B+
+  focus: AI platform for marketing and growth teams with AI agents
+position:
+  title: Software Engineer - AI Productivity
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building AI agent
+      infrastructure—MCP server integrations, agentic development
+      environments, and agent documentation/context systems. While
+      the engineer isn't training ML models, they are hands-on
+      building and deploying AI agent systems (Claude Code,
+      Cursor, Copilot, Devin) and creating the tooling that makes
+      AI agents operational in production environments. This
+      qualifies as ai-first since it involves implementing and
+      deploying AI agent systems end-to-end.
+  responsibilities:
+  - Own the agentic development environment, ensuring AI agents can operate in independent
+    cloud-based dev environments, execute test suites, and examine build results
+  - Build MCP server integrations connecting AI agents to internal systems like CircleCI,
+    Slack, Datadog, and GitHub
+  - Own repo-wide agent documentation (agents.md) and maintain a library of agent
+    guidance and skills across teams
+  - Work with engineers to diagnose where AI agents struggle and address root causes
+    through better docs, tooling, and access
+  - Develop tooling for non-engineers to make simple visual updates to the application
+    using AI-assisted workflows
+  - Stay abreast of cutting-edge AI productivity trends and drive improvements across
+    the engineering organization
+  - Serve as an internal PM for AI agents, keeping the team on the leading edge of
+    AI productivity
+  use_cases:
+  - AI-powered developer productivity and coding acceleration
+  - Autonomous AI agents operating in cloud development environments
+  - MCP integrations connecting AI agents to CI/CD, monitoring, and collaboration
+    tools
+  - AI-assisted software development experience optimization
+  - Enabling non-engineers to make application changes via AI tooling
+  skills:
+    genai: [MCP (Model Context Protocol), 'AI coding agents (Claude Code, Cursor,
+        Copilot, Devin)', Prompt engineering / agent context files]
+    ml: []
+    web: [GraphQL]
+    databases: [Snowflake]
+    data: [Databricks]
+    cloud: [Cloud infrastructure]
+    ops: [CI/CD (CircleCI), Docker / containerized dev environments, Datadog, GitHub,
+      Monorepo management]
+    languages: [TypeScript, JavaScript, Go]
+    domains: []
+    other: [Slack integrations]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8941340'
+  extracted_at: '2026-04-22T14:13:20.352173'

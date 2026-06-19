@@ -1,0 +1,59 @@
+company:
+  name: Samsara
+  stage: 'Public (NYSE: IOT)'
+  focus: |-
+    IoT platform for connected physical operations across
+    industries
+position:
+  title: Senior Machine Learning Engineer - Edge AI
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role is focused on optimizing and deploying traditional
+      deep learning models (CNNs, Transformers) on edge/embedded
+      devices for computer vision tasks. It involves model
+      optimization techniques like quantization, pruning, and
+      distillation for real-time inference on constrained
+      hardware, rather than building LLM/agent-based systems. This
+      is classic ML/DL engineering work targeting edge deployment.
+  responsibilities:
+  - Design, optimize, and deploy computer vision and multimodal ML models on constrained
+    edge platforms for in-vehicle camera systems
+  - Apply model optimization techniques including quantization, pruning, and distillation
+    for real-time inference under CPU, memory, and thermal constraints
+  - Partner with ML research and product teams to translate new AI detections into
+    deployable, maintainable edge models
+  - Collaborate with firmware, ML research, and hardware teams to productize the ML
+    runtime pipeline for on-device inference
+  - Develop performance benchmarking, profiling, and validation frameworks for edge-deployed
+    models across millions of devices
+  - Drive continuous improvement of edge ML toolchain and advocate for best practices
+    in model optimization and deployment efficiency
+  - Mentor peers on efficient inference design and collaborate cross-functionally
+    to accelerate safety and driver experience features
+  use_cases:
+  - Real-time driver safety alerts through in-vehicle camera-based AI detection
+  - Computer vision inference on edge devices for in-vehicle intelligence systems
+  - Multimodal perception (audio + vision fusion) for event-based detection in commercial
+    vehicles
+  - On-device inference for millions of deployed IoT devices across transportation
+    and logistics fleets
+  - Equipment and vehicle monitoring through edge-deployed ML models
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, CNNs (2D/3D), Transformers, Model Quantization, Model
+        Pruning, Knowledge Distillation, Edge AI Deployment, DSP-level Optimizations,
+      Memory Management, Multimodal ML]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Inference Optimization, Runtime Profiling, ML Pipeline Productionization]
+    languages: [Python, C++]
+    domains: [Computer Vision]
+    other: [Embedded Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7439758'
+  extracted_at: '2026-04-22T14:02:33.776071'

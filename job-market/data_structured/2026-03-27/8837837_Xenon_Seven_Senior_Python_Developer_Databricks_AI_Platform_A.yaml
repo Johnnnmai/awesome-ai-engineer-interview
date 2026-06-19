@@ -1,0 +1,54 @@
+company:
+  name: Xenon Seven
+  stage: unknown
+  focus: |-
+    Consulting firm partnering with enterprises on Data,
+    Infrastructure, and AI projects
+position:
+  title: 'Senior Python Developer: Databricks AI Platform, Alerting & Monitoring'
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building infrastructure and monitoring
+      systems that support AI/ML workloads, not on building or
+      training models themselves. The work involves Databricks
+      automation, alerting, and observability frameworks -
+      enabling others to run AI workloads, rather than hands-on
+      model development or deployment.
+  responsibilities:
+  - Build Python-based workflows for MLOps, LLMOps, and application deployment within
+    Databricks
+  - Enhance workspace onboarding including Unity Catalog, permissions, and environment
+    setup using reusable Python modules
+  - Integrate Mosaic AI components including Gateway, Model Serving, and Agents into
+    platform automation
+  - Support Delta Lake architecture and MLflow model lifecycles
+  - Implement automated health checks for AWS resources and Databricks applications
+  - Develop and configure alerting mechanisms using AWS CloudWatch, SNS, and EventBridge
+  - Build Python automations to validate configuration consistency across multiple
+    AWS accounts
+  - Create automated service request workflows that bridge alerting with ticketing
+    systems
+  use_cases:
+  - MLOps and LLMOps workflow automation on Databricks
+  - AI platform governance and workspace management
+  - Observability and monitoring for AI infrastructure
+  - Event-driven alerting for cloud resources
+  - Configuration compliance across multi-account AWS environments
+  - Automated incident management and ticketing integration
+  skills:
+    genai: [Mosaic AI]
+    ml: []
+    web: []
+    databases: []
+    data: [Databricks, Unity Catalog, Delta Lake]
+    cloud: [AWS Lambda, AWS API Gateway, AWS CloudWatch, AWS EventBridge, Amazon SNS]
+    ops: [MLflow, Docker, Service Principal authentication]
+    languages: [Python]
+    domains: []
+    other: [Jira, Slack]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8837837'
+  extracted_at: '2026-03-27T13:38:22.872072'

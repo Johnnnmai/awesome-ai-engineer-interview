@@ -1,0 +1,54 @@
+company:
+  name: WEX Inc.
+  stage: Public
+  focus: |-
+    Fintech company providing payment processing and financial
+    services
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development and deployment of
+      AI/ML systems, including LLMs, RAG architectures, and model
+      fine-tuning. The responsibilities explicitly include
+      building and deploying AI/ML platforms, advanced model
+      development with LLMs, and taking AI solutions from concept
+      to production.
+  responsibilities:
+  - Partner with stakeholders to translate complex customer challenges into robust
+    technical designs and AI strategies
+  - Architect, build, and deploy high-performance AI/ML platforms and tools, ensuring
+    scalability, reliability, and security
+  - Lead the development, evaluation, fine-tuning, and monitoring of production-grade
+    AI/ML models including LLMs and RAG architectures
+  - Design and standardize CI/CD pipelines (GitHub Actions) and Infrastructure as
+    Code (Terraform) to ensure reproducible and automated deployments
+  - Proactively monitor system health, lead incident response for critical AI systems,
+    and drive architectural refactoring to remove bottlenecks
+  - Mentor L1/L2 engineers, conduct code reviews, and foster a culture of engineering
+    excellence and best practices
+  - Evaluate emerging AI technologies/vendors and prototype new approaches to keep
+    the organization at the cutting edge of the industry
+  use_cases:
+  - Payment processing and financial services optimization
+  - Decision-making enhancement for financial products
+  - Customer-facing AI-powered products and tools
+  - Enterprise AI platform development for fintech applications
+  skills:
+    genai: [LangChain, LlamaIndex, vLLM, RAG, prompt engineering, agentic workflows]
+    ml: [PyTorch, TensorFlow, scikit-learn, LLM fine-tuning]
+    web: []
+    databases: [SQL, NoSQL, data lakes]
+    data: [data pipelines]
+    cloud: [AWS]
+    ops: [Kubernetes, Terraform, GitHub Actions, CI/CD, MLOps, feature stores, model
+        monitoring]
+    languages: [Python, Java, Go, C#]
+    domains: []
+    other: [distributed systems, microservices]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8794896'
+  extracted_at: '2026-03-27T15:09:07.896884'

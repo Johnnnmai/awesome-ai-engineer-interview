@@ -1,0 +1,55 @@
+company:
+  name: SmithRx
+  stage: Venture-backed (growth stage)
+  focus: |-
+    Next-generation pharmacy benefits management platform
+    disrupting the PBM sector
+position:
+  title: Software Engineer, AI, Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role explicitly involves building AI-native software,
+      implementing "safety rails" around LLMs, and working with
+      Agentic Frameworks, MCP, LLM APIs (Anthropic/OpenAI), and
+      prompt engineering. The engineer is directly integrating and
+      deploying LLM capabilities into a production healthcare
+      platform, making this an ai-first role.
+  responsibilities:
+  - Develop and maintain AI-native product features using Golang, TypeScript, Node,
+    GraphQL, and SQL
+  - Build deterministic safety rails around LLMs to ensure accuracy in healthcare
+    and financial data processing
+  - Collaborate with technical leads and stakeholders on system design and technical
+    scoping for AI-native software
+  - Utilize AWS infrastructure including Lambda, Managed Kafka, and EKS for batch
+    processing and job handling
+  - Troubleshoot production issues through bug triage, impact assessment, and implementing
+    fixes
+  - Apply software development best practices including design patterns, testing,
+    and automation
+  - Participate in code reviews and foster a collaborative learning culture within
+    the engineering team
+  use_cases:
+  - AI-native pharmacy benefits platform for drug acquisition
+  - Deterministic validation and safety wrapping of LLM outputs for healthcare data
+    accuracy
+  - Automated processing of healthcare and financial transactions with AI augmentation
+  - Third-party integrations and data processing for pharmacy benefit management
+  skills:
+    genai: [LLM APIs (Anthropic/OpenAI), Agentic Frameworks, MCP, Prompt Engineering,
+      Evals, Claude Code, GitHub Copilot]
+    ml: []
+    web: [GraphQL, Node.js, REST APIs]
+    databases: [PostgreSQL]
+    data: [Amazon Managed Kafka]
+    cloud: [AWS Lambda, AWS EKS, AWS]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Golang, TypeScript, JavaScript, SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9020602'
+  extracted_at: '2026-04-22T13:30:49.219029'

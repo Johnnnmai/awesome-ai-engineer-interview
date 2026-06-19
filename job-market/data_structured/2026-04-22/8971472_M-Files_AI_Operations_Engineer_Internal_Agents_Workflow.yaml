@@ -1,0 +1,59 @@
+company:
+  name: M-Files
+  stage: Late-stage / Established
+  focus: |-
+    Context-first document management system with metadata-
+    driven architecture and AI capabilities
+position:
+  title: AI Operations Engineer (Internal Agents & Workflow Automation) (Remote, US)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building, deploying, and
+      operating internal AI agents using modern LLM patterns (tool
+      use/function calling, RAG, structured outputs, human-in-the-
+      loop). The engineer designs and implements LLM-powered tools
+      end-to-end, from prompt engineering to production
+      deployment, making this clearly an ai-first role.
+  responsibilities:
+  - Partner with functional leaders to identify high-value workflows where AI can
+    reduce friction, cycle time, and improve compliance
+  - Design and implement internal AI agents using LLM patterns including tool use/function
+    calling, RAG, structured outputs, and human-in-the-loop checkpoints
+  - Build whole-product internal solutions including lightweight UX, service/API layers,
+    integrations, data access, and automation triggers
+  - Own reliability of deployed solutions including monitoring, alerting, logging,
+    incident response, and continuous improvements
+  - Implement guardrails including data minimization, access controls, secrets management,
+    output validation, and traceability
+  - Establish repeatable patterns for onboarding new workflows and scaling existing
+    ones with templates and evaluation harnesses
+  - Coordinate across IT/Security, Legal/Privacy, and functional SMEs to get solutions
+    approved and adopted
+  - Map current-state processes, identify bottlenecks, and re-design processes to
+    be automation-ready
+  use_cases:
+  - Internal workflow automation and process acceleration across business functions
+  - Enterprise document management process optimization
+  - Internal AI agent deployment for compliance and governance workflows
+  - Reducing process friction through AI-powered automation in business operations
+  - Secure internal tooling with audit readiness and change management
+  skills:
+    genai: [LLM agents, function calling / tool use, retrieval-augmented generation
+        (RAG), prompt engineering, structured outputs, human-in-the-loop design, AI-assisted
+        development]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [cloud services]
+    ops: [CI/CD, monitoring and alerting, Docker, access controls and secrets management,
+      infrastructure automation, test automation]
+    languages: [Python, TypeScript, C#, Node.js]
+    domains: []
+    other: [Lean process modernization]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8971472'
+  extracted_at: '2026-04-22T14:00:43.304481'

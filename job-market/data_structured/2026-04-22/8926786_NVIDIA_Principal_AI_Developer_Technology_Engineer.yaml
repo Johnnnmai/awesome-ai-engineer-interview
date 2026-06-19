@@ -1,0 +1,52 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU computing and AI hardware acceleration
+position:
+  title: Principal AI Developer Technology Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on GPU acceleration and low-level
+      performance optimization of deep learning/ML workloads,
+      working with CUDA, parallel programming, and hardware
+      architecture. It does NOT involve building LLM agents, RAG
+      systems, or GenAI applications. The core work is traditional
+      ML/DL system optimization and parallel computing, making it
+      ml-first.
+  responsibilities:
+  - Research and develop techniques to GPU accelerate workloads in deep learning,
+    machine learning, and other AI domains
+  - Collaborate with technical experts in industry and academia to perform in-depth
+    analysis and optimization of complex AI and HPC algorithms
+  - Publish and present discovered optimization techniques in developer blogs and
+    relevant conferences to educate the developer community
+  - Influence the design of next-generation hardware architectures, software, and
+    programming models through cross-team collaboration
+  - Identify and eliminate system bottlenecks to achieve optimal performance on pioneering
+    CPU and GPU hardware
+  - Perform low-level performance optimizations for deep learning models across NLP,
+    computer vision, and recommender system domains
+  use_cases:
+  - GPU acceleration of deep learning training and inference workloads
+  - Performance optimization of AI and HPC algorithms on modern CPU and GPU architectures
+  - Parallelization of deep learning models for NLP, computer vision, and recommender
+    systems
+  - Real-time, cost-effective AI computing platform development
+  skills:
+    genai: []
+    ml: [CUDA, OpenACC, OpenMP, MPI, pthreads, Deep Learning optimization, GPU architecture,
+      CPU architecture, Parallel programming, Linear algebra]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C/C++]
+    domains: [NLP, Computer Vision, Recommender Systems]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8926786'
+  extracted_at: '2026-04-22T13:29:57.400689'

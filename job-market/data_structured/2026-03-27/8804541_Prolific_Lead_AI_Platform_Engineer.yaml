@@ -1,0 +1,53 @@
+company:
+  name: Prolific
+  stage: null
+  focus: |-
+    Platform connecting researchers with human participants for
+    behavioral data collection to improve AI systems
+position:
+  title: Lead AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform/infrastructure role that enables AI teams
+      to work effectively, rather than building models directly.
+      The role focuses on building infrastructure, pipelines, and
+      deployment strategies FOR data scientists and AI
+      researchers, not training or fine-tuning models themselves.
+      While it involves ML/LLM lifecycle management, the core work
+      is infrastructure and enablement.
+  responsibilities:
+  - Design and maintain scalable cloud environments using Infrastructure as Code (Terraform)
+  - Manage GPU/TPU resource allocation for training, fine-tuning, and interactive
+    notebooks
+  - Build internal services and CLI tools to streamline developer experience for AI
+    teams
+  - Design CI/CD and training pipelines using MLFlow, Vertex AI Pipelines, and introduce
+    feature stores
+  - Develop reusable patterns for model serving and manage Kubernetes deployments
+  - Manage and optimize vector databases and embedding pipelines for RAG-based systems
+  - Implement inference optimization techniques including quantization and distillation
+  - Define and create tooling and service templates for AI agent deployment
+  use_cases:
+  - Supporting AI researchers and data scientists with production infrastructure
+  - Enabling RAG-based systems through vector database management
+  - Deploying and monitoring AI agents with tracing and observability
+  - Optimizing model inference for latency and throughput
+  - Enabling non-technical users with low-code/no-code agent platforms
+  skills:
+    genai: [RAG, n8n]
+    ml: [GPU/TPU management, Model inference optimization, Quantization, Distillation]
+    web: []
+    databases: [Vector databases]
+    data: [Feature store]
+    cloud: [GCP, AWS, Vertex AI]
+    ops: [Terraform, MLFlow, GitHub Actions, Kubernetes, LangSmith, Model drift monitoring,
+      LLM tracing]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8804541'
+  extracted_at: '2026-03-27T15:24:01.975596'

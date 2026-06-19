@@ -1,0 +1,50 @@
+company:
+  name: Ontic
+  stage: null
+  focus: |-
+    Security threat intelligence and risk management platform
+    for enterprises and government agencies
+position:
+  title: Senior Software Engineer (AI/ML)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves integrating ML models into production
+      backend systems, building ML-powered product features, and
+      working on data pipelines from ingestion to inference. While
+      it's engineering-heavy rather than research-focused, the
+      role requires hands-on work deploying, monitoring, and
+      integrating ML capabilities (including LLMs via LangChain)
+      directly into the product, making it ai-first.
+  responsibilities:
+  - Build and ship ML-powered product features that deliver real customer value
+  - Develop and maintain backend services using Java (Spring Boot) and Python
+  - Integrate ML capabilities into existing backend systems and microservices architecture
+  - Work on data pipelines and model workflows from ingestion to inference
+  - Deploy and monitor models in production, ensuring performance and stability
+  - Troubleshoot issues across the stack (data, model, and backend systems)
+  - Contribute to code quality, testing, and documentation standards
+  - Participate in system design discussions and cross-team collaboration
+  use_cases:
+  - Security threat identification and risk assessment
+  - Workplace violence protection and prevention
+  - Executive protection and threat intelligence
+  - Corporate security investigations
+  - Incident management and response automation
+  - Centralized security operations and data unification
+  skills:
+    genai: [LangChain, LLMs]
+    ml: [PyTorch]
+    web: [Spring Boot, Spring Framework, REST APIs, Microservices]
+    databases: []
+    data: [Airflow, Spark]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, CI/CD, MLOps]
+    languages: [Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9057011'
+  extracted_at: '2026-04-22T12:40:16.022161'

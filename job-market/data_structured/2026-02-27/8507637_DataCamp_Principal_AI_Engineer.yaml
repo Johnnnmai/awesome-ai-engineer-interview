@@ -1,0 +1,50 @@
+company:
+  name: DataCamp
+  stage: null
+  focus: Data and AI skills education and training platform
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building the core AI tutoring system
+      including prompt architectures, agentic workflows, and real-
+      time adaptive behaviors. The position requires hands-on work
+      with LLM-based systems, designing agentic workflows, and
+      directly implementing AI capabilities that power the
+      tutoring product.
+  responsibilities:
+  - Build and evolve the core AI tutoring system, including prompt architectures,
+    agentic workflows, and real-time adaptive behaviors
+  - Run rigorous experimentation and evaluation, developing custom metrics and frameworks
+    to measure learning effectiveness and improve model reliability
+  - Design and implement scalable, maintainable software, integrating AI capabilities
+    with platform systems, content pipelines, and user experience components
+  - Collaborate cross-functionally with educators, content creators, and product teams
+    to translate pedagogical goals into technical solutions
+  - Prototype and productionize novel model interactions, leveraging emerging research
+    and capabilities to advance the tutor's intelligence
+  - Ensure quality, safety, and observability through monitoring, testing, guardrails,
+    and iterative refinement of model behavior
+  use_cases:
+  - AI-powered personalized tutoring system
+  - Real-time adaptive learning experiences
+  - One-on-one tutoring at scale
+  - Pedagogical goal translation into AI behavior
+  - Learning effectiveness measurement and optimization
+  skills:
+    genai: [prompt engineering, agentic workflows, LLM-based systems, guardrails]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [cloud environments]
+    ops: [CI/CD, monitoring, testing frameworks]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8507637'
+  extracted_at: '2026-03-03T12:16:17.615685'

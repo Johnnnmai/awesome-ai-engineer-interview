@@ -1,0 +1,55 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: Public
+  focus: |-
+    Global edge-to-cloud IT services and digital transformation
+    solutions
+position:
+  title: Senior AI and Machine Learning Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work building, training,
+      fine-tuning, and deploying ML models and GenAI applications.
+      The position requires developing and optimizing models,
+      implementing agentic frameworks (LangGraph), and deploying
+      to production - core AI/ML engineering work.
+  responsibilities:
+  - Research and stay current with AI/ML advancements, experimenting with cutting-edge
+    techniques to solve complex problems
+  - Collaborate with cross-functional teams to design AI/ML solutions, selecting appropriate
+    algorithms and architecting scalable systems
+  - Develop, implement, and optimize machine learning models including data pre-processing,
+    feature engineering, and hyperparameter tuning
+  - Deploy ML models to production environments with scalability, performance, and
+    security considerations
+  - Monitor deployed model performance, collect metrics, and fine-tune models for
+    continuous improvement
+  - Lead design review sessions and mentor junior and mid-level team members
+  - Collaborate with engineering managers to set design and implementation standards
+  - Develop and deliver strategic presentations and reports to senior stakeholders
+  - Apply data mining, data modeling, NLP, and ML to extract insights from datasets
+  use_cases:
+  - Digital transformation and IT services for enterprise customers
+  - Data analysis and insights extraction from enterprise datasets
+  - Natural language processing applications
+  - Production ML systems for enterprise IT operations
+  - Agentic AI applications and architectures
+  skills:
+    genai: [LangGraph]
+    ml: [TensorFlow, PyTorch, scikit-learn, Keras, Deep Learning, Neural Networks,
+      CNNs, RNNs, Transformers, Reinforcement Learning, Transfer Learning, Generative
+        Models]
+    web: []
+    databases: []
+    data: [Data Mining, Data Visualization]
+    cloud: []
+    ops: [LangSmith, Langfuse, Git, MLOps]
+    languages: [Python, R, Java, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7625850'
+  extracted_at: '2026-03-03T12:05:12.434602'

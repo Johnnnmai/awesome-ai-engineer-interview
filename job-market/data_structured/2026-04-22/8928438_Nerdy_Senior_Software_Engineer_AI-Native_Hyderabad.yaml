@@ -1,0 +1,57 @@
+company:
+  name: Nerdy
+  stage: Public
+  focus: AI-powered live learning platform behind Varsity Tutors
+position:
+  title: Senior Software Engineer (AI-Native) (Hyderabad)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      While primarily a software engineering role, Nerdy
+      explicitly requires "AI-Native development" and proficiency
+      with agentic coding tools. The role involves integrating AI
+      into real-time classroom experiences and the company's Live
+      + AI™ platform fuses human expertise with proprietary
+      generative-AI systems. However, the core work is building
+      web products and deploying applications, with AI used as a
+      tool to amplify engineering output rather than building
+      ML/LLM systems directly. This is closer to ai-support — the
+      engineer uses AI tools to build software, not building AI
+      systems themselves.
+  responsibilities:
+  - Write performant, maintainable, well-documented code in JavaScript/TypeScript
+    and OOP languages
+  - Build and ship AI-native products integrating generative AI into real-time classroom
+    learning experiences
+  - Deploy large-scale web applications using CI/CD pipelines on AWS infrastructure
+  - Write automated tests to validate code correctness and maintain quality standards
+  - Participate in on-call rotations with full end-to-end ownership from development
+    to operations
+  - Collaborate with Product, Design, and Engineering to create fast, responsive user
+    interfaces
+  - Leverage agentic AI coding tools to accelerate implementation and amplify engineering
+    impact
+  - Improve SEO performance and accessibility for high-traffic educational platforms
+  use_cases:
+  - Real-time AI-enhanced classroom learning experiences
+  - Seamless class discovery flow for students and educators
+  - Live + AI platform combining human expertise with generative AI for tutoring
+  - AI-powered learning platform serving students, educators, and institutions at
+    global scale
+  - SEO-optimized educational web applications serving thousands of daily visitors
+  skills:
+    genai: [Cursor, Claude Code, ChatGPT, Grok, Bolt, Agentic coding tools]
+    ml: []
+    web: [Netlify, Vercel, SEO optimization]
+    databases: [Supabase]
+    data: []
+    cloud: [AWS, AWS Lambda, AWS RDS, AWS EC2]
+    ops: [GitHub Actions, AWS CodeDeploy, CI/CD, Linux, Automated testing]
+    languages: [JavaScript, TypeScript, Java, C++, C#, Object-Oriented Design]
+    domains: []
+    other: [Make, n8n, Firecrawl]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8928438'
+  extracted_at: '2026-04-22T13:36:12.386629'

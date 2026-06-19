@@ -1,0 +1,56 @@
+company:
+  name: SHI International Corp.
+  stage: Public
+  focus: Global provider of IT solutions and managed services
+position:
+  title: Sr. Managed Services Engineer - AI & Copilot
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves designing and operationalizing
+      Azure OpenAI solutions, implementing RAG patterns, building
+      Copilot Studio solutions, and configuring AI
+      governance/security controls. The engineer works hands-on
+      with AI models, embeddings, prompting, and RAG
+      architectures, making it an ai-first role despite being
+      within a managed services context.
+  responsibilities:
+  - Design, build, and support AI and Copilot solutions using Microsoft platform services
+    for internal and customer purposes
+  - Deliver Microsoft Copilot readiness and enablement including identity, data, security,
+    governance, licensing, and adoption
+  - Design and operationalize Azure OpenAI and applied AI solutions including prompting,
+    embeddings, RAG patterns, and evaluation
+  - Build and maintain Copilot Studio solutions, integrations, and automation workflows
+  - Implement AI governance, logging/monitoring, and security controls aligned to
+    Responsible AI principles
+  - Manage and configure platform infrastructures, applications, and collaboration
+    tools
+  - Monitor and diagnose performance issues to ensure optimal system performance across
+    supported platforms
+  - Mentor and train lower tier engineering employees and serve as an escalation point
+    for complex incidents
+  use_cases:
+  - Microsoft 365 Copilot readiness, enablement, and adoption for enterprise customers
+  - Azure OpenAI solution design and deployment including RAG architectures
+  - Copilot Studio custom solution development and workflow automation
+  - AI governance, security, and compliance monitoring for managed platforms
+  - Managed IT services with AI-powered platform optimization
+  skills:
+    genai: [Microsoft Copilot (M365), Copilot Studio, Azure OpenAI, Prompt Engineering,
+      Embeddings, RAG]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: ['Azure core services (identity, networking, storage, compute)']
+    ops: [Git, Azure DevOps, CI/CD pipelines, Docker/Containerization, Kubernetes,
+      IT Glue, Autotask, DattoRMM]
+    languages: [Python, PowerShell]
+    domains: []
+    other: [ITIL, Responsible AI principles]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8978048'
+  extracted_at: '2026-04-22T13:24:31.287660'

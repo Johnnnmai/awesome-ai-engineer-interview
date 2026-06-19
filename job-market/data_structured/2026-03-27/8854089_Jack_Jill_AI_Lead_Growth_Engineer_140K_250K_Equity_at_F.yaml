@@ -1,0 +1,47 @@
+company:
+  name: Jack & Jill AI
+  stage: Series A
+  focus: |-
+    AI executive assistant, ranked #7 in a16z top AI apps,
+    scaling from $30M to $100M ARR
+position:
+  title: Lead Growth Engineer (£140K – £250K + Equity) at Fyxer AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a growth engineering role focused on product-led
+      growth, not building AI/ML systems. The role involves full-
+      stack development (TypeScript/React), data analysis, and
+      growth experiments to scale the AI product. While the
+      company builds an AI executive assistant, this role works ON
+      growth infrastructure, not ON the AI itself.
+  responsibilities:
+  - Ideate, wireframe, and implement full-stack experiments to improve product-led
+    growth and seat expansion
+  - Analyze quantitative data using Metabase, BigQuery, and PostHog to prioritize
+    backlog and measure experiment impact
+  - Build and optimize viral loops, referral journeys, and revenue operations infrastructure
+  - Own entire growth loops and strategy from ideation to execution
+  - Drive growth from $30M to $100M ARR through data-driven experiments
+  - Optimize onboarding, monetization, and virality mechanisms
+  use_cases:
+  - AI executive assistant for professionals
+  - Product-led growth optimization for B2B SaaS
+  - Viral loops and referral systems
+  - Revenue operations infrastructure
+  skills:
+    genai: []
+    ml: []
+    web: [React]
+    databases: [BigQuery]
+    data: [Metabase]
+    cloud: [Serverless]
+    ops: [DevOps, PostHog]
+    languages: [TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8854089'
+  extracted_at: '2026-03-27T15:33:29.878006'

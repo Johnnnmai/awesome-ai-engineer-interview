@@ -1,0 +1,51 @@
+company:
+  name: Hitachi
+  stage: Public
+  focus: |-
+    Global digital solutions and transformation services across
+    industries
+position:
+  title: AI Engineer (GDC)-65727
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role focuses on designing, developing, and deploying
+      AI/ML models using traditional frameworks like TensorFlow,
+      PyTorch, and scikit-learn. It emphasizes deep learning,
+      supervised/unsupervised learning, and reinforcement learning
+      rather than LLMs, agents, or GenAI-specific tools, making it
+      ml-first.
+  responsibilities:
+  - Design, develop, and implement AI/ML models and algorithms using Python, TensorFlow,
+    PyTorch, and other frameworks
+  - Collect, clean, and preprocess large datasets for training and evaluating AI models
+  - Evaluate and optimize model performance, accuracy, and efficiency
+  - Deploy AI solutions into production environments ensuring scalability and reliability
+  - Collaborate with cross-functional teams including data scientists, software engineers,
+    and domain experts
+  - Conduct research and stay current with the latest advancements in AI and machine
+    learning
+  - Document AI system architecture, design decisions, and implementation details
+  - Troubleshoot and resolve issues related to AI model performance and deployment
+  use_cases:
+  - Enhancing Hitachi's product and service offerings with AI across various sectors
+  - Urban space optimization and smart infrastructure
+  - Natural resource conservation and environmental protection
+  - Industrial automation and operational efficiency
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn, Keras, Deep Learning, Supervised Learning,
+      Unsupervised Learning, Reinforcement Learning]
+    web: []
+    databases: []
+    data: [Pandas, NumPy]
+    cloud: [AWS, Azure, Google Cloud Platform]
+    ops: [Git]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9024828'
+  extracted_at: '2026-04-22T13:58:08.736635'

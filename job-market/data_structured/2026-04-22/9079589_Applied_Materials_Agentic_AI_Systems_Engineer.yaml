@@ -1,0 +1,60 @@
+company:
+  name: Applied Materials
+  stage: Public
+  focus: |-
+    Materials engineering solutions for semiconductor and
+    display manufacturing
+position:
+  title: Agentic AI Systems Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building agentic AI systems —
+      designing and implementing multi-agent runtimes, MCP
+      platform layers, and agent-aware code intelligence. The
+      engineer is hands-on with AI agents, working on their
+      architecture, coordination, and deployment, which qualifies
+      as building and deploying AI systems.
+  responsibilities:
+  - Own and evolve the MCP platform, unifying code, documentation, and developer lifecycle
+    MCPs into a single dependable context infrastructure
+  - Design and implement a multi-agent execution environment with persistent background
+    agents, swarm coordination, and cross-agent context sharing
+  - Architect and ship the end-to-end skill framework including authoring, versioning,
+    distribution, and runtime loading across multiple codebases
+  - Develop deep code understanding systems including semantic code search, dependency-aware
+    context modeling, and structural codebase analysis
+  - Partner with product, domain, service, and backend platform teams to deliver foundational
+    agentic systems
+  - Define technical direction for agentic infrastructure including architecture standards,
+    verification methods, and trust models for agent-generated code
+  - Mentor engineers in agentic development practices and raise the bar for how teams
+    build and ship with AI agents
+  use_cases:
+  - Agentic development environments where AI agents act as first-class contributors
+    across the software development lifecycle
+  - MCP platform providing AI agents with structured, secure, low-latency access to
+    internal tools, data, and documentation
+  - Skill marketplace converting tribal engineering knowledge into composable, portable
+    skills loadable by agents on demand
+  - Multi-agent runtime enabling continuous parallel agent operations with swarm coordination
+  - Agent-aware code intelligence for semantic code search and program-level reasoning
+    across large codebases
+  skills:
+    genai: [MCP (Model Context Protocol), Multi-agent systems, AI agents, RAG, Prompt
+        engineering, Semantic code search]
+    ml: [AI/ML model integration]
+    web: ['SDKs, CLIs, APIs']
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes]
+    languages: [Python, Java, C++]
+    domains: []
+    other: [Distributed systems, Developer tooling / platform infrastructure, System
+        design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9079589'
+  extracted_at: '2026-04-22T13:02:29.927211'

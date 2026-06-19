@@ -1,0 +1,46 @@
+company:
+  name: Zealogics LLC
+  stage: Unknown
+  focus: IT consulting and engineering services
+position:
+  title: AI Full Stack Developer (with Data) - Fully Remote Opportunity
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-powered workflows and LLM-
+      based applications using Azure OpenAI, Agentic AI, and
+      Microsoft Agent Framework. The developer is directly
+      implementing and deploying AI systems (not just supporting
+      infrastructure), making it ai-first despite also involving
+      general full-stack work.
+  responsibilities:
+  - Develop AI-powered workflows using LLM-based applications and Azure OpenAI
+  - Build data-driven full-stack applications with .NET, Python, and React/Angular
+    frontends
+  - Design and implement scalable governance systems leveraging AI capabilities
+  - Integrate Agentic AI and Microsoft Agent Framework into enterprise solutions
+  - Work with Databricks and data platforms to build data pipelines and APIs
+  - Develop microservices architecture on Azure cloud infrastructure
+  use_cases:
+  - AI-powered governance, risk, and audit platforms
+  - LLM-based enterprise workflow automation
+  - Agentic AI systems using Microsoft Agent Framework
+  - RAG-based enterprise search and knowledge retrieval
+  - Data-driven SaaS applications with multi-tenant architecture
+  skills:
+    genai: [Azure OpenAI, LLM-based application development, Microsoft Agent Framework
+        / Foundry Agents, Agentic AI, RAG, Embeddings]
+    ml: []
+    web: [ASP.NET Core, React, Angular, Microservices]
+    databases: [SQL, Vector search]
+    data: [Databricks]
+    cloud: [Azure]
+    ops: []
+    languages: [.NET / C#, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8987963'
+  extracted_at: '2026-04-22T12:36:36.616604'

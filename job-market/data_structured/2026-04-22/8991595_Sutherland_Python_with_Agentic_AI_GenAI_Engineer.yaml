@@ -1,0 +1,53 @@
+company:
+  name: Sutherland
+  stage: Public
+  focus: |-
+    Digital transformation and AI-powered business process
+    optimization
+position:
+  title: Python with Agentic AI & GenAI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, implementing, and
+      optimizing Agentic AI systems, RAG pipelines, and GenAI
+      applications using frameworks like LangChain, LangGraph, and
+      Google ADK. The engineer will develop production-grade
+      agentic AI models and workflows, which is hands-on AI system
+      construction.
+  responsibilities:
+  - Develop, test, and manage day-to-day execution of AI projects, ensuring timely
+    delivery, quality, and alignment to architectural design
+  - Translate architectural blueprints into executable components, prototypes, and
+    production-ready services
+  - Oversee the development of GenAI applications, RAG pipelines, and agent-based
+    solutions using frameworks like LangChain, LangGraph, and Google ADK
+  - Work on data preprocessing, feature engineering, and model optimization
+  - Optimize performance of existing Agentic AI models and pipelines
+  - Review code, support reusable component development, and enforce engineering best
+    practices
+  - Utilize cloud-based services (AWS, Azure, or GCP) for model deployment and scaling
+  - Debug, troubleshoot, and resolve performance bottlenecks in applications
+  use_cases:
+  - Enterprise knowledge retrieval via RAG architectures
+  - Agent-based workflow automation and orchestration
+  - GenAI application development for business process optimization
+  - Scalable production-grade AI model deployment
+  - Agent-to-agent communication systems
+  skills:
+    genai: [LangChain, LangGraph, Google ADK, RAG, Prompt Engineering, MCP, Agent-to-Agent
+        Communication, LLMs/Transformer Models]
+    ml: [Feature Engineering, Model Optimization]
+    web: []
+    databases: [Vector Databases, NoSQL]
+    data: [Data Preprocessing]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8991595'
+  extracted_at: '2026-04-22T13:16:11.275396'

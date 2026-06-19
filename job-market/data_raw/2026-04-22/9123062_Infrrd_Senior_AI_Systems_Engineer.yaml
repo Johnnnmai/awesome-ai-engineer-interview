@@ -1,0 +1,153 @@
+job_id: 9123062
+title: Senior AI Systems Engineer
+company: Infrrd
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Docker
+  - Fastapi
+  - Flask
+  - Git
+  - Github Actions
+  - Jenkins
+  - Langchain
+  - Llamaindex
+  - Llm Apis
+  - MongoDB
+company_size: 227 Employees
+description: |
+  Hello there! Infrrd here — it’s pronounced In-fur-d.
+  
+  We’re an Enterprise AI company that uses AI and Machine
+  Learning to help global organisations automate data
+  extraction from complex documents — invoices, contracts,
+  insurance claims, and more. Our customers are some of the
+  world’s leading enterprises in mortgage, insurance, and
+  manufacturing, and we’ve been profitable and independent
+  since 2016.
+  
+  Job Purpose:
+  
+  To build the automated systems that measure, diagnose, and
+  improve document extraction and classification accuracy at
+  scale. This role eliminates the manual bottleneck in the
+  accuracy improvement cycle — replacing brute-force prompt
+  iteration with agentic evaluation pipelines, automated
+  feedback loops, and intelligent internal tooling. The
+  engineer in this role makes the entire team faster without
+  proportionally increasing headcount, and enables systematic
+  accuracy improvement as a repeatable engineering capability
+  rather than an ad-hoc effort.
+  
+  Job Duties and Responsibilities
+  
+  - Design and build agentic evaluation pipelines: error
+    detection → root cause → hypothesis generation → prompt
+    variant testing → A/B measurement → production promotion,
+    with minimal human intervention.Own the accuracy
+    measurement infrastructure — automate error analysis, data
+    quality pipelines, and batch evaluation frameworks across
+    document types and customer configurations.
+  - Build and evolve internal accuracy tooling from manual
+    utilities into automated improvement platforms —
+    classification and extraction correction loops, NTP rule
+    generation, performance reporting.
+  - Take prototype methodologies and productionize them into
+    reliable, scalable systems the team can operate
+    independently.
+  - Build LLM-based extraction and classification pipelines
+    using few-shot and RAG strategies for complex, real-world
+    document types.
+  - Design and maintain A/B testing infrastructure for prompt
+    and model changes — no untested changes go to production.
+  - Create live dashboards tracking extraction accuracy, NTP
+    rates, and false positive rates across document types and
+    customer configurations.
+  - Optimize LLM costs while maintaining quality: prompt
+    compression, output token minimization, model selection
+    and migration strategies.
+  - Write production-grade data pipelines with error handling,
+    retries, logging, and monitoring.
+  - Collaborate with platform engineering and applied research
+    functions on architecture and methodology translation.
+  - Mentor 1–2 junior engineers; build tooling and documentation
+    they can operate independently.
+  
+  Required Qualifications
+  
+  BE / MTech in Computer Science, AI/ML, Computational Data
+  Science (CDS), Computer Science & Automation (CSA), or
+  related discipline.
+  
+  Experience Range 8-10 years total; minimum 4-6 years
+  building production LLM or AI systems; minimum 4-6 years in
+  evaluation, quality measurement, or accuracy improvement
+  work.
+  
+  "Must-have" Skills
+  
+  - Production-grade Python — clean, tested, maintainable
+    systems; not just scripts (pytest, FastAPI or Flask)
+  - Hands-on LLM API experience (OpenAI, Anthropic, Gemini, AWS
+    Bedrock or equivalent) with systematic, measurement-driven
+    prompt engineering — methodology over instinct
+  - Agentic pipeline design — multi-step reasoning, tool use,
+    orchestration frameworks (LangChain, LlamaIndex or
+    equivalent), automated evaluation and feedback loops
+  - Evaluation framework design for LLM systems —
+    precision/recall/F1, confusion matrices, A/B testing, per-
+    class error analysis
+  - Analytical depth sufficient to design meaningful accuracy
+    metrics and interpret why a model fails on a specific
+    document or field type
+  - MongoDB or equivalent NoSQL — queries, aggregations,
+    indexing pandas / numpy for data processing and batch
+    analysis
+  - Git, code reviews, CI/CD basics (GitHub Actions or Jenkins)
+  - Clear written communication — able to explain model
+    behaviour and accuracy findings to non-technical
+    stakeholders
+  
+  "Would-be-nice" Skills
+  
+  - Document AI: PDF parsing, layout-aware extraction, OCR,
+    structured form extraction
+  - RAG pipeline design and vector search (Pinecone, Weaviate,
+    or similar)
+  - Classification systems with large label spaces (50+ classes)
+  - Async Python (asyncio, aiohttp) for pipeline throughput
+  - Embedding models and semantic similarity for document
+    matching
+  - Prior experience working alongside a Research or Applied
+    Science team as the engineering counterpart
+  
+  Working Knowledge (Tools) Python, FastAPI / Flask, MongoDB,
+  Git, GitHub Actions / Jenkins, LLM APIs (OpenAI / Anthropic
+  / Gemini or equivalent), LangChain / LlamaIndex, Pandas /
+  Numpy, Pytest, Docker
+  
+  General Knowledge
+  
+  NLP concepts, LLM prompt engineering patterns, REST APIs,
+  RAG pipelines, vector databases, JSON data structures
+  
+  Thorough Knowledge
+  
+  Agentic workflow design and orchestration, LLM evaluation
+  metrics (F1 / Precision / Recall, per-class analysis,
+  confusion matrices), production Python systems (error
+  handling, retries, logging, monitoring), NoSQL aggregations,
+  systematic A/B testing for model changes, prompt
+  optimization methodology
+  
+  By submitting your application, you agree that your personal
+  information and resume may be collected, processed, and
+  stored by us for recruitment purposes, including
+  consideration for future roles.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-04-22
+url: "https://builtin.com/job/senior-ai-systems-engineer/9123062"
+source: Built In

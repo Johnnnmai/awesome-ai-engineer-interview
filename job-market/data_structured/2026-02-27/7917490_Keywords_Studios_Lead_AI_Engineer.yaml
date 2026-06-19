@@ -1,0 +1,52 @@
+company:
+  name: Keywords Studios
+  stage: Public
+  focus: Customer support automation and gaming services
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role because it involves direct hands-on
+      work building AI Agents, RAG pipelines, LLM-based services,
+      and ML models from concept to production. The position
+      requires architecting and implementing AI systems, not just
+      supporting infrastructure for others.
+  responsibilities:
+  - Lead and mentor a team of backend and frontend developers, fostering a high-performing,
+    collaborative engineering culture
+  - Own the technical direction, architecture, and strategy for LLM, AI Agent, and
+    ML initiatives
+  - Architect and build AI Agents, RAG pipelines including multimodal RAG, LLM-based
+    services, and evaluation frameworks
+  - Design, build, and deploy scalable AI/ML systems from concept to production
+  - Collaborate closely with PMs, ML Engineers, and Data Scientists to convert business
+    requirements into AI-driven solutions
+  - Oversee full SDLC ensuring strong engineering practices around coding, testing,
+    quality, and reliability
+  - Troubleshoot performance, scalability, and reliability issues in production AI
+    systems
+  - Champion continuous improvement, automation, and keep the team up-to-date with
+    advances in LLMs, LLMOps, and fine-tuning techniques
+  use_cases:
+  - Automated issue resolution through AI Agents
+  - User intent detection for customer support
+  - AI-powered answers and knowledge base enhancements
+  - Agent CoPilot for agent productivity improvement
+  - Multimodal RAG pipelines for information retrieval
+  skills:
+    genai: [RAG, AI Agents, LLMs]
+    ml: [PyTorch, TensorFlow, scikit-learn, Fine-tuning, Embeddings, Transformers]
+    web: [React, Angular, Vue.js]
+    databases: [Elasticsearch, Weaviate, Pinecone, Milvus, Vector search]
+    data: [Kafka]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, LLMOps, MLOps]
+    languages: [Python, Java, Go, Node.js, Clojure]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7917490'
+  extracted_at: '2026-03-03T12:57:04.906439'

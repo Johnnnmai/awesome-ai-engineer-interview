@@ -1,0 +1,44 @@
+company:
+  name: TransPerfect
+  stage: Public
+  focus: Translation and language services for global enterprises
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on designing, training, and deploying
+      traditional machine learning models (TensorFlow, PyTorch,
+      scikit-learn, XGBoost) for a telecommunications client.
+      There is no mention of LLMs, agents, RAG, or GenAI tools.
+      The emphasis is on classical ML/DL model development and
+      edge AI optimization, making it ml-first.
+  responsibilities:
+  - Develop and fine-tune machine learning algorithms for device and service features
+  - Conduct experiments, evaluate model performance, and suggest improvements
+  - Lead and collaborate with engineers to implement production-ready AI solutions
+  - Document processes and results for scalability
+  - Work with structured and unstructured data for model training
+  - Deploy ML models to edge devices and cloud infrastructure
+  use_cases:
+  - Intelligent systems powering features across telecommunications devices and services
+  - Edge AI model optimization for mobile/telecom hardware
+  - Real-world ML applications impacting millions of users in the telecom sector
+  - Production ML pipelines for device-level inference
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn, XGBoost, LightGBM, CoreML, TFLite]
+    web: []
+    databases: [SQL, BigQuery]
+    data: [NumPy, Pandas, Airflow]
+    cloud: [AWS, SageMaker, Azure, GCP]
+    ops: [Git, GitHub, GitLab, Jenkins, GitHub Actions, TensorBoard, Weights & Biases,
+      ONNX, TensorRT, Docker, Kubernetes, MLflow]
+    languages: [Python]
+    domains: []
+    other: [Jupyter Notebooks]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9057021'
+  extracted_at: '2026-04-22T13:28:38.439979'

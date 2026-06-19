@@ -1,0 +1,59 @@
+company:
+  name: Inari Medical
+  stage: Acquired (part of Stryker)
+  focus: |-
+    Healthcare speech and GenAI platforms for clinical
+    environments
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly working ON AI systems -
+      architecting validation frameworks for LLMs, RAG systems,
+      and speech AI platforms. The position requires hands-on
+      expertise in LLM validation, RAG evaluation, hallucination
+      detection, and prompt benchmarking, which are core AI/ML
+      activities focused on ensuring AI model quality and
+      reliability.
+  responsibilities:
+  - Define and own end-to-end AI evaluation architecture across speech, NLP, and GenAI
+    platforms
+  - Architect validation frameworks for RAG-based systems, prompt orchestration workflows,
+    and multi-agent AI pipelines
+  - Design and lead implementation of scalable AI testing platform with offline evaluation
+    pipelines and synthetic data generation
+  - Define enterprise-wide data governance strategy for AI systems including data
+    collection, annotation, and versioning standards
+  - Establish evaluation strategies for speech systems including accent variability
+    and noisy clinical environments
+  - Implement AI validation workflows into CI/CD and MLOps pipelines with drift detection
+    and monitoring
+  - Drive responsible AI practices including hallucination detection, bias detection,
+    and safety validation
+  - Serve as principal authority on AI testing and evaluation strategy with cross-team
+    technical leadership
+  use_cases:
+  - Real-time speech recognition in mission-critical healthcare environments
+  - NLP pipelines for clinical workflows
+  - RAG-based LLM applications for enterprise search and knowledge retrieval
+  - Conversational AI for clinical settings with domain-specific vocabulary
+  - ASR/TTS systems with accent and noise adaptation for healthcare
+  - Multi-agent AI pipelines for complex enterprise workflows
+  skills:
+    genai: [LLM validation, RAG evaluation, prompt engineering, LLM guardrails, multi-agent
+        systems]
+    ml: [NLP, ASR systems, TTS systems]
+    web: []
+    databases: [vector databases]
+    data: [data pipelines, synthetic data generation, A/B testing]
+    cloud: [Azure ML, Azure OpenAI, Azure AI Search]
+    ops: [MLOps, CI/CD, Docker, Kubernetes, MLflow, monitoring and observability]
+    languages: [Python, SQL]
+    domains: [Responsible AI, healthcare AI]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8818249'
+  extracted_at: '2026-03-27T14:45:07.497721'

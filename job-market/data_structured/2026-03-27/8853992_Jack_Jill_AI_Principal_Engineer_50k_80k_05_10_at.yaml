@@ -1,0 +1,47 @@
+company:
+  name: Jack & Jill AI
+  stage: Seed
+  focus: Legal AI automation platform for venture capital funds
+position:
+  title: Principal Engineer ($50k – $80k • 0.5% – 1.0%) at Perry AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and optimizing LLM
+      workflows, orchestrating multiple LLM providers (OpenAI,
+      Anthropic, Gemini), and creating AI document pipelines. The
+      engineer will architect and implement AI-powered document
+      processing engines for legal workflows, which is hands-on
+      work with AI systems.
+  responsibilities:
+  - Architect and ship end-to-end features using TypeScript, Node.js, and React while
+    maintaining enterprise-grade security for sensitive legal data
+  - Build sophisticated document processing engines that parse, analyze, and redline
+    DOCX and PDF files to extract critical investment terms
+  - Integrate and optimize LLM workflows to automate complex legal busywork, turning
+    messy inbound emails and documents into structured, actionable data
+  - Design and build core systems from the ground up for a legal AI platform
+  - Lead technical development of the platform and own the full stack from AI document
+    pipelines to production-ready React components
+  use_cases:
+  - Automating complex legal workflows for global VC funds
+  - Document processing and analysis for legal documents including DOCX and PDF redlining
+  - Extracting critical investment terms from legal documents
+  - Converting unstructured emails and documents into structured, actionable data
+  - Helping leading investors close deals and manage risk
+  skills:
+    genai: [OpenAI API, Anthropic API, Gemini API, LLM workflow orchestration]
+    ml: []
+    web: [Node.js, React, Express.js, API development]
+    databases: [MongoDB]
+    data: [Document processing]
+    cloud: []
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8853992'
+  extracted_at: '2026-03-27T15:40:14.755255'

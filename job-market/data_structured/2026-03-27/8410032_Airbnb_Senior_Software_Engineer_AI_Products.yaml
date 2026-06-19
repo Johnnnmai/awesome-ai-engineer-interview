@@ -1,0 +1,56 @@
+company:
+  name: Airbnb
+  stage: Public
+  focus: Global hospitality platform for stays and experiences
+position:
+  title: Senior Software Engineer, AI Products
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building LLM-powered features
+      including RAG pipelines, agent orchestration, and prompt
+      optimization. The engineer will implement agentic AI
+      capabilities, work with AI agent frameworks, and own
+      production AI systems end-to-end, making this clearly hands-
+      on work with AI/LLM systems.
+  responsibilities:
+  - Lead technical design and implementation of LLM-powered features for OneChat and
+    enterprise AI tools, including RAG pipelines, agent orchestration, and prompt
+    optimization
+  - Architect and build production-ready AI/ML-integrated systems ensuring scalability,
+    reliability, and low latency across multi-cloud environments
+  - Develop and iterate on agentic AI capabilities including multi-step reasoning,
+    tool use, and context-aware decision-making
+  - Implement evaluation pipelines and quality systems to measure model performance,
+    safety, and user satisfaction
+  - Own production AI systems end-to-end including deployment strategies, monitoring,
+    alerting, and incident response
+  - Collaborate with DevAI team on AirChat SDK integrations, MCP implementations,
+    and Glean Action Packs
+  - Mentor engineers through design reviews, architecture discussions, and pair programming
+    sessions
+  - Democratize AI by building tools that empower non-technical employees to leverage
+    LLMs
+  use_cases:
+  - Enterprise AI assistant for secure LLM interactions (OneChat)
+  - Internal enterprise search with AI-powered chat capabilities
+  - AI agents and task automation for non-technical employees
+  - Deep research and artifact creation tools
+  - Employee productivity and information discovery platforms
+  skills:
+    genai: [LangChain, LangGraph, RAG, Prompt Engineering, AI Agent Frameworks, OpenAI
+        API, Anthropic Claude API, MCP (Model Context Protocol)]
+    ml: [LLM Fine-tuning, Embeddings, LLM Evaluation Systems]
+    web: [REST APIs, GraphQL, React, Next.js]
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Kubernetes, Terraform, Docker]
+    languages: [Python, TypeScript, Go, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8410032'
+  extracted_at: '2026-03-27T16:16:41.791109'

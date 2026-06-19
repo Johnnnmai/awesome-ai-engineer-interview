@@ -1,0 +1,229 @@
+job_id: 9103096
+title: "Data & AI Platform Engineer"
+company: Brown and Caldwell
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Azure
+  - Databricks
+  - Docker
+  - ETL
+  - GCP
+  - Kubernetes
+  - Python
+  - Snowflake
+  - SQL
+description: |
+  The Digital Solutions team at Brown and Caldwell (BC) is
+  seeking a Data & AI Platform Engineer to strengthen our
+  cloud platform, deployment, and AI/data infrastructure
+  capabilities. This role bridges traditional MLOps and data
+  platform engineering with the demands of production-grade AI
+  including retrieval-augmented generation (RAG) pipelines,
+  multi-agent orchestration, and LLMOps to support the full
+  lifecycle of analytics, modeling, and AI-enabled delivery
+  workflows.
+  
+  We are looking for someone with depth in platform
+  engineering, DevOps/MLOps, and cloud infrastructure, who can
+  also operationalize AI systems with rigor. You will partner
+  closely with data scientists, AI engineers, cloud
+  architects, and domain SMEs to deliver scalable,
+  maintainable, and auditable solutions across environmental
+  and water-resources projects.
+  
+  The Data & AI Platform Engineer role will design, develop,
+  and maintain data pipelines and architectures that enable
+  effective data integration, storage, and analysis. The
+  role’s responsibilities will include data modeling, ETL
+  development, and performance tuning of data systems. The
+  role will also be involved in troubleshooting and resolving
+  data-related issues with a focus on data quality and
+  accessibility. Additionally, the role will be responsible
+  for architecting pipelines in compliance with BC and
+  clients’ data security and industry standards.
+  
+  Responsibilities
+  
+  - Design, create and maintain data pipelines to collect,
+    clean, transform, and load data from various sources,
+    including sensor data, historical records, and geospatial
+    information to facilitate data warehousing.
+  - Collaborate with interdisciplinary teams of environmental
+    engineers, data scientists, and software developers to
+    understand data requirements and develop scalable data
+    solutions.
+  - Participate in the design of and execute the creation and
+    management of data warehouses, data lakes, and databases
+    to ensure efficient data storage, retrieval, and
+    management.
+  - Develop, deploy, execute, and monitor ETL (Extract,
+    Transform, Load) processes to support data analysis,
+    visualization, and machine learning model training.
+  - Develop and maintain data models and engage in SQL database
+    management and querying with the objective of efficiently
+    handling stored data.
+  - Design and execute testing plans for data pipeline and data
+    warehousing implementation efforts.
+  - Implement processes for improving data quality and managing
+    data governance for enhanced reliability and
+    accessibility.
+  - Collaborate with IT infrastructure and cybersecurity teams
+    to implement and operate data pipelines within approved
+    data infrastructure, performance, and security guidelines.
+  - Design and execute processing tasks using Python and
+    maintain up-to-date understanding of big data processing
+    frameworks.
+  - Perform regular data audits and updates to ensure high level
+    of data accuracy and integrity.
+  - Flexibility to adapt and execute various additional
+    assignments based on evolving needs.
+  
+  Mentorship
+  
+  - May provide mentorship, guidance, support, and knowledge-
+    sharing to help less experienced team members develop
+    their skills and grow within their roles.
+  
+  Skills and Competencies
+  
+  - Understanding in building and optimizing data pipelines,
+    architectures, and data sets.
+  - Strong working SQL knowledge and skills in implementing and
+    managing relational databases.
+  - Proficient in ETL processes creation and management and
+    techniques for data cleaning and validation.
+  - Proficient in Python and other scripting languages
+    applicable for data engineering.
+  - Proficient with best practices for writing clean,
+    maintainable, and scalable code while applying software
+    engineering best practices including use of version
+    control systems (e.g., Git).
+  - Demonstrated abilities with data warehousing solutions, data
+    lake solutions, and cloud platforms.
+  
+  Experience
+  
+  - Typically, a minimum of 5 years of data engineering or
+    related experience.
+  - Typically certified in BC's SMS Framework and progressing
+    through the SMS competencies.
+  
+  Preferred Experience
+  
+  - Hands‑on experience supporting production LLM‑ or RAG‑based
+    systems in a platform, data, or MLOps capacity, including
+    retrieval pipelines, vector search and embeddings,
+    document chunking strategies, and orchestration patterns
+    such as routing, tool use, and context management.
+    Experience with services like Azure AI Search and agentic
+    or multi‑agent workflows is a plus.
+  - Familiarity with LLMOps practices and operational tooling,
+    including evaluation frameworks, prompt and configuration
+    versioning, model or output drift detection,
+    observability, and monitoring approaches (e.g.,
+    OpenTelemetry).
+  - Exposure to analytics platforms and integration‑heavy
+    systems, including APIs, workflow orchestration tools
+    (e.g., Airflow), and modern cloud data platforms such as
+    Databricks or Snowflake—particularly where AI‑assisted
+    analytics or natural‑language interfaces are used to
+    support data exploration and insight generation.
+  - Experience deploying and operating AI‑enabled or analytics-
+    heavy services in Docker‑based containerized runtimes on
+    managed cloud platforms, using infrastructure as code with
+    cloud providers (Azure preferred, with AWS and GCP
+    acceptable); Kubernetes environments (AKS or equivalent) a
+    plus where applicable.
+  - Familiarity with geospatial data and analysis, such as ESRI
+    ArcGIS, PostGIS, or geopandas.
+  - Interest or experience in environmental, water resources, or
+    scientific computing domains, with the ability to
+    collaborate effectively across disciplines and contribute
+    to mentoring or supporting junior team members and
+    interns.
+  
+  Education
+  
+  - A degree in data engineering, computer science, information
+    technology, or related field or equivalent experience is
+    required.
+  
+  Salary Range: The anticipated starting pay range for this
+  position is based on the employee’s primary work location
+  and may be more or less depending upon skills, experience,
+  and education.  These ranges may be modified in the future.
+  
+  Location A: $117,000 - $159,000 Location B: $128,000 -
+  $175,000 Location C: $140,000 - $191,000
+  
+  You can view which BC location applies to you here. If you
+  have any questions, please speak with your Recruiter.
+  
+  Benefits and Other Compensation:  We provide a comprehensive
+  benefits package that promotes employee health, performance,
+  and success which includes medical, dental, vision, short
+  and long-term disability, life insurance, an employee
+  assistance program, paid time off and parental leave, paid
+  holidays, 401(k) retirement savings plan with employer
+  match, performance-based bonus eligibility, employee
+  referral bonuses, tuition reimbursement, pet insurance and
+  long-term care insurance. Click here to see our full list of
+  benefits.
+  
+  About Brown and Caldwell
+  
+  Headquartered in Walnut Creek, California, Brown and
+  Caldwell is a full-service environmental engineering and
+  construction services firm with 50 offices and over 2,100
+  professionals across North America and the Pacific. For more
+  than 75 years, we have created leading-edge environmental
+  solutions for municipalities, private industry, and
+  government agencies. We strive to be the company of
+  choice—to our clients, who benefit from our passion for
+  delivering exceptional quality, and to our employees,
+  present and future, who share our commitment to client
+  service, collaboration, and innovation. Join us, and you
+  will find a home where you can do your best work, reach new
+  levels of expertise, and enjoy exceptional development
+  opportunities. For more information, visit
+  www.brownandcaldwell.com
+  
+  This position is subject to a pre-employment background
+  check and a pre-employment drug test.
+  
+  Notice to Third Party Agencies: Brown and Caldwell does not
+  accept unsolicited resumes from recruiters or employment
+  agencies. In the event a recruiter or agency submits a
+  resume or candidate without a previously signed agreement
+  and approved engagement request with Brown and Caldwell,
+  Brown and Caldwell reserves the right to pursue and hire
+  those candidate(s) without any financial obligation to the
+  recruiter or agency.
+  
+  Brown and Caldwell is proud to be an EEO/AAP Employer. Brown
+  and Caldwell encourages protected veterans, individuals with
+  disabilities, and applicants from all backgrounds to apply.
+  Brown and Caldwell ensures nondiscrimination in all programs
+  and activities in accordance with Title VI of the Civil
+  Rights Act.
+  
+  
+  
+  
+  
+  Equal Opportunity Employer/Protected Veterans/Individuals
+  with Disabilities
+  
+  This employer is required to notify all applicants of their
+  rights pursuant to federal employment laws.  For further
+  information, please review the Know Your Rights notice from
+  the Department of Labor.
+industries:
+  - Greentech
+  - Renewable Energy
+posted_date: 2026-04-20
+url: "https://www.builtinla.com/job/data-ai-platform-engineer/9103096"
+source: Built In

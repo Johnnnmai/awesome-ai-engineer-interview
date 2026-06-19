@@ -1,0 +1,54 @@
+company:
+  name: Volga Partners
+  stage: Unknown
+  focus: Software consulting and AI-powered application development
+position:
+  title: Software Development Engineer - AI / LLM Systems (Python Backend)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves integrating LLM APIs into
+      production workflows, building prompt management systems,
+      model routing, response validation, and developing AI-
+      powered backend systems. The engineer is hands-on with LLM
+      integration patterns and building production AI systems,
+      making it ai-first.
+  responsibilities:
+  - Build and maintain backend services and internal tools in Python for AI-powered
+    applications
+  - Integrate LLM APIs into production workflows including prompt handling, response
+    processing, validation, and retries
+  - Design and implement scalable REST APIs, async workflows, and background job systems
+  - Develop systems for prompt management, model routing, response validation, and
+    failure handling
+  - Work with structured and unstructured data to prepare inputs, transform outputs,
+    and support downstream systems
+  - Debug complex issues across backend logic, API integrations, and distributed services
+  - Monitor system performance using telemetry tools and proactively identify and
+    resolve bottlenecks
+  - Contribute to architecture decisions around scalability, performance, and safe
+    use of AI systems
+  use_cases:
+  - LLM integration into production backend workflows
+  - Prompt management and model routing for multi-model systems
+  - Response validation and failure handling for AI-powered services
+  - Data processing pipelines for AI input preparation and output transformation
+  - Automated evaluation and reporting workflows for AI systems
+  skills:
+    genai: [LLM API integration, Prompt engineering, RAG, Vector databases, Agent
+        workflows, Embeddings, Response guardrails]
+    ml: []
+    web: [REST APIs, React, .NET Web API, ASP.NET]
+    databases: [SQL Server, Elastic Stack]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [Docker, Terraform, Azure DevOps, Git]
+    languages: [Python, C#, C++, JavaScript, TypeScript, SQL]
+    domains: []
+    other: [Microservices architecture, Distributed systems, Async workflows, Entity
+        Framework]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8971609'
+  extracted_at: '2026-04-22T12:28:55.288082'

@@ -1,0 +1,160 @@
+job_id: 8865869
+title: Applied AI Engineer
+company: Pager Health
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Aws Bedrock
+  - Azure Openai
+  - Crewai
+  - GCP
+  - Langchain
+  - Langgraph
+  - Pgvector
+  - Pinecone
+  - Python
+  - Vertex Ai
+description: |
+  Pager Health is a connected health platform company that
+  enables healthcare enterprises to deliver high-engagement,
+  intelligent health experiences for their patients, members
+  and teams through integrated technology, AI and concierge
+  services. Our solutions help people get the right care at
+  the right time in the right place and stay healthy, while
+  simultaneously reducing system friction and fragmentation,
+  powering engagement, and orchestrating the enterprise. Pager
+  Health partners with leading payers, providers and employers
+  representing more than 28 million individuals across the
+  United States and Latin America.
+  
+  We believe that healthcare should work for everyone.  We
+  believe that it’s too important to be as cumbersome and
+  difficult as it is.  And we believe that there is a better
+  way to deliver a simplified, more meaningful healthcare
+  experience for all – one that we’re determined to enable.
+  
+  We're looking for an Applied AI/LLM Engineer to design,
+  build, and ship LLM-powered agents and applications. You'll
+  work closely with our Data Science team, who defines the LLM
+  strategy, guardrails, evaluation criteria, and model
+  selection. Your job is to take that foundation and turn it
+  into reliable, production-grade agent systems that solve
+  real business problems. This is a builder role, not a
+  research role. You'll spend most of your time writing code —
+  wiring up tools, orchestrating multi-step workflows,
+  integrating APIs, and making sure agents behave predictably
+  in the wild. You should be deeply comfortable working with
+  large language models in production and operating at the
+  intersection of software engineering and applied AI.
+  Responsibilities:
+  
+  - Build agentic applications and workflows using the LLM
+    frameworks, models, and guardrails provided by the Data
+    Science team Design and implement tool integrations,
+    function-calling patterns, and orchestration logic that
+    allow agents to take actions across internal systems and
+    external APIs
+  - Translate agent specifications and prompt strategies
+    (authored by Data Science) into robust, deployable
+    services Implement RAG pipelines, including vector store
+    integration, chunking strategies, and retrieval
+    optimization
+  - Own the full lifecycle of agent systems from prototype
+    through production, including testing, monitoring,
+    logging, and iteration
+  - Build evaluation and observability infrastructure so the
+    team can measure agent quality, latency, cost, and safety
+    in production
+  - Collaborate with Data Science on prompt engineering, model
+    behavior tuning, and guardrail enforcement. Implementing
+    their specifications into the runtime layer Work with
+    platform and infrastructure teams to deploy, scale, and
+    maintain agent services in cloud environments (GCP/Vertex
+    AI, AWS Bedrock, Azure OpenAI)
+  - Contribute to internal tooling, SDKs, and shared libraries
+    that accelerate agent development across the organization
+  
+  Qualifications:
+  
+  - 3+ years of software engineering experience with strong
+    proficiency in Python Hands-on experience building
+    applications powered by large language models (Claude,
+    GPT, Gemini)
+  - Familiarity with agent frameworks and orchestration patterns
+    (LangChain, LangGraph, CrewAI, Vertex AI Agent Builder, or
+    custom orchestration)
+  - Experience implementing function calling, tool use, and
+    multi-step agent workflows Solid understanding of RAG
+    architectures, embedding models, and vector databases
+    (Pinecone, Weaviate, pgvector, Vertex AI Vector Search)
+  - Comfort working within defined guardrails and model
+    configurations - you don't need to pick the model, but you
+    need to know how to get the most out of it
+  - Experience with API design, microservices, and deploying
+    services in cloud environments Strong debugging and
+    problem-solving instincts. Agent systems fail in non-
+    obvious ways and you enjoy chasing down why
+  - Strong communication skills; ability to work across Data
+    Science, Product, and Engineering teams
+  - Experience with evaluation frameworks for LLM-based systems
+    (custom evals, RAGAS, LangSmith, Braintrust), is nice to
+    have
+  - Familiarity with MLOps tooling and CI/CD for ML systems and
+    experience with streaming responses, async architectures,
+    and real-time agent interactions, are nice to have
+  - Background in building multi-agent systems with routing,
+    delegation, and coordination patterns, is preferred
+  - Exposure to Google Cloud Platform/Vertex AI ecosystem
+    Contributions to open-source AI/ML projects, is preferred
+  
+  For Colorado, Nevada, New York, and Washington DC-based
+  employment: In accordance with the Pay Transparency laws the
+  pay range for this position is $150,000 - $160,000. The
+  compensation package may include stock options, plus a range
+  of medical, dental, vision, financial, generous PTO,
+  stipends for professional development, and wellness
+  benefits.  Final compensation for this role will be
+  determined by various factors such as a candidate's relevant
+  work experience, skills, certifications, and geographic
+  location. The range listed only applies to Colorado, Nevada,
+  New York, and Washington DC.
+  
+  At Pager Health, you will work alongside passionate,
+  talented and mission-driven professionals – people who are
+  building scalable platforms, solving critical enterprise-
+  level challenges in health tech and providing concierge
+  services to help individuals access the medical care and
+  wellbeing programs they need.
+  
+  You will be encouraged to shape your job, stretch your
+  skills and drive the company’s future. You will be part of a
+  remote-first, dynamic and tight-knit team that embraces the
+  challenges and opportunities that come with being part of a
+  growth company. Most importantly, you will be an industry
+  innovator who is making a positive impact on people’s lives.
+  
+  At Pager Health, we value diversity and always treat all
+  employees and job applicants based on merit, qualifications,
+  competence, and talent. We do not discriminate on the basis
+  of race, religion, color, national origin, gender, sexual
+  orientation, age, marital status, veteran status, or
+  disability status. Please be aware that all official
+  communication from Pager Health regarding employment
+  opportunities will originate from email addresses ending in
+  @pager.com. We will never request personal or financial
+  information via email. If you receive an email purporting to
+  be from Pager Health that does not adhere to this format,
+  please do not respond and report it to security@pager.com.
+  Pager Health is committed to protecting the privacy and
+  security of your personal information
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Mobile
+  - Software
+  - Telehealth
+  - Generative AI
+posted_date: 2026-03-25
+url: "https://www.builtinla.com/job/applied-ai-engineer/8865869"
+source: Built In

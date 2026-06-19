@@ -1,0 +1,53 @@
+company:
+  name: Cribl
+  stage: Series C+
+  focus: Data engine for IT and Security observability platforms
+position:
+  title: Staff Machine Learning Engineer, AI Researcher
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on training and evaluating ML models
+      including language models, with deep hands-on work in
+      PyTorch/TensorFlow. While it mentions language models and
+      NLP, the primary emphasis is on traditional ML workflows
+      (training, fine-tuning, hyperparameter search, architecture
+      experimentation) rather than GenAI-specific tools like RAG,
+      agents, or prompt engineering.
+  responsibilities:
+  - Design, train, and evaluate machine learning models across research and applied
+    AI initiatives
+  - Run rapid iterative experiments to test hypotheses and surface insights driving
+    model improvements
+  - Collaborate with researchers and engineers to translate academic advances into
+    production-ready systems
+  - Build and maintain ML pipelines for data ingestion, feature engineering, model
+    training, and evaluation
+  - Optimize model performance through fine-tuning, hyperparameter search, and architecture
+    experimentation
+  - Contribute to rigorous experimentation culture by tracking results and documenting
+    findings
+  - Stay current with latest developments in ML and AI research and identify application
+    opportunities
+  use_cases:
+  - AI-enabled Security platforms for enterprise data
+  - AI-enabled Observability platforms for IT operations
+  - Security data analysis and threat detection
+  - IT data processing and monitoring
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, Language Models, Model Fine-tuning, Feature Engineering,
+      Hyperparameter Optimization]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLflow, Weights & Biases, Kubeflow]
+    languages: [Python]
+    domains: [NLP, Computer Vision, Reinforcement Learning]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8684090'
+  extracted_at: '2026-03-27T16:09:01.717775'

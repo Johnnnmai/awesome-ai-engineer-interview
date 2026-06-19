@@ -1,0 +1,47 @@
+company:
+  name: Conga
+  stage: null
+  focus: |-
+    Configure, Price, Quote and Contract Lifecycle Management
+    platform with AI capabilities
+position:
+  title: Senior Software Engineer, AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires direct development of AI/GenAI solutions,
+      including implementing complex large-scale AI systems. The
+      candidate must have experience with TensorFlow, PyTorch,
+      LangChain, LangGraph, and knowledge of generative models and
+      LLMs, indicating hands-on work building and deploying AI
+      models rather than supporting infrastructure.
+  responsibilities:
+  - Develop scalable, reliable, and innovative AI/GenAI solutions
+  - Contribute to high-priority projects ensuring maintainable code and production-ready
+    applications
+  - Implement complex, large-scale AI systems as part of Conga's AI roadmap
+  - Collaborate cross-functionally across diverse teams to resolve issues
+  - Mentor junior team members and foster technical excellence
+  - Drive continuous learning and maintain high technical standards
+  use_cases:
+  - Document automation with AI capabilities
+  - Contract Lifecycle Management intelligence
+  - Configure, Price, Quote optimization
+  - Actionable business intelligence from unified data model
+  - Enterprise workflow automation
+  skills:
+    genai: [LangChain, LangGraph, LLMs]
+    ml: [TensorFlow, PyTorch, Generative models]
+    web: [FastAPI, Microservices architecture]
+    databases: [SQL, NoSQL]
+    data: []
+    cloud: [GCP, AWS, Azure]
+    ops: [Kubeflow]
+    languages: [Python]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8646145'
+  extracted_at: '2026-03-27T15:49:36.665718'

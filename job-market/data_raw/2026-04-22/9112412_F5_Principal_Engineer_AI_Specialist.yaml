@@ -1,0 +1,205 @@
+job_id: 9112412
+title: Principal Engineer – AI Specialist
+company: F5
+location: Hyderabad, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - Deepmind
+  - Docker
+  - Flink
+  - Go
+  - Gpt-4.X
+  - Helm
+  - Hugging Face
+  - JavaScript
+  - Kafka
+company_size: 5,847 Employees
+description: |
+  At F5, we strive to bring a better digital world to life.
+  Our teams empower organizations across the globe to create,
+  secure, and run applications that enhance how we experience
+  our evolving digital world. We are passionate about
+  cybersecurity, from protecting consumers from fraud to
+  enabling companies to focus on innovation.
+  
+  
+  Everything we do centers around people. That means we obsess
+  over how to make the lives of our customers, and their
+  customers, better. And it means we prioritize a diverse F5
+  community where each individual can thrive.
+  
+  Key Responsibilities
+  
+  AI System Innovation & Design
+  
+  - Lead the design and deployment of advanced AI-driven systems
+    and models, including GPT-based solutions (GPT-4.x, OpenAI
+    APIs), reinforcement learning frameworks, and autonomous
+    agentic workflows.
+  - Develop intelligent agents capable of handling complex
+    tasks, decision-making, and automating workflows within F5
+    products and platforms.
+  - Enable generative AI capabilities, such as personalization,
+    contextual understanding, natural language processing
+    (NLP), and decision systems.
+  - Research and integrate state-of-the-art AI techniques,
+    including transformer models, GANs (Generative Adversarial
+    Networks), and hybrid AI architectures.
+  
+  Distributed AI Systems & Observability
+  
+  - Develop and optimize large-scale distributed AI
+    infrastructure, ensuring fault tolerance, resilience,
+    scalability, and performance in global workloads.
+  - Implement advanced observability systems for AI
+    applications, leveraging telemetry pipelines (e.g.,
+    OpenTelemetry, Prometheus) and ensuring data quality
+    validation.
+  - Create frameworks for real-time anomaly detection,
+    predictive analytics, and failure recovery simulation in
+    AI systems.
+  
+  Automation, Infrastructure, & Performance
+  
+  - Build frameworks for automated data ingestion,
+    transformation, and validation at scale across distributed
+    systems (e.g., Kafka, Flink, Spark).
+  - Ensure robust CI/CD pipelines tailored for AI workflows,
+    including validation, automation, and monitoring for model
+    updates and deployments.
+  - Design synthetic data generation tools for model
+    benchmarking, stress testing, and performance analysis of
+    high-volume data sets and queries.
+  - Implement chaos engineering and resilience testing for AI-
+    driven cloud environments (Kubernetes, Docker, Helm).
+  
+  Leadership, Strategy, & Collaboration
+  
+  - Create best-in-class AI architecture roadmaps, ensuring
+    alignment with organizational goals and the latest
+    advancements in AI technology.
+  - Partner with Product, Engineering, SRE, and DevOps teams to
+    embed AI capabilities into the SDLC, promoting quality and
+    efficiency at every stage.
+  - Mentor engineering teams on AI development, distributed
+    system reliability, and automation strategies, fostering
+    innovation and collaboration across teams.
+  - Investigate production issues, contributing to root cause
+    analysis, remediation, and future-proofing AI systems.
+  
+  Skills and Requirements
+  
+  - Advanced AI Expertise:
+    - 10+ years of hands-on experience in AI research,
+      development, and deployment, including expertise in
+      generative AI (GPT-4.x), transformer models, and
+      reinforcement learning.
+    - Proficiency in natural language processing (NLP), computer
+      vision, predictive analytics, decision systems, and
+      multi-agent frameworks.
+    - Familiarity with cutting-edge AI techniques such as GANs
+      (Generative Adversarial Networks), hybrid transformers,
+      sequence modeling (RNNs, LSTMs), and unsupervised
+      learning approaches.
+    - Expertise in building multi-modal AI systems capable of
+      handling text, images, audio, and structured data.
+    - Proven experience in advanced AI tooling and platforms
+      (e.g., Hugging Face Transformers, LangChain, DeepMind
+      frameworks, AI interpretability tools, RASA
+      conversational systems).
+  - Cloud-Native & Distributed AI Systems:
+    - Deep working knowledge of distributed systems architecture,
+      including large-scale data pipelines (e.g., Kafka,
+      Flink, Spark), data lakes (ClickHouse, Iceberg, S3), and
+      storage optimization techniques.
+    - Experience in MLOps practices, including model lifecycle
+      management, scaling, retraining, and deployment in
+      production environments.
+    - Proven expertise in Kubernetes, OpenShift, Terraform, and
+      Helm for automating AI system deployment and scaling
+      across multi-cloud infrastructures.
+  - Performance Optimization & Observability:
+    - Strong knowledge of fault tolerance, latency optimization,
+      and large-scale AI infrastructure monitoring using
+      Prometheus, Grafana, and Datadog.
+    - Advanced experience with anomaly detection, predictive
+      modeling, and telemetry validation applied to
+      distributed AI systems.
+  - Programming & Development:
+    - Proficiency in Python, Go, JavaScript, or similar
+      programming languages for creating robust AI workflows
+      and solutions.
+    - Experience with benchmarking tools (Locust, Gatling, JMeter)
+      and frameworks for AI performance testing at scale.
+    - Ability to design customized AI APIs and algorithms to
+      optimize automation workflows.
+  - Leadership & Soft Skills:
+    - Proven ability to mentor and lead teams of engineers, QA
+      specialists, and developers in adopting advanced AI
+      practices.
+    - Strategic mindset to align technical solutions with business
+      goals, incorporating cutting-edge AI advancements to
+      solve complex challenges.
+    - Excellent communication skills for engaging stakeholders,
+      presenting on AI strategies, and fostering cross-
+      functional collaboration.
+  
+  Preferred Qualifications
+  
+  - Bachelor’s or Master’s degree in Computer Science,
+    Artificial Intelligence, Machine Learning, or a related
+    field with 10+ years of relevant experience.
+  - Advanced certification and hands-on expertise in AI/ML and
+    cloud systems (e.g., AWS Certified Machine Learning,
+    Microsoft Azure AI Engineer, Google Professional Machine
+    Learning Engineer).
+  - Experience with advanced AI tools (e.g., TensorFlow Extended
+    for full-cycle pipelines, Hugging Face, DeepMind R&D
+    frameworks).
+  - Strong background in ethical AI governance, bias mitigation,
+    and trusted AI principles for real-world applications.
+  - Familiarity with conversational AI systems (RASA,
+    Dialogflow) and agent-building tools (LangChain, OpenAI
+    AutoGPT).
+  
+  F5 Inc. is an equal opportunity employer and strongly
+  supports diversity in the workplace.
+  
+  The Job Description is intended to be a general
+  representation of the responsibilities and requirements of
+  the job. However, the description may not be all-inclusive,
+  and responsibilities and requirements are subject to change.
+  
+  Please note that F5 only contacts candidates through F5
+  email address (ending with @f5.com) or auto email
+  notification from Workday (ending with f5.com or
+  @myworkday.com).
+  
+  Equal Employment Opportunity
+  
+  It is the policy of F5 to provide equal employment
+  opportunities to all employees and employment applicants
+  without regard to unlawful considerations of race, religion,
+  color, national origin, sex, sexual orientation, gender
+  identity or expression, age, sensory, physical, or mental
+  disability, marital status, veteran or military status,
+  genetic information, or any other classification protected
+  by applicable local, state, or federal laws. This policy
+  applies to all aspects of employment, including, but not
+  limited to, hiring, job assignment, compensation, promotion,
+  benefits, training, discipline, and termination.  F5 offers
+  a variety of reasonable accommodations for candidates.
+  Requesting an accommodation is completely voluntary. F5 will
+  assess the need for accommodations in the application
+  process separately from those that may be needed to perform
+  the job. Request by contacting accommodations@f5.com.
+industries:
+  - Cloud
+  - Information Technology
+  - Security
+  - Software
+posted_date: 2026-04-21
+url: "https://builtin.com/job/principal-engineer-ai-specialist/9112412"
+source: Built In

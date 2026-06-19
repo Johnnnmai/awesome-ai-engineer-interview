@@ -1,0 +1,64 @@
+company:
+  name: Ecolab
+  stage: Public
+  focus: Water, hygiene, and energy technologies and services
+position:
+  title: Lead AI Engineer- DevOps
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a DevOps/Platform Engineering role that supports AI-
+      enabled products but does not build, train, fine-tune, or
+      deploy AI models directly. The role focuses on building
+      CI/CD pipelines, cloud infrastructure, and runtime platforms
+      that enable AI engineers to ship their work. The candidate
+      enables deployment environments and monitoring for AI
+      workloads but is not hands-on with models themselves.
+  responsibilities:
+  - Lead the design, implementation, and continuous improvement of CI/CD pipelines,
+    deployment workflows, environment strategies, and release automation for digital
+    and AI-enabled products
+  - Build and operate cloud-native infrastructure and runtime platforms supporting
+    backend services, APIs, UI applications, integrations, and AI workloads
+  - Design and maintain infrastructure-as-code, environment provisioning, secrets
+    management, access control, and deployment consistency across environments
+  - Support AI and ML workloads by enabling deployment environments, model-serving
+    patterns, runtime monitoring, cost visibility, and release controls
+  - Implement and optimize observability using logs, traces, metrics, distributed
+    tracing, dashboards, alerts, and cost/capacity signals
+  - Drive operational readiness practices including runbooks, deployment validation,
+    rollback mechanisms, incident response, and root-cause analysis
+  - Collaborate with security, architecture, and platform teams to ensure solutions
+    meet security, reliability, compliance, and scale requirements
+  - Mentor engineers on DevOps and platform engineering best practices and contribute
+    reusable accelerators for delivery teams
+  use_cases:
+  - CI/CD pipeline automation and release engineering for digital products
+  - Cloud-native infrastructure provisioning and runtime platform operations
+  - Deployment and operational support for AI/ML and GenAI workloads including LLM-powered
+    services and agentic AI systems
+  - Full-stack application delivery encompassing frontend, backend APIs, microservices,
+    and event-driven systems
+  - Observability and monitoring for production systems including AI services
+  - Environment standardization and infrastructure-as-code across development, test,
+    and production
+  skills:
+    genai: [PromptFlow, Model Context Protocol (MCP)]
+    ml: []
+    web: [React, REST APIs, API Gateway]
+    databases: []
+    data: []
+    cloud: [Azure Kubernetes Service (AKS), Azure Container Registry, Azure Functions,
+      Azure Container Apps, Azure OpenAI, Azure AI Studio, Azure Machine Learning,
+      Azure]
+    ops: [Azure DevOps, GitHub Actions, Terraform, Bicep, Docker, Kubernetes, Azure
+        Monitor, Application Insights, OpenTelemetry, Datadog, Grafana, Prometheus,
+      CI/CD, Infrastructure as Code]
+    languages: [Node.js, Python, SQL]
+    domains: []
+    other: [SAP integration, ServiceNow integration]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9096372'
+  extracted_at: '2026-04-22T13:39:54.924499'

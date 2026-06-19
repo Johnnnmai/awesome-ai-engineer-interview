@@ -1,0 +1,55 @@
+company:
+  name: Together AI
+  stage: Series B
+  focus: |-
+    AI Acceleration Cloud platform for generative AI lifecycle
+    with fast LLM inference
+position:
+  title: Senior AI Infrastructure Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role builds infrastructure that supports AI workloads
+      (IaaS, Kubernetes, storage, networking), but does not
+      directly build, train, fine-tune, or deploy AI models. The
+      work is on virtualization, hardware management, and platform
+      services that enable ML practitioners, similar to building
+      AWS/GCP infrastructure rather than the AI systems
+      themselves.
+  responsibilities:
+  - Design, build, and maintain backend services and operators for data center hardware
+    automation including Infiniband partitioning, storage provisioning, and VM provisioning
+  - Design and build IaaS software layer for GB200 data centers with thousands of
+    GPUs
+  - Work on global multi-exabyte high-performance object store serving massive datasets
+    for pretraining
+  - Build advanced observability stacks with automated node lifecycle management for
+    fault-tolerant distributed pretraining
+  - Perform architecture and research work for decentralized AI workloads
+  - Work on the core open-source Together AI platform
+  - Create services, tools, and developer documentation
+  - Create testing frameworks for robustness and fault-tolerance
+  use_cases:
+  - AI Acceleration Cloud platform for generative AI lifecycle
+  - LLM inference services
+  - Model fine-tuning services
+  - On-demand and managed Kubernetes clusters for ML practitioners
+  - On-demand and managed Slurm clusters for ML practitioners
+  - Distributed pretraining infrastructure
+  skills:
+    genai: []
+    ml: [CUDA, NCCL]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP, VPC]
+    ops: [Kubernetes, Kubernetes operators, Terraform, Ansible, Prometheus, Grafana,
+      GitHub Actions, ArgoCD, QEMU/KVM, Docker, Infiniband, VLAN, VXLAN, Cluster API]
+    languages: [Golang, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8256201'
+  extracted_at: '2026-03-03T12:20:25.619879'

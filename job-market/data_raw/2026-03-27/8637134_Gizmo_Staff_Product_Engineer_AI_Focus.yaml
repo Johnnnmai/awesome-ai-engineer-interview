@@ -1,0 +1,152 @@
+job_id: 8637134
+title: Staff Product Engineer (AI Focus)
+company: Gizmo
+location: London, GBR
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - JavaScript
+  - Machine Learning
+  - Typescript
+company_size: 105 Employees
+description: |
+  Gizmo is an AI startup on a mission to make learning so easy
+  that anyone can learn anything. We're building a platform
+  that uses gamification and social mechanics to make learning
+  fun.
+  
+  With over 1.7 million monthly active users, we’re already
+  one of the fastest-growing startups in the UK. Backed by
+  leading investors, our recent Series A funding is
+  accelerating our vision of helping 1 billion people learn.
+  
+  The Role
+  
+  We’re hiring an experienced/staff-level Product Engineer
+  (AI-focused) to build and scale the core intelligence behind
+  Gizmo.
+  
+  Reporting to the CEO and Co-Founder, you’ll work across our
+  TypeScript codebase to ship AI-powered features used daily
+  by thousands of students, including study material
+  generation, quizzes, automated marking and content
+  ingestion.
+  
+  This is not an ML research role. It is a hands-on product
+  engineering position focused on designing and improving
+  production AI systems with real user impact.
+  
+  If you want to build AI that sits at the heart of a product
+  and see your work make a tangible difference at scale, this
+  role offers genuine impact.
+  
+  What You Will Be Doing
+  
+  Building AI-Powered Product Features
+  
+  You will operate as a full product engineer, owning AI
+  features end to end:
+  
+  - Design and ship AI-driven user-facing features in our
+    TypeScript stack
+  - Take ownership of AI features from idea through to
+    production and iteration
+  - Collaborate closely with design and product to solve real
+    learning problems with end to end AI solutions
+  - Write clean, maintainable, production-ready code
+  - Contribute to architectural decisions across backend and AI
+    systems
+  - Improve the user experience around AI outputs, including
+    feedback loops and refinement flows
+  
+  Owning and Improving Production AI Systems
+  
+  You will take responsibility for AI systems that are already
+  live and used daily.
+  
+  These include:
+  
+  - Study material content generation
+  - Quiz question generation
+  - Automated marking and feedback
+  - Structured content ingestion pipelines
+  
+  You will:
+  
+  - Optimise production AI pipelines
+  - Design and iterate on prompts, including agentic prompt
+    engineering and multi-step workflows
+  - Build structured model pipelines rather than simple single-
+    call integrations
+  - Integrate model improvements directly into our TypeScript
+    backend
+  - Create novel AI-powered systems to solve new product
+    challenges
+  - Prototype and productionise new model-driven capabilities
+  
+  Designing Evaluation and Quality Frameworks
+  
+  You will:
+  
+  - Define what great looks like across different AI use cases
+  - Design internal evaluation frameworks
+  - Develop clear metrics for quality, correctness and
+    usefulness
+  - Evaluate multi-step and agentic workflows for robustness
+  - Run structured experiments to drive systematic improvement
+  - Build internal tooling to support iteration and
+    experimentation
+  
+  Ensuring Reliability at Scale
+  
+  You will:
+  
+  - Monitor model behaviour and system health
+  - Handle API rate limits and third-party outages
+  - Improve resilience, retries and fallback logic
+  - Design robust model-calling infrastructure
+  - Ensure AI features remain stable and performant under scale
+  
+  Requirements
+  
+  - 8+ years of software engineering experience
+  - Strong expertise in TypeScript is preferred; however, we
+    would also consider candidates with strong JavaScript
+    experience
+  - Degree in Machine Learning, Artificial Intelligence, or a
+    related quantitative discipline; alternatively,
+    demonstrable hands-on experience evaluating AI models and
+    prompts in a production environment
+  - Experience building and maintaining production systems
+  - Experience shipping user-facing product features
+  - Experience designing structured or agentic prompt workflows
+  - Ability to define and implement evaluation metrics for AI-
+    driven features
+  - Clear communicator who can collaborate with technical and
+    non-technical stakeholders
+  - Strong product instincts and a focus on impact
+  
+  Nice to Have
+  
+  - Previous start-up or founder experience
+  - Experience building internal tooling for experimentation and
+    evaluation
+  
+  Benefits
+  
+  - Highly competitive salary
+  - You'll own a piece of what you're building - equity included
+  - Hybrid and flexible working model with 4 days in our
+    Shoreditch, London office
+  - Private health insurance
+  - Enhanced parental leave
+  - The opportunity to become one of the earliest employees in
+    one of the UK’s fastest-growing startups
+industries:
+  - Artificial Intelligence
+  - Edtech
+  - Software
+posted_date: 2026-03-03
+url: "https://builtin.com/job/staff-product-engineer-ai-focus/8637134"
+source: Built In

@@ -1,0 +1,53 @@
+company:
+  name: F5
+  stage: Public
+  focus: Application security, delivery, and networking solutions
+position:
+  title: Engineer III - AI Specialist
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on designing, building, and
+      deploying AI-powered services and intelligent agents using
+      GPT models for F5 products. The engineer will work hands-on
+      with LLM architectures, agentic workflows, and AI model
+      optimization, making it a clear ai-first classification.
+  responsibilities:
+  - Design, develop, and deploy AI-powered services enabling agent-driven workflows
+    for F5 products
+  - Build intelligent agents and design workflows utilizing GPT models for automation
+    in F5 systems
+  - Maintain and optimize F5's internal AI systems including GPT-based implementations
+    for high availability
+  - Collaborate with product teams, IT, and vendors to integrate AI-driven agents
+    across diverse environments
+  - Develop observability tools and monitoring systems to enhance AI model reliability
+  - Coordinate with platform teams to improve CI/CD environments with AI-focused automation
+  - Explore emerging AI technologies and frameworks to integrate innovative solutions
+    into F5 products
+  - Provide technical leadership and establish guidelines for integrating AI technologies
+    and agentic workflows
+  use_cases:
+  - Agent-driven automation workflows for F5 networking and security products
+  - Intelligent agents for system automation using GPT models
+  - AI-powered capabilities integrated into F5 application delivery and security systems
+  - Conversational AI systems for enterprise use
+  - Automated monitoring and observability for AI model reliability
+  skills:
+    genai: [GPT-4 / OpenAI APIs, LangChain, RASA, Dialogflow, Agentic workflows, Prompt
+        engineering]
+    ml: [TensorFlow, PyTorch, Keras, Hugging Face Transformers, Reinforcement learning]
+    web: [RESTful APIs]
+    databases: [PostgreSQL, MS SQL, MongoDB]
+    data: [Apache Spark, Airflow, Dask]
+    cloud: [Azure, AWS, GCP]
+    ops: [Kubernetes, Docker, Terraform, Ansible, Helm, CI/CD, GitLab, Jenkins, Prometheus,
+      Grafana, Datadog, MLOps, OpenShift]
+    languages: [Python, JavaScript, Go, Shell scripting, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9039297'
+  extracted_at: '2026-04-22T13:40:33.429103'

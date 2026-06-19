@@ -1,0 +1,50 @@
+company:
+  name: DriveWealth
+  stage: null
+  focus: |-
+    B2B fintech platform providing API-based trading and
+    investing infrastructure
+position:
+  title: Principal AI Engineer - Core Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role because it involves hands-on
+      development of ML components and LLM-based systems,
+      including classification, ranking, anomaly detection, and
+      building RAG platforms. The role requires architecting and
+      delivering scalable AI products with direct work on LLM
+      agents, vector databases, and hybrid intelligence systems.
+  responsibilities:
+  - Act as thought leader and advocate for AI technologies across the organization
+  - Architect and deliver scalable AI products addressing complex real-world challenges
+  - Develop ML components including classification, ranking, and anomaly detection
+    integrated with LLM systems
+  - Establish robust evaluation and quality gates for agents and LLM systems
+  - Partner with cross-functional teams to identify AI integration opportunities
+  - Champion best practices for code quality, testing, automation, and performance
+    optimization
+  - Guide and mentor junior engineers fostering innovation and technical excellence
+  - Drive AI adoption and project delivery with a results-driven mindset
+  use_cases:
+  - Brokerage operations automation
+  - Customer service enhancement through AI
+  - API platform optimization
+  - Financial compliance and regulatory monitoring
+  - Trading system intelligence
+  skills:
+    genai: [LangChain, LlamaIndex, LLM agents, RAG]
+    ml: [classification, ranking, anomaly detection]
+    web: []
+    databases: [Vector databases, SQL, Redis]
+    data: [Kafka]
+    cloud: [AWS, AWS Strands]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8818415'
+  extracted_at: '2026-03-27T16:11:24.897060'

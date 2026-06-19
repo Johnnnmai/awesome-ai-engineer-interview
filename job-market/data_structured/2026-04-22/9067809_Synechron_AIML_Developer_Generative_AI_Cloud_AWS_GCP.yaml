@@ -1,0 +1,55 @@
+company:
+  name: Synechron
+  stage: Public
+  focus: |-
+    Global digital transformation consulting and technology
+    services
+position:
+  title: AI/ML Developer | Generative AI, Cloud (AWS, GCP), RAG Architectures, Python
+    & Frameworks
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing, developing, training,
+      fine-tuning, and deploying AI models including generative
+      models, NLP systems, and RAG architectures. The developer
+      works hands-on with LLMs, model training/tuning, and
+      building production AI systems integrated into cloud
+      environments.
+  responsibilities:
+  - Design, develop, and optimize AI models including NLP, generative models, and
+    RAG systems
+  - Lead model training, tuning, evaluation, and deployment processes for high accuracy
+    and efficiency
+  - Develop scalable APIs and microservices for AI models ensuring performance and
+    security in production
+  - Collaborate with data scientists, software engineers, and cloud teams to implement
+    end-to-end AI solutions in cloud environments
+  - Provide technical guidance and mentorship to team members on AI development best
+    practices
+  - Monitor model performance, troubleshoot issues, and update models to maintain
+    accuracy over time
+  - Research emerging AI/ML trends, experiment with new architectures, and implement
+    proof of concepts
+  use_cases:
+  - Generative AI model development and deployment
+  - Retrieval-augmented generation (RAG) architecture implementation
+  - NLP-based AI solutions for enterprise applications
+  - Cloud-connected AI model serving and inference
+  - AI-driven digital transformation in finance, healthcare, or enterprise sectors
+  skills:
+    genai: [RAG architectures, Large Language Models (LLMs)]
+    ml: [TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers]
+    web: [REST APIs, Microservices]
+    databases: [SQL, MySQL, PostgreSQL, MongoDB, DynamoDB]
+    data: []
+    cloud: [AWS, GCP, Azure, SageMaker, Vertex AI, Azure ML]
+    ops: [Docker, Kubernetes, MLflow, CI/CD]
+    languages: [Python, Java, JavaScript, Shell scripting]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9067809'
+  extracted_at: '2026-04-22T14:02:02.370359'

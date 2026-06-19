@@ -1,0 +1,58 @@
+company:
+  name: GE Vernova
+  stage: Public
+  focus: |-
+    Energy technology company driving electrification and
+    decarbonization solutions
+position:
+  title: Senior AI Ops Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves deploying and optimizing AI/ML models
+      (including LLMs), implementing predictive models, and using
+      techniques like model pruning, quantization, and distributed
+      inference. The position directly works on building,
+      deploying, and scaling AI-driven systems rather than just
+      supporting infrastructure for others' AI work.
+  responsibilities:
+  - Architect and deploy advanced AI/ML solutions to monitor, analyze, and optimize
+    IT operations
+  - Automate critical processes including anomaly detection, root cause analysis,
+    and resolution workflows using AI/ML and GenAI technology
+  - Lead collaboration with IT and DevOps teams to integrate AI tools into cloud and
+    on-premise environments
+  - Establish, maintain, and improve data pipelines to support AI and GenAI solution
+    applications
+  - Research and implement advancements in AI/ML technologies including LLMs, agentic
+    frameworks, and embedding methodologies
+  - Optimize LLM performance, scalability, and cost-efficiency using techniques like
+    model pruning, quantization, or distributed inference
+  - Monitor and troubleshoot production deployments to ensure model accuracy, latency,
+    and uptime requirements are met
+  - Implement robust security controls for AI/ML workflows including data encryption,
+    IAM policies, and secure API integrations
+  use_cases:
+  - IT infrastructure performance monitoring and optimization
+  - Automated anomaly detection and root cause analysis
+  - Predictive maintenance and proactive issue resolution
+  - IT operations automation and workflow optimization
+  - Enterprise-scale AI initiatives for energy sector applications
+  skills:
+    genai: [Hugging Face Transformers, LangChain, OpenAI APIs]
+    ml: [TensorFlow, PyTorch, scikit-learn, GPU acceleration, TPU acceleration]
+    web: []
+    databases: [Snowflake, Redshift]
+    data: [Airflow, Apache Spark, Kafka]
+    cloud: [AWS, Azure, Google Cloud Platform, AWS Bedrock, Azure OpenAI, Google Gemini]
+    ops: [Kubeflow, MLflow, Argo Workflows, Kubernetes, Docker, Terraform, Ansible,
+      CloudFormation, AWS CloudWatch, Splunk, Dynatrace, Prometheus, Datadog, GitLab
+        CI/CD, Jenkins]
+    languages: [Python, Bash, PowerShell, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7703876'
+  extracted_at: '2026-03-03T11:30:24.673735'

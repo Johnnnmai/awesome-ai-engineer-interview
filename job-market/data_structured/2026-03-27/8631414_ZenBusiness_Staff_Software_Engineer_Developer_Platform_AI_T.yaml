@@ -1,0 +1,54 @@
+company:
+  name: ZenBusiness
+  stage: Unknown
+  focus: Helping entrepreneurs start, run, and grow small businesses
+position:
+  title: Staff Software Engineer (Developer Platform & AI Tooling)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-powered developer tooling
+      including agentic coding workflows, LLM-based code analysis
+      and generation, multi-agent orchestration, and prompt
+      libraries. The engineer will directly work with LLMs to
+      create tools that analyze code, generate changes, and
+      automate tasks - this is hands-on work with AI/LLM systems.
+  responsibilities:
+  - Design, build, and scale AI-powered developer tooling including agentic coding
+    and review workflows that use LLMs to analyze code, generate changes, and collaborate
+    via chat
+  - Create policy- and guardrail-aware assistants that can comment, propose code changes,
+    and safely automate repetitive tasks
+  - Develop prompt libraries, instructions, and service manuals for effective and
+    safe AI adoption across teams
+  - Evolve CI/CD platform to be faster, more observable, and easier to adopt with
+    analytics and data pipelines
+  - Strengthen platform reliability and security in Kubernetes including cluster resiliency,
+    rollout strategies, and Helm chart patterns
+  - Create paved paths and golden templates including self-service software templates,
+    CLI automation, and bootstrap flows
+  - Mentor teammates, champion TDD and code review quality, and uplevel engineering
+    practices within the team
+  use_cases:
+  - AI-powered code review and automated code generation for developer workflows
+  - Intelligent assistants for policy-aware code changes and task automation
+  - Developer productivity tooling with LLM-based coding assistants
+  - Platform performance analytics and data pipelines for CI/CD optimization
+  - Self-service developer templates and automation tools
+  skills:
+    genai: [LLM integration, prompt engineering, multi-agent orchestration, AI guardrails,
+      agentic workflows, Cursor, Claude Code]
+    ml: []
+    web: []
+    databases: []
+    data: [ETL, data pipelines]
+    cloud: []
+    ops: [GitHub Actions, CI/CD, Kubernetes, Helm, ArgoCD, GitOps, Terraform, Docker]
+    languages: [Python, TypeScript, Node.js, Bash, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8631414'
+  extracted_at: '2026-03-27T15:38:02.825710'

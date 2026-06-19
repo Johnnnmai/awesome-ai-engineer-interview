@@ -1,0 +1,44 @@
+company:
+  name: Shiplight AI
+  stage: Seed
+  focus: |-
+    Early-stage AI company building intelligent agent systems
+    for enterprises
+position:
+  title: Founding AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building core systems for intelligent
+      agent capabilities, exploring reasoning, orchestration, and
+      multi-agent behavior. The founding engineer will directly
+      construct AI agent systems from the ground up, making this a
+      hands-on AI-building role.
+  responsibilities:
+  - Build core systems powering next-generation intelligent agent capabilities
+  - Rapidly prototype, iterate, and ship production features used by enterprise customers
+  - Work directly with founders to shape product, architecture, and culture
+  - Collaborate with customers to deeply understand workflows and pain points
+  - Explore emerging techniques in reasoning, orchestration, and multi-agent behavior
+  - Own projects end-to-end from idea to delivering customer value
+  use_cases:
+  - Enterprise intelligent agent systems
+  - Multi-agent orchestration and reasoning
+  - Automated enterprise workflow solutions
+  - Next-generation AI-powered automation for large-scale adoption
+  skills:
+    genai: [multi-agent systems, LLM orchestration, reasoning systems]
+    ml: []
+    web: [backend systems]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9107716'
+  extracted_at: '2026-04-22T13:24:57.138660'

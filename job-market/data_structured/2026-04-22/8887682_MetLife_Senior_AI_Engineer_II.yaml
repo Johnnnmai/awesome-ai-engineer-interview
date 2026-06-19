@@ -1,0 +1,56 @@
+company:
+  name: MetLife
+  stage: Public
+  focus: |-
+    Global financial services, insurance, annuities, and asset
+    management
+position:
+  title: Senior AI Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, training, and optimizing ML/DL
+      models, deploying Generative AI solutions with LLMs and RAG
+      architectures, and building the core AI/ML infrastructure.
+      The engineer works directly on building and deploying AI/ML
+      systems, including SLMs, computer vision, predictive
+      analytics, and recommendation systems.
+  responsibilities:
+  - Design, develop, and manage scalable enterprise AI capabilities supporting the
+    AI platform
+  - Design, train, and optimize ML and DL models for business use cases including
+    SLMs, computer vision, predictive analytics, and recommendation systems
+  - Enable integration of AI capabilities into business applications via APIs, SDKs,
+    and microservices
+  - Develop and maintain CI/CD pipelines for ML models including automated testing,
+    versioning, deployment, and monitoring
+  - Collaborate with cross-functional partners across Business, Technology, Operations,
+    and D&A capabilities
+  - Provide people leadership including coaching, developing, and engaging AI engineering
+    talent
+  - Lead design, solutioning, and estimations independently
+  - Produce technical documentation and mentor team members through knowledge sharing
+  use_cases:
+  - Small Language Models (SLMs) for business applications
+  - Computer vision solutions for insurance/financial services
+  - Predictive analytics for business decision-making
+  - Recommendation systems for customer engagement
+  - Generative AI solutions using LLMs with RAG architectures
+  - Enterprise AI platform capabilities for MetLife operations
+  skills:
+    genai: [RAG, LLMs]
+    ml: [PyTorch, TensorFlow, scikit-learn, spaCy, Transformers, OCR, Feature Engineering,
+      Statistics]
+    web: [APIs, Microservices]
+    databases: [Vector databases]
+    data: []
+    cloud: [Azure, Azure ML]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8887682'
+  extracted_at: '2026-04-22T14:09:14.286555'

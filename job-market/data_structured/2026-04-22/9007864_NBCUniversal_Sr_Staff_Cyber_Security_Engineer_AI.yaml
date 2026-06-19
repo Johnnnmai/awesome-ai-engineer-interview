@@ -1,0 +1,52 @@
+company:
+  name: NBCUniversal
+  stage: Public
+  focus: Media and entertainment conglomerate (subsidiary of Comcast)
+position:
+  title: Sr Staff Cyber Security Engineer (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a cybersecurity engineering role focused on securing
+      AI systems, not building or deploying AI/ML models. The role
+      involves threat modeling, developing security controls, and
+      providing security guidance for AI platforms used by others.
+      The AI work is advisory/protective rather than hands-on
+      model development.
+  responsibilities:
+  - Partner with NBCUniversal businesses, enterprise IT, and Cyber Security organization
+    to ensure AI and emerging technologies are designed and deployed securely
+  - Develop threat models and security control strategies for AI systems and emerging
+    technology platforms
+  - Function as a security subject matter expert embedded with engineering teams delivering
+    solutions
+  - Provide security guidance and mitigation requirements for AI systems and new technology
+    initiatives
+  - Communicate the importance of key Cyber programs and services to obtain buy-in
+    from business and technology teams
+  - Develop and document security guidelines and best practices for AI and emerging
+    technologies
+  - Mentor junior team members and foster a culture of continual improvement
+  use_cases:
+  - Securing generative AI platforms and services across the enterprise
+  - Threat modeling and risk mitigation for AI systems in media and entertainment
+  - Security architecture review for cloud-based AI deployments (Azure OpenAI, etc.)
+  - Ensuring compliance with data privacy regulations for AI workloads
+  - Protecting AI models and platforms from adversarial attacks and misuse
+  skills:
+    genai: [GPT-4, LLaMA]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure OpenAI, 'Cloud Security (IaaS, PaaS, SaaS)']
+    ops: [Incident Response]
+    languages: []
+    domains: []
+    other: [OWASP Top 10, CWE/SANS Top 25, MITRE ATT&CK, NIST CSF, Threat Modeling,
+      PCI DSS, SOX, HIPAA, GDPR, CCPA, 'GRC (Governance, Risk, Compliance)']
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9007864'
+  extracted_at: '2026-04-22T13:18:36.135915'

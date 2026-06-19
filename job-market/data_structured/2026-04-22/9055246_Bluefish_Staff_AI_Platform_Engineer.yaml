@@ -1,0 +1,55 @@
+company:
+  name: Bluefish
+  stage: Series B
+  focus: |-
+    AI marketing platform for brands to engage consumers on AI
+    channels
+position:
+  title: Staff AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on driving AI adoption across the
+      organization by integrating AI tooling into developer
+      workflows, defining standards, and coaching teams — not
+      building or fine-tuning AI/ML models directly. The engineer
+      works as a platform/internal enablement role that supports
+      other teams in using AI effectively, making this an ai-
+      support position.
+  responsibilities:
+  - Drive adoption of AI across the organization by identifying and implementing high-impact
+    use cases for developer productivity and operational efficiency
+  - Integrate AI tooling into the software development lifecycle to enable faster
+    delivery and improved code quality
+  - Define standards, guidelines, and best practices for AI usage across teams to
+    ensure consistency and scalability
+  - Provide input into the product roadmap based on understanding of evolving AI and
+    agentic technologies
+  - Establish metrics and feedback mechanisms to evaluate the effectiveness of AI
+    initiatives
+  - Coach and mentor engineers on effective use of AI tools and frameworks
+  - Contribute to building a culture of experimentation and responsible AI adoption
+    across the organization
+  use_cases:
+  - AI-powered developer productivity and workflow automation
+  - AI integration into software development lifecycle for faster delivery
+  - AI brand safety management for enterprise brands
+  - Personalized AI marketing experiences for consumers
+  - Agentic AI capabilities applied to products and internal workflows
+  skills:
+    genai: [AI-powered application design, Agentic technologies]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud platforms]
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Distributed systems, Developer tooling and productivity, System design
+        and architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9055246'
+  extracted_at: '2026-04-22T13:49:31.089166'

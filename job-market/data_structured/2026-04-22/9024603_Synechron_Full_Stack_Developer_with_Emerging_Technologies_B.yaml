@@ -1,0 +1,59 @@
+company:
+  name: Synechron
+  stage: Public
+  focus: Global digital consulting firm for financial services
+position:
+  title: Full Stack Developer with Emerging Technologies (Blockchain, AI, IoT) and
+    Cloud Expertise
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      While this role lists AI/ML libraries (TensorFlow, PyTorch)
+      as required skills and mentions AI as one of several
+      emerging technologies, the primary focus is full stack
+      development leadership with broad emerging tech coverage
+      (blockchain, IoT, AI). AI is one of three technology
+      pillars, not the central focus. The role is fundamentally a
+      generalist full stack development leadership position that
+      works near AI but is not dedicated to building, training, or
+      deploying AI/ML models as its core function.
+  responsibilities:
+  - Lead end-to-end development and implementation of projects utilizing emerging
+    technologies (blockchain, IoT, AI), ensuring seamless integration with existing
+    architectures
+  - Mentor and guide team members including developers and technical analysts to ensure
+    high-quality project delivery
+  - Identify and evaluate innovative technology solutions to enhance business processes,
+    operational efficiency, and product offerings
+  - Collaborate with cross-functional teams to align technical strategies with organizational
+    objectives
+  - Develop and maintain comprehensive technical roadmaps in support of strategic
+    growth initiatives
+  - Evaluate and select new tools, frameworks, and platforms, providing clear recommendations
+    for adoption
+  - Manage technical risks, oversee architecture governance, and ensure solutions
+    meet security, compliance, and scalability standards
+  - Stay current with the latest industry trends, technological advancements, and
+    best practices, sharing insights with team members and stakeholders
+  use_cases:
+  - Digital transformation solutions for enterprise clients leveraging emerging technologies
+  - Blockchain-based solutions for banking and financial services
+  - IoT solution development and deployment
+  - AI/ML enhanced business process automation
+  - Cloud-native application development for regulated industries
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch]
+    web: [React, Angular, Vue.js]
+    databases: [MySQL, PostgreSQL, NoSQL, Snowflake, Redshift]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Jenkins, Git, CI/CD]
+    languages: [Java, Python, JavaScript, TypeScript, Golang, C++, SQL]
+    domains: []
+    other: [Hyperledger, Ethereum, Jira, Confluence, Agile/Scrum]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9024603'
+  extracted_at: '2026-04-22T13:48:10.139075'

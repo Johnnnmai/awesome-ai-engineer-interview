@@ -1,0 +1,101 @@
+job_id: 8726327
+title: Software Development Engineer III - AI and Analytics
+company: SAFE Security
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Aws Bedrock
+  - Docker
+  - Ec2
+  - Ecs
+  - Express
+  - Go
+  - Kubernetes
+  - Lambda
+  - Node.js
+  - Python
+company_size: 403 Employees
+description: |
+  At SAFE Security, our mission is bold and ambitious: We Will
+  Build CyberAGI — a super-specialized system of intelligence
+  that autonomously predicts, detects, and remediates threats.
+  This isn’t just a vision—it’s the future we’re building
+  every day, with the best minds in AI, cybersecurity, and
+  risk. At SAFE, we empower individuals and teams with the
+  freedom and responsibility to align their goals, ensuring we
+  all move towards this goal together.
+  
+  We operate with radical transparency, autonomy, and
+  accountability—there’s no room for brilliant jerks. We
+  embrace a culture-first approach, offering an unlimited
+  vacation policy, a high-trust work environment, and a
+  commitment to continuous learning. For us, Culture is Our
+  Strategy—check out our Culture Memo to dive deeper into what
+  makes SAFE unique.
+  
+  We’re looking for a seasoned Senior Software Development
+  Engineer (SDE III) with deep expertise in Analytics and AI
+  to join our high-impact engineering team. In this role,
+  you’ll collaborate closely with Design, Product, and cross-
+  functional stakeholders to build innovative analytics and
+  AI-driven solutions that help predict and prevent cyber
+  breaches.
+  
+  Core Responsibilities:
+  
+  - Technical Leadership: Lead and mentor developers, fostering
+    a culture of innovation, quality, and continuous
+    improvement.
+  - AI & Analytics Development: Design, build, and deploy
+    scalable AI-driven analytics solutions, leveraging
+    advanced AI techniques, including Retrieval-Augmented
+    Generation (RAG), AI agents, and foundational models.
+  - Architecture: Collaborate with cross-functional teams to
+    architect scalable, secure, and performant AI-driven
+    microservices.
+  - Cloud and AI Integration: Utilize cloud services (primarily
+    AWS Bedrock, Lambda, EC2, S3, RDS) to develop efficient,
+    robust, and scalable solutions.
+  - Model Evaluation: Implement and evaluate various AI models
+    (e.g., OpenAI, Anthropic Claude, Amazon Titan),
+    understanding trade-offs such as latency, cost, accuracy,
+    and scalability.
+  - Code Quality: Ensure high-quality code through rigorous code
+    reviews and continuous improvement processes.
+  - Problem Solving: Address complex technical challenges,
+    identify root causes, and provide effective solutions.
+  - Cross-team Collaboration: Work closely with product
+    managers, designers, and stakeholders to align technical
+    solutions with business goals.
+  
+  Essential Skills/ Qualifications/ Experience:
+  
+  - Bachelor’s or Master's degree in Computer Science,
+    Engineering, or a related field.
+  - 5+ years experience as a Senior or Lead Engineer with
+    expertise in Python, NodeJS, or Go.
+  - Strong hands-on experience with AI/ML, including Retrieval-
+    Augmented Generation (RAG), AI Agents, and deploying these
+    technologies into production environments.
+  - Familiarity with AWS Bedrock and its AI model hosting
+    ecosystem is highly advantageous.
+  - Experience with Typescript and API frameworks (Express)
+    preferred.
+  - Good understanding of SQL and NoSQL databases.
+  - Demonstrable experience deploying scalable solutions in
+    cloud environments (AWS preferred).
+  - Proficient in deploying containerized applications (Docker,
+    Kubernetes, ECS).
+  - Knowledge of DevOps best practices and Infrastructure as
+    Code (e.g., AWS CloudFormation) is beneficial.
+  - Exceptional leadership, communication, and mentoring skills.
+  - Proven capability to own features end-to-end in an agile,
+    fast-paced environment.
+  
+  If you’re passionate about cyber risk, thrive in a fast-
+  paced environment, and want to be part of a team that’s
+  redefining security—we want to hear from you! 🚀
+posted_date: 2026-03-12
+url: "https://builtin.com/job/software-development-engineer-iii-ai-and-analytics/8726327"
+source: Built In

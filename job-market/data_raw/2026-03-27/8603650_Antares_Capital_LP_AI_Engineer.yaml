@@ -1,0 +1,166 @@
+job_id: 8603650
+title: AI Engineer
+company: Antares Capital LP
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Databricks
+  - Delta Lake
+  - Docker
+  - Event-Driven Patterns
+  - GraphQL
+  - Microsoft Fabric
+  - Python
+  - Rest
+  - Spark
+  - Terraform
+company_size: 441 Employees
+description: |
+  Job Description
+  
+  Antares Capital is seeking an AI Engineer to join our Data &
+  Analytics Technology team. In this hands-on role, you will
+  design, build, and operate production-grade AI capabilities
+  that power decision-making across the firm—with a focus on
+  Retrieval-Augmented Generation (RAG), vector database–backed
+  retrieval, and the orchestration of multiple Large Language
+  Models (LLMs). You will help shape our AI architecture to be
+  agile, flexible, and built to last—emphasizing modularity,
+  reliability, and secure-by-design practices appropriate for
+  financial services. The ideal candidate brings 3+ years of
+  experience delivering AI/ML solutions (including 2+ years
+  with LLM-based systems), a strong engineering and
+  architecture mindset, and a passion for responsible
+  innovation in a regulated environment.
+  
+  Responsibilities
+  
+  - Design and implement robust RAG pipelines integrating domain
+    datasets, embeddings, and retrieval strategies to deliver
+    accurate, auditable responses.
+  - Lead the evaluation and integration of vector databases
+    (e.g., FAISS, Pinecone, Milvus) and tune
+    indexing/embedding strategies for performance and
+    relevance.
+  - Architect and orchestrate combinations of LLMs and tools
+    (routing, ensemble prompts, function-calling, guardrails)
+    to optimize quality, latency, and cost.
+  - Drive an ontology-driven approach: model and map enterprise
+    data to real-world business concepts (e.g., customers,
+    counterparties, facilities, equipment) rather than siloed
+    technical tables; steward canonical vocabularies,
+    taxonomies, and knowledge graphs.
+  - Partner with data and platform teams to establish and evolve
+    a semantic layer that aligns data products with business
+    entities, definitions, and policies; ensure traceability
+    from ontology to physical data stores.
+  - Contribute to and extend the AI reference architecture
+    emphasizing modular services, clear interfaces,
+    observability, and change-tolerant design.
+  - Develop secure data access patterns (role-based permissions,
+    PII minimization) and implement content filtering,
+    redaction, and safety controls.
+  - Build evaluation frameworks (automated tests, offline/online
+    metrics, human-in-the-loop review) and maintain datasets
+    for regression benchmarking.
+  - Implement CI/CD and containerization for AI services;
+    instrument telemetry, tracing, and feature flags for safe
+    progressive delivery.
+  - Collaborate with product, data, risk, and security teams to
+    translate business needs into pragmatic AI solutions
+    aligned to industry compliance and model risk management.
+  - Troubleshoot production issues, conduct post-incident
+    reviews, and drive reliability improvements (SLOs, error
+    budgets, resilience testing).
+  - Mentor engineers, review designs/code, and champion
+    engineering excellence and documentation across the AI
+    platform.
+  
+  Qualifications
+  
+  - 5+ years of industry experience building and deploying AI/ML
+    applications, including 2+ years with LLM-based systems
+    (preferably in financial services).
+  - Hands-on expertise with RAG: embedding generation,
+    retrievers, prompt construction, context management, and
+    hallucination mitigation.
+  - Deep understanding of vector databases and embedding
+    frameworks; ability to tune similarity search (cosine,
+    dot-product) and index parameters.
+  - Proven experience with ontology-driven data modeling
+    (business entities, taxonomies, knowledge graphs, semantic
+    modeling) and mapping from physical schemas to conceptual
+    models. Any experience with 3rd party platform (eg:
+    Palantir/Foundry) implementations is a plus.
+  - Fluency in Python and production-grade services
+    (microservices, REST/GraphQL, event-driven patterns);
+    strong software engineering fundamentals.
+  - Proficiency with big data and machine learning platforms
+    such as Databricks (Spark, Delta Lake, Unity Catalog) and
+    experience operating at scale.
+  - Experience with large-scale cloud data/AI solutions,
+    including Microsoft Fabric (OneLake, Lakehouse, semantic
+    models, pipelines) or equivalent enterprise data/AI
+    fabric, and common cloud services (Azure preferred).
+  - Grounding LLMs with curated, versioned knowledge sources;
+    experience with data pipelines and ETL/ELT concepts.
+  - Strong grasp of evaluation, observability, and MLOps for
+    LLMs (dataset management, A/B testing, drift/quality
+    monitoring, prompt/version governance).
+  - Practical experience with CI/CD, Docker/containers, and
+    infrastructure-as-code (Terraform or equivalent).
+  - Awareness of financial-industry considerations: data
+    privacy, model risk/governance, auditability, and secure
+    development practices.
+  - Excellent communication skills and the ability to influence
+    and collaborate across product, platform, data, and
+    risk/security teams.
+  
+  The Fine Print
+  
+  - Must have unrestricted authorization to work in the United
+    States.
+  - Must be willing to comply with pre-employment screening,
+    including but not limited to drug testing, reference
+    verification, and background check.
+  - Role may be hybrid/onsite at an Antares office; occasional
+    travel as necessary.
+  
+  #LI-CK1
+  
+  #LI-hybrid
+  
+  A reasonable estimate of the current base salary range at
+  the time of posting is below. Base salary does not include
+  other forms of compensation or benefits. Actual base salary
+  within the specified range is comprised of several
+  components, including but not limited to applicant's skill,
+  prior relevant experience, specific degrees and
+  certifications, job responsibilities, market considerations
+  and the location of the position.
+  
+  This role is eligible for a discretionary annual bonus
+  (based on company, business unit and individual
+  performance).
+  
+  Our benefit offerings include medical, dental and vision
+  coverage, employer paid short & long-term disability and
+  life insurance, 401(k), profit sharing, paid time off, Maven
+  family & fertility benefit, parental leave (including
+  adoption, surrogacy, and foster placement), as well as other
+  voluntary benefits.
+  
+  Base Salary Range
+  
+  $175,000 - $240,000
+  
+  To learn more, visit www.antares.com. Antares is an Equal
+  Opportunity Employer. Employment decisions are made without
+  regard to race, color, religion, national or ethnic origin,
+  sex, sexual orientation, gender identity or expression, age,
+  disability, protected veteran status or other
+  characteristics protected by law.
+posted_date: 2026-03-24
+url: "https://builtin.com/job/ai-engineer/8603650"
+source: Built In

@@ -1,0 +1,52 @@
+company:
+  name: Creative Fabrica
+  stage: unknown
+  focus: |-
+    Subscription platform for creators with AI-powered creative
+    tools and a large content library
+position:
+  title: Senior Backend Engineer (Go) | Studio AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is a backend engineering position focused on
+      building the infrastructure and orchestration layer around
+      AI model inference, not directly building, training, or
+      fine-tuning models. The engineer designs Go microservices,
+      manages async pipelines, and bridges raw model outputs to
+      user-facing experiences — enabling AI work but not working
+      on the models themselves.
+  responsibilities:
+  - Design and scale Go-based microservices that manage the lifecycle of AI generations
+    across multimodal domains
+  - Optimize ConnectRPC services and async processing pipelines (Kafka + SQS) to handle
+    long-running, resource-intensive inference tasks
+  - Develop backend logic for advanced multimodal orchestration features
+  - Manage massive data throughput on AWS, integrating with high-performance storage
+    and compute clusters
+  - Collaborate with AI researchers to bridge raw model outputs and polished user-facing
+    experiences
+  - Ensure platform stability and reliability for high-concurrency AI generation workloads
+    at global scale
+  use_cases:
+  - Multimodal AI content generation (images, video, audio, 3D models, vector graphics)
+  - Background removal and image editing automation
+  - Custom font generation and creative asset production
+  - Publication-ready design generation in minutes
+  - One-stop creative studio platform for hobbyist and professional creators
+  skills:
+    genai: []
+    ml: []
+    web: [ConnectRPC, gRPC, GraphQL, Microservices]
+    databases: []
+    data: [Kafka]
+    cloud: [SQS, 'AWS (EKS, S3, Lambda)']
+    ops: [Model Serving, GPU Workloads]
+    languages: [Go]
+    domains: []
+    other: [Distributed Systems, Video Transcoding, Audio Synthesis]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9110023'
+  extracted_at: '2026-04-22T13:16:29.541657'

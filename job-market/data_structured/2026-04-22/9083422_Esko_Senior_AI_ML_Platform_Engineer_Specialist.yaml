@@ -1,0 +1,56 @@
+company:
+  name: Esko
+  stage: Public
+  focus: |-
+    Integrated software and hardware solutions for packaging
+    design and print processes
+position:
+  title: Senior AI/ ML Platform Engineer Specialist
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building and maintaining the
+      MLOps/AI infrastructure platform that enables other AI/ML
+      teams to do their work. While it involves ML infrastructure
+      (feature stores, model registries, CI/CD pipelines) and
+      collaboration with AI engineering teams, the core
+      responsibility is platform and infrastructure engineering to
+      support AI development, not directly building, training, or
+      deploying models. It's an enabling/support role for AI
+      teams.
+  responsibilities:
+  - Develop, improve, and maintain the MLOps platform to support scalable, reproducible,
+    and observable ML and generative AI workflows
+  - Design and operate core ML infrastructure including feature stores, model registries,
+    CI/CD pipelines, and data pipelines using AWS services
+  - Enable and support AI and ML development teams with best practices, tooling, and
+    technical guidance for training, fine-tuning, and deployment
+  - Drive architecture and technology decisions across the ML stack including frameworks,
+    orchestration, data processing, and observability
+  - Collaborate with AI engineering teams to integrate LLMs and generative AI capabilities
+    into products using secure and standardized infrastructure
+  - Continuously evaluate and adopt emerging tools and technologies to improve platform
+    capability and developer productivity
+  use_cases:
+  - MLOps platform for scalable ML and generative AI workflows
+  - ML infrastructure including feature stores, model registries, and CI/CD pipelines
+  - LLM and generative AI integration into packaging and print products
+  - RAG-based systems and vector database infrastructure
+  skills:
+    genai: [LangChain, RAG]
+    ml: [Hugging Face]
+    web: []
+    databases: [Vector Databases]
+    data: [Ray]
+    cloud: [AWS SageMaker, AWS ECS/EKS, AWS Lambda, AWS Step Functions, AWS S3, Vertex
+        AI, Azure ML]
+    ops: [Terraform, CloudFormation, MLflow, Kubeflow, Docker, Kubernetes, CI/CD,
+      Feature Stores, MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9083422'
+  extracted_at: '2026-04-22T14:11:23.400927'

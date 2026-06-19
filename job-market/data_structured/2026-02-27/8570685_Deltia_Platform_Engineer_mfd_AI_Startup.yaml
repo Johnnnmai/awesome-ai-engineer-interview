@@ -1,0 +1,46 @@
+company:
+  name: Deltia
+  stage: Seed
+  focus: AI for manufacturing
+position:
+  title: Platform Engineer (m/f/d) (AI Startup)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform engineering role focused on
+      infrastructure (AWS, Kubernetes, CI/CD), not directly
+      building or deploying AI/ML models. While the company is AI-
+      first and the role offers exposure to AI systems, the core
+      work is enabling ML teams through infrastructure, not hands-
+      on model work. The nice-to-have section mentions supporting
+      ML infrastructure, which confirms this is an
+      enabling/support role.
+  responsibilities:
+  - Design and maintain cloud infrastructure on AWS using Terraform
+  - Own and improve CI/CD pipelines for fast, safe deployments
+  - Manage and scale Kubernetes clusters
+  - Improve developer experience for shipping and debugging
+  - Implement monitoring, logging and alerting for full observability
+  - Configure and optimise CDN infrastructure
+  use_cases:
+  - AI systems for manufacturing
+  - Production ML infrastructure
+  - Model deployment and GPU workloads
+  - Streaming data or video processing systems
+  skills:
+    genai: []
+    ml: [GPU workloads, ML infrastructure]
+    web: []
+    databases: [PostgreSQL, MySQL, TimescaleDB]
+    data: []
+    cloud: [AWS, CloudFront, Fastly, Cloudflare]
+    ops: [Terraform, Kubernetes, CI/CD, GitHub Actions, GitLab CI, Jenkins, Linux,
+      Prometheus, MLOps]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8570685'
+  extracted_at: '2026-03-03T11:51:37.101214'

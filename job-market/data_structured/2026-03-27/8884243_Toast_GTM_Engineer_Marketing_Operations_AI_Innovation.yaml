@@ -1,0 +1,56 @@
+company:
+  name: Toast
+  stage: Public
+  focus: |-
+    Restaurant technology platform for POS, payments, and
+    operations
+position:
+  title: GTM Engineer, Marketing Operations AI Innovation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and fine-
+      tuning AI agents and agentic workflows using frameworks like
+      LangChain, CrewAI, and RAG. The position requires hands-on
+      work with AI APIs, fine-tuning language models, and building
+      evaluation frameworks for AI systems, not just supporting
+      infrastructure.
+  responsibilities:
+  - Identify high-leverage marketing workflows and build working solutions including
+    agents, automations, and AI-powered tools tailored to each team's processes
+  - Design, build, and deploy custom AI agents and agentic workflows that integrate
+    AI APIs, MCP servers, and automation platforms into GTM motion
+  - Build evaluation frameworks to measure agent quality, accuracy, and reliability
+    including prompt evals, agent benchmarking, and regression testing
+  - Coach marketers through a progressive AI journey from first win to full workflow
+    transformation and self-sufficiency
+  - Recognize patterns and scale what works by thinking in reusable systems rather
+    than one-off solutions
+  - Own build-vs-buy decisions from business case through implementation
+  - Design, build, and oversee multi-agent workflows to prepare teams for an agentic
+    future
+  - Create documentation, playbooks, and reusable templates that the entire team can
+    leverage
+  use_cases:
+  - Marketing workflow automation and transformation
+  - AI-powered marketing operations and campaign execution
+  - Go-to-market process automation and optimization
+  - Multi-agent systems for marketing team productivity
+  - Marketing technology stack integration with AI capabilities
+  skills:
+    genai: [LangChain, CrewAI, RAG, MCP, OpenAI API, Anthropic Claude API, Gemini
+        API, Fine-tuning LLMs, Prompt engineering, AI agent building]
+    ml: []
+    web: [Web APIs]
+    databases: [CRM systems, Data warehouses, CDP platforms]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: [Clay, Automation tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8884243'
+  extracted_at: '2026-03-27T15:41:23.024759'

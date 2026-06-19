@@ -1,0 +1,53 @@
+company:
+  name: GSK
+  stage: Public
+  focus: |-
+    Global biopharma company developing medicines and vaccines
+    using AI for drug discovery
+position:
+  title: AIML Software Engineer, AI for Science
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and implementing infrastructure
+      and software for large-scale AI models and agentic systems,
+      as well as implementing ML/DL pipelines. While it has a
+      strong infrastructure/software engineering component, the
+      role directly involves building, deploying, and optimizing
+      AI/ML systems including agentic systems and distributed
+      training pipelines, making it ai-first.
+  responsibilities:
+  - Design and implement scalable infrastructure and software solutions to support
+    large-scale AI models and agentic systems across the entire software development
+    life cycle
+  - Design and implement sophisticated machine learning and deep learning pipelines
+    that handle massive amounts of data with optimal resource utilization
+  - Develop and maintain cloud-native architectures enabling seamless deployment and
+    scaling of AI/ML workloads
+  - Deliver robust, tested, and high-performance code in an agile environment
+  - Collaborate with AI/ML engineers, data scientists, and domain experts to ensure
+    fit-for-purpose infrastructure and data pipelines for scientific projects
+  - Architect and deploy distributed training pipelines for large-scale AI models
+  use_cases:
+  - AI-driven drug discovery and development of new therapies
+  - Personalized medicine leveraging biomedical data sources
+  - Large-scale AI model training and deployment for scientific research
+  - Agentic AI systems for biomedical and pharmaceutical applications
+  - Processing and analysis of biomedical data including genomics, transcriptomics,
+    proteomics, and clinical records
+  skills:
+    genai: [Agentic Systems]
+    ml: [PyTorch, JAX, TensorFlow, Distributed Training]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure, Cloud-Native Architecture]
+    ops: [Docker, Kubernetes, CI/CD, Infrastructure as Code, Terraform]
+    languages: [Python]
+    domains: [Genomics/Biomedical Data]
+    other: [Shell Scripting]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8464497'
+  extracted_at: '2026-04-22T13:38:49.377881'

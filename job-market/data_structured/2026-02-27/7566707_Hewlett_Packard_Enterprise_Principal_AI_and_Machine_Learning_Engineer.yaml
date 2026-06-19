@@ -1,0 +1,57 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: Public
+  focus: |-
+    Edge-to-cloud IT services and digital transformation
+    solutions
+position:
+  title: Principal AI and Machine Learning Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI/ML engineering role focused on
+      designing, developing, and deploying machine learning
+      models, with explicit requirements for GenAI/LLM tools like
+      LangGraph, LangSmith, and Langfuse. The role involves direct
+      work building and deploying both traditional ML and GenAI
+      systems, not just supporting infrastructure.
+  responsibilities:
+  - Design, develop, and deploy advanced machine learning models and algorithms including
+    data preprocessing, feature engineering, model training, and evaluation
+  - Lead research initiatives to explore novel AI approaches, conduct experiments,
+    and evaluate new algorithms
+  - Design AI system architecture ensuring scalability, performance, and reliability
+    using distributed computing and cloud services
+  - Apply data mining, data modeling, NLP, and machine learning to extract and analyze
+    information from datasets
+  - Provide technical leadership and mentorship to junior engineers on AI and ML best
+    practices
+  - Oversee design review sessions and establish long-term design and implementation
+    strategies
+  - Create and deliver presentations and reports to executive stakeholders on technical
+    strategies
+  - Collaborate with cross-functional teams including data scientists, software engineers,
+    and product managers
+  use_cases:
+  - Natural language processing applications
+  - Computer vision systems
+  - Data mining and analytics from enterprise datasets
+  - AI-powered digital transformation solutions
+  - Edge-to-cloud AI deployments
+  skills:
+    genai: [LangGraph, LangSmith, Langfuse]
+    ml: [PyTorch, TensorFlow, scikit-learn, Deep Learning, CNNs, RNNs, GANs, Reinforcement
+        Learning]
+    web: []
+    databases: []
+    data: [Data Visualization]
+    cloud: [Cloud Services]
+    ops: [Git, Distributed Computing]
+    languages: [Python, Java, C++]
+    domains: [Natural Language Processing, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7566707'
+  extracted_at: '2026-03-03T12:50:53.962442'

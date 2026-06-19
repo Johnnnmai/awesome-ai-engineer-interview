@@ -1,0 +1,57 @@
+company:
+  name: Synechron
+  stage: Established
+  focus: |-
+    Global digital consulting firm for financial services and
+    technology
+position:
+  title: AI Engineer – Python, AWS Bedrock, Generative AI, LangChain & Serverless
+    Architect
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, deploying, and
+      implementing Generative AI and LLM-based solutions,
+      including AI agents, RAG pipelines, and multi-step reasoning
+      systems. The engineer will work hands-on with AWS Bedrock,
+      LangChain, prompt engineering, and agentic AI frameworks to
+      create production AI applications.
+  responsibilities:
+  - Design, develop, and implement scalable GenAI and LLM-based AI solutions on the
+    AWS cloud platform
+  - Build intelligent data and AI pipelines using AWS Bedrock and advanced prompt
+    engineering techniques
+  - Develop AI agents with multi-step reasoning and tool-calling capabilities leveraging
+    agent-based frameworks
+  - Create serverless AI applications using AWS Lambda, API Gateway, and event-driven
+    designs
+  - Integrate LLMs with enterprise APIs, vector databases, and RAG systems to enhance
+    business workflows
+  - Collaborate with cross-functional teams to align AI solutions with organizational
+    objectives
+  - Research emerging AI technologies and apply findings to improve AI models and
+    applications
+  - Contribute to strategic planning and delivery of AI initiatives
+  use_cases:
+  - AI-powered talent acquisition workflows
+  - Financial services AI solutions and automation
+  - Enterprise workflow automation using LLM agents
+  - RAG-based enterprise search and knowledge retrieval
+  - Serverless AI application development for business processes
+  skills:
+    genai: [LangChain, RAG, Prompt Engineering, LLMs, AI Agents, Model Context Protocol
+        (MCP), Multi-agent architectures]
+    ml: [PyTorch, TensorFlow]
+    web: []
+    databases: [FAISS, Pinecone, Weaviate]
+    data: []
+    cloud: [AWS Bedrock, AWS Lambda, API Gateway, Serverless architectures]
+    ops: [Agile]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8911845'
+  extracted_at: '2026-04-22T14:02:26.710339'

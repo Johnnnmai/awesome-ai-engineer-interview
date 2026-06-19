@@ -1,0 +1,54 @@
+company:
+  name: KLA
+  stage: Public
+  focus: |-
+    Semiconductor manufacturing equipment and process control
+    technology
+position:
+  title: Lead Analyst, AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience building AI systems
+      with ML, DL, and LLMs including model fine-tuning, RAG
+      implementation, and deep learning techniques. The minimum
+      qualifications explicitly state experience "building AI
+      systems/solutions" which indicates direct work on AI models
+      rather than support infrastructure.
+  responsibilities:
+  - Build and deploy AI systems and solutions using machine learning, deep learning,
+    and LLM technologies
+  - Develop and fine-tune deep learning models using PyTorch/TensorFlow including
+    CNNs, RNNs, LSTMs, and Transformers
+  - Implement LLM-based solutions including RAG systems, prompt engineering, and vector
+    database integration
+  - Prototype ML solutions using scikit-learn, XGBoost, and LightGBM for semiconductor
+    process control applications
+  - Apply supervised and unsupervised learning techniques with feature engineering
+    and model selection
+  - Collaborate with cross-functional teams to integrate AI solutions into semiconductor
+    inspection and metrology products
+  - Communicate ML/LLM trade-offs and technical decisions to stakeholders
+  use_cases:
+  - Semiconductor wafer defect detection and classification
+  - Process monitoring and yield optimization for chip manufacturing
+  - Wafer surface quality inspection and analysis
+  - Early identification of yield excursions in fabrication processes
+  - Process tool qualification and monitoring
+  skills:
+    genai: [Hugging Face Transformers, RAG, Prompt engineering]
+    ml: [NumPy, scikit-learn, XGBoost, LightGBM, PyTorch, TensorFlow, Keras, CNNs,
+      Transformers, Model fine-tuning, Jupyter]
+    web: []
+    databases: [Milvus, FAISS, Pinecone, ElasticSearch]
+    data: [Pandas]
+    cloud: []
+    ops: [Git, Docker]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7191169'
+  extracted_at: '2026-03-03T11:33:00.375311'

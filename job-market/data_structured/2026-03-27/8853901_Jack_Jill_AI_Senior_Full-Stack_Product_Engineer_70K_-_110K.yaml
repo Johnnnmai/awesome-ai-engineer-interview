@@ -1,0 +1,48 @@
+company:
+  name: Jack & Jill AI
+  stage: Y Combinator S24
+  focus: AI agents for AML, KYB, and KYC compliance automation
+position:
+  title: Senior Full-Stack Product Engineer (£70K - £110K + 0.30% - 0.50% Equity)
+    at Arva AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is clearly ai-first because the role involves hands-on
+      work with AI models including prompt engineering, fine-
+      tuning LLMs and vision models, and custom AI model training.
+      The engineer will build and iterate on AI agents for
+      document fraud detection and automation, which is direct
+      work ON AI systems.
+  responsibilities:
+  - Build scalable back-end systems and intuitive front-end interfaces that explain
+    AI-driven decisions to compliance officers
+  - Develop and optimize automated systems for prompt engineering and model fine-tuning
+  - Fine-tune LLMs and vision models for specific use cases
+  - Iterate rapidly on AI agents to enhance performance, reliability, and explainability
+  - Maintain best-in-class CI/CD and DevOps practices
+  - Build document fraud detection systems
+  - Develop web due diligence tools
+  use_cases:
+  - Anti-money laundering (AML) automation
+  - Know Your Business (KYB) verification
+  - Know Your Customer (KYC) verification
+  - Document fraud detection
+  - Web due diligence for financial compliance
+  - Automating complex human review tasks in financial crime prevention
+  skills:
+    genai: [Prompt engineering, LLM fine-tuning, AI agents]
+    ml: [Vision models, Pre-trained models]
+    web: [React, Node.js]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, DevOps]
+    languages: [TypeScript]
+    domains: [Computer vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8853901'
+  extracted_at: '2026-03-27T14:57:27.340865'

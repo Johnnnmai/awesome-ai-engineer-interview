@@ -1,0 +1,32 @@
+company:
+  name: Plat4mation
+  stage: null
+  focus: null
+position:
+  title: Senior Full-Stack Developer – AI
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The job description only contains a title "Senior Full-Stack
+      Developer – AI" and company name without any details about
+      responsibilities, requirements, or the nature of AI work.
+      Cannot determine if the role involves working directly on AI
+      systems or in a support capacity.
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8339214'
+  extracted_at: '2026-03-03T11:42:37.673674'

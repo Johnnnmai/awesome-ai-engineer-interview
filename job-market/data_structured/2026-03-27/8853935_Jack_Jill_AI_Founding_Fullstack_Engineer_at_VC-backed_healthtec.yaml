@@ -1,0 +1,41 @@
+company:
+  name: Jack & Jill AI
+  stage: VC-backed (likely Seed or Series A)
+  focus: Healthtech AI startup solving vertical-specific challenges
+position:
+  title: Founding Fullstack Engineer at VC-backed healthtech AI startup
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves integrating and deploying AI features
+      using foundational models to solve complex user needs. While
+      it's a fullstack engineering role, it explicitly includes
+      hands-on work deploying AI features and integrating
+      foundational AI models, making it an ai-first role.
+  responsibilities:
+  - Own and ship new product features end-to-end across frontend and backend
+  - Integrate and deploy AI features using foundational models to solve complex user
+    needs
+  - Improve reliability, performance, and overall architecture as the product scales
+  - Build 0→1 product features as the first technical hire
+  - Work closely with founders on product development
+  use_cases:
+  - Healthcare-specific AI applications
+  - Vertical-specific AI solutions
+  - Complex user need automation using foundational models
+  skills:
+    genai: [Foundational AI models]
+    ml: []
+    web: [React, Next.js]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8853935'
+  extracted_at: '2026-03-27T13:32:46.531860'

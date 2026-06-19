@@ -1,0 +1,54 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services with AI/ML-powered customer
+    experiences
+position:
+  title: Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI
+      systems including foundation model training, LLM inference,
+      LLM optimization techniques, guardrails, and similarity
+      search. The engineer works hands-on with models and AI
+      infrastructure, making it clearly ai-first.
+  responsibilities:
+  - Partner with cross-functional teams of engineers, research scientists, and product
+    managers to deliver AI-powered products
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, and model evaluation
+  - Leverage Open Source and SaaS AI technologies including AWS Ultraclusters, Huggingface,
+    VectorDBs, Nemo Guardrails, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  - Build and deploy proprietary AI solutions that deliver value to millions of customers
+  - Advance the state of the art in science and AI engineering across the company
+  use_cases:
+  - Real-time personalized banking customer experiences
+  - Informing customers about unusual charges using AI
+  - Answering customer questions in real time
+  - AI-powered products that change how associates work and customers interact with
+    Capital One
+  - Scalable AI infrastructure for enterprise-wide AI model deployment
+  - Responsible and reliable AI systems for banking
+  skills:
+    genai: [LLM Inference, Nemo Guardrails, LLM Optimization, Guardrails, Agentic
+        AI]
+    ml: [PyTorch, Huggingface, Foundation Model Training]
+    web: []
+    databases: [VectorDBs, Similarity Search]
+    data: []
+    cloud: [AWS, AWS Ultraclusters, Google Cloud, Azure]
+    ops: [Model Evaluation, Experimentation, Governance, Observability]
+    languages: [Python, Go, Scala, Java, C++, C#, Golang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8857708'
+  extracted_at: '2026-04-22T13:29:27.081088'

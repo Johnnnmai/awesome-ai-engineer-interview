@@ -1,0 +1,54 @@
+company:
+  name: Whatnot
+  stage: Series B+
+  focus: Livestream shopping and live commerce marketplace platform
+position:
+  title: Software Engineer, AI Dev Tools
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role explicitly states it's NOT ML/data science and
+      won't involve training models. Instead, it's building
+      tooling and infrastructure that enables AI coding agents and
+      assistants to operate within Whatnot's development workflows
+      - supporting engineers who use AI tools rather than building
+      the AI itself.
+  responsibilities:
+  - Build and ship AI tooling from developer productivity wins to autonomous agent
+    capabilities
+  - Design and build sandboxed, containerized environments where AI agents can operate
+    autonomously with guardrails
+  - Build multi-agent orchestration systems including CI-fixing agents and SRE context
+    agents
+  - Enable non-engineers to leverage AI tools through workflows and low-code/no-code
+    interfaces
+  - Build AI-aware developer infrastructure including CLAUDE.md configurations, MCP
+    servers, and prompt engineering frameworks
+  - Deploy, monitor, and maintain infrastructure supporting AI tools and workflows
+  - Evaluate and integrate emerging AI tools and platforms into Whatnot
+  - Serve as primary interface between Developer Tools team and AI Tooling Working
+    Group
+  use_cases:
+  - Developer productivity and code generation acceleration
+  - Autonomous CI/CD pipeline fixing and maintenance
+  - SRE context gathering and incident response assistance
+  - Non-engineer access to AI-powered workflows
+  - Multi-agent orchestration for reducing operational toil
+  - AI assistant optimization within large codebases
+  skills:
+    genai: [Claude Code, Cursor, OpenAI APIs, Anthropic APIs, Google AI APIs, MCP
+        servers, Prompt engineering, Multi-agent orchestration]
+    ml: []
+    web: [Backend development, Frontend development]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Agent sandboxing, Containerization, Docker, CI/CD, Kubernetes, LLM observability]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Low-code/no-code platforms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8656600'
+  extracted_at: '2026-03-27T14:23:01.444120'

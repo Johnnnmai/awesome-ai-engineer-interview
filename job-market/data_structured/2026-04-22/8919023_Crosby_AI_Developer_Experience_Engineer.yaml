@@ -1,0 +1,53 @@
+company:
+  name: Crosby
+  stage: Series A/B (backed by Sequoia, Index Ventures, Bain Capital Ventures)
+  focus: |-
+    AI-first legal platform for corporate legal services and
+    contracting
+position:
+  title: AI Developer Experience Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building internal tools for prompt
+      management, evaluation, fine-tuning, and model iteration
+      directly working with LLMs. While it's a developer
+      experience role, it requires hands-on work with LLMs,
+      building evaluation infrastructure for AI systems, and
+      supporting experimentation and deployment of AI features —
+      making it ai-first rather than ai-support.
+  responsibilities:
+  - Build internal AI developer tools for prompt management, evaluation, experimentation,
+    and model iteration
+  - Create systems enabling rapid testing, debugging, and comparison of model outputs
+    across different approaches
+  - Develop frameworks for benchmarking, regression testing, and monitoring AI system
+    performance
+  - Build pipelines and tooling to support data collection, labeling, and feedback
+    loops for model improvement
+  - Partner with engineering teams to ensure AI features are reliable, observable,
+    and easy to maintain in production
+  - Identify bottlenecks in the development process and build systems that increase
+    developer velocity and confidence
+  use_cases:
+  - AI-powered legal document review and redlining
+  - Automated legal commentary and negotiation guidance
+  - LLM prompt management and experimentation for legal AI systems
+  - Evaluation and benchmarking of AI models for legal accuracy
+  - Data pipeline infrastructure for legal AI model improvement
+  skills:
+    genai: [OpenAI API, Anthropic API, LLM prompt engineering, Prompt management]
+    ml: [Fine-tuning]
+    web: [Backend systems development]
+    databases: []
+    data: [Data pipelines]
+    cloud: []
+    ops: [Evaluation frameworks, ML monitoring]
+    languages: [Python]
+    domains: []
+    other: [Internal tooling]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8919023'
+  extracted_at: '2026-04-22T12:46:04.930176'

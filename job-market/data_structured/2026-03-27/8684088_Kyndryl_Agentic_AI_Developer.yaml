@@ -1,0 +1,53 @@
+company:
+  name: Kyndryl
+  stage: Public
+  focus: |-
+    Mission-critical technology systems and AI-powered IT
+    infrastructure services
+position:
+  title: Agentic AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying agentic AI
+      systems - designing agent architectures, implementing LLM
+      integrations, building multi-agent workflows, and fine-
+      tuning models. The position involves hands-on work with
+      AI/ML models, RAG systems, and agentic frameworks like
+      LangGraph and AutoGen to deliver production AI systems.
+  responsibilities:
+  - Design and implement agent-based AI systems that can reason, plan, act, and self-correct
+  - Build multi-agent workflows including collaborative, hierarchical, and tool-using
+    agents
+  - Implement memory, state management, tool orchestration, and long-running agent
+    processes
+  - Integrate and fine-tune LLMs for agentic use cases
+  - Apply techniques such as RAG, function calling, planning loops, reflection, and
+    self-critique
+  - Build scalable, production-grade AI services and APIs
+  - Collaborate on system architecture, data pipelines, and MLOps practices
+  - Partner with product managers, UX, data scientists, and platform teams to translate
+    business problems into agentic AI solutions
+  use_cases:
+  - Autonomous task execution with minimal human intervention
+  - Complex reasoning and planning for business outcomes
+  - Multi-agent collaboration and orchestration
+  - Self-correcting AI systems with feedback loops
+  - Enterprise AI automation and workflows
+  skills:
+    genai: [LangGraph, AutoGen, CrewAI, Semantic Kernel, RAG, Prompt Engineering,
+      Function Calling]
+    ml: [LLM Fine-tuning, NLP]
+    web: [REST APIs]
+    databases: [Vector Databases]
+    data: [Embedding Pipelines]
+    cloud: [Azure AI Services, AWS AI Services, GCP AI Services]
+    ops: [CI/CD, MLOps, Monitoring, Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8684088'
+  extracted_at: '2026-03-27T15:36:50.634758'

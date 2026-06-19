@@ -1,0 +1,49 @@
+company:
+  name: Writer
+  stage: Series B+
+  focus: |-
+    Enterprise generative AI platform for building and deploying
+    AI agents with custom LLMs
+position:
+  title: Software engineer, generative AI (UK)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building generative AI
+      applications, implementing LLM integrations, working with
+      vector databases, and developing agentic workflows. The
+      engineer will be hands-on with AI models and frameworks to
+      create AI-powered solutions, not just supporting
+      infrastructure.
+  responsibilities:
+  - Design and develop scalable generative AI services and applications using Python
+  - Build and optimize high-performance APIs and microservices for integrating AI
+    models and agentic workflows
+  - Collaborate with product managers, data scientists, and engineering teams to deliver
+    AI solutions from concept to production
+  - Implement and maintain user interfaces using React and TypeScript for backend
+    enablement
+  - Partner with DevOps teams on continuous deployment, logging, and monitoring
+  - Own key architectural components ensuring code quality, security, and maintainability
+  use_cases:
+  - Enterprise AI agent deployment and orchestration
+  - AI-powered workflow automation for enterprises
+  - Large language model applications for business transformation
+  - Scalable generative AI platform for enterprise productivity
+  - Agentic workflow solutions grounded in company data
+  skills:
+    genai: [LLMs, Agentic frameworks]
+    ml: []
+    web: [FastAPI, RESTful APIs, Microservices architecture, React]
+    databases: [Vector databases, Pinecone, Weaviate, pgvector, PostgreSQL]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes]
+    languages: [Python, Asyncio, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8832759'
+  extracted_at: '2026-03-27T13:40:40.454436'

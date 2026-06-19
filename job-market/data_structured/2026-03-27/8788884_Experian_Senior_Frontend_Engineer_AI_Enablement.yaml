@@ -1,0 +1,54 @@
+company:
+  name: Experian
+  stage: Public
+  focus: |-
+    Global data and technology company providing credit
+    reporting, analytics, fraud prevention, and marketing
+    solutions
+position:
+  title: Senior Frontend Engineer – AI Enablement
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a frontend engineering role building
+      infrastructure/platforms that enable OTHER teams to
+      integrate AI capabilities. The role focuses on
+      React/TypeScript widget architecture and UI contribution
+      frameworks, not on building, training, or deploying AI
+      models themselves. The engineer creates the platform that AI
+      teams build upon.
+  responsibilities:
+  - Architect and develop the Widget Host App for secure, scalable embedding of AI
+    widgets across products
+  - Build the UI contribution framework enabling teams to register, customize, and
+    render UI components consistently
+  - Design plug-in models, contribution APIs, and extensible patterns for rapid UI
+    feature deployment
+  - Follow strict test-first discipline using unit, integration, and UI component
+    testing frameworks
+  - Create documentation, samples, and SDKs that accelerate platform adoption
+  - Partner with backend, design, and product teams to deliver end-to-end AI experiences
+  - Ensure performance, accessibility, responsiveness, and cross-browser reliability
+  use_cases:
+  - AI widget integration platform for product and engineering teams
+  - Unified platform for embedding AI capabilities into customer experiences
+  - Scalable UI component system for AI-driven tools and features
+  - Developer enablement for AI-powered feature deployment
+  - Internal platform for MCP-based component distribution across teams
+  skills:
+    genai: [Model Context Protocol (MCP), Embeddings, RAG, Agent frameworks]
+    ml: []
+    web: [Node.js, React, Micro-frontend architectures, Component-driven development,
+      State management]
+    databases: [Vector stores]
+    data: []
+    cloud: []
+    ops: [Jest, React Testing Library, Playwright, Cypress]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8788884'
+  extracted_at: '2026-03-27T15:57:23.730271'

@@ -1,0 +1,56 @@
+company:
+  name: Mastercard
+  stage: Public
+  focus: Global digital payments and financial technology
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first: the Principal AI Engineer
+      directly builds, architects, and deploys AI/ML systems
+      including agentic AI applications (LangGraph, CrewAI,
+      AutoGen), works with RAG, prompt engineering, LLM fine-
+      tuning, and model optimization. The position involves hands-
+      on work with models and agents, not just supporting
+      infrastructure for others.
+  responsibilities:
+  - Architect, design, develop, and maintain advanced AI and Machine Learning systems
+    to address business challenges
+  - Oversee deployment of models into production ensuring scalability, reliability,
+    and ethical compliance
+  - Develop and implement data engineering contracts to support model training and
+    inference workflows
+  - Develop and refine technical strategy for AI/ML model optimization and deployment
+    aligned with business objectives
+  - Conduct research and prototyping for scalable, maintainable AI/ML models using
+    cutting-edge techniques
+  - Support high-impact AI/ML projects with technical mentorship and quality standards
+    enforcement
+  - Collaborate with product teams and stakeholders to translate business needs into
+    AI/ML solutions
+  - Mentor team members by sharing best practices and emerging trends in AI/ML engineering
+  use_cases:
+  - Agentic AI applications for business process automation
+  - RAG-based intelligent information retrieval and question answering
+  - LLM fine-tuning and optimization for domain-specific tasks
+  - Digital payments fraud detection and risk assessment using ML models
+  - Scalable AI/ML model deployment for global payment systems
+  skills:
+    genai: [LangGraph, CrewAI, AutoGen, Agentic AI design patterns, Prompt engineering,
+      RAG (Retrieval Augmented Generation), Graph-based RAG, LLM Fine-tuning, Model
+        quantization, Model distillation, LLMOps, Guardrails, Few-shot prompting]
+    ml: [PyTorch, Keras, scikit-learn, Transformers, NumPy, Pandas, spaCy]
+    web: [FastAPI]
+    databases: [Vector databases]
+    data: [PySpark, Databricks]
+    cloud: [Azure]
+    ops: [MLflow, CI/CD pipelines, Unix/Linux]
+    languages: [Python]
+    domains: [NLP, Deep Learning]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8981010'
+  extracted_at: '2026-04-22T13:17:21.918362'

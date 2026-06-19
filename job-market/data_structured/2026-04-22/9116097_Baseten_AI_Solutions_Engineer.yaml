@@ -1,0 +1,54 @@
+company:
+  name: Baseten
+  stage: Series E
+  focus: AI inference platform for production model deployment
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on architecture, building, and
+      deploying high-scale production AI/ML applications directly
+      on Baseten's platform. The engineer designs and implements
+      AI solutions end-to-end for customers, including optimizing
+      AI/ML projects and deploying models like Whisper, ComfyUI
+      workflows, and custom model servers. This is a forward-
+      deployed engineering role that directly deploys AI models
+      into production.
+  responsibilities:
+  - Design, implement, and deploy AI/ML solutions on Baseten's platform end-to-end
+    for customers, from problem framing through production deployment and monitoring
+  - Develop and maintain software systems and product features using Python and other
+    general-purpose languages in production environments
+  - Partner with customers' engineering teams throughout the entire journey including
+    sales, implementation, and expansion phases
+  - Optimize and enhance AI/ML projects, contributing features and PRDs with engineering
+    and product teams to improve the technical stack
+  - Translate ambiguous business objectives into clear specs, well-defined PoCs, and
+    well-tested production services
+  - Own products and customer projects end-to-end, functioning as engineer, project
+    manager, and product manager with user empathy
+  - Navigate ambiguity and exercise judgment on tradeoffs and tooling choices, avoiding
+    unnecessary complexity
+  use_cases:
+  - High-scale production AI model inference and deployment for enterprise customers
+  - Deploying speech recognition models (e.g., Whisper) as production APIs
+  - Deploying generative AI workflows (e.g., ComfyUI) as scalable APIs
+  - Optimizing ML model serving for quality, latency, and cost outcomes
+  - Enabling AI companies to bring cutting-edge models into production
+  skills:
+    genai: []
+    ml: [AI/ML pipelines, Model optimization, ML model development lifecycle]
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [ML model deployment, Docker, Inference serving, Production monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9116097'
+  extracted_at: '2026-04-22T12:41:53.663777'

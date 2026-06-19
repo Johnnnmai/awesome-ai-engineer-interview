@@ -1,0 +1,53 @@
+company:
+  name: Pair Team
+  stage: Series B or later
+  focus: |-
+    AI-enabled healthcare for Medicaid, Medicare, and public
+    assistance programs
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building production agentic AI systems
+      that participate directly in healthcare delivery, including
+      designing agent reasoning, tool use, memory, and workflows.
+      The position requires hands-on experience with multi-agent
+      systems, LLM frameworks, and building AI infrastructure -
+      all direct work ON AI systems.
+  responsibilities:
+  - Design and evolve agentic systems that participate directly in care delivery,
+    coordinating care and engaging patients
+  - Define and build architectural patterns for agent reasoning, tool use, memory,
+    and human-in-the-loop collaboration
+  - Develop reusable platform capabilities and product-facing implementations for
+    AI infrastructure
+  - Own complex problem spaces end-to-end from system design through observability,
+    evaluation, and production improvement
+  - Partner with product managers, operators, and domain experts to translate real-world
+    processes into reliable agent behavior
+  - Establish standards and best practices for agent evaluation, safety, and operational
+    reliability
+  use_cases:
+  - Care coordination for Medicaid and Medicare beneficiaries
+  - Patient engagement and communication automation
+  - Healthcare workflow automation and execution
+  - Safety net healthcare system integration
+  - Continuous learning from patient interactions to improve outcomes
+  skills:
+    genai: [LangGraph, Claude Agents SDK, OpenAI API, Anthropic API, MCP, Multi-agent
+        systems]
+    ml: []
+    web: [Backend architecture]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Langfuse, LangSmith, Braintrust, Agent evaluation frameworks]
+    languages: [Python]
+    domains: [Healthcare domain knowledge]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8818835'
+  extracted_at: '2026-03-27T15:28:35.534925'

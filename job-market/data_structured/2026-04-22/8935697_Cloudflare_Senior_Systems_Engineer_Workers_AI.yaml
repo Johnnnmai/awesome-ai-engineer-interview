@@ -1,0 +1,53 @@
+company:
+  name: Cloudflare
+  stage: Public
+  focus: Global cloud network and edge computing infrastructure
+position:
+  title: Senior Systems Engineer, Workers AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and building the core
+      infrastructure for AI inference, including LLM serving, KV
+      cache management, model cold starts, and multi-accelerator
+      workload scheduling. While it's a systems engineering role,
+      it directly builds and optimizes the platform that runs AI
+      model inference (LLMs, diffusion models) at scale, making it
+      ai-first.
+  responsibilities:
+  - Develop and maintain core components of the serverless inference platform for
+    high availability and scalability
+  - Optimize the model scheduling system to increase efficiency and resource utilization
+    across inference infrastructure
+  - Implement improvements to inference request routing logic to enhance performance
+    and reduce latency
+  - Drive measurable improvements in platform reliability and resilience by identifying
+    and mitigating systemic risks
+  - Expand and refine the observability stack including metrics, logging, tracing,
+    and alerting
+  - Lead complex cross-functional technical projects from concept through deployment
+    and operationalization
+  - Mentor junior engineers and contribute to a collaborative engineering culture
+  use_cases:
+  - Serverless AI inference platform serving LLMs and diffusion models at global edge
+  - Real-time voice AI inference across a global network
+  - Customer-deployed model serving on heterogeneous GPU and accelerator fleet
+  - Multi-accelerator workload scheduling for AI inference in hundreds of cities
+  - Sub-second model cold starts for edge AI inference
+  skills:
+    genai: [LLM Inference Serving, KV Cache Management]
+    ml: [GPU Computing]
+    web: [HTTP, WebSocket]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems, Load Balancing, Kubernetes, Nomad, Model Scheduling,
+      Performance Optimization]
+    languages: [Rust]
+    domains: []
+    other: [TCP, Caching]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8935697'
+  extracted_at: '2026-04-22T13:13:34.958868'

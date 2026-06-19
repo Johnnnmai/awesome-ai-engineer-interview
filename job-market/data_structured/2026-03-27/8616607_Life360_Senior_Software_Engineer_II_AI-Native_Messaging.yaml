@@ -1,0 +1,55 @@
+company:
+  name: Life360
+  stage: Public
+  focus: |-
+    Family location tracking and safety services with mobile app
+    and GPS devices
+position:
+  title: Senior Software Engineer II (AI-Native), Messaging
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building streaming infrastructure
+      (Kafka, event pipelines) rather than AI/ML systems. While
+      the team uses AI tools like Claude Code as development
+      assistants, the actual work involves distributed systems,
+      data pipelines, and platform infrastructure - not building,
+      training, or deploying AI/ML models.
+  responsibilities:
+  - Design, build, and maintain streaming services using Kafka, Spring Boot, and Spring
+    Cloud Stream
+  - Develop and manage Kafka connectors for data integration (DynamoDB, S3, custom
+    sinks/sources)
+  - Own schema management and evolution using Protocol Buffers, Schema Registry, and
+    multi-language code generation
+  - Support ongoing platform migrations, including multi-cluster consumption patterns
+    and infrastructure transitions
+  - Build monitoring, observability, and operational tooling to ensure system reliability
+  - Write infrastructure as code using Terraform and automate deployments through
+    CI/CD pipelines
+  - Work with AI (Claude Code) as a first-class collaborator for scaffolding services,
+    generating IaC, and accelerating code review
+  - Apply agentic workflows to reduce overall cycle time and operational overhead
+  use_cases:
+  - Real-time location updates for family members
+  - Safety alerts and emergency notifications
+  - Event streaming for crash detection and emergency dispatch
+  - Data pipelines for safe driver reports
+  - High-throughput messaging infrastructure supporting 95+ million users
+  skills:
+    genai: [Claude Code, agentic workflows, prompt engineering]
+    ml: []
+    web: [Spring Boot, Spring Cloud Stream, gRPC]
+    databases: [DynamoDB]
+    data: [Apache Kafka, Kafka Streams]
+    cloud: [AWS, Confluent Cloud, S3]
+    ops: [Terraform, Docker, CI/CD, Prometheus, Grafana, Datadog, GitHub Actions,
+      Maven]
+    languages: [Java, Go]
+    domains: []
+    other: [Protocol Buffers, Schema Registry, Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8616607'
+  extracted_at: '2026-03-27T13:53:42.984963'

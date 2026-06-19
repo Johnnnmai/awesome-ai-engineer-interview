@@ -1,0 +1,51 @@
+company:
+  name: Multiverse
+  stage: Series D
+  focus: AI and tech upskilling apprenticeship platform
+position:
+  title: Senior Engineer (Full Stack & Infra) - AI Adoption
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is for a full-stack and infrastructure engineer on
+      the "Adoption AI Team" at an EdTech company. The engineer
+      builds and maintains the platform infrastructure (AWS,
+      Terraform, CI/CD), backend, and frontend — enabling the AI
+      product to exist — but does not directly build, train, fine-
+      tune, or deploy AI/ML models. AI is described as the
+      product's engine, but the role focuses on infra and full-
+      stack engineering around it.
+  responsibilities:
+  - Architect and transition the MVP into a robust, scalable production system on
+    AWS
+  - Build and maintain Terraform modules and CI/CD pipelines for rapid squad delivery
+  - Ship end-to-end features spanning AWS infrastructure, backend services, and React
+    frontends
+  - Influence product decisions by making the right technical trade-offs for customer
+    value
+  - Monitor system performance and use operational data to improve stability
+  - Mentor less experienced engineers through pairing and code reviews
+  - Advocate for incremental delivery of value and act as a team multiplier
+  - Use AI tools like Cursor and Claude to accelerate development and enhance platform
+    capabilities
+  use_cases:
+  - Personalized, role-specific AI use cases for workforce upskilling
+  - AI adoption platform delivering measurable productivity improvements for enterprise
+    learners
+  - Scaling an AI-driven learning platform to 1,500+ partner companies
+  skills:
+    genai: [Claude]
+    ml: []
+    web: [React, REST APIs]
+    databases: []
+    data: []
+    cloud: ['AWS (IAM, VPC, EC2, Lambda)']
+    ops: [Terraform, CI/CD, Docker]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Cursor]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9098318'
+  extracted_at: '2026-04-22T13:00:44.499910'

@@ -1,0 +1,52 @@
+company:
+  name: Edwards Lifesciences
+  stage: Public
+  focus: Medical devices for cardiovascular patient care
+position:
+  title: Senior Engineer, AI & Machine Learning
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly developing, implementing, and
+      deploying AI/ML models and workflows, including RAG, agent
+      systems, and copilots using Palantir AIP. The engineer
+      builds end-to-end ML models, optimizes algorithms, and
+      deploys them in production — squarely fitting the ai-first
+      classification.
+  responsibilities:
+  - Develop and implement end-to-end AI/ML models and workflows within Palantir Foundry
+    and AIP environment
+  - Leverage Palantir AIP features including Agent Studio, RAG workflows, and copilots
+    to ground models in relevant data sources
+  - Design, implement, and optimize advanced machine learning algorithms to solve
+    complex business problems
+  - Lead the development and deployment of scalable ML models in production environments
+  - Build end-to-end data pipelines for collecting, processing, and analyzing large-scale
+    datasets
+  - Collaborate with cross-functional teams including data scientists, software engineers,
+    and product managers
+  - Mentor junior engineers and contribute to team processes and best practices
+  - Conduct research on open-source tools and ML techniques relevant to the medical
+    domain
+  use_cases:
+  - Proactive care and smart recovery for cardiovascular disease patients
+  - AI-powered connected health solutions for patient monitoring
+  - Clinical decision support through grounded AI models and copilots
+  - Patient care improvement through desktop, web, and mobile software fueled by AI
+    engines
+  skills:
+    genai: [Agent Studio, RAG]
+    ml: [TensorFlow, PyTorch, Scikit-learn, Keras, CNNs, RNNs, GANs]
+    web: []
+    databases: []
+    data: [Spark, Hadoop, Apache Kafka, Airflow]
+    cloud: [Palantir Foundry, Palantir AIP, AWS]
+    ops: [MLflow, Kubeflow, Docker, Kubernetes, Git]
+    languages: [Python, Java, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8998119'
+  extracted_at: '2026-04-22T13:42:37.402907'

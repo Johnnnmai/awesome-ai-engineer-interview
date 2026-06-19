@@ -1,0 +1,58 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Senior Generative AI Engineer - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on building, deploying, and
+      orchestrating generative AI systems — including AI agents,
+      LLM integrations, RAG pipelines, prompt engineering, and
+      fine-tuning. The hands-on requirements around LangChain,
+      AutoGen, vector databases, and MLOps lifecycle management
+      confirm this is a builder/deployer role for AI systems.
+  responsibilities:
+  - Manage one or more Applications Development teams, including hiring, performance
+    evaluations, and resource allocation
+  - Build and orchestrate AI agents using frameworks like LangChain, AutoGen, or CrewAI
+    with self-healing workflows
+  - Develop robust backend systems using Python and TypeScript, integrating LLMs into
+    microservices architectures
+  - Architect RAG pipelines and utilize vector databases (Pinecone, Milvus, Weaviate)
+    for agent memory and contextual understanding
+  - Design and optimize prompt strategies including automated evaluation frameworks
+    for high-quality LLM output
+  - Oversee end-to-end MLOps lifecycle of generative models with focus on inference
+    speed, cost-efficiency, and scalability on cloud platforms
+  - Ensure AI ethics and compliance with security standards, IP regulations, and safety
+    guidelines
+  - Define and manage API/tool access for AI agents to optimize accuracy through tool
+    orchestration
+  use_cases:
+  - AI agent orchestration with self-healing workflows for enterprise applications
+  - RAG-powered contextual retrieval and augmented generation for business knowledge
+    systems
+  - LLM-powered backend microservices for financial services applications
+  - Automated prompt evaluation and optimization frameworks for production LLM output
+    quality
+  - Scalable generative model deployment with cost and inference optimization on cloud
+    platforms
+  skills:
+    genai: [LangChain, AutoGen, CrewAI, LlamaIndex, RAG, Prompt Engineering, LoRA,
+      QLoRA, Fine-tuning, OpenAI API, Anthropic API]
+    ml: [PyTorch, TensorFlow, Hugging Face]
+    web: [FastAPI, REST APIs, Microservices Architecture]
+    databases: [Pinecone, Milvus, Weaviate]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, CI/CD, Git, MLOps]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9011493'
+  extracted_at: '2026-04-22T12:32:45.644759'

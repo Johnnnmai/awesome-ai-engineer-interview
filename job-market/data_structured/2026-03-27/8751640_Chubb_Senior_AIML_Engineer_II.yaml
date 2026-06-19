@@ -1,0 +1,48 @@
+company:
+  name: Chubb
+  stage: Public
+  focus: |-
+    Global insurance company providing commercial and personal
+    property and casualty insurance, reinsurance, and life
+    insurance
+position:
+  title: Senior AI/ML Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly building, fine-tuning, and
+      training large language models, developing Generative AI
+      systems, and optimizing deep learning pipelines. This is
+      hands-on work creating and deploying AI/ML models, not
+      supporting infrastructure.
+  responsibilities:
+  - Develop and improve Generative AI systems for decision-making, query refinement,
+    and automated communication
+  - Own the entire process of data collection, training, and deploying machine learning
+    models
+  - Research and implement cutting-edge techniques in deep learning, NLP, and Generative
+    AI
+  - Collaborate with Data Scientists and ML Engineers to design end-to-end solutions
+  - Optimize and streamline deep learning training pipelines
+  - Develop performance metrics to track model efficiency and accuracy
+  use_cases:
+  - Automated communication capabilities for insurance operations
+  - High-quality decision-making support systems
+  - Query refinement and answer generation
+  - Conversational AI systems for insurance domain
+  skills:
+    genai: [Large Language Models, Generative AI]
+    ml: [PyTorch, TensorFlow, Keras, Hugging Face Transformers, NLP, Deep Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: []
+    languages: [Python, R]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8751640'
+  extracted_at: '2026-03-27T14:41:27.018728'

@@ -1,0 +1,54 @@
+company:
+  name: GE Healthcare
+  stage: Public
+  focus: Healthcare technology and medical devices
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is clearly ai-first as it involves hands-on work
+      building, deploying, and operating LLM-based systems
+      including RAG pipelines, Knowledge Graphs, Graph RAG, and
+      Agentic AI workflows. The position requires direct
+      implementation of generative AI technologies on AWS
+      SageMaker and Bedrock, not just supporting infrastructure.
+  responsibilities:
+  - Design, build, test, deploy, and operate AI-powered systems end-to-end with strong
+    software engineering principles
+  - Design and implement LLM-based solutions including RAG pipelines with document
+    ingestion, embeddings, vector search, retrieval, reranking, and response synthesis
+  - Implement Knowledge Graph and Graph RAG approaches for reasoning over structured
+    and unstructured enterprise data
+  - Build Agentic AI systems with planning, reasoning, tool/function calling, memory,
+    context management, and multi-step workflow execution
+  - Work embedded with stakeholders to understand workflows, validate AI outputs,
+    and iterate from prototype to production
+  - Integrate AI capabilities into backend services, user-facing tools, copilots,
+    and operational systems
+  - Build and deploy AI services on AWS using SageMaker and Bedrock for model training,
+    hosting, and foundation models
+  - Implement CI/CD, containerization, and MLOps practices while ensuring secure access,
+    governance, and monitoring for healthcare requirements
+  use_cases:
+  - Healthcare workflow automation and optimization
+  - Clinical decision support and documentation assistance
+  - Medical knowledge retrieval and reasoning systems
+  - Enterprise search over structured and unstructured healthcare data
+  - Operational systems for healthcare service delivery
+  skills:
+    genai: [RAG, LLMs, Knowledge Graphs, Graph RAG, Agentic AI, Embeddings]
+    ml: []
+    web: [APIs, Backend services]
+    databases: [Vector search]
+    data: []
+    cloud: [AWS SageMaker, AWS Bedrock]
+    ops: [CI/CD, Containerization, MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8730815'
+  extracted_at: '2026-03-27T14:08:03.703523'

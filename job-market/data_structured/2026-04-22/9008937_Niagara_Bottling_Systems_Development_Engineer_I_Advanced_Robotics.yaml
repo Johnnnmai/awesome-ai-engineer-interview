@@ -1,0 +1,60 @@
+company:
+  name: Niagara Bottling
+  stage: Public
+  focus: Bottled water manufacturing and production
+position:
+  title: Systems Development Engineer I (Advanced Robotics & AI Systems)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing and developing AI-
+      driven perception, planning, and control systems for robotic
+      platforms, as well as developing and deploying machine
+      learning models for robotic autonomy (SLAM, object
+      detection, motion planning). The role also involves building
+      ML prediction models for predictive maintenance. These are
+      hands-on AI/ML model development and deployment activities.
+  responsibilities:
+  - Design and develop AI-driven perception, planning, and control systems for humanoid
+    and quadruped robotic platforms in industrial environments
+  - Integrate robotics software stacks (ROS/ROS2) with edge computing, sensor fusion
+    (LiDAR, vision, IMU), and real-time decision-making systems
+  - Develop and deploy machine learning models for robotic autonomy including object
+    detection, SLAM, motion planning, and adaptive control
+  - Build robust, scalable data management systems and infrastructure supporting predictive
+    analytics for manufacturing
+  - Develop automation frameworks for data acquisition, post-processing, and test
+    execution from manufacturing field assets
+  - Perform data wrangling, cleansing, and modeling to create usable datasets for
+    ML pipelines
+  - Build high-performance algorithms, predictive models, and proof of concepts for
+    predictive maintenance
+  - Collaborate with cross-disciplinary teams including data architects, IT, and manufacturing
+    information systems groups
+  use_cases:
+  - Predictive maintenance for manufacturing equipment using ML-driven analytics
+  - Autonomous robotic inspection in industrial/manufacturing environments
+  - Robotic material handling automation on factory floors
+  - Sensor fusion and real-time perception for humanoid and quadruped robots in production
+    settings
+  - Data-driven process automation and optimization for bottling manufacturing
+  - Sim2Real robotic application prototyping and validation for manufacturing use
+    cases
+  skills:
+    genai: []
+    ml: [PyTorch, scikit-learn, NumPy, Pandas, Matplotlib, Reinforcement Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, C++, SQL, R]
+    domains: [SLAM, Computer Vision, Sensor Fusion]
+    other: [ROS/ROS2, Gazebo, Isaac Sim, LiDAR, PID Control, MPC (Model Predictive
+        Control), NVIDIA Jetson, Edge Computing, MQTT, OPC-UA, PLC/SCADA, MATLAB,
+      Sim2Real, Digital Twin]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9008937'
+  extracted_at: '2026-04-22T13:57:23.077013'

@@ -1,0 +1,194 @@
+job_id: 8656600
+title: Software Engineer, AI Dev Tools
+company: Whatnot
+location: Los Angeles, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ai Tools
+  - Ci Systems
+  - Claude.Md
+  - Containerized Environments
+  - Mcp Servers
+  - Multi-Agent Orchestration
+  - Prompt Engineering Frameworks
+description: |
+  🚀 Join the Future of Commerce with Whatnot!
+  
+  Whatnot is the largest livestream shopping platform in North
+  America and Europe to buy, sell, and discover the things you
+  love. Whether it's trading cards, fashion, electronics, or
+  live plants, our sellers are building real businesses across
+  hundreds of categories. We're building live commerce at a
+  scale that's never been done in the West, and there's no
+  playbook to copy. The people here are shaping how an
+  entirely new industry develops.
+  
+  As a remote co-located team, we're inspired by our values
+  and anchored in hubs across the US, UK, Ireland, Poland,
+  Germany, and Australia. We move fast, stay close to our
+  users, and focus on the work that drives the most impact.
+  
+  We're one of the fastest growing marketplaces and were
+  recently named the #1 Best Startup Employer in America by
+  Forbes. Check out the latest Whatnot updates on our news and
+  engineering blogs and join us as we enable anyone to turn
+  their passion into a business and bring people together
+  through commerce.
+  
+  💻 Role
+  
+  We’re looking for a Senior Software Engineer to join our
+  Developer Tools team and be a primary contributor of our AI
+  Tooling work end-to-end. In this role, you will build and
+  own the AI tooling that shapes how Whatnot’s engineering
+  organization—and increasingly, non-engineering teams—write
+  code, ship software, and operate systems faster and more
+  effectively.
+  
+  This is not a machine learning or data science role. You
+  won’t be training models—you’ll be building the tooling,
+  infrastructure, and workflows that allow AI coding agents
+  and assistants to operate effectively within Whatnot’s
+  codebase and processes. You should be deeply familiar with
+  the current generation of AI development tools, especially
+  tools provided by the big 3 LLM companies (Anthropic,
+  OpenAI, Google) and have broad knowledge of other AI and LLM
+  products and services.
+  
+  Critically, you must be a strong software engineer first.
+  You’ll serve as the primary interface between the Developer
+  Tools team and Whatnot’s AI Tooling Working Group—a cross-
+  functional community group that tracks the bleeding-edge
+  frontier of AI tooling. You’ll gather feedback, identify
+  high-impact opportunities, and feed that context into the
+  team’s roadmap and build priorities.
+  
+  You will work on all aspects of AI tooling, including:
+  
+  - Building and shipping AI tooling across the full
+    spectrum—from near-term developer productivity wins to
+    long-term autonomous agent capabilities—while helping
+    shape what we prioritize next based on what you see
+    working (and not working) on the ground
+  - Designing and building sandboxed, containerized environments
+    where AI agents can operate autonomously—running code,
+    executing tests, and iterating on solutions with
+    appropriate guardrails
+  - Building multi-agent orchestration systems and workflows,
+    including CI-fixing agents, SRE context agents, and other
+    autonomous AI capabilities that reduce toil and accelerate
+    delivery
+  - Enabling non-engineers (PMs, designers, operations) to
+    leverage AI tools effectively through purpose-built
+    workflows, onboarding experiences, and low-code/no-code
+    interfaces
+  - Building and optimizing AI-aware developer infrastructure:
+    CLAUDE.md configurations, MCP servers, prompt engineering
+    frameworks, and context management systems that make AI
+    assistants more effective in our codebase
+  - Deploying, monitoring, and maintaining the infrastructure
+    supporting AI tools and workflows to ensure high
+    availability, performance, and reliability for the
+    organization.
+  - Evaluating and integrating emerging AI tools and platforms
+    as the landscape evolves—staying ahead of the curve and
+    bringing the best of the ecosystem into Whatnot
+  
+  This is a high-visibility, high-autonomy role. You'll have
+  significant ownership over a space that is evolving rapidly,
+  is a top strategic priority for Whatnot's engineering
+  leadership, and directly shapes how our engineers work every
+  day. We offer flexibility to work from home or our office
+  hub, and we value in-person time for planning, problem-
+  solving, and connection. Team members in this role must live
+  within commuting distance of our Los Angeles or San
+  Francisco hubs.
+  
+  👋 You
+  
+  People who do well at Whatnot tend to be comfortable
+  figuring things out as they go, biased toward action, and
+  genuinely curious about what they're building. They care
+  more about outcomes than credit and stay close to the
+  product and the people using it.
+  
+  - 5+ years of software engineering experience, with a strong
+    track record of building and shipping production systems.
+    You're a software engineer first—backend-leaning is fine,
+    but you're comfortable getting around a frontend codebase
+    too, and ideally have enough breadth across different
+    stacks to understand what good tooling looks like beyond
+    your home turf.
+  - A genuine developer tooling enthusiast who's built or
+    improved internal tools, obsessed over local dev
+    ergonomics, or contributed to platform infrastructure—and
+    ideally owned some of it in production. You see AI not
+    just as autocomplete, but as a catalyst for reimagining
+    how developers interact with their environments,
+    codebases, and workflows.
+  - Deeply familiar with the current generation of AI coding
+    tools—Claude Code (strongly preferred), Cursor, Codex, or
+    similar—and use them to get real work done. You have
+    strong opinions about where this space is heading and
+    don't need to chase every new release to stay effective.
+  - Strong product thinking—you can translate ambiguous problem
+    spaces into concrete plans and prioritize across competing
+    initiatives. You’re comfortable writing a technical design
+    doc and can clearly communicate what you’re building and
+    why to people outside your team.
+  - Clear communicator who adapts naturally to your
+    audience—whether that’s pairing with a staff engineer on
+    an integration, onboarding a PM onto an AI workflow, or
+    fielding questions from our VP of Engineering or CPO. The
+    people you work with will span the full spectrum of
+    technical ability.
+  - Bonus: experience with agent sandboxing, containerized
+    execution environments, multi-agent orchestration, LLM
+    APIs and observability, prompt engineering at scale, or
+    enabling non-technical users to leverage AI-powered
+    workflows.
+  
+  🎁 Benefits
+  
+  - Generous Holiday and Time off Policy
+  - Health Insurance options including Medical, Dental, Vision
+  - Work From Home Support
+    - Home office setup allowance
+    - Monthly allowance for cell phone and internet
+  - Care benefits
+    - Monthly allowance for wellness
+    - Annual allowance towards Childcare
+    - Lifetime benefit for family planning, such as adoption or
+      fertility expenses
+  - Retirement; 401k offering for Traditional and Roth accounts
+    in the US (employer match up to 4% of base salary) and
+    Pension plans internationally
+  - Monthly allowance to dogfood the app
+    - All Whatnauts are expected to develop a deep understanding
+      of our product. We're passionate about building the best
+      user experience, and all employees are expected to use
+      Whatnot as both a buyer and a seller as part of their
+      job (our dogfooding budget makes this fun and easy!).
+  - Parental Leave
+    - 16 weeks of paid parental leave + one month gradual return
+      to work *company leave allownces run concurrently with
+      country leave requirements which take precedence
+  
+  💛 EOE
+  
+  Whatnot is proud to be an Equal Opportunity Employer. We
+  value diversity, and we do not discriminate on the basis of
+  race, religion, color, national origin, gender, sexual
+  orientation, age, marital status, veteran status, parental
+  status, disability status, or any other status protected by
+  local law. We believe that our work is better and our
+  company culture is improved when we encourage, support, and
+  respect the different skills and experiences represented
+  within our workforce.
+industries:
+  - eCommerce
+  - Mobile
+posted_date: 2026-03-04
+url: "https://www.builtinla.com/job/software-engineer-ai-dev-tools/8656600"
+source: Built In

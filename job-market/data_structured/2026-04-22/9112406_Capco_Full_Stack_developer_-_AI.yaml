@@ -1,0 +1,59 @@
+company:
+  name: Capco
+  stage: Public (Wipro subsidiary)
+  focus: |-
+    Global technology and management consulting for financial
+    services and energy sectors
+position:
+  title: Full Stack developer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily a full stack software engineering
+      position that integrates pre-built AI/ML models and LLM APIs
+      into web applications. The developer builds UIs and backend
+      services, embedding AI capabilities built by others (data
+      scientists, ML engineers) into end-user apps. While it
+      involves working with AI/LLM services, the core work is
+      application development, not building, training, or fine-
+      tuning models directly.
+  responsibilities:
+  - Design, develop, and maintain full stack web applications integrating AI/ML models,
+    knowledge graphs, and search interfaces for financial research
+  - Build modern, responsive UIs using React.js with a focus on usability and performance
+  - Develop scalable, secure backend services using Python (FastAPI/Flask/Django),
+    Node.js, including REST and GraphQL APIs
+  - Integrate front-end components with AI/LLM services (e.g., GPT, Claude), document
+    processing APIs, and financial datasets
+  - Collaborate with DevOps and Cloud teams to deploy applications using CI/CD pipelines,
+    Docker, and Kubernetes
+  - Work alongside data scientists and ML engineers to embed AI capabilities into
+    end-user applications
+  - Collaborate with UX teams to translate user feedback from investment professionals
+    into intuitive features
+  - Follow best practices in secure coding, data access control, and compliance for
+    financial systems
+  use_cases:
+  - Financial research with AI-assisted knowledge graph exploration and search
+  - Document processing and analysis for financial services
+  - RAG-based retrieval and generation workflows for investment professionals
+  - Integration of LLM capabilities into financial research applications
+  - Enterprise-grade AI-powered search interfaces for private equity and asset management
+  skills:
+    genai: [OpenAI GPT API, Claude API, RAG]
+    ml: []
+    web: [React.js, Redux, Tailwind CSS, FastAPI, Flask, Django, Node.js, REST APIs,
+      GraphQL]
+    databases: [PostgreSQL, MongoDB, Neo4j, Amazon Neptune, Elasticsearch, Vector
+        Databases]
+    data: []
+    cloud: [AWS Lambda, AWS ECS, AWS S3, AWS API Gateway, AWS SageMaker]
+    ops: [Docker, Kubernetes, CI/CD, Git, Jenkins, GitHub Actions]
+    languages: [TypeScript, Python]
+    domains: [NLP]
+    other: [Microservices Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9112406'
+  extracted_at: '2026-04-22T12:54:32.574989'

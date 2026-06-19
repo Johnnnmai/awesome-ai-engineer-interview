@@ -1,0 +1,56 @@
+company:
+  name: Celonis
+  stage: Late-stage private/Pre-IPO (implied by "world's fastest-growing SaaS" and
+    global presence)
+  focus: |-
+    Process Intelligence technology - process mining and AI
+    platform for business operations
+position:
+  title: Senior Applied AI Engineer (Pre-Sales) - Public Sector Transformation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI
+      systems including LLM/agent systems with RAG, tools, and
+      guardrails. The engineer will prototype solutions using
+      generative AI techniques and work directly with AI/ML
+      technologies from partners like OpenAI and Microsoft to
+      build production systems for customers.
+  responsibilities:
+  - Understand customer AI strategy and translate requirements into innovative solutions
+    using the Celonis Process Intelligence platform
+  - Rapidly build creative AI prototypes in customer hackathons leveraging cutting-edge
+    AI technologies
+  - Design and deliver secure, scalable LLM/agent systems with RAG, tools, and guardrails
+    integrated with enterprise data and compliance frameworks
+  - Execute end-to-end Proof-of-Value projects including architecture and implementation
+  - Support customers in achieving ROI from AI deployments by enabling transformation
+    to autonomous AI agents
+  - Stay involved with projects until agreed value and adoption thresholds are reached
+  - Specialize in specific domains (e.g., supply chain) and industries to scale knowledge
+    across the organization
+  use_cases:
+  - Agentic process transformation - shifting from rule-based automation to autonomous
+    AI agents
+  - Intelligent chatbots and automated text processors
+  - Business process optimization using AI and process mining
+  - Enterprise AI deployment at scale with real ROI
+  - Process intelligence feeding operational context to AI systems
+  skills:
+    genai: [RAG, Prompt engineering, Multi-agent orchestration, Few-shot learning,
+      LangChain, LlamaIndex, OpenAI APIs, LLM orchestration, Function calling, Evaluations
+        and guardrails]
+    ml: [Fine-tuning, PyTorch, scikit-learn]
+    web: []
+    databases: []
+    data: [pandas, Data engineering tools]
+    cloud: [AWS Bedrock, Azure AI, GCP Vertex AI]
+    ops: [Model deployment and monitoring]
+    languages: [Python]
+    domains: []
+    other: [pydantic]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7553722'
+  extracted_at: '2026-03-27T14:29:48.618506'

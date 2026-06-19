@@ -1,0 +1,46 @@
+company:
+  name: OneMagnify
+  stage: unknown
+  focus: Marketing technology and business intelligence solutions
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs including
+      optimization, evaluation frameworks, and fine-tuning. The
+      position directly builds and optimizes AI systems (LLM-
+      powered applications) and implements ML models, not just
+      supporting infrastructure.
+  responsibilities:
+  - Optimize LLM performance by maximizing accuracy and minimizing latency in LLM-powered
+    applications
+  - Implement robust LLM evaluation frameworks to ensure high-quality model outputs
+  - Build sophisticated clustering models for customer and product segmentation incorporating
+    complex business logic
+  - Design, build and maintain efficient data pipelines using SQL and Python DAGs
+  - Self-host and fine-tune LLMs as needed for specific use cases
+  - Apply advanced ML techniques including time series forecasting and dimension reduction
+  use_cases:
+  - Customer segmentation and clustering
+  - Product segmentation and categorization
+  - LLM-powered business intelligence applications
+  - Market basket analysis
+  - Time series forecasting for business analytics
+  skills:
+    genai: [LLM Optimization, LLM Evaluation, LLM APIs, Fine-tuning LLMs, Self-hosting
+        LLMs]
+    ml: [Clustering, Time Series Forecasting, Dimension Reduction, Market Basket Analysis]
+    web: []
+    databases: []
+    data: [Airflow, Python DAGs, Spark, Alteryx]
+    cloud: []
+    ops: []
+    languages: [SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8582194'
+  extracted_at: '2026-03-03T12:50:02.231536'

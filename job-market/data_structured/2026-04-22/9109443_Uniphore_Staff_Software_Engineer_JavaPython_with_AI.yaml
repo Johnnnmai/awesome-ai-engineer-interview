@@ -1,0 +1,58 @@
+company:
+  name: Uniphore
+  stage: Late-stage / Growth
+  focus: B2B AI-native enterprise platform for customer experience
+position:
+  title: Staff Software Engineer (Java/Python with AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building the BAIC (Business AI Cloud)
+      Platform that powers agent orchestration, knowledge
+      management, model serving, and RAG pipelines. While
+      primarily a backend engineering role, it directly builds AI
+      platform capabilities including GenAI integration, agentic
+      systems, and LLM inference infrastructure — making it hands-
+      on with AI systems deployment and orchestration.
+  responsibilities:
+  - Own new platform capabilities end-to-end on the BAIC (Business AI Cloud) Platform
+    — from problem framing through design to production rollout
+  - Design and build scalable, reliable, low-latency backend services in Java (Spring
+    Boot) and Python (FastAPI)
+  - Build and ship products from 0 to 1, iterating with real customers to drive adoption
+    and scale at enterprise level
+  - Design and implement RAG pipelines, agent orchestration systems, and LLM serving
+    infrastructure
+  - Build for both SaaS and on-premises/customer-controlled deployments with appropriate
+    trade-offs around topology, secrets, and network boundaries
+  - Partner with DevOps/SRE to codify infrastructure in Terraform and ship through
+    CI/CD pipelines
+  - Troubleshoot, debug, and optimize existing services for performance, reliability,
+    and scalability
+  - Use AI-assisted developer tooling and coding agents to amplify engineering throughput
+    while maintaining quality
+  use_cases:
+  - Enterprise knowledge management powered by AI
+  - Agent orchestration for multi-step AI workflows
+  - Unified data access layer for customer-facing AI applications
+  - Model serving infrastructure for LLM and GenAI workloads
+  - Multimodal AI platform combining voice, video, and text analysis for customer
+    experience
+  skills:
+    genai: [RAG (Retrieval-Augmented Generation), LangGraph, LangChain, CrewAI, LLM
+        inference and serving, Agent frameworks and orchestration, LLM guardrails
+        and evaluations]
+    ml: [LoRA / QLoRA, Fine-tuning]
+    web: [Spring Boot, FastAPI, REST APIs, gRPC, WebSockets]
+    databases: [PostgreSQL, MongoDB, Vector search / Vector stores]
+    data: [Kafka]
+    cloud: [AWS, GCP, Azure]
+    ops: [Terraform, GitHub Actions, Kubernetes, Docker, Prometheus, Grafana, OpenTelemetry]
+    languages: [Python, Java, SQL, JavaScript, TypeScript]
+    domains: []
+    other: [Distributed systems design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9109443'
+  extracted_at: '2026-04-22T13:30:32.916576'

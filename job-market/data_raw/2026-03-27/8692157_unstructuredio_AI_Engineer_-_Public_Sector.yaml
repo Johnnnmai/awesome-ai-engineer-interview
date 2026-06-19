@@ -1,0 +1,161 @@
+job_id: 8692157
+title: AI Engineer - Public Sector
+company: unstructured.io
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - Fastapi
+  - Govcloud
+  - Python
+description: |
+  The Mission
+  
+  At Unstructured, we are obsessed with transforming messy,
+  unstructured data into a format that LLMs can actually use.
+  Our Public Sector team has recently secured several high-
+  impact contracts that demand more than just "off-the-shelf"
+  solutions. We are looking for an AI Engineer who thrives at
+  the intersection of R&D and production-grade software
+  engineering.
+  
+  
+  
+  You won’t just be building notebook demos; you will be
+  architecting, prototyping, and shipping novel multimodal
+  data processing, RAG, and agentic systems that solve
+  critical problems for Government and Military clients. Your
+  work will bridge the gap between one-off custom builds and a
+  repeatable, scalable product roadmap.
+  
+  
+  
+  What You’ll Do Day-to-Day
+  
+  You will be a high-agency individual contributor, owning the
+  lifecycle of AI solutions from initial research to AWS
+  deployment.
+  
+  
+  
+  50% Building & Shipping: Design and implement production-
+  grade RAG pipelines and agentic workflows using Python.
+  You’ll build systems that handle real-world "messy" data
+  (PDFs, scanned docs, images, full motion video) and ensure
+  they are performant and scalable.
+  
+  
+  
+  30% Research & Experimentation: Stay at the bleeding edge.
+  You’ll evaluate new models (LLMs, embedding models, object
+  detection), prototype approaches for SBIR/government
+  deliverables, and run experiments to prove what actually
+  works.
+  
+  
+  
+  20% Strategy & Collaboration: Partner with the team to
+  document architectures, contribute to technical reports for
+  contract deliverables, and participate in pre-sales calls to
+  architect solutions for complex client needs.
+  
+  
+  
+  The Ideal Candidate
+  
+  We are looking for a self-directed engineer who excels in
+  high-stakes, ambiguous environments. You are likely a strong
+  fit if your professional background reflects the following:
+  
+  
+  
+  Systems-First Engineering: You prioritize building reliable,
+  scalable systems over experimental scripts. You have a track
+  record of moving AI models out of notebooks and into
+  production environments where latency, cost, and accuracy
+  are treated as first-class citizens.
+  
+  
+  
+  Technical Resourcefulness: You are comfortable working in
+  restricted or air-gapped environments. When commercial APIs
+  aren’t an option, you have the expertise to deploy, fine-
+  tune, and optimize open-source models to achieve the mission
+  objective.
+  
+  
+  
+  Autonomous Problem Solving: You can take a high-level
+  government requirement and translate it into a technical
+  roadmap. You don't require constant oversight to identify
+  the right tool for a job, whether it’s a specific vector
+  database or a custom multimodal pipeline.
+  
+  
+  
+  A "Generalist" Mindset: While you specialize in AI, you
+  understand the full stack. You are as comfortable discussing
+  embedding strategies as you are configuring AWS GovCloud
+  infrastructure or debugging a FastAPI endpoint.
+  
+  Must-Haves
+  
+  - Proven experience deploying Production RAG pipelines against
+    real-world, messy datasets.
+  - Deep expertise in Agentic system design (tool-use, multi-
+    agent orchestration).
+  - Strong Python engineering skills—writing clean, scalable,
+    and maintainable code
+  - Experience operating within AWS/GovCloud environments.
+  
+  Nice-to-Haves
+  
+  - Experience fine-tuning NLP or object detection models.
+  - Familiarity with LLM evaluation frameworks (hallucination
+    detection, drift monitoring).
+  - Knowledge of government security standards and working in
+    different classification environments and on-prem
+  - Security Clearance: Existing Secret/TS clearance or
+    eligibility is a significant plus.
+  
+  Your Technical Toolkit
+  
+  - Languages: Python (expert-level), SQL
+  - LLM & Agentic Frameworks: LangChain, LangGraph, CrewAI, or
+    similar orchestration frameworks
+  - RAG Stack: Retrieval with vector databases (Pinecone,
+    Weaviate, Chroma, pgvector), graph databases (Neo4J),
+    Elasticsearch, BM25, and Sentence-Transformers; NLP
+    enrichment with spaCy, GLiNER, and Transformers;
+    optimization using embedding models, reranking pipelines,
+    and DSPy
+  - Evaluation & Observability: RAGAS, DeepEval, Arize Phoenix,
+    and synthetic annotations
+  - Cloud & Infrastructure: AWS, SageMaker, Bedrock, S3, Lambda,
+    Docker, and FastAPI
+  - Data Processing: Complex pipelines for unstructured and
+    multimodal data, including PDFs, scanned documents,
+    images, and audio.
+  
+  Why Join Us
+  
+  Opportunity to work on a dynamic team and work on cutting-
+  edge machine learning projects.
+  
+  Collaborative and innovative work environment with a focus
+  on learning and growth.
+  
+  Impactful role in shaping the company's direction and
+  driving innovation in unstructured data processing.
+  
+  Competitive compensation package, including benefits and
+  stock options.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Natural Language Processing
+  - Software
+posted_date: 2026-03-20
+url: "https://www.builtinla.com/job/ai-engineer-public-sector/8692157"
+source: Built In

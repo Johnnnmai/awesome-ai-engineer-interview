@@ -1,0 +1,57 @@
+company:
+  name: Celonis
+  stage: Late-stage / Pre-IPO (well-established global SaaS company with 20+ offices)
+  focus: Process Intelligence and Process Mining SaaS platform
+position:
+  title: Senior Applied AI Engineer (Value Engineering) - EMEA/UKIE
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Value Engineering / Solution Consulting role at an
+      AI-driven company (Celonis), but the role itself is
+      customer-facing consulting focused on demonstrating business
+      value, process improvement, and ROI analysis. The engineer
+      uses Celonis's AI-powered platform as a tool to help
+      customers, but does not build, train, fine-tune, or deploy
+      AI/ML models directly. The work is about applying existing
+      AI-powered products to solve customer problems rather than
+      developing AI systems.
+  responsibilities:
+  - Collaborate with GCC customers to uncover core business challenges and determine
+    how Celonis can help achieve business objectives
+  - Build demos and business cases leveraging industry benchmarks to win new customers
+  - Conduct Value Assessments and Proof-of-Value projects, communicating value opportunities
+    and strategic roadmaps to C-Level executives
+  - Facilitate business value workshops and use Celonis to identify and qualify opportunities
+    for process enhancement
+  - Derive improvement measures in core business functions and initiate enterprise-wide
+    change initiatives
+  - Build strategic expansion roadmaps embedding Celonis Process Intelligence as a
+    transformation platform to drive adoption and expansion
+  - Create reusable collateral, best practices and tools within the Global VE Center
+    of Excellence
+  - Provide customer insights and feedback to internal Product and Engineering teams
+    to influence product innovation
+  use_cases:
+  - Business process mining and intelligence to discover how operations actually run
+  - Process improvement identification and value realization for enterprise customers
+  - ROI analysis and business case development for Celonis platform deployments
+  - Digital twin of business operations for continuous process optimization
+  - Enterprise-wide change management and business transformation initiatives
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [BI Tools]
+    cloud: []
+    ops: []
+    languages: [SQL, Python]
+    domains: []
+    other: [SAP, RPA, Dashboarding, Process Mining, ROI Analysis, Executive Stakeholder
+        Management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8584320'
+  extracted_at: '2026-04-22T12:38:33.738800'

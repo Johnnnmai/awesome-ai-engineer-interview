@@ -1,0 +1,50 @@
+company:
+  name: Pathward
+  stage: unknown
+  focus: Financial empowerment and inclusion services
+position:
+  title: AI Engineer, Senior
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly researching, developing,
+      training, validating, and deploying AI/ML models to solve
+      business challenges. The position requires hands-on work
+      with AI model training, optimization, and integration into
+      production systems, making it an ai-first role.
+  responsibilities:
+  - Research, design, and develop AI and machine learning models to solve business
+    challenges and enable human intelligence simulation
+  - Identify and evaluate opportunities for leveraging AI technologies across the
+    organization and recommend AI-driven solutions
+  - Collect, prepare, and preprocess data from various sources for model training
+    including data cleaning and feature engineering
+  - Train, validate, and optimize AI models using appropriate algorithms, frameworks,
+    and evaluation metrics
+  - Integrate AI solutions into existing systems, applications, and workflows by developing
+    APIs and microservices
+  - Monitor and maintain deployed AI models through performance tracking and iterative
+    improvements
+  - Collaborate with cross-functional teams including data scientists, software engineers,
+    and business stakeholders
+  use_cases:
+  - Financial inclusion and empowerment solutions
+  - Business process automation and efficiency improvement
+  - Decision-making and perception systems for financial services
+  - Workflow optimization across the organization
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, scikit-learn]
+    web: [FastAPI, REST APIs]
+    databases: [PostgreSQL]
+    data: [Data preprocessing, Feature engineering]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, MLflow]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8782438'
+  extracted_at: '2026-03-27T14:59:29.174510'

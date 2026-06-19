@@ -1,0 +1,48 @@
+company:
+  name: Equifax Inc.
+  stage: Public
+  focus: Consumer credit reporting and data analytics services
+position:
+  title: Software Engineer - Specialist (Cloud & AI Platforms)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires "experience with architecting
+      AI-native systems and oversight of agentic workflows," which
+      involves hands-on work designing and implementing AI/agent
+      systems. While the position covers general software
+      engineering, the AI-native architecture and agentic workflow
+      responsibilities place it in the ai-first category.
+  responsibilities:
+  - Architect and build cloud-native, distributed microservice-based systems
+  - Deliver enterprise-scale software solutions through standard SDLC processes
+  - Lead and mentor cross-functional engineering teams including software, quality,
+    and reliability engineers
+  - Architect AI-native systems and provide oversight of agentic workflows
+  - Manage production troubleshooting and resolve customer issues under pressure
+  - Define and maintain SLAs, SLOs, and SLIs meeting engineering standards
+  - Ensure compliance with secure software development guidelines and DevSec practices
+  - Collaborate with architects and technical leadership on strategic technical direction
+  use_cases:
+  - AI-native system architecture for enterprise applications
+  - Agentic workflow design and oversight
+  - Enterprise-scale automated solutions for credit and data services
+  - Cloud-native microservices for business-critical systems
+  - Big data processing for analytics and reporting
+  skills:
+    genai: [Agentic workflows, AI-native systems]
+    ml: []
+    web: [Angular, React, Vue, REST API, SpringBoot]
+    databases: [BigQuery, Bigtable, MySQL, SQL Server]
+    data: [Dataflow/Apache Beam, PubSub, Airflow]
+    cloud: [GCP, AWS]
+    ops: [Jenkins, Docker, Kubernetes, Helm Charts, Terraform, Git, GitHub, Maven,
+      Gradle, JUnit, Selenium]
+    languages: [Python, JavaScript, TypeScript, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8413544'
+  extracted_at: '2026-03-03T12:34:58.670739'

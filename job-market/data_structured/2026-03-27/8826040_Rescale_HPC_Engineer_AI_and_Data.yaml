@@ -1,0 +1,47 @@
+company:
+  name: Rescale
+  stage: null
+  focus: |-
+    Cloud HPC platform for engineering and scientific computing
+    with AI integration
+position:
+  title: HPC Engineer, AI and Data
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly integrating AI technologies into
+      CAE workflows and solving complex HPC AI problems using
+      PyTorch, Modulus, PyG, and CUDA. This is hands-on work with
+      AI/ML models applied to engineering simulations, not just
+      infrastructure support.
+  responsibilities:
+  - Solve complex HPC AI problems for customers on the platform
+  - Integrate cutting-edge AI technologies into CAE workflows
+  - Engage directly with customers to understand needs and provide tailored AI/HPC
+    solutions
+  - Contribute to development and enhancement of AI software products
+  - Become an expert in the Rescale platform and its application to customer workflows
+  - Stay updated with latest advancements in HPC and AI technologies
+  - Participate in code reviews and collaborate with development team
+  use_cases:
+  - AI-accelerated engineering simulations
+  - Computer-aided engineering (CAE) workflows
+  - Computational fluid dynamics (CFD) and finite element analysis (FEA)
+  - Scientific computing and R&D applications
+  - Aerospace, energy, life sciences, and manufacturing simulations
+  skills:
+    genai: []
+    ml: [PyTorch, Modulus, PyG (PyTorch Geometric), CUDA]
+    web: [REST API development]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes]
+    languages: []
+    domains: [CAE/CFD/FEA]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8826040'
+  extracted_at: '2026-03-27T15:11:12.065294'

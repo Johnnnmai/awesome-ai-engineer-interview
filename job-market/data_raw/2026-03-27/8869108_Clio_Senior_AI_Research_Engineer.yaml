@@ -1,0 +1,212 @@
+job_id: 8869108
+title: Senior AI Research Engineer
+company: Clio
+location: London, GBR
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Agent Orchestration Frameworks
+  - AI
+  - Data Science
+  - Information Retrieval Systems
+  - Large Language Models
+  - Machine Learning
+  - Nlp
+  - Prompt Engineering
+company_size: 889 Employees
+description: |
+  Clio is the global leader in legal AI technology, empowering
+  legal professionals and law firms of every size to work
+  smarter, faster, and more securely.
+  
+  We are transforming the legal experience for all by
+  bettering the lives of legal professionals while increasing
+  access to justice.
+  
+  Summary:
+  
+  Clio signed a definitive agreement to acquire vLex in 2025.
+  This transaction is a major milestone in Clio’s platform
+  evolution and a turning point for the future of legal work.
+  It combines Clio’s legal operating system - trusted by more
+  than 200,000 legal professionals - with vLex’s cutting-edge
+  legal intelligence platform, which includes Vincent AI,
+  built on the industry’s most comprehensive global legal
+  database. Together, these platforms establish a new category
+  of intelligent legal technology at the intersection of the
+  business and practice of law, empowering legal professionals
+  to seamlessly manage, research, and execute legal work
+  within a unified system. Learn more here.
+  
+  This role is available to candidates local to our London
+  hub, with the expectation of being in office minimum twice
+  per week on our Anchor Days.
+  
+  As a Senior AI Research Engineer, you will play a key role
+  in developing and advancing Vincent, vLex’s groundbreaking
+  AI, by contributing to applied research experiments that
+  integrate cutting-edge AI - particularly large language
+  models (LLMs) - into real-world legal workflows. You will
+  work closely with software engineers and domain experts on
+  sophisticated technical challenges to deliver innovative
+  solutions that push the boundaries of legal technology.
+  
+  What you’ll work on:
+  
+  - Foundations of retrieval at scale: Re-think how we search
+    over vast, heterogeneous legal corpora. Exploring new
+    approaches to chunking, query augmentation, hybrid
+    sparse/dense embeddings, contextual embeddings,
+    quantisation, to push the boundaries of recall, speed, and
+    efficiency
+  - Learning to rank with legal signals: Experiment with re-
+    ranking strategies for search results that incorporate
+    legal-specific signals that go beyond keyword matches and
+    semantic similarities, to surface the most authoritative
+    and relevant results first
+  - Agentic infrastructure for legal workflows: Develop the
+    foundations of agents that can decompose complex legal
+    tasks, plan across multiple tools, and execute with
+    traceability and guardrails. These are building blocks
+    that underpin future end-to-end automated workflows
+  - Evaluation frameworks for retrieval and agents: Design and
+    run experiments that help us measure system performance
+    against the needs of legal professionals: offline
+    testbeds, human-in-the-loop evaluations, implicit feedback
+    pipelines, and alignment between lab metrics and customer
+    satisfaction
+  - Grounding and validation of model responses: Create
+    mechanisms that ensure model responses are trustworthy by
+    anchoring them in trusted legal sources, with clear
+    traceability to supporting evidence, and methods for
+    validating cited content and surfacing uncertainty when
+    the model lacks sufficient grounding
+  
+  A day in the life might look like:
+  
+  - Leading complex research projects focused on LLMs, advanced
+    information retrieval, and novel AI applications in the
+    legal domain, working independently with minimal
+    supervision
+  - Designing and implementing sophisticated prototypes that
+    demonstrate the feasibility and business value of cutting-
+    edge research ideas, ensuring they meet production-quality
+    standards
+  - Driving the transition of research innovations from
+    prototype to production, collaborating closely with
+    product and engineering teams to ensure successful
+    integration and scalability
+  - Contributing to strategic research planning by identifying
+    high-impact research opportunities and helping prioritize
+    initiatives based on business value and technical
+    feasibility
+  - Staying at the forefront of AI research, particularly in
+    NLP, LLMs, and legal AI, actively incorporating state-of-
+    the-art techniques into your work and sharing insights
+    with the team
+  - Lead technical discussions and code reviews, ensuring high
+    standards of research quality and implementation across
+    the team
+  - Collaborating with cross-functional stakeholders including
+    product managers, legal engineers, and business leaders to
+    align research efforts with strategic objectives
+  - Documenting and communicating research findings through
+    internal presentations, technical documentation, and
+    potentially external publications or conference
+    presentations
+  - Contributing to the development of research infrastructure
+    and best practices that enhance the team's overall
+    efficiency and impact
+  
+  What you may have
+  
+  - Masters degree or PhD in Computer Science, Machine Learning,
+    Data Science, Artificial Intelligence, or a related field
+  - Industry experience in applied AI research or engineering
+  - At least one of the following experiences:
+    - Information retrieval systems
+    - LLM fine-tuning and evaluation
+    - LLM hosting and inference optimization
+    - LLM workflow automation using prompt engineering, prompt
+      chaining techniques, and agent orchestration frameworks
+  - Track record of independently delivering complex technical
+    projects from ideation to implementation
+  - Hands-on experience in working closely with product
+    engineering in production applications
+  - Proficiency in data manipulation, cleaning, and pre-
+    processing for complex unstructured data sets
+  - A proven ability to quickly learn new technologies and adapt
+    to a fast-paced environment with distributed teams and
+    customers
+  - A strong understanding of modern AI tools and approaches
+  - Clear communication skills and the ability to build trust
+    with both internal teams and external customers
+  - A desire to continuously learn, challenge yourself, and
+    refine your craft
+  - A deep interest in how technology transforms the legal
+    industry is highly valuable
+  
+  This is a new role.
+  
+  What you will find here:
+  
+  Compensation is one of the main components of Clio’s Total
+  Rewards Program. We have developed a series of programs and
+  processes to ensure we are creating fair and competitive pay
+  practices that form the foundation of our human and high-
+  performing culture.
+  
+  
+  Some highlights of our Total Rewards program include:
+  
+  - Competitive, equitable salary with top-tier health benefits
+    and dental coverage.
+  - Hybrid work environment, with expectation for local Clions
+    (Vancouver, Calgary, Toronto, Dublin and Sydney) to be in
+    office min. twice per week.
+  - Flexible time off policy
+  - Pension contribution
+  - Clioversary recognition program with special acknowledgement
+    at 3, 5, 7, and 10 years
+  
+  Please note salary bands may differ based on location and
+  local currency. Additionally, benefits may differ depending
+  on the employee's location.
+  
+  Diversity, Inclusion, Belonging and Equity (DIBE) &
+  Accessibility
+  
+  Our team shows up as their authentic selves, and are united
+  by our mission. We are dedicated to diversity, equity and
+  inclusion. We pride ourselves in building and fostering an
+  environment where our teams feel included, valued, and
+  enabled to do the best work of their careers, wherever they
+  choose to log in from. We believe that different
+  perspectives, skills, backgrounds, and experiences result in
+  higher-performing teams and better innovation. We are
+  committed to equal employment and we encourage candidates
+  from all backgrounds to apply.
+  
+  Clio provides accessibility accommodations during the
+  recruitment process. Should you require any accommodation,
+  please let us know and we will work with you to meet your
+  needs.
+  
+  Learn more about our culture at clio.com/careers
+  
+  We're a Human and High Performing AI company, meaning we use
+  artificial intelligence to improve all of our operations. In
+  recruitment, AI helps us streamline the process for greater
+  efficiency. However, we've built our systems to ensure that
+  a human always reviews AI-generated output, and we never
+  make automated hiring decisions.
+  
+  Disclaimer: We only communicate with candidates through
+  official @clio.com email addresses.
+industries:
+  - Cloud
+  - Legal Tech
+  - Software
+posted_date: 2026-03-26
+url: "https://builtin.com/job/senior-ai-research-engineer/8869108"
+source: Built In

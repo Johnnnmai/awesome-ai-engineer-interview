@@ -1,0 +1,59 @@
+company:
+  name: Boeing
+  stage: Public
+  focus: |-
+    Global aerospace company developing commercial airplanes,
+    defense products and space systems
+position:
+  title: Lead Software Engineer - AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      productizing ML/DL models and GenAI/LLM-powered solutions,
+      including agentic systems and information retrieval. The
+      position requires hands-on end-to-end ML lifecycle work
+      (data pipelines, training, deployment, monitoring) and
+      building GenAI/LLM solutions, making it clearly ai-first.
+  responsibilities:
+  - Develop innovative ML/DL models and analysis to provide actionable information
+    improving aircraft and fleet efficiency and performance
+  - Apply statistical, probabilistic, ML, predictive analytics, and deep learning
+    techniques to airplane health management, manufacturing, automation, and supply
+    chain
+  - Design, develop, and iterate on scalable AI/ML solutions including LLMs, agentic
+    systems, information retrieval, and advanced ML paradigms
+  - Drive the MLOps lifecycle by establishing and maintaining robust pipelines for
+    model deployment and monitoring
+  - Lead Proof-of-Concepts and help engagements implement and adopt new AI tools and
+    technologies
+  - Mentor and guide junior data scientists on technical work and career growth
+  - Collaborate with international teams of software developers and research engineers
+    to execute projects
+  - Document research and development results through progress reports, project summaries,
+    and performance evaluations
+  use_cases:
+  - Aircraft health management and predictive maintenance
+  - Improving aircraft and fleet operational efficiency and performance
+  - Manufacturing automation and supply chain optimization
+  - Simulating aircraft lifecycle scenarios for potential customers
+  - Increasing productivity of Boeing engineering, operations, and manufacturing teams
+  - Engineering data analytics for aerospace applications
+  skills:
+    genai: [LLMs, Agentic AI, Information Retrieval / RAG]
+    ml: [PyTorch, TensorFlow, Deep Learning, Machine Learning, Predictive Analytics,
+      Self-Supervised Learning, Domain Adaptation]
+    web: []
+    databases: []
+    data: [Data Pipelines, Data Science, Synthetic Data Generation]
+    cloud: []
+    ops: [MLOps, Docker / Containerization, CI/CD, Model Deployment, Monitoring, Unit/Integration
+        Testing, Version Control]
+    languages: [Python, R, SQL]
+    domains: [NLP, Computer Vision / Image Processing]
+    other: [Tableau, Power BI]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8436078'
+  extracted_at: '2026-04-22T13:01:42.414086'

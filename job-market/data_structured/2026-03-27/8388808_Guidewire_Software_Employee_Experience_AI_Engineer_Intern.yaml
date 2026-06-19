@@ -1,0 +1,54 @@
+company:
+  name: Guidewire Software
+  stage: Public
+  focus: Cloud platform for P&C insurance - core, analytics, AI
+position:
+  title: Employee Experience AI Engineer Intern
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily about Workday integrations and HR
+      technology systems with AI as a supplementary component. The
+      intern will work on enterprise integrations, reports, and
+      dashboards, with some collaboration on AI features. The AI
+      work supports the platform but isn't the primary focus - the
+      role is about HR systems integration and automation.
+  responsibilities:
+  - Design, develop, and maintain Workday integrations using RAAS, SOAP, REST APIs,
+    Java, XML, and JSON
+  - Build custom reports, configure data, and manage EIB Loads, ISUs, and OAuth2.0
+    settings in Workday
+  - Monitor integrations, troubleshoot failures, and recommend improvements to reduce
+    redundancies
+  - Build and maintain reports and dashboards in Workday for Payroll, Finance, Legal,
+    and People Business Partners
+  - Collaborate with BizTech and People Systems to design, develop, and implement
+    AI features and automations in Workday
+  - Support GenAI engineering excellence and tooling, contributing to agentic platform
+    and citizen developer initiatives
+  - Serve as first point of contact for Workday tickets in ServiceNow, providing solutions
+    and process enhancements
+  - Support and administer HR technology integrations ensuring alignment with security
+    and automation principles
+  use_cases:
+  - HR automation and employee experience enhancement
+  - Workday integration and data management
+  - GenAI-powered workflow automation for HR processes
+  - Citizen developer enablement and agentic platform development
+  - Enterprise reporting and analytics for HR and business teams
+  skills:
+    genai: [AI automation tools, GenAI]
+    ml: []
+    web: [REST APIs, SOAP]
+    databases: []
+    data: []
+    cloud: [Cloud computing databases]
+    ops: []
+    languages: [Java, Python]
+    domains: []
+    other: [Workday, XML, JSON, OAuth2.0, ServiceNow, HCM systems, ERP systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8388808'
+  extracted_at: '2026-03-27T15:41:00.110310'

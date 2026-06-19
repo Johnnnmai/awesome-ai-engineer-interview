@@ -1,0 +1,56 @@
+company:
+  name: Celonis
+  stage: null
+  focus: |-
+    Process Intelligence and process mining SaaS platform for
+    business operations
+position:
+  title: Senior Applied AI Engineer - Life Sciences
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying LLM/agent systems
+      with RAG, tools, and guardrails, along with hands-on work
+      using generative AI techniques like multi-agent
+      orchestration, prompt engineering, and fine-tuning. The
+      engineer directly prototypes and implements AI solutions for
+      customers.
+  responsibilities:
+  - Understand client AI strategy and translate complex supply chain requirements
+    into innovative AI solutions for life sciences organizations
+  - Lead technical discovery and capability demonstrations during pre-sales, and guide
+    post-sale implementation to ensure value realization
+  - Build creative AI prototypes rapidly in customer hackathons to solve critical
+    pain points in planning, sourcing, manufacturing, and distribution
+  - Enable transformation from rule-based automation to autonomous AI agents using
+    Celonis Process Intelligence Platform for use cases like inventory rebalancing
+    and shipment exception handling
+  - Architect and deliver secure, scalable LLM/agent systems with RAG, tools, and
+    guardrails integrated with enterprise ERPs and regulatory frameworks
+  - Serve as technical subject matter expert for Life Sciences Supply Chain, scaling
+    knowledge across the organization
+  use_cases:
+  - Autonomous inventory rebalancing in life sciences supply chains
+  - Intelligent shipment exception handling
+  - Intelligent chatbots for supplier collaboration
+  - Automated extraction of data from customs and quality documents
+  - Supply chain optimization including raw material shortage mitigation and inventory
+    management
+  - Accelerating quality batch releases in pharmaceutical manufacturing
+  skills:
+    genai: [RAG, Prompt engineering, Multi-agent orchestration, Few-shot learning,
+      Fine-tuning, LangChain, LlamaIndex, OpenAI, Function calling]
+    ml: [PyTorch, scikit-learn]
+    web: []
+    databases: []
+    data: [pandas, Databricks]
+    cloud: [AWS Bedrock, Azure AI, GCP Vertex AI, Microsoft]
+    ops: []
+    languages: [Python, pydantic]
+    domains: []
+    other: [SAP]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8710024'
+  extracted_at: '2026-03-27T13:28:13.845951'

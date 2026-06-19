@@ -1,0 +1,56 @@
+company:
+  name: BlackRock
+  stage: Public
+  focus: |-
+    Global asset management and investment technology (Aladdin
+    platform)
+position:
+  title: Applied AI Innovation Engineer, Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on prototyping and building AI-
+      enabled solutions using agentic design patterns
+      (planning/execution loops, routing/specialist agents,
+      retrieval + tool orchestration) with frameworks like
+      LangChain and LangGraph. The engineer independently
+      prototypes, tests, and iterates on AI solutions, making this
+      a direct AI-building role rather than a support role.
+  responsibilities:
+  - Partner with senior leadership to explore AI-driven opportunities across the firm
+    spanning investing, operations, client service, distribution, and corporate functions
+  - Independently prototype, test, and iterate on AI-enabled solutions using firm
+    infrastructure and latest tools
+  - Translate business questions and pain points into practical proofs of concept
+    with tangible business impact
+  - Engage with business teams across all parts of the firm to brainstorm and refine
+    AI use cases
+  - Influence adoption by demonstrating value through working examples and serve as
+    connector between business and technical teams
+  - Capture and share learnings, patterns, and best practices across the organization
+  - Stay current on AI, fintech, and productivity trends and proactively surface relevant
+    ideas
+  - Contribute to an internal community of practice around AI and emerging technologies
+  use_cases:
+  - AI-driven productivity improvements across investing workflows
+  - Automating and enhancing operations and corporate functions
+  - Client service and distribution AI enablement
+  - Exploratory AI prototyping for new business opportunities
+  - Demonstrating AI capabilities to increase organizational comfort and adoption
+  skills:
+    genai: [LangChain, LangGraph, Google ADK, Agentic design patterns, Prompt engineering,
+      RAG (Retrieval Augmented Generation), Human-in-the-loop systems]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [Cloud platforms]
+    ops: [Docker]
+    languages: [Python]
+    domains: [Financial services domain knowledge]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9029320'
+  extracted_at: '2026-04-22T13:36:13.866309'

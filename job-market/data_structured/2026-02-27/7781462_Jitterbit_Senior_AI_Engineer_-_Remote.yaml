@@ -1,0 +1,48 @@
+company:
+  name: Jitterbit
+  stage: null
+  focus: |-
+    iPaaS, application integration, API management, and business
+    process automation platform
+position:
+  title: Senior AI Engineer - Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role because the engineer will directly
+      build, design, and architect AI capabilities using LLMs,
+      RAG, LangChain, and LlamaIndex. The position requires hands-
+      on expertise with AI technologies and developing AI-driven
+      applications, not just supporting infrastructure.
+  responsibilities:
+  - Build, design, and architect AI capabilities on the Jitterbit platform
+  - Create robust, scalable AI systems that run seamlessly 24/7/365
+  - Develop AI-driven applications using LLM, RAG, LangChain, and LlamaIndex
+  - Collaborate with engineers, product management, and operations teams
+  - Mentor and help other engineers grow professionally
+  - Design and ship new features with cross-functional teams
+  - Stay current with emerging AI and cloud computing trends
+  use_cases:
+  - Business process automation and workflow optimization
+  - Integration platform for connecting enterprise systems
+  - AI-powered application building and automation
+  - API management and creation for business processes
+  - Data integration and insights generation for enterprises
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, OpenAI]
+    ml: [Hugging Face Transformers, spaCy, NLTK]
+    web: [Apache Tomcat, Nginx]
+    databases: [Elasticsearch, InfluxDB, Redis, MySQL, MongoDB, AWS DocumentDB, SQL
+        Server]
+    data: [Kafka, ETL, Data pipelines]
+    cloud: [Azure AI, AWS Bedrock, AWS]
+    ops: [TensorFlow Serving, MLflow, Docker, Kubernetes, Terraform, CloudFormation,
+      Jenkins, GitLab CI, CircleCI, Linux]
+    languages: [Python, Java, C++, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7781462'
+  extracted_at: '2026-03-03T11:20:33.194527'

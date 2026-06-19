@@ -1,0 +1,49 @@
+company:
+  name: Optum
+  stage: Public
+  focus: |-
+    Healthcare technology and services for health optimization
+    and pharmacy benefits
+position:
+  title: Software Engineer - AI, C# or Java, React, SQL Server
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a general software engineering role at Optum
+      (healthcare company) requiring AI first mindset with GitHub
+      Copilot or similar tools, but the role focuses on
+      traditional software development (C#/Java, React, SQL
+      Server) rather than building, training, or deploying AI/ML
+      models. The AI tools are mentioned as development aids, not
+      as the primary focus of the role.
+  responsibilities:
+  - Develop commercial software components, services, and solutions with minimal supervision
+  - Execute moderate complexity software engineering assignments based on business
+    requirements and technical guidelines
+  - Apply object-oriented design patterns in enterprise software applications
+  - Develop and maintain web services and APIs
+  - Analyze, design, code, test, debug, and document software applications
+  - Evaluate new tools, techniques, and strategies to drive organizational efficiency
+  - Automate common tasks and build common utilities
+  - Build quality into every output and ensure code meets high standards
+  use_cases:
+  - Healthcare technology solutions for connecting people with care and pharmacy benefits
+  - Health data management and analytics platforms
+  - Enterprise software applications for health optimization
+  - Web services supporting health outcomes improvement
+  skills:
+    genai: [GitHub Copilot]
+    ml: []
+    web: [Spring Framework, Spring Boot, ASP.NET, React, Angular]
+    databases: [SQL Server, Oracle RDBMS]
+    data: [Hibernate]
+    cloud: []
+    ops: [Ansible, Jenkins, GitHub, Git, Jira]
+    languages: [C#, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8504260'
+  extracted_at: '2026-03-03T11:29:58.611931'

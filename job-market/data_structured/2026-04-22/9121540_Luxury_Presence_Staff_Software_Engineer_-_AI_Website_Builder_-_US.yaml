@@ -1,0 +1,45 @@
+company:
+  name: Luxury Presence
+  stage: Series C
+  focus: AI growth platform for real estate professionals
+position:
+  title: Staff Software Engineer - AI Website Builder - US (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is explicitly described as building the foundation
+      of an "AI-first platform" on the AI Website Builder team.
+      The engineer collaborates closely with AI teams and owns
+      major features/services for an AI-powered platform that won
+      an Inman Innovation Award for Best AI-Powered Platform. This
+      involves hands-on work building AI-driven products for real
+      estate professionals.
+  responsibilities:
+  - Build and maintain the foundation of Luxury Presence's AI-first platform
+  - Take ownership of major features and services within the AI Website Builder product
+  - Drive meaningful improvements to system architecture
+  - Collaborate closely with product, design, and AI teams to deliver high-impact
+    outcomes
+  - Ship high-impact features for real estate professionals using AI-powered tools
+  - Contribute to cross-functional team initiatives as a senior technical leader
+  use_cases:
+  - AI-powered website building for real estate professionals
+  - AI-driven growth and marketing platform for real estate agents
+  - SEO and marketing optimization using AI tools
+  - Business management and growth tools for real estate brokerages
+  skills:
+    genai: [LangChain, OpenAI API, RAG]
+    ml: []
+    web: [React, Next.js, FastAPI, REST APIs]
+    databases: [PostgreSQL, Redis, Vector Databases]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9121540'
+  extracted_at: '2026-04-22T13:38:35.358698'

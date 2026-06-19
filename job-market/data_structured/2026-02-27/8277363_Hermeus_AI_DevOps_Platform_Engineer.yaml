@@ -1,0 +1,53 @@
+company:
+  name: Hermeus
+  stage: Series B
+  focus: High-speed hypersonic aircraft manufacturing for defense
+position:
+  title: AI DevOps / Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building and managing DevOps
+      infrastructure, CI/CD pipelines, and cloud platforms that
+      SUPPORT AI integration into engineering workflows. While the
+      role involves integrating AI-driven tools and developing AI-
+      enhanced monitoring systems, the primary responsibility is
+      platform/infrastructure engineering rather than building,
+      training, fine-tuning, or deploying AI/ML models themselves.
+  responsibilities:
+  - Design, implement, and maintain CI/CD pipelines for aerospace software and simulation
+    environments
+  - Integrate AI-driven tools into engineering workflows including intelligent code
+    assistance, anomaly detection, and automated testing frameworks
+  - Build and manage scalable cloud infrastructure (AWS) to support R&D, simulation,
+    and production environments
+  - Develop monitoring, logging, and alerting systems enhanced by AI for predictive
+    insights
+  - Collaborate with aerospace, flight software, and test engineers to ensure seamless
+    integration between software, hardware, and operations
+  - Write efficient, maintainable, and well-documented infrastructure code (Python,
+    Bash, IaC)
+  - Conduct system reviews and implement best practices for secure and reliable operations
+  use_cases:
+  - AI-enhanced infrastructure monitoring and predictive alerting
+  - Intelligent code assistance for engineering workflows
+  - Anomaly detection in aerospace systems
+  - AI-driven automated testing frameworks
+  - DevOps automation and optimization for aerospace R&D
+  skills:
+    genai: []
+    ml: [anomaly detection, ML-based testing frameworks]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [GitHub Actions, GitLab CI, Jenkins, Docker, Kubernetes, Terraform, CloudFormation,
+      AIOps, DevSecOps, CI/CD, infrastructure-as-code]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8277363'
+  extracted_at: '2026-03-03T11:46:00.859883'

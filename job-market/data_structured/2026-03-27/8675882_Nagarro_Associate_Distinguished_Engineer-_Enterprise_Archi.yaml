@@ -1,0 +1,56 @@
+company:
+  name: Nagarro
+  stage: null
+  focus: |-
+    Digital Product Engineering company building products,
+    services, and experiences at scale
+position:
+  title: Associate Distinguished Engineer- Enterprise Architect (Azure AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform/infrastructure architecture role focused
+      on designing and governing the AI Landing Zone and ensuring
+      platform scalability, security, and compliance. The role
+      enables and supports AI use cases but does not directly
+      build, train, or fine-tune AI models - it provides the
+      infrastructure and governance framework for others who
+      implement AI solutions.
+  responsibilities:
+  - Architect the AI Landing Zone including Azure OpenAI, Azure AI Foundry, Power
+    Platform, Microsoft Fabric, and Microsoft Copilot services
+  - Implement architectural controls for FERPA, accessibility, privacy, and responsible
+    AI compliance
+  - Design integration patterns with core client systems (SIS, LMS, SSO, APIs, data
+    sources)
+  - Evaluate technology options and define technical requirements for AI use cases
+    across different complexity levels
+  - Establish CI/CD pipelines, monitoring dashboards, and MLOps lifecycle management
+    processes
+  - Review prototypes, solution designs, and deployments for architectural alignment
+  - Provide technical guidance and coaching to developers and ML engineers
+  - Define governance, identity/SSO integration, and infrastructure requirements
+  use_cases:
+  - Enterprise AI platform deployment across academic, administrative, research, and
+    healthcare environments
+  - AI adoption and institutionalization through scalable landing zone architecture
+  - Integration of AI services with enterprise systems and data sources
+  - Responsible AI implementation with compliance and fairness validation
+  - Enterprise AI governance and security framework
+  skills:
+    genai: [Azure OpenAI, Microsoft Copilot]
+    ml: []
+    web: [API integration]
+    databases: []
+    data: [Data governance]
+    cloud: [Azure AI Foundry, Power Platform, Microsoft Fabric, Azure AI services,
+      SSO integration]
+    ops: [CI/CD, MLOps]
+    languages: []
+    domains: []
+    other: [Security and compliance frameworks, Enterprise architecture]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8675882'
+  extracted_at: '2026-03-27T15:27:54.131937'

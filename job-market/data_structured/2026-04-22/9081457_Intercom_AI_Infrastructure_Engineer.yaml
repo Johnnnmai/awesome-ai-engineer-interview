@@ -1,0 +1,51 @@
+company:
+  name: Intercom
+  stage: Late-stage / Mature (founded 2011)
+  focus: AI-powered customer service platform with AI agent Fin
+position:
+  title: AI Infrastructure Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building training pipelines and
+      inference services for custom LLM/transformer models (like
+      Fin Apex), including GPU-level performance tuning with
+      CUDA/Triton. The engineer works hands-on with model
+      training, distributed training, and inference optimization —
+      core AI/ML system building work.
+  responsibilities:
+  - Implement and scale training pipelines for large transformer and LLM models, from
+    data ingestion through distributed training and evaluation
+  - Build and optimize inference services delivering low-latency, high-reliability
+    experiences including autoscaling, routing, and fallbacks
+  - 'Work on GPU-level performance: tuning kernels, improving utilization, and identifying
+    bottlenecks across training and inference stacks'
+  - Collaborate with ML scientists to implement cutting-edge training and inference
+    methods and bring them to production
+  - Play an active role in hiring, mentoring, and developing other engineers on the
+    team
+  - Raise the bar for technical standards, reliability, and operational excellence
+    across Intercom's AI platform
+  use_cases:
+  - AI customer service agent (Fin) that resolves millions of customer queries monthly
+  - Custom model (Fin Apex) that outperforms frontier models in customer service tasks
+  - Real-time low-latency inference for customer-facing AI interactions
+  - Distributed training of large transformer and LLM models for customer service
+    applications
+  skills:
+    genai: []
+    ml: [CUDA, distributed training, model inference, transformer models, LLM training,
+      GPU programming, GPU kernel tuning]
+    web: []
+    databases: []
+    data: [data preprocessing]
+    cloud: [AWS]
+    ops: [Triton, Kubernetes, autoscaling]
+    languages: [Python, Ruby, Java, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9081457'
+  extracted_at: '2026-04-22T14:14:36.673811'

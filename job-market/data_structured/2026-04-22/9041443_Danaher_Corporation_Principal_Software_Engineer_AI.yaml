@@ -1,0 +1,55 @@
+company:
+  name: Danaher Corporation
+  stage: Public
+  focus: Scientific informatics and cloud software for BioPharma
+position:
+  title: Principal Software Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly responsible for designing, building,
+      and deploying LLM-powered capabilities including RAG,
+      agentic patterns, document summarization, and question
+      answering over enterprise datasets. The engineer works
+      hands-on with GenAI systems from POC through production,
+      making this clearly an ai-first role.
+  responsibilities:
+  - Lead the delivery of AI-enabled platform capabilities across drug discovery, clinical
+    development, and commercial operations
+  - Design and productionize scalable GenAI solutions using RAG, MCP-style integrations,
+    and agentic patterns balancing capability, cost, performance, and trust
+  - Translate scientific and business use cases into robust AI system designs integrating
+    with data platforms, workflows, and APIs
+  - Establish engineering best practices for GenAI/LLM applications including system
+    design patterns, evaluation, reliability, and scalability standards
+  - Build and operate LLM-powered capabilities such as document summarisation, RAG,
+    and question answering over enterprise datasets
+  - Develop AI-ready data foundations including unstructured data pipelines, metadata
+    extraction, and hybrid architectures using vector stores alongside relational
+    databases
+  - Act as a technical leader by mentoring engineers, influencing architectural direction,
+    and driving adoption of GenAI capabilities across IDBS platforms
+  use_cases:
+  - AI-driven discoverability across scientific, clinical, and operational data in
+    BioPharma
+  - Document summarisation and reporting for enterprise datasets
+  - Question answering over structured and unstructured scientific data
+  - Knowledge extraction and decision support for drug discovery and clinical development
+  - Workflow automation across BioPharma R&D and manufacturing lifecycles
+  skills:
+    genai: [RAG (Retrieval Augmented Generation), LLMs, Agentic patterns, MCP-style
+        integrations, Prompt engineering]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector databases, Relational databases]
+    data: [Databricks, Data pipelines]
+    cloud: [AWS]
+    ops: [Docker, CI/CD, Feature flags, Model monitoring]
+    languages: [Python, SQL]
+    domains: [Life Sciences / BioPharma, GxP-regulated environments]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9041443'
+  extracted_at: '2026-04-22T13:25:42.664168'

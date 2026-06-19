@@ -1,0 +1,56 @@
+company:
+  name: Wolters Kluwer
+  stage: Public
+  focus: Expert software and information solutions for professionals
+position:
+  title: Principal Engineer - DevSecOps & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a DevSecOps and platform engineering role focused on
+      CI/CD pipelines, security automation, and infrastructure.
+      While the role includes building pipelines that support
+      AI/ML and Agentic AI workloads as one of many workload
+      types, the primary work is on delivery automation and
+      security - not building, training, fine-tuning, or deploying
+      AI models themselves. The role enables AI teams but doesn't
+      work directly on AI systems.
+  responsibilities:
+  - Design and build highly automated, scalable CI/CD pipelines for microservices,
+    APIs, infrastructure, and AI/ML workloads
+  - Embed security controls directly into pipelines including SAST, DAST, SCA, container
+    scanning, and IaC security checks
+  - Design and enforce secure software supply chain practices with provenance, artifact
+    signing, and secrets management
+  - Engineer platform automation using Kubernetes, Infrastructure-as-Code, and GitOps
+    patterns
+  - Build secure, repeatable environment provisioning for dev, test, staging, and
+    production across multi-tenant workloads
+  - Integrate observability into delivery pipelines with metrics, logs, traces, and
+    deployment health signals
+  - Act as principal-level technical advisor setting standards for CI/CD, secure delivery,
+    and platform automation
+  - Mentor senior engineers in DevSecOps and platform engineering practices
+  use_cases:
+  - Automated software delivery for enterprise-scale applications
+  - Secure software supply chain management
+  - CI/CD pipeline automation for diverse workloads including AI/ML
+  - Platform reliability and observability
+  - Compliance automation for regulated environments
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Terraform, CloudFormation, AWS, Azure, GCP]
+    ops: [GitHub Actions, GitLab CI, Azure DevOps, Jenkins, Kubernetes, Docker, SAST,
+      DAST, SCA, OPA, OpenTelemetry, Argo CD, Flux, GitOps, Infrastructure-as-Code]
+    languages: [Python, Go, Java, Shell]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8628421'
+  extracted_at: '2026-03-27T14:01:48.502178'

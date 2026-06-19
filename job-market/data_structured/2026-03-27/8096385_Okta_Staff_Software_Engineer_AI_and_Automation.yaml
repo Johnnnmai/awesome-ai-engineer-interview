@@ -1,0 +1,52 @@
+company:
+  name: Okta
+  stage: Public
+  focus: Identity and access management security platform
+position:
+  title: Staff Software Engineer, AI and Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is ai-first because it involves designing and
+      building an Agentic AI Platform, including orchestration,
+      lifecycle management, and RAG pipelines. The engineer will
+      work hands-on with AI agent frameworks like LangGraph,
+      vector databases, and build platform services for deploying
+      intelligent AI agents.
+  responsibilities:
+  - Design and develop platform services for AI agents, including orchestration, lifecycle
+    management, observability, and guardrails
+  - Build scalable APIs, frameworks, and reusable components that enable teams to
+    rapidly create and deploy secure AI agents
+  - Contribute to monitoring, evaluation, and governance features that make AI adoption
+    safe, reliable, and enterprise-ready
+  - Collaborate with global team to align on architecture, share roadmaps, and ensure
+    consistency
+  - Partner with Applied AI engineers, product managers, and designers to ensure the
+    platform supports real-world use cases
+  - Mentor engineers within the team, raising the bar on technical craftsmanship and
+    platform design
+  - Stay current with advances in agentic AI, orchestration frameworks, and enterprise
+    AI infrastructure
+  use_cases:
+  - Enterprise AI agent deployment and management
+  - Secure AI agent orchestration and lifecycle management
+  - Identity-centric AI security infrastructure
+  - Governed and observable AI agent platforms
+  - Enterprise-grade AI automation
+  skills:
+    genai: [LangGraph, RAG pipelines, AI agent frameworks]
+    ml: []
+    web: [React, Vue, Angular, APIs]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [ECS, EKS, Docker, Kubernetes, Monitoring/observability]
+    languages: [Python, Java, Node.js, Go]
+    domains: []
+    other: [Distributed systems, Microservices]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8096385'
+  extracted_at: '2026-03-27T14:52:36.618288'

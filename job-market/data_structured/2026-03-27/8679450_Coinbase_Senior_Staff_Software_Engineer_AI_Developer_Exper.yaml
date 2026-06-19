@@ -1,0 +1,49 @@
+company:
+  name: Coinbase
+  stage: Public
+  focus: Cryptocurrency and blockchain-based financial platform
+position:
+  title: Senior Staff Software Engineer, AI Developer Experience
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI agents
+      and LLM-powered tools for the software development
+      lifecycle. The engineer will prototype, build, and deploy
+      autonomous engineering tools including AI assistants and
+      coding agents that automate test generation, refactoring,
+      bug detection, and performance optimization.
+  responsibilities:
+  - Architect an AI-first ecosystem by embedding AI agents into the development loop
+    for test generation, code refactoring, bug detection, and performance optimization
+  - Prototype, build, and deploy next-generation autonomous engineering tools using
+    LLMs and agents
+  - Partner with infrastructure teams to ensure AI tools scale securely and performantly
+  - Guide technical direction to build and scale an Internal Developer Platform treating
+    engineers as customers
+  - Define AI-native engineering standards, workflows, and best practices for next-generation
+    engineering
+  - Bridge the gap between AI tools and fundamental infrastructure architecture
+  use_cases:
+  - Automated test generation for software development
+  - Legacy code refactoring using AI agents
+  - Proactive bug detection before production deployment
+  - Performance optimization automation
+  - Internal AI assistants and autonomous coding agents for developer productivity
+  - AI-driven software development lifecycle transformation
+  skills:
+    genai: [LLMs, AI Agents, Autonomous coding agents, GitHub Copilot]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [CI/CD, Container orchestration, Kubernetes, Docker, Software testing methodologies]
+    languages: []
+    domains: []
+    other: [Internal Developer Platforms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8679450'
+  extracted_at: '2026-03-27T15:01:30.511571'

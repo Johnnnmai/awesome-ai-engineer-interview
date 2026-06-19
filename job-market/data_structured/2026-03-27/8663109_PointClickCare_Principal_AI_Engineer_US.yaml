@@ -1,0 +1,56 @@
+company:
+  name: PointClickCare
+  stage: Private (founder-led)
+  focus: Health tech SaaS platform for long-term and post-acute care
+position:
+  title: Principal AI Engineer (US)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and governing agentic AI
+      systems at scale - defining standards for reasoning loops,
+      tool use, building platform components for model routing and
+      orchestration, and developing advanced prompting strategies.
+      The position involves hands-on work with LLMs, RAG, and
+      agent frameworks to create production AI solutions.
+  responsibilities:
+  - Set technical vision and reference architecture for agentic AI across applications,
+    defining org-wide standards for reasoning loops, tool use/function calling, memory,
+    safety, and interoperability
+  - Build and govern reusable platform components including model broker, multi-model
+    routing, orchestration services, evaluation harnesses, and prompt/versioning stores
+  - Develop and refine advanced prompting strategies for LLMs and test, evaluate,
+    and analyze performance of GenAI models
+  - Drive cross-functional roadmaps and integration standards, setting API/versioning
+    contracts and optimizing LLM/agent cost performance
+  - Establish offline/online evaluation methodologies for agent behavior and safety
+    with dashboards tied to business outcomes
+  - Serve as Subject Matter Expert for enterprise AI applications, advising senior
+    leadership and business partners on best practices
+  - Identify, prioritize and execute AI use cases with clear business outcomes
+  - Coach and mentor engineers on AI maturity, lead technical knowledge sharing, and
+    establish engineering best practices
+  use_cases:
+  - Agentic AI systems for healthcare SaaS applications
+  - RAG-based document processing and retrieval with OCR/NER
+  - Multi-model routing and orchestration for enterprise AI
+  - Healthcare workflow automation through AI agents
+  - Enterprise AI enablement and governance across multiple SaaS products
+  skills:
+    genai: [LangChain, RAG, Microsoft Azure AI Foundry, OpenAI, Anthropic Claude,
+      Copilot Studio, Agentic AI frameworks, Prompt engineering, Function calling,
+      Azure AI Search, Salesforce Agentforce, Boomi Agentic AI]
+    ml: [Embeddings, OCR/NER]
+    web: []
+    databases: [Vector stores]
+    data: []
+    cloud: []
+    ops: [Model serving and routing]
+    languages: [Python, Java]
+    domains: []
+    other: [SaaS platform development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8663109'
+  extracted_at: '2026-03-27T15:26:55.486304'

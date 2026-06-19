@@ -1,0 +1,53 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global financial services and banking
+position:
+  title: Senior Staff Generative AI Engineer, Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first: the engineer will architect,
+      build, and deploy production Generative AI applications,
+      LLM-powered solutions, and agentic frameworks (LangChain,
+      LangGraph, RAG, agents). The position involves hands-on work
+      designing and implementing intelligent agents and LLM
+      systems, not just supporting infrastructure for others.
+  responsibilities:
+  - Architect and build production Generative AI applications and LLM-powered solutions
+    using Python
+  - Design and implement intelligent agents to automate complex enterprise business
+    processes
+  - Deploy and manage applications within OpenShift container environments
+  - Contribute to technical strategy and roadmap for Generative AI adoption across
+    the product portfolio
+  - Champion engineering excellence through testing, code reviews, documentation,
+    and CI/CD practices
+  - Research and evaluate new Generative AI models, techniques, and frameworks
+  - Mentor junior engineers and collaborate with cross-functional teams to deliver
+    impactful solutions
+  - Design and implement AI guardrails and ethical considerations into production
+    solutions
+  use_cases:
+  - Enterprise operations automation through intelligent agents
+  - Complex workflow orchestration and reasoning for business process automation
+  - Operational risk reduction at scale across global banking operations
+  - Efficiency improvement in enterprise-grade production AI systems
+  - Responsible AI deployment with guardrails in regulated financial services
+  skills:
+    genai: [LangChain, LangGraph, Google ADK, AutoGen, CrewAI, LlamaIndex, Semantic
+        Kernel, RAG, LLMs, Agentic frameworks, Prompt engineering, AI guardrails]
+    ml: [Transformer architectures]
+    web: [Spring AI, Spring Boot, Flask, React]
+    databases: [PostgreSQL, pgvector]
+    data: [Kafka]
+    cloud: []
+    ops: [OpenShift, Docker/Containers, CI/CD]
+    languages: [Python, Java, TypeScript, Go]
+    domains: []
+    other: [Distributed systems, Devin, GitHub Copilot, N8N, StreamLit]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8691066'
+  extracted_at: '2026-04-22T13:31:54.425471'

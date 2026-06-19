@@ -1,0 +1,59 @@
+company:
+  name: Infinity Constellation
+  stage: unknown
+  focus: |-
+    AI employees for small-to-medium businesses via agentic
+    workflows
+position:
+  title: Senior AI Engineer (Core) - Supernal
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying agentic AI
+      systems end-to-end, including agent runtimes,
+      memory/retrieval systems, RAG pipelines, voice agents, and
+      evaluation harnesses. The engineer works hands-on with LLM-
+      powered agents, tool use, and multi-step planning — all core
+      AI/ML system building activities.
+  responsibilities:
+  - Ship user-facing agent experiences end-to-end from prototype to production iteration
+    based on real usage
+  - Architect and implement stateful agent systems including workflows, tool calling,
+    memory, retrieval, and human-in-the-loop patterns
+  - Build voice features end-to-end including realtime speech agents, voice UI/UX,
+    prompt/audio routing, and guardrails for safe tool execution
+  - Build and own an evaluation harness with curated test sets, automated scoring,
+    prompt/model/version tracking, and canary/A/B experimentation
+  - Design data and retrieval pipelines including chunking, hybrid retrieval, re-ranking,
+    caching, latency optimization, and multi-tenant data isolation
+  - Integrate with and extend platform primitives including Django services, async
+    execution, PostgreSQL/pgvector, and Kubernetes deployments
+  - Establish engineering rigor for agents including observability, reliability patterns,
+    and security/privacy controls
+  use_cases:
+  - Personalized AI employees for small-to-medium businesses that handle real business
+    processes
+  - Agentic workflows that adapt to user preferences, data, and behavior over time
+  - Voice-based AI agents with real-time speech-to-speech conversations for business
+    use
+  - Self-improving agent systems with memory and retrieval capabilities
+  - Multi-tenant SaaS platform for deploying AI teammates at scale
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, AutoGen, CrewAI, RAG, Agent frameworks,
+      Prompt engineering, Tool use / function calling, Multi-agent patterns, Guardrails,
+      STT/TTS integration]
+    ml: []
+    web: [Django, Django REST Framework, ASGI, WebRTC]
+    databases: [PostgreSQL, pgvector, Pinecone, Chroma, Weaviate, Qdrant, Vector search
+        / embeddings]
+    data: []
+    cloud: [AWS]
+    ops: [Kubernetes, Docker, OpenTelemetry, Datadog, CI/CD, Temporal]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9064868'
+  extracted_at: '2026-04-22T12:49:08.849289'

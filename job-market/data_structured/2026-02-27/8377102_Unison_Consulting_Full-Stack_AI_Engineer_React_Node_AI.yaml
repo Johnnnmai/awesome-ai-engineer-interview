@@ -1,0 +1,49 @@
+company:
+  name: Unison Consulting
+  stage: null
+  focus: Technology consulting services
+position:
+  title: Full-Stack AI Engineer (React, Node, AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with AI/ML technologies
+      including LLMs, prompt engineering, RAG pipelines, model
+      fine-tuning, and vector databases. The engineer will design,
+      build, and scale AI-powered web applications with direct
+      integration of AI components, not just supporting
+      infrastructure.
+  responsibilities:
+  - Design and build AI-powered web applications across frontend, backend, and AI
+    integration layers
+  - Implement LLM integrations, prompt engineering, and RAG pipelines
+  - Develop and optimize React.js frontend with hooks and state management
+  - Build scalable backend services using Node.js (Express/NestJS)
+  - Integrate vector databases (Pinecone, FAISS, Weaviate) for AI workflows
+  - Work with AI APIs, model inference, and fine-tuning implementations
+  - Ensure AI security, ethics, and performance optimization
+  - Collaborate on microservices architecture and CI/CD pipelines
+  use_cases:
+  - AI-powered SaaS products
+  - Enterprise web applications with AI integration
+  - RAG-based information retrieval systems
+  - LLM-powered application features
+  - Intelligent data processing and embeddings
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG Pipelines, Embeddings, AI APIs]
+    ml: [Model Fine-tuning]
+    web: [React.js, Node.js, Express, NestJS, Microservices, Spring Boot, Spring MVC,
+      Spring Security, REST APIs]
+    databases: [Vector Databases, Pinecone, FAISS, Weaviate, PostgreSQL, MongoDB,
+      Redis, MySQL, Oracle]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, CI/CD, MLOps]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8377102'
+  extracted_at: '2026-03-03T11:35:34.380317'

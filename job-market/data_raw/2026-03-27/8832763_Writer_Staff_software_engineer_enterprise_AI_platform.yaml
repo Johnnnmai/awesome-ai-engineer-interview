@@ -1,0 +1,150 @@
+job_id: 8832763
+title: Staff software engineer, enterprise AI platform
+company: Writer
+location: London, GBR
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Azure
+  - Docker
+  - GCP
+  - Kubernetes
+  - Postgres
+  - Python
+company_size: 350 Employees
+description: |
+  🚀 About WRITER
+  
+  WRITER is where the world's leading enterprises orchestrate
+  AI-powered work. Our vision is to expand human capacity
+  through superintelligence. And we're proving it's possible –
+  through powerful, trustworthy AI that unites IT and business
+  teams together to unlock enterprise-wide transformation.
+  With WRITER's end-to-end platform, hundreds of companies
+  like Mars, Marriott, Uber, and Vanguard are building and
+  deploying AI agents that are grounded in their company's
+  data and fueled by WRITER's enterprise-grade LLMs. Valued at
+  $1.9B and backed by industry-leading investors including
+  Premji Invest, Radical Ventures, and ICONIQ Growth, WRITER
+  is rapidly cementing its position as the leader in
+  enterprise generative AI.
+  
+  Founded in 2020 with office hubs in San Francisco, New York
+  City, Austin, Chicago, and London, our team thinks big and
+  moves fast, and we're looking for smart, hardworking
+  builders and scalers to join us on our journey to create a
+  better future of work with AI.
+  
+  📐 About the role
+  
+  We’re looking for a staff software engineer to join our
+  enterprise admin team. This team owns the foundational
+  systems that enable large organisations to securely adopt
+  and operate Writer at scale, including identity,
+  authentication, authorization, administration, and billing
+  foundations.
+  
+  You'll design and build the foundational platform services
+  that our largest customers depend on for secure, reliable
+  access to Writer across their organisations. These systems
+  power enterprise-grade access control, permissions, seat
+  management, usage governance, and subscription
+  infrastructure. The problems are non-trivial: multi-tenancy,
+  distributed systems, compliance constraints, scalability,
+  and long-term architectural maintainability.
+  
+  This is a hands-on engineering role for someone who enjoys
+  owning systems end-to-end, from architecture and design
+  through production reliability and iteration.
+  
+  This role is hybrid, based out of our London hub. You’ll
+  report to an engineering director.
+  
+  🦸🏻‍♀️ What you’ll do
+  
+  - Design and build robust, scalable services for enterprise
+    administration, billing, identity management,
+    authentication, and authorization
+  - Make meaningful system design decisions, own the
+    architecture of core platform components from initial
+    design through production
+  - Build and optimise high-performance APIs and distributed
+    services that operate reliably at enterprise scale
+  - Collaborate with product managers and cross-functional
+    engineering teams to translate complex business and
+    compliance requirements into well-designed technical
+    solutions
+  - Partner with DevOps teams on continuous deployment, logging,
+    and monitoring; ensuring top-tier performance and
+    reliability
+  - Drive improvements in observability, reliability, deployment
+    workflows, and operational excellence
+  - Navigate ambiguity, take loosely defined problem spaces and
+    turn them into well-structured, maintainable
+    implementations
+  - Raise the bar on code quality, testing, documentation, and
+    long-term maintainability
+  
+  ⭐️ What you need
+  
+  - 7+ years of hands-on software engineering experience
+    building production systems end-to-end with extremely
+    strong proficiency with Python and functional programming
+  - Strong system design skills, you can whiteboard a
+    distributed architecture, reason about trade-offs, and
+    make pragmatic decisions under uncertainty
+  - Experience building microservices and RESTful APIs in cloud
+    environments (AWS, GCP, or Azure), including
+    containerization with Docker and Kubernetes
+  - Solid grasp of database systems (e.g., PostgreSQL), event-
+    driven architectures, and distributed systems fundamentals
+    (availability, fault tolerance, operational safety)
+  - Comfort operating in ambiguity, you drive clarity rather
+    than waiting for complete specifications, and you drive
+    clarity for yourself and the team
+  - Experience coding with AI tools to move faster while
+    maintaining high standards for correctness, security, and
+    maintainability
+  - A "Connect" mindset, thriving in collaborative settings
+    where you actively engage with cross-functional teams and
+    mentor junior engineers to achieve shared goals
+  - A "Challenge" spirit, demonstrating exceptional problem-
+    solving skills to tackle complex technical hurdles and
+    proactively suggest innovative improvements to our systems
+    and processes
+  - An “Own” mindset, you take full accountability for outcomes
+    from design through production, and you raise the bar on
+    quality and maintainability
+  
+  Nice to have
+  
+  - Experience in identity and access management, authentication
+    (SSO, SAML, OIDC), and authorization models (RBAC, ABAC,
+    policy engines)
+  - Experience building billing, subscription, or metering
+    systems at scale
+  - Background in multi-tenant enterprise SaaS platforms
+  - Experience with functional Scala is a strong plus
+  
+  🍩 Benefits & perks (UK full-time employees):
+  
+  - Generous PTO, plus company holidays
+  - Comprehensive medical and dental insurance
+  - Paid parental leave for all parents (12 weeks)
+  - Fertility and family planning support
+  - Early-detection cancer testing through Galleri
+  - Competitive pension scheme and company contribution
+  - Annual work-life stipends for:
+    - Wellness stipend for gym, massage/chiropractor, personal
+      training, etc.
+    - Learning and development stipend
+  - Company-wide off-sites and team off-sites
+  - Competitive compensation and company stock options
+industries:
+  - Artificial Intelligence
+  - Software
+  - Generative AI
+posted_date: 2026-03-21
+url: "https://builtin.com/job/staff-software-engineer-enterprise-ai-platform/8832763"
+source: Built In

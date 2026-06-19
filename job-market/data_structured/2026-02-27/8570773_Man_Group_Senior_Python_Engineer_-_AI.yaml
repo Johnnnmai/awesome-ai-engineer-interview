@@ -1,0 +1,50 @@
+company:
+  name: Man Group
+  stage: Public
+  focus: |-
+    Global alternative investment management firm using
+    systematic and discretionary strategies
+position:
+  title: Senior Python Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building the core AI/ML platform and
+      infrastructure, designing bespoke AI/ML applications and
+      agents, and implementing GenAI solutions. The role directly
+      works on deploying and building AI systems including agents
+      and agentic tools, which constitutes hands-on work with AI
+      models and systems.
+  responsibilities:
+  - Design, build, and maintain the firm's core AI and Machine Learning platform
+  - Partner with stakeholders in research, trading, technology, and operations to
+    design, build, and deploy bespoke AI/ML applications and agents
+  - Actively monitor the latest developments in applied AI to identify, propose, and
+    implement novel AI-powered solutions
+  - Proactively engage with teams across the business to promote understanding and
+    adoption of AI tools and capabilities
+  - Build solutions using latest GenAI and Machine Learning techniques
+  - Create agents and tools that augment, automate and transform investment and operational
+    workflows
+  use_cases:
+  - Augment and automate investment workflows
+  - Transform operational workflows across the business
+  - Build agentic systems for knowledge processing
+  - Develop automated coding tools
+  - Deploy bespoke AI/ML applications for trading, research, and operations
+  skills:
+    genai: [GenAI, Agentic AI tools, Knowledge processing systems]
+    ml: [Machine Learning, Model fine-tuning]
+    web: [React, Next.js]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: []
+    ops: [Linux/UNIX, Git]
+    languages: [Python, TypeScript]
+    domains: [Financial markets]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8570773'
+  extracted_at: '2026-03-03T12:40:34.545656'

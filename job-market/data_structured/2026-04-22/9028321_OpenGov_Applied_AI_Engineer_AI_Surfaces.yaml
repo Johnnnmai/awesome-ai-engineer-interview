@@ -1,0 +1,59 @@
+company:
+  name: OpenGov
+  stage: Growth/Mature
+  focus: |-
+    AI and ERP software solutions for U.S. state and local
+    governments
+position:
+  title: Applied AI Engineer, AI Surfaces
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is explicitly described as "a software engineering role
+      first." The engineer builds APIs and middleware that connect
+      AI capabilities built by others (the AI platform team) to
+      end-user applications. They work with well-defined
+      interfaces from the AI platform team "rather than rebuilding
+      the model layer," placing them in a supporting role that
+      surfaces and integrates AI—not building, training, or fine-
+      tuning models.
+  responsibilities:
+  - Design, build, and maintain REST APIs, MCP Servers, and middleware services that
+    expose AI capabilities to end-user applications
+  - Build and maintain backend services using Python (FastAPI, Flask) supporting AI-driven
+    workflows and enterprise integrations
+  - Own reliability, performance, and observability of AI-powered services including
+    logging, latency monitoring, and error handling
+  - Integrate AI features into existing application surfaces using well-defined interfaces
+    from the AI platform team
+  - Collaborate with product and frontend teams to deliver AI-native user experiences
+    meeting production standards
+  - Implement authentication, authorization, and secure access patterns across internal
+    AI tools and APIs
+  - Support integration of AI workflows into enterprise platforms such as Slack, Salesforce,
+    and other SaaS systems
+  - Containerize and deploy services using Docker and cloud-native infrastructure;
+    contribute to CI/CD pipeline development
+  use_cases:
+  - RAG pipelines for government data access and retrieval
+  - Agent-based workflows for public sector process automation
+  - AI-powered enterprise integrations with Slack, Salesforce, and other SaaS platforms
+  - AI-driven features in permitting, licensing, budgeting, and asset management applications
+  - Internal AI-powered tools and copilots for government operations
+  skills:
+    genai: [Model Context Protocol (MCP), RAG, LangChain, OpenAI API, Anthropic API,
+      Gemini API, Snowflake Cortex]
+    ml: []
+    web: [FastAPI, Flask, REST APIs, SSE (Server-Sent Events), WebSockets]
+    databases: [Snowflake]
+    data: []
+    cloud: [Snowflake SPCS]
+    ops: [Docker, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Slack integration, Salesforce integration, Authentication and Authorization]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9028321'
+  extracted_at: '2026-04-22T14:18:51.166643'

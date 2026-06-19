@@ -1,0 +1,46 @@
+company:
+  name: Zillion Technologies, Inc.
+  stage: Unknown
+  focus: Global business consulting and technology solutions provider
+position:
+  title: Principal Software Engineer (Generative AI, Agentic AI, ML models)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires experience in Generative AI architectures,
+      AI Agents, and ML models. As a Principal Software Engineer,
+      this position involves building and architecting AI systems
+      directly, not just supporting infrastructure for AI teams.
+      The focus on Generative AI and AI Agents indicates hands-on
+      work with AI/LLM technologies.
+  responsibilities:
+  - Build highly scalable software systems and platforms in cloud environments
+  - Architect and implement Generative AI solutions, AI Agents, and ML models
+  - Design elegant technical architectures to solve complex customer problems
+  - Develop and manage APIs using cloud API gateways, serverless lambdas, and container
+    services
+  - Implement data persistence solutions using SQL and NoSQL databases
+  - Mentor team members in designing, developing, and debugging complex software stacks
+  - Support and resolve production customer escalations with debugging and problem-solving
+  - Manage full software lifecycle in agile environments
+  use_cases:
+  - Generative AI system development and deployment
+  - AI Agent design and implementation
+  - Machine learning model integration into software platforms
+  - Cloud-native scalable software product development
+  skills:
+    genai: [Generative AI architectures, AI Agents]
+    ml: [ML models]
+    web: [API Gateway, OAuth]
+    databases: [PostgreSQL, DynamoDB, NoSQL databases]
+    data: [Pub/Sub messaging]
+    cloud: [Cloud APIs, GCP, AWS, Serverless lambdas, S3 Cloud Storage]
+    ops: [Docker, Container services, Observability tools]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8400294'
+  extracted_at: '2026-03-03T11:16:00.911695'

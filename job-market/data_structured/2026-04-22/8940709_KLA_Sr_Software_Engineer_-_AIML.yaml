@@ -1,0 +1,53 @@
+company:
+  name: KLA
+  stage: Public
+  focus: Semiconductor manufacturing equipment and technology
+position:
+  title: Sr. Software Engineer - AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying LLM-powered
+      applications including RAG, agentic workflows, and document
+      intelligence. The engineer designs retrieval pipelines,
+      evaluation frameworks, and builds production AI/ML systems —
+      all hands-on work on AI models and applications.
+  responsibilities:
+  - Design and deliver LLM-powered applications including RAG with enterprise knowledge
+    sources
+  - Build agentic workflows with tool/function calling, orchestration, and multi-step
+    reasoning
+  - Implement text extraction, summarization, classification, Q&A, and document intelligence
+    solutions
+  - Build and optimize retrieval pipelines including chunking strategies, embeddings,
+    vector search, reranking, and grounding
+  - Create robust evaluation frameworks with golden datasets, automated scoring, A/B
+    testing, and regression testing for prompts/models
+  - Deploy and operate LLM applications on Azure with monitoring, incident response,
+    and cost optimization
+  - Implement Responsible AI practices including privacy, security, bias/fairness,
+    and explainability
+  use_cases:
+  - Enterprise knowledge retrieval and question answering via RAG
+  - Document intelligence including extraction, summarization, and classification
+  - Agentic workflows for multi-step business process automation
+  - Enterprise-wide analytics driving strategic decisions across the organization
+  - Operational efficiency and customer experience improvement through AI
+  skills:
+    genai: [RAG, LangChain/LangGraph or similar agent frameworks, Prompt Engineering,
+      Agentic workflows, Tool/function calling, Guardrails, Evaluation harnesses,
+      Embeddings and embedding lifecycle management, Reranking]
+    ml: []
+    web: [APIs]
+    databases: [Azure AI Search, Vector databases]
+    data: [ETL/ELT, Distributed processing, Data quality frameworks]
+    cloud: [Azure]
+    ops: [CI/CD, Monitoring and observability, A/B testing]
+    languages: [Python, SQL]
+    domains: []
+    other: [Responsible AI practices]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8940709'
+  extracted_at: '2026-04-22T13:15:00.215730'

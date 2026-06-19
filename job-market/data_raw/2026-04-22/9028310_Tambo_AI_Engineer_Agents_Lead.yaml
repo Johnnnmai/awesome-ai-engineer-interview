@@ -1,0 +1,67 @@
+job_id: 9028310
+title: AI Engineer (Agents Lead)
+company: Tambo
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - React
+  - Typescript
+description: |
+  AI Engineer (Agent Lead)
+  
+  Location: Remote (Pacific Time preferred) Type: Full-time
+  
+  About Tambo
+  
+  Tambo is an open-source toolkit for building agents that
+  render your React components. We're five people, pre-seed,
+  building infrastructure for AI-native apps. Everyone
+  operates like a mini-founder for their area.
+  
+  The Role
+  
+  You'll own the agent systems that make Tambo work. That
+  means building the runtime, improving how agents reason and
+  act, and figuring out what's possible when AI meets visual
+  interfaces.
+  
+  We're not looking for someone who's "interested in agents."
+  We want someone who's built them.
+  
+  What You'll Do
+  
+  - Build agent architectures that are fast, reliable, and
+    actually pleasant to work with
+  - Research and ship techniques for agent reasoning, planning,
+    and tool use
+  - Create evaluation pipelines so we can measure whether agents
+    are getting better or worse
+  - Talk to users. Understand what's broken. Fix it.
+  
+  What We're Looking For
+  
+  - 5+ years shipping software
+  - You've actually built agents or LLM-powered apps (not just
+    played with them)
+  - You understand what LLMs can and can't do
+  - You're comfortable with ambiguity. We're five people.
+    There's no playbook.
+  
+  Bonus Points
+  
+  - Experience with TypeScript
+  - Open-source or developer tools background
+  - You've written or published stuff about agents
+  - You've built or worked on coding agents
+  
+  Comp may shift based on location and experience.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+  - Generative AI
+posted_date: 2026-04-13
+url: "https://www.builtinla.com/job/ai-engineer-agents-lead/9028310"
+source: Built In

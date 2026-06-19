@@ -1,0 +1,49 @@
+company:
+  name: SheMed
+  stage: Startup
+  focus: Women's health and weight loss solutions
+position:
+  title: AI Web Designer/Developer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is for a Web Designer/Developer who uses AI tools
+      (Claude, Midjourney, Figma Make) to assist in design
+      workflows, not to build, train, or deploy AI/ML models. The
+      AI usage is as a productivity tool for web design tasks like
+      generating designs and content, making this an ai-support
+      role.
+  responsibilities:
+  - Design and maintain high-quality, user-centric web pages reflecting brand identity
+  - Collaborate with creative and marketing teams to turn concepts into functional
+    websites
+  - Integrate AI tools into design workflows to improve speed, output, and performance
+  - Design and develop high-converting landing pages optimised for speed, SEO, and
+    mobile
+  - Optimise websites for web accessibility compliance and SEO best practices
+  - Interpret data, heatmaps, and user insights to inform design decisions
+  - Contribute to website refresh and ongoing design system improvements
+  - Create content variations for A/B testing and performance optimisation
+  use_cases:
+  - Women's health digital experience and brand presence
+  - High-converting landing pages for weight loss programme
+  - Website optimization for SEO and accessibility
+  - A/B testing for conversion rate optimization
+  - Brand storytelling through web design across devices
+  skills:
+    genai: [Claude, Midjourney, Prompt Engineering]
+    ml: []
+    web: [Figma, Framer, Webflow, HTML, CSS, JavaScript, SEO, UI/UX Design, Responsive
+        Design]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [A/B Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9026910'
+  extracted_at: '2026-04-22T13:48:43.863287'

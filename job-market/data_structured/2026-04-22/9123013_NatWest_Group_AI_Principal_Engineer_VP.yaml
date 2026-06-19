@@ -1,0 +1,53 @@
+company:
+  name: NatWest Group
+  stage: Public
+  focus: Major UK banking and financial services group
+position:
+  title: AI Principal Engineer, VP
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience building and
+      optimizing LLM pipelines, RAG, embedding pipelines, prompt
+      engineering, LLM orchestration, fine-tuning, and model
+      deployment. The Principal Engineer will directly build,
+      deploy, and optimize AI/ML systems including both
+      traditional ML and generative AI, making this an ai-first
+      role.
+  responsibilities:
+  - Design and engineer AI/ML software solutions with a focus on customer experience
+    and innovation
+  - Define and develop architecture models and roadmaps for AI/ML application and
+    software components
+  - Build and optimize pipelines for LLMs, traditional ML models, and data processing
+  - Collaborate with feature teams to deliver high-quality AI-driven software rapidly
+  - Determine the design and delivery approach for platform software throughout its
+    lifecycle
+  - Define and enforce standards for MLOps, CI/CD, experiment tracking, model deployment,
+    and observability
+  - Evaluate and integrate capabilities across OpenAI/Anthropic models, fine-tuning,
+    GPU compute, and AutoML
+  use_cases:
+  - LLM orchestration and RAG-based solutions for banking applications
+  - Time-series forecasting and optimization for financial services
+  - Automated ML pipelines for model training, evaluation, and retraining
+  - Feature engineering and model deployment for production banking platforms
+  - AI-powered customer experience improvements across banking services
+  skills:
+    genai: [RAG, Prompt Engineering, LLM Orchestration, OpenAI API, Anthropic API,
+      Fine-tuning, Embedding Pipelines]
+    ml: [AutoML, Supervised Learning, Unsupervised Learning, Time-Series Forecasting,
+      Feature Engineering, Model Evaluation, GPU Compute]
+    web: []
+    databases: []
+    data: [Feature Stores]
+    cloud: [AWS, GCP]
+    ops: [MLOps, CI/CD, Experiment Tracking, Model Deployment, DevOps]
+    languages: [Python]
+    domains: []
+    other: [Agile, Software Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9123013'
+  extracted_at: '2026-04-22T14:04:15.757813'

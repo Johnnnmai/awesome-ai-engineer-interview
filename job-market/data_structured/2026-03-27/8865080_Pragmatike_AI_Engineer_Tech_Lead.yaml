@@ -1,0 +1,53 @@
+company:
+  name: Pragmatike
+  stage: Early-stage startup
+  focus: |-
+    AI-powered relationship intelligence and fundraising
+    platform connecting investors through private relationship
+    graphs
+position:
+  title: AI Engineer Tech Lead
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI Engineer Lead role directly
+      responsible for building AI-powered systems including Graph
+      RAG, relationship scoring, recommendation engines, and AI-
+      driven matching. The role involves implementing LLM-based
+      systems and developing the core AI layer of the platform,
+      not just supporting infrastructure.
+  responsibilities:
+  - Own the end-to-end architecture and technical development of the Graph AI platform
+  - Improve and scale the private relationship graph including matching, pathfinding,
+    performance, and privacy
+  - Design and implement AI-powered relationship scoring and recommendation systems
+  - Develop Graph RAG and intelligent introduction recommendations
+  - Build and ship core backend and infrastructure features
+  - Maintain and improve data pipelines for email, LinkedIn, CRM integrations, and
+    identity resolution
+  - Lead cloud infrastructure and DevOps on AWS including Docker, deployments, scaling,
+    and reliability
+  - Collaborate closely with founders on product roadmap and technical strategy
+  use_cases:
+  - Relationship intelligence for fundraising
+  - Intelligent warm introduction path recommendations
+  - Graph-based network analysis and matching
+  - AI-powered relationship scoring
+  - Professional network data integration from LinkedIn, email, and CRM
+  - Fundraising workflow optimization and predictability
+  skills:
+    genai: [Graph RAG, LLM-based systems, AI agents]
+    ml: [Recommendation systems, Ranking algorithms]
+    web: [FastAPI]
+    databases: [Graph databases, Knowledge graphs]
+    data: [Data pipelines, CRM integrations]
+    cloud: [AWS]
+    ops: [Docker]
+    languages: [Python]
+    domains: []
+    other: [System design, Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8865080'
+  extracted_at: '2026-03-27T15:48:23.008453'

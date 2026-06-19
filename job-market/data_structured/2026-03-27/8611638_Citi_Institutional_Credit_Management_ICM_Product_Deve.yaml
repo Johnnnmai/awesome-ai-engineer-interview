@@ -1,0 +1,56 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services institution
+position:
+  title: Institutional Credit Management (ICM) Product Developer - Artificial Intelligence
+    (AI), Senior Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves developing new use cases and capabilities
+      for Generative and Traditional AI technologies within credit
+      risk management platforms. The PM is responsible for
+      implementing AI solutions directly into processes and
+      systems for origination decisions and credit monitoring,
+      making this hands-on AI implementation work.
+  responsibilities:
+  - Develop new use cases and capabilities utilizing Generative and Traditional AI
+    technologies for credit risk management platforms
+  - Partner with risk managers to develop origination and credit monitoring strategies
+    using emerging technologies
+  - Launch and manage new AI-powered products, projects and initiatives ensuring technical
+    and governance delivery
+  - Lead product working groups to maintain outcome-based roadmaps and track progress
+    towards OKRs
+  - Conduct design workshops and leverage journey-based design strategies for product
+    development
+  - Drive digital transformation by re-engineering operational business processes
+    with technology empowerment
+  - Transform credit risk activities including originations, client monitoring, portfolio
+    management, and core services
+  - Navigate from strategic to requirement level, enabling design teams to execute
+    informed designs
+  use_cases:
+  - Credit origination and underwriting decision-making for wholesale lending
+  - Credit monitoring and periodic assessment including annual reviews
+  - Portfolio limit setting and management across lending products
+  - Client management and servicing operations
+  - Financial spreading, collateral management, and covenant monitoring
+  - Process automation and efficiency improvement in credit risk workflows
+  skills:
+    genai: [Generative AI]
+    ml: [Traditional AI]
+    web: []
+    databases: [SQL]
+    data: []
+    cloud: []
+    ops: [Agile]
+    languages: [Python]
+    domains: [Credit Risk Management, Wholesale Lending, Corporate Lending]
+    other: [Product Management, Process Transformation, Stakeholder Management]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8611638'
+  extracted_at: '2026-03-27T13:20:58.825054'

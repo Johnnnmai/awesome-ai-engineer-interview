@@ -1,0 +1,55 @@
+company:
+  name: Barclays
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Software Engineer Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on designing and developing
+      agentic AI systems using frameworks like LangChain,
+      LangGraph, and CrewAI. The engineer will build multi-agent
+      systems, integrate LLMs into enterprise systems (RAG, prompt
+      engineering, tool-calling), and manage model lifecycles —
+      all hands-on AI system building work.
+  responsibilities:
+  - Lead the design and development of agentic AI systems using frameworks like LangChain,
+    LangGraph, and CrewAI to build autonomous, goal-driven AI workflows
+  - Drive hands-on development of multi-agent systems including agent collaboration,
+    task delegation, memory management, and tool integration patterns
+  - Integrate Large Language Models into enterprise systems including prompt engineering,
+    tool-calling, RAG, and agent reasoning strategies
+  - Guide teams on model lifecycle management, inference optimization, and production
+    readiness of AI solutions
+  - Ensure AI solutions align with responsible AI principles, data privacy, security,
+    and regulatory expectations
+  - Set standards for engineering quality, testing, observability, and operational
+    readiness in AI-driven systems
+  - Deliver software using Agile methodologies and apply DORA metrics to drive delivery
+    predictability
+  - Evaluate and influence adoption of latest AI innovations including speculative
+    AI techniques and hybrid symbolic-LLM approaches
+  use_cases:
+  - Autonomous multi-agent AI workflows for enterprise banking operations
+  - LLM-powered enterprise systems with RAG and tool-calling capabilities
+  - Goal-driven AI agents for task delegation and collaboration
+  - AI-assisted engineering practices for developer productivity
+  - Production-ready AI solutions with inference optimization in cloud environments
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, RAG, Prompt Engineering, LLM Integration,
+      Multi-Agent Systems, Claude Code, GitHub Copilot]
+    ml: [PyTorch, TensorFlow, Keras, Scikit-learn, NumPy, Pandas]
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS Bedrock]
+    ops: [Docker, Kubernetes, CI/CD, GitLab, DevSecOps, Jira, PACT Contract Testing]
+    languages: [Python]
+    domains: []
+    other: [Agile/Scrum, DORA Metrics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9001488'
+  extracted_at: '2026-04-22T12:59:08.729209'

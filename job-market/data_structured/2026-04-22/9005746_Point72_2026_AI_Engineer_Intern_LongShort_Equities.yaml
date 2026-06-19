@@ -1,0 +1,48 @@
+company:
+  name: Point72
+  stage: Established
+  focus: |-
+    Global alternative investment firm with L/S equities
+    strategy
+position:
+  title: 2026 AI Engineer Intern, Long/Short Equities
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires practical experience
+      implementing or integrating AI models and AI APIs into
+      applications, and experience with LLM workflows. The intern
+      will build custom software, internal tools, and workflow
+      automations leveraging AI, making this an ai-first role
+      focused on deploying and integrating AI solutions.
+  responsibilities:
+  - Build internal software tools to improve the team's research and operating workflows
+  - Develop automations for tasks across research, data collection, note organization,
+    and internal reporting
+  - Create applications, scripts, dashboards, and utilities for internal use
+  - Structure and integrate data from multiple sources into usable internal workflows
+  - Work directly with investors to identify bottlenecks and design practical technical
+    solutions
+  - Prototype quickly, iterate based on feedback, and ship tools with immediate impact
+  use_cases:
+  - Research workflow automation for equity analysts
+  - Data collection and organization for investment research
+  - Internal reporting and note organization automation
+  - Dashboard and utility creation for investment decision support
+  - Workflow productivity tools for sector-based investing teams
+  skills:
+    genai: [LLM workflows, AI APIs]
+    ml: []
+    web: []
+    databases: [SQL]
+    data: []
+    cloud: [Cloud-based development]
+    ops: []
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [Browser automation, Data visualization, Dashboard building, Internal tooling]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9005746'
+  extracted_at: '2026-04-22T13:20:39.912542'

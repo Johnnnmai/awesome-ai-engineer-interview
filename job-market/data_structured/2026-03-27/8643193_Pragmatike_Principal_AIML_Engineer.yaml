@@ -1,0 +1,49 @@
+company:
+  name: Pragmatike
+  stage: Series A/B (well-funded, fast-growing startup)
+  focus: |-
+    Enterprise AI systems for Fortune 500 customers, MIT CSAIL-
+    founded
+position:
+  title: Principal AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, training, and
+      deploying ML/deep learning models into production, with
+      ownership over model performance and lifecycle management.
+      The engineer will architect training/inference pipelines and
+      work hands-on with ML frameworks to deliver production-grade
+      AI systems.
+  responsibilities:
+  - Design, build, train, and optimize machine learning and deep learning models for
+    production use
+  - Lead the deployment of ML models into scalable, reliable production systems
+  - Architect training, inference, and evaluation pipelines for structured and unstructured
+    data
+  - Own model performance, reliability, scalability, and lifecycle management
+  - Drive experimentation, model iteration, and performance benchmarking
+  - Implement and maintain high-quality ML codebases primarily in Python
+  - Monitor, debug, and improve live production models
+  - Contribute to technical direction, architecture decisions, and AI roadmap planning
+  use_cases:
+  - Enterprise AI systems deployed to Fortune 500 customers
+  - Production-grade AI systems at scale
+  - ML systems for structured and unstructured data processing
+  - Real-world AI applications bridging research and production
+  skills:
+    genai: [LLMs, GenAI]
+    ml: [PyTorch, TensorFlow, scikit-learn, Deep learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, CI/CD for ML, Model deployment, Monitoring and observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8643193'
+  extracted_at: '2026-03-27T13:18:45.775208'

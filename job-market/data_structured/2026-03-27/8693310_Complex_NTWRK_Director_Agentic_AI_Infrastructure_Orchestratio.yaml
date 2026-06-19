@@ -1,0 +1,61 @@
+company:
+  name: Complex NTWRK
+  stage: Established
+  focus: |-
+    Youth culture media platform integrating content, commerce,
+    and live experiences across music, sneakers, sports, and
+    streetwear
+position:
+  title: Director, Agentic AI Infrastructure & Orchestration Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on engineering role focused on architecting,
+      deploying, and operationalizing agentic AI infrastructure.
+      The role involves building agent orchestration systems,
+      implementing RAG, and creating AI agents that automate
+      workflows and replace SaaS tools. This is execution-driven
+      work directly on AI systems, not support work.
+  responsibilities:
+  - Architect and deploy agentic AI infrastructure layer with orchestration, task
+    routing, quality gates, and observability
+  - Lead tool replacement program to audit and replace high-cost SaaS platforms with
+    AI-built internal solutions
+  - Codify operational workflows into a reusable, version-controlled agent skills
+    library
+  - Design and implement data access layer for agent-native querying and experimentation
+    on Snowflake infrastructure
+  - Evaluate and integrate open-source orchestration tools while maintaining vendor-agnostic
+    flexibility
+  - Implement test-driven development, intelligent retry logic, and convergence tracking
+    for AI agents
+  - Establish governance frameworks with human-in-the-loop checkpoints for production
+    deployment
+  - Develop documentation, training protocols, and knowledge transfer systems for
+    long-term sustainability
+  use_cases:
+  - Automating core business workflows across media, commerce, and audience engagement
+  - Replacing high-cost SaaS platforms with owned internal tools
+  - Modernizing data access and enabling rapid experimentation
+  - Generating proprietary, reusable intellectual property from tribal knowledge
+  - Enabling AI agents to write and test code for internal tools
+  - Workflow automation for sneakers, music, sports, and streetwear operations
+  skills:
+    genai: [LLM orchestration frameworks, RAG (Retrieval-Augmented Generation), Prompt
+        engineering, Agentic coding workflows, AI agent infrastructure, Agent orchestration,
+      Claude API, OpenAI/Codex, Gemini, Open-source LLMs]
+    ml: []
+    web: [API-based systems]
+    databases: [Snowflake]
+    data: [Data engineering, Analytics infrastructure]
+    cloud: []
+    ops: [CI/CD, Git, Test-driven development, Observability and logging, Infrastructure
+        design]
+    languages: []
+    domains: []
+    other: [Systems architecture]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8693310'
+  extracted_at: '2026-03-27T13:57:17.216423'

@@ -1,0 +1,48 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global financial services and banking
+position:
+  title: Python Generative AI Automation Developer - Assistant Vice President - Pune
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying LLM-based
+      applications, including RAG pipelines, prompt engineering,
+      and model tuning. The position requires hands-on work with
+      GenAI platforms and tools to create AI systems, not just
+      supporting infrastructure.
+  responsibilities:
+  - Build and tune LLM-based applications using platforms like Vertex, GPT, Llama,
+    and Hugging Face
+  - Create robust prompt engineering strategies and reusable prompt templates
+  - Design and implement retrieval-augmented generation (RAG) pipelines with vector
+    databases
+  - Integrate generative AI with enterprise applications using APIs, knowledge graphs,
+    and orchestration tools
+  - Contribute to application systems analysis and programming activities
+  - Manage and implement successful AI automation projects
+  - Work with MLOps, model evaluation, prompt tuning, and deployment pipelines
+  use_cases:
+  - Enterprise generative AI application development
+  - RAG-based knowledge retrieval systems
+  - LLM-powered automation for banking applications
+  - Enterprise application integration with AI capabilities
+  - Prompt engineering and template management
+  skills:
+    genai: [Transformers, LangChain, LlamaIndex, OpenAI API, Anthropic Claude, Google
+        Gemini, RAG, Prompt engineering]
+    ml: [scikit-learn, PyTorch, TensorFlow, Hugging Face]
+    web: []
+    databases: [Vector databases, pgvector, Neo4j, MongoDB]
+    data: [Pandas, Seaborn, Knowledge graphs]
+    cloud: [Vertex AI]
+    ops: [MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8514263'
+  extracted_at: '2026-03-03T12:10:50.515590'

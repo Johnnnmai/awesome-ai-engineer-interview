@@ -1,0 +1,55 @@
+company:
+  name: PwC
+  stage: Public
+  focus: Professional services and consulting firm
+position:
+  title: AI Native Senior Engineer, Full Stack - Senior Associate
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack software engineering role that uses AI
+      coding assistants (Copilot, Cursor, Claude Code) as
+      productivity tools for code generation, debugging, and
+      refactoring. The engineer does NOT build, train, fine-tune,
+      or deploy AI/ML models — they build traditional web
+      applications (microservices, REST APIs, React UIs) and use
+      AI tools to accelerate that work. The role is classified as
+      ai-support because the AI usage is辅助 to software
+      development, not the core product being built.
+  responsibilities:
+  - Design, develop, and maintain microservices using .NET and REST APIs with AI-assisted
+    coding workflows
+  - Build responsive UI components using ReactJS and integrate with backend services
+    using AI tools for rapid prototyping
+  - Deploy and manage applications on Azure leveraging Functions, Blob Storage, Azure
+    API Manager, and Azure SQL
+  - Write clean, scalable code using AI coding assistants for test generation, code
+    completion, refactoring, and debugging
+  - Participate in code reviews using AI-assisted review tools to improve quality
+    and identify issues
+  - Collaborate with API architects, DevOps engineers, QA teams, and product owners
+  - Participate in Agile ceremonies including sprint planning, estimation, and delivery
+  - Contribute to team knowledge-sharing on AI-assisted development patterns and prompt
+    engineering techniques
+  use_cases:
+  - AI-assisted full stack software development for enterprise clients
+  - Automated code generation, testing, and refactoring using AI coding assistants
+  - Rapid prototyping of web applications with AI-accelerated workflows
+  - Digital transformation consulting through software product innovation
+  skills:
+    genai: [GitHub Copilot, Cursor, Claude Code, Codex, Prompt Engineering, LangChain,
+      Claude Agent SDK, Azure AI Agent Service]
+    ml: []
+    web: [.NET, REST APIs, ReactJS]
+    databases: [Azure SQL]
+    data: []
+    cloud: [Azure, Azure Functions, Azure Blob Storage, Azure API Manager]
+    ops: [CI/CD, Git, Unit Testing]
+    languages: []
+    domains: []
+    other: [Agile]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8823028'
+  extracted_at: '2026-04-22T13:09:42.283683'

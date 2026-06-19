@@ -1,0 +1,53 @@
+company:
+  name: Prolific
+  stage: null
+  focus: |-
+    Human data infrastructure platform for AI development and
+    research
+position:
+  title: Research Engineer, AI Services
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with AI systems through
+      designing evaluation methodologies, building rubrics and
+      verifiers for LLM evaluation, and prototyping RL
+      environments. The engineer works directly on AI evaluation
+      infrastructure and data collection approaches for
+      training/improving AI models, not just supporting
+      infrastructure.
+  responsibilities:
+  - Serve as technical research partner on customer engagements with AI labs and enterprise
+    AI teams
+  - Advise and prototype bespoke solutions including evaluation methodology, rubric
+    design, data collection approaches, quality frameworks, verifiers, validation
+    frameworks, and RL environments
+  - Own methodology for projects from scoping through delivery working alongside services
+    team
+  - Build trusted relationships with customer research and engineering teams
+  - Surface patterns from customer work to inform platform capabilities and partner
+    with Product and Engineering on roadmap priorities
+  - Collaborate with product teams to translate research insights into practical applications
+  - Contribute to research publications and external collaborations
+  use_cases:
+  - LLM evaluation and benchmarking
+  - Human feedback collection for AI alignment
+  - AI model validation and verification
+  - Reinforcement learning environment design
+  - Data quality framework development for AI training
+  skills:
+    genai: [LLM evaluation methodologies, human feedback approaches]
+    ml: [RL environments, AI/ML research, applied ML]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [prototyping]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8769982'
+  extracted_at: '2026-03-27T14:49:55.658194'

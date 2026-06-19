@@ -1,0 +1,49 @@
+company:
+  name: ChargePoint
+  stage: Public
+  focus: EV charging network and electric mobility solutions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying LLM-powered
+      applications including copilots, chatbots, and AI agents.
+      The engineer will architect RAG systems, develop agentic
+      workflows, and own AI inference services - all hands-on work
+      with generative AI models and systems.
+  responsibilities:
+  - Architect and build LLM-based applications such as copilots, chatbots, and AI
+    agents
+  - Design and optimize RAG and grounded AI systems using enterprise data
+  - Lead development of agentic workflows with tool/function calling and multi-step
+    reasoning
+  - Own backend services and APIs for AI inference and orchestration
+  - Drive LLMOps / GenAIOps practices including evaluation, monitoring, CI/CD, and
+    versioning
+  - Optimize AI systems for quality, cost, latency, and reliability
+  - Apply and advocate for Responsible AI and security-by-design principles
+  - Mentor engineers and influence AI engineering best practices across teams
+  use_cases:
+  - Enterprise copilot-style experiences for EV charging operations
+  - Conversational AI assistants and chatbots
+  - AI agents for automation at enterprise scale
+  - Grounded AI systems using enterprise data for EV charging domain
+  - Intelligent search and retrieval for EV charging network management
+  skills:
+    genai: [LangChain, LangGraph, Amazon Bedrock, OpenAI APIs, Prompt engineering,
+      RAG, AI agents]
+    ml: [Embeddings]
+    web: [FastAPI, Django]
+    databases: [Elasticsearch, Vector search, Hybrid search, Qdrant, ChromaDB, Pinecone]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD, LLMOps, MLOps]
+    languages: [Python, Java]
+    domains: []
+    other: [Distributed systems, Microservices architecture, Event-driven patterns]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8605865'
+  extracted_at: '2026-03-27T13:16:17.100221'

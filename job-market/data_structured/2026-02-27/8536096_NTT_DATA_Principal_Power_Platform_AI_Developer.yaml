@@ -1,0 +1,52 @@
+company:
+  name: NTT DATA
+  stage: Public
+  focus: |-
+    Global business and technology services provider
+    specializing in enterprise AI, cloud, and digital
+    infrastructure
+position:
+  title: Principal Power Platform AI Developer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the "AI Developer" title, the job description
+      contains no AI/ML-specific responsibilities or skills. The
+      requirements focus on general software development (Java,
+      C++, Python), application development, databases, and Agile
+      methodologies. This appears to be a traditional software
+      engineering role with an AI-related title, possibly for
+      working at an AI company but not directly building AI
+      systems.
+  responsibilities:
+  - Develop applications that accomplish client objectives and user needs
+  - Design and write code for applications and maintain application databases
+  - Analyze and edit existing software applications to improve functionality and enable
+    use on new hardware platforms
+  - Remodel and adapt applications to optimize performance
+  - Test applications extensively to ensure they are error and bug-free
+  - Install applications and act as technical advisor to clients
+  - Communicate with technical stakeholders to obtain information on project requirements
+    and interfaces
+  - Produce software documentation following company processes
+  use_cases:
+  - General application development for client needs
+  - Software application optimization and maintenance
+  - Cross-platform application deployment
+  - Client-facing technical advisory and consulting
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [SQL]
+    data: []
+    cloud: []
+    ops: [Linux, Unix, Windows, Scrum, Agile development]
+    languages: [Java, Python, C++, Perl, C]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8536096'
+  extracted_at: '2026-03-03T12:53:28.516772'

@@ -1,0 +1,47 @@
+company:
+  name: Abnormal Security
+  stage: null
+  focus: AI-powered email and SaaS security platform
+position:
+  title: Technical Support Engineer - AI Cybersecurity Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a technical support role that uses and troubleshoots
+      an AI-powered cybersecurity platform, but does not build,
+      train, fine-tune, or deploy AI models. The role involves
+      supporting customers using the AI product, debugging issues,
+      and investigating behavioral false positives—not working
+      directly on the AI/ML systems themselves.
+  responsibilities:
+  - Act as L1 technical advisor for enterprise customers using Cloud Email Security,
+    AI Security Agents, and SaaS Security products
+  - Own and resolve inbound support tickets including configuration issues, API questions,
+    behavioral false positives, and threat investigations
+  - Provide customers with clear updates, root cause insights, and solution recommendations
+  - Collaborate with Engineering for timely resolutions and post-mortem documentation
+  - Support customer onboarding alongside Customer Success Managers
+  - Create and maintain internal and external knowledge base content
+  - Identify patterns in support interactions to drive product improvements
+  use_cases:
+  - Email security and threat protection
+  - SaaS application security
+  - Behavioral AI-based attack detection
+  - API integration support
+  - Enterprise cybersecurity support
+  skills:
+    genai: [GPT-based assistants]
+    ml: []
+    web: [REST API]
+    databases: []
+    data: [Splunk]
+    cloud: [Microsoft 365, Google Workspace, Okta, Crowdstrike]
+    ops: [Cortex SOAR, Jira]
+    languages: []
+    domains: []
+    other: [Zendesk, Salesforce, Confluence]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7662895'
+  extracted_at: '2026-03-03T12:24:12.881510'

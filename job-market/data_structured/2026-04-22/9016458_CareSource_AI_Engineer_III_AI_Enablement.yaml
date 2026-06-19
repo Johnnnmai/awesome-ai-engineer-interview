@@ -1,0 +1,54 @@
+company:
+  name: CareSource
+  stage: Public
+  focus: Healthcare insurance and managed care services
+position:
+  title: AI Engineer III – AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and validating RAG
+      pipelines, agent-based architectures, and orchestration
+      workflows. While titled "AI Enablement," the engineer
+      directly implements AI-enabled solutions, builds proofs of
+      concept, and develops production-quality AI components,
+      making this an ai-first role.
+  responsibilities:
+  - Lead solution-level architecture for AI initiatives including data, models, orchestration,
+    security, integration, and observability
+  - Build proofs of concept and pilots, and implement critical solution components
+    including RAG pipelines and agent-based architectures
+  - Define and maintain reference architectures, design patterns, and technical standards
+    for AI-enabled solutions
+  - Provide technical guidance and mentorship to delivery teams, architects, and engineers
+    implementing AI solutions
+  - Design, develop, and implement internal automations supporting AITE intake, governance
+    workflows, reporting, and operational visibility
+  - Embed governance and Responsible AI requirements into solution architectures from
+    inception
+  - Partner with AI Platform and Infrastructure teams to provide solution-driven requirements
+    and architectural feedback
+  - Evaluate emerging AI capabilities, tools, and services through targeted experimentation
+  use_cases:
+  - RAG pipeline development and validation for enterprise knowledge retrieval
+  - Agent-based AI architectures for workflow automation and orchestration
+  - AI-enabled internal governance and intake process automation
+  - Enterprise AI solution design for healthcare managed care operations
+  - Responsible AI compliance and auditability in healthcare solutions
+  skills:
+    genai: [RAG pipelines, Agentic workflows, Prompt engineering, AI solution architecture]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [Azure OpenAI, Azure AI Search, Azure Machine Learning, Azure AI Foundry,
+      Azure AI Services]
+    ops: [CI/CD, LLMOps, Version control, Software testing]
+    languages: [Python]
+    domains: []
+    other: [Power Platform, SharePoint]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9016458'
+  extracted_at: '2026-04-22T13:24:45.370200'

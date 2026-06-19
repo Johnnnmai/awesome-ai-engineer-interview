@@ -1,0 +1,46 @@
+company:
+  name: Sharebite
+  stage: Growth stage (Inc 5000 fastest growing)
+  focus: Meal benefits platform for companies to feed employees
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and building AI agents,
+      integrating LLMs into product workflows, and shipping LLM-
+      powered systems in production. Although it starts as a full-
+      stack engineer role, it explicitly evolves into hands-on AI
+      engineering with LLMs, agent frameworks, and RAG pipelines,
+      making it ai-first.
+  responsibilities:
+  - Build and ship full-stack features across the product platform
+  - Develop understanding of systems, data models, and business logic
+  - Identify high-leverage automation opportunities within the platform
+  - Design and build AI agents and automated workflows using modern AI tooling
+  - Integrate LLMs into product workflows in reliable and production-safe ways
+  - Evaluate, iterate, and improve AI systems based on real-world performance
+  - Collaborate with product and engineering to solve user-facing problems
+  - Help define responsible AI engineering practices across the company
+  use_cases:
+  - Automating internal workflows to improve operational efficiency
+  - AI-powered product features enhancing the meal benefits platform experience
+  - Intelligent agents for streamlining ordering and billing processes
+  - LLM-driven automation of manual tasks for customers and internal teams
+  skills:
+    genai: [LangChain, LangGraph, AWS Bedrock, OpenAI API, Anthropic API, RAG pipelines,
+      Agent frameworks]
+    ml: []
+    web: [Full-stack development, REST APIs]
+    databases: [Vector databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: [System design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8953975'
+  extracted_at: '2026-04-22T14:10:56.121903'

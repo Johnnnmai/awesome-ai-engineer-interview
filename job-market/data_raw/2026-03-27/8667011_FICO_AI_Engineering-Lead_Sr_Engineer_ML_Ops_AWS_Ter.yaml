@@ -1,0 +1,183 @@
+job_id: 8667011
+title: AI Engineering-Lead/ Sr Engineer (ML Ops, AWS, Terraform)
+company: FICO
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Bash
+  - Datadog
+  - Github Actions
+  - Grafana
+  - Jenkins
+  - Kubernetes
+  - Prometheus
+  - Python
+  - Terraform
+company_size: 3,751 Employees
+description: |
+  FICO (NYSE: FICO) is a leading global analytics software
+  company, helping businesses in 100+ countries make better
+  decisions. Join our world-class team today and fulfill your
+  career potential!
+  
+  The Opportunity
+  
+  "As a DataOps / DevOps Engineer on our Generative AI team,
+  you’ll be at the cutting edge of language model
+  applications, building innovative solutions across key areas
+  of the FICO platform—including fraud detection, decision
+  automation, workflow orchestration, and system optimization.
+  We're looking for a highly skilled engineer with a strong
+  background in digital product development, a passion for
+  innovation, and hands-on experience in deploying production
+  systems, troubleshooting operational issues, and integrating
+  services at scale. The ideal candidate thrives in fast-
+  paced, agile environments, champions DevOps and CI/CD best
+  practices, and is committed to delivering high-impact,
+  customer-centric solutions. You’ll have the opportunity to
+  make a measurable impact by bringing next-generation AI
+  capabilities into production, collaborating with a world-
+  class team to build robust, scalable infrastructure and
+  accelerate innovation across FICO’s platform". - Software
+  Engineering-Sr Director
+  
+  What You’ll Contribute
+  
+  - Design, build, and maintain scalable, resilient data and ML
+    pipelines, infrastructure, and workflows using tools such
+    as GitHub Actions, Terraform, Helm, and others.
+  - Automate infrastructure provisioning and configuration
+    management using cloud-native services (preferably AWS)
+    with tools like Terraform, CloudFormation,
+  - Design, containerize, and manage Kubernetes (EKS) clusters
+    and/or ECS environments in AWS. Collaborate with
+    development teams to optimize performance, deployment, and
+    cost.
+  - Partner with DevOps and SRE teams to ensure high
+    availability, observability, scalability, and security of
+    the data and ML infrastructure.
+  - Work closely with Data Scientists and ML Engineers to
+    operationalize machine learning models, including building
+    CI/CD pipelines for model training, validation, and
+    deployment.
+  - Implement observability for data pipelines and ML services
+    using tools like Prometheus, Grafana, Datadog, or similar.
+  - Develop and maintain automated pipelines for model
+    retraining, monitoring drift, and versioning in
+    production.
+  - Support experimentation and prototyping in areas such as
+    Machine Learning and Generative AI, transitioning
+    successful prototypes into production systems.
+  - Ensure cloud infrastructure is secure, compliant, and cost-
+    efficient, following best practices in governance,
+    identity, and access management.
+  
+  What We’re Seeking
+  
+  - 5+ years of experience in DataOps, MLOps, or related fields,
+    with at least 2 years focused on ML model
+    operationalization and workflow automation.
+  - Proficient in AWS services including EC2, S3, IAM, ACM,
+    Route 53, CloudWatch, EKS, and ECS.
+  - Experience with infrastructure as code (IaC) tools such as
+    Terraform, CloudFormation, and Helm.
+  - Familiarity with CI/CD for ML pipelines, GitOps practices,
+    and tools like GitHub Actions, Jenkins, or Argo Workflows.
+  - Strong scripting and automation skills using Bash, Python,
+    or GitHub workflows.
+  - Understanding of observability and monitoring tools (e.g.,
+    Prometheus, Grafana, Datadog, or OpenTelemetry).
+  - Experience with feature stores (e.g., Feast, Tecton) and
+    knowledge of data mesh, lakehouse architectures, or modern
+    data stack concepts.
+  - Comfort working with structured and unstructured data across
+    various storage and pipeline systems.
+  - Solid understanding of security best practices for cloud and
+    Kubernetes environments, including secrets management,
+    identity & access control, and policy enforcement.
+  - Familiarity with data governance, lineage, and metadata
+    management is a plus.
+  - Excellent collaboration and communication skills, with a
+    proven ability to work effectively in cross-functional,
+    globally distributed teams.
+  - A bachelor’s degree in computer sciences, Engineering, or a
+    related discipline, or equivalent hands-on industry
+    experience.
+  
+  Our Offer to You
+  
+  - An inclusive culture strongly reflecting our core values:
+    Act Like an Owner, Delight Our Customers and Earn the
+    Respect of Others.
+  - The opportunity to make an impact and develop professionally
+    by leveraging your unique strengths and participating in
+    valuable learning experiences.
+  - Highly competitive compensation, benefits and rewards
+    programs that encourage you to bring your best every day
+    and be recognized for doing so.
+  - An engaging, people-first work environment offering
+    work/life balance, employee resource groups, and social
+    events to promote interaction and camaraderie.
+  
+  Why Make a Move to FICO?
+  
+  At FICO, you can develop your career with a leading
+  organization in one of the fastest-growing fields in
+  technology today – Big Data analytics.  You’ll play a part
+  in our commitment to help businesses use data to improve
+  every choice they make, using advances in artificial
+  intelligence, machine learning, optimization, and much more.
+  
+  FICO makes a real difference in the way businesses operate
+  worldwide:
+  
+  •    Credit Scoring — FICO® Scores are used by 90 of the top
+  100 US lenders.
+  
+  •    Fraud Detection and Security — 4 billion payment cards
+  globally are protected by FICO fraud systems.
+  
+  •    Lending — 3/4 of US mortgages are approved using the
+  FICO Score.
+  
+  Global trends toward digital transformation have created
+  tremendous demand for FICO’s solutions, placing us among the
+  world’s top 100 software companies by revenue. We help many
+  of the world’s largest banks, insurers, retailers,
+  telecommunications providers and other firms reach a new
+  level of success. Our success is dependent on really
+  talented people – just like you – who thrive on the
+  collaboration and innovation that’s nurtured by a diverse
+  and inclusive environment. We’ll provide the support you
+  need, while ensuring you have the freedom to develop your
+  skills and grow your career.  Join FICO and help change the
+  way business thinks!
+  
+  Learn more about how you can fulfil your potential at
+  www.fico.com/Careers
+  
+  FICO promotes a culture of inclusion and seeks to attract a
+  diverse set of candidates for each job opportunity. We are
+  an equal employment opportunity employer and we’re proud to
+  offer employment and advancement opportunities to all
+  candidates without regard to race, color, ancestry,
+  religion, sex, national origin, pregnancy, sexual
+  orientation, age, citizenship, marital status, disability,
+  gender identity or Veteran status. Research has shown that
+  women and candidates from underrepresented communities may
+  not apply for an opportunity if they don’t meet all stated
+  qualifications. While our qualifications are clearly related
+  to role success, each candidate’s profile is unique and
+  strengths in certain skill and/or experience areas can be
+  equally effective. If you believe you have many, but not
+  necessarily all, of the stated qualifications we encourage
+  you to apply.
+  
+  Information submitted with your application is subject to
+  the FICO Privacy policy at https://www.fico.com/en/privacy-
+  policy
+posted_date: 2026-03-05
+url: "https://builtin.com/job/ai-engineering-lead-sr-engineer-ml-ops-aws-terraform/8667011"
+source: Built In

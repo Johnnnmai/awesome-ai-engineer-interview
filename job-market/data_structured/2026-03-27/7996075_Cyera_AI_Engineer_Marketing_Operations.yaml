@@ -1,0 +1,51 @@
+company:
+  name: Cyera
+  stage: Series B or later
+  focus: Data security platform for the cloud era
+position:
+  title: AI Engineer – Marketing Operations
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is ai-first because the role involves hands-on
+      building, deploying, and productionizing LLM-powered
+      applications, agentic systems, and RAG architectures. The
+      engineer will directly implement AI systems including
+      embeddings, vector databases, and AI workflow orchestration.
+  responsibilities:
+  - Design and deploy AI-powered applications embedded within marketing and CRM infrastructure
+  - Build and productionize LLM-driven workflows, agentic systems, and retrieval-augmented
+    (RAG) architectures
+  - Architect secure integrations across Salesforce, marketing automation platforms,
+    data warehouses, and external APIs
+  - Develop scalable orchestration frameworks for AI workflows including event-driven,
+    API-based, and automation-triggered systems
+  - Implement monitoring, logging, evaluation, and guardrails for production AI systems
+  - Establish AI governance, access controls, and reliability standards within marketing
+    systems
+  - Optimize performance, latency, and cost of AI-powered workflows
+  - Partner cross-functionally with Marketing, Revenue Operations, and Engineering
+    teams to translate business requirements into scalable AI applications
+  use_cases:
+  - Marketing automation and workflow optimization
+  - AI-powered revenue operations and lead management
+  - Intelligent CRM data processing and enrichment
+  - Automated marketing campaign orchestration
+  - Knowledge retrieval and search across marketing data
+  skills:
+    genai: [LLM APIs, Embeddings, RAG architectures, Agentic systems]
+    ml: []
+    web: [APIs and webhooks]
+    databases: [Vector databases, Snowflake, BigQuery]
+    data: [Event-driven frameworks, Segment, dbt, Reverse ETL tools]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [Salesforce, Marketo, HubSpot, Tableau, Looker, Clay, Outreach, Salesloft,
+      Zapier, Workato]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7996075'
+  extracted_at: '2026-03-27T14:46:50.309879'

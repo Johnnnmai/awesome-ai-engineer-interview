@@ -1,0 +1,48 @@
+company:
+  name: Nexaminds
+  stage: Startup
+  focus: |-
+    AI solutions for business transformation and process
+    optimization
+position:
+  title: AI Fullstack Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI-enabled applications
+      with prompt engineering, prompt lifecycle management, and
+      LLM API integration. The position requires hands-on work
+      implementing AI models into production systems and managing
+      model interaction layers, which is core AI/ML work rather
+      than support infrastructure.
+  responsibilities:
+  - Design and develop AI-enabled full-stack applications using modern frameworks
+  - Implement and manage prompt engineering and prompt lifecycle management
+  - Integrate AI models via APIs (LLMs and related services) into production systems
+  - Build scalable backend services using NestJS and frontend applications using NextJS
+  - Manage model interaction layers, API orchestration, and system workflows
+  - Perform self-reviews and code reviews while using AI-enhanced IDEs
+  - Troubleshoot and independently resolve NPM, Git, and build-related issues
+  - Research new tools, frameworks, and AI approaches and provide data-driven recommendations
+  use_cases:
+  - AI-enabled web applications for business transformation
+  - LLM-powered production systems
+  - Intelligent process automation
+  - Scalable AI integration workflows
+  - Prompt-driven application features
+  skills:
+    genai: [Prompt Engineering, LLM API Integration, AI-assisted development tools]
+    ml: []
+    web: [NextJS, NestJS, React, API Integration]
+    databases: [Supabase, Pinecone]
+    data: []
+    cloud: []
+    ops: [Git, NPM]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Software Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8353527'
+  extracted_at: '2026-03-03T12:57:49.889363'

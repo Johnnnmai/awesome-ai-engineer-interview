@@ -1,0 +1,53 @@
+company:
+  name: InnovationTeam
+  stage: unknown
+  focus: |-
+    AI-driven solutions for enterprises and government
+    organizations
+position:
+  title: Senior Generative AI (Gen AI) Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, fine-tuning, and
+      deploying generative AI systems including LLMs, RAG
+      architectures, and AI agents. The engineer will work hands-
+      on with models throughout the entire lifecycle from data
+      ingestion to production inference.
+  responsibilities:
+  - Design, develop, and optimize Generative AI solutions including LLMs, RAG systems,
+    and AI agents
+  - Fine-tune, evaluate, and deploy large language models for enterprise use cases
+  - Build and maintain end-to-end AI pipelines from data ingestion to inference
+  - Implement Retrieval-Augmented Generation (RAG) using vector databases and knowledge
+    stores
+  - Integrate GenAI solutions with existing systems via APIs and microservices
+  - Optimize model performance, latency, and cost on cloud platforms (OCI, AWS, Azure,
+    GCP)
+  - Collaborate with product, data, and engineering teams to translate business needs
+    into AI solutions
+  - Ensure AI solutions follow best practices in security, governance, and responsible
+    AI
+  use_cases:
+  - Enterprise AI solutions for businesses and government organizations
+  - Data analytics and real-world business use cases
+  - Retrieval-Augmented Generation for knowledge-intensive applications
+  - AI agent development for automated workflows
+  - Production-ready AI systems deployment
+  skills:
+    genai: [LLMs, RAG, AI Agents, GPT, LLaMA, Mistral]
+    ml: [PyTorch, TensorFlow, deep learning, transformer architectures, GPU-based
+        training and inference]
+    web: [REST, APIs, microservices]
+    databases: [FAISS, OpenSearch, Pinecone]
+    data: []
+    cloud: [OCI, AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, MLOps, LLMOps]
+    languages: [Python, Java, Ruby]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8501247'
+  extracted_at: '2026-03-03T11:24:50.333953'

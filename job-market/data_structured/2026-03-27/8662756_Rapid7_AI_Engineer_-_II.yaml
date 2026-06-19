@@ -1,0 +1,47 @@
+company:
+  name: Rapid7
+  stage: Public
+  focus: Cybersecurity and threat detection solutions
+position:
+  title: AI Engineer - II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly builds, evaluates, and optimizes both ML
+      and LLM-based security features, including developing RAG
+      pipelines and prompt engineering. The position involves
+      hands-on work deploying and monitoring models in production,
+      not just supporting infrastructure for others.
+  responsibilities:
+  - Contribute to end-to-end development, evaluation, and monitoring of ML and LLM-based
+    security features
+  - Execute data acquisition, cleaning, and feature engineering for security modeling
+    datasets
+  - Build and evaluate supervised and unsupervised ML models including classification,
+    clustering, and anomaly detection
+  - Develop and optimize LLM-based workflows including prompt engineering and RAG
+    pipeline implementation
+  - Support deployment and observability of models on AWS infrastructure using CI/CD
+    pipelines
+  use_cases:
+  - Threat detection and security analytics
+  - Automated security workflows
+  - Anomaly detection for cybersecurity
+  - Classification of security threats
+  - Proactive defense features from threat intelligence
+  skills:
+    genai: [LangChain, RAG, prompt engineering]
+    ml: [scikit-learn, HuggingFace Transformers, PyTorch, TensorFlow, SHAP, LIME]
+    web: []
+    databases: []
+    data: [Pandas, NumPy]
+    cloud: [AWS, SageMaker, S3, Bedrock, Lambda]
+    ops: [GitHub Actions, Jenkins, CloudWatch, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8662756'
+  extracted_at: '2026-03-27T16:04:34.588396'

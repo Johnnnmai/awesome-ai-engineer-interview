@@ -1,0 +1,52 @@
+company:
+  name: Altisource
+  stage: Public
+  focus: |-
+    Real estate and mortgage industry services and technology
+    solutions
+position:
+  title: Lead AI Solution Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building LLM-based systems
+      including agents, RAG, and workflow orchestration. The
+      position requires hands-on GenAI development with 2+ years
+      specifically in LLM/GenAI, focusing on implementing
+      production LLM apps and agentic automation systems.
+  responsibilities:
+  - Build LLM-based systems including retrieval, agents, workflow orchestration, and
+    API chaining
+  - Architect reusable components for document intelligence, workflow automation,
+    and copilots
+  - Design and implement guardrails, safe execution patterns, and quality gates for
+    AI systems
+  - Translate business problems into scalable AI pipelines
+  - Lead cross-functional engineering pods and mentor engineers
+  - Drive architectural decisions for AI solutions
+  - Implement secure data handling and compliance measures including role-based access
+    and auditability
+  use_cases:
+  - Document intelligence and processing
+  - Workflow automation for real estate and mortgage industries
+  - Enterprise copilots and assistants
+  - Unstructured data processing including PDFs and OCR
+  - Agentic automation systems
+  - Enterprise AI applications
+  skills:
+    genai: [LLM systems, RAG, Agents, Workflow orchestration, Prompt engineering,
+      Azure OpenAI, Embeddings, Evaluation frameworks, Guardrails, Document intelligence]
+    ml: []
+    web: [Microservices]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS Bedrock, Serverless]
+    ops: [DevOps]
+    languages: [Python, Java]
+    domains: []
+    other: [OCR]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7733101'
+  extracted_at: '2026-03-03T11:13:40.418855'

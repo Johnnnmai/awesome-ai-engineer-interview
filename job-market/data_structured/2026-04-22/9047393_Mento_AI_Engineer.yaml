@@ -1,0 +1,52 @@
+company:
+  name: Mento
+  stage: Seed
+  focus: |-
+    Career technology company providing AI and human-based
+    coaching
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing AI-enabled capabilities on top
+      of foundational models, building AI agents that translate
+      coaching workflows into product experiences, and structuring
+      AI application capabilities for scalability. The engineer
+      will directly work with LLMs to build and deploy AI coaching
+      agents, making this an ai-first role.
+  responsibilities:
+  - Build product features and experiences from 0-to-1, shipping regularly in an early-stage
+    environment
+  - Design AI-enabled capabilities on top of foundational models, structuring them
+    for adaptability, reuse, and scalability
+  - Translate coaching insights and workflows into AI agents in collaboration with
+    the coaching team
+  - Build data pipelines and integrations to import and export data across productivity
+    and learning ecosystems
+  - Educate the team on best practices around data and AI through peer mentorship,
+    code reviews, and knowledge sharing
+  - Make technical trade-offs and take risks appropriate for early-stage product development
+  use_cases:
+  - AI-powered coaching platform that delivers personalized career guidance
+  - AI agents that replicate and augment human coaching workflows
+  - Integration with productivity and learning development tools to enrich coaching
+    experiences
+  - Software-based coaching tools that complement human coaches
+  skills:
+    genai: [LLM integration, AI agents, prompt engineering, 'LLM coding tools (Cursor,
+        Cody)']
+    ml: []
+    web: [Ruby on Rails, REST APIs, event-driven architecture]
+    databases: [search indexes]
+    data: [data pipelines, data engineering]
+    cloud: []
+    ops: []
+    languages: [Go, TypeScript, Ruby]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9047393'
+  extracted_at: '2026-04-22T13:38:13.668895'

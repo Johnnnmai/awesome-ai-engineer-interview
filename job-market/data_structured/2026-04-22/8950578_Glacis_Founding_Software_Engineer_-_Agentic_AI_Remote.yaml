@@ -1,0 +1,49 @@
+company:
+  name: Glacis
+  stage: Seed / Early Stage (YC alumni, backed by VC)
+  focus: |-
+    AI agents automating supply chain and logistics workflows
+    for global enterprises
+position:
+  title: Founding Software Engineer - Agentic AI (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an "Agentic AI" role where the engineer will design
+      and deploy AI-driven automation features, including AI
+      agents that "think, plan, and act." The role involves
+      building AI systems end-to-end (frontend, backend, and AI
+      integration), not just supporting infrastructure for others.
+      The core product is AI agents for supply chain automation.
+  responsibilities:
+  - Take ownership of technical decisions, system architecture, and strategic development
+    initiatives
+  - Build scalable frontend and backend solutions using modern technologies
+  - Design and deploy AI-driven automation features, ensuring seamless integration
+    with customer ERP/TMS systems
+  - Work hands-on with enterprise customers to gather requirements, deliver custom
+    solutions, and ensure smooth deployments
+  - Contribute to shaping the company's engineering roadmap, technology choices, and
+    long-term vision
+  - Define end-to-end technical strategy for AI agent systems
+  use_cases:
+  - AI agents that think, plan, and act to automate complex logistics workflows
+  - Integration of AI automation with enterprise ERP and TMS systems
+  - Supply chain workflow automation for global enterprises like Tesla and Coca-Cola
+  - Seamless process integration to supercharge supply chain efficiency
+  skills:
+    genai: [AI agents]
+    ml: []
+    web: [Django, Full-stack development]
+    databases: [PostgreSQL]
+    data: [Temporal]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: [ERP/TMS integration]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8950578'
+  extracted_at: '2026-04-22T12:38:41.011124'

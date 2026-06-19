@@ -1,0 +1,51 @@
+company:
+  name: Percepta AI
+  stage: Series A
+  focus: |-
+    Applied AI transformation for critical industries like
+    healthcare, manufacturing, and energy
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role because engineers directly design,
+      build, and ship production-grade AI agents and workflows
+      using their Mosaic toolkit. They work hands-on with LLM
+      tooling, RAG pipelines, multi-step agents, and deploy AI
+      solutions to customers.
+  responsibilities:
+  - Collaborate with customer stakeholders to define long-term AI strategy and transformation
+    roadmaps
+  - Identify and prioritize high-leverage AI use cases that deliver measurable business
+    value
+  - Rapidly build and deploy production-grade AI agents and workflows that work with
+    real users and real data
+  - Contribute to the Mosaic product by encoding lessons from customer engagements
+    into new features and abstractions
+  - Work directly with customer executives, operators, and technical teams to deliver
+    AI systems
+  - Ship AI solutions that drive millions in business value for customers
+  use_cases:
+  - AI transformation for healthcare institutions
+  - AI transformation for manufacturing operations
+  - AI transformation for energy sector
+  - Agentic workflows for critical industries
+  - Production AI agents for enterprise customers
+  skills:
+    genai: [LangGraph, Agents SDK, Mastra, RAG pipelines, Multi-step agents, Tool
+        use, Human-in-the-loop systems, LLM tooling]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [DevOps tooling]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7569533'
+  extracted_at: '2026-03-27T13:28:29.216407'

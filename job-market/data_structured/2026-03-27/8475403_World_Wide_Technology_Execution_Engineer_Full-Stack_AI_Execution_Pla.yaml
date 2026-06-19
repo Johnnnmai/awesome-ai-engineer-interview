@@ -1,0 +1,49 @@
+company:
+  name: World Wide Technology
+  stage: Private (founded 1990, 14,000+ employees)
+  focus: |-
+    Global technology solutions provider delivering AI and
+    digital transformation solutions
+position:
+  title: Execution Engineer (Full-Stack) – AI Execution Platforms
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building workflow automation,
+      integrations, and delivery systems using low-code platforms
+      and AI-assisted development tools. While it involves AI
+      coding tools and mentions AI in workflows, the primary work
+      is building execution platforms and integrations that
+      support delivery, not building, training, or deploying AI/ML
+      models themselves.
+  responsibilities:
+  - Build and maintain AI-enabled delivery workflows, integrations, and applications
+  - Deliver solutions using traditional coding (APIs, services, data), low-code platforms
+    (Boomi, Power Platform), and AI-assisted development tooling
+  - Create reusable patterns and assets for repeatable delivery outcomes across projects
+  - Ship with operability in mind including logging, monitoring, runbooks, and rollback
+    capabilities
+  - Participate in sprint execution, reviews, and iterative improvement cycles
+  - Collaborate with time-boxed contractors and internal SMEs, producing clean handoffs
+    and documentation
+  use_cases:
+  - AI-enabled delivery workflow automation
+  - Integration platforms for customer delivery execution
+  - Reusable execution systems and patterns for repeatable project outcomes
+  - Low-code automation solutions for enterprise clients
+  skills:
+    genai: [GitHub Copilot, Cursor, ChatGPT, RAG, Prompt engineering]
+    ml: []
+    web: [API development]
+    databases: [SQL]
+    data: []
+    cloud: [Azure]
+    ops: [Git, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Boomi iPaaS, Power Automate, Power Apps]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8475403'
+  extracted_at: '2026-03-27T15:42:03.415296'

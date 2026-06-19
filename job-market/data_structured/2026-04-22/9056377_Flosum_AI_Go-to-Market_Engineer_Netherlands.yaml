@@ -1,0 +1,60 @@
+company:
+  name: Flosum
+  stage: Growth (approximately $4M ARR)
+  focus: |-
+    Salesforce-native DevOps and data protection platform for
+    enterprises
+position:
+  title: AI Go-to-Market Engineer (Netherlands)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly architecting, deploying,
+      training, and continuously optimizing AI agents (AI SDR
+      agents, qualification systems, churn prediction models)
+      across the GTM stack. The candidate is hands-on building and
+      iterating on AI agent systems, writing production code to
+      connect AI agents to CRM/MAP tools, and managing agent
+      orchestration — not just advising or supporting.
+  responsibilities:
+  - Deploy and train AI SDR agents for inbound qualification and outbound prospecting,
+    running weekly refinement cycles
+  - Build AI-powered inbound qualification systems that capture, score, and route
+    leads in real time
+  - Automate CRM hygiene, call summarization, follow-up sequencing, and proposal drafting
+    to increase AE revenue-generating time
+  - Architect the AI integration layer across the GTM stack (Salesforce, Marketo,
+    Outreach, Gong) for seamless data flow
+  - Build AI-driven competitive intelligence engine monitoring competitors, pricing,
+    and product launches
+  - Create hyper-personalized outbound campaigns at scale using AI for account research
+    and multi-channel messaging
+  - Deploy AI-assisted customer health scoring and churn prediction models flagging
+    at-risk accounts
+  - Instrument closed-loop feedback systems between BDR activity, pipeline outcomes,
+    and AI agent performance
+  use_cases:
+  - AI-powered sales development (SDR/BDR) agents for inbound and outbound prospecting
+  - Real-time lead qualification, scoring, and routing
+  - Automated CRM administration and sales workflow optimization
+  - Competitive intelligence monitoring and analysis
+  - Customer health scoring and churn prediction
+  - Product-led growth touchpoints including conversational qualification and self-serve
+    onboarding
+  skills:
+    genai: [AI agent orchestration, Prompt engineering, RAG, AI SDR/BDR agent deployment,
+      Agentforce]
+    ml: [Customer health scoring / churn prediction models]
+    web: [REST APIs]
+    databases: [Salesforce]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: [Marketo, Outreach, Gong]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9056377'
+  extracted_at: '2026-04-22T13:44:53.208664'

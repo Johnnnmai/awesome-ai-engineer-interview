@@ -1,0 +1,144 @@
+job_id: 9039297
+title: Engineer III - AI Specialist
+company: F5
+location: Hyderabad, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Airflow
+  - Ansible
+  - Spark
+  - AWS
+  - Azure
+  - Dask
+  - Datadog
+  - Docker
+  - GCP
+  - Gitlab
+company_size: 5,847 Employees
+description: |
+  At F5, we strive to bring a better digital world to life.
+  Our teams empower organizations across the globe to create,
+  secure, and run applications that enhance how we experience
+  our evolving digital world. We are passionate about
+  cybersecurity, from protecting consumers from fraud to
+  enabling companies to focus on innovation.
+  
+  
+  Everything we do centers around people. That means we obsess
+  over how to make the lives of our customers, and their
+  customers, better. And it means we prioritize a diverse F5
+  community where each individual can thrive.
+  
+  Primary Responsibilities
+  
+  - Design, develop, and deploy services powered by the latest
+    AI models to enable agent-driven workflows for F5
+    products, ensuring scalability and ease of use.
+  - Build intelligent agents and design workflows utilizing GPT
+    models for automation and advanced capabilities in F5
+    systems.
+  - Maintain, optimize, and support F5’s internal AI systems,
+    including GPT-based implementations, ensuring high
+    availability and scalable performance.
+  - Collaborate with product teams, IT departments, and vendors
+    to integrate AI-driven agents and workflows across diverse
+    system environments.
+  - Develop observability tools, monitoring systems, and
+    automation frameworks to enhance AI model reliability.
+  - Coordinate with platform teams to improve CI/CD environments
+    with AI-focused automation and ensure best practices.
+  - Continuously explore emerging AI technologies and frameworks
+    to integrate innovative solutions into F5 products.
+  - Ensure compliance with architecture standards and security
+    policies while addressing audit inquiries.
+  - Define development lifecycle processes and workflows to
+    streamline AI-driven application creation.
+  - Provide technical leadership and establish guidelines for
+    integrating AI technologies and agentic workflows.
+  
+  Skills and Requirements
+  
+  - AI Expertise:
+    - Experience with deploying and optimizing AI tools such as
+      GPT models and integrating agentic workflows.
+    - Familiarity with GPT architectures (GPT-4.x, related APIs)
+      and reinforcement learning for intelligent systems.
+    - Knowledge of AI libraries and frameworks (TensorFlow,
+      PyTorch, Keras, Hugging Face Transformers, etc.).
+  - Development & Automation:
+    - Proficiency in programming languages like Python,
+      JavaScript, Go, or Shell scripting.
+    - Hands-on experience with containerized architectures
+      (Kubernetes, Docker) and cloud platforms (Azure, AWS, or
+      GCP).
+    - Expertise in CI/CD pipelines and infrastructure automation
+      with tools like Terraform, Ansible, and Helm.
+  - Data & Integration:
+    - Familiarity with relational and non-relational databases
+      (PostgreSQL, MS SQL, MongoDB) and API integrations
+      (RESTful APIs).
+  - Security & Governance:
+    - Understanding of ethical AI principles and security best
+      practices for AI model deployment.
+    - Experience with organizational governance policies and
+      compliance standards.
+  - Observability & Scaling:
+    - Experience with monitoring and observability tools like
+      Prometheus, Grafana, or Datadog.
+    - Knowledge of distributed computing frameworks for scaling AI
+      workflows (such as Apache Spark, Airflow, or Dask).
+  - Soft Skills:
+    - Strong communication skills to interact effectively with
+      technical and non-technical teams.
+    - Self-motivated with analytical problem-solving capabilities
+      and a collaborative mindset.
+  
+  Preferred Qualifications
+  
+  - Bachelor’s degree in Computer Science, AI, Machine Learning,
+    or a related field with 5+ years of relevant experience;
+    or advanced degree with AI expertise.
+  - Familiarity with AI-powered conversational systems (RASA,
+    Dialogflow, LangChain) and agent-building workflows.
+  - Proficiency in Kubernetes and OpenShift for container
+    orchestration.
+  - Knowledge of CI/CD tools (GitLab, Jenkins) and MLOps
+    practices for optimizing AI model lifecycle.
+  
+  The Job Description is intended to be a general
+  representation of the responsibilities and requirements of
+  the job. However, the description may not be all-inclusive,
+  and responsibilities and requirements are subject to change.
+  
+  Please note that F5 only contacts candidates through F5
+  email address (ending with @f5.com) or auto email
+  notification from Workday (ending with f5.com or
+  @myworkday.com).
+  
+  Equal Employment Opportunity
+  
+  It is the policy of F5 to provide equal employment
+  opportunities to all employees and employment applicants
+  without regard to unlawful considerations of race, religion,
+  color, national origin, sex, sexual orientation, gender
+  identity or expression, age, sensory, physical, or mental
+  disability, marital status, veteran or military status,
+  genetic information, or any other classification protected
+  by applicable local, state, or federal laws. This policy
+  applies to all aspects of employment, including, but not
+  limited to, hiring, job assignment, compensation, promotion,
+  benefits, training, discipline, and termination.  F5 offers
+  a variety of reasonable accommodations for candidates.
+  Requesting an accommodation is completely voluntary. F5 will
+  assess the need for accommodations in the application
+  process separately from those that may be needed to perform
+  the job. Request by contacting accommodations@f5.com.
+industries:
+  - Cloud
+  - Information Technology
+  - Security
+  - Software
+posted_date: 2026-04-14
+url: "https://builtin.com/job/engineer-iii-ai-specialist/9039297"
+source: Built In

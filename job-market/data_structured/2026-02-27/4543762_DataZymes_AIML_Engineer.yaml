@@ -1,0 +1,49 @@
+company:
+  name: DataZymes
+  stage: unknown
+  focus: Data analytics for Life Sciences and Pharma clients
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on development and deployment of
+      AI/ML models including LLMs, with specific requirements for
+      fine-tuning, RAG implementation, model optimization, and
+      production deployment. The position involves directly
+      building and optimizing AI systems (both generative AI and
+      traditional ML) rather than supporting infrastructure for
+      others.
+  responsibilities:
+  - Develop and fine-tune AI/ML and deep learning models including Generative AI systems
+  - Design and implement LLM prompts, embeddings, and vector database solutions
+  - Build and deploy models using Docker, Kubernetes, and cloud AI services (AWS Bedrock,
+    SageMaker, GCP Vertex AI)
+  - Implement RAG, CAG, and RIG architectures with LoRA fine-tuning techniques
+  - Develop ML pipelines for text classification, summarization, and chat agents
+  - Write scalable, production-ready ML code with optimized model inference
+  - Design and maintain MLOps and CI/CD pipelines for model deployment
+  - Work with SQL, noSQL databases, Snowflake and Databricks platforms
+  use_cases:
+  - Text classification for Life Sciences data
+  - Document summarization for Pharma clients
+  - Chat agents for healthcare applications
+  - Data to insights transformation
+  - Generative AI solutions for enterprise clients
+  skills:
+    genai: [LangChain, LLM prompt design, embeddings, agentic frameworks, RAG, CAG,
+      RIG, LoRA]
+    ml: [TensorFlow, PyTorch, Hugging Face Transformers, fine-tuning, ML algorithms]
+    web: []
+    databases: [vector databases, noSQL databases, Snowflake]
+    data: [Databricks]
+    cloud: [AWS Bedrock, SageMaker, GCP Vertex AI]
+    ops: [Docker, Kubernetes, MLOps, CI/CD, model inference optimization]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4543762'
+  extracted_at: '2026-03-03T11:58:19.974928'

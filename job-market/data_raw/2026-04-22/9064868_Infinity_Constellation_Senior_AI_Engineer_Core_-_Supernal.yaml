@@ -1,0 +1,159 @@
+job_id: 9064868
+title: Senior AI Engineer (Core) - Supernal
+company: Infinity Constellation
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Django
+  - Kubernetes
+  - Langchain
+  - Llamaindex
+  - Postgres
+  - Real-Time Systems
+  - Retrieval Systems
+  - Vector Databases
+  - Voice Ui/Ux
+description: |
+  Senior AI Engineer About Supernal
+  
+  Supernal helps small-to-medium businesses hire their first
+  AI employee. Our AI teammates are built using intelligent,
+  agentic workflows deployed on a proprietary platform. We
+  deliver working, value-generating AI Employees—not
+  tools—that handle real business processes alongside human
+  teams.
+  
+  The Role
+  
+  We’re hiring a Senior AI Engineer to build and ship the
+  first generation of personalized, self-improving agentic
+  workflows that users rely on daily. This is an “end-to-end”
+  role: you’ll design the agent runtime, memory + retrieval
+  systems, evaluation harnesses, and the product-facing
+  surfaces that put agents in front of real users at scale.
+  
+  You should be equally comfortable reasoning about
+  distributed systems and data (latency, caching, queues,
+  failure modes, cost) as you are with modern agent stacks
+  (tool use, memory, RAG, multi-step planning, guardrails, and
+  evaluation).
+  
+  This role will partner closely with platform engineering to
+  leverage and extend our core services (Django backend,
+  event-driven systems, Kubernetes, observability) while
+  owning critical parts of the AI application layer.
+  
+  What You’ll Build
+  
+  - Personalized agent runtime: Agentic workflows that adapt to
+    a user’s preferences, data, and ongoing behavior over
+    time.
+  - Memory & retrieval systems: Short/long-term memory, durable
+    state, and retrieval pipelines across vector DBs and
+    relational data.
+  - Voice experiences (real-time + async): Speech-to-
+    speech/voice agents, streaming audio pipelines, turn-
+    taking, interruption handling, latency tuning, and QA for
+    natural conversations.
+  - Agent evaluation + reliability: Offline/online evals,
+    regression suites, red-teaming, monitoring, and rollout
+    controls so agents are trustworthy in production.
+  - Production agent infrastructure: Scalable orchestration
+    patterns for multi-step jobs, background tasks, and user-
+    facing interactions (sync + async), with clear SLAs/SLOs.
+  - Tooling + developer experience: Libraries and primitives
+    that make it easy for the team to build new agent
+    capabilities quickly and safely.
+  
+  What You’ll Own (Responsibilities)
+  
+  - Ship user-facing agent experiences end-to-end: prototype →
+    production → iteration based on real usage.
+  - Architect and implement stateful agent systems (workflows,
+    tool calling, memory, retrieval, and human-in-the-loop
+    where needed).
+  - Build voice features end-to-end where they unlock value:
+    realtime speech agents, voice UI/UX, prompt/audio routing,
+    and guardrails for safe tool execution.
+  - Build/own an evaluation harness:
+    - curated test sets + scenario suites
+    - automated scoring / rubric-based graders
+    - prompt/model/version tracking
+    - canary + A/B experimentation and safe rollout patterns
+  - Design data + retrieval pipelines:
+    - chunking, enrichment, metadata strategy
+    - hybrid retrieval (vector + keyword + structured filters)
+    - re-ranking, caching, and latency optimization
+    - multi-tenant safety and data isolation
+  - Integrate with and extend our platform primitives:
+    - Django/DRF/ASGI services
+    - async execution + queues + workflow orchestration
+    - PostgreSQL + pgvector
+    - Kubernetes deployments, autoscaling, and cost controls
+  - Establish engineering rigor for agents:
+    - observability (traces, spans, structured logs)
+    - reliability patterns (timeouts, retries, circuit breakers,
+      graceful degradation)
+    - security/privacy controls for data access and tool execution
+  
+  What We’re Looking ForRequired
+  
+  - Strong software engineering fundamentals (design, testing,
+    code quality, performance, security).
+  - Production experience deploying AI systems in front of users
+    (not just notebooks/demos).
+  - Experience building agentic or LLM-powered systems with
+    memory and tool use.
+  - Comfort working across application + infrastructure layers:
+    APIs, background jobs, data stores, and deployment.
+  - Hands-on experience with at least one agent framework (or
+    equivalent custom implementation), such as:
+    - LangChain / LangGraph
+    - LlamaIndex
+    - AutoGen / CrewAI-style multi-agent patterns
+  - Strong understanding of retrieval and vector search
+    concepts: embeddings, indexing, filtering, evaluation.
+  
+  Preferred
+  
+  - Experience with vector databases and/or search stacks (e.g.,
+    Pinecone, Chroma, Weaviate, Qdrant, pgvector).
+  - Experience designing evaluation systems (offline eval, human
+    eval loops, production monitoring, prompt/model
+    regression).
+  - Experience building voice/real-time systems (streaming,
+    WebRTC or similar), and/or integrating speech (STT/TTS)
+    into production applications.
+  - Experience building durable, long-running workflows
+    (Temporal or similar orchestration engines).
+  - Familiarity with observability tooling (OpenTelemetry,
+    Datadog, or similar).
+  - Experience shipping multi-tenant SaaS systems with strong
+    privacy boundaries.
+  
+  Interview Focus Areas
+  
+  - System design for agentic applications (state, memory,
+    evaluation, failure modes).
+  - Practical retrieval/RAG design (data modeling, indexing,
+    relevance, latency).
+  - Production engineering practices (testing strategy,
+    observability, rollouts).
+  - Ability to communicate tradeoffs and make good technical
+    decisions under uncertainty.
+  
+  Compensation & Logistics
+  
+  - Compensation: Competitive salary commensurate with
+    experience (Senior level)
+  - Location: Remote
+  - Type: Full-time
+  - Requirements: Overlap with Americas timezones for
+    collaboration; reliable high-speed internet
+industries:
+  - Artificial Intelligence
+  - Financial Services
+posted_date: 2026-04-16
+url: "https://www.builtinla.com/job/senior-ai-engineer-core-supernal/9064868"
+source: Built In

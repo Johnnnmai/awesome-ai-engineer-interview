@@ -1,0 +1,59 @@
+company:
+  name: NICE
+  stage: Public
+  focus: |-
+    Customer experience software, AI-driven contact center
+    solutions, and financial crime detection
+position:
+  title: Product Pre-Sales Engineer (CCaaS & AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a pre-sales engineering role focused on
+      demonstrating and selling NICE's existing AI-powered
+      customer service solutions, not building or deploying AI
+      systems. The role involves product demonstrations, RFP
+      responses, and technical consulting on CCaaS and AI
+      products, but does not involve hands-on work with model
+      training, fine-tuning, or AI system implementation.
+  responsibilities:
+  - Prepare and deliver demonstrations of NICE's Customer Service Automation solutions
+    including conversational AI, knowledge management, messaging channels and analytics
+  - Evaluate, understand, and document prospect's infrastructure including CCaaS,
+    Automation, Messaging, and Knowledge solutions
+  - Lead and participate in discovery calls to identify areas of opportunity for NICE
+    solutions
+  - Partner closely with Sales team engaging with prospects and customers and with
+    engineering, product, and design teams
+  - Define technical solution strategies aligned with customer objectives using NICE's
+    Customer Service Automation portfolio
+  - Respond to RFIs and RFPs with creative and compelling technical proposals
+  - Build internal relationships within CX sales to evangelize Customer Service Automation
+    solutions
+  - Maintain knowledge of modern technologies across AI, Digital, Analytics, Telephony
+    and Cloud platforms
+  use_cases:
+  - Intelligent virtual agents for customer service automation
+  - Customer self-service experience across voice and digital channels
+  - Knowledge management for contact centers
+  - Omnichannel customer engagement and messaging
+  - Analytics and reporting for customer service operations
+  - Intelligent routing for contact center optimization
+  skills:
+    genai: [Conversational AI, Chatbot/Virtual Agent solutions, AI-assisted coding
+        tools]
+    ml: []
+    web: [APIs and integrations, HTML, CSS]
+    databases: []
+    data: [Analytics solutions]
+    cloud: [CCaaS (Contact Center as a Service), SaaS architecture, Enterprise SaaS
+        applications]
+    ops: []
+    languages: [JavaScript]
+    domains: []
+    other: [Knowledge Management systems, Presentation skills, Project management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8825423'
+  extracted_at: '2026-03-27T15:14:26.640569'

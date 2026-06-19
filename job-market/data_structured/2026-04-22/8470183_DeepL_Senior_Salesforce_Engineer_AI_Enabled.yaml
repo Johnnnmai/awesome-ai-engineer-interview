@@ -1,0 +1,56 @@
+company:
+  name: DeepL
+  stage: Late-stage private (Series C+ backed by Benchmark, IVP, Index Ventures)
+  focus: |-
+    Language AI platform for translation, writing, and voice
+    translation
+position:
+  title: Senior Salesforce Engineer (AI Enabled)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Salesforce engineering role at an AI company. The
+      role involves building and maintaining the Salesforce
+      platform for GTM operations, not building, training, or
+      deploying AI/ML models. While it requires using AI tools
+      (ChatGPT, Claude Code) to accelerate development, the AI
+      usage is as a productivity tool for a non-AI engineering
+      function, not working directly on AI systems.
+  responsibilities:
+  - Build and maintain Salesforce solutions across Apex, LWC, Flows, and integrations
+    covering Lead to Renewals lifecycle
+  - Use AI tools like ChatGPT and Claude Code daily to accelerate development, testing,
+    documentation, and analysis
+  - Produce clear design artefacts and document trade-offs before building solutions
+  - Design robust, observable integrations with clear data contracts between systems
+  - Own failure handling and recovery strategies for integrations
+  - Contribute to DevOps, documentation, and delivery standards while reducing technical
+    debt
+  - Act as a technical reviewer and mentor, raising the engineering bar across the
+    platform
+  - Introduce scalable architectural patterns across Salesforce and the wider GTM
+    ecosystem
+  use_cases:
+  - Salesforce platform automation for global go-to-market operations
+  - Lead-to-Cash workflow optimization including Lead, Opportunity, Quote-to-Cash,
+    and Renewals
+  - AI-accelerated software development and testing within Salesforce engineering
+  - Cross-system integrations supporting GTM data quality and efficiency
+  - Scalable engineering patterns for a high-growth enterprise Salesforce environment
+  skills:
+    genai: [ChatGPT, Claude Code]
+    ml: []
+    web: [API design and integrations]
+    databases: [Salesforce data modelling]
+    data: []
+    cloud: []
+    ops: ['DevOps (Gearset, Copado)']
+    languages: []
+    domains: []
+    other: [Salesforce Apex, Lightning Web Components (LWC), Salesforce Flows, Salesforce
+        Platform Developer I, Quote-to-Cash, Technical documentation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8470183'
+  extracted_at: '2026-04-22T13:42:23.682383'

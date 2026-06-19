@@ -1,0 +1,57 @@
+company:
+  name: Proximity Works
+  stage: null
+  focus: |-
+    Builds cutting-edge technology and scalable products at
+    scale
+position:
+  title: AI/ML - Backend Engineer (Core AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and operating core AI/ML-backed
+      systems including RAG pipelines end-to-end (ingestion →
+      chunking → indexing → retrieval → generation), agentic
+      workflows with tool-calling patterns, and production AI
+      runtimes. The engineer works directly on deploying and
+      operating AI systems, not just supporting infrastructure.
+  responsibilities:
+  - Own and deliver end-to-end backend systems for AI product runtime, including orchestration,
+    request lifecycle management, state/session handling, and policy enforcement
+  - Design and implement retrieval and memory primitives end-to-end including document
+    ingestion, chunking strategies, embeddings generation, indexing, vector/hybrid
+    search, re-ranking, caching, and deletion semantics
+  - Productionize ML workflows and interfaces, including feature and metadata services,
+    online/offline parity, model integration contracts, and evaluation instrumentation
+  - Drive performance, reliability, and cost optimization, owning P50/P95 latency,
+    throughput, cache hit rates, token and inference costs
+  - Build observability by default including structured logs, metrics, distributed
+    tracing, guardrail signals, and reliable fallback paths
+  - Collaborate closely with Applied ML teams on model routing, prompt and tool schemas,
+    evaluation datasets, and release safety gates
+  - Take systems from design through build, deploy, and operate, including on-call
+    ownership and incident response
+  use_cases:
+  - RAG pipelines for document retrieval and generation
+  - Agentic workflows with tool-calling and multi-step reasoning
+  - AI assistants and chatbots
+  - Search, recommendations, and ranking systems
+  - Internal AI tools and intelligent experiences at scale
+  skills:
+    genai: [LangChain, LangGraph, LLM APIs, RAG pipelines, Agentic frameworks, Tool
+        calling / Function calling, Prompt engineering]
+    ml: [Embeddings, Vector similarity search, Reranking, 'Evaluation metrics (precision/recall,
+        nDCG, MRR)']
+    web: [API design, REST APIs]
+    databases: [FAISS, Milvus, Pinecone, Elasticsearch, Vector databases]
+    data: [Feature stores, Streaming pipelines, Batch pipelines]
+    cloud: [GCP]
+    ops: [Kubernetes, OpenTelemetry, Prometheus, Grafana, Distributed tracing]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8450274'
+  extracted_at: '2026-03-03T11:49:22.241488'

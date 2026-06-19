@@ -1,0 +1,48 @@
+company:
+  name: Neuron7.ai
+  stage: Series A/B (rapidly growing startup backed by VCs)
+  focus: |-
+    AI-driven service intelligence platform for enterprise
+    service decisions
+position:
+  title: Senior Staff Engineer (Full Stack — Agentic AI) | 10–14 Years | Bengaluru
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role explicitly requires architecting and developing
+      Agentic AI workflows, orchestration layers, and AI services,
+      as well as building full-stack features for AI-native
+      products. The position involves hands-on work implementing
+      AI systems including real-time inference, which is core
+      AI/ML work.
+  responsibilities:
+  - Design and build end-to-end full-stack features for AI-native products
+  - Architect and develop Agentic AI workflows, orchestration layers, and AI services
+  - Build scalable distributed systems handling large-scale data and real-time inference
+  - Lead architecture for multi-tenant SaaS, security, and reliability
+  - Develop APIs, microservices, and UI experiences powering AI workflows
+  - Collaborate with Product, Design, Data Science, and Customer teams
+  - Troubleshoot complex production issues and implement robust solutions
+  - Mentor and provide technical guidance to junior and mid-level engineers
+  use_cases:
+  - Service intelligence and decision-making for enterprises
+  - Service predictions by analyzing structured and unstructured data
+  - First-call resolution optimization in complex service environments
+  - Turnaround time improvement for high-tech devices and manufacturing
+  - Service margin optimization for medical devices and equipment
+  skills:
+    genai: [Agentic AI, AI workflows, Orchestration layers]
+    ml: [Real-time inference]
+    web: [REST APIs, Microservices]
+    databases: [Postgres, MySQL, MongoDB, Redis]
+    data: [Kafka, RabbitMQ, PySpark, Apache Flink]
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, Docker, Distributed systems, CI/CD]
+    languages: [Java, Python, Golang, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8536731'
+  extracted_at: '2026-03-03T12:06:32.961399'

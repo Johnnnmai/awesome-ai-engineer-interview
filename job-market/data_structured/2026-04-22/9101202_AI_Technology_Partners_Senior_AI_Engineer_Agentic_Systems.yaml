@@ -1,0 +1,62 @@
+company:
+  name: AI Technology Partners
+  stage: Unknown
+  focus: |-
+    Secure, compliant generative AI solutions and managed
+    services for enterprises
+position:
+  title: Senior AI Engineer, Agentic Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first: the engineer will design and
+      build multi-agent architectures, implement agentic
+      frameworks (LangGraph, AutoGen, CrewAI), engineer RAG
+      pipelines, and productionize LLM systems with evals,
+      guardrails, and observability. The work is hands-on with
+      AI/LLM systems, not supporting infrastructure for others.
+  responsibilities:
+  - Design multi-agent architectures with state management, memory, and routing using
+    leading agentic frameworks
+  - Build modular reusable components including planners, tool registries, policy
+    guards, and evaluators
+  - Integrate enterprise tools and data sources via function/tool calling, webhooks,
+    and event-driven flows
+  - Implement RAG patterns with vector stores and structured knowledge sources
+  - Define SLIs/SLOs for agent runs and implement tracing, metrics, logging, and evaluation
+    harnesses
+  - Productionize agentic systems with CI/CD, feature flags, canary strategies, and
+    cost optimization
+  - Enforce content/safety policies with guardrails, role/tenant isolation, and privacy-first
+    patterns
+  - Work directly with enterprise clients to translate business processes into agentic
+    designs and deliver proofs-of-value
+  use_cases:
+  - Enterprise agentic workflow automation
+  - RFP assistance agents
+  - Incident root cause analysis (RCA) drafting
+  - Knowledge operations and management
+  - Secure compliant AI deployments for regulated industries
+  - Retrieval-augmented generation over enterprise data
+  skills:
+    genai: [LangGraph, LangChain Agents, AutoGen, CrewAI, LlamaIndex Agents, Semantic
+        Kernel, Haystack Agents, RAG, Function/tool calling, Prompt engineering, Structured
+        output, Constrained decoding]
+    ml: []
+    web: [REST APIs, Async patterns]
+    databases: [Azure AI Search, pgvector, MongoDB Atlas, Pinecone, Weaviate, Milvus,
+      Graph databases]
+    data: [Service Bus, Event-driven architecture]
+    cloud: [Azure OpenAI, Azure AI Studio, Azure Functions, Azure Container Apps,
+      Azure Kubernetes Service (AKS), Azure Key Vault, Azure Private Link/VNet, AWS,
+      GCP]
+    ops: [Langfuse, OpenTelemetry, Ragas, DeepEval, promptfoo, CI/CD, Docker, Kubernetes]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [ISO 27001, SOC 2, NIST, HIPAA, GDPR, SharePoint/OneDrive integration,
+      ServiceNow integration, Salesforce integration, Entra ID]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9101202'
+  extracted_at: '2026-04-22T13:32:38.830367'

@@ -1,0 +1,45 @@
+company:
+  name: Jack & Jill AI
+  stage: Unknown
+  focus: |-
+    AI innovation consultancy helping enterprises build at
+    startup speed
+position:
+  title: AI Solutions Engineer (£500/day) at &above
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI prototypes using LLM APIs
+      (Gemini, Google AI Studio) and implementing solutions
+      directly with GenAI tools. The engineer creates tangible AI
+      demos and applications, making this a hands-on AI
+      implementation role rather than a support role.
+  responsibilities:
+  - Transform ambiguous business problems into polished AI prototypes using React
+    and Gemini
+  - Rapidly experiment with Google AI Studio and Firebase to build demonstration prototypes
+  - Create high-fidelity proof-of-concepts showcasing AI tooling capabilities
+  - Collaborate with innovation team to move from concept to working demo in rapid
+    iterations
+  - Ideate and prototype AI solutions that bridge gap between AI potential and reality
+  use_cases:
+  - Enterprise AI prototyping and proof-of-concept development
+  - Rapid AI demo creation for showcasing future AI tooling
+  - Business problem transformation into AI-powered solutions
+  - Innovation consulting for major technology companies
+  skills:
+    genai: [Google AI Studio, Gemini, Anthropic API, LLM APIs]
+    ml: []
+    web: [React]
+    databases: []
+    data: []
+    cloud: [Firebase]
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8853786'
+  extracted_at: '2026-03-27T13:50:41.152798'

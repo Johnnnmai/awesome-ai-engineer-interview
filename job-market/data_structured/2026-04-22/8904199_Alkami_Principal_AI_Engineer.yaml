@@ -1,0 +1,63 @@
+company:
+  name: Alkami
+  stage: Public
+  focus: |-
+    Digital banking SaaS platform for U.S. banks and credit
+    unions
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly hands-on with building and
+      implementing AI systems — specifically agentic workflows,
+      AI-augmented SDLC frameworks, multi-agent automation
+      systems, context-aware code generation, and agent-based
+      engineering platforms using LLM capabilities, MCP, and A2A
+      protocols. The engineer is building and deploying AI/GenAI
+      solutions, not just supporting them.
+  responsibilities:
+  - Lead enterprise adoption of AI-assisted development practices, integrating tools
+    such as GitHub Copilot, Claude Code, and other AI coding assistants into engineering
+    workflows
+  - Design and implement AI-augmented SDLC frameworks enabling context-driven code
+    generation, automated testing, and intelligent code review
+  - Develop agentic automation systems to accelerate development tasks including bug
+    fixing, code refactoring, documentation generation, and test automation
+  - Build AI-enabled engineering platforms that integrate LLM capabilities into development
+    environments and CI/CD pipelines
+  - Implement architectures based on agent frameworks, MCP (Model Context Protocol),
+    and A2A (Agent-to-Agent) communication protocols
+  - Architect scalable, resilient cloud-native AI engineering platforms on modern
+    cloud infrastructure
+  - Lead initiatives leveraging AI for large-scale legacy modernization, including
+    automated code translation and refactoring
+  - Provide technical mentorship and guidance to engineering teams adopting AI-augmented
+    development practices
+  use_cases:
+  - AI-augmented software development lifecycle (SDLC) automation
+  - Agentic workflow automation for engineering tasks such as debugging, testing,
+    and code remediation
+  - Legacy system modernization using AI-driven code translation and refactoring
+  - Context-aware code generation leveraging codebases, documentation, and telemetry
+  - Intelligent security vulnerability detection and code quality improvement
+  - Developer productivity enhancement through AI coding assistants and automation
+    pipelines
+  skills:
+    genai: [GitHub Copilot, Claude Code, LLM integration, Agent frameworks, MCP (Model
+        Context Protocol), A2A (Agent-to-Agent) communication, Prompt engineering,
+      RAG, n8n]
+    ml: []
+    web: [React, Angular, REST API, HTML/CSS]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, Infrastructure-as-Code, Docker, Kubernetes]
+    languages: [Java, C#, Python, JavaScript]
+    domains: []
+    other: [Microservices architecture, Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8904199'
+  extracted_at: '2026-04-22T13:13:36.689348'

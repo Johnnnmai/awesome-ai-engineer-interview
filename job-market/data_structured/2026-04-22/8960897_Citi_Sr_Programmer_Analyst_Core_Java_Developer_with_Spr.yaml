@@ -1,0 +1,59 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Sr Programmer Analyst Core Java Developer with Spring SQL with AI driven
+    development tools
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is primarily a Java/Spring developer role that uses AI-
+      driven development tools (GitHub Copilot) to enhance
+      productivity, not to build AI systems as an end product.
+      While the role mentions integrating ML models and AI-powered
+      features, the core focus is traditional application
+      development with AI tools as accelerators rather than
+      building, training, or deploying AI models as a primary
+      responsibility.
+  responsibilities:
+  - Conduct feasibility studies, time and cost estimates, IT planning, and risk analysis
+    for applications development
+  - Design, build, and implement new or revised application systems and programs using
+    Core Java and Spring
+  - Integrate and deploy machine learning models and AI-powered features into Java-based
+    enterprise applications
+  - Apply Generative AI tools like GitHub Copilot to accelerate development, optimize
+    code, and improve documentation
+  - Collaborate with data scientists and AI specialists to build scalable and secure
+    AI solutions
+  - Provide user and operational support on applications to business users and consult
+    with stakeholders
+  - Recommend and develop security measures and ensure compliance with applicable
+    laws and regulations
+  - Serve as advisor or coach to junior analysts and act as Subject Matter Expert
+    to senior stakeholders
+  use_cases:
+  - AI-assisted code generation, refactoring, and debugging for enterprise Java applications
+  - Automated test case generation and code coverage analysis using AI co-pilots
+  - Integration of ML models and AI-powered features into banking/financial enterprise
+    systems
+  - Code optimization and security enhancement using AI-driven development tools
+  - Knowledge sharing and promotion of AI development tool adoption within engineering
+    teams
+  skills:
+    genai: [GitHub Copilot, Prompt Engineering, GenAI Tools]
+    ml: [Machine Learning Model Integration]
+    web: [Spring, J2EE]
+    databases: [SQL]
+    data: []
+    cloud: []
+    ops: [Automated Testing]
+    languages: [Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8960897'
+  extracted_at: '2026-04-22T12:43:47.049846'

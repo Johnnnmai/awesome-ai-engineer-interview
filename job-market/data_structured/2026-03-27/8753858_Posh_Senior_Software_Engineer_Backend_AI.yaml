@@ -1,0 +1,52 @@
+company:
+  name: Posh
+  stage: Series B
+  focus: |-
+    Platform for launching, monetizing, and finding IRL
+    communities and events
+position:
+  title: Senior Software Engineer, Backend (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend infrastructure role that builds the
+      platform and services that AI features run ON, not directly
+      working with models. The JD explicitly states "You won't be
+      training models" and emphasizes building "reliable,
+      performant platform that makes our AI products work" -
+      classic AI-support infrastructure work.
+  responsibilities:
+  - Design and scale backend services and APIs that power AI-driven features using
+    Java and Python
+  - Define, deploy, and manage AI infrastructure using Terraform on AWS with container-based
+    solutions
+  - Build evaluation pipelines and frameworks to evaluate AI system quality and improve
+    model performance
+  - Optimize for cost, latency, and performance tradeoffs when working with managed
+    AI services
+  - Integrate AI features into Posh's main application by collaborating across the
+    stack including TypeScript
+  - Build backend systems and data flows that power multi-step autonomous AI agent
+    workflows
+  use_cases:
+  - AI-powered community and event discovery platform
+  - Intelligent event planning and participation experiences
+  - Autonomous multi-step AI agent workflows
+  - Personalized community recommendations based on shared interests
+  - AI-native product features for consumer marketplace
+  skills:
+    genai: [LangGraph, CrewAI]
+    ml: []
+    web: [Node.js]
+    databases: []
+    data: []
+    cloud: [AWS, AWS Bedrock, Vertex AI]
+    ops: [Terraform, Docker, LangSmith, RAGAs, DeepEval]
+    languages: [Java, Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8753858'
+  extracted_at: '2026-03-27T15:49:53.040005'

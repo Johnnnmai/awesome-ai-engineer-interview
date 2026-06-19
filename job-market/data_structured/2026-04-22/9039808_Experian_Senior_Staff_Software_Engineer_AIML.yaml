@@ -1,0 +1,62 @@
+company:
+  name: Experian
+  stage: Public
+  focus: |-
+    Global data and technology company powering lending, fraud
+    prevention, and analytics solutions
+position:
+  title: Senior Staff Software Engineer (AI/ML)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is on an AI Enablement team building a platform
+      for OTHER teams to ship AI-powered features. The engineer
+      works ON the platform infrastructure (backend MCP services,
+      frontend widget host, contribution models) rather than
+      directly building, training, fine-tuning, or deploying AI/ML
+      models. The LLM integration work involves shaping platform
+      boundaries and tool invocation flows—enabling
+      infrastructure, not hands-on model work.
+  responsibilities:
+  - Lead architectural decisions across backend APIs, MCP services, frontend contributions,
+    and cross-cutting platform components
+  - Define and evolve contribution models and extension frameworks across UI and backend
+    surfaces
+  - Contribute production-grade code across .NET backend services and Node/React/TypeScript
+    frontend components
+  - Build APIs, platform capabilities, UI frameworks, and developer tooling for AI
+    integration
+  - Champion a strict test-first approach including TDD, contract testing, integration
+    tests, and automated quality gates
+  - Collaborate with the AI platform team to design tool invocation flows, prompt
+    interfaces, and safe execution patterns
+  - Create documentation, reference implementations, SDK patterns, and contribution
+    guidelines for platform consumers
+  - Drive alignment across engineering groups to ensure the platform becomes the default
+    mechanism for AI integration
+  use_cases:
+  - Internal developer platform enabling engineering teams to ship AI-powered features
+    rapidly and safely
+  - Unified MCP infrastructure for tool invocation and agent integration across the
+    organization
+  - Contribution and extension framework allowing product teams to plug AI functionality
+    into a shared platform
+  - Developer tooling and UI frameworks that standardize how teams integrate LLM-based
+    capabilities
+  skills:
+    genai: [MCP (Model Context Protocol), LLM Integration, Prompt Engineering, Agent
+        Frameworks]
+    ml: []
+    web: [.NET, Node.js, React, REST APIs, Micro-frontends]
+    databases: []
+    data: []
+    cloud: [Cloud-Native Platforms]
+    ops: [TDD, Contract Testing, CI/CD]
+    languages: [C#, TypeScript]
+    domains: []
+    other: [Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9039808'
+  extracted_at: '2026-04-22T13:05:35.228311'

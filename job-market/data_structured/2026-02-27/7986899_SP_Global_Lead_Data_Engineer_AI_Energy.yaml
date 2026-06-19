@@ -1,0 +1,51 @@
+company:
+  name: S&P Global
+  stage: Public
+  focus: |-
+    Energy and commodities market data, pricing, research, and
+    sustainability solutions
+position:
+  title: Lead Data Engineer (AI Energy)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role that builds data processing
+      applications and infrastructure. While it mentions
+      "familiarity with Data Science/Machine Learning is a plus,"
+      there's no indication of building, training, or deploying
+      AI/ML models. The role focuses on big data pipelines and
+      applications that would support AI/ML teams rather than
+      directly working on AI systems.
+  responsibilities:
+  - Provide technical leadership for software design, development, and maintenance
+    of data processing applications
+  - Lead and coordinate activities throughout development ensuring appropriate use
+    of standard models and software packages
+  - Develop common application services and standard methods of integration
+  - Ensure best development processes and technologies are used in design, construction,
+    and implementation
+  - Manage and support internal applications for Horizon business datasets
+  - Build event-driven, scalable, and resilient systems for big data processing
+  - Deliver application development projects on time without compromising quality
+    and performance
+  use_cases:
+  - Energy sector data processing and management
+  - Big data applications for energy transition domain
+  - Business intelligence for energy and commodities markets
+  - Sustainability solutions and energy expansion analytics
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [NoSQL databases, Snowflake, Google BigQuery]
+    data: [Apache Hadoop, Apache Spark, Kafka, Databricks]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Java, C#, SQL]
+    domains: []
+    other: [Agile, Test-driven development]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7986899'
+  extracted_at: '2026-03-03T12:32:41.846454'

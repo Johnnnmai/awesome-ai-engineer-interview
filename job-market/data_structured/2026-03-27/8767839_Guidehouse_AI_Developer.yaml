@@ -1,0 +1,52 @@
+company:
+  name: Guidehouse
+  stage: null
+  focus: |-
+    Management consulting and AI solutions for government and
+    commercial clients
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and delivering Generative AI
+      solutions, including MVPs with RAG, agentic frameworks, and
+      model integration. The position requires hands-on
+      development of AI systems including backend AI components,
+      model reasoning workflows, and model validation - directly
+      working on AI/ML systems.
+  responsibilities:
+  - Design and develop Generative AI MVPs addressing client challenges
+  - Build and test backend AI components combining data, logic, and model reasoning
+    into functional workflows
+  - Contribute to architecture and implementation plans connecting models, data sources,
+    and business processes
+  - Participate in scenario-based testing and model validation for reliable and explainable
+    outcomes
+  - Collaborate with agile teams on sprint planning, backlog prioritization, and client
+    demonstrations
+  - Engage with client stakeholders to understand workflows, data sources, and decision
+    processes
+  - Support post-MVP feedback and enhancement activities toward production deployment
+  use_cases:
+  - Intelligent automation for client operations modernization
+  - Enterprise workflow automation through AI
+  - Retrieval-based reasoning systems for business decisions
+  - Multi-step AI agents for complex problem solving
+  - Model monitoring and retraining pipelines
+  skills:
+    genai: [RAG, Agentic frameworks, Prompt testing, LLM evaluation]
+    ml: [NLP, Model monitoring, Model retraining pipelines]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, Amazon Web Services, Amazon Bedrock, SageMaker]
+    ops: [DevOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8767839'
+  extracted_at: '2026-03-27T15:40:42.101097'

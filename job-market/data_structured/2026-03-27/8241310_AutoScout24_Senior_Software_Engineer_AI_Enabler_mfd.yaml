@@ -1,0 +1,50 @@
+company:
+  name: AutoScout24
+  stage: Established/Mature
+  focus: Online automotive marketplace and car classifieds platform
+position:
+  title: Senior Software Engineer / AI Enabler (m/f/d)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is about enabling OTHER engineers to use AI tools
+      effectively, not building AI systems directly. The focus is
+      on coaching, building internal productivity tools, and
+      driving AI adoption culture across the organization. While
+      there's some LLM API integration for internal tools, the
+      primary purpose is supporting/enabling the engineering
+      organization rather than building core AI products or
+      models.
+  responsibilities:
+  - Join builders' teams to build customer-facing products with an AI-first mindset
+  - Apply AI-first approach across full software lifecycle from design to operations
+  - Work hands-on in production codebases using GenAI tools to accelerate development
+    and improve quality
+  - Build and evolve AI-powered internal tools for coding, reviews, documentation,
+    and testing
+  - Coach teams on effective GenAI usage and help establish AI-first ways of working
+  - Run data-informed experiments and turn successful approaches into repeatable standards
+    and playbooks
+  use_cases:
+  - AI-assisted software development and coding workflows
+  - Automated code reviews and documentation generation
+  - Internal engineering productivity tools and assistants
+  - Developer workflow automation and optimization
+  - Engineering team coaching and AI adoption enablement
+  skills:
+    genai: [GitHub Copilot, ChatGPT, Cursor, OpenAI API, Anthropic API, Azure OpenAI,
+      Vertex AI, LLM API integration, Prompt engineering]
+    ml: []
+    web: [Node.js, Next.js, Spring Boot]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [TypeScript, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8241310'
+  extracted_at: '2026-03-27T14:36:17.642683'

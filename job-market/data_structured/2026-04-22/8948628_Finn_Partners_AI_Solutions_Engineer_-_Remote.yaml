@@ -1,0 +1,56 @@
+company:
+  name: Finn Partners
+  stage: Private (established growth stage)
+  focus: Full-service marketing and public relations agency
+position:
+  title: AI Solutions Engineer - Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly responsible for building, deploying,
+      and operationalizing AI-powered tools and integrations,
+      including agentic AI platforms, prompt engineering for
+      generative models, fine-tuning, and internal AI tool
+      development. The engineer works hands-on with LLMs (Gemini,
+      ChatGPT, Claude), MCP servers, and AI frameworks — clearly
+      building and deploying AI solutions.
+  responsibilities:
+  - Design, develop, and deploy AI-powered internal tools and integrations that solve
+    specific business problems across the organization
+  - Assess, evaluate, and implement a standard agentic AI platform as the foundational
+    technology for enterprise-wide solutions
+  - Rapidly prototype lightweight AI-enabled utilities, validate business value, and
+    promote successful pilots into production services
+  - Oversee architectural and technology choices for internal AI systems including
+    model selection, libraries, and frameworks
+  - Provide expert prompt engineering guidance for generative models such as Gemini,
+    ChatGPT, and Claude
+  - Assist teams with data preparation, fine-tuning, and evaluation to maximize solution
+    accuracy, safety, and reliability
+  - Debug complex multi-service environments and maintain operational AI infrastructure
+  - Leverage existing AI capabilities within the tech stack to automate workflows
+    and boost organizational productivity
+  use_cases:
+  - Enterprise-wide agentic AI platform for internal productivity and workflow automation
+  - Internal AI-powered tools and micro-services for business process optimization
+  - Prompt engineering and generative AI solutions for marketing and communications
+    workflows
+  - AI-driven automation for a 1300+ employee professional services organization
+  - Rapid prototyping and validation of AI-enabled business utilities
+  skills:
+    genai: [Prompt Engineering, 'Generative AI APIs (Gemini, ChatGPT, Claude)', Agentic
+        AI Platforms, MCP Servers]
+    ml: [Fine-tuning, Machine Learning Techniques, AI Frameworks and Libraries]
+    web: [Microservices Architecture]
+    databases: []
+    data: [Data Preparation]
+    cloud: [Azure, GCP, AWS, Cloud AI/ML Services]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [System Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8948628'
+  extracted_at: '2026-04-22T13:29:47.717655'

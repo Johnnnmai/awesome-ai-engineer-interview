@@ -1,0 +1,55 @@
+company:
+  name: HERE Technologies
+  stage: Public
+  focus: |-
+    Location data and technology platform for digital mapping
+    and navigation
+position:
+  title: Lead ML & AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, training, deploying,
+      and optimizing ML models and systems including computer
+      vision, NLP, deep learning, and agentic/generative AI for
+      digital map creation. The engineer owns end-to-end ML system
+      architecture from data preprocessing through deployment,
+      making this clearly an ai-first role.
+  responsibilities:
+  - Design, develop, and deploy ML solutions for creating high-definition, ISA, and
+    ADAS maps
+  - Own end-to-end ML system architecture including data preprocessing, model training,
+    inference pipelines, deployment, monitoring, and scaling
+  - Lead innovation developing models based on computer vision, NLP, deep learning,
+    and machine learning
+  - Build systems using Agentic AI, Generative AI, and foundational ML techniques
+  - Implement MLOps practices including CI/CD for ML, model versioning, feature stores,
+    drift detection, and experimentation frameworks
+  - Own one or more ML or data components within the broader mapping/routing ecosystem
+  - Collaborate with platform and backend teams to integrate ML outputs into map compilation
+    workflows
+  - Conduct code reviews, architecture reviews, and champion best practices in ML
+    engineering
+  use_cases:
+  - High-definition map creation from real-world sensor data for automotive navigation
+  - ADAS (Advanced Driver Assistance Systems) map generation
+  - Autonomous driving map support
+  - Intelligent Speed Assistance (ISA) map production
+  - Digital map compilation and NDS format delivery for in-vehicle systems
+  skills:
+    genai: [Agentic AI, Generative AI]
+    ml: [Deep Learning, Machine Learning, ML system architecture, Model training and
+        inference]
+    web: []
+    databases: [SQL, NoSQL databases]
+    data: [Apache Spark, Apache Flink, ETL pipelines]
+    cloud: [AWS, AWS S3, AWS EMR, AWS Lambda, AWS SageMaker]
+    ops: [Docker, Kubernetes, CI/CD, Jenkins, MLOps]
+    languages: [Python]
+    domains: [Computer Vision, NLP]
+    other: [NDS map data formats, GIS]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8848795'
+  extracted_at: '2026-04-22T13:50:24.704579'

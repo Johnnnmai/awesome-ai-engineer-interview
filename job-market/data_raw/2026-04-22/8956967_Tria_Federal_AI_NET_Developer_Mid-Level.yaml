@@ -1,0 +1,155 @@
+job_id: 8956967
+title: AI .NET Developer (Mid-Level)
+company: Tria Federal
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - .Net 4.X
+  - Ado.Net
+  - Apache
+  - Azure Ai Search
+  - Azure Openai
+  - Bootstrap
+  - "C#"
+  - CSS
+  - DevOps
+  - Entity Framework
+description: |
+  Who we are:
+  
+  Tria Federal delivers digital services and technology
+  solutions that support the health and safety of veterans,
+  service members and civilians. For two decades, federal
+  agencies have relied on Tria companies to advance their
+  critical missions and modernize their systems, so that they
+  can uphold their commitment to the American people. Today,
+  we are pushing the boundaries of possibility through
+  partnerships and investments in artificial intelligence and
+  emerging technologies, developing solutions for the biggest
+  challenges that government will face tomorrow.
+  
+  We are proud to employ and support military veterans who
+  bring mission-first mindset, technical expertise, and
+  leadership qualities that strengthen our work. Veterans,
+  transitioning service members, and military spouses are
+  strongly encouraged to apply.
+  
+  The successful candidate will be able to work in a diverse
+  SAFe/Agile, .NET, environment with minimal supervision and
+  constantly changing requirements. This is a mid-level
+  position, and the candidate will be expected to provide team
+  and technical leadership, communications, and coordination.
+  
+  Required Skills:
+  
+  - Experience in development of secure web applications using
+    .Net 4.x Framework
+  - Experience in C#, Webforms, MVC, Web API, ADO.Net, Entity
+    Framework.
+  - Must be able to acquire a Public Trust security clearance
+  - Experience with web-service development, in SOAP/XML, REST,
+    JSON, WSD, jQuery, Bootstrap, Ajax, CSS
+  - Strong knowledge of Object-Oriented concepts, principals,
+    and patterns
+  - Experience with Agile/Scrum Methodology
+  - Applicant must be able to work in the U.S. without
+    sponsorship
+  - Familiarity with Microsoft Azure, DEVOP/CICD Pipeline, OWASP
+    vulnerabilities
+  - Experience with GITHUB or GIT
+  - Experience in creating and maintaining SQL tables, views,
+    stored procedures, functions and triggers
+  - Experience with SSDT, MS SSRS
+  - Experience in .NET Core Framework
+  - Experience in SAFe Agile
+  
+  Responsibilities:
+  
+  - Perform complex analysis, design, development, testing, and
+    debugging of computer software.
+  - Maintain responsibility for activities that range from
+    software design, coding, unit testing, and orchestration.
+  - Participate as an active member of the scrum team, providing
+    input to team velocity and sprint ceremonies, planning,
+    demonstrations and retrospectives
+  
+  Technologies:
+  
+  - LLM Frameworks & Tools: LangChain, LlamaIndex, Haystack,
+    LangGraph, DSPy, Semantic Kernel (Microsoft)
+  - Vector Databases: Azure AI Search (vector search), Pinecone,
+    Weaviate, Qdrant, ChromaDB, Azure Cosmos DB for MongoDB
+    vCore
+  - Embedding Models: Azure OpenAI embeddings (text-embedding-
+    ada-002, text-embedding-3), Cohere, or open-source models
+    (Sentence-Transformers, BGE, E5)
+  - LLM APIs & Deployment: Azure OpenAI Service (GPT-4, GPT-4
+    Turbo, GPT-3.5), Anthropic, prompt flow for orchestration
+  - Agent Frameworks: ReAct, function calling, tool integration,
+    memory systems, planning algorithms (Tree-of-Thoughts,
+    ReWOO), Azure AI Agent Service
+  - Evaluation Tools: RAGAS, TruLens, DeepEval, Azure AI
+    Evaluation SDK, or custom evaluation harnesses; A/B
+    testing for LLM applications
+  
+  Azure Cloud & AI Services
+  
+  - Azure OpenAI Service: Model deployment, API management,
+    content filtering, quota management, and responsible AI
+    features
+  - Azure AI Search: Semantic search, vector search, hybrid
+    search configurations, indexers, skillsets, and search
+    analytics
+  - Azure AI Services: Document Intelligence (form recognizer),
+    Computer Vision, Speech Services, Language Understanding
+  - Azure Data Services: Cosmos DB, Azure SQL, Blob Storage,
+    Data Lake, Azure Data Factory for data pipelines
+  - Azure ML & MLOps: Azure Machine Learning, Model Registry,
+    MLflow integration, Prompt Flow, Azure DevOps for CI/CD
+  - Azure Security & Governance: Azure Key Vault, Managed
+    Identities, RBAC, Azure Monitor, Application Insights,
+    compliance frameworks
+  - Design and implement end-to-end RAG pipelines including
+    document ingestion, chunking strategies, embedding
+    generation, vector storage, retrieval mechanisms, and
+    context-aware response generation
+  
+  Why Tria? What defines the Tria brand is more than just our
+  dedication to excellence in our craft; it’s our incredible
+  team of dedicated, talented, and passionate people that make
+  Tria so exceptional. As people powering possible, we are all
+  partners in our team’s shared success.
+  
+  As a company that cares about people, we seek to cultivate a
+  culture in which all can thrive personally and
+  professionally. We offer a top-tier benefits package to
+  invest in your physical, mental, and financial health and
+  wellness so that you can be your best self - at work and in
+  life. At Tria, we are growth-minded, entrepreneurial in
+  spirit, and committed to fostering a culture of inclusion
+  and opportunity for all. Whatever your background, your
+  role, your department, or stage in your professional
+  journey, here you will have opportunities to learn new
+  skills, seize new challenges, and advance your career as we
+  grow.
+  
+  California Consumer Privacy Act (CCPA)
+  
+  We are committed to protecting your privacy. As part of our
+  compliance with the California Consumer Privacy Act (CCPA),
+  we want to inform you about how we collect, use, and protect
+  your personal information during the job application
+  process. For more details, please review
+  https://www.oag.ca.gov/privacy/ccpa.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Machine Learning
+  - Software
+  - Analytics
+  - Consulting
+  - Financial Services
+posted_date: 2026-04-13
+url: "https://www.builtinla.com/job/ai-net-developer/8956967"
+source: Built In

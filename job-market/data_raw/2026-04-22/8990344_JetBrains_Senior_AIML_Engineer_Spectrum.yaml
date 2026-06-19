@@ -1,0 +1,101 @@
+job_id: 8990344
+title: Senior AI/ML Engineer (Spectrum)
+company: JetBrains
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Kotlin
+  - Llm
+  - Ml
+  - Prompt Engineering
+  - Python
+  - Vector Databases
+company_size: 2,209 Employees
+description: |
+  Software engineers and AI agents alike suffer from the same
+  problem: finding that one person or place that will answer
+  their tough, specific question. Many solutions promise to
+  solve this with similarity search in vector databases.
+  Unfortunately, finding the answer is often a puzzle with
+  pieces to be collected across a myriad of contradictory
+  sources and cannot be solved without surgical search and
+  careful reasoning.
+  
+  Spectrum collects data from an organization's code, docs,
+  and issues, and organizes knowledge in a unified ontology
+  that AI agents can efficiently search through and reason
+  over. We aim to revolutionize the semantic layer space for
+  software-building organizations and move beyond specs that
+  fall out of sync with code, introducing a living spec – one
+  that's extracted from the whole system and used to keep it
+  aligned. Spectrum is meant to be the single source of truth
+  for all product and architectural knowledge.
+  
+  A resident of JetBrains' startup incubator, Spectrum enjoys
+  startup speed and autonomy, and is backed by 25 years of
+  developer tooling expertise. We are looking for a Senior
+  AI/ML Engineer to build and evolve the ML-powered systems at
+  the heart of our product.
+  
+  Your responsibilities will include:
+  
+  - Designing and building the ML/LLM solution for data
+    ingestion, knowledge extraction and retrieval, and
+    subsequent reasoning.
+  - Creating datasets, metrics, and pipelines that drive
+    measurable improvements across the system.
+  - Architecting and improving AI agents, which will involve
+    prompt engineering, model selection, and inference
+    optimization.
+  - Contributing to our MLOps practices, including
+    orchestration, observability, and experiment tracking.
+  
+  We expect you to have:
+  
+  - At least four years of experience building ML/AI systems in
+    production environments, with hands-on LLM experience.
+  - A deep understanding of the LLM ecosystem, including model
+    architectures and fine-tuning approaches.
+  - Hands-on experience with:
+  - Strong Python skills – Kotlin knowledge would be a plus.
+  - Excellent communication skills, with the ability to explain
+    complex technical concepts to diverse audiences.
+  - Proficiency in English, both written and verbal.
+  
+  Our ideal candidate would also have:
+  
+  - Experience with ontologies, knowledge graphs, or graph-based
+    reasoning.
+  - Experience in early-stage startups – you enjoy the zero-to-
+    one phase.
+  - A background in code analysis, developer tools, or software
+    engineering research.
+  - Experience with multi-agent systems or complex agentic
+    workflows.
+  - Actively contributed to relevant open-source projects or
+    publications.
+  
+  What we offer:
+  
+  - A competitive salary and JetBrains benefits.
+  - A generous runway and corporate resources with startup
+    autonomy.
+  - A motivated team that moves fast, with short feedback loops,
+    rapid prototyping, and lots of ownership.
+  - Opportunities to publish research at top venues in
+    collaboration with JetBrains Research.
+  
+  #LI-DNI
+  
+  We are an equal opportunity employer We know great ideas can
+  come from anyone, anywhere. That’s why we do our best to
+  create an open and inclusive workplace – one that welcomes
+  everyone regardless of their background, identity, religion,
+  age, accessibility needs, or orientation.
+  
+  We process the data provided in your job application in
+  accordance with the Recruitment Privacy Policy.
+posted_date: 2026-04-08
+url: "https://builtin.com/job/senior-ai-ml-engineer-spectrum/8990344"
+source: Built In

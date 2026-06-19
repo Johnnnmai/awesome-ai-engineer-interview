@@ -1,0 +1,118 @@
+job_id: 8969388
+title: Lead AI Engineer
+company: Mastercard
+location: Pune, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Azure
+  - Databricks
+  - Fastapi
+  - Keras
+  - Langgraph
+  - Mlflow
+  - Numpy
+  - Pandas
+  - Pyspark
+  - Python
+company_size: 38,800 Employees
+description: |
+  Our Purpose  Mastercard powers economies and empowers people
+  in 200+ countries and territories worldwide. Together with
+  our customers, we're helping build a sustainable economy
+  where everyone can prosper. We support a wide range of
+  digital payments choices, making transactions secure,
+  simple, smart and accessible. Our technology and innovation,
+  partnerships and networks combine to deliver a unique set of
+  products and services that help people, businesses and
+  governments realize their greatest potential. Title and
+  Summary Lead AI Engineer Overview We are looking for a
+  talented Lead AI Engineer to work with our Foundry Research
+  and Development team to build innovative products delivered
+  at scale to global markets. Role• Designs, develops, and
+  maintains advanced AI and Machine Learning systems to
+  address specific business challenges. • Implements AI/ML
+  models into production environments, designing scalable
+  training pipelines and deployment frameworks. • Builds and
+  optimizes data ingestion, preprocessing, and feature
+  engineering workflows supporting model training and
+  inference. • Fine-tunes AI/ML models to meet targeted
+  performance metrics, ensuring accuracy, robustness, and
+  efficiency. • Automates workflows for model training,
+  testing, deployment, and updates, following CI/CD best
+  practices. • Monitors model performance, manages versioning,
+  and updates models as needed to sustain high-quality
+  outputs. • Ensures operational stability and scalability of
+  AI systems, adhering to ethical guidelines and contributing
+  to the organization's AI infrastructure. • Guides and
+  mentors junior team members through on-the-job experiences,
+  reviewing work and fostering a culture of continuous
+  improvement to grow expertise around their discipline.
+  Skills• Expertise in creation of Agentic AI applications
+  using frameworks like langgraph, CrewAI, AutoGen, and good
+  knowledge of Agentic AI design patterns and related concepts
+  like Context Management, LLMOps, AgentOps, Guardrails, Agent
+  Validation and Evaluation.• Expertise in Prompt engineering
+  and working with both closed source models and open source
+  models.• Experienced taking decisions on using RAG vs Few
+  Shot Prompting vs LLM Fine Tuning or hybrid approaches to
+  enhance model context and understanding.• Good Working
+  knowledge of MLOps tools like MLflow.• Good Working
+  Knowledge of LLM Finetuning.• Good hands on experience in
+  Retrieval Augmented Generation (RAG), vector database
+  searching, etc.• Awareness and understanding of LLM usage
+  cost implications and architectural choices.• Experienced in
+  architecting, implementing, and maintaining robust CI/CD
+  pipelines to automate code integration, testing, and
+  deployment, ensuring high velocity and reliability in
+  software delivery. • Proficiency with Python and related
+  ecosystem of Data Science tools and packages including
+  numpy, pandas, sklearn, spacy, keras, torch, transformers,
+  langgraph.• Well versed with various Machine Learning, Deep
+  Learning and NLP concepts and models for both supervised and
+  unsupervised learning.• Working knowledge of Python based
+  API based frameworks like FastAPI and comfortable working
+  with JSON objects.• Good working knowledge of pyspark with
+  conceptual understanding of parallel processing for huge
+  data volumes.• Experience working with Unix commands for
+  accessing various systems and databases and deploying and
+  managing services / APIs.• Working knowledge of cloud
+  platforms like Azure and using Cloud Native services.•
+  Working knowledge of Databricks is good to have. All About
+  You The ideal candidate for this position should: • Possess
+  at least 7 years of relevant work experience in the field of
+  AI and Data Science.• Loves creating innovative solutions to
+  problems in a collaborative and fast passed environment.•
+  Advanced knowledge and understanding of modern software
+  engineering concepts and methodologies.• Passionate about
+  code quality and coding best practices.• Show initiative and
+  demonstrate a willingness to take on challenging
+  opportunities.• Excellent communication (verbal and written)
+  and strong collaboration skills• Must be driven, highly
+  motivated and a strong team-player.• Ability to work
+  independently and lead projects; Proficient in solving
+  problems and taking decisions independently. Corporate
+  Security Responsibility All activities involving access to
+  Mastercard assets, information, and networks comes with an
+  inherent risk to the organization and, therefore, it is
+  expected that every person working for, or on behalf of,
+  Mastercard is responsible for information security and must:
+  
+  - Abide by Mastercard's security policies and practices;
+  - Ensure the confidentiality and integrity of the information
+    being accessed;
+  - Report any suspected information security violation or
+    breach, and
+  - Complete all periodic mandatory security trainings in
+    accordance with Mastercard's guidelines.
+industries:
+  - Blockchain
+  - Fintech
+  - Payments
+  - Consulting
+  - Cryptocurrency
+  - Cybersecurity
+  - Quantum Computing
+posted_date: 2026-04-06
+url: "https://builtin.com/job/lead-ai-engineer/8969388"
+source: Built In

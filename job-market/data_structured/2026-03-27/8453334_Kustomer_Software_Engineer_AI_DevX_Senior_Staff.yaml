@@ -1,0 +1,52 @@
+company:
+  name: Kustomer
+  stage: Series B
+  focus: |-
+    Conversational CRM platform with AI-powered customer
+    experience
+position:
+  title: Software Engineer, AI DevX (Senior, Staff)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, building, and deploying AI
+      agents and automation that are core participants in the
+      software development lifecycle. The engineer will create AI-
+      powered tools and agentic systems that directly build and
+      ship software, not just support infrastructure for others'
+      AI work.
+  responsibilities:
+  - Design, build, and deploy AI agents and automation that accelerate every phase
+    of the SDLC from code generation through deployment and monitoring
+  - Integrate AI and agentic participants as core components of how software gets
+    built at Kustomer
+  - Evaluate and incorporate cutting-edge AI and automation tooling to improve quality,
+    efficiency, and development velocity
+  - Partner with engineers across teams to identify friction points and design AI-powered
+    solutions
+  - Champion best practices that drive real adoption of AI-powered tools across the
+    engineering organization
+  - Modernize how engineers create systems, workflows, and tooling to help every engineer
+    move faster
+  use_cases:
+  - AI agents that automate code generation and review processes
+  - AI-powered end-to-end testing automation
+  - Agentic systems that participate in deployment and monitoring workflows
+  - Developer tooling that accelerates software development lifecycle phases
+  - Intelligent automation for identifying and resolving engineering friction points
+  skills:
+    genai: [AI agents, automation tooling, code generation]
+    ml: []
+    web: [full-stack development]
+    databases: []
+    data: []
+    cloud: [ECS]
+    ops: [containers, Terraform, developer tooling]
+    languages: [Go, Python, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8453334'
+  extracted_at: '2026-03-27T13:27:55.676930'

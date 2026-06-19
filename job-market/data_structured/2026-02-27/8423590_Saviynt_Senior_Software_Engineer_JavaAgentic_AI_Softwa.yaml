@@ -1,0 +1,53 @@
+company:
+  name: Saviynt
+  stage: null
+  focus: |-
+    Cloud Security and Identity Governance solutions for
+    enterprises
+position:
+  title: Senior Software Engineer (Java/Agentic AI), Software Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves designing and implementing
+      AI/agent-enablement hooks at the foundation layer and
+      guiding AI/agent framework integration. While primarily a
+      Java platform engineering role, it includes direct hands-on
+      work integrating and enabling agentic AI capabilities into
+      the platform architecture.
+  responsibilities:
+  - Design, develop, and enhance shared Java-based frameworks that serve as the foundation
+    for all product development teams
+  - Improve platform stability, scalability, and fault tolerance across distributed
+    systems
+  - Contribute to AI/agent-enablement hooks at the foundation layer to support next-generation
+    capabilities
+  - Guide AI/agent framework integration and extensibility at the platform foundation
+    layer
+  - Guide and mentor engineering teams while establishing and enforcing engineering
+    best practices
+  - Proactively identify and resolve potential system issues to minimize operational
+    incidents
+  - Work closely with product scrum teams to ensure framework adoption and effectiveness
+  use_cases:
+  - Identity Governance Administration for enterprises
+  - Cloud security for Office 365, AWS, Azure, Salesforce, Workday
+  - Enterprise security for SAP, Oracle EBS
+  - Risk analytics and intelligence integration
+  - Privilege management and access control
+  skills:
+    genai: [AI/agent integration]
+    ml: []
+    web: [Spring Boot, RESTful API design, microservices architecture]
+    databases: [MySQL]
+    data: [RabbitMQ]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD pipelines]
+    languages: [Java]
+    domains: [Identity and Access Management]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8423590'
+  extracted_at: '2026-03-03T11:33:37.197015'

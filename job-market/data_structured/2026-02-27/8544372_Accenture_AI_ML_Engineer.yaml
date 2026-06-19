@@ -1,0 +1,49 @@
+company:
+  name: Accenture
+  stage: Public
+  focus: |-
+    Global professional services providing consulting,
+    technology, and operations solutions
+position:
+  title: AI / ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves applying GenAI models and LLMs as part of
+      solutions, developing applications with AI tools and cloud
+      AI services, and deploying AI models to production. This is
+      hands-on work building and implementing AI/ML systems, not
+      just supporting infrastructure for others.
+  responsibilities:
+  - Develop applications and systems utilizing AI tools and cloud AI services with
+    production-ready quality
+  - Design and implement GenAI models as part of solutions
+  - Build and deploy deep learning, neural networks, chatbots, and image processing
+    systems
+  - Collaborate with cross-functional teams to integrate AI technologies into existing
+    workflows
+  - Serve as SME and provide technical leadership to the team
+  - Evaluate and improve existing processes and systems for optimization
+  - Facilitate knowledge sharing and mentoring within the team
+  use_cases:
+  - Chatbots and conversational AI systems
+  - Image processing applications
+  - Generative AI solutions for enterprise clients
+  - Cloud-based AI application development
+  - Production AI/ML system deployment
+  skills:
+    genai: [Large Language Models (LLMs), Chatbots]
+    ml: [Deep Learning, Neural Networks, Image Processing, Machine Learning Frameworks]
+    web: []
+    databases: []
+    data: []
+    cloud: [Amazon Web Services (AWS)]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8544372'
+  extracted_at: '2026-03-03T12:40:21.653759'

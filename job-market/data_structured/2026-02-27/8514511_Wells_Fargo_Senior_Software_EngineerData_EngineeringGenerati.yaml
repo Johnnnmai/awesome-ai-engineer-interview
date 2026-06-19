@@ -1,0 +1,46 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: Global financial services and banking
+position:
+  title: Senior Software Engineer(Data Engineering/Generative AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves building Gen AI solutions and
+      wrapper capabilities, with requirements for 2+ years using
+      LLMs for automation and hands-on experience with GenAI use
+      cases. The candidate will design and develop Gen AI
+      solutions as a core part of their responsibilities.
+  responsibilities:
+  - Design, develop, and maintain metadata-driven data engineering frameworks
+  - Build, enhance, and troubleshoot data pipelines, APIs, and Gen AI solutions
+  - Deliver Gen AI solutions and wrapper capabilities for the Profit View project
+  - Implement scalable, high-performance data solutions using Python, Java, Spark,
+    and GCP
+  - Collaborate with cross-functional teams on data delivery and data management initiatives
+  - Lead moderately complex technical initiatives and resolve technical challenges
+  - Ensure best development practices, validations, and code quality
+  - Modernize current tech stack and drive innovative solutions through Gen AI
+  use_cases:
+  - Finance data management and profit view analytics
+  - Metadata-driven data engineering frameworks
+  - Large-scale batch data processing and transformation
+  - LLM-based automation for data engineering workflows
+  - Data pipeline automation and orchestration
+  skills:
+    genai: [LLMs, GenAI]
+    ml: []
+    web: [REST APIs]
+    databases: [Iceberg, Delta Lake, Dremio, RDBMS]
+    data: [Apache Spark, Hive, Hadoop]
+    cloud: [GCP, AWS, Azure]
+    ops: [Autosys, CI/CD]
+    languages: [Python, Java, SQL, Unix Shell scripting]
+    domains: []
+    other: [Power BI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8514511'
+  extracted_at: '2026-03-03T12:26:51.519986'

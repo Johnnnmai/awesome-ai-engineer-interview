@@ -1,0 +1,57 @@
+company:
+  name: NICE
+  stage: Public
+  focus: |-
+    AI, cloud, and digital solutions for customer experience,
+    financial crime, and public safety
+position:
+  title: Software Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building, designing, and
+      iterating AI solutions including LLMs, RAG, GPT-based
+      assistants, AI agents, and MCP servers using tools like n8n
+      and Copilot Studio. The engineer directly creates and
+      deploys AI-driven conversational AI solutions, making this
+      an ai-first role despite also having customer-facing and
+      enablement responsibilities.
+  responsibilities:
+  - Partner with business stakeholders to map workflows, identify ROI-backed AI opportunities,
+    and define future-state AI-enabled processes
+  - Design, build, and iterate AI solutions and automations using n8n, Copilot Studio,
+    and other AI/automation tools
+  - Create reliable AI agents and assistants that remove manual work within NICE internal
+    processes and systems
+  - Collaborate with IT and developers to integrate securely with enterprise systems
+    and scale solutions
+  - Enable and upskill internal support teams to use AI effectively through reusable
+    patterns, playbooks, and coaching
+  - Implement, configure, and deliver AI-driven and Conversational AI solutions across
+    the NICE CXone ecosystem
+  - Maintain expertise in modern AI approaches including LLMs, RAG, GPT-based assistants,
+    and MCP servers
+  use_cases:
+  - Conversational AI solutions for customer experience on the CXone platform
+  - Internal workflow automation using AI agents and assistants to reduce manual effort
+  - Enterprise process automation integrating with CRMs, ticketing, and operational
+    platforms
+  - AI-enabled employee experience improvements with measurable efficiency gains
+  - Copilot-style assistants and GPT-based automations for internal operations
+  skills:
+    genai: [LLMs, RAG, GPT-based assistants, MCP servers, AI agent patterns, Copilot
+        Studio, Prompt engineering]
+    ml: []
+    web: [API integrations]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP]
+    other: [n8n, JSON]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8993386'
+  extracted_at: '2026-04-22T13:58:24.677640'

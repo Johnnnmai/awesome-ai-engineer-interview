@@ -1,0 +1,54 @@
+company:
+  name: Coinbase
+  stage: Public
+  focus: |-
+    Cryptocurrency exchange and blockchain platform building the
+    future global financial system
+position:
+  title: Principal Software Engineer, AI Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting and building multi-agent AI
+      systems, implementing RAG, developing orchestration layers
+      for agentic AI, and solving core AI challenges like
+      evaluation frameworks and hallucination elimination. The
+      position is explicitly focused on hands-on development of
+      AI/LLM systems at production scale.
+  responsibilities:
+  - Architect and build sophisticated multi-agent AI systems with autonomous execution
+    and complex reasoning capabilities
+  - Design and implement reliable evaluation frameworks and eliminate hallucinations
+    through rigorous data grounding
+  - Build core AI platform primitives and orchestration tools to enable organization-wide
+    AI adoption
+  - Partner with leadership to identify high-impact automation opportunities across
+    Product Foundations and Core functions
+  - Apply backend engineering principles (scalability, reliability, performance) to
+    Generative AI systems
+  - Build deep observability into LLM reasoning chains
+  - Mentor senior ICs and engineering teams to raise AI literacy across the organization
+  - Define technical strategy for AI-first company transformation
+  use_cases:
+  - Automating workflows across multiple organizational functions
+  - Enabling developer productivity through AI-powered tools
+  - Operational efficiency automation across the organization
+  - AI-driven business process transformation for a financial institution
+  - Workflow orchestration and automation primitives for various teams
+  skills:
+    genai: [LLMs, RAG, Agentic frameworks, Prompt engineering, Multi-agent architectures,
+      LangChain, AutoGPT]
+    ml: [Fine-tuning]
+    web: [Backend engineering]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Scalable systems design]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8782348'
+  extracted_at: '2026-03-27T13:15:46.210319'

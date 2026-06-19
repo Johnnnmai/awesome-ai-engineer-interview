@@ -1,0 +1,52 @@
+company:
+  name: eBay
+  stage: Public
+  focus: Global ecommerce marketplace connecting buyers and sellers
+position:
+  title: AI/ML Staff Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and deploying ML models
+      (fraud detection, DNNs), fine-tuning architectures,
+      implementing LLM applications with prompt engineering,
+      constructing ML pipelines, and working with vector databases
+      and embeddings. The position is hands-on with model
+      development, training, and deployment for production
+      systems.
+  responsibilities:
+  - Design and build machine learning models to detect fraud, bot attacks, and collusion
+  - Perform feature engineering, model development, evaluation, and optimization for
+    high-accuracy ML applications
+  - Fine-tune and implement Deep Neural Network (DNN) architectures
+  - Construct robust ML pipelines for training, validation, and deployment using modern
+    ML stacks
+  - Apply prompt engineering techniques with Generative AI models (LLMs, diffusion
+    models) to tackle application-driven problems
+  - Leverage vector databases and build/optimize embeddings for search, retrieval,
+    and semantic understanding
+  - Build reliable APIs and services that expose ML model outputs for real-time decisioning
+  - Lead and participate in data validation, preprocessing, and cleansing workflows
+    to ensure ML readiness
+  use_cases:
+  - Fraud detection and prevention in ecommerce marketplace
+  - Bot attack detection and mitigation
+  - Collusion detection between buyers and sellers
+  - Risk assessment and trust/safety for marketplace transactions
+  - Semantic search and retrieval using embeddings
+  skills:
+    genai: [LLMs, prompt engineering, diffusion models]
+    ml: [scikit-learn, XGBoost, TensorFlow, PyTorch, Keras, embeddings]
+    web: [APIs]
+    databases: [vector databases]
+    data: [Hadoop, Spark]
+    cloud: []
+    ops: [ML Ops]
+    languages: [Python]
+    domains: [NLP, OCR]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7526838'
+  extracted_at: '2026-03-27T14:48:11.764272'

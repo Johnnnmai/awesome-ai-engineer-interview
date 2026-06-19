@@ -1,0 +1,52 @@
+company:
+  name: Clipbook
+  stage: Seed
+  focus: |-
+    AI-powered media monitoring and analytics for PR and
+    communications teams
+position:
+  title: Founding Backend Engineer – AI & Data
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role explicitly involves putting LLMs and ML models
+      into production: RAG pipelines, embeddings, agentic systems,
+      and fine-tuned models. The role combines backend engineering
+      with hands-on AI implementation work, making it ai-first
+      rather than support.
+  responsibilities:
+  - Architect and build core backend systems using Python, Node.js, and PostgreSQL,
+    owning features from concept through deployment
+  - Design and build scalable data infrastructure for ingesting, normalizing, deduplicating,
+    and indexing massive multi-modal datasets (text, audio, video)
+  - Integrate AI into production workflows including RAG pipelines, embeddings, prompt
+    execution, agentic systems, and fine-tuned models
+  - Build systems that scale 10x while being practical about investment priorities
+  - Develop performant APIs and services that power the product end-to-end with reliability
+    and security
+  - Collaborate closely with customers by joining calls and iterating rapidly based
+    on feedback
+  - Shape engineering culture including code quality, system design principles, and
+    documentation standards
+  use_cases:
+  - Media monitoring and tracking across text, audio, and video sources
+  - Search and analytics for communications, PR, and public affairs teams
+  - Multi-modal data processing including news, social media, and policy content
+  - Semantic search and meaning-aware retrieval across media coverage
+  - RAG-based intelligence extraction from media content
+  skills:
+    genai: [RAG, LLMs in production, Embeddings, Agentic systems]
+    ml: [Fine-tuning]
+    web: [Node.js]
+    databases: [PostgreSQL, BigQuery, Vector databases]
+    data: [Spark, Kafka, Flink]
+    cloud: [AWS, GCP]
+    ops: [Inference optimization, Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: [Computer vision, Multimodal models]
+    other: [Web scraping]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8877258'
+  extracted_at: '2026-03-27T13:58:36.775493'

@@ -1,0 +1,52 @@
+company:
+  name: FE fundinfo
+  stage: null
+  focus: |-
+    Financial data provider connecting investment industry
+    across UK, Europe, and Asia-Pacific
+position:
+  title: Senior Software Engineer - AI Solutions
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI agents, integrating LLMs into
+      products, and developing LLM-backed data pipelines from
+      experimentation through production. The engineer works
+      directly on AI/LLM systems including prompt design,
+      evaluation, and production integration, which is hands-on
+      work with models.
+  responsibilities:
+  - Developing AI agents and LLM-backed data pipelines in Databricks, progressing
+    solutions from experimentation through to production
+  - Designing, building, and maintaining scalable data and ML pipelines using Spark,
+    Delta Lake, and modern orchestration tools
+  - Evolving the internal AI platform to expand capabilities, reliability, and developer
+    usability
+  - Integrating LLMs into existing products and workflows with a focus on data quality,
+    traceability, and explainability
+  - Translating business requirements into robust technical solutions in partnership
+    with data, product, and platform teams
+  - Ensuring solutions meet performance, security, and compliance requirements in
+    regulated financial environments
+  use_cases:
+  - Data-intensive financial products for global clients
+  - AI agents for financial data processing
+  - LLM-backed data pipelines in regulated financial environment
+  - Internal AI platform for organization-wide use
+  - Financial data insights and analytics
+  skills:
+    genai: [LLMs, OpenAI, Azure OpenAI, Prompt engineering]
+    ml: []
+    web: [API design]
+    databases: [Delta Lake]
+    data: [Databricks, Spark]
+    cloud: []
+    ops: [CI/CD, Testing]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8515838'
+  extracted_at: '2026-03-27T16:00:32.275199'

@@ -1,0 +1,60 @@
+company:
+  name: Nexxa.ai
+  stage: null
+  focus: |-
+    Building artificial super intelligence for heavy industries
+    including manufacturing, infrastructure, logistics and
+    legacy environments
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that builds and
+      deploys AI solutions directly with customers. The role
+      involves architecting, building, and deploying custom
+      solutions using GenAI, LLMs, ML, and CV models, including
+      hands-on work with training, fine-tuning, prompt
+      engineering, and model deployment.
+  responsibilities:
+  - Engage directly with enterprise and strategic customers to understand their workflows,
+    data, and technical requirements
+  - Architect, build, and deploy custom solutions leveraging GenAI, LLMs, Machine
+    Learning and Vision models, and customer data sources
+  - 'Lead full project lifecycles: scoping, solution design, development, implementation,
+    testing, deployment, and iteration'
+  - Integrate and optimize AI/ML pipelines, including data preprocessing, prompt engineering,
+    model selection, and evaluation
+  - Build reliable, scalable software integrations using APIs, cloud services, and
+    containerized systems
+  - Troubleshoot complex technical issues across the stack—applications, models, data
+    pipelines, infrastructure, and integrations
+  - Act as the customer's trusted technical advisor, enabling adoption of new product
+    capabilities and AI features
+  - Partner closely with internal product and engineering teams to communicate customer
+    feedback and shape roadmap direction
+  use_cases:
+  - Autonomous decision-making and operations in manufacturing environments
+  - Intelligent systems for large-scale infrastructure management
+  - AI-powered logistics optimization and automation
+  - Computer vision applications including detection, segmentation, and OCR for industrial
+    settings
+  - Legacy system modernization with AI integration
+  - Multimodal AI solutions for heavy industry operations
+  skills:
+    genai: [LLMs, Generative AI, Prompt Engineering, RAG]
+    ml: [PyTorch, TensorFlow, OpenCV, Model Training, Model Fine-tuning, YOLO, SAM,
+      CLIP, DETR]
+    web: [REST APIs, Microservices, Distributed Systems]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, CI/CD, MLOps]
+    languages: [Python, JavaScript, TypeScript, Go]
+    domains: [Computer Vision, Object Detection, Segmentation, OCR, Multimodal Models]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8604424'
+  extracted_at: '2026-03-27T14:19:25.703775'

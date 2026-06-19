@@ -1,0 +1,59 @@
+company:
+  name: Wolters Kluwer
+  stage: Public
+  focus: |-
+    Information services and software solutions for legal, tax,
+    finance, and healthcare professionals
+position:
+  title: Enterprise Cloud Software Engineer (Cloud Operations, AI Engineering, Azure/AWS)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on cloud automation and infrastructure
+      engineering, with AI mentioned as a supplementary capability
+      for "AI-augmented" cloud operations. The engineer integrates
+      existing AI services into CloudOps workflows rather than
+      building, training, or fine-tuning AI/ML models. The core
+      work is cloud software development, IaC, and automation
+      frameworks.
+  responsibilities:
+  - Design, develop, and maintain cloud automation solutions using Python, PowerShell,
+    Bash, and JavaScript
+  - Build reusable automation frameworks and services using cloud SDKs, APIs, and
+    serverless technologies
+  - Lead Infrastructure-as-Code initiatives using Terraform, CloudFormation, ARM/Bicep,
+    and Ansible
+  - Develop and maintain CI/CD pipelines for infrastructure and automation using Azure
+    DevOps, GitHub Actions, Jenkins, or GitLab CI
+  - Design and automate solutions across AWS and Azure supporting IaaS, PaaS, containerized,
+    and serverless workloads
+  - Integrate AI-driven automation into CloudOps workflows for alert enrichment, operational
+    insights, and basic remediation
+  - Develop and support automation for container platforms such as Docker, Kubernetes,
+    AKS, and EKS
+  - Collaborate with Architecture, Security, Platform, and Operations teams within
+    Agile/Scrum teams
+  use_cases:
+  - Cloud infrastructure automation and provisioning
+  - IT operations automation replacing manual workflows
+  - Cloud governance and policy enforcement
+  - Disaster recovery and backup automation
+  - Container platform management and orchestration
+  - AI-augmented operational insights and alert enrichment
+  skills:
+    genai: [API-driven AI services]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS Lambda, Azure Functions, AWS, Azure, AKS, EKS]
+    ops: [Terraform, CloudFormation, ARM/Bicep, Ansible, Azure DevOps, GitHub Actions,
+      Jenkins, GitLab CI, Docker, Kubernetes]
+    languages: [Python, PowerShell, Bash, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8718786'
+  extracted_at: '2026-03-27T16:12:26.851054'

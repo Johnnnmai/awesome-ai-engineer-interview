@@ -1,0 +1,49 @@
+company:
+  name: Mastercard
+  stage: Public
+  focus: Global payments technology and digital transactions
+position:
+  title: Lead AI/DevOps Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves developing proof-of-concept solutions for
+      LLMs, RAG systems, and agentic workflows, along with
+      deploying and managing AI infrastructure for large language
+      models. The position directly builds and implements AI
+      solutions (MCPs, LLMs, RAG, agents) rather than just
+      supporting AI work done by others.
+  responsibilities:
+  - Lead DevOps initiatives in on-prem environments
+  - Design, deploy, and manage scalable AI infrastructure using Kubernetes for reliable
+    orchestration of large language models and related services
+  - Develop proof-of-concept solutions for advanced AI use cases including model context
+    protocols (MCPs), LLMs, retrieval-augmented generation (RAG), and agentic workflows
+  - Partner with security and governance teams to ensure AI solutions comply with
+    enterprise policies and regulatory standards
+  - Collaborate with infrastructure and platform teams to optimize cloud resources
+    for scalable AI workloads
+  - Work directly with customer teams to gather requirements and deliver innovative
+    AI solutions
+  use_cases:
+  - LLM as a Service platform for enterprise customers
+  - Retrieval-augmented generation systems
+  - Agentic AI workflows and automation
+  - Model context protocols for AI applications
+  - Scalable AI infrastructure orchestration
+  skills:
+    genai: [LLMs, RAG, Model Context Protocols, Agentic workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes, OpenShift, Docker, Helm, Splunk, Dynatrace, Grafana, Prometheus]
+    languages: [Python, GoLang]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8603868'
+  extracted_at: '2026-03-27T15:17:02.972314'

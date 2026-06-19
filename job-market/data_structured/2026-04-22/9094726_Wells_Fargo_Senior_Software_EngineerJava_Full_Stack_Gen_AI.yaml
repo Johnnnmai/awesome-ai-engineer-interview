@@ -1,0 +1,56 @@
+company:
+  name: Wells Fargo
+  stage: Public
+  focus: Multinational financial services and banking
+position:
+  title: Senior Software Engineer(Java Full Stack, Gen AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      While the job title mentions "Gen AI," the actual
+      responsibilities and required skills are overwhelmingly
+      focused on full-stack Java web development (Java, Spring
+      Boot, React/Angular). The only AI-related qualification is a
+      "strong knowledge of GenAI and Agentic AI ecosystems," which
+      reads as awareness rather than hands-on model/agent
+      building. This is a software engineering role at an AI
+      company where AI knowledge is supplementary, not the core
+      function.
+  responsibilities:
+  - Lead moderately complex technical initiatives and deliverables within technology
+    domain environments
+  - Design, code, test, debug, and document enterprise web applications including
+    upgrades and deployments
+  - Develop full-stack applications using Java, J2EE, Spring Boot, and React JS/Angular
+    with cloud-enabled architectures on Red Hat OpenShift
+  - Design and develop reusable React.js components, optimize front-end performance,
+    and translate wireframes into functional UI features
+  - Review and resolve moderately complex technical challenges, evaluating technologies
+    and procedures
+  - Collaborate with QA, Scrum Master, PMO, Architects, and peer developers across
+    US and offshore teams
+  - Lead projects, mentor less experienced staff, and act as an escalation point within
+    the team
+  - Partner with architects and business teams to convert strategic objectives into
+    scalable, governable technical designs
+  use_cases:
+  - Enterprise web application development for financial services
+  - Full-stack Java and React-based application delivery
+  - Cloud-enabled application deployment on container platforms
+  - UI/UX implementation for banking and financial systems
+  skills:
+    genai: [GenAI and Agentic AI ecosystems]
+    ml: []
+    web: [Spring Boot, Spring MVC, React JS, Angular, RESTful APIs, HTML5, CSS3]
+    databases: [JPA, Hibernate]
+    data: []
+    cloud: [Red Hat OpenShift]
+    ops: [GitHub, Docker/Containers]
+    languages: [Java, J2EE, JavaScript, SQL]
+    domains: []
+    other: [Agile/Scrum]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9094726'
+  extracted_at: '2026-04-22T12:58:11.873216'

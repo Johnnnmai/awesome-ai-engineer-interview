@@ -1,0 +1,159 @@
+job_id: 8778108
+title: Senior/Staff Backend Engineer, Applied AI
+company: TriEdge Investments
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - Llms
+  - Node.js
+  - Ocr
+  - Postgres
+  - Typescript
+company_size: 26 Employees
+description: |
+  About Hypha
+  
+  Hypha is an AI-native platform transforming asset management
+  across the full lifecycle—acquisition, management, and exit.
+  Focused on healthcare facilities and multifamily real
+  estate, we're revolutionizing the industry through three key
+  pillars:
+  
+  - Observability: Providing real-time visibility into asset
+    performance, deal progress, and market conditions for all
+    stakeholders
+  - Intelligence: Enabling AI-driven multidimensional
+    optimization with risk scores, tax strategies, and
+    benchmarking
+  - Orchestration: Creating seamless workflows and a single
+    source of truth to eliminate inefficiencies
+  
+  Role Overview
+  
+  As a Senior/Staff Backend Engineer, Applied AI at Hypha, you
+  will own the architecture and evolution of the AI systems at
+  the core of the platform. This includes designing and
+  scaling document processing pipelines, extraction agents,
+  entity resolution systems, computed attribute frameworks,
+  and conversational interfaces that allow users to interact
+  with complex financial data.
+  
+  You will lead the design of multi-step AI workflows that
+  transform unstructured information into structured,
+  actionable insights, while building the backend
+  infrastructure, evaluation systems, and observability layers
+  required to operate these systems reliably in production.
+  This role is for an engineer who can go beyond
+  implementation and make high-leverage decisions around
+  system design, performance, reliability, and technical
+  tradeoffs.
+  
+  You will work closely with leadership, product, and
+  engineering peers to shape technical direction, improve
+  engineering standards, and help define the architecture and
+  scaling strategy for Hypha’s applied AI stack over time.
+  
+  Core Competencies
+  
+  - Architect and scale AI-powered backend systems for document
+    extraction, entity resolution, retrieval, and structured
+    data generation
+  - Design resilient pipelines, queues, orchestration layers,
+    and failure-handling mechanisms for production AI
+    workflows
+  - Own data modeling and backend design decisions across
+    PostgreSQL and related storage systems for complex
+    financial and operational data
+  - Establish observability, evaluation, and debugging standards
+    for AI systems, including tracing, monitoring, quality
+    analysis, and cost/performance tradeoffs
+  - Improve platform reliability and developer velocity through
+    better abstractions, tooling, and engineering patterns
+  - Partner with product and frontend teams to design backend
+    capabilities that translate into intuitive product
+    experiences
+  - Provide technical leadership through architecture reviews,
+    design feedback, and mentorship of other engineers
+  
+  Ideal Candidate
+  
+  - 7+ years of backend or full-stack software engineering
+    experience, with meaningful time spent owning backend
+    systems in production
+  - Strong backend fundamentals — You have deep experience with
+    Node.js/TypeScript, PostgreSQL, and building reliable
+    server-side systems in production. You understand
+    concurrency, queuing, data pipeline design, and the
+    tradeoffs involved in scaling backend systems over time.
+  - Applied AI experience — You've built products with LLMs;
+    whether that's agent architectures, RAG systems,
+    extraction pipelines, or tool-use patterns. You understand
+    the practical challenges of working with non-deterministic
+    systems.
+  - Systems thinking — You can reason about how components
+    interact at scale. You think about failure modes, retries,
+    observability, and cost when designing AI workflows.
+  - Technical leadership — You help raise the quality bar
+    through architecture decisions, design reviews, code
+    quality, and mentorship of other engineers. You can lead
+    complex backend and applied AI initiatives and improve how
+    the team builds, operates, and scales critical systems
+    over time.
+  - Pragmatic engineering — You ship working systems, not
+    research prototypes. You know when to optimize and when
+    good enough is good enough.
+  - AI-fluent — You use AI coding tools daily and know how to
+    wield them effectively as a multiplier on top of strong
+    fundamentals.
+  
+  What Sets You Apart
+  
+  - Experience owning architecture for AI-native or data-
+    intensive backend platforms
+  - Experience designing evaluation, observability, and
+    guardrail systems for LLM-based workflows
+  - Experience with workflow orchestration tools such as
+    Inngest, Temporal, or Step Functions in production
+    environments
+  - Experience with OCR, document intelligence, search, or
+    financial/legal data extraction at scale
+  - Experience mentoring engineers and improving technical
+    standards across a team
+  - Early-stage startup experience, especially in environments
+    requiring fast iteration and high ownership
+  
+  Why Join Hypha
+  
+  - Be at the cutting edge of applied AI
+  - Have a large scope and massive impact on the company
+  - Work directly with the leadership team
+  - Own critical systems and help shape the technical foundation
+    of the company as we scale
+  - Competitive compensation package: $225-$350k base salary and
+    equity
+  
+  If you're ready to help build the future of asset management
+  and are excited by the challenge of bringing AI-driven
+  solutions to complex financial workflows, we want to hear
+  from you.
+  
+  Please note: We are proud to be an equal opportunity
+  employer, and we are committed to diversity and inclusion.
+  All qualified applicants will receive consideration for
+  employment without regard to race, color, religion,
+  ethnicity, sex, age, national origin, citizenship status,
+  disability, marital status, partnership status, sexual
+  orientation, gender identity and expression, military or
+  veteran status, or any other characteristic protected by
+  federal, state or local law.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Real Estate
+  - Software
+  - Financial Services
+posted_date: 2026-03-17
+url: "https://builtin.com/job/senior-staff-backend-engineer-applied-ai/8778108"
+source: Built In

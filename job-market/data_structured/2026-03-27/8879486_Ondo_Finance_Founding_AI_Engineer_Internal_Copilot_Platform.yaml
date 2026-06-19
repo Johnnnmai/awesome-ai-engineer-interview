@@ -1,0 +1,54 @@
+company:
+  name: Ondo Finance
+  stage: Series B+
+  focus: |-
+    Institutional-grade blockchain-enabled investment products
+    and tokenized real-world assets
+position:
+  title: Founding AI Engineer – Internal Copilot Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting and building AI-powered
+      systems using LLMs, RAG, and orchestration - directly
+      working on AI/ML capabilities like building an internal
+      copilot and RAG platform. The engineer will apply modern AI
+      capabilities (LLMs, retrieval, orchestration) to build
+      production AI systems, not just support infrastructure.
+  responsibilities:
+  - Architect and build internal AI-powered systems that connect company data, tools,
+    and workflows
+  - Own solutions end-to-end from backend services and data pipelines to lightweight
+    user interfaces
+  - Apply modern AI capabilities (LLMs, retrieval, orchestration) to real operational
+    problems across teams
+  - Rapidly prototype and iterate based on real user feedback, balancing speed with
+    sound system design
+  - Collaborate cross-functionally to identify high-leverage automation opportunities
+  - Help define and evolve Ondo's internal AI roadmap as usage scales
+  - Ship an internal 'Ondo Copilot' that answers cross-functional questions and routes
+    workflows
+  - Build a small RAG platform that other engineers can plug into
+  use_cases:
+  - Internal AI copilot for cross-functional question answering and workflow routing
+  - Automated operational workflows between Slack, Notion, and internal services
+  - RAG platform for company-wide data retrieval and knowledge access
+  - Team productivity automation and faster shipping
+  - Decision support and workflow automation across all teams
+  skills:
+    genai: [OpenAI API, Claude, RAG, LLM orchestration, Agent frameworks, Retrieval
+        systems]
+    ml: []
+    web: [Backend development, REST APIs]
+    databases: [Data warehouses]
+    data: [Data pipelines]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Slack integrations, Notion integrations, CRM integrations]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8879486'
+  extracted_at: '2026-03-27T14:58:31.125157'

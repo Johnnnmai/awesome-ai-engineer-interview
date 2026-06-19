@@ -1,0 +1,58 @@
+company:
+  name: Alteryx
+  stage: Public
+  focus: Data analytics, automation, and AI platform for enterprises
+position:
+  title: Sr. Software Engineer (Back-End, Python, AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly builds and scales the backend systems
+      powering AI experiences (Copilot / Ask Alteryx), including
+      agent workflows, MCP-connected skills, tool execution paths,
+      and AI orchestration patterns. The engineer works hands-on
+      with agent systems and LLM-powered product capabilities,
+      making this an ai-first role despite its backend engineering
+      center of gravity.
+  responsibilities:
+  - Own and deliver backend features in Python services powering Copilot / Ask Alteryx
+    and adjacent AI experiences
+  - Design and implement APIs, service integrations, and orchestration logic connecting
+    UI surfaces, backend systems, and AI capabilities
+  - Contribute to agent workflows, tool execution paths, and MCP-oriented integrations
+    when roadmap needs require backend support for agent delivery
+  - Partner with product, design, frontend, data science, and platform teams to clarify
+    requirements and ship customer-facing improvements
+  - Improve service reliability through observability, testing, performance, rate
+    limiting, and operational readiness
+  - Contribute to software design, code reviews, technical planning, and engineering
+    practices that improve quality and delivery velocity
+  - Mentor engineers through thoughtful feedback, pairing, and day-to-day technical
+    collaboration
+  - Help the team respond quickly to new AI opportunities while balancing correctness,
+    cost, security, and maintainability tradeoffs
+  use_cases:
+  - AI-powered copilot assistant for data analytics workflows (Copilot / Ask Alteryx)
+  - Agent orchestration connecting Alteryx products and domain capabilities into a
+    shared AI platform
+  - MCP-connected skills and tool-based integrations for AI systems
+  - Tool execution paths for agentic AI workflows
+  - Retrieval, grounding, and evaluation patterns to improve AI system quality and
+    reliability
+  skills:
+    genai: [LangGraph, LangChain, MCP, Agent orchestration, RAG / retrieval and grounding,
+      LLM-powered product experiences]
+    ml: []
+    web: [FastAPI, Flask, Django, REST APIs]
+    databases: [PostgreSQL, Redis]
+    data: [Kafka]
+    cloud: [Google Cloud Platform, Vertex AI]
+    ops: [Kubernetes, CI/CD, GitLab, GitHub]
+    languages: [Python]
+    domains: []
+    other: [Distributed systems, Automated testing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8936212'
+  extracted_at: '2026-04-22T13:50:31.315704'

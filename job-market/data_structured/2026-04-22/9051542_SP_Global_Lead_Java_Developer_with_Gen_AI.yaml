@@ -1,0 +1,56 @@
+company:
+  name: S&P Global
+  stage: Public
+  focus: Financial data, analytics, and credit ratings provider
+position:
+  title: Lead Java Developer (with Gen AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is primarily a Java/backend engineering role on the
+      Foreseer platform. While it lists "AI/ML solutions
+      architecture" and "Knowledge of GenAI Platforms" as
+      qualifications, the core responsibilities are about building
+      and maintaining the platform framework using Java and
+      microservices. The role works near AI/ML systems but does
+      not directly build, train, fine-tune, or deploy models — it
+      supports the infrastructure that ML engineers use.
+  responsibilities:
+  - Foster a quality-first, agile culture built on partnership, trust, and sharing
+    within the Foreseer team
+  - Design, develop, and maintain functionalities to create new solutions on the Foreseer
+    digital transformation platform
+  - Implement new features and iterations for information extraction from structured
+    and semi-structured documents and websites
+  - Write high-quality code using industry best practices with deep technical proficiency
+  - Implement security measures and compliance standards to protect sensitive data
+    and ensure regulatory adherence
+  - Maintain comprehensive documentation of platform, processes, and procedures for
+    knowledge sharing
+  - Ensure use of standards, governance, and best practices to deliver high-quality
+    scalable cloud-native solutions
+  - Provide strategic thinking and technical leadership with demonstrated problem-solving
+    skills
+  use_cases:
+  - Information extraction from structured and semi-structured documents
+  - Web content extraction and data processing
+  - Human-in-the-loop AI/ML platform for delivering digital transformation projects
+  - Distributed cloud-native auto-scalable framework for enterprise data solutions
+  - Document intelligence and workflow automation for financial data
+  skills:
+    genai: [AI/ML solutions architecture, GenAI platforms]
+    ml: []
+    web: [Spring Boot, Spring JPA, Spring Security, Spring MVC, RESTful services,
+      Microservices, React]
+    databases: [RDBMS, NoSQL, Elasticsearch, Redis]
+    data: [ActiveMQ]
+    cloud: [AWS S3, AWS EKS, AWS EC2]
+    ops: [Docker/Containers, CI/CD, Azure DevOps, Git]
+    languages: [Java, J2EE, Python]
+    domains: []
+    other: [Agile/Scrum]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9051542'
+  extracted_at: '2026-04-22T12:48:08.758123'

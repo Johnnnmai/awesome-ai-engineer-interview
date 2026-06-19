@@ -1,0 +1,49 @@
+company:
+  name: Chubb
+  stage: Public
+  focus: Global insurance and financial services company
+position:
+  title: AI Engineer (Fluent in Thai and English)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on training, fine-tuning, and
+      deploying LLMs with techniques like LoRA, QLoRA, and PEFT.
+      The position involves building production inference
+      pipelines, optimizing GPU deployment, and implementing RAG
+      systems - all core AI/ML engineering work.
+  responsibilities:
+  - Lead the adaptation of Large Language Models (LLMs) for domain-specific tasks
+    using techniques like LoRA, QLoRA, and PEFT to balance performance with resource
+    efficiency
+  - Architect and optimize inference pipelines to minimize TTFT (Time to First Token)
+    and maximize throughput including implementing quantization, caching strategies,
+    and efficient batching
+  - Build and maintain real-time AI pipelines using WebSockets and SSE, ensuring seamless
+    low-latency delivery for voice (ASR/TTS) and text applications
+  - Deploy and orchestrate models within containerized microservice architectures
+    (Docker/Kubernetes), ensuring robust monitoring, security, and scalability
+  - Work closely with Business Analysts and internal stakeholders to bridge the gap
+    between commercial requirements and technical implementation
+  use_cases:
+  - Voice agents with ASR/TTS capabilities for customer interactions
+  - Document processing and intelligent extraction for insurance workflows
+  - Domain-specific LLM applications for insurance and financial services
+  - Real-time AI pipelines for low-latency text applications
+  - Retrieval-Augmented Generation systems for enterprise search and knowledge retrieval
+  skills:
+    genai: [PEFT, LoRA, QLoRA, RAG, Prompt engineering, LLM fine-tuning]
+    ml: [CUDA, GPU optimization]
+    web: [WebSockets, SSE (Server-Sent Events)]
+    databases: [Vector databases]
+    data: []
+    cloud: []
+    ops: [vLLM, Triton, TGI, Docker, Kubernetes, CI/CD, Linux]
+    languages: [Python]
+    domains: [OCR, Multimodal extraction, ASR/TTS]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8804279'
+  extracted_at: '2026-03-27T14:28:49.740790'

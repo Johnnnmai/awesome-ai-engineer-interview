@@ -1,0 +1,45 @@
+company:
+  name: Five9
+  stage: Public
+  focus: Cloud contact center software
+position:
+  title: Senior Staff Engineer | AI Voice Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying real-time AI voice
+      orchestration systems that directly integrate and execute AI
+      inference services, ASR, TTS, and end-of-turn models. The
+      engineer works hands-on with GenAI voice platforms and AI
+      inference, not just supporting infrastructure.
+  responsibilities:
+  - Lead architecture and development of real-time AI voice orchestration systems
+  - Design and optimize low-latency voice pipelines using RTP/SIP protocols
+  - Integrate speech recognition (ASR), speech synthesis (TTS), and AI inference services
+  - Execute end of turn models and interruption model inference in real-time
+  - Mentor junior engineers and establish technical best practices
+  - Collaborate cross-functionally with Product, AI, Infrastructure, and SRE teams
+  - Own full software lifecycle including deployment and operations with DevOps practices
+  - Ensure platform scalability, reliability, observability, and maintainability
+  use_cases:
+  - Real-time AI voice agent orchestration for contact centers
+  - Low-latency streaming voice processing and handling
+  - Speech-to-text and text-to-speech integration for AI conversations
+  - AI inference for conversational turn detection and interruption handling
+  - Cloud-based customer experience automation
+  skills:
+    genai: [ASR/TTS integration, AI APIs, GenAI voice platforms]
+    ml: []
+    web: [RTP/SIP, SIP/SDP]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, containers, SRE principles]
+    languages: [C++]
+    domains: []
+    other: [audio codecs, real-time voice systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8124201'
+  extracted_at: '2026-03-03T12:38:33.514671'

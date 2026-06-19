@@ -1,0 +1,51 @@
+company:
+  name: Wolters Kluwer
+  stage: Public
+  focus: Legal information services and AI-powered legal workspace
+position:
+  title: DevOps Engineer (Libra - Legal AI Assistant) (m/w/d)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a DevOps/infrastructure role that supports AI
+      systems rather than building them directly. The role focuses
+      on cloud infrastructure, CI/CD pipelines, containerization,
+      and monitoring - all enabling work for the AI and Product
+      teams who build the actual AI features. The engineer
+      maintains the platform that AI runs on, but doesn't work on
+      models, agents, RAG, or ML systems themselves.
+  responsibilities:
+  - Design, implement, and maintain Libra's cloud infrastructure on Open Telekom Cloud
+    (OTC), ensuring security, reliability, and scalability
+  - Automate infrastructure setup and management using Ansible and Terraform
+  - Build and optimize CI/CD pipelines with Jenkins, enabling fast, stable deployments
+  - Containerize applications with Docker and manage orchestration across environments
+  - Set up and maintain observability systems using Grafana and Prometheus to monitor
+    system health and performance
+  - Collaborate with developers to ensure seamless integration of infrastructure and
+    application layers
+  - Drive continuous improvement in performance, resilience, and security
+  - Ensure compliance with the highest standards of data protection and reliability
+    for enterprise-grade customers
+  use_cases:
+  - Legal research assistance for lawyers
+  - Legal document drafting automation
+  - Delivering legal work faster and smarter
+  - AI-powered legal workspace for European law firms
+  - Localized legal AI products across European markets
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Open Telekom Cloud, AWS, Azure, GCP]
+    ops: [Docker, Ansible, Terraform, Jenkins, Grafana, Prometheus, CI/CD, Kubernetes]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8464338'
+  extracted_at: '2026-03-03T12:42:06.060382'

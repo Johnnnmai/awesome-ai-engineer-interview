@@ -1,0 +1,120 @@
+job_id: 9110023
+title: "Senior Backend Engineer (Go) | Studio AI"
+company: Creative Fabrica
+location: Amsterdam, NLD
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Connectrpc
+  - Go
+  - GraphQL
+  - Grpc
+  - Kafka
+  - Sqs
+company_size: 339 Employees
+description: |
+  About Creative Fabrica
+  
+  Creative Fabrica is a subscription platform serving millions
+  of creators, designers, and crafters worldwide. We're built
+  on the principle that everyone can be creative. We remove
+  what stands in the way: expensive software, technical
+  expertise, and time-consuming production.
+  
+  Our Studio AI suite offers more than 26 specialized AI tools
+  that automate technical work: generate custom images, remove
+  backgrounds, create fonts, and produce publication-ready
+  designs in minutes instead of hours.
+  
+  Our content library contains 15+ million commercially-
+  licensed fonts, graphics, SVGs, and templates, giving you
+  professional-quality building blocks without the expense or
+  time of creating assets from scratch.
+  
+  About the team: Studio AI
+  
+  Studio AI is Creative Fabrica's bet on what creative
+  software looks like when AI is the default, not a feature.
+  
+  We built a single platform where anyone can generate and
+  edit images, video, audio, 3D models, and vector graphics
+  using state-of-the-art generative AI. Our tools serve
+  hundreds of thousands of creators every day, from hobbyist
+  crafters to professional designers and everything in
+  between, all in one place.
+  
+  We move fast, integrate frontier models into production-
+  ready workflows, and build the infrastructure that gives
+  creators every tool they need to turn any idea into
+  professional-grade media, at scale.
+  
+  About the role
+  
+  As a Senior Backend Engineer (Go), you will be the architect
+  of our multimodal generation pipeline. You won't just be
+  building APIs; you’ll be designing the high-concurrency
+  systems that orchestrate "heavy" AI workloads across any
+  media domains. Your goal is to make complex, multi step AI
+  generation feel instantaneous and reliable for a global
+  audience of creators.
+  
+  What you will do:
+  
+  - Orchestrate Multimodal Workflows: Design and scale Go-based
+    microservices that manage the lifecycle of AI generations.
+  - Performance Engineering: Optimize our ConnectRPC services
+    and async processing pipelines (Kafka + SQS) to handle
+    long-running, resource-intensive inference tasks without
+    compromising platform stability.
+  - Build the Creative Engine: Develop the backend logic for
+    advanced features like multimodal orchestration.
+  - Data & Infrastructure: Work with AWS to manage massive data
+    throughput and integrate with high-performance storage and
+    compute clusters.
+  - Collaborate with AI Researchers: Bridge the gap between raw
+    model outputs and a polished "One Person Studio" user
+    experience.
+  
+  What you will need:
+  
+  - Advanced Go Engineering: Extensive experience building and
+    scaling Go services in high-traffic, high-volume SaaS
+    environments.
+  - Distributed Systems Mastery: Proven ability to design
+    microservices that utilize asynchronous processing (Kafka
+    & SQS) and low-latency communication
+    (gRPC/ConnectRPC/GraphQL).
+  - Cloud Architecture: Deep knowledge of AWS (EKS, S3, Lambda)
+    and experience managing complex compute environments.
+  - Product Rigor: A background in building professional-grade
+    creative tools or media-heavy applications.
+  - Software Best Practices: A quality-first mindset regarding
+    code reviews, testing strategies, and observability.
+  
+  Nice to have:
+  
+  - Media Processing Experience: Familiarity with handling
+    varied media types (video transcoding, audio synthesis,
+    vector manipulation).
+  - AI Infrastructure: Experience with model serving at scale or
+    managing GPU-accelerated workloads.
+  - Entrepreneurial Mindset: Experience in a fast-paced
+    environment where you help define the product vision and
+    iterate quickly.
+  
+  Is this you?
+  
+  Get in touch! We'd love to speak to you.
+  
+  You can apply by clicking the "Apply now" button.
+  
+  Creative Fabrica is an equal opportunity employer. We
+  celebrate diversity and are committed to creating an
+  inclusive environment for all employees.
+industries:
+  - eCommerce
+  - Design
+posted_date: 2026-04-21
+url: "https://builtin.com/job/senior-backend-engineer-go-studio-ai/9110023"
+source: Built In

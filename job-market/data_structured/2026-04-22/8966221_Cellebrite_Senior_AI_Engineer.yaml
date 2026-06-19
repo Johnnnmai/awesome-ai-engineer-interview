@@ -1,0 +1,53 @@
+company:
+  name: Cellebrite
+  stage: Public
+  focus: Digital forensics and intelligence investigation platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building AI-powered product features that
+      extract insights from forensic datasets, integrating AI
+      services (including LLMs via GenAI platforms) into the
+      product, and working with AWS SageMaker. This is hands-on
+      work implementing and deploying AI capabilities within the
+      product, not just supporting infrastructure for others.
+  responsibilities:
+  - Design and implement features for AWS-based AI solution, including job orchestration,
+    manifest generation, and API integrations
+  - Build and maintain AI-powered product features that extract insights from complex,
+    multi-source forensic datasets
+  - Leverage AI-assisted development tools to accelerate delivery while maintaining
+    quality, security, and performance
+  - Ensure code quality and reliability through comprehensive unit testing, performance
+    testing, and observability enhancements
+  - Collaborate with cross-functional teams to integrate AI services into broader
+    investigation workflows and runtime environments
+  - Troubleshoot deployment issues and contribute to continuous improvement of dashboards
+    and monitoring tools
+  - Contribute to data modelling, algorithm exploration, and proof-of-concept development
+  use_cases:
+  - Transform complex forensic data from diverse sources into meaningful investigative
+    leads and intelligence insights
+  - Analyze large-scale datasets to uncover patterns, anomalies, and relationships
+    across entities
+  - AI-powered digital investigation platform for law enforcement and intelligence
+    agencies
+  - Digital evidence collection, analysis, and sharing in legally sanctioned investigations
+  skills:
+    genai: [LLM integration, Semantic caching, GenAI platforms]
+    ml: []
+    web: [Node.js, Next.js, React, API development]
+    databases: []
+    data: []
+    cloud: [AWS, AWS SageMaker, AWS Lambda, Amazon EKS, Cloud-native architecture]
+    ops: [Kubernetes, Datadog, GitHub workflows]
+    languages: [Python, TypeScript, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8966221'
+  extracted_at: '2026-04-22T12:37:00.348135'

@@ -1,0 +1,58 @@
+company:
+  name: Ingram Micro
+  stage: Public
+  focus: Global technology distribution and supply chain services
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily an MLOps/Agent Ops infrastructure
+      position focused on deploying, monitoring, and maintaining
+      AI systems in production rather than building or training
+      models. While it involves deploying and managing AI models
+      and agentic systems, the core responsibilities center on
+      operational infrastructure, CI/CD pipelines, monitoring,
+      incident response, and automation — enabling AI developers
+      and data scientists rather than directly building or fine-
+      tuning models.
+  responsibilities:
+  - Deploy, configure, and manage AI models and agentic systems in cloud and on-premise
+    environments
+  - Implement and maintain CI/CD pipelines for AI/ML models and agentic applications
+    (MLOps/Agent Ops)
+  - Develop and implement monitoring, logging, and alerting solutions for AI agents
+    and infrastructure
+  - Provide operational support for production AI systems including incident response
+    and root cause analysis
+  - Automate routine operational tasks, deployment processes, and system maintenance
+    using scripting and automation tools
+  - Collaborate with AI developers, data scientists, and architects to ensure smooth
+    transitions from development to production
+  - Maintain documentation for system configurations, operational procedures, and
+    troubleshooting guides
+  - Contribute to operational best practices, security standards, and compliance requirements
+    for AI systems
+  use_cases:
+  - Operationalizing agentic AI systems for a global industry leader
+  - Production deployment and management of LLM-based agent applications
+  - Monitoring and ensuring high availability of AI infrastructure
+  - Automating MLOps/Agent Ops workflows for AI Center of Excellence
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn]
+    web: []
+    databases: [Vector Databases]
+    data: [Apache Airflow]
+    cloud: [GCP, Vertex AI]
+    ops: [CI/CD, MLOps, Docker, Kubernetes, Terraform, Ansible, Prometheus, Grafana,
+      Datadog, Langfuse, ELK Stack, Google Cloud Monitoring, Bitbucket, GitLab CI,
+      GitHub Actions, Kubeflow Pipelines, Agent Ops]
+    languages: [Python, Bash, PowerShell]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9066301'
+  extracted_at: '2026-04-22T12:33:06.547685'

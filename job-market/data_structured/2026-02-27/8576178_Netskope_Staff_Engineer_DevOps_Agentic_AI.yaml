@@ -1,0 +1,52 @@
+company:
+  name: Netskope
+  stage: Late-stage private (founded 2012, market-leading position)
+  focus: Cloud security and data protection platform
+position:
+  title: Staff Engineer DevOps, Agentic AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a DevOps/infrastructure role that works ON the
+      platform supporting AI systems, not ON the AI/ML models
+      themselves. The role involves building cloud infrastructure,
+      CI/CD pipelines, and Kubernetes clusters for Agentic AI
+      applications, but does not involve building, training, or
+      fine-tuning models.
+  responsibilities:
+  - Design and architect scalable cloud environments for Agentic Applications using
+    Infrastructure as Code (Terraform)
+  - Design, implement, and manage CI/CD pipelines for safe and reliable deployments
+  - Manage release processes including versioning, rollback strategies, blue/green
+    and canary deployments
+  - Provision and manage Kubernetes clusters ensuring high availability and scalability
+  - Implement auto-scaling strategies for infrastructure and workloads to optimize
+    performance and cost
+  - Set up and manage monitoring, logging, and alerting systems for infrastructure
+    and applications
+  - Operate and oversee large Kubernetes clusters with GPU workloads supporting production
+  - Provide primary operational support for large-scale distributed systems and cloud
+    environments
+  use_cases:
+  - Cloud infrastructure for Agentic AI platform
+  - Scalable deployment of AI/ML applications
+  - GPU workload orchestration on Kubernetes
+  - High-availability production environments for AI systems
+  - Automated release management for AI applications
+  skills:
+    genai: [LLM deployment]
+    ml: [ML systems infrastructure]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [Terraform, Kubernetes, CI/CD, GitHub Actions, GitLab CI, Jenkins, Git, Prometheus,
+      Grafana]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8576178'
+  extracted_at: '2026-03-03T12:21:46.409210'

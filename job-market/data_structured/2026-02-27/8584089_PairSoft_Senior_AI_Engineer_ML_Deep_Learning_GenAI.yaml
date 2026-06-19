@@ -1,0 +1,51 @@
+company:
+  name: PairSoft
+  stage: Growing/Rapidly growing
+  focus: Enterprise AI solutions and workflow automation
+position:
+  title: Senior AI Engineer (ML / Deep Learning / GenAI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is clearly an ai-first role focused on building and
+      deploying AI/ML systems directly - including GenAI
+      applications (RAG/agents), training/fine-tuning models,
+      implementing retraining pipelines, and deploying models for
+      inference. The role requires hands-on work across the full
+      ML lifecycle from development through production deployment.
+  responsibilities:
+  - Build and deliver AI solutions using ML/DL and GenAI services based on problem
+    needs
+  - Develop and maintain pipelines for training, evaluation, deployment, monitoring,
+    and retraining
+  - Build GenAI applications (e.g., RAG/agents) with strong evaluation and guardrails
+  - Deploy AI workloads for real-time inference and batch processing
+  - Implement automated retraining with scheduling, validation, versioning, and rollout
+  - Scale GenAI-enabled solutions for multi-customer deployments with tenant controls
+    and guardrails
+  - Set up model observability including performance metrics, drift detection, and
+    alerting
+  - Partner with engineering and platform teams to integrate solutions into production
+    and CI/CD workflows
+  use_cases:
+  - Automating complex, time-consuming enterprise workflows with AI
+  - Multi-tenant GenAI deployments (RAG/agents) for multiple customers
+  - Real-time and batch AI inference at scale
+  - Enterprise workflow automation and transformation
+  - Production ML systems with continuous retraining and monitoring
+  skills:
+    genai: [RAG, AI Agents]
+    ml: [PyTorch, TensorFlow]
+    web: []
+    databases: []
+    data: [Apache Airflow, Azure Data Factory]
+    cloud: [Azure ML, Azure, Azure App Service, Azure Container Apps, OCI]
+    ops: [Application Insights, MLflow, Docker, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8584089'
+  extracted_at: '2026-03-03T12:01:21.946415'

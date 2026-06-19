@@ -1,0 +1,140 @@
+job_id: 8794896
+title: Staff AI Engineer
+company: WEX Inc.
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - "C#"
+  - Github Actions
+  - Go
+  - Java
+  - Kubernetes
+  - NoSQL
+  - Python
+  - PyTorch
+  - Scikit-Learn
+description: |
+  This is a remote position; however, the candidate must
+  reside within 30 miles of one of the following locations:
+  Portland, ME; Boston, MA; Chicago, IL; Dallas, TX; San
+  Francisco Bay Area, CA; and Seattle/WA.
+  
+  About the Team
+  
+  We are a fast-growing AI Engineering team, driving WEX's
+  strategic vision to integrate artificial intelligence into
+  the core of our product and business. Our team thrives on
+  collaboration, working directly with stakeholders and domain
+  experts to develop innovative AI platforms and solutions
+  that enhance decision-making and create groundbreaking
+  products that benefit our customers and help them to
+  effectively grow their business. We foster a culture of
+  continuous learning and believe that the best work stems
+  from a shared purpose and an enjoyable, engaging
+  environment.
+  
+  How You’ll Make an Impact
+  
+  You are an experienced technical leader and subject matter
+  expert with a deep passion for AI, Machine Learning, and
+  software engineering. You possess a proven track record of
+  architecting scalable systems and solving complex ambiguity
+  using data-driven tools. You will act as a force multiplier
+  for the team—setting technical standards, mentoring junior
+  engineers, and partnering with product leadership to turn
+  abstract business goals into production-grade AI solutions.
+  
+  Responsibilities
+  
+  - Technical Strategy & Architecture: Partner with stakeholders
+    to translate complex customer challenges into robust
+    technical designs and AI strategies.
+  - End-to-End Ownership: Architect, build, and deploy high-
+    performance AI/ML platforms and tools, ensuring
+    scalability, reliability, and security.
+  - Advanced Model Development: Lead the development,
+    evaluation, fine-tuning, and monitoring of production-
+    grade AI/ML models (including LLMs and RAG architectures).
+  - Operational Excellence: Design and standardize CI/CD
+    pipelines (GitHub Actions) and Infrastructure as Code
+    (Terraform) to ensure reproducible and automated
+    deployments.
+  - Reliability & Scale: Proactively monitor system health, lead
+    incident response for critical AI systems, and drive
+    architectural refactoring to remove bottlenecks.
+  - Mentorship: Mentor L1/L2 engineers, conduct code reviews,
+    and foster a culture of engineering excellence and best
+    practices.
+  - Innovation: Evaluate emerging AI technologies/vendors and
+    prototype new approaches to keep the organization at the
+    cutting edge of the industry.
+  
+  Experience You’ll Bring
+  
+  - 5+ years of experience as an AI/ML Engineer, Data Scientist,
+    or Software Engineer with a heavy focus on production ML
+    systems.
+  - Bachelor's degree in Computer Science, Software Engineering,
+    or related field; a Master’s or PhD in AI/ML is preferred.
+  - Production expertise: Proven track record of taking AI
+    solutions from concept to high-scale production using
+    Java, C#, GoLang, or Python.
+  - LLM Proficiency: Deep experience with Generative AI,
+    including prompting strategies, RAG (Retrieval-Augmented
+    Generation), fine-tuning, and agentic workflows.
+  - System Design: Strong ability to design distributed systems
+    and microservices architectures for model serving.
+  - Collaboration: Demonstrated ability to lead technical
+    discussions with non-technical stakeholders and drive
+    consensus.
+  - Experience in the financial or fintech industry is a plus.
+  
+  Technical Skills
+  
+  - Expert proficiency in Python (preferred) or other core
+    languages (Java, Go, C#).
+  - Deep knowledge of modern ML frameworks (PyTorch, TensorFlow,
+    Scikit-learn) and LLM orchestration (LangChain,
+    LlamaIndex, vLLM).
+  - Advanced understanding of MLOps principles, feature stores,
+    and model monitoring.
+  - Solid grasp of advanced probability, statistics, and linear
+    algebra.
+  - Extensive hands-on experience with Kubernetes (deploying and
+    managing clusters) and Cloud platforms (AWS preferred).
+  - Strong command of CI/CD methodologies and Infrastructure as
+    Code (Terraform).
+  - Excellent data engineering skills (SQL, NoSQL, data lakes,
+    and processing pipelines).
+  
+  Key Words
+  
+  Senior AI Engineer, MLOps, Generative AI, LLM, RAG,
+  Distributed Systems, Software Architecture, Technical
+  Leadership.
+  
+  The base pay range represents the anticipated low and high
+  end of the pay range for this position. Actual pay rates
+  will vary and will be based on various factors, such as your
+  qualifications, skills, competencies, and proficiency for
+  the role. Base pay is one component of WEX's total
+  compensation package. Most sales positions are eligible for
+  commission under the terms of an applicable plan. Non-sales
+  roles are typically eligible for a quarterly or annual bonus
+  based on their role and applicable plan. WEX's comprehensive
+  and market competitive benefits are designed to support your
+  personal and professional well-being. Benefits include
+  health, dental and vision insurances, retirement savings
+  plan, paid time off, health savings account, flexible
+  spending accounts, life insurance, disability insurance,
+  tuition reimbursement, and more. For more information, check
+  out the "About Us" section.Pay Range: $185,000.00 -
+  $217,400.00
+industries:
+  - Fintech
+  - Payments
+posted_date: 2026-03-25
+url: "https://www.builtinla.com/job/senior-ai-engineer/8794896"
+source: Built In

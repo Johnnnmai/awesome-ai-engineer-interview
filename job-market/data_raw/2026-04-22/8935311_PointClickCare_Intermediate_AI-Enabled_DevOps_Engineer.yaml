@@ -1,0 +1,271 @@
+job_id: 8935311
+title: Intermediate AI-Enabled DevOps Engineer
+company: PointClickCare
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Ai-Enabled Platforms
+  - Bash
+  - Ci/Cd
+  - Cloud Infrastructure
+  - Docker
+  - Infrastructure As Code
+  - Kubernetes
+  - Python
+  - Terraform
+description: |
+  At PointClickCare our mission is simple: to help providers
+  deliver exceptional care. And that starts with our people.
+  As a leading health tech company that’s founder-led and
+  privately held, we empower our employees to push boundaries,
+  innovate, and shape the future of healthcare.
+  
+  With the largest long-term and post-acute care dataset and a
+  Marketplace of 400+ integrated partners, our platform serves
+  over 30,000 provider organizations, making a real difference
+  in millions of lives. We also reinvest a significant
+  percentage of our revenue back into research and
+  development, ensuring our employees have the resources to
+  innovate and make a lasting impact. Recognized by Forbes as
+  a top private cloud company and honored as one of Canada’s
+  Most Admired Corporate Cultures, we offer flexibility,
+  growth opportunities, and meaningful work.
+  
+   At PointClickCare, we empower our people to be the
+  architects of a smarter healthcare future; one that is
+  human-first and accelerated by AI to create meaningful and
+  lasting change. Employees harness AI as a catalyst for
+  creativity, productivity, and thoughtful decision-making. By
+  integrating AI tools into our daily workflows, collaboration
+  is enhanced, outcomes are improved, and every team member
+  has the proficiency to maximize their impact. It all starts
+  with our hiring practices where we uncover AI expertise that
+  complements our mission, and we continue to invest in
+  training and development to nurture innovation throughout
+  the employee journey.
+  
+  Join us in redefining healthcare — so it doesn’t just
+  survive, it thrives. To learn more about PointClickCare,
+  check out Life at PointClickCare and connect with us on
+  Glassdoor and LinkedIn.
+  
+  **Travel to Office expectations**
+  
+  For Remote Roles: If this role is remote, there will be in-
+  office events that will require travel to and from the
+  Mississauga and/or Salt Lake City office. These will
+  include, but not limited to, onboarding, team events, semi-
+  annual and annual team meetings.
+  
+  For Hybrid Roles: If this role is Hybrid, there will be an
+  expectation to reside within commutable distance to the
+  office/location specified in the job listing. This will
+  include, but not limited to, weekly/bi-weekly/monthly events
+  in the office with your specific team. This is a requirement
+  for this role.
+  
+  Position Summary:
+  
+  PointClickCare builds cloud platforms that power safer, more
+  connected care for millions of patients. As an Intermediate
+  DevOps Engineer, you will build, operate, support cloud
+  infrastructure and deployment pipelines that enable
+  application and AI-enabled workloads to run reliably. You
+  work closely with senior engineers to implement best
+  practices, automate operational tasks, and improve system
+  reliability while continuing to deepen your technical
+  expertise. This role is ideal for an engineer who is
+  comfortable working in cloud environments with a focus in
+  automation and is ready to take ownership of well-scoped
+  systems and services.
+  
+  Who you’ll work with:
+  
+  You will be part of our growing team of top engineers with
+  the ability to directly impact the success of the
+  organization. You'll be a part of the DevOps team reporting
+  to the DevOps Team Lead and working alongside our other
+  DevOps Engineers. You'll work day to day with the Software
+  Engineering team as well as our IT team.
+  
+  
+  
+  What you'll be doing day to day:
+  
+  
+  
+  Infrastructure & Platform Support:
+  
+    - Implement and maintain cloud infrastructure using
+      infrastructure-as-code.
+    - Support and improve CI/CD pipelines for application and ML
+      workloads.
+    - Operate containerized workloads in Kubernetes or managed
+      container platforms.
+    - Assist in rolling out platform improvements and
+      infrastructure changes.
+  
+  Automation & AI Exposure:
+    - Automate repetitive operational tasks using scripts and
+      tooling.
+    - Assist with deploying and monitoring AI/ML workloads.
+    - Use AI-assisted tools to improve Log analysis and alert
+      triage, Incident investigation and
+      documentation, Deployment validation and testing.
+  
+  Reliability & Operations:
+    - Participate in on-call rotations
+    - Respond to and help resolve environment & CI/CD pipeline
+      incidents.
+    - Monitor system health using dashboards, logs, and alerts.
+    - Contribute to post-incident reviews and follow-up actions.
+  
+  Collaboration & Learning:
+    - Follow and contribute to established DevOps standards and
+      practices.
+    - Document procedures, runbooks, and operational knowledge.
+    - Strong interest and motivation to grow technical skills.
+  
+  
+  
+  What you'll bring:
+  
+  
+  
+  Solid Technincal Foundation:
+    - Working knowledge of cloud infrastructure and Linux-based
+      systems.
+    - Proven experience with CI/CD, and containers.
+    - Focus in reliability, scalability, and operational
+      excellence.
+    - Automation experience, reducing repetitive operational
+      tasks.
+  
+  Growth Mindset:
+    - Willingness to learn new tools and technologies, including
+      AI-enabled platforms.
+    - Openness to feedback and continuous improvement.
+    - Ability to communicate clearly and ask good technical
+      questions.
+  
+  
+  
+  Skills and experience we’re looking for:
+  
+  
+  
+   Must-haves
+  - 2-4+ years of experience in DevOps, Cloud, SRE, or
+    Infrastructure Engineering.
+  - Experience with at least one cloud provider (Azure, AWS, or
+    GCP )
+  - Hands-on exposure to:
+  - Scripting experience (Bash, Python, or similar)
+  - Infrastructure as Code (Terraform, IaC 2.0, or similar)
+  - CI/CD pipelines
+  - Containers (Docker) and Kubernetes concepts
+  - Monitoring, logging, and alerting tools.
+  
+  
+  
+   Nice-to-haves
+  - 2+ years in healthcare technology or other highly regulated
+    SaaS environments (financial services, government)
+  - Familiarity with AI-driven monitoring or AIOps tools.
+  - Experience using AI-assisted development or operations
+    tools.
+  - Understanding of cloud networking and security fundamentals.
+  - Experience supporting on-call.
+   Education
+  - Bachelor's degree in Computer Science, Computer Engineering,
+    or related technical field
+  - Advanced certifications (AWS/GCP/Azure professional-level,
+    CKA, CKS, CISSP) are highly valued
+  - Demonstrated commitment to continuous learning
+  
+  
+  
+  How we work: We're transparent—working in the open as one
+  team using OKRs, cross-functional retrospectives, and public
+  roadmaps. We confront problems courageously with blameless
+  root cause analyses, not blame. We're data-driven, using
+  metrics and APM to make evidence-based decisions. We learn
+  continuously from our mistakes through retrospectives and
+  RCAs. We're accountable for outcomes, not just activities,
+  aligning our work to customer and business results. We
+  experiment with strong opinions, loosely held, testing
+  concepts and feasibility before committing. We think big,
+  act small, and move fast—using Scrum, delivery plans, and
+  frequent milestones. We're inclusive, creating space to
+  listen and learn, growing an Ally Community to support
+  equity and career growth.
+  
+  
+  
+  #LI-AJ1
+  
+  #LI-Remote
+  
+  PointClickCare Benefits & Perks:
+  
+  Benefits starting from Day 1!
+  
+  Retirement Plan Matching
+  
+  Flexible Paid Time Off
+  
+  Wellness Support Programs and Resources
+  
+  Parental & Caregiver Leaves
+  
+  Fertility & Adoption Support
+  
+  Continuous Development Support Program
+  
+  Employee Assistance Program
+  
+  Allyship and Inclusion Communities
+  
+  Employee Recognition … and more!
+  
+  It is the policy of PointClickCare to ensure equal
+  employment opportunity without discrimination or harassment
+  on the basis of race, religion, national origin, status,
+  age, sex, sexual orientation, gender identity or expression,
+  marital or domestic/civil partnership status, disability,
+  veteran status, genetic information, or any other basis
+  protected by law. PointClickCare welcomes and encourages
+  applications from people with disabilities. Accommodations
+  are available upon request for candidates taking part in all
+  aspects of the selection process. Please contact
+  recruitment@pointclickcare.com should you require any
+  accommodations. As part of our commitment to a streamlined
+  and equitable hiring experience, PointClickCare uses AI
+  tools to assist with candidate screening and assessment.
+  
+  When you apply for a position, your information is processed
+  and stored with Lever, in accordance with Lever’s Privacy
+  Policy. We use this information to evaluate your candidacy
+  for the posted position. We also store this information, and
+  may use it in relation to future positions to which you
+  apply, or which we believe may be relevant to you given your
+  background. When we have no ongoing legitimate business need
+  to process your information, we will either delete or
+  anonymize it.  If you have any questions about how
+  PointClickCare uses or processes your information, or if you
+  would like to ask to access, correct, or delete your
+  information, please contact PointClickCare’s human resources
+  team: recruitment@pointclickcare.com
+  
+  PointClickCare is committed to Information Security. By
+  applying to this position, if hired, you commit to following
+  our information security policies and procedures and making
+  every effort to secure confidential and/or sensitive
+  information.
+industries:
+  - Healthtech
+  - Software
+posted_date: 2026-04-06
+url: "https://www.builtinla.com/job/intermediate-ai-enabled-devops-engineer/8935311"
+source: Built In

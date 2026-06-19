@@ -1,0 +1,47 @@
+company:
+  name: 3Pillar Global
+  stage: null
+  focus: |-
+    Product development partner building software products for
+    SaaS, media, and retail industries
+position:
+  title: Lead AI ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience building and
+      deploying AI/ML models, including LLMs, Agentic AI, RAG
+      systems, and MCP-based architectures. The position involves
+      direct work on model training, fine-tuning, and building
+      GenAI applications from concept to production.
+  responsibilities:
+  - Build and deploy AI/ML models including ML, NLP, and deep learning solutions
+  - Lead teams developing GenAI, LLM, Agentic AI, and MCP-driven applications
+  - Design and implement RAG systems and vector embedding architectures
+  - Perform data preparation, feature engineering, model training, and tuning
+  - Build reusable AI frameworks, platforms, and internal tooling
+  - Implement model monitoring and performance tracking systems
+  - Collaborate with stakeholders to deliver ML solutions from concept to production
+  use_cases:
+  - NLP applications and text processing
+  - Computer vision systems
+  - Large Language Model applications with fine-tuning and API integration
+  - Agentic AI and autonomous agent systems
+  - MCP-based architectures
+  - Retrieval Augmented Generation (RAG) systems
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, LLMs, Agentic AI, MCP, Vector embeddings]
+    ml: [PyTorch, TensorFlow, Scikit-learn, Hugging Face]
+    web: []
+    databases: [Vector stores, FAISS, Pinecone]
+    data: [Pandas, Spark]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLflow, GitHub Actions, CI/CD]
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7596003'
+  extracted_at: '2026-03-03T12:07:26.670648'

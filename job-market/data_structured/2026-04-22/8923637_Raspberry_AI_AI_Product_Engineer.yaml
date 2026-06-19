@@ -1,0 +1,52 @@
+company:
+  name: Raspberry AI
+  stage: Series A
+  focus: AI design software for fashion brands and retailers
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building AI agent systems — designing
+      agent architectures, building orchestration layers for
+      multi-step AI workflows, and implementing tool-use/function
+      calling patterns. The engineer is hands-on with LLMs, agent
+      frameworks (LangGraph, Anthropic Agent SDK), and generative
+      AI capabilities, making this clearly an ai-first role.
+  responsibilities:
+  - Build AI agents that trigger generations, chain outputs across creative AI tools,
+    and orchestrate multi-step workflows within Raspberry's design platform
+  - Design the orchestration and tool abstraction layer that exposes creative AI tools
+    as agent-callable actions
+  - Architect end-to-end agentic workflows for batch design operations such as sketch
+    to render to colorway to on-body to tech flat
+  - Build conversation, review, and approval interfaces that keep designers in control
+    of agent-driven outputs
+  - Evaluate and integrate agent frameworks and LLM capabilities to determine the
+    best approaches for the domain
+  - Collaborate with ML engineers, product, and design to shape the roadmap for AI-powered
+    creative workflows
+  use_cases:
+  - Autonomous AI agents for fashion design creation and orchestration
+  - Multi-step creative AI workflows chaining image generation, editing, and rendering
+  - Generative AI for fashion design including virtual try-on, sketch rendering, and
+    colorway generation
+  - Collaborative design canvas with AI-driven batch design operations
+  - Conversational interfaces for designer control over AI-generated outputs
+  skills:
+    genai: [LangGraph, Anthropic Agent SDK, CrewAI, LLM orchestration, Prompt engineering,
+      Function calling/tool use, AI agents, Multimodal models]
+    ml: []
+    web: [React, Next.js, FastAPI]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: [Computer vision, Image generation, Diffusion models]
+    other: [CRDTs, WebSockets]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8923637'
+  extracted_at: '2026-04-22T12:32:57.055713'

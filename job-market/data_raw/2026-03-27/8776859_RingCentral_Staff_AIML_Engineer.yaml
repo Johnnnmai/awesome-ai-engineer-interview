@@ -1,0 +1,97 @@
+job_id: 8776859
+title: Staff AI/ML Engineer
+company: RingCentral
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Faiss
+  - Gemini Api
+  - Hugging Face Transformers
+  - Onnx
+  - Openai Api
+  - Pgvector
+  - Python
+  - PyTorch
+  - Qdrant
+  - Sentence Transformers
+company_size: 7,000 Employees
+description: |
+  We are seeking an experienced AI Engineer with a strong
+  background in Natural Language Understanding (NLU) who is
+  passionate about pushing the boundaries of Conversational
+  AI. In this role, you will design, develop, and deploy
+  scalable AI solutions leveraging LLMs, Retrieval-Augmented
+  Generation (RAG), and prompt engineering techniques to power
+  intelligent products and services.
+  
+  As part of our ML/AI team, you’ll own the full lifecycle of
+  model development — from data preparation and fine-tuning to
+  inference optimization and deployment in production
+  environments.
+  
+  Responsibilities:
+  
+  - Design, fine-tune, and deploy LLM-based applications for
+    Conversational AI use cases
+  - Build scalable retrieval-augmented generation (RAG)
+    pipelines that combine LLMs with structured/unstructured
+    data sources
+  - Develop prompt engineering strategies, templates, and
+    evaluation frameworks for LLM-driven workflows
+  - Collaborate with cross-functional teams to identify and
+    implement AI-driven solutions to business problems
+  - Optimize models for low-latency inference using
+    quantization, distillation, and other model optimization
+    techniques (e.g., ONNX, TensorRT)
+  - Build robust data processing, labeling, and augmentation
+    pipelines to improve model performance
+  - Implement monitoring and evaluation systems for deployed
+    LLMs, ensuring reliability, fairness, and safety
+  - Stay current with emerging trends in LLMs, retrieval
+    systems, and generative AI frameworks
+  
+  Requirements:
+  
+  - 8+ years of hands-on experience in NLU
+  - Strong proficiency in Python and PyTorch and related
+    frameworks (like Hugging Face Transformers, Sentence
+    Transformers etc.)
+  - Proven experience developing and deploying NLP or LLM
+    pipelines in production environments at scale
+  - Solid understanding of transformer architectures and
+    attention mechanisms
+  - Proficiency in using LLM provider APIs such as OpenAI,
+    Gemini etc.including prompt design, fine-tuning, and
+    evaluation
+  - Experience with model optimization techniques such as
+    quantization, pruning, ONNX, TensorRT, or model
+    distillation
+  - Bachelor’s or Master’s degree in Computer Science,
+    Artificial Intelligence, or a related field
+  
+  Nice to Have:
+  
+  - Hands-on experience with RAG and vector databases (e.g.,
+    FAISS, Qdrant, pgVector etc. )
+  - Prior work on LLM fine-tuning, alignment, or evaluation
+  - Experience with LLM orchestration frameworks such as
+    LlamaIndex or similar tools
+  - Familiarity with multi-provider LLM orchestration,
+    integrating APIs from OpenAI, Gemini etc. and others for
+    fallbacks, routing, or ensemble strategies
+  - Knowledge of MLOps for LLMs, including model serving and
+    monitoring
+  - Understanding of embedding models, context management, and
+    token optimization for scalable LLM applications
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Events
+  - Productivity
+  - Software
+  - Business Intelligence
+  - Conversational AI
+posted_date: 2026-03-17
+url: "https://builtin.com/job/staff-ai-ml-engineer/8776859"
+source: Built In

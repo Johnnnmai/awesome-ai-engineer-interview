@@ -1,0 +1,53 @@
+company:
+  name: BNY
+  stage: Public
+  focus: Global financial services and investment management
+position:
+  title: Director, Product Manager, Developer Experience, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a product management role focused on developer
+      experience and AI tools, not on building or deploying AI
+      systems directly. The PM works with engineering teams to
+      define strategy for AI-powered developer tools, but doesn't
+      implement models, fine-tune LLMs, or work hands-on with
+      AI/ML systems. This is an enabling/planning role that
+      supports AI adoption rather than hands-on AI development.
+  responsibilities:
+  - Define the vision and develop the long-term product strategy and roadmap for BNY's
+    developer-facing AI capabilities, including generative AI-powered tools
+  - Lead cross-functional collaboration with Engineering, DevEx teams, and BNY's AI
+    Hub to build impactful solutions for the developer community
+  - Drive product discovery efforts to deeply understand developer pain points and
+    identify automation and augmentation opportunities
+  - Own the strategy behind both internally developed AI capabilities and vendor AI
+    tools that augment the developer experience
+  - Evangelize the vision and secure buy-in from senior technology and business stakeholders
+    across the organization
+  - Define success metrics and partner with analytics teams to measure adoption, performance,
+    business impact, and customer sentiment
+  - Stay current on trends in Generative AI, Developer Experience, and MLOps, incorporating
+    emerging capabilities into the product roadmap
+  use_cases:
+  - Generative AI-powered developer tools to transform software engineering practices
+  - Internal developer productivity and experience enhancement
+  - Automation and augmentation of developer workflows
+  - AI-powered internal platforms for enterprise software development
+  skills:
+    genai: [Large Language Models (LLMs), Prompt Engineering, GenAI-powered developer
+        tools]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLOps, CI/CD pipelines, Secure SDLC]
+    languages: []
+    domains: []
+    other: [DevEx measurement strategies, SPACE-like survey design, DORA metrics]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8750877'
+  extracted_at: '2026-03-27T14:48:50.087169'

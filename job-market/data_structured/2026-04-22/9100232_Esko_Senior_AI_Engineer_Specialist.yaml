@@ -1,0 +1,56 @@
+company:
+  name: Esko
+  stage: Public
+  focus: |-
+    Integrated software and hardware for packaging design and
+    print processes
+position:
+  title: Senior AI Engineer Specialist
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely ai-first: it involves hands-on design,
+      development, and deployment of LLM-based systems, RAG
+      architectures, agentic AI, full-parameter fine-tuning with
+      alignment techniques (DPO/PPO/KTO), inference engineering
+      (vLLM, TensorRT-LLM), and building LLMOps platforms for
+      model lifecycle management — all core AI/ML model work.
+  responsibilities:
+  - Design scalable, resilient AI architectures supporting multi-tenant global packaging
+    solutions, including agentic reasoning and distributed memory systems
+  - Lead development of internal LLMOps platforms for model lifecycle management including
+    automated retraining loops, deployment strategies, and cost-attribution systems
+  - Conduct advanced R&D feasibility studies on emerging technologies like State Space
+    Models, small language model distillation, and custom embedding architectures
+  - Establish organization-wide standards for Model Governance, Red-Teaming, and evaluation
+    frameworks measuring accuracy ROI
+  - Provide technical mentorship to Senior AI Engineers through code reviews and fostering
+    a culture of rigorous scientific experimentation
+  - Partner with executive leadership and Product VPs to translate business vision
+    into a technical AI roadmap
+  use_cases:
+  - Intelligent packaging design and workflow automation using generative AI
+  - Scalable LLM-based enterprise products for the packaging industry
+  - Agentic AI architectures for packaging process optimization
+  - Vision-Language Model analysis of packaging graphics and 3D structural data
+  - Domain-specific model training and distillation for packaging design utility
+  - Edge deployment of distilled AI models for client-side environments
+  skills:
+    genai: [LLMs, RAG, Agentic AI, Full-Parameter Fine-Tuning, DPO, PPO, KTO, Synthetic
+        Data Generation, Prompt Engineering]
+    ml: [State Space Models, Model Distillation, Custom Embedding Architectures, Vision-Language
+        Models]
+    web: []
+    databases: [Vector Retrieval]
+    data: [Ray, Spark]
+    cloud: []
+    ops: [vLLM, TensorRT-LLM, NVIDIA Triton, TGI (Text Generation Inference), Kubernetes,
+      Canary/Blue-Green Deployment, Model Governance, Red-Teaming, Edge Deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '9100232'
+  extracted_at: '2026-04-22T12:27:10.344586'

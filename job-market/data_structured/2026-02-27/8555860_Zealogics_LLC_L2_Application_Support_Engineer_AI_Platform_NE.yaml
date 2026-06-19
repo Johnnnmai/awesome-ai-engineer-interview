@@ -1,0 +1,45 @@
+company:
+  name: Zealogics LLC
+  stage: null
+  focus: AI/GenAI platform services
+position:
+  title: L2 Application Support Engineer – AI Platform (.NET & Azure)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an L2 application support role focused on
+      troubleshooting and maintaining an AI platform, not building
+      or deploying AI models. The role supports infrastructure,
+      APIs, and platform stability - enabling AI teams rather than
+      working directly on AI/ML systems.
+  responsibilities:
+  - Handle L2 production incidents and service requests
+  - Troubleshoot .NET Core / REST API-based applications
+  - Support AI/LLM integrations and model endpoint connectivity
+  - Diagnose API failures, authentication issues, and timeout/latency problems
+  - Manage API keys, IP whitelisting, and access provisioning
+  - Monitor applications using Azure Application Insights / Log Analytics
+  - Support Dev/QA/Prod environments and release validation
+  - Coordinate with L3, AI, and DevOps teams for escalations
+  use_cases:
+  - Enterprise AI/GenAI platform support
+  - API and authentication troubleshooting
+  - Model endpoint connectivity
+  - Production incident management
+  skills:
+    genai: [LLM integrations]
+    ml: []
+    web: [.NET Core, ASP.NET Core, REST APIs, Microservices]
+    databases: [SQL]
+    data: []
+    cloud: [Azure App Services, Azure Container Apps, Azure Kubernetes Service (AKS),
+      Azure AD, SSO]
+    ops: [Azure Application Insights, Azure Log Analytics, ITIL]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8555860'
+  extracted_at: '2026-03-03T11:31:02.913254'

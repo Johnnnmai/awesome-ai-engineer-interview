@@ -1,0 +1,54 @@
+company:
+  name: Merciv
+  stage: Seed
+  focus: |-
+    AI and data analytics platform for strategic business
+    intelligence and autonomous decision-making in retail
+position:
+  title: Senior ML/AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying ML models
+      and agentic AI systems, including developing agentic
+      architectures, RAG systems, and LLM integrations. The
+      engineer will work hands-on with model training, deployment,
+      and production-grade AI systems.
+  responsibilities:
+  - Design, build, and deploy ML models for demand forecasting, time series prediction,
+    consumer sentiment analysis, and anomaly detection at enterprise scale
+  - Develop and iterate on Merciv's agentic AI architecture, building systems that
+    reason across heterogeneous data sources and take autonomous action
+  - Build and maintain robust ML pipelines including data preprocessing, feature engineering,
+    model training, evaluation, and production deployment
+  - Architect RAG systems and LLM integrations that power Merciv's natural language
+    interfaces and autonomous workflows
+  - Collaborate with backend engineers to ensure models are production-grade with
+    optimization for latency, reliability, and scale
+  - Own model performance end-to-end including monitoring, retraining, and continuous
+    improvement in production
+  - Stay at the frontier of AI research and bring relevant innovations into the platform
+  use_cases:
+  - Demand forecasting and time series prediction for large retailers
+  - Consumer sentiment analysis and competitive intelligence
+  - Anomaly detection across enterprise data landscapes
+  - Autonomous decision-making and workflow automation
+  - Natural language interfaces for enterprise data querying
+  - Strategic intelligence and business insights generation
+  skills:
+    genai: [RAG architectures, LLMs, Agentic AI systems, Multi-agent orchestration]
+    ml: [PyTorch, TensorFlow, scikit-learn, NLP, Time series forecasting, Statistical
+        analysis, Predictive modeling, Graph neural networks]
+    web: []
+    databases: []
+    data: [Knowledge graphs]
+    cloud: [Distributed computing]
+    ops: [MLOps platforms, Model serving infrastructure, ML pipelines]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8638955'
+  extracted_at: '2026-03-27T15:29:50.158875'

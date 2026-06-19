@@ -1,0 +1,55 @@
+company:
+  name: Perficient
+  stage: Public
+  focus: |-
+    Global AI-first consultancy delivering enterprise AI
+    solutions and digital transformation
+position:
+  title: Hands-on Lead AI Workflow and Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves implementing AI assistants/copilots,
+      designing AI-discoverable systems with metadata/knowledge
+      layers, and applying prompt engineering and LLM
+      integrations. While focused on workflows and orchestration
+      rather than model training, it requires hands-on
+      implementation of AI-powered systems and building AI-ready
+      capabilities.
+  responsibilities:
+  - Design and implement reusable AI-enabled workflows across APIs, BPM, UIs, and
+    automation pipelines
+  - Drive AI-first adoption culture and embed AI thinking into solution design from
+    the outset
+  - Build AI-ready maintenance and operational capabilities consumable by chatbots
+    and copilots
+  - Enable AI discoverability through structured business role exposure and metadata/knowledge
+    layers
+  - Create roadmap for scaling AI adoption from automation to autonomous workflows
+  - Provide architectural guidance and governance for AI workflow development across
+    teams
+  - Collaborate with solution architects and developers to translate designs into
+    functional requirements
+  use_cases:
+  - Enterprise workflow automation with AI orchestration
+  - AI-powered business process management
+  - Chatbot and copilot integration for enterprise operations
+  - AI-discoverable business capabilities and knowledge systems
+  - Predictive analytics and intelligent automation
+  skills:
+    genai: [Prompt Engineering, LLM Integrations, AI Assistants/Copilots, Knowledge
+        Graphs]
+    ml: []
+    web: [Angular, API Development]
+    databases: []
+    data: []
+    cloud: [AWS, Cloud-Native Services]
+    ops: [Workflow Orchestration, Automation Frameworks, DevSecOps]
+    languages: [.NET, SQL]
+    domains: []
+    other: [Business Process Management (BPM), Low/No-Code Platforms, Agile Methodologies]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8781221'
+  extracted_at: '2026-03-27T14:12:25.109088'

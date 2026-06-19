@@ -1,0 +1,124 @@
+job_id: 8938220
+title: Software Engineer, Applied AI
+company: Auctor
+location: New York, USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Agent Systems
+  - AI
+  - Llms
+  - Python
+company_size: 21 Employees
+description: |
+  Why Auctor
+  
+  Auctor is building the AI layer for professional services
+  and software implementation. Think of us as the brain behind
+  the best solution engineers, forward-deployed engineers, and
+  onboarding teams—automating the documentation, the
+  discovery, and the decision-making that powers $400B+ in
+  services work. We're going after one of the biggest software
+  categories of the decade.
+  
+  Role Overview
+  
+  As a Software Engineer, Applied AI at Auctor, you will
+  design, build, and improve the core systems behind our
+  agents in production.
+  
+  This role sits at the boundary of engineering and empirical
+  research. You will work across retrieval, document
+  understanding, tool use, context management, prompting, and
+  orchestration. Some weeks you will be shipping new
+  capabilities. Some weeks you will be mining production
+  traces, designing evals, and figuring out which part of the
+  system is actually failing.
+  
+  We are not looking for someone to glue an API onto a product
+  and call it AI. We are looking for someone who wants to
+  build real agent systems, understand how they behave in the
+  wild, and use that understanding to make bold product and
+  architecture decisions.
+  
+  This role is based in New York, NY, in person 5 days per
+  week.
+  
+  What You'll Do
+  
+  - Build and improve the core systems behind our agents across
+    retrieval, tool use, document understanding, memory, and
+    orchestration
+  - Design evals and experiments that help us understand agent
+    quality in production
+  - Turn traces, failures, and user behavior into concrete
+    product and architecture decisions
+  - Work closely with operations, GTM, and deployed teams to
+    understand real workflows and where agents break down
+  - Evaluate models, prompts, and system designs across real
+    enterprise tasks
+  - Own the loop from idea -> implementation -> measurement ->
+    iteration
+  
+  What We're Looking For
+  
+  - Strong engineering fundamentals and the ability to ship
+    production systems
+  - Fluency in Python
+  - Experience building or working on LLM-powered products,
+    agent systems, or adjacent applied AI systems
+  - An empirical mindset — you reach for logs, traces,
+    experiments, and real usage before guessing
+  - Strong systems taste — you understand that retrieval,
+    prompting, memory, tools, and UX interact
+  - High ownership and comfort working in ambiguity
+  - Strong opinions about what makes agent systems actually work
+  
+  Strong Candidates May Also Have
+  
+  - Experience with retrieval, search, or ranking systems
+  - Experience designing evals, benchmarks, or feedback loops
+    for LLM systems
+  - Experience building internal tools, workflow products, or
+    operator-facing systems
+  - Experience in startups or other high-ownership environments
+  
+  Example Projects
+  
+  This is a new field. We care much more about what you have
+  built than whether your background fits a standard template.
+  
+  Projects that would make us excited include:
+  
+  - Designing and shipping an agent harness that materially
+    improved performance on a real task
+  - Building an eval or benchmark that changed what your team
+    decided to build next
+  - Designing tool interfaces, memory systems, or retrieval
+    systems for an LLM-powered product
+  - Building a production workflow around language models that
+    users actually depended on
+  - Running a careful experiment on prompting, model routing, or
+    orchestration and using it to drive a product decision
+  
+  If you apply, we would love to see one thing you built with
+  LLMs or agents. It does not need to be perfect or flashy. We
+  mostly want to understand how you think, what you owned,
+  what you learned, and what tradeoffs you made.
+  
+  Compensation
+  
+  $175,000-$290,000 base salary, plus equity.
+  
+  Benefits
+  
+  - Early-stage equity
+  - Competitive, top-of-market salary
+  - Catered lunch and dinners
+industries:
+  - Information Technology
+  - Professional Services
+  - Software
+posted_date: 2026-04-02
+url: "https://builtin.com/job/software-engineer-applied-ai/8938220"
+source: Built In

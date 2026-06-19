@@ -1,0 +1,52 @@
+company:
+  name: HASH
+  stage: Growth / Scaling (backed by notable founders, post-acquisitions)
+  focus: |-
+    Building open-source knowledge graph infrastructure and
+    foundation models for simulation and decision-making
+position:
+  title: AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on building and advancing AI
+      systems: developing novel model architectures, post-training
+      foundation models, and conducting original AI research. The
+      description explicitly states "This is not a role focused
+      only on applying existing models" and involves hands-on work
+      on model training, fine-tuning, and architecture design.
+  responsibilities:
+  - Research and develop novel model architectures for reasoning, representation learning,
+    and world modeling
+  - Post-train and adapt open-source foundation models for high-performance real-world
+    use cases
+  - Design, run, and analyze experiments across training, evaluation, and scaling
+  - Work across data, systems, and product to turn research into deployed capability
+  - Contribute to research direction, technical strategy, and long-term model roadmap
+  - Help define the culture and standards of a high-talent, research-driven founding
+    team
+  use_cases:
+  - Deterministic simulation via novel model architectures
+  - World modeling for decision support
+  - Knowledge graph-based process simulation, optimization, and automation
+  - Reasoning and representation learning
+  - Post-training open-source models for real-world enterprise applications
+  skills:
+    genai: []
+    ml: [PyTorch, Transformer architectures, Diffusion models, Foundation model training,
+      Preference optimization, Fine-tuning, Synthetic data generation, Model distillation,
+      Continual learning, Alignment, Inference optimization, Multimodal learning,
+      Sequence modeling, Model evaluation, Scaling large models, Generative modeling]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8889975'
+  extracted_at: '2026-04-22T12:40:01.705452'

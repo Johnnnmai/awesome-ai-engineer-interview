@@ -1,0 +1,53 @@
+company:
+  name: APTIV
+  stage: Public
+  focus: |-
+    Mission-critical embedded software for automotive,
+    aerospace, and defense intelligent systems
+position:
+  title: Senior Engineer – Cloud Native Platforms - Python, K8s, OpenStack, Edge AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building cloud-native infrastructure
+      platforms (Kubernetes, OpenStack, StarlingX) for edge
+      computing. While the job title mentions "Edge AI," the
+      actual responsibilities involve container orchestration,
+      fault management, configuration management, and high-
+      availability systems — not building, training, or deploying
+      AI/ML models. The role supports AI workloads at the edge by
+      providing the underlying platform infrastructure.
+  responsibilities:
+  - Develop high-performance cloud and container technologies for edge computing platforms
+  - Contribute to open source projects including Kubernetes, Helm, OpenStack, and
+    StarlingX
+  - Build containerization, virtualization, and fault-tolerant carrier-grade solutions
+  - Develop highly available solutions across multiple Linux hosts
+  - Implement configuration management and process monitoring/recovery solutions for
+    Linux services
+  - Develop backup and retrieval solutions for configuration and state information
+    restoration
+  - Investigate and resolve issues during product verification and customer integration
+  - Develop automated tests to enable faster design and test cycles
+  use_cases:
+  - Edge computing infrastructure for 5G networks
+  - Carrier-grade high availability for distributed edge systems
+  - Cloud-native platform for mission-critical intelligent systems in automotive,
+    aerospace, and defense
+  - Fault-tolerant Kubernetes application platforms for real-time edge workloads
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [OpenStack, StarlingX]
+    ops: [Kubernetes, Docker, Helm, Ansible, Puppet, Linux, Kubernetes Operators]
+    languages: [Python, Go, C/C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8986753'
+  extracted_at: '2026-04-22T14:20:36.375339'

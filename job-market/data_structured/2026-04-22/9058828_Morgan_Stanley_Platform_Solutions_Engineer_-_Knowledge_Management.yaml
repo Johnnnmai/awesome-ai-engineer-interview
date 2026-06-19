@@ -1,0 +1,58 @@
+company:
+  name: Morgan Stanley
+  stage: Public
+  focus: Global financial services and investment banking
+position:
+  title: Platform Solutions Engineer - Knowledge Management & AI Integration
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly enabling and operationalizing
+      GenAI capabilities including ROVO agents, Confluence MCP,
+      Stack Overflow MCP, and integrating these with internal
+      GenAI ecosystems. The engineer is hands-on with AI agent
+      deployment, MCP endpoint integration, and making knowledge
+      platforms AI-ready, which constitutes building and deploying
+      AI solutions.
+  responsibilities:
+  - Act as primary Confluence platform owner for North America, transforming user
+    needs into platform improvements including workflows, templates, permissions,
+    and taxonomy
+  - Coordinate with Atlassian and Stack Overflow vendors to manage platform changes
+    across roadmap, releases, validation, and deployment
+  - Drive adoption of ROVO agents for knowledge workflows and integrate MCP endpoints
+    with internal GenAI systems
+  - Ensure secure, auditable GenAI features through collaboration with engineering
+    and governance teams
+  - Enhance AI-readiness of platform content through metadata enrichment, organization,
+    and content quality improvements
+  - Run content hygiene programs to manage stale content, duplicates, and broken links
+    while enforcing governance standards
+  - Provide L2/L3 operational support for Confluence and knowledge tools including
+    incident response and root cause analysis
+  - Build automation and self-service tooling for platform reliability and develop
+    documentation and onboarding guides
+  use_cases:
+  - Enterprise knowledge discovery and management powered by GenAI
+  - AI-assisted retrieval and summarization of organizational knowledge
+  - Semantic search and metadata enrichment across knowledge platforms
+  - GenAI agent orchestration for knowledge workflows via MCP
+  - Content governance and compliance for AI-ready enterprise knowledge
+  skills:
+    genai: [ROVO agents, Model Context Protocol (MCP), GenAI integration, Semantic
+        search]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [LDAP/Active Directory]
+    languages: [Python]
+    domains: []
+    other: [Confluence, Stack Overflow for Enterprise, Jira, Agile delivery, Platform
+        governance, Content lifecycle automation, Atlassian platform administration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9058828'
+  extracted_at: '2026-04-22T13:46:56.665517'

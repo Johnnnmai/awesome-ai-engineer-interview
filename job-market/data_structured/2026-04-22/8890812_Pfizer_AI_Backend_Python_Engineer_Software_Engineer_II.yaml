@@ -1,0 +1,51 @@
+company:
+  name: Pfizer
+  stage: Public
+  focus: Global pharmaceutical and biotechnology corporation
+position:
+  title: AI Backend Python Engineer (Software Engineer II) - Evergreen REQ
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly implementing LLM integrations,
+      building generative AI pipelines, and developing APIs for
+      model serving and inference using frameworks like LangChain,
+      Langfuse, and litellm. The engineer is hands-on with AI/LLM
+      systems, making this an ai-first role.
+  responsibilities:
+  - Implement Python-based backend services (on FastAPI) for AI workloads, including
+    LLM integration and generative AI pipelines
+  - Develop APIs and microservices for model serving and inference with guidance from
+    senior team members
+  - Build and maintain AWS-based infrastructure components for AI workloads (e.g.,
+    Lambda, EKS)
+  - Integrate LLMs and generative AI models into production systems using frameworks
+    like LangChain, Langfuse, and litellm
+  - Implement monitoring, logging, and observability features for assigned backend
+    services
+  - Write clean, well-tested, and maintainable code following established patterns
+    and best practices
+  - Participate in code reviews and contribute to team knowledge sharing
+  - Debug and resolve production issues with support from senior engineers
+  use_cases:
+  - LLM integration and generative AI pipelines for pharmaceutical applications
+  - Model serving and inference APIs for production AI workloads
+  - Scalable backend services powering generative AI applications
+  - AWS-hosted AI infrastructure for enterprise workloads
+  - LLM observability and monitoring for production systems
+  skills:
+    genai: [LangChain, Langfuse, litellm, LLM integration, Generative AI pipelines]
+    ml: []
+    web: [FastAPI, RESTful API design, Microservices architecture]
+    databases: [SQL, NoSQL]
+    data: []
+    cloud: [AWS Lambda, AWS EKS, AWS API Gateway, AWS]
+    ops: [Docker, Git, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8890812'
+  extracted_at: '2026-04-22T13:40:11.523617'

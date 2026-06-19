@@ -1,0 +1,53 @@
+company:
+  name: dentsu
+  stage: Public
+  focus: |-
+    Global advertising and digital marketing services
+    conglomerate
+position:
+  title: AI Lead Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing and delivering
+      scalable AI/GenAI systems, combining ML models, LLMs,
+      retrieval, orchestration, and data pipelines. The engineer
+      makes architectural decisions about model selection,
+      retrieval strategies, and drives solutions from POC to
+      production — clearly hands-on work building and deploying AI
+      systems.
+  responsibilities:
+  - Design and deliver scalable AI and GenAI systems combining ML models, LLMs, retrieval,
+    orchestration, and data pipelines
+  - Lead solution design for complex, ambiguous problems where requirements and success
+    criteria evolve
+  - Make architectural trade-offs across model selection, retrieval strategies, cost,
+    latency, and scalability
+  - Drive solutions from proof-of-concept to production-grade systems used across
+    multiple teams
+  - Act as a technical anchor for high-impact AI initiatives, guiding implementation
+    without formal people management
+  - Ensure robustness, observability, and optimization of AI systems in real-world
+    environments
+  use_cases:
+  - Scalable GenAI systems for enterprise marketing operations
+  - LLM-based retrieval and orchestration pipelines
+  - Production-grade AI solutions deployed across multiple teams
+  - AI-powered decision support for ambiguous business problems
+  skills:
+    genai: [LLM integration and orchestration, RAG (Retrieval-Augmented Generation),
+      Prompt engineering]
+    ml: [ML model selection and deployment, PyTorch]
+    web: [REST APIs]
+    databases: [Vector databases, Postgres]
+    data: [Data pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [System observability and monitoring, Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Solution architecture, Technical leadership]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9066928'
+  extracted_at: '2026-04-22T12:51:39.619697'

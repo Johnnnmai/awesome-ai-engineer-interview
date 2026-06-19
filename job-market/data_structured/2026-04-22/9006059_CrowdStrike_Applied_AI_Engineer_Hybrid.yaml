@@ -1,0 +1,58 @@
+company:
+  name: CrowdStrike
+  stage: Public
+  focus: AI-native cybersecurity platform protecting against breaches
+position:
+  title: Applied AI Engineer (Hybrid)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is squarely focused on building, deploying, and
+      evaluating LLM-powered production systems including
+      copilots, RAG pipelines, automated decision engines, and
+      migration frameworks. The engineer works directly with LLMs,
+      orchestration frameworks, retrieval pipelines, and
+      evaluation harnesses — core AI system building work.
+  responsibilities:
+  - Build and ship LLM-powered systems that reduce toil, accelerate remediation, and
+    improve decision-making in operations contexts
+  - Design and maintain evaluation frameworks including hallucination tests, regression
+    harnesses, benchmarks, and quality gates for safe rollout
+  - Develop retrieval-augmented pipelines (RAG) and data strategies for grounding
+    on logs, telemetry, runbooks, and system metadata
+  - Engineer AI copilots and natural-language interfaces to interact with operational
+    data and workflows
+  - Create frameworks for large-scale automation such as safe code migration and transformation
+    pipelines
+  - Apply adaptive AI techniques to optimize system configurations, predict anomalies,
+    and recommend preventive actions
+  - Implement guardrails and safety systems including prompt injection defenses, PII
+    filtering, constrained decoding, and model observability
+  - Build developer-facing SDKs and APIs in Python/Go and intuitive UIs in JavaScript/React
+    for human-in-the-loop workflows
+  use_cases:
+  - AI copilots that triage incidents and accelerate remediation for operations teams
+  - Automated multi-repo code migration and transformation pipelines
+  - Adaptive configuration recommendation and anomaly prediction for infrastructure
+    systems
+  - Natural-language interfaces for querying operational data and workflows
+  - Evaluation and safety systems to keep LLM outputs trustworthy and grounded
+  - Large-scale automation frameworks for engineering organizations
+  skills:
+    genai: [LangChain, LangGraph, MCP, RAG, Prompt Engineering, LoRA, QLoRA, Agent
+        Frameworks, Semantic Routers, Constrained Decoding, LLM Evaluation, Embeddings,
+      Re-ranking]
+    ml: [Reinforcement Learning]
+    web: [React, FastAPI, REST APIs]
+    databases: [Postgres, Vector Databases]
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, Inference Optimization, Model Observability]
+    languages: [Python, Go, JavaScript]
+    domains: [Cybersecurity]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9006059'
+  extracted_at: '2026-04-22T13:56:08.721332'

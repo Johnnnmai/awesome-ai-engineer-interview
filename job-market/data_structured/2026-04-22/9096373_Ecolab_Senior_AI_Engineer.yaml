@@ -1,0 +1,59 @@
+company:
+  name: Ecolab
+  stage: Public
+  focus: |-
+    Water, hygiene, and infection prevention solutions for
+    enterprises
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, deploying, and
+      optimizing GenAI and agentic AI systems including LLM-
+      powered applications, RAG pipelines, and agentic workflows.
+      The engineer will hands-on implement solution components
+      using LLM orchestration frameworks, retrieval patterns, and
+      cloud-native AI delivery — clearly working ON AI systems
+      rather than just supporting them.
+  responsibilities:
+  - Design, develop, test, and deploy LLM-powered application components and AI-enabled
+    services for enterprise use cases
+  - Build and optimize RAG pipelines including document ingestion, chunking, embeddings,
+    retrieval strategies, and response grounding
+  - Implement agentic AI workflows using orchestration frameworks for task execution,
+    tool usage, and context handling
+  - Develop AI-enabled APIs and backend services using Python, FastAPI, Azure Functions,
+    and containerized services
+  - Integrate AI services with enterprise systems, APIs, workflow platforms, and downstream
+    applications
+  - Implement logging, tracing, monitoring, and operational controls using observability
+    platforms
+  - Contribute to reusable assets such as prompt patterns, orchestration templates,
+    and engineering accelerators
+  - Troubleshoot production issues, improve reliability, and support continuous improvement
+    of deployed AI capabilities
+  use_cases:
+  - Enterprise GenAI-powered product capabilities and intelligent applications
+  - Retrieval-augmented generation for document search and grounded response generation
+  - Agentic AI workflows for automated task execution and tool orchestration
+  - AI-enabled API and backend services integrated with enterprise workflows
+  - Enterprise system integration connecting AI services to business applications
+  skills:
+    genai: [LangChain, AutoGen, Semantic Kernel, RAG, Prompt Engineering, Agentic
+        AI workflows, MCP (Model Context Protocol), Azure OpenAI, OpenAI API]
+    ml: []
+    web: [FastAPI, REST APIs]
+    databases: [Azure AI Search, Pinecone, Weaviate, FAISS]
+    data: []
+    cloud: [Azure, AWS Bedrock, Google Vertex AI, Azure AI Studio, Azure Machine Learning]
+    ops: [Docker, CI/CD, OpenTelemetry, Datadog, Azure Monitor, Application Insights,
+      Azure DevOps, Azure Functions, Azure Container Apps]
+    languages: [Python, TypeScript, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9096373'
+  extracted_at: '2026-04-22T13:33:19.597554'

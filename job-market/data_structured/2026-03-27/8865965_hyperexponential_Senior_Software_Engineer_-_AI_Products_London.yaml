@@ -1,0 +1,45 @@
+company:
+  name: hyperexponential
+  stage: Series B/C (backed by a16z, Highland Europe, Battery Ventures with global
+    scaling)
+  focus: AI-powered insurance pricing and underwriting platform
+position:
+  title: Senior Software Engineer - AI Products, London
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting and scaling AI/ML systems,
+      designing and deploying LLM-driven workflows, and building
+      domain-specific ML pipelines. The position requires hands-on
+      work with models from development through production
+      deployment, including LLMs and retrieval-augmented use
+      cases.
+  responsibilities:
+  - Architect and scale advanced AI and ML systems powering next-generation products
+  - Lead design and deployment of LLM-driven workflows and domain-specific ML pipelines
+  - Drive foundational decisions across data, modelling, and production infrastructure
+  - Rapidly prototype novel ideas and evolve experiments into production-grade systems
+  - Advance AI strategy by shaping technical direction and embedding best practices
+  - Mentor engineers and foster a culture of ML craftsmanship and scientific rigor
+  use_cases:
+  - Insurance document ingestion and transformation into structured insights
+  - AI peer-programmer for actuaries and underwriters in custom IDE
+  - Risk modeling and billion-dollar pricing decisions
+  - Autonomous decision-making for rocket launches, autonomous vehicles, disaster
+    recovery
+  skills:
+    genai: [LLM-driven workflows, Retrieval-augmented generation (RAG), NLP]
+    ml: [ML pipelines, Model development and evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud-native distributed pipelines]
+    ops: [Production infrastructure]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8865965'
+  extracted_at: '2026-03-27T15:47:55.735614'

@@ -1,0 +1,142 @@
+job_id: 8791685
+title: Senior Staff Engineer, Generative AI
+company: Nagarro
+location: IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ai Foundry
+  - Airflow
+  - Azure Machine Learning Studio
+  - Ci/Cd
+  - Databricks
+  - Docker
+  - Fastapi
+  - Hugging Face Transformers
+  - Kafka
+  - Kubernetes
+company_size: 19,994 Employees
+description: |
+  Company Description
+  
+  👋🏼We're Nagarro.
+  
+  We are a Digital Product Engineering company that is scaling
+  in a big way! We build products, services, and experiences
+  that inspire, excite, and delight. We work at scale — across
+  all devices and digital mediums, and our people exist
+  everywhere in the world (17500+ experts across 39 countries,
+  to be exact). Our work culture is dynamic and non-
+  hierarchical. We're looking for great new colleagues. That's
+  where you come in!
+  
+  Job Description
+  
+  REQUIREMENTS:
+  
+  - Total experience 10+ years.
+  - Deep understanding of LLMs (e.g., GPTs, Llama, Claude,
+    Gemini, Qwen, Mistral, BERT-family models) and their
+    architectures (Transformers)
+  - Should have expert-level prompt engineering skills and
+    proven experience implementing RAG patterns
+  - High proficiency in Python and standard AI/ML libraries
+    (e.g., LangChain, LlamaIndex, LangGraph, LangSmith,
+    Hugging Face Transformers, Scikit-learn,
+    PyTorch/TensorFlow).
+  - Experience implementing RAG architectures and prompt
+    engineering.
+  - Strong experience with fine-tuning and distillation
+    techniques and evaluation.
+  - Strong experience using managed AI/ML services on the target
+    cloud platform (e.g., Azure Machine Learning Studio, AI
+    Foundry).
+  - Strong understanding of vector databases (e.g., Weaviate,
+    Neo4j)
+  - understanding of GenAI evaluation metrics (e.g., BLEU,
+    ROUGE, perplexity, semantic similarity, human evaluation).
+  - Architect and implement scalable GenAI and Agentic AI
+    solutions end-to-end.
+  - Should be able to write high-quality, production-ready
+    Python code with strong testing and maintainability
+    practices.
+  - Should be able to productionize AI systems on Azure or AWS,
+    ensuring enterprise-grade reliability and performance.
+  - Should be able to build and expose APIs using FastAPI,
+    integrating with databases through an ORM.
+  - Should be able to scale GenAI solutions to support
+    enterprise workloads.
+  - Collaborate across product and engineering teams to convert
+    business needs into AI-driven solutions.
+  - Strong ability to both architect and code GenAI/Agentic AI
+    solutions.
+  - Proven production experience with GenAI deployments on Azure
+    or AWS.
+  - Should be able to build & deploy AI pipelines using
+    SageMaker, Vertex AI, or Azure ML
+  - Hands on Docker, Kubernetes, and CI/CD pipelines (GitHub
+    Actions, Argo) for scalable AI infra
+  - Hands-on with serverless AI APIs, containerized model
+    serving, and GPU orchestration
+  - Experience with IaC (Terraform / Bicep) and cloud monitoring
+    tools
+  - Data pipelines via Airflow, Kafka, or Databricks
+  - Strong experience in scaling AI solutions in live
+    environments.
+  - Very strong Python programming skills with a track record of
+    clean, efficient, and maintainable code.
+  - Should have successfully delivered at least one production
+    GenAI/Agentic AI solution.
+  - Must have proficiency with FastAPI and at least one ORM
+    (e.g., SQLAlchemy, Tortoise ORM).
+  - Should have experience with Model Context Protocol (MCP).
+  - Should have contributions to open-source GenAI projects.
+  - Good to have experience with React (or some other JS
+    frameworks) for building user-facing interfaces and front-
+    end integrations
+  - Excellent communication skills and the ability to
+    collaborate effectively with cross-functional teams
+  
+  RESPONSIBILITIES:
+  
+  - Understanding the client’s business use cases and technical
+    requirements and be able to convert them into technical
+    design which elegantly meets the requirements.
+  - Mapping decisions with requirements and be able to translate
+    the same to developers.
+  - Identifying different solutions and being able to narrow
+    down the best option that meets the clients’ requirements.
+  - Defining guidelines and benchmarks for NFR considerations
+    during project implementation.
+  - Writing and reviewing design document explaining overall
+    architecture, framework, and high-level design of the
+    application for the developers.
+  - Reviewing architecture and design on various aspects like
+    extensibility, scalability, security, design patterns,
+    user experience, NFRs, etc., and ensure that all relevant
+    best practices are followed.
+  - Developing and designing the overall solution for defined
+    functional and non-functional requirements; and defining
+    technologies, patterns, and frameworks to materialize it.
+  - Understanding and relating technology integration scenarios
+    and applying these learnings in projects.
+  - Resolving issues that are raised during code/review, through
+    exhaustive systematic analysis of the root cause, and
+    being able to justify the decision taken.
+  - Carrying out POCs to make sure that suggested
+    design/technologies meet the requirements.
+  
+  Qualifications
+  
+  Bachelor’s or master’s degree in computer science,
+  Information Technology, or a related field.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Machine Learning
+  - Software
+  - Virtual Reality
+  - Analytics
+posted_date: 2026-03-18
+url: "https://builtin.com/job/senior-staff-engineer-generative-ai/8791685"
+source: Built In

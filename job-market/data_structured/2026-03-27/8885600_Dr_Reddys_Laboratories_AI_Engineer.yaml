@@ -1,0 +1,56 @@
+company:
+  name: Dr. Reddy’s Laboratories
+  stage: Public
+  focus: |-
+    Multinational pharmaceutical company developing affordable
+    and innovative medicines
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying generative AI
+      models, customizing LLMs, implementing RAG systems, and
+      managing end-to-end AI pipelines. The engineer will work
+      directly with models (Azure OpenAI, Hugging Face), fine-tune
+      them, and deploy them into production - core hands-on AI
+      development work.
+  responsibilities:
+  - Design and implement end-to-end generative AI pipelines for creating personalized
+    marketing content including data preprocessing, model inference, and post-processing
+  - Leverage and customize pre-trained models (Azure OpenAI, Hugging Face) for domain-specific
+    needs
+  - Create automated content scoring and classification mechanisms for relevance,
+    quality, and compliance evaluation
+  - Incorporate user and domain expert feedback into model improvement through prompt
+    adjustments, retraining, and rule-based refinements
+  - Ensure multilingual content generation capabilities with accurate and contextually
+    appropriate outputs
+  - Deploy models and AI services into production using Azure services, monitor performance,
+    and troubleshoot inference issues
+  - Collaborate with cross-functional teams to integrate AI capabilities into applications
+  - Stay updated with latest AI/ML developments and experiment with improvements to
+    enhance product intelligence
+  use_cases:
+  - Personalized marketing content generation for pharmaceutical products
+  - Multilingual content creation and adaptation for global markets
+  - Automated content quality assurance and compliance validation
+  - Marketing content evaluation and filtering for medical/legal/regulatory requirements
+  - AI-powered content platform for pharmaceutical marketing operations
+  skills:
+    genai: [Azure OpenAI Service, Hugging Face Transformers, DSPy, GPT-4o, GPT-Image-1,
+      RAG, Prompt engineering]
+    ml: [Fine-tuning, Transformers, Deep learning frameworks, Active learning]
+    web: [FastAPI, Flask]
+    databases: [pgvector, Pinecone, Vector databases]
+    data: [ETL, Data preprocessing]
+    cloud: [Azure, Azure Cognitive Services, Azure Functions]
+    ops: [MLflow, Kubeflow, Docker, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8885600'
+  extracted_at: '2026-03-27T13:53:22.968491'

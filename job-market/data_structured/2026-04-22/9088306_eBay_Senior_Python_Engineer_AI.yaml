@@ -1,0 +1,58 @@
+company:
+  name: eBay
+  stage: Public
+  focus: |-
+    Global ecommerce marketplace including B2B automotive parts
+    (Nexpart)
+position:
+  title: Senior Python Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role explicitly involves building and productionalizing
+      LLM-enabled features, designing tool/function-calling
+      orchestration, implementing RAG patterns with embeddings and
+      vector search, and developing AI evaluation frameworks. The
+      engineer works directly on AI/LLM systems, making this an
+      ai-first role.
+  responsibilities:
+  - Define technical requirements in partnership with product, business, and engineering
+    stakeholders
+  - Design, develop, and maintain Python-based applications and services that power
+    core platform workflows
+  - Build and integrate scalable APIs and microservices for internal and external
+    consumers
+  - Own backend system design for service reliability, scalability, maintainability,
+    and operational excellence
+  - Build and productionalize LLM-enabled features including workflow automation,
+    intelligent routing, summarization, and extraction
+  - Design tool/function-calling services and orchestration layers for multi-step
+    tasks
+  - Implement RAG-style retrieval patterns using embeddings, vector search, and ranking
+  - Develop evaluation and quality frameworks for AI outputs including offline evals,
+    regression tests, and safety checks
+  use_cases:
+  - Workflow automation for B2B automotive parts marketplace
+  - Intelligent routing of parts sourcing and purchasing requests
+  - Summarization and extraction of automotive parts data
+  - RAG-based retrieval for parts information search and ranking
+  - Conversational or real-time interfaces for marketplace users
+  - Multilingual AI output validation for global marketplace support
+  skills:
+    genai: [LLM APIs, RAG, Embeddings, Prompt engineering, Tool/function calling,
+      AI evaluation frameworks]
+    ml: [Classification, Ranking]
+    web: [FastAPI, REST APIs, Microservices]
+    databases: [Vector databases]
+    data: [Message queues]
+    cloud: []
+    ops: [CI/CD, Containerized deployment, Git, 'Observability (logging, tracing,
+        metrics)']
+    languages: [Python, asyncio]
+    domains: []
+    other: [Distributed systems, Caching, Event-driven architecture, Streaming systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9088306'
+  extracted_at: '2026-04-22T14:13:43.933837'

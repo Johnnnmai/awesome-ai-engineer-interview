@@ -1,0 +1,266 @@
+job_id: 8793427
+title: Senior Databricks AI/ML Engineer
+company: PEMCO
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Apache Kafka
+  - Azure
+  - Azure Cognitive Services
+  - Azure Event Hubs
+  - Azure Ml Endpoints
+  - Databricks
+  - Mlflow
+  - Power BI
+  - Snowflake
+  - Spark
+description: |
+  Who We Are:
+  
+  At PEMCO we’re all about people – our customers, our
+  employees, and the community.  We’re a mutual insurance
+  company owned by our Northwest policyholders.  We provide
+  auto, home, renters, and boat coverage. Recognized by Forbes
+  as one of America’s Best Insurance Companies in both Auto
+  and Home for 2025 based on customer survey feedback and by
+  Newsweek as one of America’s Greatest Midsize Workplaces
+  2025. We are consistently recognized for our outstanding
+  customer service, employee expertise, community
+  partnerships, and social impact programs. All of which makes
+  PEMCO a great place to work!
+  
+  Our social impact programs motivate high achievement by
+  youth in education; build stronger and greener communities;
+  and increase safety at home, on the road, and at play. We’re
+  committed to diversity, equity, inclusion, and belonging,
+  and to fostering an inspiring and inclusive workplace. These
+  efforts create and cultivate an environment that builds
+  fairness and understanding, encourages collaboration and
+  flexibility, and celebrates all the ways in which we’re
+  different and the same – enabling all individuals to achieve
+  their full potential.
+  
+  Why We Need You:
+  
+  PEMCO has a dynamic and challenging opportunity for a Senior
+  Databricks AI/ML Engineer to join our community. This role
+  focuses on building and deploying scalable AI/ML solutions
+  across key areas of the insurance functions, including
+  underwriting, claims, pricing, customer engagement, and
+  fraud detection, with a strong emphasis on Databricks
+  architecture and ecosystem integration. The engineer will
+  collaborate closely with data scientists, actuaries, product
+  owners, and engineers to operationalize models, transforming
+  them into robust, production-grade systems seamlessly
+  integrated into business workflows and enterprise platforms.
+  
+  What You’ll Be Doing:
+  
+  - Conduct customer workshops to identify requirements and
+    provide architecture design for analytics projects with
+    Azure and Databricks AI/ML products & services.
+  - Serve as Databricks Architect responsible for designing,
+    deploying, and governing Databricks workspaces and
+    resources across multiple environments (Dev, Test, Prod).
+  - Define and implement Databricks Lakehouse architecture, set
+    up best practices for Databricks governance and integrate
+    Databricks with Azure services
+  - Lead implementation of Databricks SQL, Delta Live Tables,
+    and MLflow tracking for reproducible and scalable
+    experimentation.
+  - Develop and maintain automated MLOps workflows for model
+    deployment and monitoring
+  - Set up and configure Azure and Databricks AI/ML products and
+    infrastructure.
+  - Conduct code review for ML models and other code related to
+    smart analytics, AI & ML
+  - Demonstrate behaviors consistent with PEMCO's policies,
+    values, code of ethics and business conduct.
+  - Authentically support the PEMCO Brand and constantly are on
+    the lookout for top talent to join us to achieve our
+    Mission to Worry Less and Live More.
+  - Other duties as assigned.
+  - Design and develop data pipelines, and cloud services for
+    monitoring, analysis and reporting.
+  - Build and maintain robust ETL workflows using Databricks,
+    Spark, and SQL Server to ingest, clean, transform, and
+    load structured and unstructured data.
+  - Provide production support and monitoring for data
+    engineering workflows, including incident resolution and
+    performance tuning.
+  - Develop and optimize complex SQL queries and stored
+    procedures in SQL Server for data processing, validation,
+    and business rule implementation.
+  - Partner with cross-function team members to design the data
+    collection spec and process and ensure trustworthiness of
+    data to enable and improve reliability, scalability, and
+    efficiency of critical business decisions.
+  - Define, deploy, and optimize algorithms to enable machines
+    to identify patterns in programming data for business
+    defined use cases.
+  - Scale data scientist models to handle terabytes of data.
+  - Feed raw data gathered from pipelines into models defined by
+    data scientists.
+  - Build deployment pipelines for new models.
+  - Establish scalable MLOps practices to streamline model
+    lifecycle management
+  - Implement logging and observability for AI/ML performance.
+  - Conduct architecture design review and performance tuning
+    and testing.
+  
+  What You'll Bring:
+  
+  - B.A./B.S. degree in Computer Science, Software Engineering,
+    Artificial Intelligence, Machine Learning, Data Science or
+    Data Engineering or a related field or equivalent work
+    experience is required.
+  - Master’s degree in Computer Science, Software Engineering,
+    Artificial Intelligence, Machine Learning, Data Science or
+    Data Engineering or a related field preferred.
+  - 6+ years of hands-on experience building ETL pipelines,
+    managing production data workflows, and developing SQL in
+    SQL Server environments.
+  - 3+ years of enterprise scale experience in using Azure and
+    Databricks AI/ML products & services, including experience
+    with complex data analysis techniques and visual
+    analytics.
+  - 3+ years of enterprise scale experience in solving business
+    problems using Azure and Databricks AI/ML services in
+    combination with building data pipelines, data streams,
+    and system integration.
+  - 3+ years of enterprise scale experience in transforming data
+    science prototypes and applying appropriate ML algorithms
+    and tools.
+  - 5+ years of enterprise scale experience with CI/CD and
+    Development workflows for ML models and related
+    code/scripts/apps.
+  - Experience in the insurance industry and understanding of
+    Auto, Home, and Umbrella insurance-related AI/ML
+    applications.
+  - Expertise in building and maintaining batch and streaming
+    data pipelines for real-time and offline analytics.
+  - Experience with unsupervised learning techniques to identify
+    patterns and anomalies in data.
+  - Familiarity with agile software delivery methodologies such
+    as Scrum.
+  - Familiarity with platforms and enabling tools such as Azure
+    Machine Learning, Azure Databricks, Microsoft Fabric,
+    Synapse Analytics, Power BI, Snowflake, and APIs like
+    Azure OpenAI, Azure Cognitive Services, and Azure ML
+    Endpoints
+  - Strong knowledge of real-time data streaming frameworks like
+    Apache Kafka, Azure Event Hubs, and Delta Live Tables for
+    Databricks
+  - Engineering skills in AI/ML at enterprise scale to develop
+    frameworks for analytic solutions to business goals.
+  - Hands-on experience with implementing AI/ML solutions that
+    enable data-driven decision making and insights.
+  - Strong Math and problem-solving skills.
+  - Ability to learn new skills rapidly and apply as needed,
+    e.g., learn a new machine learning algorithm from a
+    research paper and implement it.
+  - Detail oriented with strong organizational, analytical, and
+    communication skills.
+  - Service minded with experience deciphering ambiguous
+    requests and taking ownership.
+  - Ability to create and maintain positive relationships with
+    employees at all levels of the organization.
+  - Ability to work independently and manage tasks with minimal
+    supervision.
+  
+  Compensation:
+  
+  The pay range for this role is shown below. Compensation
+  decisions are determined based on an individual’s
+  qualifications, job-related knowledge, skills, and
+  experience.
+  
+  - Greater Seattle area target pay range: $150,334-$183,742.
+    The full pay range is $125,279-$208,798.
+  - Outside greater Seattle area target pay range:
+    $132,673-$162,155.  The full pay range is
+    $110,561-$184,268.
+  
+  Greater Seattle Area is defined as working within
+  approximately 100 miles of Seattle.
+  
+  Outside Greater Seattle is defined as working approximately
+  100 miles or more from Seattle.
+  
+  Benefits:
+  
+  Regular part-time PEMCO employees working at least 24 hours
+  per week and regular full-time PEMCO employees are eligible
+  to elect coverage under medical, dental, and vision plans
+  for themselves and their eligible family members with
+  generous employer premium cost shares. In addition, as a
+  benefits-eligible employee, you are:
+  
+  - covered by employer-paid basic life and accidental death &
+    dismemberment insurance policies as well as long- and
+    short-term disability benefit coverages.
+  - eligible to participate in PEMCO’s 401(k) plan which
+    includes a generous employer match (2 for 1 on the first
+    6% employee pre-tax and/or Roth deferral, up to federal
+    maximums).
+  
+  PEMCO provides the following paid leave programs for
+  benefits-eligible employees in their first year of PEMCO
+  employment:
+  
+  - Vacation accrues at a rate of 10 days for new hires, and
+    increases based on a schedule to a maximum annual accrual
+    of 25 days based on tenure.
+  - Granted four (4) personal days immediately upon hire.
+  - Paid holidays for the eight (8) holidays observed by PEMCO
+    throughout the calendar year.
+  - Granted up to ten (10) days of sick leave immediately upon
+    hire (pro-rated based on hire date and full-time/part-time
+    status), which is approximately 28 hours more per year
+    than the Washington state-required accrual.
+  - In addition, PEMCO provides paid time off for bereavement,
+    jury duty, and employee volunteering in the community.
+  
+  Other miscellaneous benefit programs offered by PEMCO
+  include:
+  
+  - Flexible Spending Accounts.
+  - Education Assistance Program after one year of service.
+  - Scholarship program for children of PEMCO employees after
+    one year of service.
+  - Employee Assistance Program.
+  - Well-being program.
+  - Discretionary taxable gifts and gift cards.
+  - And other Perks & Benefits including discounts on computer
+    software and hardware, cell phone plans, and rental cars.
+  
+  Other compensation depending on role, contributions, and
+  performance may include:
+  
+  - Discretionary bonuses.
+  - Tiered sales commissions and/or incentives (from 5-25% of
+    employee’s monthly sales).
+  - Employee referral bonuses.
+  - Shift differential pay.
+  
+  Equal Employment Opportunity:
+  
+  At PEMCO, we celebrate and support our differences. We know
+  employing a team rich in diverse thoughts, experiences, and
+  opinions allows our employees, our products, and our
+  community to flourish. PEMCO is honored to be an equal
+  opportunity workplace. We are dedicated to equal employment
+  opportunities regardless of race, color, ancestry, religion,
+  sex, national orientation, age, citizenship, marital status,
+  disability, gender identity, sexual orientation, or veteran
+  status.
+  
+  Applicants have rights under Federal Employment Laws:
+  
+  - Family and Medical Leave Act (FMLA)
+  - Equal Employment Opportunity (EEO)
+  - Employee Polygraph Protection Act (EPPA)
+posted_date: 2026-03-18
+url: "https://www.builtinla.com/job/senior-databricks-ai-ml-engineer/8793427"
+source: Built In

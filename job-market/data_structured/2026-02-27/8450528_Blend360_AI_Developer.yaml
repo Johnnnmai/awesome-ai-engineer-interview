@@ -1,0 +1,48 @@
+company:
+  name: Blend360
+  stage: Unknown
+  focus: |-
+    AI services provider delivering data science, AI, and
+    technology solutions to clients
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying AI
+      systems including RAG implementations, agentic frameworks,
+      and fine-tuning LLMs. The position requires direct
+      implementation of AI/ML solutions using frameworks like
+      LangChain and CrewAI, not just supporting infrastructure.
+  responsibilities:
+  - Design, develop, and deploy scalable AI solutions for clients
+  - Implement Retrieval-Augmented Generation (RAG) and fine-tuning techniques
+  - Build and manage agentic frameworks using CrewAI and Google ADK
+  - Apply advanced prompt engineering techniques to solve complex problems with LLMs
+  - Integrate AI frameworks like LangChain into production systems
+  - Apply MLOps best practices to streamline AI development workflows
+  - Monitor and trace AI application performance
+  - Collaborate across teams to align AI systems with broader development goals
+  use_cases:
+  - Retrieval-Augmented Generation (RAG) systems
+  - Agentic AI frameworks and multi-agent systems
+  - Enterprise AI solution deployment
+  - LLM-based application development
+  - MLOps workflows and AI system monitoring
+  skills:
+    genai: [LangChain, CrewAI, Google ADK, RAG, Prompt Engineering, Agentic Frameworks]
+    ml: [Fine-tuning, Machine Learning fundamentals]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure Machine Learning, Azure OpenAI Service, Azure AI Search, Azure Cognitive
+        Search, Azure Data & Compute]
+    ops: [MLOps, CI/CD, Model deployment and monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8450528'
+  extracted_at: '2026-03-03T11:40:06.604520'

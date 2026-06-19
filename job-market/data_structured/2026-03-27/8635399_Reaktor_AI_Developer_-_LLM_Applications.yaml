@@ -1,0 +1,52 @@
+company:
+  name: Reaktor
+  stage: null
+  focus: |-
+    Technology consulting firm delivering AI solutions across
+    industries
+position:
+  title: AI Developer - LLM Applications
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying LLM-
+      powered applications, working with RAG pipelines, fine-
+      tuning models, and implementing end-to-end AI solutions. The
+      developer works hands-on with LLMs, vector databases, and
+      evaluation pipelines for production AI systems.
+  responsibilities:
+  - Design and implement end-to-end LLM-enabled applications from backend to user-facing
+    components
+  - Integrate commercial and open source LLMs into production applications using APIs
+    or fine-tuning
+  - Build end-to-end RAG pipelines including embeddings, vector databases, prompt
+    engineering and guardrails
+  - Design and implement evaluation pipelines to benchmark model performance and safety
+  - Collaborate with cross-functional teams to develop AI use cases for complex business
+    challenges
+  - Advise clients on technology selection and deliver technical expertise
+  - Contribute to software architecture, test automation and debugging
+  use_cases:
+  - Healthcare AI applications
+  - Public sector AI solutions
+  - Industrial AI systems
+  - Retail AI applications
+  - Defense and security AI solutions
+  - Gaming and entertainment AI features
+  skills:
+    genai: [LangChain, LlamaIndex, OpenAI API, Anthropic API, Meta Llama, RAG, prompt
+        engineering, LLM fine-tuning, embeddings]
+    ml: []
+    web: [FastAPI]
+    databases: [pgvector, ChromaDB, Pinecone, PostgreSQL]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD, test automation]
+    languages: [Python, TypeScript, Node.js, JVM languages]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8635399'
+  extracted_at: '2026-03-27T14:22:20.816469'

@@ -1,0 +1,53 @@
+company:
+  name: GitLab
+  stage: Public
+  focus: DevSecOps platform for software development lifecycle
+position:
+  title: 'Senior Backend Engineer, SSCS: AI Governance'
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is a backend engineering position focused on
+      building governance, compliance, and audit infrastructure
+      around AI usage—not on building, training, fine-tuning, or
+      deploying AI/ML models. The engineer builds backend systems
+      (audit pipelines, access controls, storage, MCP registry)
+      that enable enterprise governance of AI features, making
+      this clearly an AI-support role.
+  responsibilities:
+  - Implement and evolve the AI audit event pipeline including ingestion, schema normalization,
+    storage, partitioning, retention, and export
+  - Implement role-based access control for AI Governance features by integrating
+    permissions into GitLab's authorization model
+  - Build backend functionality for AI agent artifact storage and retrieval of agent
+    run metadata alongside CI/CD artifacts
+  - Build backend services for the MCP registry including tool metadata and enforcement
+    controls
+  - Design and optimize data models and queries for high-write event-heavy systems
+    using PostgreSQL and ClickHouse
+  - Write and maintain RSpec and integration test coverage and improve team test reliability
+    practices
+  - Contribute to architecture decisions and partner with AI and Continuous Delivery
+    teams
+  use_cases:
+  - AI audit event tracking and compliance evidence for enterprise organizations
+  - Policy controls and governance for AI usage within the software development lifecycle
+  - Visibility and observability into AI agent activity for regulated industries
+  - MCP registry governance with tool-level enforcement and access restrictions
+  - Enterprise compliance with emerging AI regulations
+  skills:
+    genai: [Model Context Protocol (MCP), AI agent infrastructure]
+    ml: []
+    web: [Ruby on Rails, REST APIs, GraphQL]
+    databases: [PostgreSQL, ClickHouse]
+    data: [Event streaming]
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: [RSpec, Access control and authorization, Regulatory compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9021209'
+  extracted_at: '2026-04-22T13:00:38.847849'

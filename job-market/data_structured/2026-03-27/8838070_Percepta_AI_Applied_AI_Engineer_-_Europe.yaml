@@ -1,0 +1,53 @@
+company:
+  name: Percepta AI
+  stage: Series A
+  focus: |-
+    Applied AI transformation for critical industries
+    (healthcare, manufacturing, energy)
+position:
+  title: Applied AI Engineer - Europe
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role focused on
+      designing, building, and shipping production-grade AI agents
+      and workflows for customers. The role involves hands-on work
+      deploying agentic systems using their Mosaic toolkit,
+      directly building and implementing AI solutions (RAG
+      pipelines, multi-step agents, tool use) that drive business
+      value.
+  responsibilities:
+  - Collaborate with customer executives and technical teams to define long-term AI
+    strategy and transformation roadmaps
+  - Identify and prioritize high-leverage AI use cases that deliver measurable business
+    value
+  - Design, build, and deploy production-grade AI agents and workflows using the Mosaic
+    toolkit
+  - Rapidly ship AI solutions that work with real users and real data
+  - Contribute new features, patterns, and abstractions to the Mosaic product based
+    on customer engagements
+  - Work backwards from customer vision to surface specific AI applications
+  - Help define and execute European market strategy and presence
+  use_cases:
+  - AI transformation for healthcare institutions
+  - AI transformation for manufacturing companies
+  - AI transformation for energy sector
+  - Agentic workflows for enterprise customers
+  - Production AI agents driving millions in business value
+  skills:
+    genai: [LangGraph, Mastra, Agents SDK, RAG pipelines, Multi-step agents, Tool
+        use, Human-in-the-loop systems, Mosaic toolkit]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [DevOps]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8838070'
+  extracted_at: '2026-03-27T13:13:19.909210'

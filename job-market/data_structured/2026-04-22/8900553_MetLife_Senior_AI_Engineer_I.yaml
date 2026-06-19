@@ -1,0 +1,50 @@
+company:
+  name: MetLife
+  stage: Public
+  focus: Global financial services and insurance provider
+position:
+  title: Senior AI Engineer I
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, training, optimizing
+      ML/DL models, and deploying GenAI solutions including LLMs
+      and RAG architectures. The engineer architects and
+      implements core AI/ML infrastructure and integrates AI
+      capabilities into business applications, making it clearly
+      an ai-first role.
+  responsibilities:
+  - Develop and manage scalable enterprise AI capabilities that support the AI platform
+  - Design, train, and optimize machine learning and deep learning models for business
+    use cases including SLM, computer vision, predictive analytics, and recommendation
+    systems
+  - Enable seamless integration of AI capabilities into business applications and
+    workflows through APIs, SDKs, and microservices
+  - Develop and maintain CI/CD pipelines for ML models ensuring automated testing,
+    versioning, deployment, and monitoring in production
+  - Collaborate with partners across Business, Technology, Operations and D&A capabilities
+  - Mentor AI Engineers and Data Scientists and lead design, solutioning, and estimations
+  - Produce clear technical documentation and participate in knowledge sharing
+  use_cases:
+  - Predictive analytics for insurance and financial services
+  - Computer vision applications for business processes
+  - Recommendation systems for customer engagement
+  - Small language models (SLM) for domain-specific tasks
+  - RAG-based generative AI solutions enhanced with enterprise data sources
+  skills:
+    genai: [Generative AI / LLMs, Retrieval-Augmented Generation (RAG)]
+    ml: [scikit-learn, TensorFlow, PyTorch, spaCy, Transformers, OCR, Statistics,
+      Feature engineering]
+    web: [REST APIs, Microservices]
+    databases: [Vector databases]
+    data: []
+    cloud: [Azure]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: [NLP, Computer vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8900553'
+  extracted_at: '2026-04-22T12:49:04.810760'

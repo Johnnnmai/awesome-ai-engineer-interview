@@ -1,0 +1,53 @@
+company:
+  name: Cyberhaven
+  stage: Series B/C (backed by $250M from Khosla and Redpoint)
+  focus: AI-enabled data lineage and data security platform
+position:
+  title: AI Automation & Tooling Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is building AI agents and agentic frameworks that
+      perform security workflows. The engineer will implement AI
+      agents that reason over data, manage multi-step reasoning,
+      and directly work with LLMs for autonomous security auditing
+      and diagnostics.
+  responsibilities:
+  - Build the service layer that enables AI agents to perform complex, multi-step
+    security workflows as software
+  - Develop backend services that allow agents to reason over lineage data, security
+    logs, and customer context
+  - Implement AI agents that leverage product data to generate audits, recommendations,
+    and diagnostics
+  - Write high-performance SQL and data extraction logic in BigQuery to surface structured,
+    agent-ready context from billions of lineage events
+  - Design and consume API-first integrations connecting Cyberhaven's platform to
+    LLM providers and downstream customer workflows
+  - Build automated diagnostic flows where agents iteratively query data, interpret
+    results, and produce human-readable explanations of security incidents
+  - Partner with internal teams to ensure agent-driven outputs are reliable, scalable,
+    and aligned with real customer use cases
+  use_cases:
+  - Autonomous security auditing of customer environments
+  - Intelligence-driven security policy generation
+  - Data security incident diagnosis and analysis
+  - Tracing file activity across historical data
+  - Automated threat detection and risk identification
+  - Data lineage analysis for security workflows
+  skills:
+    genai: [LLM APIs, agentic workflows, prompt engineering, embeddings, retrieval-based
+        approaches, structured outputs, guardrails]
+    ml: []
+    web: [REST APIs, backend services]
+    databases: [SQL, BigQuery]
+    data: []
+    cloud: []
+    ops: [distributed systems]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8232127'
+  extracted_at: '2026-03-03T11:21:56.021930'

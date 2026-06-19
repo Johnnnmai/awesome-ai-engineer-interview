@@ -1,0 +1,145 @@
+job_id: 8650913
+title: Senior Software Engineer, AI Agents
+company: DataSnipper
+location: Amsterdam, NLD
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Azure
+  - Fastapi
+  - Grafana
+  - Mlflow
+  - MongoDB
+  - Pydantic Ai
+  - Python
+  - React
+company_size: 215 Employees
+description: |
+  We are looking for a Senior Software Engineer to join the AI
+  Agents Team at DataSnipper. You will build the intelligence
+  layer that orchestrates the full assurance lifecycle from
+  risk assessment to control testing, evidence gathering, and
+  documentation generation, directly reducing manual effort
+  and accelerating audit outcomes for our customers.
+  
+  This is a hands-on engineering role in a high-caliber team
+  that moves fast and holds a high bar. You will design and
+  implement AI-powered agents, drive architectural decisions
+  and help shape the future of automated assurance.
+  
+  Why DataSnipper?  Audit and finance are still massively
+  manual — and we’re changing that.
+  
+  DataSnipper is a $1B, bootstrapped unicorn with 600,000+
+  users across 180+ countries, already embedded in the daily
+  workflows of top audit and accounting firms. Now, we’re
+  taking things further with our Excel Agent — bringing AI
+  directly into where the work actually happens. Unlike
+  generic AI tools, we don’t sit on the sidelines. Our AI
+  operates inside Excel, with access to real documents and
+  audit evidence — meaning it doesn’t just generate answers,
+  it does the work, with full traceability.
+  
+  We’re not just applying AI — we’re redefining how audit gets
+  done. If you want to build something category-defining at
+  scale, this is the place.
+  
+  What You Will DoTechnical Delivery
+  
+  - Design and implement AI-powered agents that automate
+    assurance workflows, analyzing Excel files and documents
+    using natural language commands
+  - Build and maintain production APIs and services in a Python
+    monorepo (FastAPI, Pydantic AI, MongoDB)
+  - Integrate with Azure and its AI services for document
+    intelligence, blob storage, and cloud infrastructure
+  - Contribute to the React chat interface that provides an
+    interactive experience for users
+  - Implement security controls aligned with OWASP GenAI
+    security protocols
+  
+  Architecture & Quality
+  
+  - Architect services and systems using well-established design
+    principles, anticipating future use cases
+  - Produce robust, production-ready code that anticipates edge
+    cases; review for correctness, design quality, and
+    maintainability
+  - Raise the engineering bar through technical mentorship,
+    high-quality code reviews, and establishing best practices
+  - Use quality metrics to identify gaps and recommend
+    improvements aligned with testing frameworks
+  - Diagnose complex issues across services and use operational
+    data (MLflow, Grafana) to drive stability improvements
+  
+  Collaboration & Impact
+  
+  - Break down epics, align team dependencies, and manage
+    ambiguity for the team
+  - Design solutions with product partners, refine team roadmap,
+    and simplify technical approaches
+  - Foster a culture of documentation and knowledge sharing
+    within the team and with business stakeholders
+  - Integrate AI tools into workflows, critically evaluate AI
+    outputs, and contribute to team-level AI adoption
+  
+  What You Will Bring:Must-Have
+  
+  - 7+ years in software engineering, with strong proficiency in
+    Python, its eco-system and tooling
+  - Experience building and deploying GenAI-based applications
+  - Proficient with AI-assisted Engineering (we use Claude Code)
+  - Solid experience building and maintaining data-driven Web
+    APIs on any cloud platform
+  - Strong fundamentals of software architecture and system
+    design
+  - Experience with testing strategies (unit, integration, E2E)
+    and a quality-first mindset
+  - Excellent communication and collaboration skills
+  
+  Nice-to-Have
+  
+  - Experience building and deploying agentic applications in
+    production
+  - Experience in the audit domain or fintech
+  - Experience with document processing technologies
+  - Experience with observability tools
+  
+  What We Offer:
+  
+  - Be part of one of the fastest-growing, profitable unicorn
+    scale-ups in the Netherlands with a global impact
+  - Equity (Stock Appreciation Rights) to share the company's
+    success and growth
+  - Excellent salary package, competitive for top tech talent
+  - Pension plan with a 6% contribution on top of your base
+    salary
+  - 28 vacation days per year (full-time) to support your work-
+    life balance
+  - Hybrid work model with at least 3 days onsite in our dynamic
+    Amsterdam office
+  - Daily, freshly prepared lunches by our in-house chef to keep
+    you energized
+  - Parking and NS card for easy commuting to the office
+  - Access to continuous learning and development initiatives to
+    grow your skills
+  - Engage with a vibrant international team spread across five
+    global offices
+  - Company-wide events like DataSnipper GO where global teams
+    come together
+  - Access to OpenUp, a mental health and wellness platform
+    supporting your wellbeing
+  - Friday drinks and various social activities are designed for
+    team bonding and fun
+  
+  Ready to help shape the future of automated assurance? If
+  you’re passionate about building AI-powered solutions and
+  eager to make a real impact, we want to hear from you! Apply
+  now and join our innovative team at DataSnipper.
+industries:
+  - Productivity
+  - Software
+  - Automation
+posted_date: 2026-03-04
+url: "https://builtin.com/job/senior-software-engineer-ai-agents/8650913"
+source: Built In

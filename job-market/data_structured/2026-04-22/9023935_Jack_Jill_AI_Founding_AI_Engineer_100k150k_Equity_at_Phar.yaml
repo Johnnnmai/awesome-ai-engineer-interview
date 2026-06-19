@@ -1,0 +1,48 @@
+company:
+  name: Jack & Jill AI
+  stage: Pre-seed
+  focus: |-
+    AI-powered competitive intelligence automation for pharma
+    and biotech
+position:
+  title: Founding AI Engineer (£100k–150k + Equity) at Pharosyn
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a founding AI engineer role focused on building LLM
+      orchestration layers and AI-powered systems that monitor
+      pharmaceutical signals. The role requires hands-on
+      experience shipping production-grade LLM-powered systems,
+      making it clearly ai-first.
+  responsibilities:
+  - Design and implement core LLM orchestration layers and data pipelines to monitor
+    and triage global pharmaceutical signals
+  - Build and maintain the full-stack platform using Python, TypeScript, and React
+    to deliver contextualized insights to enterprise customers
+  - Collaborate with founders to shape the product roadmap and translate complex regulatory
+    data into actionable strategic intelligence
+  - Ship production code to strategic teams weekly with full technical ownership of
+    architectural decisions
+  - Automate competitive intelligence workflows in pharma and biotech industries,
+    replacing manual processes for enterprise clients
+  use_cases:
+  - Automated competitive intelligence for pharmaceutical and biotech industries
+  - Monitoring and triaging clinical trial data using LLM orchestration
+  - Tracking and analyzing regulatory filings for strategic insights
+  - Delivering contextualized intelligence to enterprise pharma teams
+  skills:
+    genai: [LLM orchestration]
+    ml: []
+    web: [React]
+    databases: []
+    data: [Data pipelines]
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: [NLP]
+    other: [SOC 2 compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9023935'
+  extracted_at: '2026-04-22T12:47:21.734329'

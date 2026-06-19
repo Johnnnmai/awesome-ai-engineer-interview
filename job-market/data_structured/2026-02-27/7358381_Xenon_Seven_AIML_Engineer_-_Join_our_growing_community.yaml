@@ -1,0 +1,47 @@
+company:
+  name: Xenon Seven
+  stage: Unknown
+  focus: |-
+    IT consulting and talent community connecting AI/ML
+    professionals with client projects
+position:
+  title: AI/ML Engineer - Join our growing community
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and scaling AI/ML platforms,
+      working directly on ML pipelines and AI integration. The
+      position requires hands-on expertise with ML tools and
+      explicitly focuses on designing intelligent systems, not
+      just supporting infrastructure for others' AI work.
+  responsibilities:
+  - Design and scale real-world AI/ML platforms
+  - Lead innovation sprints and technical initiatives
+  - Mentor emerging talent and guide technical development
+  - Co-create tools that solve complex data challenges across industries
+  - Advise on enterprise AI strategy
+  - Lead technical roundtables and knowledge sharing
+  - Contribute to open-source accelerators
+  - Build ML pipelines and integrate AI solutions
+  use_cases:
+  - Healthcare AI applications
+  - Telecom intelligent systems
+  - Finance ML solutions
+  - Enterprise AI strategy and transformation
+  - Cross-industry data challenges
+  skills:
+    genai: []
+    ml: [ML pipelines, AI integration]
+    web: []
+    databases: []
+    data: [Spark, Data engineering, Lakehouse architectures]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLflow, Orchestration frameworks]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7358381'
+  extracted_at: '2026-03-03T12:16:44.486982'

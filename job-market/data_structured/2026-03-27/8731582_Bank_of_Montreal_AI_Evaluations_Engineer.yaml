@@ -1,0 +1,59 @@
+company:
+  name: Bank of Montreal
+  stage: Public
+  focus: |-
+    Banking and financial services with AI systems for banking
+    experiences
+position:
+  title: AI Evaluations Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is focused on building evaluation systems,
+      datasets, and pipelines for LLMs and deep learning systems,
+      including implementing evaluation methods, metrics, and
+      integrating evaluation signals into training loops and
+      deployment workflows. This constitutes hands-on work with AI
+      models directly influencing modeling decisions and
+      deployment.
+  responsibilities:
+  - Design and implement advanced evaluation methods for LLMs and ML systems including
+    robustness, reliability, fairness, and safety metrics
+  - Build and maintain evaluation datasets, golden sets, challenge sets, and red-teaming
+    corpora for banking workflows
+  - Develop reusable evaluation harnesses and pipelines supporting multi-agent workflows,
+    tool use, and RAG scenarios
+  - Conduct empirical analyses including statistical tests, error analysis, and ablation
+    studies to identify model weaknesses
+  - Integrate evaluation metrics and signals into model training loops, deployment
+    gating checks, and continuous monitoring
+  - Prototype and validate novel evaluation algorithms for LLM safety, interpretability,
+    and reliability
+  - Produce actionable evaluation reports translating technical findings for engineering,
+    product, and business stakeholders
+  - Ensure reproducibility of evaluation results through dataset versioning, configuration
+    control, and documentation
+  use_cases:
+  - LLM and ML model evaluation for banking applications
+  - Safety and reliability testing for AI systems in financial services
+  - RAG system evaluation and performance analysis
+  - Adversarial testing and red-teaming for AI systems
+  - Fairness, bias, and toxicity detection in AI models
+  - Model calibration and interpretability analysis
+  skills:
+    genai: [RAG evaluation, LLM evaluation, Multi-agent workflows]
+    ml: [PyTorch, TensorFlow, scikit-learn, SHAP, Model interpretability, Fairness
+        techniques, Adversarial testing]
+    web: []
+    databases: []
+    data: [Statistical testing]
+    cloud: [Cloud-based ML infrastructure]
+    ops: [CI/CD integration, MLOps, LLMOps, Experiment tracking]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8731582'
+  extracted_at: '2026-03-27T16:04:50.495558'

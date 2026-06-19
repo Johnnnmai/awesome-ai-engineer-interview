@@ -1,0 +1,54 @@
+company:
+  name: Stord
+  stage: Series B+
+  focus: Cloud-based supply chain and logistics platform for commerce
+position:
+  title: Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on development of LLM-powered
+      features and autonomous agents using frameworks like
+      LangChain/LangGraph, with direct responsibility for building
+      agent frameworks, prompt engineering, tool use, and
+      orchestrating multi-step AI workflows. The position
+      explicitly states "AI is not a future roadmap item" and
+      involves deploying AI solutions in production, not
+      supporting infrastructure for others.
+  responsibilities:
+  - Design and build agent frameworks and LLM-powered features for logistics operations
+  - Develop conversational AI and agentic workflows for logistics operators and brand
+    customers
+  - Build production AI features including demand forecasting APIs and intelligent
+    routing services
+  - Create fault-tolerant Node.js services that consume predictions from ML platforms
+    like Modal.com and Vertex AI
+  - Implement real-time data pipelines and caching strategies for low-latency inference
+  - Build developer abstractions and internal tooling to make AI capabilities accessible
+    to product engineers
+  - Partner with Director of AI Products on technical strategy and architecture decisions
+  - Mentor engineers on AI integration patterns and best practices
+  use_cases:
+  - Conversational AI and agentic workflows for logistics operators
+  - Demand forecasting for inventory management
+  - Intelligent routing optimization for logistics
+  - Real-time anomaly detection for supply chain monitoring
+  - Recommendation engines for operations intelligence
+  - Multi-step AI workflow orchestration across supply chain domains
+  skills:
+    genai: [LangChain, LangGraph, OpenAI API, Anthropic Claude, Prompt Engineering,
+      Agent Orchestration, Cloudflare Workers AI]
+    ml: []
+    web: [RESTful APIs]
+    databases: [PostgreSQL, Pinecone, Weaviate, pgvector]
+    data: [Kafka]
+    cloud: [GCP, AWS, Azure, Vertex AI, Modal.com]
+    ops: [Event-driven architecture, Feature stores, A/B testing]
+    languages: [TypeScript, Node.js, SQL, Elixir]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8769194'
+  extracted_at: '2026-03-27T14:00:46.286623'

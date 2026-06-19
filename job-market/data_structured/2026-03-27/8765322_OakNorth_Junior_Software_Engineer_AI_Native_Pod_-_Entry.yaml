@@ -1,0 +1,44 @@
+company:
+  name: OakNorth
+  stage: Series D
+  focus: Digital bank lending to UK businesses and supporting savers
+position:
+  title: Junior Software Engineer  (AI Native Pod) - Entry Level
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is explicitly about working on an AI-native
+      engineering team where the primary focus is pushing the
+      limits of AI tools and turning that capability into working
+      systems. While it's a software engineering role, the core
+      function is building and deploying AI-powered solutions,
+      making it ai-first.
+  responsibilities:
+  - Contribute across the full product development lifecycle including design, build,
+    test, and deploy
+  - Push the limits of modern AI tools and turn capabilities into working systems
+  - Rapid prototyping and deployment of AI-powered features
+  - Test, compare, break, rebuild, and optimize AI-driven solutions
+  - Work within highly autonomous pod teams in AI-native development practices
+  - Shape AI-native engineering culture inside the organization
+  use_cases:
+  - Banking and financial services applications
+  - Business lending platforms
+  - Internal tooling for bank operations
+  - Customer-facing financial products
+  skills:
+    genai: [AI-assisted development tools]
+    ml: []
+    web: [FastAPI, React]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, CI/CD, Git]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8765322'
+  extracted_at: '2026-03-27T13:20:29.297400'

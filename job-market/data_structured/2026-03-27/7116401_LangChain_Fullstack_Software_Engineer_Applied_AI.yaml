@@ -1,0 +1,52 @@
+company:
+  name: LangChain
+  stage: Series B
+  focus: |-
+    Building platform for developing, evaluating, deploying and
+    operating AI agents at scale
+position:
+  title: Fullstack Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, implementing, and deploying
+      production AI agents and workflows end-to-end, with hands-on
+      work on agent architectures, evaluation pipelines,
+      prompting, retrieval, and orchestration. The position
+      directly builds AI systems using LangChain/LangGraph
+      ecosystem tools, making it ai-first.
+  responsibilities:
+  - Design, implement, and deploy end-to-end AI workflows and agents across multiple
+    business domains
+  - Develop and iterate on agent architectures, evaluation pipelines, and performance
+    frameworks
+  - Translate emerging AI research and tooling into practical, production-ready solutions
+  - Communicate technical decisions and trade-offs to technical and non-technical
+    stakeholders
+  - Collaborate cross-functionally with Marketing, GTM, Recruiting, or Product teams
+    for agent-driven automation
+  - Contribute to LangChain and LangGraph ecosystem including open source components
+    and documentation
+  use_cases:
+  - Internal business automation across Marketing, GTM, Recruiting, and Support functions
+  - AI-powered internal tools and workflow automation
+  - Production AI agents for operational transformation
+  - Open source contributions to agent building ecosystem
+  - Agent-driven automation for measurable business impact
+  skills:
+    genai: [LangChain, LangGraph, LangSmith, Prompt engineering, RAG, AI agents, LLM
+        APIs]
+    ml: [Model selection]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Evaluation pipelines, Monitoring systems]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7116401'
+  extracted_at: '2026-03-27T16:09:37.510015'

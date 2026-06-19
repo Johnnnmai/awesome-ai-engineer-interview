@@ -1,0 +1,46 @@
+company:
+  name: Jack & Jill AI
+  stage: Seed
+  focus: AI-powered music creation platform for creators
+position:
+  title: Mobile Engineer (£60k-£100k + Equity) at Mozart AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a mobile engineering role focused on building React
+      Native apps with subscription management. While the company
+      builds AI-powered music tools, this role is NOT
+      building/deploying AI models - it's integrating pre-built AI
+      audio features into a mobile app and handling app
+      infrastructure.
+  responsibilities:
+  - Architect and ship major React Native features maintaining high-performance standards
+    and p95 metrics for media loading
+  - Lead integration of complex mobile subscription states and revenue integrity using
+    RevenueCat and native store kits
+  - Collaborate directly with CTO and Growth Lead to build robust analytics foundation
+    for data-driven product evolution
+  - Own the end-to-end mobile experience for a music creation platform
+  - Build high-performance React Native foundation with Instagram-fast responsiveness
+  - Ship major features from prototype to production
+  use_cases:
+  - Music creation platform enabling users to create and share songs
+  - Professional-grade AI audio tools integrated into mobile app
+  - Subscription-based access to premium music creation features
+  skills:
+    genai: []
+    ml: []
+    web: [React Native, State management]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [RevenueCat, iOS App Store, Google Play Store, In-app purchases, Background
+        audio playback]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8854101'
+  extracted_at: '2026-03-27T15:23:35.631687'

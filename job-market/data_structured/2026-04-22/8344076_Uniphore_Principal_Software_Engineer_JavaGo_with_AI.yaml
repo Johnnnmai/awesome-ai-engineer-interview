@@ -1,0 +1,56 @@
+company:
+  name: Uniphore
+  stage: Late-stage / Established
+  focus: B2B AI-native enterprise platform for customer experience
+position:
+  title: Principal Software Engineer (Java/Go with AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience architecting and
+      integrating LLM-powered systems, building RAG pipelines,
+      working with agentic frameworks (LangChain, LangGraph,
+      crewAI), designing multi-agent systems, and implementing
+      vector search at scale. These are core AI/LLM building
+      activities, placing this squarely in the ai-first category.
+  responsibilities:
+  - Own and evolve the architecture of large-scale, distributed, enterprise-grade
+    SaaS platforms
+  - Drive technical vision, design principles, and architectural standards across
+    teams
+  - Lead the design and implementation of complex, high-impact systems and services
+    including LLM-powered and agentic systems
+  - Partner with product, platform, and engineering leadership to align technical
+    solutions with business objectives
+  - Remain hands-on by contributing to core components, prototypes, and high-risk
+    or high-complexity areas including RAG pipelines and multi-agent architectures
+  - Establish and enforce best practices for code quality, testing, security, and
+    operational excellence
+  - Mentor and guide senior and staff engineers, raising the overall technical bar
+    of the organization
+  - Influence Agile execution, release planning, and cross-team dependencies in multiregion
+    environments
+  use_cases:
+  - Enterprise customer experience platform powered by Generative AI, Knowledge AI,
+    and Emotion AI
+  - Multimodal AI system capturing and analyzing voice, video, and text data
+  - RAG pipelines and vector search for enterprise knowledge retrieval at scale
+  - Multi-agent systems using agentic frameworks for workflow automation
+  - LLM-powered co-pilot for guiding enterprise customer and employee interactions
+  - AI-driven service level management with observability, tracing, and safety guardrails
+  skills:
+    genai: [MCP, RAG pipelines, LangChain, LangGraph, CrewAI, Multi-agent systems]
+    ml: [LoRA, QLoRA, LLM fine-tuning]
+    web: [REST APIs, gRPC, WebSockets]
+    databases: [Postgres, MongoDB, Vector databases, Redis, ClickHouse]
+    data: [Kafka]
+    cloud: [Cloud-native deployments]
+    ops: [LLM observability, MLOps/LLMOps]
+    languages: [Java, Python, Go, Rust]
+    domains: []
+    other: [Distributed systems design, Microservices architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8344076'
+  extracted_at: '2026-04-22T14:13:34.019757'

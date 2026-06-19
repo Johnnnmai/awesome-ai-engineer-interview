@@ -1,0 +1,54 @@
+company:
+  name: Wizeline
+  stage: unknown
+  focus: AI-native technology solutions and digital products
+position:
+  title: Staff AI Engineer (React & Typescript Experience)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on front-end web development with React
+      and TypeScript. While it involves integrating AI/ML
+      components into web applications and collaborating with AI
+      engineers, the primary work is building the web layer that
+      consumes AI APIs, not building, training, or deploying the
+      AI models themselves. The role supports AI work by providing
+      the user interface layer.
+  responsibilities:
+  - Lead architecture, design, and development of scalable web applications using
+    React and TypeScript
+  - Define and execute front-end technical strategy aligned with product and AI goals
+  - Collaborate with AI engineers, data scientists, and product managers on intelligent
+    user experiences
+  - Integrate AI-powered components including chatbots, assistants, content generators,
+    and predictive UI into web applications
+  - Mentor engineers on coding practices, architecture decisions, and technical problem-solving
+  - Establish standards for code quality, accessibility, performance optimization,
+    and testing
+  - Partner with backend and DevOps teams to optimize CI/CD pipelines and deployment
+    processes
+  - Identify opportunities to use AI and automation to enhance development workflows
+    and end-user experiences
+  use_cases:
+  - AI-powered chatbots and virtual assistants
+  - Content generation interfaces
+  - Predictive UI components
+  - Data-driven intelligent user experiences
+  - Personalized and automated user interfaces
+  skills:
+    genai: [OpenAI API, Anthropic API, LLMs, Agent architectures]
+    ml: [Hugging Face]
+    web: [React, Next.js, GraphQL, REST APIs, Redux, Zustand, Jest, React Testing
+        Library, Cypress, Server-Side Rendering, Micro Frontends]
+    databases: []
+    data: []
+    cloud: [Vertex AI, AWS, GCP, Azure]
+    ops: [Terraform, CI/CD]
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8768341'
+  extracted_at: '2026-03-27T15:56:33.776469'

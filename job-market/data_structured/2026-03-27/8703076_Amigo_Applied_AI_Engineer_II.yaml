@@ -1,0 +1,58 @@
+company:
+  name: Amigo
+  stage: Series A
+  focus: |-
+    Healthcare AI agents for clinical workflows and patient
+    engagement
+position:
+  title: Applied AI Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing and implementing
+      production AI agents, architecting agent identities and
+      personalities, building context graphs for agent workflows,
+      and working with prompt engineering. The engineer is hands-
+      on with agent construction, evaluation, and deployment -
+      core AI/ML work.
+  responsibilities:
+  - Design context graphs (hierarchical state machines) that model multi-step clinical
+    workflows including choosing between linear arcs and routing hubs, calibrating
+    state density, and preventing conversation loops
+  - Architect agent identities including background, motivations, expertise, behaviors,
+    and communication patterns that produce clinically safe and engaging conversations
+  - Build dynamic behavior sets that inject contextual instructions at runtime with
+    trigger conditions, override modes, and activation patterns
+  - Design user memory systems by defining bounded, orthogonal, and actionable extraction
+    dimensions
+  - Write tool integration specs defining when tools fire, parameters received, and
+    how results persist in conversation context
+  - Diagnose production conversation failures by reading prompt logs, tracing routing
+    decisions, and identifying root causes
+  - Design evaluation suites with metrics that resist gaming, personas representing
+    real patient populations, and edge case scenarios
+  - Process customer feedback categorizing issues into agent design problems, context
+    graph flow issues, platform bugs, and knowledge gaps
+  use_cases:
+  - Pre-visit patient intake and preparation
+  - Care navigation and clinical workflow guidance
+  - Post-visit care plan management and patient monitoring
+  - Patient engagement across the entire healthcare journey
+  - Clinical safety validation and autonomous operation within bounded domains
+  - Patient outcome measurement and continuous improvement
+  skills:
+    genai: [LLMs, prompt engineering, AI agents, RAG, TTS systems]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Datadog, distributed systems]
+    languages: [Python, Pydantic, async patterns]
+    domains: []
+    other: [state machines, HIPAA compliance, SOC 2]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8703076'
+  extracted_at: '2026-03-27T13:50:13.027781'

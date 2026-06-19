@@ -1,0 +1,49 @@
+company:
+  name: Saviynt
+  stage: High-growth / Late-stage (Private)
+  focus: AI-powered identity security and access governance platform
+position:
+  title: Senior Software Engineer - Java/AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI agents and multi-step model
+      workflows, monitoring LLM outputs, mitigating
+      hallucinations, and optimizing inference cost/latency. The
+      engineer is expected to implement AI-driven product
+      capabilities and build with AI-first principles, directly
+      working on LLM/AI systems rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Build product with AI-first principles following AI-SDLC processes
+  - Implement AI-driven product capabilities in application access and security
+  - Design and deploy production-ready AI agents and multi-step model workflows
+  - Monitor LLM outputs, mitigate hallucinations, and optimize inference cost and
+    latency
+  - Curate high-quality datasets and use synthetic data to improve model performance
+  - Collaborate with internal teams to produce software design and architecture
+  - Develop, test, and deploy large-scale distributed systems with data streaming
+    and storage components
+  - Revise, update, refactor and debug code while maintaining existing services
+  use_cases:
+  - AI-driven identity and access governance for organizations
+  - Automated application access security using AI agents
+  - LLM-powered workflows for identity security operations
+  - AI-based compliance and access policy management
+  - Safeguarding digital assets through intelligent access control
+  skills:
+    genai: [AI Agents, LLM output monitoring, Prompt engineering / hallucination mitigation]
+    ml: [Synthetic data generation]
+    web: [Spring, Microservices]
+    databases: [Hibernate, SQL, ElasticSearch, Redis]
+    data: [Kafka]
+    cloud: []
+    ops: [Containerization, CI/CD, Inference optimization]
+    languages: [Java, J2EE]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8940320'
+  extracted_at: '2026-04-22T14:08:55.149342'

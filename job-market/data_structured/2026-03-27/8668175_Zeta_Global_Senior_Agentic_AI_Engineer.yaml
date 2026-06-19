@@ -1,0 +1,57 @@
+company:
+  name: Zeta Global
+  stage: Public
+  focus: |-
+    AI-powered marketing cloud platform for customer acquisition
+    and retention
+position:
+  title: Senior Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying agentic AI
+      systems with RAG, tool-using workflows, and closed-loop
+      decisioning (Observe → Reason → Act → Evaluate). The
+      engineer will implement production-grade AI agents that make
+      real-time decisions in an AdTech environment, including
+      building eval harnesses, safety patterns, and agent-driven
+      control-plane systems.
+  responsibilities:
+  - Build bidder-adjacent agentic workflows that recommend and execute campaign control
+    actions including targeting, budget, bidding, and creative decisions
+  - Implement production-grade RAG systems with retrieval from policies, campaign
+    history, and real-time telemetry while optimizing grounding and reducing hallucinations
+  - Create safe tool and action interfaces with idempotent execution, audit logs,
+    approval gates, rate limits, and rollback behaviors
+  - Own AgentOps including evaluation harnesses, regression suites, A/B testing, and
+    outcome metrics (CPA/ROAS, pacing, quality, margin)
+  - Add end-to-end observability for tracing prompts, retrieval, tool calls, and latency
+    plus reliability patterns like timeouts and circuit breakers
+  - Partner with cross-functional teams to define boundaries between deterministic
+    bidding and agent-driven control-plane decisions
+  use_cases:
+  - Real-time bid optimization and campaign performance improvement through agentic
+    decisioning
+  - Automated campaign control including targeting constraints, budget pacing, and
+    bid modifications
+  - Programmatic advertising optimization in low-latency DSP/RTB environments
+  - Intelligent creative routing and supply/inventory selection
+  - Marketing campaign personalization and performance optimization
+  skills:
+    genai: [RAG, LLM tool use, Agentic patterns, Structured outputs, Multi-step agent
+        loops, Embeddings, Hybrid retrieval, Reranking, Prompt engineering]
+    ml: [Feature stores]
+    web: [APIs, Microservices]
+    databases: []
+    data: [Streaming/Eventing, Telemetry pipelines]
+    cloud: [AWS]
+    ops: [Distributed systems, A/B testing, Observability and monitoring, Experimentation
+        platforms]
+    languages: [Java, Go, Python]
+    domains: [Programmatic advertising, DSP/SSP/RTB]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8668175'
+  extracted_at: '2026-03-27T14:37:16.182026'

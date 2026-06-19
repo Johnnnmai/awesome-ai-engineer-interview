@@ -1,0 +1,51 @@
+company:
+  name: KLA
+  stage: Public
+  focus: Semiconductor manufacturing equipment and inspection systems
+position:
+  title: AI ML Data Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work building, fine-
+      tuning, and deploying LLM and ML systems, including RAG
+      pipelines, open-source model fine-tuning (LLaMA, Mistral),
+      and inference services. The engineer will work directly on
+      the models and AI systems themselves, not just supporting
+      infrastructure.
+  responsibilities:
+  - Develop and optimize RAG pipelines including document chunking, embedding generation,
+    vector storage, retrieval, reranking, and grounded generation with citations
+  - Work on LLM-based applications including fine-tuning open-source models like LLaMA
+    and Mistral, building prompt strategies, and deploying inference services
+  - Contribute to machine learning models for classification, regression, recommendation,
+    and anomaly detection
+  - Develop deep learning architectures using CNNs, RNNs, and Transformers
+  - Implement robust model evaluation frameworks measuring accuracy, F1, BLEU, perplexity,
+    hallucination detection, and relevance
+  - Collaborate with senior engineers on scalable pipelines, guardrails, and integration
+    with enterprise systems
+  use_cases:
+  - Document question-answering and retrieval systems using RAG
+  - Enterprise AI assistants and chatbots
+  - Anomaly detection for semiconductor manufacturing
+  - Recommendation systems
+  - Classification and regression for business applications
+  skills:
+    genai: [Hugging Face Transformers, Prompt engineering, RAG, LangChain, LlamaIndex,
+      LLaMA, Mistral]
+    ml: [NumPy, scikit-learn, PyTorch, TensorFlow, Keras, XGBoost, LightGBM, CNNs,
+      RNNs, Transformers, Fine-tuning]
+    web: []
+    databases: [Milvus, FAISS, Pinecone, Elasticsearch]
+    data: [Pandas]
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, Git, MLflow, Weights & Biases, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8622236'
+  extracted_at: '2026-03-27T13:58:03.724681'

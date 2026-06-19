@@ -1,0 +1,47 @@
+company:
+  name: Jack & Jill AI
+  stage: null
+  focus: AI-driven biotech research platform
+position:
+  title: Staff Engineer at AI-driven biotech research platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role involves building infrastructure, data systems,
+      and APIs that enable ML research and production deployment,
+      but does not involve directly building, training, or fine-
+      tuning ML models. The position supports ML teams by creating
+      data pipelines and platforms, making it ai-support rather
+      than ai-first.
+  responsibilities:
+  - Architect and manage cloud infrastructure through Terraform across multi-account
+    AWS organizations
+  - Design and implement database systems integrating structured biochemistry data
+    with unstructured experimental data for ML training
+  - Build and harden production APIs to transition internal ML models into service-oriented
+    products for external users
+  - Develop React frontends for scientific users to access discovery services
+  - Migrate legacy infrastructure to AWS and establish automated CI/CD pipelines
+  - Bridge gap between internal ML research tools and production-ready external APIs
+  use_cases:
+  - Biotech research and discovery platform
+  - Biochemistry data integration for ML training
+  - Scientific data management and analysis
+  - ML model serving for external scientific users
+  - Drug discovery and research acceleration
+  skills:
+    genai: []
+    ml: []
+    web: [React, API development]
+    databases: [Database design]
+    data: [Data pipelines]
+    cloud: [AWS, GCP]
+    ops: [Terraform, CI/CD, Docker]
+    languages: [Python]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8853922'
+  extracted_at: '2026-03-27T14:09:03.219747'

@@ -1,0 +1,60 @@
+company:
+  name: Sabre Corporation
+  stage: Public
+  focus: |-
+    AI-native technology leader powering travel retailing and
+    distribution
+position:
+  title: Principal AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly responsible for designing, building,
+      and scaling LLM-powered GenAI and ADK-based agentic
+      workflows. It involves hands-on work with RAG systems, agent
+      ecosystems, prompt engineering, fine-tuning, model
+      selection, and building production-grade GenAI solutions on
+      GCP. This is squarely an AI-first role.
+  responsibilities:
+  - Define reference architectures for GenAI apps, RAG systems, and agent ecosystems
+    (single/multi-agent) on GCP using ADK
+  - Architect and lead implementation of production-grade GenAI solutions (Vertex
+    AI models, Grounding, Pipelines) and agentic services (planning, tools, memory,
+    HIL)
+  - Build and maintain prompt libraries, tool catalogs, agent templates, and evaluation
+    harnesses for organization-wide reuse
+  - 'Standardize LLMOps: CI/CD for prompts/models/agents, model registry, traceability,
+    rollback, canaries, cost/performance scorecards'
+  - 'Implement multi-layer guardrails: policy prompts, filters, memory governance,
+    tool whitelisting, audit logs for regulator-ready posture'
+  - Mentor senior engineers and team leads; run architecture reviews, design clinics,
+    and red-team exercises
+  - Lead design reviews and production readiness assessments across teams
+  - Drive security reviews, policy-as-code, and auditability for all AI systems
+  use_cases:
+  - Intelligent travel retailing with personalized experiences for airlines, hoteliers,
+    and agencies
+  - LLM-powered GenAI and agentic workflows for travel industry operations
+  - RAG-based systems leveraging one of the world's largest travel data clouds
+  - Multi-agent collaboration for complex travel planning and booking workflows
+  - Enterprise-scale AI platform enabling product teams to rapidly build and deploy
+    AI-powered travel features
+  - Marketplace of AI agents/services with productized APIs for travel partners
+  skills:
+    genai: [LLM/GenAI, RAG systems, Prompt engineering, ADK (Agent Development Kit),
+      Multi-agent systems, Gemini, Model Garden, Multimodal pipelines]
+    ml: [Fine-tuning/adapter methods]
+    web: []
+    databases: [BigQuery, Vertex Vector Search]
+    data: [Pub/Sub, Dataflow, Cloud Composer, Dataplex]
+    cloud: [Vertex AI, Google Cloud Platform, Document AI, Cloud Run, Cloud Workflows]
+    ops: [Vertex AI Pipelines, LLMOps/MLOps, CI/CD, Docker, Kubernetes, Terraform,
+      Okta/IAP, Apigee, IAM, Secret Manager, VPC-SC, DLP]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9036673'
+  extracted_at: '2026-04-22T13:35:17.882302'

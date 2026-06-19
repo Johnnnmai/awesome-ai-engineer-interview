@@ -1,0 +1,59 @@
+company:
+  name: Ford Motor Company
+  stage: Public
+  focus: |-
+    Auto financing and credit services for Ford and Lincoln
+    vehicles
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on in designing, building, deploying, and
+      operationalizing both traditional ML models and GenAI/LLM-
+      based systems including RAG and agentic workflows. The
+      engineer owns end-to-end model/system lifecycle from data
+      ingestion through deployment and monitoring, directly
+      working with models and AI agents.
+  responsibilities:
+  - Design, prototype, validate, and productionize traditional ML models and GenAI/LLM-based
+    solutions (including RAG and agentic workflows) for credit products
+  - Own end-to-end model/system lifecycle including data ingestion, feature engineering,
+    model development, evaluation, deployment, monitoring, and retraining
+  - Build and operationalize AI agents that automate business processes with tool-using
+    patterns, multi-step orchestration, memory/state management, and safe human handoffs
+  - Ensure explainability, fairness, and regulatory compliance for credit/financial
+    use cases, producing audit-ready documentation and artifacts
+  - Integrate solutions into production by collaborating with software engineers and
+    MLOps teams, supporting CI/CD for ML/GenAI components
+  - Instrument monitoring and observability across the full lifecycle for both traditional
+    ML and GenAI/agent systems
+  - Build robust evaluation pipelines including holdout strategies, A/B testing frameworks,
+    and simulation-based testing for agent behavior
+  - Drive responsible AI and safety practices including guardrails, bias mitigation,
+    and privacy-by-design for agents and LLMs
+  use_cases:
+  - Real-time and batch fraud detection using traditional ML and graph/anomaly approaches
+  - Hierarchical forecasting for credit and financial products
+  - Conversational agent-assist for customer service and support
+  - RAG-based knowledge grounding for internal knowledge retrieval
+  - AI agents that automate business processes with tool-using and multi-step orchestration
+  - Credit risk modeling and classification
+  skills:
+    genai: [RAG, Prompt Engineering, LLM-based agents, Conversational AI]
+    ml: [PyTorch, scikit-learn, Classification, Regression, Time-series forecasting,
+      Anomaly detection, Graph-based fraud detection, SHAP, LIME]
+    web: [FastAPI, REST APIs, Microservices]
+    databases: [BigQuery, Snowflake]
+    data: [Spark, Databricks, Streaming/event-driven systems, Feature engineering]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, Model serving, ML monitoring/observability, A/B
+        testing]
+    languages: [Python, SQL]
+    domains: []
+    other: [Model risk management, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9007020'
+  extracted_at: '2026-04-22T12:51:47.228608'

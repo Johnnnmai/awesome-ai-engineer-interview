@@ -1,0 +1,54 @@
+company:
+  name: Precision Medicine Group
+  stage: Unknown
+  focus: |-
+    SaaS platform for life sciences biomarker data management
+    and analytics
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting and scaling GenAI systems
+      including RAG architectures, vector search, embeddings, and
+      conversational AI for data exploration. The position
+      requires direct implementation of LLM-powered features,
+      semantic search systems, and AI-first architectures.
+  responsibilities:
+  - Architect and scale GenAI systems for conversational data exploration addressing
+    biomarker data challenges
+  - Design and implement AI-first architectures including GenAI pipelines, embeddings,
+    vector search, and semantic search technologies
+  - Make strategic architectural decisions balancing performance, cost, scalability,
+    and maintainability across AI systems
+  - Continuously improve AI-powered features optimizing for accuracy, latency, and
+    user experience
+  - Shape the roadmap for AI experiences aligning technical innovation with product
+    goals
+  - Lead code reviews and mentor engineers on AI development best practices
+  - Collaborate with cross-functional teams to design, develop, test, and maintain
+    AI-powered software applications
+  - Debug and troubleshoot complex AI system issues and provide timely solutions
+  use_cases:
+  - Conversational data exploration for biomarker and life sciences data
+  - Semantic search across biospecimen, assay, and clinical data sources
+  - RAG-based question answering for enterprise biomarker data
+  - AI-powered insight generation from connected healthcare data sources
+  - Personalized data accessibility for biotech/pharma R&D teams
+  skills:
+    genai: [LangChain, LlamaIndex, RAG architectures, LLMs, Embedding models, Semantic
+        search]
+    ml: []
+    web: [Django, FastAPI, Flask, React]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, AWS Bedrock]
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: [GitHub Copilot, Data Structures and Algorithms]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7014962'
+  extracted_at: '2026-03-03T12:29:32.760986'

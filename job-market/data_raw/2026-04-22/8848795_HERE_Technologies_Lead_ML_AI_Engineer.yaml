@@ -1,0 +1,128 @@
+job_id: 8848795
+title: "Lead ML & AI Engineer"
+company: HERE Technologies
+location: Mumbai, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Ci/Cd
+  - Docker
+  - Flink
+  - Jenkins
+  - Kubernetes
+  - NoSQL
+  - Python
+  - Spark
+  - SQL
+company_size: 6,000 Employees
+description: |
+  What's the role?
+  
+  As a Lead AI/ML Engineer and member of our team, you will
+  work at the intersection of AI/ML and the various NDS
+  mapping products. You will dive deep into how the real world
+  is captured, interpreted, and transformed into the digital
+  maps that go into vehicles—enabling advanced navigation and
+  autonomous driving. Additionally you will:
+  
+  - Provide technical leadership in designing, developing, and
+    deploying ML solutions used to create high-definition, ISA
+    and ADAS maps.
+  - Own and drive end-to-end ML system architecture, including
+    data preprocessing, model training, inference pipelines,
+    deployment, monitoring, and scaling.
+  - Lead innovation and develop models based on computer vision,
+    NLP, deep-learning and machine learning
+  - Build systems using Agentic AI, Generative AI, and
+    foundational ML techniques.
+  - Build ML systems that are scalable, reliable, reproducible,
+    and optimized for production environments (on-cloud or in-
+    vehicle).
+  - Implement MLOps practices: CI/CD for ML, model versioning,
+    feature stores, drift detection, experimentation
+    frameworks.
+  - Own one or more ML or data components within the broader
+    mapping/routing ecosystem.
+  - Collaborate with platform and backend teams to integrate ML
+    outputs into map compilation workflows.
+  - Work on feature requirements, model behavior, accuracy
+    expectations, and performance characteristics.
+  - Conduct code reviews, architecture reviews, and share best
+    practices in ML engineering
+  - Champion efficient, reusable, high-quality code; drive
+    continuous improvement in ML development processes.
+  
+  Who are you?
+  
+  - Bachelor’s or Master’s degree in Computer Science, AI/ML,
+    Mathematics, or a related quantitative field
+  - Strong development experience in Python
+  - Experience in machine learning engineering, applied ML, data
+    engineering, or backend systems with ML components.
+  - Proven experience building end-to-end ML systems
+  - Strong understanding of ML algorithms, deep learning, data
+    structures, algorithms, and software engineering
+    principles.
+  - Experience with SQL/NoSQL databases
+  - Spark/Flink or other distributed data processing systems
+  - AWS (S3, EMR, Lambda, SageMaker or similar ML platforms) is
+    a plus
+  - Docker/Kubernetes, CI/CD, Jenkins
+  - Experience with MLOps tooling and practices is a strong
+    advantage.
+  - Able to translate business requirements into scalable ML
+    system designs.
+  
+  Preferred Experience
+  
+  - Working with map data formats (NDS, GIS, RDF, GDF), HD lane
+    models, or location-based datasets.
+  - Experience with ETL pipelines, data transformation, and
+    large-scale data engineering.
+  - Deep understanding of building high-precision map or routing
+    models.
+  
+  HERE is an equal opportunity employer. We evaluate qualified
+  applicants without regard to race, color, age, gender
+  identity, sexual orientation, marital status, parental
+  status, religion, sex, national origin, disability, veteran
+  status, and other legally protected characteristics.
+  
+  Who are we?
+  
+  HERE Technologies is a location data and technology platform
+  company. We empower our customers to achieve better outcomes
+  – from helping a city manage its infrastructure or a
+  business optimize its assets to guiding drivers to their
+  destination safely.
+  
+  At HERE we take it upon ourselves to be the change we wish
+  to see. We create solutions that fuel innovation, provide
+  opportunity and foster inclusion to improve people’s lives.
+  If you are inspired by an open world and driven to create
+  positive change, join us. Learn more about us on our YouTube
+  Channel.
+  
+  Join our fast growing, highly motivated NDS (Navigation Data
+  Standard) team. As a member of our team, you will have the
+  opportunity to dive deep into how we capture the real world,
+  how this is reflected in our reality index, and work with
+  the team on how this data goes straight into cars with our
+  NDS deliveries. We work with Agile practices and co-operate
+  with numerous different teams inside and outside of the
+  company. Our team delivers digital maps in NDS formats to
+  multiple automotive customers where the data is going
+  straight into cars to power IVI, ADAS and autonomous driving
+  uses cases.
+industries:
+  - Artificial Intelligence
+  - Automotive
+  - Computer Vision
+  - Information Technology
+  - Internet of Things
+  - Logistics
+  - Software
+posted_date: 2026-04-17
+url: "https://builtin.com/job/lead-ml-ai-engineer/8848795"
+source: Built In

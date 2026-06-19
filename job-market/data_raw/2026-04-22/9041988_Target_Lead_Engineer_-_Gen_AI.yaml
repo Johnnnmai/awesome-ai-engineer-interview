@@ -1,0 +1,152 @@
+job_id: 9041988
+title: Lead Engineer - Gen AI
+company: Target
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Azure
+  - Cassandra
+  - Docker
+  - Elk Stack
+  - GCP
+  - Gitlab
+  - Grafana
+  - Java
+  - Jenkins
+company_size: 172,344 Employees
+description: |
+  Lead Engineer
+  
+  About Us: As a Fortune 50 company with more than 400,000
+  team members worldwide, Target is an iconic brand and one of
+  America's leading retailers. At Target, we have a timeless
+  purpose and a proven strategy and that hasn’t happened by
+  accident. Some of the best minds from diverse backgrounds
+  come together at Target to redefine retail in an inclusive
+  learning environment that values people and delivers world-
+  class outcomes. That winning formula is especially apparent
+  in Bengaluru, where Target in India operates as a fully
+  integrated part of Target’s global team and has more than
+  4,000 team members supporting the company’s global strategy
+  and operations.
+  
+  
+  Target Tech Overview: Every time a guest enters a Target
+  store or browses Target.com, they experience the impact of
+  Target’s investments in technology and innovation. We’re the
+  technologists behind one of the most loved retail brands,
+  delivering joy to millions of our guests, team members, and
+  communities.
+  
+  
+  Our global in-house technology team of more than 5,000 of
+  engineers, data scientists, architects, coaches and product
+  managers strive to make Target the most convenient, safe and
+  joyful place to shop. We use agile practices and leverage
+  open-source software to adapt and build best-in-class
+  technology for our team members and guests—and we do so with
+  a focus on diversity and inclusion, experimentation and
+  continuous learning.
+  
+  About Pyramid: Merchandising is a Portfolio within Target –
+  Product Engineering provide reliable data that is core to
+  our enterprise retail operations, including foundational
+  data and aggregation services at scale for retail and
+  commerce platforms. We deal with data around Pricing,
+  Promotions, Item, Supplier, Owned Brand, Merch Planning,
+  Space Presentation & Transitions(SPT) & Intelligence
+  Automation.
+  
+  
+  
+  As a lead engineer you would be responsible for
+  
+  - Designing scalable architecture with the best choice of
+    tech, responsible for all the services/functionalities
+    that the team develops while ensuring quality of the
+    team's code and/or infrastructure standards.
+  - Hands-on development, often taking on the more complicated
+    tasks. Ensures solution is production ready, deployable,
+    scalable and resilient.
+  - Planning and delivering of work in the team in addition to
+    their own work. Promotes a learning culture through
+    mentoring and coaching.
+  - Ensures product observability is in place for reliability.
+    Fosters a culture of observability across teams and helps
+    use operational data to improve stability and performance
+    of their domains. Drives monitoring work on their team
+    based on the organization's monitoring philosophy. Is
+    aware of the operational data for their team’s domain and
+    uses it as a basis for driving changes to the team's
+    services to achieve stability and performance
+    improvements.
+  - Responsible for ensuring the security of the product and
+    fostering a security first mindset across teams. Highly
+    skilled with applying and implementing security concepts
+    such as identifying vulnerabilities in software, creating
+    logic to detect malicious behavior, and analyzing network
+    or host artifacts.
+  - Integrate Large Language Models (LLMs) and GenAI-powered
+    features into core applications.
+  - Build robust systems that mitigate hallucinations and
+    improve AI reliability.
+  - Experience building agentic frameworks and AI-driven
+    automation for process enhancement
+  
+  
+  
+  Position Overview: To succeed in this role, you’ll bring
+  over 7+ years of experience in software design and
+  development, with 5+ years focused on building scalable
+  backend applications. You’ll be a proven leader in guiding
+  technical teams and driving products at scale to successful
+  completion. Your expertise will lie in JVM-based
+  technologies, specifically Java and Kotlin, along with a
+  deep understanding of building robust, scalable systems.
+  
+  Must Have Skills:
+  
+  - Java & Python (Advanced proficiency in backend, AI, and
+    automation workflows using Java and Python)
+  - Microservices Architecture (Designing, developing, and
+    managing scalable microservices)
+  - Spring Boot or Micronaut (Experience with JVM-based
+    frameworks, including reactive programming)
+  - AI / LLM Integration (Integrating Large Language Models and
+    GenAI features into core applications)
+  - AI Reliability & Automation (Building agentic frameworks,
+    reducing hallucinations, and improving process automation
+    using OpenAI APIs and SDKs)
+  - Messaging Systems (Kafka, RabbitMQ)
+  - Databases (Experience with NoSQL databases like Cassandra,
+    MongoDB, and SQL-based databases like PostgreSQL)
+  - CI/CD (Building and managing pipelines with Jenkins, GitLab,
+    or similar tools)
+  - Unit and Integration Testing (Spock, JUnit, TestContainers
+    for Java; PyTest, Unittest for Python)
+  - Cloud Services (AWS, GCP, Azure)
+  - Containerization and Orchestration (Docker, Kubernetes)
+  - Monitoring & Observability (Grafana, ELK Stack, Prometheus)
+  - Event-Driven Architecture (Knowledge of event-driven
+    patterns in distributed systems)
+  
+  Good to Have Skills:
+  
+  - Functional Programming (Familiarity with functional
+    programming paradigms in Kotlin)
+  - GraphQL (Experience designing and integrating GraphQL APIs)
+  - Legacy System Modernization (Experience refactoring and
+    modernizing older systems)
+  - Security Best Practices (OWASP, vulnerability scanning,
+    secure coding principles)
+  - Agile Methodologies (Familiar with Scrum, Kanban, or other
+    agile processes)
+industries:
+  - eCommerce
+  - Other
+  - Retail
+posted_date: 2026-04-14
+url: "https://builtin.com/job/lead-engineer-gen-ai/9041988"
+source: Built In

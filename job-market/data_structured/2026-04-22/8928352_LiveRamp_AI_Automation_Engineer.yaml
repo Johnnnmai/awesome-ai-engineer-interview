@@ -1,0 +1,56 @@
+company:
+  name: LiveRamp
+  stage: Public
+  focus: |-
+    Data collaboration and identity resolution platform for
+    enterprises
+position:
+  title: AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves designing and building AI
+      agents, implementing agentic AI workflows, conducting prompt
+      engineering, and developing custom agentic actions using
+      LLMs (Gemini, Claude, OpenAI) and MCP servers. The engineer
+      is hands-on with building, tuning, and deploying AI agents
+      and automations — core AI/LLM system work.
+  responsibilities:
+  - Design and build AI agents and copilot experiences for internal use cases with
+    guidance on architecture and standards
+  - Conduct prompt engineering analysis, troubleshooting, and continuous tuning of
+    AI agents and responses
+  - Create, maintain, and update automations using iPaaS tools such as Workato, Okta
+    Workflows, and Zapier
+  - Implement agentic AI workflows and computer use models leveraging Gemini, Claude,
+    and OpenAI alongside browser automation tools
+  - Develop custom agentic actions and integrate them with enterprise platforms using
+    MCP servers and APIs
+  - Develop and troubleshoot Python scripts for automation and AI solutions
+  - Monitor and maintain workflow integrations, agents, and automations, identifying
+    issues and proposing improvements
+  - Collaborate with cross-functional departments (HR, Legal, Sales, Eng) to understand
+    and fulfill automation needs
+  use_cases:
+  - Internal AI agents and copilot experiences for enterprise productivity
+  - Automated multi-step task workflows using agentic AI and browser automation
+  - Cross-department automation of business processes (HR, Legal, Sales, Engineering)
+  - AI-powered integration of enterprise platforms via MCP servers and APIs
+  - Prompt-engineered AI responses for scoped internal problem areas
+  skills:
+    genai: [LangChain/LangGraph, Prompt Engineering, Agentic AI Design Patterns, OpenAI
+        API, Claude API, Gemini API, MCP (Model Context Protocol), Computer Use Models]
+    ml: []
+    web: [REST APIs]
+    databases: [BigQuery]
+    data: [Data Pipelines]
+    cloud: [GCP, AWS]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Workato, Okta Workflows, Zapier, Browser Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8928352'
+  extracted_at: '2026-04-22T13:04:01.423277'

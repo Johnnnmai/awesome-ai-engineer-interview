@@ -1,0 +1,58 @@
+company:
+  name: The Hartford Financial Services Group, Inc.
+  stage: Public
+  focus: Insurance and financial services company
+position:
+  title: Lead Productivity AI Engineer (Gemini Enterprise  & Copilot)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves deploying, configuring, and implementing
+      AI systems (Gemini Enterprise, Microsoft 365 Copilot,
+      Copilot Studio) with focus on agentic platforms. The
+      engineer owns solutions end-to-end including architecture,
+      integration, and lifecycle management of AI productivity
+      tools, though appears more focused on
+      deployment/configuration than building custom AI models from
+      scratch.
+  responsibilities:
+  - Deliver complex subsystems and integrations for Gemini Enterprise, Copilot and
+    related Microsoft 365 services, owning solutions end-to-end from design through
+    production
+  - Define solution architecture for Copilot and agentic deployments, including governance,
+    security, scalability, resiliency, and lifecycle management
+  - Integrate and connect Gemini Enterprise and Microsoft 365 Copilot with enterprise
+    systems and M365 workloads, ensuring seamless interoperability across platforms
+  - Identify and implement opportunities for automation, refactoring, performance
+    tuning, and maintainability improvements across agentic solutions
+  - Implement CI/CD pipelines for agent platforms such as Gemini Enterprise and M365
+    Copilot-related services, aligned with enterprise DevOps and security standards
+  - Guide junior engineers, lead technical and architectural discussions, and influence
+    platform-level engineering and design decisions
+  - Ensure adherence to AI governance policies, licensing requirements, and enterprise
+    data protection standards
+  - Drive adoption of Copilot, Copilot components, Gemini Enterprise, and AI-driven
+    insights to enhance productivity and decision-making across business units
+  use_cases:
+  - Enterprise productivity enhancement through AI assistants
+  - Automated workflow and process optimization using agentic platforms
+  - Enterprise search and knowledge discovery across M365 workloads
+  - AI-driven decision support and business intelligence
+  - Cross-platform integration connecting AI assistants with enterprise systems
+  - Contextual AI responses and intelligent automation for knowledge workers
+  skills:
+    genai: [Microsoft 365 Copilot, Copilot Studio, Gemini Enterprise]
+    ml: []
+    web: [Power Platform, Microsoft Teams, SharePoint]
+    databases: []
+    data: [Power BI, Viva Insights]
+    cloud: []
+    ops: [CI/CD pipelines]
+    languages: [PowerShell, Python]
+    domains: []
+    other: [Data governance and compliance]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8755135'
+  extracted_at: '2026-03-27T14:41:01.683745'

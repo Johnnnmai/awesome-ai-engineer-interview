@@ -1,0 +1,50 @@
+company:
+  name: Clarivate Analytics
+  stage: Public
+  focus: Analytics and information services provider
+position:
+  title: Lead Product Development AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, architecting, and
+      delivering GenAI and agentic AI systems including LLMs, RAG
+      architectures, agent frameworks (LangChain, AutoGen,
+      CrewAI), and MCP-based platforms. The position involves
+      hands-on work with prompt engineering, agent orchestration,
+      and production-grade AI deployment.
+  responsibilities:
+  - Define and drive the technical vision for GenAI, agentic AI and MCP-based capabilities
+    across multiple product lines
+  - Lead prompt engineering, memory management and MCP-based context orchestration
+    for scalable AI systems
+  - Design and optimize RAG, enterprise knowledge and MCP-backed context platforms
+    including secure data ingestion and governance
+  - Guide the integration of GenAI and agentic AI features into core products, APIs
+    and enterprise platforms
+  - Drive production readiness covering reliability, observability, performance, and
+    responsible agent behavior
+  - Mentor senior engineers and build technical leadership bench for GenAI capabilities
+  use_cases:
+  - Enterprise GenAI and agentic AI product platforms
+  - Scalable RAG and knowledge retrieval systems
+  - Agent orchestration and context management frameworks
+  - AI copilots and multi-product agent-based systems
+  - Enterprise AI governance and compliance platforms
+  skills:
+    genai: [LLMs, LangChain, AutoGen, CrewAI, LlamaIndex, RAG architectures, Prompt
+        engineering, Agent orchestration, Model Context Protocol (MCP), Embeddings]
+    ml: []
+    web: [APIs, Microservices]
+    databases: [FAISS, Pinecone, Milvus, Weaviate, Vector databases]
+    data: []
+    cloud: []
+    ops: [Distributed systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8593588'
+  extracted_at: '2026-03-03T12:45:01.551799'

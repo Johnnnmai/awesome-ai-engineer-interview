@@ -1,0 +1,49 @@
+company:
+  name: Nayya
+  stage: Series B/C (backed by multiple VC firms including ICONIQ, Felicis Ventures)
+  focus: AI-powered health and wealth benefits platform for employees
+position:
+  title: Senior Software Engineer, AI Applications
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is AI-first because it involves hands-on work
+      building and deploying AI-native products, specifically
+      developing LLM-powered systems, implementing RAG pipelines,
+      building agent frameworks, and creating prompt orchestration
+      systems. The engineer will directly work on AI/LLM systems
+      that extract, structure, and reason over complex data.
+  responsibilities:
+  - Develop AI-native features by building and integrating LLM-powered systems for
+    extracting, structuring, and reasoning over complex healthcare and benefits data
+  - Build AI infrastructure including retrieval pipelines (RAG), embeddings, prompt
+    orchestration, and internal agent frameworks
+  - Own end-to-end systems from design, application development, AI integrations to
+    final product delivery
+  - Collaborate cross-functionally with Product, Design and other functions to understand
+    customer workflows and translate them into technical solutions
+  - Implement evaluation pipelines and benchmarking strategies to measure LLM performance
+  - Design guardrails that enforce safety, accuracy, and compliance thresholds across
+    AI-powered features
+  use_cases:
+  - Healthcare and benefits data extraction and structuring
+  - Employee health and wealth management platform
+  - AI-powered benefits guidance and recommendations
+  - Reasoning over complex benefits information
+  skills:
+    genai: [OpenAI API, Claude API, RAG, embeddings, prompt orchestration, agent frameworks,
+      LLM evaluation pipelines]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, infrastructure as code, monitoring tools]
+    languages: [TypeScript, Ruby, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8796926'
+  extracted_at: '2026-03-27T14:11:04.490793'

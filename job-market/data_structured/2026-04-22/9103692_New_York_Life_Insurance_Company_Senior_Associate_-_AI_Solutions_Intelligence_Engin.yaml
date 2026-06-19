@@ -1,0 +1,51 @@
+company:
+  name: New York Life Insurance Company
+  stage: Public
+  focus: Fortune 100 mutual life insurance and financial services
+position:
+  title: Senior Associate - AI Solutions Intelligence Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and implementing Generative AI
+      solutions, building production-grade code to support
+      scalable AI applications, and deploying AI services via
+      APIs. While it has strong data engineering and analytics
+      components, the core responsibility is building and
+      deploying GenAI solutions end-to-end.
+  responsibilities:
+  - Design and implement Generative AI (GenAI) solutions leveraging existing ML infrastructure
+    or Databricks
+  - Develop and maintain production-grade code using Python, DBT, Databricks, and
+    SQL for scalable AI and analytics applications
+  - Contribute to data preparation, optimization, and performance improvements for
+    AI systems
+  - Collaborate with cross-functional partners through design and code reviews ensuring
+    best practices
+  - Own technical projects across the full lifecycle from concept and prototype to
+    production launch
+  - Translate complex data into clear, actionable insights that inform key business
+    decisions
+  - Collaborate with data scientists, engineers, and business partners to design innovative
+    solutions
+  use_cases:
+  - Generative AI solutions for enterprise productivity and process streamlining
+  - Advanced analytics for customer experience improvement in insurance
+  - Actionable business insights from complex data for strategic decision-making
+  - Scalable AI and analytics applications for a Fortune 100 financial services company
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning]
+    web: [FastAPI]
+    databases: []
+    data: [DBT, Databricks, Data Engineering]
+    cloud: [Azure, AWS, GCP]
+    ops: [MLOps, Git]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9103692'
+  extracted_at: '2026-04-22T13:19:12.373840'

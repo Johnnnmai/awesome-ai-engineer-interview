@@ -1,0 +1,93 @@
+job_id: 8752031
+title: AI Engineer - Must be Mandarin and English Fluent
+company: Chubb
+location: London, GBR
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Docker
+  - Kubernetes
+  - Lora
+  - Peft
+  - Python
+  - Qlora
+  - Sse
+  - Tgi
+  - Triton
+  - Vllm
+company_size: 27,791 Employees
+description: |
+  AI Engineer
+  
+  Position Overview
+  
+  We are seeking an AI Engineer to join our Global Analytics
+  team in London. This role is focused on the end-to-end
+  lifecycle of production-grade AI, from training and fine-
+  tuning specialized models to architecting high-performance
+  inference pipelines.
+  
+  The ideal candidate views AI as a rigorous engineering
+  discipline. Beyond building models, you will be responsible
+  for writing high-quality, maintainable Python code and
+  ensuring that every solution—whether a voice agent or a
+  document processor—is built for reliability, low latency,
+  and global scale.
+  
+  Key Responsibilities
+  
+  - Model Training & Fine-Tuning: Lead the adaptation of Large
+    Language Models (LLMs) for domain-specific tasks using
+    techniques like LoRA, QLoRA, and PEFT to balance
+    performance with resource efficiency.
+  - Inference Optimization: Architect and optimize inference
+    pipelines to minimize TTFT (Time to First Token) and
+    maximize throughput. This includes implementing
+    quantization, caching strategies, and efficient batching.
+  - Production Engineering: Build and maintain real-time AI
+    pipelines using WebSockets and SSE, ensuring seamless low-
+    latency delivery for voice (ASR/TTS) and text
+    applications.
+  - Architecture & MLOps: Deploy and orchestrate models within
+    containerized microservice architectures
+    (Docker/Kubernetes), ensuring robust monitoring, security,
+    and scalability.
+  - Collaborative Delivery: Work closely with Business Analysts
+    and internal stakeholders to bridge the gap between
+    commercial requirements and technical implementation.
+  
+  Qualifications
+  
+  Technical Requirements
+  
+  - Professional Experience: 5+ years in AI/ML engineering with
+    a documented history of moving complex models from
+    research into production.
+  - Python Mastery: Deep proficiency in Python. You have a
+    strong commitment to clean coding standards (SOLID/DRY),
+    modular design, and comprehensive unit/integration
+    testing.
+  - Generative AI Deep Dive: Hands-on experience with LLM
+    training cycles, parameter-efficient fine-tuning (PEFT),
+    and sophisticated prompt engineering.
+  - Inference Stack: Experience with high-performance inference
+    servers (e.g., vLLM, TGI, or Triton) and an understanding
+    of how to optimize models for GPU deployment.
+  - Infrastructure: Comfortable working in Linux-based
+    environments and proficient in managing containerized
+    workloads and automated CI/CD pipelines.
+  - Advanced RAG: Experience building production-ready
+    Retrieval-Augmented Generation systems, including vector
+    database management and semantic search optimization.
+  
+  Preferred Qualifications
+  
+  - Experience in the insurance or financial services sector.
+  - Deep knowledge of GPU architecture, CUDA, and hardware-level
+    performance optimization.
+  - Familiarity with Document Intelligence frameworks (OCR,
+    layout analysis, and multimodal extraction).
+  - MUST be fluent in Mandarin
+posted_date: 2026-03-13
+url: "https://builtin.com/job/ai-engineer-must-be-mandarin-and-english-fluent/8752031"
+source: Built In

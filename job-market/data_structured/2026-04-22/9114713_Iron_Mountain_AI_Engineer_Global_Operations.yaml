@@ -1,0 +1,49 @@
+company:
+  name: Iron Mountain
+  stage: Public
+  focus: |-
+    Records management, data centers, digital transformation,
+    and logistics services
+position:
+  title: AI Engineer, Global Operations
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing, building, and
+      deploying production-ready ML models and AI agents
+      (including agentic workflows and RAG solutions) that
+      optimize logistics workflows. The engineer is hands-on with
+      model development and deployment, making this an ai-first
+      role.
+  responsibilities:
+  - Design, build, and monitor production-ready Machine Learning models and automated
+    agents to streamline multi-step operational decision-making
+  - Optimize operational workflows by building ETL pipelines and integrating predictive
+    tools into warehouse and logistics software
+  - Collaborate with Finance, Facilities, and IT teams to bridge operational challenges
+    with scalable technical solutions
+  - Govern AI safety and compliance through rigorous model validation, data governance,
+    and bias mitigation
+  - Deploy agentic workflows and RAG solutions using platforms like LangChain or n8n
+  - Communicate complex model outputs to non-technical business leaders
+  use_cases:
+  - Optimize complex logistics workflows and supply chain operations
+  - Automate multi-step operational decision-making in field operations
+  - Drive measurable cost reductions across warehouse and logistics processes
+  - Predictive tooling for facilities and warehouse management
+  skills:
+    genai: [LangChain, n8n, RAG (Retrieval-Augmented Generation), Agentic Workflows]
+    ml: [Machine Learning model deployment]
+    web: []
+    databases: []
+    data: [ETL Pipelines]
+    cloud: []
+    ops: [Model validation and governance]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9114713'
+  extracted_at: '2026-04-22T12:36:39.102668'

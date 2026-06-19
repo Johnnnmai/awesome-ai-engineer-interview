@@ -1,0 +1,48 @@
+company:
+  name: Zensar Technologies
+  stage: Public
+  focus: IT services and digital solutions consultancy
+position:
+  title: AI - Acceleration PowerApps Developer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the "AI" prefix in the job title, this role is
+      fundamentally a Microsoft Power Platform developer focused
+      on building business applications, workflows, and SharePoint
+      solutions. There is no mention of building, training, fine-
+      tuning, or deploying AI/ML models, LLMs, or agents. The role
+      involves low-code/no-code platform development, not hands-on
+      AI work.
+  responsibilities:
+  - Develop and maintain solutions using Microsoft Power Platform including SharePoint
+    Online, Power Automate, Power Apps, and Dataverse
+  - Integrate Power Platform solutions with Dynamics 365 to enhance business processes
+  - Collaborate with cross-functional teams to understand business requirements and
+    translate them into technical solutions
+  - Design, develop, and implement custom applications and workflows to automate business
+    processes
+  - Provide technical support and troubleshooting for Power Platform solutions
+  - Stay updated with the latest Power Platform features and best practices
+  use_cases:
+  - Business process automation using Power Platform
+  - Document management and SharePoint migration
+  - Custom enterprise application development
+  - Dynamics 365 integration for business workflows
+  skills:
+    genai: []
+    ml: []
+    web: [SharePoint Framework (SPFx)]
+    databases: [Dataverse, SQL Server]
+    data: []
+    cloud: [Azure]
+    ops: [Agile methodologies]
+    languages: []
+    domains: []
+    other: [Microsoft Power Platform, SharePoint Online, Power Automate, Power Apps,
+      Dynamics 365, Office 365]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8899396'
+  extracted_at: '2026-04-22T13:46:06.732083'

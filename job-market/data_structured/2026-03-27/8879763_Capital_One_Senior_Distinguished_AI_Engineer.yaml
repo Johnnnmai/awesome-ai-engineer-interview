@@ -1,0 +1,50 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: Banking and financial services leveraging AI/ML
+position:
+  title: Senior Distinguished AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying AI systems
+      including foundation model training, LLM inference, and
+      optimization. The position directly works on AI/ML models
+      and infrastructure with hands-on development of AI
+      components like guardrails, model evaluation, and LLM
+      optimization techniques.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for customers
+    and associates
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training and LLM inference
+  - Implement similarity search, guardrails, model evaluation, experimentation, governance,
+    and observability systems
+  - Leverage Open Source and SaaS AI technologies including AWS Ultraclusters, Huggingface,
+    VectorDBs, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve performance,
+    scalability, cost, and latency
+  - Contribute to technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Fraud detection and unusual charge notifications
+  - Real-time customer question answering
+  - AI-powered products for internal associates
+  - Enterprise AI infrastructure and platforms
+  skills:
+    genai: [LLM inference, Nemo Guardrails, LLM optimization, Guardrails]
+    ml: [PyTorch, Huggingface, Foundation model training, Model evaluation]
+    web: []
+    databases: [VectorDBs, Similarity search]
+    data: []
+    cloud: [AWS Ultraclusters, AWS, Google Cloud, Azure]
+    ops: [Experimentation, Observability, Governance]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8879763'
+  extracted_at: '2026-03-27T16:08:08.609274'

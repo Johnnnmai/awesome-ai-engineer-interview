@@ -1,0 +1,53 @@
+company:
+  name: Cyncly
+  stage: Private Equity-backed
+  focus: |-
+    End-to-end software solutions for customizable product and
+    space design across Kitchen & Bath, Furniture, Window, Glass
+    & Door, and Flooring industries
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and integrating AI/ML models
+      (computer vision, object detection, image classification)
+      into solution pipelines, with hands-on work in model
+      development using OpenCV, YOLO, Faster R-CNN, and diffusion
+      models. The position requires implementing AI/ML solutions
+      directly, not just supporting infrastructure.
+  responsibilities:
+  - Conduct exploratory data analysis and build AI/ML models to meet business and
+    user requirements
+  - Integrate machine learning models into solution pipelines for production deployment
+  - Develop and implement databases, data collection systems, and data analytics strategies
+  - Identify, analyze, and interpret trends or patterns in complex data sets using
+    statistical techniques
+  - Work with Data Engineers to build data science infrastructure
+  - Filter and clean data by reviewing reports and performance indicators to locate
+    and correct issues
+  - Collaborate with management to prioritize business and information needs
+  - Ensure solution robustness and scalability across multiple clients
+  use_cases:
+  - Object detection and image classification for customizable products
+  - Computer vision applications for product content analysis
+  - Image processing and classification for design industry solutions
+  - Voice assistants and chatbots for customer interaction
+  - Analytics solutions for Kitchen & Bath, Furniture, and Flooring industries
+  skills:
+    genai: []
+    ml: [OpenCV, YOLO, Faster R-CNN, TensorFlow, Deep Learning, Image Processing,
+      Object Detection, Image Classification, Diffusion Models]
+    web: [REST API]
+    databases: [NoSQL, RDBMS]
+    data: [Statistical Analysis]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8822067'
+  extracted_at: '2026-03-27T13:58:53.784857'

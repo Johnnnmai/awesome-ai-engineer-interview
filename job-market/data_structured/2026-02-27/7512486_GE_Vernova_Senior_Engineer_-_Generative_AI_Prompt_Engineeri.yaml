@@ -1,0 +1,52 @@
+company:
+  name: GE Vernova
+  stage: Public
+  focus: Energy technology and electrification for zero-carbon future
+position:
+  title: Senior Engineer - Generative AI & Prompt Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on working with LLMs -
+      creating and optimizing prompts, developing prompting
+      frameworks, and integrating LLM solutions into applications.
+      The core work involves hands-on implementation and
+      refinement of GenAI systems, not just supporting
+      infrastructure or data pipelines for others' AI work.
+  responsibilities:
+  - Collaborate with domain experts to understand business needs and translate them
+    into clear and effective LLM prompts
+  - Develop, test, and refine prompts for a variety of use cases, ensuring high accuracy
+    and relevance in generated outputs
+  - Work closely with software developers to integrate LLM solutions into existing
+    or new applications
+  - Contribute to the development of a scalable framework for prompt engineering,
+    promoting reuse and knowledge sharing across different business units
+  - Assist in gathering and analyzing user feedback to continually improve prompt
+    effectiveness
+  - Stay up-to-date with advancements in LLM technology and contribute to strategic
+    decisions on tool and platform selection
+  - Document prompt engineering processes, best practices, and use case outcomes to
+    build a comprehensive knowledge base
+  use_cases:
+  - Automating prompting across the organization
+  - Building reusable prompting framework for cross-business sharing
+  - Streamlining internal operations through GenAI
+  - Improving customer experiences via LLM-powered solutions
+  - Energy industry process automation and optimization
+  skills:
+    genai: [Prompt Engineering, OpenAI GPT models, Hugging Face]
+    ml: [PyTorch, Machine Learning]
+    web: []
+    databases: []
+    data: [Pandas, NumPy]
+    cloud: []
+    ops: [Git]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7512486'
+  extracted_at: '2026-03-03T12:05:25.889768'

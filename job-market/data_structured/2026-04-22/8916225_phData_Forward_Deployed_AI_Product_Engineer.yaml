@@ -1,0 +1,62 @@
+company:
+  name: phData
+  stage: Growth (established partner ecosystem, 600+ certifications, multiple partner
+    of the year awards)
+  focus: |-
+    Data and AI consulting services partnering with major cloud
+    platforms to deliver enterprise solutions
+position:
+  title: Forward Deployed AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is a Forward Deployed AI Product Engineer who
+      directly builds, prototypes, and productionizes AI-native
+      applications including RAG pipelines, AI agents, agentic
+      workflows, and LLM orchestration. The engineer works hands-
+      on with AI models and agents to solve business problems,
+      making this clearly an ai-first role despite being customer-
+      facing.
+  responsibilities:
+  - Identify and shape high-impact AI use cases by embedding directly into customer
+    business units and understanding their operations
+  - Rapidly prototype full-stack, MVP-grade AI-native applications, agents, and workflows
+    that demonstrate measurable ROI within weeks
+  - Productionize the most impactful AI solutions by integrating with client AI Data
+    Platforms, existing systems, and operational workflows
+  - Implement AI-powered workflows including RAG pipelines, AI agents, memory systems,
+    and model-context protocols
+  - Build high-fidelity user interfaces (Streamlit, Gradio, React) that make AI capabilities
+    accessible to business users
+  - Transform and harmonize disparate data sources into client data platforms (Snowflake,
+    Databricks) to feed AI applications
+  - Capture and contribute technical patterns, best practices, and anti-patterns back
+    into client platforms and internal playbooks
+  - Lead discovery sessions with business stakeholders to define success metrics,
+    quantify ROI, and justify platform investments
+  use_cases:
+  - AI-powered enterprise search and information retrieval via RAG pipelines
+  - Agentic AI workflows automating cross-functional business processes that were
+    previously too manual or complex
+  - AI-native internal tools and operational interfaces for business users
+  - Data harmonization and transformation pipelines feeding AI applications in cloud
+    data platforms
+  - Workforce AI solutions integrating with enterprise systems like Microsoft Copilot
+  - AI-powered decision support systems tied to measurable business KPIs and ROI
+  skills:
+    genai: [RAG, LLM orchestration, Agentic workflows, Prompt engineering, AI guardrails
+        and evaluations, Model-context protocols, Microsoft Copilot]
+    ml: []
+    web: [Streamlit, Gradio, React, REST APIs]
+    databases: [Snowflake, Postgres, Vector databases, Graph databases, Pinecone]
+    data: [Databricks, Fivetran, dbt]
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD pipelines, Cloud orchestration tools]
+    languages: [Python, SQL, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8916225'
+  extracted_at: '2026-04-22T13:39:49.938501'

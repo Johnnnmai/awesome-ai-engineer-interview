@@ -1,0 +1,45 @@
+company:
+  name: WorldQuant
+  stage: Public
+  focus: |-
+    Quantitative investment management and systematic financial
+    strategies
+position:
+  title: AI Software Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and building scalable AI-driven
+      products with a focus on LLMs and AI, explicitly requiring
+      understanding of language models and vector databases. The
+      engineer will create AI-powered applications from end to
+      end, making this an ai-first role centered on building and
+      deploying AI solutions.
+  responsibilities:
+  - Collaborate with cross-functional distributed teams across WorldQuant
+  - Gather, analyze and spec out requirements, and manage product deliverables
+  - Design and build scalable AI-driven products addressing real-world problems for
+    internal colleagues
+  - Stay current with the latest technical advancements in AI and LLMs
+  - Work with a broad range of teams to improve productivity through custom AI solutions
+  use_cases:
+  - Internal productivity tools powered by AI for WorldQuant employees
+  - Company-wide applications addressing everyday operational problems
+  - AI-driven solutions for quantitative finance workflows
+  - Custom AI applications to amplify WorldQuant's investment platform success
+  skills:
+    genai: [LLMs, AI-driven product design]
+    ml: []
+    web: []
+    databases: [Vector databases, SQL, Redis]
+    data: [Kafka]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8989376'
+  extracted_at: '2026-04-22T13:28:52.452618'

@@ -1,0 +1,51 @@
+company:
+  name: Accenture
+  stage: Public
+  focus: Global professional services and technology consulting
+position:
+  title: AI / ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, fine-tuning, and
+      deploying LLMs and generative AI models, implementing RAG
+      pipelines, integrating LLMs into enterprise applications,
+      and managing the full model lifecycle. The core work is
+      hands-on with AI/ML systems including model training,
+      evaluation, and deployment.
+  responsibilities:
+  - Design, develop, and maintain scalable AI-driven applications using Python and
+    front-end technologies
+  - Architect and implement full-stack solutions integrating LLMs and generative AI
+    capabilities
+  - Build and fine-tune large language models for various enterprise applications
+  - Collaborate with data scientists and product teams to define AI use cases, prototypes,
+    and production-grade deployments
+  - Integrate APIs and develop microservices to enable LLM-based features in web applications
+  - Manage model lifecycle including training, evaluation, versioning, and deployment
+  - Implement best practices for data preprocessing, vector databases, embeddings,
+    and prompt engineering
+  - Ensure performance, scalability, and security of AI applications
+  use_cases:
+  - Enterprise generative AI application development
+  - LLM-powered chatbot and conversational systems
+  - Image processing using deep learning and neural networks
+  - RAG-based enterprise search and knowledge retrieval
+  - Large-scale model deployment and serving in production environments
+  skills:
+    genai: [OpenAI API, LangChain, Hugging Face Transformers, RAG, Prompt Engineering,
+      Fine-tuning LLMs, Embeddings]
+    ml: [PyTorch, TensorFlow, Feature Engineering, Deep Learning]
+    web: [FastAPI, Flask, Django, React, Vue.js, REST APIs]
+    databases: [FAISS, Pinecone, SQL, MongoDB, Redis]
+    data: [Pandas, NumPy]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, MLflow, Weights & Biases]
+    languages: [Python, JavaScript]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9124501'
+  extracted_at: '2026-04-22T14:00:45.144726'

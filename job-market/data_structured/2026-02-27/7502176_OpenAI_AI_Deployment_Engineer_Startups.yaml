@@ -1,0 +1,47 @@
+company:
+  name: OpenAI
+  stage: Established
+  focus: AI research and deployment, building safe AGI
+position:
+  title: AI Deployment Engineer, Startups
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly deploying and implementing
+      generative AI applications on OpenAI's API platform,
+      including prototyping, experimenting, and guiding customers
+      through building AI applications from ideation to scale. The
+      engineer works hands-on with AI/LLM best practices and
+      directly on the API platform, making it ai-first.
+  responsibilities:
+  - Partner with strategic startup customers as technical thought partner to build
+    AI applications on the API
+  - Guide customers from ideation through development to production deployment at
+    scale
+  - Experiment and prototype alongside customers demonstrating practical AI use cases
+  - Provide proactive technical guidance to maximize business impact and accelerate
+    application development
+  - Contribute to open-source resources and codify best practices for the community
+  - Synthesize and deliver customer feedback to Product and Research teams
+  - Build relationships within the startup ecosystem as a technical partner
+  use_cases:
+  - Novel generative AI applications built on OpenAI API
+  - Startup AI product development and scaling
+  - Creative and experimental AI use cases
+  - Enterprise-grade AI application deployment
+  skills:
+    genai: [OpenAI API, LLM best practices]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: [Prototyping, Software engineering]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7502176'
+  extracted_at: '2026-03-03T12:53:14.334212'

@@ -1,0 +1,54 @@
+company:
+  name: Fanduel
+  stage: Public
+  focus: Premier mobile sports betting and iGaming company
+position:
+  title: Staff AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires direct experience designing and
+      delivering production-grade LLM/agent workflows, RAG,
+      tool/function calling, prompt management, and
+      operationalizing LLM systems end-to-end. The candidate will
+      build, deploy, and scale AI solutions — not just support
+      them — making this an ai-first role.
+  responsibilities:
+  - Rapidly prototype, experiment, and demonstrate production-like AI capabilities
+    using new and innovative technologies
+  - Research and build proof of concepts with LLM/agent workflows, RAG, and orchestration
+    patterns to drive customer experiences and internal innovations
+  - Operationalize LLM systems end-to-end including automated evaluation, telemetry/monitoring,
+    guardrails, and incident response
+  - Integrate LLM capabilities into existing services and SDLC with CI/CD, testing
+    strategies, and safe rollout patterns (feature flags, canaries, A/B tests)
+  - Build scalable, fault-tolerant, and highly available systems for production use
+  - Lead code quality, tech debt management, and engineering best practices across
+    the team
+  - Collaborate with stakeholders and peers on project strategy, balancing customer
+    requirements with team goals
+  - Drive operational excellence, security, and quality standards across engineering
+    teams
+  use_cases:
+  - AI-powered customer experiences in sports betting and iGaming platforms
+  - Internal business innovation through LLM-driven automation and tooling
+  - Personalized and intelligent player interactions for millions of users
+  - Automated evaluation and monitoring of AI-driven features in production
+  skills:
+    genai: [LLM/Agent Workflows, RAG (Retrieval-Augmented Generation), Function Calling/Tool
+        Use, Prompt Engineering, Guardrails, LLM Evaluation]
+    ml: []
+    web: [React, React Native, Node.js, REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, Feature Flags, A/B Testing, Telemetry and Monitoring, Unit Testing,
+      Docker]
+    languages: [Python, JavaScript, Java, .NET]
+    domains: []
+    other: [Scalable System Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9020281'
+  extracted_at: '2026-04-22T13:58:46.778477'

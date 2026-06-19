@@ -1,0 +1,49 @@
+company:
+  name: Visa Inc,
+  stage: Public
+  focus: Global payments technology and transaction processing
+position:
+  title: Staff SW Engineer (6-9 years of experience in Python, Spring, Kafka, Gen
+    AI and Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The job title explicitly requires "Gen AI and Agentic AI"
+      experience, and the role involves rapid prototyping of new
+      ideas into commercial products. The candidate must be hands-
+      on with GenAI and Agentic AI technologies, building AI-
+      powered solutions for the payment ecosystem from POCs to
+      production.
+  responsibilities:
+  - Develop new ideas into demo-able products and scale to commercial solutions
+  - Collaborate with UX, engineering, and partner teams to deliver products, features,
+    and tools
+  - Drive rapid prototyping cycles from requirements through programming and optimization
+  - Explore and innovate with new technologies, features, and tools including Gen
+    AI and Agentic AI
+  - Lead and mentor small multi-skilled squads of 3-4 engineers
+  - Consult with leadership to align expectations and deliverables
+  - Work on multiple parallel POCs and incubation efforts
+  - Scale successful pilots to full commercial solutions
+  use_cases:
+  - Payment ecosystem innovation and prototyping
+  - Partner integration solutions for Asia Pacific region
+  - Rapid prototyping and hackathon-driven product development
+  - Commercial product development from ideation to deployment
+  - Strategic partnership technology solutions
+  skills:
+    genai: [Gen AI, Agentic AI]
+    ml: []
+    web: [Spring, REST APIs, Mobile application development]
+    databases: [MySQL]
+    data: [Kafka]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8759225'
+  extracted_at: '2026-03-27T15:24:40.464474'

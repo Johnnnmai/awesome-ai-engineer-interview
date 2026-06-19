@@ -1,0 +1,59 @@
+company:
+  name: NICE
+  stage: Public
+  focus: AI-powered customer experience and contact center software
+position:
+  title: Senior Sales Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Sales Engineer role focused on NICE Cognigy, a
+      conversational AI platform powered by Generative and Agentic
+      AI. The role involves deep technical expertise in
+      conversational AI, NLU/NLP, and GenAI technologies,
+      designing solutions, building POCs/POVs, and demonstrating
+      AI agent capabilities. While customer-facing, this role
+      requires hands-on technical work with AI products
+      (configuring, demoing, and prototyping AI solutions), making
+      it ai-first rather than ai-support.
+  responsibilities:
+  - Support strategic sales opportunities across the DACH and France region, partnering
+    with sales to drive growth
+  - Conduct discovery calls, technical deep dives, and product demonstrations for
+    NICE Cognigy AI platform
+  - Design and recommend conversational AI solutions that meet customer-specific business
+    requirements
+  - Create and deliver customized presentations and product demonstrations highlighting
+    Cognigy's AI agent capabilities
+  - Analyze customer requirements and pain points, providing recommendations on how
+    Cognigy can address them
+  - Build and execute POCs and POVs to validate AI solutions for prospective customers
+  - Stay up-to-date on the competitive landscape and perform technical comparisons
+    with other conversational AI products
+  - Provide internal training to other teams across the company on Cognigy and AI
+    technologies
+  use_cases:
+  - Conversational AI agents for customer experience in contact centers
+  - Agentic AI orchestrating Generative and Conversational AI for enterprise customer
+    service
+  - AI-powered customer interactions across every channel in 100+ languages
+  - Contact center automation including IVR, chatbot, and voicebot design
+  - Enterprise-scale AI agent deployment delivering measurable ROI for brands
+  skills:
+    genai: [Conversational AI platforms, Generative AI technologies, NLU/NLP, Agentic
+        AI, Prompt engineering]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [JavaScript, Python, Java]
+    domains: []
+    other: ['Contact center technology (SIP, SBC, ACD, ASR, TTS)', IVR/conversation/chatbot
+        design, Low-code platforms, UI/UX, Enterprise software sales engineering]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9117043'
+  extracted_at: '2026-04-22T14:06:42.229786'

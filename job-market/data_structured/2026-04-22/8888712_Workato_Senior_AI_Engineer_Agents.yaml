@@ -1,0 +1,59 @@
+company:
+  name: Workato
+  stage: Private (Late-stage)
+  focus: |-
+    Enterprise orchestration and AI-powered workflow automation
+    platform
+position:
+  title: Senior AI Engineer (Agents)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, deploying, and
+      optimizing AI systems — specifically LLMs, AI Agents, and
+      RAG architectures. The engineer will design and implement
+      production-grade AI pipelines including model training,
+      fine-tuning, and serving at scale, which is hands-on AI/ML
+      work.
+  responsibilities:
+  - Design and implement advanced AI/ML systems with a focus on LLMs, AI Agents, and
+    RAG architectures
+  - Build production-grade AI pipelines for data processing, model training, fine-tuning,
+    and serving at scale
+  - Build conversational AI interfaces handling multi-turn customer interactions with
+    context management and human escalation
+  - Implement feedback loops and continuous learning systems incorporating customer
+    satisfaction metrics and conversation outcomes
+  - Create analytics dashboards and reporting tools to track automation effectiveness
+    and KPIs
+  - Lead technical initiatives for AI system integration into existing products and
+    services
+  - Collaborate with data scientists and ML researchers to productionize new AI approaches
+    and models
+  use_cases:
+  - Conversational AI for customer support with multi-turn dialogue and context persistence
+  - Automated customer support agents across chat, email, voice, and messaging channels
+  - Knowledge base and FAQ systems with dynamic content retrieval and self-learning
+    capabilities
+  - Real-time agent assist systems providing suggestions and response templates during
+    live interactions
+  - Sentiment analysis and emotion detection for escalation triggers and customer
+    satisfaction monitoring
+  skills:
+    genai: ['LLMs (OpenAI, Anthropic, open-source models)', AI Agents, RAG (Retrieval-Augmented
+        Generation), Prompt engineering]
+    ml: [Fine-tuning, NLU / Natural Language Understanding, Intent classification,
+      Sentiment analysis, Entity extraction, A/B testing frameworks]
+    web: [REST APIs]
+    databases: [Postgres, Vector databases]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python, Golang, Java]
+    domains: []
+    other: [Zendesk API, Salesforce Service Cloud, PCI/HIPAA/GDPR compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8888712'
+  extracted_at: '2026-04-22T13:55:08.458637'

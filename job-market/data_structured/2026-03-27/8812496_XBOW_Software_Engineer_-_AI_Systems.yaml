@@ -1,0 +1,50 @@
+company:
+  name: XBOW
+  stage: Series A
+  focus: |-
+    AI-powered autonomous offensive security platform that
+    discovers and exploits vulnerabilities
+position:
+  title: Software Engineer - AI Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and implementing LLM
+      orchestration systems, building prompt flows, and creating
+      agentic architectures - all hands-on work directly building
+      and deploying AI systems. The engineer will work with LLM
+      prompting, orchestration layers, and build production-ready
+      AI-powered software for offensive security applications.
+  responsibilities:
+  - Design and implement prompt flows and LLM orchestrations for the AI-powered security
+    platform
+  - Architect and build production-grade, testable, and maintainable AI-powered software
+    systems in TypeScript
+  - Design and build experiments and evaluation frameworks for performance testing
+    at scale
+  - Collaborate with AI, security, and engineering teams to create end-to-end systems
+  - Own projects from ideation and experimentation through deployment and production
+    monitoring
+  - Conduct research on harnessing LLM advancements to improve system performance
+  use_cases:
+  - Autonomous vulnerability discovery and validation in software systems
+  - AI-powered offensive security operations and exploit identification
+  - Zero-day vulnerability detection across enterprise software
+  - Automated security testing with proof-backed results delivery
+  - Reducing security assessment time from weeks to hours
+  skills:
+    genai: [Prompt Engineering, LLM Orchestration, Agentic Systems]
+    ml: []
+    web: []
+    databases: []
+    data: [Data Analysis]
+    cloud: []
+    ops: [Evaluation Frameworks, CI/CD, Testing Frameworks]
+    languages: [TypeScript, Python]
+    domains: [Offensive Security, Vulnerability Assessment]
+    other: [Production Software Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8812496'
+  extracted_at: '2026-03-27T15:34:32.503441'

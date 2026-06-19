@@ -1,0 +1,52 @@
+company:
+  name: Skiffra
+  stage: Seed/Early-stage (founding-level role)
+  focus: |-
+    Building AI orchestration systems for physical world
+    operations, starting with mining and natural resources
+position:
+  title: Founding AI Engineer (LLMs & Agents)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI
+      systems including LLM-powered agents, RAG pipelines, and
+      model optimization. The engineer will architect agentic
+      orchestration frameworks, implement RAG systems, work with
+      frontier models and fine-tuned models, and build production-
+      grade AI systems - all hands-on work ON AI systems.
+  responsibilities:
+  - Architect and build production-grade agentic orchestration frameworks leveraging
+    LLMs, persistent memory, and tool-integration
+  - Implement sophisticated RAG pipelines for high-fidelity context retrieval from
+    fragmented data sources
+  - Build internal benchmarking and evaluation suites to measure model reliability,
+    grounding, and latency
+  - Make strategic trade-offs between frontier reasoning models, fine-tuned open-weight
+    models, and deterministic heuristics
+  - Work directly with founders to translate ambiguous operational problems into scalable
+    AI-powered software
+  - Partner with product and engineering teams to deliver working software
+  use_cases:
+  - Intelligent orchestration of physical world operations (mining, natural resources)
+  - Real-time decision support for high-stakes industrial environments
+  - Context retrieval and synthesis from fragmented enterprise data sources
+  - Multi-step agentic workflows for complex enterprise tasks
+  - Operational workflow automation and optimization
+  skills:
+    genai: [LangGraph, LlamaIndex, CrewAI, RAG, Prompt Engineering, Tool Calling,
+      Agents, OpenAI API, Claude API, PEFT, LoRA, QLoRA]
+    ml: [Fine-tuning, Embeddings]
+    web: [Backend Systems]
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8637051'
+  extracted_at: '2026-03-27T13:18:01.405058'

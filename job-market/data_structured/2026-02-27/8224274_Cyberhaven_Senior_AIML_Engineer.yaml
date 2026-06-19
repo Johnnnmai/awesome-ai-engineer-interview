@@ -1,0 +1,50 @@
+company:
+  name: Cyberhaven
+  stage: Series B (backed by $250M from Khosla, Redpoint)
+  focus: |-
+    AI-enabled data lineage and security for enterprise data
+    protection
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on production experience with
+      foundational models and transformer architectures, plus at
+      least 1 year building AI agents and orchestration workflows
+      using LangChain/LangGraph. The primary responsibility
+      includes operationalizing AI prototypes and turning
+      experimental models into production-ready services.
+  responsibilities:
+  - Design and scale distributed systems processing large graph datasets at enterprise
+    scale with billions of events in real time
+  - Solve complex performance and reliability problems through deep analysis and profiling
+    in high-throughput distributed environments
+  - Develop and evolve microservices-based architecture using Python, Kubernetes,
+    Docker, and Redis
+  - Engineer secure-by-design software capable of safely processing untrusted data
+    in large-scale internet-facing systems
+  - Partner with research and product teams to operationalize AI prototypes into robust,
+    scalable, production-ready services
+  use_cases:
+  - Data security and threat detection through AI-enabled data lineage
+  - Real-time analysis of billions of enterprise workflows to understand data flow
+    and detect risk
+  - DLP (Data Loss Prevention) and application security
+  - Graph-based data analysis at enterprise scale
+  skills:
+    genai: [LangChain, LangGraph, Genkit, AI agents]
+    ml: [Transformers, LLM evaluation pipelines]
+    web: [Microservices architecture]
+    databases: [Redis, BigQuery]
+    data: [Kafka, Pub/Sub]
+    cloud: [GCS]
+    ops: [Kubernetes, Docker]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8224274'
+  extracted_at: '2026-03-03T12:39:50.233637'

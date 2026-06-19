@@ -1,0 +1,185 @@
+job_id: 8847837
+title: Staff Software Engineer - Applied AI
+company: Ironclad
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Azure
+  - Datadog
+  - GCP
+  - Llm
+  - Node.js
+  - Postgres
+  - Rag
+  - React
+  - Typescript
+company_size: 543 Employees
+description: |
+  Ironclad is the leading AI contracting platform that
+  transforms agreements into assets. Contracts move faster,
+  insights surface instantly, and agents push work forward,
+  all with you in control. Whether you’re buying or selling,
+  Ironclad unifies the entire process on one intelligent
+  platform, providing leaders with the visibility they need to
+  stay one step ahead. That’s why the world’s most
+  transformative organizations, from Rivian to the World
+  Health Organization and the Associated Press, trust Ironclad
+  to accelerate their business.
+  
+  We’re consistently recognized as a leader in the industry: a
+  Leader in the Forrester Wave and Gartner Magic Quadrant for
+  Contract Lifecycle Management, a Fortune Great Place to
+  Work, and one of Fast Company’s Most Innovative Workplaces.
+  Ironclad has also been named to Forbes’ AI 50 and Business
+  Insider’s list of Companies to Bet Your Career On. We’re
+  backed by leading investors including Accel, Y Combinator,
+  Sequoia, BOND, and Franklin Templeton. For more information,
+  visit www.ironcladapp.com or follow us on LinkedIn.
+  
+  AI Engineering at Ironclad
+  
+  Ironclad is accelerating its AI initiatives to transform how
+  contracts are built, managed, and executed across an
+  organization. We're looking for a Generative AI Application
+  Developer to rapidly build and deploy high-impact legal AI
+  product features.
+  
+  In this role, you are the expert AI feature developer who
+  leverages our existing AI platform. You establish a Prompt
+  Strategy, utilizing established Retrieval-Augmented
+  Generation (RAG) services and Large Language Model (LLM)
+  APIs to develop intelligent product capabilities, like
+  summarization or redlining.
+  
+  You will partner closely with product managers and designers
+  to translate user needs into production-ready LLM
+  application logic. Your success will be measured by your
+  ability to design the optimal context input and craft
+  effective prompts to maximize the accuracy, relevance,
+  latency and reliability of the final user-facing feature.
+  
+  What you'll be doing:
+  
+  - Full Stack Development: Lead the design, development, and
+    deployment of features from end-to-end using TypeScript,
+    Node.js, React, and PostgreSQL, ensuring high performance
+    and availability.
+  - Build Production AI Features: Be a primary contributor to
+    the next generation of AI-powered legal features,
+    including specialized summarization, drafting, editing,
+    and document comparison functionalities utilizing LLMs.
+  - Architect Highly Scalable AI Products: Build and maintain
+    reliable, highly scalable software and services designed
+    for a high-traffic SaaS environment.
+  - Foster Cross-Functional Collaboration: Collaborate closely
+    with Product Managers, UX Designers, and QE counterparts
+    to rapidly prototype, iterate on designs, and make
+    frequent, agile pivots based on user feedback.
+  - Advocate for the Customer: Maintain a high degree of
+    customer empathy, ensuring technical decisions prioritize
+    user experience and directly address customer pain points,
+    creating measurable product impact.
+  - Deliver and Optimize AI Infrastructure: Work with platform
+    teams to consume and manage internal LLM APIs, ensuring
+    resilient connections and efficient token usage to meet
+    strict latency targets.
+  
+  Required Skills:
+  
+  - Full-Stack Expertise: Deep professional experience with the
+    core tech stack: TypeScript, Node.js, React, and
+    PostgreSQL.
+  - High-Scale SaaS Experience: Proven track record of building,
+    deploying, and maintaining reliable, highly scalable
+    software for SaaS applications.
+  - LLM Consumption and Integration: Extensive experience
+    consuming LLMs via APIs (e.g., OpenAI, Gemini, or
+    proprietary models) and integrating them successfully into
+    production-facing features.
+  - AI Feature Implementation: Practical experience building and
+    shipping accurate and successful AI features or products,
+    such as chatbots, summarization, drafting, or document
+    editing/comparison using LLMs, RAGs, and the right context
+    for LLM calls.
+  - Analytics, Monitoring and Observability: Experience with
+    making data driven decisions, based on product analytics
+    and have experience using monitoring and observability
+    tools like Datadog or equivalent to diagnose performance
+    issues and ensure system health.
+  - Agile and Impact-Driven: Highly agile mindset with proven
+    ability to work effectively in 0-to-1 setups, frequently
+    make pivots, and translate ambiguity into concrete,
+    impactful engineering work.
+  - Collaboration and Communication: Exceptional skills as a
+    great collaborator with product, design, and QE teams,
+    acting as a clear technical voice for customer-centric
+    solutions.
+  
+  Nice to Have Skills:
+  
+  - AI Evaluation Experience: Experience building automated
+    evaluation pipelines and defining technical metrics (e.g.,
+    faithfulness, groundedness) to measure the quality of
+    various AI features.
+  - Cloud Administration (GCP/Azure/AWS): Hands-on experience
+    with managing infrastructure or administrative tasks on
+    major cloud providers like GCP, Azure, or AWS.
+  - Legal Tech Domain: Prior experience in Legal Tech or other
+    high-stakes domains (FinTech, HealthTech) where data
+    accuracy and auditability are paramount.
+  - Document Processing: Experience working with PDF and DOCX
+    parsing for document ingestion
+  - Familiarity with CI/CD systems (e.g., GitHub Actions,
+    CircleCI)
+  
+  Base Salary Ranges:
+  
+  - Staff: $210,000 - $260,000
+  - Senior Staff: $240,000 - $295,000
+  
+  The base salary range represents the minimum and maximum of
+  the salary range for this position based at our San
+  Francisco headquarters. The actual base salary offered for
+  this position will depend on numerous factors, including
+  individual proficiency, anticipated performance, and the
+  location of the selected candidate. Our base salary is just
+  one component of Ironclad’s competitive total rewards
+  package, which also includes equity awards (a new hire
+  grant, along with opportunities for additional awards
+  throughout your tenure), competitive health and wellness
+  benefits, and a commitment to career growth and development.
+  
+  US Full-Time Employee Benefits at Ironclad:
+  
+  - 100% health coverage for employees (medical, dental, and
+    vision), and 75% coverage for dependents with buy-up plan
+    options available
+  - Market-leading leave policies, including gender-neutral
+    parental leave and compassionate leave
+  - Family forming support through Maven for you and your
+    partner
+  - Paid time off - take the time you need, when you need it
+  - Monthly stipends for wellbeing, hybrid work, and (if
+    applicable) cell phone use
+  - Mental health support through Modern Health, including
+    therapy, coaching, and digital tools
+  - Pre-tax commuter benefits (US Employees)
+  - 401(k) plan with Fidelity with employer match (US Employees)
+  - Regular team events to connect, recharge, and have fun
+  - And most importantly: the opportunity to help build the
+    company you want to work at
+  
+  **UK Employee-specific benefits are included on our UK job
+  postings
+  
+  Pursuant to the San Francisco Fair Chance Ordinance, we will
+  consider for employment qualified applicants with arrest and
+  conviction records.
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-03-24
+url: "https://builtin.com/job/staff-software-engineer-applied-ai/8847837"
+source: Built In

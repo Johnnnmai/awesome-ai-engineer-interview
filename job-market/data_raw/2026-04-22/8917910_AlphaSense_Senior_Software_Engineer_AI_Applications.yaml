@@ -1,0 +1,150 @@
+job_id: 8917910
+title: Senior Software Engineer (AI Applications)
+company: AlphaSense
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ci/Cd
+  - Docker
+  - Fastapi
+  - Huggingface
+  - Kubernetes
+  - Langchain
+  - Large Language Models
+  - Nlp
+  - Python
+company_size: 2,000 Employees
+description: |
+  About AlphaSense:
+  
+  The world’s most sophisticated companies rely on AlphaSense
+  to remove uncertainty from decision-making. With market
+  intelligence and search built on proven AI, AlphaSense
+  delivers insights that matter from content you can trust.
+  Our universe of public and private content includes equity
+  research, company filings, event transcripts, expert calls,
+  news, trade journals, and clients’ own research content.
+  
+  The acquisition of Tegus by AlphaSense in 2024 advances our
+  shared mission to empower professionals to make smarter
+  decisions through AI-driven market intelligence. Together,
+  AlphaSense and Tegus will accelerate growth, innovation, and
+  content expansion, with complementary product and content
+  capabilities that enable users to unearth even more
+  comprehensive insights from thousands of content sets. Our
+  platform is trusted by over 6,000 enterprise customers,
+  including a majority of the S&P 500. Founded in 2011,
+  AlphaSense is headquartered in New York City with more than
+  2,000 employees across the globe and offices in the U.S.,
+  U.K., Finland, India, Singapore, Canada, and Ireland. Come
+  join us!
+  
+  About the Role:
+  
+  Seeking a passionate Senior Engineer to join our Content
+  Engineering team. This team specializes in large-scale
+  content processing using cutting-edge technologies. In this
+  role, you'll leverage AI applications (NLP, LLM) for
+  document understanding, including, but not limited to,
+  document classification, text categorization, data
+  extraction, and semantic similarity.
+  
+  Requirements: Must have
+  
+  - 6+ years of experience as a software engineer, primarily
+    with Python
+  - Ideally, you possess an advanced degree (Bachelor's /
+    Master's)  in Computer Science, Computer Engineering, or a
+    relevant field with a focus on Artificial Intelligence,
+    machine learning, but equivalent industry experience may
+    be considered
+  - 2+ years of hands-on experience building and deploying
+    applications that use Large Language Models (LLMs).
+  - Experience in extracting structured JSON from text using
+    LLMs and a deep understanding of Prompt Engineering.
+  - Proficiency in classic NLP libraries for tasks like NER,
+    text classification, and pre-processing.
+  - Experience with LLM tracing, debugging and evaluation
+    platforms such as Langfuse.
+  - Excellent communication, organizational, problem-solving,
+    debugging, and analytical skills.
+  
+          Great to have
+  
+  - Experience in async processing of data at scale
+  - Using frameworks like LangChain, HuggingFace, and backend
+    web frameworks like FastAPI.
+  - Expertise on core engineering skills - Cloud, microservice
+    architecture, caching, and queuing.
+  - Familiarity with concepts/tools as Docker, k8s, VCS, CI/CD
+  - Previous experience in data extraction from specific domains
+    (e.g., financial reports, news).
+  
+  Responsibilities:
+  
+  - Deploy LLM based production grade solutions.
+  - Fine-tune and adapt State of the art LLMs for specialized
+    data extraction tasks. Develop innovative prompt
+    engineering strategy and systems to maximize reliability
+    and performance on confidential business documents.
+  - Solve Engineering challenges that come along with LLM
+    solutions, such as high latency, non-deterministic output,
+    etc.
+  - Implement and scale data processing pipelines that can
+    process high volumes of complex documents with high
+    accuracy and efficiency.
+  - Integrate and manage LLM Observability to trace, debug, and
+    monitor every extraction
+  - Own systems end-to-end, including(but not limited to)
+    designing, coding, monitoring, testing, CI/CD and on-call
+    support.
+  
+  AlphaSense is an equal-opportunity employer. We are
+  committed to a work environment that supports, inspires, and
+  respects all individuals. All employees share in the
+  responsibility for fulfilling AlphaSense’s commitment to
+  equal employment opportunity. AlphaSense does not
+  discriminate against any employee or applicant on the basis
+  of race, color, sex (including pregnancy), national origin,
+  age, religion, marital status, sexual orientation, gender
+  identity, gender expression, military or veteran status,
+  disability, or any other non-merit factor. This policy
+  applies to every aspect of employment at AlphaSense,
+  including recruitment, hiring, training, advancement, and
+  termination.
+  
+  In addition, it is the policy of AlphaSense to provide
+  reasonable accommodation to qualified employees who have
+  protected disabilities to the extent required by applicable
+  laws, regulations, and ordinances where a particular
+  employee works.
+  
+  Recruiting Scams and Fraud
+  
+  We at AlphaSense have been made aware of fraudulent job
+  postings and individuals impersonating AlphaSense
+  recruiters. These scams may involve fake job offers,
+  requests for sensitive personal information, or demands for
+  payment. Please note:
+  
+  - AlphaSense never asks candidates to pay for job
+    applications, equipment, or training.
+  - All official communications will come from an @alpha-
+    sense.com email address.
+  - If you’re unsure about a job posting or recruiter, verify it
+    on our Careers page.
+  
+  If you believe you’ve been targeted by a scam or have any
+  doubts regarding the authenticity of any job listing
+  purportedly from or on behalf of AlphaSense please contact
+  us. Your security and trust matter to us.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Machine Learning
+  - Natural Language Processing
+  - Business Intelligence
+posted_date: 2026-03-31
+url: "https://builtin.com/job/senior-software-engineer-ai-applications/8917910"
+source: Built In

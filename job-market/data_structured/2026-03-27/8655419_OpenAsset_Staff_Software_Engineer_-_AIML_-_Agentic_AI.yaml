@@ -1,0 +1,57 @@
+company:
+  name: OpenAsset
+  stage: Private Equity-backed
+  focus: |-
+    Marketing platform for Architecture, Construction, and
+    Engineering industries with AI-powered RFP analysis
+position:
+  title: Staff Software Engineer - AI/ML - Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on technical role focused on building,
+      deploying, and maintaining AI/ML systems including LLMs and
+      agentic AI frameworks. The role involves direct work with
+      frontier LLM models, fine-tuning, RAG systems, and
+      implementing agentic workflows using tools like LangGraph
+      and Amazon Bedrock.
+  responsibilities:
+  - Lead the design, planning, and coordination of AI/ML initiatives including information
+    extraction, model development, data pipelines, and deployment
+  - Take ownership of the entire lifecycle of AI/ML systems from experimentation to
+    production
+  - Design and implement scalable, efficient, and maintainable AI/ML systems including
+    agentic AI applications
+  - Provide strategic technical guidance on AI/ML frameworks, agentic AI workflows,
+    tools, and best practices
+  - Research and propose advanced machine learning techniques including LLMs, agentic
+    workflows, and evals frameworks
+  - Partner with Product and Engineering teams to integrate AI/ML capabilities into
+    company-wide projects
+  - Mentor and guide team members through agentic coding practices, code reviews,
+    and technical coaching
+  - Drive initiatives to improve model accuracy, scalability, and reliability while
+    ensuring privacy, security, and compliance
+  use_cases:
+  - Automated RFP analysis and shredding for AEC marketers
+  - Drafting high-quality compliant proposals grounded in organizational knowledge
+  - Information extraction from documents
+  - Agentic AI workflows for automation
+  - AI-enabled products for the Architecture, Construction, and Engineering industries
+  skills:
+    genai: [LangGraph, LangFuse, Pydantic AI, Claude, Gemini, ChatGPT, LLM fine-tuning,
+      Agentic AI frameworks, RAG, Claude Code]
+    ml: [Information extraction]
+    web: [Microservices architecture]
+    databases: [Vector databases, Graph databases, Relational databases]
+    data: [Databricks, Data pipelines]
+    cloud: [Amazon Bedrock, AWS, SageMaker, Vertex AI]
+    ops: [Docker, Kubernetes, Terraform, MLflow, Datadog, Grafana, CI/CD, Github Actions]
+    languages: [Python, Java, Rust]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8655419'
+  extracted_at: '2026-03-27T13:29:55.991092'

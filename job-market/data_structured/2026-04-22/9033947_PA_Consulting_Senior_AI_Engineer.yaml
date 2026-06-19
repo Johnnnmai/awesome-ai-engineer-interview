@@ -1,0 +1,57 @@
+company:
+  name: PA Consulting
+  stage: Established/Partnership
+  focus: |-
+    Global consulting firm delivering innovation, digital, and
+    technology solutions across sectors
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building GenAI systems including
+      RAG pipelines, agentic architectures, and deploying LLM-
+      based solutions. The engineer works hands-on with frameworks
+      like LangChain, LlamaIndex, and builds prototypes on their
+      Genie Platform — clearly building and deploying AI systems,
+      not just supporting them.
+  responsibilities:
+  - Design and build Generative AI prototypes using frameworks like LangChain, LlamaIndex,
+    and APIs from OpenAI and Anthropic
+  - Develop RAG pipelines using vector stores and knowledge graphs for client solutions
+  - Build and test agentic architectures on PA's Genie Platform enabling AI agents
+    that reason, retrieve, and act across systems
+  - Explore and implement LLMOps practices including evaluation tools and model observability
+    platforms like TruLens and LangSmith
+  - Deploy AI solutions on cloud-native environments (AWS, Azure, GCP) with appropriate
+    DevOps practices
+  - Work cross-functionally with product, design, and other experts to deliver innovative
+    software solutions for clients across seven sectors
+  - Collaborate with internal AI community through knowledge-sharing, coaching, and
+    mentoring
+  - Integrate LLMs with APIs, data sources, and production systems in distributed
+    microservices architectures
+  use_cases:
+  - Retrieval-augmented generation (RAG) systems for enterprise knowledge access
+  - Agentic AI architectures that reason, retrieve, and act across multiple systems
+  - Client-facing AI prototypes and solutions across consumer, defence, energy, financial,
+    government, health, and transport sectors
+  - LLM-powered workflows with production deployment and observability
+  - Cloud-native AI solution deployment and evaluation
+  skills:
+    genai: [LangChain, LlamaIndex, OpenAI API, Anthropic API, RAG, Agentic architectures,
+      Prompt engineering, Context engineering]
+    ml: [Hugging Face, Model evaluation]
+    web: [RESTful APIs, Microservices]
+    databases: [Vector stores, Knowledge graphs]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [LLMOps, TruLens, LangSmith, Docker, DevOps/DevSecOps]
+    languages: [Python]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9033947'
+  extracted_at: '2026-04-22T14:07:33.478971'

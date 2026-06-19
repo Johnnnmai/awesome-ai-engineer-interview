@@ -1,0 +1,46 @@
+company:
+  name: praxipal
+  stage: Series A
+  focus: |-
+    AI-powered healthcare administrative automation and AI
+    receptionist for medical practices
+position:
+  title: AI Automation Engineer (m/f/d)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      While the company builds AI-powered products like Luna (AI
+      receptionist), this role focuses on building internal GTM
+      automation tools and systems for Sales/Marketing/CS teams,
+      not working on the AI products themselves. The automation
+      work involves workflow tools like n8n, Zapier, and custom
+      software, but not building, training, or deploying AI/ML
+      models.
+  responsibilities:
+  - Identify and remove friction across Sales/Marketing/CS through automation
+  - Automate GTM workflows using n8n, Zapier, and custom software
+  - Build internal tools including lead enrichment, web crawlers, and outreach personalization
+  - Build and maintain data lake, analytics, and automated reporting systems
+  - Create demos and prototypes for new products and markets
+  - Build and maintain core business systems including billing, commissions, and invoicing
+  use_cases:
+  - Healthcare administrative automation
+  - AI-powered patient communication
+  - Medical practice workflow optimization
+  - Internal GTM automation and tooling
+  skills:
+    genai: []
+    ml: []
+    web: [Selenium, Playwright, Puppeteer]
+    databases: [Postgres]
+    data: []
+    cloud: []
+    ops: [Grafana, PostHog]
+    languages: [TypeScript, Python, Rust]
+    domains: []
+    other: [n8n, Zapier]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8879249'
+  extracted_at: '2026-03-27T16:02:46.842659'

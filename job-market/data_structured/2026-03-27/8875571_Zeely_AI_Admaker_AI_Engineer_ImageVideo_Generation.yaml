@@ -1,0 +1,51 @@
+company:
+  name: Zeely – AI Admaker
+  stage: Growth (1M+ users, 4x YoY growth, 160+ employees, Top-3 in category)
+  focus: |-
+    AI platform for generating UGC videos and ad banners for
+    small businesses
+position:
+  title: AI Engineer  (Image/Video Generation)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building and optimizing
+      generative AI systems for image and video creation,
+      including fine-tuning models, designing LLM agents, and
+      implementing generative workflows. The engineer will work
+      hands-on with diffusion models, LoRA tuning, and multimodal
+      generation pipelines.
+  responsibilities:
+  - Design and improve generative pipelines for image and video creation
+  - Tune and control the behavior of image/video models for visual quality, style
+    consistency, and product identity preservation
+  - Optimize and scale image-to-video and text-to-video workflows for stable and reproducible
+    production results
+  - Diagnose quality bottlenecks including artifacts, instability, and product distortions
+    and implement fixes
+  - Extend generative systems for new products and marketing content scenarios
+  - Research and test new image/video models and tools, staying current with industry
+    solutions
+  use_cases:
+  - Generate viral UGC videos for advertising
+  - Create AI-generated ad banners
+  - Produce marketing content for small businesses
+  - Launch effective ad campaigns on Facebook and Instagram
+  - Enable small business visibility and scaling through AI-generated content
+  skills:
+    genai: [Diffusion models, Text-to-image generation, Image-to-video generation,
+      Text-to-video generation, Prompt engineering, LLM agents, LoRA tuning, ComfyUI]
+    ml: [Fine-tuning image/video models]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: [ffmpeg-python, moviepy, imageio, pydub, n8n]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8875571'
+  extracted_at: '2026-03-27T13:53:59.159824'

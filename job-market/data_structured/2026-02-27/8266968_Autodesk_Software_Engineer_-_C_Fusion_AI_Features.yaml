@@ -1,0 +1,48 @@
+company:
+  name: Autodesk
+  stage: Public
+  focus: |-
+    3D design, engineering, and manufacturing software (Fusion
+    CAD/CAM platform)
+position:
+  title: Software Engineer - C++ (Fusion AI Features)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is for a C++ software engineer building features
+      "for" Fusion that include AI/ML, but there's no mention of
+      building, training, or deploying models. The focus is on
+      CAD/C++ application development with AI/ML features being
+      consumed or integrated, not created. Experience with AI
+      tools like Copilot is mentioned as preferred, suggesting the
+      role uses AI rather than builds AI systems.
+  responsibilities:
+  - Design, implement, test, and maintain features for Fusion 360 primarily in C++
+  - Work on Agile team with 2-week sprints and emphasis on test automation
+  - Write technical design documents and participate in design and code reviews
+  - Contribute to development of AI/ML features within the Fusion platform
+  - Work collaboratively with developers, quality team, and UX designers across global
+    engineering sites
+  - Develop and maintain applications on Windows (Visual Studio) and Mac (Xcode)
+  - Own quality of work delivered with strong sense of ownership for excellence
+  use_cases:
+  - CAD/CAM software development for design and manufacturing workflows
+  - Cloud-based design-to-manufacture convergence in Fusion platform
+  - AI/ML feature integration in 3D design software
+  - Cross-platform desktop application development for engineering workflows
+  skills:
+    genai: [GitHub Copilot]
+    ml: []
+    web: [REST APIs, Postman]
+    databases: []
+    data: [JSON]
+    cloud: [AWS, AWS SageMaker]
+    ops: [Jenkins, Splunk, Dynatrace]
+    languages: [C++, Python, JavaScript, SQL]
+    domains: []
+    other: [Microsoft Visual Studio, Xcode, Qt, Jira, VS Code]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8266968'
+  extracted_at: '2026-03-03T12:00:30.914565'

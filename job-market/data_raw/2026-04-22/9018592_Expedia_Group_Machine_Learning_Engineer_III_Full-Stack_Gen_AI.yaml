@@ -1,0 +1,183 @@
+job_id: 9018592
+title: "Machine Learning Engineer III (Full-Stack Gen AI & Agentic Systems)"
+company: Expedia Group
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Autogen
+  - AWS
+  - Azure
+  - Deepspeed
+  - Docker
+  - Langchain
+  - Langgraph
+  - Mlflow
+  - Openai Agents Sdk
+  - Python
+company_size: 16,000 Employees
+description: |
+  Expedia Group brands power global travel for everyone,
+  everywhere. We design cutting-edge tech to make travel
+  smoother and more memorable, and we create groundbreaking
+  solutions for our partners. Our diverse, vibrant, and
+  welcoming community is essential in driving our success.
+  
+  Why Join Us?
+  
+  To shape the future of travel, people must come first.
+  Guided by our Values and Leadership Agreements, we foster an
+  open culture where everyone belongs, differences are
+  celebrated and know that when one of us wins, we all win.
+  
+  We provide a full benefits package, including exciting
+  travel perks, generous time-off, parental leave, a flexible
+  work model (with some pretty cool offices), and career
+  development resources, all to fuel our employees' passion
+  for travel and ensure a rewarding career journey. We’re
+  building a more open world. Join us.
+  
+  We create and deliver tailored marketing strategies for
+  Expedia Group’s brands, focusing on establishing strong
+  connections and cohesive experiences for travelers and
+  partners. We leverage our functional expertise and creative
+  excellence to build trust and loyalty for our brands through
+  innovative marketing approaches and technology.
+  
+  Our Growth Marketing team is redefining how data-driven
+  marketing meets AI-powered, agentic automation. We deploy
+  production-ready multimodal LLMs, GenAI, and agentic NLP
+  architectures that power personalized travel discovery and
+  real-time, cross-platform campaign execution. Our agentic
+  systems scale from personalized recommendations to
+  interactive chatbots like “Trip Matching” on Instagram,
+  transforming inspiring reels and posts into hotel
+  suggestions.
+  
+  We are seeking a hands-on Machine Learning Engineer III who
+  can build complete end-to-end AI products, including backend
+  pipelines, agent orchestration, inference platforms, and
+  user-facing interfaces with UX/UI design.
+  
+  In this role, you will:
+  
+  - Architect, implement, and scale LLM training, fine-tuning,
+    adaptation (LoRA/QLoRA/adapters), and distillation
+    pipelines, including RLHF/DPO for production GenAI systems
+    and chatbots.
+  - Build and optimize RAG pipelines with vector stores and
+    retrieval memory layers, supporting multimodal data such
+    as vision, audio, text, and music.
+  - Design and develop agentic workflows using frameworks like
+    LangChain, AutoGen, LangGraph, and OpenAI Agents SDK,
+    including typed tool contracts, schema validation, and
+    retry logic.
+  - Integrate memory strategies, including vector retrieval,
+    episodic and semantic memory, and context compression,
+    into agent workflows.
+  - Implement evaluation, safety, and reliability frameworks
+    using LangSmith, DeepEval, and OpenClaw, including
+    automated metrics, hallucination mitigation, and LLM-as-a-
+    Judge evaluation.
+  - Build and deploy production inference platforms optimized
+    for latency and cost using vLLM, TensorRT-LLM, and
+    DeepSpeed.
+  - Develop containerized, cloud-ready systems with Docker, AWS,
+    or Azure; implement CI/CD, experiment tracking, and model
+    versioning with MLflow.
+  - Monitor model drift, agent performance, and tooling
+    reliability, establishing dashboards and alerts.
+  - Collaborate with ML, Engineering, and Product teams to
+    translate requirements into measurable, user-facing GenAI
+    products.
+  - Design intuitive user interfaces and experiences for agentic
+    systems, ensuring seamless interaction from frontend to
+    backend.
+  - Mentor peers on ML system design, distributed training,
+    multi-agent orchestration, prompt engineering, and
+    production deployment.
+  
+  Experience and Qualifications
+  
+  Essential Skills:
+  
+  - 7+ years of software/ML engineering experience building and
+    deploying production ML/GenAI systems.
+  - Hands-on experience with LLM fine-tuning, adaptation,
+    distillation, RLHF/DPO, and parameter-efficient
+    optimization.
+  - Experience building RAG and multimodal systems with vector
+    stores and retrieval layers.
+  - Proficiency in agent development and orchestration using
+    LangChain, AutoGen, LangGraph, OpenAI Agents SDK.
+  - Strong programming skills in Python and distributed ML
+    tooling (PyTorch).
+  - Experience with cloud platforms (AWS/Azure) and
+    containerized deployments (Docker).
+  - Proven track record of delivering end-to-end GenAI products,
+    from backend to user-facing interfaces.
+  - Familiarity with UX/UI design principles for AI systems and
+    chatbots.
+  - Deep understanding of context engineering, including
+    retrieval, memory hierarchies, grounding, and evaluation
+    metrics.
+  
+  Nice To Have:
+  
+  - Open-source contributions, publications, or conference talks
+    in LLMs, RAG, or agentic systems.
+  - Experience optimizing large-scale inference using vLLM,
+    TensorRT-LLM, or DeepSpeed.
+  - Familiarity with observability and evaluation frameworks
+    like LangSmith, DeepEval, and OpenClaw.
+  - Experience with CI/CD and MLOps tools, such as MLflow.
+  - Strong communication skills and proven ability to
+    collaborate cross-functionally across product, design, and
+    engineering.
+  
+  #LI-MF2
+  
+  Accommodation requests
+  
+  If you need assistance with any part of the application or
+  recruiting process due to a disability, or other physical or
+  mental health conditions, please reach out to our Recruiting
+  Accommodations Team through the Accommodation Request.
+  
+  We are proud to be named as a Best Place to Work on
+  Glassdoor in 2024 and be recognized for award-winning
+  culture by organizations like Forbes, TIME, Disability:IN,
+  and others.
+  
+  Expedia Group's family of brands includes: Brand Expedia®,
+  Hotels.com®, Expedia® Partner Solutions, Vrbo®, trivago®,
+  Orbitz®, Travelocity®, Hotwire®, Wotif®, ebookers®,
+  CheapTickets®, Expedia Group™ Media Solutions, Expedia Local
+  Expert®, CarRentals.com™, and Expedia Cruises™. © 2024
+  Expedia, Inc. All rights reserved. Trademarks and logos are
+  the property of their respective owners. CST: 2029030-50
+  
+  Employment opportunities and job offers at Expedia Group
+  will always come from Expedia Group’s Talent Acquisition and
+  hiring teams. Never provide sensitive, personal information
+  to someone unless you’re confident who the recipient is.
+  Expedia Group does not extend job offers via email or any
+  other messaging tools to individuals with whom we have not
+  made prior contact. Our email domain is @expediagroup.com.
+  The official website to find and apply for job openings at
+  Expedia Group is careers.expediagroup.com/jobs.
+  
+  Expedia is committed to creating an inclusive work
+  environment with a diverse workforce. All qualified
+  applicants will receive consideration for employment without
+  regard to race, religion, gender, sexual orientation,
+  national origin, disability or age.
+industries:
+  - AdTech
+  - eCommerce
+  - Information Technology
+  - Travel
+  - Generative AI
+posted_date: 2026-04-22
+url: "https://builtin.com/job/machine-learning-engineer-iii-full-stack-gen-ai-agentic-systems/9018592"
+source: Built In

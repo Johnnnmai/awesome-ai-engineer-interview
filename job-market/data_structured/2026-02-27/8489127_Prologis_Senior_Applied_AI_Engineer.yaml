@@ -1,0 +1,53 @@
+company:
+  name: Prologis
+  stage: Public
+  focus: Global logistics real estate and intelligent infrastructure
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on with LLM/GenAI systems - designing
+      agentic workflows, building RAG patterns, implementing text-
+      to-SQL systems, and creating LLM evaluations. The engineer
+      directly builds, tests, and deploys AI patterns, not just
+      supporting infrastructure for others.
+  responsibilities:
+  - Drive AI innovation and rapid experimentation with agentic workflows, reasoning
+    approaches, and evaluation methods
+  - Design and execute timeboxed pilots with clear hypotheses, success metrics, and
+    decision points
+  - Enhance enterprise AI patterns including RAG, text-to-SQL, evaluation/observability,
+    and guardrails
+  - Build reference implementations and handoff documents for transitioning experiments
+    to scalable architectures
+  - Develop solutions within AWS ecosystem using secure, observable, cost-aware architectures
+  - Communicate results through demos and readouts connecting technical outcomes to
+    business value
+  - Evaluate emerging AI tools, frameworks, and vendor offerings to synthesize actionable
+    recommendations
+  - Support priority projects focused on de-risking and acceleration with clear entry/exit
+    criteria
+  use_cases:
+  - Agentic workflows and multi-agent orchestration for enterprise automation
+  - Retrieval-augmented generation (RAG) for enterprise knowledge access
+  - Text-to-SQL for natural language database querying
+  - LLM evaluation and observability including hallucination analysis and cost/latency
+    optimization
+  - Enterprise AI pattern standardization and reference architecture development
+  skills:
+    genai: [RAG, Text-to-SQL, LLM evaluation, Agentic systems, OpenAI APIs, MCP, Guardrails]
+    ml: []
+    web: []
+    databases: [SQL]
+    data: [Dataiku]
+    cloud: [AWS]
+    ops: [LLMOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8489127'
+  extracted_at: '2026-03-03T12:17:50.297962'

@@ -1,0 +1,208 @@
+job_id: 8731582
+title: AI Evaluations Engineer
+company: Bank of Montreal
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Modern Data Science Libraries
+  - Python
+  - PyTorch
+  - Scikit-Learn
+  - SQL
+  - TensorFlow
+company_size: 51,885 Employees
+description: |
+  Application Deadline:
+  
+  03/30/2026
+  
+  Address:
+  
+  151 W 42nd Street
+  
+  Job Family Group:
+  
+  Data Analytics & Reporting
+  
+  About the Team
+  
+  BMO’s Applied AI team is responsible for building
+  high‑performing, safe, and reliable AI systems that power
+  real banking experiences. The Evaluations group within
+  Applied AI develops the methods, datasets, and tooling that
+  measure quality, safety, and performance across the full AI
+  lifecycle. Working closely with product, engineering, and
+  research partners, the team ensures evaluation signals are
+  deeply embedded into training loops, deployment workflows,
+  and continuous monitoring processes. This group operates at
+  the intersection of data science, machine learning, and
+  responsible AI, enabling scalable, repeatable, and
+  trustworthy evaluation of advanced AI systems.
+  
+  About the Role
+  
+  The AI Evaluation Scientist is an individual contributor
+  role focused on delivering the data science stream of AI
+  evaluations. This includes designing, implementing, and
+  productionizing evaluation methods, metrics, and datasets
+  that directly influence modeling decisions, product quality,
+  and the safety posture of AI systems across the bank. You
+  will work hands‑on with complex models—particularly LLMs and
+  deep learning systems—developing rigorous empirical analyses
+  that surface model weaknesses, performance trends, and risk
+  signals.
+  
+  In this role, you will translate evaluation standards into
+  robust, maintainable evaluation code and workflows. You will
+  collaborate with engineers to integrate evaluation signals
+  into CI/CD and training pipelines, and work with product and
+  research partners to ensure evaluation insights meaningfully
+  shape model improvements. This position is highly technical,
+  experimental, and delivery‑oriented, with a strong emphasis
+  on applied data science, reproducible experimentation, and
+  responsible AI practices.
+  
+  Key Responsibilities
+  
+  - Design and implement advanced evaluation methods for LLMs
+    and ML systems, including robustness, reliability,
+    fairness, explainability, calibration, and safety‑and-
+    performance-focused metrics.
+  - Build and maintain high‑quality evaluation datasets, golden
+    sets, challenge sets, and red‑teaming corpora tailored to
+    real banking workflows.
+  - Develop reusable evaluation harnesses and pipelines that
+    support multi‑agent workflows, tool use, and
+    retrieval‑augmented generation scenarios.
+  - Conduct empirical analyses, including statistical tests,
+    error analysis, and ablation studies, to identify model
+    weaknesses and guide model and product improvements.
+  - Integrate evaluation metrics and signals into model training
+    loops, deployment gating checks, and continuous monitoring
+    processes.
+  - Prototype and validate novel evaluation algorithms inspired
+    by current research in LLM safety, interpretability, and
+    reliability, and convert prototypes into maintainable
+    components.
+  - Produce clear, actionable evaluation reports that translate
+    technical findings into insights for engineering,
+    modeling, product, and business stakeholders.
+  - Collaborate with engineering, research, and product teams to
+    align evaluation requirements and deliver production‑ready
+    evaluation capabilities.
+  - Ensure reproducibility and reliability of evaluation results
+    through dataset versioning, configuration control, testing
+    practices, and documentation.
+  
+  Qualifications
+  
+  - 7+ years of experience in data science, machine learning, or
+    AI development, with at least 3 years focused on
+    evaluation, safety, reliability, or model performance
+    analysis.
+  - Master’s or PhD in Computer Science, Data Science,
+    Statistics, Engineering, or a related quantitative field,
+    or equivalent practical experience.
+  - Strong proficiency in Python and SQL, with experience using
+    PyTorch or TensorFlow, scikit‑learn, and modern data
+    science libraries.
+  - Demonstrated experience building evaluation pipelines for
+    LLMs or ML systems, including metric implementation,
+    dataset creation, and CI/CD integration.
+  - Solid understanding of statistical testing, calibration,
+    sampling design, and error analysis.
+  - Experience with evaluation of RAG systems, tool‑use
+    workflows, long‑context scenarios, adversarial/jailbreak
+    attacks, toxicity/bias detection, or privacy/PII leakage
+    tests.
+  - Familiarity with MLOps/LLMOps practices, including
+    experiment tracking, artifact management, and cloud‑based
+    ML infrastructure.
+  - Strong communication skills with the ability to translate
+    complex evaluation findings for both technical and
+    non‑technical audiences.
+  - Experience with interpretability or fairness techniques
+    (e.g., SHAP, counterfactuals, model probing) is an asset.
+  - Contributions to research or open‑source projects in
+    evaluation, safety, reliability, or interpretability are
+    an asset.
+  
+  Salary:
+  
+  $122,400.00 - $228,000.00
+  
+  Pay Type:
+  
+  Salaried
+  
+  The above represents BMO Financial Group’s pay range and
+  type.
+  
+  Salaries will vary based on factors such as location,
+  skills, experience, education, and qualifications for the
+  role, and may include a commission structure. Salaries for
+  part-time roles will be pro-rated based on number of hours
+  regularly worked. For commission roles, the salary listed
+  above represents BMO Financial Group’s expected target for
+  the first year in this position.
+  
+  BMO Financial Group’s total compensation package will vary
+  based on the pay type of the position and may include
+  performance-based incentives, discretionary bonuses, as well
+  as other perks and rewards. BMO also offers health
+  insurance, tuition reimbursement, accident and life
+  insurance, and retirement savings plans. To view more
+  details of our benefits, please visit:
+  https://jobs.bmo.com/global/en/Total-Rewards
+  
+  About Us
+  
+  At BMO we are driven by a shared Purpose: Boldly Grow the
+  Good in business and life. It calls on us to create lasting,
+  positive change for our customers, our communities and our
+  people. By working together, innovating and pushing
+  boundaries, we transform lives and businesses, and power
+  economic growth around the world.
+  
+  As a member of the BMO team you are valued, respected and
+  heard, and you have more ways to grow and make an impact.
+  We strive to help you make an impact from day one – for
+  yourself and our customers.  We’ll support you with the
+  tools and resources you need to reach new milestones, as you
+  help our customers reach theirs. From in-depth training and
+  coaching, to manager support and network-building
+  opportunities, we’ll help you gain valuable experience, and
+  broaden your skillset.
+  
+  To find out more visit us at http://jobs.bmo.com/us/en
+  
+  BMO is proud to be an equal employment opportunity employer.
+  We evaluate applicants without regard to race, religion,
+  color, national origin, sex (including pregnancy,
+  childbirth, or related medical conditions), sexual
+  orientation, gender identity, gender expression, transgender
+  status, sexual stereotypes, age, status as a protected
+  veteran, status as an individual with a disability, or any
+  other legally protected characteristics. We also consider
+  applicants with criminal histories, consistent with
+  applicable federal, state and local law.
+  
+  BMO is committed to working with and providing reasonable
+  accommodations to individuals with disabilities. If you need
+  a reasonable accommodation because of a disability for any
+  part of the employment process, please send an e-mail to
+  BMOCareers.Support@bmo.com and let us know the nature of
+  your request and your contact information.
+  
+  Note to Recruiters: BMO does not accept unsolicited resumes
+  from any source other than directly from a candidate. Any
+  unsolicited resumes sent to BMO, directly or indirectly,
+  will be considered BMO property. BMO will not pay a fee for
+  any placement resulting from the receipt of an unsolicited
+  resume. A recruiting agency must first have a valid, written
+  and fully executed agency agreement contract for service to
+  submit resumes.
+posted_date: 2026-03-25
+url: "https://builtin.com/job/ai-evaluations-engineer/8731582"
+source: Built In

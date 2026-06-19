@@ -1,0 +1,47 @@
+company:
+  name: Barclays
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Lead Engineer - Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is explicitly titled "Lead Engineer - Applied AI"
+      with hands-on requirements for developing Agentic AI
+      solutions using frameworks like LangGraph/LangChain, CrewAI,
+      and deploying LLM models via cloud services like AWS
+      Bedrock. This is direct work building and deploying AI
+      systems.
+  responsibilities:
+  - Develop and deploy Agentic AI solutions that are scalable and secure
+  - Design and implement AI systems from ideation through completion
+  - Integrate LLM models into software applications via APIs
+  - Lead cross-functional collaboration with product managers and engineers on AI
+    solution strategies
+  - Develop software applications on cloud platforms (AWS, Azure, GCP)
+  - Implement AI solutions for legacy code transformation
+  - Coach team members and set objectives for the engineering team
+  - Ensure secure coding practices and risk mitigation in AI implementations
+  use_cases:
+  - Agentic AI solutions for banking operations
+  - Legacy code transformation using AI
+  - LLM-powered software applications
+  - AI-driven automation in financial services
+  skills:
+    genai: [LangGraph, LangChain, CrewAI, Strands SDK, Google ADK, MCP, A2A protocols,
+      Prompt engineering, LLM Agents]
+    ml: [Model fine-tuning, Supervised learning, Reinforcement learning]
+    web: [API development]
+    databases: []
+    data: []
+    cloud: [AWS Bedrock, Azure AI Foundry, GCP Vertex AI, AWS, Azure, GCP]
+    ops: []
+    languages: [Python, Java, GoLang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8825115'
+  extracted_at: '2026-03-27T15:46:19.993057'

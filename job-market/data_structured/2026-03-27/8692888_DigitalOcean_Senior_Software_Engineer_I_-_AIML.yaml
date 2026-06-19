@@ -1,0 +1,47 @@
+company:
+  name: DigitalOcean
+  stage: Public
+  focus: |-
+    Cloud computing platform providing simple scalable
+    infrastructure and AI/ML tools
+position:
+  title: Senior Software Engineer I - AI/ML
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is building platform infrastructure and UI
+      components that enable developers to create AI agents,
+      rather than building the AI/ML models themselves. The work
+      involves TypeScript, React, GraphQL, and Go for building
+      tools and services that support AI/ML workflows - enabling
+      work for others who work on AI.
+  responsibilities:
+  - Drive large cross-functional projects independently to completion
+  - Build UI components, libraries, tools, and services that power the platform
+  - Maintain and develop the Go and GraphQL API
+  - Collaborate on design and UX for platform interfaces
+  - Ship product features from planning to launch to maintenance with high autonomy
+  - Participate and support operational excellence
+  - Collaborate with engineers to design elegant architectures and solutions
+  - Provide technical leadership by owning a technical area
+  use_cases:
+  - Platform for developers to easily create AI agents for real-world problems
+  - Simplified accelerated compute access for users
+  - Next generation AI/ML workflows on DigitalOcean cloud platform
+  - Tools and services for building AI-powered applications
+  skills:
+    genai: []
+    ml: []
+    web: [React, GraphQL, UI component libraries, Design systems]
+    databases: []
+    data: [Data Engineering]
+    cloud: [Infrastructure]
+    ops: [CI/CD, MLOps]
+    languages: [TypeScript, Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8692888'
+  extracted_at: '2026-03-27T16:01:52.783796'

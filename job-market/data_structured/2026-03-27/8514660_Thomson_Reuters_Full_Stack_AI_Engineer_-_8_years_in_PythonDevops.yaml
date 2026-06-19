@@ -1,0 +1,54 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Information services for legal, tax, accounting, compliance,
+    government, and media professionals
+position:
+  title: Full Stack AI Engineer - 8+ years in Python/Devops/Cloud
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on work building and integrating AI
+      systems, including LLMs, AI agents, agentic workflows, and
+      RAG patterns. The engineer will directly develop AI-driven
+      systems and integrate AI models into production, which
+      qualifies as ai-first work rather than support.
+  responsibilities:
+  - Design and build complex, enterprise-scale AI-driven systems with hands-on prototyping
+  - Develop front-end applications using React, Next.js, TypeScript, and Tailwind
+    CSS
+  - Build robust back-ends with Python, FastAPI, Pydantic, and cloud infrastructure
+    including AI service integration
+  - Define technical standards and best practices for rapid prototyping and solution
+    discovery
+  - Lead technical architecture decisions and translate business requirements into
+    scalable specifications
+  - Mentor engineers and drive technical discussions in executive forums
+  - Embed with business units to develop domain expertise and build stakeholder relationships
+  - Partner with cross-functional teams to co-create solutions and drive adoption
+  use_cases:
+  - AI-powered solutions for legal, tax, accounting, and compliance professionals
+  - Enterprise-scale AI-driven systems and process reimagining
+  - RAG-based information retrieval and semantic search
+  - AI agent and agentic workflow implementations
+  - Integration of AI models into production systems
+  skills:
+    genai: [LangChain, LlamaIndex, Semantic Kernel, Large Language Models (LLMs),
+      AI agents, RAG]
+    ml: [PyTorch, TensorFlow]
+    web: [React, Next.js, FastAPI, RESTful APIs, GraphQL, Tailwind CSS, Pydantic]
+    databases: [PostgreSQL, MySQL, MongoDB, DynamoDB, CosmosDB, Pinecone, Weaviate,
+      Chroma, pgvector]
+    data: [Kafka, RabbitMQ, AWS SQS/SNS, Azure Service Bus]
+    cloud: [AWS, Azure, AWS Lambda, Azure Functions]
+    ops: [Docker, Kubernetes, Terraform, CloudFormation, GitHub Actions, GitLab CI,
+      Azure DevOps, Datadog, New Relic, LangSmith]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [OAuth 2.0, OpenID Connect]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8514660'
+  extracted_at: '2026-03-27T15:07:35.738079'

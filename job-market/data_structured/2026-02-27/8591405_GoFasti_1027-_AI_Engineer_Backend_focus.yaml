@@ -1,0 +1,47 @@
+company:
+  name: GoFasti
+  stage: null
+  focus: |-
+    Talent-as-a-Service connecting LatAm developers with global
+    companies
+position:
+  title: 1027- AI Engineer (Backend focus)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly integrating LLMs into production
+      workflows, operationalizing AI models, and transitioning AI
+      prototypes into production systems. Core responsibilities
+      include hands-on work with Anthropic Claude, OpenAI GPTs,
+      and AWS Bedrock models.
+  responsibilities:
+  - Design, develop, and deploy AI-driven features and services for the client's platform
+  - Integrate LLMs (Anthropic Claude, OpenAI GPTs, Bedrock models) into production
+    workflows
+  - Build and maintain backend services using Node.js and MongoDB
+  - Collaborate on full-stack development with Vue.js frontend when needed
+  - Architect, containerize, and deploy applications using AWS and Docker
+  - Implement data pipelines, web scraping solutions, and AI/data engineering workflows
+  - Optimize system performance, scalability, and reliability in cloud-native environments
+  - Support AI experimentation and transition prototypes into production-ready systems
+  use_cases:
+  - AI-driven platform features and services
+  - LLM-powered production workflows
+  - Data engineering and web scraping solutions
+  - AI prototype development and production deployment
+  skills:
+    genai: [Anthropic Claude, OpenAI GPTs, AWS Bedrock]
+    ml: []
+    web: [Vue.js]
+    databases: [MongoDB]
+    data: [Web scraping, Data pipelines]
+    cloud: [AWS EC2, AWS Fargate, AWS Lambda, AWS SQS, AWS SES, AWS S3, AWS CloudFront]
+    ops: [Docker]
+    languages: [Node.js, Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8591405'
+  extracted_at: '2026-03-03T12:44:31.427580'

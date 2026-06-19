@@ -1,0 +1,52 @@
+company:
+  name: detections.ai
+  stage: Early-stage (Seed/Series A)
+  focus: AI-powered detection engineering platform for cybersecurity
+position:
+  title: Artificial Intelligence Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building, fine-tuning, and optimizing
+      LLMs for production security use cases, including
+      implementing RAG, agentic workflows, and deploying ML
+      pipelines. The engineer works hands-on with models and AI
+      systems rather than just supporting infrastructure.
+  responsibilities:
+  - Implement, fine-tune, and optimize state-of-the-art LLMs for performance, accuracy,
+    and security use cases
+  - Design and evaluate prompting strategies, flows, and application logic for LLM-powered
+    features
+  - Build and integrate advanced capabilities such as RAG, function calling, and code
+    interpreter technologies
+  - Design and deploy scalable ML pipelines for both batch and real-time use cases
+  - Collaborate closely with ML engineers, product teams, and detection engineers
+    to align AI capabilities with business goals
+  - Lead the incubation of new AI initiatives and drive strategic technology choices
+    in a microservices architecture
+  - Stay current with the latest research in LLMs, agents, and large-scale training
+    methods, applying insights into production systems
+  - Document methodologies, models, and results to share across the team and company
+  use_cases:
+  - AI-powered detection writing, testing, and management for security operations
+  - Retrieval-augmented generation for cybersecurity detection engineering workflows
+  - Agentic AI workflows to automate and streamline detection engineering tasks
+  - Intelligent code interpretation for security rule and detection logic
+  - Real-time and batch ML pipelines for security detection analysis
+  skills:
+    genai: [RAG, Agentic Workflows, Function Calling, Prompt Engineering, Gemini API,
+      Anthropic API, OpenAI API, Code Interpreter]
+    ml: [LLM Fine-Tuning, PyTorch, TensorFlow, Distributed Training, Model Parallelism]
+    web: [FastAPI, Node.js, React.js]
+    databases: [OpenSearch, DynamoDB]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Terraform, GitHub Actions, CI/CD, MLOps/LLMOps]
+    languages: [Python, TypeScript]
+    domains: [NLP, Cybersecurity]
+    other: [Microservices Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8896667'
+  extracted_at: '2026-04-22T13:02:14.546124'

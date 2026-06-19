@@ -1,0 +1,53 @@
+company:
+  name: Equip
+  stage: Series B+
+  focus: Virtual evidence-based eating disorder treatment program
+position:
+  title: Senior ML/AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with ML/AI systems
+      including training, fine-tuning, deploying, and monitoring
+      production ML models and LLM-based systems. The engineer
+      will architect end-to-end ML/AI pipelines and work directly
+      with large language models, making this clearly an ai-first
+      role.
+  responsibilities:
+  - Architect and lead end-to-end ML/AI pipelines including training, fine-tuning,
+    experimentation, and deployment
+  - Design and own CI/CD pipelines for ML/AI workflows with automated testing, model
+    versioning, and continuous delivery
+  - Build and maintain scalable ML/AI infrastructure on cloud platforms
+  - Develop monitoring and observability frameworks to track model performance, data
+    drift, and system health
+  - Develop tools and processes leveraging ML/AI to enhance user experience and extract
+    insights from large datasets
+  - Research state-of-the-art ML/AI advancements and translate them into production-ready
+    systems
+  - Design, build, and maintain APIs for exposing ML/AI models and data services
+  - Mentor junior and mid-level data scientists and engineers, driving engineering
+    best practices
+  use_cases:
+  - Healthcare operations optimization for eating disorder treatment
+  - Clinical insights extraction from patient data
+  - Product enhancement through AI-driven features
+  - Commercial and business intelligence applications
+  - Large dataset analysis for operational efficiency
+  skills:
+    genai: [Large Language Models, OpenAI API]
+    ml: [NLP, Model fine-tuning]
+    web: [API design]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure, SageMaker]
+    ops: [MLflow, Kubeflow, CI/CD, MLOps, Model deployment, Experiment tracking, Git,
+      GitHub]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8664605'
+  extracted_at: '2026-03-27T15:04:07.113952'

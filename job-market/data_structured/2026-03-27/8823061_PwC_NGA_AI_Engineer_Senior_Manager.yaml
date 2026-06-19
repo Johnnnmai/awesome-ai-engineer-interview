@@ -1,0 +1,48 @@
+company:
+  name: PwC
+  stage: Public
+  focus: |-
+    Professional services, consulting, data and analytics
+    engineering
+position:
+  title: NGA AI Engineer Senior Manager
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Senior Manager role focused on leading the
+      development of AI solutions. The role explicitly involves
+      creating GenAI chat experiences and leading AI solution
+      development, which qualifies as ai-first work. While it
+      includes management responsibilities, the core work involves
+      building and deploying AI systems for clients.
+  responsibilities:
+  - Lead the creation of innovative AI solutions to enhance operational effectiveness
+  - Serve as a strategic advisor on large-scale projects, guiding teams through challenges
+  - Motivate and develop top-performing teams to achieve project objectives
+  - Work with diverse stakeholders to secure alignment with industry standards
+  - Utilize advanced technologies to drive impactful results
+  - Foster a culture of continuous improvement and operational excellence
+  - Analyze complex data to identify opportunities for innovation
+  - Communicate effectively to convey project goals and progress
+  use_cases:
+  - GenAI chat experiences with real-time communication
+  - Operational excellence and process improvement
+  - Data-driven decision making for clients
+  - Predictive modeling and statistical analysis
+  - Business problem solving through AI solutions
+  skills:
+    genai: [GenAI chat development]
+    ml: [Machine learning, Predictive modeling]
+    web: [SSE (Server-Sent Events), JSON-RPC, WebSocket]
+    databases: []
+    data: [Statistical analysis, Data visualization]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8823061'
+  extracted_at: '2026-03-27T15:09:30.017882'

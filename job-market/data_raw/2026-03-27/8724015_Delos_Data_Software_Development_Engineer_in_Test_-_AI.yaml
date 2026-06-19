@@ -1,0 +1,119 @@
+job_id: 8724015
+title: Software Development Engineer in Test - AI
+company: Delos Data
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Docker
+  - Github Actions
+  - Gitlab Ci
+  - Jenkins
+  - Kubernetes
+  - Python
+description: |
+  Software Development Engineer in Test - AI
+  
+  About us:
+  
+  We are a stealth-mode startup building foundational
+  technology to address performance, scalability, and
+  resiliency challenges in large-scale AI data center
+  clusters. We are backed by top-tier VC firms and notable
+  angel investors.
+  
+  The company is led by experienced builders and operators who
+  have founded companies, taken them to scale, and exited
+  successfully. We work with a strong sense of unity and
+  shared responsibility, and we expect trust, integrity, and
+  respect in how we collaborate and make decisions. We hold
+  ourselves accountable to one another and to the quality of
+  the work we deliver.
+  
+  Headquartered in Silicon Valley, we operate across a mix of
+  remote and on-site locations in the U.S. and Canada. We aim
+  to create an environment where people are treated fairly,
+  supported in their growth, and are empowered to do
+  meaningful work alongside others who take the craft
+  seriously.
+  
+  We are looking for:
+  
+  We are looking for a Software Development Engineer in Test
+  (SDET) to ensure the reliability and performance of our core
+  AI infrastructure. In this role, you are an engineer who
+  builds sophisticated automation frameworks and stress-
+  testing suites to break and then harden our system.
+  
+  You will be responsible for validating the intersection of
+  distributed systems, GPU kernels, and AI frameworks. You
+  will build a scalable foundation of trust in our code,
+  ensuring that our performance-critical primitives work every
+  time, at any scale.
+  
+  Key Responsibilities:
+  
+  - Design, develop, and maintain a robust automated testing
+    framework from the ground up that supports distributed AI
+    training and inference workloads.
+  - Develop complex test plans that go beyond unit tests,
+    focusing on end-to-end system integration, stress testing,
+    and hardware-software boundary conditions.
+  - Partner closely with System Engineers to debug deep-seated
+    issues in distributed clusters, using telemetry and
+    profiling tools to identify bottlenecks.
+  
+  Required Skills and Qualifications:
+  
+  - Strong proficiency in Python (for automation and
+    orchestration).
+  - Proven experience building or extending test automation
+    frameworks for complex back-end systems.
+  - Proven ability to troubleshoot automated test failures
+    within complex large-scale distributed systems, and
+    identify root causes.
+  - Experience with containerization (Docker/Kubernetes) and
+    modern CI/CD tools (GitHub Actions, GitLab CI, or
+    Jenkins).
+  
+  Desired Skills:
+  
+  - Experience with Kubernetes or Terraform or Ansible for
+    managing test-bed environments.
+  - Experience testing high-performance networking protocols or
+    distributed file systems.
+  - Experience testing software that interacts directly with
+    drivers or firmware.
+  
+  Education:
+  
+  - Bachelor's or Master's degree in Computer Engineering,
+    Computer Science, or a related field.
+  
+  Compensation:
+  
+  Target base salary for this role is $140,000 - $200,000 per
+  year + meaningful equity + benefits + 401k. Our salary
+  ranges are determined by role, level, experience, and
+  location.
+  
+  We are an equal opportunity employer. We value a range of
+  perspectives and experiences and make employment decisions
+  based on merit and business needs. We do not discriminate on
+  the basis of legally protected characteristics.
+  
+  Agency Note:
+  
+  We do not accept resumes from agencies or search firms.
+  Please do not forward candidate profiles through our careers
+  page, email, LinkedIn messages, or directly to company
+  employees. Any resumes submitted will be deemed the property
+  of the company, and no fees will be paid in the event the
+  candidate is hired.
+industries:
+  - Artificial Intelligence
+  - Hardware
+  - Semiconductor
+posted_date: 2026-03-12
+url: "https://www.builtinla.com/job/software-development-engineer-test-ai/8724015"
+source: Built In

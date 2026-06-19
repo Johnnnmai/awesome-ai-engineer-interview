@@ -1,0 +1,46 @@
+company:
+  name: Jack & Jill AI
+  stage: Seed
+  focus: AI-powered lesson generation tool for teachers in EdTech
+position:
+  title: Founding Engineer (£80k-£100k + Equity) at Chalkie AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is for an AI-first EdTech startup building "the
+      first AI lesson generation tool" and explicitly seeks
+      someone with "a passion for AI-first development workflows."
+      As a founding engineer, they will be directly building and
+      deploying AI-powered features for the product.
+  responsibilities:
+  - Lead full-stack development using NextJS and Laravel to ship production-ready
+    features for 20,000+ weekly active users
+  - Architect and scale technical infrastructure on GCP and Digital Ocean to support
+    millions of future students and teachers
+  - Build AI lesson generation features that teachers love
+  - Collaborate daily with the CEO, CTO, and CPO to ideate, problem-solve, and execute
+    the core product vision
+  - Own features end-to-end as a founding engineer
+  - Shape the technical infrastructure and engineering culture for over 200,000 global
+    users
+  use_cases:
+  - AI lesson generation for teachers
+  - Saving teachers hours of planning time every week
+  - Educational content creation at scale
+  - Global education platform supporting millions of students and teachers
+  skills:
+    genai: []
+    ml: []
+    web: [NextJS, Laravel, React]
+    databases: []
+    data: []
+    cloud: [GCP, Digital Ocean]
+    ops: []
+    languages: [PHP]
+    domains: []
+    other: [Full-stack development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8853995'
+  extracted_at: '2026-03-27T14:25:15.732068'

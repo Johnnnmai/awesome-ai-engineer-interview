@@ -1,0 +1,48 @@
+company:
+  name: Xenon Seven
+  stage: unknown
+  focus: |-
+    IT consulting and staffing for Data, AI, and infrastructure
+    solutions
+position:
+  title: Pre Sales Engineer -AI and Data
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a pre-sales/solution consulting role that supports
+      AI/ML and Data Engineering projects but does not build,
+      train, or deploy AI systems directly. The role involves
+      proposal writing, requirement gathering, and supporting
+      senior architects - all enabling functions that work NEAR AI
+      but not ON AI systems themselves.
+  responsibilities:
+  - Prepare proposals, pitch decks, RFP/RFI responses, and solution documents for
+    AI/Data projects
+  - Participate in client discovery calls to understand business problems and map
+    them to AI/Data capabilities
+  - Assist senior solution architects in designing high-level AI/Data solutions and
+    prepare architecture diagrams
+  - Research AI/ML, Data Engineering, and Automation tools, frameworks, and best practices
+  - Help prepare product demos, POCs, capability walkthroughs, and build simple prototypes
+  - Collaborate with engineering, delivery, product, and sales teams on GTM initiatives
+  use_cases:
+  - Pre-sales solution consulting for AI and Data projects
+  - Client proposal development and RFP/RFI responses
+  - Business requirement discovery and mapping to AI/Data capabilities
+  - Solution documentation and technical storytelling for client engagements
+  skills:
+    genai: []
+    ml: [AI/ML concepts]
+    web: [APIs, Integrations]
+    databases: []
+    data: [Data Engineering workflows]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: []
+    domains: []
+    other: [Automation, Proposal writing, Presentation skills, Technical documentation]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7900150'
+  extracted_at: '2026-03-03T11:41:48.624561'

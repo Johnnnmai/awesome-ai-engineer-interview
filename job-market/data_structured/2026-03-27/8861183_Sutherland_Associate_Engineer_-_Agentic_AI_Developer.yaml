@@ -1,0 +1,45 @@
+company:
+  name: Sutherland
+  stage: null
+  focus: |-
+    AI, automation, cloud engineering, and advanced analytics
+    services
+position:
+  title: Associate Engineer - Agentic AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building agentic AI
+      systems, including multi-agent pipelines, RAG systems, and
+      AI-driven applications. The developer will work hands-on
+      with LLMs, agent orchestration frameworks, and model
+      deployment, which is core AI/ML development work.
+  responsibilities:
+  - Design and develop agentic AI systems using LLMs, tools, and orchestration frameworks
+  - Build RAG pipelines for structured and unstructured data
+  - Implement multi-agent workflows for document understanding, OCR, and data extraction
+  - Build APIs and services using Python and FastAPI for AI pipelines
+  - Evaluate and improve model accuracy, latency, and reliability
+  use_cases:
+  - Document understanding and data extraction
+  - Multi-agent workflow automation
+  - Knowledge retrieval and reasoning systems
+  - Real-time AI-driven applications
+  - OCR and structured data processing
+  skills:
+    genai: [LLMs, RAG, Multi-agent systems, LangChain, LangGraph, Prompt engineering,
+      Agent reasoning patterns]
+    ml: []
+    web: [FastAPI]
+    databases: [Vector databases]
+    data: []
+    cloud: [Azure, GCP]
+    ops: [Docker, MLOps, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: [OCR tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8861183'
+  extracted_at: '2026-03-27T14:30:37.053525'

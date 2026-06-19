@@ -1,0 +1,57 @@
+company:
+  name: Selector
+  stage: Venture-backed (growth stage)
+  focus: |-
+    AI/ML-based operational intelligence platform for digital
+    infrastructure observability
+position:
+  title: Test Automation Engineer – AI Network & Observability Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Test Automation Engineer role focused on testing
+      the reliability and performance of an AI/ML-based network
+      observability platform. The role does not involve building,
+      training, fine-tuning, or deploying AI/ML models directly.
+      Instead, it involves ensuring the quality of the platform
+      that incorporates AI/ML analytics, making it an ai-support
+      role.
+  responsibilities:
+  - Design, develop, and maintain automated test frameworks and test suites for network
+    and observability platforms
+  - Define test strategies for functional, integration, performance, scalability,
+    and regression testing
+  - Collaborate with engineering teams to understand requirements, design test cases,
+    and identify potential risks
+  - Integrate automated tests into CI/CD pipelines to enable continuous testing and
+    faster delivery cycles
+  - Analyze test results, identify root causes of failures, and provide actionable
+    feedback to development teams
+  - Drive quality initiatives across the platform including test coverage metrics,
+    automation metrics, and reporting
+  - Work with observability tools (logs, metrics, traces) to validate network behaviors
+    and ensure platform reliability
+  use_cases:
+  - Network observability and operational intelligence for digital infrastructure
+  - Multi-dimensional analytics for network, cloud, and application operators
+  - Automated data engineering pipelines for infrastructure monitoring
+  - Search-driven conversational user experience for operations teams
+  - Enterprise network performance monitoring for Telecoms, Media, Retail, and Sports
+    organizations
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [ELK Stack]
+    data: []
+    cloud: []
+    ops: [Pytest, Robot Framework, JUnit, Selenium, Playwright, Jenkins, GitLab CI,
+      CI/CD, Docker, Kubernetes, Prometheus, Grafana]
+    languages: [Python, Java, Go]
+    domains: [TCP/IP, BGP, SNMP]
+    other: [Network Testing, Load Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9008351'
+  extracted_at: '2026-04-22T13:21:32.912438'

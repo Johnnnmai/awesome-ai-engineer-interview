@@ -1,0 +1,57 @@
+company:
+  name: Boku
+  stage: Public
+  focus: Global mobile-first payments solutions provider
+position:
+  title: Solution Engineer (AI & Automation)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying AI
+      agents, designing agent behaviors, implementing RAG
+      pipelines, and orchestrating LLM-based solutions. The
+      position is specifically for designing and delivering an
+      "AI-native agent and chat layer" and requires direct work
+      with agent frameworks, tool call design, and prompt
+      engineering.
+  responsibilities:
+  - Design and deliver the AaaS platform alongside automation and integration solutions
+    that support business and IT processes
+  - Translate cross-functional business problems into scoped automation use cases
+    with defined inputs, outputs, tools, and decision points
+  - Design, configure, and orchestrate AI agent behaviours including tool scoping,
+    skill composition, and guardrail design
+  - Build, test, deploy, and support automation and integration solutions to production-ready
+    standard
+  - Contribute to development of reusable components, integration patterns, and shared
+    standards for the AaaS capability
+  - Work with stakeholders across IT and business to identify automation opportunities
+    and gather requirements
+  - Create and maintain technical documentation, runbooks, and solution design artefacts
+  - Apply AI and intelligent automation where it adds value and advise stakeholders
+    on appropriate use cases
+  use_cases:
+  - Enterprise workflow automation across business and IT processes
+  - AI agent orchestration for organizational tasks
+  - Cross-functional automation spanning HR, finance, sales, marketing, and service
+    delivery
+  - Integration with enterprise platforms including ITSM, ERP, and Microsoft 365
+  - RAG-based knowledge retrieval and automation
+  skills:
+    genai: [LLM orchestration, agent framework composition, tool call design, MCP
+        (Model Context Protocol), A2A agent patterns, RAG pipeline design, prompt
+        engineering, API-based model providers]
+    ml: []
+    web: [React, REST APIs, OAuth 2.0, webhooks, SSO / MSAL authentication]
+    databases: [Azure SQL]
+    data: []
+    cloud: [Azure App Service, Azure Functions, Entra ID / RBAC]
+    ops: []
+    languages: [TypeScript, Python, SQL]
+    domains: []
+    other: [RPA]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8874849'
+  extracted_at: '2026-03-27T14:30:55.579382'

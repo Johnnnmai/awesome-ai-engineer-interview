@@ -1,0 +1,51 @@
+company:
+  name: Dell Technologies
+  stage: Public
+  focus: |-
+    Enterprise hardware, servers, storage solutions and systems
+    engineering
+position:
+  title: Senior Principal Systems Development Engineer- Python & AI, Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is focused on designing and implementing Agentic
+      AI-based solutions using frameworks like LangChain, AutoGen,
+      and similar tools. The position involves hands-on work
+      building, deploying, and orchestrating AI-driven frameworks
+      and LLM-based automation for compute systems engineering.
+  responsibilities:
+  - Design and implement Agentic AI-based solutions using frameworks like LangChain,
+    AutoGen, and others
+  - Architect and develop advanced AI frameworks for Dell server hardware and firmware
+    portfolio
+  - Drive integration of AI-driven workflows into existing infrastructure for scalability
+    and intelligence
+  - Collaborate with hardware, firmware, and software teams to define strategies and
+    ensure compliance with quality standards
+  - Mentor and guide junior engineers on AI-driven automation best practices
+  - Research emerging AI technologies and apply them to improve overall efficiency
+    and coverage
+  use_cases:
+  - Intelligent autonomous solutions for compute systems engineering
+  - AI-driven automation for Dell server hardware and firmware portfolio
+  - Quality and efficiency enhancement across server systems
+  - LLM-based automation for infrastructure operations
+  - Scalable AI workflows for enterprise server management
+  skills:
+    genai: [LangChain, AutoGen, Haystack, LlamaIndex, CrewAI, OpenAI Function Calling,
+      prompt engineering, AI orchestration]
+    ml: []
+    web: [API integration]
+    databases: []
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [AI/ML model deployment and monitoring, CI/CD pipelines, Docker, Kubernetes]
+    languages: [Python]
+    domains: [server hardware architecture, firmware components]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7832717'
+  extracted_at: '2026-03-03T11:48:55.877539'

@@ -1,0 +1,54 @@
+company:
+  name: KX
+  stage: Established
+  focus: Time-aware data analytics and AI platform for enterprise
+position:
+  title: Generative AI Solutions Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work designing and implementing
+      LLM and generative AI solutions, including training, fine-
+      tuning, and serving models, implementing RAG architectures,
+      and building production pipelines with LangChain and other
+      GenAI tools. The focus is on building and deploying AI
+      systems directly.
+  responsibilities:
+  - Own end-to-end technical design for LLM and generative AI solutions across NVIDIA,
+    AWS, Azure, and GCP stacks
+  - Shape multi-cloud architectures for training, fine-tuning, and serving LLMs using
+    NeMo, Bedrock, Azure OpenAI, and Vertex AI
+  - Define MLOps/GitOps patterns for model lifecycle, vector-DB indexing, RAG implementations,
+    and guard-railing
+  - Build production pipelines in Python using FastAPI, LangChain, Ray, Triton, and
+    Airflow
+  - Benchmark and cost-optimize GPU, Grace Hopper, and CPU clusters for TCO and carbon
+    impact
+  - Establish security and compliance controls including encryption, IAM, SOC 2, FINRA,
+    and GDPR
+  - Support pre-sales and proofs-of-concept with capital-markets clients
+  - Mentor delivery teams for enterprise deployments in financial-services environments
+  use_cases:
+  - Enterprise LLM training, fine-tuning, and serving
+  - Retrieval-augmented generation (RAG) systems
+  - Risk analytics for financial services
+  - Enterprise chatbots
+  - Document generation
+  - Capital markets AI solutions
+  skills:
+    genai: [LangChain, OpenAI APIs, Anthropic APIs, RAG, Prompt engineering, Embedding
+        models]
+    ml: [NVIDIA NeMo]
+    web: [FastAPI]
+    databases: [Vector databases, Redis, kdb+, ClickHouse]
+    data: [Ray, Airflow, Kafka, Pandas, NumPy]
+    cloud: [AWS Bedrock, Azure OpenAI, Vertex AI, AWS, Azure, GCP]
+    ops: [Triton, Kubernetes, MLOps, GitOps, GPU scheduling, IAM]
+    languages: [Python, JavaScript, TypeScript, Go, Java, C++, SQL]
+    domains: []
+    other: [SOC 2 compliance, FINRA compliance, GDPR compliance]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8804778'
+  extracted_at: '2026-03-27T14:50:48.996915'

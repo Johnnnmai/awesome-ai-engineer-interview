@@ -1,0 +1,52 @@
+company:
+  name: MetLife
+  stage: Public
+  focus: Global financial services and insurance company
+position:
+  title: Senior Data & AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires 5+ years of hands-on experience with AI/ML
+      technologies including LangChain, Hugging Face, LLM/RAG
+      integration, and prompt engineering, plus 3+ years working
+      with LLMs like OpenAI. This is direct hands-on work building
+      and deploying AI systems, not just supporting infrastructure
+      for others.
+  responsibilities:
+  - Partner with product owners and stakeholders to deliver business outcomes aligned
+    with enterprise risk and control objectives
+  - Lead the design, development, testing, and deployment of scalable data engineering
+    and data processing pipelines
+  - Define and maintain architecture, design, and technical documentation for platform
+    sustainability
+  - Oversee operational support for complex data systems including root cause analysis
+    and issue resolution
+  - Champion engineering best practices across Data Engineering, Data Platforms, AI/ML,
+    and Cloud technologies
+  - Provide technical leadership on data modeling, integration patterns, and performance
+    optimization
+  - Support agile delivery by translating business needs into technical requirements
+    and user stories
+  use_cases:
+  - Risk management analytics and reporting
+  - Compliance monitoring and controls
+  - Internal audit data solutions
+  - Enterprise risk and control objectives support
+  - Data-driven decision making for finance and risk functions
+  skills:
+    genai: [LangChain, RAG, Prompt Engineering, OpenAI, Copilot]
+    ml: [NumPy, Hugging Face]
+    web: []
+    databases: [Snowflake]
+    data: [PySpark, Pandas, Informatica, Pentaho, Databricks, Hadoop, ETL]
+    cloud: [Azure]
+    ops: [Azure DevOps, GitHub, Jira, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8819328'
+  extracted_at: '2026-03-27T15:05:03.306747'

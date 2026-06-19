@@ -1,0 +1,49 @@
+company:
+  name: Barclays
+  stage: Public
+  focus: Global banking and financial services
+position:
+  title: Engineer - Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience with GenAI/Agentic AI
+      frameworks (LangGraph, LangChain, CrewAI) and LLM models,
+      including writing prompts for LLM agents and familiarity
+      with fine-tuning techniques. The position involves directly
+      building and deploying AI solutions using modern agent
+      frameworks and protocols.
+  responsibilities:
+  - Design, develop and improve AI-powered software solutions using industry-aligned
+    frameworks and tools
+  - Build and deploy GenAI and Agentic AI applications using frameworks like LangGraph,
+    LangChain, and CrewAI
+  - Develop scalable REST-based APIs and services using frameworks like FastAPI or
+    SpringBoot
+  - Collaborate cross-functionally with product managers, designers, and engineers
+    to define requirements and solution strategies
+  - Implement effective unit testing practices and adhere to secure coding standards
+  - Work with SQL and NoSQL databases like PostgreSQL and MongoDB
+  - Stay informed of industry AI/ML trends and contribute to technology communities
+  use_cases:
+  - Digital banking and financial services innovation
+  - Customer experience enhancement through AI
+  - AI-powered automation for banking operations
+  - Intelligent agents for financial products and services
+  skills:
+    genai: [LangGraph, LangChain, CrewAI, Strands SDK, Google ADK, MCP, A2A protocols,
+      Prompt engineering, LLM agents]
+    ml: [Model fine-tuning, Reinforcement Learning]
+    web: [FastAPI, SpringBoot, REST APIs]
+    databases: [PostgreSQL, MongoDB]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python, Java, GoLang, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8825127'
+  extracted_at: '2026-03-27T16:12:11.558728'

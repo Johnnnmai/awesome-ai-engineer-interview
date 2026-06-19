@@ -1,0 +1,53 @@
+company:
+  name: HumanSignal
+  stage: Series B+
+  focus: |-
+    Data labeling and evaluation platform for AI model training
+    and validation
+position:
+  title: AI Engineer (GTM)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, building, and deploying AI
+      agents and AI-powered workflows for GTM operations, with
+      explicit requirements for hands-on experience with AI/LLMs,
+      prompt engineering, and agent-based systems. The engineer
+      will directly build and deploy AI systems, not just support
+      them.
+  responsibilities:
+  - Design, build, and maintain AI systems across marketing, PLG, sales, and post-signup
+    activation
+  - Design and deploy AI-driven workflows and agents including lead qualification,
+    personalized messaging, and sales assist tools
+  - Own integrations and workflows across CRM, marketing automation, product analytics,
+    and data warehouse tools
+  - Build internal tools and lightweight services that accelerate GTM teams
+  - Build experimentation frameworks including feature flags, A/B testing, and measurement
+    systems
+  - Create tight feedback loops between users, product signals, and GTM actions
+  - Support hybrid GTM model where open-source users convert to paid customers
+  - Continuously optimize AI workflows, models, and automation based on real outcomes
+  use_cases:
+  - Lead qualification, inbound lead routing, and enrichment
+  - Personalized lifecycle marketing and outbound messaging
+  - Sales assist tools for deal intelligence and account research
+  - Automated account insights, pipeline analysis, and deal lifecycle management
+  - User onboarding, activation, and expansion signals
+  - Data labeling and evaluation for AI model training
+  skills:
+    genai: [LLMs, Prompt Engineering, AI Agents]
+    ml: []
+    web: [APIs]
+    databases: [Data warehouse]
+    data: [Data pipelines, Analytics, A/B testing, Experimentation frameworks]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [CRM systems, Salesforce, HubSpot, CDPs, Marketing automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8787089'
+  extracted_at: '2026-03-27T14:36:58.362808'

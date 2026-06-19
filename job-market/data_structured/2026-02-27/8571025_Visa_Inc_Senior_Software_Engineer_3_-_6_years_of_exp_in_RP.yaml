@@ -1,0 +1,55 @@
+company:
+  name: Visa Inc,
+  stage: Public
+  focus: Global payments technology and transaction processing
+position:
+  title: Senior Software Engineer (3 - 6 years of exp in RPA / Power Platform / Power
+    Automate / Power Apps + Gen AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily an RPA/Power Platform automation
+      engineering position with Generative AI as a supplementary
+      component. The focus is on building low-code/no-code
+      automations, workflow orchestration, and IT operations
+      support rather than building, training, or fine-tuning AI
+      models. GenAI is used for AI-assisted workflows and
+      chatbots, but the core work is automation engineering, not
+      AI development.
+  responsibilities:
+  - Design, develop, and deploy end-to-end automation solutions using Microsoft Power
+    Platform and Generative AI
+  - Build intelligent process orchestrations integrating low-code workflows, RPA,
+    APIs, and AI-driven components
+  - Develop and deploy RPA components including bots, connectors, logging, monitoring,
+    and code repositories
+  - Integrate systems using SFTP, HTTP, SMTP, REST/SOAP, and enterprise APIs
+  - Provide Level 2/Level 3 application support for People Technology systems
+  - Manage server patching and vulnerability remediation activities
+  - Participate in internal and external audits and ensure compliance with IAM and
+    Data Privacy policies
+  - Serve as Application Technology Coordinator ensuring compliance, configuration
+    accuracy, and data quality
+  use_cases:
+  - HR and People Technology process automation
+  - AI-assisted workflows and document processing
+  - Chatbots and copilots for enterprise applications
+  - Governance, risk, and compliance automation
+  - IT operations and configuration management
+  skills:
+    genai: [Power Virtual Agents, Copilot Studio, Prompt Engineering]
+    ml: []
+    web: [REST APIs, SOAP APIs, HTTP]
+    databases: [Dataverse]
+    data: []
+    cloud: []
+    ops: [Qualys, CMDB, IT Operations, Incident Management, Change Management, Vulnerability
+        Management, IAM, Disaster Recovery]
+    languages: [SQL]
+    domains: [Data Privacy, GRC, Business Continuity]
+    other: [Microsoft Power Platform, Power Automate, Power Apps, RPA, SFTP, UML]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8571025'
+  extracted_at: '2026-03-03T11:34:28.504605'

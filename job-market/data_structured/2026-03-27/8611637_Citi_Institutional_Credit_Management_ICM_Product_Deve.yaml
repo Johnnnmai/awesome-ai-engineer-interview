@@ -1,0 +1,55 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services institution
+position:
+  title: Institutional Credit Management (ICM) Product Developer - Artificial Intelligence
+    (AI), Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Product Developer/Manager role focused on building
+      a new credit risk platform utilizing Generative AI and
+      traditional AI. The role involves developing new AI use
+      cases and capabilities, implementing AI technologies in
+      processes, and launching AI-powered products for origination
+      decisions and credit monitoring. While it's a product role,
+      the focus is on actively developing AI-powered solutions,
+      not just supporting infrastructure.
+  responsibilities:
+  - Develop new AI/ML use cases and capabilities for credit risk management platforms
+  - Partner with risk managers to develop origination and credit monitoring strategies
+    using emerging technologies
+  - Launch and manage new AI-powered products, projects and initiatives for credit
+    lifecycle transformation
+  - Lead product working groups to maintain outcome-based roadmaps and track progress
+    towards OKRs
+  - Conduct design workshops to create conceptual solutions for diverse personas in
+    credit management
+  - Drive digital transformation by re-engineering operational business processes
+    with AI/automation
+  - Navigate from strategic vision to requirement level to enable design execution
+  - Follow market and industry AI trends to adapt them for Citi's products and platforms
+  use_cases:
+  - Credit origination and underwriting decision automation
+  - Credit monitoring and periodic assessment of institutional clients
+  - Portfolio limit setting and management across lending products
+  - Financial spreading and covenant monitoring automation
+  - Collateral management and risk appetite management
+  - Client management and servicing workflow optimization
+  skills:
+    genai: [Generative AI]
+    ml: [Traditional AI/ML]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Agile methodology]
+    languages: [Python]
+    domains: [Credit risk management, Corporate lending and underwriting]
+    other: [Product management, Process engineering]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8611637'
+  extracted_at: '2026-03-27T15:08:35.165525'

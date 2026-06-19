@@ -1,0 +1,51 @@
+company:
+  name: Optum
+  stage: Public
+  focus: |-
+    Healthcare technology and services improving health outcomes
+    globally
+position:
+  title: Lead AI or ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing and implementing AI
+      capabilities, creating and maintaining AI models and
+      algorithms, and conducting AI research. The position
+      requires hands-on work building and deploying AI solutions
+      for a Contact Center platform, which qualifies as ai-first
+      despite also having strategic/architectural
+      responsibilities.
+  responsibilities:
+  - Design and develop AI applications and infrastructure for the Contact Center platform
+  - Collaborate with Cloud and Machine Learning engineers and CRM development team
+    to integrate AI technologies
+  - Create and maintain AI models and algorithms for the platform
+  - Conduct AI research to improve existing systems and develop new technologies
+  - Identify opportunities for AI solutions within the organization and propose strategic
+    plans
+  - Train team members and stakeholders on AI and its applications
+  - Ensure compliance with data privacy regulations in AI applications
+  - Monitor the performance of AI systems and make necessary adjustments
+  use_cases:
+  - Contact center AI automation and assistance
+  - Healthcare payer enterprise customer service optimization
+  - AI-powered customer interaction handling
+  - Healthcare data-driven decision support
+  - Intelligent routing and response systems
+  skills:
+    genai: []
+    ml: [Data Science, Machine Learning]
+    web: []
+    databases: []
+    data: [Data modeling, Data structures]
+    cloud: [GCP, Azure AI]
+    ops: []
+    languages: []
+    domains: []
+    other: [Software architecture, Project management]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8880130'
+  extracted_at: '2026-03-27T15:02:41.949602'

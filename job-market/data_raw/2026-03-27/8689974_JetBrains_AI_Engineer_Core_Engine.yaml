@@ -1,0 +1,70 @@
+job_id: 8689974
+title: AI Engineer (Core Engine)
+company: JetBrains
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Java
+  - Kotlin
+  - Python
+company_size: 2,209 Employees
+description: |
+  At JetBrains, code is our passion. Ever since we started
+  back in 2000, we have been striving to make the world’s most
+  robust and effective developer tools. By automating routine
+  checks and corrections, our tools speed up production,
+  freeing developers to grow, discover, and create.
+  
+  We are now building services and agentic tools that provide
+  AI coding agents and end users with deeper context about
+  codebases. Our code retrieval service already delivers
+  meaningful improvements in agent speed and task performance,
+  and we aim to push this further – extracting richer insights
+  than snippets alone at the scale of several hundred thousand
+  repositories.
+  
+  We are looking for an AI Engineer who can design and
+  implement agentic tools from scratch, bring them to the end
+  users, and make coding with agents smarter, faster, and more
+  reliable.
+  
+  In this role, you will:
+  
+  - Translate product needs into agentic tools and services and
+    ship them to production.
+  - Scale prototypes to large numbers of users.
+  - Improve and test our semantic search service.
+  - Build evaluation pipelines for code retrieval and coding
+    task performance.
+  
+  We’ll be happy to have you on our team if you have:
+  
+  - At least five years of hands-on NLP experience.
+  - Experience in information retrieval systems.
+  - Strong experience in LLM prompt and tool engineering, as
+    well as with AI agents.
+  - Solid programming skills in Python and/or Kotlin (and the
+    willingness to learn the language you’re unfamiliar with).
+  - Experience building and operating production-grade software
+    systems.
+  
+  We’d be especially thrilled if you have:
+  
+  - Experience developing in Kotlin or Java.
+  - Previously worked with code intelligence (e.g. AST, symbol
+    graphs).
+  
+  #LI-KP1
+  
+  We are an equal opportunity employer We know great ideas can
+  come from anyone, anywhere. That’s why we do our best to
+  create an open and inclusive workplace – one that welcomes
+  everyone regardless of their background, identity, religion,
+  age, accessibility needs, or orientation.
+  
+  We process the data provided in your job application in
+  accordance with the Recruitment Privacy Policy.
+posted_date: 2026-03-09
+url: "https://builtin.com/job/ai-engineer-core-engine/8689974"
+source: Built In

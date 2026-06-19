@@ -1,0 +1,56 @@
+company:
+  name: Arctic Wolf
+  stage: Public
+  focus: Cybersecurity managed detection and response (MDR) services
+position:
+  title: Senior Developer - AI Threat Intel Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building agentic AI frameworks
+      using LangChain/LangGraph, integrating LLMs and autonomous
+      AI agents, developing MLOps pipelines for model training and
+      inference, and designing an AI-driven Threat Intel Platform.
+      The core work is hands-on with AI/LLM systems and agents,
+      not just supporting infrastructure for others.
+  responsibilities:
+  - Design and develop an AI-driven Threat Intel Platform focused on fraud, risk,
+    and anomaly detection
+  - Build and extend agentic frameworks using LangChain, LangGraph, or similar architectures
+    for reasoning, orchestration, and task automation
+  - Design, develop, and maintain backend services and microservices using Python,
+    Go, and cloud-native technologies
+  - Develop and manage MLOps pipelines for scalable model training, testing, deployment,
+    and real-time inference
+  - Integrate LLMs and autonomous AI agents for dynamic pattern recognition, event
+    correlation, and decision automation
+  - Implement end-to-end automation workflows from data ingestion and feature engineering
+    to autonomous inference and actioning
+  - Build secure, scalable systems leveraging AWS services including RDS, DynamoDB,
+    Lambda, EKS/Kubernetes, and event-driven pipelines
+  - Mentor junior developers and contribute to team growth through knowledge sharing
+    and technical leadership
+  use_cases:
+  - AI-driven threat intelligence for cybersecurity
+  - Fraud and risk detection and mitigation
+  - Anomaly detection and behavioral modeling
+  - Autonomous event correlation and decision automation
+  - Dynamic pattern recognition for emerging cyber threats
+  skills:
+    genai: [LangChain, LangGraph, Semantic Kernel, LLM integration, Prompt engineering,
+      Agentic AI frameworks]
+    ml: [PyTorch, TensorFlow, scikit-learn]
+    web: [Microservices]
+    databases: [Postgres]
+    data: [Feature stores, Data pipeline design, Event-driven architectures]
+    cloud: [AWS, AWS RDS, AWS DynamoDB, AWS Lambda, AWS EKS]
+    ops: [MLOps, Docker, Kubernetes, Terraform, CI/CD, Jenkins, Real-time inference
+        systems]
+    languages: [Python, Go]
+    domains: []
+    other: [Test-driven development, Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9104524'
+  extracted_at: '2026-04-22T13:30:06.022802'

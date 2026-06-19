@@ -1,0 +1,49 @@
+company:
+  name: JetBrains
+  stage: Public
+  focus: Developer tools and AI-native software development platform
+position:
+  title: Senior Full-stack QA Engineer (AI Platform)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA/testing role for an AI platform, not a role
+      building or deploying AI systems. The focus is on testing
+      infrastructure, automated testing, CI/CD pipelines, and
+      quality assurance - enabling the AI platform team's work
+      rather than working directly on models, agents, or AI
+      systems.
+  responsibilities:
+  - Develop and maintain automated testing infrastructure including CI/CD pipelines
+    and testing tools
+  - Write and improve automated tests, particularly for APIs
+  - Collaborate with QA and Development teams to design and execute test scenarios
+  - Work with logs and monitoring tools (Kibana, Grafana) to detect functional issues
+    and performance anomalies
+  - Ensure quality of distributed AI-powered systems by validating integrations with
+    language models and APIs
+  - Focus on quality assurance of new features, automation of regression testing,
+    and performance testing
+  use_cases:
+  - AI-native software development platform
+  - Developer workflow integration
+  - Team-level collaboration tools
+  - Organizational governance for AI-driven development
+  - Integration with various language models and APIs
+  skills:
+    genai: []
+    ml: []
+    web: [Postman, REST APIs, OpenAPI/Swagger]
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Docker Compose, Kubernetes, Helm, CI/CD, TeamCity, GitHub Actions,
+      Kibana, Grafana, k6]
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: [OAuth 2.0, JWT]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8733500'
+  extracted_at: '2026-03-27T14:22:38.670578'

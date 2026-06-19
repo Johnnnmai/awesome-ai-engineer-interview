@@ -1,0 +1,52 @@
+company:
+  name: eClerx LLC
+  stage: Public
+  focus: |-
+    Business process management, automation, and analytics
+    services for Fortune 2000 enterprises
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting and deploying production-
+      grade GenAI applications, specifically building RAG
+      architectures, Graph RAG, and agentic solutions. The
+      position requires hands-on work designing, developing, and
+      optimizing AI systems including agent training and feedback
+      loops.
+  responsibilities:
+  - Lead analytics for Money Movement business leveraging Generative AI capabilities
+    to enhance productivity
+  - Architect, design, and develop production-grade Generative AI applications and
+    complex Agentic solutions
+  - Evaluate agentic architectures and industry practices to select optimal approaches
+    for business problems
+  - Design and implement agent training, performance measurement, correction, and
+    feedback processes
+  - Ensure solutions meet compliance, security, and performance management standards
+  - Collaborate with and advise business stakeholders on Generative AI solution capabilities
+  - Mentor data scientists in advanced Agentic solution development and software engineering
+    best practices
+  use_cases:
+  - Money Movement business analytics and insights
+  - Natural Language Query interfaces for enterprise data
+  - RAG and Graph RAG systems for customized outcomes
+  - Productivity enhancement through Generative AI
+  - Data ingestion and integration from Genesys Cloud and Salesforce
+  skills:
+    genai: [LangChain, RAG, Graph RAG, Agentic architectures, Natural Language Query]
+    ml: [PyTorch, TensorFlow]
+    web: [React, APIs]
+    databases: [Snowflake, SQL Server]
+    data: [Data pipelines]
+    cloud: [Cloud services]
+    ops: [Kubernetes, MLOps]
+    languages: [Python, Java]
+    domains: []
+    other: [Genesys Cloud, Salesforce]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8720381'
+  extracted_at: '2026-03-27T13:13:06.651948'

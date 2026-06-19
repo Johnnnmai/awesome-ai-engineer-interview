@@ -1,0 +1,47 @@
+company:
+  name: Expedia Group
+  stage: Public
+  focus: Global travel technology platform and online booking
+position:
+  title: Software Development Engineer II, AI Platform – Finance Products
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building, deploying, and
+      operationalizing AI/ML and LLM-powered components, including
+      implementing prompt engineering, RAG pipelines, and AI
+      workflows. The engineer directly works with LLM technologies
+      and ships AI-powered product features, making it an ai-first
+      role.
+  responsibilities:
+  - Build and deploy AI/ML and LLM-powered components for Finance products
+  - Implement prompt engineering, RAG pipelines, and AI workflows under defined architectures
+  - Develop data pipelines, feature logic, and backend services supporting AI use
+    cases
+  - Apply SQL and Python skills to transform and analyze Finance data
+  - Integrate AI services with APIs, data platforms, and UI layers
+  - Package, deploy, and operate AI systems using CI/CD pipelines
+  - Support experimentation, evaluation, and iteration of AI solutions
+  - Contribute to system reliability, monitoring, and production readiness
+  use_cases:
+  - AI-powered Finance product features at Expedia Group
+  - RAG pipelines for financial data retrieval and analysis
+  - LLM-based automation of finance workflows
+  - AI-driven financial data transformation and insights
+  skills:
+    genai: [prompt engineering, RAG, LangChain, LangGraph, LlamaIndex, OpenAI GPT,
+      Claude, Gemini, Llama, LangFlow]
+    ml: [machine learning]
+    web: [FastAPI, Flask]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9097088'
+  extracted_at: '2026-04-22T14:14:23.111648'

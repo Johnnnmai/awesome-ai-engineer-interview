@@ -1,0 +1,62 @@
+company:
+  name: 4M Analytics
+  stage: null
+  focus: |-
+    Creating a global map of the subsurface using cutting-edge
+    technology
+position:
+  title: AI Revenue Operations Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building of agentic AI
+      workflows, custom AI integrations, prompt libraries, and AI-
+      powered automation systems for GTM operations. While it's
+      applied AI in a revenue operations context rather than core
+      ML research, the candidate is expected to architect and
+      build AI systems (LLM-based workflows, agents, automation) —
+      not just use off-the-shelf tools passively. The role
+      explicitly requires designing and building agentic AI
+      workflows and custom AI integrations.
+  responsibilities:
+  - Own and execute 4M's GTM AI roadmap, continuously scanning the AI landscape for
+    emerging tools, models, and workflows that create competitive advantage
+  - Design and build agentic AI workflows, prompt libraries, and custom AI integrations
+    across CRM and GTM systems
+  - Build proof-of-concepts quickly, evaluate real-world impact, and scale successful
+    AI capabilities across the full revenue team
+  - Act as a hands-on AI coach and enablement partner for CRO and GTM leadership,
+    driving measurable AI adoption and behavior change
+  - Own the GTM tech stack with an AI-first lens — evaluating, implementing, and optimizing
+    tools across sales automation, forecasting, CRM enrichment, and customer lifecycle
+    management
+  - Build and maintain AI-augmented reporting infrastructure for real-time visibility
+    into pipeline health and GTM performance
+  - Serve as a trusted execution partner to the CRO, leveraging AI to accelerate board
+    materials, pipeline reviews, QBRs, and executive briefings
+  - Use AI tools to synthesize signals from across the business into crisp strategic
+    recommendations
+  use_cases:
+  - GTM AI strategy and tool deployment for revenue teams
+  - AI-powered account research and outreach personalization
+  - Automated CRM enrichment, forecasting, and deal intelligence
+  - AI-assisted content generation for proposals, QBRs, and executive briefings
+  - Intelligent automation of repetitive GTM workflows
+  - Real-time pipeline health monitoring and performance insights
+  skills:
+    genai: [Claude (Anthropic), LLM prompting and prompt engineering, Agentic AI workflows,
+      AI-native GTM platforms, RAG]
+    ml: []
+    web: [APIs]
+    databases: [Salesforce, HubSpot, CRM platforms]
+    data: [Analytics platforms]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [No-code/Low-code automation tools, Sales engagement tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8965746'
+  extracted_at: '2026-04-22T12:36:18.674106'

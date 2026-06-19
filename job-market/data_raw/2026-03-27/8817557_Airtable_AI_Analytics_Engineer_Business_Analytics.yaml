@@ -1,0 +1,186 @@
+job_id: 8817557
+title: AI Analytics Engineer (Business Analytics)
+company: Airtable
+location: 
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Databricks
+  - Dbt
+  - Looker
+  - Omni
+  - Snowflake
+  - SQL
+company_size: 900 Employees
+description: |
+  Airtable is the no-code app platform that empowers people
+  closest to the work to accelerate their most critical
+  business processes. More than 500,000 organizations,
+  including 80% of the Fortune 100, rely on Airtable to
+  transform how work gets done.
+  
+  Join Airtable as an Analytics Engineer supporting our
+  Strategic Finance and Accounting teams, where you’ll take an
+  AI-first approach to building the next generation of
+  analytics infrastructure and tooling. This is a unique
+  opportunity to shape how Finance stakeholders access and
+  leverage data, driving real-time, self-serve insights and
+  accelerating the adoption of AI-native analytics across
+  Airtable.
+  
+  In this role, you’ll own the canonical financial data models
+  and analytics infrastructure that power critical metrics
+  like ACV, ARR, billings, and revenue. You’ll build scalable
+  data pipelines, dashboards, and AI-powered systems that
+  enable Finance stakeholders to explore data independently
+  and make confident decisions. If you’re passionate about
+  data, finance, and emerging AI tooling—and want to help
+  define how analytics evolves inside a modern software
+  company—we’d love to meet you.
+  
+  What you'll do
+  
+  - Design and maintain trusted data models for core financial
+    metrics including ACV, ARR, billings, revenue recognition,
+    and cost allocation, managing the full lifecycle from
+    prototyping through production
+  - Develop and govern dbt data pipelines, establishing data
+    integrity standards and SLAs that ensure timely and
+    accurate delivery of financial data across Finance and
+    Accounting
+  - Build and optimize dashboards that deliver real-time, self-
+    serve insights across key financial areas including
+    revenue performance, expense tracking, budget variance,
+    and forecasting accuracy
+  - Enable data independence for Finance stakeholders by
+    eliminating reliance on ad-hoc data requests and manual
+    reporting, building scalable self-service datasets in
+    Looker and Omni for the Finance team and broader company
+  - Collaborate with Finance and data partners to establish the
+    AI Business Context layer for financial use cases,
+    translating accounting logic, metric definitions, and
+    business rules into structured formats that AI tools can
+    interpret accurately
+  - Develop tools that enable natural language access to
+    financial data and AI-assisted reporting, empowering non-
+    technical Finance stakeholders to explore insights
+    independently
+  - Design and implement AI-powered workflows that automatically
+    surface patterns, anomalies, and meaningful changes in
+    financial data, delivering insights proactively to
+    stakeholders
+  - Serve as the primary data partner for FP&A, Accounting, and
+    Finance leadership, supporting strategic financial
+    analysis and decision-making aimed at growing the
+    business.
+  - Translate complex data insights into clear business
+    recommendations through dashboards, memos, and
+    presentations that drive action
+  - Drive cross-functional adoption of analytics and AI tooling,
+    partnering with Finance stakeholders to onboard users,
+    answer questions, triage issues, and train teams on new
+    capabilities
+  - Develop deep expertise in Airtable’s financial data models,
+    pipelines, and BI tools (dbt, Looker, Omni) within the
+    first six months, becoming the go-to internal expert for
+    Finance data
+  
+  Who you are
+  
+  - Technically curious and AI-forward: You’re energized by
+    LLMs, prompt engineering, and the evolving landscape of AI
+    tooling. You’ve experimented with tools like Claude/Claude
+    Code, ChatGPT, or Manus, and you’re eager to build systems
+    around them, not just use them.
+  - A builder at heart: You have a bias toward making things.
+    Whether it’s a prototype, a pipeline, or a quick script to
+    test an idea, you default to building rather than
+    theorizing. You’re comfortable picking up new technical
+    skills and exploring unfamiliar domains, especially with
+    AI tooling accelerating what’s possible.
+  - Analytically grounded: You’re SQL-proficient and have
+    experience with modern data tools (dbt, Databricks,
+    Snowflake, or similar). You have strong intuition for when
+    data “looks wrong” and can validate query logic and
+    troubleshoot issues independently.
+  - Detail-oriented with financial rigor: You understand that
+    financial data demands precision. You’re driven by
+    curiosity to explore data beyond the surface, but you
+    never sacrifice accuracy for speed.
+  - A clear communicator and strong writer: Context engineering
+    is fundamentally a writing discipline. You can translate
+    complex business logic into precise, structured
+    documentation that both humans and LLMs can interpret.
+  - Business-minded: You’re genuinely curious about how the
+    business works, how we sell, how revenue flows, what
+    metrics matter and why. You ask “what decision does this
+    support?” not just “is the SQL correct?”
+  - Thrives in ambiguity: You proactively create clarity and
+    forward momentum, even when requirements are incomplete or
+    rapidly changing. You own workstreams end-to-end, from
+    scoping the problem to iterating based on feedback.
+  - Not married to legacy tooling: You’re more interested in
+    what’s emerging than what’s established. You evaluate
+    tools based on what they enable, not how long they’ve been
+    around.
+  
+  Airtable is an equal opportunity employer. We embrace
+  diversity and strive to create a workplace where everyone
+  has an equal opportunity to thrive. We welcome people of
+  different backgrounds, experiences, abilities, and
+  perspectives. All qualified applicants will receive
+  consideration for employment without regard to race, color,
+  religion, sex, sexual orientation, gender identity, national
+  origin, disability, protected veteran status or any
+  characteristic protected by applicable federal and state
+  laws, regulations and ordinances. Learn more about your EEO
+  rights as an applicant.
+  
+  VEVRAA-Federal Contractor
+  
+  If you have a medical condition, disability, or religious
+  belief/practice which inhibits your ability to participate
+  in any part of the application or interview process, please
+  complete our Accommodations Request Form and let us know how
+  we may assist you. Airtable is committed to participating in
+  the interactive process and providing reasonable
+  accommodations to qualified applicants.
+  
+  Compensation awarded to successful candidates will vary
+  based on their work location, relevant skills, and
+  experience.
+  
+  Our total compensation package also includes the opportunity
+  to receive benefits, restricted stock units, and may include
+  incentive compensation. To learn more about our
+  comprehensive benefit offerings, please check out Life at
+  Airtable.
+  
+  For work locations in the San Francisco Bay Area, Seattle,
+  New York City, and Los Angeles, the base salary range for
+  this role is:
+  
+  $157,100—$193,600 USD
+  
+  For all other work locations (including remote), the base
+  salary range for this role is:
+  
+  $141,600—$175,100 USD
+  
+  Please see our Privacy Notice for details regarding
+  Airtable’s collection and use of personal data relating to
+  the application and recruitment process by clicking here.
+  For applicants that live in or have a link to Australia,
+  please see this Privacy Collection Statement for details
+  regarding Airtable's collection and use of personal data
+  relating to the application and recruitment process.
+  
+  🔒 Stay Safe from Job Scams All official Airtable
+  communication will come from an @airtable.com email address.
+  We will never ask you to share sensitive information or
+  purchase equipment during the hiring process. If in doubt,
+  contact us at hr@airtable.com. Learn more about avoiding job
+  scams here.
+posted_date: 2026-03-20
+url: "https://builtin.com/job/ai-analytics-engineer-business-analytics/8817557"
+source: Built In

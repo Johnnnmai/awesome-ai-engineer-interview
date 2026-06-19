@@ -1,0 +1,54 @@
+company:
+  name: Apptegy
+  stage: null
+  focus: |-
+    K-12 education communication and community engagement
+    platform
+position:
+  title: AI Operations Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role focuses on building and deploying AI-powered
+      workflows using tools like ChatGPT-5, Gemini, Glean, N8N,
+      and AgentForce. The position involves designing,
+      prototyping, and implementing AI solutions across business
+      operations, making it ai-first as they're actively deploying
+      AI systems rather than just supporting infrastructure for
+      others.
+  responsibilities:
+  - Collaborate with leaders across Sales, Client Experience, Marketing, Product,
+    and Finance to identify workflow bottlenecks and design AI solutions
+  - Build and automate smart workflows using Glean, N8N, AgentForce, Fin, Snowflake,
+    and custom development to connect systems and automate data flows
+  - Create and iterate lightweight no-code or low-code prototypes that evolve into
+    scalable solutions
+  - Translate operational challenges into technical implementations that align with
+    business objectives
+  - Partner with Program Manager Lead to coordinate rollouts, gather feedback, and
+    drive adoption across teams
+  - Document tools, playbooks, and use cases to help teams experiment with new AI
+    technologies
+  - Test new tools and recommend improvements to enhance AI infrastructure
+  use_cases:
+  - Workflow automation across business operations
+  - Cross-functional process integration and efficiency
+  - Data flow automation between business systems
+  - AI-powered operational solutions for Sales, Marketing, Finance teams
+  - Elimination of repetitive manual work through intelligent automation
+  skills:
+    genai: [N8N, Glean, ChatGPT-5, Gemini, AgentForce, Fin]
+    ml: []
+    web: [Salesforce, APIs, Webhooks]
+    databases: [Snowflake]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript, SQL]
+    domains: []
+    other: [Zapier, Make, Retool, Intercom, Clay, HubSpot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7710489'
+  extracted_at: '2026-03-03T12:52:43.617929'

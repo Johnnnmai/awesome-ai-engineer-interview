@@ -1,0 +1,57 @@
+company:
+  name: Morningstar
+  stage: Public
+  focus: |-
+    Investment research and financial data analytics,
+    specializing in ESG performance assessment
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and scaling production inference
+      systems for both classic ML models and LLMs, implementing
+      RAG patterns, and owning end-to-end delivery of AI services
+      from prototype to production. The position requires hands-on
+      experience deploying and operating LLMs in production
+      environments.
+  responsibilities:
+  - Lead the development and scaling of inference endpoints and APIs for classic ML
+    models and LLMs
+  - 'Own end-to-end delivery of AI services from prototype to production: design,
+    build, deploy, and operate'
+  - Develop and maintain CI/CD pipelines; automate deployments on AWS (Bedrock, Lambda,
+    EKS, S3)
+  - Design and maintain data pipelines, queues, and event-driven workflows to support
+    AI products
+  - Integrate vector databases, retrieval pipelines, and RAG patterns into production-grade
+    systems
+  - Build and maintain orchestration layers and microservices in Python; contribute
+    to platform services
+  - Establish and maintain monitoring, observability, alerting, and cost-aware operations
+    for AI services
+  - Mentor and guide engineers; drive code quality, design reviews, and operational
+    excellence
+  use_cases:
+  - ESG (Environmental, Social, and Governance) performance assessment for companies
+  - Investment analysis and research powered by AI
+  - LLM inference and natural language processing for financial insights
+  - Retrieval-augmented generation for investment data queries
+  - Scalable AI-powered services for global investor base
+  skills:
+    genai: [LLMs, RAG]
+    ml: []
+    web: [Microservices, REST APIs]
+    databases: [Vector databases, PostgreSQL]
+    data: []
+    cloud: [AWS, AWS Bedrock, AWS Lambda, AWS EKS, AWS S3]
+    ops: [Docker, Kubernetes, CI/CD, Terraform, CloudFormation, CloudWatch, Prometheus,
+      Grafana]
+    languages: [Python, JavaScript, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8875706'
+  extracted_at: '2026-03-27T14:26:59.095803'

@@ -1,0 +1,50 @@
+company:
+  name: IDEXX
+  stage: Public
+  focus: Veterinary software and diagnostics for animal health
+position:
+  title: Senior AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-powered developer tools and
+      autonomous AI agents from scratch, including implementing
+      LLMs, designing agentic systems, and integrating ML
+      frameworks. While focused on developer enablement, the
+      position requires hands-on work building and deploying AI
+      systems, not just supporting infrastructure for others' AI
+      work.
+  responsibilities:
+  - Architect and implement scalable AI-powered developer tools using ML frameworks
+    to automate code generation, debugging, and testing
+  - Pioneer autonomous AI agents capable of independent decision-making and problem-solving
+    for integration into the SaaS platform
+  - Develop predictive analytics for animal health data and adaptive user experiences
+  - Collaborate across engineering tribes to identify bottlenecks and prototype AI-enhanced
+    solutions like natural language interfaces for DevOps tasks
+  - Mentor junior engineers and influence strategic roadmaps for AI adoption
+  - Drive adoption of cutting-edge AI tooling and shape engineering culture around
+    AI capabilities
+  use_cases:
+  - Developer enablement through AI-powered code generation, debugging, and testing
+    automation
+  - Autonomous AI agents for veterinary diagnostics and workflow streamlining
+  - Predictive analytics for animal health data
+  - Natural language interfaces for DevOps tasks
+  - Adaptive user experiences in veterinary SaaS platform
+  skills:
+    genai: [OpenAI, Anthropic, Open-source LLMs, LangChain, Prompt engineering]
+    ml: [PyTorch, TensorFlow, Hugging Face]
+    web: [Event-driven systems]
+    databases: []
+    data: []
+    cloud: [Cloud-native architectures]
+    ops: [Git, CI/CD, Containerization, Infrastructure as code]
+    languages: [Python, Go, Node.js, TypeScript]
+    domains: [Natural language processing]
+    other: [VS Code extensions, GitHub Apps, CLI tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8106147'
+  extracted_at: '2026-03-27T13:26:24.207564'

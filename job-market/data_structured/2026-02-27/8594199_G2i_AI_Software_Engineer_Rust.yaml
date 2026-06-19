@@ -1,0 +1,44 @@
+company:
+  name: G2i
+  stage: Unknown
+  focus: AI training and evaluation services
+position:
+  title: AI Software Engineer (Rust)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves training LLMs through RLHF -
+      engineers provide code rankings, edits, and feedback that
+      gets converted into reward signals to tune the model. While
+      not building models from scratch, this is hands-on work
+      improving AI model capabilities, specifically teaching LLMs
+      to write production-grade code.
+  responsibilities:
+  - Compare and rank multiple code snippets to determine best solutions
+  - Repair and refactor AI-generated code for correctness, efficiency, and style
+  - Provide expert code review feedback including identifying logic errors, performance
+    issues, and security problems
+  - Inject ratings, edits, and test results into the RLHF pipeline
+  - Create detailed written explanations justifying code quality decisions
+  - Teach LLMs to propose, critique, and improve code through human feedback
+  use_cases:
+  - Train LLMs to write production-grade code
+  - Improve AI code generation quality through expert feedback
+  - Teach AI models to critique and improve code
+  - Reinforcement learning from human code review expertise
+  skills:
+    genai: []
+    ml: [RLHF]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Rust]
+    domains: []
+    other: [Code review, Technical writing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8594199'
+  extracted_at: '2026-03-03T11:41:14.618334'

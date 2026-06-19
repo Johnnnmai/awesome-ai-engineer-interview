@@ -1,0 +1,48 @@
+company:
+  name: StubHub
+  stage: Public
+  focus: Global marketplace for buying and selling live event tickets
+position:
+  title: Software Engineer II - AI-Powered Consumer Experiences
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-powered consumer experiences
+      from the ground up, integrating AI/ML services into
+      production environments, and developing intelligent
+      workflows. The engineer will be working directly on
+      implementing AI capabilities (not just infrastructure), with
+      hands-on integration of AI services into consumer-facing
+      features.
+  responsibilities:
+  - Design, build, test, deploy, and maintain fullstack systems powering AI-driven
+    consumer features
+  - Develop scalable backend services and APIs that support intelligent workflows
+  - Build responsive frontend interfaces using modern frameworks like React and TypeScript
+  - Integrate AI/ML services into production environments with focus on reliability
+    and performance
+  - Collaborate closely with product and design to iterate on early-stage ideas
+  - Participate in rapid experimentation and data-driven iteration cycles
+  - Debug production systems and continuously improve system quality
+  use_cases:
+  - Intelligent discovery and evaluation of live events
+  - Personalized event recommendations for fans
+  - AI-powered ticket purchasing experiences
+  - Dynamic and adaptive user journeys in event marketplace
+  - Automated consumer-facing intelligent systems
+  skills:
+    genai: [AI/ML integration]
+    ml: [recommendation systems, personalization]
+    web: [React, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [distributed systems, experimentation frameworks, feature flagging]
+    languages: [TypeScript, JavaScript, C#, Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8615305'
+  extracted_at: '2026-03-27T13:37:25.950042'

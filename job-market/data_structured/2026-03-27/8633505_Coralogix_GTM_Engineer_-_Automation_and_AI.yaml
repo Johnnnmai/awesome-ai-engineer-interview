@@ -1,0 +1,58 @@
+company:
+  name: Coralogix
+  stage: Series C+ (implied by $100M+ ARR and high-growth)
+  focus: |-
+    Modern full-stack observability platform for data processing
+    at scale
+position:
+  title: GTM Engineer - Automation and AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building LLM-powered tools, integrating
+      LLM capabilities with prompt engineering and output parsing,
+      and deploying AI-enabled automation workflows. The engineer
+      will work hands-on with Claude Code and LLMs to build and
+      deploy AI solutions for GTM processes, making this an ai-
+      first role focused on implementing AI systems.
+  responsibilities:
+  - Design and deploy AI-enabled automation workflows across the GTM stack using workflow
+    orchestration tooling like n8n
+  - Build LLM-powered tools for pre-call research, deal intelligence, pipeline gap
+    analysis, and automated executive briefings
+  - Integrate LLM capabilities into operational revenue workflows including prompt
+    engineering, output parsing, and confidence scoring
+  - Develop event-driven API-to-API integration patterns connecting Salesforce, Gong,
+    Snowflake, Slack, and Marketo
+  - Rapidly prototype and ship internal GTM tools using AI-accelerated development
+    with Claude Code and GitHub Copilot
+  - Build lightweight frontend interfaces and backend services for internal sales
+    and revenue teams
+  - Develop data pipelines and transformations that move GTM events from source systems
+    into Snowflake for downstream analytics
+  - Evaluate and recommend alternative automation and AI tooling based on evidence
+    and performance
+  use_cases:
+  - Pre-call research automation for sales teams
+  - Deal intelligence and pipeline gap analysis
+  - Automated executive briefings
+  - Forecast variance analysis and pipeline reporting
+  - Gong engagement gap alerts and SE utilization tracking
+  - Self-service internal tools to replace manual GTM requests
+  skills:
+    genai: [Claude Code, GitHub Copilot, GPT-based tools, Prompt engineering, LLM
+        integration]
+    ml: []
+    web: [RESTful APIs, Microservices, React, Salesforce APIs]
+    databases: [Snowflake]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [n8n, Zapier, Workato, Docker]
+    languages: [Python, Node.js]
+    domains: []
+    other: [Gong, Marketo, Slack integrations]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8633505'
+  extracted_at: '2026-03-27T15:36:27.975968'

@@ -1,0 +1,134 @@
+job_id: 8778091
+title: Backend Engineer, Applied AI
+company: TriEdge Investments
+location: New York, USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - Anthropic
+  - Inngest
+  - Node.js
+  - Openai
+  - Postgres
+  - Supabase
+  - Typescript
+company_size: 26 Employees
+description: |
+  About Hypha
+  
+  Hypha is an AI-native platform transforming asset management
+  across the full lifecycle—acquisition, management, and exit.
+  Focused on healthcare facilities and multifamily real
+  estate, we're revolutionizing the industry through three key
+  pillars:
+  
+  - Observability: Providing real-time visibility into asset
+    performance, deal progress, and market conditions for all
+    stakeholders
+  - Intelligence: Enabling AI-driven multidimensional
+    optimization with risk scores, tax strategies, and
+    benchmarking
+  - Orchestration: Creating seamless workflows and a single
+    source of truth to eliminate inefficiencies
+  
+  Role Overview
+  
+  As a Backend Engineer, Applied AI at Hypha, you’ll build and
+  improve the AI systems that power the core of the platform.
+  This includes designing and operating document processing
+  pipelines, building extraction agents, developing entity
+  resolution and computed attribute systems, and shaping the
+  conversational query interface that allows users to interact
+  with complex data.
+  
+  You’ll work hands-on with LLMs and agent frameworks to
+  design multi-step workflows that transform unstructured
+  information into structured, actionable insights. A large
+  part of the role is building the infrastructure that makes
+  these AI systems reliable, observable, and performant as
+  they operate at scale.
+  
+  We’re hiring across multiple experience levels for this
+  role, from engineers early in their careers to more senior
+  engineers with deeper systems and architecture experience.
+  Level and compensation will be determined through the
+  interview process.
+  
+  Core Competencies
+  
+  - Design and build AI agent workflows — document extraction,
+    entity resolution, and data structuring
+  - Build reliable backend infrastructure — queues, pipelines,
+    and orchestration using Inngest and Supabase
+  - Work with PostgreSQL at depth — schema design, query
+    optimization, and data modeling for complex financial data
+  - Instrument, monitor, and debug AI pipelines — understanding
+    failure modes and building guardrails
+  - Develop and optimize prompt chains, tool-use patterns, and
+    retrieval strategies
+  - Collaborate with product and frontend engineers to expose AI
+    capabilities through the product
+  
+  Ideal Candidate
+  
+  - Strong backend fundamentals — You're experienced with
+    Node.js/TypeScript, PostgreSQL, and building reliable
+    server-side systems. You understand concurrency, queuing,
+    and data pipeline design.
+  - Applied AI experience — You've built products with LLMs;
+    whether that's agent architectures, RAG systems,
+    extraction pipelines, or tool-use patterns. You understand
+    the practical challenges of working with non-deterministic
+    systems.
+  - Systems thinking — You can reason about how components
+    interact at scale. You think about failure modes, retries,
+    observability, and cost when designing AI workflows.
+  - Pragmatic engineering — You ship working systems, not
+    research prototypes. You know when to optimize and when
+    good enough is good enough.
+  - AI-fluent — You use AI coding tools daily and know how to
+    wield them effectively as a multiplier on top of strong
+    fundamentals.
+  
+  What Sets You Apart
+  
+  - Experience with workflow orchestration tools (Inngest,
+    Temporal, Step Functions)
+  - Experience with OCR, document processing, or financial data
+    extraction
+  - Familiarity with OpenAI and Anthropic APIs, function
+    calling, and structured outputs
+  - Early-stage startup experience
+  
+  Why Join Hypha
+  
+  - Be at the cutting edge of applied AI
+  - Have a large scope and massive impact on the company
+  - Work directly with the leadership team
+  - Strong career growth opportunities as we scale
+  - Competitive compensation package: $180-$225k base salary and
+    equity
+  
+  If you're ready to help build the future of asset management
+  and are excited by the challenge of bringing AI-driven
+  solutions to complex financial workflows, we want to hear
+  from you.
+  
+  Please note: We are proud to be an equal opportunity
+  employer, and we are committed to diversity and inclusion.
+  All qualified applicants will receive consideration for
+  employment without regard to race, color, religion,
+  ethnicity, sex, age, national origin, citizenship status,
+  disability, marital status, partnership status, sexual
+  orientation, gender identity and expression, military or
+  veteran status, or any other characteristic protected by
+  federal, state or local law.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Real Estate
+  - Software
+  - Financial Services
+posted_date: 2026-03-17
+url: "https://builtin.com/job/backend-engineer-applied-ai/8778091"
+source: Built In

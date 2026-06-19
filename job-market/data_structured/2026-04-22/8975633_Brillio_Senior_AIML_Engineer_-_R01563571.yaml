@@ -1,0 +1,57 @@
+company:
+  name: Brillio
+  stage: null
+  focus: Digital technology consulting and engineering services
+position:
+  title: Senior AI/ML Engineer - R01563571
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on building and deploying traditional ML
+      pipelines, model optimization, and MLOps infrastructure. The
+      skills listed (PyTorch, TensorFlow, ARIMA, SVM, etc.) and
+      responsibilities (ML pipelines, model deployment, data drift
+      monitoring) center on classical ML/DL rather than LLMs,
+      agents, or GenAI systems.
+  responsibilities:
+  - Design, implement, and manage scalable ML pipelines using Azure ML, Databricks,
+    and PySpark
+  - Build and maintain automated CI/CD pipelines with GitHub Actions and SonarQube
+    for code quality and security
+  - Containerize and deploy ML models using Azure Kubernetes Service (AKS) for high
+    availability and scalability
+  - Develop reusable templates for various ML use cases to streamline model deployment
+    and enhance operational efficiency
+  - Design and manage APIs to facilitate seamless interaction between ML models and
+    other applications
+  - Perform model optimization, monitor data drift, data refresh checks, and ensure
+    ML pipelines are cost-efficient
+  - Implement cost monitoring and management strategies for model training and deployment
+    phases
+  - Collaborate with data scientists, DevOps, and IT teams to deploy and manage ML
+    models across environments
+  use_cases:
+  - Scalable machine learning pipeline orchestration and automation
+  - ML model deployment and serving on cloud infrastructure
+  - Data drift detection and model performance monitoring
+  - Cost optimization for ML training and inference workloads
+  - Reusable ML workflow templating for operational efficiency
+  skills:
+    genai: []
+    ml: [Hypothesis Testing, T-Test, Z-Test, Linear Regression, Logistic Regression,
+      Statistical Analysis, Probabilistic Graph Models, Exponential Smoothing, ARIMA,
+      ARIMAX, Decision Trees, SVM, TensorFlow, PyTorch, scikit-learn, CNTK, Keras,
+      MXNet]
+    web: [REST APIs]
+    databases: []
+    data: [PySpark, Great Expectations, Databricks]
+    cloud: [Azure ML, Azure Kubernetes Service, Azure]
+    ops: [Evidently AI, Kubeflow, BentoML, GitHub Actions, SonarQube, Docker, CI/CD]
+    languages: [Python, R]
+    domains: []
+    other: [SAS, SPSS, R Studio]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8975633'
+  extracted_at: '2026-04-22T12:59:53.488003'

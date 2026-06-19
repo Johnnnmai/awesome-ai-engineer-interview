@@ -1,0 +1,49 @@
+company:
+  name: Gusto
+  stage: Public
+  focus: Payroll, benefits, and HR platform for small businesses
+position:
+  title: Staff Applied AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly developing, testing, and
+      deploying AI/ML models including generative AI applications,
+      anomaly detection, and personalization systems. The engineer
+      transitions models from PoC to production, working hands-on
+      with ML services and containerized environments — clear ai-
+      first work building and deploying AI/ML systems.
+  responsibilities:
+  - Develop, test, and deploy AI/ML models for anomaly detection, personalized experiences,
+    generative AI applications, and algorithm optimization
+  - Transition models from proof-of-concept to production-ready solutions ensuring
+    scalability and performance
+  - Review and contribute to codebases, participate in pull requests, and maintain
+    high-quality engineering standards
+  - Deploy, monitor, and troubleshoot ML services in containerized environments
+  - Collaborate with cross-functional teams including analytics, engineering, products,
+    and business stakeholders
+  - Build AI/ML framework and infrastructure to optimize data usage for customer journey
+    and experience
+  use_cases:
+  - Anomaly detection in payroll or financial transactions
+  - Personalized customer experience for small businesses
+  - Generative AI applications for HR and benefits domain
+  - Algorithm and optimization solutions for business operations
+  - Customer journey optimization through data-driven solutions
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning, Anomaly Detection]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, MLOps, Model Deployment]
+    languages: [Python, JavaScript, C++, Java, Scala, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8945920'
+  extracted_at: '2026-04-22T12:52:29.138741'

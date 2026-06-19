@@ -1,0 +1,51 @@
+company:
+  name: Automattic
+  stage: Public
+  focus: |-
+    Web publishing, e-commerce, and messaging platforms
+    including WordPress.com, WooCommerce, Tumblr
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves shipping user-facing AI features and
+      building AI-powered products across Automattic's ecosystem.
+      The engineer will work directly with LLMs (APIs or custom
+      implementations), build AI-powered interfaces, and scale AI
+      innovations from prototype to production - all hands-on work
+      building and deploying AI systems.
+  responsibilities:
+  - Ship user-facing AI features across Automattic's product ecosystem including site
+    building tools, ecommerce recommendations, and messaging experiences
+  - Build and iterate rapidly on AI-powered products that directly impact millions
+    of users
+  - Collaborate with PMs, designers, and engineers in fast-paced environment optimized
+    for innovation
+  - Experiment and scale successful AI innovations from prototype to production across
+    multiple products
+  - Embed with product teams to work on WordPress.com, WooCommerce, Jetpack, Clay,
+    Beeper, Pocket Casts
+  - Stay current with AI developments that unlock new user experiences
+  use_cases:
+  - Site building tools for WordPress.com
+  - Ecommerce recommendations for WooCommerce merchants
+  - Messaging experiences for Beeper and communication platforms
+  - Content creation tools to help creators tell better stories
+  - AI-powered features across publishing, commerce, and messaging platforms
+  skills:
+    genai: [LLMs, OpenAI/Anthropic APIs]
+    ml: [Machine learning fundamentals]
+    web: [React, Full-stack development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [PHP, TypeScript]
+    domains: []
+    other: [WordPress, WooCommerce, Open source]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8296667'
+  extracted_at: '2026-03-03T12:05:37.972404'

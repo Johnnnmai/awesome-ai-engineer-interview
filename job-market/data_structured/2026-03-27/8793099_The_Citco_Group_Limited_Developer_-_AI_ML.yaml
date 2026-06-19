@@ -1,0 +1,44 @@
+company:
+  name: The Citco Group Limited
+  stage: Public
+  focus: |-
+    Asset servicing and financial services for alternatives,
+    corporations, and private clients
+position:
+  title: Developer - AI / ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI infrastructure,
+      implementing LLM/GenAI solutions, and working with vector
+      stores and embedding strategies. The hands-on nature of
+      implementing GenAI solutions and building core AI
+      capabilities classifies this as ai-first.
+  responsibilities:
+  - Build and maintain core AI infrastructure, APIs, and cloud integrations
+  - Implement LLM/GenAI solutions, vector stores, and embedding strategies
+  - Collaborate with cross-functional teams to enable AI adoption across Citco
+  - Ensure code quality through testing, CI/CD, and DevOps practices
+  - Deliver reusable patterns, frameworks, and components for AI capabilities
+  - Foster a culture of innovation and technical excellence
+  use_cases:
+  - Enable AI adoption across financial services organization
+  - Build reusable AI infrastructure and frameworks
+  - Implement LLM-powered solutions for enterprise use
+  - Vector search and semantic retrieval for business applications
+  skills:
+    genai: [LLMs/GenAI, Embedding strategies, Azure OpenAI]
+    ml: []
+    web: [FastAPI, REST APIs, React]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, Azure, GCP, AWS Bedrock]
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Event-driven architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8793099'
+  extracted_at: '2026-03-27T14:34:09.533520'

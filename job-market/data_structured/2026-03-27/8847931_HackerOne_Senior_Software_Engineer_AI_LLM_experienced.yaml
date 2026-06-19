@@ -1,0 +1,58 @@
+company:
+  name: HackerOne
+  stage: Late Stage (Public company customer base, recognized industry leader)
+  focus: |-
+    Continuous Threat Exposure Management combining agentic AI
+    with security researchers for vulnerability discovery and
+    remediation
+position:
+  title: Senior Software Engineer (AI / LLM experienced)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role explicitly requires hands-on experience delivering
+      AI-assisted features and agentic systems into production,
+      including ownership of agentic architecture (tool use,
+      orchestration, RAG, human-in-the-loop patterns). The
+      position involves building and deploying intelligent,
+      automated, AI-enhanced security products - direct hands-on
+      work with AI/LLM systems.
+  responsibilities:
+  - Lead complex initiatives and own end-to-end delivery of projects with moderate
+    to large scope
+  - Design and deliver AI-assisted and agentic capabilities including tool use, orchestration,
+    RAG, and human-in-the-loop patterns
+  - Build, ship and maintain highly available, performant features for the hacker-facing
+    platform areas
+  - Implement data loops enabling continuous optimization including quality metrics,
+    capacity/latency/cost trade-offs, and post-launch monitoring
+  - Lead CTEM and agentic work owning architecture for agentic workflows
+  - Build and introduce AI tools that improve delivery efficiency and reduce repetitive
+    work
+  - Onboard, guide, mentor, and delegate effectively to engineers while building reusable
+    patterns
+  - Collaborate with cross-functional teams across Pune, Netherlands, and North America
+  use_cases:
+  - Agentic AI-powered continuous threat exposure management
+  - AI-driven vulnerability discovery and validation across code, cloud, and AI systems
+  - Automated security testing and AI red teaming
+  - Intelligent security workflow automation with human-in-the-loop patterns
+  - AI-assisted pentesting and bug bounty program management
+  skills:
+    genai: [Agentic architectures, Tool use/Function calling, Workflow orchestration,
+      RAG (Retrieval Augmented Generation), Human-in-the-loop patterns, Evaluation
+        and data loops]
+    ml: []
+    web: [React, GraphQL, Ruby on Rails]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [AWS, Cloud platforms]
+    ops: []
+    languages: [Python, JavaScript, Ruby, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8847931'
+  extracted_at: '2026-03-27T14:03:32.959703'

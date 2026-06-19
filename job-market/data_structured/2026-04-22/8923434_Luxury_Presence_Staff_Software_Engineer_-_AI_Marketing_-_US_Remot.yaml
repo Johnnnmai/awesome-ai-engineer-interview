@@ -1,0 +1,51 @@
+company:
+  name: Luxury Presence
+  stage: Series C
+  focus: AI growth platform for real estate professionals
+position:
+  title: Staff Software Engineer - AI Marketing - US (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-powered product features
+      directly — AI-generated social video pipelines, AI-driven
+      advertising platforms, and AI-powered SEO/GEO systems. The
+      engineer is hands-on with AI to create, deploy, and ship
+      production systems that leverage AI models, not merely
+      supporting infrastructure for others' AI work.
+  responsibilities:
+  - Build self-serve advertising platform enabling agents to purchase, launch, and
+    manage Meta and Google ad campaigns with automated campaign creation and real-time
+    reporting
+  - Develop AI-generated social video pipeline that creates on-brand video content
+    from listing data and publishes to Instagram and TikTok at scale
+  - Design full-funnel attribution data model connecting ad clicks to AI conversations
+    to deal stage changes for ROI visibility
+  - Build SEO and generative engine optimization (GEO) systems to drive organic growth
+    for real estate clients across search and AI-powered search experiences
+  - Shape platform architecture and drive AI-powered product delivery as a technical
+    leader
+  - Raise the engineering bar for AI-augmented development practices across the team
+  use_cases:
+  - AI-generated social media video content creation for real estate agents at scale
+  - Automated digital advertising campaign creation and management on Meta and Google
+  - Full-funnel marketing attribution from ad spend to closed real estate deals
+  - SEO and generative engine optimization for real estate agent visibility
+  - AI-powered CRM-driven marketing campaigns for real estate professionals
+  skills:
+    genai: [Anthropic API, AI agents, AI video generation, GEO (Generative Engine
+        Optimization), Prompt engineering]
+    ml: []
+    web: [FastAPI, REST APIs]
+    databases: [Postgres, Redis]
+    data: [Data modeling, Event-driven architecture]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Meta Ads API, Google Ads API, SEO]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8923434'
+  extracted_at: '2026-04-22T13:20:58.299286'

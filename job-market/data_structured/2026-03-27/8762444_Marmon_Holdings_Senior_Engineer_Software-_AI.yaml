@@ -1,0 +1,48 @@
+company:
+  name: Marmon Holdings
+  stage: Public
+  focus: Global industrial organization backed by Berkshire Hathaway
+position:
+  title: Senior Engineer Software- AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI
+      systems, specifically agentic solutions and multi-agent
+      architectures. The position requires direct work with RAG,
+      prompt engineering, fine-tuning, and orchestration
+      frameworks to build production-ready AI solutions from
+      concept to deployment.
+  responsibilities:
+  - Design and build sophisticated agentic solutions and multi-agent architectures
+  - Develop and deploy production-ready AI solutions to cloud environments
+  - Implement RAG processes, prompt engineering, and fine-tuning techniques
+  - Work with orchestration frameworks like LangChain, AutoGen, and CrewAI
+  - Design strategies for diverse data types to optimize AI performance and RAG accuracy
+  - Collaborate with stakeholders to translate business problems into AI solutions
+  - Mentor team members and provide technical leadership
+  - Architect next-generation AI ecosystems and enterprise-scale orchestration patterns
+  use_cases:
+  - Multi-agent systems and autonomous workflows
+  - Enterprise-scale AI orchestration
+  - Multimodal AI processing (video, CAD, 3D, sensor data)
+  - RAG-based AI solutions for business problems
+  - Complex data pipeline development for AI ingestion
+  skills:
+    genai: [LangChain, AutoGen, CrewAI, Microsoft Agent Framework, RAG, Prompt engineering,
+      Fine-tuning, Multi-agent systems]
+    ml: [Multimodal models, Embeddings]
+    web: [API design, Modern frontend frameworks]
+    databases: [Pinecone, Milvus, Azure AI Search, Cosmos DB, Vector databases]
+    data: []
+    cloud: [AWS, Azure, GCP, Azure AI Engineer certification, AWS Solutions Architect
+        certification]
+    ops: []
+    languages: [Python, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8762444'
+  extracted_at: '2026-03-27T14:52:56.009034'

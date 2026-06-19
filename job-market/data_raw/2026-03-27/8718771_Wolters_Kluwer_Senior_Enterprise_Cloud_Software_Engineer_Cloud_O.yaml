@@ -1,0 +1,195 @@
+job_id: 8718771
+title: "Senior Enterprise Cloud Software Engineer (Cloud Operations, AI Engineering, Azure & AWS)"
+company: Wolters Kluwer
+location: Chennai, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ansible
+  - AWS
+  - Azure
+  - Azure Devops
+  - Django
+  - Docker
+  - Fastapi
+  - Flask
+  - Github Actions
+  - Gitlab
+company_size: 18,996 Employees
+description: |
+  We are seeking a Senior Enterprise Cloud Software Engineer
+  skilled in automation engineering, artificial intelligence,
+  and cloud operations.  This role represents a strategic
+  evolution of two traditionally separate
+  disciplines—Enterprise Cloud Software Development and Cloud
+  Operations Engineering—into a single, high‑impact
+  engineering role that designs, builds, and operates
+  intelligent, automation‑first cloud platforms at enterprise
+  scale.
+  
+  The Senior Enterprise Cloud Platform Engineer role redefines
+  operations as software, embedding reliability, governance,
+  security, and resilience directly into cloud services
+  through code, automation, and AI‑assisted intelligence.
+  
+  You will help drive the future of cloud operations by
+  creating programmable platforms, self‑healing systems, and
+  AI‑augmented operational workflows across AWS and Azure,
+  replacing manual toil with scalable, policy‑driven
+  execution.
+  
+  Mission of the Role
+  
+  - Transform Cloud Operations from reactive support into
+    proactive, software‑defined platforms
+  - Fuse software engineering rigor with operational ownership
+  - Leverage automation, Infrastructure‑as‑Code, and AI to
+    eliminate manual work at scale
+  - Design systems that are secure, observable, resilient, and
+    self‑optimizing by default
+  - Act as a technical bridge between Engineering, Cloud
+    Operations, Security, and Architecture
+  
+  Technical Skills & Competencies
+  
+  Enterprise Cloud Software Engineering
+  
+  - Design and build enterprise‑grade cloud services, APIs, and
+    automation platforms using a Python‑first stack
+    (FastAPI/Django/Flask), with UI components where needed.
+  - Develop cloud‑native tooling and services using Azure and
+    AWS SDKs to standardize provisioning, lifecycle
+    management, and operational workflows.
+  - Apply modern software engineering practices: clean
+    architecture, SOLID principles, automated testing, and
+    CI/CD‑driven delivery.
+  - Design contract‑first APIs (REST/GraphQL) and event‑driven
+    services to enable platform extensibility and integration.
+  
+  Cloud Operations Engineering (Software‑Defined)
+  
+  - Own the full lifecycle of cloud platforms: design, build,
+    operate, optimize, and decommission.
+  - Engineer automation‑first infrastructure operations,
+    eliminating manual provisioning, patching, scaling, and
+    recovery.
+  - Implement Infrastructure‑as‑Code frameworks using Terraform
+    (modules, state management, drift detection) and
+    supporting tools (Ansible, ARM/Bicep, CloudFormation).
+  - Build and operate high‑availability, fault‑tolerant, and
+    disaster‑resilient architectures across hybrid and
+    multi‑cloud environments.
+  - Lead L3/L4 troubleshooting, root‑cause analysis, and
+    reliability improvements for complex cloud incidents.
+  
+  AI‑Driven & Intelligent Operations
+  
+  - Apply AI‑assisted CloudOps practices including anomaly
+    detection, predictive insights, event correlation, and
+    automated remediation.
+  - Design and operate intelligent runbooks and AI agents that
+    execute operational decisions safely and audibly.
+  - Integrate approved GenAI and ML services into operational
+    workflows while adhering to governance and responsible AI
+    standards.
+  - Use AI tools to accelerate development, testing,
+    documentation, and operational analysis.
+  
+  DevOps, CI/CD & Governance
+  
+  - Design and maintain CI/CD pipelines for infrastructure and
+    platform automation using Azure DevOps, GitHub Actions, or
+    GitLab.
+  - Implement policy‑as‑code, security guardrails, tagging
+    standards, and cost‑optimization controls.
+  - Embed observability, APM, logging, and SLO/SLA practices
+    into platforms from day one.
+  - Ensure platforms are built to be operable by design, not
+    retrofitted for operations.
+  
+  Leadership & Engineering Influence
+  
+  - Serve as a technical leader and mentor, elevating
+    engineering and CloudOps maturity.
+  - Collaborate closely with Architecture, Security, Compliance,
+    and Product teams.
+  - Establish standards, patterns, documentation, and reusable
+    frameworks used across the enterprise.
+  - Drive continuous improvement, reliability engineering, and
+    operational excellence.
+  
+  Required Qualifications
+  
+  Education:
+  
+  - Required: Bachelor's degree in Computer Science, or a
+    related field
+  
+  Experience
+  
+  - More than 5 years of Cloud Operations, DevOps, or
+    Infrastructure Engineering
+  - Hands-on experience in AI-based automation is highly
+    desirable.
+  - Proven experience operating large-scale AWS and Azure
+    environments
+  
+  Certifications:
+  
+  - Advanced certification in AWS and Azure will be preferred.
+  - Terraform Associate
+  - AI or ML Certification
+  
+  Core Technical Expertise
+  
+  - Deep hands‑on experience in AWS and Azure at enterprise
+    scale
+  - Strong proficiency in Python and scripting for automation
+    and platform development
+  - Advanced Terraform expertise with modular, reusable,
+    enterprise‑grade designs
+  - Experience with containers and orchestration (Docker,
+    Kubernetes, AKS, EKS)
+  - Strong understanding of networking, identity, security, and
+    cloud governance
+  - Experience with CI/CD, release management, and platform
+    operationalization
+  
+  AI & Advanced Automation
+  
+  - Practical experience applying AI to operational workflows
+  - Understanding of AI fundamentals, safe usage, and lifecycle
+    governance
+  - Ability to design AI‑assisted automation without
+    compromising reliability or compliance
+  
+  Engineering Mindset
+  
+  - Strong architectural thinking and systems design skills
+  - Passion for eliminating toil through code
+  - Ability to operate independently while influencing across
+    teams
+  - Excellent communication and documentation skills
+  
+  Our Interview Practices
+  
+  To maintain a fair and genuine hiring process, we kindly ask
+  that all candidates participate in interviews without the
+  assistance of AI tools or external prompts. Our interview
+  process is designed to assess your individual skills,
+  experiences, and communication style. We value authenticity
+  and want to ensure we’re getting to know you—not a digital
+  assistant. To help maintain this integrity, we ask to remove
+  virtual backgrounds and include in-person interviews in our
+  hiring process. Please note that use of AI-generated
+  responses or third-party support during interviews will be
+  grounds for disqualification from the recruitment process.
+  
+  Applicants may be required to appear onsite at a Wolters
+  Kluwer office as part of the recruitment process.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-03-26
+url: "https://builtin.com/job/senior-enterprise-cloud-software-engineer-cloud-operations-ai-engineering-azure-aws/8718771"
+source: Built In

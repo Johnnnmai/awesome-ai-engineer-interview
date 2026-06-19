@@ -1,0 +1,50 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: Public
+  focus: |-
+    Global edge-to-cloud computing and high-performance
+    computing solutions
+position:
+  title: AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI agents with LLM and RAG
+      integration, developing AI software components for HPE's AI
+      offerings, and working directly with AI frameworks and
+      performance optimization. The position requires hands-on
+      experience building and delivering AI systems to customers.
+  responsibilities:
+  - Produce AI software delivered to customers as part of HPE's AI offerings
+  - Mentor, educate, and guide junior engineers on AI concepts
+  - Document software, plans, and produce time estimates and schedules for assigned
+    work
+  - Work with outside customers and senior HPE architects to understand technical
+    needs and direction
+  - Work across geographic boundaries in a distributed software engineering environment
+  - Write, integrate, and produce software, software demonstrations, and software
+    integrations
+  - Profile and optimize performance of AI workloads
+  - Build AI agents integrating LLM and RAG capabilities
+  use_cases:
+  - High-performance computing AI solutions
+  - AI agents with LLM and RAG integration
+  - Enterprise AI software for customer deployment
+  - Performance-optimized AI workloads on HPC infrastructure
+  - AI software components for Nvidia and AMD ecosystems
+  skills:
+    genai: [LLM, RAG, AI Agents]
+    ml: [Nvidia AI software, AMD AI software]
+    web: [Microservices, Full stack development]
+    databases: []
+    data: [Distributed computing]
+    cloud: [Cloud architectures]
+    ops: [Kubernetes, Docker, AI workload profiling and performance, Jira, DevOps]
+    languages: [C, C++, Python]
+    domains: [HPC]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8199736'
+  extracted_at: '2026-03-27T16:06:25.113993'

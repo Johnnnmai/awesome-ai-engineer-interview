@@ -1,0 +1,52 @@
+company:
+  name: Trainline
+  stage: Public (FTSE 250)
+  focus: Rail travel booking platform across Europe
+position:
+  title: Machine Learning Engineer - Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and operating LLM-
+      powered agentic systems using frameworks like LangGraph and
+      LangChain, developing RAG pipelines, and deploying AI
+      agents. The position is focused on hands-on work with
+      GenAI/LLM technologies including the Travel Assistant and
+      Voice AI initiatives.
+  responsibilities:
+  - Design and build LLM-powered agentic systems using frameworks such as LangGraph
+    and LangChain
+  - Develop and optimise RAG pipelines, tool-using agents, and multi-step workflows
+    with guardrails and validation
+  - Monitor and evaluate model and agent performance using ML metrics and production
+    monitoring tools
+  - Maintain and improve traditional ML models alongside newer GenAI capabilities
+  - Partner closely with stakeholders to frame problems, define success metrics, and
+    deliver business impact
+  - Take ownership of technical initiatives from ideation through to production and
+    iteration
+  - Contribute to AI & ML community through knowledge sharing and experimentation
+  use_cases:
+  - AI-powered Travel Assistant for customer refunds, journey updates, and ticket
+    conditions
+  - Voice AI agents to handle and redirect customer queries intelligently
+  - Search optimization for rail travel options
+  - Dynamic pricing and personalization
+  - Marketing optimization
+  - Customer support automation
+  skills:
+    genai: [LangGraph, LangChain, RAG, MCP, LLMs, NLP]
+    ml: [PyTorch, scikit-learn, XGBoost]
+    web: []
+    databases: []
+    data: [Pandas]
+    cloud: [AWS]
+    ops: [Docker, CI/CD, Braintrust]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8673466'
+  extracted_at: '2026-03-27T14:01:20.331514'

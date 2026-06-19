@@ -1,0 +1,50 @@
+company:
+  name: Rhythms
+  stage: Seed
+  focus: |-
+    AI business execution platform helping enterprises become
+    AI-native
+position:
+  title: Senior AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is ai-first because it involves hands-on work
+      building multi-agent AI architectures, LLM orchestration,
+      and shipping agentic systems to production. The position
+      requires direct experience with LLMs/agents and focuses on
+      building the core AI systems that power the product, not
+      just supporting infrastructure.
+  responsibilities:
+  - Build and maintain multi-agent AI architectures for enterprise business operations
+  - Design and implement LLM orchestration systems for production workloads
+  - Own features end-to-end from customer problem discovery to production deployment
+  - Ship production code daily with direct impact on enterprise customers
+  - Join customer calls to gather feedback and iterate on AI-powered features
+  - Design scalable distributed systems balancing complexity and pragmatism
+  - Translate customer needs into technical solutions for AI-native applications
+  - Explore and productionize cutting-edge AI models and technologies
+  use_cases:
+  - Enterprise strategic planning and OKR management connected to execution
+  - Automated operational workflows integrated with Slack, Teams, Jira, and Linear
+  - Predictive insights and risk surfacing for business operations
+  - Elimination of manual status updates through AI automation
+  - Organizational memory systems that learn and improve over time
+  - Agentic AI for reliable critical business operations execution
+  skills:
+    genai: [LLMs, agentic systems, multi-agent architectures, LLM orchestration, Claude
+        Code]
+    ml: []
+    web: [React, Next.js]
+    databases: []
+    data: []
+    cloud: []
+    ops: [distributed systems]
+    languages: [Python]
+    domains: []
+    other: [Cursor]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8874191'
+  extracted_at: '2026-03-27T14:19:01.162186'

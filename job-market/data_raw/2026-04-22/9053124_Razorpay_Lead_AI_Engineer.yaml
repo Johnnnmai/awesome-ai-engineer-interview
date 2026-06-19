@@ -1,0 +1,225 @@
+job_id: 9053124
+title: Lead AI Engineer
+company: Razorpay
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Go
+  - Grafana
+  - Kubernetes
+  - Langchain
+  - Langfuse
+  - Litellm
+  - Opentelemetry
+  - Portkey
+  - Prometheus
+  - Python
+company_size: 3,200 Employees
+description: |
+  Razorpay is one of India’s leading full-stack financial
+  technology companies, powering the way businesses move,
+  manage, and grow money. Founded in 2014 by Harshil Mathur
+  and Shashank Kumar with a simple vision - to simplify
+  payments for Indian businesses - we’ve since grown into a
+  fintech powerhouse driving India’s digital payment
+  revolution.
+  
+  Razorpay powers millions of businesses with a smarter,
+  scalable stack that goes beyond transactions to help them
+  truly build and grow.
+  
+  From building AI-native agentic payments, to AI-assisted
+  fraud detection and real-time risk intelligence to automated
+  reconciliation, smart payouts, and predictive financial
+  insights, we are embedding intelligence across our stack to
+  make money movement faster, safer, and more efficient. In
+  close collaboration with ecosystem partners - including
+  banks, networks, regulators - we are pioneering industry-
+  first solutions that are shaping the next era of fintech
+  
+  Across India, Singapore and Malaysia, our products span
+  everything from seamless checkouts to payroll automation -
+  powering a fintech ecosystem that’s redefining how money
+  moves across Asia.
+  
+  Today, that ecosystem supports everyone from early-stage
+  startups to some of India’s largest enterprises, enabling
+  them to accept, process, and disburse payments at scale
+  while expanding into new ways of managing money more
+  efficiently.
+  
+  Our scale speaks volumes: Razorpay processes $180+ billion
+  in annualized transactions, powering leading businesses like
+  Airbnb, Facebook, WhatsApp, Airtel, CRED, BookmyShow,
+  Zomato, Swiggy, Lenskart, Mirae Asset Capital markets,
+  Indian Oil, National Pension Scheme - and over 100 of
+  India’s unicorns. With strong roots in India and growing
+  operations in Southeast Asia, we are shaping the next
+  chapter of financial technology across the region.
+  
+  We are backed by global investors including GIC, Peak XV
+  Partners (formerly Sequoia Capital India & SEA), Tiger
+  Global, Ribbit Capital, Matrix Partners, MasterCard, and
+  Salesforce Ventures, having raised over $740 million to
+  date. Strategic acquisitions - including Ezetap (POS and
+  offline payments), Curlec (Malaysia expansion), BillMe
+  (digital invoicing), and POP (rewards-first UPI) - along
+  with earlier moves in fraud prevention, payroll, and
+  lending, have further strengthened our platform and widened
+  our footprint across Asia.
+  
+  But what truly sets Razorpay apart is our culture. At
+  Razorpay, ownership is our oxygen - you own what you build,
+  with no micromanagement or red tape, just the runway to make
+  your ideas fly. Learning is a lifestyle - if you’re curious,
+  you’ll feel at home here. People > Pedigree - we hire for
+  attitude, hustle, and hunger more than degrees. Transparency
+  thrives over titles - this is where interns question CXOs
+  and CXOs say “thank you.” Guided by our values of Customer
+  First, Autonomy & Ownership, Agility with Integrity,
+  Transparency, Challenging the status quo and a strong belief
+  that Razorpay grows with Razors,  you’ll be part of a 3000+
+  strong team building not just products, but the financial
+  infrastructure of the future.
+  
+  About the Team
+  
+  Razorpay's agentic products are scaling fast. Agent-powered
+  onboarding, dashboard experiences, and automation workflows
+  are live and growing, and the engineering teams building
+  them are moving quickly. As we scale, we need shared
+  infrastructure that lets every product team access the best
+  model for each task without having to build routing,
+  observability, or resilience logic themselves.
+  
+  We are building an AI Inference Platform: a centralized
+  layer that handles intelligent model routing, cost
+  optimization, and quality observability across all of
+  Razorpay's agentic products. The goal is simple. Product
+  teams declare what kind of task they need done. The platform
+  takes care of picking the right model, managing fallbacks,
+  and tracking cost and quality. Teams stay focused on
+  shipping features.
+  
+  
+  
+  About the Role
+  
+  As Lead AI Engineer on the platform side, you build the
+  inference orchestration layer that sits between our product
+  teams and their model providers. Routing, fallbacks, cost
+  tracking, A/B testing for model swaps, and observability are
+  all yours. Your customers are internal engineering teams,
+  and your job is to give them a single reliable interface to
+  every model the org uses while keeping the complexity of
+  that routing layer off their plates.
+  
+  You also own the observability and eval-in-production
+  infrastructure: standardized tracing and cost dashboards
+  across all agentic products, and the shadow-testing
+  infrastructure that lets us validate model swaps safely
+  before they reach production traffic.
+  
+  What You’ll Build
+  
+  - Build and operate a unified model gateway that abstracts
+    provider complexity for product teams. Teams work with a
+    clean interface; the platform handles routing, provider
+    selection, and fallback logic under the hood
+  - Design and implement intelligent routing that matches each
+    request to the right model based on task complexity,
+    latency requirements, and cost targets. Not every call
+    needs the same model
+  - Build resilience into the platform so provider outages, rate
+    limits, and latency spikes are handled transparently.
+    Agentic workflows stay up regardless of what happens
+    upstream
+  - Own the observability layer across all AI-powered products:
+    cost per call, latency distributions, token usage, and
+    quality signals. Give product teams and leadership a clear
+    view of how AI is performing and what it costs
+  - Build the infrastructure for safe model transitions: run new
+    models alongside production, compare outputs, and roll out
+    changes gradually with automated quality checks at every
+    stage
+  - Drive continuous cost efficiency through caching strategies,
+    request optimization, and per-team spend attribution so
+    the org can scale AI usage without costs growing linearly
+    with traffic
+  
+  
+  
+  What We’re Looking For
+  
+  - 5 to 8 years as a backend or platform engineer, with a track
+    record of building API gateways, middleware, or developer
+    platform services at scale. Strong in Go or Python
+  - Experience building high-availability, low-latency
+    distributed systems: load balancing, circuit breakers,
+    graceful degradation, retry logic, and observability using
+    Prometheus, Grafana, OpenTelemetry, or equivalent
+  - Solid understanding of LLM APIs and token economics. You can
+    design routing rules based on input/output token pricing,
+    streaming vs. batch tradeoffs, and how prompt length
+    affects both cost and latency
+  - You think in platform terms. You know the difference between
+    building for end users and building for engineers, and you
+    know that internal platform quality shows up in other
+    teams’ velocity
+  - Familiarity with LLM orchestration and observability
+    tooling: LiteLLM, Portkey, Langfuse, LangChain, or
+    similar. You do not need to have used all of them, but you
+    need to understand the landscape well enough to make good
+    choices
+  - Experience with Kubernetes and distributed systems. GPU
+    workload scheduling or ML serving infrastructure is a
+    meaningful bonus
+  
+  Why This Role is Different
+  
+  - The platform you build becomes the backbone of every AI-
+    powered product at Razorpay. Good infrastructure decisions
+    here compound across every team and every workflow that
+    ships on top of it
+  - You work on real scale from day one. The problems are
+    concrete, the feedback loop is tight, and the impact of
+    what you build shows up in production metrics quickly
+  - This role combines deep platform engineering with the
+    emerging discipline of LLM infrastructure. It is a rare
+    combination that puts you at the leading edge of how AI
+    systems are built in production
+  - You are embedded in the decision-making, not downstream of
+    it. You work directly with ML engineers and product teams,
+    and your input shapes how the org approaches model
+    selection, cost, and quality at every level
+  - You get genuine ownership over the architecture. This is a
+    space where the right patterns are still being defined,
+    and you have the scope to make meaningful design decisions
+    rather than inherit them
+  
+  Compensation & Benefits
+  
+  Competitive compensation with ESOPs, comprehensive health
+  insurance, learning and development budget, and all the
+  perks of working at one of India’s leading fintech
+  companies.
+  
+  Razorpay believes in and follows an equal employment
+  opportunity policy that doesn't discriminate on gender,
+  religion, sexual orientation, colour, nationality, age, etc.
+  We welcome interests and applications from all groups and
+  communities across the globe.
+  
+  
+  
+  Follow us on LinkedIn & Twitter
+industries:
+  - eCommerce
+  - Fintech
+  - Payments
+  - Software
+  - Financial Services
+posted_date: 2026-04-15
+url: "https://builtin.com/job/lead-ai-engineer/9053124"
+source: Built In

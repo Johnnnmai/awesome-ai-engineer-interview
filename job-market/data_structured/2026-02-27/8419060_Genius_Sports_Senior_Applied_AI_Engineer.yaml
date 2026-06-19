@@ -1,0 +1,54 @@
+company:
+  name: Genius Sports
+  stage: null
+  focus: |-
+    Sports data and technology for live sports analytics and fan
+    experiences
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and implementing
+      production multimodal AI agents, LLM integrations, and
+      agentic systems that process audio/video/text feeds. The
+      engineer will work hands-on with models (Gemini, ChatGPT,
+      Claude), implement prompt-as-code, and develop decision
+      logic for AI-powered products.
+  responsibilities:
+  - Build and maintain multimodal agents that process audio/video/text feeds into
+    structured real-time signals
+  - Implement streaming-friendly pipelines with chunking, normalization, time-sync,
+    and async execution
+  - Develop prompt-as-code with strict JSON contracts, schema validation, and deterministic
+    post-processing
+  - Improve system robustness under noisy inputs and handle edge cases
+  - Partner with product and domain leads to translate sport rules into validation
+    logic and integrate outputs
+  - Contribute to evaluation workflows with test cases, failure mode categories, and
+    regression checks
+  - Stay up-to-date with emerging GenAI technologies and best practices
+  - Mentor team members in data engineering principles
+  use_cases:
+  - Audio Intelligence for sports broadcasts
+  - Semi-automated broadcast-to-data tagging
+  - Highlight and momentum signal generation
+  - Real-time sports event detection from broadcast and radio feeds
+  - Converting multimodal feeds into structured data signals
+  skills:
+    genai: [Gemini, ChatGPT, Claude, LLM integration, Prompt engineering, Multimodal
+        AI, RAG, Agentic systems]
+    ml: [Audio ML, Speech recognition, Acoustic event detection]
+    web: []
+    databases: []
+    data: [Kafka, Pulsar, Flink]
+    cloud: [AWS Bedrock, Google Vertex AI]
+    ops: [Git]
+    languages: [Python, Java, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8419060'
+  extracted_at: '2026-03-03T12:43:00.397214'

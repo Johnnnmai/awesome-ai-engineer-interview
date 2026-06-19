@@ -1,0 +1,53 @@
+company:
+  name: Linktree
+  stage: Late-stage (Series C+ or beyond, 70M+ users)
+  focus: |-
+    Link-in-bio platform enabling creators and businesses to
+    curate, grow, and monetize their digital presence
+position:
+  title: Staff Applied AI Engineer, AI Experiences & Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, shipping, and
+      optimizing LLM-powered AI agents and experiences end-to-end,
+      including multi-agent workflows, RAG, prompting, and tool
+      use. The engineer is hands-on with frontier models,
+      designing agent architectures and creating eval suites for
+      AI output quality, making this clearly an ai-first role.
+  responsibilities:
+  - Build and ship creator-facing and visitor-facing AI experiences end-to-end, from
+    prototype through production
+  - Design multi-agent workflows combining prompting, tool use, retrieval, memory/state,
+    orchestration, and human-in-the-loop controls
+  - Create eval suites, regression harnesses, and quality metrics to deliberately
+    improve AI quality
+  - Partner with product, design, data, and trust teams to translate ambiguous user
+    problems into high-value experiences
+  - Optimize latency, reliability, cost, and safety of AI features for production
+    scale
+  - Turn production feedback, support signals, and behavioral data into model, prompt,
+    policy, and product improvements
+  use_cases:
+  - AI-powered content creation and personalization for Linktree creators
+  - Automated growth and engagement tools for creator audiences
+  - Multi-agent AI workflows for creator task automation
+  - Visitor-facing AI experiences that enhance discovery and interaction
+  - AI-driven product recommendations and monetization features
+  skills:
+    genai: [LLM-powered agents, RAG workflows, Prompt engineering, Multi-agent orchestration,
+      AI evaluation frameworks]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector databases]
+    data: []
+    cloud: [Cloud platforms (AWS/GCP)]
+    ops: [Production system design, Observability and monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8934174'
+  extracted_at: '2026-04-22T13:03:30.662019'

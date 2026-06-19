@@ -1,0 +1,49 @@
+company:
+  name: OneStream Software
+  stage: Public
+  focus: |-
+    Enterprise finance platform with embedded AI for financial
+    planning and consolidation
+position:
+  title: AI Demo Engineer (OneStream Experience Required)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building demo applications and
+      content that showcase AI capabilities, not on building or
+      deploying the AI systems themselves. The engineer creates
+      sales enablement materials, sample data, and demo flows to
+      highlight existing AI features of the OneStream platform to
+      customers.
+  responsibilities:
+  - Create and continuously enhance AI-focused demo assets to enable shorter sales
+    cycles and increased deal sizes
+  - Stay current on new OneStream features and incorporate them into demos
+  - Translate complex business challenges into clear, compelling demo content and
+    technical narratives
+  - Build and manage data pipelines using C#, SQL, and Python
+  - Collaborate with Sales and Presales to tailor demos for partners, prospects, and
+    customers
+  - Contribute documentation, runbooks, and reusable sample content for the field
+  use_cases:
+  - Financial planning and consolidation demos
+  - Enterprise finance platform showcases
+  - Business intelligence and analytics demonstrations
+  - AI-powered decision support presentations
+  - Corporate performance management use cases
+  skills:
+    genai: []
+    ml: [Applied Machine Learning]
+    web: []
+    databases: [SQL]
+    data: [Power BI, Tableau, Qlik Sense, Data Visualization, Business Intelligence]
+    cloud: []
+    ops: []
+    languages: [C#, Python]
+    domains: []
+    other: [OneStream, Microsoft Excel]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8439428'
+  extracted_at: '2026-03-03T11:23:08.101089'

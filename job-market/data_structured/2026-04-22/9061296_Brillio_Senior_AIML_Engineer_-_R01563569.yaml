@@ -1,0 +1,53 @@
+company:
+  name: Brillio
+  stage: null
+  focus: IT services and digital transformation consulting
+position:
+  title: Senior AI/ML Engineer - R01563569
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on building and deploying traditional ML
+      pipelines (regression, classification, forecasting,
+      statistical analysis) using frameworks like TensorFlow,
+      PyTorch, and scikit-learn. While it involves model
+      deployment and optimization on Azure ML/AKS, there is no
+      mention of LLMs, GenAI, agents, or RAG, making it a
+      traditional ML engineering role.
+  responsibilities:
+  - Design, implement, and manage scalable ML pipelines using Azure ML, Databricks,
+    and PySpark
+  - Build and maintain automated CI/CD pipelines with GitHub Actions and SonarQube
+    for code quality
+  - Containerize and deploy ML models using Azure Kubernetes Service (AKS) for high
+    availability
+  - Develop reusable templates for various ML use cases to streamline model deployment
+  - Design and manage APIs for seamless interaction between ML models and other applications
+  - Perform model optimization, monitor data drift, and ensure ML pipelines are cost-efficient
+  - Implement cost monitoring and management strategies for model training and deployment
+  - Collaborate with data scientists, DevOps, and IT teams to deploy and manage ML
+    models across environments
+  use_cases:
+  - Scalable ML pipeline design and deployment
+  - Automated model serving via containerized APIs
+  - Data drift monitoring and model optimization
+  - Cost-efficient ML training and inference
+  - Reusable ML deployment templates for operational efficiency
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn, Keras, ARIMA, Exponential Smoothing, Decision
+        Trees, SVM, Linear Regression, Logistic Regression, Hypothesis Testing, Probabilistic
+        Graph Models]
+    web: [REST APIs]
+    databases: []
+    data: [PySpark, Databricks, Great Expectations]
+    cloud: [Azure ML, Azure Kubernetes Service (AKS)]
+    ops: [Kubeflow, BentoML, GitHub Actions, SonarQube, Docker, Evidently AI]
+    languages: [Python, R/R Studio]
+    domains: []
+    other: [SAS/SPSS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9061296'
+  extracted_at: '2026-04-22T13:21:50.924896'

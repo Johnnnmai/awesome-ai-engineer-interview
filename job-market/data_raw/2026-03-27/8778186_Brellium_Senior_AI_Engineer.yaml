@@ -1,0 +1,153 @@
+job_id: 8778186
+title: Senior AI Engineer
+company: Brellium
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AI
+  - AWS
+  - Llm
+  - Machine Learning
+company_size: 70 Employees
+description: |
+  About Brellium
+  
+  Brellium's mission is a big one – to improve the standard of
+  care across the US healthcare system. We’ve built AI-powered
+  technology that helps healthcare providers deliver safer,
+  higher-quality care - starting with the first real-time
+  medical review platform built to fix clinical and compliance
+  risks before they impact patients. Each year, 1 in 20 people
+  in the U.S. experiences a medical diagnostic or compliance-
+  related mistake. Most providers lack the time, staffing, and
+  tools to mitigate these issues - so they go unnoticed,
+  impacting care quality and increasing clinical and financial
+  risk. Brellium is building the AI-powered platform that
+  helps providers deliver safer, more consistent care by
+  mitigating risk early and aligning patient visits with
+  clinical best practices. Our goal is to give every provider
+  in the U.S. the tools to deliver clinically excellent, data-
+  driven care - at scale. Brellium was founded in 2021. Since
+  then, we’ve grown to serve over 250,000 providers across all
+  50 states who use Brellium to take better care of their
+  patients and ensure data-driven, compliant care. We’re a
+  Series A company with over $30MM in funding from First Round
+  Capital, Left Lane Capital, and Menlo Ventures.
+  
+  THE ROLE
+  
+  We're hiring a Senior AI Engineer to own and evolve the
+  intelligence engine powering Brellium. This role goes well
+  beyond toy demos — it requires deep fluency in prompt
+  design, evaluation frameworks, agentic systems, structured
+  extraction, tool use, retrieval pipelines, and performance
+  tradeoffs. The work is core: transforming raw session data
+  into clinically structured outputs, with a constant focus on
+  improving accuracy, latency, reliability, and cost
+  efficiency at scale.
+  
+  WHAT YOU'LL DO
+  
+  - Design and improve LLM-powered pipelines and agent
+    architectures
+  - Build robust evaluation and benchmarking frameworks to
+    measure output quality and regression
+  - Optimize for latency, cost, determinism, and output quality
+    across high daily volume
+  - Implement retrieval-augmented generation (RAG) and tool-use
+    strategies where appropriate
+  - Ship production-grade AI systems – not experiments
+  - Collaborate closely with backend and product teams to
+    integrate AI capabilities into the core platform
+  
+  YOU MIGHT BE A FIT IF YOU
+  
+  - Have built and deployed LLM systems in production at
+    meaningful scale
+  - Understand modern agent patterns: tool calling, RAG, memory,
+    orchestration
+  - Think deeply about evaluation, hallucination mitigation, and
+    reliability
+  - Care about performance and operational excellence, not just
+    capability
+  - Are excited to build a core engine that operates at massive
+    daily volume in a high-stakes clinical domain
+  
+  REQUIRED SKILLS
+  
+  - 5+ years of professional software engineering experience
+  - Hands-on experience building and shipping LLM-powered
+    applications in production
+  - Deep familiarity with LLM concepts: prompt engineering,
+    structured extraction, function/tool calling, RAG,
+    evaluation frameworks
+  - Experience with AWS or comparable cloud infrastructure for
+    AI workloads
+  - Strong software engineering fundamentals – you write clean,
+    maintainable systems, not just notebooks
+  
+  Compensation: $190,000 – $260,000
+  
+  We are committed to offering a comprehensive and competitive
+  total rewards package, including robust health benefits,
+  commuter benefits, and meaningful ownership opportunities
+  through equity. Compensation decisions are made
+  holistically, ensuring fairness and alignment with market
+  benchmarks while recognizing individual contributions and
+  potential.
+  
+  Benefits offered include:
+  
+  - 401(k) Retirement Savings Plan
+  - Equity Compensation
+  - Dinner Provided via DoorDash & stocked kitchen for NY
+    employees
+  - Medical, Dental, and Vision coverage coverage of up to 100%
+    premiums for you and your family
+  - HSA / FSA
+  - 11 paid holidays each year
+  - Unlimited PTO
+  - Training and professional development
+  - Hybrid Work Schedule (4 days onsite, 3 if located > 1 hour
+    away)
+  
+  What it means to be "One of Us"
+  
+  Bias to Action: Brellium teammates do not wait to make
+  reversible decisions or seek unnecessary approval. We
+  quickly decide and move forward. If the decision was
+  incorrect, we quickly reverse it and move forward.
+  
+  Thinks for themselves: Brellium teammates do not take things
+  at face value. We ask "why" until base truth is reached. If
+  a better solution is present, Brellium teammates use it,
+  regardless of status quo.
+  
+  Negative Maintenance: The opposite of high maintenance isn’t
+  low maintenance - it’s negative maintenance. Brellium
+  teammates are poised under pressure, self-motivated, self-
+  improving, self-disciplined, self-aware, and non-defensive.
+  
+  Expect Excellence: We hold ourselves to exceptionally high
+  and continuously rising standards. We strive for
+  thoughtfulness in our decision making, and for speed and
+  quality in our execution. We acknowledge trade-offs and
+  communicate proactively.
+  
+  Communicate with Clarity: Brellium teammates communicate
+  concisely, directly, and purposefully. We optimize for
+  ensuring our points are easily understood the first time.
+  
+  We are aware of fraudulent job offers claiming to be from
+  Brellium. All legitimate communication comes from
+  brellium.com, or no-reply@ashbyhq.com, and we will never ask
+  for money or sensitive personal information as part of our
+  hiring process. If there are any questions please direct
+  them to peter@brellium.com
+industries:
+  - Artificial Intelligence
+  - Healthtech
+posted_date: 2026-03-17
+url: "https://builtin.com/job/senior-ai-engineer/8778186"
+source: Built In

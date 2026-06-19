@@ -1,0 +1,55 @@
+company:
+  name: Visa Inc,
+  stage: Public
+  focus: Global payments technology and digital currency transactions
+position:
+  title: Lead AI Engineer- Data and AI Platform (Agentic Development)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building and deploying
+      GenAI solutions, including LLM integration, RAG systems,
+      prompt engineering, and model fine-tuning. The position
+      requires hands-on work with AI/ML models and frameworks, not
+      just supporting infrastructure.
+  responsibilities:
+  - Lead design, development, and deployment of GenAI solutions including LLM integration,
+    prompt engineering, RAG systems, and domain-specific model customization
+  - Evaluate emerging AI capabilities and prototype innovative solutions to accelerate
+    business transformation
+  - Architect and build data-intensive analytical applications enabling real-time
+    insights, predictive intelligence, and automated decisioning
+  - Partner with data engineering teams to design scalable data pipelines, metadata
+    systems, and high-quality feature stores
+  - Architect cloud-native applications capable of handling large-scale, high-availability
+    workloads
+  - Design and evolve microservices architectures using domain-driven design, event-driven
+    patterns, and API-first development
+  - Mentor engineering and data science teams in modern AI, GenAI adoption, and architectural
+    excellence
+  - Define coding standards, architecture guidelines, model governance, and delivery
+    best practices
+  use_cases:
+  - Real-time payment insights and predictive intelligence
+  - Automated decision-making for financial transactions
+  - GenAI-powered solutions for payment processing and fraud detection
+  - Domain-specific AI models customized for financial services
+  - Data-driven analytical applications for Visa's global payment network
+  skills:
+    genai: [LLMs, embeddings, RAG systems, model fine-tuning, LangChain, LlamaIndex,
+      prompt engineering]
+    ml: [Hugging Face]
+    web: [REST, gRPC, microservices]
+    databases: []
+    data: [feature stores, data pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, Docker, CI/CD, MLOps, model lifecycle management, production
+        AI monitoring]
+    languages: [Python, Java, Scala, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8503905'
+  extracted_at: '2026-03-03T12:26:13.041082'

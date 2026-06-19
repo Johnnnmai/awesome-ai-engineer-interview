@@ -1,0 +1,53 @@
+company:
+  name: NTT DATA
+  stage: Public
+  focus: |-
+    Global IT services and consulting specializing in
+    enterprise-scale AI, cloud, and digital infrastructure
+    solutions
+position:
+  title: Senior AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work developing, fine-tuning,
+      and deploying LLMs, implementing prompt engineering
+      strategies, and building AI solutions with vector databases
+      and semantic search. The engineer works directly on AI
+      models and systems, not just supporting infrastructure.
+  responsibilities:
+  - Develop, fine-tune, and deploy AI models including LLMs such as GPT-4 and open-source
+    equivalents
+  - Design and implement prompt engineering strategies to enhance AI accuracy and
+    reliability
+  - Engage with stakeholders to understand business needs and translate them into
+    actionable AI solutions
+  - Rapidly prototype, test, and iterate AI applications using Python and relevant
+    frameworks
+  - Integrate AI solutions with enterprise systems (CRM, ERP, HRIS) via API development
+  - Build and optimize end-to-end data pipelines for AI model data delivery
+  - Manage structured and unstructured datasets using vector databases and semantic
+    search
+  - Deploy, manage, and scale AI solutions in cloud environments (Azure, AWS, GCP)
+  use_cases:
+  - Enterprise system integration (CRM, ERP, HRIS, finance platforms)
+  - Knowledge management with semantic search capabilities
+  - Business process automation and intelligent automation
+  - Client-facing AI solution development and prototyping
+  - Enterprise AI deployments with compliance requirements (GDPR, HIPAA)
+  skills:
+    genai: [OpenAI GPT, Large Language Models, Prompt Engineering, Semantic Search]
+    ml: [Natural Language Processing, Machine Learning, Model Fine-tuning]
+    web: [FastAPI, REST APIs]
+    databases: [Vector Databases]
+    data: [Data Pipelines]
+    cloud: [Azure, AWS, GCP, Azure AI Engineer Associate]
+    ops: [DevOps, MLOps]
+    languages: [Python, JavaScript, TypeScript, Java, C#]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8701605'
+  extracted_at: '2026-03-27T14:59:44.427952'

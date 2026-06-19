@@ -1,0 +1,55 @@
+company:
+  name: Airbnb
+  stage: Public
+  focus: Global hospitality marketplace for stays and experiences
+position:
+  title: Senior Software Engineer, BizTech(AI Products)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building of LLM-powered features
+      including RAG pipelines, AI agents, and prompt optimization.
+      The engineer will implement agentic AI capabilities, deploy
+      production AI systems, and work directly with fine-tuning,
+      embeddings, and MCP implementations.
+  responsibilities:
+  - Lead technical design and implementation of LLM-powered features including RAG
+    pipelines, AI agents, and prompt optimization for OneChat and enterprise AI tools
+  - Develop and iterate on agentic AI capabilities including multi-step reasoning,
+    tool use, and context-aware decision-making
+  - Implement evaluation pipelines and quality systems to measure model performance,
+    detect hallucinations, and ensure responsible AI practices
+  - Own production AI systems end-to-end including deployment strategies, monitoring,
+    alerting, and incident response
+  - Collaborate with DevAI team on AirChat SDK integrations, MCP implementations,
+    and Glean Action Packs
+  - Partner with product managers, designers, and cross-functional teams to translate
+    user problems into AI-powered solutions
+  - Mentor engineers through design reviews, architecture discussions, and pair programming
+    sessions
+  - Democratize AI by building tools that empower non-technical employees to leverage
+    LLMs
+  use_cases:
+  - Enterprise AI assistant (OneChat) enabling secure LLM interactions for employees
+  - AI-powered internal search and people profiles across company knowledge
+  - Deep research capabilities and artifact creation tools for non-technical users
+  - Task automation and AI agents accessible to all employees regardless of technical
+    background
+  - Employee productivity and collaboration through unified digital headquarters
+  skills:
+    genai: [LLMs, RAG, prompt engineering, fine-tuning, embeddings, AI agents, multi-agent
+        systems, Claude, MCP (Model Context Protocol)]
+    ml: []
+    web: [REST, GraphQL, React, Next.js]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, monitoring, alerting]
+    languages: [TypeScript, Go, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8787555'
+  extracted_at: '2026-03-27T13:39:05.570226'

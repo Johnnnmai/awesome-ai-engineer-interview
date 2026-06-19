@@ -1,0 +1,168 @@
+job_id: 8964594
+title: GTM Engineer - Automation and AI
+company: Coralogix
+location: Gurugram, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Azure
+  - Claude Code
+  - GCP
+  - Github Copilot
+  - N8N
+  - Node.js
+  - Python
+  - React
+  - Snowflake
+company_size: 198 Employees
+description: |
+  Description
+  
+  About Coralogix
+  
+  Coralogix is a modern, full-stack observability platform
+  transforming how businesses process and understand their
+  data at scale. We are a high-growth, 100M+ ARR business
+  building the revenue infrastructure to match our ambition.
+  The companies winning right now are not the ones with the
+  biggest sales teams — they are the ones with the smartest
+  revenue systems. This team builds those systems.
+  
+  Role Overview
+  
+  This is a builder role. You will own the automation and AI
+  layer of our GTM Engineering stack — designing and deploying
+  the workflows that make our revenue engine intelligent,
+  automated, and self-improving. You will work with workflow
+  orchestration tooling (currently n8n), LLM-based AI
+  development tools (currently Claude Code), and a Snowflake-
+  powered data foundation.
+  
+  Equally important: you are expected to stay current with the
+  automation and AI tooling landscape and proactively evaluate
+  alternatives. If you find a better orchestration platform, a
+  more capable AI coding tool, or an integration approach that
+  meaningfully outperforms what we are using today — bring the
+  case. Tool recommendations based on evidence are a core part
+  of this role.
+  
+  Your success metric is straightforward: how many manual GTM
+  processes have you eliminated this quarter? Every workflow
+  you build should free up time for sellers, provide better
+  intelligence for leaders, and improve the accuracy of our
+  forecasting and pipeline systems.
+  
+  This role is not about maintaining workflows that already
+  exist. It is about building ones that do not yet exist and
+  making the business meaningfully faster as a result.
+  
+  What you will build
+  
+  Automation & AI Workflows
+  
+  - Design and deploy AI-enabled automation workflows across the
+    GTM stack using workflow orchestration tooling (n8n is our
+    current platform — evaluate and recommend alternatives as
+    appropriate)
+  - Build LLM-powered tools for pre-call research, deal
+    intelligence, pipeline gap analysis, and automated
+    executive briefings — using AI coding assistants such as
+    Claude Code or equivalent
+  - Integrate LLM capabilities into operational revenue
+    workflows — prompt engineering, output parsing, confidence
+    scoring
+  - Build Gong engagement gap alerts, forecast variance analysis
+    workflows, and SE utilization tracking automations
+  - Develop and maintain event-driven, API-to-API integration
+    patterns connecting Salesforce, Gong, Snowflake, Slack,
+    and Marketo
+  
+  Internal Tools & Applications
+  
+  - Rapidly prototype and ship internal GTM tools using AI-
+    accelerated development — Claude Code, GitHub Copilot, or
+    equivalent AI coding assistants
+  - Build lightweight frontend interfaces for internal sales and
+    revenue teams where self-service replaces manual requests
+  - Develop backend services and APIs to extend CRM and GTM
+    platforms beyond their native capabilities
+  
+  Revenue Infrastructure
+  
+  - Build services for pipeline analysis, forecasting support,
+    and deal intelligence that feed leadership dashboards and
+    regional reporting
+  - Develop data pipelines and transformations that move GTM
+    events from source systems into Snowflake for downstream
+    analytics
+  - Design compounding automation systems — each workflow built
+    on shared logic and data foundations so value multiplies
+    over time
+  
+  Requirements
+  
+  - 5–8+ years of backend engineering experience — Python,
+    Node.js, or similar as primary language
+  - Strong experience building RESTful APIs, microservices, and
+    event-driven integrations
+  - Hands-on experience with workflow automation and
+    orchestration tools — n8n, Zapier, Workato, or equivalent
+  - Demonstrated experience using AI coding assistants (Claude
+    Code, GitHub Copilot, GPT-based tools) as a core part of
+    development workflow — not experimentation
+  - Frontend development experience (React or similar) —
+    sufficient to ship functional internal tools independently
+  - Experience working with Salesforce APIs and platform
+    integrations
+  - Working knowledge of the end-to-end lead-to-cash process—
+    you understand how leads originate,progress through the
+    sales cycle, get quoted, and convert to recognised revenue
+    well enough to build automations that serve each stage of
+    the GTM motion, not just individual tasks in isolation.
+  - Experience building automations or tools in service of
+    Revenue Operations or Sales Operations teams— you
+    understand what workflows they run, where manual effort
+    exists, and how to systematically eliminate it.
+  - Familiarity with cloud platforms (AWS, GCP, or Azure) and
+    modern deployment workflows
+  - Strong data modeling and database knowledge; experience
+    working with or querying Snowflake a plus
+  - Ability to leverage LLMs for prototyping, debugging, and
+    workflow automation design
+  - Bachelor's degree in Computer Science, Engineering, or
+    related technical field
+  
+  The Non Negotiables
+  
+  - You use AI tools every day in your development workflow —
+    not occasionally
+  - You can point to automations you built that measurably
+    eliminated manual work
+  - You are comfortable working across multiple systems
+    simultaneously without losing track of data integrity
+  - You understand lead-to-cash end-to-end— you can articulate
+    how a prospect moves through the sales cycle to become
+    recognised revenue, and you build automations that serve
+    that entire journey, not just point-in-time tasks.
+  - You ship fast, iterate based on feedback, and do not wait
+    for perfect requirements
+  
+  Cultural Fit
+  
+  We’re seeking candidates who are hungry, humble, and smart.
+  Coralogix fosters a culture of innovation and continuous
+  learning, where team members are encouraged to challenge the
+  status quo and contribute to our shared mission. If you
+  thrive in dynamic environments and are eager to shape the
+  future of observability solutions, we’d love to hear from
+  you.
+  
+  Coralogix is an equal-opportunity employer and encourages
+  applicants from all backgrounds to apply.
+industries:
+  - Machine Learning
+  - Software
+posted_date: 2026-04-06
+url: "https://builtin.com/job/gtm-engineer-automation-and-ai/8964594"
+source: Built In

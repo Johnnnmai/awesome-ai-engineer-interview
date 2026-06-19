@@ -1,0 +1,57 @@
+company:
+  name: Infrrd
+  stage: null
+  focus: |-
+    Intelligent Document Processing platform for automated data
+    extraction
+position:
+  title: Python Developer (Gen AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on implementation of GenAI/LLM
+      solutions including LangChain workflows, prompt engineering,
+      vector indexing with PGVector for RAG patterns, and building
+      evaluators for LLM pipelines. The developer will work
+      directly on building and deploying AI-powered features, not
+      just supporting infrastructure.
+  responsibilities:
+  - Build and debug features for the Product with rapid turnarounds across APIs, data
+    transformations, and deployment workflows
+  - Build and maintain Python utilities/services for validation, transformation, and
+    automation of QC checklist execution
+  - Implement GenAI workflows using LangChain/OpenAI including prompt design, tools,
+    and guards for reliability and traceability
+  - Design and tune vector indexing and retrieval over PGVector for checklist content,
+    policies, and artifacts
+  - Create evaluators, test harnesses, and regression suites for LLM pipelines and
+    generated code outputs
+  - Instrument logs/metrics and perform root-cause analysis across data, prompts,
+    and model outputs
+  - Collaborate with Product/CS/QA to triage tickets, reproduce issues, and ship hotfixes
+    and safe migrations
+  - Harden deployments with config management, secrets hygiene, and rollback strategies
+  use_cases:
+  - Intelligent document processing and data extraction
+  - Automated QC checklist execution and validation
+  - RAG-based retrieval of checklist content, policies, and artifacts
+  - LLM pipeline orchestration with reliability guards
+  - Root-cause analysis and debugging of AI-powered features
+  - Compliance-sensitive workflow automation
+  skills:
+    genai: [LangChain, OpenAI API, prompt engineering, tool/function calling, guards,
+      Gemini, MCP server, LLM orchestration, RAG patterns]
+    ml: [NLTK]
+    web: [FastAPI, REST APIs]
+    databases: [MongoDB, PGVector, Postgres, vector indexing and retrieval]
+    data: [Pandas]
+    cloud: []
+    ops: [Docker, GitHub Actions, Git, pytest]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7633296'
+  extracted_at: '2026-03-27T16:03:24.213873'

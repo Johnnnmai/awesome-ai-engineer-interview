@@ -1,0 +1,240 @@
+job_id: 8916225
+title: Forward Deployed AI Product Engineer
+company: phData
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - Azure
+  - Cloud-Native Warehouses
+  - GCP
+  - Gradio
+  - Graph Dbs
+  - JavaScript
+  - Postgres
+  - Python
+  - React
+description: |
+  Join phData, a dynamic and innovative leader in the modern
+  data stack. We partner with major cloud data platforms like
+  Snowflake, AWS, Azure, GCP, Fivetran, Pinecone, Glean, and
+  dbt to deliver cutting-edge services and solutions. We're
+  committed to helping global enterprises overcome their
+  toughest data challenges.
+  
+  phData is a remote-first global company with employees based
+  in the United States, Latin America, and India. We celebrate
+  the culture of each of our team members and foster a
+  community of technological curiosity, ownership, and trust.
+  Even though we're growing extremely fast, we maintain a
+  casual, exciting work environment. We hire top performers
+  and allow you the autonomy to deliver results.
+  
+  - 6x Snowflake Partner of the Year (2020, 2021, 2022, 2023,
+    2024, 2025)
+  - Fivetran, dbt, Atlation, and AWS Partner of the Year
+  - #1 Partner in Snowflake Advanced Certifications
+  - 600+ Expert Cloud Certifications (Sigma, AWS, Azure,
+    Dataiku, etc)
+  
+  Recognized as an award-winning workplace in the US, India,
+  and LATAM
+  
+  About the Role
+  
+  The Forward Deployed AI Product Engineer (Vector) is a
+  customer-embedded, full-stack engineer who builds AI-native
+  applications and agents that solve high-value business
+  problems on top of the client’s data and AI platform. This
+  role sits at the intersection of product, engineering, and
+  business outcomes: you will live inside a business unit,
+  learn its operations in detail, and rapidly ship working
+  software that proves measurable ROI.
+  
+  You will be deployed directly into strategic customer
+  accounts as the tip of the spear for AI-powered solutions.
+  You will partner closely with business stakeholders, central
+  platform teams, and other phData consultants to:
+  
+  - Identify and shape AI use cases that were previously
+    considered too messy, too manual, or too cross-functional
+    to tackle.
+  - Rapidly prototype full-stack, MVP-grade agents,
+    applications, and workflows that demonstrate value in
+    weeks, not quarters.
+  - Productionize the most impactful solutions, integrating with
+    the client’s AI Data Platform, existing systems, and
+    operational workflows.
+  - Feed technical and architectural patterns back into the
+    client’s platform and operating model to create durable,
+    long-term leverage.
+  
+  You will own the end-to-end lifecycle of AI-native solutions
+  in your business area: discovery, value articulation,
+  design, implementation, iteration, and handoff. You must be
+  equally comfortable whiteboarding with executives about KPIs
+  and ROI, sitting side-by-side with frontline operators to
+  understand real-world constraints, and diving deep into code
+  to ship features quickly.
+  
+  This is a highly hands-on, travel-heavy role designed for
+  engineers who want to be as close as possible to the
+  business problem, not just the technology. You will act as a
+  lead engineer within one or more “fusion pods,”
+  collaborating with data engineers, ML engineers, activation
+  specialists, and client teams to deliver outsized business
+  impact.
+  
+  About You
+  
+  - You are obsessed with business outcomes, not just
+    technology. You think in terms of KPIs, ROI, and time-to-
+    value, and you can sit across from a VP, GM, or CTO to
+    recommend architectures, workflows, and tools that
+    directly tie to their goals.
+  - You are a builder. You’re not looking for a rigid playbook
+    or a fully defined product; you want to help define the
+    solution, build the first versions, and iterate quickly
+    based on real user feedback.
+  - You have strong business curiosity. You naturally dig into
+    how operations actually work, what’s broken, and how AI
+    and software can reshape processes rather than just
+    automate existing ones.
+  - You have empathy to sit with business users, observe how
+    they actually work, and listen carefully to their pain
+    points. You apply design thinking to reimagine their
+    workflows and tools, not just digitize the current
+    process.
+  - You are comfortable working in ambiguity. The problems you
+    tackle are often poorly defined at the start; you help
+    clarify the problem, design the solution, and drive
+    execution.
+  - You have shipped production-grade applications that connect
+    powerful data and AI back ends with intuitive front-end
+    experiences (web apps, internal tools, or operational
+    interfaces).
+  - You are fluent in AI-native development patterns: RAG, LLM
+    orchestration, agentic workflows, and modern AI evaluation
+    and guardrails. You see AI tools as essential
+    infrastructure for modern engineering.
+  - You can rapidly prototype with modern tools (Streamlit,
+    Gradio, lightweight React apps, workflow tools, agents)
+    and are comfortable throwing away code to converge on the
+    right solution.
+  - You are a strong, opinionated communicator. You can explain
+    complex technical concepts in simple language, lead client
+    conversations, and build trust with both executives and
+    hands-on operators.
+  - You are willing and excited to travel frequently and spend
+    significant time on-site with clients to build deep
+    operational empathy and accelerate delivery.
+  - You are energized by turning one-off successes into
+    repeatable patterns: documenting what works, identifying
+    platform gaps, and helping shape the client’s Intelligence
+    Platform roadmap.
+  - You are prepared to step into what is likely to be one of
+    the most demanding roles of your career, and you are
+    motivated by the impact, autonomy, and responsibility that
+    comes with it.
+  
+  Job Requirements
+  
+  - Rapid Prototyping: Design and build full-stack, MVP-grade
+    prototypes for AI-native applications, agents, and
+    workflows that can be validated quickly with end users.
+  - Full-Stack Execution: Deliver end-to-end solutions using a
+    mix of Python, SQL, and TypeScript/JavaScript, including
+    APIs, back-end services, and front-end experiences.
+  - AI Agents and Workflows: Implement AI-powered workflows and
+    agents that solve real business problems, including RAG
+    pipelines, AI agents, workflows, skills, memory, and
+    model-context protocols where appropriate.
+  - User Interfaces: Build high-fidelity, production-ready user
+    interfaces (e.g., Streamlit/Gradio/React or similar) that
+    make AI capabilities usable and intuitive for business
+    users.
+  - Data Transformation/Manipulation: Move, transform, and
+    harmonize disparate data sources into the client’s data
+    platform (e.g., Snowflake, Databricks, cloud data
+    warehouses), exposing clean, reliable data to applications
+    and agents.
+  - Pattern Feeding: Capture and contribute technical patterns,
+    best practices, and anti-patterns back into the client’s
+    platform and phData’s internal playbooks to build long-
+    term leverage.
+  - Platform Advocacy: Bridge the gap between business-unit
+    needs and central platform capabilities. Identify
+    capability gaps (CI/CD, orchestration, observability,
+    streaming ingestion, vector search, AI gateways, etc.) and
+    help prioritize their development.
+  - Pull-Through Identification: Identify new data sources,
+    platform capabilities, and integration opportunities that
+    create demand for additional phData services (data
+    engineering, ML engineering, Analytics, Workforce AI,
+    platform operations).
+  - Use Case Discovery: Lead or support discovery sessions with
+    business stakeholders to surface high-impact AI
+    opportunities, unconstrained by legacy processes or “the
+    way we’ve always done it.”
+  - Value Articulation: Define success metrics in terms of
+    business KPIs and quantify measurable ROI to justify
+    additional services and platform investments.
+  - Operational Empathy: Spend significant time on-site with end
+    users and operational teams to deeply understand
+    workflows, constraints, and edge cases; design solutions
+    that fit real-world usage.
+  - Client-Facing Communication: Engage confidently with
+    executives, managers, and technical teams. Clearly
+    communicate trade-offs, timelines, and risks, and maintain
+    trust while moving quickly.
+  - Technologies (experience with several of the following, and
+    the ability to learn others quickly):
+    - Frontend: Streamlit, Gradio, React, or similar.
+    - Databases and Storage: Postgres, cloud-native warehouses,
+      Vector DBs, Graph DBs.
+  - Workflow and Automation: Cloud orchestration tools, CI/CD
+    pipelines, and AI-native workflow systems; familiarity
+    with tools like Microsoft Copilot or similar is a plus.
+  - Platforms: Snowflake and major cloud providers (AWS, Azure,
+    GCP); experience with modern data and AI platforms and
+    APIs.
+  - Agentic AI Skills: Practical experience with RAG, LLM
+    workflows, agentic frameworks, prompt engineering, and
+    implementing guardrails and evaluations for AI systems.
+  - Curious and Continuous Learner: Demonstrated ability to
+    upskill rapidly on new APIs, data platforms, workforce
+    systems, and emerging AI tooling.
+  - Documentation and Enablement: Contribute to internal and
+    client-facing documentation, run-throughs, demos, and
+    training that help others adopt and extend the solutions
+    you build.
+  - BA/BS in computer science, engineering, mathematics,
+    operations, or related fields preferred. Equivalent
+    practical experience considered.
+  - 4+ years of hands-on software engineering experience (more
+    for Senior/Principal levels), including building and
+    operating production systems.
+  - Prior consulting, customer-embedded engineering, or product
+    engineering experience in data/AI-heavy environments
+    strongly preferred.
+  - Travel up to 50% (client-dependent). Frequent on-site
+    presence with customers is expected for this role.
+  
+  phData celebrates diversity and is committed to creating an
+  inclusive environment for all employees. Our approach helps
+  us to build a winning team that represents a variety of
+  backgrounds, perspectives, and abilities. So, regardless of
+  how your diversity expresses itself, you can find a home
+  here at phData. We are proud to be an equal opportunity
+  employer. We prohibit discrimination and harassment of any
+  kind based on race, color, religion, national origin, sex
+  (including pregnancy), sexual orientation, gender identity,
+  gender expression, age, veteran status, genetic information,
+  disability, or other applicable legally protected
+  characteristics. If you would like to request an
+  accommodation due to a disability, please contact us at
+  People Operations.
+posted_date: 2026-04-10
+url: "https://www.builtinla.com/job/forward-deployed-ai-product-engineer/8916225"
+source: Built In

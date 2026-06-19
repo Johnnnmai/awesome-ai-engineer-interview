@@ -1,0 +1,53 @@
+company:
+  name: Harvey
+  stage: Series B+
+  focus: |-
+    AI-powered legal and professional services platform using
+    agentic AI
+position:
+  title: Software Engineer, AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building foundational AI systems
+      including model routing, agent infrastructure, context
+      management, and evaluation frameworks for LLM-based agents.
+      The engineer will directly work on multi-model AI systems,
+      agent architectures, and deploy foundation models - all core
+      AI/ML work on the systems themselves.
+  responsibilities:
+  - Design and build platform-level abstractions and systems that improve Harvey's
+    agentic AI products
+  - Own infrastructure for multi-provider model integration, routing, and evaluation
+    to deploy the right foundation models
+  - Build evaluation frameworks and tooling that enable teams across Harvey to iterate
+    on AI quality
+  - Partner with product engineering teams, PMs, and design to launch cutting-edge
+    AI products
+  - Evaluate, prototype, and integrate the latest advancements in AI and agentic systems
+  - Create SDKs, platform primitives, and developer tooling for AI-powered features
+  - Build context management, session state, and memory systems for agent infrastructure
+  use_cases:
+  - Legal document analysis and processing across hundreds of pages
+  - Managing legal matters spanning millions of files with zero tolerance for accuracy
+    errors
+  - Agent-based automation of professional knowledge work
+  - Multi-model AI routing for optimal task-specific model selection
+  - Enterprise-grade AI platform for legal and professional services
+  skills:
+    genai: [context management, agent infrastructure, multi-model systems, model routing,
+      function calling, agentic AI]
+    ml: [foundation models]
+    web: [backend systems]
+    databases: []
+    data: []
+    cloud: []
+    ops: [evaluation frameworks]
+    languages: []
+    domains: []
+    other: [SDKs, distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8725547'
+  extracted_at: '2026-03-27T14:34:51.051626'

@@ -1,0 +1,45 @@
+company:
+  name: LiveFlow
+  stage: Series A
+  focus: |-
+    Next-generation accounting and finance platform for lean
+    finance teams
+position:
+  title: Software Engineer - AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI agents and agent-
+      driven systems that are embedded into the product. The
+      engineer will work on designing systems that combine LLMs,
+      workflows, and financial data, which is hands-on AI/agent
+      development work, not support or infrastructure.
+  responsibilities:
+  - Building AI agents deeply integrated into the product
+  - Designing systems that combine LLMs, workflows, and structured financial data
+  - Developing a real-time, collaborative financial workspace
+  - Designing and scaling APIs and backend systems
+  - Integrating with multiple financial data providers
+  - Crafting intuitive abstractions for complex financial workflows
+  - Ensuring high standards of data security, reliability, and compliance
+  use_cases:
+  - AI-powered financial workflow automation
+  - Agent-driven financial data processing and analysis
+  - Real-time collaborative financial workspace
+  - Automated accounting and finance operations
+  skills:
+    genai: [LLMs, AI agents, workflow automation]
+    ml: []
+    web: [Phoenix, Next.js]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Terraform]
+    languages: [Elixir, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8853467'
+  extracted_at: '2026-03-27T15:10:07.301833'

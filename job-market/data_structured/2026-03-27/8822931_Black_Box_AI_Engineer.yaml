@@ -1,0 +1,55 @@
+company:
+  name: Black Box
+  stage: Acquired (wholly-owned subsidiary of AGC Networks)
+  focus: |-
+    Global communications system integrator delivering
+    enterprise technology solutions
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying AI
+      systems including RAG architectures, LLM implementations, AI
+      agents, and ML models. The engineer will directly work on AI
+      orchestration, fine-tune prompts, and implement production-
+      ready AI solutions end-to-end.
+  responsibilities:
+  - Design and build AI-driven solutions using pre-trained LLMs, traditional ML techniques,
+    and deterministic systems
+  - Implement RAG-based architectures connecting LLMs with enterprise data sources
+  - Design and deploy AI agents for task automation and intelligent decision-making
+    using LangChain
+  - Build workflow orchestration using n8n integrating AI services with ServiceNow,
+    SAP, Salesforce, and Azure
+  - Develop full-stack applications with ReactJS, Astro, Python (FastAPI/Flask), and
+    Node.js (TypeScript)
+  - Implement LLMOps pipelines for deployment, monitoring, and lifecycle management
+    of AI solutions
+  - Integrate AI solutions with enterprise platforms and build ETL pipelines for structured
+    and unstructured data
+  - Contribute to AI engineering standards, reusable components, and reference architectures
+  use_cases:
+  - Conversational AI and chatbots for enterprise
+  - Document summarization and knowledge management
+  - Enterprise knowledge retrieval and search
+  - Task automation and intelligent decision-making
+  - Classification and regression for structured enterprise use cases
+  - Workflow automation integrated with ServiceNow, SAP, and Salesforce
+  skills:
+    genai: [LangChain, RAG, Prompt Engineering, AI Agents, LLMs, GPT, BERT, n8n]
+    ml: ['Traditional ML (classification, regression)']
+    web: [FastAPI, Flask, ReactJS, Astro, REST APIs, GraphQL]
+    databases: [PostgreSQL]
+    data: [ETL pipelines]
+    cloud: [Azure AI, Azure]
+    ops: [Weights & Biases (W&B), Docker, Kubernetes, CI/CD, Azure DevOps, GitHub
+        Actions, LLMOps, AIOps]
+    languages: [Python, TypeScript, Node.js, SQL]
+    domains: [NLP, OCR]
+    other: [ServiceNow, SAP, Salesforce, Microsoft Power Platform, Microsoft Copilot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8822931'
+  extracted_at: '2026-03-27T15:31:11.738693'

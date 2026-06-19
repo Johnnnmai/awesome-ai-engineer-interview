@@ -1,0 +1,109 @@
+job_id: 8870525
+title: AI Research Engineer - DL/DRL Driven HFT
+company: DeepFin Research
+location: 
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - C++
+  - Cuda
+  - Deep Learning
+  - Jax
+  - Python
+  - PyTorch
+  - Reinforcement Learning
+company_size: 10 Employees
+description: |
+  DeepFin is a systematic proprietary trading firm combining
+  deep learning, traditional quantitative research methods,
+  and cutting-edge trading technology, to trade global
+  markets. Founded by engineers and researchers, we build and
+  deploy advanced trading systems that operate across global
+  markets.
+  
+  Our team is lean, highly technical, and impact-driven -
+  every hire plays a direct role in shaping the firm’s
+  technology, strategy, and performance. We value curiosity,
+  precision, and collaboration, and we’re building an
+  environment where exceptional people can do their best work
+  at the intersection of AI and financial markets.
+  
+  
+  
+  About DeepFin Research
+  
+  DeepFin Research is a proprietary high-frequency trading
+  (HFT) firm powered by cutting-edge Deep Learning (DL) and
+  Deep Reinforcement Learning (DRL). We do not rely on
+  traditional quant strategies; instead, we build autonomous,
+  self-learning trading agents that operate at the microsecond
+  level. You will be joining an elite team of Kaggle
+  Grandmasters and former senior researchers from DeepMind and
+  Nvidia to build innovative AI strategies in quantitative
+  finance.
+  
+  The Role
+  
+  We are looking for an exceptional AI Research Engineer to
+  bridge the gap between groundbreaking AI research and ultra-
+  low latency production systems. In this role, you will be
+  the architectural backbone of our research team. You will
+  own the end-to-end RL stack, scaling cutting-edge deep
+  reinforcement learning models across multi-GPU clusters and
+  optimizing them down to the bare metal using CUDA.
+  
+  Key Responsibilities
+  
+  - End-to-End RL Infrastructure: Architect, build, and maintain
+    our proprietary end-to-end DRL training and inference
+    pipelines.
+  - Distributed Training: Design and scale multi-GPU and multi-
+    node training systems for massive parameter models,
+    ensuring maximum throughput and minimal bottlenecks.
+  - Hardware-Level Optimization: Write, profile, and optimize
+    custom CUDA kernels to accelerate both the training of
+    complex neural networks and the ultra-low latency
+    inference engine used in live trading.
+  - Research Collaboration: Work side-by-side with our senior
+    researchers (ex-DeepMind, ex-Nvidia) and Kaggle
+    Grandmasters to translate mathematical formulations and
+    algorithmic prototypes into highly efficient, production-
+    ready code.
+  - Environment & Simulation: Optimize our custom market-
+    simulation environments, ensuring massive parallelization
+    for RL agent rollouts and experience replay.
+  
+  Requirements
+  
+  - Educational Background: MS or Ph.D. in Computer Science,
+    Artificial Intelligence, Machine Learning, Computer
+    Engineering, or a highly related field.
+  - Deep Learning & RL Expertise: Deep understanding of modern
+    DL and DRL algorithms (PPO, SAC, DQN, Transformer
+    architectures) and frameworks (PyTorch, JAX).
+  - High-Performance Computing: Proven track record with
+    distributed training paradigms (DDP, FSDP, Megatron, Ray)
+    and multi-GPU orchestration.
+  - Systems Programming: Exceptional skills in C++ and Python.
+  - CUDA Mastery: Hands-on experience writing custom CUDA
+    kernels and profiling GPU performance (Nsight Systems,
+    Nsight Compute).
+  
+  If you’re passionate about applying advanced technology to
+  real-world markets and want to work alongside a focused,
+  high-performing team, we’d love to hear from you. DeepFin
+  offers a collaborative, research-driven environment where
+  ideas move quickly from concept to execution and where every
+  contribution has visible impact.
+  
+  Join us in building the next generation of deep-learning-
+  driven trading systems - shaping the future of finance
+  through innovation, rigour, and technology.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Machine Learning
+  - Financial Services
+posted_date: 2026-03-26
+url: "https://builtin.com/job/ai-research-engineer-dl-drl-driven-hft/8870525"
+source: Built In

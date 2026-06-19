@@ -1,0 +1,54 @@
+company:
+  name: Hitachi Vantara
+  stage: Public
+  focus: Digital transformation services and enterprise IT solutions
+position:
+  title: Lead AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and deploying AI/ML
+      systems - specifically designing and implementing
+      production-grade AI models, agents, and algorithms using
+      Agentic AI frameworks, implementing RAG pipelines, and
+      leading Gemini Enterprise solutions delivery. The position
+      requires hands-on work with LLMs, multi-agent orchestration,
+      and model deployment on GCP Vertex AI.
+  responsibilities:
+  - Design, develop, and implement production-grade AI models, agents, and algorithms
+    using Agentic AI frameworks
+  - Lead delivery of Gemini Enterprise solutions including Agent Workspace/Agent Builder
+    with defined agent roles, toolchains, and safety guardrails
+  - Drive new AI initiatives across OpCos and corporate functions with secure integration
+    to existing systems
+  - Enhance and scale Agentic AI capabilities for improved performance, latency, reliability,
+    and cost efficiency
+  - Implement RAG pipelines including document ingestion, embeddings, vector search,
+    grounding, and citations
+  - Establish LLMOps/MLOps practices including CI/CD, versioning, evaluation harnesses,
+    and AI Ops observability
+  - Troubleshoot complex production issues across models, agents, tooling, and integrations
+  - Produce technical documentation and mentor junior engineers
+  use_cases:
+  - Enterprise workflow automation through multi-agent AI systems
+  - Digital transformation initiatives across global operating companies
+  - Production deployment of Gemini Enterprise AI solutions
+  - RAG-based retrieval and knowledge systems with grounding and citations
+  - Enterprise system integration (ERP, CRM, ITSM) via AI agents
+  skills:
+    genai: [Gemini Enterprise, Agentic AI frameworks, Multi-agent orchestration, RAG,
+      Prompt engineering, LangChain, LangGraph]
+    ml: [PyTorch, TensorFlow, NLP]
+    web: [REST APIs, gRPC]
+    databases: [Vector Search, Vector databases, Neo4j]
+    data: [Pub/Sub]
+    cloud: [GCP, Vertex AI, Google Cloud Platform]
+    ops: [LLMOps, MLOps, CI/CD, Docker, Kubernetes]
+    languages: [Python, Java, C++, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8385923'
+  extracted_at: '2026-03-03T12:36:03.191894'

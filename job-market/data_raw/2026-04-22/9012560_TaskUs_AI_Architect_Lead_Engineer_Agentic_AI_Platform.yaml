@@ -1,0 +1,197 @@
+job_id: 9012560
+title: AI Architect / Lead Engineer (Agentic AI Platform)
+company: TaskUs
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Docker
+  - Event-Driven Systems
+  - Java
+  - Kubernetes
+  - Llms
+  - Microservices
+  - Node.js
+  - Python
+  - Terraform
+company_size: 10,564 Employees
+description: |
+  About TaskUs: TaskUs is a provider of outsourced digital
+  services and next-generation customer experience to fast-
+  growing technology companies, helping its clients represent,
+  protect and grow their brands. Leveraging a cloud-based
+  infrastructure, TaskUs serves clients in the fastest-growing
+  sectors, including social media, e-commerce, gaming,
+  streaming media, food delivery, ride-sharing, HiTech,
+  FinTech, and HealthTech.
+  
+  The People First culture at TaskUs has enabled the company
+  to expand its workforce to approximately 45,000 employees
+  globally. Presently, we have a presence in twenty-three
+  locations across twelve countries, which include the
+  Philippines, India, and the United States.
+  
+  It started with one ridiculously good idea to create a
+  different breed of Business Processing Outsourcing (BPO)! We
+  at TaskUs understand that achieving growth for our partners
+  requires a culture of constant motion, exploring new
+  technologies, being ready to handle any challenge at a
+  moment’s notice, and mastering consistency in an ever-
+  changing world.
+  
+  What We Offer: At TaskUs, we prioritize our employees' well-
+  being by offering competitive industry salaries and
+  comprehensive benefits packages. Our commitment to a People
+  First culture is reflected in the various departments we
+  have established, including Total Rewards, Wellness, HR, and
+  Diversity. We take pride in our inclusive environment and
+  positive impact on the community. Moreover, we actively
+  encourage internal mobility and professional growth at all
+  stages of an employee's career within TaskUs. Join our team
+  today and experience firsthand our dedication to supporting
+  People First.
+  
+  Role: AI Architect / Lead Engineer (Agentic AI Platform)
+  Experience: 7–15 years Location: Flexible / Hybrid
+  
+  About the Role:
+  
+  We are building a Hybrid Agentic AI Platform that runs
+  across AWS, multi-cloud, and customer environments (VPC/on-
+  prem). This role will own the end-to-end architecture AND
+  implementation of the platform—spanning data ingestion,
+  context building (RAG), agent orchestration, QA automation,
+  and secure enterprise deployment.
+  
+  This is a builder-first leadership role: you will design
+  systems, write production code, and guide a small team to
+  deliver a scalable, privacy-first AI platform.
+  
+  Responsibilities
+  
+  Architecture & System Design
+  
+  - Define end-to-end architecture: ingestion → processing → RAG
+    → agents → QA scoring → insights
+  - Design hybrid deployment models (SaaS, in-VPC, on-prem)
+  - Establish patterns for multi-tenancy, isolation, and
+    scalability
+  - Make key build vs buy decisions (LLMs, vector DBs,
+    orchestration)
+  
+  AI / Agentic Systems
+  
+  - Design and implement agent orchestration frameworks
+  - Build RAG pipelines (chunking, embeddings, retrieval, re-
+    ranking)
+  - Integrate LLMs (managed/private) with no-retention and
+    guardrails
+  - Define evaluation frameworks (quality, hallucination checks,
+    QA scoring)
+  
+  Security & Data Privacy
+  
+  - Implement data-in-place architectures (compute-to-data, VPC
+    access)
+  - Design for PII handling, masking, and auditability
+  - Ensure compliance-ready patterns (SOC2, GDPR-style controls)
+  
+   Platform Engineering
+  
+  - Build core services/APIs powering workflows and integrations
+  - Design event-driven and microservices architectures
+  - Ensure reliability, observability, and performance at scale
+  
+   Team Leadership
+  
+  - Lead and mentor engineers (AI, data, backend, FDE)
+  - Set coding standards, architecture principles, and best
+    practices
+  - Work closely with customers on complex deployments when
+    needed
+  
+  Required Skills
+  
+  Core Engineering
+  
+  - Strong programming in Python (plus Node.js/Java is a bonus)
+  - Deep experience with distributed systems & system design
+  - Hands-on with APIs, microservices, and event-driven systems
+  
+  AI / GenAI
+  
+  - Production experience with LLMs / GenAI systems
+  - Strong understanding of:
+    - RAG architectures
+    - Embeddings & vector search
+    - Prompting and agent workflows
+  - Experience with LLM platforms (AWS Bedrock, open-source
+    models, etc.)
+  
+  Cloud & Platform
+  
+  - Deep experience with AWS (VPC, IAM, Lambda, ECS/EKS, S3)
+  - Experience designing secure enterprise deployments
+  - Familiarity with Docker, Kubernetes, Terraform
+  
+  Nice to Have
+  
+  - Experience with agent frameworks (LangChain, LangGraph,
+    etc.)
+  - Multi-cloud experience (Azure/GCP)
+  - Experience with contact center / QA automation domains
+  - Knowledge of data engineering pipelines
+  - Exposure to LLM evaluation and guardrails frameworks
+  
+  What Makes You a Great Fit
+  
+  - You are equally comfortable whiteboarding architecture and
+    writing code
+  - You have built 0→1 systems and scaled them
+  - You make pragmatic decisions, not over-engineered ones
+  - You thrive in ambiguity and move fast with ownership
+  
+  Impact
+  
+  - Define and build the core platform architecture
+  - Accelerate MVP → production for enterprise customers
+  - Establish the technical foundation for a category-defining
+    AI platform
+  
+   Success in 90 Days
+  
+  - Designed and validated reference architecture
+  - Built core RAG + agent orchestration pipeline
+  - Enabled first customer deployment (VPC or hybrid)
+  - Established engineering standards and velocity
+  
+   What This Role Is Not
+  
+  - Not a pure architect who only creates diagrams
+  - Not a research-only AI/ML role
+  - Not detached from customers or real-world constraints
+  
+  This is a hands-on builder-leader role
+  
+  How We Partner To Protect You: TaskUs will neither solicit
+  money from you during your application process nor require
+  any form of payment in order to proceed with your
+  application. Kindly ensure that you are always in
+  communication with only authorized recruiters of TaskUs.
+  
+  DEI: In TaskUs we believe that innovation and higher
+  performance are brought by people from all walks of life. We
+  welcome applicants of different backgrounds, demographics,
+  and circumstances. Inclusive and equitable practices are our
+  responsibility as a business. TaskUs is committed to
+  providing equal access to opportunities. If you need
+  reasonable accommodations in any part of the hiring process,
+  please let us know.
+  
+  We invite you to explore all TaskUs career opportunities and
+  apply through the provided URL
+  https://www.taskus.com/careers/.
+posted_date: 2026-04-10
+url: "https://builtin.com/job/ai-architect-lead-engineer-agentic-ai-platform/9012560"
+source: Built In

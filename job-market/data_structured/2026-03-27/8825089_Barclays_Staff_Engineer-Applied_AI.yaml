@@ -1,0 +1,55 @@
+company:
+  name: Barclays
+  stage: Public
+  focus: Global financial services and banking institution
+position:
+  title: Staff Engineer-Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, designing, and
+      deploying GenAI and Agentic AI systems using LLMs, agentic
+      frameworks, and cloud AI services. The hands-on work
+      includes implementing agents, function tools, context
+      engineering, and guardrails - all core AI/ML development
+      activities.
+  responsibilities:
+  - Lead the development of GenAI and Agentic AI systems to build intelligent conversational
+    AI and workflow automation for business domains
+  - Design and develop Full-Stack Multi Agentic AI systems using agentic frameworks,
+    LLMs, and technologies with REST-API, MCP or A2A protocols
+  - Design and expose Agentic AI back-end systems, wrap existing back-end systems
+    with MCP Servers for integration
+  - Apply context engineering techniques such as context caching and compression to
+    improve LLM performance and response times
+  - Implement guardrails and policy enforcement for safety and security compliance
+    with data privacy standards
+  - Develop and maintain tools and frameworks for prompt-based model training, evaluation,
+    and optimization
+  - Collaborate with cross-functional teams to identify requirements and develop solutions
+  - Analyze and interpret data to evaluate model performance and identify areas of
+    improvement
+  use_cases:
+  - Intelligent conversational AI for banking and financial services
+  - Workflow automation for business domains
+  - Multi-agent AI systems for enterprise applications
+  - Legacy code transformation using AI
+  - Automated back-end system integration through agentic protocols
+  skills:
+    genai: [LangGraph, LangChain, CrewAI, MCP (Model Context Protocol), A2A (Agent-to-Agent)
+        protocols, LLM prompt engineering, Context engineering, Guardrails implementation,
+      RAG]
+    ml: [Model fine-tuning, Reinforcement Learning]
+    web: [REST API]
+    databases: []
+    data: []
+    cloud: [AWS Bedrock, Azure AI Foundry, GCP Vertex AI, AWS, Azure, GCP]
+    ops: []
+    languages: [Python, Java, GoLang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8825089'
+  extracted_at: '2026-03-27T13:27:03.925225'

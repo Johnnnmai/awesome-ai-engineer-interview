@@ -1,0 +1,179 @@
+job_id: 9096372
+title: Lead AI Engineer- DevOps
+company: Ecolab
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Aks
+  - Application Insights
+  - Azure Container Apps
+  - Azure Container Registry
+  - Azure Devops
+  - Azure Functions
+  - Azure Monitor
+  - Bicep
+  - Datadog
+  - Docker
+company_size: 29,154 Employees
+description: |
+  ROLE SUMMARY
+  
+  As a Lead DevOps Engineer, you will lead the design and
+  operation of the build, release, infrastructure,
+  observability, and runtime engineering practices that enable
+  product teams to ship and operate secure, scalable, and
+  reliable digital solutions — including AI-enabled and
+  agentic AI products. This role is not limited to
+  infrastructure automation; it also requires a strong full-
+  stack engineering flavor, with the ability to understand how
+  frontend, backend, APIs, data services, and AI services come
+  together in production systems.
+  
+  You will work closely with software engineers, AI engineers,
+  integration engineers, Team Leads, architects, and platform
+  teams to ensure systems are deployable, observable,
+  supportable, and cost-aware. You will guide CI/CD design,
+  environment standardization, release automation, platform
+  reliability, cloud-native deployment practices, and
+  engineering enablement across the SDLC.
+  
+  The ideal candidate brings deep experience in DevOps, cloud
+  platforms, automation, platform engineering,
+  containerization, release engineering, and observability,
+  along with strong practical understanding of application
+  architecture, full-stack delivery patterns, and production
+  support expectations.
+  
+  KEY RESPONSIBILITIES
+  
+  - Lead the design, implementation, and continuous improvement
+    of CI/CD pipelines, deployment workflows, environment
+    strategies, and release automation for digital and AI-
+    enabled products
+  - Build and operate cloud-native infrastructure and runtime
+    platforms that support backend services, APIs, UI
+    applications, integrations, and AI workloads
+  - Partner with engineering teams to improve deployability,
+    testability, scalability, observability, and operational
+    resilience across the full product stack
+  - Design and maintain infrastructure-as-code, environment
+    provisioning, secrets management, access control, and
+    deployment consistency across development, test, and
+    production environments
+  - Support delivery of containerized services, microservices,
+    web applications, event-driven systems, and AI-enabled
+    application components
+  - Contribute to architecture and delivery discussions by
+    bringing a strong understanding of backend services, APIs,
+    frontend deployment needs, runtime dependencies, and full-
+    stack production patterns
+  - Implement and optimize observability using logs, traces,
+    metrics, distributed tracing, dashboards, alerts, and cost
+    / capacity signals
+  - Support AI and ML workloads by enabling deployment
+    environments, model-serving patterns, runtime monitoring,
+    cost visibility, and release controls
+  - Drive operational readiness practices such as runbooks,
+    deployment validation, rollback mechanisms, incident
+    response, root-cause analysis, and post-incident
+    improvement
+  - Standardize engineering practices for build automation,
+    release quality, environment hygiene, dependency control,
+    and operational support
+  - Collaborate with security, architecture, and platform teams
+    to ensure solutions meet requirements for security,
+    reliability, compliance, supportability, and scale
+  - Mentor engineers on DevOps and platform engineering best
+    practices and contribute reusable accelerators for
+    delivery teams
+  
+  Required Qualifications
+  
+  - 6 to 8+ years of experience in DevOps, platform engineering,
+    site reliability engineering, cloud engineering, or
+    software engineering, including strong hands-on experience
+    operating production systems in enterprise environments
+  - Proven experience building and operating CI/CD pipelines,
+    cloud-native deployment platforms, containerized
+    workloads, infrastructure automation, and release
+    engineering frameworks
+  - Strong hands-on experience with Azure DevOps, GitHub, GitHub
+    Actions, Terraform, Bicep, Docker, Kubernetes / AKS, Azure
+    Container Registry, Azure Functions, Azure Container Apps,
+    or equivalent DevOps and cloud platforms
+  - Strong understanding of cloud-native application delivery,
+    including backend APIs, event-driven services,
+    authentication flows, runtime dependencies, deployment
+    pipelines, and production support models
+  - Practical experience with full-stack application delivery
+    patterns, including operational understanding of React-
+    based frontends, Node.js services, Python / backend APIs,
+    REST services, microservices, containerized applications,
+    and modern web deployment architectures
+  - Familiarity with frontend and backend build pipelines,
+    static asset deployment, service configuration,
+    environment variables, API gateway integration, and full-
+    stack runtime troubleshooting
+  - Strong experience with observability, logging, tracing, and
+    platform diagnostics using tools such as Azure Monitor,
+    Application Insights, OpenTelemetry, Log Analytics,
+    Datadog, New Relic, Grafana, Prometheus, or equivalent
+    monitoring and reliability platforms
+  - Experience implementing infrastructure as code, secrets and
+    identity management, environment standardization,
+    deployment controls, rollback strategies, and operational
+    governance practices
+  - Familiarity with AI- and ML-enabled workloads, including
+    runtime support for Azure OpenAI, Azure AI Studio,
+    PromptFlow, Azure Machine Learning, or equivalent
+    platforms from a deployment, monitoring, and operational
+    readiness standpoint
+  - Understanding of CI/CD, test automation, release quality,
+    incident response, root-cause analysis, and continuous
+    reliability improvement across the SDLC
+  - Ability to work closely with software engineers, AI
+    engineers, architects, and Team Leads to enable fast,
+    secure, and maintainable delivery
+  - Proven ability to reduce operational toil, improve
+    engineering productivity, and standardize delivery through
+    automation and platform improvements
+  - Strong communication and technical leadership skills,
+    including mentoring engineers and influencing engineering
+    standards across teams
+  
+  Preferred Qualifications
+  
+  - Experience supporting or enabling AI / GenAI / agentic AI
+    products in production environments
+  - Familiarity with Azure OpenAI, Azure AI Studio, PromptFlow,
+    Azure Machine Learning, or equivalent platforms from a
+    deployment, monitoring, and operational support
+    perspective
+  - Experience designing deployment and runtime patterns for
+    LLM-powered services, agent orchestration services,
+    vector-enabled retrieval, and API-integrated AI systems
+  - Familiarity with Model Context Protocol (MCP), asynchronous
+    workflows, long-running agents, or other runtime patterns
+    relevant to agentic AI systems
+  - Experience enabling secure delivery of products with
+    integrations into SAP, ServiceNow, API gateways, workflow
+    platforms, and event-driven enterprise systems
+  - Hands-on experience with performance tuning, caching
+    strategies, request tracing, service dependency analysis,
+    and runtime diagnostics in full-stack production systems
+  - Experience contributing platform accelerators, reusable IaC
+    modules, DevOps templates, shared dashboards, or internal
+    engineering enablement toolkits
+  - Familiarity with cost optimization / FinOps, capacity
+    planning, and scaling strategies for cloud-native and AI-
+    heavy workloads
+  - Experience in a build-own-operate product organization where
+    engineering teams are responsible for long-term
+    supportability and operational excellence
+  - Ability to influence architecture, platform choices, and
+    delivery patterns across multiple teams without losing
+    hands-on technical depth.
+posted_date: 2026-04-20
+url: "https://builtin.com/job/lead-ai-engineer-devops/9096372"
+source: Built In

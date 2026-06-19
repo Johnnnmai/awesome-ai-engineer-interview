@@ -1,0 +1,115 @@
+job_id: 8608838
+title: Lead Product AI Data Engineer
+company: Clarivate Analytics
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Airflow
+  - AWS
+  - Azure
+  - Data Bricks
+  - Dbt
+  - Elt
+  - ETL
+  - Fivetran
+  - GCP
+  - Power BI
+company_size: 10,549 Employees
+description: |
+  We are seeking a Lead Product AI Data Engineer / Architect
+  to design, build, and optimize end-to-end data architecture
+  and scalable data platforms that power product analytics and
+  AI-driven capabilities.
+  
+  This role blends data architecture ownership, deep technical
+  execution, dimensional modeling excellence, and team-level
+  technical leadership for AI Ready Product Data Pipelines.
+  
+  About You – experience, education, skills, and
+  accomplishments
+  
+  - Bachelor’s degree in engineering or master’s degree (BE, ME,
+    B Tech, MTech, MCA, MS)  with minimum 7 years professional
+    experience in data engineering, analytics engineering, or
+    data architecture–heavy roles.
+  - Expert-level proficiency in SQL and relational database
+    design.
+  - Deep hands-on experience with data architecture and
+    dimensional data modeling, including star schemas,
+    snowflake schemas, fact tables, and dimension tables.
+  - Strong understanding of slowly changing dimensions (SCDs),
+    surrogate keys, grain definition, and hierarchical
+    dimensions.
+  - Experience designing and operating ETL/ELT pipelines for
+    production analytics and AI/ML workloads.
+  
+  It would be great if you also have:
+  
+  - Experience with cloud data warehouses such as Snowflake,
+    Data Bricks
+  - Strong programming experience in Python for data pipelines
+    and automation is a big plus.
+  - Familiarity with tools such as dbt, Airflow, Fivetran, and
+    Segment.
+  - Exposure to BI and visualization tools (Power BI, Tableau,
+    SAP BusinessObjects).
+  - Familiarity with AWS, Azure, or GCP, including data
+    governance and security best practices.
+  
+  What will you be doing in this role?
+  
+  - Define and evolve enterprise-level product data architecture
+    across multiple product lines, ensuring scalability,
+    reliability, and AI/ML readiness.
+  - Architect scalable ETL/ELT pipelines and distributed data
+    workflows for analytics, AI, and product intelligence.
+  - Develop and enforce dimensional data modeling standards
+    (star schemas, snowflake schemas) across the organization.
+  - Design and maintain fact and dimension tables, ensuring
+    proper grain, SCD handling, hierarchical dimensions, and
+    high-performance queries.
+  - Establish data architecture principles, naming conventions,
+    and best practices for ETL/ELT, event tracking, and AI
+    pipelines.
+  - Serve as the technical authority guiding architecture
+    decisions to meet product, platform, and AI requirements
+    and also manage Data Architecture & Technical Leadership
+    for Product & AI Data Enablement with Data Quality,
+    Reliability & Operations
+  
+  About the Team
+  
+  The DIA team operates globally and collaborates closely with
+  product owners, architects, and data experts. We thrive on
+  innovation, diversity, and a mission-driven culture focused
+  on enabling life-changing insights.
+  
+  Team comprising front-end and back-end engineers, QA, UX
+  designers, product managers, and DevOps specialists. The
+  team is focused on delivering high-quality editorial and
+  data intelligence solutions, with a strong emphasis on
+  innovation, ownership, and cross-functional collaboration.  
+  
+  This is a fast-paced, innovation-driven
+  environment where you’ll have the opportunity to take
+  ownership of features, contribute to system design, and
+  collaborate with talented peers on impactful projects.  
+  
+  Hours of Work
+  
+  - Full-time, IST
+  
+  - 40 hours per week
+  
+  - Hybrid working environment
+  
+  At Clarivate, we are committed to providing equal employment
+  opportunities for all  qualified persons with respect to
+  hiring, compensation, promotion, training, and other terms,
+  conditions, and privileges of employment. We comply with
+  applicable laws and regulations governing non-discrimination
+  in all locations.
+posted_date: 2026-03-25
+url: "https://builtin.com/job/lead-product-ai-data-engineer/8608838"
+source: Built In

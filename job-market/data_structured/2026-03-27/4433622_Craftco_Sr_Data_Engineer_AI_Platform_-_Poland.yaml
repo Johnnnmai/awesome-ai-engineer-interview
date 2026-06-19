@@ -1,0 +1,53 @@
+company:
+  name: Craft.co
+  stage: Series B
+  focus: |-
+    Supplier risk intelligence platform using AI agents and
+    proprietary data
+position:
+  title: Sr. Data Engineer (AI Platform - Poland)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly integrating LLMs into production
+      AI agent workflows, building structured-output pipelines
+      with grounding and evidence traceability. The position
+      requires hands-on work with OpenAI, Anthropic, and Vertex AI
+      APIs to build and deploy AI agent systems, which constitutes
+      building/deploying AI systems.
+  responsibilities:
+  - Integrate large language models into production AI agent workflows with structured-output
+    pipelines, grounding, reference resolution, and evidence traceability
+  - Design and evolve APIs that serve risk intelligence data to customers and external
+    integrations
+  - Build and maintain data ingestion pipelines owning the full lifecycle from extraction
+    through loading and error handling
+  - Own reliability of async task processing systems including health monitoring,
+    autoscaling, alerting, and incident response
+  - Build and maintain shared libraries and internal developer tooling that accelerate
+    the engineering team
+  - Manage full service lifecycle from standing up new services to decommissioning
+    legacy ones
+  use_cases:
+  - Supplier risk intelligence and monitoring for enterprises
+  - Real-time supplier discovery, evaluation, and continuous monitoring at scale
+  - AI-powered research and monitoring agents for actionable intelligence
+  - Supply chain security and risk mitigation for Fortune 500 companies and government
+    agencies
+  skills:
+    genai: [OpenAI API, Anthropic API, Google Vertex AI, Pydantic AI, LLM integration,
+      AI agents]
+    ml: []
+    web: [GraphQL]
+    databases: [PostgreSQL, SQLAlchemy]
+    data: [Pandas, Polars, Airflow, Celery, Kafka, ETL/ELT]
+    cloud: [AWS, AWS S3, AWS Batch, AWS RDS, AWS DynamoDB, AWS ECS, AWS SQS, AWS Lambda]
+    ops: [MLflow, Docker, Terraform, Datadog]
+    languages: [Python, SQL, asyncio]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4433622'
+  extracted_at: '2026-03-27T14:17:43.743160'

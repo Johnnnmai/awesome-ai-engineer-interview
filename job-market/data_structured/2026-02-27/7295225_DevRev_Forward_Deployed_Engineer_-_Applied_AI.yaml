@@ -1,0 +1,58 @@
+company:
+  name: DevRev
+  stage: Series B
+  focus: |-
+    AI teammate platform for enterprise collaboration and
+    workflow automation
+position:
+  title: Forward Deployed Engineer - Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role focused on
+      deploying AI solutions directly to customers. The role
+      involves hands-on work with AI agents, RAG systems, prompt
+      engineering, fine-tuning semantic search, and building AI-
+      native applications - not just infrastructure support. FDEs
+      who deploy and optimize AI systems are classified as ai-
+      first.
+  responsibilities:
+  - Design, develop, and launch AI agents, integrations, and automations connecting
+    DevRev with customer tech stacks
+  - Build Knowledge Graphs integrating DevRev with SaaS and non-SaaS systems via APIs
+    and webhooks
+  - Apply prompt engineering, fine-tune semantic search engines, and leverage generative
+    AI techniques to enhance agent accuracy
+  - Write SQL queries, perform data analysis, and build dashboards to surface customer
+    insights
+  - Develop rapid proofs-of-concept and conduct live technical demos for customers
+  - Maintain cross-functional communication with customers, engineering, product,
+    and success teams
+  - Guide customers through technical workflows like code repository integrations
+    and advanced configurations
+  - Travel up to 30% for on-site implementations and technical workshops
+  use_cases:
+  - Enterprise knowledge unification across SaaS tools like Google Workspace, Jira,
+    and Notion
+  - AI-powered search, summarization, and proactive suggestions for employees
+  - Agentic workflow automation coordinating across teams and systems
+  - Customer-facing AI teammate for support and collaboration
+  - Real-time data synchronization between business systems
+  skills:
+    genai: [LLMs, Prompt engineering, RAG, Function calling, AI agents, Model Context
+        Programming (MCP)]
+    ml: []
+    web: [REST APIs, GraphQL, Webhooks]
+    databases: [Knowledge Graphs]
+    data: [Event-driven architecture, Pub/sub architectures, Data mapping and schema
+        alignment]
+    cloud: [AWS Lambda, Google Cloud Functions]
+    ops: [CI/CD, Containers, Observability]
+    languages: [TypeScript, JavaScript, Python, Go, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7295225'
+  extracted_at: '2026-03-03T11:51:25.770575'

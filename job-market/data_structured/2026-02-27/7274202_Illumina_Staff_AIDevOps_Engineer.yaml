@@ -1,0 +1,57 @@
+company:
+  name: Illumina
+  stage: Public
+  focus: |-
+    Genomic sequencing technology and DNA analysis for
+    healthcare diagnostics
+position:
+  title: Staff AI/DevOps Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, deploying, and managing AI
+      agents, MCP servers, and LLM integrations directly - not
+      just supporting infrastructure for others. The engineer will
+      design federated AI ecosystems, orchestrate autonomous
+      agents, and implement AI-powered solutions using LLMs and
+      generative AI technologies.
+  responsibilities:
+  - Design and implement AI infrastructure to support federated agent development
+    and distributed deployment across the organization
+  - Build and maintain MCP (Model Context Protocol) servers and infrastructure for
+    agent communication, coordination, and enterprise integration
+  - Manage and orchestrate AI agents to generate architecturally sound code with adherence
+    to enterprise standards
+  - Integrate AI models and APIs, including LLMs and generative AI, into bot solutions
+    for natural language understanding
+  - Develop and manage infrastructure-as-code using Terraform and Ansible to provision
+    resources on AWS and Azure
+  - Establish monitoring, governance, and security frameworks for AI agent operations
+    in enterprise environments
+  - Act as forward deployed engineer coaching teams on AI infrastructure best practices
+    and guiding adoption
+  - Mentor junior engineers on software development, AI integration, DevOps, and platform
+    engineering
+  use_cases:
+  - Automated infrastructure and cloud service request handling via AI-powered bots
+  - Code generation and automated code review with architectural validation
+  - Enterprise IT support automation through intelligent self-service solutions
+  - Multi-agent AI platforms for distributed task orchestration
+  - Natural language interfaces for enterprise operations and support
+  skills:
+    genai: [LangChain, MCP (Model Context Protocol), LLM integration, RAG, AI agent
+        frameworks, Generative AI]
+    ml: []
+    web: [Microsoft Graph API]
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, Azure, AWS Bedrock, AWS Agent Core, Azure AI Foundry]
+    ops: [Terraform, Ansible, Docker, Kubernetes, OAuth 2.0, OpenID Connect]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: [ServiceNow, Jira, GitHub]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7274202'
+  extracted_at: '2026-03-03T11:39:00.642900'

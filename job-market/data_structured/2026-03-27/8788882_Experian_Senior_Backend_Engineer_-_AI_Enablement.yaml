@@ -1,0 +1,59 @@
+company:
+  name: Experian
+  stage: Public
+  focus: |-
+    Global data and technology company providing credit
+    reporting, analytics, fraud prevention, and marketing
+    solutions
+position:
+  title: Senior Backend Engineer - AI Enablement
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role builds infrastructure and platforms (MCP, channel
+      adapters) that enable OTHER teams to integrate AI
+      capabilities. The role requires understanding LLM
+      fundamentals but focuses on platform engineering and
+      enablement tooling rather than building, training, or
+      deploying models directly. Success is measured by what other
+      teams ship through the platform, not by AI systems built by
+      this role.
+  responsibilities:
+  - Design, develop, and maintain backend services powering the MCP platform including
+    tool registries, adapters, execution runtimes, and orchestration layers
+  - Build and evolve channel adapters that connect AI systems to external data sources,
+    APIs, and enterprise services
+  - Ensure reliability, observability, and operational excellence across all platform
+    components
+  - Practice strict test-first development with high-quality unit, integration, and
+    contract tests
+  - Implement and optimize MCP tool designs that allow other teams to create and consume
+    AI functionality safely
+  - Work closely with cross-functional engineering groups to understand their needs
+    and enable faster delivery
+  - Contribute to documentation, platform SDKs, and examples that lower adoption friction
+  use_cases:
+  - Enable product and engineering teams to integrate AI capabilities rapidly and
+    at scale
+  - Connect AI systems to external data sources and enterprise services via channel
+    adapters
+  - Provide tool registries and execution runtimes for LLM workflows
+  - Support multiple teams across financial services, healthcare, automotive, and
+    other industries
+  skills:
+    genai: [Model Context Protocol (MCP), LLM integration, prompt engineering, RAG,
+      agent frameworks]
+    ml: [embeddings]
+    web: [APIs]
+    databases: [vector stores]
+    data: [event-driven architectures, streaming platforms]
+    cloud: []
+    ops: [TDD, CI/CD]
+    languages: [.NET, C#]
+    domains: []
+    other: [distributed systems, async programming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8788882'
+  extracted_at: '2026-03-27T13:49:55.580479'

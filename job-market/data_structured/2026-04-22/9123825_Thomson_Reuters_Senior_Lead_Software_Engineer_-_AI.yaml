@@ -1,0 +1,57 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Information and technology solutions for legal, tax,
+    compliance, and media professionals
+position:
+  title: Senior Lead Software Engineer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA/testing role focused on validating and ensuring
+      the quality of AI systems rather than building, training, or
+      deploying models directly. The engineer tests AI outputs,
+      validates integrations, and builds test automation
+      frameworks for AI-powered solutions. While they work closely
+      with AI systems, their core responsibility is quality
+      assurance, not model development or deployment.
+  responsibilities:
+  - Design and implement comprehensive test strategies for advanced AI systems, including
+    multi-component pipelines, RAG, and custom AI agents with multi-step reasoning
+  - Develop automated testing frameworks for AI model performance, accuracy, and reliability
+    in production environments
+  - Create test cases specific to AI/ML systems, including model validation, output
+    quality assessment, and edge case testing
+  - Validate AI model integrations with production software through robust APIs and
+    scalable data pipelines
+  - Implement testing approaches for AI model drift, bias detection, and fairness
+    validation
+  - Contribute to MLOps and LLMOps practices with a focus on quality assurance, continuous
+    testing, and monitoring
+  - Mentor junior QA engineers and facilitate technical discussions on AI testing
+    best practices
+  - Ensure compliance with ethical AI principles, security standards, and regulatory
+    requirements through thorough testing
+  use_cases:
+  - AI-powered expert systems for legal research and analysis
+  - AI-driven solutions for tax compliance and advisory
+  - Risk and compliance domain intelligent systems
+  - Retrieval-augmented generation (RAG) for professional knowledge access
+  - Custom AI agents with multi-step reasoning for professional workflows
+  skills:
+    genai: [RAG testing, AI agent testing, OpenAI APIs, Anthropic APIs]
+    ml: [PyTorch, TensorFlow]
+    web: [Selenium, pytest, JUnit, RESTful APIs]
+    databases: [Vector databases, Oracle, NoSQL databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Git, Jenkins, CI/CD, MLOps, LLMOps]
+    languages: [Python, Java, SQL]
+    domains: [NLP, Legal domain knowledge, Tax domain knowledge]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9123825'
+  extracted_at: '2026-04-22T13:04:45.638196'

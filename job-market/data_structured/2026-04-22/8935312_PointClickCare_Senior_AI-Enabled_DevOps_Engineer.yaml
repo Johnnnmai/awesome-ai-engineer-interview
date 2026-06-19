@@ -1,0 +1,51 @@
+company:
+  name: PointClickCare
+  stage: Private (founder-led)
+  focus: Health tech cloud platform for long-term and post-acute care
+position:
+  title: Senior AI-Enabled DevOps Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is fundamentally a DevOps/SRE role that supports AI/ML
+      workloads rather than directly building or training models.
+      The engineer builds infrastructure, CI/CD pipelines, and
+      deployment automation that enables ML systems to run in
+      production, and integrates AI-assisted tools into DevOps
+      workflows (AIOps), but does not design, train, fine-tune, or
+      implement AI/ML models themselves.
+  responsibilities:
+  - Design, implement, and operate cloud-native infrastructure for production workloads
+  - Build and maintain CI/CD pipelines for applications and ML systems
+  - Develop and manage infrastructure-as-code for consistency, scalability, and repeatability
+  - Support AI/ML workloads including model deployment, scaling, and monitoring
+  - Integrate AI-assisted tools into DevOps workflows for alert quality, incident
+    triage, and capacity planning
+  - Design and maintain observability solutions using metrics, logs, and traces
+  - Participate in on-call rotations and lead incident response for complex issues
+  - Partner with application, platform, and data teams to deliver reliable systems
+  use_cases:
+  - Cloud infrastructure and platform operations for healthcare SaaS
+  - CI/CD pipeline automation for application and ML deployments
+  - AI-assisted monitoring and incident management (AIOps)
+  - Model deployment, scaling, and monitoring infrastructure
+  - Observability and reliability engineering for distributed systems
+  - Capacity planning and performance optimization using AI tools
+  skills:
+    genai: []
+    ml: []
+    web: [Microservices]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, Terraform, CI/CD, GitHub Actions, GitLab CI, Jenkins,
+      ArgoCD, Prometheus, Grafana, ELK Stack, Datadog, GitOps, AIOps, DevSecOps, Infrastructure
+        as Code, ML model deployment, SRE]
+    languages: [Python, Bash, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8935312'
+  extracted_at: '2026-04-22T14:10:20.733175'

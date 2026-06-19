@@ -1,0 +1,46 @@
+company:
+  name: Tambo
+  stage: Pre-seed
+  focus: |-
+    Open-source toolkit for building AI agents with React
+    components
+position:
+  title: AI Engineer (Agents Lead)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly about building agent systems —
+      designing agent architectures, implementing
+      reasoning/planning/tool-use techniques, and creating
+      evaluation pipelines for agents. The core work is hands-on
+      development of AI agent infrastructure, making this clearly
+      ai-first.
+  responsibilities:
+  - Build agent architectures that are fast, reliable, and developer-friendly
+  - Research and ship techniques for agent reasoning, planning, and tool use
+  - Create evaluation pipelines to measure agent performance improvements
+  - Talk to users to understand issues and fix them
+  - Own the agent runtime and core agent systems
+  - Improve how agents reason and act within visual interfaces
+  use_cases:
+  - Building agent runtime infrastructure for AI-native apps
+  - Agent reasoning, planning, and tool use in production
+  - AI agents that render and interact with visual UI components
+  - Coding agents
+  - Open-source developer toolkit for AI agent development
+  skills:
+    genai: [agents, LLM-powered apps]
+    ml: []
+    web: [React]
+    databases: []
+    data: []
+    cloud: []
+    ops: [evaluation pipelines]
+    languages: [TypeScript]
+    domains: []
+    other: [open-source, developer tools]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9028310'
+  extracted_at: '2026-04-22T14:00:51.940988'

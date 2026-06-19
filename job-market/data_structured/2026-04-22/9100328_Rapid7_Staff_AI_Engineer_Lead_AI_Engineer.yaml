@@ -1,0 +1,56 @@
+company:
+  name: Rapid7
+  stage: Public
+  focus: Cybersecurity threat detection and attack surface protection
+position:
+  title: Staff AI Engineer / Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      evaluating ML and generative/LLM models, including agentic
+      and multi-step reasoning systems. The engineer will design
+      agentic architectures, deploy AI/ML workloads, and
+      contribute to LLMOps/MLOps workflows — all hands-on work on
+      AI systems.
+  responsibilities:
+  - Work with security teams to define, scope, and design research efforts for new
+    threat detections, automations, and AI-driven workflows
+  - Research, build, and evaluate ML and generative/LLM models, including agentic
+    and multi-step reasoning systems
+  - Design and optimize agentic architectures, including tool-calling, decision-making,
+    memory, orchestration, and evaluation frameworks
+  - Partner with engineering teams to ship AI features, integrating models into high-scale
+    systems
+  - Deploy AI/ML workloads in AWS using SageMaker, Bedrock, Lambda, EKS, Step Functions,
+    and related services
+  - Contribute to LLMOps and MLOps workflows, improving evaluation pipelines, observability,
+    reproducibility, and governance
+  - Support development of AI security features, improving reasoning, context understanding,
+    automation, and analyst workflows
+  - Mentor junior team members and uplift the technical bar for agentic AI and ML
+    engineering
+  use_cases:
+  - AI-driven threat detection and security automation
+  - Autonomous security analyst workflows using agentic AI
+  - Multi-step reasoning for cybersecurity decision support
+  - Anomaly detection on large-scale unlabeled security data
+  - LLM-powered tool-augmented systems for security operations
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, Agentic AI architectures, Prompt engineering,
+      Multi-agent orchestration]
+    ml: [scikit-learn, PyTorch, TensorFlow, Keras, HuggingFace Transformers, Anomaly
+        detection]
+    web: []
+    databases: []
+    data: [NumPy, Pandas]
+    cloud: [AWS, SageMaker, Bedrock, Lambda, EKS, S3, AWS Glue, AWS Athena]
+    ops: [LLMOps, Terraform, Docker/Kubernetes, Model risk management]
+    languages: [Python, SQL]
+    domains: []
+    other: [Jupyter Notebooks]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9100328'
+  extracted_at: '2026-04-22T12:31:39.557517'

@@ -1,0 +1,50 @@
+company:
+  name: Maybern
+  stage: Series A
+  focus: Fund management software for private investment managers
+position:
+  title: Lead Product Engineer (Applied AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting systems that deeply leverage
+      AI/LLMs and building automations that incorporate AI
+      directly into operational workstreams. The engineer will
+      collaborate with internal AI teams and integrate AI/ML into
+      client-facing implementations, making it hands-on AI work.
+  responsibilities:
+  - Build the Implementation Engineering team from the ground up, setting technical
+    vision and standards for client deployments
+  - Collaborate with clients to understand operational challenges and design tailored
+    solutions
+  - Architect scalable systems that integrate client data and deeply leverage AI and
+    LLMs
+  - Partner with Product and Engineering leadership to influence roadmap based on
+    field insights
+  - Own end-to-end delivery of complex implementations ensuring technical excellence
+    and client satisfaction
+  - Work with internal implementations team to understand data processing systems
+    for customer onboarding
+  - Build automations on shared infrastructure in collaboration with internal AI team
+  use_cases:
+  - Automating client onboarding workflows for fund management platform
+  - Processing and integrating years of customer historical data
+  - Building AI-powered automation for operational workstreams
+  - Fund management and financial data processing
+  - Private equity and fund administration
+  skills:
+    genai: [AI/LLM integration]
+    ml: []
+    web: [Django]
+    databases: []
+    data: [Data pipelines, Distributed processing]
+    cloud: []
+    ops: [Caching strategies]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8746482'
+  extracted_at: '2026-03-27T15:14:57.399581'

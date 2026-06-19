@@ -1,0 +1,57 @@
+company:
+  name: Celonis
+  stage: Late-stage private (likely pre-IPO)
+  focus: Process Intelligence and Process Mining SaaS platform
+position:
+  title: Lead Applied AI Engineer (Value Engineering) - Scale
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a customer-facing Value Engineering role focused on
+      helping customers realize business value using the Celonis
+      Process Intelligence Platform. While the company invests in
+      AI capabilities (Process Intelligence Graph), the role
+      itself is about translating customer objectives into use
+      cases, building demos/business cases, and driving adoption —
+      not building, training, or deploying AI/ML models. The
+      engineer works with the platform as a user/advisor rather
+      than developing its AI systems.
+  responsibilities:
+  - Discover and translate customers' strategic priorities into high-impact Celonis
+    use cases
+  - Build demos and business cases leveraging industry benchmarks to win new customers
+  - Undertake Value Assessments or Proof-of-Value Projects and communicate value opportunities
+    to C-Level executives
+  - Facilitate business value workshops and use Celonis to identify opportunities
+    for process enhancement
+  - Derive improvement measures in core business functions and initiate enterprise-wide
+    change initiatives
+  - Manage the end-to-end customer value journey including landing, expanding, adoption
+    and renewing
+  - Build strategic expansion roadmaps embedding Celonis Process Intelligence as a
+    transformation platform
+  - Provide feedback to product development teams to enhance the platform based on
+    new use cases
+  use_cases:
+  - Process mining and intelligence for enterprise business operations
+  - Business process improvement and optimization across core functions
+  - Data-driven business transformation and value realization
+  - Digital twin of business operations for continuous improvement
+  - Enterprise process visibility and strategic decision support
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data Analysis]
+    cloud: []
+    ops: []
+    languages: [SQL, Python]
+    domains: [Process Mining]
+    other: [SAP, RPA, BI Tools, Dashboard Development, Project Management, Stakeholder
+        Management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8874741'
+  extracted_at: '2026-04-22T14:08:08.571432'

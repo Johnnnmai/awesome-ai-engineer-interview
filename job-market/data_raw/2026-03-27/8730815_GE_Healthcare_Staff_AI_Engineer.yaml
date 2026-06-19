@@ -1,0 +1,156 @@
+job_id: 8730815
+title: Staff AI Engineer
+company: GE Healthcare
+location: Bengaluru, IND
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - Bedrock
+  - Generative Ai
+  - Llms
+  - Python
+  - Rag
+  - Sagemaker
+company_size: 50,282 Employees
+description: |
+  Job Description SummaryWe are looking for an AI Engineer
+  with strong software engineering and system design
+  fundamentals to build and deploy production‑grade Generative
+  AI systems in a MedTech environment. In this role you will
+  work closely with product, clinical, service, and operations
+  stakeholders to translate real‑world workflows into
+  scalable, reliable AI‑powered applications. You will design,
+  build, integrate, and operate LLM‑based systems, including
+  RAG, Knowledge Graphs, Graph RAG, and Agentic AI workflows,
+  and deploy them on AWS using SageMaker and Bedrock.
+  
+  Job Description
+  
+  Roles and Responsibilities
+  
+  - Apply strong software engineering principles to design,
+    build, test, deploy, and operate AI‑powered systems
+    end‑to‑end.
+  - Design clean, scalable system architectures, including APIs,
+    services, and data pipelines, with a focus on reliability,
+    observability, and security.
+  - Make sound engineering trade‑offs across latency,
+    scalability, cost, fault tolerance, and maintainability.
+  - Design and implement LLM‑based solutions for real‑world,
+    production use cases.
+  - Build Retrieval‑Augmented Generation (RAG) pipelines,
+    including:
+    - Document ingestion and chunking strategies
+    - Embeddings and vector search
+    - Retrieval, reranking, grounding, and response synthesis
+  - Implement Knowledge Graph and Graph RAG approaches to enable
+    reasoning over structured and unstructured enterprise
+    data.
+  - Build Agentic AI systems capable of planning, reasoning, and
+    executing multi‑step workflows.
+  - Implement agentic workflows using tool/function calling,
+    memory, context management, and guarded execution.
+  - Design systems where agents orchestrate workflows and LLMs
+    act as the reasoning and decision layer.
+  - Work embedded with stakeholders to understand workflows,
+    validate AI outputs, and iterate quickly from prototype to
+    production.
+  - Integrate AI capabilities into real applications (backend
+    services, user‑facing tools, copilots, operational
+    systems).
+  - Own solutions in production, including monitoring,
+    debugging, and continuous improvement.
+  - Build and deploy AI services on AWS, leveraging:
+    - AWS SageMaker for model training, hosting, and pipelines
+    - AWS Bedrock for foundation models, agents, and knowledge
+      bases
+  - Implement CI/CD, containerization, and MLOps practices for
+    AI systems.
+  - Ensure secure access, governance, logging, and monitoring
+    aligned with enterprise and healthcare requirements.
+  
+  
+  
+  Education Qualification
+  
+  - Bachelor's Degree in Computer Science or “STEM” Majors
+    (Science, Technology, Engineering and Math) with basic
+    experience.
+  - Desired Characteristics
+  - Strong foundation in software engineering and system design.
+  - Proficiency in Python and experience building backend
+    services and APIs.
+  - Hands‑on experience with Generative AI / LLMs, including
+    RAG‑based systems.
+  - Experience deploying and operating systems on AWS.
+  - Ability to work effectively in ambiguous, customer‑facing,
+    forward‑deployed environments.
+  
+  Business Acumen:
+  
+  - Strong problem solving abilities and capable of articulating
+    specific technical topics or assignments.
+  - Experience in building scalable and highly available
+    distributed systems.
+  - Expert in breaking down problems and estimate time for
+    development tasks.
+  - Evangelizes how our technology solves customer problems from
+    a technology and business perspective
+  
+  Leadership:
+  
+  - Demonstrates clarity of thinking to work through limited
+    information and vague problem definitions.
+  - Influences through others; builds direct and "behind the
+    scenes" support for ideas.
+  - Proactively identifies and removes project obstacles or
+    barriers on behalf of the team.
+  - Shares knowledge, power, and credit, establishing trust,
+    credibility, and goodwill.
+  
+  Personal Attributes:
+  
+  - Able to work under minimal supervision.
+  - Excellent communication skills and the ability to interface
+    with senior leadership with confidence and clarity.
+  - Able to work well with global teams, including time-zone
+    flexibility.
+  - Skilled in providing oversight and mentoring team members.
+    Shows ability to effectively delegate work
+  
+  Inclusion and Diversity
+  
+  GE Healthcare is an Equal Opportunity Employer where
+  inclusion matters. Employment decisions are made without
+  regard to race, color, religion, national or ethnic origin,
+  sex, sexual orientation, gender identity or expression, age,
+  disability, protected veteran status or other
+  characteristics protected by law.
+  
+  We expect all employees to live and breathe our behaviors:
+  to act with humility and build trust; lead with
+  transparency; deliver with focus, and drive ownership –
+  always with unyielding integrity.
+  
+  Our total rewards are designed to unlock your ambition by
+  giving you the boost and flexibility you need to turn your
+  ideas into world-changing realities. Our salary and benefits
+  are everything you’d expect from an organization with global
+  strength and scale, and you’ll be surrounded by career
+  opportunities in a culture that fosters care, collaboration
+  and support.
+  
+  #LI-Hybrid #LI-MP2
+  
+  Additional Information
+  
+  Relocation Assistance Provided: Yes
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Analytics
+  - Biotech
+posted_date: 2026-03-12
+url: "https://builtin.com/job/staff-ai-engineer/8730815"
+source: Built In

@@ -1,0 +1,181 @@
+job_id: 8706373
+title: Senior AI Engineer
+company: Octus
+location: New York, USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Datadog
+  - Docker
+  - Kafka
+  - Python
+  - PyTorch
+  - TensorFlow
+company_size: 808 Employees
+description: |
+  Octus
+  
+  Octus is a leading global provider of credit intelligence,
+  data, and analytics. Since 2013, tens of thousands of
+  professionals across hedge fund, investment banking,
+  management consulting, and law firm verticals have come to
+  rely on Octus to make better, faster, and more confident
+  decisions in pace with the fast-moving credit markets.  For
+  more information, visit: https://octus.com/
+  
+  Working at Octus
+  
+  Octus hires growth-minded innovators and trailblazers across
+  the globe to drive our business and culture. Our core values
+  – Action Oriented, Customer First Mindset, Effective Team
+  Players, and Driven to Excel – define an organizational
+  ethos that’s as high-performing as it is human. Among other
+  perks, Octus employees enjoy competitive health benefits,
+  matched 401k and pension plans, PTO, generous parental
+  leave, gym subsidies, educational reimbursements for career
+  development, recognition programs, pet-friendly offices (US
+  only), and much more.  Role
+  
+  As a Senior AI Engineer focused on CreditAI, our flagship
+  GenAI product, you will own complex technical problems
+  across the full AI stack — designing distributed systems,
+  orchestrating multi-agent workflows, and ensuring production
+  reliability at scale.
+  
+  Responsibilities
+  
+  - Design and implement multi-agent and agentic orchestration
+    frameworks using agent SDKs such as the Claude Agent SDK,
+    Google ADK, or AWS AgentCore, incorporating tools,
+    external data sources, memory, and state management
+  - Build and maintain MCP servers and integrations to extend AI
+    system capabilities with structured tool use and external
+    context
+  - Build and optimize RAG pipelines including embedding
+    strategies, vector database, retrieval quality tuning, and
+    cost-aware ingestion design
+  - Integrate with managed LLM services across cloud providers
+    to support diverse deployment and cost optimization
+    strategies.
+  - Fine-tune, optimize, and deploy open-source deep learning
+    models for production use cases, leveraging GPU
+    infrastructure for training and inference
+  - Apply systems thinking to design and optimize AI and LLM
+    systems, balancing quality, scalability, latency, cost,
+    and operational complexity, while implementing efficiency
+    improvements using model selection, prompt design,
+    batching, caching, and retrieval strategies.
+  - Design and implement automated evaluation frameworks to
+    assess LLM system quality, accuracy, and performance
+    across production workloads
+  - Apply reinforcement learning techniques (e.g., RLHF, RLAIF)
+    to improve model alignment and task-specific performance
+  - Architect and manage high-throughput, real-time data
+    pipelines using Kafka
+  - Design, deploy, and scale production AI services on AWS
+    (Batch, Lambda, ECS, S3, etc), applying modern
+    containerization, CI/CD, and infrastructure-as-code
+    practices
+  - Implement comprehensive observability frameworks using
+    Datadog — tracking token usage, pipeline latency, error
+    rates, consumer lag, and model performance with actionable
+    alerting
+  - Identify and resolve production bottlenecks across
+    distributed systems, including database query
+    optimization, consumer scaling, and LLM throughput tuning
+  - Apply strong problem-solving and critical thinking skills to
+    break down complex, ambiguous requirements into clear,
+    implementable technical components and system designs.
+  - Conduct code reviews; contribute to team standards around
+    reliability, testing, and operational excellence
+  - Communicate progress, trade-offs, and outcomes to relevant
+    stakeholders.
+  - Continuously learn and adapt to advancements in NLP and
+    Generative AI to ensure solutions remain innovative and
+    effective.
+  
+  Requirements
+  
+  - Bachelor's or Master's degree in Computer Science,
+    Engineering, or a related technical field (or equivalent
+    practical experience).
+  - 5+ years of experience as an AI Engineer, Machine Learning
+    Engineer, or applied AI practitioner, with a strong
+    foundation in computer science and algorithms.
+  - Deep Python expertise with a track record of shipping
+    production systems at scale; strong software engineering
+    practices including clean code, testing, code review, and
+    CI/CD.
+  - Hands-on experience designing, building, and deploying LLM-
+    driven or GenAI applications, including multi-agent
+    architectures and agentic workflows, with familiarity with
+    vector databases, embeddings pipelines, or semantic search
+    systems.
+  - Hands-on experience designing and implementing automated
+    evaluation frameworks for LLM systems
+  - Solid understanding of machine learning and applied AI
+    concepts, with the ability to take solutions from
+    prototype to production and translate research ideas into
+    scalable, real-world systems.
+  - Experience with GPUs for model training or inference,
+    including tuning and deploying open-source deep learning
+    models in production; proficiency with PyTorch or
+    TensorFlow for model development and fine-tuning.
+  - Practical experience with cloud-based deployments and
+    infrastructure tools (e.g., AWS, Docker, GitHub) and an
+    understanding of modern DevOps practices,
+    containerization, orchestration, and caching strategies.
+  - Strong problem-solving and systems thinking, with the
+    ability to balance trade-offs across model quality,
+    scalability, inference latency, and cost.
+  - Excellent communication and collaboration skills, with
+    experience working closely with product managers,
+    engineers, and domain experts to deliver actionable
+    technical solutions.
+  - Strong ownership and initiative, with the ability to
+    independently drive projects from problem definition to
+    delivery; a passion for learning and staying current with
+    the rapidly evolving AI/ML landscape.
+  
+  At Octus, we consider a range of factors in connection with
+  compensation decisions, including experience, skills,
+  location, and our business needs and limitations. As a
+  result, compensation may vary within and across similar
+  roles and positions. Please note that the salary range
+  information below is a good faith estimate for this position
+  and actual compensation for any individual may fall outside
+  this range if warranted by the circumstances applicable to
+  that individual. If we identify a role that would be
+  suitable for a broader range of skills and experience such
+  that we would consider hiring at multiple levels then the
+  range listed below may reflect that breadth.
+  
+  The salary range estimate for this position is $160,000 -
+  $180,000.
+  
+  The actual compensation will be at Octus' sole discretion
+  and will be determined by the aforementioned and other
+  relevant factors.
+  
+  Equal Employment Opportunity
+  
+  Octus is committed to providing equal employment
+  opportunities to all employees and applicants for employment
+  without regard to race, colour, religion, sex, sexual
+  orientation, gender identity, national origin, age,
+  disability, genetic information, marital status, pregnancy,
+  veteran status, or any other legally protected status. We
+  strive to create an inclusive and diverse work environment
+  where all individuals are valued, respected, and treated
+  fairly. We believe that diversity enriches our workplace and
+  enhances our ability to innovate and succeed.
+industries:
+  - Fintech
+  - News + Entertainment
+  - Software
+  - Database
+  - Financial Services
+posted_date: 2026-03-10
+url: "https://builtin.com/job/senior-ai-engineer/8706373"
+source: Built In

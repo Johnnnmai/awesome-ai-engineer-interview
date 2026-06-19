@@ -1,0 +1,55 @@
+company:
+  name: RegScale
+  stage: Series B
+  focus: |-
+    Continuous controls monitoring platform for security, risk,
+    and compliance automation
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work building AI systems
+      including RAG pipelines, agent orchestration, model fine-
+      tuning and evaluation, and MCP server development. The
+      engineer owns end-to-end AI system design and delivery,
+      working directly on models and AI infrastructure rather than
+      just supporting systems.
+  responsibilities:
+  - Design, build, and operate AI systems in production with full ownership across
+    reliability, performance, cost, observability, and ongoing model behavior
+  - Build and maintain data pipelines that ingest, clean, transform, and version the
+    data AI systems depend on
+  - Design and implement retrieval augmented generation pipelines, vector and graph
+    search systems, and hybrid retrieval strategies
+  - Fine tune, evaluate, and monitor models against real world performance criteria
+    for compliance domain applications
+  - Architect and build AI agent systems and orchestration layers for multi-step reasoning,
+    tool use, and decision making across GRC workflows
+  - Build and maintain MCP servers that expose platform capabilities to AI systems
+  - Design reusable AI primitives and frameworks for product and integration teams
+  - Integrate AI capabilities into CI/CD pipelines with testing, evaluation gates,
+    and deployment strategies
+  use_cases:
+  - Automate compliance program monitoring and delivery at scale
+  - Enable AI-driven features for GRC (Governance, Risk, and Compliance) workflows
+  - Make compliance data accessible through RAG and search systems
+  - Coordinate multi-step reasoning and decision making across complex compliance
+    workflows
+  - Expose platform capabilities to AI systems for secure and observable integrations
+  skills:
+    genai: [RAG, AI agents, MCP server development, AI safeguards, orchestration frameworks]
+    ml: [model fine-tuning, model evaluation, embedding models]
+    web: []
+    databases: [vector databases, graph databases, Snowflake, AWS Redshift]
+    data: [data pipelines, ETL, Databricks]
+    cloud: [Azure]
+    ops: [CI/CD, observability and monitoring]
+    languages: [Python]
+    domains: [GRC frameworks]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8796253'
+  extracted_at: '2026-03-27T13:37:12.196347'

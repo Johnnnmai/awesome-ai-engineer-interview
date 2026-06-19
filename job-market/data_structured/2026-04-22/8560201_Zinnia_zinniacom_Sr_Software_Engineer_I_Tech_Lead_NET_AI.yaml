@@ -1,0 +1,56 @@
+company:
+  name: Zinnia (zinnia.com)
+  stage: Growth/Mature
+  focus: |-
+    Technology platform for life and annuities insurance
+    administration
+position:
+  title: Sr Software Engineer I, Tech Lead (.NET & AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is primarily a senior .NET software engineering and
+      tech lead role focused on building enterprise software for
+      the life and annuities insurance platform. AI is mentioned
+      only as "exposure to" and "good to have" — LLM APIs, prompt
+      engineering, and RAG pipelines are desired skills but not
+      core responsibilities. The role centers on traditional
+      software engineering, architecture, and mentoring, with AI
+      integration being a secondary/aspirational aspect.
+  responsibilities:
+  - Design, develop, and maintain software platforms for Zinnia's Life & Annuity Exchange
+  - Create well-designed, testable, and efficient code as part of a global cross-functional
+    team
+  - Architect and validate technical requirements for Zinnia platforms
+  - Provide ongoing support, troubleshooting, and custom enhancements to existing
+    systems
+  - Act as a mentor and technology expert, conducting technical reviews for junior
+    team members
+  - Lead API design strategy including security, versioning, documentation, and performance
+    standards
+  - Collaborate with internal stakeholders, customers, and global teams on solution
+    delivery
+  - Design and deploy cloud solutions on AWS with focus on scalability and cost efficiency
+  use_cases:
+  - Life and annuities insurance exchange platform
+  - Insurance product buying, selling, and administration automation
+  - Enterprise software solutions for carrier clients and distributors
+  - Integration layers between distributed microservices systems
+  - AI-powered feature development for insurance workflows
+  skills:
+    genai: [LLM APIs, Prompt engineering, RAG pipelines]
+    ml: []
+    web: [ASP.NET Core, .NET, MVC, Web API, RESTful APIs, OpenAPI/Swagger, OAuth2,
+      JWT, SOAP, XML, Microservices, React, Angular]
+    databases: [SSRS, Redis]
+    data: []
+    cloud: [AWS]
+    ops: [GitHub]
+    languages: [C#]
+    domains: []
+    other: [Visual Studio, SOLID principles, Design patterns, Agile/Scrum, SaaS]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8560201'
+  extracted_at: '2026-04-22T13:09:01.186176'

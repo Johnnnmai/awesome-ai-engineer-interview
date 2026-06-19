@@ -1,0 +1,57 @@
+company:
+  name: HASH
+  stage: Series A / Scaling
+  focus: |-
+    Building open-source knowledge graph infrastructure and
+    world models for decision-making
+position:
+  title: AI Success Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing and building AI-powered
+      solutions, working with LLM-based workflows, knowledge
+      graphs, and automation directly for customers. While
+      customer-facing, this is a Forward Deployed Engineer-style
+      role where the engineer builds and deploys AI systems (not
+      just supporting infrastructure for others who build AI). The
+      explicit mention of building AI systems in production and
+      developing solutions using HASH's technology places it
+      firmly in ai-first.
+  responsibilities:
+  - Partner with customers to understand their workflows, data, and operational challenges
+  - Design and build AI-powered solutions using HASH for enterprise use cases
+  - Translate ambiguous business problems into structured technical plans and deployable
+    systems
+  - Work across knowledge graphs, structured and unstructured data, LLM-based workflows,
+    and automation
+  - Lead technical discovery, solution design, implementation, and rollout with customer
+    stakeholders
+  - Act as a trusted advisor to customer teams from operators to executives
+  - Work closely with product, engineering, and research to shape the platform based
+    on real customer needs
+  - Help define repeatable solution patterns, delivery playbooks, and best practices
+    as we scale
+  use_cases:
+  - Enterprise knowledge graph construction from structured and unstructured data
+  - Business process simulation, optimization, and automation
+  - LLM-based workflow automation for enterprise customers
+  - Decision support systems leveraging integrated information
+  - Customer-specific AI solution design and deployment
+  skills:
+    genai: [LLM-based workflows, Prompt Engineering, Applied AI, RAG]
+    ml: [AI/ML Engineering]
+    web: [REST APIs]
+    databases: []
+    data: [Knowledge Graphs, Data Engineering, Structured Data, Unstructured Data
+        Processing]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [Solution Architecture, Automation, Customer-facing engineering]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8889970'
+  extracted_at: '2026-04-22T12:33:53.803541'

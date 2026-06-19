@@ -1,0 +1,58 @@
+company:
+  name: Connor Group
+  stage: null
+  focus: |-
+    Specialized professional services for accounting advisory,
+    digital solutions, and financial operations
+position:
+  title: 'Digital Solutions - AI & Automation - Senior Developer (Boomi + Workato)
+    (Location: India)'
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building integration processes using
+      Boomi and Workato iPaaS platforms, connecting third-party
+      applications via APIs. While the job title mentions "AI &
+      Automation," the actual responsibilities are centered on
+      integration development (middleware, API connections, data
+      transformation) rather than building, training, or deploying
+      AI/ML models. The "automation" here refers to business
+      process automation via integration, not AI system
+      development.
+  responsibilities:
+  - Design, develop, deploy, and maintain integration processes between 3rd party
+    applications using Dell Boomi AtomSphere or Workato platforms
+  - Manage, monitor, troubleshoot, and support existing integration implementations
+    for clients
+  - Support developers and architects in creating design, development, and maintenance
+    documentation for each client
+  - Manage development of integration solutions including unit testing, configuration,
+    business readiness, and production support
+  - Work with customers to understand requirements and develop integration solutions
+  - Document client system integration and reporting needs
+  - Build integrations and configure API endpoint connections as necessary
+  - Identify integration methods (middleware or custom) and build transformation logic
+    including data cleansing, aggregation, joins/merges
+  use_cases:
+  - Enterprise application integration across cloud and on-premise systems
+  - Finance and accounting system automation via iPaaS platforms
+  - Data transformation and cleansing between business applications
+  - Client system integration with platforms like NetSuite and Salesforce
+  - Business process automation for finance and operations departments
+  skills:
+    genai: []
+    ml: []
+    web: [Dell Boomi AtomSphere, Workato, REST, SOAP, JSON, XML, WSDL, XSD, iPaaS
+        integration]
+    databases: []
+    data: []
+    cloud: [NetSuite, Salesforce]
+    ops: [Agile methodology]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7731179'
+  extracted_at: '2026-04-22T14:05:42.177975'

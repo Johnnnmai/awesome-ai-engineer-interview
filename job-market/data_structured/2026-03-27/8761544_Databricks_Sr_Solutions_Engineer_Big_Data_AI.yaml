@@ -1,0 +1,50 @@
+company:
+  name: Databricks
+  stage: Late-stage (10,000+ organizations, 50%+ Fortune 500)
+  focus: |-
+    Data and AI platform (Databricks Lakehouse/Data Intelligence
+    Platform) for unified data, analytics and AI
+position:
+  title: Sr. Solutions Engineer (Big Data & AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a pre-sales solutions engineering role focused on
+      helping customers adopt and integrate the Databricks
+      platform, not building AI/ML systems directly. While the
+      role requires AI/Big Data knowledge to guide customers, the
+      primary work is customer engagement, architecture design,
+      and platform integration rather than hands-on model
+      building, training, or deployment.
+  responsibilities:
+  - Guide technical evaluation phase throughout the sales process in hands-on environment
+  - Serve as Big Data Analytics expert on architecture and design aspects
+  - Lead clients through evaluating and adopting Databricks including hands-on Spark
+    programming and cloud ecosystem integration
+  - Engage with technical community through presentations, workshops, seminars and
+    meet-ups
+  - Author reference architectures, how-tos, and demo applications for customers
+  - Integrate Databricks with 3rd-party applications to support customer architectures
+  - Build successful relationships with clients to provide technical and business
+    value alongside Account Executives
+  use_cases:
+  - Enterprise data architecture and analytics
+  - Big data processing and data engineering workflows
+  - Data science and AI/ML enablement on cloud platforms
+  - Cloud ecosystem integration for enterprise data systems
+  skills:
+    genai: []
+    ml: [Data Science]
+    web: []
+    databases: [Cassandra]
+    data: [Spark, Hadoop, Data Engineering]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python, R, Java, Scala]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8761544'
+  extracted_at: '2026-03-27T14:55:36.279734'

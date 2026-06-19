@@ -1,0 +1,54 @@
+company:
+  name: Worldly
+  stage: Series B or later
+  focus: |-
+    ESG and sustainability intelligence platform for supply
+    chains
+position:
+  title: ML Ops Engineer - Data Lake & AI Infrastructure
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and scaling ML pipelines using
+      LangChain/Haystack, enabling RAG and LLM-powered
+      applications, and integrating AI/ML systems with data
+      infrastructure. While it has strong infrastructure and data
+      engineering components, it includes direct hands-on work
+      with LLM tools and RAG implementation, making it ai-first.
+  responsibilities:
+  - Design and deploy data lakehouse infrastructure using open-source technologies
+    to ingest and manage high-volume structured and unstructured data
+  - Build and scale ML pipelines using modern tools such as MLflow, LangChain/Haystack,
+    and orchestrate them via Airflow or Dagster
+  - Implement data ingestion and transformation workflows using Apache NiFi, Airbyte,
+    and dbt
+  - Support federated querying and real-time analytics via Trino, ClickHouse, or StarRocks
+  - Enable retrieval-augmented generation (RAG) and other LLM-powered applications
+    by integrating the data lake with AI/ML systems
+  - Develop CI/CD pipelines for ML models, infrastructure-as-code, and data pipeline
+    deployments
+  - Monitor, debug, and optimize data and ML services running across distributed environments
+    including mainland China
+  use_cases:
+  - Sustainability performance measurement and impact intelligence across supply chains
+  - Real-time analytics on structured and unstructured ESG data
+  - Retrieval-augmented generation for sustainability insights and document indexing
+  - Compliance monitoring with evolving global regulations
+  - Trend analysis and supplier performance tracking for consumer goods industries
+  skills:
+    genai: [LangChain, Haystack, RAG]
+    ml: [Hugging Face]
+    web: []
+    databases: [Apache Iceberg, MinIO, Trino, ClickHouse, StarRocks, Ceph, HDFS, Hudi,
+      Delta Lake, Presto, DuckDB]
+    data: [Airflow, Dagster, Apache NiFi, Airbyte, dbt, Prefect]
+    cloud: [Alibaba Cloud, Huawei Cloud]
+    ops: [MLflow, Kubernetes, Docker, Terraform, CI/CD, vLLM]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8834912'
+  extracted_at: '2026-03-27T13:21:41.860977'

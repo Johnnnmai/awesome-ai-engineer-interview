@@ -1,0 +1,45 @@
+company:
+  name: Xenon Seven
+  stage: Unknown
+  focus: |-
+    IT consulting firm providing AI/ML solutions to enterprises
+    and startups
+position:
+  title: Senior AI/ML Engineer-Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building enterprise agentic AI solutions
+      end-to-end, with explicit requirements for RAG, embeddings,
+      vector databases, NLP/Transformers, and model serving. The
+      position directly works on implementing and deploying AI/ML
+      systems, making it ai-first.
+  responsibilities:
+  - Lead in building enterprise agentic AI solutions end-to-end
+  - Own solution architecture, estimation, and delivery planning
+  - Act as a senior consultant in Agile/SCRUM projects, ensuring alignment with client
+    needs
+  - Guide and mentor junior/mid-level engineers, ensuring enterprise-grade delivery
+  - Drive client communication, technical validation, and stakeholder confidence
+  - Ensure responsible AI practices, monitoring, and compliance
+  use_cases:
+  - Enterprise agentic AI solutions
+  - RAG-based information retrieval systems
+  - NLP and transformer applications
+  - Enterprise AI transformation initiatives
+  skills:
+    genai: [RAG, Embeddings]
+    ml: [scikit-learn, PyTorch, TensorFlow, Transformers]
+    web: []
+    databases: [Vector Databases]
+    data: [NumPy, Pandas]
+    cloud: [AWS, Azure]
+    ops: [Docker, CI/CD, Model Serving/APIs, AI Evaluation, AI Monitoring]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: [Responsible AI]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7831738'
+  extracted_at: '2026-03-03T12:56:05.385572'

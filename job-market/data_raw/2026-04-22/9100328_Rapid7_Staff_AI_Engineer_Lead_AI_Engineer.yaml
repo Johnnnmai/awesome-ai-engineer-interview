@@ -1,0 +1,142 @@
+job_id: 9100328
+title: Staff AI Engineer / Lead AI Engineer
+company: Rapid7
+location: Pune, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Bedrock
+  - Eks
+  - Huggingface
+  - Jupyter Notebooks
+  - Keras
+  - Lambda
+  - Langchain
+  - Numpy
+  - Pandas
+company_size: 2,400 Employees
+description: |
+  About the Team The AI Center of Excellence team includes
+  Data Scientists and AI Engineers that work together to
+  conduct research, build prototypes, design features and
+  build production AI components and systems. Our mission is
+  to leverage the best available technology to protect our
+  customers' attack surfaces. We partner closely with
+  Detection and Response teams, including our MDR service, to
+  leverage AI/ML for enhanced customer security and threat
+  detection. We operate with a creative, iterative approach,
+  building on 20+ years of threat analysis and a growing
+  patent portfolio. We foster a collaborative environment,
+  sharing knowledge, developing internal learning, and
+  encouraging research publication. If you're passionate about
+  AI and want to make a major impact in a fast-paced,
+  innovative environment, this is your opportunity. The
+  technologies we use include:• Python is used for analysis
+  and modelling, with numpy, pandas, and scientific computing
+  libraries.• Jupyter notebooks are used for local and remote
+  analysis.• scikit-learn is used for machine learning.•
+  Anomaly detection is used for large-scale unlabeled data
+  analysis.• LLM/GenAI toolchains, including HuggingFace,
+  Transformers, LangChain, CrewAI, and Agentic architectures,
+  are used.• The AWS cloud ecosystem, including SageMaker,
+  Bedrock, Lambda, EKS, and S3, is used.• Agentic AI
+  platforms, including multi-agent orchestration, tool use,
+  reasoning frameworks, and LLMOps, are used.• EKS is used for
+  application deployment.• Terraform is used for
+  infrastructure as code. About the Role Rapid7 is seeking a
+  Staff AI Engineer to join our Data Science team as we expand
+  and evolve our growing AI and MLOps efforts. You should have
+  a strong foundation in software engineering and applied R&D
+  in one of the key areas we focus on - traditional machine
+  learning, neural networks, or generative AI. In this
+  intersectional role, you will combine your expertise in
+  AI/ML deployments, cloud systems and software engineering to
+  enhance our product offerings and streamline our platform's
+  functionalities. This role is ideal for someone who is:•
+  Strong background in data science.• Proficient with AWS and
+  ML/LLM infrastructure.• Excited about agentic AI, autonomous
+  workflows, tool-augmented LLM systems, and building the
+  future of AI-driven security. In this role, you will:• Work
+  with security teams to define, scope, and design research
+  efforts for new threat detections, automations, and AI-
+  driven workflows.• Collaborate with data scientists to
+  transform research into production-ready solutions,
+  mentoring on both methods and execution.• Research, build,
+  and evaluate ML and generative/LLM models, including agentic
+  and multi-step reasoning systems.• Design and optimise
+  agentic architectures, including tool-calling, decision-
+  making, memory, orchestration, and evaluation frameworks.•
+  Partner with engineering teams to ship AI features,
+  integrating models into high-scale systems.• Deploy AI/ML
+  workloads in AWS using SageMaker, Bedrock, Lambda, EKS, Step
+  Functions, and related services.• Contribute to our LLMOps
+  and MLOps workflows, improving evaluation pipelines,
+  observability, reproducibility, and governance.• Support
+  development of AI security features, improving reasoning,
+  context understanding, automation, and analyst workflows.•
+  Embrace agile development, iterative experimentation, and
+  collaborative problem solving.• Mentor junior team members
+  and uplift the technical bar for agentic AI and ML
+  engineering. The skills you'll bring include: Core• 8-12
+  years of experience as a Data Scientist, ML Engineer, or AI
+  Engineer.• Strong end-to-end practical expertise in
+  ML/AI/DS.• Able to explore, experiment, and deliver
+  independently. Proficiency in:• scikit-learn is used for
+  classical machine learning.• PyTorch, TensorFlow, and Keras
+  are used for deep learning.• HuggingFace, LangChain, and
+  Transformers are especially useful for LLMs.• Pandas and
+  NumPy are used for data preparation.• A clear understanding
+  of modelling approaches and their suitability for different
+  problems is necessary.• Strong communication skills and the
+  ability to present technical concepts to diverse audiences
+  are important.• The ability to collaborate across
+  engineering, data science, product, and security teams is
+  necessary.• Experience mentoring and guiding junior data
+  scientists is preferred.• Agentic AI and LLM expertise is
+  highly preferred.• Hands-on experience with agentic AI
+  architectures, such as CrewAI, LangGraph, LangChain agents,
+  tool-calling, and function-chaining, is preferred.•
+  Experience building multi-step reasoning workflows,
+  autonomous agents, or LLM-powered decision systems is
+  preferred.• Understanding of prompt engineering, evaluation
+  frameworks, LLM observability, and guardrails is preferred.•
+  Experience working with AWS Bedrock, model selection,
+  latency/cost trade-offs, and LLM deployment patterns is
+  preferred.• AWS and cloud experience is highly preferred.
+  Strong experience in AWS ML ecosystem:• SageMaker training &
+  inference• Bedrock LLM integrations• Lambda for serverless
+  workflows• EKS for containerized deployments• S3, Glue,
+  Athena, IAM best practices• Experience with Terraform, IaC,
+  and production deployment workflows Experience with the
+  following would be advantageous:• Experience in the security
+  industry• Deployment of AI and machine learning models•
+  Implementing model risk management strategies, including
+  model registries, concept/covariate drift monitoring, and
+  hyperparameter tuning We know that the best ideas and
+  solutions come from multi-dimensional teams. That's because
+  these teams reflect a variety of backgrounds and
+  professional experiences. If you are excited then please
+  apply #LI-AK1 About Rapid7 At Rapid7, our vision is to
+  create a secure digital world for our customers, our
+  industry, and our communities. We do this by harnessing our
+  collective expertise and passion to challenge what's
+  possible and drive extraordinary impact. We're building a
+  dynamic and collaborative workplace where new ideas are
+  welcome. Protecting 11,000+ customers against bad actors and
+  threats means we're continuing to push the envelope just
+  like we' ve been doing for the past 20 years. If you 're
+  ready to solve some of the toughest challenges in
+  cybersecurity, we're ready to help you take command of your
+  career. Join us.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Information Technology
+  - Sales
+  - Security
+  - Software
+  - Cybersecurity
+posted_date: 2026-04-20
+url: "https://builtin.com/job/staff-ai-engineer-lead-ai-engineer/9100328"
+source: Built In

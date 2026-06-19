@@ -1,0 +1,42 @@
+company:
+  name: Nebius
+  stage: Public
+  focus: Cloud computing platform serving the global AI economy
+position:
+  title: Full Stack Developer (AI Infrastructure) Early Career
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full stack developer role focused on building
+      cloud integrations and infrastructure on Azure. While the
+      company serves the AI economy, the role involves developing
+      API integrations, cloud-native solutions, and CI/CD
+      pipelines - all supporting infrastructure rather than
+      directly building, training, or deploying AI/ML models.
+  responsibilities:
+  - Develop API-based integrations between systems
+  - Support solutions using Azure Functions, Logic Apps, and API Management
+  - Automate workflows and data synchronization
+  - Contribute to CI/CD pipelines and Infrastructure-as-Code (Terraform)
+  - Maintain technical documentation
+  use_cases:
+  - Cloud-based system integrations
+  - Workflow automation
+  - Data synchronization between systems
+  - API management and gateway solutions
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs, JSON]
+    databases: []
+    data: []
+    cloud: [Microsoft Azure, Azure Functions, Azure Logic Apps, Azure API Management]
+    ops: [Git, CI/CD, Terraform]
+    languages: [Python, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8765277'
+  extracted_at: '2026-03-27T14:37:27.007320'

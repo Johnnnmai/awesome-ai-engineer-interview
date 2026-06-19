@@ -1,0 +1,51 @@
+company:
+  name: Accellor
+  stage: null
+  focus: |-
+    Technology consulting and AI solutions for enterprise
+    clients
+position:
+  title: Senior AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI
+      models, LLMs, and agentic workflows. The candidate will
+      design, implement, fine-tune, and optimize AI/ML models
+      including LLMs using frameworks like LangChain and
+      LangGraph, which is direct work ON AI systems.
+  responsibilities:
+  - Design, develop, and deploy AI-driven features integrated into web applications
+  - Design and implement AI models for recommendation engines, chatbots, and predictive
+    analytics
+  - Preprocess and analyze large datasets to train and validate models
+  - Optimize AI algorithms for performance, scalability, and accuracy
+  - Collaborate with front-end and back-end developers to integrate AI components
+    via APIs or microservices
+  - Evaluate and select appropriate AI algorithms and tools based on project requirements
+  - Monitor and maintain AI systems post-deployment for reliability and accuracy
+  - Work with cross-functional teams including product managers, designers, and data
+    engineers
+  use_cases:
+  - Recommendation engines for web applications
+  - Chatbots and conversational AI
+  - Predictive analytics for business intelligence
+  - Natural language processing features
+  - Computer vision applications
+  - Process automation in web platforms
+  skills:
+    genai: [LangChain, LangGraph, LLMs, Prompt Engineering]
+    ml: [Fine-tuning Models]
+    web: [HTML/CSS, React, Angular, REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, MLOps, CI/CD]
+    languages: [Python, Java, JavaScript]
+    domains: [NLP, Computer Vision, Recommendation Systems]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7355620'
+  extracted_at: '2026-03-03T12:06:47.820450'

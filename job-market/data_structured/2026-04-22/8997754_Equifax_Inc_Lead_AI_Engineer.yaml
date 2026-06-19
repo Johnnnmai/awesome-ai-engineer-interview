@@ -1,0 +1,57 @@
+company:
+  name: Equifax Inc.
+  stage: Public
+  focus: Credit reporting and data analytics for financial services
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on designing, building, and
+      deploying AI agents using LangChain, LangGraph, and agentic
+      AI frameworks on GCP. The engineer will own core logic for
+      AI-driven automation, implement RAG techniques, and manage
+      MLOps for agentic systems — all hands-on work building and
+      deploying AI/LLM systems.
+  responsibilities:
+  - Design, build, and deploy complex AI agents using LangChain and LangGraph to automate
+    decision-making within the claims lifecycle
+  - Design, test, and refine complex prompts and contextual data frameworks for AI
+    agent accuracy and reliability
+  - Lead AI research and innovation by prototyping and integrating latest foundational
+    models, RAG techniques, and agentic frameworks
+  - Engineer and operate scalable, reliable AI systems in production on Google Cloud
+    Platform
+  - Establish MLOps best practices for observability, versioning, and monitoring of
+    AI agents using tools like Langfuse
+  - Collaborate with product leaders, data scientists, and engineers to translate
+    business needs into AI solutions
+  - Build, manage, and mentor a cross-functional team of software, quality, and reliability
+    engineers
+  - Champion modern software development practices using AI code-assist tools to accelerate
+    development cycles
+  use_cases:
+  - Automating intricate decision-making within the claims lifecycle using AI agents
+  - Enterprise-scale AI agent deployment for production environments serving millions
+    of users
+  - Prompt and context engineering for high-accuracy AI agent performance
+  - Cloud-native AI platform development on Google Cloud Platform
+  - MLOps and observability for production-grade agentic AI systems
+  skills:
+    genai: [LangChain, LangGraph, RAG, Prompt Engineering, Agentic AI Frameworks,
+      GitHub Copilot, Gemini, Claude, ChatGPT, Llama]
+    ml: []
+    web: [React, Angular, Vue]
+    databases: [PostgreSQL, MySQL, MongoDB, DynamoDB, Firestore, Spanner, AlloyDB]
+    data: []
+    cloud: [Vertex AI, Google Cloud Platform, AWS, Azure]
+    ops: [Langfuse, Kubernetes, Docker, Terraform, GitHub Actions, Argo CD, Jenkins,
+      MLOps, CI/CD, CloudFormation]
+    languages: [Python, JavaScript, TypeScript, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8997754'
+  extracted_at: '2026-04-22T12:40:40.527077'

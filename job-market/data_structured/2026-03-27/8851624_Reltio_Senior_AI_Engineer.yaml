@@ -1,0 +1,55 @@
+company:
+  name: Reltio
+  stage: null
+  focus: |-
+    AI-powered data unification and master data management (MDM)
+    platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development of Agentic AI
+      systems, integrating LLMs, and building AI/ML models for
+      entity resolution and classification. The engineer will work
+      directly with LangGraph, Crew AI, AutoGen, and other agent
+      frameworks to build, orchestrate, and deploy AI systems.
+  responsibilities:
+  - Develop robust, scalable Java/Python backend systems that enable orchestration
+    of Agentic AI workflows
+  - Develop state-of-the-art AI/ML models for entity resolution, classification, similarity
+    matching, and anomaly detection
+  - Integrate LLMs (OpenAI, Mistral, Claude, LLaMA) into backend pipelines for autonomous
+    decision-making
+  - Develop scalable ML workflows using Spark, MLlib, PyTorch, TensorFlow, or MLFlow
+    with production integration
+  - Design agent architectures and LLM toolchains using frameworks like LangGraph,
+    Crew AI, and AutoGen
+  - Implement services and APIs that manage prompt chaining, tool invocation, and
+    contextual memory for agents
+  - Apply prompt engineering best practices to improve agent behavior and task accuracy
+  - Monitor and improve model performance using feedback loops, A/B testing, drift
+    detection, and retraining strategies
+  use_cases:
+  - Entity resolution and data matching for master data management
+  - Multi-domain classification and similarity matching
+  - Anomaly detection in enterprise data
+  - Agentic automation for enterprise data workflows
+  - LLM-powered intelligent assistants and copilots for data management
+  skills:
+    genai: [LangGraph, Crew AI, AutoGen, LangChain, LlamaIndex, RAG pipelines, OpenAI
+        API, Prompt engineering]
+    ml: [PyTorch, TensorFlow, scikit-learn, MLlib, NumPy, pandas]
+    web: [REST APIs, Microservices]
+    databases: [Vector databases]
+    data: [Spark, Kafka, Airflow, ETL workflows]
+    cloud: [AWS, GCP, Azure]
+    ops: [MLFlow, Docker]
+    languages: [Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8851624'
+  extracted_at: '2026-03-27T13:35:56.627345'

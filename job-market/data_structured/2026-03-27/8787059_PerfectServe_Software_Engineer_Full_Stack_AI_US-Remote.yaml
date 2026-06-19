@@ -1,0 +1,48 @@
+company:
+  name: PerfectServe
+  stage: null
+  focus: |-
+    Healthcare clinical communication and physician scheduling
+    platform
+position:
+  title: Software Engineer – Full Stack AI (US-Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI
+      systems - integrating LLM APIs into production, building RAG
+      systems and vector search, optimizing inference, and
+      establishing AI architecture standards. The job explicitly
+      states this is a "builder role" focused on shipping
+      production AI features, not a support or research role.
+  responsibilities:
+  - Design AI integration patterns and architecture standards across the SaaS platform
+  - Integrate LLM APIs (OpenAI, Anthropic, AWS Bedrock) into production features
+  - Build RAG systems, vector search, and embedding pipelines
+  - Optimize latency, inference cost, and hallucination guardrails
+  - Establish model evaluation, benchmarking, and observability processes
+  - Define cost controls, usage monitoring, and security/PHI handling constraints
+  - Evaluate use cases with Product for ROI and feasibility
+  - Advise leadership on build vs. buy decisions for AI capabilities
+  use_cases:
+  - Clinical communication and collaboration optimization
+  - Healthcare provider scheduling and message routing
+  - Patient care workflow automation
+  - Clinical documentation and information retrieval
+  - Cross-continuum care team communication
+  skills:
+    genai: [OpenAI API, Anthropic API, AWS Bedrock, RAG systems, embeddings]
+    ml: []
+    web: []
+    databases: [vector databases, vector search]
+    data: []
+    cloud: [AWS, cloud-native architecture]
+    ops: [model evaluation, observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8787059'
+  extracted_at: '2026-03-27T15:32:47.607116'

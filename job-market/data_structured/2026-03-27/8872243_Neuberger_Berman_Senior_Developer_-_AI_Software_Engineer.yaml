@@ -1,0 +1,52 @@
+company:
+  name: Neuberger Berman
+  stage: Public
+  focus: Investment management and financial services
+position:
+  title: Senior Developer - AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, deploying, and
+      integrating LLMs and foundation models, including prompt
+      engineering, fine-tuning, RAG architectures, and designing
+      agentic workflows. The position requires hands-on work with
+      AI/ML systems from data ingestion through model deployment.
+  responsibilities:
+  - Evaluate, design and architect AI Tooling for production use cases within the
+    Private Markets business
+  - Build and maintain end-to-end AI powered solutions covering data ingestion, feature
+    engineering, model training, evaluation, and deployment
+  - Integrate large language models (LLMs) and foundation models into product features,
+    including prompt engineering, fine-tuning, and RAG architectures
+  - Partner with Private Markets business users to design and build agentic workflows
+  - Collaborate with data engineers to ensure high-quality, well-structured training
+    datasets and feature stores
+  - Write clean, well-tested, and well-documented code following engineering best
+    practices
+  - Participate in code reviews, design discussions, and knowledge-sharing sessions
+  - Stay current with advances in AI/ML research and evaluate emerging tools and techniques
+    for adoption
+  use_cases:
+  - AI-powered capabilities for Private Markets investment business
+  - Agentic workflows for financial decision support
+  - Enterprise search and retrieval using vector databases and embeddings
+  - Real-time inference systems for financial applications
+  - Production-grade LLM integration for business process automation
+  skills:
+    genai: [LangChain, LangGraph, LLMs, Prompt Engineering, RAG, Agentic Workflows,
+      MCP]
+    ml: [Fine-tuning, LoRA, RLHF, Feature Engineering, Model Training, Model Evaluation]
+    web: []
+    databases: [Pinecone, Weaviate, Chroma, Vector Databases]
+    data: []
+    cloud: [AWS, Azure, AWS Bedrock, Azure AI Foundry]
+    ops: [Git, CI/CD, Docker, Model Deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8872243'
+  extracted_at: '2026-03-27T15:02:30.141016'

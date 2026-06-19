@@ -1,0 +1,57 @@
+company:
+  name: Grafana Labs
+  stage: Scale-up/Growth (3,000+ enterprise customers, 20M+ users)
+  focus: |-
+    Open-source observability platform providing monitoring,
+    metrics, logs, and traces visualization
+position:
+  title: Staff GTM Engineer (AI & Automation) | US | Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building of multi-agent AI
+      systems, implementing LLM integrations, designing agent
+      architectures, and shipping AI automation solutions. The
+      position requires direct work with LLM APIs, RAG, agent
+      orchestration, and prompt engineering - clearly working ON
+      AI systems, not just supporting them.
+  responsibilities:
+  - Build and operate multi-agent AI systems with LLM integrations that run 24/7 across
+    Marketing, RevOps, and SDR teams
+  - Design and implement data pipelines, API contracts, and shared libraries for GTM
+    automation systems
+  - Integrate AI systems with marketing platforms (Customer.io, Marketo, Salesforce,
+    BigQuery) and orchestration tools
+  - Build intelligent chatbot routing systems with human-in-the-loop orchestration
+    for prospect interactions
+  - Implement AI governance standards including prompt engineering, version control,
+    testing, and observability
+  - Create reusable workflow templates, playbooks, and documentation for cross-functional
+    team enablement
+  - Maintain production reliability with code reviews, testing, CI/CD practices, and
+    runbooks
+  use_cases:
+  - Automated marketing and go-to-market workflow orchestration across multiple business
+    teams
+  - Intelligent chatbot routing and prospect interaction management with human escalation
+  - Sales and marketing automation through multi-agent AI systems
+  - RevOps and SDR workflow optimization through AI-driven automation
+  - Business process automation and operational efficiency improvement
+  skills:
+    genai: [LLM APIs, Prompt Engineering, RAG, Function Calling/Tool Use, Agent Orchestration,
+      Multi-Agent Systems, Structured Output Parsing, GitHub Copilot, Cursor, Claude
+        Code, Conversational AI, Chatbot Development]
+    ml: []
+    web: []
+    databases: [BigQuery]
+    data: [n8n, Workato, Make, Temporal, Prefect, Airflow]
+    cloud: [Google Cloud Platform, Cloud Functions]
+    ops: [CI/CD, Git]
+    languages: [Python, JavaScript, Node.js, SQL]
+    domains: []
+    other: [Salesforce, Customer.io, Marketo, HubSpot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8520076'
+  extracted_at: '2026-03-03T11:22:56.578029'

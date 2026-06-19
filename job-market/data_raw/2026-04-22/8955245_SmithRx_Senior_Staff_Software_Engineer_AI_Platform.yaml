@@ -1,0 +1,151 @@
+job_id: 8955245
+title: Senior Staff Software Engineer, AI, Platform
+company: SmithRx
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Docker
+  - Go
+  - GraphQL
+  - JavaScript
+  - Kubernetes
+  - Node.js
+  - SQL
+  - Typescript
+description: |
+  Who We Are:
+  
+  SmithRx is a rapidly growing, venture-backed Health-Tech
+  company.  Our mission is to disrupt the expensive and
+  inefficient Pharmacy Benefit Management (PBM) sector by
+  building a next-generation drug acquisition platform driven
+  by cutting edge technology, innovative cost saving tools,
+  and best-in-class customer service.  With hundreds of
+  thousands of members onboarded since 2016, SmithRx has a
+  solution that is resonating with clients all across the
+  country.
+  
+  We pride ourselves for our mission-driven and collaborative
+  culture that inspires our employees to do their best work.
+  We believe that the U.S healthcare system is in need of
+  transformation, and we come to work each day dedicated to
+  making that change a reality. At our core, we are guided by
+  our company values:
+  
+  - Integrity: Our purpose guides our actions and gives us
+    confidence in the path ahead. With unwavering honesty and
+    dependability, we embrace the pressure of challenging the
+    old and exemplify ethical leadership to create the new.
+  - Courage: We face continuous challenges with grit and
+    resilience. We embrace the discomfort of the unknown by
+    balancing autonomy with empathy, and ownership with
+    vulnerability. We boldly challenge the status quo to keep
+    moving forward—always.
+  - Together: The success of SmithRx reflects the strength of
+    our partnerships and the commitment of our team. Our
+    shared values bind us together and make us one. When one
+    falls, we all fall; when one rises, we all rise.
+  
+  Job Summary:
+  
+  As a Senior Staff Software Engineer, AI you will be a key
+  architect in SmithRx’s mission to build a next-generation,
+  AI-native pharmacy benefits platform. This is not a
+  traditional MLE role; we are looking for a product-focused
+  fungible engineer who can bridge the gap between cutting-
+  edge LLM capabilities and reliable, production-grade
+  software. You will design systems that leverage the power of
+  AI while maintaining the deterministic rigor required for
+  healthcare and financial transactions.  You will advocate
+  for engineering best practices/methodologies, coding
+  standards and large-scale system design perspectives to our
+  team. We need our engineers to be versatile and driven,
+  display leadership and ownership qualities, and be
+  enthusiastic to take on new challenges as we continue to
+  push technology forward.
+  
+  What you will do:
+  
+  - Focus on architecting system; discovering, designing,
+    developing and maintaining SmithRx product features using
+    a varied technology stack such as Golang,
+    JavaScript/Typescript, Node, GraphQL, and SQL (amongst
+    others), while leveraging full CI and CD to iterate
+    quickly
+  - Collaborate with stakeholders and technical leads to
+    translate requirements into high-quality, AI-native
+    scalable software, while providing scope and risk
+    assessments through comprehensive technical design
+    documentation.
+  - Be the Stochastic/Deterministic Bridge: Build the "safety
+    rails" around LLMs, creating deterministic software
+    systems that effectively manage, validate, and wrap the
+    stochastic nature of AI models to ensure 100% accuracy in
+    healthcare data.
+  - Continually apply and enforce software development best
+    practices, design patterns, testing, automation, tools and
+    technologies by adoption of emerging AI technologies like
+    Claude-code, Copilot or aikes.
+  - Leverage AWS technologies, like Lambda, Managed Kafka, EKS
+    to handle various types of jobs and batch processing
+  - Troubleshoot production issues by performing triages for
+    issues that arise, assessing the impact, creating and
+    executing a plan for short-term and long-term mitigation,
+    and performing root cause analysis to prevent future
+    occurrence of issues.
+  - Foster a collaborative learning culture by mentoring junior
+    engineers in both traditional backend best practices and
+    emerging AI-native development patterns, while driving
+    technical excellence through code reviews and the
+    exploration of innovative technologies.
+  - Work with senior leadership to turn technical vision into a
+    tangible roadmap every quarter
+  
+  What you will bring to SmithRx:
+  
+  - BS or advanced degree in computer science or applicable
+    experience
+  - 8+ years of software development experience working on
+    server-side applications, specifically around API servers,
+    third party integrations and data processing
+  - Expertise in a compiled language such as GoLang or Java is
+    required
+  - Proficiency with relational databases such as PostgreSQL,
+    including schema design, SQL tuning, and database
+    monitoring is required
+  - Working knowledge of GraphQL APIs, CI and CD pipeline, AWS
+    platform, Docker, and Kubernetes a plus
+  - Agentic Frameworks, MCP, LLM APIs (Anthropic/OpenAI), Prompt
+    Engineering/Evals.
+  - Communication: A collaborative approach to engineering,
+    capable of explaining technical trade-offs to stakeholders
+    and mentoring a distributed team.
+  - Architectural Mindset: Ability to design for scale,
+    performance, and maintainability while navigating the
+    ambiguity of a high-growth startup.
+  - Positivity; non-dogmatic, team-first attitude
+  - Flexibility; someone who is responsive and comfortable with
+    ambiguity
+  - Experience at a high-growth startup a plus
+  
+  What SmithRx Offers You:
+  
+  - Highly competitive wellness benefits including Medical,
+    Pharmacy, Dental, Vision, and Life Insurance and AD&D
+    Insurance
+  - Flexible Spending Benefits
+  - 401(k) Retirement Savings Program
+  - Short-term and long-term disability
+  - Discretionary Paid Time Off
+  - Paid Company Holidays
+  - Wellness Benefits
+  - Commuter Benefits
+  - Paid Parental Leave benefits
+  - Employee Assistance Program (EAP)
+  - Well-stocked kitchen in office locations
+  - Professional development and training opportunities
+posted_date: 2026-04-03
+url: "https://www.builtinla.com/job/senior-staff-ai-software-engineer-platform/8955245"
+source: Built In

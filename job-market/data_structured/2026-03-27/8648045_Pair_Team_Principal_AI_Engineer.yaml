@@ -1,0 +1,56 @@
+company:
+  name: Pair Team
+  stage: Series B or later
+  focus: |-
+    AI-enabled medical group providing whole-person care for
+    Medicaid and Medicare patients
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is focused on building agentic AI systems from the
+      ground up - designing agent architecture, reasoning
+      patterns, tool use, memory systems, and human-in-the-loop
+      collaboration. The position requires hands-on experience
+      building and scaling multi-agent systems in production,
+      working directly with agent frameworks and LLMs to create
+      systems that participate in care delivery.
+  responsibilities:
+  - Lead the design and evolution of agentic systems that participate directly in
+    care delivery, coordinating care and engaging patients
+  - Define and build architectural patterns for agent reasoning, tool use, memory,
+    and human-in-the-loop collaboration
+  - Develop reusable platform capabilities and product-facing implementations for
+    agent-driven healthcare systems
+  - Own complex problem spaces end-to-end from system design through observability,
+    evaluation, and continuous improvement in production
+  - Partner with product managers, operators, and domain experts to translate complex
+    real-world care processes into reliable agent behavior
+  - Establish standards and best practices for agent evaluation, safety, and operational
+    reliability
+  - Mentor engineers and influence technical direction across teams building agent-driven
+    capabilities
+  use_cases:
+  - Care coordination for Medicaid and Medicare beneficiaries with complex needs
+  - Patient engagement and communication automation
+  - Healthcare workflow automation and operations
+  - Connecting healthcare and social service organizations into unified networks
+  - Learning from patient interactions to continuously improve care outcomes
+  skills:
+    genai: [LangGraph, Claude Agents SDK, OpenAI API, Anthropic API, MCP (Model Context
+        Protocol), Mastra, Multi-agent systems, Agentic AI]
+    ml: []
+    web: [Backend architecture]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Langfuse, LangSmith, Braintrust, Agent evaluation frameworks]
+    languages: [Python]
+    domains: [Healthcare domain knowledge]
+    other: [System design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8648045'
+  extracted_at: '2026-03-27T14:12:40.488039'

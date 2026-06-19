@@ -1,0 +1,46 @@
+company:
+  name: Notion
+  stage: Late-stage (valued at $10B+)
+  focus: |-
+    All-in-one productivity and workspace platform with
+    integrated AI
+position:
+  title: Software Engineer, AI Workflows
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI-powered features for
+      Notion's Custom Agents, working hands-on with LLMs,
+      embeddings, and other AI technologies to make agents more
+      intelligent and capable. The engineer prototypes,
+      experiments with, and productionizes AI features — squarely
+      placing this in the "ai-first" category.
+  responsibilities:
+  - Prototype and experiment with new AI features for Notion's Custom Agents
+  - Productionize and scale asynchronous AI workflows across Notion's systems
+  - Collaborate across AI, Infrastructure, and Product teams to deliver high-quality
+    user experiences
+  - Build AI-powered features using LLMs, embeddings, and other ML technologies
+  - Define and develop cutting-edge AI capabilities for workflow automation products
+  - Stay up-to-date with the latest AI technologies and trends
+  use_cases:
+  - Automating recurring team workflows like filing tasks and writing reports
+  - Answering questions in a knowledge base using AI agents
+  - Building intelligent custom agents for Notion's product experience
+  - Making Notion's Custom Agents more intelligent, capable, and reliable at scale
+  skills:
+    genai: [LLMs, Embeddings, AI Agents]
+    ml: []
+    web: [React, Node.js]
+    databases: [Postgres, MySQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8985481'
+  extracted_at: '2026-04-22T13:01:03.028017'

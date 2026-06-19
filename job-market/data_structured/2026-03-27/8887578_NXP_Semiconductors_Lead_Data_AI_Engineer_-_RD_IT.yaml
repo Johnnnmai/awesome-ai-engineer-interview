@@ -1,0 +1,53 @@
+company:
+  name: NXP Semiconductors
+  stage: Public
+  focus: |-
+    Semiconductor manufacturing and R&D for embedded processing
+    solutions
+position:
+  title: Lead Data & AI Engineer - R&D IT
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, developing, and deploying AI
+      products and Generative AI solutions, including work with
+      RAG frameworks, LangChain, LlamaIndex, and agentic
+      architectures. The position is directly responsible for
+      building production-ready AI applications, not just
+      supporting infrastructure for others.
+  responsibilities:
+  - Design, develop, and deploy AI products to support R&D engineers including Generative
+    AI solutions
+  - Collaborate with project managers, IT teams, and stakeholders to gather requirements
+    and define project scope
+  - Work with data engineers and DevOps engineers to ensure high-quality, secure,
+    and well-governed data availability for AI initiatives
+  - Build AI solutions with DevOps practices including CI/CD pipelines, version control,
+    and automation
+  - Operate within an Agile Scrum environment with sprint planning and cross-functional
+    collaboration
+  - Define the future of AI capabilities within R&D organization working with data
+    scientists and domain experts
+  use_cases:
+  - Generative AI assistants for R&D engineers
+  - Automated workflows for new product introductions
+  - Scalable AI tools for hardware design analytics
+  - AI-driven solutions to accelerate and optimize semiconductor R&D
+  - RAG-based knowledge retrieval for R&D community
+  skills:
+    genai: [Claude, GPT, Llama, Mistral, Gemma, LangChain, LlamaIndex, RAG frameworks,
+      Semantic search, Embeddings, Agentic architectures, Multimodal AI]
+    ml: []
+    web: [FastAPI, Flask]
+    databases: [Vector stores]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, CI/CD, GitLab, Infrastructure as Code, CDK]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8887578'
+  extracted_at: '2026-03-27T15:06:09.090945'

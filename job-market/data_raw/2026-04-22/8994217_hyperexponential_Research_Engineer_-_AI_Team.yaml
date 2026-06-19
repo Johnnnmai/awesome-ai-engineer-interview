@@ -1,0 +1,258 @@
+job_id: 8994217
+title: Research Engineer - AI Team
+company: hyperexponential
+location: London, GBR
+work_type: FULL_TIME
+level: Entry level
+skills:
+  - AI
+  - Machine Learning
+  - Python
+company_size: 108 Employees
+description: |
+  About hyperexponential (hx)
+  
+  At hyperexponential, we're building the AI-powered platform
+  that enables the world's most critical decisions in a £7
+  trillion industry, which risks to take, and how to price
+  them. These are the decisions that shape real-world
+  outcomes: whether rockets successfully launch into space,
+  autonomous vehicles make it to market, or communities
+  recover after major storms.
+  
+  Until now, insurance has been making billion-pound decisions
+  using outdated tools. We're changing that. Our platform
+  brings together data, AI, and human expertise to give
+  insurers the fastest path from submission to decision -
+  helping them move faster, act smarter, and take on more risk
+  with confidence.
+  
+  Backed by a16z, Highland Europe, and Battery Ventures, we're
+  scaling globally - already trusted by nearly 50 of the
+  world's largest insurers, with zero churn and billions in
+  premiums flowing through hx.
+  
+  What began as a single product in one market has rapidly
+  evolved into a multi-product, multi-territory platform
+  powering every stage of pricing and underwriting. AI is at
+  the core of what we do - from building the world's first
+  domain-specific AI peer programmer for insurance (think
+  GitHub Copilot with a PhD in actuarial science) to shaping
+  agentic workflows that reinvent how this industry operates.
+  
+  What makes hx different is the people who build it. Here,
+  impact isn't tied to title or tenure; it's defined by the
+  challenges you take on and the discipline you bring.
+  Surrounded by peers who stretch you, you'll do the best,
+  hardest work of your life in a company engineered to endure.
+  
+  If that sounds like you, join us in building what comes
+  next.
+  
+  About the hxAI team
+  
+  The Research Engine sits at the intersection of exploration
+  and evidence-based decision-making. We ensure that major
+  technical investments are de-risked through rigorous
+  research before Engineering scales them into production. Our
+  work shapes what gets built, how it's built, and whether
+  it's worth building at all.
+  
+  As a Research Engineer, you'll bridge Product Management and
+  Engineering by investigating emerging AI capabilities,
+  validating technical approaches, and producing evidence that
+  guides strategic product decisions. You'll design evaluation
+  frameworks that measure agent performance consistently, run
+  structured experiments to test competing hypotheses, and
+  translate complex findings into clear recommendations that
+  influence roadmap priorities and implementation choices.
+  
+  This isn't abstract research; it's applied investigation
+  with direct commercial impact. Your work accelerates
+  Engineering delivery by reducing uncertainty upfront,
+  strengthens product quality by identifying failure modes
+  early, and builds institutional knowledge about what works
+  in one of AI's most complex application domains: specialty
+  insurance pricing and underwriting.
+  
+  Check out our AI Candidate Hub for a behind the scenes look
+  at the team you would be joining!
+  
+  What you'll be doing
+  
+  - Design and maintain evaluation frameworks that enable
+    consistent, automated measurement of AI agent performance
+    across hundreds of insurance scenarios, creating the
+    testing infrastructure that catches regressions before
+    customers do
+  - Conduct structured technology assessments that evaluate
+    emerging AI capabilities against specific product needs,
+    producing technical briefs and competitive analyses that
+    inform roadmap decisions worth millions in engineering
+    investment
+  - Run disciplined experiments that decompose ambiguous
+    research questions into testable hypotheses, using
+    statistical rigour and practical engineering insight to
+    generate reliable findings under tight delivery timelines
+  - Build comprehensive test suites covering actuarial edge
+    cases, underwriting workflows, and pricing logic that
+    stress-test AI systems in ways that mirror real customer
+    usage, improving agent reliability by 40%+ through
+    targeted improvements
+  - Translate research findings into engineering action by
+    identifying performance gaps, recommending technical
+    approaches, and working alongside Product and Engineering
+    to turn insights into shipped capabilities customers trust
+  - Maintain domain fluency in insurance by staying current with
+    actuarial concepts, underwriting practices, and pricing
+    methodologies, ensuring research outputs respect the
+    complexity of the industry we're transforming
+  
+  What you'll need to have done
+  
+  (or have some intuition on):
+  
+  - Worked on applied AI or ML problems where you had to
+    structure your thinking, test hypotheses, and draw
+    conclusions from messy or incomplete data - doesn't need
+    to be formal research, but you should be able to show how
+    you approached ambiguity methodically
+  - Had some exposure to evaluating AI or ML systems - whether
+    that's writing test suites, tracking model performance
+    metrics, or thinking critically about why a model fails in
+    certain scenarios. We're not looking for a fully-formed
+    eval framework, but you should understand why this matters
+  - Worked in or alongside production AI systems - enough to
+    understand the gap between a prototype that works in a
+    notebook and something customers actually depend on.
+    Direct production experience is a plus, but strong
+    intuition from adjacent work counts
+  - Communicated technical findings clearly to non-technical
+    audiences - whether that's a product manager, a
+    stakeholder, or a customer. You don't need a track record
+    of boardroom presentations, but you should be comfortable
+    translating what you found into what it means
+  - Written Python comfortably across the AI/ML stack - data
+    processing, model evaluation, experimentation. You don't
+    need to be a research ML expert, but you should feel at
+    home in the tools
+  - Been part of cross-functional teams where research or
+    analysis fed into real product or engineering decisions -
+    comfortable sitting at the boundary between exploration
+    and execution, even if you're still developing confidence
+    there
+  
+  You're unlikely to thrive here if
+  
+  - You prefer pure research environments with long timelines
+    and academic publication goals, rather than applied
+    investigation where findings must land quickly and
+    influence real product decisions
+  - You need clearly defined problems with established
+    methodologies, rather than designing your own evaluation
+    approaches for AI systems operating in novel, complex
+    domains
+  - You view research as separate from implementation, rather
+    than seeing your work as directly enabling Engineering
+    teams to ship higher-quality capabilities faster
+  
+  If reading our Culture Document leaves you feeling neutral
+  rather than energised, hx may not be the place where you'll
+  do your best work. We're building something that asks for
+  commitment and conviction, and we want you to feel excited
+  by the opportunity to grow with us.
+  
+  Compensation
+  
+  At hx, we're committed to salary transparency. You'll always
+  have clarity on pay early in the process - our Talent
+  Partner will share details with you during initial
+  conversations - and we're working towards publishing salary
+  information for all roles globally.
+  
+  Because we're building at the intersection of
+  technology/SaaS and insurance, our roles don't always map
+  neatly onto traditional benchmarks. Our approach is to
+  design compensation that's competitive in the market, fair
+  across teams, and aligned with the impact our people make.
+  
+  Equity: We offer equity across all roles at hx, making it a
+  significant component of total compensation. Your Talent
+  Partner will be able to share more details about this.
+  
+  Benefits
+  
+  - £5,000 training and conference budget for individual and
+    group development.
+  - 25 days of holiday plus 8 bank holidays (33 days total).
+  - Company pension scheme via Penfold.
+  - Mental health support and therapy via Spectrum.life.
+  - Individual wellbeing allowance via Juno.
+  - Private healthcare insurance through AXA.
+  - Income protection and Life Insurance.
+  - Cycle to Work Scheme.
+  
+  Additional perks
+  
+  - Top-spec equipment (laptop, screens, adjustable desks,
+    etc.).
+  - Regular remote and in-person hackathons, lunch and learns,
+    socials, and game nights.
+  - Team breakfasts and lunches, snacks, drinks fridge, and a
+    fun office at The Ministry.
+  - Exceptional opportunities for personal development and
+    growth as we build something remarkable together.
+  
+  Interview process
+  
+  - Initial call with our Talent team (30 minutes).
+  - Meet the team (40 minutes)
+  - Take Home technical Assessment 3b. Present the take-home
+    live (1 hour)
+  - Values Interview with Two of our Leadership Team (60
+    minutes).
+  - Virtual/In-Person Coffee with our Senior Director of AI
+  - We offer!
+  
+  Our commitment to Diversity
+  
+  hxers are at the centre of everything we build. We know that
+  progress depends on diverse perspectives, and we are
+  committed to creating an environment where everyone can
+  thrive, grow, and make an impact. We recognise there is
+  always more to do, and we take responsibility for shaping a
+  workplace that is not only diverse but genuinely inclusive.
+  
+  Diversity is not just the right thing to do, it is key to
+  solving the complex challenges we choose to take on. By
+  welcoming people from all backgrounds and experiences, we
+  strengthen our ability to question assumptions, push
+  boundaries, and design solutions that endure.
+  
+  If you're energised by complexity and motivated to grow, we
+  encourage you to apply and join our global team.
+  
+  Next steps
+  
+  If this opportunity resonates with you, we encourage you to
+  apply or share it with your connections! Our dedicated
+  talent team reviews all applications, and we promise to
+  provide feedback regardless of the outcome.
+  
+  For more information about applying and to view other
+  opportunities, you can visit our careers page.
+  
+  Please note that background checks will be conducted as part
+  of the hiring process to ensure compliance with our
+  governance policies. We handle all background checks
+  sensitively and in full compliance with relevant
+  regulations. All applicant data will be processed in
+  accordance with data protection regulations and our privacy
+  policy.
+industries:
+  - Information Technology
+  - Insurance
+  - Software
+posted_date: 2026-04-08
+url: "https://builtin.com/job/research-engineer-ai-team/8994217"
+source: Built In

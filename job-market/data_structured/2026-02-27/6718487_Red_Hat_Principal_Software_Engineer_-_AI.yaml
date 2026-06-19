@@ -1,0 +1,52 @@
+company:
+  name: Red Hat
+  stage: Public
+  focus: |-
+    Enterprise open source software solutions including Linux,
+    cloud, container, and Kubernetes technologies
+position:
+  title: Principal Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and architecting AI
+      agents and agentic AI applications using LangChain,
+      LangGraph, and similar frameworks. The engineer will develop
+      RAG pipelines, work with ML models, and implement cutting-
+      edge GenAI solutions - all hands-on work on AI systems.
+  responsibilities:
+  - Architect, design, and develop AI applications in Python using LangChain, LangGraph,
+    and LlamaStack frameworks
+  - Lead the implementation of Agentic AI applications for enterprise digital workforce
+  - Design and build scalable open-source solutions with ML models running on OpenShift
+    AI
+  - Architect and develop features with RAG, RAFT, GraphRAG, and InstructLab pipelines
+  - Develop and optimize retrieval-augmented generation (RAG) pipelines
+  - Collaborate with product owners, program managers, and cross-functional teams
+    to analyze requirements and implement solutions
+  - Build and deploy applications to OpenShift PaaS and public clouds (GCP, AWS)
+  - Mentor and coach a distributed team of engineers while reviewing code and ensuring
+    quality standards
+  use_cases:
+  - Digital workforce automation through AI agents
+  - Enterprise workflow acceleration and operations scaling
+  - Human capability augmentation via intelligent agents
+  - Enterprise AI solutions with RAG-based knowledge retrieval
+  - Distributed AI applications running on cloud platforms
+  skills:
+    genai: [LangChain, LangGraph, LlamaStack, Autogen, RAG, GraphRAG, RAFT, InstructLab,
+      AI Agentic frameworks, MCP servers, LLMs]
+    ml: [Machine Learning models]
+    web: [REST]
+    databases: []
+    data: []
+    cloud: [OpenShift AI, Google Cloud Platform, AWS]
+    ops: [OpenShift/Kubernetes, Jenkins]
+    languages: [Python, Java]
+    domains: []
+    other: [Distributed Systems, Slack]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '6718487'
+  extracted_at: '2026-03-03T11:37:15.024502'

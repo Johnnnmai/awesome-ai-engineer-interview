@@ -1,0 +1,46 @@
+company:
+  name: Litify
+  stage: Bessemer Venture Partners backed
+  focus: |-
+    All-in-one legal operating platform for law firms and legal
+    departments
+position:
+  title: Software Engineer (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the "Software Engineer (AI)" title, the job
+      description contains zero AI/ML responsibilities or skills.
+      All requirements are standard backend engineering: Node.js,
+      AWS services, REST APIs, CloudFormation. The role builds
+      general legal tech infrastructure, not AI systems.
+  responsibilities:
+  - Write scalable and maintainable Javascript for AWS services (Lambda, Fargate)
+  - Design, develop and monitor RESTful APIs
+  - Utilize AWS to create cost effective and efficient services for file migrations
+  - Create clean and organized CloudFormation Templates and deploy stacks to hundreds
+    of customers
+  - Manage the security and organization of millions of files in S3
+  - Assist with design, analysis, development, implementation, and deployment of data-driven
+    applications
+  use_cases:
+  - Legal operations management platform
+  - File migration services for legal documents
+  - Cloud infrastructure deployment for law firms
+  - Document storage and organization for legal professionals
+  skills:
+    genai: []
+    ml: []
+    web: [RESTful APIs]
+    databases: [DynamoDB]
+    data: []
+    cloud: [AWS Lambda, AWS Fargate, Amazon S3, API Gateway, Serverless architecture]
+    ops: [CloudFormation, AWS CDK, CI/CD]
+    languages: [Node.js, JavaScript]
+    domains: []
+    other: [Salesforce, Electron]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8577332'
+  extracted_at: '2026-03-03T12:20:58.917508'

@@ -1,0 +1,182 @@
+job_id: 9010677
+title: Senior AI Backend Engineer
+company: SumUp
+location: Berlin, DEU
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Airflow
+  - AWS
+  - Ci/Cd
+  - Cloudwatch
+  - Docker
+  - Kafka
+  - Kubernetes
+  - Prometheus
+  - Python
+  - RabbitMQ
+company_size: 2,750 Employees
+description: |
+  Team description
+  
+  SumUp Edge is our most ambitious product bet right now — an
+  AI-powered co-pilot that transforms raw merchant data into
+  proactive, real-time business insights. We're moving from
+  being a payments processor to becoming an intelligent
+  operating system for small businesses, and the backend
+  infrastructure powering that shift needs to be world-class.
+  This role sits at the very centre of that build: you'll
+  architect the systems that connect our data platform, LLM
+  orchestration layer, and merchant-facing APIs — and the work
+  you do here will directly shape how millions of small
+  businesses understand and grow their business.
+  
+  We are seeking a skilled and passionate Senior Backend
+  Engineer to help lay the foundations of this vision. In this
+  role, you will design, architect, and develop infrastructure
+  and systems that enables AI products to be successful, and
+  that turn complex, real-world merchant data into scalable,
+  production-grade information for AI solutions. Your
+  expertise in backend and infrastructure combined with AI
+  will be instrumental in shaping the intelligence layer and
+  building sustainable infrastructure that powers our next
+  generation of products.
+  
+  You will collaborate closely with machine learning
+  engineers, data scientists, product managers, and business
+  stakeholders to translate business challenges into robust,
+  high-impact AI capabilities. Your work will directly
+  influence how small businesses operate, compete, and grow,
+  positioning SumUp at the forefront of applied AI in fintech.
+  
+  What you’ll do
+  
+  - Architect, design, develop and deploy our AI solutions and
+    systems in production environments, ensuring reliability,
+    high performance and scalability.
+  - Design and build the orchestrator service that coordinates
+    AI components, data flows, and external services to
+    deliver reliable, real-time insights to merchants
+  - Develop and maintain scalable ETL pipelines or MCPs that
+    process and sync heterogeneous data (text, images, audio)
+    from various sources into the AI system
+  - Build and optimise the LLM Gateway infrastructure, including
+    authentication, rate limiting, load balancing, and vector
+    database management for the RAG system
+  - Create robust, high-performance APIs capable of handling
+    multimodal data structures and high-volume requests,
+    ensuring low-latency and production-grade reliability
+  - Implement observability tooling — including telemetry,
+    logging, and tracing — to support auditing, evaluation,
+    and continuous improvement of AI interactions
+  - Mentor backend engineers on the team, contributing to
+    engineering standards, code reviews, and a culture of
+    technical excellence
+  - Collaborate and communicate closely with data scientists,
+    product managers, developers and other business
+    stakeholders to bring state-of-the-art AI solutions to
+    Customer Support, enhancing customer experience and
+    improving operational efficiency.
+  
+  You’ll be great for this position if you have
+  
+  - Bachelor's or master's degree in Computer Science,
+    Engineering, or a related field.
+  - +6 years of experience developing software products (if they
+    are ML or AI related is a plus)
+  - Advanced proficiency in Python, with hands-on experience
+    building and scaling backend systems in production
+    environments using tools like Kubernetes, Docker, Airflow,
+    and Spark.
+  - Strong knowledge of cloud infrastructure (AWS, S3) and CI/CD
+    practices, with a track record of shipping reliable,
+    maintainable systems.
+  - Experience designing APIs and working with distributed data
+    systems and message brokers such as Kafka or RabbitMQ.
+  - Comfort working at the intersection of backend engineering
+    and AI — including familiarity with LLMs, GenAI tooling,
+    and machine learning concepts.
+  - Experience with status monitoring using cloud-native tools
+    or 3rd party (e.g. Prometheus, Cloudwatch, ...) and LLM
+    traceability
+  - Excellent communication and collaboration skills to work
+    effectively in cross-functional teams.
+  - Ability to adapt to a fast-paced, dynamic work environment
+    and quickly learn new technologies and techniques.
+  - Strong team player (m/f/d) with the ability to work with
+    diverse groups of people in a productive and agile manner
+  
+  Why you should join SumUp
+  
+  - 🌎 Opportunity to work with SumUppers globally on large-scale
+    fintech products used by millions of businesses worldwide,
+    from our Berlin office. This involves an office-first
+    setup
+  - 🌈 Commitment to Diversity and Inclusion: be part of a
+    workplace that values and promotes diversity, fostering an
+    inclusive environment where everyone's perspectives are
+    respected and embraced
+  - 🚀 Enrolment onto our Virtual Stock Option programme: you
+    will own a stake in SumUp's future success
+  - 📚 A dedicated annual L&D budget of €2000 for your individual
+    development, which you can use to attend conferences
+    and/or advancing your career through further education
+  - 💶 A corporate pension scheme where we match up to 20% of
+    your contributions
+  - 🏖️ Generous time off: enjoy 28 days of paid leave plus
+    public holidays and special leave days
+  - 🏋️ Numerous other benefits such as Urban Sports Club
+    subsidy, Kita placement assistance, and subsidised office
+    lunches
+  - 🌴 Break4me: 1-month sabbatical after 3 years of service
+  - 🔗 Referral Bonus: earn additional rewards by referring
+    talented individuals to join the SumUp team
+  
+  About SumUp
+  
+  Be empowered to do more that matters.
+  
+  At SumUp, we're on a mission to empower small businesses
+  across the globe by providing simple and affordable tools
+  that allow them to thrive. Today, over 4 million businesses
+  in 37 markets rely on SumUp as their financial partner to
+  manage payments, finance and customer relationships.
+  
+  Our commitment to small businesses is reflected in our
+  diverse team of over 3,000 SumUppers from over 90
+  nationalities, united by global collaboration and an
+  innovative mindset. Our core values lay the foundation for
+  who we are and what we stand for, shaping our work culture
+  and driving our success. We foster inclusivity and a
+  continuous learning culture, providing a safe space for
+  personal and professional growth. Our differences make us
+  unique and strong as we strive to create an environment
+  where everyone belongs and feels supported, no matter how
+  they identify.
+  
+  SumUp is proud to be an Equal Employment Opportunity
+  employer, actively seeking and embracing diversity in our
+  workforce. We don't make hiring or employment decisions
+  based on race, colour, religion or religious belief, ethnic
+  or national origin, nationality, sex, gender, gender
+  identity, sexual orientation, disability, age or any other
+  basis protected by applicable laws or prohibited by company
+  policy. Our commitment extends beyond recruitment to
+  creating a safe and respectful workplace where harassment of
+  any form is strictly prohibited. Discover more about our
+  culture and opportunities on our careers website, and follow
+  our journey on LinkedIn, Instagram, and TikTok.
+  
+  Job Application Tip
+  
+  We recognise that candidates feel they need to meet 100% of
+  the job criteria in order to apply for a job. Please note
+  that this is only a guide. If you don’t tick every box, it’s
+  ok too because it means you have room to learn and develop
+  your career at SumUp.
+industries:
+  - Fintech
+  - Payments
+posted_date: 2026-04-10
+url: "https://builtin.com/job/senior-ai-backend-engineer/9010677"
+source: Built In

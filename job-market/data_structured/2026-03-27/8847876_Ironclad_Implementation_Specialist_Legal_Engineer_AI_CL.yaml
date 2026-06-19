@@ -1,0 +1,53 @@
+company:
+  name: Ironclad
+  stage: Series C+
+  focus: AI-powered contract lifecycle management platform
+position:
+  title: Implementation Specialist (Legal Engineer) AI + CLM, East
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a customer-facing implementation role focused on
+      configuring and deploying Ironclad's CLM platform for
+      customers. While they work with AI features (smart import,
+      clause extraction, playbooks), the role is about
+      implementing existing AI capabilities rather than building,
+      training, or fine-tuning AI/ML models. The work is enabling
+      customers to use AI products, not developing AI systems.
+  responsibilities:
+  - Lead 5-15 customer implementations simultaneously, managing projects with clear
+    milestones and communication plans
+  - Design scalable CLM and legal operations processes while advising on change management
+  - Configure and optimize contracting processes using Ironclad product expertise
+    including AI features and integrations
+  - Manage challenging customer conversations, reset expectations, and guide phased
+    delivery plans
+  - Serve as Voice of Customer by sharing feedback with Product team to improve the
+    platform
+  - Stay current on product releases, particularly AI and workflow automation capabilities
+  - Improve implementation processes by contributing to methodology, templates, and
+    playbooks
+  - Handle high-profile customer escalations with structured action plans and follow-through
+  use_cases:
+  - Contract lifecycle management automation
+  - AI-assisted contracting including smart import and clause extraction
+  - Intelligent contract workflows and process automation
+  - Playbooks and redline assist for legal operations
+  - Contract data integration with Salesforce and enterprise systems
+  - Digital transformation of legal and procurement processes
+  skills:
+    genai: [AI-assisted contracting, Smart import, Clause extraction]
+    ml: []
+    web: [eSignature integration, SSO/IDP integration]
+    databases: [Salesforce integration]
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: [CLM platforms, Legal operations]
+    other: [Workflow automation, Professional services consulting, Change management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8847876'
+  extracted_at: '2026-03-27T15:42:24.167655'

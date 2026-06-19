@@ -1,0 +1,57 @@
+company:
+  name: JetBrains
+  stage: Public
+  focus: Developer tools and IDEs with AI-powered coding agents
+position:
+  title: Research Engineer (Agentic Behavior – Kotlin AI Value Stream)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly working on improving AI coding
+      agent behavior for Kotlin, including building evaluation
+      pipelines, experimenting with post-training techniques (SFT,
+      DPO, GRPO), and implementing methods to fix agent failures.
+      The engineer owns the end-to-end loop of analyzing,
+      evaluating, and improving model/agent behavior on Kotlin
+      tasks.
+  responsibilities:
+  - Build tooling to systematically capture, classify, and analyze errors that AI
+    coding agents make when generating Kotlin code
+  - Build observability pipelines over agentic traces to mine patterns from agent
+    sessions across various coding agents
+  - Design and maintain evaluation pipelines measuring Kotlin code generation quality
+    across correctness, idiomaticity, build success, and test coverage
+  - Build simulation environments where coding agents can be measured on realistic
+    Kotlin developer tasks
+  - Experiment with post-training techniques (SFT, DPO, GRPO) to improve model handling
+    of Kotlin-specific patterns and idioms
+  - Investigate context engineering approaches including compiler-as-verifier feedback
+    loops and MCP-based tooling
+  - Design and build open-source benchmarks that measure AI coding agent performance
+    on Kotlin tasks
+  - Collaborate with model providers to translate Kotlin-specific findings into model
+    improvements
+  use_cases:
+  - AI coding agent evaluation and improvement for Kotlin code generation
+  - Automated error analysis and pattern mining from agentic coding traces
+  - Post-training model improvement for Kotlin-specific patterns and idioms
+  - Open-source benchmarking of AI coding agents on Kotlin tasks across Android, KMP,
+    server-side, and build systems
+  - Simulation environments for realistic Kotlin developer task evaluation
+  skills:
+    genai: [RAG, prompt engineering, MCP, agentic frameworks, LLM evaluation pipelines]
+    ml: [PyTorch, SFT, DPO, GRPO, RLHF, TRL, Megatron, verl]
+    web: []
+    databases: []
+    data: [data pipelines, statistical analysis, Athena]
+    cloud: []
+    ops: [Inspect AI, Promptfoo, Weights & Biases, MLflow, Langfuse, experiment tracking,
+      LM-evaluation-harness]
+    languages: [Python, Kotlin, SQL]
+    domains: [NLP]
+    other: [Spring, Ktor, KMP, Gradle, Android]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8943799'
+  extracted_at: '2026-04-22T13:00:27.574652'

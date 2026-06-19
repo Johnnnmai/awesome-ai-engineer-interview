@@ -1,0 +1,56 @@
+company:
+  name: OpenAsset
+  stage: Private Equity-backed
+  focus: |-
+    Marketing platform for Architecture, Construction, and
+    Engineering industries with AI-powered RFP analysis tools
+position:
+  title: Staff Software Engineer - AI/ML - MLOps
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs, agentic AI
+      frameworks, model training/fine-tuning, and model serving
+      infrastructure. The position requires building and deploying
+      AI models using tools like LangGraph, Amazon Bedrock, and
+      Vertex AI, and directly works on the Shred.ai product. This
+      is not support work - it's core AI system development.
+  responsibilities:
+  - Lead design, planning, and coordination of AI/ML initiatives including model development,
+    training, serving, data pipelines, and deployment
+  - Take ownership of the entire lifecycle of AI/ML systems from experimentation to
+    production
+  - Design and implement scalable, efficient, and maintainable AI/ML systems
+  - Partner with Product and Engineering teams to integrate AI/ML capabilities into
+    company-wide projects
+  - Provide strategic technical guidance on MLOps frameworks, tools, and best practices
+  - Research and propose advanced ML techniques and cloud-native AI services including
+    LLMs
+  - Mentor and guide team members through code reviews, technical coaching, and knowledge
+    sharing
+  - Drive initiatives to improve model accuracy, scalability, reliability, privacy,
+    and compliance
+  use_cases:
+  - RFP/RFI document analysis and shredding for AEC marketers
+  - Automated proposal drafting grounded in organizational knowledge
+  - Information extraction from documents
+  - Speeding up manual and repetitive marketing tasks
+  - AI-enabled products for the Architecture, Engineering, and Construction industry
+  skills:
+    genai: [LangGraph, LangFuse, Pydantic AI, Claude, Gemini, ChatGPT, LLMs, Agentic
+        AI frameworks, Claude Code]
+    ml: [Fine-tuning]
+    web: [Microservices architecture]
+    databases: [Vector databases, Graph databases]
+    data: [Databricks]
+    cloud: [AWS, Amazon Bedrock, SageMaker, Vertex AI]
+    ops: [MLflow, Docker, Kubernetes, Terraform, CI/CD, Datadog, Grafana, MLOps, LLMOps,
+      AgentOps, Model serving infrastructure, GitHub Actions]
+    languages: [Python, Rust, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8655402'
+  extracted_at: '2026-03-27T13:31:35.413824'

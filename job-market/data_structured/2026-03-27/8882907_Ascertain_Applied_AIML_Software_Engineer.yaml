@@ -1,0 +1,52 @@
+company:
+  name: Ascertain
+  stage: Series A
+  focus: AI agents for healthcare administrative automation
+position:
+  title: Applied AI/ML Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, configuring, and
+      optimizing AI agents for voice-based healthcare automation.
+      The engineer will work hands-on with agentic systems, LLM-
+      based applications, and conversational AI, including
+      establishing evaluation frameworks and agent performance
+      optimization.
+  responsibilities:
+  - Design, build, and optimize production-grade voice agents using third-party platforms
+    and internal tooling
+  - Own end-to-end quality of agent performance, including QA processes, evaluation
+    frameworks, and continuous monitoring
+  - Analyze call transcripts and interaction data to identify failure modes and drive
+    systematic improvements
+  - Work directly with customers and internal operations teams to understand workflows
+    and translate them into scalable product solutions
+  - Collaborate with engineering to build and improve reliability, observability,
+    and deployment infrastructure
+  - Write and maintain production Python code for integrations, APIs, and custom agent
+    logic
+  - Contribute to product direction by bringing a strong user and workflow perspective
+    into development decisions
+  use_cases:
+  - Healthcare back-office workflow automation
+  - Voice-based AI agents for healthcare administrative tasks
+  - Care team administrative burden reduction
+  - Healthcare operations financial resilience
+  - Patient care workflow optimization
+  skills:
+    genai: [LLM-based applications, Conversational AI, Voice AI, AI agents]
+    ml: []
+    web: [APIs, Twilio, Real-time communication platforms]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Evaluation frameworks, Monitoring and observability, QA processes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8882907'
+  extracted_at: '2026-03-27T14:25:38.584872'

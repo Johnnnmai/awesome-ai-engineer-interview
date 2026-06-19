@@ -1,0 +1,235 @@
+job_id: 9005966
+title: "Sr. Software Engineer, Service Reliability - AI Detection & Response"
+company: CrowdStrike
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Cassandra
+  - Elasticsearch
+  - Go
+  - Java
+  - Kafka
+  - Kotlin
+  - Node.js
+  - Python
+  - Scala
+company_size: 10,000 Employees
+description: |
+  As a global leader in cybersecurity, CrowdStrike protects
+  the people, processes and technologies that drive modern
+  organizations. Since 2011, our mission hasn’t changed —
+  we’re here to stop breaches, and we’ve redefined modern
+  security with the world’s most advanced AI-native platform.
+  We work on large scale distributed systems, processing
+  almost 3 trillion events per day and this traffic is growing
+  daily. Our customers span all industries, and they count on
+  CrowdStrike to keep their businesses running, their
+  communities safe and their lives moving forward. We’re also
+  a mission-driven company. We cultivate a culture that gives
+  every CrowdStriker both the flexibility and autonomy to own
+  their careers. We’re always looking to add talented
+  CrowdStrikers to the team who have limitless passion, a
+  relentless focus on innovation and a fanatical commitment to
+  our customers, our community and each other. Ready to join a
+  mission that matters? The future of cybersecurity starts
+  with you.
+  
+  About the Role:
+  
+  As a Senior(+) Engineer (Typically equivalent to Staff or Sr
+  Staff titles in other companies), you'll join this Core
+  Platform Team with bottom-up visibility and ownership with a
+  fast-expanding codebase (aimed at AI-based Detection &
+  Response) and a far-reaching edict for service resiliency,
+  with several key feature additions and critical re-
+  architecture initiatives underway: Deployment of core
+  services to several new clouds, modularizing into reusable
+  components, improvements to core libraries, frameworks,
+  observability tooling (tracing, profiling, alerting, SLOs
+  etc), and automation to reduce manual toil in all the above.
+  
+  
+  
+  Recently this group introduced adaptive concurrency to our
+  core kafka library which implements flow control to protect
+  database performance. In terms of overarching goals, it
+  builds and maintains the next-generation infrastructure and
+  security platform for CrowdStrike which include an
+  application and service delivery platform, massively
+  scalable distributed data storage and replication systems,
+  and a cutting-edge search and distributed graph system. Help
+  us scale CrowdStrike’s infrastructure and products to handle
+  massive growth in traffic and data as we continue to
+  experience dramatic growth in the usage of our products.
+  
+  
+  
+  Crowdstrike Falcon is THE industry standard in cloud-native
+  cyber security and threat hunting, processing Trillions of
+  events/day. You’ll be positioned for optimal widespread
+  impact with  bottom-up ownership of our core codebase,
+  driving architectural choices that affect every feature
+  development team, providing shared architectural components
+  to be leveraged throughout the Falcon Platform (things like
+  Unified Search, Protobuf libraries and other shared-tier
+  architectural components).
+  
+  
+  
+  What You'll Do:
+  
+  - Develop and maintain services to meet reliability and
+    scalability demands
+  - Extend and build new libraries for cross-cutting concerns
+    that comprise/extend to the entirety of CrowdStrike's
+    cloud platform, which consists of hundreds of libraries
+    and services.
+  - Constantly re-evaluate our product to improve architecture,
+    knowledge models, user experience, performance and
+    stability.
+  - Provide technical leadership and guidance for large-scale
+    architectural changes and complex incident management.
+  - Lead initiatives around reliability, scalability,
+    performance, and cost-efficiency in distributed systems.
+  - Design and implement automation tools to improve the
+    reliability and efficiency of our infrastructure
+  - Develop and enhancement monitoring services.
+  - Use and give back to the open source community.
+  - Evangelize best practices for building software, especially
+    as pertains to Go.
+  - Obsess about learning, and champion the newest technologies
+    & tricks with others, raising the technical IQ of the
+    team.
+  - Drive strategic decisions and influence infrastructure and
+    operational improvements across the organization.
+  - Brainstorm, define, and build collaboratively with members
+    across multiple teams
+  - Be an energetic ‘self-starter’ with the ability to take
+    ownership and be accountable for deliverable.
+  
+  
+  
+  What You'll Need:
+  
+  - 7+ years of full-time experience in a service-oriented
+    backend developer role
+  - 5+ years developing microservices for a SaaS product, in one
+    of the following object-oriented languages: Golang, Java,
+    Scala, Kotlin, Python, Node.js.
+  - Degree in Computer Science (or commensurate experience in
+    data structures/algorithms/distributed systems).
+  - Expert-level knowledge of Golang
+  - The ability to scale backend systems – sharding,
+    partitioning, scaling horizontally are second nature to
+    you.
+  - The desire to ship code and the love of seeing your bits run
+    in production.
+  - Deep understanding of distributed systems and scalability
+    challenges.
+  - Deep understand multi-threading, concurrency, and parallel
+    processing technologies.
+  - Team player skills – we embrace collaborating as a team as
+    much as possible.
+  - A thorough understanding of engineering best practices from
+    appropriate testing paradigms to effective peer code
+    reviews and resilient architecture.
+  - The ability to thrive in a fast paced, test-driven,
+    collaborative and iterative programming environment.
+  - The skills to meet your commitments on time and produce high
+    quality software that is unit tested, code reviewed, and
+    checked in regularly for continuous integration.
+  
+  
+  
+  Bonus Points:
+  
+  - Contributions to the open-source community (GitHub, Stack
+    Overflow, blogging).
+  - Existing exposure to K8s
+  - Existing exposure to AWS, Cassandra, Kafka, Elasticsearch,
+    etc. Prior experience in the cybersecurity or intelligence
+    fields.
+  
+  #LI-MP1
+  
+  #HTF
+  
+  This role will require the candidate to periodically undergo
+  and pass additional background and fingerprint check(s)
+  consistent with government customer requirements.
+  
+  Benefits of Working at CrowdStrike:
+  
+  - Market leader in compensation and equity awards
+  - Comprehensive physical and mental wellness programs
+  - Competitive vacation and holidays for recharge
+  - Paid parental and adoption leaves
+  - Professional development opportunities for all employees
+    regardless of level or role
+  - Employee Networks, geographic neighborhood groups, and
+    volunteer opportunities to build connections
+  - Vibrant office culture with world class amenities
+  - Great Place to Work Certified™ across the globe
+  
+  CrowdStrike is proud to be an equal opportunity employer. We
+  are committed to fostering a culture of belonging where
+  everyone is valued for who they are and empowered to
+  succeed. We support veterans and individuals with
+  disabilities through our affirmative action program.
+  
+  CrowdStrike is committed to providing equal employment
+  opportunity for all employees and applicants for employment.
+  The Company does not discriminate in employment
+  opportunities or practices on the basis of race, color,
+  creed, ethnicity, religion, sex (including pregnancy or
+  pregnancy-related medical conditions), sexual orientation,
+  gender identity, marital or family status, veteran status,
+  age, national origin, ancestry, physical disability
+  (including HIV and AIDS), mental disability, medical
+  condition, genetic information, membership or activity in a
+  local human rights commission, status with regard to public
+  assistance, or any other characteristic protected by law. We
+  base all employment decisions--including recruitment,
+  selection, training, compensation, benefits, discipline,
+  promotions, transfers, lay-offs, return from lay-off,
+  terminations and social/recreational programs--on valid job
+  requirements.
+  
+  If you need assistance accessing or reviewing the
+  information on this website or need help submitting an
+  application for employment or requesting an accommodation,
+  please contact us at recruiting@crowdstrike.com for further
+  assistance.
+  
+  Find out more about your rights as an applicant.
+  
+  CrowdStrike participates in the E-Verify program.
+  
+  Notice of E-Verify Participation
+  
+  Right to Work
+  
+  CrowdStrike, Inc. is committed to fair and equitable
+  compensation practices. Placement within the pay range is
+  dependent on a variety of factors including, but not limited
+  to, relevant work experience, skills, certifications, job
+  level, supervisory status, and location. The base salary
+  range for this position for all U.S. candidates is $140,000
+  - $215,000 per year, with eligibility for bonuses, equity
+  grants and a comprehensive benefits package that includes
+  health insurance, 401k and paid time off.
+  
+  For detailed information about the U.S. benefits package,
+  please click here.
+industries:
+  - Cloud
+  - Computer Vision
+  - Information Technology
+  - Sales
+  - Security
+  - Cybersecurity
+posted_date: 2026-04-09
+url: "https://builtin.com/job/sr-software-engineer-service-reliability-ai-detection-response/9005966"
+source: Built In

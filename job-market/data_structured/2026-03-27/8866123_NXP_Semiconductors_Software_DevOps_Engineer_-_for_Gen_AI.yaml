@@ -1,0 +1,47 @@
+company:
+  name: NXP Semiconductors
+  stage: Public
+  focus: Semiconductor manufacturing and technology solutions
+position:
+  title: Software DevOps Engineer - for Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is ai-first because the role requires 1+ year of
+      experience working with foundational LLM models including
+      deploying, fine-tuning, and integrating models into
+      production environments. The candidate must have hands-on
+      experience with Generative AI frameworks and directly
+      manipulating LLMs.
+  responsibilities:
+  - Develop, optimize, and maintain backend and frontend application code for generative
+    AI systems
+  - Validate and monitor solution quality across performance, reliability, and user
+    experience standards
+  - Establish best practices through documentation and training
+  - Design and develop scalable systems enabling production operation with minimal
+    human intervention
+  - Implement software systems supporting generative AI initiatives
+  - Ensure continuous delivery with small and frequent deployments
+  use_cases:
+  - Generative AI system deployment and integration
+  - Production LLM operations and fine-tuning
+  - Scalable AI infrastructure automation
+  - Enterprise AI application development
+  skills:
+    genai: [LLM deployment, LLM fine-tuning, Generative AI frameworks, Foundational
+        LLM models]
+    ml: []
+    web: [Node.JS, React.js]
+    databases: [Database management systems]
+    data: []
+    cloud: [AWS Lambda, AWS CloudFront, AWS S3, AWS EC2, AWS Bedrock]
+    ops: [CI/CD, Source control]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8866123'
+  extracted_at: '2026-03-27T14:24:11.531432'

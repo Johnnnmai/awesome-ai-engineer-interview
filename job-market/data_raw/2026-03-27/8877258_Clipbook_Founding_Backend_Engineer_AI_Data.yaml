@@ -1,0 +1,160 @@
+job_id: 8877258
+title: "Founding Backend Engineer – AI & Data"
+company: Clipbook
+location: USA
+work_type: FULL_TIME
+level: Senior level
+skills:
+  - AWS
+  - BigQuery
+  - Docker
+  - Flink
+  - GCP
+  - K8S
+  - Kafka
+  - Node.js
+  - Postgres
+  - Python
+description: |
+  About Clipbook
+  
+  Clipbook builds AI-powered media monitoring and analytics
+  tools for communications, PR, and public affairs teams. We
+  help them track, search, and make sense of coverage across
+  text, audio, and video.
+  
+  We launched in 2023 and have grown to 200+ clients including
+  BCG, Weber Shandwick, and dozens of government agencies. We
+  bootstrapped to seven-figures in ARR before raising a $3.3M
+  seed round (co-led by Mark Cuban). We plan to raise our
+  Series A this year and we are aiming for eight-figures
+  revenue by end of year.
+  
+  Our founding team has backgrounds at BCG, Bain, Harvard,
+  Stanford, Oxford, the White House, and Congress, and has
+  previously built startups backed by Sequoia, Tiger Global,
+  Insight Partners, Coatue, and NFX.
+  
+  The Role
+  
+  You'd be one of the first engineers at Clipbook — joining a
+  small but mighty engineering team with engineers from Meta,
+  Stripe, and AWS. You'll have real influence over
+  architecture and technical direction, and what you build
+  will ship to 200+ customers quickly.
+  
+  What You'll Do
+  
+  - Architect & build core backend systems. Drive architectural
+    decisions across our backend stack (Python, Node.js,
+    PostgreSQL). Own features from concept → deployment →
+    observing users rely on what you built. We're still laying
+    critical foundations, so we value a pragmatic, "strong
+    opinions, weakly held" mindset — especially when decisions
+    are expensive to unwind later.
+  - Design scalable data infrastructure. Build and maintain
+    pipelines for ingesting, normalizing, deduplicating,
+    indexing, and querying massive, multi-modal datasets
+    (text, audio, video) across news, social media, policy,
+    and more. A lot of this is normalization, deduplication,
+    and edge case handling.
+  - Integrate AI into real-world workflows. Put LLMs and ML
+    models into production for real workflows: RAG pipelines,
+    embeddings, prompt execution, agentic systems, fine-tuned
+    models. Production means reliable, monitored, and cost-
+    conscious.
+  - Design systems that scale. Build systems that will hold up
+    as we grow 10x, while being practical about what to invest
+    in now vs. what can wait.
+  - Develop performant APIs and services. Create robust
+    interfaces and internal services that power our product
+    end-to-end, ensuring reliability, security, and a seamless
+    experience for customers.
+  - Collaborate closely with users. Join customer calls, hear
+    what's working and what isn't, and build in response.
+    Rapidly iterate to deliver solutions that genuinely move
+    the needle for comms/public affairs teams.
+  - Shape Clipbook's engineering culture. As one of the first
+    engineers, you'll influence everything — code quality,
+    system design principles, documentation standards, and how
+    we build as a team. We believe leaders stay hands-on: even
+    as we grow, everyone (including managers) continues to
+    ship.
+  
+  What We're Looking For
+  
+  - 2–10+ years building and scaling production backend systems.
+    You've taken systems from zero to production and owned the
+    full lifecycle. Strong across backend fundamentals
+    (services, data models, distributed systems), with deeper
+    expertise in one or more areas — and a desire to keep
+    expanding your breadth over time.
+  - Genuine excitement to build quickly & ship fast. We care
+    about getting things into users' hands and iterating from
+    there.
+  - You take ownership. When something is broken or unclear, you
+    fix it or flag it without waiting to be asked.
+  - Comfortable with ambiguity. You make reasonable calls with
+    incomplete information, communicate them clearly, and
+    adjust as you learn more.
+  - Strong experience with cloud infrastructure,
+    containerization, and CI/CD. We're building systems that
+    will one day serve Fortune 500 executives in real-time —
+    so reliability matters. Familiarity with AWS/GCP,
+    containerization (Docker/K8s), and CI/CD pipelines ensures
+    we can deliver high uptime and iterate quickly.
+  - A future leader. You'll help shape our engineering culture
+    and can quickly grow into leadership as the company
+    scales.
+  
+  Technical Areas Where Depth Matters (one or more)
+  
+  - Data Engineering: Spark, Kafka, Flink, BigQuery, streaming
+    pipelines, ETL at scale.
+  - Distributed Systems: High-volume scaling, fault tolerance,
+    eventual consistency.
+  - AI/ML: LLMs in production, RAG, embeddings, fine-tuning,
+    inference optimization.
+  - Backend: Python, Node.js, PostgreSQL, high-concurrency
+    systems.
+  
+  Nice-to-Haves
+  
+  - Computer vision or multimodal model experience (audio,
+    video, image). This is central to our product, so it's a
+    meaningful differentiator.
+  - Semantic search, vector databases, or meaning-aware
+    retrieval.
+  - LLM fine-tuning, RLHF, or eval pipelines.
+  - Web scraping and API integrations at scale.
+  - Startup founder or early-stage experience is a huge plus.
+  
+  What This Role Is Not
+  
+  We're hiring for the application and data layer. This
+  probably isn't the right fit if your background is primarily
+  in firmware, embedded systems, hardware engineering,
+  networking, or infrastructure/DevOps.
+  
+  A Few Things Worth Knowing
+  
+  - We care more about what you ship than when or where you
+    work, but this is an early-stage company growing fast. The
+    pace reflects that. Our culture is intense and driven by
+    H&H (hunger and hustle).
+  - As one of the first engineers, you'll wear a lot of hats.
+    There's no platform team to hand things off to yet.
+  
+  Compensation & Benefits
+  
+  - Salary: $150K–$220K
+  - Equity: Early-stage grant with significant upside
+  - Benefits: Medical, dental, vision, 401(k), unlimited PTO
+  
+  Growth: A clear path to engineering leadership as we scale
+industries:
+  - Artificial Intelligence
+  - Marketing Tech
+posted_date: 2026-03-26
+url: "https://www.builtinla.com/job/founding-backend-engineer-ai-data/8877258"
+source: Built In

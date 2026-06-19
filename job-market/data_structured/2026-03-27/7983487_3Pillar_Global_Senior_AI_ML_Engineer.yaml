@@ -1,0 +1,48 @@
+company:
+  name: 3Pillar Global
+  stage: Unknown
+  focus: Software product development partner for digital businesses
+position:
+  title: Senior AI ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on LLM application development
+      using frameworks like LangChain, LlamaIndex, and agent-based
+      systems (Dify, Autogen Studio). The focus is on building,
+      implementing, and integrating LLM-based solutions including
+      workflow agents and prompt engineering.
+  responsibilities:
+  - Develop LLM-based applications using frameworks such as LangChain, LlamaIndex,
+    and Klu.AI
+  - Build and implement AI agents and workflow automation systems
+  - Design and execute prompt engineering strategies for LLM applications
+  - Integrate LLM solutions into client products and systems
+  - Develop APIs for AI/ML application interfaces
+  - Apply Product Mindset principles to build customer-facing, revenue-generating
+    digital products
+  - Ensure AI ethics compliance in implemented solutions
+  - Collaborate with global teams across industries including SaaS, Media, and Retail
+  use_cases:
+  - LLM-powered application development for enterprise clients
+  - AI agent workflow automation
+  - Customer-facing digital product development
+  - Revenue-generating AI solutions for SaaS and Media industries
+  - AI integration for Information Services and Retail sectors
+  skills:
+    genai: [LangChain, LlamaIndex, Klu.AI, Dify, Autogen Studio, LLM Application Development,
+      Workflow & Agents, Prompt Engineering, LLM Implementation and Integration]
+    ml: []
+    web: [API Development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [AI Ethics]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7983487'
+  extracted_at: '2026-03-27T13:52:58.315158'

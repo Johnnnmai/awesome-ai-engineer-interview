@@ -1,0 +1,48 @@
+company:
+  name: Five9
+  stage: Public
+  focus: Cloud contact center software provider
+position:
+  title: AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves implementing Intelligent Virtual Agents
+      (IVAs) and NLP engines like Google Dialogflow, Amazon Lex,
+      and IBM Watson for contact center solutions. The position
+      requires hands-on configuration and deployment of AI-powered
+      conversational systems directly for customers, making it ai-
+      first work on AI systems.
+  responsibilities:
+  - Engage with customers to understand their problems, needs, and goals
+  - Lead requirements gathering, configuration, solution testing, production rollout,
+    and adoption support
+  - Design and configure applications on the Five9 platform with integrations to third-party
+    platforms like Salesforce, Epic, ServiceNow, and HubSpot
+  - Deliver consulting engagements for enterprise customers
+  - Lead technical sessions and serve as trusted advisor to decision makers
+  - Handle pre-sales Statement of Work requests from creation to design document handoff
+  - Work with clients to gather business requirements and document target solutions
+  use_cases:
+  - Intelligent Virtual Agents (IVAs) for voice and digital channels
+  - Natural Language Processing for contact center automation
+  - Customer experience automation in contact centers
+  - Digital engagement across Email, Chat, and SMS channels
+  - Agent Assist platforms for contact center operations
+  skills:
+    genai: [Google Dialogflow, Amazon Lex, IBM Watson]
+    ml: [Natural Language Processing]
+    web: [REST, SOAP, JSON, XML]
+    databases: []
+    data: []
+    cloud: [Google Cloud Platform, Amazon Web Services, SaaS]
+    ops: []
+    languages: []
+    domains: []
+    other: [Five9 Virtual Contact Center, Salesforce, ServiceNow, HubSpot, VoIP, IVR,
+      CCaaS]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8463730'
+  extracted_at: '2026-03-03T12:30:29.801625'

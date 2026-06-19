@@ -1,0 +1,50 @@
+company:
+  name: Teleport
+  stage: null
+  focus: |-
+    Building AI-powered solutions and automating business
+    workflows on Google Cloud Platform
+position:
+  title: Gen AI Engineer / Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying
+      production GenAI applications including RAG pipelines, AI
+      agents, and intelligent assistants using Vertex AI and
+      Gemini models. The position requires hands-on implementation
+      of AI systems, not just API integrations or infrastructure
+      support.
+  responsibilities:
+  - Design and implement Generative AI applications using Vertex AI and Gemini models
+  - Build RAG pipelines integrating structured and unstructured data sources
+  - Develop AI agents for workflow automation and task orchestration
+  - Create intelligent assistants and automated decision systems
+  - Design data ingestion pipelines and work with embeddings, vector search, and knowledge
+    retrieval
+  - Automate product flows and operational processes using AI agents
+  - Deploy AI services on GCP using Cloud Run and APIs
+  - Evaluate model outputs and continuously improve performance
+  use_cases:
+  - Automating product workflows and operational processes
+  - Data-oriented problem solving using Generative AI
+  - Intelligent assistants for internal team data analysis and decision-making
+  - Business workflow simplification and manual operation reduction
+  - Document and knowledge retrieval systems
+  skills:
+    genai: [Gemini Models, RAG Architectures, AI Agents, LangChain, LlamaIndex, Prompt
+        Engineering, Embeddings, LLM APIs]
+    ml: []
+    web: []
+    databases: [SQL, NoSQL, Vector Databases, Pinecone, Weaviate, FAISS]
+    data: [ETL Systems, Data Pipelines]
+    cloud: [Google Cloud Platform (GCP), Vertex AI, Cloud Run]
+    ops: []
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8739019'
+  extracted_at: '2026-03-27T15:51:16.820259'

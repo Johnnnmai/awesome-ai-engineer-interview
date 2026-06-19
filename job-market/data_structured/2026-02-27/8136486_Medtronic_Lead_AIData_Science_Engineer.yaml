@@ -1,0 +1,54 @@
+company:
+  name: Medtronic
+  stage: Public
+  focus: Global healthcare technology and medical devices
+position:
+  title: Lead AI/Data Science Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, training, and
+      deploying deep learning/computer vision models for medical
+      imaging applications. The engineer will design AI pipelines,
+      implement state-of-the-art algorithms, and optimize models
+      for deployment - all hands-on work ON AI systems.
+  responsibilities:
+  - Collaborate with cross-functional teams including radiologists, clinical experts,
+    and product managers to define AI-powered solutions in medical imaging
+  - Lead the design and execution of advanced computer vision pipelines for image
+    segmentation, object detection, classification, and anomaly detection using medical
+    images (CT, MRI, X-ray, ultrasound)
+  - Drive preprocessing of large-scale medical image datasets, addressing noise reduction,
+    normalization, and domain-specific challenges
+  - Research, design, and implement state-of-the-art deep learning algorithms using
+    frameworks like TensorFlow and PyTorch for medical imaging use cases
+  - Ensure scalability and efficiency of AI models by optimizing them for deployment
+    on cloud and edge devices
+  - Perform rigorous validation and testing of models to meet regulatory and clinical
+    standards for safety and accuracy
+  - Mentor a team of data scientists and engineers, providing technical guidance and
+    fostering innovation
+  - Publish and present research findings in internal forums or relevant conferences
+  use_cases:
+  - Medical image segmentation and analysis for CT, MRI, X-ray, and ultrasound imaging
+  - Object detection and anomaly detection in medical imaging
+  - Classification of medical images for diagnostic support
+  - Transforming image data into actionable clinical insights
+  - Advanced medical device development powered by computer vision
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, Deep Learning, Image Segmentation, Object Detection,
+      Data Augmentation, Generative Models]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud Deployment]
+    ops: [Edge Computing]
+    languages: [Python]
+    domains: [Computer Vision, Medical Imaging]
+    other: [DICOM, PACS systems]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8136486'
+  extracted_at: '2026-03-03T11:18:38.774371'

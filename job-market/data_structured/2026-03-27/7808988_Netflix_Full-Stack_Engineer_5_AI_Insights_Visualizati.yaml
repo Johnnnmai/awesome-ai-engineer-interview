@@ -1,0 +1,50 @@
+company:
+  name: Netflix
+  stage: Public
+  focus: |-
+    Streaming entertainment platform with AI/ML-powered
+    personalization
+position:
+  title: Full-Stack Engineer 5 –  AI Insights & Visualizations, AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack engineering role focused on building UI
+      tools and platforms FOR ML practitioners to visualize and
+      monitor models, not on building/deploying the AI/ML models
+      themselves. The work involves creating observability
+      dashboards and internal tools that enable others to work
+      with AI/ML systems.
+  responsibilities:
+  - Design and build web-based internal tools and platforms for AI/ML practitioners
+    to visualize, monitor, and operate AI/ML models and pipelines
+  - Build and improve dashboards for model observability, anomaly and drift detection,
+    cost monitoring, and system health
+  - Collaborate with users and stakeholders to gather feedback and deliver intuitive
+    user experiences
+  - Continuously improve systems, codebase, and team processes while introducing best
+    practices in full-stack development
+  - Partner with engineering, product, and research teams across multiple time zones
+    to deliver impactful solutions
+  use_cases:
+  - ML model observability and monitoring dashboards
+  - Visualization tools for AI/ML practitioners
+  - Anomaly and drift detection for production models
+  - Cost monitoring for ML infrastructure
+  - Platform tools for model lifecycle management
+  skills:
+    genai: []
+    ml: []
+    web: [React, Node.js, Spring Boot]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [ML model lifecycle management, Logging and metrics]
+    languages: [TypeScript, JavaScript, Java, Scala]
+    domains: []
+    other: [Data visualization]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7808988'
+  extracted_at: '2026-03-27T15:24:14.494112'

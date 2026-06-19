@@ -1,0 +1,60 @@
+company:
+  name: Infrrd
+  stage: Profitable/Independent (since 2016)
+  focus: |-
+    Enterprise AI for automated data extraction from complex
+    documents
+position:
+  title: Senior AI Systems Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly builds LLM-based
+      extraction/classification pipelines, agentic evaluation
+      pipelines, and RAG strategies. The engineer designs and
+      implements prompt variant testing, A/B measurement for model
+      changes, and automated feedback loops — all hands-on work
+      building and deploying AI systems.
+  responsibilities:
+  - Design and build agentic evaluation pipelines for error detection, root cause
+    analysis, hypothesis generation, prompt variant testing, A/B measurement, and
+    production promotion
+  - Own the accuracy measurement infrastructure including automated error analysis,
+    data quality pipelines, and batch evaluation frameworks across document types
+  - Build and evolve internal accuracy tooling from manual utilities into automated
+    improvement platforms with classification and extraction correction loops
+  - Build LLM-based extraction and classification pipelines using few-shot and RAG
+    strategies for complex document types
+  - Design and maintain A/B testing infrastructure for prompt and model changes to
+    ensure no untested changes reach production
+  - Create live dashboards tracking extraction accuracy, NTP rates, and false positive
+    rates across document types and customer configurations
+  - Optimize LLM costs through prompt compression, output token minimization, model
+    selection and migration strategies
+  - Mentor 1-2 junior engineers and build tooling and documentation they can operate
+    independently
+  use_cases:
+  - Automated data extraction from complex documents (invoices, contracts, insurance
+    claims)
+  - Document classification with large label spaces (50+ classes)
+  - Agentic evaluation and automated accuracy improvement for document AI pipelines
+  - A/B testing and production promotion of LLM prompt and model changes
+  - Intelligent internal tooling for classification and extraction correction loops
+  - Cost optimization of LLM-based document processing at enterprise scale
+  skills:
+    genai: [LangChain, LlamaIndex, OpenAI API, Anthropic API, Gemini API, RAG, Prompt
+        Engineering, Agentic Pipelines, Few-shot Learning]
+    ml: [Evaluation Metrics (Precision/Recall/F1), Embedding Models]
+    web: [FastAPI, Flask, REST APIs]
+    databases: [MongoDB, Pinecone, Weaviate, Vector Databases]
+    data: [Pandas, NumPy]
+    cloud: [AWS Bedrock]
+    ops: [Pytest, Docker, Git, GitHub Actions, Jenkins, CI/CD]
+    languages: [Python, AsyncIO]
+    domains: [NLP, Document AI]
+    other: [OCR, PDF Parsing, A/B Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9123062'
+  extracted_at: '2026-04-22T12:36:09.114394'

@@ -1,0 +1,51 @@
+company:
+  name: InsightNext
+  stage: null
+  focus: AI consulting firm delivering enterprise AI solutions on GCP
+position:
+  title: Artificial Intelligence Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building, fine-tuning, and
+      deploying AI/ML models and generative AI solutions using
+      Gemini Enterprise, Vertex AI, and frameworks like PyTorch.
+      The engineer works hands-on across the full AI delivery
+      lifecycle including model development, fine-tuning, and
+      inference — clearly placing it in the ai-first category.
+  responsibilities:
+  - Build and integrate AI solutions using Gemini Enterprise, Vertex AI Agent Builder,
+    and Gemini API to address client business needs
+  - Develop, fine-tune, and evaluate machine learning models using PyTorch and Scikit-Learn
+  - Design and implement data pipelines and preprocessing workflows for model training
+    and inference
+  - Deploy and monitor models on GCP using Vertex AI, tracking performance and flagging
+    data drift or degradation
+  - Build Gemini-powered applications including search, summarization, and Q&A systems
+    using structured and unstructured data
+  - Collaborate with client-facing team members on requirements gathering and solution
+    design
+  - Stay current with Gemini ecosystem and generative AI developments to bring new
+    ideas to the team
+  use_cases:
+  - Enterprise search powered by Gemini
+  - Document summarization systems
+  - Q&A systems over enterprise data
+  - Multimodal AI applications processing text, documents, and other inputs
+  - Client-specific AI solutions addressing real business needs
+  skills:
+    genai: [Gemini API, Vertex AI Agent Builder, Prompt Engineering, RAG]
+    ml: [PyTorch, Scikit-Learn, Model Fine-Tuning, Model Evaluation]
+    web: []
+    databases: []
+    data: [Data Pipelines, ETL]
+    cloud: [Google Cloud Platform (GCP), Vertex AI]
+    ops: [Docker, Model Monitoring]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8916754'
+  extracted_at: '2026-04-22T14:07:00.699271'

@@ -1,0 +1,57 @@
+company:
+  name: GSK
+  stage: Public
+  focus: |-
+    Global biopharma company discovering and developing
+    medicines and vaccines
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI/ML engineering role focused on
+      building, training, and deploying ML models and LLM-based
+      systems including agentic AI and multi-agent architectures.
+      The role involves direct model development (NLP/LLM,
+      knowledge graphs, CV, predictive modeling) and production
+      deployment, not just supporting infrastructure for others.
+  responsibilities:
+  - Provide tailored guidance to business units on AI/ML use cases, feasibility, model
+    selection, and deployment options in scientific domains
+  - Co-design prototypes and proof-of-concepts with product and domain teams to validate
+    ideas and de-risk investments
+  - Build, train, evaluate, and iterate on ML models for scientific and business problems
+    including NLP/LLM, knowledge graphs, causal inference, computer vision, and predictive
+    modeling
+  - Package trained models into production-ready services (APIs, containerized deployments)
+    using cloud infrastructure
+  - Develop and maintain agentic AI systems, multi-agent architectures, and LLM-based
+    tools
+  - Run workshops and training sessions to increase AI literacy across the organization
+  - Embed within business/research units for time-limited engagements to accelerate
+    delivery and transfer skills
+  - Embed privacy, ethics, and regulatory considerations into every engagement
+  use_cases:
+  - Drug discovery acceleration and optimization
+  - Clinical data analysis and predictive modeling
+  - Genomics and biological data analysis
+  - Knowledge graph construction for scientific domains
+  - NLP/LLM applications for scientific research
+  - Computer vision for biomedical imaging and analysis
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, RAG, LLM applications, agentic AI, multi-agent
+        architectures]
+    ml: [PyTorch, TensorFlow, JAX, scikit-learn, knowledge graphs, causal inference]
+    web: []
+    databases: []
+    data: [pandas, numpy]
+    cloud: [GCP, AWS, Azure]
+    ops: [Docker, Kubernetes, MLflow, Weights & Biases, Git, CI/CD]
+    languages: [Python, SQL]
+    domains: [NLP, computer vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8677286'
+  extracted_at: '2026-03-27T15:34:52.391193'

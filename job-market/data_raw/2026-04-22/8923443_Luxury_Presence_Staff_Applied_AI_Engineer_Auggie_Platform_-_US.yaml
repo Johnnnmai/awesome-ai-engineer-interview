@@ -1,0 +1,141 @@
+job_id: 8923443
+title: Staff Applied AI Engineer — Auggie Platform - US (Remote)
+company: Luxury Presence
+location: USA
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Anthropic Claude
+  - AWS
+  - Kubernetes
+  - Langgraph
+  - Mcp
+  - Node.js
+  - Postgres
+  - Python
+  - Redis
+  - Sqs
+description: |
+  Luxury Presence is building the AI growth platform for real
+  estate. Backed by Bessemer Venture Partners and other top
+  investors, we're a Series C company on track to hit $100M in
+  annual recurring revenue in the next six months. More than
+  87,000 real estate professionals, including over 30% of the
+  WSJ Real Trends top 100 agents in the United States, use us
+  to run and grow their business.
+  
+  The Opportunity
+  
+  We don't just use AI. We build with it, ship with it, and
+  think with it. We're in the top 1% of companies applying AI
+  effectively, not just to our products, but to how we build
+  them. With an unlimited budget for Anthropic tokens, our
+  engineers use AI agents to write, review, and ship
+  production code every day. We're building toward a world
+  where humans design systems and AI builds them, and we're
+  already further along that path than almost anyone else.
+  
+  As a Staff Software Engineer, you'll be a technical leader
+  at the center of this transformation. You'll shape platform
+  architecture, drive AI-powered product delivery, and raise
+  the bar for what a small, AI-augmented engineering team can
+  accomplish. This is a role for someone who already lives in
+  their terminal with AI, who has strong opinions about how AI
+  changes system design, and who wants to help define what a
+  next-generation engineering organization looks like.
+  
+  What You'll Do as a Staff Engineer on Our Auggie Platform
+  Team
+  
+  Here are examples of the kinds of initiatives you'd work on
+  today:
+  
+  Multi-agent orchestration and execution. Design and build
+  the core systems that let multiple autonomous agents
+  collaborate, delegate, and execute complex business
+  workflows in production — not chatbot interactions, but
+  structured multi-step operations running across real
+  business data.
+  
+  Autonomous workflow automation. Build the automation layer
+  that turns business processes into agent-driven workflows
+  with structured data models, conditional logic, and human-
+  in-the-loop review queues that keep autonomous systems safe
+  and reliable.
+  
+  Auto-generated application UIs. Architect the systems that
+  dynamically generate functional user interfaces from agent
+  outputs and structured data models, letting non-technical
+  users interact with AI-powered applications without writing
+  code.
+  
+  Platform integration and MCP infrastructure. Own the
+  integration layer connecting Auggie to internal and external
+  systems — building MCP servers, managing agent-to-system
+  communication, and enabling the platform to operate across
+  tools like Slack, Notion, Salesforce, and custom data
+  sources.
+  
+  What We're Looking For
+  
+  Attributes
+  
+  Skills and Experience
+  
+  Tech Stack
+  
+  - Backend: Node/TypeScript, Python
+  - AI: Anthropic Claude, MCP, LangGraph
+  - Data: Postgres, Redis, SQS
+  - Infrastructure: AWS, Kubernetes, Temporal
+  
+  Join us in shaping the future of real estate
+  
+  The real estate industry is in the midst of a seismic shift,
+  and the future belongs to those who break new ground. As one
+  of the fastest-growing companies in the proptech and
+  marketing sectors, Luxury Presence challenges the status quo
+  of what technology can do for real estate agents, leaders,
+  and brokerages.
+  
+  We're a team of agile and tenacious innovators working
+  collaboratively to drive the industry forward. Together, we
+  build game-changing products that empower modern real estate
+  entrepreneurs to dominate their markets. From award-winning
+  web design to agile SEO solutions to cutting-edge AI tools,
+  we deliver tech that anticipates market shifts and keeps our
+  clients ahead of their competition.
+  
+  Founded in 2016 by Stanford Business School alum Malte
+  Kramer, Luxury Presence has grown to a global team ranked on
+  the Inc. 5000 fastest-growing companies list three years in
+  a row. We're backed by world-class investors, including
+  Bessemer Venture Partners, NextEquity Partners, Toba
+  Capital, and Switch Ventures, and have raised $89 million to
+  date.
+  
+  More than 18,000 real estate businesses rely on our
+  platform, including 30% of the Wall Street Journal
+  RealTrends top agents and teams. Additionally, many of the
+  industry's most powerful brokerages rely on Luxury Presence
+  as a trusted business partner.
+  
+  Every year since 2020, Luxury Presence has ranked on
+  BuiltIn's Best Place to Work lists. HousingWire named our
+  founder and CEO a 2024 Tech Trendsetter, we've received
+  several Tech100 Awards, and we just scored an Inman
+  Innovation Award for Best AI-Powered Platform.
+  
+  Luxury Presence is an Equal Opportunity Employer. All
+  qualified applicants will receive consideration for
+  employment without regard to race, color, religion, sex,
+  sexual orientation, gender identity, or national origin.
+industries:
+  - Marketing Tech
+  - Real Estate
+  - Software
+  - PropTech
+  - SEO
+posted_date: 2026-04-01
+url: "https://www.builtinla.com/job/staff-applied-ai-engineer-auggie-platform-us-remote/8923443"
+source: Built In

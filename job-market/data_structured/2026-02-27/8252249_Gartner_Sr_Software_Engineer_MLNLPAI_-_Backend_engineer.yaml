@@ -1,0 +1,57 @@
+company:
+  name: Gartner
+  stage: Public
+  focus: |-
+    Research and advisory company providing business and
+    technology insights to enterprise leaders
+position:
+  title: Sr Software Engineer (ML/NLP/AI - Backend engineer - 4to6yrs - Chennai)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on integration of LLMs and
+      multimodal models into backend services, implementing MCP
+      servers for AI agents, prompt engineering, LLM fine-tuning,
+      and building AI agent architectures. The engineer works
+      directly on deploying and optimizing AI models, not just
+      supporting infrastructure for others.
+  responsibilities:
+  - Design, develop, and deploy scalable backend systems for AI-powered applications
+    using Python and cloud providers
+  - Design and implement Model Context Protocol (MCP) servers to enable integration
+    between AI agents, enterprise systems, and external tools
+  - Design and implement APIs and microservices to support machine learning workflows,
+    real-time inference, and data integration
+  - Integrate machine learning and generative AI models (LLMs, multimodal models)
+    into backend services and business applications
+  - Build and maintain data pipelines, ETL/ELT processes, and event-driven architectures
+    for data flow and model training
+  - Develop automation tools and scripts for model lifecycle management, monitoring,
+    and CI/CD
+  - Collaborate with data scientists, ML engineers, and platform teams to deploy,
+    monitor, and optimize AI models in production
+  - Research and evaluate emerging AI technologies to drive innovation and improve
+    system performance
+  use_cases:
+  - Conversational AI systems and chatbots
+  - AI agent architectures and orchestration
+  - Search and recommendation systems
+  - Enterprise AI integration with business applications
+  - Retrieval-augmented generation (RAG) implementations
+  skills:
+    genai: [LLMs, Generative AI, Prompt engineering, LLM fine-tuning, Model Context
+        Protocol, AI agents, Conversational AI, Chatbots, RAG]
+    ml: []
+    web: [FastAPI, Flask, API development, Microservices]
+    databases: [Vector databases]
+    data: [ETL/ELT, Airflow, Prefect]
+    cloud: [AWS, Azure, SageMaker, Bedrock]
+    ops: [CI/CD, Azure DevOps, AWS DevOps, MLflow]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8252249'
+  extracted_at: '2026-03-03T12:32:10.421949'

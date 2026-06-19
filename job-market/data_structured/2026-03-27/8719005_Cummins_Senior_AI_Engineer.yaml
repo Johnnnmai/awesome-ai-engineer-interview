@@ -1,0 +1,47 @@
+company:
+  name: Cummins
+  stage: Public
+  focus: Manufacturing engines and power generation equipment
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work building and
+      deploying AI systems, including agent-based architectures
+      using LangChain/LangGraph, LLM optimization with
+      quantization and pruning, and implementing agentic
+      workflows. The position requires building GenAI/Agentic AI
+      solutions, not just supporting them.
+  responsibilities:
+  - Design and deploy agent-based systems using LangChain, LlamaIndex, LangGraph,
+    CrewAI, and AutoGen
+  - Optimize LLM performance using quantization, model pruning, and cloud-native deployment
+  - Implement and orchestrate tools, memory, and planning components in agent workflows
+  - Implement tracing, logging, and monitoring for agent decisions to ensure transparency
+  - Create technical specifications and solution designs for IT systems
+  - Lead POCs and MVPs for business AI solutions
+  - Provide level 3 support for critical issues
+  use_cases:
+  - Agentic AI solutions for manufacturing domain
+  - GenAI solutions with PLM integration (Windchill)
+  - Enterprise AI assistants and copilots
+  - High-throughput LLM deployment
+  - NLP and computer vision applications
+  skills:
+    genai: [LangChain, LlamaIndex, LangGraph, CrewAI, AutoGen, Semantic Kernel, Copilot,
+      ChatGPT, Open Source Models, Agent orchestration]
+    ml: [Deep Learning, Model quantization, Model pruning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Evaluation & observability]
+    languages: [Python, Java, SQL]
+    domains: [NLP, Computer Vision]
+    other: [Windchill PLM]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8719005'
+  extracted_at: '2026-03-27T15:01:51.002651'

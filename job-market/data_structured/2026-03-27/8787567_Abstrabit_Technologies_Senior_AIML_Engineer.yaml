@@ -1,0 +1,55 @@
+company:
+  name: Abstrabit Technologies
+  stage: null
+  focus: |-
+    Building intelligent AI agents for customer engagement,
+    sales automation, knowledge management and workflow
+    optimization
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly focused on building, designing, and
+      deploying AI agent systems. Key responsibilities include
+      designing multi-agent architectures, implementing advanced
+      reasoning patterns, fine-tuning models, and building
+      production-grade AI agent solutions with RAG systems.
+  responsibilities:
+  - Design multi-agent architectures including supervisor, hierarchical, and collaborative
+    patterns
+  - Build fault-tolerant production-grade agent systems with error recovery, fallback
+    strategies, and human-in-the-loop escalation
+  - Architect scalable RAG systems with hybrid search, query decomposition, and agentic
+    retrieval
+  - Design agent evaluation and benchmarking frameworks from scratch
+  - Implement advanced reasoning patterns including ReAct, reflection, tree-of-thought,
+    and self-critique loops
+  - Develop multi-modal agents with vision, audio, and document understanding capabilities
+  - Build custom tool ecosystems including MCP servers, plugin architectures, and
+    dynamic tool selection
+  - Fine-tune and distill models for domain-specific agent behaviors
+  use_cases:
+  - Customer engagement automation
+  - Sales automation
+  - Knowledge management
+  - Workflow optimization
+  - Document understanding and processing
+  - Multi-modal AI applications
+  skills:
+    genai: [LangChain, LangGraph, RAG, Multi-agent systems, MCP servers, ReAct reasoning,
+      Prompt engineering]
+    ml: [Model fine-tuning, Model distillation]
+    web: []
+    databases: [Vector databases]
+    data: [Knowledge graphs]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [System design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8787567'
+  extracted_at: '2026-03-27T14:16:57.399806'

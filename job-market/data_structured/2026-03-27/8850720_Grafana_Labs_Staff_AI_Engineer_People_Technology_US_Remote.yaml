@@ -1,0 +1,58 @@
+company:
+  name: Grafana Labs
+  stage: Series C+
+  focus: |-
+    Open-source observability and monitoring platform with
+    Grafana LGTM Stack
+position:
+  title: Staff AI Engineer, People Technology | US | Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves architecting and implementing AI-driven
+      solutions including LLM-based systems, AI-powered workflows,
+      agents, and prompt engineering standards. The position
+      requires hands-on work building AI systems that operate on
+      People data, including defining prompt engineering standards
+      and evaluation frameworks for LLM-based systems. This is
+      direct work ON AI systems, not support work.
+  responsibilities:
+  - Design and build AI-powered workflows, agents, and analytics tools that transform
+    People data into actionable insights
+  - Architect solutions leveraging BigQuery integrating platforms like Workday, Greenhouse,
+    Docebo, Tangelo, and Salesforce
+  - Establish CI/CD pipelines, testing frameworks, and observability standards for
+    AI systems and automated workflows
+  - Define prompt engineering standards, version control practices, and evaluation
+    frameworks for LLM-based systems
+  - Build internal dashboards, AI assistants, or automated workflows supporting reporting
+    and operational efficiency
+  - Design systems with anonymization, aggregation, and robust access controls for
+    sensitive employee data
+  - Establish governance standards for AI models, prompts, and automation workflows
+    ensuring compliance
+  - Partner with Data Engineering and cross-functional teams to align data architecture
+    and AI capabilities
+  use_cases:
+  - People analytics and workforce intelligence from HR data
+  - Automated workflows for hiring, onboarding, and employee development
+  - AI assistants and copilots for People Operations teams
+  - Data-driven insights for workforce planning and talent decisions
+  - Operational efficiency automation across People systems
+  skills:
+    genai: [OpenAI API, Google Gemini, Claude API, LLM platforms, Prompt engineering,
+      AI agents]
+    ml: []
+    web: [REST APIs]
+    databases: [BigQuery]
+    data: [ETL/ELT pipelines, Data modeling]
+    cloud: [Google Cloud Platform]
+    ops: [CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: [Workday, Greenhouse, Salesforce, Workflow automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8850720'
+  extracted_at: '2026-03-27T14:30:08.789247'

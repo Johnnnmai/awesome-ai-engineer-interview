@@ -1,0 +1,49 @@
+company:
+  name: Future (futureplc.com)
+  stage: Public
+  focus: Global specialist media company with 200+ media brands
+position:
+  title: AI Engineer, Email CRM
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying recommender
+      systems and personalization engines, which are core ML
+      systems. The engineer will work directly on the "Advisor" AI
+      recommendation engine, wrapping models in APIs for real-time
+      inference, and implementing "Next Best Action" decision-
+      making at scale.
+  responsibilities:
+  - Bring intelligence to email marketing by optimizing and integrating Advisor, Future's
+    proprietary AI recommendation engine
+  - Ensure all emails contain hyper-personalized content tailored to individual user
+    interests and behaviors
+  - Bridge the gap between Single Customer View (SCV) data and final email content
+  - Enable 'Next Best Action' decision-making at scale for email marketing
+  - Build and deploy machine learning models for recommender systems and personalization
+  - Wrap ML models in performant APIs for real-time inference during email assembly
+  - Work with Full Stack Developers and Data Engineers to deliver AI-powered email
+    solutions
+  use_cases:
+  - Hyper-personalized email content recommendations
+  - Newsletter and marketing email optimization
+  - Next Best Action decision-making for customer engagement
+  - Recommender systems for content personalization
+  - Real-time inference for email content assembly
+  skills:
+    genai: []
+    ml: [collaborative filtering, content-based filtering, recommender systems, personalization
+        engines, scikit-learn, TensorFlow, PyTorch]
+    web: [FastAPI, Flask]
+    databases: [BigQuery]
+    data: [Pandas, NumPy]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8848443'
+  extracted_at: '2026-03-27T14:37:39.927498'

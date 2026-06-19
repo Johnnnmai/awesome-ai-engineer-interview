@@ -1,0 +1,53 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Legal, tax, accounting, compliance information services and
+    software
+position:
+  title: Senior Software Engineer, AI I
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI
+      systems including RAG, custom AI agents with multi-step
+      reasoning, and multi-component AI pipelines. The position
+      requires hands-on work integrating AI models into production
+      and implementing MLOps/LLMOps practices, which is core AI/ML
+      engineering work.
+  responsibilities:
+  - Architect and implement advanced AI systems including multi-component pipelines,
+    RAG, and custom AI agents with multi-step reasoning
+  - Integrate AI models into production software through robust APIs and scalable
+    data pipelines
+  - Adapt AI models and techniques to specialized domains for expert systems in legal,
+    tax, and compliance
+  - Evaluate and prototype cutting-edge AI techniques to solve business challenges
+  - Contribute to MLOps and LLMOps practices in both design and implementation
+  - Implement comprehensive testing frameworks and monitoring systems for AI model
+    performance
+  - Optimize AI system performance considering latency and resource usage
+  - Mentor junior engineers and facilitate technical discussions
+  use_cases:
+  - Intelligent systems for legal professionals
+  - Expert solutions for tax and accounting domains
+  - Risk and compliance analysis and automation
+  - Multi-step reasoning for complex professional workflows
+  - AI-powered search and information retrieval
+  - Custom AI agents for domain-specific tasks
+  skills:
+    genai: [RAG, AI agents, OpenAI APIs, Anthropic APIs, multi-step reasoning, embeddings]
+    ml: [PyTorch, TensorFlow, machine learning]
+    web: [FastAPI, REST APIs]
+    databases: [vector databases]
+    data: [data pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, MLOps, LLMOps]
+    languages: [Python]
+    domains: [legal domain, tax domain, accounting domain]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7520478'
+  extracted_at: '2026-03-03T11:43:07.946550'

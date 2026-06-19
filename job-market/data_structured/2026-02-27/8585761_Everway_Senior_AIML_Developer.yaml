@@ -1,0 +1,52 @@
+company:
+  name: Everway
+  stage: Growth (600+ employees)
+  focus: Neurotechnology software helping understand and communicate
+position:
+  title: Senior AI/ML Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is building AI systems directly - MCP servers,
+      agentic workflows, and LLM integrations. The engineer is
+      hands-on with AI/LLM technology, not just supporting
+      infrastructure for ML teams. While it's internal tooling,
+      they're deploying and orchestrating AI agents, which
+      qualifies as ai-first.
+  responsibilities:
+  - Build and maintain Model Context Protocol (MCP) servers that securely connect
+    LLMs to enterprise systems including Salesforce, HubSpot, Snowflake, Google Workspace,
+    and internal APIs
+  - Develop and ship production-grade agentic workflows with appropriate orchestration,
+    guardrails, and observability
+  - Build robust, secure integrations between AI systems and enterprise tools, handling
+    authentication, rate limiting, and data governance requirements
+  - Work with teams across Sales, Marketing, Operations, and Customer Success to understand
+    automation needs and deliver solutions
+  - Create technical documentation and reusable patterns that enable broader AI adoption
+    across engineering teams
+  - Help recruit and mentor team members to expand AI Enablement capabilities as the
+    function scales
+  use_cases:
+  - Enterprise AI integration connecting LLMs to business systems via MCP
+  - Business process automation across sales, marketing, customer success, and operations
+    using agentic workflows
+  - Internal AI enablement serving 400+ weekly active users and 250M+ end users
+  - Secure LLM-to-enterprise-system connectivity with proper governance
+  skills:
+    genai: [MCP (Model Context Protocol), LangGraph, CrewAI, Agentic AI systems, 'LLM
+        providers (OpenAI, Anthropic, AWS Bedrock)']
+    ml: []
+    web: [API development, Salesforce API, HubSpot API, Google Workspace API]
+    databases: [Snowflake]
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, Docker, Containerization, Testing]
+    languages: [Python, Async programming]
+    domains: []
+    other: [AI governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8585761'
+  extracted_at: '2026-03-03T11:19:48.206885'

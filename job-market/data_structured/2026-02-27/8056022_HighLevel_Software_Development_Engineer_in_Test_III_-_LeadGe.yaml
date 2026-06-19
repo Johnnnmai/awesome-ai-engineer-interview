@@ -1,0 +1,52 @@
+company:
+  name: HighLevel
+  stage: Series B+
+  focus: |-
+    AI-powered white-label sales & marketing platform for
+    agencies and businesses
+position:
+  title: Software Development Engineer in Test III - LeadGen AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an SDET/QA role focused on testing AI-powered
+      products, not building or deploying AI systems. The role
+      involves validating AI/LLM-powered features and using AI-
+      driven testing techniques, but the primary work is quality
+      assurance and test automation, not hands-on AI/ML
+      development.
+  responsibilities:
+  - Validate complex system workflows across UI, API, and backend layers for release
+    quality
+  - Enhance and maintain Playwright automation framework for UI/API coverage
+  - Build internal QA tools and improve test data workflows for CI/CD quality gates
+  - Develop and maintain test infrastructure for containerized environments (Docker,
+    Kubernetes)
+  - Conduct performance, load, and scalability testing for high-traffic services using
+    k6
+  - Collaborate with engineering, product, and design teams to embed quality early
+  - Analyze failures across distributed systems using observability platforms
+  - Advocate for shift-left quality and influence system design for better testability
+  use_cases:
+  - Testing and validating AI-powered sales & marketing platform features
+  - Quality assurance for LeadGen AI product capabilities
+  - Performance testing for high-traffic distributed systems handling billions of
+    API calls
+  - Test automation for white-label platform serving agencies and businesses
+  skills:
+    genai: [LLM-based test generation, AI-driven testing]
+    ml: []
+    web: [Playwright, REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, k6, Locust, JMeter, Grafana, Prometheus, ELK Stack,
+      OpenTelemetry, CI/CD]
+    languages: [TypeScript, JavaScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8056022'
+  extracted_at: '2026-03-03T12:25:23.296410'

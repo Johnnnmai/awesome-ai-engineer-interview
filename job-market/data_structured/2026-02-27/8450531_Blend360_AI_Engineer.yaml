@@ -1,0 +1,58 @@
+company:
+  name: Blend360
+  stage: Unknown
+  focus: |-
+    AI services provider offering data science, AI, and
+    technology consulting solutions
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves designing, implementing, and
+      deploying AI/ML solutions including LLM-powered features,
+      fine-tuning, RAG systems, and model training. The position
+      requires hands-on work with Azure ML, Azure OpenAI, and
+      frameworks like LangChain/LangGraph for building production
+      AI systems.
+  responsibilities:
+  - Architect and lead design and implementation of AI/ML solutions on Azure Cloud
+    including Azure Machine Learning, Azure Databricks, Synapse, Azure AI Foundry,
+    and Microsoft Fabric
+  - Define end-to-end AI architecture encompassing data pipelines, feature stores,
+    model training, deployment, and monitoring
+  - Design scalable and secure architectures with best practices in data governance,
+    MLOps, LLMOps, and cost optimization
+  - Integrate Microsoft Fabric as unified data foundation for AI workloads ensuring
+    governed data access and lineage
+  - Lead MLOps initiatives including model CI/CD, versioning, monitoring, and drift
+    detection using Azure DevOps and Azure ML Pipelines
+  - Develop and deploy LLM-powered features into production systems with robust APIs
+  - Evaluate and implement Generative AI and LLM-based solutions using Azure OpenAI,
+    Cognitive Services, LangChain, and LangGraph
+  - Establish observability and monitoring frameworks using Azure Monitor, Application
+    Insights, MLflow, and Databricks dashboards
+  use_cases:
+  - Enterprise-grade AI solution implementation for client organizations
+  - LLM-powered features and services deployment
+  - MLOps and LLMOps automation for production AI workloads
+  - Data-driven AI architecture with unified data foundation
+  - Generative AI solution integration with enterprise applications
+  skills:
+    genai: [LangChain, LangGraph, Prompt Engineering, LLM Fine-tuning, RAG]
+    ml: [PyTorch, TensorFlow, Scikit-learn]
+    web: []
+    databases: []
+    data: [Azure Data Factory, Feature Stores]
+    cloud: [Azure Machine Learning, Azure Databricks, Microsoft Fabric, Azure AI Foundry,
+      Azure Cognitive Services, Azure OpenAI, Azure Synapse, Azure Data Lake]
+    ops: [MLflow, Weights & Biases, Docker, Kubernetes, Azure DevOps, Azure Monitor,
+      Application Insights, MLOps, LLMOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8450531'
+  extracted_at: '2026-03-03T12:42:42.071166'

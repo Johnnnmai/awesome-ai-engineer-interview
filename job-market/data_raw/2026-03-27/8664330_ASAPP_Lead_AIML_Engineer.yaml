@@ -1,0 +1,152 @@
+job_id: 8664330
+title: Lead AI/ML Engineer
+company: ASAPP
+location: 
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Docker
+  - Kubernetes
+  - Python
+  - PyTorch
+  - TensorFlow
+company_size: 389 Employees
+description: |
+  At ASAPP, our mission is simple: deliver the best AI-powered
+  customer experience—faster than anyone else. To achieve
+  that, we’re guided by principles that shape how we think,
+  build, and execute. We value customer obsession, purposeful
+  speed, ownership, and a relentless focus on outcomes.
+  ASAPP’s AI Engineering team is seeking an enterprising,
+  talented and curious machine learning engineer.
+  
+  We are seeking a highly experienced Lead AI/ML Engineer to
+  join our Core GenerativeAgent team. You will play a pivotal
+  role in designing, building, and deploying cutting-edge AI
+  systems that power mission-critical enterprise applications.
+  This role is ideal for an individual who thrives in
+  ambiguity, is deeply technical, and has a strong product
+  sense paired with deep expertise in foundational models and
+  enterprise AI systems.
+  
+  You will lead the design and delivery of end-to-end voice AI
+  solutions, combining large language models with speech
+  technologies such as speech-to-text, text-to-speech, and
+  real-time streaming audio pipelines. This role requires a
+  hands-on technical leader who can architect low-latency,
+  highly reliable conversational voice systems and guide a
+  team through ambiguity toward production excellence.
+  
+  We are looking for someone who understands the unique
+  constraints of voice experiences, latency, turn-taking,
+  interruption handling, streaming inference, and audio
+  quality, and can translate these into scalable, enterprise-
+  grade systems.
+  
+  This is a hybrid role with weekly in-person
+  responsibilities. We have offices in New York City and
+  Mountain View, CA
+  
+  What you'll do
+  
+  - Build real-time conversational AI systems, including voice
+    interfaces powered by speech-to-text, text-to-speech, and
+    streaming inference pipelines
+  - Design and optimize low-latency inference workflows for
+    multimodal applications involving text, speech, and real-
+    time interactions
+  - Integrate and apply foundation models from major providers
+    (OpenAI, AWS Bedrock, Anthropic, etc.) for prototyping and
+    production use cases
+  - Adapt, evaluate, and optimize LLMs for domain-specific
+    enterprise applications
+  - Build and maintain infrastructure for experimentation,
+    deployment, and monitoring of AI models in production
+  - Improve model performance and inference workflows with
+    attention to latency, cost, and reliability
+  - Provide technical leadership within the team, mentoring
+    engineers and promoting best practices in ML engineering
+  - Partner with product and cross-functional stakeholders to
+    translate requirements into scalable ML solutions
+  - Contribute to the evolution of internal standards for
+    experimentation, evaluation, and deployment
+  
+  What you'll need
+  
+  - 6+ years of experience in Machine Learning or AI systems,
+    with hands-on experience in LLMs, speech, or
+    conversational AI systems
+  - Experience building on integrating speech-to-text and text-
+    to-speech systems
+  - Strong experience integrating voice models into production
+    applications
+  - Proficiency on Python and ML frameworks like PyTorch or
+    TensorFlow
+  - Proven experience leading complex, cross-functional AI
+    initiatives
+  - Deep understanding of latency-sensitive system design and
+    distributed architectures
+  - Strong proficiency in Python and ML frameworks such as
+    PyTorch or TensorFlow
+  - Understanding of RAG pipelines, prompt engineering, and
+    vector search
+  - Experience deploying and scaling AI systems using AWS
+    (required), Docker, Kubernetes, and CI/CD practices
+  - Strong communication skills with the ability to align
+    engineering, product, and executive stakeholders
+  - Comfortable operating in fast-paced environments and driving
+    clarity in ambiguous problem spaces
+  
+  What we'd like to see
+  
+  - Experience with speech model fine-tuning and
+    acoustic/language model optimization
+  - Experience with production applications of S2S models
+  - Hands-on experience with real-time or streaming audio
+    systems (WebRTC, gRPC streaming, or similar architectures)
+  - Experience optimizing TTS prosody, pronunciation control,
+    and voice customization
+  - Background in MLOps, experimentation platforms, or
+    evaluation frameworks for speech and conversational
+    systems
+  - Contributions to open-source AI or speech tooling
+  - Graduate degree (MS or PhD) in Computer Science, Machine
+    Learning, Speech Processing, or related field
+  
+  Benefits include:
+  
+  Competitive compensation with stock options
+  
+  Comprehensive medical, vision, and dental insurance
+  
+  401k matching
+  
+  Fitness and wellness stipend
+  
+  Mental well-being benefits
+  
+  Professional learning and development stipend
+  
+  Parental leave, including adoptive and foster parents
+  
+  3 weeks paid time off (increases with tenure) along with
+  sick leave, bereavement and jury duty
+  
+  ASAPP is committed to creating a diverse environment and is
+  proud to be an equal opportunity employer. All qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, gender, gender identity or
+  expression, sexual orientation, national origin, disability,
+  age, or veteran status. If you have a disability and need
+  assistance with our employment application process, please
+  email us at careers@asapp.com to obtain assistance. #LI-SL1
+  #LI-Hybrid
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Natural Language Processing
+  - Software
+posted_date: 2026-03-05
+url: "https://builtin.com/job/lead-ai-ml-engineer/8664330"
+source: Built In

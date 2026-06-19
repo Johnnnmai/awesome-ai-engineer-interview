@@ -1,0 +1,199 @@
+job_id: 9124237
+title: "AI/ML Data Engineer | Unstructured Data, PySpark, Vector Search, Retrieval-Augmented Generation (RAG), Cloud (AWS/Azure/GCP)"
+company: Synechron
+location: Hyderabad, IND
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Apache Airflow
+  - AWS
+  - Azure
+  - Docker
+  - DynamoDB
+  - Faiss
+  - GCP
+  - Hugging Face
+  - Java
+  - Kubernetes
+company_size: 12,827 Employees
+description: |
+  Job Summary Synechron is seeking a highly experienced Python
+  Data & AI Engineer to lead the design, development, and
+  deployment of intelligent data pipelines supporting AI/ML
+  applications. This role involves integrating unstructured
+  data processing, working with large-scale data storage, and
+  supporting AI model deployment in production environments.
+  The successful candidate will collaborate with cross-
+  functional teams to innovate data solutions, optimize
+  performance, and enable AI-driven insights aligned with
+  enterprise goals.
+  
+  Software Requirements
+  
+  - Required:
+    - Expertise in Python (latest stable version) for data
+      processing, automation, and ML workflows
+    - Hands-on experience with PySpark for distributed data
+      processing at scale
+    - Experience with data ingestion, cleansing, and
+      transformation for unstructured data (PDFs, emails,
+      forms)
+    - Familiarity with NLP and AI frameworks such as Hugging Face,
+      Transformers, LangChain, and FAISS for semantic search
+      and retrieval-augmented generation (RAG) systems
+    - Knowledge of data storage solutions including NoSQL
+      (MongoDB, DynamoDB) and relational databases
+      (PostgreSQL, MySQL)
+    - Experience working with cloud platforms such as AWS, Azure,
+      or GCP for deployment and scalability
+    - Understanding of data quality metrics, data governance, and
+      data security best practices
+  
+  - Preferred:
+    - Experience with AI/ML lifecycle management including model
+      training, fine-tuning, prompt engineering, and inference
+      deployment
+    - Familiarity with containerization (Docker) and orchestration
+      (Kubernetes) for scalable AI/ML systems
+    - Knowledge of data orchestration tools like Apache Airflow or
+      Prefect
+  
+  Overall Responsibilities
+  
+  - Design, develop, and optimize scalable data pipelines for
+    unstructured data, supporting AI/ML applications and
+    retrieval systems
+  - Build and integrate document classification, enrichment, and
+    metadata tagging workflows to prepare high-quality data
+    for model consumption
+  - Implement and support RAG architectures supporting semantic
+    search, question-answering, and document retrieval
+    workflows
+  - Engineer and manage embeddings, document chunking, and
+    vector database integrations supporting enterprise search
+    capabilities
+  - Collaborate with AI architects, data scientists, and
+    platform teams to deliver end-to-end data solutions
+    supporting intelligent applications
+  - Automate data ingestion, processing, and deployment
+    workflows for efficiency and reproducibility
+  - Conduct system performance monitoring, troubleshoot issues,
+    and implement continuous improvements
+  - Ensure systems adhere to security, compliance, and data
+    governance standards
+  
+  Technical Skills (By Category)
+  
+  - Programming Languages:Required: Python, PySpark for
+    distributed data processingPreferred: SQL, Java, or Scala
+    for integration and performance optimization
+  
+  - Data Management & Storage:NoSQL (MongoDB, DynamoDB),
+    relational databases (PostgreSQL, MySQL), data modeling,
+    and query optimization
+  
+  - Cloud Technologies:AWS, Azure, or GCP services supporting
+    scalable data pipelines and AI/ML deployment (e.g.,
+    BigQuery, S3, Dataflow, GKE)
+  
+  - Frameworks & Libraries:Hugging Face Transformers, LangChain,
+    FAISS, Spark MLlib, NLP libraries for document
+    understanding and retrieval
+  
+  - Data Orchestration & Automation:Apache Airflow, Prefect,
+    Terraform, Docker, Kubernetes for deployment and pipeline
+    management
+  
+  - Security & Governance:Data encryption, access controls, and
+    compliance with enterprise security standards
+  
+  Experience Requirements
+  
+  - Minimum of 6 years supporting data engineering, AI/ML
+    deployment, or unstructured data processing in enterprise
+    environments
+  - Proven expertise in building large-scale, scalable data
+    pipelines supporting AI workflows
+  - Hands-on experience with vector databases, embedding models,
+    and retrieval-augmented generation systems
+  - Demonstrated success integrating cloud-based data systems
+    with AI/ML models in production environments
+  - Industry experience in financial services, healthcare, or
+    enterprise analytics preferred but not mandatory
+  
+  Day-to-Day Activities
+  
+  - Develop, test, and optimize data pipelines for unstructured
+    data ingestion, cleansing, and transformation workflows
+  - Support the development and deployment of AI models,
+    including prompt engineering, fine-tuning, and inference
+    workflows
+  - Collaborate with data scientists and platform teams to
+    design scalable, cloud-enabled AI and data solutions
+  - Troubleshoot and resolve technical bottlenecks related to
+    data pipelines and model deployment
+  - Automate data workflows, manage infrastructure as code, and
+    supports cloud migration strategies
+  - Monitor system health, optimize data storage and processing
+    performance, and ensure security and compliance standards
+    are maintained
+  - Document system architecture, data workflows, and
+    operational procedures
+  
+  Qualifications
+  
+  - Bachelor’s or Master’s degree in Computer Science, Data
+    Science, or related field
+  - 6+ years supporting or developing data engineering or AI
+    pipelines supporting enterprise applications
+  - Certifications such as GCP Professional Data Engineer, AWS
+    Certified Machine Learning, or equivalent are advantageous
+  - Proven experience with unstructured data processing, vector
+    search, and retrieval-augmented generation workflows
+  
+  Professional Competencies
+  
+  - Strong analytical and troubleshooting skills for complex
+    data and AI systems
+  - Excellent communication skills to effectively engage with
+    technical teams and stakeholders
+  - Leadership qualities to mentor junior engineers and promote
+    best practices in data and AI engineering
+  - Strategic thinking to design scalable, secure, and compliant
+    data platforms
+  - Adaptability to new tools, frameworks, and emerging AI/ML
+    trends
+  - Time management and organizational skills to handle multiple
+    projects effectively
+  
+  SYNECHRON’S DIVERSITY & INCLUSION STATEMENT
+  
+  
+  Diversity & Inclusion are fundamental to our culture, and
+  Synechron is proud to be an equal opportunity workplace and
+  is an affirmative action employer. Our Diversity, Equity,
+  and Inclusion (DEI) initiative ‘Same Difference’ is
+  committed to fostering an inclusive culture – promoting
+  equality, diversity and an environment that is respectful to
+  all. We strongly believe that a diverse workforce helps
+  build stronger, successful businesses as a global company.
+  We encourage applicants from across diverse backgrounds,
+  race, ethnicities, religion, age, marital status, gender,
+  sexual orientations, or disabilities to apply. We empower
+  our global workforce by offering flexible workplace
+  arrangements, mentoring, internal mobility, learning and
+  development programs, and more.
+  
+  All employment decisions at Synechron are based on business
+  needs, job requirements and individual qualifications,
+  without regard to the applicant’s gender, gender identity,
+  sexual orientation, race, ethnicity, disabled or veteran
+  status, or any other characteristic protected by law.
+  
+  Candidate Application Notice
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-04-22
+url: "https://builtin.com/job/ai-ml-data-engineer-unstructured-data-pyspark-vector-search-retrieval-augmented-generation-rag-cloud-aws-azure-gcp/9124237"
+source: Built In
