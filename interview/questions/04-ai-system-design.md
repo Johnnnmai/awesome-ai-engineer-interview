@@ -94,6 +94,6 @@ Consolidated from 100+ sources including blog posts, YouTube transcripts, Reddit
 
 ---
 
-## Further Reading
+## Sponsored — Further Reading
 
-- [The 0-to-1 AI Engineer Interview Playbook](https://www.amazon.com/dp/B0H2CML9XD) — Dedicated chapters on LLM system design and RAG architecture cover every pattern in this question list, with worked examples and evaluation frameworks used at top AI companies.
+- [The 0-to-1 AI Engineer Interview Playbook](https://valenx.org/books/aie) — Dedicated chapters on LLM system design and RAG architecture cover every pattern in this question list, with worked examples and evaluation frameworks used at top AI companies.

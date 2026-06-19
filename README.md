@@ -21,7 +21,7 @@ Based on real data: **2,445+ job descriptions**, **51 company interview processe
 - **Difficulty-rated** — every question tagged Easy/Medium/Hard with time estimates
 - **Study plans** — structured 30/60/90-day plans for different backgrounds
 - **Learning paths** — transition guides from DE, DS, MLE, backend, frontend, and PM roles
-- **Books by the author** — 30+ role-specific interview playbooks ([full list](BOOKS.md))
+- **Sponsor** — this repo is sponsored by [Valenx Press](https://valenx.org/books/aie), publisher of 30+ interview playbooks ([full list](BOOKS.md))
 
 ---
 
@@ -583,28 +583,30 @@ Most repos treat behavioral as an afterthought. In reality, behavioral rounds ar
 - [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) - Production LLM engineering from UC Berkeley.
 - [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) - Free short courses on RAG, fine-tuning, agents, and evaluation.
 
-### Books by the Author
+### 📚 Sponsored by [Valenx Press](https://valenx.org/books/aie)
 
-> *Disclosure: The following are written by the maintainer of this repo. They are listed separately from community picks for transparency.*
+> *This repo is sponsored by [Valenx Press](https://valenx.org/books/aie), publisher of the 0-to-1 Interview Playbook series. Sponsor resources are listed separately from community picks.*
 
 **AI & ML Roles**
-- [The 0-to-1 AI Engineer Interview Playbook](https://www.amazon.com/dp/B0H2CML9XD) - GenAI interview prep: LLM system design, RAG, agents, evaluation, behavioral for AI roles.
-- [The 0-to-1 ML Engineer Interview Playbook](https://www.amazon.com/dp/B0H256Z1MF) - Production ML systems, model training, and MLE-specific system design.
-- [The 0-to-1 Data Scientist Interview Playbook](https://www.amazon.com/dp/B0H1NWZB2R) - Statistics, ML fundamentals, case studies, and A/B testing for DS roles.
-- [The 0-to-1 Data Engineer Interview Playbook](https://www.amazon.com/dp/B0H249WDPZ) - SQL, data pipelines, data modeling, and cloud infrastructure.
+- [The 0-to-1 AI Engineer Interview Playbook](https://valenx.org/books/aie) - GenAI interview prep: LLM system design, RAG, agents, evaluation, behavioral for AI roles.
+- [The 0-to-1 ML Engineer Interview Playbook](https://valenx.org/books/aie) - Production ML systems, model training, and MLE-specific system design.
+- [The 0-to-1 Data Scientist Interview Playbook](https://valenx.org/books/aie) - Statistics, ML fundamentals, case studies, and A/B testing for DS roles.
+- [The 0-to-1 Data Engineer Interview Playbook](https://valenx.org/books/aie) - SQL, data pipelines, data modeling, and cloud infrastructure.
 
 **Engineering & Leadership**
-- [The 0-to-1 SWE Interview Playbook](https://www.amazon.com/dp/B0H1F83LCM) - Coding interviews, system design, behavioral, and offer negotiation.
-- [The 0-to-1 Engineering Manager Interview Playbook](https://www.amazon.com/dp/B0H259JRYG) - EM interviews at Google, Meta, Amazon, Stripe.
-- [The 0-to-1 TPM Interview Playbook](https://www.amazon.com/dp/B0H25CR241) - Technical Program Manager interviews at Big Tech.
-- [The 0-to-1 SRE/DevOps Interview Playbook](https://www.amazon.com/dp/B0H1C8ZKSN) - Systems thinking, incident response, Kubernetes.
-- [The 0-to-1 Solutions Architect Interview Playbook](https://www.amazon.com/dp/B0H295RKHP) - AWS, GCP, Azure system design.
-- [The 0-to-1 Security Engineer Interview Playbook](https://www.amazon.com/dp/B0H34M7WXC) - Security engineering interviews.
+- [The 0-to-1 SWE Interview Playbook](https://valenx.org/books/aie) - Coding interviews, system design, behavioral, and offer negotiation.
+- [The 0-to-1 Engineering Manager Interview Playbook](https://valenx.org/books/aie) - EM interviews at Google, Meta, Amazon, Stripe.
+- [The 0-to-1 TPM Interview Playbook](https://valenx.org/books/aie) - Technical Program Manager interviews at Big Tech.
+- [The 0-to-1 SRE/DevOps Interview Playbook](https://valenx.org/books/aie) - Systems thinking, incident response, Kubernetes.
+- [The 0-to-1 Solutions Architect Interview Playbook](https://valenx.org/books/aie) - AWS, GCP, Azure system design.
+- [The 0-to-1 Security Engineer Interview Playbook](https://valenx.org/books/aie) - Security engineering interviews.
 
 **Product & Design**
-- [The 0-to-1 PM Interview Playbook](https://www.amazon.com/dp/B0GWWJQ2S3) - Product sense, metrics, strategy, behavioral.
-- [The 0-to-1 Product Design Interview Playbook](https://www.amazon.com/dp/B0H2FY3BJM) - UX challenges, portfolio reviews, app critiques.
-- [The 0-to-1 PMM Interview Playbook](https://www.amazon.com/dp/B0H2CX1BH2) - GTM strategy, positioning, marketing.
+- [The 0-to-1 PM Interview Playbook](https://valenx.org/books/aie) - Product sense, metrics, strategy, behavioral.
+- [The 0-to-1 Product Design Interview Playbook](https://valenx.org/books/aie) - UX challenges, portfolio reviews, app critiques.
+- [The 0-to-1 PMM Interview Playbook](https://valenx.org/books/aie) - GTM strategy, positioning, marketing.
+
+**[Browse all 30+ playbooks →](https://valenx.org/books/aie)**
 
 ---
 
@@ -624,37 +626,9 @@ See **[awesome.md](awesome.md)** for the complete list.
 
 ## Complete Interview Prep Library
 
-> Beyond AI/ML — the full 0-to-1 Playbook series covers 30+ career paths. [See all books](BOOKS.md)
+> Beyond AI/ML — the 0-to-1 Playbook series covers 30+ career paths. Published by [Valenx Press](https://valenx.org/books/aie).
 
-<details>
-<summary><strong>Finance & Consulting</strong></summary>
-
-- [The 0-to-1 Quant Interview Playbook](https://www.amazon.com/dp/B0H2CYVXTR) - Quantitative finance interviews: brainteasers, probability, stochastic calculus.
-- [The 0-to-1 Hedge Fund Interview Playbook](https://www.amazon.com/dp/B0H2G1W19M) - Hedge fund interviews: investment thesis, stock pitch, portfolio construction.
-- [The 0-to-1 Investment Banking Interview Playbook](https://www.amazon.com/dp/B0H2C1MRWS) - IB interviews: technicals, deal analysis, fit questions.
-- The 0-to-1 Private Equity Interview Playbook - PE interviews: LBO modeling, case studies, operational improvement. *(Coming Soon)*
-- The 0-to-1 Venture Capital Interview Playbook - VC interviews: market sizing, deal sourcing, portfolio strategy. *(Coming Soon)*
-- The 0-to-1 Consulting Interview Playbook - Management consulting: case interviews, market sizing, frameworks. *(Coming Soon)*
-
-</details>
-
-<details>
-<summary><strong>Academic Admissions</strong></summary>
-
-- [Harvard Admissions Playbook](https://www.amazon.com/dp/) - Harvard undergraduate admissions strategy.
-- [MIT Admissions Playbook](https://www.amazon.com/dp/) - MIT undergraduate admissions strategy.
-- [Stanford Admissions Playbook](https://www.amazon.com/dp/) - Stanford undergraduate admissions strategy.
-- [Yale Admissions Playbook](https://www.amazon.com/dp/) - Yale undergraduate admissions strategy.
-- [UC System Admissions Playbook](https://www.amazon.com/dp/) - UC system admissions strategy.
-
-</details>
-
-<details>
-<summary><strong>More Tech Roles</strong></summary>
-
-For the complete list of all 30+ interview playbooks across tech, finance, consulting, law, and academic admissions, see [BOOKS.md](BOOKS.md).
-
-</details>
+**[Browse all 30+ playbooks →](https://valenx.org/books/aie)** | [Full catalog](BOOKS.md)
 
 ---
 

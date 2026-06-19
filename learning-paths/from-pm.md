@@ -89,4 +89,4 @@ Use your PM superpower: define the problem clearly before writing a line of code
 
 ---
 
-**Recommended Reading:** [The 0-to-1 Product Management Playbook](https://www.amazon.com/dp/B0GWWJQ2S3)
+**Sponsored — Recommended Reading:** [The 0-to-1 Product Management Playbook](https://valenx.org/books/aie)

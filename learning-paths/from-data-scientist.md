@@ -55,4 +55,4 @@ Evaluation is the emerging differentiator. Anyone can build a chatbot. Companies
 
 ---
 
-**Recommended Reading:** [The 0-to-1 Data Science Playbook](https://www.amazon.com/dp/B0H1NWZB2R)
+**Sponsored — Recommended Reading:** [The 0-to-1 Data Science Playbook](https://valenx.org/books/aie)

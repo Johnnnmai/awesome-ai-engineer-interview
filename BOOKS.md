@@ -1,61 +1,63 @@
 # Complete 0-to-1 Interview Playbook Library
 
-> The full collection of interview preparation books by the maintainer of this repo. Each playbook covers role-specific questions, frameworks, behavioral prep, and offer negotiation strategies.
+> Published by [Valenx Press](https://valenx.org/books/aie). Each playbook covers role-specific questions, frameworks, behavioral prep, and offer negotiation strategies.
+
+**[Browse all playbooks →](https://valenx.org/books/aie)**
 
 ## AI & Machine Learning
 
-| Book | Role | Amazon |
+| Book | Role | Get it |
 |------|------|--------|
-| The 0-to-1 AI Engineer Interview Playbook | AI Engineer, LLM Engineer | [Amazon](https://www.amazon.com/dp/B0H2CML9XD) |
-| The 0-to-1 ML Engineer Interview Playbook | MLE, Applied Scientist | [Amazon](https://www.amazon.com/dp/B0H256Z1MF) |
-| The 0-to-1 Data Scientist Interview Playbook | Data Scientist, Applied Scientist | [Amazon](https://www.amazon.com/dp/B0H1NWZB2R) |
-| The 0-to-1 Data Engineer Interview Playbook | Data Engineer, Analytics Engineer | [Amazon](https://www.amazon.com/dp/B0H249WDPZ) |
+| The 0-to-1 AI Engineer Interview Playbook | AI Engineer, LLM Engineer | [Valenx Press](https://valenx.org/books/aie) |
+| The 0-to-1 ML Engineer Interview Playbook | MLE, Applied Scientist | [Valenx Press](https://valenx.org/books/aie) |
+| The 0-to-1 Data Scientist Interview Playbook | Data Scientist, Applied Scientist | [Valenx Press](https://valenx.org/books/aie) |
+| The 0-to-1 Data Engineer Interview Playbook | Data Engineer, Analytics Engineer | [Valenx Press](https://valenx.org/books/aie) |
 
 ## Software Engineering & Infrastructure
 
-| Book | Role | Amazon |
+| Book | Role | Get it |
 |------|------|--------|
-| The 0-to-1 SWE Interview Playbook | Software Engineer (all levels) | [Amazon](https://www.amazon.com/dp/B0H1F83LCM) |
-| The 0-to-1 SRE/DevOps Interview Playbook | SRE, DevOps, Platform Engineer | [Amazon](https://www.amazon.com/dp/B0H1C8ZKSN) |
-| The 0-to-1 Security Engineer Interview Playbook | Security Engineer, AppSec | [Amazon](https://www.amazon.com/dp/B0H34M7WXC) |
-| The 0-to-1 Solutions Architect Interview Playbook | SA, Cloud Architect | [Amazon](https://www.amazon.com/dp/B0H295RKHP) |
+| The 0-to-1 SWE Interview Playbook | Software Engineer (all levels) | [Valenx Press](https://valenx.org/books/aie) |
+| The 0-to-1 SRE/DevOps Interview Playbook | SRE, DevOps, Platform Engineer | [Valenx Press](https://valenx.org/books/aie) |
+| The 0-to-1 Security Engineer Interview Playbook | Security Engineer, AppSec | [Valenx Press](https://valenx.org/books/aie) |
+| The 0-to-1 Solutions Architect Interview Playbook | SA, Cloud Architect | [Valenx Press](https://valenx.org/books/aie) |
 | The 0-to-1 Cloud Platform Engineer Interview Playbook | Cloud Engineer, Platform Eng | *Coming Soon* |
 
 ## Product & Design
 
-| Book | Role | Amazon |
+| Book | Role | Get it |
 |------|------|--------|
-| The 0-to-1 PM Interview Playbook | Product Manager (all levels) | [Amazon](https://www.amazon.com/dp/B0GWWJQ2S3) |
-| The 0-to-1 Product Design Interview Playbook | Product Designer, UX Designer | [Amazon](https://www.amazon.com/dp/B0H2FY3BJM) |
-| The 0-to-1 PMM Interview Playbook | Product Marketing Manager | [Amazon](https://www.amazon.com/dp/B0H2CX1BH2) |
+| The 0-to-1 PM Interview Playbook | Product Manager (all levels) | [Valenx Press](https://valenx.org/books/aie) |
+| The 0-to-1 Product Design Interview Playbook | Product Designer, UX Designer | [Valenx Press](https://valenx.org/books/aie) |
+| The 0-to-1 PMM Interview Playbook | Product Marketing Manager | [Valenx Press](https://valenx.org/books/aie) |
 
 ## Engineering Leadership
 
-| Book | Role | Amazon |
+| Book | Role | Get it |
 |------|------|--------|
-| The 0-to-1 Engineering Manager Interview Playbook | EM, Director of Engineering | [Amazon](https://www.amazon.com/dp/B0H259JRYG) |
-| The 0-to-1 TPM Interview Playbook | Technical Program Manager | [Amazon](https://www.amazon.com/dp/B0H25CR241) |
+| The 0-to-1 Engineering Manager Interview Playbook | EM, Director of Engineering | [Valenx Press](https://valenx.org/books/aie) |
+| The 0-to-1 TPM Interview Playbook | Technical Program Manager | [Valenx Press](https://valenx.org/books/aie) |
 
 ## Finance & Consulting
 
-| Book | Role | Amazon |
+| Book | Role | Get it |
 |------|------|--------|
-| The 0-to-1 Quant Interview Playbook | Quant Researcher, Quant Trader | [Amazon](https://www.amazon.com/dp/B0H2CYVXTR) |
-| The 0-to-1 Hedge Fund Interview Playbook | Hedge Fund Analyst, PM | [Amazon](https://www.amazon.com/dp/B0H2G1W19M) |
-| The 0-to-1 Investment Banking Interview Playbook | IB Analyst, Associate | [Amazon](https://www.amazon.com/dp/B0H2C1MRWS) |
+| The 0-to-1 Quant Interview Playbook | Quant Researcher, Quant Trader | [Valenx Press](https://valenx.org/books/aie) |
+| The 0-to-1 Hedge Fund Interview Playbook | Hedge Fund Analyst, PM | [Valenx Press](https://valenx.org/books/aie) |
+| The 0-to-1 Investment Banking Interview Playbook | IB Analyst, Associate | [Valenx Press](https://valenx.org/books/aie) |
 | The 0-to-1 Private Equity Interview Playbook | PE Associate, VP | *Coming Soon* |
 | The 0-to-1 Venture Capital Interview Playbook | VC Analyst, Associate | *Coming Soon* |
 | The 0-to-1 Consulting Interview Playbook | MBB Consultant | *Coming Soon* |
 
 ## Law
 
-| Book | Role | Amazon |
+| Book | Role | Get it |
 |------|------|--------|
 | The 0-to-1 BigLaw Interview Playbook | BigLaw Associate | *Coming Soon* |
 
 ## Academic Admissions
 
-| Book | School | Amazon |
+| Book | School | Get it |
 |------|--------|--------|
 | Harvard Admissions Playbook | Harvard College | *Coming Soon* |
 | MIT Admissions Playbook | MIT | *Coming Soon* |
@@ -65,4 +67,4 @@
 
 ---
 
-*All books are available on Amazon Kindle. Prices range from $9.99 to $19.99.*
+*All books available at [valenx.org/books/aie](https://valenx.org/books/aie)*

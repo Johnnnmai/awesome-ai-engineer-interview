@@ -109,4 +109,4 @@ Don't forget about AI tools. Start with Cursor or Claude Code - pick any AI assi
 
 ---
 
-**Recommended Reading:** [The 0-to-1 Software Engineering Playbook](https://www.amazon.com/dp/B0H1F83LCM)
+**Sponsored — Recommended Reading:** [The 0-to-1 Software Engineering Playbook](https://valenx.org/books/aie)

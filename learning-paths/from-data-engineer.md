@@ -51,4 +51,4 @@ You can close the data side that many AI engineers struggle with. Building relia
 
 ---
 
-**Recommended Reading:** [The 0-to-1 Data Engineering Playbook](https://www.amazon.com/dp/B0H249WDPZ)
+**Sponsored — Recommended Reading:** [The 0-to-1 Data Engineering Playbook](https://valenx.org/books/aie)

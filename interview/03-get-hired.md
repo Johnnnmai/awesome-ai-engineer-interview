@@ -228,7 +228,7 @@ Compensation ranges (2025-2026 US market):
 Ranges approximate; varies significantly by company, location, and specific role. [^interviewquery-salary] [^mimansa-jaiswal]
 
 
-## Recommended Resources
+## Sponsored Resources
 
 The 0-to-1 Playbook series covers role-specific guides for landing your first AI engineering role:
 

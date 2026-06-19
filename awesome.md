@@ -302,30 +302,8 @@ Traditional ML resources - system design, ML infra, and interview preparation fo
 - [GitHub: Machine Learning Interviews](https://github.com/alirezadir/machine-learning-interviews/blob/main/src/MLSD/ml-system-design.md) - ML system design section
 
 
-## Interview Playbooks
+## Interview Playbooks — Sponsored by [Valenx Press](https://valenx.org/books/aie)
 
-Role-specific interview prep books covering technical depth, system design, and behavioral rounds for each function.
+Role-specific interview prep books covering technical depth, system design, and behavioral rounds for each function. Published by [Valenx Press](https://valenx.org/books/aie).
 
-### AI & ML Roles
-- [The 0-to-1 AI Engineer Interview Playbook](https://www.amazon.com/dp/B0H2CML9XD) - GenAI interview prep: LLM system design, RAG, agents, evaluation
-- [The 0-to-1 ML Engineer Interview Playbook](https://www.amazon.com/dp/B0H256Z1MF) - Production ML systems, model training, MLE system design
-- [The 0-to-1 Data Scientist Interview Playbook](https://www.amazon.com/dp/B0H1NWZB2R) - Statistics, ML fundamentals, case studies, A/B testing
-- [The 0-to-1 Data Engineer Interview Playbook](https://www.amazon.com/dp/B0H249WDPZ) - SQL, pipelines, data modeling, cloud infrastructure
-
-### Engineering & Leadership
-- [The 0-to-1 SWE Interview Playbook](https://www.amazon.com/dp/B0H1F83LCM) - Coding, system design, behavioral, negotiation
-- [The 0-to-1 Engineering Manager Interview Playbook](https://www.amazon.com/dp/B0H259JRYG) - EM interviews at Google, Meta, Amazon
-- [The 0-to-1 TPM Interview Playbook](https://www.amazon.com/dp/B0H25CR241) - Technical Program Manager interviews
-- [The 0-to-1 SRE/DevOps Interview Playbook](https://www.amazon.com/dp/B0H1C8ZKSN) - Systems, incident response, Kubernetes
-- [The 0-to-1 Solutions Architect Interview Playbook](https://www.amazon.com/dp/B0H295RKHP) - AWS, GCP, Azure design
-- [The 0-to-1 Security Engineer Interview Playbook](https://www.amazon.com/dp/B0H34M7WXC) - Security engineering
-
-### Product & Design
-- [The 0-to-1 PM Interview Playbook](https://www.amazon.com/dp/B0GWWJQ2S3) - Product sense, metrics, strategy
-- [The 0-to-1 Product Design Interview Playbook](https://www.amazon.com/dp/B0H2FY3BJM) - UX challenges, portfolio reviews
-- [The 0-to-1 PMM Interview Playbook](https://www.amazon.com/dp/B0H2CX1BH2) - GTM strategy, positioning
-
-### Finance
-- [The 0-to-1 Quant Interview Playbook](https://www.amazon.com/dp/B0H2CYVXTR) - Brainteasers, probability, stochastic calculus
-- [The 0-to-1 Hedge Fund Interview Playbook](https://www.amazon.com/dp/B0H2G1W19M) - Investment thesis, stock pitch
-- [The 0-to-1 Investment Banking Interview Playbook](https://www.amazon.com/dp/B0H2C1MRWS) - IB technicals, deal analysis
+- [Browse all 30+ playbooks →](https://valenx.org/books/aie)
