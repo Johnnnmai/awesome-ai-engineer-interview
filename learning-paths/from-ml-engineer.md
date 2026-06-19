@@ -52,4 +52,4 @@ You understand model behavior deeply. When an LLM is not performing well, you ca
 
 ---
 
-**Sponsored — Recommended Reading:** [The 0-to-1 ML Engineering Playbook](https://valenx.org/books/aie)
+**Recommended Reading:** [The 0-to-1 ML Engineering Playbook](https://valenx.org/books/aie)

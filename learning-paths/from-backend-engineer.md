@@ -56,4 +56,4 @@ You know how to build things reliably. You know testing, deployment, monitoring.
 
 ---
 
-**Sponsored — Recommended Reading:** [The 0-to-1 Software Engineering Playbook](https://valenx.org/books/aie)
+**Recommended Reading:** [The 0-to-1 Software Engineering Playbook](https://valenx.org/books/aie)

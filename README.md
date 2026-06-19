@@ -21,7 +21,7 @@ Based on real data: **2,445+ job descriptions**, **51 company interview processe
 - **Difficulty-rated** — every question tagged Easy/Medium/Hard with time estimates
 - **Study plans** — structured 30/60/90-day plans for different backgrounds
 - **Learning paths** — transition guides from DE, DS, MLE, backend, frontend, and PM roles
-- **Sponsor** — this repo is sponsored by [Valenx Press](https://valenx.org/books/aie), publisher of 30+ interview playbooks ([full list](BOOKS.md))
+- **30+ playbooks** — role-specific interview prep books across tech, finance, and more ([full list](BOOKS.md))
 
 ---
 
@@ -583,30 +583,11 @@ Most repos treat behavioral as an afterthought. In reality, behavioral rounds ar
 - [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) - Production LLM engineering from UC Berkeley.
 - [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) - Free short courses on RAG, fine-tuning, agents, and evaluation.
 
-### 📚 Sponsored by [Valenx Press](https://valenx.org/books/aie)
+### The 0-to-1 Interview Playbook Series
 
-> *This repo is sponsored by [Valenx Press](https://valenx.org/books/aie), publisher of the 0-to-1 Interview Playbook series. Sponsor resources are listed separately from community picks.*
+Role-specific prep books covering technical depth, system design, and behavioral for each function. [Browse all →](https://valenx.org/books/aie)
 
-**AI & ML Roles**
-- [The 0-to-1 AI Engineer Interview Playbook](https://valenx.org/books/aie) - GenAI interview prep: LLM system design, RAG, agents, evaluation, behavioral for AI roles.
-- [The 0-to-1 ML Engineer Interview Playbook](https://valenx.org/books/aie) - Production ML systems, model training, and MLE-specific system design.
-- [The 0-to-1 Data Scientist Interview Playbook](https://valenx.org/books/aie) - Statistics, ML fundamentals, case studies, and A/B testing for DS roles.
-- [The 0-to-1 Data Engineer Interview Playbook](https://valenx.org/books/aie) - SQL, data pipelines, data modeling, and cloud infrastructure.
-
-**Engineering & Leadership**
-- [The 0-to-1 SWE Interview Playbook](https://valenx.org/books/aie) - Coding interviews, system design, behavioral, and offer negotiation.
-- [The 0-to-1 Engineering Manager Interview Playbook](https://valenx.org/books/aie) - EM interviews at Google, Meta, Amazon, Stripe.
-- [The 0-to-1 TPM Interview Playbook](https://valenx.org/books/aie) - Technical Program Manager interviews at Big Tech.
-- [The 0-to-1 SRE/DevOps Interview Playbook](https://valenx.org/books/aie) - Systems thinking, incident response, Kubernetes.
-- [The 0-to-1 Solutions Architect Interview Playbook](https://valenx.org/books/aie) - AWS, GCP, Azure system design.
-- [The 0-to-1 Security Engineer Interview Playbook](https://valenx.org/books/aie) - Security engineering interviews.
-
-**Product & Design**
-- [The 0-to-1 PM Interview Playbook](https://valenx.org/books/aie) - Product sense, metrics, strategy, behavioral.
-- [The 0-to-1 Product Design Interview Playbook](https://valenx.org/books/aie) - UX challenges, portfolio reviews, app critiques.
-- [The 0-to-1 PMM Interview Playbook](https://valenx.org/books/aie) - GTM strategy, positioning, marketing.
-
-**[Browse all 30+ playbooks →](https://valenx.org/books/aie)**
+- [AI Engineer](https://valenx.org/books/aie) · [ML Engineer](https://valenx.org/books/aie) · [Data Scientist](https://valenx.org/books/aie) · [Data Engineer](https://valenx.org/books/aie) · [SWE](https://valenx.org/books/aie) · [EM](https://valenx.org/books/aie) · [TPM](https://valenx.org/books/aie) · [SRE](https://valenx.org/books/aie) · [PM](https://valenx.org/books/aie) · [and 20+ more](https://valenx.org/books/aie)
 
 ---
 
@@ -626,9 +607,9 @@ See **[awesome.md](awesome.md)** for the complete list.
 
 ## Complete Interview Prep Library
 
-> Beyond AI/ML — the 0-to-1 Playbook series covers 30+ career paths. Published by [Valenx Press](https://valenx.org/books/aie).
+> The 0-to-1 Playbook series covers 30+ career paths beyond AI/ML — tech, finance, consulting, law, and academic admissions.
 
-**[Browse all 30+ playbooks →](https://valenx.org/books/aie)** | [Full catalog](BOOKS.md)
+[Full catalog](BOOKS.md) · [Browse online →](https://valenx.org/books/aie)
 
 ---
 

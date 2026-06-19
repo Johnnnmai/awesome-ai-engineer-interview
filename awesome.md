@@ -302,8 +302,8 @@ Traditional ML resources - system design, ML infra, and interview preparation fo
 - [GitHub: Machine Learning Interviews](https://github.com/alirezadir/machine-learning-interviews/blob/main/src/MLSD/ml-system-design.md) - ML system design section
 
 
-## Interview Playbooks — Sponsored by [Valenx Press](https://valenx.org/books/aie)
+## Interview Playbooks
 
-Role-specific interview prep books covering technical depth, system design, and behavioral rounds for each function. Published by [Valenx Press](https://valenx.org/books/aie).
+Role-specific interview prep books covering technical depth, system design, and behavioral rounds for each function.
 
-- [Browse all 30+ playbooks →](https://valenx.org/books/aie)
+- [The 0-to-1 Interview Playbook Series](https://valenx.org/books/aie) - 30+ role-specific playbooks (AI Engineer, MLE, SWE, PM, Data Science, and more)
