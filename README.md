@@ -64,6 +64,7 @@ Everything you need to prepare, from process overview to company-specific data.
   - [Theory](interview/questions/theory.md) — LLMs, RAG, agents, ML fundamentals, company-specific questions
   - [AI system design](interview/questions/04-ai-system-design.md) — system design for AI applications
   - [Behavioral](interview/questions/05-behavioral.md) — values, leadership, problem-solving
+- [100 graded practice questions](https://github.com/Johnnnmai/ai-engineer-interview-questions) — Entry/Mid/Senior self-assessment bank across LLMs, RAG, system design, MLOps and coding
 - [Skills that get you hired](interview/03-get-hired.md) — baseline expectations, differentiators, and portfolio strategy
 - [After the interview](interview/04-after-the-interview.md) — handling offers, rejections, and salary negotiation
 - [Interview trends](interview/05-trends.md) — realistic assessments, AI cheating, AI-proctored rounds
