@@ -17,6 +17,14 @@ Built from <strong>2,445 real job descriptions</strong> and <strong>51 company i
 
 > Everything here is based on real data — actual job descriptions, real interview experiences, and patterns from practitioners. Not AI-generated filler.
 
+### Quick start
+
+🆓 **Self-check** — [Paste your answer and get a score in 30 seconds](https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=line26_20261101&utm_content=awesome-ai-engineer-interview)
+
+🆓 **Top 30 questions** — [Free 13-page guide with model answers](https://sirjohnnymai.gumroad.com/l/aie-top-30-questions?utm_source=github&utm_medium=readme&utm_campaign=line26_20261101&utm_content=awesome-ai-engineer-interview)
+
+📘 **Full interview kit** — [The complete AI Engineer Interview bundle ($59 → early-bird discount)](https://sirjohnnymai.gumroad.com/l/xzptir?offer_code=EARLYBF&utm_source=github&utm_medium=readme&utm_campaign=line26_20261101&utm_content=awesome-ai-engineer-interview)
+
 ## Contents
 
 - [The AI Engineer Role](#the-ai-engineer-role)
