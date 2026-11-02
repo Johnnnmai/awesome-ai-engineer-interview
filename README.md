@@ -6,15 +6,14 @@
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
-> Everything here is based on real data — actual job descriptions, real interview experiences, and patterns from practitioners. Not AI-generated filler.
+> Everything here is based on real data: actual job descriptions, real interview experiences, and patterns from practitioners. Not AI-generated filler.
 
 Quick start:
 
-🆓 **Self-check** — [Paste your answer and get a score in 30 seconds](https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=line26_20261101&utm_content=awesome-ai-engineer-interview)
-
-🆓 **Top 30 questions** — [Free 13-page guide with model answers](https://sirjohnnymai.gumroad.com/l/aie-top-30-questions?utm_source=github&utm_medium=readme&utm_campaign=line26_20261101&utm_content=awesome-ai-engineer-interview)
-
-📘 **Full interview kit** — [The complete AI Engineer Interview bundle ($59 → early-bird discount)](https://sirjohnnymai.gumroad.com/l/xzptir?offer_code=EARLYBF&utm_source=github&utm_medium=readme&utm_campaign=line26_20261101&utm_content=awesome-ai-engineer-interview)
+- **Self-check (free):** [Paste your answer and get a score in 30 seconds](https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=awesome&utm_campaign=awesome_20261101&utm_content=quick_start).
+- **Top 30 questions (free):** [13-page guide with model answers](https://sirjohnnymai.gumroad.com/l/aie-top-30-questions?utm_source=github&utm_medium=awesome&utm_campaign=awesome_20261101&utm_content=quick_start).
+- **AI Engineer Interview Playbook ($19.99):** [The full AI engineer prep guide](https://sirjohnnymai.gumroad.com/l/ai-engineer-interview-playbook?utm_source=github&utm_medium=awesome&utm_campaign=awesome_20261101&utm_content=quick_start).
+- **PM/TPM bundle (optional):** [For product and technical program manager loops](https://sirjohnnymai.gumroad.com/l/xzptir?utm_source=github&utm_medium=awesome&utm_campaign=awesome_20261101&utm_content=quick_start_pm).
 
 ## Contents
 
