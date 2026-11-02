@@ -1,23 +1,14 @@
-*[English](README.md) · [中文](zh/README.md)*
+# Awesome AI Engineer Interview [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<div align="center">
+> A data-driven field guide to AI engineering roles, interviews, and career growth. Built from **2,445 real job descriptions** and **51 company interview processes**.
 
-<h1>Awesome AI Engineer Interview</h1>
+[English](README.md) · [中文](zh/README.md)
 
-<p>A data-driven field guide to AI engineering roles, interviews, and career growth.<br>
-Built from <strong>2,445 real job descriptions</strong> and <strong>51 company interview processes</strong>.</p>
-
-<p>
-<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-<a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0"></a>
-<a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
-</p>
-
-</div>
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 > Everything here is based on real data — actual job descriptions, real interview experiences, and patterns from practitioners. Not AI-generated filler.
 
-### Quick start
+Quick start:
 
 🆓 **Self-check** — [Paste your answer and get a score in 30 seconds](https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=line26_20261101&utm_content=awesome-ai-engineer-interview)
 
@@ -47,7 +38,6 @@ Built from <strong>2,445 real job descriptions</strong> and <strong>51 company i
 - [Books & Courses](#books--courses)
 - [Awesome Resources](#awesome-resources)
 - [Communities & Forums](#communities--forums)
-- [Contributing](#contributing)
 
 ---
 
@@ -55,11 +45,11 @@ Built from <strong>2,445 real job descriptions</strong> and <strong>51 company i
 
 Understanding what the role actually is — based on analysis of 2,445 real job descriptions.
 
-- [My vision of the role](role/01-my-vision.md) — how AI engineering compares with DS/ML/DE roles, CRISP-DM for AI
-- [Skills analysis](role/02-skills.md) — top skills, job types, cloud platforms, frameworks extracted from job postings
-- [Responsibilities](role/03-responsibilities.md) — patterns extracted from 5,694+ job responsibilities
-- [Use cases](role/04-use-cases.md) — 4,525 real use cases showing what companies build with AI
-- [Reality vs. job postings](role/05-reality-vs-postings.md) — what candidates experience vs. what's advertised
+- [My vision of the role](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/role/01-my-vision.md) - How AI engineering compares with DS/ML/DE roles, CRISP-DM for AI.
+- [Skills analysis](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/role/02-skills.md) - Top skills, job types, cloud platforms, frameworks extracted from job postings.
+- [Responsibilities](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/role/03-responsibilities.md) - Patterns extracted from 5,694+ job responsibilities.
+- [Use cases](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/role/04-use-cases.md) - 4,525 real use cases showing what companies build with AI.
+- [Reality vs. job postings](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/role/05-reality-vs-postings.md) - What candidates experience vs. what's advertised.
 
 ---
 
@@ -67,16 +57,16 @@ Understanding what the role actually is — based on analysis of 2,445 real job 
 
 Everything you need to prepare, from process overview to company-specific data.
 
-- [Interview process](interview/01-interview-process.md) — common patterns, step counts, time estimates, AI use in hiring, key takeaways
-- [Interview questions](interview/02-questions.md) — consolidated from 100+ sources
-  - [Theory](interview/questions/theory.md) — LLMs, RAG, agents, ML fundamentals, company-specific questions
-  - [AI system design](interview/questions/04-ai-system-design.md) — system design for AI applications
-  - [Behavioral](interview/questions/05-behavioral.md) — values, leadership, problem-solving
-- [100 graded practice questions](https://github.com/Johnnnmai/ai-engineer-interview-questions) — Entry/Mid/Senior self-assessment bank across LLMs, RAG, system design, MLOps and coding
-- [Skills that get you hired](interview/03-get-hired.md) — baseline expectations, differentiators, and portfolio strategy
-- [After the interview](interview/04-after-the-interview.md) — handling offers, rejections, and salary negotiation
-- [Interview trends](interview/05-trends.md) — realistic assessments, AI cheating, AI-proctored rounds
-- [Company-by-company data](interview/data/) — individual interview process descriptions for 51 companies, linked to source job postings
+- [Interview process](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/interview/01-interview-process.md) - Common patterns, step counts, time estimates, AI use in hiring, key takeaways.
+- [Interview questions](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/interview/02-questions.md) - Consolidated from 100+ sources.
+  - [Theory](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/interview/questions/theory.md) - LLMs, RAG, agents, ML fundamentals, company-specific questions.
+  - [AI system design](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/interview/questions/04-ai-system-design.md) - System design for AI applications.
+  - [Behavioral](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/interview/questions/05-behavioral.md) - Values, leadership, problem-solving.
+- [100 graded practice questions](https://github.com/Johnnnmai/ai-engineer-interview-questions) - Entry/Mid/Senior self-assessment bank across LLMs, RAG, system design, MLOps and coding.
+- [Skills that get you hired](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/interview/03-get-hired.md) - Baseline expectations, differentiators, and portfolio strategy.
+- [After the interview](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/interview/04-after-the-interview.md) - Handling offers, rejections, and salary negotiation.
+- [Interview trends](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/interview/05-trends.md) - Realistic assessments, AI cheating, AI-proctored rounds.
+- [Company-by-company data](https://github.com/Johnnnmai/awesome-ai-engineer-interview/tree/main/interview/data/) - Individual interview process descriptions for 51 companies, linked to source job postings.
 
 ---
 
@@ -84,19 +74,19 @@ Everything you need to prepare, from process overview to company-specific data.
 
 What to learn and in what order, based on where you're coming from.
 
-- [General learning path](learning-paths/) — core skills and recommended order
-- [From Data Engineer](learning-paths/from-data-engineer.md) — smoothest transition, 3-4 months
-- [From Data Scientist](learning-paths/from-data-scientist.md) — evaluation is your superpower, add engineering
-- [From ML Engineer](learning-paths/from-ml-engineer.md) — easiest transition, replace model call with API call
-- [From Backend Engineer](learning-paths/from-backend-engineer.md) — 2-3 months, add AI on top of engineering
-- [From Frontend Engineer](learning-paths/from-frontend-engineer.md) — backend first, then AI, unique full-stack advantage
-- [From Product Manager](learning-paths/from-pm.md) — leverage product sense, add technical depth
+- [General learning path](https://github.com/Johnnnmai/awesome-ai-engineer-interview/tree/main/learning-paths/) - Core skills and recommended order.
+- [From Data Engineer](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/learning-paths/from-data-engineer.md) - Smoothest transition, 3-4 months.
+- [From Data Scientist](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/learning-paths/from-data-scientist.md) - Evaluation is your superpower, add engineering.
+- [From ML Engineer](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/learning-paths/from-ml-engineer.md) - Easiest transition, replace model call with API call.
+- [From Backend Engineer](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/learning-paths/from-backend-engineer.md) - 2-3 months, add AI on top of engineering.
+- [From Frontend Engineer](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/learning-paths/from-frontend-engineer.md) - Backend first, then AI, unique full-stack advantage.
+- [From Product Manager](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/learning-paths/from-pm.md) - Leverage product sense, add technical depth.
 
 ---
 
 ## Portfolio
 
-- [Project ideas](portfolio/) — real project examples that demonstrate AI engineering skills, mapped to frequently-requested patterns from job descriptions
+- [Project ideas](https://github.com/Johnnnmai/awesome-ai-engineer-interview/tree/main/portfolio/) - Real project examples that demonstrate AI engineering skills, mapped to frequently-requested patterns from job descriptions.
 
 ---
 
@@ -104,8 +94,8 @@ What to learn and in what order, based on where you're coming from.
 
 2,445 job descriptions scraped from builtin.com covering LA, NY, London, Amsterdam, Berlin, and India.
 
-- [Structured job descriptions](job-market/data_structured/) — YAML files grouped by scrape date
-- [Raw extracted postings](job-market/data_raw/) — original extracted data grouped by scrape date
+- [Structured job descriptions](https://github.com/Johnnnmai/awesome-ai-engineer-interview/tree/main/job-market/data_structured/) - YAML files grouped by scrape date.
+- [Raw extracted postings](https://github.com/Johnnnmai/awesome-ai-engineer-interview/tree/main/job-market/data_raw/) - Original extracted data grouped by scrape date.
 
 ---
 
@@ -113,20 +103,20 @@ What to learn and in what order, based on where you're coming from.
 
 ### 30-Day Intensive (Active Job Seekers)
 
-| Week | Focus | Daily Time | Key Activities |
-|------|-------|-----------|----------------|
-| 1 | Foundations | 3-4 hrs | ML fundamentals review, LLM architecture deep-dive, 2 LeetCode/day |
-| 2 | System Design | 3-4 hrs | 1 ML system design case/day, RAG/agent architecture patterns |
-| 3 | Behavioral + Company | 2-3 hrs | STAR stories for AI context, target company research, mock interviews |
-| 4 | Mock + Polish | 2-3 hrs | 2 mock interviews/day, weak area review, offer negotiation prep |
+| Week | Focus                | Daily Time | Key Activities                                                        |
+| ---- | -------------------- | ---------- | --------------------------------------------------------------------- |
+| 1    | Foundations          | 3-4 hrs    | ML fundamentals review, LLM architecture deep-dive, 2 LeetCode/day    |
+| 2    | System Design        | 3-4 hrs    | 1 ML system design case/day, RAG/agent architecture patterns          |
+| 3    | Behavioral + Company | 2-3 hrs    | STAR stories for AI context, target company research, mock interviews |
+| 4    | Mock + Polish        | 2-3 hrs    | 2 mock interviews/day, weak area review, offer negotiation prep       |
 
 ### 60-Day Balanced (Working Professionals)
 
-| Phase | Weeks | Focus | Daily Time |
-|-------|-------|-------|-----------|
-| Build | 1-3 | ML/DL fundamentals, LLM internals, coding patterns | 1.5-2 hrs |
-| Apply | 4-6 | System design cases, behavioral prep, resume optimization | 1.5-2 hrs |
-| Sharpen | 7-8 | Mock interviews, company-specific prep, negotiation practice | 2 hrs |
+| Phase   | Weeks | Focus                                                        | Daily Time |
+| ------- | ----- | ------------------------------------------------------------ | ---------- |
+| Build   | 1-3   | ML/DL fundamentals, LLM internals, coding patterns           | 1.5-2 hrs  |
+| Apply   | 4-6   | System design cases, behavioral prep, resume optimization    | 1.5-2 hrs  |
+| Sharpen | 7-8   | Mock interviews, company-specific prep, negotiation practice | 2 hrs      |
 
 ### 90-Day Career Switcher
 
@@ -142,36 +132,36 @@ What to learn and in what order, based on where you're coming from.
 
 ### AI/ML Engineer Compensation (2025-2026 US Market)
 
-| Company | Level | Role | Base | Stock (annual) | Bonus | Total TC |
-|---------|-------|------|------|---------------|-------|----------|
-| Google | L4 (mid) | MLE | $160-185K | $80-120K | 15% | $280-380K |
-| Google | L5 (senior) | MLE | $195-230K | $150-250K | 15% | $400-550K |
-| Google | L6 (staff) | MLE | $240-280K | $250-450K | 15% | $570-830K |
-| Meta | E4 (mid) | MLE | $165-190K | $80-130K | 10% | $280-390K |
-| Meta | E5 (senior) | MLE | $200-240K | $150-300K | 15% | $410-620K |
-| Meta | E6 (staff) | MLE | $250-300K | $300-500K | 20% | $630-900K |
-| Amazon | L5 (mid) | Applied Scientist | $150-175K | $60-100K | sign-on | $240-330K |
-| Amazon | L6 (senior) | Applied Scientist | $175-210K | $120-200K | sign-on | $340-480K |
-| OpenAI | L3 (mid) | Research Engineer | $200-250K | PPUs | — | $350-600K+ |
-| OpenAI | L4 (senior) | Research Engineer | $275-350K | PPUs | — | $500K-1M+ |
-| Anthropic | Mid | Research Engineer | $200-260K | equity | — | $350-550K |
-| Anthropic | Senior | Research Engineer | $275-350K | equity | — | $500-800K+ |
-| NVIDIA | Mid | ML Engineer | $160-200K | $80-140K | 10% | $280-400K |
-| NVIDIA | Senior | ML Engineer | $200-250K | $150-300K | 15% | $400-640K |
-| Databricks | Mid | ML Engineer | $170-200K | $100-160K | — | $300-400K |
-| Databricks | Senior | ML Engineer | $210-260K | $180-350K | — | $430-680K |
+| Company    | Level       | Role              | Base      | Stock (annual) | Bonus   | Total TC   |
+| ---------- | ----------- | ----------------- | --------- | -------------- | ------- | ---------- |
+| Google     | L4 (mid)    | MLE               | $160-185K | $80-120K       | 15%     | $280-380K  |
+| Google     | L5 (senior) | MLE               | $195-230K | $150-250K      | 15%     | $400-550K  |
+| Google     | L6 (staff)  | MLE               | $240-280K | $250-450K      | 15%     | $570-830K  |
+| Meta       | E4 (mid)    | MLE               | $165-190K | $80-130K       | 10%     | $280-390K  |
+| Meta       | E5 (senior) | MLE               | $200-240K | $150-300K      | 15%     | $410-620K  |
+| Meta       | E6 (staff)  | MLE               | $250-300K | $300-500K      | 20%     | $630-900K  |
+| Amazon     | L5 (mid)    | Applied Scientist | $150-175K | $60-100K       | sign-on | $240-330K  |
+| Amazon     | L6 (senior) | Applied Scientist | $175-210K | $120-200K      | sign-on | $340-480K  |
+| OpenAI     | L3 (mid)    | Research Engineer | $200-250K | PPUs           | —       | $350-600K+ |
+| OpenAI     | L4 (senior) | Research Engineer | $275-350K | PPUs           | —       | $500K-1M+  |
+| Anthropic  | Mid         | Research Engineer | $200-260K | equity         | —       | $350-550K  |
+| Anthropic  | Senior      | Research Engineer | $275-350K | equity         | —       | $500-800K+ |
+| NVIDIA     | Mid         | ML Engineer       | $160-200K | $80-140K       | 10%     | $280-400K  |
+| NVIDIA     | Senior      | ML Engineer       | $200-250K | $150-300K      | 15%     | $400-640K  |
+| Databricks | Mid         | ML Engineer       | $170-200K | $100-160K      | —       | $300-400K  |
+| Databricks | Senior      | ML Engineer       | $210-260K | $180-350K      | —       | $430-680K  |
 
 *Data sourced from [levels.fyi](https://levels.fyi), Blind, and public H1B records. Ranges represent 25th-75th percentile. Stock values fluctuate.*
 
 ### Role Differentiation
 
-| Role | Core Interview Focus | Typical Companies |
-|------|---------------------|-------------------|
-| **ML Engineer (MLE)** | ML system design, production ML, MLOps, coding | All Big Tech, startups |
-| **Applied Scientist** | Research depth, paper implementation, novel methods | Amazon, Microsoft, Meta |
-| **AI Engineer** | LLM integration, RAG, agents, prompt engineering, evaluation | OpenAI, Anthropic, startups |
-| **Research Scientist** | Novel research, paper publication, experimental design | DeepMind, FAIR, Anthropic |
-| **MLOps Engineer** | Infrastructure, pipelines, monitoring, serving systems | All companies with ML at scale |
+| Role                   | Core Interview Focus                                         | Typical Companies              |
+| ---------------------- | ------------------------------------------------------------ | ------------------------------ |
+| **ML Engineer (MLE)**  | ML system design, production ML, MLOps, coding               | All Big Tech, startups         |
+| **Applied Scientist**  | Research depth, paper implementation, novel methods          | Amazon, Microsoft, Meta        |
+| **AI Engineer**        | LLM integration, RAG, agents, prompt engineering, evaluation | OpenAI, Anthropic, startups    |
+| **Research Scientist** | Novel research, paper publication, experimental design       | DeepMind, FAIR, Anthropic      |
+| **MLOps Engineer**     | Infrastructure, pipelines, monitoring, serving systems       | All companies with ML at scale |
 
 ### Negotiation Resources
 
@@ -192,7 +182,7 @@ What to learn and in what order, based on where you're coming from.
 
 **Key Topics:** Constitutional AI, RLHF/DPO, red-teaming, interpretability, scaling laws, evaluation methodology. Be prepared to discuss alignment research papers.
 
-**Resources:** [Anthropic Research](https://www.anthropic.com/research), [Claude Documentation](https://docs.anthropic.com/), [Core Views on AI Safety](https://www.anthropic.com/news/core-views-on-ai-safety)
+**Resources:** [Anthropic Research](https://www.anthropic.com/research), [Claude Documentation](https://docs.anthropic.com/)
 
 ### OpenAI
 
@@ -254,7 +244,7 @@ What to learn and in what order, based on where you're coming from.
 
 **Resources:** [Amazon Science](https://www.amazon.science/), [AWS AI/ML Blog](https://aws.amazon.com/blogs/machine-learning/)
 
-> **See also:** [Company-by-company interview data](interview/data/) for detailed process descriptions from 51 companies.
+> **See also:** the company-by-company interview data under Interview Preparation above for detailed process descriptions from 51 companies.
 
 ---
 
@@ -266,12 +256,17 @@ What to learn and in what order, based on where you're coming from.
 
 **Timeline:** Applied -> Recruiter screen (1 week) -> Phone screen (2 weeks) -> Onsite (3 weeks) -> Offer (1 week). Total: ~7 weeks.
 
-**Rounds:**
-1. **Coding (45 min):** Medium LeetCode — graph traversal + optimization. Finished with 10 min to spare. Interviewer tested edge cases.
-2. **ML Depth (45 min):** Deep dive on transformer architecture. Asked to explain KV cache, rotary positional embeddings, and flash attention. Follow-up: "How would you modify the attention mechanism for very long contexts?"
-3. **System Design (60 min):** "Design a real-time toxicity detection system for a chat platform." Covered data pipeline, model selection, serving architecture, human-in-the-loop feedback, and cost analysis.
-4. **Research Discussion (45 min):** Discussed my past project on fine-tuning LLMs for domain-specific tasks. Deep questions on evaluation methodology and failure modes.
-5. **Behavioral (45 min):** Standard STAR questions but all AI-contextualized: "Tell me about a time your model caused an unexpected negative impact."
+#### Rounds
+
+**1. Coding (45 min):** Medium LeetCode — graph traversal + optimization. Finished with 10 min to spare. Interviewer tested edge cases.
+
+**2. ML Depth (45 min):** Deep dive on transformer architecture. Asked to explain KV cache, rotary positional embeddings, and flash attention. Follow-up: "How would you modify the attention mechanism for very long contexts?"
+
+**3. System Design (60 min):** "Design a real-time toxicity detection system for a chat platform." Covered data pipeline, model selection, serving architecture, human-in-the-loop feedback, and cost analysis.
+
+**4. Research Discussion (45 min):** Discussed my past project on fine-tuning LLMs for domain-specific tasks. Deep questions on evaluation methodology and failure modes.
+
+**5. Behavioral (45 min):** Standard STAR questions but all AI-contextualized: "Tell me about a time your model caused an unexpected negative impact."
 
 **What Worked:** Quantified everything with numbers. For system design, included a cost model ($/query) which the interviewer specifically called out as strong. Prepared 8 STAR stories specifically about ML projects.
 
@@ -281,12 +276,17 @@ What to learn and in what order, based on where you're coming from.
 
 **Timeline:** Referral -> Phone screen (3 days) -> Take-home (1 week deadline) -> Onsite (1 week) -> Offer (2 days). Total: ~3 weeks.
 
-**Rounds:**
-1. **Phone Screen (30 min):** Conversational. "What's your experience with RAG?" "Walk me through a production AI system you built." No coding.
-2. **Take-Home (4 hours):** Build a RAG pipeline over a provided dataset. Evaluate with precision@5 and answer quality. Submit code + 1-page writeup.
-3. **Onsite — Technical Review (60 min):** Walk through take-home code. Deep questions on chunking strategy, embedding choice, and why I used hybrid retrieval.
-4. **Onsite — System Design (45 min):** "Design our AI-powered search from scratch." Focused on practical constraints: budget, team size, time to ship.
-5. **Onsite — Founder Chat (30 min):** Culture fit, motivation, career goals. "Why a startup over Big Tech?"
+#### Rounds
+
+**1. Phone Screen (30 min):** Conversational. "What's your experience with RAG?" "Walk me through a production AI system you built." No coding.
+
+**2. Take-Home (4 hours):** Build a RAG pipeline over a provided dataset. Evaluate with precision@5 and answer quality. Submit code + 1-page writeup.
+
+**3. Onsite — Technical Review (60 min):** Walk through take-home code. Deep questions on chunking strategy, embedding choice, and why I used hybrid retrieval.
+
+**4. Onsite — System Design (45 min):** "Design our AI-powered search from scratch." Focused on practical constraints: budget, team size, time to ship.
+
+**5. Onsite — Founder Chat (30 min):** Culture fit, motivation, career goals. "Why a startup over Big Tech?"
 
 **What Worked:** The take-home was my best performing round. I over-invested in evaluation (built a mini eval harness) which impressed them.
 
@@ -299,7 +299,7 @@ What to learn and in what order, based on where you're coming from.
 ### Transformer Architecture & Training
 
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - The foundational transformer paper. Every AI engineer should understand multi-head attention, positional encoding, and encoder-decoder architecture.
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Jay Alammar's visual walkthrough — the most accessible explanation of transformer internals.
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Jay Alammar's visual walkthrough, the most accessible explanation of transformer internals.
 - [nanoGPT](https://github.com/karpathy/nanoGPT) - Andrej Karpathy's minimal GPT implementation. Build a transformer from scratch to understand it deeply.
 - [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course) - Free course covering tokenizers, transformers, fine-tuning, and the Hugging Face ecosystem.
 - [Stanford CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/) - Stanford's graduate course on LLM foundations, capabilities, and limitations.
@@ -323,7 +323,7 @@ What to learn and in what order, based on where you're coming from.
 ### Fine-Tuning & Alignment
 
 - [RLHF Paper (Ouyang et al.)](https://arxiv.org/abs/2203.02155) - InstructGPT paper establishing RLHF as the standard alignment technique.
-- [DPO Paper (Rafailov et al.)](https://arxiv.org/abs/2305.18290) - Direct Preference Optimization — simpler alternative to RLHF without a reward model.
+- [DPO Paper (Rafailov et al.)](https://arxiv.org/abs/2305.18290) - Direct Preference Optimization, simpler alternative to RLHF without a reward model.
 - [Hugging Face PEFT](https://huggingface.co/docs/peft) - Parameter-efficient fine-tuning: LoRA, QLoRA, prefix tuning, and adapters.
 - [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Streamlined fine-tuning for various architectures with support for multi-GPU and cloud training.
 - [Constitutional AI (Anthropic)](https://arxiv.org/abs/2212.08073) - Self-supervision approach to AI alignment using principles instead of human feedback.
@@ -336,18 +336,18 @@ What to learn and in what order, based on where you're coming from.
 
 ### Interview Questions — LLM Fundamentals
 
-| # | Question | Difficulty | Time |
-|---|----------|-----------|------|
-| 1 | Explain the self-attention mechanism. What is the computational complexity and how do techniques like Flash Attention optimize it? | Medium | 15 min |
-| 2 | Compare RLHF, DPO, and GRPO for LLM alignment. When would you choose each? | Hard | 20 min |
-| 3 | You need to serve a 70B parameter model with <200ms P95 latency. Walk through your optimization strategy (quantization, batching, KV cache, speculative decoding). | Hard | 30 min |
-| 4 | Design a RAG pipeline for a legal document search system. How do you handle chunking, embedding model selection, and hybrid retrieval? | Hard | 30 min |
-| 5 | What are the tradeoffs between fine-tuning and in-context learning? Give a scenario where each is the right choice. | Medium | 15 min |
-| 6 | Explain how LoRA works. Why does it reduce memory requirements? What are its limitations compared to full fine-tuning? | Medium | 15 min |
-| 7 | How would you detect and mitigate hallucinations in a production LLM application? | Medium | 20 min |
-| 8 | Compare embedding models (OpenAI ada-002, Cohere embed-v3, BGE, E5). How do you evaluate which one is right for your use case? | Medium | 15 min |
-| 9 | Explain the difference between AI agents and AI pipelines. When would you use a deterministic workflow vs an agentic loop? | Medium | 15 min |
-| 10 | You're building a customer support chatbot. The LLM sometimes reveals internal pricing or policy details it shouldn't. How do you implement guardrails? | Hard | 25 min |
+| #   | Question                                                                                                                                                           | Difficulty | Time   |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------ |
+| 1   | Explain the self-attention mechanism. What is the computational complexity and how do techniques like Flash Attention optimize it?                                 | Medium     | 15 min |
+| 2   | Compare RLHF, DPO, and GRPO for LLM alignment. When would you choose each?                                                                                         | Hard       | 20 min |
+| 3   | You need to serve a 70B parameter model with <200ms P95 latency. Walk through your optimization strategy (quantization, batching, KV cache, speculative decoding). | Hard       | 30 min |
+| 4   | Design a RAG pipeline for a legal document search system. How do you handle chunking, embedding model selection, and hybrid retrieval?                             | Hard       | 30 min |
+| 5   | What are the tradeoffs between fine-tuning and in-context learning? Give a scenario where each is the right choice.                                                | Medium     | 15 min |
+| 6   | Explain how LoRA works. Why does it reduce memory requirements? What are its limitations compared to full fine-tuning?                                             | Medium     | 15 min |
+| 7   | How would you detect and mitigate hallucinations in a production LLM application?                                                                                  | Medium     | 20 min |
+| 8   | Compare embedding models (OpenAI ada-002, Cohere embed-v3, BGE, E5). How do you evaluate which one is right for your use case?                                     | Medium     | 15 min |
+| 9   | Explain the difference between AI agents and AI pipelines. When would you use a deterministic workflow vs an agentic loop?                                         | Medium     | 15 min |
+| 10  | You're building a customer support chatbot. The LLM sometimes reveals internal pricing or policy details it shouldn't. How do you implement guardrails?            | Hard       | 25 min |
 
 ---
 
@@ -357,17 +357,21 @@ What to learn and in what order, based on where you're coming from.
 
 Every ML system design answer should cover these 5 areas:
 
-1. **Problem Framing** — What are we optimizing for? What are the business constraints?
-2. **Data Pipeline** — How do we collect, clean, label, and store training data at scale?
-3. **Model Architecture** — Which model family? Training strategy? Offline vs online learning?
-4. **Serving & Inference** — Latency requirements? Batch vs real-time? Caching strategy?
-5. **Evaluation & Monitoring** — Offline metrics, online A/B testing, drift detection, alerting.
+**Problem Framing** — What are we optimizing for? What are the business constraints?
+
+**Data Pipeline** — How do we collect, clean, label, and store training data at scale?
+
+**Model Architecture** — Which model family? Training strategy? Offline vs online learning?
+
+**Serving & Inference** — Latency requirements? Batch vs real-time? Caching strategy?
+
+**Evaluation & Monitoring** — Offline metrics, online A/B testing, drift detection, alerting.
 
 ### Resources
 
 - [Machine Learning Systems Design (Chip Huyen)](https://github.com/chiphuyen/machine-learning-systems-design) - 27 open-ended ML system design questions with a 4-step framework.
 - [ML System Design Interview Guide](https://github.com/alirezadir/Machine-Learning-Interviews) - Comprehensive coverage including GenAI and agentic system design (updated 2025).
-- [Designing Machine Learning Systems (O'Reilly)](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) by Chip Huyen - The definitive book on production ML systems.
+- [Designing Machine Learning Systems book notes](https://github.com/chiphuyen/dmls-book) - Chip Huyen's companion repo with chapter summaries and resources for production ML systems.
 - [System Design for ML Interviews](https://www.educative.io/courses/machine-learning-system-design) - Interactive course with worked examples.
 - [ML Design Patterns (Google)](https://github.com/GoogleCloudPlatform/ml-design-patterns) - 30 design patterns for data preparation, model building, and MLOps.
 
@@ -384,12 +388,17 @@ User Query -> Query Rewriter -> Hybrid Retrieval (dense + BM25) -> Reranker (cro
                                                               LLM (Claude/GPT-4) + Citations -> Response
 ```
 
-**Key decisions:**
-- **Chunking:** Recursive with 512-token windows, 50-token overlap. Legal docs need section-aware splitting (by clause/paragraph, not arbitrary).
-- **Retrieval:** Hybrid (dense embeddings + BM25) outperforms dense-only by 15-20% on legal text. Use Reciprocal Rank Fusion to merge results.
-- **Reranking:** Cross-encoder reranker on top-50 retrieved chunks reduces noise before LLM context window.
-- **Cost:** At 10M docs x 5 chunks/doc x $0.0001/embedding = $5K one-time. Serving: ~$0.05/query with caching.
-- **Evaluation:** Precision@K on golden test set, human eval on citation accuracy, latency P95 < 3s.
+#### Key decisions
+
+**Chunking:** Recursive with 512-token windows, 50-token overlap. Legal docs need section-aware splitting (by clause/paragraph, not arbitrary).
+
+**Retrieval:** Hybrid (dense embeddings + BM25) outperforms dense-only by 15-20% on legal text. Use Reciprocal Rank Fusion to merge results.
+
+**Reranking:** Cross-encoder reranker on top-50 retrieved chunks reduces noise before LLM context window.
+
+**Cost:** At 10M docs x 5 chunks/doc x $0.0001/embedding = $5K one-time. Serving: ~$0.05/query with caching.
+
+**Evaluation:** Precision@K on golden test set, human eval on citation accuracy, latency P95 < 3s.
 
 ### Worked Example: Design an AI Customer Support Agent
 
@@ -404,21 +413,25 @@ Ticket -> Intent Classifier -> Router
                                +-- Escalation (confidence < 0.85) -> Human Agent
 ```
 
-**Key decisions:**
-- **Tool use:** Agent needs access to order management, payment, and CRM APIs. Each tool has strict input validation and rate limiting.
-- **Guardrails:** Never reveal internal pricing logic. Never process refunds > $500 without human approval. PII masking on all logs.
-- **Evaluation:** Resolution rate, customer satisfaction score, escalation rate, time-to-resolution. A/B test against human-only baseline.
-- **Cost modeling:** GPT-4o at ~$0.03/ticket vs human agent at ~$5/ticket. Break-even at 167 tickets/day.
+#### Key decisions
+
+**Tool use:** Agent needs access to order management, payment, and CRM APIs. Each tool has strict input validation and rate limiting.
+
+**Guardrails:** Never reveal internal pricing logic. Never process refunds > $500 without human approval. PII masking on all logs.
+
+**Evaluation:** Resolution rate, customer satisfaction score, escalation rate, time-to-resolution. A/B test against human-only baseline.
+
+**Cost modeling:** GPT-4o at ~$0.03/ticket vs human agent at ~$5/ticket. Break-even at 167 tickets/day.
 
 ### Interview Questions — System Design
 
-| # | Question | Difficulty | Time |
-|---|----------|-----------|------|
-| 1 | Design a real-time content moderation system for a social platform processing 10K posts/minute. | Hard | 45 min |
-| 2 | Design a recommendation system that uses LLM reranking on top of traditional collaborative filtering. | Hard | 45 min |
-| 3 | Design a multi-modal search engine that handles text, images, and video. | Hard | 45 min |
-| 4 | Design a fraud detection system that adapts to new fraud patterns within hours, not weeks. | Hard | 45 min |
-| 5 | Design an LLM-powered code review tool for a team of 500 engineers. | Medium | 30 min |
+| #   | Question                                                                                              | Difficulty | Time   |
+| --- | ----------------------------------------------------------------------------------------------------- | ---------- | ------ |
+| 1   | Design a real-time content moderation system for a social platform processing 10K posts/minute.       | Hard       | 45 min |
+| 2   | Design a recommendation system that uses LLM reranking on top of traditional collaborative filtering. | Hard       | 45 min |
+| 3   | Design a multi-modal search engine that handles text, images, and video.                              | Hard       | 45 min |
+| 4   | Design a fraud detection system that adapts to new fraud patterns within hours, not weeks.            | Hard       | 45 min |
+| 5   | Design an LLM-powered code review tool for a team of 500 engineers.                                   | Medium     | 30 min |
 
 ---
 
@@ -435,13 +448,13 @@ Ticket -> Intent Classifier -> Router
 
 ### High-Frequency Questions
 
-| # | Question | Difficulty | Time |
-|---|----------|-----------|------|
-| 1 | Explain bias-variance tradeoff. How does it relate to model complexity and regularization? | Easy | 10 min |
-| 2 | When would you use L1 vs L2 regularization? What does each do geometrically? | Easy | 10 min |
-| 3 | Explain gradient boosting. How does XGBoost differ from random forests? | Medium | 15 min |
-| 4 | What is the curse of dimensionality? How do PCA and t-SNE address it differently? | Medium | 15 min |
-| 5 | Design an A/B test for a new ML-powered feature. How do you handle multiple comparisons and determine sample size? | Hard | 20 min |
+| #   | Question                                                                                                           | Difficulty | Time   |
+| --- | ------------------------------------------------------------------------------------------------------------------ | ---------- | ------ |
+| 1   | Explain bias-variance tradeoff. How does it relate to model complexity and regularization?                         | Easy       | 10 min |
+| 2   | When would you use L1 vs L2 regularization? What does each do geometrically?                                       | Easy       | 10 min |
+| 3   | Explain gradient boosting. How does XGBoost differ from random forests?                                            | Medium     | 15 min |
+| 4   | What is the curse of dimensionality? How do PCA and t-SNE address it differently?                                  | Medium     | 15 min |
+| 5   | Design an A/B test for a new ML-powered feature. How do you handle multiple comparisons and determine sample size? | Hard       | 20 min |
 
 ---
 
@@ -455,13 +468,13 @@ Ticket -> Intent Classifier -> Router
 
 ### ML-Specific Coding
 
-| # | Task | Difficulty | What It Tests |
-|---|------|-----------|--------------|
-| 1 | Implement multi-head attention from scratch in NumPy | Hard | Transformer internals |
-| 2 | Write a basic tokenizer (BPE) | Medium | NLP fundamentals |
-| 3 | Implement K-means clustering with NumPy | Easy | Unsupervised learning basics |
-| 4 | Build a simple neural network with only NumPy (forward + backward pass) | Medium | Backpropagation understanding |
-| 5 | Implement beam search for text generation | Medium | Decoding strategies |
+| #   | Task                                                                    | Difficulty | What It Tests                 |
+| --- | ----------------------------------------------------------------------- | ---------- | ----------------------------- |
+| 1   | Implement multi-head attention from scratch in NumPy                    | Hard       | Transformer internals         |
+| 2   | Write a basic tokenizer (BPE)                                           | Medium     | NLP fundamentals              |
+| 3   | Implement K-means clustering with NumPy                                 | Easy       | Unsupervised learning basics  |
+| 4   | Build a simple neural network with only NumPy (forward + backward pass) | Medium     | Backpropagation understanding |
+| 5   | Implement beam search for text generation                               | Medium     | Decoding strategies           |
 
 ---
 
@@ -471,23 +484,23 @@ Most repos treat behavioral as an afterthought. In reality, behavioral rounds ar
 
 ### AI-Context Behavioral Questions
 
-| # | Question | Framework | Difficulty |
-|---|----------|----------|-----------|
-| 1 | Tell me about a time your model failed in production. What happened, and what did you change? | STAR + Root Cause | Medium |
-| 2 | Describe a situation where you disagreed with a researcher about model architecture. How did you resolve it? | STAR + Conflict Resolution | Medium |
-| 3 | You shipped a feature powered by an LLM, but users complained about hallucinations. Walk me through your response. | STAR + Incident Response | Hard |
-| 4 | Tell me about a time you had to explain a complex ML concept to a non-technical stakeholder. | STAR + Communication | Easy |
-| 5 | Describe a project where you had to balance model accuracy against serving cost or latency. | STAR + Tradeoffs | Medium |
-| 6 | You're leading an ML project and realize midway that the approach won't work. What do you do? | STAR + Decision Making | Hard |
-| 7 | Tell me about a time you had to work with messy, incomplete, or biased data. How did you handle it? | STAR + Data Quality | Medium |
-| 8 | Describe a situation where you had to choose between building a custom model vs using an off-the-shelf API. | STAR + Build vs Buy | Medium |
-| 9 | You joined a new team and found their ML pipeline had significant technical debt. How did you approach improving it? | STAR + Influence Without Authority | Hard |
-| 10 | Tell me about a time you mentored a junior engineer on an ML project. What was the outcome? | STAR + Leadership | Medium |
-| 11 | Describe a project where you had to make a decision with incomplete information. How did you reduce uncertainty? | STAR + Ambiguity | Hard |
-| 12 | You're responsible for an AI feature that a customer found biased. How did you investigate and address it? | STAR + Ethics | Hard |
-| 13 | Tell me about a time you proactively identified a risk in an ML system before it caused issues. | STAR + Ownership | Medium |
-| 14 | Describe how you handled a situation where training data was unexpectedly leaked or compromised. | STAR + Security | Hard |
-| 15 | You proposed a novel approach that your team was skeptical about. How did you convince them? | STAR + Persuasion | Medium |
+| #   | Question                                                                                                             | Framework                          | Difficulty |
+| --- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ---------- |
+| 1   | Tell me about a time your model failed in production. What happened, and what did you change?                        | STAR + Root Cause                  | Medium     |
+| 2   | Describe a situation where you disagreed with a researcher about model architecture. How did you resolve it?         | STAR + Conflict Resolution         | Medium     |
+| 3   | You shipped a feature powered by an LLM, but users complained about hallucinations. Walk me through your response.   | STAR + Incident Response           | Hard       |
+| 4   | Tell me about a time you had to explain a complex ML concept to a non-technical stakeholder.                         | STAR + Communication               | Easy       |
+| 5   | Describe a project where you had to balance model accuracy against serving cost or latency.                          | STAR + Tradeoffs                   | Medium     |
+| 6   | You're leading an ML project and realize midway that the approach won't work. What do you do?                        | STAR + Decision Making             | Hard       |
+| 7   | Tell me about a time you had to work with messy, incomplete, or biased data. How did you handle it?                  | STAR + Data Quality                | Medium     |
+| 8   | Describe a situation where you had to choose between building a custom model vs using an off-the-shelf API.          | STAR + Build vs Buy                | Medium     |
+| 9   | You joined a new team and found their ML pipeline had significant technical debt. How did you approach improving it? | STAR + Influence Without Authority | Hard       |
+| 10  | Tell me about a time you mentored a junior engineer on an ML project. What was the outcome?                          | STAR + Leadership                  | Medium     |
+| 11  | Describe a project where you had to make a decision with incomplete information. How did you reduce uncertainty?     | STAR + Ambiguity                   | Hard       |
+| 12  | You're responsible for an AI feature that a customer found biased. How did you investigate and address it?           | STAR + Ethics                      | Hard       |
+| 13  | Tell me about a time you proactively identified a risk in an ML system before it caused issues.                      | STAR + Ownership                   | Medium     |
+| 14  | Describe how you handled a situation where training data was unexpectedly leaked or compromised.                     | STAR + Security                    | Hard       |
+| 15  | You proposed a novel approach that your team was skeptical about. How did you convince them?                         | STAR + Persuasion                  | Medium     |
 
 ### STAR Framework for AI Roles
 
@@ -508,18 +521,18 @@ Most repos treat behavioral as an afterthought. In reality, behavioral rounds ar
 - [HELM (Stanford)](https://crfm.stanford.edu/helm/) - Holistic evaluation of language models across 42 scenarios.
 - [LMSys Chatbot Arena](https://chat.lmsys.org/) - Crowdsourced LLM leaderboard via blind pairwise comparison.
 - [Inspect AI (UK AISI)](https://inspect.ai-safety-institute.org.uk/) - Open-source framework for LLM evaluation with built-in benchmarks.
-- [DeepEval](https://github.com/confident-ai/deepeval) - Unit testing framework for LLM applications — test hallucination, relevance, toxicity.
+- [DeepEval](https://github.com/confident-ai/deepeval) - Unit testing framework for LLM applications, test hallucination, relevance, toxicity.
 - [Ragas](https://docs.ragas.io/) - Evaluation framework specifically for RAG pipelines.
 
 ### Interview Questions — Evaluation
 
-| # | Question | Difficulty | Time |
-|---|----------|-----------|------|
-| 1 | How would you evaluate a customer-facing LLM chatbot? What metrics would you track offline vs online? | Medium | 20 min |
-| 2 | Design a red-teaming strategy for a new LLM product launch. | Hard | 25 min |
-| 3 | You've fine-tuned a model and it scores better on benchmarks but users report worse quality. What's happening? | Hard | 20 min |
-| 4 | Compare BLEU, ROUGE, BERTScore, and LLM-as-judge. When is each appropriate? | Medium | 15 min |
-| 5 | How would you design an A/B test for an LLM feature when responses are non-deterministic? | Hard | 20 min |
+| #   | Question                                                                                                       | Difficulty | Time   |
+| --- | -------------------------------------------------------------------------------------------------------------- | ---------- | ------ |
+| 1   | How would you evaluate a customer-facing LLM chatbot? What metrics would you track offline vs online?          | Medium     | 20 min |
+| 2   | Design a red-teaming strategy for a new LLM product launch.                                                    | Hard       | 25 min |
+| 3   | You've fine-tuned a model and it scores better on benchmarks but users report worse quality. What's happening? | Hard       | 20 min |
+| 4   | Compare BLEU, ROUGE, BERTScore, and LLM-as-judge. When is each appropriate?                                    | Medium     | 15 min |
+| 5   | How would you design an A/B test for an LLM feature when responses are non-deterministic?                      | Hard       | 20 min |
 
 ---
 
@@ -573,35 +586,30 @@ Most repos treat behavioral as an afterthought. In reality, behavioral rounds ar
 **Books**
 - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) by Chip Huyen - The best book on production ML systems.
 - [Deep Learning](https://www.deeplearningbook.org/) by Goodfellow, Bengio, Courville - The comprehensive reference for DL theory.
-- [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) by Aurelien Geron - Practical ML with Scikit-Learn, Keras, and TensorFlow.
+- [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) by Aurelien Geron - Practical ML with scikit-learn, Keras, and TensorFlow.
 - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka - Build GPT from the ground up.
 
 **Courses**
 - [Stanford CS229: Machine Learning](https://cs229.stanford.edu/) - Andrew Ng's foundational ML course. Free lecture videos.
-- [Stanford CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/) - Graduate course on LLM foundations.
 - [Fast.ai Practical Deep Learning](https://course.fast.ai/) - Top-down, practical approach to deep learning. Free.
 - [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) - Production LLM engineering from UC Berkeley.
 - [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) - Free short courses on RAG, fine-tuning, agents, and evaluation.
 
 ### The 0-to-1 Interview Playbook Series
 
-Role-specific prep books covering technical depth, system design, and behavioral for each function. [Browse all →](https://valenx.org/books/aie)
-
-- [AI Engineer](https://valenx.org/books/aie) · [ML Engineer](https://valenx.org/books/aie) · [Data Scientist](https://valenx.org/books/aie) · [Data Engineer](https://valenx.org/books/aie) · [SWE](https://valenx.org/books/aie) · [EM](https://valenx.org/books/aie) · [TPM](https://valenx.org/books/aie) · [SRE](https://valenx.org/books/aie) · [PM](https://valenx.org/books/aie) · [and 20+ more](https://valenx.org/books/aie)
+- [The 0-to-1 Interview Playbook Series](https://valenx.org/books/aie) - Role-specific prep books covering technical depth, system design, and behavioral for AI Engineer, ML Engineer, Data Scientist, Data Engineer, SWE, EM, TPM, SRE, PM and 20+ more roles.
 
 ---
 
 ## Awesome Resources
 
-Curated collection of resources compiled from researching content for this field guide:
+Curated collection of resources compiled from researching content for this field guide. The complete list lives in awesome.md.
 
-- [Practitioner interview stories](awesome.md#ai-interview-experiences) - first-person accounts from candidates and interviewers
-- [AI system design guides](awesome.md#architecture-lessons-and-patterns-2025-2026) - production architecture patterns and lessons learned
-- [Company engineering blogs](awesome.md) - technical blogs from AI-first companies
-- [Books and courses](awesome.md) - additional learning resources
-- [Case study collections](awesome.md) - real-world AI deployment case studies
-
-See **[awesome.md](awesome.md)** for the complete list.
+- [Practitioner interview stories](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/awesome.md#ai-interview-experiences) - First-person accounts from candidates and interviewers.
+- [AI system design guides](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/awesome.md#architecture-lessons-and-patterns-2025-2026) - Production architecture patterns and lessons learned.
+- [Company engineering blogs](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/awesome.md#case-studies-and-engineering-blogs-ai-systems-in-production) - Technical blogs from AI-first companies.
+- [Books and courses](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/awesome.md#books) - Additional learning resources.
+- [Case study collections](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/awesome.md#case-study-collections) - Real-world AI deployment case studies.
 
 ---
 
@@ -626,14 +634,6 @@ See **[awesome.md](awesome.md)** for the complete list.
 Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first. We especially welcome:
 
 - New resources and tools
-- [Interview debriefs](CONTRIBUTING.md#interview-debriefs) (anonymized first-person experiences)
+- [Interview debriefs](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/CONTRIBUTING.md#interview-debriefs) (anonymized first-person experiences)
 - Chinese translations for the [zh/](zh/) directory
 - Broken link fixes
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the contributors have waived all copyright and related rights to this work.
-
-This work is licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
