@@ -11,9 +11,9 @@
 Quick start:
 
 - **Self-check (free):** [Paste your answer and get a score in 30 seconds](https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=awesome&utm_campaign=awesome_20261101&utm_content=quick_start).
-- **Top 30 questions (free):** [13-page guide with model answers](https://sirjohnnymai.gumroad.com/l/aie-top-30-questions?utm_source=github&utm_medium=awesome&utm_campaign=awesome_20261101&utm_content=quick_start).
-- **AI Engineer Interview Playbook ($19.99):** [The full AI engineer prep guide](https://sirjohnnymai.gumroad.com/l/ai-engineer-interview-playbook?utm_source=github&utm_medium=awesome&utm_campaign=awesome_20261101&utm_content=quick_start).
-- **PM/TPM bundle (optional):** [For product and technical program manager loops](https://sirjohnnymai.gumroad.com/l/xzptir?utm_source=github&utm_medium=awesome&utm_campaign=awesome_20261101&utm_content=quick_start_pm).
+- **AI Engineer Interview Playbook: 40% off until Nov 3, 23:59 PT.** $19.99, $11.99 with code EARLYBF. [Get the full AI engineer prep guide](https://sirjohnnymai.gumroad.com/l/ai-engineer-interview-playbook?offer_code=EARLYBF&utm_source=github&utm_medium=awesome&utm_campaign=awesome_20261102&utm_content=quick_start_sale).
+- **Top 30 questions (free):** [13-page guide with model answers](https://sirjohnnymai.gumroad.com/l/aie-top-30-questions?utm_source=github&utm_medium=awesome&utm_campaign=awesome_20261102&utm_content=quick_start). Finished it? The playbook above covers the rest of the loop, and EARLYBF works until Nov 3.
+- **PM/TPM bundle (optional):** [For product and technical program manager loops](https://sirjohnnymai.gumroad.com/l/xzptir?offer_code=EARLYBF&utm_source=github&utm_medium=awesome&utm_campaign=awesome_20261102&utm_content=quick_start_pm).
 
 ## Contents
 
