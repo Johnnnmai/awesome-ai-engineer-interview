@@ -1,5 +1,7 @@
 # Awesome AI Engineer Interview [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+**Free:** [Check your interview answer](https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-engineer-interview)  |  **Weekly drills:** [Interview Pass, $19/mo](https://buy.stripe.com/14AeVc4Wv7ita7O1Si5kk0j?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-engineer-interview)
+
 > A data-driven field guide to AI engineering roles, interviews, and career growth. Built from **2,445 real job descriptions** and **51 company interview processes**.
 
 [English](README.md) · [中文](zh/README.md)
