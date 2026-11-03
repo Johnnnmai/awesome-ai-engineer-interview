@@ -1,6 +1,6 @@
 # Awesome AI Engineer Interview [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Free:** [Check your interview answer](https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-engineer-interview)  |  **Weekly drills:** [Interview Pass, $19/mo](https://valenx.org/pass?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-engineer-interview)
+**Free:** [Check your interview answer](https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-engineer-interview)  |  **Weekly drill packs:** [Valenx Pass](https://valenx.org/go/pass-y?utm_source=github&utm_campaign=awesome-ai-engineer-interview&utm_content=readme), $79/yr, a new drill pack every Monday, cancel anytime.
 
 > A data-driven field guide to AI engineering roles, interviews, and career growth. Built from **2,445 real job descriptions** and **51 company interview processes**.
 
