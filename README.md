@@ -597,7 +597,7 @@ Most repos treat behavioral as an afterthought. In reality, behavioral rounds ar
 
 ### The 0-to-1 Interview Playbook Series
 
-- [The 0-to-1 Interview Playbook Series](https://valenx.org/books/aie) - Role-specific prep books covering technical depth, system design, and behavioral for AI Engineer, ML Engineer, Data Scientist, Data Engineer, SWE, EM, TPM, SRE, PM and 20+ more roles.
+- [The 0-to-1 Interview Playbook Series](https://valenx.org/books/aie?utm_source=github&utm_medium=readme&utm_content=awesome-ai-engineer-interview_L600) - Role-specific prep books covering technical depth, system design, and behavioral for AI Engineer, ML Engineer, Data Scientist, Data Engineer, SWE, EM, TPM, SRE, PM and 20+ more roles.
 
 ---
 
