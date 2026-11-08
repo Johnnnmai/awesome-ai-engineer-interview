@@ -20,6 +20,7 @@ Quick start:
 
 - [The AI Engineer Role](#the-ai-engineer-role)
 - [Interview Preparation](#interview-preparation)
+- [Five RAG Questions to Practice Aloud](#five-rag-questions-to-practice-aloud)
 - [Learning Paths](#learning-paths)
 - [Portfolio](#portfolio)
 - [Job Market Data](#job-market-data)
@@ -67,6 +68,34 @@ Everything you need to prepare, from process overview to company-specific data.
 - [After the interview](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/interview/04-after-the-interview.md) - Handling offers, rejections, and salary negotiation.
 - [Interview trends](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/interview/05-trends.md) - Realistic assessments, AI cheating, AI-proctored rounds.
 - [Company-by-company data](https://github.com/Johnnnmai/awesome-ai-engineer-interview/tree/main/interview/data/) - Individual interview process descriptions for 51 companies, linked to source job postings.
+
+---
+
+## Five RAG Questions to Practice Aloud
+
+Use these prompts to practice explaining RAG decisions. For each one, state the choice, the tradeoff, and how you would evaluate it. The prompts on this page are free to use on their own.
+
+### Explain a RAG system end to end
+
+Start with indexing: how documents are parsed, chunked, embedded, and stored with metadata such as source, date, and permissions. Then walk the query path: rewriting, retrieval, filters, reranking, prompt construction, and the model call. Close by separating retrieval evaluation from generation evaluation.
+
+### How would you choose a chunking strategy
+
+Match chunk boundaries to the source: headings, paragraphs, code, and tables. Smaller chunks can raise precision while dropping surrounding context. Larger chunks keep that context and can dilute similarity. One pattern is to retrieve a smaller child chunk and pass its parent section into the prompt. Compare approaches on labeled questions and measure retrieval recall.
+
+### When would you use hybrid search
+
+Combine lexical and dense retrieval. BM25 preserves exact token matches. Dense retrieval captures semantic similarity. Reciprocal rank fusion is one way to merge the rankings. Hybrid search fits queries that contain identifiers, product codes, stack traces, or error messages. Choose it from that query mix.
+
+### What is reranking, and why use it
+
+Start with a broad, inexpensive candidate set. Score query-document pairs more carefully, then keep a shorter list. The quality gain has to justify the extra latency and cost. Explain where reranking sits in the pipeline and how you would measure it.
+
+### How would you evaluate a RAG system
+
+Separate retrieval from generation. For retrieval, discuss recall@k, MRR, and nDCG. For generation, discuss faithfulness, correctness, and citation quality. Use a labeled evaluation set. A model judge can help after you calibrate it against human judgment. Measure latency and cost alongside quality.
+
+- [AI Engineer Interview Questions](https://johnnnmai.github.io/ai-engineer-interview-questions/) - Free practice bank. Optional paid playbook: [AI Engineer Interview Playbook](https://sirjohnnymai.gumroad.com/l/ai-engineer-interview-playbook?utm_source=github&utm_medium=readme&utm_campaign=distribution_20261108&utm_content=rag_practice).
 
 ---
 
