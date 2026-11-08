@@ -95,7 +95,7 @@ Start with a broad, inexpensive candidate set. Score query-document pairs more c
 
 Separate retrieval from generation. For retrieval, discuss recall@k, MRR, and nDCG. For generation, discuss faithfulness, correctness, and citation quality. Use a labeled evaluation set. A model judge can help after you calibrate it against human judgment. Measure latency and cost alongside quality.
 
-- [AI Engineer Interview Questions](https://johnnnmai.github.io/ai-engineer-interview-questions/) - Free practice bank. Optional paid playbook: [AI Engineer Interview Playbook](https://sirjohnnymai.gumroad.com/l/ai-engineer-interview-playbook?utm_source=github&utm_medium=readme&utm_campaign=distribution_20261108&utm_content=rag_practice).
+- [AI Engineer Interview Questions](https://johnnnmai.github.io/ai-engineer-interview-questions/guides/rag-interview-questions/?utm_source=github&utm_medium=readme&utm_campaign=distribution_20261108&utm_content=rag_practice) - Free practice bank. Optional paid playbook: [AI Engineer Interview Playbook](https://sirjohnnymai.gumroad.com/l/ai-engineer-interview-playbook?utm_source=github&utm_medium=readme&utm_campaign=distribution_20261108&utm_content=rag_practice).
 
 ---
 
