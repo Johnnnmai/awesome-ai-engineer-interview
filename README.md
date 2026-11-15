@@ -12,9 +12,8 @@
 
 Quick start:
 
-- **AI Engineer Interview Playbook ($19.99):** [The full AI engineer prep guide](https://sirjohnnymai.gumroad.com/l/ai-engineer-interview-playbook?utm_source=github&utm_medium=readme&utm_campaign=line26_20261101&utm_content=awesome-ai-engineer-interview).
-- **Top 30 questions (free):** [13-page guide with model answers (PDF)](https://sirjohnnymai.gumroad.com/l/aie-top-30-questions?utm_source=github&utm_medium=readme&utm_campaign=line26_20261101&utm_content=awesome-ai-engineer-interview).
-- **PM/TPM bundle (optional):** [For product and technical program manager loops](https://sirjohnnymai.gumroad.com/l/xzptir?utm_source=github&utm_medium=readme&utm_campaign=line26_20261101&utm_content=awesome-ai-engineer-interview_pm).
+- **Free cheat sheet:** [12 must-know AI engineer interview questions with concise model answers](https://sirjohnnymai.gumroad.com/l/ai-engineer-interview-cheat-sheet-free?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-engineer-interview_cheatsheet)
+- **AI Engineer Interview Kit ($19.99):** [Playbook, 100 flashcards, and a scoring rubric](https://sirjohnnymai.gumroad.com/l/ai-engineer-interview-kit-2026?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-engineer-interview_kit)
 
 ## Contents
 
@@ -655,6 +654,13 @@ Curated collection of resources compiled from researching content for this field
 - [知乎 ML Topics](https://www.zhihu.com/topic/19559450) - Chinese Q&A platform for ML career and interview discussions.
 - [掘金 (Juejin)](https://juejin.cn/) - Chinese developer community with AI/ML content.
 - [Datawhale](https://github.com/datawhalechina) - China's largest AI learner community.
+
+---
+
+## Practice materials
+
+- **Free cheat sheet:** [12 must-know AI engineer interview questions with concise model answers](https://sirjohnnymai.gumroad.com/l/ai-engineer-interview-cheat-sheet-free?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-engineer-interview_cheatsheet)
+- **AI Engineer Interview Kit ($19.99):** [Playbook, 100 flashcards, and a scoring rubric](https://sirjohnnymai.gumroad.com/l/ai-engineer-interview-kit-2026?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-engineer-interview_kit)
 
 ---
 
