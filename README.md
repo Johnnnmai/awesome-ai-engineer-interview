@@ -68,6 +68,7 @@ Everything you need to prepare, from process overview to company-specific data.
   - [AI system design](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/interview/questions/04-ai-system-design.md) - System design for AI applications.
   - [Behavioral](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/interview/questions/05-behavioral.md) - Values, leadership, problem-solving.
 - [100 graded practice questions](https://github.com/Johnnnmai/ai-engineer-interview-questions) - Entry/Mid/Senior self-assessment bank across LLMs, RAG, system design, MLOps and coding.
+- [Valenx Interview Skills](https://github.com/Johnnnmai/valenx-interview-skills) - Free open-source agent Skills (Claude Code, Codex, Grok): mock interview with 1-5 scoring, RAG/AI system design drill, STAR story rewrite and a night-before plan. One-line `npx` install.
 - [Skills that get you hired](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/interview/03-get-hired.md) - Baseline expectations, differentiators, and portfolio strategy.
 - [After the interview](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/interview/04-after-the-interview.md) - Handling offers, rejections, and salary negotiation.
 - [Interview trends](https://github.com/Johnnnmai/awesome-ai-engineer-interview/blob/main/interview/05-trends.md) - Realistic assessments, AI cheating, AI-proctored rounds.
