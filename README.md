@@ -13,6 +13,8 @@
 Quick start:
 
 - **Black Friday (through Nov 30):** 30% off with code `BF30` - [3-Playbook Bundle ($20.30, list $29)](https://valenx.org/go/bf-bundle?utm_source=github&utm_medium=awesome&utm_campaign=bf30_202611) (PM/TPM + AI Engineer + Data Science). Also: [PM/TPM/PGM Interview Structure Templates ($16.80, list $24)](https://valenx.org/go/bf-pm?utm_source=github&utm_medium=awesome&utm_campaign=bf30_202611).
+
+**Free ($0):** [AI Engineer Interview Cheat Sheet, 12 questions (PDF)](https://valenx.org/go/free-aie?utm_source=github&utm_medium=readme&utm_campaign=leadmagnet_202611&utm_content=awesome-ai-engineer-interview) or the [Top 30 AI Engineer Interview Questions guide (13-page PDF)](https://valenx.org/go/free-aie30?utm_source=github&utm_medium=readme&utm_campaign=leadmagnet_202611&utm_content=awesome-ai-engineer-interview). Type $0 at checkout; the PDF arrives by email.
 - **Free cheat sheet:** [12 must-know AI engineer interview questions with concise model answers](https://sirjohnnymai.gumroad.com/l/ai-engineer-interview-cheat-sheet-free?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-engineer-interview_cheatsheet)
 - **AI Engineer Interview Kit ($19.99):** [Playbook, 100 flashcards, and a scoring rubric](https://sirjohnnymai.gumroad.com/l/ai-engineer-interview-kit-2026?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-engineer-interview_kit)
 
