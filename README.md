@@ -1,5 +1,7 @@
 # Awesome AI Engineer Interview [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+> 📥 **Free by email, no checkout:** [AI Engineer Interview Cheat Sheet (12 questions with model answers, 4-page PDF)](https://valenx.org/bonus?m=aie-cheatsheet&utm_source=github&utm_medium=readme&utm_campaign=vxbox1126&utm_content=awesome-ai-engineer-interview). Instant download, one confirm email, unsubscribe anytime.
+
 **Free:** [Check your interview answer](https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=awesome-ai-engineer-interview)  |  **Weekly drill packs:** [Valenx Pass](https://valenx.org/go/pass-y?utm_source=github&utm_campaign=awesome-ai-engineer-interview&utm_content=readme), $79/yr, a new drill pack every Monday, cancel anytime.
 
 > A data-driven field guide to AI engineering roles, interviews, and career growth. Built from **2,445 real job descriptions** and **51 company interview processes**.
